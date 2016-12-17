@@ -1,5 +1,5 @@
 217218 = {
-	name = "±ğ¸çÌ¨" # Begter fictional
+	name = "±ğ¿ËÌû¶ù" # Begter fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -24,7 +24,7 @@
 	}
 }
 217220 = {
-	name = "Ò²ÄÇ³à" # Inalchi fictional
+	name = "ÍÑÁÓÀÕ³à" # Inalchi fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -104,7 +104,7 @@
 	}
 }
 217286 = {
-	name = ËÙ¶ù¹ÅÌ¨ # Chulgetei fictional
+	name = ËÙ¶ù¼ª´ø # Chulgetei fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -117,7 +117,7 @@
 	}
 }
 217287 = {
-	name = ¶î¶ùÆë¹ÅÌ¨ # Eljigedei fictional
+	name = Ò°ÀïÖª¼ª´ø # Eljigedei fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -4486,7 +4486,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 93194= {
-	name="Sorgan Sira"
+	name="ËÕ¶û¸ù Î÷À­" #Sorgan Sira
 	dynasty=101912
 	religion="tengri_pagan"
 	culture="mongol"
@@ -4499,7 +4499,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 93195= {
-	name="Sorgan Sira"
+	name="ËÕ¶û¸ù Î÷À­" #Sorgan Sira
 	dynasty=101912
 	father=93194
 	religion="tengri_pagan"
@@ -4512,7 +4512,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217223 = {
-	name = "Gughlug" # fictional
+	name = "¹Å³öØ£Ìè" # Gughlug fictional
 	dynasty = 101938 # Narantsetseg
 	religion = tengri_pagan
 	culture = mongol
@@ -4524,7 +4524,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217224 = {
-	name = "Khorilartai" # fictional
+	name = "»íÀïØİ¶ùÌ¨" # Khorilartai fictional
 	dynasty = 101938 # Narantsetseg
 	religion = tengri_pagan
 	culture = mongol
@@ -4537,7 +4537,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217225 = {
-	name = "Kadan" # fictional
+	name = "ºÏµ¤" # Kadan fictional
 	dynasty = 101938 # Narantsetseg
 	religion = tengri_pagan
 	culture = mongol
@@ -4550,7 +4550,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217226 = {
-	name = "Barghujin" # fictional
+	name = "°Í¶ùºöÕæ" # Barghujin fictional
 	dynasty = 101938 # Narantsetseg
 	religion = tengri_pagan
 	culture = mongol
@@ -4563,7 +4563,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217227 = {
-	name = "Altun" #fictional, Altun Begi moved to 166875
+	name = "°¢ÀÕÍÍ" #Altun fictional, Altun Begi moved to 166875
 	dynasty = 1041001 # Naiman
 	religion = "nestorian"
 	culture = "mongol"
@@ -4578,7 +4578,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217265 = {
-	name = "Möngke" # Möngke Khan
+	name = "ÃÉ¸ç" # Mongke Khan
 	dynasty = 11100
 	religion = "tengri_pagan"
 	culture = "mongol"
@@ -4617,7 +4617,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217266 = {
-	name="Kublai" # Kublai Khan
+	name="ºö±ØÁÒ" # Kublai Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -4665,7 +4665,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217267 = {
-	name="Chabi"
+	name="²ì±Ï" #Chabi
 	female=yes
 	dynasty=1051124 # Onggirat
 	religion="tengri_pagan"
@@ -4693,7 +4693,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217268 = {
-	name="Jingim Zhenjin" # Zhenjin, Son of Kublai Khan
+	name="Õæ½ğ" # Jingim Zhenjin #Zhenjin, Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist" #supporter of Confucianism
 	culture="mongol"
@@ -4715,7 +4715,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217269 = {
-	name="ÌûÄ¾¶ù Oljeyt" # Temur Khan
+	name="ÌúÄÂ¶ú" # Temur Oljeyt or Temur Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -4737,7 +4737,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217270 = {
-	name="Darmabala" # Grandson of Kublai Khan
+	name="´ğØİÂé°ËØİ" #Darmabala #Grandson of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -4887,7 +4887,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217278 = {
-	name="Guchu" # fictional
+	name="Ø£Êõ" # Guchu fictional
 	dynasty=1051125 # Khunggirad
 	religion="buddhist"
 	culture="mongol"
@@ -4963,7 +4963,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217282 = {
-	name="Khutughtu" # Khutughtu Khan Kusala
+	name="ºÍÊÀØİ" # Khutughtu É³µñPÉç°ÑÚÖºÅµ±Ãû×Ö # Khutughtu Khan Kusala
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -4987,7 +4987,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217283 = {
-	name="Rinchinbal" # Rinchinbal Khan
+	name="Ü²­UÖÊ°à" # Rinchinbal #Rinchinbal Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -5006,7 +5006,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217284 = {
-	name="Toghon Temür" # Toghon Temür Khan
+	name="Í×‘×ÌùÄÀ¶û" # Toghon Temur Toghon Temür Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -5027,7 +5027,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 188914 = {
-	name="Kuchlug"
+	name="Çü³öÂÉ" #Kuchlug
 	dynasty=1041001 # Naiman
 	religion=nestorian
 	culture=mongol
@@ -5046,7 +5046,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217213 = {
-	name = "Bogen" # fictional
+	name = "±¦¹­" # Bogen #fictional
 	dynasty = 1041001 # Naiman
 	religion = "nestorian"
 	culture = "mongol"
@@ -5060,7 +5060,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217214 = {
-	name = "Tamachi" # fictional
+	name = "Ì½Âí³à" # Tamachi fictional
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -5073,7 +5073,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217215 = {
-	name = "Taibuqa"
+	name = "Ì©²»»ª" Taibuqa
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -5086,7 +5086,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217216 = {
-	name = "Holuikhan" # fictional
+	name = "»íÀ×º±" # Holuikhan fictional
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -5100,7 +5100,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217217 = {
-	name = "Shiraghul" # fictional
+	name = "Ê§ØİØ£" # Shiraghul fictional
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -5113,7 +5113,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217246 = {
-	name = Khorilartai # fictional
+	name = »íÀïØİ¶ùÌ¨ #Khorilartai fictional
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -5140,7 +5140,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217259 = {
-	name = Chormakhan # fictional
+	name = Ş÷¶ùÂíº± # Chormakhan fictional
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -5182,7 +5182,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217262 = {
-	name = Khojin # fictional
+	name = »íÕæ # Khojin fictional
 	religion = nestorian
 	culture = mongol
 	female = yes
@@ -5194,7 +5194,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217263 = {
-	name = Ibakha # fictional
+	name = Òà°ÍºÏ #Ibakha fictional
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -5223,7 +5223,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217304 = {
-	name = "Khashi" # Son of Ogedei
+	name = "ºÏÊ§" # Khashi Son of Ogedei
 	dynasty = 11100
 	religion = "tengri_pagan"
 	culture = "mongol"
@@ -5237,7 +5237,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217305 = {
-	name = Kaidu # Son of Kaidu
+	name = º£¶¼ # Kaidu Son of Kaidu
 	dynasty = 11100
 	religion = tengri_pagan
 	culture = mongol
@@ -5251,7 +5251,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217306 = {
-	name = Khutulun # Daughter of Kaidu
+	name = ºöÍºÂ× # Khutulun Daughter of Kaidu
 	dynasty = 11100
 	religion = tengri_pagan
 	culture = mongol
@@ -5323,7 +5323,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	881.12.12 = { death = yes }
 }
 217342 = {
-	name = ÙFÓÉ # fictional
+	name = ¹óÓÉ # fictional
 	dynasty = 101934 # Nergüi
 	religion = tengri_pagan 
 	culture = mongol 
@@ -5343,7 +5343,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	877.6.1 = { death = yes }
 }
 217344 = {
-	name = Targhutai # fictional
+	name = Ëş¶ùºöÌ¨ # Targhutai fictional
 	dynasty = 101934 # Nergüi
 	religion = tengri_pagan 
 	culture = mongol 
@@ -5352,7 +5352,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	893.5.17 = { death = yes }
 }
 217345 = { # mother # fictional
-	name = Ibakha
+	name = Òà°ÍºÏ #Ibakha
 	dynasty = 101929 # Batyabar
 	religion = tengri_pagan 
 	culture = mongol
@@ -5364,7 +5364,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217346 = { #1st ruler # fictional
-	name = Targhutai
+	name = Ëş¶ùºöÌ¨ #Targhutai
 	dynasty = 101929 # Batyabar
 	religion = tengri_pagan 
 	culture = mongol
@@ -5376,7 +5376,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217347 = { #sister / 2nd ruler # fictional
-	name = Sokhatai
+	name = É¯ºÏºÏ #Sokhatai
 	dynasty = 101929 # Batyabar
 	religion = tengri_pagan 
 	culture = mongol
@@ -5530,7 +5530,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217360 = { #3rd rulers spouse # fictional
-	name = Doregene
+	name = ØÃØİºÏÕæ #Doregene
 	female = yes
 	#dynasty = 
 	religion = tengri_pagan 
@@ -5542,7 +5542,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217361 = { #4th rulers spouse # fictional
-	name = Khojin
+	name = »íÕæ #Khojin
 	female = yes
 	#dynasty = 
 	religion = tengri_pagan 
@@ -5675,7 +5675,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166802 = {
-	name="Ohinbarhag"
+	name="ÎÓÇÚ°Í¶ùºÏºÚ" #Ohinbarhag
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5688,7 +5688,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166803 = {
-	name="ºôÍ¼¿ËÍ¼ Monhor"
+	name="ºö¶¼óÆ Monhor"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5727,7 +5727,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166806 = {
-	name="Hadaan"
+	name="¹şµ¤" #HadaanÍ¬°´³àÌ¨Ö®×Ó
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6149,7 +6149,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166836 = {
-	name="°Í¶û¹Å½ò »í°¢"
+	name="°Í¶ùºöÕæ »í°¢"
 	female=yes
 	dynasty=1040068 # Bargujin
 	religion="tengri_pagan"
@@ -6164,7 +6164,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166837 = {
-	name="Bargudai Mergen"
+	name="°Í¶ûºöÌ¨ óú¶ù¸É" #Bargudai Mergen
 	dynasty=1040068 # Bargujin
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6176,7 +6176,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166838 = {
-	name="Borjigidai Mergen"
+	name="ØÃ¶ùÖ»½ï óú¶ù¸É" #Borjigidai Mergen
 	dynasty=1040071 # Quralas
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6193,7 +6193,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166839 = {
-	name="Mongoljin Gua"
+	name="ÃÉ¹ÅÕæ »í°¢" #Mongoljin Gua
 	female=yes
 	dynasty=1040070
 	religion="tengri_pagan"
@@ -6207,7 +6207,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166840 = {
-	name="Shinchi Bayan"
+	name="Shinchi ²®ÑÕ" #Shinchi Bayan 
 	dynasty=7315 # Uriankhai
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6219,7 +6219,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166841 = {
-	name="Harchu"
+	name="ºÏ¶ù³ö" # Harchu
 	dynasty=1040071 # Quralas
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6232,7 +6232,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166842 = {
-	name="Sem Sochi"
+	name="’¦ Ëø³à" #Sem Sochi
 	dynasty=1040071 # Quralas
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6245,7 +6245,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166843 = {
-	name="Yehe Nidün"
+	name="Ò²¿Í Äã¶Ø" Yehe Nidun
 	dynasty=1040071 # Quralas
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6258,7 +6258,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166844 = {
-	name="Sali Hachau"
+	name="ÈöÀï ºÏ²ìØ£" # Sali Hachau
 	dynasty=1040071 # Quralas
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6271,7 +6271,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166845 = {
-	name="Uujim Buural"
+	name="°¢Ø£Õ¾ ØÃÂŞÎÂÀÕ" #Uujim Buural
 	dynasty=1040071 # Quralas
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6284,7 +6284,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166846 = {
-	name="Horichar Mergen"
+	name="»íÀï²ì¶ù Ãï¶ø¸É" #Horichar Mergen
 	dynasty=1040071 # Quralas
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6297,7 +6297,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166847 = {
-	name="Tamacha"
+	name="ËşÂí²ì" # Tamacha
 	dynasty=1040071 # Quralas
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6310,7 +6310,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166848 = {
-	name="Bat Tsagaan"
+	name="°ÍËş ³àº¹" #Bat Tsagaan
 	dynasty=1040071 # Quralas
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6602,7 +6602,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166868 = {
-	name="Jalibukha" # Khan of the Tatars
+	name="Ò²¿Í ³¶Á¬" # Jalibukha Ö±Òë ÔıÀï ²»»¨ µ«´Ë´¦ÒÔÃØÊ·Îª×¼ Khan of the Tatars
 	dynasty=1040073
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6773,7 +6773,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166880 = {
-	name="Khojin" #fictional name
+	name="»ªóİ" #Khojin fictional name
 	female=yes
 	dynasty=1040074
 	religion="tengri_pagan"
@@ -6790,7 +6790,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166881 = {
-	name="Kheree" #fictional name
+	name="ÎÚÑ»" #Kheree fictional name
 	dynasty=1041002
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6808,7 +6808,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166882 = {
-	name="Baidu" #fictional name
+	name="°İ¶¼" #Baidu fictional name
 	dynasty=1041002
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6825,7 +6825,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166883 = {
-	name="Gerel" #fictional name
+	name="¸ñÈÕÀÕ" #Gerel fictional name
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6906,7 +6906,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166889 = {
-	name="Gur"
+	name="¹Å¶ù" # Gur ¹Å¶ùº¹
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6943,7 +6943,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166891 = {
-	name="Yula Mangus"
+	name="ÒàÀÕºÏ" # Yula Mangus
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6957,7 +6957,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166892 = {
-	name="Tai Temur"
+	name="Ì¨ ÌùÄ¾¶ù" # Tai Temur
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6971,7 +6971,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166893 = {
-	name="Bukha Temur"
+	name="Ä¾»¨ÌùÄ¾¶ù" # Bukha Temur
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6985,7 +6985,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166894 = {
-	name="Jakha Khambu"
+	name="ÔıºÏ ¸Ò²»" # Jakha Khambu
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -7002,7 +7002,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166895 = {
-	name="Nilkha Sengum"
+	name="É£À¥" #Nilkha Sengum
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -7016,7 +7016,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 #Descendants of Jochi
 166896 = {
-	name="Ukhaa Ujin" #wife of Jochi
+	name="Ø£Æò ĞñÕæ" #Ukhaa Ujin wife of Jochi
 	female=yes
 	dynasty=101946
 	religion="tengri_pagan"
@@ -7309,7 +7309,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 #descendants of Ogedei
 166905 = {
-	name="Yehe Chiledu" #Yehe Chiledu of the Merkits
+	name="Ò²¿Í ³àÁĞ¶¼" #Yehe Chiledu of the MerkitsÃï¶ùÆòÌè²¿
 	dynasty=1051139 #Merkit
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7330,7 +7330,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166906 = {
-	name="Chilger Bökh" #Chilger Bökh of the Merkits
+	name="³àÀÕ¸ñ¶ù ØÃÀ«" #Chilger Bokh of the Merkits
 	dynasty=1051139 #Merkit
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7339,7 +7339,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 		birth=yes
 	}
 	1180.1.1={
-		effect = {add_rival = 125501} #Chilger Bökh abducts Börte
+		effect = {add_rival = 125501} #Chilger Bokh abducts Börte
 		add_spouse=172004
 	}
 	1181.1.1={
@@ -7347,7 +7347,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166907 = {
-	name="Qudu" #Chief of the Merkits
+	name="ºö¶¼" #Qudu Chief of the Merkits
 	dynasty=1051139 #Merkit
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7366,7 +7366,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166908 = {
-	name="Oghul Qaimish" #wife of Güyük Khan
+	name="ÎÓØ£Á¢ º£ÃÔÊ§" #Oghul Qaimish wife of ¹óÓÉ Khan ÓÖÊÇPÉçÇ¿ĞĞ°²µù
 	female=yes
 	dynasty=1051139 #Merkit
 	religion="tengri_pagan"
@@ -7380,7 +7380,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166909 = {
-	name="Borakchin" #first wife of Ögedei
+	name="ØÃØİºÏÕæ" # Borakchin" first wife of Orgedei
 	female=yes
 	dynasty=1040066 # Jadaran
 	religion="tengri_pagan"
@@ -7478,7 +7478,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166915 = {
-	name = "Chapar" # Son of Kaidu
+	name = "²ì°Ë¶ù" # Chapar Son of Kaidu
 	dynasty = 11100
 	religion = "tengri_pagan"
 	culture = "mongol"
@@ -7491,7 +7491,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166916 = {
-	name = "Orus" # Son of Kaidu
+	name = "ÎÓÂ³Ë¼" # Orus Son of Kaidu
 	dynasty = 11100
 	religion = "tengri_pagan"
 	culture = "mongol"
@@ -7504,7 +7504,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166917 = {
-	name="Ajai"
+	name="°¢Õ¬" #Ajai
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7520,7 +7520,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166918 = {
-	name="Ali Khalil"
+	name="°¢Àï ¹şÀûÀÕ" # Ali Khalil
 	dynasty=11100
 	religion="sunni"
 	culture="mongol"
@@ -7533,7 +7533,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166919 = {
-	name="Danishmendji"
+	name="´ğÊ§Âù²ì" #Danishmendji
 	dynasty=11100
 	religion="sunni"
 	culture="mongol"
@@ -7546,7 +7546,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166920 = {
-	name="Suurgatmish"
+	name="ÎôØ£¶ùº£ÃÔÊ§" #Suurgatmish
 	dynasty=11100
 	religion="sunni"
 	culture="mongol"
@@ -7560,7 +7560,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 #descendants of Tolui
 166921 = {
-	name = "Jurikha" # son of Tolui
+	name = "ĞñÁÒ¹ş" # Jurikha son of Tolui ²é²»³ö ¿ÉÄÜÊÇPÉçÄ§¸ÄµÄÀÏÈı
 	dynasty = 11100
 	religion = "tengri_pagan"
 	culture = "mongol"
@@ -7574,7 +7574,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166922 = {
-	name = "Qutughtu" # son of Tolui
+	name = "ºö¶Ã¶¼" # Qutughtu son of Tolui
 	dynasty = 11100
 	religion = "tengri_pagan"
 	culture = "mongol"
@@ -7588,7 +7588,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166923 = {
-	name = "Bujek" # son of Tolui
+	name = "²»Õß¿Ë" # Bujek son of Tolui
 	dynasty = 11100
 	religion = "tengri_pagan"
 	culture = "mongol"
@@ -7602,7 +7602,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166924 = {
-	name = "Mukha" # son of Tolui
+	name = "Ä©¸ç" # Mukha son of Tolui
 	dynasty = 11100
 	religion = "tengri_pagan"
 	culture = "mongol"
@@ -7616,7 +7616,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166925 = {
-	name = "Satukhtai" # son of Tolui
+	name = "Ëê¸ç¶¼" # Satukhtai son of Tolui
 	dynasty = 11100
 	religion = "tengri_pagan"
 	culture = "mongol"
@@ -7631,7 +7631,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166926 = {
-	name = "Sabukhtai" # son of Tolui
+	name = "Ñ©±ğÌ¨" # Sabukhtai son of Tolui
 	dynasty = 11100
 	religion = "tengri_pagan"
 	culture = "mongol"
@@ -7646,7 +7646,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166927 = {
-	name="Oghul Khoimish" #concubine of Tolui and second wife of Möngke Khan
+	name="ÎÓØ£Á¢ Íºß¯ÃÔ" #Oghul Khoimish concubine of Tolui and second wife of Mongke Khan
 	female=yes
 	dynasty=1040075
 	religion="tengri_pagan"
@@ -7662,7 +7662,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166928 = {
-	name = "Shirin" # daughter of Möngke
+	name = "Ê§ÁÚ" # Shirin daughter of Mongke
 	female=yes
 	dynasty = 11100
 	religion = "tengri_pagan"
@@ -7677,7 +7677,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166929 = {
-	name = "Bichike" # daughter of Möngke
+	name = "±Ø³àºÏ" # Bichike daughter of Möngke
 	female=yes
 	dynasty = 11100
 	religion = "tengri_pagan"
@@ -7692,7 +7692,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166930 = {
-	name="Qutuqui" #first wife of Möngke Khan
+	name="ºö¶¼Ì¨" # Qutuqui first wife of Mongke Khan
 	female=yes
 	dynasty=1040076
 	religion="tengri_pagan"
@@ -7705,7 +7705,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166931 ={
-	name="Baltu" # son of Möngke
+	name="°àÍº" # Baltu son of Mongke
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7719,7 +7719,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166932 ={
-	name="Urendash" # son of Möngke
+	name="ÓñÁú´ğÊ§" # Urendash son of Mongke
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7733,7 +7733,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166933 ={
-	name="Baylun" # daughter of Möngke
+	name="²®ÑÅÂ×" # Baylun daughter of Mongke
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -7748,7 +7748,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166934 = {
-	name="Chubei" #third wife of Möngke Khan
+	name="³ö±°" # Chubei third wife of Mongke Khan
 	female=yes
 	dynasty=1051140
 	religion="tengri_pagan"
@@ -7761,7 +7761,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166935 = {
-	name="Bayavchin" #concubine of Möngke Khan
+	name="°ÍÑÀØ£Õæ" # Bayavchin concubine of Mongke Khan
 	female=yes
 	dynasty=1051138 #Bayid
 	religion="tengri_pagan"
@@ -7774,7 +7774,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166936 ={
-	name="Shiregi" # son of Möngke
+	name="ÎôÀï¼ª" # Shiregi son of Mongke
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7789,7 +7789,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166937 ={
-	name="Asutai" # son of Möngke
+	name="°¢ËÙÌ¨" # Asutai son of Mongke
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7804,7 +7804,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166938 = {
-	name="Quitani" #concubine of Möngke Khan
+	name="¿üÌûÄá" # Quitani concubine of Mongke Khan
 	female=yes
 	dynasty=1051138 #Bayid
 	religion="tengri_pagan"
@@ -7818,7 +7818,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166939 = {
-	name="Sartaq"
+	name="ÈöÀï´ğ" # Sartaq
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -7831,7 +7831,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166940 = {
-	name="Doquz" #Doquz Khatun, wife of Hulagu
+	name="ÍÑ¹ÅË¼" #Doquz Khatun, wife of Hulagu
 	female=yes
 	dynasty=1041002
 	religion="nestorian"
@@ -7852,7 +7852,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166941 = {
-	name="Tandon" #third son of Hulagu
+	name="ÌûºÕÉê" #Tandon third son of Hulagu ¸úÀÏÈı¶Ô²»ÉÏ£¬ÓÃÁËÀÏËÄ
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7866,10 +7866,10 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166945 = {
-	name="Alagh" #chief wife of Nogai
+	name="°¢´Ìºö" #Alagh chief wife of Nogai ×Ú½Ì¸Ä³É¾°½ÌÁË
 	female=yes
 	dynasty=7316
-	religion="tengri_pagan"
+	religion="nestorian"
 	culture="mongol"
 	1243.1.1={
 		birth=yes
@@ -7879,7 +7879,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166947 = {
-	name="Haimash" #concubine of Abaqa Khan
+	name="º£ÃÔÊ§" #Haimash concubine of Abaqa Khan
 	female=yes
 	dynasty=1041001
 	religion="nestorian"
@@ -7892,8 +7892,8 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166948 = {
-	name="Kököchin"
-	# AKA: Kököchin, wife of Ghazan
+	name="À«À«Õæ" # Kokochin
+	# AKA: Kokohin, wife of Ghazan
 	female = yes
 	dynasty=1051138
 	religion="tengri_pagan"
@@ -7912,7 +7912,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166949 = {
-	name="Qutlugh"
+	name="ºö¶¼Â³" Qutlugh
 	# AKA: Qutlugh, wife of Arghun
 	female = yes
 	dynasty=1040078
@@ -7926,7 +7926,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166950 = {
-	name="Uruk" #concubine of Arghun
+	name="Ø£Â³¿Ë" #Uruk concubine of Arghun
 	female = yes
 	dynasty=1041002
 	religion="nestorian"
@@ -7939,7 +7939,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166952 = {
-	name="Anchen" #father of Chabi
+	name="°´³Â" #Anchen father of Chabi
 	dynasty=1051124 # Onggirat
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7950,9 +7950,9 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 		death=yes
 	}
 }
-#descendants of Temüge
+#descendants of Temuge
 166953 = {
-	name="Jibügan"
+	name="Ö»²»¸É" #Jibugan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7965,7 +7965,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166954 = {
-	name="Tacar"
+	name="Ëş²ì¶ù" #Tacar
 	dynasty=11100
 	religion="nestorian"
 	culture="mongol"
@@ -7978,7 +7978,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166955 = {
-	name="Ajul"
+	name="°¢Êõ" # Ajul
 	dynasty=11100
 	religion="nestorian"
 	culture="mongol"
@@ -7991,7 +7991,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166956 = {
-	name="Nayan"
+	name="ÄËÑÕ" # Nayan
 	dynasty=11100
 	religion="nestorian"
 	culture="mongol"
@@ -8005,7 +8005,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 #descendants of Kublai
 166957 = {
-	name="Tegulen" #Kublai's first wife
+	name="Ìû¹ÅÂ×" #Tegulen Kublai's first wife
 	female=yes
 	dynasty=101946
 	religion="tengri_pagan"
@@ -8020,7 +8020,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166958 = {
-	name="Dorji" # First Son of Kublai Khan
+	name="¶ä¶ùÖ»" # Dorji First Son of Kublai Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -8035,7 +8035,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166959 = {
-	name="Manggala" # Son of Kublai Khan
+	name="Ã¦¸çØİ" # Manggala Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -8049,7 +8049,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166960 = {
-	name="Nomukhan" # Son of Kublai Khan
+	name="ÄÇÄ¾º±" # Nomukhan Son of Kublai Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -8063,7 +8063,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166961 = {
-	name="Khungjil" # Son of Kublai Khan
+	name="ºö¸ç³à" # Khungjil Son of Kublai Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -8077,7 +8077,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166962 = {
-	name="Aychi" # Son of Kublai Khan
+	name="°®ÑÀ³à" # Aychi Son of Kublai Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -8094,7 +8094,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166963 = {
-	name="Saqulghachi" # Son of Kublai Khan
+	name="°Â¶¼³à" # Saqulghachi Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -8108,7 +8108,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166964 = {
-	name="Qughchu" # Son of Kublai Khan
+	name="À«À«³ö" # Qughchu Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -8122,7 +8122,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166965 = {
-	name="Toghan" # Son of Kublai Khan
+	name="ÍÑ»¶" # Toghan Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -8136,7 +8136,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166966 = {
-	name="Khutugh Beki" # Daughter of Kublai Khan, mother of Chungseon of Korea
+	name="ºö¶¼Â³¼á ÃÔÊ§" # Daughter of Kublai Khan, mother of Chungseon of Korea
 	female=yes
 	dynasty=11100
 	religion="buddhist"
@@ -8152,7 +8152,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166967 = {
-	name="Agsaldai"
+	name="ÄÉ³ÂËïÏÉÍ¯" # Agsaldai
 	dynasty=1051124 # Onggirat
 	religion="tengri_pagan"
 	culture="mongol"
@@ -8165,7 +8165,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 188999 = {
-	name="Molon" #father of Nambui
+	name="Ä¿Á¬" #Molon father of Nambui
 	dynasty=1051124 # Onggirat
 	religion="tengri_pagan"
 	culture="mongol"
@@ -8178,7 +8178,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166968 = {
-	name="Nambui" #third wife of Kublai
+	name="ÄÏ±Ø" #Nambui third wife of Kublai
 	female=yes
 	dynasty=1051124 # Onggirat
 	religion="tengri_pagan"
@@ -8192,7 +8192,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166969 = {
-	name="Khulan Temür" # Son of Kublai Khan
+	name="ºöÀ¼ ÌûÄ¾¶ù" # Khulan Temur Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -8206,7 +8206,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166970 = {
-	name="Tsever" # Son of Kublai Khan
+	name="¾»" # Tsever Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -8220,7 +8220,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166971 = {
-	name="Kökejin" # wife of Jingim Zhenjin
+	name="À«À«Õæ" # Kokejin wife of Jingim Zhenjin
 	female=yes
 	dynasty=1040080
 	religion="buddhist"
@@ -8233,7 +8233,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166972 = {
-	name="Bulugan" # wife of Temür Khan
+	name="ºë¼ªØİ Ê§Á¯´ğÀï" # Bulugan wife of Temur Khan
 	female=yes
 	dynasty=1051138
 	religion="buddhist"
@@ -8246,7 +8246,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166973 = {
-	name="Teshou" # son of Temür Khan
+	name="µÂÊÙ" # Teshou son of Temur Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -8260,7 +8260,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166974 = {
-	name="Dagi" # wife of Darmabala
+	name="´ğ¼º" # Dagi wife of Darmabala
 	female=yes
 	dynasty=1051125
 	religion="buddhist"
@@ -8273,7 +8273,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166975 = {
-	name="Ananda" # grandson of Kublai Khan
+	name="°¢ÄÑ´ğ" # Ananda grandson of Kublai Khan
 	dynasty=11100
 	religion="sunni"
 	culture="mongol"
@@ -8286,7 +8286,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166976 = {
-	name="Botapsillin" # wife of Chungseon of Goryeo
+	name="±¦ËşÊµÁ¯" # Botapsillin wife of Chungseon of Goryeo
 	female=yes
 	dynasty=11100
 	religion="buddhist"
@@ -8301,7 +8301,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166977 = {
-	name="Altan Bukha" # grandson of Kublai Khan
+	name="°¢ÀÕÌ¹ ²»»¨" # Altan Bukha grandson of Kublai Khan
 	dynasty=11100
 	religion="sunni"
 	culture="mongol"
@@ -8314,7 +8314,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166978 = {
-	name="Orlug Temür" # grandson of Kublai Khan
+	name="ÔÂÂÀÂ³ ÌûÄ¾¶ù" # Orlug Temur grandson of Kublai Khan
 	dynasty=11100
 	religion="sunni"
 	culture="mongol"
@@ -8327,7 +8327,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166979 = {
-	name="Batachikhan" # son of Ariq Boke
+	name="°ÍËş³àº±" # Batachikhan son of Ariq Boke
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -8340,7 +8340,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166980 = {
-	name="Bolad" # grandson of Ariq Boke
+	name="²·Øİ" # Bolad grandson of Ariq Boke
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -8353,7 +8353,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166981 = {
-	name="Babukhan" # wife of Yesün Temür
+	name="°Ë²»º±" # Babukhan wife of Yesun Temur
 	female=yes
 	dynasty=1051125
 	religion="buddhist"
@@ -8366,7 +8366,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166982 = {
-	name="Budashiri" # wife of Tugh Temur Khan
+	name="²·´ğÊ§Àï" # Budashiri wife of Tugh Temur Khan
 	female=yes
 	dynasty=1051125
 	religion="buddhist"
@@ -8379,7 +8379,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166983 = {
-	name="El Tegüs" # son of Tugh Temur Khan
+	name="ÑàÌû¹ÅË¼" # El Tegus son of Tugh Temur Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -8393,7 +8393,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166984 = {
-	name="Babusha" # wife of Khutughtu Khan
+	name="°Ë²»É³" # Babusha wife of Khutughtu Khan
 	female=yes
 	dynasty=1041001 #Naiman
 	religion="nestorian"
@@ -8406,7 +8406,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166985 = {
-	name="Aratnadara" # son of Tugh Temur Khan
+	name="°¢Øİß¯ÄÉ´ğØİ" # Aratnadara son of Tugh Temur Khan
 	dynasty=11100
 	religion="buddhist"
 	culture="mongol"
@@ -8420,7 +8420,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 188994 = {
-	name="Budashiri" # Queen Noguk of Goryeo
+	name="±¦ËşÊ§Àï" # Budashiri Queen Noguk of Goryeo
 	female=yes
 	dynasty=11100
 	religion="buddhist"
@@ -8431,7 +8431,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 		birth=yes
 	}
 	1351.3.23 = {
-		name="Noguk"
+		name="Â³¹ú´ó³¤¹«Ö÷" #Noguk
 	}# Queen of Goryeo
 	1365.1.1 = {
 		death=yes
