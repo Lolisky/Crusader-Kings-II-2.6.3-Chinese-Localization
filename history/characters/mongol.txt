@@ -11,7 +11,7 @@
 	}
 }
 217219 = {
-	name = "Jebe" # fictional
+	name = "ÕÜ±ð" # fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -64,7 +64,7 @@
 	}
 }
 217248 = {
-	name = Husun # fictional
+	name = ÐíÉ÷ # fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -77,7 +77,7 @@
 	}
 }
 217249 = {
-	name = Al-Alta # fictional
+	name = °¢ÀÕ-°¢ÀÕËþ # fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -91,7 +91,7 @@
 	}
 }
 217285 = {
-	name = Belgunutei # fictional
+	name = ±ðÀÕ¹ÅÚ«Ì¨ # fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -130,7 +130,7 @@
 	}
 }
 217288 = {
-	name = Akhutai # fictional
+	name = °¢¹Ç´ò # fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -143,7 +143,7 @@
 	}
 }
 217289 = {
-	name = Bagaridai # fictional
+	name = ±¦¸ñÀöÌ¨ # fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -197,7 +197,7 @@
 	}
 }
 217292 = {
-	name = Khorijin # fictional
+	name = »ôÀï½ð # fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -211,7 +211,7 @@
 	}
 }
 125500 = {
-	name="Konchaka"
+	name="¿×²ìºÚ"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -229,7 +229,7 @@
 }
 
 125501 = {
-   name="Temüjin"
+   name="ÌúÄ¾Õæ"
    # AKA: Genghis Khan
    dynasty=11100
    dna="bfimkolbecc"
@@ -277,7 +277,7 @@
      add_spouse=172004
      effect={add_consort=166864}
      effect={add_lover=166864}
-   }#recaptures Börte and marries Khulan Khatun
+   }#recaptures ØÃ¶ùÌû and marries Khulan Khatun
    1201.1.1={
      effect = {remove_friend = 166796 }
      effect = {add_rival = 166796 } #Becomes rivals with Jamukha
@@ -461,7 +461,7 @@
 }
 
 125502 = {
-   name="Jochi"
+   name="Êõ³à"
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -486,7 +486,7 @@
 }
 
 125503 = {
-   name="Batu"
+   name="°Î¶¼"
    dynasty=11100
    martial=10
    religion="tengri_pagan"
@@ -663,7 +663,7 @@
 }
 
 125504 = {
-   name="Berke"
+   name="±ð¶ù¸ç"
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -681,7 +681,7 @@
 }
 
 125505 = {
-   name="Sartag"
+   name="ÈöÀï´ð"
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -699,7 +699,7 @@
 }
 
 125506 = {
-	name="Ulagchi"
+	name="ÎÚØÝºÚ³à"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -713,7 +713,7 @@
 }
 
 125507 = {
-   name="Togha"
+   name="ÍÐÍÐº±"
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -728,7 +728,7 @@
 }
 
 125508 = {
-	name="Mongke Temur"
+	name="Ã¦¸ç ÌûÄ¾¶ù"
 	# AKA: Mongke Temur
 	dynasty=11100
 	religion="tengri_pagan"
@@ -743,7 +743,7 @@
 }
 
 125509 = {
-	name="Tode Mongke"
+	name="ÍÑÍÑ ÃÉ¸ç"
 	# AKA: Tode Mongke
 	dynasty=11100
 	religion="tengri_pagan"
@@ -758,7 +758,7 @@
 }
 
 125510 = {
-	name="Tartu"
+	name="°Í¶ûÍ¼"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -772,7 +772,7 @@
 }
 
 125511 = {
-	name="Tulabuga"
+	name="Ø£ØÝ²»»¨"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -786,7 +786,7 @@
 }
 
 125512 = {
-   name="Tokhta"
+   name="ÍÑÍÑ"
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -807,7 +807,7 @@
 }
 
 125513 = {
-	name="Toghrilcha"
+	name="ÍÑºÚÂ³²ì"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -821,7 +821,7 @@
 }
 
 125514 = {
-	name="Tinibeg"
+	name="µÏÄá±ð"
 	dynasty=11100
 	religion="sunni"
 	culture="mongol"
@@ -835,7 +835,7 @@
 }
 
 125515 = {
-	name="Janibeg"
+	name="ÔýÄá±ð"
 	dynasty=11100
 	religion="sunni"
 	culture="mongol"
@@ -849,7 +849,7 @@
 }
 
 125516 = {
-   name="Teval"
+   name="ÍÁÎÓ¶ú"
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -864,7 +864,7 @@
 }
 
 125517 = {
-	name="Tatar"
+	name="ËþËþ¶ù"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -878,7 +878,7 @@
 }
 
 125518 = {
-   name="Nogai"
+   name="ÄÇº£"
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -904,7 +904,7 @@
 }
 
 125519 = {
-   name="Chaka"
+   name="Ç¡¿¨"
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -922,7 +922,7 @@
 }
 
 125520 = {
-   name="Tolui"
+   name="ÍÏÀ×"
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -932,7 +932,7 @@
      birth=yes
    }
    1201.1.1={
-     effect = {add_friend = 172005} #close bond with Ögedei
+     effect = {add_friend = 172005} #close bond with ÎÑÀ«Ì¨
    }
    1208.1.1={
      add_spouse=172010
@@ -1486,7 +1486,7 @@
 }
 
 478011 = {
-   name="Hülegü"
+   name="ÐñÁÒØ£"
    # AKA: Hulagu
    dynasty=11100
    martial=10
@@ -2056,7 +2056,7 @@
 }
 
 480000 = {
-	name="Özbeg"
+	name="ÔÂ¼´±ð"
 	dynasty=11100
 	dna = celmcjidaao
 	properties = fj0bfd000000
@@ -2855,7 +2855,7 @@
 }
 
 34911 = {
-   name="Shiban"
+   name="Îô°à"
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -2870,7 +2870,7 @@
 }
 
 34912 = {
-   name="Orda"
+   name="ÎÓ¶ù´ð"
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -4350,7 +4350,7 @@
 }
 
 172005 = {
-   name="Ögedei" # Ögedei Khan
+   name="Igedei" # Igedei Khan
    dynasty=11100
    religion="tengri_pagan"
    culture="mongol"
@@ -4715,7 +4715,7 @@
    }
 }
 217269 = {
-   name="Temür Öljeytü" # Temür Khan
+   name="ÌûÄ¾¶ù Oljeyt" # Temur Khan
    dynasty=11100
    religion="buddhist"
    culture="mongol"
@@ -4759,7 +4759,7 @@
    }
 }
 217271 = {
-   name="Külüg" # Külüg Khan
+   name="ÇúÂÉ" # Kulug Khan
    dynasty=11100
    religion="buddhist"
    culture="mongol"
@@ -4778,7 +4778,7 @@
    }
 }
 217272 = {
-   name="Ayurbarwada" # Buyantu Khan
+   name="ÊÙÉ½" # ÆÕÑÕóÆº¹
    dynasty=11100
    religion="buddhist" #favored Confucian systems
    culture="mongol"
@@ -4803,7 +4803,7 @@
    }
 }
 217273 = {
-   name="Radnashiri"
+   name="°¢ÄÉÊ§Ê§Àï"
    female=yes
    dynasty=1051125 # Khunggirad
    religion="buddhist"
@@ -4817,7 +4817,7 @@
    }
 }
 217274 = {
-   name="Shidibala" # Gegeen Khan
+   name="Ë¶µÂ°ËØÝ" # Gegeen Khan
    dynasty=11100
    religion="buddhist"
    culture="mongol"
@@ -4839,7 +4839,7 @@
    }
 }
 217275 = {
-   name="Gammala" # Grandson of Kublai Khan
+   name=¸ÊÂéØÝ # Grandson of Kublai Khan
    dynasty=11100
    religion="buddhist"
    culture="mongol"
@@ -4861,7 +4861,7 @@
    }
 }
 217276 = {
-   name="Daritai" # fictional founder of dynasty
+   name=´ðÀïÌ¨ # fictional founder of dynasty
    dynasty=1051125 # Khunggirad
    religion="tengri_pagan"
    culture="mongol"
@@ -4873,7 +4873,7 @@
    }
 }
 217277 = {
-   name="Buyan Kelmish"
+   name="²»ÑÕ ¿ËÀÕÃÔÊ§"
    dynasty=1051125 # Khunggirad
    religion="buddhist"
    culture="mongol"
@@ -4899,7 +4899,7 @@
    }
 }
 217279 = {
-   name="Yesün Temür" # Yesün Temür Khan
+   name=Ò²ËïÌúÄ¾¶ù # Yesün Temür Khan
    dynasty=11100
    religion="buddhist"
    culture="mongol"
@@ -4921,7 +4921,7 @@
    }
 }
 217280 = {
-   name="Ragibagh" # Ragibagh Khan
+   name="°¢ØÝ¼ª°Ë" # Ragibagh Khan
    dynasty=11100
    religion="buddhist"
    culture="mongol"
@@ -4942,7 +4942,7 @@
    }
 }
 217281 = {
-   name="Jayaatu" # Jayaatu Khan
+   name="ÔýÑÀóÆ" # Jayaatu Khan
    dynasty=11100
    religion="buddhist"
    culture="mongol"
@@ -5126,7 +5126,7 @@
 	}
 }
 217247 = {
-	name = Mandukhai # fictional
+	name = Âú¶¼º£ # fictional
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -5153,7 +5153,7 @@
 	}
 }
 217260 = {
-	name = Munglig # fictional
+	name = ÃÉÁ¦¿Ë # fictional
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -5166,7 +5166,7 @@
 	}
 }
 217261 = {
-	name = Kokochu # fictional
+	name = À«À«³ö # fictional
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -5209,7 +5209,7 @@
 	}
 }
 217264 = {
-	name = Oronartai # fictional
+	name = ÎÓÂÞÄÉ¶ùÌ¨ # fictional
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -5278,7 +5278,7 @@
 	}
 }
 217307 = { 
-	name = Husun # fictional
+	name = ÐíÉ÷ # fictional
 	dynasty = 1051138
 	religion = tengri_pagan 
 	culture = mongol 
@@ -5286,7 +5286,7 @@
 	759.4.25 = { death = yes }
 }
 217308 = {
-	name = Burkhan # fictional
+	name = ²»¶ùº± # fictional
 	dynasty = 1051138
 	religion = tengri_pagan 
 	culture = mongol 
@@ -5295,7 +5295,7 @@
 	793.5.21 = { death = yes }
 }
 194351 = {
-	name = Chigu # fictional
+	name = ³à¹Å # fictional
 	dynasty = 1051138
 	father = 217308
 	religion = tengri_pagan 
@@ -5304,7 +5304,7 @@
 	793.5.21 = { death = yes }
 }
 217309 = { 
-	name = Nomolun # fictional
+	name = ÄªæÛÂ× # fictional
 	dynasty = 1051138
 	religion = tengri_pagan 
 	culture = mongol 
@@ -5314,7 +5314,7 @@
 	783.12.20 = { death = yes }
 }
 217341 = {
-	name = Nomolun # fictional
+	name = ÄªæÛÂ× # fictional
 	dynasty = 101934 # Nergüi
 	religion = tengri_pagan 
 	culture = mongol 
@@ -5323,7 +5323,7 @@
 	881.12.12 = { death = yes }
 }
 217342 = {
-	name = Guyug # fictional
+	name = ÙFÓÉ # fictional
 	dynasty = 101934 # Nergüi
 	religion = tengri_pagan 
 	culture = mongol 
@@ -5332,7 +5332,7 @@
 	879.6.10 = { death = yes }
 }
 217343 = {
-	name = Yesui # fictional
+	name = Ò²Ëì # fictional
 	dynasty = 101934 # Nergüi
 	religion = tengri_pagan 
 	culture = mongol 
@@ -5401,7 +5401,7 @@
 }
 
 217349 = { #2nd rulers son 4th ruler # fictional
-	name = Ambaghai
+	name = °³°Íº¢
 	dynasty = 101930 # Bat-Erdene
 	religion = tengri_pagan 
 	culture = mongol
@@ -5413,7 +5413,7 @@
 }
 
 217350 = { #4th rulers brother 5th ruler # fictional
-	name = Todogen
+	name = Ð¡±¦
 	dynasty = 101930 # Bat-Erdene
 	religion = tengri_pagan 
 	culture = mongol
@@ -5425,7 +5425,7 @@
 }
 
 217351 = { #5th rulers son 6th ruler # fictional
-	name = Inancha
+	name = ÒàÄÑ³à
 	dynasty = 101930 # Bat-Erdene
 	religion = tengri_pagan 
 	culture = mongol
@@ -5437,7 +5437,7 @@
 }
 
 217352 = { #6th rulers son 7th ruler # fictional
-	name = Oljaitu
+	name = ÍêÕß¶¼
 	dynasty = 101930 # Bat-Erdene
 	religion = tengri_pagan 
 	culture = mongol
@@ -5448,7 +5448,7 @@
 }
 
 217353 = { #1st rulers spouse # fictional
-	name = Doquz
+	name = ÍÑ¹ÅË¼
 	#dynasty = 
 	religion = tengri_pagan 
 	culture = mongol
@@ -5460,7 +5460,7 @@
 }
 
 217354 = { #1st rulers 2nd sister # fictional
-	name = Mandukhai
+	name = Âú¶¼º£
 	dynasty = 101929 # Batyabar
 	religion = tengri_pagan 
 	culture = mongol
@@ -5472,7 +5472,7 @@
 }
 
 217355 = { #2nd rulers spouse # fictional
-	name = Bulughan
+	name = ²·Â³º±
 	dynasty = 101930 # Bat-Erdene
 	religion = tengri_pagan 
 	culture = mongol
@@ -5507,7 +5507,7 @@
 }
 
 217358 = { #6th rulers brother # fictional
-	name = Subetei
+	name = ËÙ²»Ì¨
 	dynasty = 101930 # Bat-Erdene
 	religion = tengri_pagan 
 	culture = mongol
@@ -5518,7 +5518,7 @@
 }
 
 217359 = { #6th rulers sister # fictional
-	name = Altani
+	name = °¢ÀÕËþÄá
 	dynasty = 101930 # Bat-Erdene
 	religion = tengri_pagan 
 	culture = mongol
@@ -5578,7 +5578,7 @@
 }
 
 217364 = { #3rd rulers sister # fictional
-	name = Tekine
+	name = ÌØÇÚ
 	female = yes
 	dynasty = 101929 # Batyabar
 	religion = tengri_pagan
@@ -5590,7 +5590,7 @@
 }
 
 166796 = {
-	name="Jamukha" #blood brother and main rival of Temüjin
+	name="ÔýÄ¾ºÏ" #blood brother and main rival of Temüjin
 	dynasty=1040066 # Jadaran
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5610,7 +5610,7 @@
 }
 #Borjigin Ancestors
 166797 = {
-	name="Bartan" # Grandfather of Genghis Khan
+	name="°ËÁ¨µ¤" # Grandfather of Genghis Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5623,7 +5623,7 @@
 	}
 }
 166798 = {
-	name="Daridai" # Uncle of Genghis Khan
+	name="´ðÀïÌ¨" # Uncle of Genghis Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5636,7 +5636,7 @@
 	}
 }
 166799 = {
-	name="Negun Taiji" # Uncle of Genghis Khan
+	name="ÄóÀ¤Ì«Ê¯" # Uncle of Genghis Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5649,7 +5649,7 @@
 	}
 }
 166800 = {
-	name="Mengitü Hiyan" # Uncle of Genghis Khan
+	name="Ã¦¸ñÍºÆòÑÕ" # Uncle of Genghis Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5662,7 +5662,7 @@
 	}
 }
 166801 = {
-	name="Khabul" #Khabul Khan - Great-Grandfather of Genghis Khan
+	name="ºÏ²»ÀÕ" #Khabul Khan - Great-Grandfather of Genghis Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5688,7 +5688,7 @@
 	}
 }
 166803 = {
-	name="Hutugtu Monhor"
+	name="ºôÍ¼¿ËÍ¼ Monhor"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5701,7 +5701,7 @@
 	}
 }
 166804 = {
-	name="Hotula" #Hotula Khan
+	name="ºöÍ¼ØÝ" #Hotula Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5714,7 +5714,7 @@
 	}
 }
 166805 = {
-	name="Hulan"
+	name="ºôÀ¼"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5740,7 +5740,7 @@
 	}
 }
 166807 = {
-	name="Todoi"
+	name="ÍÐß¯"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5753,7 +5753,7 @@
 	}
 }
 166808 = {
-	name="Tumbinai Setsen" # Father of Khabul Khan
+	name="ÍÍ±ØÄË Ñ¦ìø" # Father of Khabul Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5766,7 +5766,7 @@
 	}
 }
 166809 = {
-	name="Semsochule" # Brother of Khabul Khan
+	name="Ñ¦³öÁÐ" # Brother of Khabul Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5805,7 +5805,7 @@
 	}
 }
 166812 = {
-	name="Baishinkhor Dogshin" # Grandfather of Khabul Khan
+	name="²®Éý»í¶ù¶àºÚÉê" # Grandfather of Khabul Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5818,7 +5818,7 @@
 	}
 }
 166813 = {
-	name="Chirhya Lynhua"
+	name="²éØÝº¢Áìºö"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5831,7 +5831,7 @@
 	}
 }
 166814 = {
-	name="Sengun Bilge"
+	name="ÏëÀ¥±ÏÁ¦¸ñ"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5844,7 +5844,7 @@
 	}
 }
 166815 = {
-	name="Ambaghai" # Ambaghai Khan
+	name="°³°Íº¢" # Ambaghai Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5857,7 +5857,7 @@
 	}
 }
 166816 = {
-	name="Chaujin Ortagai"
+	name="³­ÕæÎÓ¶ùÌû¸Ã"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5870,7 +5870,7 @@
 	}
 }
 166817 = {
-	name="Khaidu" # Great-Grandfather of Khabul Khan
+	name="º£¶¼" # Great-Grandfather of Khabul Khan
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5883,7 +5883,7 @@
 	}
 }
 166818 = {
-	name="Hachi Hülüg" # Father of Khaidu
+	name="ºÏ³à ÇúÂ³¿Ë" # Father of Khaidu
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5896,7 +5896,7 @@
 	}
 }
 166819 = {
-	name="Menen Tüdün" # Grandfather of Khaidu
+	name="óúÄê ÍÁ¶Ø" # Grandfather of Khaidu
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5909,7 +5909,7 @@
 	}
 }
 166820 = {
-	name="Habich Baghatur" # Great-Grandfather of Khaidu
+	name="ºÏ±Ø³à °Ñ°¢Íº¶ù" # Great-Grandfather of Khaidu
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5922,7 +5922,7 @@
 	}
 }
 166821 = {
-	name="Bodonchar Munkhag" # Bodonchar Munkhag
+	name="ØÃ¶Ë²ì¶ù" # Bodonchar Munkhag
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5953,7 +5953,7 @@
 	}
 }
 166823 = {
-	name="Jadarai" #ancestor of the Jadaran tribe
+	name="ÔýÖ»´Ì´õ" #ancestor of the Ôý´ðÀ» tribe
 	dynasty=1040066 # Jadaran
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5967,7 +5967,7 @@
 	}
 }
 166824 = {
-	name="Baaridai" #ancestor of the Baarin tribe
+	name="°Í°¢Àï´õ" #ancestor of the °Í°¢ÁÚ»ò°ÍÁÖ tribe
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5984,7 +5984,7 @@
 	}
 }
 166825 = {
-	name="Jeguredei"
+	name="ÕÓØ£ÁÐ´õ"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -5997,7 +5997,7 @@
 	}
 }
 166826 = {
-	name="Bukhatu Salji"
+	name="²»ºÏÍºÈöÀÕÖ»"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6011,7 +6011,7 @@
 	}
 }
 166827 = {
-	name="Bukha Khatagi"
+	name="²»ºöÌ¨Ëþ¼ª"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6025,7 +6025,7 @@
 	}
 }
 166828 = {
-	name="Belgünütei"
+	name="±ðÀÕ¹ÅÚ«Ì¨"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6039,7 +6039,7 @@
 	}
 }
 166829 = {
-	name="Begünütei"
+	name="²»¹ÅÚ«Ì¨"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6053,7 +6053,7 @@
 	}
 }
 166830 = {
-	name="Alan Gua" #Alan Gua
+	name="°¢À¼»í°¢" #Alan Gua
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -6069,7 +6069,7 @@
 	}
 }
 166831 = {
-	name="Dobun Mergen"
+	name="¶ä±¼óú¶ù¸É"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6086,7 +6086,7 @@
 	}
 }
 166832 = {
-	name="Duva Sokhor"
+	name="¶¼ÍÜËø»í¶ù"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6101,7 +6101,7 @@
 	}
 }
 166833 = {
-	name="Torogoljin Bayan"
+	name="ÍÑÂÞ»íÀÕÕæ ²®ÑÕ"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6118,7 +6118,7 @@
 	}
 }
 166834 = {
-	name="Borogchin Gua"
+	name="ØÃÂÞºÚ³¼ »í°¢"
 	female=yes
 	dynasty=1040069
 	religion="tengri_pagan"
@@ -6132,7 +6132,7 @@
 	}
 }
 166835 = {
-	name="Khurilardai Bayan"
+	name="»íÀïØÝ¶ùÌ¨ ²®ÑÕ"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6149,7 +6149,7 @@
 	}
 }
 166836 = {
-	name="Bargujin Gua"
+	name="°Í¶û¹Å½ò »í°¢"
 	female=yes
 	dynasty=1040068 # Bargujin
 	religion="tengri_pagan"
@@ -6324,7 +6324,7 @@
 	}
 }
 166849 = {
-	name="Börte Chino"
+	name="²ÔÀÇ"
 	dynasty=1040071 # Quralas
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6339,7 +6339,7 @@
 	}
 }
 166850 = {
-	name="Gua Maral"
+	name="°×Â¹"
 	female=yes
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6354,7 +6354,7 @@
 
 #siblings of Genghis
 166851 = {
-	name="Sochigel"
+	name="ËÙ³à¼ªÀÕ"
 	female=yes
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6366,7 +6366,7 @@
 	}
 }
 166852 = {
-	name="Behter"
+	name="±ð¿ËÌû¶ù"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6381,7 +6381,7 @@
 	}
 }
 166853 = {
-	name="Belgütei"
+	name="±ðÀÕ¹ÅÌ¨"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6396,7 +6396,7 @@
 	}
 }
 166854 = {
-	name="Hachiun"
+	name="¹þ³àÎÂ"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6410,7 +6410,7 @@
 	}
 }
 166855 = {
-	name="Temüge"
+	name="ÌûÄ¾¸ñ"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6424,7 +6424,7 @@
 	}
 }
 166856 = {
-	name="Temülen"
+	name="ÌûÄ¾ÂØ"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -6440,7 +6440,7 @@
 }
 #Hoelun's family
 166857 = {
-	name="Boroghul"
+	name="²©¶ûºö"
 	religion="tengri_pagan"
 	culture="mongol"
 	add_trait="strong"
@@ -6460,7 +6460,7 @@
 	}
 }
 166858 = {
-	name="Altani"
+	name="°¢ÀÕËþÄà"
 	female=yes
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6480,7 +6480,7 @@
 	}
 }
 166859 = {
-	name="Nergüi"
+	name="Nergui"
 	dynasty=101946
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6520,9 +6520,9 @@
 		death=yes
 	}
 }
-#Father of Börte
+#Father of Borte
 166862 = {
-	name="Dei Seichen"
+	name="µÂ Ñ¦¶U"
 	dynasty=1041000
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6547,7 +6547,7 @@
 	}
 }
 166864 = {
-	name="Khulan" # Secondary Wife of Genghis Khan
+	name="ºöÂ³Â×" # Secondary Wife of Genghis Khan
 	female=yes
 	dynasty=1040072
 	religion="tengri_pagan"
@@ -6562,7 +6562,7 @@
 	}
 }
 166865 = {
-	name="Gelejian"
+	name="À«Àïèîµ£"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6577,7 +6577,7 @@
 	}
 }
 166866 = {
-	name="Temüjin-üge" # Khan of the Tatars
+	name="ÌúÄ¾Õæ Ø£¸ñ" # Khan of the Tatars
 	dynasty=1040073
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6589,7 +6589,7 @@
 	}
 }
 166867 = {
-	name="Megüjin" # Khan of the Tatars
+	name="óú¹ÅÕæ" # Khan of the Tatars
 	dynasty=1040073
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6615,7 +6615,7 @@
 	}
 }
 166869 = {
-	name="Yesugen" # Concubine of Genghis Khan
+	name="Ò²ËÙ¸É" # Concubine of Genghis Khan
 	female=yes
 	dynasty=1040073
 	religion="tengri_pagan"
@@ -6629,7 +6629,7 @@
 	}
 }
 166870 = {
-	name="Yesui" # Concubine of Genghis Khan
+	name="Ò²Ëì" # Concubine of Genghis Khan
 	female=yes
 	dynasty=1040073
 	religion="tengri_pagan"
@@ -6644,7 +6644,7 @@
 }
 #daughters of Genghis Khan
 166871 = {
-	name="Khochen"
+	name="»ªóÝ"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -6659,7 +6659,7 @@
 	}
 }
 166872 = {
-	name="Alakhai"
+	name="°¢ØÝº£"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -6674,7 +6674,7 @@
 	}
 }
 166873 = {
-	name="Tümelün"
+	name="ÍºÂúÂ×"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -6689,7 +6689,7 @@
 	}
 }
 166874 = {
-	name="Checheikhen" #Wife of Qutuqi Beki, chief of the Oirats
+	name="³¶³¶Òà¼á" #Wife of Qutuqi Beki, chief of the Oirats
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -6704,7 +6704,7 @@
 	}
 }
 166875 = {
-	name="Altun Begi" #Wife of Barchuq, King of Qocho
+	name="°¢ÀÕÍÍ±ð¼ª" #Wife of Barchuq, King of Qocho
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -6719,7 +6719,7 @@
 	}
 }
 166876 = {
-	name="Altalün"
+	name="°¢¶ù´ðÂ³ºÚ"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -6733,7 +6733,7 @@
 		death=yes
 	}
 }
-#Zübü Confederacy (Khereid, Naimans and Tatars c.900-1100)
+#Zub Confederacy (Khereid, Naimans and Tatars c.900-1100)
 166877 = {
 	name="Amasar" #fictional name
 	dynasty=1040074
@@ -6838,7 +6838,7 @@
 	}
 }
 166884 = {
-	name="Markus Buyruk"
+	name="Ä¥¹ÅË¹ Ã·Â»"
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6851,7 +6851,7 @@
 	}#Killed by the Liao
 }
 166885 = {
-	name = "Korchi Buiruk" # Korchi Buiruk Khan
+	name = "»í¶ù³à Ã·Â»" # Korchi Buiruk Khan
 	dynasty = 1041001 # Naiman
 	religion = "nestorian"
 	culture = "mongol"
@@ -6877,7 +6877,7 @@
 	}
 }
 166887 = {
-	name="Saryk"
+	name="ÈøÀû¿Ë"
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6890,7 +6890,7 @@
 	}
 }
 166888 = {
-	name="Kurchakus Buyruk"
+	name="ºö¶ùÔýºöË¼ Ã·Â»"
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6919,7 +6919,7 @@
 	}
 }
 166890 = {
-	name="Toghrul" #Wang Khan
+	name="ÍÑÎÓÁÚ" #Wang Khan
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6957,7 +6957,7 @@
 	}
 }
 166892 = {
-	name="Tai Temür"
+	name="Tai Temur"
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6971,7 +6971,7 @@
 	}
 }
 166893 = {
-	name="Bukha Temür"
+	name="Bukha Temur"
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6995,7 +6995,7 @@
 		birth=yes
 	}
 	1172.1.1={
-		effect = {add_friend = 125501} #Jakha Khambu befriends Temüjin
+		effect = {add_friend = 125501} #Jakha Khambu befriends Temjin
 	}
 	1204.1.1={
 		death=yes
@@ -7031,7 +7031,7 @@
 	}
 }
 188991 = {
-	name="Berkhechir"
+	name="²®¿Ëµü¶ù"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7045,7 +7045,7 @@
 	}
 }
 166898 = {
-	name="Tangad"
+	name="ÌÆ¹ÅÌØ"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7059,7 +7059,7 @@
 	}
 }
 188995 = {
-	name="Qoluyiqan"
+	name="ºôÂ³Òæº±"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -7074,7 +7074,7 @@
 	}
 }
 188992 = {
-	name="Chilagun"
+	name="³àÀÏÎÂ"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -7089,7 +7089,7 @@
 	}
 }
 188998 = {
-	name="Sinqur"
+	name="Éý¿â¶û"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -7104,7 +7104,7 @@
 	}
 }
 188989 = {
-	name="Chimbay"
+	name="³Á°×"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -7119,7 +7119,7 @@
 	}
 }
 188997 = {
-	name="Muhammed"
+	name="Ä¦Ú­Ä©"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -7133,7 +7133,7 @@
 	}
 }
 188996 = {
-	name="Udur"
+	name="Ø£¶¼¶ù"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -7148,7 +7148,7 @@
 	}
 }
 188988 = {
-	name="Tuqtemür" #ancestor of the Great Horde Khans
+	name="Íº»¨ÌûÄ¾¶ù" #ancestor of the Great Horde Khans
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -7163,7 +7163,7 @@
 	}
 }
 188993 = {
-	name="Shingum"
+	name="Õæ¹ÅÄ¾"
 	female=yes
 	dynasty=11100
 	religion="tengri_pagan"
@@ -7178,7 +7178,7 @@
 	}
 }
 188987 = {
-	name="Yesügei" # Khan of the Tatars
+	name="Ò²ËÙ¸Ã" # Khan of the Tatars
 	dynasty=1040073
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7191,7 +7191,7 @@
 	}
 }
 166897 = {
-	name="Borakchin" #wife of Batu Khan
+	name="²©ØÝ¿Ë½ï" #wife of Batu Khan
 	female=yes
 	dynasty=101946
 	religion="tengri_pagan"
@@ -7205,7 +7205,7 @@
 	}
 }
 188990 = {
-	name="Andewan"
+	name="êÌµÒÍò"
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7220,7 +7220,7 @@
 }
 #descendants of Chagatai
 166899 = {
-	name="Ebuskun" #wife of Chagatai
+	name="Ò²ËÙÂØ" #wife of Chagatai
 	female=yes
 	dynasty=101946
 	religion="tengri_pagan"
@@ -7233,7 +7233,7 @@
 	}
 }
 166900 = {
-	name="Qutuqi" #Chief of the Oirats
+	name="ÍÑÁÓÀÕ³à" #Chief of the Oirats
 	dynasty=1040075
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7248,7 +7248,7 @@
 	}
 }
 166901 = {
-	name="Arasen" #Chief of the Oirats
+	name="²»»¨ÌûÄ¾¶ù" #Arasen²é²»µ½£¬Ó¦¸ÃÊÇPÉç¸ø°¢¶ù»ë°²ÅÅµÄÒ°µù
 	dynasty=1040075
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7262,7 +7262,7 @@
 	}
 }
 166902 = {
-	name="Arghun" #Arghun Aqa
+	name="°¢¶ù»ë" #°¢¶ù»ë°¢¼Ó
 	dynasty=1040075
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7275,7 +7275,7 @@
 	}
 }
 166903 = {
-	name="Nawruz" #Nawruz
+	name="ÄÉØ£Â³Ë¹" #Nawruz
 	dynasty=1040075
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7291,7 +7291,7 @@
 	}
 }
 166904 = {
-	name="Orghana" #wife of Qara Hülögü and Alghu
+	name="ÎÓ¶ù¼ªÄÉ" #wife of ºÏØÝÐñÁÒØ£ and Alghu
 	female=yes
 	dynasty=1040075
 	religion="tengri_pagan"
@@ -7307,7 +7307,7 @@
 		death=yes
 	}
 }
-#descendants of Ögedei
+#descendants of Ogedei
 166905 = {
 	name="Yehe Chiledu" #Yehe Chiledu of the Merkits
 	dynasty=1051139 #Merkit
