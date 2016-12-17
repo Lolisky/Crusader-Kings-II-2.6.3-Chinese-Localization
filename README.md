@@ -6,7 +6,7 @@
 
 **假如以后补完了很多文件时的方法：**在已经打了2.62汉化补丁的情况下直接将[这个](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)解压到游戏根目录
 
-**现在建议手动操作：**自己去挑文件覆盖。现在的话，用修改后的[蒙古历史君主列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。（因为就只动了蒙古人）
+**现在建议手动操作：**自己去挑文件覆盖。现在的话，用修改后的文件覆盖对应位置的文件即可。如用[蒙古历史角色列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。现在已经补完的有亚美尼亚、蒙古、阿兰。
 
 ## 基础
 
@@ -22,9 +22,9 @@ alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.
 
 ## 已经修改的内容
 
-#### 12.18 亚美尼亚历史领主补完
+### 12.18 亚美尼亚、阿兰历史领主瞎JB音译补完
 
-#### 12.17 蒙古历史领主
+### 12.17 蒙古历史领主正经补完
 
 在2.3.6已经翻译的人名的基础上，基于《蒙古秘史》和中文维基补完翻译。史书无载的人物，拉丁转写与历史人物一致的，视为同名。汉文史书无记载，也无法拟合读音的个别人物未翻译。主要是一些阻卜人和P社创造的人物。
 
@@ -36,6 +36,6 @@ alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.
 
 最后，薛出列Semsochule的两个儿子Ardi Barlas、Ang Goran汉文无载，像土耳其语，应该是已经突厥化了，现在凑合译成阿迪 八剌失、安 固兰，请大佬们指正。
 
-#### 12.16 印度地名
+### 12.16 印度地名
 
 随便改了几处。
