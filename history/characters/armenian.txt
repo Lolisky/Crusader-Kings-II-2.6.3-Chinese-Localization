@@ -8197,7 +8197,7 @@
 	}
 }
 145996 = {
-	name="Thoros"
+	name="索罗斯" #Thoros
 	dynasty=1022355 # Rshtuni
 	religion="miaphysite"
 	culture="armenian"
@@ -8211,7 +8211,7 @@
 }
 
 145997 = {
-	name="Maria"
+	name="玛丽亚" #Maria
 	dynasty=1022355
 	female=yes
 	religion="miaphysite"
@@ -8226,7 +8226,7 @@
 }
 
 145998 = {
-	name="Sahak"
+	name="萨哈克" # Sahak
 	dynasty=507
 	religion="miaphysite"
 	culture="armenian"
@@ -8241,7 +8241,7 @@
 
 
 214064 = {
-	name="Tiridates" # Tiridates III
+	name="梯里达底" # Tiridates III
 	dynasty=100685
 	religion="zoroastrian"
 	culture="armenian"
@@ -8255,7 +8255,7 @@
 }
 
 214065 = {
-	name="Khosrov" # II
+	name="库斯老" # Khosrov II
 	dynasty=100685
 	religion="zoroastrian"
 	culture="armenian"
@@ -8269,7 +8269,7 @@
 }
 
 214066 = {
-	name="Tiridates" # III
+	name="梯里达底" # Tiridates III
 	dynasty=100685
 	religion="zoroastrian"
 	culture="armenian"
@@ -8286,7 +8286,7 @@
 }
 
 214067 = {
-	name="Khosrovidukht"
+	name="库斯老维达忒" #Khosrovidukht
 	female=yes
 	dynasty=100685
 	religion="zoroastrian"
@@ -8304,7 +8304,7 @@
 }
 
 214068 = {
-	name="Khosrov" # III the Small
+	name="库斯老" # Khosrov III the Small
 	dynasty=100685
 	religion="zoroastrian"
 	culture="armenian"
@@ -8321,7 +8321,7 @@
 }
 
 214069 = {
-	name="Salome"
+	name="莎乐美" Salome
 	female=yes
 	dynasty=100685
 	religion="zoroastrian"
@@ -8339,7 +8339,7 @@
 }
 
 214070 = {
-	name="Tiran" # Tigranes or Diran
+	name="提格兰" # Tiran Tigranes or Diran
 	dynasty=100685
 	religion="miaphysite"
 	culture="armenian"
@@ -8353,7 +8353,7 @@
 }
 
 214071 = {
-	name="Arshak" # II
+	name="阿沙克" # Arshak II
 	dynasty=100685
 	religion="miaphysite"
 	culture="armenian"
@@ -8367,7 +8367,7 @@
 }
 
 214072 = {
-	name="Pap"
+	name="帕普" #Pap
 	dynasty=100685
 	religion="miaphysite"
 	culture="armenian"
@@ -8381,7 +8381,7 @@
 }
 
 214073 = {
-	name="Arshak" # III
+	name="阿沙克" # Arshak III
 	dynasty=100685
 	religion="miaphysite"
 	culture="armenian"
@@ -8395,7 +8395,7 @@
 }
 
 214074 = {
-	name="Varazdat"
+	name="维拉斯达特" # Varazdat
 	dynasty=100685
 	religion="miaphysite"
 	culture="armenian"
@@ -8409,7 +8409,7 @@
 }
 
 214075 = {
-	name="Anon"
+	name="阿农" # Anon
 	dynasty=100685
 	religion="miaphysite"
 	culture="armenian"
@@ -8423,7 +8423,7 @@
 }
 
 214076 = {
-	name="Khosrov" # IV
+	name="霍斯陆" # Khosrov IV
 	dynasty=100685
 	religion="miaphysite"
 	culture="armenian"
@@ -8437,7 +8437,7 @@
 }
 
 214077 = {
-	name="Vramshapuh" # Bahramshapur
+	name="巴赫兰-沙普尔" # Vramshapuh Bahramshapur
 	dynasty=100685
 	religion="miaphysite"
 	culture="armenian"
@@ -8451,7 +8451,7 @@
 }
 
 214078 = {
-	name="Artashir" # Artaxias IV
+	name="阿尔达希尔" # Artaxias IV
 	dynasty=100685
 	religion="miaphysite"
 	culture="armenian"
