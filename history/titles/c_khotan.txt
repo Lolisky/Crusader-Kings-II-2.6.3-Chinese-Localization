@@ -1,0 +1,219 @@
+#Khotan Kings
+100.1.1 = {
+	liege = d_khotan
+	holder = 166632
+}
+130.1.1 = {
+	holder = 166633
+}
+132.1.1 = {
+	holder = 166634
+}
+151.1.1 = {
+	holder = 166635
+}
+182.1.1 = {
+	holder = 166636
+}
+188.1.1 = {
+	holder = 166637
+}
+208.1.1 = {
+	holder = 166638
+}
+243.1.1 = {
+	holder = 166639
+}
+251.1.1 = {
+	holder = 166640
+}
+279.1.1 = {
+	holder = 166641
+}
+306.1.1 = {
+	holder = 166642
+}
+336.1.1 = {
+	holder = 166643
+}
+373.1.1 = {
+	holder = 166644
+}
+397.1.1 = {
+	holder = 166645
+}
+436.1.1 = {
+	holder = 166646
+}
+451.1.1 = {
+	holder = 166647
+}
+496.1.1 = {
+	holder = 166648
+}
+512.1.1 = {
+	holder = 166649
+}
+531.1.1 = {
+	holder = 166650
+}
+578.1.1 = {
+	holder = 166651
+}
+596.1.1 = {
+	holder = 166652
+}
+612.1.1 = {
+	holder = 166653
+}
+628.1.1 = {
+	holder = 166654
+}
+649.1.1 = {
+	holder = 166655
+}
+662.1.1 = {
+	holder = 166656
+}#
+673.1.1 = {
+	holder = 166657
+}
+680.1.1 = {
+	holder = 166658
+}#Regent of Khotan
+692.1.1 = {
+	holder = 166659
+}
+719.1.1 = {
+	holder = 166660
+}
+725.1.1 = {
+	holder = 166661
+}
+736.1.1 = {
+	holder = 166662
+}
+740.1.1 = {
+	holder = 166663
+}
+747.1.1 = {
+	holder = 166664
+}
+756.1.1 = {
+	holder = 166665
+}
+789.1.1 = {
+	holder = 166666
+}
+798.1.1 = {
+	holder = 166668
+}
+809.1.1 = {
+	holder = 166673
+}
+825.1.1 = {
+	holder = 166675
+}
+841.1.1 = {
+	holder = 166676
+}
+856.1.1 = {
+	holder = 166679
+}
+859.1.1 = {
+	holder = 166680
+}
+863.1.1 = {
+	holder = 166681
+}
+877.1.1 = {
+	holder = 166683
+}
+885.1.1 = {
+	holder = 166685
+}
+912.1.1 = {
+	holder = 166686
+}
+966.1.1 = {
+	holder = 166687
+}
+977.1.1 = {
+	holder = 166688
+}
+982.1.1 = {
+	holder = 166689
+}
+#Karakhanids
+1006.1.1 = {
+	holder = 217206
+	liege = d_zhetysu
+}
+1015.5.9 = {
+	holder = 217207
+}
+1054.2.27 = {
+	holder = 217212
+}
+1096.2.17 = {
+	holder = 217211
+}
+1117.7.9 = {
+	holder = 217241
+}
+1144.7.22 = {
+	holder = 217242
+}
+1186.3.27 = {
+	holder = 217243
+}
+
+1218.1.1 = {
+	holder = 125501
+	liege = 0
+}
+1227.12.2 = {
+	holder = 172005 # Ögedei Khan
+}
+1241.12.11 = {
+	holder = 172007 # Güyük Khan
+}
+1248.1.1 = {
+	holder = 217265 # Möngke Khan
+}
+1259.8.11 = {
+	holder = 217266 # Kublai Khan
+}
+1294.2.18 = {
+	holder = 217269 # Temür Khan
+}
+1307.2.10 = {
+	holder = 217271 # Külüg Khan
+}
+1311.1.27 = {
+	holder = 217272 # Buyantu Khan
+}
+1320.3.1 = {
+	holder = 217274 # Gegeen Khan
+}
+1323.9.4 = {
+	holder = 217279 # Yesün Temür Khan
+}
+1328.8.15 = {
+	holder = 217280 # Ragibagh Khan
+}
+1328.11.14 = {
+	holder = 217281 # Jayaatu Khan
+}
+1329.2.27 = {
+	holder = 217282 # Khutughtu Khan Kusala
+}
+1329.8.30 = { # Enthroned 1329.9.8
+	holder = 217281 # Jayaatu Khan
+}
+1332.9.2 = { # Coronation 1332.10.23
+	holder = 217283 # Rinchinbal Khan
+}
+1332.12.14 = {
+	holder = 217284 # Toghon Temür Khan
+}

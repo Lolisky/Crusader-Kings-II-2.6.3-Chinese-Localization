@@ -1,0 +1,2570 @@
+20474 = {
+	name="弗拉基米尔"
+	dynasty=101682
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="serbian"
+	trait="diligent"
+	trait="wroth"
+	trait="craven"
+	trait="amateurish_plotter"
+	father=20491
+	mother=4491
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+20490 = {
+	name="沃伊斯拉夫"
+	dynasty=101682
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	trait="honest"
+	trait="tough_soldier"
+	father=20494
+	998.1.1={
+		birth="998.1.1"
+	}
+	1015.1.1={
+		add_spouse=4490
+	}
+	1043.1.1={
+		death="1043.1.1"
+	}
+}
+
+20491 = {
+	name="沃伊斯拉夫"
+	dynasty=101682
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="serbian"
+	trait="flamboyant_schemer"
+	father=20490
+	mother=4490
+	1016.1.1={
+		birth="1016.1.1"
+	}
+	1029.1.1={
+		add_spouse=4491
+	}
+	1046.1.1={
+		add_spouse=4495
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+20492 = {
+	name="拉迪斯拉夫"
+	dynasty=101682
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="orthodox"
+	culture="serbian"
+	trait="zealous"
+	trait="honest"
+	trait="tough_soldier"
+	father=20490
+	mother=4490
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1053.1.1={
+		add_spouse=4493
+	}
+	1066.1.1={
+	employer=20491
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20493 = {
+	name="康斯坦丁"
+	# AKA: Konstantin Bodin
+	dynasty=101682
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="orthodox"
+	culture="serbian"
+	trait="zealous"
+	trait="ambitious"
+	trait="intricate_webweaver"
+	father=20491
+	mother=4491
+	1036.1.1={
+		birth="1036.1.1"
+	}
+	1071.8.26={
+		name="佩塔尔" #佩塔尔 III of Bulgaria
+	}
+	1073.1.1={
+		name="康斯坦丁"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+20494 = {
+	name="德拉戈米尔"
+	dynasty=101682
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	father=20495
+	960.1.1={
+		birth="960.1.1"
+	}
+	1018.1.1={
+		death="1018.1.1"
+	}
+}
+
+20495 = {
+	name="赫瓦利米尔"
+	dynasty=101682
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="serbian"
+	935.1.1={
+		birth="935.1.1"
+	}
+	971.1.1={
+		death="971.1.1"
+	}
+}
+
+20496 = {
+	name="彼得里斯拉夫"
+	dynasty=101682
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	father=20495
+	958.1.2={
+		birth="958.1.2"
+	}
+	998.1.1={
+		death="998.1.1"
+	}
+}
+
+20497 = {
+	name="亚历山大"
+	dynasty=8632
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="serbian"
+	trait="wroth"
+	trait="humble"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20499 = {
+	name="德拉戈什"
+	dynasty=191
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="orthodox"
+	culture="serbian"
+	trait="just"
+	trait="kind"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1072.1.1={
+		death="1072.1.1"
+	}
+}
+
+20529 = {
+	name="彼得里斯拉夫"
+	dynasty=101682
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="orthodox"
+	culture="serbian"
+	trait="honest"
+	trait="tough_soldier"
+	father=20491
+	mother=4495
+	1048.1.1={
+		birth="1048.1.1"
+	}
+	1063.1.1={
+		add_spouse=4492
+	}
+	1083.1.1={
+		death="1083.1.1"
+	}
+}
+
+20533 = {
+	name="马尔科"
+	dynasty=101682
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	trait="tough_soldier"
+	father=20529
+	mother=4492
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1104.1.1={
+		death="1104.1.1"
+	}
+}
+
+20538 = {
+	name="维堪"
+	dynasty=101682
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="orthodox"
+	culture="serbian"
+	trait="hunchback"
+	trait="naive_appeaser"
+	father=20529
+	mother=4492
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+20539 = {
+	name="布拉尼斯拉夫"
+	dynasty=101682
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="orthodox"
+	culture="serbian"
+	trait="lisp"
+	trait="wroth"
+	trait="tough_soldier"
+	father=20492
+	mother=4493
+	1054.1.1={
+		birth="1054.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+20558 = {
+	name="多布罗斯拉夫"
+	dynasty=101682
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="orthodox"
+	culture="serbian"
+	trait="charitable"
+	trait="envious"
+	trait="wroth"
+	trait="tough_soldier"
+	father=20492
+	mother=4493
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+
+217009 = {
+	name="伊万"
+	dynasty=100501
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	trait="cynical"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+40530 = {
+	name="约万 弗拉基米尔"
+	# AKA: Jovan 弗拉基米尔
+	dynasty=101682
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="orthodox"
+	culture="serbian"
+	father=20496
+	978.1.1={
+		birth="978.1.1"
+	}
+	1010.1.1={
+		add_spouse=40531
+	}
+	1016.5.22={
+		death="1016.5.22"
+	}
+}
+
+4491 = {
+	name="娜达"
+	female = yes
+	dynasty=101682
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	trait="amateurish_plotter"
+	father=40530
+	mother=40531
+	1013.1.1={
+		birth="1013.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+
+4492 = {
+	name="扎薇达"
+	female = yes
+	dynasty=18002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="orthodox"
+	culture="serbian"
+	trait="intricate_webweaver"
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+
+4493 = {
+	name="克娜"
+	female = yes
+	dynasty=18004
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="serbian"
+	trait="amateurish_plotter"
+	1032.1.1={
+		birth="1032.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+70350 = {
+	name="弗拉基米尔"
+	dynasty=101682
+	martial=7
+	diplomacy=6
+	intrigue=3
+	stewardship=4
+	religion="orthodox"
+	culture="serbian"
+	trait="charitable"
+	trait="kind"
+	trait="misguided_warrior"
+	father=20474
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1103.1.1={
+		add_spouse=34129
+	}
+	
+	1114.1.1={
+		death="1114.1.1"
+	}
+}
+
+70351 = {
+	name="普洛斯拉夫"
+	dynasty=101682
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="serbian"
+	trait="slothful"
+	trait="drunkard"
+	trait="amateurish_plotter"
+	father=20491
+	mother=4491
+	
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+70352 = {
+	name="塞奇"
+	dynasty=101682
+	martial=8
+	diplomacy=3
+	intrigue=3
+	stewardship=3
+	religion="orthodox"
+	culture="serbian"
+	trait="slow"
+	trait="gardener"
+	trait="tough_soldier"
+	father=20491
+	mother=4491
+	
+	1032.1.1={
+		birth="1032.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+70353 = {
+	name="德里亚"
+	dynasty=101682
+	martial=3
+	diplomacy=4
+	intrigue=3
+	stewardship=4
+	religion="orthodox"
+	culture="serbian"
+	trait="scholar"
+	trait="homosexual"
+	trait="naive_appeaser"
+	father=20491
+	mother=4491
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+70354 = {
+	name="加夫里尔"
+	dynasty=101682
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="orthodox"
+	culture="serbian"
+	trait="genius"
+	trait="hunter"
+	trait="charismatic_negotiator"
+	father=20491
+	mother=4491
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+70355 = {
+	name="米罗斯拉夫"
+	dynasty=101682
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=3
+	religion="orthodox"
+	culture="serbian"
+	trait="craven"
+	trait="content"
+	trait="misguided_warrior"
+	father=20491
+	mother=4491
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+70356 = {
+	name="多布罗斯拉夫"
+	dynasty=101682
+	martial=7
+	diplomacy=3
+	intrigue=5
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	trait="gregarious"
+	trait="chaste"
+	trait="thrifty_clerk"
+	father=20491
+	mother=4495
+	1047.1.1={
+		birth="1047.1.1"
+	}
+	1114.1.1={
+		death="1114.1.1"
+	}
+}
+
+70359 = {
+	name="格拉季斯拉夫"
+	dynasty=101682
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="serbian"
+	trait="honest"
+	trait="patient"
+	trait="tough_soldier"
+	father=20492
+	mother=4493
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+70360 = {
+	name="克卡帕尔"
+	dynasty=101682
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	trait="hunter"
+	trait="just"
+	trait="thrifty_clerk"
+	father=20492
+	mother=4493
+	1057.1.1={
+		birth="1057.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+70361 = {
+	name="萨尼亚卡"
+	dynasty=101682
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="serbian"
+	trait="temperate"
+	trait="brave"
+	trait="misguided_warrior"
+	father=20490
+	mother=4490
+	1018.1.1={
+		birth="1018.1.1"
+	}
+	1066.1.1={
+	employer=20491
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+70362 = {
+	name="多布罗斯拉夫"
+	dynasty=101682
+	martial=3
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	trait="gregarious"
+	trait="mystic"
+	trait="detached_priest"
+	father=20494
+	1018.1.1={
+		birth="1018.1.1"
+	}
+	1066.1.1={
+	employer=20497
+	}
+	1073.1.1={
+		death="1073.1.1"
+	}
+}
+
+468511 = {
+	name="安娜"
+	# AKA: Anna 娜达
+	female = yes
+	dynasty=184
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	trait="zealous"
+	trait="fortune_builder"
+	father=468505
+	mother=467531
+	1281.1.2={
+		birth="1281.1.2"
+	}
+	1329.1.2={
+		death="1329.1.2"
+	}
+}
+
+34070 = {
+	name="尤罗斯"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218510
+	mother=215523
+	1108.1.1={
+		birth="1108.1.1"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+34071 = {
+	name="德塞"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218510
+	mother=215523
+	1111.1.1={
+		birth="1111.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+34072 = {
+	name="拜洛什"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218510
+	mother=215523
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1163.1.1={
+		death="1163.1.1"
+	}
+}
+
+34073 = {
+	name="蒂霍米尔"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218505
+	1129.1.1={
+		birth="1129.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34074 = {
+	name="斯特拉齐米尔"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218505
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1189.1.1={
+		death="1189.1.1"
+	}
+}
+
+34075 = {
+	name="米罗斯拉夫"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218505
+	1132.1.1={
+		birth="1132.1.1"
+	}
+	1196.1.1={
+		death="1196.1.1"
+	}
+}
+
+34076 = {
+	name="斯蒂芬"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34073
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+34077 = {
+	name="托伦"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34075
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1198.1.1={
+		death="1198.1.1"
+	}
+}
+
+34078 = {
+	name="托伦"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34077
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1239.1.1={
+		death="1239.1.1"
+	}
+}
+
+34079 = {
+	name="佩塔尔"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34075
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+34080 = {
+	name="安德里亚"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34075
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+
+34081 = {
+	name="波格丹"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34080
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1252.1.1={
+		death="1252.1.1"
+	}
+}
+
+34082 = {
+	name="杰尔吉"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34080
+	1201.1.1={
+		birth="1201.1.1"
+	}
+	1251.1.1={
+		death="1251.1.1"
+	}
+}
+
+34083 = {
+	name="拉多斯拉夫"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34080
+	1203.1.1={
+		birth="1203.1.1"
+	}
+	1254.5.22={
+		death="1254.5.22"
+	}
+}
+
+34084 = {
+	name="武科斯拉娃"
+	female=yes
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34080
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1252.1.1={
+		death="1252.1.1"
+	}
+}
+
+34085 = {
+	name="德拉戈什拉娃"
+	female=yes
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34080
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+34086 = {
+	name="托伦"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34081
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+34087 = {
+	name="佩塔尔"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34086
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+34088 = {
+	name="尤罗斯"
+	#斯蒂芬 Uros
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218507
+	mother=32122
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1250.1.1={
+		add_spouse=34116
+	} 
+	1250.1.1 = {
+		give_nickname=nick_the_great
+	}
+	1277.5.1={
+		death="1277.5.1"
+	}
+}
+
+34089 = {
+	name="杰尔吉"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218506
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1242.8.21={
+		death="1242.8.21"
+	}
+}
+
+34090 = {
+	name="弗拉丁"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218506
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1208.7.1={
+		death="1208.7.1"
+	}
+}
+
+34091 = {
+	name="斯蒂芬"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218506
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1252.1.1={
+		death="1252.1.1"
+	}
+}
+
+34092 = {
+	name="迪米特里耶"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218506
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1282.1.1={
+		death="1282.1.1"
+	}
+}
+
+34093 = {
+	name="迪米特里耶"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34089
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1287.1.1={
+		death="1287.1.1"
+	}
+}
+
+34094 = {
+	name="斯蒂芬"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34089
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+
+34095 = {
+	name="弗拉季斯拉夫"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34093
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+34096 = {
+	name="弗拉特科"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34095
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+
+34097 = {
+	name="拉多斯拉夫"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34095
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+
+34098 = {
+	name="米莉卡"
+	female=yes
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34096
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	1405.11.11={
+		death="1405.11.11"
+	}
+}
+
+34099 = {
+	name="埃菲米娅"
+	female=yes
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218500
+	mother=218501
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+34100 = {
+	name="拉多斯拉夫"
+	#斯蒂芬 Radoslav
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218507
+	mother=215512
+	1193.1.1={
+		birth="1193.1.1"
+	}
+	1220.1.1={
+		add_spouse=34104
+	}
+	1235.1.1={
+		death="1235.1.1"
+	}
+}
+
+34101 = {
+	name="科米尼雅"
+	female=yes
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218507
+	mother=215512
+	1196.1.1={
+		birth="1196.1.1"
+	}
+	1246.1.1={
+		death="1246.1.1"
+	}
+}
+
+34102 = {
+	name="普雷迪斯拉夫"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218507
+	mother=32122
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+34103 = {
+	name="弗拉季斯拉夫"
+	#斯蒂芬 弗拉季斯拉夫
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=218507
+	mother=32122
+	1219.1.1={
+		birth="1219.1.1"
+	}
+	1236.1.1={
+		add_spouse=31162
+	}
+	1267.11.11={
+		death="1267.11.11"
+	}
+}
+
+34108 = {
+	name="德拉戈什拉娃"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34100
+	mother=34104
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1315.1.1={
+		death="1315.1.1"
+	}
+}
+
+34109 = {
+	name="斯塔尼萨"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34108
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1315.1.1={
+		death="1315.1.1"
+	}
+}
+
+34110 = {
+	name="安娜"
+	female=yes
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34108
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1316.1.1={
+		death="1316.1.1"
+	}
+}
+
+34111 = {
+	name="尼古拉"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34109
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1371.1.1={
+		death="1371.1.1"
+	}
+}
+
+34112 = {
+	name="杰尔吉"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34109
+	1302.1.1={
+		birth="1302.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+34113 = {
+	name="斯蒂芬"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34103
+	mother=31162
+	1237.1.1={
+		birth="1237.1.1"
+	}
+	
+	1287.1.1={
+		death="1287.1.1"
+	}
+}
+
+34114 = {
+	name="德塞"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34103
+	mother=31162
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+34117 = {
+	name="斯蒂芬"
+	#AKA 斯蒂芬 Dragutin
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34088
+	mother=34116
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1272.1.1={
+		add_spouse=98043
+	} 
+	1316.3.12={
+		death="1316.3.12"
+	}
+}
+
+34118 = {
+	name="弗拉季斯拉夫"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34117
+	mother=98043
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1300.1.1={
+		add_spouse=182019 #Constanza Morosini
+	}
+	1326.1.1={
+		death="1326.1.1"
+	}
+}
+
+34120 = {
+	name="伊丽莎白"
+	female=yes
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34117
+	mother=98043
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+
+34121 = {
+	name="布伦卡"
+	female=yes
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34088
+	mother=34116
+	1253.1.1={
+		birth="1253.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+
+34122 = {
+	name="康斯坦丁"
+	#斯蒂芬 Konstantin
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=468505
+	mother=467531
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1322.1.6={
+		death="1322.1.6"
+	}
+}
+
+34123 = {
+	name="多布罗斯拉夫"
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20493
+	1081.1.1={
+		birth="1081.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+34124 = {
+	name="杰尔吉"
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20493
+	1083.1.1={
+		birth="1083.1.1"
+	}
+	1131.1.1={
+		death="1131.1.1"
+	}
+}
+
+34125 = {
+	name="马尔科"
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20493
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+34126 = {
+	name="阿萨休斯"
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20493
+	1087.1.1={
+		birth="1087.1.1"
+	}
+	1114.1.1={
+		death="1114.1.1"
+	}
+}
+
+34127 = {
+	name="米哈伊洛"
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20493
+	1089.1.1={
+		birth="1089.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+34128 = {
+	name="托马斯"
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20493
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+34129 = {
+	name="安娜" #real name unknown
+	female=yes
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20538
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+34130 = {
+	name="艾丽娜"
+	female=yes
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=468500
+	mother=467501
+	1333.1.1={
+		birth="1333.1.1"
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+
+34131 = {
+	name="格鲁贝沙" 
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20539
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+34132 = {
+	name="格拉迪尼亚" 
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20539
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1146.1.1={
+		death="1146.1.1"
+	}
+}
+
+34133 = {
+	name="普雷迪赫纳" 
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20539
+	1076.1.1={
+		birth="1076.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+34134 = {
+	name="普雷迪斯拉夫" 
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20539
+	1077.1.1={
+		birth="1077.1.1"
+	}
+	1107.1.1={
+		death="1107.1.1"
+	}
+}
+
+34135 = {
+	name="特夫尔迪斯拉夫" 
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20539
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+34136 = {
+	name="德拉盖罗" 
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=20539
+	1081.1.1={
+		birth="1081.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+34137 = {
+	name="拉多斯拉夫" 
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=34131
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+34138 = {
+	name="约万" 
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=34131
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1152.1.1={
+		death="1152.1.1"
+	}
+}
+
+34139 = {
+	name="弗拉基米尔" 
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=34131
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1154.1.1={
+		death="1154.1.1"
+	}
+}
+
+34140 = {
+	name="拉多斯拉夫" 
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=34132
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+34141 = {
+	name="米哈伊洛" 
+	dynasty=101682
+	religion="orthodox"
+	culture="serbian"
+	father=34140
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1189.1.1={
+		death="1189.1.1"
+	}
+}
+
+34142 = {
+	name="尼古拉"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34087
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1304.1.1={
+		add_spouse=468806
+	}	
+	1326.1.1={
+		death="1326.1.1"
+	}
+}
+
+34143 = {
+	name="弗拉季斯拉夫"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34142
+	mother=468806
+	1310.1.1={
+		birth="1310.1.1"
+	}	
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+
+34144 = {
+	name="博吉察"
+	dynasty=184
+	religion="orthodox"
+	culture="serbian"
+	father=34142
+	mother=468806
+	1310.1.1={
+		birth="1310.1.1"
+	}	
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+218510 = {
+	name="尤罗斯"
+	dynasty=184
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="orthodox"
+	culture="serbian"
+	trait="just"
+	trait="kind"
+	trait="honest"
+	trait="tough_soldier"
+	father=20533
+	1087.1.1={
+		birth="1087.1.1"
+	}
+	1107.1.1={
+	add_spouse=215523
+	}
+	1145.1.1={
+		death="1145.1.1"
+	}
+}
+
+218511 = {
+	name="尤罗斯"
+	female = yes
+	dynasty=184
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="serbian"
+	trait="deceitful"
+	trait="stutter"
+	trait="martial_cleric"
+	father=218510
+	mother=215523
+	1109.1.1={
+		birth="1109.1.1"
+	}
+	1146.1.1={
+		death="1146.1.1"
+	}
+}
+
+218512 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=184
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="serbian"
+	trait="wroth"
+	trait="temperate"
+	trait="charismatic_negotiator"
+	father=218510
+	mother=215523
+	1116.1.1={
+		birth="1116.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+218505 = {
+	name="扎维达"
+	dynasty=184
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	trait="just"
+	trait="cynical"
+	trait="patient"
+	trait="underhanded_rogue"
+	father=218510
+	mother=215523
+	1113.1.1={
+		birth="1113.1.1"
+	}
+	1163.1.1={
+		death="1163.1.1"
+	}
+}
+
+218500 = {
+	name="斯蒂芬"
+	dynasty=184
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="serbian"
+	trait="greedy"
+	trait="patient"
+	trait="martial_cleric"
+	father=218505
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1172.1.1={
+		add_spouse=218501
+	}
+	1199.2.13={
+		death="1199.2.13"
+	}
+}
+
+218501 = {
+	name="安娜"
+	female = yes
+	dynasty=37
+	martial=4
+	diplomacy=4
+	intrigue=8
+	stewardship=8
+	religion="orthodox"
+	culture="serbian"
+	trait="arbitrary"
+	trait="envious"
+	trait="honest"
+	trait="martial_cleric"
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1192.1.1={
+		death="1192.1.1"
+	}
+}
+
+218506 = {
+	name="维堪"
+	dynasty=184
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	religion="orthodox"
+	culture="serbian"
+	trait="patient"
+	trait="thrifty_clerk"
+	father=218500
+	mother=218501
+	1173.1.1={
+		birth="1173.1.1"
+	}
+	1209.1.1={
+		death="1209.1.1"
+	}
+}
+
+218507 = {
+	name="斯蒂芬"
+	dynasty=184
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=4
+	religion="orthodox"
+	culture="serbian"
+	trait="deceitful"
+	trait="tough_soldier"
+	father=218500
+	mother=218501
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1192.1.1={
+		add_spouse=215512
+	}
+	1202.1.1={
+		remove_spouse=215512
+	}
+	1216.1.1={
+		add_spouse=32122
+	}
+	1227.9.24={
+		death="1227.9.24"
+	}
+}
+
+218508 = {
+	name="拉斯特科"
+	dynasty=184
+	martial=4
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="orthodox"
+	culture="serbian"
+	trait="charitable"
+	trait="kind"
+	trait="martial_cleric"
+	father=218500
+	mother=218501
+	1174.1.2={
+		birth="1174.1.2"
+	}
+	1224.1.2={
+		death="1224.1.2"
+	}
+}
+
+468500 = {
+	name="尤罗斯"
+	# AKA: 斯蒂芬 Uros Dusan
+	dynasty=184
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="serbian"
+	trait="diligent"
+	trait="proud"
+	trait="strong"
+	trait="brilliant_strategist"
+	father=468510
+	mother=467541
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1331.8.21 = {
+		give_nickname=nick_the_strong
+	}
+	1332.4.9={
+		add_spouse=467501
+	}
+	1355.12.20={
+		death="1355.12.20"
+	}
+}
+
+468501 = {
+	name="尤罗斯"
+	# AKA: 斯蒂芬 Uros
+	dynasty=184
+	martial=2
+	diplomacy=6
+	intrigue=3
+	stewardship=5
+	religion="orthodox"
+	culture="serbian"
+	father=468500
+	mother=467501
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1367.12.3={
+		death="1367.12.3"
+	}
+}
+
+468502 = {
+	name="西蒙"
+	# AKA: Simeon Uros
+	dynasty=184
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="serbian"
+	trait="proud"
+	trait="thrifty_clerk"
+	father=468510
+	mother=468503
+	1329.1.1={
+		birth="1329.1.1"
+	}
+	1372.1.1={
+		death="1372.1.1"
+	}
+}
+
+468504 = {
+	name="西奥多拉"
+	female = yes
+	dynasty=184
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="serbian"
+	trait="thrifty_clerk"
+	father=468510
+	mother=468503
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	1381.1.1={
+		death="1381.1.1"
+	}
+}
+
+468505 = {
+	name="尤罗斯"
+	# AKA: 斯蒂芬 Uros Milutin
+	dynasty=184
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="serbian"
+	trait="zealous"
+	trait="cynical"
+	trait="skilled_tactician"
+	father=34088
+	mother=34116
+	1253.1.1={
+		birth="1253.1.1"
+	}
+	1278.1.1={
+		add_spouse=467531
+	}
+	1321.10.29={
+		death="1321.10.29"
+	}
+}
+
+468506 = {
+	name="尤罗斯"
+	female = yes
+	dynasty=184
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="serbian"
+	trait="greedy"
+	trait="naive_appeaser"
+	father=468510
+	mother=467541
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1345.1.2={
+		death="1345.1.2"
+	}
+}
+
+468510 = {
+	name="尤罗斯"
+	# AKA: 斯蒂芬 Uros III
+	dynasty=184
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="serbian"
+	trait="bastard"
+	trait="proud"
+	trait="skilled_tactician"
+	father=468505
+	#mother=unknown
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1300.1.1={
+		add_spouse = 467541
+	}
+	1329.1.2={
+		add_spouse = 468503
+	}
+	1331.11.3={
+		death="1331.11.3"
+	}
+}
+
+215008 = {
+	name="普罗贡"
+	dynasty=20071
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="orthodox"
+	culture="serbian" #albanian
+	trait="tough_soldier"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+232538 = {
+	name="戈因"
+	dynasty=20071
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="serbian" #albanian
+	trait="humble"
+	trait="tough_soldier"
+	father=215008
+	1179.1.1={
+		birth="1179.1.1"
+	}
+	1208.1.1={
+		death="1208.1.1"
+	}
+}
+
+232539 = {
+	name="迪米特里耶"
+	dynasty=20071
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="serbian" #albanian
+	trait="honest"
+	trait="martial_cleric"
+	father=215008
+	1182.1.1={
+		birth="1182.1.1"
+	}
+	1211.1.1={
+		add_spouse=34101
+	} 
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+
+232540 = {
+	name="格古尔"
+	dynasty=20072
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="serbian" #albanian
+	trait="greedy"
+	trait="thrifty_clerk"
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1211.1.1={
+		add_spouse=34446
+	}
+	1216.1.1={
+		add_spouse=34101
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+
+34446 = {
+	name="安娜"
+	female=yes
+	dynasty=20071
+	religion="orthodox"
+	culture="serbian"
+	father=232538
+	1195.1.1={
+		birth="1195.1.1"
+	}	
+	1216.1.1={
+		death="1216.1.1"
+	}
+}
+
+34447 = {
+	name="艾琳"
+	female=yes
+	dynasty=20071
+	religion="orthodox"
+	culture="serbian"
+	father=232539
+	mother=34101
+	1212.1.1={
+		birth="1212.1.1"
+	}	
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+34448 = {
+	name="戈洛莫兹"
+	dynasty=20072
+	religion="orthodox"
+	culture="serbian"
+	father=232540
+	mother=34446
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1228.1.1={
+		add_spouse=34447
+	}	
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+163116 = {
+	name="穆提米尔"
+	dynasty=100502
+	religion=slavic_pagan
+	culture="serbian"
+	father=167861
+	830.1.1={
+		birth="830.1.1"
+	}
+	870.1.1 = {
+		religion = orthodox
+	}
+	891.1.1={
+		death="891.1.1"
+	}
+}
+
+167858 = {
+	name="沃基斯拉夫"
+	dynasty=100502
+	religion="slavic_pagan"
+	culture="serbian"
+	735.1.1={
+		birth="735.1.1"
+	}
+	814.1.1={
+		death="814.1.1"
+	}
+}
+
+
+
+
+167859 = {
+	name="拉多斯拉夫"
+	dynasty=100502
+	religion="slavic_pagan"
+	culture="serbian"
+	father=167858
+	755.1.1={
+		birth="755.1.1"
+	}
+	822.1.1={
+		death="822.1.1"
+	}
+}
+
+
+
+
+167860 = {
+	name="普罗西苟"
+	dynasty=100502
+	religion="slavic_pagan"
+	culture="serbian"
+	father=167859
+	785.1.1={
+		birth="785.1.1"
+	}
+	836.1.1={
+		death="836.1.1"
+	}
+}
+
+
+
+
+167861 = {
+	name="弗拉斯蒂米尔"
+	dynasty=100502
+	religion=slavic_pagan
+	culture="serbian"
+	father=167860
+	805.1.1={
+		birth="805.1.1"
+	}
+	851.1.1={
+		death="851.1.1"
+	}
+}
+
+
+
+167862 = {
+	name="斯特罗基米尔"
+	dynasty=100502
+	religion=slavic_pagan
+	culture="serbian"
+	father=167861
+	832.1.1={
+		birth="832.1.1"
+	}
+	870.1.1 = {
+		religion = orthodox
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+
+
+
+167863 = {
+	name="高尼克"
+	dynasty=100502
+	religion=slavic_pagan
+	culture="serbian"
+	father=167861
+	834.1.1={
+		birth="834.1.1"
+	}
+870.1.1 = {
+		religion = orthodox
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+
+
+
+167864 = {
+	name="米尔戛纳" #real name is unknown
+	dynasty=100502
+	female=yes
+	religion=slavic_pagan
+	culture="serbian"
+	father=167861
+	825.1.1={
+		birth="825.1.1"
+	}
+	870.1.1 = {
+		religion = orthodox
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+
+167865 = {
+	name="贝罗杰"
+	dynasty=9560
+	religion="slavic_pagan"
+	culture="serbian"
+father=146009
+	790.1.1={
+		birth="790.1.1"
+	}
+	841.1.1={
+		death="841.1.1"
+	}
+}
+
+
+
+167866 = {
+	name="克拉伊纳"
+	dynasty=9560
+	religion="slavic_pagan"
+	culture="serbian"
+	father=167865
+	815.1.1={
+		birth="815.1.1"
+	}
+	841.1.1.={
+		add_spouse=167864
+	}
+	848.1.1={
+		death="848.1.1"
+	}
+}
+
+
+167867 = {
+	name="赫瓦利米尔"
+	dynasty=9560
+	religion="slavic_pagan"
+	culture="serbian"
+	father=167866
+	mother=167864
+	842.1.1={
+		birth="842.1.1"
+	}
+	870.1.1 = {
+		religion = orthodox
+	}	
+	892.1.1={
+		death="892.1.1"
+	}
+}
+
+
+167868 = {
+	name="库希米尔"
+	dynasty=9560
+	religion="orthodox"
+	culture="serbian"
+	father=167867
+	860.1.1={
+		birth="860.1.1"
+	}
+	
+	910.1.1={
+		death="910.1.1"
+	}
+}
+
+
+167869 = {
+	name="普尔沃斯拉夫"
+	dynasty=100502
+	religion="orthodox"
+	culture="serbian"
+	father=163116
+	850.1.1={
+		birth="850.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+167870 = {
+	name="扎哈里杰"
+	dynasty=100502
+	religion="orthodox"
+	culture="serbian"
+	father=167869
+	870.1.1={
+		birth="870.1.1"
+	}
+	924.1.1={
+		death="924.1.1"
+	}
+}
+
+
+
+
+167871 = {
+	name="布兰"
+	dynasty=100502
+	religion="orthodox"
+	culture="serbian"
+	father=163116
+	855.1.1={
+		birth="855.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+
+
+
+
+167872 = {
+	name="斯蒂芬"
+	dynasty=100502
+	religion="orthodox"
+	culture="serbian"
+	father=163116
+	855.1.1={
+		birth="855.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+
+
+167873 = {
+	name="帕维尔"
+	dynasty=100502
+	religion="orthodox"
+	culture="serbian"
+	father=167871
+	875.1.1={
+		birth="875.1.1"
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+
+
+
+167874 = {
+	name="科隆尼米尔"
+	dynasty=100502
+	religion="orthodox"
+	culture="serbian"
+	father=167862
+	855.1.1={
+		birth="855.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+
+
+
+167875 = {
+	name="恰斯拉夫"
+	dynasty=100502
+	religion="orthodox"
+	culture="serbian"
+	father=167874
+	895.1.1={
+		birth="895.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+
+
+167876 = {
+	name="佩塔尔"
+	dynasty=100502
+	religion="orthodox"
+	culture="serbian"
+	father=167863
+	860.1.1={
+		birth="860.1.1"
+	}
+	917.1.1={
+		death="917.1.1"
+	}
+}

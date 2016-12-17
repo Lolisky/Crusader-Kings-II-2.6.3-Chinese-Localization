@@ -1,0 +1,467 @@
+6830 = {
+	name="Å«ÑÇÔÓ"
+	dynasty=829
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait=content
+	837.1.1={
+		birth=yes
+	}
+	885.1.1={
+		death=yes
+	}
+}
+
+144640 = {
+	name="Íþ¶ûÑÅË¼"
+	dynasty=100376
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father = 28021
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+28021 = {
+	name="ÍßÀ­¿¨"
+	dynasty=100376
+	martial=8
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait="skilled_tactician"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+228021 = {
+	name="µÂ¹ö"
+	dynasty=100376
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=144640
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+
+28023 = {
+	name="µÂÑÇ²¼"
+	dynasty=100377
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait="diligent"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+143150 = {
+	name="¿¨ÔúÍßÌØ"
+	dynasty=100377
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father = 28023
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+
+143151 = {
+	name="Å«ÑÇÌØ"
+	dynasty=100377
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father = 143150
+	1119.1.1={
+		birth="1119.1.1"
+	}
+	1187.1.1={
+		death="1187.1.1"
+	}
+}
+
+167734 = {
+	name="Íþ¶ûÑÅË¼"
+	dynasty=9535
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+
+167735 = {
+	name="¿¨ÔúÒÁ"
+	dynasty=9536
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+167736 = {
+	name="Íþ³¹¿¨Ë¹"
+	dynasty=9537
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+167737 = {
+	name="ÄÇ¶ù¿¨"
+	dynasty=9538
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+167738 = {
+	name="ÌØÔ¼ÒÀ¿ÆÖ÷ÌØ"
+	dynasty=9539
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+228023 = {
+	name="ÅÁÂÞÊ²"
+	dynasty=1040231
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	1165.1.1={
+		birth=yes
+	}
+	1191.1.1={
+		religion="catholic"
+	}
+	1217.9.21={
+		death=yes # Battle of St. Matthew's Day
+	}
+}
+
+28025 = {
+	name="ÄÇ¶ù¿¨"
+	dynasty=100379
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait="clubfooted"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+28026 = {
+	name="°²µÏÑÇÄ¦"
+	dynasty=100380
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait="diligent"
+	trait="humble"
+	trait="martial_cleric"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+144631 = {
+	name="Æ¤ÎÚÌØÈü"
+	dynasty=100380
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father = 28026
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+228026 = {
+	name="°¢ÌØ¿ÝÄ¾Â³Ë¹"
+	dynasty=100380
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait="diligent"
+	trait="humble"
+	trait="martial_cleric"
+	father = 144631
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1219.1.1={
+		death="1219.1.1"
+	}
+}
+
+228025 = {
+	name="ÈûËþÄ·¿¨"
+	dynasty=100379
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait="clubfooted"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+144638 = {
+	name="ÂíÀ´ÑÇ¿¨"
+	dynasty=100411
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father = 28007
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+228007 = {
+	name="ÎÚ³ÛÍß"
+	dynasty=100411
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait="tough_soldier"
+	father=144638
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+28007 = {
+	name="Å·Ì©"
+	dynasty=100411
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+144639 = {
+	name="¼ª³Û¿­"
+	dynasty=100411
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=228007
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+170339 = {
+	name="ÄÇ¶ù¿¨"
+	dynasty=1040231
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=228023
+	1185.1.1={
+		birth=yes
+	}
+	1191.1.1={
+		name="±´ÍÐ¶ûµÂ"
+		religion="catholic"
+	}
+	1210.1.1={
+		death=yes #Battle of Ümara
+	}
+}
+
+170340 = {
+	name="¼ª¶ûµÏË¹"
+	dynasty=1040224
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait="bastard"
+	father=228023
+	1190.1.1={
+		birth=yes
+	}
+	1191.1.1={
+		religion="catholic"
+	}
+	1217.9.21={
+		employer=30444 #Volkwin von Naumburg
+	}
+	1236.9.22={
+		employer=30422 #Nikolaus von Nauen
+	}
+	1254.1.1={
+		employer=30423 #Albrecht Suerbeer
+	}
+	1269.1.1={
+		death=yes
+	}
+}
+
+170347 = {
+	name="¿¨ÂÞÅÁ"
+	dynasty=1040225
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	741.1.1={
+		birth=yes
+	}
+	806.1.1={
+		death=yes
+	}
+}
+
+170348 = {
+	name="ÒÁÀÕÂê"
+	dynasty=1040226
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	739.1.1={
+		birth=yes
+	}
+	797.1.1={
+		death=yes
+	}
+}
+
+170349 = {
+	name="ÒÁ¹þÅ¬Ë¹"
+	dynasty=1040227
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	743.1.1={
+		birth=yes
+	}
+	858.1.1={
+		death=yes
+	}
+}
+
+170350 = {
+	name="·²Åµ"
+	dynasty=1040228
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	738.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}
+
+170352 = {
+	name="¿ÆÒÁÌØ"
+	dynasty=1040230
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	736.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+170338 = {
+	name="°¢ºÕµÙ"
+	dynasty=1040223
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	738.1.1={
+		birth=yes
+	}
+	791.1.1={
+		death=yes
+	}
+}

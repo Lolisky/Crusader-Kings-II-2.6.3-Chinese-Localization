@@ -1,0 +1,12816 @@
+45108 = { 
+	name="¹şÉ£" # ibn Zayd (great-great-grandson of Hasan ibn Zayd, governor of Medina)
+	dynasty=7512 # Alavids of Tabaristan
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait=sayyid
+	trait="tough_soldier"
+	father=163128
+	830.1.1={
+		birth=yes
+	}
+	884.1.6={
+		death=yes
+	}
+}
+
+144060 = {
+	name="°¢¶û-ÄÂË¹ËşÏ£µÂ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=3088
+	trait="sayyid"
+	1092.1.1={
+		birth="1092.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+144061 = {
+	name="°¢¶û-À­Ï£µÂ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=144060
+	trait="sayyid"
+	1109.1.1={
+		birth="1109.1.1"
+	}
+	1138.1.1={
+		death="1138.1.1"
+	}
+}
+
+144062 = {
+	name="°¢¶û-ÄÂ¿ËËş·Æ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=3088
+	trait="sayyid"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+144063 = {
+	name="°¢¶û-ÄÂË¹Ëş¼ÃµÂ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=144062
+	trait="sayyid"
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+144064 = {
+	name="°¢¶û-ÄÂË¹ËşµÏ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=144063
+	trait="sayyid"
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+144094 = {
+	name="°¢¶û-Ä¾É­ËÕ¶û ÎÚÂê¶û"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1263.1.1={
+		death="1263.1.1"
+	}
+}
+
+144095 = {
+	name="°¢¶û-ÄÂÔú·¨¶û ÓÈËØ¸£"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 144094
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+144096 = {
+	name="°¢¶û-ÄÂ°¢ÑÇµÂ ´ïÎÚµÂ"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 144094
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+144097 = {
+	name="°¢¶û-ÄÂ°¢ÑÇµÂ ´ïÎÚµÂ"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 144096
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+144098 = {
+	name="°¢¶û-ÄÂÑÇÏ£µÂ °¢Àï"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 144097
+	1303.1.1={
+		birth="1303.1.1"
+	}
+	1363.1.1={
+		death="1363.1.1"
+	}
+}
+
+144145 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=100690
+	religion="shiite"
+	culture="bedouin_arabic"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+144146 = {
+	name="·¨µÂÀÕ"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 20900
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+
+
+144147 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 144146
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1149.1.1={
+		death="1149.1.1"
+	}
+}
+
+144148 = {
+	name="°¢Àï"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 20900
+	1081.1.1={
+		birth="1081.1.1"
+	}
+	1151.1.1={
+		death="1151.1.1"
+	}
+}
+
+144149 = {
+	name="¹ş¸ñÀ­Ë¹"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 144147
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1152.1.1={
+		death="1152.1.1"
+	}
+}
+
+144150 = {
+	name="É³¿Ë¶û"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 144148
+	1101.1.1={
+		birth="1101.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+144151 = {
+	name="°¢¶û-ºîÈüÒò"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 20900
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1151.1.1={
+		death="1151.1.1"
+	}
+}
+
+144152 = {
+	name="¹şÉ£"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 144151
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+144153 = {
+	name="°¬¹şÂõµÂ"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 144151
+	1103.1.1={
+		birth="1103.1.1"
+	}
+	1149.1.1={
+		death="1149.1.1"
+	}
+}
+
+144154 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 144153
+	1143.1.1={
+		birth="1143.1.1"
+	}
+	1209.1.1={
+		death="1209.1.1"
+	}
+}
+
+144560 = {
+	name="¹ş·òË¹"
+	dynasty=100690
+	religion="shiite"
+	culture="bedouin_arabic"
+	father = 144145
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+144561 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=100690
+	religion="shiite"
+	culture="bedouin_arabic"
+	father = 144560
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+144562 = {
+	name="Ï£À­ÀÕ"
+	dynasty=100690
+	religion="shiite"
+	culture="bedouin_arabic"
+	father = 144561
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1278.1.1={
+		death="1278.1.1"
+	}
+}
+
+144563 = {
+	name="¿¨¹şÌ¹"
+	dynasty=100690
+	religion="shiite"
+	culture="bedouin_arabic"
+	father = 144562
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+144564 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=100690
+	religion="shiite"
+	culture="bedouin_arabic"
+	father = 144563
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+20731 = {
+	name="¿¨Î÷Ä·"
+	dynasty=101054
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="temperate"
+	trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20740 = {
+	name="ËÕÀ³Âü"
+	dynasty=101048
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20815 = {
+	name="ÒÁË¹ÂíÌØ"
+	dynasty=101047
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20818 = {
+	name="ÄÂ°²Èø¶û"
+	dynasty=100808
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="diligent"
+	trait="kind"
+	trait="skilled_tactician"
+	trait="cynical"
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+20821 = {
+	name="°¢Àï"
+	dynasty=101043
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="wroth"
+	trait="just"
+	trait="flamboyant_schemer"
+	trait="cynical"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20822 = {
+	name="ÄÉÎ÷²·"
+	dynasty=101042
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="skilled_tactician"
+	trait="cynical"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+20838 = {
+	name="¹ş±È±È"
+	dynasty=101031
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="greedy"
+	trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20849 = {
+	name="¿¼Ë¹À­"
+	female = yes
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="arbitrary"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20856 = {
+	name="°¢Ä·Â³"
+	dynasty=101023
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="lustful"
+	trait="diligent"
+	trait="kind"
+	trait="temperate"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20882 = {
+	name="ÇÇ¹ş¶û"
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20900 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=792
+	martial=5
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="lustful"
+	trait="flamboyant_schemer"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+
+226001 = {
+	name="¿¨Î÷Ä·"
+	dynasty=100683
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+226002 = {
+	name="¿¨ÀïÄ·¶¡"
+	dynasty=100684
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="proud"
+	trait="scholarly_theologian"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+226004 = {
+	name="ÄÂË¹Ëş·¨"
+	dynasty=100700
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="underhanded_rogue"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+226006 = {
+	name="Ò¶ÆëµÂ"
+	dynasty=100708
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="brave"
+	trait="scholarly_theologian"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+226008 = {
+	name="¹şÏ£Ä·¶¡"
+	dynasty=100734
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+227001 = {
+	name="¿¨ÂõÀÕ¶¡"
+	dynasty=100649
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="chaste"
+	trait="kind"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+227000 = {
+	name="°¢¶û-ÄÉË¹¶û"
+	# AKA: Ahmad al
+	dynasty=101727
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	trait="proud"
+	trait="just"
+	trait="charismatic_negotiator"
+	father = 144064
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+3080 = {
+	name="°¢¶û-ËşÒÁ"
+	# AKA: Abdul
+	dynasty=101727
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=8
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="wroth"
+	trait="cynical"
+	trait="underhanded_rogue"
+	trait="sayyid"
+	father=34025
+	932.1.1={
+		birth="932.1.1"
+	}
+	1003.1.1={
+		death="1003.1.1"
+	}
+}
+
+3082 = {
+	name="°¢¶û-¿¨µÏ¶û"
+	# AKA: Ahmad al
+	dynasty=101727
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="deceitful"
+	trait="martial_cleric"
+	trait="sayyid"
+	father=34023
+	943.1.1={
+		birth="943.1.1"
+	}
+	1031.1.1={
+		death="1031.1.1"
+	}
+}
+
+3084 = {
+	name="°¢¶û-¿­Ä·"
+	# AKA: Abdallah al
+	dynasty=101727
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="scholarly_theologian"
+	trait="sayyid"
+	father=3082
+	1017.1.1={
+		birth="1017.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+3086 = {
+	name="°¢¶û-ÄÂ¿ËËşµÏ"
+	# AKA: Abdallah al
+	dynasty=101727
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="martial_cleric"
+	trait="sayyid"
+	father=34026
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+3088 = {
+	name="°¢¶û-ÄÂË¹ËşÏ£¶û"
+	# AKA: Ahmad al
+	dynasty=101727
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="charitable"
+	trait="martial_cleric"
+	trait="sayyid"
+	father=3086
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+3200 = {
+	name="°¢²·¶ÅÀÕ-À­ºÕÂü"
+	dynasty=597
+
+	father=73686
+	
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	
+	religion=sunni
+	culture=bedouin_arabic
+
+	trait=patient
+	trait=sayyid
+	trait=scholarly_theologian
+
+	891.1.7={
+		birth=yes
+	}
+	961.10.15={
+		death=yes
+	}
+}
+
+3202 = {
+	name="°¢¶û-¹ş¿¨Ä·"
+	dynasty=597
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="kind"
+	trait="sayyid"
+	trait="scholarly_theologian"
+	father=3200
+	915.1.13={
+		birth="915.1.13"
+	}
+	976.10.16={
+		death="976.10.16"
+	}
+}
+
+3204 = {
+	name="Ï£É³Ä·"
+	dynasty=597
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="chaste"
+	trait="wroth"
+	trait="sayyid"
+	trait="thrifty_clerk"
+	father=3202
+	965.6.11={
+		birth="965.6.11"
+	}
+	1013.4.19={
+		death="1013.4.19"
+	}
+}
+
+3208 = {
+	name="Ï£É³Ä·"
+	dynasty=597
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="humble"
+	trait="sayyid"
+	trait="flamboyant_schemer"
+	father=73677
+	980.1.1={
+		birth="980.1.1"
+	}
+	1036.1.1={
+		death="1036.1.1"
+	}
+}
+
+3213 = {
+	name="ÂŞÂüÈø"
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="arbitrary"
+	trait="naive_appeaser"
+	1050.1.2={
+		birth="1050.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+3808 = {
+	name="°¢Àï"
+	dynasty=588
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="chaste"
+	trait="greedy"
+	trait="amateurish_plotter"
+	939.1.2={
+		birth="939.1.2"
+	}
+	1017.1.2={
+		death="1017.1.2"
+	}
+}
+
+3810 = {
+	name="µÏ°İË¹"
+	dynasty=588
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="amateurish_plotter"
+	father=3808
+	979.1.2={
+		birth="979.1.2"
+	}
+	1029.1.2={
+		death="1029.1.2"
+	}
+}
+
+3812 = {
+	name="ÂüËÕ¶û"
+	dynasty=588
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="flamboyant_schemer"
+	father=3810
+	1002.1.2={
+		birth="1002.1.2"
+	}
+	1052.1.2={
+		death="1052.1.2"
+	}
+}
+
+3816 = {
+	name="ÄÂËşÃ×µÂ-µÀÀ³"
+	# AKA: Mu'tamid ad
+	dynasty=101862
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="patient"
+	trait="cynical"
+	trait="scholarly_theologian"
+	father=159392
+	978.1.1={
+		birth="978.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+3818 = {
+	name="ÔúÒÁÄ·-µÀÀ³"
+	# AKA: Za'im ad
+	dynasty=101862
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	father=3816
+	1002.1.1={
+		birth="1002.1.1"
+	}
+	1052.1.1={
+		death="1052.1.1"
+	}
+}
+
+3820 = {
+	name="°¢À­Ä· °¢µÏ-¶¡"
+	# AKA: Alam ad
+	dynasty=101862
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="arbitrary"
+	trait="tough_soldier"
+	father=3816
+	1014.1.1={
+		birth="1014.1.1"
+	}
+	1061.1.1={
+		death="1061.1.1"
+	}
+}
+
+3828 = {
+	name="°¢±È ÂêÄá°¢ ¹şÃ×Ë¹"
+	# AKA: Abu Man'a Khamis
+	dynasty=582
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="scholarly_theologian"
+	999.1.2={
+		birth="999.1.2"
+	}
+	1044.1.2={
+		death="1044.1.2"
+	}
+}
+
+3830 = {
+	name="°¢±È Èø¹şĞÁ"
+	# AKA: Abu Shashasham
+	dynasty=581
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="just"
+	trait="kind"
+	trait="martial_cleric"
+	father=3828
+	1020.1.2={
+		birth="1020.1.2"
+	}
+	1052.1.2={
+		death="1052.1.2"
+	}
+}
+
+3832 = {
+	name="ÒÀÈö"
+	dynasty=581
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="cynical"
+	trait="fortune_builder"
+	father=3828
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1056.1.1={
+		death="1056.1.1"
+	}
+}
+
+3834 = {
+	name="ÄÉË¹¶û"
+	dynasty=580
+	martial=4
+	diplomacy=4
+	intrigue=8
+	stewardship=4
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="just"
+	trait="tough_soldier"
+	father=3832
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1057.1.2={
+		death="1057.1.2"
+	}
+}
+
+3930 = {
+	name="µÏÑÇ·¨"
+	dynasty=568
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="tough_soldier"
+	1036.1.2={
+		birth="1036.1.2"
+	}
+	1086.1.2={
+		death="1086.1.2"
+	}
+}
+
+45029 = {
+	name="°¢±È"
+	# AKA: Abu al
+	dynasty=594
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="deceitful"
+	trait="patient"
+	trait="tough_soldier"
+	1000.1.2={
+		birth="1000.1.2"
+	}
+	1042.1.2={
+		death="1042.1.2"
+	}
+}
+
+45035 = {
+	name="°¢Àï"
+	dynasty=590
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+45036 = {
+	name="°¬¹şÂõµÂ"
+	dynasty=590
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=45035
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1084.1.1={
+		death="1084.1.1"
+	}
+}
+
+45037 = {
+	name="°¢°ÎË¹"
+	dynasty=7503
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=45040
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1084.1.1={
+		death="1084.1.1"
+	}
+}
+
+45038 = {
+	name="×æÈğ¶û"
+	dynasty=7503
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=45037
+	trait="content"
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+45039 = {
+	name="ÂíËÕµÂ"
+	dynasty=7503
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="humble"
+	father=45036
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+45040 = {
+	name="°¢°ÎË¹"
+	# AKA: Mukarram
+	dynasty=7503
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+45041 = {
+	name="ËØµÂ"
+	# AKA: Su'ud
+	dynasty=7503
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="ambitious"
+	father=45038
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+45042 = {
+	name="¼ÖÀ­ÌØ"
+	dynasty=7503
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=45039
+	trait="ambitious"
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1138.1.1={
+		death="1138.1.1"
+	}
+}
+
+45043 = {
+	name="Èø°Í"
+	dynasty=7503
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="ambitious"
+	father=45041
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+
+45044 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=7503
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=45043
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1153.1.1={
+		death="1153.1.1"
+	}
+}
+
+45045 = {
+	name="ÄÂº±Ä¬µÂ"
+	# AKA: Imran
+	dynasty=7503
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=45043
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+45046 = {
+	name="°¢Àï" #placeholder name for unnamed child who needs a regent
+	dynasty=7503
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=45045
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+
+45047 = {
+	name="¼ÖÍß¶û"
+	dynasty=7504
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="detached_priest"
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+
+45048 = {
+	name="µÏÑÇ·¨"
+	dynasty=576
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	add_claim = d_shiite
+	father=159422
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+45049 = {
+	name="·¨µÂÀÕ"
+	dynasty=576
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	add_claim = d_shiite
+	father=45048
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1068.1.1={
+		death="1068.1.1"
+	}
+}
+
+45050 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=576
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	add_claim = d_shiite
+	father=45048
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1099.1.1={
+		death="1099.1.1"
+	}
+}
+
+45051 = {
+	name="¹şÌØÄ·"
+	dynasty=7505
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1109.1.1={
+		death="1109.1.1"
+	}
+}
+
+45052 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=7505
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=45051
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+45053 = {
+	name="ÂíÄá"
+	# AKA: Ma'n
+	dynasty=7505
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=45051
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+45054 = {
+	name="Ï£É³Ä·"
+	dynasty=7506
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+}
+
+45055 = {
+	name="ÄÂº±Ä¬µÂ"
+	# AKA: Yahya
+	dynasty=576
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	add_claim = d_shiite
+	father=45050
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1137.1.1={
+		death="1137.1.1"
+	}
+}
+
+45056 = {
+	name="ÔúÒÁµÂ"
+	dynasty=576
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	add_claim = d_shiite
+	father=45050
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+45057 = {
+	name="ËÕÀ³Âü"
+	dynasty=576
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	add_claim = d_shiite
+	father=45050
+	1076.1.1={
+		birth="1076.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+45058 = {
+	name="°¢»ù"
+	# AKA: Ai
+	dynasty=576
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	add_claim = d_shiite
+	father=45056
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1138.1.1={
+		death="1138.1.1"
+	}
+}
+
+45059 = {
+	name="°¢ÂêµÂ"
+	dynasty=576
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	add_claim = d_shiite
+	father=45057
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+45060 = {
+	name="°¢Àï"
+	dynasty=7503
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=45043
+	trait="ambitious"
+	1107.1.1={
+		birth="1107.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+85000 = {
+	name="ËşÌá¼ª°ÂË¹"
+	dynasty=20056
+	martial=7
+	diplomacy=3
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="bedouin_arabic"
+	trait="tough_soldier"
+	trait="brave"
+	trait="diligent"
+	trait="proud"
+	trait="patient"
+	trait="greedy"
+	trait="cynical"
+	trait="kind"
+	1055.1.2={
+		birth="1055.1.2"
+		culture="greek"
+		employer=1742
+	}
+	1080.1.1={
+		dynasty=1029094
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+32892 = {
+	name="ÎÚÂê¶û" 
+	dynasty=7273
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=32891
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1304.1.1={
+		death="1304.1.1"
+	}
+}
+
+32943 = {
+	name="°¢Àï" 
+	dynasty=7273
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=32892
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+
+32944 = {
+	name="¹şÆë °¢µÏ-¶¡" 
+	dynasty=7273
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=32943
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+32947 = {
+	name="°¢Àï" 
+	dynasty=7273
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=32944
+	1317.1.1={
+		birth="1317.1.1"
+	}
+	1344.1.1={
+		death="1344.1.1"
+	}
+}
+
+32891 = {
+	name="µÏÄáÑÇ-ºú×È" 
+	dynasty=7273
+	religion="sunni"
+	culture="bedouin_arabic"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+32945 = {
+	name="Èö²¼¶ú °¢µÏ-¶¡" 
+	dynasty=7273
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=32943
+	1297.1.1={
+		birth="1297.1.1"
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+
+32946 = {
+	name="¼ÖÂí¶û °¢µÏ-¶¡" 
+	dynasty=7273
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=32943
+	1299.1.1={
+		birth="1299.1.1"
+	}
+	1337.1.1={
+		death="1337.1.1"
+	}
+}
+
+32948 = {
+	name="°¬¹şÂõµÂ °¢µÏ-¶¡" 
+	dynasty=7273
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=32946
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+
+20888 = {
+	name="°¬ÓÈ²·"
+	dynasty=101057
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20802 = {
+	name="Ò¶ÆëµÂ"
+	dynasty=101057
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20719 = {
+	name="°¢²·¶Å¶û-À­ºÕÂü"
+	# AKA: Abdul
+	dynasty=101057
+	martial=4
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="greedy"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+33900 = {
+	name="°¢°ÍË¹" # Muhammad's paternal half-uncle
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33924
+	trait="sayyid"
+	566.1.1={
+		birth="566.1.1"
+	}
+	653.1.1={
+		death="653.1.1"
+	}
+}
+
+33901 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33900
+	trait="sayyid"
+	618.1.1={
+		birth="618.1.1"
+	}
+	687.1.1={
+		death="687.1.1"
+	}
+}
+
+33902 = {
+	name="°¢Àï"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33901
+	trait="sayyid"
+	648.1.1={
+		birth="648.1.1"
+	}
+	737.1.1={
+		death="737.1.1"
+	}
+}
+
+33910 = {
+	name="°¢±È ËşÀïÆÕ" # Muhammad's paternal uncle
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33924
+	trait="sayyid"
+	549.1.1={
+		birth="549.1.1"
+	}
+	619.1.1={
+		death="619.1.1"
+	}
+}
+
+33911 = {
+	name="°¢Àï" # The Fourth Caliph & First Imam
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33910
+	trait="sayyid"
+	598.10.23={
+		birth="598.10.23"
+	}
+	623.1.1={
+		add_spouse=33921 # Fatimah
+	}
+	661.2.28={
+		death="661.2.28"
+	}
+}
+
+33912 = {
+	name="ºîÈüÒò" # Son of Ali and Fatimah
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33911
+	mother=33921
+	trait="sayyid"
+	626.1.8={
+		birth="626.1.8"
+	}
+	680.10.10={
+		death="680.10.10"
+	}
+}
+
+33913 = {
+	name="°¢Àï" # Zayn al-Abidin
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33912
+	trait="sayyid"
+	659.1.1={
+		birth="659.1.1"
+	}
+	712.1.1={
+		death="712.1.1"
+	}
+}
+
+33914 = {
+	name="ÄÂº±Ä¬µÂ" # al-Baqir
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33913
+	trait="sayyid"
+	676.1.1={
+		birth="676.1.1"
+	}
+	733.1.1={
+		death="733.1.1"
+	}
+}
+
+33915 = {
+	name="¼Ö·¨¶û" # al-Sadiq
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33914
+	trait="sayyid"
+	702.4.20={
+		birth="702.4.20"
+	}
+	765.12.14={
+		death="765.12.14"
+	}
+}
+
+33916 = {
+	name="ÒÁË¹Ã·¶û" # The Sixth Ismaili Imam
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33915
+	trait="sayyid"
+	721.1.1={
+		birth="721.1.1"
+	}
+	755.1.1={
+		death="755.1.1"
+	}
+}
+
+33917 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33916
+	trait="sayyid"
+	740.1.1={
+		birth="740.1.1"
+	}
+	813.1.1={
+		death="813.1.1"
+	}
+}
+
+33918 = {
+	name="°¢²·¶ÅÀ­" # Ahmad al-Wafi - the Eighth Ismaili Imam
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33917
+	trait="sayyid"
+	795.1.1={
+		birth="795.1.1"
+	}
+	828.1.1={
+		death="828.1.1"
+	}
+}
+
+33919 = {
+	name="°¬¹şÂõµÂ" # Muhammad at-Taqi - the Ninth Ismaili Imam
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33918
+	trait="sayyid"
+	814.1.1={
+		birth="814.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+33920 = {
+	name="ºîÈüÒò" # Rabi Abdullah - the Tenth Ismaili Imam
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33919
+	trait="sayyid"
+	834.1.1={
+		birth="834.1.1"
+	}
+	881.1.1={
+		death="881.1.1"
+	}
+}
+
+33921 = {
+	name="·¨µÙÂê" # Daughter of the Prophet Muhammad
+	female=yes
+	dynasty=589
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33922
+	605.1.1={
+		birth="605.1.1"
+	}
+	633.1.1={
+		death="633.1.1"
+	}
+}
+
+33922 = {
+	name="ÄÂº±Ä¬µÂ" # The Prophet
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33923
+	occluded=yes
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	learning=10
+	trait="mastermind_theologian"
+	trait="sayyid"
+	trait="mystic"
+	trait="zealous"
+	trait="patient"
+	trait="gregarious"
+	trait="ambitious"
+	570.4.26={
+		birth="570.4.26"
+	}
+	632.6.8={
+		death="632.6.8"
+	}
+}
+33923 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father=33924
+	545.1.1={
+		birth="545.1.1"
+	}
+	570.1.1={
+		death="570.1.1"
+	}
+}
+33924 = {
+	name="Èû°Í" # Abdul Muttalib
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father=33925
+	497.1.1={
+		birth="497.1.1"
+	}
+	578.1.1={
+		death="578.1.1"
+	}
+}
+
+33925 = {
+	name="¹şÏ£Ä·" # Founder of the great Hashemite dynasty
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	trait = "twin"
+	father = 163004
+	464.1.1={
+		birth="464.1.1"
+	}
+	497.1.1={
+		death="497.1.1"
+	}
+}
+
+33926 = {
+	name="¹şÉ£" # Son of Ali and Fatimah. The Second Imam of Shi'a Islam
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33911
+	mother=33921
+	trait="sayyid"
+	625.3.1={
+		birth="625.3.1"
+	}
+	670.3.6={
+		death="670.3.6"
+	}
+}
+
+33927 = {
+	name="¹şÉ£" # al-Hasan al-Muthanna
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33926
+	trait="sayyid"
+	664.1.1={
+		birth="664.1.1"
+	}
+	720.3.6={
+		death="720.3.6"
+	}
+}
+
+34000 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33902
+	trait="sayyid"
+	690.1.1={
+		birth="690.1.1"
+	}
+	750.1.1={
+		death="750.1.1"
+	}
+}
+
+34001 = {
+	name="°¢Ë¹-Èø·¨ºÕ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34000
+	trait="sayyid"
+	721.1.1={
+		birth="721.1.1"
+	}
+	754.6.10={
+		death="754.6.10"
+	}
+}
+
+34002 = {
+	name="°¢¶û-ÂüËÕ¶û"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34000
+	trait="sayyid"
+	714.1.1={
+		birth=yes
+	}
+	732.1.1={
+		add_spouse=188746
+	}
+	769.1.1 = {
+		add_claim = k_sindh  # Vassal but de facto independent
+		add_claim = k_armenia  # Vassal but de facto independent
+		add_claim = d_khiva  # Vassal but de facto independent
+		add_claim = d_khorasan  # Vassal but de facto independent
+	}
+	775.1.1={
+		death=yes
+	}
+}
+
+34003 = {
+	name="°¢¶û-ÂõºÕµÏ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34002
+	mother=188746
+	trait="sayyid"
+	735.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+34004 = {
+	name="°¢¶û-¹şµÏ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34003
+	trait="sayyid"
+	755.1.1={
+		birth="755.1.1"
+	}
+	786.1.1={
+		death="786.1.1"
+	}
+}
+
+34005 = {
+	name="°¢¶û-À­Ï£µÂ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34003
+	trait="sayyid"
+	763.1.1={
+		birth="763.1.1"
+	}
+	809.1.1={
+		death="809.1.1"
+	}
+}
+
+34006 = {
+	name="°¢¶û-°¢Ã÷"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34005
+	trait="sayyid"
+	787.1.1={
+		birth="787.1.1"
+	}
+	813.1.1={
+		death="813.1.1"
+	}
+}
+
+34007 = {
+	name="°¢¶û-ÂíÃÉ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34005
+	trait="sayyid"
+	786.9.13={
+		birth="786.9.13"
+	}
+	833.8.9={
+		death="833.8.9"
+	}
+}
+
+34008 = {
+	name="°¢¶û-ÄÂ°¢Ì¨ËçÄ·"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34005
+	trait="sayyid"
+	794.1.1={
+		birth="794.1.1"
+	}
+	842.1.5={
+		death="842.1.5"
+	}
+}
+
+34009 = {
+	name="°¢¶û-ÍßÌá¿Ë"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34008
+	trait="sayyid"
+	817.1.1={
+		birth="817.1.1"
+	}
+	847.1.1={
+		death="847.1.1"
+	}
+}
+
+34010 = {
+	name="°¢¶û-ÄÂËşÍß»ùÀÕ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34008
+	trait="sayyid"
+	821.3.1={
+		birth="821.3.1"
+	}
+	861.12.1={
+		death = {
+			death_reason = death_murder
+			killer = 34012
+		}
+	}
+}
+
+34011 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34008
+	trait="sayyid"
+	823.1.1={
+		birth="823.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+34012 = {
+	name="°¢¶û-ÃÉËşÈü¶û"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34010
+	trait="sayyid"
+	840.1.1={
+		birth="840.1.1"
+	}
+	862.6.7={
+		death = {
+			death_reason = death_murder_unknown
+			killer = 34014
+		}
+	}
+}
+
+34013 = {
+	name="°¢¶û-ÄÂË¹ËşÒò"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34011
+	trait="sayyid"
+	840.1.1={
+		birth=yes
+	}
+	866.1.1={
+		death = {
+			death_reason = death_execution
+			killer = 34014
+		}
+	}
+}
+
+34014 = {
+	name="°¢¶û-ÄÂËş×È"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34010
+	trait="sayyid"
+	trait="cruel"
+	trait="cynical"
+	trait="arbitrary"
+	trait="envious"
+	trait="lustful"
+	trait="indulgent_wastrel"
+	
+	847.1.1={
+		birth=yes
+	}
+	866.1.1={
+		add_claim = k_egypt # Tulunids
+		add_claim = d_hamadan # Dulafids
+		add_claim = d_khorasan # Tahirids
+		add_claim = d_birjand # Saffarids
+		add_claim = d_medina # Hashimids
+		add_claim = d_aleppo # Bursaqids
+		add_claim = d_tripoli # Sulaymanids
+		add_claim = d_edessa # Mustazhirids
+		add_claim = d_azerbaijan # Yazidids
+	}
+	869.1.1={
+		death=yes
+	}
+}
+
+34015 = {
+	name="°¢¶û-ÄÂºÕËşµÏ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34009
+	trait="sayyid"
+	833.1.1={
+		birth=yes
+	}
+	870.6.1={
+		death=yes
+	}
+}
+
+34016 = {
+	name="°¢¶û-ÄÂËşÃ×µÂ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34010
+	trait="sayyid"
+	trait="just"
+	trait="kind"
+	trait="diligent"
+	trait="zealous"
+	trait="grey_eminence"
+	844.1.1={
+		birth=yes
+	}
+	892.10.1={
+		death=yes
+	}
+}
+
+34017 = {
+	name="°¢¶û-ÄÂÍß·¨¿Ë"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34010
+	trait="sayyid"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+34018 = {
+	name="°¢¶û-ÄÂËşµÏµÂ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34017
+	trait="sayyid"
+	857.1.1={
+		birth="857.1.1"
+	}
+	902.1.1={
+		death="902.1.1"
+	}
+}
+
+34019 = {
+	name="°¢¶û-ÄÂ¿ËËş·Æ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34018
+	trait="sayyid"
+	880.1.1={
+		birth="880.1.1"
+	}
+	908.1.1={
+		death="908.1.1"
+	}
+}
+
+34020 = {
+	name="°¢¶û-¿¨Ï£¶û"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34018
+	trait="sayyid"
+	899.1.1={
+		birth="899.1.1"
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+
+34021 = {
+	name="°¢¶û-ÄÂ¿ËËşµÏ¶û"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34018
+	trait="sayyid"
+	895.1.1={
+		birth="895.1.1"
+	}
+	932.1.1={
+		death="932.1.1"
+	}
+}
+
+34022 = {
+	name="°¢¶û-À­µÏ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34021
+	trait="sayyid"
+	912.1.1={
+		birth="912.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+34023 = {
+	name="°¢¶û-ÄÂËş»ù"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34021
+	trait="sayyid"
+	915.1.1={
+		birth="915.1.1"
+	}
+	944.1.1={
+		death="944.1.1"
+	}
+}
+
+34024 = {
+	name="°¢¶û-ÄÂË¹Ëş¿Ë·Æ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34019
+	trait="sayyid"
+	900.1.1={
+		birth="900.1.1"
+	}
+	946.1.1={
+		death="946.1.1"
+	}
+}
+
+34025 = {
+	name="°¢¶û-ÄÂÌá"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34021
+	trait="sayyid"
+	916.1.1={
+		birth="916.1.1"
+	}
+	974.1.1={
+		death="974.1.1"
+	}
+}
+
+34026 = {
+	name="ÄÂº±Ä¬µÂ"
+	#Muhammad Dhakirat
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=3084
+	trait="sayyid"
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+34027 = {
+	name="°¢×È-ÄÂÌá"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=227000
+	trait="sayyid"
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+34028 = {
+	name="°¢¶û-ÄÂË¹Ì¹Ëç¶û"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34027
+	trait="sayyid"
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+
+34029 = {
+	name="°¢¶û-ÄÂË¹Ì¨ËçÄ¾"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34028
+	trait="sayyid"
+	1213.1.1={
+		birth="1213.1.1"
+	}
+	1258.2.20={
+		death="1258.2.20"
+	}
+}
+
+34030 = {
+	name="°¢±È-²®¿Ë¶û"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=144060
+	trait="sayyid"
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+34031 = {
+	name="°¢¶û-¹şÉ£"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34030
+	trait="sayyid"
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+
+34032 = {
+	name="°¢¶û-ÄÂË¹Ì¹Ëç¶û"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34031
+	trait="sayyid"
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+34033 = {
+	name="°¢¶û-¹ş»ùÄ·"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34032
+	trait="sayyid"
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+
+34034 = {
+	name="°¢¶û-ÄÂË¹Ëş¿Ë·Æ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34033
+	trait="sayyid"
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+34035 = {
+	name="°¬¹şÂõµÂ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34033
+	trait="sayyid"
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+34036 = {
+	name="°¢¶û-ÍßÌá¿Ë"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34035
+	trait="sayyid"
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+
+34037 = {
+	name="°¢¶û-¹ş»ùÄ·"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34034
+	trait="sayyid"
+	1302.1.1={
+		birth="1302.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+34038 = {
+	name="°¢¶û-ÄÂËşµÏµÂ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34034
+	trait="sayyid"
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+34039 = {
+	name="°¢¶û-ÄÂËşÍß»ùÀÕ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34038
+	trait="sayyid"
+	1335.1.1={
+		birth="1335.1.1"
+	}
+	1406.1.1={
+		death="1406.1.1"
+	}
+}
+
+3826 = {
+	name="¹şÂíÔú"
+	dynasty=583
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="amateurish_plotter"
+	father=34040
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1069.1.1={
+		death="1069.1.1"
+	}
+}
+
+34040 = {
+	name="°¢±È¡¤¿¨ÂõÀÕ °¢¶û¡¤¿¨"
+	dynasty=583
+	religion="sunni"
+	culture="bedouin_arabic"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+}
+
+
+33928 = {
+	name="°¢²·¶ÅÀ­" # son of Hassan al-Muthanna
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33927
+	trait="sayyid"
+	700.1.1={
+		birth="700.1.1"
+	}
+	767.1.1={
+		death="767.1.1"
+	}
+}
+
+33929 = {
+	name="ÄÂÈø"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33928
+	trait="sayyid"
+	720.1.1={
+		birth="720.1.1"
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+
+33930 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33929
+	trait="sayyid"
+	740.1.1={
+		birth="740.1.1"
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+
+33931 = {
+	name="ÄÂÈø"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33930
+	trait="sayyid"
+	780.1.1={
+		birth="780.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+33932 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33931
+	trait="sayyid"
+	820.1.1={
+		birth="820.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+34041 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33932
+	trait="sayyid"
+	860.1.1={
+		birth="860.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+34042 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34041
+	trait="sayyid"
+	900.1.1={
+		birth="900.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+
+34043 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34042
+	trait="sayyid"
+	940.1.1={
+		birth="940.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+34044 = {
+	name="°¢Àï"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34043
+	trait="sayyid"
+	970.1.1={
+		birth="970.1.1"
+	}
+	1039.1.1={
+		death="1039.1.1"
+	}
+}
+
+34045 = {
+	name="ËÕÀ³Âü"
+	dynasty=7296
+	culture="bedouin_arabic"
+	religion="sunni"
+	father=34044
+	trait="sayyid"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1061.1.1={
+		death="1061.1.1"
+	}
+}
+
+34046 = {
+	name="ºîÈüÒò"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34045
+	trait="sayyid"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+34047 = {
+	name="ÒÁÈø"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34046
+	trait="sayyid"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+34048 = {
+	name="°¢²¼µÂ °¢¶û¿¨"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34047
+	trait="sayyid"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+34049 = {
+	name="Âí¶¡"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=34048
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+34050 = {
+	name="°²µÂÈğË¹"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34049
+	trait="sayyid"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+
+34051 = {
+	name="ÆäËü´ï" # Abu-Aziz Qatada, Emir of Mecca
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=34049
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1220.1.1={
+		death = {
+			death_reason = death_murder
+			killer = 34052
+		}
+	}
+}
+34052 = {
+	name="¹şÉ£"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34051
+	trait="sayyid"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+34053 = {
+	name="À­¼ª"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34051
+	trait="sayyid"
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1254.1.1={
+		death="1254.1.1"
+	}
+}
+
+
+34054 = {
+	name="Ï£¹ş"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=34049
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+34055 = {
+	name="°¢±È-Èø°¢µÂ ¹şÉ£"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34050
+	trait="sayyid"
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1245.1.1={
+		death="1245.1.1"
+	}
+}
+
+34056 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34055
+	trait="sayyid"
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1301.1.1={
+		death="1301.1.1"
+	}
+}
+
+34057 = {
+	name="¼ÓÄáÄ·"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34055
+	trait="sayyid"
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+34058 = {
+	name="Ò×µÃÀïË¹"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34055
+	trait="sayyid"
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+34059 = {
+	name="µÏÑÇÂê×È"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34054
+	trait="sayyid"
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+
+34060 = {
+	name="Â³ÂóÈö"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34056
+	trait="sayyid"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1344.1.1={
+		death="1344.1.1"
+	}
+}
+
+34061 = {
+	name="ºúÂõ´ï"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34056
+	trait="sayyid"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+
+34062 = {
+	name="°¢²·¶ÅÀÕ-¸ÇË¹"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34056
+	trait="sayyid"
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+
+34063 = {
+	name="°¢Ì©·¨"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34056
+	trait="sayyid"
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1329.1.1={
+		death="1329.1.1"
+	}
+}
+
+34064 = {
+	name="'°¢ÆëÀ¼"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34063
+	trait="sayyid"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+34065 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34064
+	trait="sayyid"
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1359.1.1={
+		death="1359.1.1"
+	}
+}
+
+34360 = {
+	name="´ïÎÚµÂ"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34378
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1032.1.1={
+		death="1032.1.1"
+	}
+}
+
+34361 = {
+	name="°¢Àï"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34360
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+34362 = {
+	name="´ïÎÚµÂ"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34360
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1081.1.1={
+		death="1081.1.1"
+	}
+}
+
+34363 = {
+	name="°¢Àï"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34362
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+
+34364 = {
+	name="¹şÉ£"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34362
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+34365 = {
+	name="ËÕÀ³Âü"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34362
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+34366 = {
+	name="´ïÎÚµÂ"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34365
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1158.1.1={
+		death="1158.1.1"
+	}
+}
+
+34367 = {
+	name="ËÕÀ³Âü"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34364
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1177.1.1={
+		death="1177.1.1"
+	}
+}
+
+34368 = {
+	name="´ïÎÚµÂ"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34367
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+34369 = {
+	name="ËşÂ³ÌØ"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34367
+	1132.1.1={
+		birth="1132.1.1"
+	}
+	1181.1.1={
+		death="1181.1.1"
+	}
+}
+
+34370 = {
+	name="¹şÉ£"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34367
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+34371 = {
+	name="¹şÁ¢µÂ"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34367
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+34372 = {
+	name="°¢Àï"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34367
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1217.1.1={
+		death="1217.1.1"
+	}
+}
+
+34373 = {
+	name="ËÕÀ³Âü"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34372
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1259.1.1={
+		death="1259.1.1"
+	}
+}
+
+34374 = {
+	name="´ïÎÚµÂ"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34372
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+34375 = {
+	name="°¢Àï"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34374
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1274.1.1={
+		death="1274.1.1"
+	}
+}
+
+34376 = {
+	name="ºîÈüÒò"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=167713
+	920.1.1={
+		birth="920.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+34377 = {
+	name="°¢Àï"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34376
+	950.1.1={
+		birth="950.1.1"
+	}
+	1022.1.1={
+		death="1022.1.1"
+	}
+}
+
+34378 = {
+	name="°¢Àï"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34377
+	970.1.1={
+		birth="970.1.1"
+	}
+	1027.1.1={
+		death="1027.1.1"
+	}
+}
+
+34379 = {
+	name="¹şÁ¢µÂ"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34378
+	1002.1.1={
+		birth="1002.1.1"
+	}
+	1035.1.1={
+		death="1035.1.1"
+	}
+}
+
+34380 = {
+	name="ËÕÀ³Âü"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34378
+	998.1.1={
+		birth="998.1.1"
+	}
+	1026.1.1={
+		death="1026.1.1"
+	}
+}
+
+34381 = {
+	name="¹şÉ£"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34380
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1064.1.1={
+		death="1064.1.1"
+	}
+}
+
+155028 = {
+	name="Ò¶º£ÑÇ"
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155155
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+155029 = {
+	name="ÄÂÄáË¹" #ibn Yahya
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155028
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1057.1.1={
+		add_spouse=155056
+		#Zirid daughter
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+155030 = {
+	name="ÆëÑÇµÂ"
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155029
+	mother=155056
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+155031 = {
+	name="ÂíºÕÂ³×È" #ibn Ziyad
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155030
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+155057 = {
+	name="°¢¶û-À­Ã×Ï£"
+	dynasty=1027013
+	religion="sunni"
+	culture="bedouin_arabic"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+155058 = {
+	name="ÈøÀÕÄ·"
+	#placeholder
+	dynasty=1027013
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155057
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+
+155059 = {
+	name="¼Ö·¨¶û"
+	#placeholder
+	dynasty=1027013
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155057
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1121.1.1={
+		death="1121.1.1"
+	}
+}
+
+155060 = {
+	name="°¢²¼µÂ-°¢¶û-°¢Æë×È"
+	#placeholder
+	dynasty=1027013
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155058
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1134.1.1={
+		death="1134.1.1"
+	}
+}
+
+155061 = {
+	name="ÄÂÒò"
+	#placeholder
+	dynasty=1027013
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155058
+	1099.1.1={
+		birth="1099.1.1"
+	}
+	1147.1.1={
+		death="1147.1.1"
+	}
+}
+
+155062 = {
+	name="Ëş±ÈÌØ"
+	#placeholder
+	dynasty=1027013
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155061
+	1129.1.1={
+		birth="1129.1.1"
+	}
+	1152.1.1={
+		death="1152.1.1"
+	}
+}
+
+155063 = {
+	name="ÒÀÈö"
+	dynasty=1027013
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155061
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1159.1.1={
+		death="1159.1.1"
+	}
+}
+
+34471 = {
+	name "·¨µÂÀÕ"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 144154
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1219.1.1={
+		death="1219.1.1"
+	}
+}
+
+34472 = {
+	name="Âí¼ªµÂ"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 144154
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+34473 = {
+	name="°¢Àï"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 34472
+	1182.1.1={
+		birth="1182.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+34474 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 34472
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+34475 = {
+	name="ÂíËÕµÂ"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 34472
+	1187.1.1={
+		birth="1187.1.1"
+	}
+	1217.1.1={
+		death="1217.1.1"
+	}
+}
+
+34476 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 34475
+	1207.1.1={
+		birth="1207.1.1"
+	}
+	1236.1.1={
+		death="1236.1.1"
+	}
+}
+
+34477 = {
+	name="·¨µÂÀÕ"
+	dynasty=792
+	religion="shiite"
+	culture="bedouin_arabic"
+	father  = 34476
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1253.1.1={
+		death="1253.1.1"
+	}
+}
+
+34478 = {
+	name="À­Ï£µÂ"
+	dynasty=7308
+	religion="shiite"
+	culture="bedouin_arabic"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+34479 = {
+	name="ÎÚË¹¸»¶û"
+	dynasty=7308
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34478
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+34480 = {
+	name="°¢Àï"
+	dynasty=7308
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34478
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+34481 = {
+	name="ÂêÄá°¢"
+	dynasty=7308
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34480
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+34482 = {
+	name="Âí¼ªµÂ"
+	dynasty=7308
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34481
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+34483 = {
+	name="ÈøÒåµÂ"
+	dynasty=7308
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34482
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1373.1.1={
+		death="1373.1.1"
+	}
+}
+
+34484 = {
+	name="µÏ¼ÓÍò"
+	dynasty=7308
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34483
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+34495 = {
+	name="°¢Àï·ò"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+34496 = {
+	name="¹şÀïÀï"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34495
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+34497 = {
+	name="Ã×¶ûÔú"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34496
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+34498 = {
+	name="¼ÖÀïÆÕ"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34497
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+34499 = {
+	name="°¢²·¶Å-¿¨µÏ¶û"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34498
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+34500 = {
+	name="°¢Àï"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34499
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+34501 = {
+	name="ÈøÃ×¶û"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34500
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+34502 = {
+	name="Ò×²·À­ĞÀ"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34501
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+34503 = {
+	name="·¨Â³¿Ë"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34502
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+34504 = {
+	name="ÓÈËØ¸£"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34503
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1315.1.1={
+		death="1315.1.1"
+	}
+}
+
+34505 = {
+	name="ËÕÀ³Âü"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34504
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+34506 = {
+	name="¹ş·ò×È"
+	#placeholder
+	dynasty=101728
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34505
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+
+34521 = {
+	name="ÄÂ°ÍÀ­¿Ë"
+	#placeholder
+	dynasty=100684
+	religion="sunni"
+	culture="bedouin_arabic"
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+
+34522 = {
+	name="ÄÂ¿ËËş¶û"
+	#placeholder
+	dynasty=100684
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34521
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+34523 = {
+	name="°¢Àï"
+	#placeholder
+	dynasty=100684
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34522
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+34524 = {
+	name="°¢²·¶ÅÀ­"
+	#placeholder
+	dynasty=100684
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34523
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+
+34525 = {
+	name="ÄÂÈø"
+	#placeholder
+	dynasty=100684
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34524
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+34526 = {
+	name="ÑÅ»ôÆÕ"
+	#placeholder
+	dynasty=100684
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34525
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+34527 = {
+	name="ÈöµÏ¿Ë"
+	#placeholder
+	dynasty=100684
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34526
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+34528 = {
+	name="·¨µÙÀÕ"
+	#placeholder
+	dynasty=100684
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34527
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+34529 = {
+	name="º£À×¶¡"
+	#placeholder
+	dynasty=100684
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34528
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+34530 = {
+	name="ÊöåÈ"
+	#placeholder
+	dynasty=100684
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34529
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+34531 = {
+	name="¹ş·ò×È"
+	#placeholder
+	dynasty=100684
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34530
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+34555 = {
+	name="°¢Àï"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+34556 = {
+	name="ÓÈËØ¸£"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34555
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+34557 = {
+	name="ÄÂº±Ä¬µÂ"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34556
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+34558 = {
+	name="ºîÈüÒò"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34557
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+34559 = {
+	name="°¢Æë×È"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34558
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+34560 = {
+	name="Ì«ÄÂ¶û"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34559
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+34561 = {
+	name="¼ÓÆëÑÇ"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34560
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+34562 = {
+	name="°ÍÉ³¶û"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34561
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+34563 = {
+	name="ÈøÀ­¶¡"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34562
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+34564 = {
+	name="Ò×²·À­ĞÀ"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34563
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+34565 = {
+	name="°¢²·¶Å¶û-Íß¹şµÂ"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34564
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+34566 = {
+	name="°¢²·¶Å¶û-¹şÃ×µÂ"
+	#placeholder
+	dynasty=100776
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34565
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1355.1.1={
+		death="1355.1.1"
+	}
+}
+
+34567 = {
+	name="ÄÉË¹¶û"
+	dynasty=7309
+	religion="shiite"
+	culture="bedouin_arabic"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+34568 = {
+	name="¼Ó¶ûÍò"
+	dynasty=7309
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34567
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+34569 = {
+	name="ÄÉË¹¶û"
+	dynasty=7309
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=34568
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+155114 = {
+	name="ÂíËÕµÂ"
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1233.1.1={
+		death="1233.1.1"
+	}
+}
+
+155137 = {
+	name="ÍßÃ×ÑÇ"
+	dynasty=101731
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159380
+	980.1.1={
+		birth="980.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+155138= {
+	name="ÄÂº±Ä¬µÂ" #ibn Walmiya
+	#placeholder
+	dynasty=101731
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155137
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+155139= {
+	name="Ò×²·À­ĞÀ" #ibn Walmiya
+	dynasty=101731
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155137
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+155140 = {
+	name="¿¨µÏ" #ibn Walmiya
+	dynasty=101731
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155137
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1096.1.1={
+		death="1096.1.1"
+	}
+}
+
+155141 = {
+	name="µÏÑÇÃ×"
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155028
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1066.1.1={
+		death="1066.1.1"
+	}
+}
+
+155142 = {
+	name="¿¨ÂõÀÕ" #ibn Djami
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155141
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+155143 = {
+	name="Âê¼ª" #ibn Kamil
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155142
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+155144 = {
+	name="À­±È" #ibn Makki
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155143
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1121.1.1={
+		death="1121.1.1"
+	}
+}
+155145 = {
+	name="Â³É³ÒÁµÃ" #ibn Kamil
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155142
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1148.1.1={
+		death="1148.1.1"
+	}
+}
+
+155146 = {
+	name="ÄÂº±Ä¬µÂ" #ibn Rushayd
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155145
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+
+155147 = {
+	name="ÄÂ´ï·Æ" #ibn Rushayd
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155145
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1160.1.22={
+		death="1160.1.22"
+	}
+}
+
+155148 = {
+	name="Ï£À­ÀÕ" #ibn Amer
+	dynasty=101731
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146025
+	780.1.1={
+		birth="780.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+155149 = {
+	name="ÄÉÎ÷¿¨" #ibn Hilal
+	dynasty=101731
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155148
+	835.1.1={
+		birth="835.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+155150 = {
+	name="°¢±È-À³±ÈÑÇ" #ibn Nahik
+	dynasty=101731
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155149
+	860.1.1={
+		birth="860.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+
+155151 = {
+	name="ÀïÑÇºÕ" #ibn Abu-Rebia
+	dynasty=101731
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155150
+	885.1.1={
+		birth="885.1.1"
+	}
+	935.1.1={
+		death="935.1.1"
+	}
+}
+
+155152 = {
+	name="Ã×´ïË¹" #ibn Riyah
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155151
+	910.1.1={
+		birth="910.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+155153 = {
+	name="°¢»ùÀÕ" #ibn Mirdas
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155152
+	935.1.1={
+		birth="935.1.1"
+	}
+	985.1.1={
+		death="985.1.1"
+	}
+}
+
+155154 = {
+	name="ºÕÍß×È" #ibn AKil
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155153
+	960.1.1={
+		birth="960.1.1"
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+
+155155 = {
+	name="ĞÁ²®" #ibn Haouaz
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155154
+	985.1.1={
+		birth="985.1.1"
+	}
+	1035.1.1={
+		death="1035.1.1"
+	}
+}
+
+155156 = {
+	name="´ïÎÚµÂ" #ibn Mirdas
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155152
+	950.1.1={
+		birth="950.1.1"
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+155157 = {
+	name="ÂŞ´÷Äá" #ibn Dauwad
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155162
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+155158 = {
+	name="Ô×ÂêÄÂ" #ibn Rodeini
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155157
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+155159 = {
+	name="Ë÷¶ûÌ¹" #ibn Zemam
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155158
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+155160 = {
+	name="ÂíËÕµÂ" #ibn Soltan
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155159
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+155161 = {
+	name="°¢Èø¿Ë¶û" #ibn Soltan
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155159
+	1107.1.1={
+		birth="1107.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+155162 = {
+	name="ÈøÒåµÂ"
+	#placeholder
+	dynasty=1027011
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155156
+	980.1.1={
+		birth="980.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+155172 = {
+	name="Èü¶ûº¹"
+	dynasty=1027018
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155193
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+155173 = {
+	name="¹şÉ£" #ibn Serhan
+	dynasty=1027018
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155172
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+155174 = {
+	name="±´µÂ¶û" #ibn Serhan
+	dynasty=1027018
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155172
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+155175 = {
+	name="ÂíËÕµÂ"
+	#placeholder
+	dynasty=1027018
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155173
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+155176 = {
+	name="¿­¶û·¨"
+	#placeholder
+	dynasty=1027018
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155174
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+155177 = {
+	name="°¢Àï"
+	#placeholder
+	dynasty=1027018
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155176
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1152.1.1={
+		death="1152.1.1"
+	}
+}
+155178 = {
+	name="×ô¸ñ¹ş°Í"
+	dynasty=101731
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155150
+	885.1.1={
+		birth="885.1.1"
+	}
+	935.1.1={
+		death="935.1.1"
+	}
+}
+155179 = {
+	name="°¢²·Ë¹"
+	dynasty=1027017
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155178
+	906.1.1={
+		birth="906.1.1"
+	}
+	961.1.1={
+		death="961.1.1"
+	}
+}
+155180 = {
+	name="Ò¶ÆëµÂ"
+	dynasty=1027017
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155179
+	927.1.1={
+		birth="927.1.1"
+	}
+	982.1.1={
+		death="982.1.1"
+	}
+}
+155181 = {
+	name="ÂõºÕµÏ"
+	dynasty=1027017
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155180
+	948.1.1={
+		birth="948.1.1"
+	}
+	1003.1.1={
+		death="1003.1.1"
+	}
+}
+155182 = {
+	name="°¢±ÈµÂ-°¢À­"
+	dynasty=1027017
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155181
+	969.1.1={
+		birth="969.1.1"
+	}
+	1024.1.1={
+		death="1024.1.1"
+	}
+}
+155183 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=1027017
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155182
+	990.1.1={
+		birth="990.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+155184 = {
+	name="ÈøÒåµÂ"
+	dynasty=1027017
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155183
+	1011.1.1={
+		birth="1011.1.1"
+	}
+	1066.1.1={
+		death="1066.1.1"
+	}
+}
+155185 = {
+	name="°¢±ÈµÂ-°¢À­"
+	dynasty=1027017
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155184
+	1032.1.1={
+		birth="1032.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+155186 = {
+	name="°¢±ÈµÂ-°¢¶û-¿¨Î¬"
+	dynasty=1027017
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155185
+	1053.1.1={
+		birth="1053.1.1"
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+155187 = {
+	name="ÂíÀû¿Ë"
+	dynasty=1027017
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155186
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1129.1.1={
+		death="1129.1.1"
+	}
+}
+155188 = {
+	name="ÈøÒåµÂ"
+	dynasty=1027017
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155187
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1146.1.1={
+		death="1146.1.1"
+	}
+}
+155189 = {
+	name="°¢ÌØ±´ÑÇ"
+	dynasty=101731
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155150
+	885.1.1={
+		birth="885.1.1"
+	}
+	935.1.1={
+		death="935.1.1"
+	}
+}
+155190 = {
+	name="¿­¶û·¨"
+	dynasty=1027018
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155189
+	908.1.1={
+		birth="908.1.1"
+	}
+	963.1.1={
+		death="963.1.1"
+	}
+}
+155191 = {
+	name="µÂÀïµÃ"
+	dynasty=1027018
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155190
+	931.1.1={
+		birth="931.1.1"
+	}
+	986.1.1={
+		death="986.1.1"
+	}
+}
+155192 = {
+	name="°¢±ÈµÂ-°¢À­"
+	dynasty=1027018
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155191
+	954.1.1={
+		birth="954.1.1"
+	}
+	1009.1.1={
+		death="1009.1.1"
+	}
+}
+155193 = {
+	name="ÄÂº±Ä¬µÂ"
+	#placeholder
+	dynasty=1027018
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155192
+	977.1.1={
+		birth="977.1.1"
+	}
+	1032.1.1={
+		death="1032.1.1"
+	}
+}
+155194 = {
+	name="º£²·"
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	892.1.1={
+		birth="892.1.1"
+	}
+	947.1.1={
+		death="947.1.1"
+	}
+}
+155195 = {
+	name="°¢Ôú×È" #ibn Heib
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155194
+	917.1.1={
+		birth="917.1.1"
+	}
+	972.1.1={
+		death="972.1.1"
+	}
+}
+155196 = {
+	name="°¢Ã×¶û" #ibn Azaz
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155195
+	942.1.1={
+		birth="942.1.1"
+	}
+	997.1.1={
+		death="997.1.1"
+	}
+}
+155197 = {
+	name="À­±ÈÑÇ" #ibn Amer
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155196
+	967.1.1={
+		birth="967.1.1"
+	}
+	1022.1.1={
+		death="1022.1.1"
+	}
+}
+155198 = {
+	name="¿¨Àû²·" #ibn Rebia
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155197
+	992.1.1={
+		birth="992.1.1"
+	}
+	1047.1.1={
+		death="1047.1.1"
+	}
+}
+155199 = {
+	name="¼Ö·Ñ¶û" #ibn Kilab
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155198
+	1017.1.1={
+		birth="1017.1.1"
+	}
+	1072.1.1={
+		death="1072.1.1"
+	}
+}
+155200 = {
+	name="¿¨Ã×ÀÕ"
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155215
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+155201 = {
+	name="°¢±È-µÏ²·" #ibn Kemil
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155200
+	1294.1.1={
+		birth="1294.1.1"
+	}
+	1337.1.1={
+		death="1337.1.1"
+	}
+}
+155202 = {
+	name="¹şÂóµÂ" #ibn Kemil
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155200
+	1299.1.1={
+		birth="1299.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+155203 = {
+	name="Ï£ÄÉ" #ibn Djafer
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155199
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+155204 = {
+	name="À³±ØµÃ" #ibn Hina
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155203
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+}
+155205 = {
+	name="ÍĞ¶û»ùÑÇ" #ibn Lebid
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155204
+	1092.1.1={
+		birth="1092.1.1"
+	}
+	1147.1.1={
+		death="1147.1.1"
+	}
+}
+155206 = {
+	name="ÈøÀ­Ä·" #ibn Torkia
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155205
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+155207 = {
+	name="Ä¦¿¨µÃÄ·" #ibn Torkia
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155205
+	1119.1.1={
+		birth="1119.1.1"
+	}
+	1174.1.1={
+		death="1174.1.1"
+	}
+}
+155208 = {
+	name="°¬¹şÂõµÂ" #ibn Djafer
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155199
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+155209 = {
+	name="ÄÂÈø"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155199
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1097.1.1={
+		death="1097.1.1"
+	}
+}
+155210 = {
+	name="ÆëÑÇµÂ"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155209
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1129.1.1={
+		death="1129.1.1"
+	}
+}
+155211 = {
+	name="ÒÀÈö"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155210
+	1106.1.1={
+		birth="1106.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+155212 = {
+	name="ÄÂº±Ä¬µÂ"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155211
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1193.1.1={
+		death="1193.1.1"
+	}
+}
+155213 = {
+	name="°¢Àï"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155212
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+155214 = {
+	name="°¢Ôú×È"
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155213
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+155215 = {
+	name="ÈüÒå·ò"
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155214
+	1234.1.1={
+		birth="1234.1.1"
+	}
+	1289.1.1={
+		death="1289.1.1"
+	}
+}
+155216 = {
+	name="°¢Ã×¶û"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155206
+	1148.1.1={
+		birth="1148.1.1"
+	}
+	1203.1.1={
+		death="1203.1.1"
+	}
+}
+155217 = {
+	name="ÈøÒåµÂ"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155216
+	1181.1.1={
+		birth="1181.1.1"
+	}
+	1236.1.1={
+		death="1236.1.1"
+	}
+}
+155218 = {
+	name="ËØ¸£Ñå"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155217
+	1214.1.1={
+		birth="1214.1.1"
+	}
+	1269.1.1={
+		death="1269.1.1"
+	}
+}
+155219 = {
+	name="¼Ö·¨¶û"
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155218
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+155220 = {
+	name="ÎÚÂê¶û"
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155219
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+155221 = {
+	name="ÎÚ¶ûÍß"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155207
+	1152.1.1={
+		birth="1152.1.1"
+	}
+	1207.1.1={
+		death="1207.1.1"
+	}
+}
+155222 = {
+	name="ÄÂº±Ä¬µÂ"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155221
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+155223 = {
+	name="ÒÁÉ³¿Ë"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155222
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1273.1.1={
+		death="1273.1.1"
+	}
+}
+155224 = {
+	name="ÔúÒÁµÂ"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155223
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1306.1.1={
+		death="1306.1.1"
+	}
+}
+155225 = {
+	name="°¢Ôú×È"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155224
+	1284.1.1={
+		birth="1284.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+155226 = {
+	name="¹şÏ£Ä·"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155208
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+155227 = {
+	name="°¢²·µ¤"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155226
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+155228 = {
+	name="°¬¹şÂõµÂ"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155227
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+155229 = {
+	name="ÈøÀûºÕ"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155228
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+155230 = {
+	name="°¢Ã×¶û"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155229
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+155231 = {
+	name="À­Ï£µÂ"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155230
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+155232 = {
+	name="ÂüËÕ¶û"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155231
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1337.1.1={
+		death="1337.1.1"
+	}
+}
+155233 = {
+	name="¼Ö·¨¶û" #ibn Umar
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155220
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+155234 = {
+	name="ÂíÀû¿Ë"
+	#placeholder
+	dynasty=101671
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155232
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+73666={
+	name="Å·°İµÂ-°¢À­"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=3200
+	trait=sayyid
+	927.1.1={
+		birth="927.1.1"
+	}
+	957.1.1={
+		death="957.1.1"
+	}
+}
+
+73667={
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=597
+
+	father=73666
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	trait=sayyid
+
+	936.1.1={
+		birth=yes
+	}
+	1003.1.1={
+		death=yes
+	}
+}
+
+73668={
+	name="ÄÂº±Ä¬µÂ"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73667
+	trait=sayyid
+	979.1.1={
+		birth="979.1.1"
+	}
+	1025.9.1={
+		death="1025.9.1"
+	}
+}
+
+73669={
+	name="°¢²·¶Å¶û-ÑÇ²¼°Í¶û"
+	dynasty=597
+
+	father=3200
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	trait=sayyid
+
+	940.1.1={
+		birth=yes
+	}
+	1004.1.1={
+		death=yes
+	}
+}
+
+73670={
+	name="Ï£É³Ä·"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73669
+	trait=sayyid
+	960.1.1={
+		birth="960.1.1"
+	}
+	1008.1.1={
+		death="1008.1.1"
+	}
+}
+
+73671={
+	name="ÄÂº±Ä¬µÂ"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73670
+	trait=sayyid
+	980.1.1={
+		birth="980.1.1"
+	}
+	1010.7.23={
+		death="1010.7.23"
+	}
+}
+
+73672={
+	name="°¢²·¶Å¶û-À­ºÕÂü"
+	dynasty=597
+
+	father=73670
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	trait=sayyid
+
+	989.1.1={
+		birth=yes
+	}
+	1024.1.17={
+		death=yes
+	}
+}
+
+73673={
+	name="ËÕÀ³Âü"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=3200
+	trait=sayyid
+	943.1.1={
+		birth="943.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+73674={
+	name="°¢¶û-¹ş¿¨Ä·"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73673
+	trait=sayyid
+	968.1.1={
+		birth="968.1.1"
+	}
+	1007.1.1={
+		death="1007.1.1"
+	}
+}
+
+73675={
+	name="ËÕÀ³Âü"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73674
+	trait=sayyid
+	986.1.1={
+		birth="986.1.1"
+	}
+	1016.7.1={
+		death="1016.7.1"
+	}
+}
+
+73676={
+	name="°¢²·¶Å¶û-ÂíÀû¿Ë"
+	dynasty=597
+
+	father=3200
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	trait=sayyid
+
+	947.1.1={
+		birth=yes
+	}
+	996.1.1={
+		death=yes
+	}
+}
+
+73677={
+	name="ÄÂº±Ä¬µÂ"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73676
+	trait=sayyid
+	963.1.1={
+		birth="963.1.1"
+	}
+	1009.1.1={
+		death="1009.1.1"
+	}
+}
+
+73678={
+	name="°¢²·¶Å¶û-À­ºÕÂü"
+	dynasty=597
+
+	father=73677
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	trait=sayyid
+
+	979.1.1={
+		birth=yes
+	}
+	1018.6.1={
+		death=yes
+	}
+}
+
+73679={
+	name="°¢²·¶Å¶û-À­ºÕÂü"
+	dynasty=597
+
+	father=163000
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	trait=sayyid
+
+	731.3.1={
+		birth=yes
+	}
+	788.10.7={
+		death=yes
+	}
+}
+
+73680={
+	name="Ï£É³Ä·"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73679
+	trait=sayyid
+	757.4.26={
+		birth="757.4.26"
+	}
+	796.6.12={
+		death="796.6.12"
+	}
+}
+
+73681={
+	name="°¢¶û-¹ş¿¨Ä·"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73680
+	trait=sayyid
+	770.1.1={
+		birth="770.1.1"
+	}
+	822.5.21={
+		death="822.5.21"
+	}
+}
+
+73682={
+	name="°¢²·¶Å¶û-À­ºÕÂü"
+	dynasty=597
+
+	father=73681
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	trait=sayyid
+
+	792.11.1={
+		birth=yes
+	}
+	852.9.22={
+		death=yes
+	}
+}
+
+73683={
+	name="ÄÂº±Ä¬µÂ"
+	dynasty = 597
+	martial=5
+	diplomacy=3
+	intrigue=3
+	stewardship=3
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73682
+	trait=sayyid
+	823.1.1={
+		birth="823.1.1"
+	}
+	842.1.1={
+		add_spouse=73927
+	}
+	886.1.1={
+		death="886.1.1"
+	}
+}
+
+73684={
+	name="°¢¶û-ÃÉÆë¶û"
+	dynasty = 597
+	martial=5
+	diplomacy=3
+	intrigue=4
+	stewardship=3
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73683
+	mother=73927
+	trait=twin
+	trait=scarred
+	trait=sayyid
+	844.1.11={
+		birth="844.1.11"
+	}
+	888.6.24={
+		death="888.6.24"
+	}
+}
+
+73685={
+	name="°¢²·¶ÅÀ­"
+	dynasty = 597
+	martial=3
+	diplomacy=3
+	intrigue=5
+	stewardship=3
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73683
+	mother=73927
+	trait=twin
+	trait=sayyid
+	844.1.11={
+		birth="844.1.11"
+	}
+	865.1.1={
+		add_spouse=70294
+	}
+	879.1.1={
+		remove_spouse=70294
+	}
+	912.10.15={
+		death="912.10.15"
+	}
+}
+
+73686={
+	name="ÄÂº±Ä¬µÂ"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73685
+	mother=70294
+	trait=sayyid
+	866.1.1={
+		birth="866.1.1"
+	}
+	891.1.27={
+		death="891.1.27"
+	}
+}
+
+163000={
+	name="ÄÂ°¢Î¬Ò¶"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163001
+	trait=sayyid
+	705.1.1={
+		birth="705.1.1"
+	}
+	737.1.1={
+		death="737.1.1"
+	}
+}
+
+163001={
+	name="Ï£É³Ä·"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163002
+	trait=sayyid
+	691.1.1={
+		birth="691.1.1"
+	}
+	743.2.6={
+		death="743.2.6"
+	}
+}
+
+163002={
+	name="°¢²¼-°¢¶û-ÂíÀû¿Ë"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163003
+	trait=sayyid
+	646.1.1={
+		birth="646.1.1"
+	}
+	705.1.1={
+		death="705.1.1"
+	}
+}
+
+163003={
+	name="Âí¶ûÍò"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163019
+	trait=sayyid
+	623.1.1={
+		birth="623.1.1"
+	}
+	685.5.7={
+		death="685.5.7"
+	}
+}
+
+163004 = {
+	name="°¢²¼µÂ ÂêÄÉ¸£"
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father = 163005
+	444.1.1={
+		birth="444.1.1"
+	}
+	487.1.1={
+		death="487.1.1"
+	}
+}
+
+163005 = {
+	name="¿­Èö"
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father = 163006
+	400.1.1={
+		birth="400.1.1"
+	}
+	480.1.1={
+		death="480.1.1"
+	}
+}
+
+163006 = {
+	name="¿­¶û²¼"
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father = 163007
+	373.1.1={
+		birth="373.1.1"
+	}
+	423.1.1={
+		death="423.1.1"
+	}
+}
+
+163007 = {
+	name="ÄÂ°¢×È"
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+
+	333.1.1={
+		birth="333.1.1"
+	}
+	393.1.1={
+		death="393.1.1"
+	}
+}
+
+163008 = {
+	name="Ì©ÈğÄ·"
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father = 163007
+	375.1.1={
+		birth="375.1.1"
+	}
+	423.1.1={
+		death="423.1.1"
+	}
+}
+
+163009 = {
+	name="Èü¶ûµÂ"
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father = 163008
+	405.1.1={
+		birth="405.1.1"
+	}
+	453.1.1={
+		death="453.1.1"
+	}
+}
+
+163010 = {
+	name="¿­¶û²¼"
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father = 163009
+	435.1.1={
+		birth="435.1.1"
+	}
+	483.1.1={
+		death="483.1.1"
+	}
+}
+
+163011 = {
+	name="Å·Âó¶û"
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father = 163010
+	465.1.1={
+		birth="465.1.1"
+	}
+	523.1.1={
+		death="523.1.1"
+	}
+}
+
+163012= {
+	name="°¢Âê¶û"
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father = 163011
+	495.1.1={
+		birth="495.1.1"
+	}
+	563.1.1={
+		death="563.1.1"
+	}
+}
+
+163013= {
+	name="ÎÚË¹Âü"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163012
+	542.7.1={
+		birth="542.7.1"
+	}
+	635.8.1={
+		death="635.8.1"
+	}
+}
+
+163014= {
+	name="°¢±È °Í¿Ë¶û"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163013
+	573.1.1={
+		birth="573.1.1"
+	}
+	643.8.23={
+		death="643.8.23"
+	}
+}
+
+163015= {
+	name="Å·Âó¶û"
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=159480
+	586.1.1={
+		birth="586.1.1"
+	}
+	644.11.7={
+		death="644.11.7"
+	}
+}
+
+163016 = {
+	name="°¢²¼ É³Ä·Ë¹" 
+	dynasty=7296
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait = "twin"
+	father = 163004
+	464.1.1={
+		birth="464.1.1"
+	}
+	499.1.1={
+		death="499.1.1"
+	}
+}
+
+163017={
+	name="ÎéÂóÒ¶"
+	dynasty = 597
+	religion="pagan"
+	culture="bedouin_arabic"
+	father = 163016
+	trait=sayyid
+	490.1.1={
+		birth="490.1.1"
+	}
+	540.1.1={
+		death="540.1.1"
+	}
+}
+
+163018={
+	name="°¢²·¶Å¶û-°¢¶û-°¢×È"
+	dynasty = 597
+	religion="pagan"
+	culture="bedouin_arabic"
+	father = 163017
+	trait=sayyid
+	520.1.1={
+		birth="520.1.1"
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+
+163019={
+	name="°¢¶û-¹ş»ùÄ·"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163018
+	trait=sayyid
+	550.1.1={
+		birth="550.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+	}
+}
+
+163020={
+	name="°¢·²"
+	dynasty = 597
+	religion="pagan"
+	culture="bedouin_arabic"
+	father = 163017
+	trait=sayyid
+	522.1.1={
+		birth="522.1.1"
+	}
+	597.1.1={
+		death="597.1.1"
+	}
+}
+
+163021={
+	name="ÎÚË¹Âü"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163020
+	trait=sayyid
+	579.1.1={
+		birth="579.1.1"
+	}
+	656.7.17={
+		death="656.7.17"
+	}
+}
+
+163022 = {
+	name="ÄÂÈø" 
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33915
+	trait="sayyid"
+	745.11.6={
+		birth="745.11.6"
+	}
+	799.9.1={
+		death="799.9.1"
+	}
+}
+
+163023= {
+	name="°¢Àï" 
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=163022
+	trait="sayyid"
+	765.12.9={
+		birth="765.12.9"
+	}
+	818.8.23={
+		death="818.8.23"
+	}
+}
+
+163024 = {
+	name="ÄÂº±Ä¬µÂ" 
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=163023
+	trait="sayyid"
+	811.4.8={
+		birth="811.4.8"
+	}
+	835.11.24={
+		death="835.11.24"
+	}
+}
+
+163025 = {
+	name="°¢Àï" 
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=163024
+	trait="sayyid"
+	828.1.1={
+		birth="828.1.1"
+	}
+	868.1.1={
+		death="868.1.1"
+	}
+}
+
+163026 = {
+	name="¹şÉ£" 
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=163025
+	trait="sayyid"
+	846.12.1={
+		birth="846.12.1"
+	}
+	874.1.1={
+		death="874.1.1"
+	}
+}
+
+163027 = {
+	name="ÂíºÕµÏ" 
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=163026
+	trait="sayyid"
+	869.7.29={
+		birth="869.7.29"
+	}
+	909.1.1={
+		death="909.1.1"
+	}
+}
+
+163028={
+	name="°¢±È-ËÕ¸»Ñï"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163020
+	trait=sayyid
+	560.9.1={
+		birth="560.9.1"
+	}
+	650.8.1={
+		death="650.8.1"
+	}
+}
+
+163029={
+	name="ÄÂ°¢Î¬Ò¶"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163028
+	trait=sayyid
+	602.1.1={
+		birth="602.1.1"
+	}
+	680.5.6={
+		death="680.5.6"
+	}
+}
+
+163030={
+	name="Ò®ÆëµÂ"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163029
+	trait=sayyid
+	645.1.1={
+		birth="645.1.1"
+	}
+	683.1.1={
+		death="683.1.1"
+	}
+}
+
+163031={
+	name="ÄÂ°¢Î¬Ò¶"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163030
+	trait=sayyid
+	661.3.28={
+		birth="661.3.28"
+	}
+	684.12.1={
+		death="684.12.1"
+	}
+}
+
+163032={
+	name="°¢¶û-ÍßÀûµÂ"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163002
+	trait=sayyid
+	668.1.1={
+		birth="668.1.1"
+	}
+	715.1.1={
+		death="715.1.1"
+	}
+}
+
+163033={
+	name="ËÕÀ³Âü"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163002
+	trait=sayyid
+	674.1.1={
+		birth="674.1.1"
+	}
+	717.10.1={
+		death="717.10.1"
+	}
+}
+
+163034={
+	name="°¢²·¶Å¶û-°¢Æë×È"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163003
+	trait=sayyid
+	648.1.1={
+		birth="648.1.1"
+	}
+	706.1.1={
+		death="706.1.1"
+	}
+}
+
+163035={
+	name="°ÂÂí¶û"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163034
+	trait=sayyid
+	680.1.1={
+		birth = yes
+	}
+	720.2.10={
+		death="720.2.10"
+	}
+}
+
+163036={
+	name="Ò®ÆëµÂ"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163002
+	trait=sayyid
+	687.1.1={
+		birth="687.1.1"
+	}
+	724.1.1={
+		death="724.1.1"
+	}
+}
+
+163037={
+	name="°¢¶û-ÍßÀûµÂ"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163036
+	trait=sayyid
+	697.1.1={
+		birth="697.1.1"
+	}
+	744.6.16={
+		death="744.6.16"
+	}
+}
+
+163038={
+	name="Ò®ÆëµÂ"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163032
+	trait=sayyid
+	701.1.1={
+		birth="701.1.1"
+	}
+	744.10.3={
+		death="744.10.3"
+	}
+}
+
+163039={
+	name="Ò×²·À­ĞÀ"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163032
+	trait=sayyid
+	703.1.1={
+		birth="703.1.1"
+	}
+	744.11.3={
+		death="744.11.3"
+	}
+}
+
+163040={
+	name="°¢¶û-Î÷Âí¶û"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163003
+	trait=sayyid
+	650.1.1={
+		birth="650.1.1"
+	}
+	709.1.1={
+		death="709.1.1"
+	}
+}
+
+163041={
+	name="Âí¶ûÍò"
+	dynasty = 597
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163040
+	trait=sayyid
+	688.1.1={
+		birth="688.1.1"
+	}
+	750.1.1={
+		death="750.1.1"
+	}
+}
+
+163042 = {
+	name="ÄÂº±Ä¬µÂ" # Kaysanite Imam
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33911
+	mother=33921
+	trait="sayyid"
+	633.1.1={
+		birth="633.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+
+163043 = {
+	name="ÆëÑÇµÂ" # Zaidi Imam
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33913
+	trait="sayyid"
+	695.1.1={
+		birth="695.1.1"
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+
+163044 = {
+	name="°¢²·¶ÅÀ­" # Fathite Imam
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=33915
+	trait="sayyid"
+	720.1.1={
+		birth=yes
+	}
+	766.1.1={
+		death=yes
+	}
+}
+
+163045 = {
+	name="ÄÂº±Ä¬µÂ" #Muhammadite Imam
+	dynasty=589
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=163025
+	trait="sayyid"
+	848.1.1={
+		birth=yes
+	}
+	861.1.1={
+		death=yes
+	}
+}
+
+163096={
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=807
+	religion=sunni
+	culture=bedouin_arabic # Banu Tamim tribe
+	father = 163145
+	830.1.1={
+		birth=yes
+	}
+	867.1.1={
+		raise_levies = {
+			location=340 # Palermo
+			force_mult=1.5
+		}
+	}
+	875.1.1={
+		death=yes
+	}
+}
+
+163140={
+	name="Ò×²·À­ĞÀ"
+	dynasty=807
+	religion=sunni
+	culture=bedouin_arabic # Banu Tamim tribe
+	746.1.1={
+		birth=yes
+	}
+	812.1.1={
+		death=yes
+	}
+}
+
+163141={
+	name="°¢µÂ°ÍÀ­"
+	dynasty=807
+	religion=sunni
+	culture=bedouin_arabic # Banu Tamim tribe
+	father = 163140
+	766.1.1={
+		birth=yes
+	}
+	817.1.1={
+		death=yes
+	}
+}
+
+163142={
+	name="×ÊÑÅ´úÌØ °¢À­"
+	dynasty=807
+	religion=sunni
+	culture=bedouin_arabic # Banu Tamim tribe
+	father = 163140
+	767.1.1={
+		birth=yes
+	}
+	838.6.10={
+		death=yes
+	}
+}
+
+163143={
+	name="°¢±È °¬Ç¡¶û"
+	dynasty=807
+	religion=sunni
+	culture=bedouin_arabic # Banu Tamim tribe
+	father = 163140
+	768.1.1={
+		birth=yes
+	}
+	841.1.1={
+		death="841.1.1"
+	}
+}
+
+163144={
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=807
+	religion=sunni
+	culture=bedouin_arabic # Banu Tamim tribe
+	father = 163143
+	788.1.1={
+		birth=yes
+	}
+	856.1.1={
+		death=yes
+	}
+}
+
+163145={
+	name="°¬¹şÂõµÂ"
+	dynasty=807
+	religion=sunni
+	culture=bedouin_arabic # Banu Tamim tribe
+	father = 163143
+	808.1.1={
+		birth=yes
+	}
+	863.1.1={
+		death=yes
+	}
+}
+
+163146={
+	name="×ÊÑÅ´úÌØ °¢À­"
+	dynasty=807
+	religion=sunni
+	culture=bedouin_arabic # Banu Tamim tribe
+	father = 163143
+	810.1.1={
+		birth=yes
+	}
+	864.1.1={
+		death=yes
+	}
+}
+
+163147={
+	name="Ò×²·À­ĞÀ"
+	dynasty=807
+	religion=sunni
+	culture=bedouin_arabic # Banu Tamim tribe
+	father = 163145
+	831.1.1={
+		birth=yes
+	}
+	902.1.1={
+		death=yes
+	}
+}
+
+159473 = {
+	name="°¢µÏ" #
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father=163007
+	385.1.1={
+		birth="385.1.1" #Unknown
+	}
+	435.1.1={
+		death="435.1.1"
+	}
+}
+159474 = {
+	name="¿âÀ­ÌØ" #
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father=159473
+	410.1.1={
+		birth="410.1.1" #Unknown
+	}
+	460.1.1={
+		death="460.1.1"
+	}
+}
+159475 = {
+	name="Àï°Í" #
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father=159474
+	440.1.1={
+		birth="440.1.1" #Unknown
+	}
+	500.1.1={
+		death="500.1.1"
+	}
+}
+159476 = {
+	name="Àï°Í" #
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father=159475
+	460.1.1={
+		birth="460.1.1" #Unknown
+	}
+	550.1.1={
+		death="550.1.1"
+	}
+}
+159477 = {
+	name="ÀïÔú" #
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father=159476
+	490.1.1={
+		birth="490.1.1" #Unknown
+	}
+	580.1.1={
+		death="580.1.1"
+	}
+}
+159478 = {
+	name="°¢²¼¶û ÎÚÔú" #
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father=159477
+	510.1.1={
+		birth="510.1.1" #Unknown
+	}
+	580.1.1={
+		death="580.1.1"
+	}
+}
+159479 = {
+	name="Å«·Ñ¶ù" #
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father=159478
+	530.1.1={
+		birth="530.1.1" #Unknown
+	}
+	580.1.1={
+		death="580.1.1"
+	}
+}
+159480 = {
+	name="¿¨Ì«²¼" #
+	dynasty=7296
+	religion="pagan"
+	culture="bedouin_arabic"
+	father=159479
+	565.1.1={
+		birth="565.1.1" #Unknown
+	}
+	620.1.1={
+		death="620.1.1"
+	}
+}
+
+159393 = {
+	name="ºîÈüÒò" # al-Athram
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=33926
+	655.1.1={
+		birth="655.1.1" #Unknown
+	}
+	701.1.1={
+		death="701.1.1"
+	}
+}
+159394 = {
+	name="Ò×²·À­ĞÀ" #
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159393
+	685.1.1={
+		birth="685.1.1" #Unknown
+	}
+	751.1.1={
+		death="751.1.1"
+	}
+}
+159395 = {
+	name="°¬Ë¹Ã·¶û" #
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159394
+	715.1.1={
+		birth="715.1.1" #Unknown
+	}
+	782.1.1={
+		death="782.1.1"
+	}
+}
+159396 = {
+	name="Ò×²·À­ĞÀ" #
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159395
+	745.1.1={
+		birth="745.1.1" #Unknown
+	}
+	811.1.1={
+		death="811.1.1"
+	}
+}
+159397 = {
+	name="°¢¶û-Ç¡Ë¹Ä·" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159396
+	775.1.1={
+		birth="775.1.1" #Unknown
+	}
+	851.1.1={
+		death="851.1.1"
+	}
+}
+159398 = {
+	name="°¢¶û-ºúÈö" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159397
+	810.1.1={
+		birth="810.1.1" #Unknown
+	}
+	881.1.1={
+		death="881.1.1"
+	}
+}
+159399 = {
+	name="°¢¶û-¹şµÏ °¬À­-¹ş¿Ë ÑÇ¹ş" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159398
+	845.1.1={
+		birth="845.1.1" #Unknown
+	}
+	911.1.1={
+		death="911.1.1"
+	}
+}
+159400 = {
+	name="°¢¶û-ÄÂ¶ûËş´ï ÄÂº±Ä¬µÂ" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159399
+	880.1.1={
+		birth="880.1.1" #Unknown
+	}
+	922.1.1={
+		death="922.1.1"
+	}
+}
+159401 = {
+	name="°²-ÄÉÊ²¶û °¬¹şÂõµÂ" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159399
+	881.1.1={
+		birth="881.1.1" #Unknown
+	}
+	937.1.1={
+		death="937.1.1"
+	}
+}
+159402 = {
+	name="°¢¶û-Ä¾Ëş¿É¹ş²» °¢¶û-¹şÉ£" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159401
+	901.1.1={
+		birth="901.1.1" #Unknown
+	}
+	939.1.1={
+		death="939.1.1"
+	}
+}
+159403 = {
+	name="°¢¶û-ÄÂ¿ËËş¶û °¢¶û-Ç¡Ë¹Ä·" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159401
+	902.1.1={
+		birth="902.1.1" #Unknown
+	}
+	956.1.1={
+		death="956.1.1"
+	}
+}
+159404 = {
+	name="°¢¶û-ÂüËÕ¶û ÑÇ¹şÑ½" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159401
+	903.1.1={
+		birth="903.1.1" #Unknown
+	}
+	976.1.1={
+		death="976.1.1"
+	}
+}
+159405 = {
+	name="°¢µÂ-´óÒ» ÓñËØ¸¦" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159404
+	938.1.1={
+		birth="938.1.1" #Unknown
+	}
+	1012.1.1={
+		death="1012.1.1"
+	}
+}
+159406 = {
+	name="ÄÂº±Ä¬µÂ" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159397
+	815.1.1={
+		birth="815.1.1" #Unknown
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+159407 = {
+	name="°¢²·¶ÅÀ­" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159406
+	850.1.1={
+		birth="850.1.1" #Unknown
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+159408 = {
+	name="°¢Àï"#
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159407
+	885.1.1={
+		birth="885.1.1" #Unknown
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+159409 = {
+	name="°¢¶û-ÂüËÕ¶û °¢¶û-Ç¡Ë¹Ä· °¢¶û-Ò×ÑÇÄİ"#
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159408
+	920.1.1={
+		birth="920.1.1" #Unknown
+	}
+	1002.1.1={
+		death="1002.1.1"
+	}
+}
+159410 = {
+	name="°¢¶û-ÂíµÙ °¢¶û-ºúÈöÒÀ"#
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159409
+	950.1.1={
+		birth="950.1.1" #Unknown
+	}
+	1013.1.1={
+		death="1013.1.1"
+	}
+}
+159411 = {
+	name="°¢²·¶ÅÀ­" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159398
+	850.1.1={
+		birth="850.1.1" #Unknown
+	}
+	912.1.1={
+		death="912.1.1"
+	}
+}
+159412 = {
+	name="ÑÇ¹şÑ½" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159411
+	880.1.1={
+		birth="880.1.1" #Unknown
+	}
+	933.1.1={
+		death="933.1.1"
+	}
+}
+159413 = {
+	name="°¢²¼µÂÀ­Âü" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159412
+	920.1.1={
+		birth="920.1.1" #Unknown
+	}
+	991.1.1={
+		death="991.1.1"
+	}
+}
+159414 = {
+	name="°¢±È ¹şË¹Ä¾ °¢¶û-¹şÉ£" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159413
+	955.1.1={
+		birth="955.1.1" #Unknown
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+159415 = {
+	name="°¢¶û-ÄÂËşË¹ °¢¶û-Ä¸Ñ¼ºÚµÄ ¹şÄ·Ôú" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159414
+	980.1.1={
+		birth="980.1.1" #Unknown
+	}
+	1066.1.1={
+		death="1066.1.1"
+	}
+}
+159416 = {
+	name="°¢Àï" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159401
+	925.1.1={
+		birth="925.1.1" #Unknown
+	}
+	986.1.1={
+		death="986.1.1"
+	}
+}
+159417 = {
+	name="ÄÂËş¹ş¶û" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159416
+	956.1.1={
+		birth="956.1.1" #Unknown
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+159418 = {
+	name="ÄÂº±Ä¬µÂ" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159417
+	1000.1.1={
+		birth="1000.1.1" #Unknown
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+159419 = {
+	name="ËÕÀ³Âü" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	add_claim = d_shiite
+	father=159418
+	1045.1.1={
+		birth="1045.1.1" #Unknown
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+159420 = {
+	name="°¢¶û-ÄÂËşÍß¼ª¶û °¢ÂóµÂ" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	add_claim = d_shiite
+	father=159419
+	1100.1.1={
+		birth="1100.1.1" #Unknown
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+159421 = {
+	name="°¢¶û-Ç¡Ë¹Ä·" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159405
+	970.1.1={
+		birth="970.1.1" #Unknown
+	}
+	1042.1.1={
+		death="1042.1.1"
+	}
+}
+159422 = {
+	name="ÓÈËØ¸£" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159421
+	990.1.1={
+		birth="990.1.1" #Unknown
+	}
+	1066.1.1={
+		death="1066.1.1"
+	}
+}
+159423 = {
+	name="ÄÂº±Ä¬µÂ" #
+	dynasty=576
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=159403
+	932.1.1={
+		birth="932.1.1" #Unknown
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+159376 = {
+	name="'°¢Ã×¶û" #
+	dynasty=1029034
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	
+	760.1.1={
+		birth="760.1.1" #Unknown
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+159377 = {
+	name="¼ªÀ­²¼" #
+	dynasty=1029035
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=159376
+	
+	780.1.1={
+		birth="780.1.1" #Unknown
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+159378 = {
+	name="¿¨²¼"
+	dynasty=101862
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146037
+	780.1.1={
+		birth="780.1.1" #Unknown
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+159379 = {
+	name="ÄÂº±Ä¬µÂ" #
+	dynasty=101731
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=155148
+	
+	850.1.1={
+		birth="850.1.1" #Unknown
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+159380 = {
+	name="'°¢Ã×¶û" #
+	dynasty=101731
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159379
+	
+	880.1.1={
+		birth="880.1.1" #Unknown
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+159381 = {
+	name="Àïè÷Ææ" #
+	dynasty=101731
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159379
+	
+	920.1.1={
+		birth="920.1.1" #Unknown
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+159382 = {
+	name="°¢±È-ÔÚÑÅµÂ" #
+	dynasty=101731
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159380
+	
+	950.1.1={
+		birth="950.1.1" #Unknown
+	}
+	1030.1.1={
+		death="1030.1.1"
+	}
+}
+159383 = {
+	name="ÈøÀûºÕ" #
+	dynasty=1029035
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159384
+	
+	920.1.1={
+		birth="920.1.1" #Unknown
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+159384 = {
+	name="Ä¾¿¨À­µÂ" #
+	dynasty=1029035
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159385
+	
+	890.1.1={
+		birth="890.1.1" #Unknown
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+159385 = {
+	name="ÈøÀûºÕ" #
+	dynasty=1029035
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159386
+	
+	860.1.1={
+		birth="860.1.1" #Unknown
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+159386 = {
+	name="¿¨Ã×¶û" #
+	dynasty=1029035
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159387
+	
+	830.1.1={
+		birth="830.1.1" #Unknown
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+159387 = {
+	name="'°¢Ã×¶û" #
+	dynasty=1029035
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159377
+	
+	800.1.1={
+		birth="800.1.1" #Unknown
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+159388 = {
+	name="ÎÚÇ¡ÒÁ¶û" #
+	dynasty=101862
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159378
+	823.1.1={
+		birth="823.1.1" #Unknown
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+159389 = {
+	name="ÄÂº±Ä¬µÂ" #
+	dynasty=101862
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159388
+	
+	840.1.1={
+		birth="840.1.1" #Unknown
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+159390 = {
+	name="ÄÂÈøÒ×²·" #
+	dynasty=101862
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159389
+	
+	880.1.1={
+		birth="880.1.1" #Unknown
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+159391 = {
+	name="ÄÂº±Ä¬µÂ" #
+	dynasty=101862
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159390
+	
+	920.1.1={
+		birth="920.1.1" #Unknown
+	}
+	996.1.1={
+		death="996.1.1"
+	}
+}
+159392 = {
+	name="Ä¾¿¨À­µÂ ºúÈøÄ·µÂ-´ïÀ­ºÕ" #
+	dynasty=101862
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=159390
+	
+	930.1.1={
+		birth="930.1.1" #Unknown
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+159501={
+	name="°¬µÂÀïË¹" #ibn Abdullah ibn Hasan ibn Hasan ibn Ali
+	dynasty = 1029055
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=33928
+	745.1.2={
+		birth="745.1.2"
+	}
+	791.12.16={
+		death="791.12.16"
+	}
+}
+
+163098={
+	name="°¢¶û-°¢Æë×È"
+	dynasty = 809 # Dulafid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188697
+	815.1.1={
+		birth=yes
+	}
+	874.1.1={
+		death=yes
+	}
+}
+
+167709 = {
+	name="°ÍºÚ¶û"
+	#placeholder
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=145969
+	810.1.1={
+		birth="810.1.1"
+	}
+	867.1.1={
+		death="867.1.1"
+	}
+}
+
+167710 = {
+	name="Ã×¶ûÔú"
+	#placeholder
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=167709
+	835.1.1={
+		birth="835.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+167711 = {
+	name="°ÍºÚ¶û"
+	#placeholder
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=167710
+	855.1.1={
+		birth="855.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+
+
+
+167712 = {
+	name="ÄÂË¹Àïü\¶¡"
+	#placeholder
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=167710
+	860.1.1={
+		birth="860.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+
+
+167713 = {
+	name="ÈøµÏ¿Ë"
+	#placeholder
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=167712
+	900.1.1={
+		birth="900.1.1"
+	}
+	980.1.1={
+		death="80.1.1"
+	}
+}
+
+74035 = {
+	name="ÈøÃ×¶û"
+	dynasty=12275
+
+	culture="bedouin_arabic"
+	religion="sunni"
+
+	848.1.1={
+		birth="848.1.1"
+	}
+	899.1.1={
+		death="899.1.1"
+	}
+}
+74036 = {
+	name="°¢°¢Àï·ò"
+	dynasty=12276
+
+	culture="bedouin_arabic"
+	religion="sunni"
+
+	850.1.1={
+		birth="850.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+74037 = {
+	name="°¢¶û-É§ÌØ"
+	dynasty=12277
+
+	culture="bedouin_arabic"
+	religion="ibadi"
+
+	818.1.1={
+		birth="818.1.1"
+	}
+	886.1.1={
+		death="886.1.1"
+	}
+}
+74038 = {
+	name="°¢¿¨Òò"
+	dynasty=12278
+
+	culture="bedouin_arabic"
+	religion="shiite"
+
+	843.1.1={
+		birth="843.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+74039 = {
+	name="°Í¹şÀ­Ä·"
+	dynasty=12279
+
+	culture="bedouin_arabic"
+	religion="shiite"
+
+	829.1.1={
+		birth="829.1.1"
+	}
+	886.1.1={
+		death="886.1.1"
+	}
+}
+74040 = {
+	name="°¢°¢Àï·ò"
+	dynasty=12279
+
+	father=74039
+
+	culture="bedouin_arabic"
+	religion="shiite"
+
+	851.1.1={
+		birth="851.1.1"
+	}
+	913.1.1={
+		death="913.1.1"
+	}
+}
+74041 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=1056
+
+	culture="bedouin_arabic"
+	religion="shiite"
+	trait="sayyid"
+	father = 163130
+	846.1.1={
+		birth="846.1.1"
+	}
+	893.1.1={
+		death="893.1.1"
+	}
+}
+74042 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=12281
+
+	culture="bedouin_arabic"
+	religion="sunni"
+
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+74043 = {
+	name="¹şÉ£"
+	dynasty=12282
+
+	culture="bedouin_arabic"
+	religion="sunni"
+
+	848.1.1={
+		birth="848.1.1"
+	}
+	909.1.1={
+		death="909.1.1"
+	}
+}
+74044 = {
+	name="ÄáÔúÄ·"
+	dynasty=12283
+
+	culture="bedouin_arabic"
+	religion="sunni"
+
+	850.1.1={
+		birth="850.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+163124 = {
+	name="ÔúÒÁµÂ" 
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=33926
+	653.1.1={
+		birth="653.1.1" #Unknown
+	}
+	743.1.1={
+		death="743.1.1"
+	}
+}
+
+163125 = {
+	name="¹şÉ£"
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=163124
+	703.1.1={
+		birth="703.1.1" #Unknown
+	}
+	783.1.1={
+		death="783.1.1"
+	}
+}
+
+163126 = {
+	name="°¬Ë¹Ã·¶û"
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=163125
+	740.1.1={
+		birth="740.1.1" #Unknown
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+
+163127 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=163126
+	780.1.1={
+		birth="780.1.1" #Unknown
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+163128 = {
+	name="ÔúÒÁµÂ"
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=163127
+	810.1.1={
+		birth="810.1.1" #Unknown
+	}
+	850.1.1={
+		death="850.1.1"
+	}
+}
+
+163129 = {
+	name="Ò×²·À­ĞÀ"
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=33929
+	780.1.1={
+		birth="780.1.1" #Unknown
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+163130 = {
+	name="ÓÈËØ¸£"
+	dynasty=7296
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait="sayyid"
+	father=163129
+	810.1.1={
+		birth="810.1.1" #Unknown
+	}
+	850.1.1={
+		death="850.1.1"
+	}
+}
+
+73184 = {
+	name="ÄÂµÏ¶ò"
+	dynasty = 12194
+	father=73850
+	religion="sunni"
+	culture="bedouin_arabic"
+	968.1.1={
+		birth="968.1.1"
+	}
+	1023.1.1={
+		death="1023.1.1"
+	}
+}
+
+73187 = {
+	name="°¢²¼´ïÀ­¹ş"
+	dynasty = 12194
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73189
+	1008.1.1={
+		birth="1008.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+73189 = {
+	name="¹ş¿¨Ä·"
+	dynasty = 12194
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=73847
+	985.1.1={
+		birth="985.1.1"
+	}
+	1037.1.1={
+		death="1037.1.1"
+	}
+}
+
+85008 = {
+	name="Ä¸Ñ¼ºÚµÄ"
+	dynasty=596
+	father=73797
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="patient"
+	trait="brilliant_strategist"
+	978.1.1={
+		birth="978.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+
+73787 = {
+	name="·¨µÏ¶û"
+	dynasty=596
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	750.1.1 = {
+		birth="750.1.1"
+	}
+	813.1.1 = {
+		death="813.1.1"
+	}
+}
+
+73788={
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=596
+
+	father=73787
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	783.1.1 = {
+		birth=yes
+	}
+	842.1.1 = {
+		death=yes
+	}
+}
+
+73789 = {
+	name="·¨µÏ¶û"
+	dynasty=596
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73787
+
+	813.9.1 = {
+		birth="813.9.1"
+	}
+	839.1.1 = {
+		add_spouse=73885
+	}
+	878.1.1 = {
+		death="878.1.1"
+	}
+}
+
+73790 = {
+	name="°¢¶û-Èø°ÍºÕ"
+	dynasty=596
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73788
+
+	800.1.1 = {
+		birth="800.1.1"
+	}
+	907.1.1 = {
+		death="907.1.1" #Died 107 years old
+	}
+}
+
+73791 = {
+	name="¹şÂ×"
+	dynasty=596
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73788
+
+	817.1.1 = {
+		birth="817.1.1"
+	}
+	845.1.1 = {
+		add_spouse=73884
+	}
+	885.1.1 = {
+		death="885.1.1"
+	}
+}
+
+73792 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=596
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73791
+	mother=73884
+
+	847.1.1 = {
+		birth="847.1.1"
+	}
+	918.1.1 = {
+		death="918.1.1"
+	}
+}
+
+73793={
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=596
+
+	father=73789
+	mother=73885
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	840.1.1 = {
+		birth=yes
+	}
+	907.1.1 = {
+		death=yes
+	}
+}
+
+73794 = {
+	name="°¢Ã×À­"
+	dynasty=596
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73789
+	mother=73885
+
+	845.1.1 = {
+		birth="845.1.1"
+	}
+	897.1.1 = {
+		death="897.1.1"
+	}
+}
+
+73795 = {
+	name="Ì©ÒÁ±È"
+	dynasty=596
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73792
+
+	875.1.1 = {
+		birth="875.1.1"
+	}
+	939.1.1 = {
+		death="939.1.1"
+	}
+}
+
+73796={
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=596
+
+	father=73795
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	915.1.1={
+		birth=yes
+	}
+	978.1.1={
+		death=yes
+	}
+}
+
+73797 = {
+	name="°¢²¼´ïÀ­¹ş"
+	dynasty=596
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73796
+
+	943.1.1 = {
+		birth="943.1.1"
+	}
+	1010.1.1 = {
+		death="1010.1.1"
+	}
+}
+
+73839 = {
+	name="ÑÇ¹şÑ½"
+	dynasty=12194
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	832.1.1 = {
+		birth="832.1.1"
+	}
+	859.1.1 = {
+		add_spouse=73840
+	}
+	883.1.1 = {
+		death="883.1.1"
+	}
+}
+
+73840 = {
+	name="ÈøºÕ°Í"
+	female=yes
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	843.1.1 = {
+		birth="843.1.1"
+	}
+	907.1.1 = {
+		death="907.1.1"
+	}
+}
+
+73841 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=12194
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73839
+	mother=73840
+
+	860.1.1 = {
+		birth="860.1.1"
+	}
+	925.1.1 = {
+		death="925.1.1"
+	}
+}
+
+73842={
+	name="¹şÏ£Ä·"
+	dynasty=12194
+
+	father=73839
+	mother=73840
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	864.1.1 = {
+		birth=yes
+	}
+	930.1.1 = {
+		death=yes
+	}
+}
+
+73843 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=12194
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73842
+
+	889.1.1 = {
+		birth="889.1.1"
+	}
+	950.1.1 = {
+		death="950.1.1"
+	}
+}
+
+73845 = {
+	name="ÑÇ¹şÑ½"
+	dynasty=12194
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73843
+
+	923.1.1 = {
+		birth="923.1.1"
+	}
+	975.1.1 = {
+		death="975.1.1"
+	}
+}
+
+73846={
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=12194
+
+	father=73843
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	930.1.1={
+		birth=yes
+	}
+	989.1.1={
+		death=yes
+	}
+}
+
+73847={
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=12194
+
+	father=73845
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	950.1.1={
+		birth=yes
+	}
+	1013.1.1={
+		death=yes
+	}
+}
+
+73848 = {
+	name="ÑÇ¹şÑ½"
+	dynasty=12194
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73839
+
+	872.1.1 = {
+		birth="872.1.1"
+	}
+	930.1.1 = {
+		death="930.1.1"
+	}
+}
+
+73849 = {
+	name="ÂüµÏ¶û"
+	dynasty=12194
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73848
+
+	900.1.1 = {
+		birth="900.1.1"
+	}
+	959.1.1 = {
+		death="959.1.1"
+	}
+}
+
+73850 = {
+	name="ÑÇ¹şÑ½"
+	dynasty=12194
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73849
+
+	933.1.1 = {
+		birth="933.1.1"
+	}
+	990.1.1 = {
+		death="990.1.1"
+	}
+}
+
+73884 = {
+	name="ÑÇº£¶û"
+	female=yes
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	827.1.1 = {
+		birth="827.1.1"
+	}
+	892.1.1 = {
+		death="892.1.1"
+	}
+}
+
+73885 = {
+	name="ÑÅË¼Ãñ"
+	female=yes
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	820.1.1 = {
+		birth="820.1.1"
+	}
+	888.1.1 = {
+		death="888.1.1"
+	}
+}
+
+73886 = {
+	name="Ë÷À­ºÕ"
+	female=yes
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	846.1.1 = {
+		birth="846.1.1"
+	}
+	912.1.1 = {
+		death="912.1.1"
+	}
+}
+
+73887 = {
+	name="Èø»ù"
+	dynasty=12290
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	797.1.1 = {
+		birth="797.1.1"
+	}
+	850.1.1 = {
+		death="850.1.1"
+	}
+}
+
+73888 = {
+	name="ÎÚÈøÂí"
+	dynasty=12290
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73887
+
+	822.1.1 = {
+		birth="822.1.1"
+	}
+	850.1.1 = {
+		add_spouse=73890
+	}
+	889.1.1 = {
+		death="889.1.1"
+	}
+}
+
+73889 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=12290
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	father=73888
+	mother=73890
+
+	853.1.1 = {
+		birth="853.1.1"
+	}
+	900.1.1 = {
+		death="900.1.1"
+	}
+}
+
+73890 = {
+	name="·¨¼ªÀ­"
+	female=yes
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	833.1.1 = {
+		birth="833.1.1"
+	}
+	895.1.1 = {
+		death="895.1.1"
+	}
+}
+
+73903={
+	name="°¢Àï"
+	dynasty=1046000
+
+	father=200025
+	mother=73902
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	725.1.1={
+		birth=yes
+	}
+	789.1.1={
+		death=yes
+	}
+}
+
+73904={
+	name="åÈÀû²¼"
+	dynasty=1046000
+
+	father=73903
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	757.1.1={
+		birth=yes
+	}
+	812.1.1={
+		death=yes
+	}
+}
+
+73905={
+	name="ËşÀû²·"
+	dynasty=1046000
+
+	father=73904
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	784.1.1={
+		birth=yes
+	}
+	852.1.1={
+		death=yes
+	}
+}
+
+73906={
+	name="°¢²·¶ÅÀÕ-ÑÅ°Í¶û"
+	dynasty=1046000
+
+	father=73905
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	813.1.1={
+		birth=yes
+	}
+	858.1.1={
+		death=yes
+	}
+}
+
+73907={
+	name="ÀñÏôÄÉ"
+	female=yes
+	dynasty=1046000
+
+	father=73906
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	840.1.1={
+		birth=yes
+	}
+	916.1.1={
+		death=yes
+	}
+}
+
+73927 = {
+	name="ÎÚÉ´"
+	female=yes
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	824.1.1 = {
+		birth="824.1.1"
+	}
+	890.1.1 = {
+		death="890.1.1"
+	}
+}
+
+73928 = {
+	name="¹ş¿¨Ä·"
+	dynasty=597
+
+	father=73683
+	mother=73927
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	trait=sayyid
+
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	900.1.1 = {
+		death="900.1.1"
+	}
+}
+
+73941 = {
+	name="°¢Ëş²·"
+	dynasty=100709
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	814.1.1 = {
+		birth="814.1.1"
+	}
+	867.1.1 = {
+		add_spouse=73942
+	}
+	910.1.1 = {
+		death="910.1.1"
+	}
+}
+
+73942 = {
+	name="À­Èö"
+	female=yes
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	916.1.1 = {
+		death="916.1.1"
+	}
+}
+
+73943 = {
+	name="ÄÉÒÁ¶û"
+	dynasty=12302
+
+	father=73944
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	833.1.1 = {
+		birth="833.1.1"
+	}
+	860.1.1 = {
+		add_spouse=73948
+	}
+	889.1.1 = {
+		death="889.1.1"
+	}
+}
+
+73944 = {
+	name="ËÕÀ³Âü"
+	dynasty=12302
+
+	father=73945
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	815.1.1 = {
+		birth="815.1.1"
+	}
+	867.1.1 = {
+		death="867.1.1"
+	}
+}
+
+73945 = {
+	name="ÄÉÒÁ¶û"
+	dynasty=12302
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	772.1.1 = {
+		birth="772.1.1"
+	}
+	831.1.1 = {
+		death="831.1.1"
+	}
+}
+
+73946 = {
+	name="°¢ÄÂ¶û"
+	dynasty=12302
+
+	father=73945
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	823.1.1 = {
+		birth="823.1.1"
+	}
+	876.1.1 = {
+		death="876.1.1"
+	}
+}
+
+73947 = {
+	name="¹ş·òË¹"
+	dynasty=12302
+
+	father=73946
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	859.1.1 = {
+		birth="859.1.1"
+	}
+	925.1.1 = {
+		death="925.1.1"
+	}
+}
+
+73948 = {
+	name="¿¨ÂíÀ­"
+	female=yes
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	842.1.1 = {
+		birth="842.1.1"
+	}
+	906.1.1 = {
+		death="906.1.1"
+	}
+}
+
+160015 = {
+	name="ÒÁË¹ÂêÒÇ"
+	dynasty=7296
+
+	culture="bedouin_arabic"
+	religion="shiite"
+	trait="sayyid"
+	father = 163130
+	840.1.1={
+		birth="840.1.1"
+	}
+	866.1.1={
+		death="866.1.1"
+	}
+}
+160016 = {
+	name="ÓÅËØ¸£"
+	dynasty=1056
+
+	culture="bedouin_arabic"
+	religion="shiite"
+	trait="sayyid"
+	father = 74041
+	860.1.1={
+		birth="860.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+160017 = {
+	name="ÒÁË¹ÂêÒÇ"
+	dynasty=1056
+
+	culture="bedouin_arabic"
+	religion="shiite"
+	trait="sayyid"
+	father = 160016
+	880.1.1={
+		birth="880.1.1"
+	}
+	928.1.1={
+		death="928.1.1"
+	}
+}
+160018 = {
+	name="¹şÉ£"
+	dynasty=1056
+
+	culture="bedouin_arabic"
+	religion="shiite"
+	trait="sayyid"
+	father = 160017
+	900.1.1={
+		birth="900.1.1"
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+160019 = {
+	name="ÒÁË¹ÂêÒÇ"
+	dynasty=1056
+
+	culture="bedouin_arabic"
+	religion="shiite"
+	trait="sayyid"
+	father = 160017
+	901.1.1={
+		birth="901.1.1"
+	}
+	955.1.1={
+		death="955.1.1"
+	}
+}
+160020 = {
+	name="°¬¹şÂõµÂ"
+	dynasty=1056
+
+	culture="bedouin_arabic"
+	religion="shiite"
+	trait="sayyid"
+	father = 160017
+	903.1.1={
+		birth="903.1.1"
+	}
+	958.1.1={
+		death="958.1.1"
+	}
+}
+
+73975 = {
+	name="ÑÇº£À­"
+	female=yes
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	827.1.1 = {
+		birth="827.1.1"
+	}
+	896.1.1 = {
+		death="896.1.1"
+	}
+}
+
+163151={
+	name="¶ÅÀ­·ò" 
+	dynasty = 809
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163098
+	835.1.1={
+		birth="835.1.1"
+	}
+	879.1.1={
+		death="879.1.1"
+	}
+}
+
+163152={
+	name="°¬¹şÂõµÂ" 
+	dynasty = 809
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 163098
+	840.1.1={
+		birth="840.1.1"
+	}
+	893.1.1={
+		death="893.1.1"
+	}
+}
+
+163166 = { 
+	name="ÄÂº±Ä¬µÂ" 
+	dynasty=7512 
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait=sayyid
+	father=163128
+	832.1.1={
+		birth="832.1.1"
+	}
+	900.10.3={
+		death="900.10.3"
+	}
+}
+
+145596 = { 
+	name="Hnanisho" 
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145598
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1338.10.22={
+		death="1338.10.22"
+	}
+}
+
+145597 = { 
+	name="Maremmeh" 
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145598
+	1291.1.1={
+		birth="1291.1.1"
+	}
+	1335.7.28={
+		death="1335.7.28"
+	}
+}
+
+145598 = { 
+	name="Theodosis"
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145603
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1331.12.19={
+		death="1331.12.19"
+	}
+}
+
+145599 = { 
+	name="µÇ¹ş"
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145597
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1338.10.22={
+		death="1338.10.22"
+	}
+}
+
+145600 = { 
+	name="Yohannan"
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145598
+	1293.1.1={
+		birth="1293.1.1"
+	}
+	1349.9.28={
+		death="1349.9.28"
+	}
+}
+
+145601 = { 
+	name="Theodosis"
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145596
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1362.1.8={
+		death="1362.1.8"
+	}
+}
+
+145602 = { 
+	name="Surin"
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145601
+	1333.1.1={
+		birth="1333.1.1"
+	}
+	1398.4.10={
+		death="1398.4.10"
+	}
+}
+
+145603 = { 
+	name="Pethion"
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145605
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1302.7.4={
+		death="1302.7.4"
+	}
+}
+
+145604 = { 
+	name="Giwargis"
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145605
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1296.1.18={
+		death="1296.1.18"
+	}
+}
+
+145605 = { 
+	name="Pethion"
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145606
+	1228.1.1={
+		birth="1228.1.1"
+	}
+	1289.1.30={
+		death="1289.1.30"
+	}
+}
+
+145606 = { 
+	name="Theodosis"
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145607
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1273.7.15={
+		death="1273.7.15"
+	}
+}
+
+145607 = { 
+	name="Äá¹ÅÀ­Ë¹"
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1261.12.29={
+		death="1261.12.29"
+	}
+}
+
+145608 = { 
+	name="Ò×²·À­ĞÀ"
+	dynasty=1022235
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145609
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1276.8.2={
+		death="1276.8.2"
+	}
+}
+
+145609 = { 
+	name="Gregoris"
+	dynasty=1022235
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145610
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1228.3.1={
+		death="1228.3.1"
+	}
+}
+
+145610 = { 
+	name="Eliya"
+	dynasty=1022235
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145611
+	1141.1.1={
+		birth="1141.1.1"
+	}
+	1199.10.3={
+		death="1199.10.3"
+	}
+}
+
+145611 = { 
+	name="Aba"
+	dynasty=1022235
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145612
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1181.11.4={
+		death="1181.11.4"
+	}
+}
+
+145612 = { 
+	name="Ò×²·À­ĞÀ"
+	dynasty=1022235
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145613
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1164.1.12={
+		death="1164.1.12"
+	}
+}
+
+145613 = { 
+	name="Maremmeh"
+	dynasty=1022235
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145614
+	1083.1.1={
+		birth="1083.1.1"
+	}
+	1141.1.4={
+		death="1141.1.4"
+	}
+}
+
+145614 = { 
+	name="Eliya"
+	dynasty=1022235
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145615
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1103.10.18={
+		death="1103.10.18"
+	}
+}
+
+145615 = { 
+	name="Ò×²·À­ĞÀ"
+	dynasty=1022235
+	religion="nestorian"
+	culture="bedouin_arabic"
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1076.7.6={
+		death="1076.7.6"
+	}
+}
+
+145616 = { 
+	name="Äá¹ÅÀ­Ë¹"
+	dynasty=1022236
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145617
+	862.1.1={
+		birth="862.1.1"
+	}
+	928.1.2={
+		death="928.1.2"
+	}
+}
+
+145617 = { 
+	name="Ò×²·À­ĞÀ"
+	dynasty=1022236
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145618
+	845.1.1={
+		birth="845.1.1"
+	}
+	897.6.3={
+		death="897.6.3"
+	}
+}
+
+145618 = {
+	name="µÇ¹ş"
+	dynasty=1022236
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145967
+	825.1.1={
+		birth="825.1.1"
+	}
+	872.3.20={
+		death="872.3.20"
+	}
+}
+
+188527 = {
+	name="ÈøÂí"
+	dynasty=1042099 # Banu Sama
+	religion="sunni"
+	culture="bedouin_arabic"
+	685.1.1={
+		birth=yes
+	}
+	740.1.1={
+		death=yes
+	}
+}
+
+188533 = {
+	name="Î÷ÈöÄÂ"
+	dynasty=582 # al-Taghlibi
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188536
+	730.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188534 = {
+	name="ËØ·şÑÅ"
+	dynasty=582 # al-Taghlibi
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188536
+	732.1.1={
+		birth=yes
+	}
+	792.1.1={
+		death=yes
+	}
+}
+
+188535 = {
+	name="±ÈË¹ËşÄ·"
+	dynasty=582 # al-Taghlibi
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188536
+	735.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188536 = {
+	name="°¢ÄÂ¶û"
+	dynasty=582 # al-Taghlibi
+	religion="sunni"
+	culture="bedouin_arabic"
+	700.1.1={
+		birth=yes
+	}
+	750.1.1={
+		death=yes
+	}
+}
+
+145965 = { 
+	name="ëèÀûÃÅ"
+	dynasty=1022236
+	religion="nestorian"
+	culture="bedouin_arabic"
+
+	737.1.1={
+		birth="737.1.1"
+	}
+	789.1.1={
+		death="789.1.1"
+	}
+}
+
+145966 = { 
+	name="°¢ËşÄÉÎ÷°ÂË¹"
+	dynasty=1022236
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145965
+	757.1.1={
+		birth="757.1.1"
+	}
+	822.1.1={
+		death="822.1.1"
+	}
+}
+
+145967 = { 
+	name="ÒÁÆ¤·¨Å¦"
+	dynasty=1022236
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145966
+	790.1.1={
+		birth="790.1.1"
+	}
+	853.4.1={
+		death="853.4.1"
+	}
+}
+
+145968 = {
+	name="É¨ÂŞ"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	748.1.1={
+		birth="748.1.1"
+	}
+	806.1.1={
+		death="806.1.1"
+	}
+}
+
+145969 = {
+	name="°¢Àï"
+	dynasty=100667
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=145968
+	781.1.1={
+		birth="781.1.1"
+	}
+	843.1.1={
+		death="843.1.1"
+	}
+}
+73211={
+	name="ÒÁµÏÂê"
+	female=yes
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1046.1.1={
+		birth=yes
+	}
+	1092.1.1={
+		death=yes
+	}
+}
+73248={
+	name="À­Ï£¿Ë"
+	dynasty=12208
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1020.1.1={
+		birth=yes
+	}
+	1042.1.1={
+		employer=3212
+	}
+	1046.1.1={
+		add_spouse=45028
+	}
+	1069.1.1={
+		death=yes
+	}
+}
+73967={
+	name="°¢Ë¹À¼"
+	dynasty=12308
+
+	father=73968
+	mother=73975
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	844.1.1={
+		birth=yes
+	}
+	931.1.1={
+		death=yes
+	}
+}
+
+73968={
+	name="°¢²·¶ÅÀÕ°¢Æë×È"
+	dynasty=12308
+
+	father=200033
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	812.1.1={
+		birth=yes
+	}
+	843.1.1={
+		add_spouse=73975
+	}
+	870.1.1={
+		death=yes
+	}
+}
+
+3206={
+	name="ÂüËÕ¶û" #AKA: Muhammad al-Mansur
+	dynasty=569
+
+	martial=9
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	trait=underhanded_rogue
+
+	938.1.1={
+		birth=yes
+	}
+	981.1.1={
+		add_spouse=70125
+	}
+	1002.8.10={
+		death=yes
+	}
+}
+
+3910={
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=572
+
+	father=45027
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1028.1.1={
+		birth=yes
+	}
+	1081.1.1={
+		death=yes
+	}
+}
+
+20852={
+	name="°¢²·¶ÅÀÕÂíÀû¿Ë"
+	dynasty=101607
+
+	father = 45001
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1035.1.1={
+		birth=yes
+	}
+	1078.1.1={
+		death=yes
+	}
+}
+
+45000={
+	name="°¢²·¶ÅÀ­¹şÏ£Ä·"
+	dynasty=101607
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	991.1.1={
+		birth=yes
+	}
+	1043.1.1={
+		death=yes
+	}
+}
+
+45002={
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=101607
+	
+	father = 45001
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1034.1.1={
+		birth=yes
+	}
+	1085.1.1={
+		death=yes
+	}
+}
+
+45025={
+	name="°¢²·¶ÅÀÕ°¢Æë×È"
+	dynasty=569
+	
+	father=73226
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	999.1.1={
+		birth=yes
+	}
+	1061.1.1={
+		death=yes
+	}
+}
+
+45026={
+	name="°¢²·¶ÅÀÕÂíÀû¿Ë"
+	dynasty=569
+	
+	father=45025
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1020.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		add_spouse=20858
+	}
+	1065.1.1={
+		add_claim=d_valencia
+	}
+	1069.1.1={
+		death=yes
+	}
+}
+
+73180={
+	name="°¢²·¶ÅÀÕÂíÀû¿Ë"
+	dynasty=599
+	
+	father=45005
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1073.1.1={
+		birth=yes
+	}
+	1110.1.1={
+		add_claim=c_castellon
+	}
+	1110.5.1={
+		add_claim=c_zaragoza
+	}
+	1118.12.18={
+		remove_claim=c_zaragoza
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+
+73210={
+	name="°¢²·¶ÅÀÕÂíÀû¿Ë"
+	dynasty=569
+
+	father=73228
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1116.1.1={
+		birth=yes
+	}
+	1144.1.1={
+		add_claim=d_valencia
+		add_claim=c_valencia
+		add_claim=c_castellon		
+	}
+	1145.1.1={
+		remove_claim=d_valencia
+		remove_claim=c_valencia
+		remove_claim=c_castellon
+	}
+	1145.7.1={
+		add_claim=d_valencia
+		add_claim=c_valencia
+		add_claim=c_castellon
+	}
+	1146.1.1={
+		add_claim=c_denia
+	}
+	1147.1.1={
+		remove_claim=d_valencia
+	}
+	1163.1.1={
+		death=yes
+	}
+}
+73216={
+	name="°¢²·¶ÅÀÕ-ÑÅ°Í¶û"
+	dynasty=594
+	
+	father=3214
+	mother=73211
+	
+	religion=sunni
+	culture=bedouin_arabic
+	
+	1067.1.1={
+		birth=yes
+	}
+	1095.1.1={
+		death=yes
+	}
+}
+
+73226={
+	name="°¢²·¶ÅÀ­ºÕÂü" #AKA: Sanchuelo
+	dynasty=569
+
+	father=3206
+	mother=70125
+
+	religion=sunni
+	culture=bedouin_arabic
+	
+	983.1.1={
+		birth=yes
+	}
+	1009.1.1={
+		death=yes
+	}
+}
+
+73228={
+	name="°¢²·¶ÅÀÕ°¢Æë×È"
+	dynasty=569
+
+	father=73227
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1092.1.1={
+		birth=yes
+	}
+	1126.1.1={
+		add_claim=d_valencia
+		add_claim=c_valencia
+		add_claim=c_castellon
+	}
+	1144.1.1={
+		death=yes
+	}
+}
+
+73239={
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=572
+
+	father=73238
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1086.1.1={
+		birth=yes
+	}
+	1109.1.1={
+		add_claim=c_murcia
+	}
+	1145.9.1={
+		remove_claim=c_murcia
+	}
+	1146.1.1={
+		add_claim=c_murcia
+	}
+	1168.1.1={
+		death=yes
+	}
+}
+
+200020={
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=597
+
+	father=73679
+	
+	trait=sayyid
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	747.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+200021={
+	name="°¢²·¶ÅÀ­"
+	dynasty=597
+
+	father=73679
+	
+	trait=sayyid
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	760.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+
+200022={
+	name="°¢¶û¿¨Î÷Ä·"
+	dynasty=597
+
+	father=73679
+	
+	trait=sayyid
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	762.1.1={
+		birth=yes
+	}
+	803.1.1={
+		death=yes
+	}
+}
+
+200023={
+	name="°¢²·¶ÅÀÕ°¢Æë×È"
+	dynasty=1046001
+
+	father=200024
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	673.1.1={
+		birth=yes
+	}
+	714.1.1={
+		add_spouse=200063
+	}
+	715.8.1={
+		death=yes
+	}
+}
+
+200024={
+	name="ÄÂÈø"
+	dynasty=1046001
+
+	martial=10
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	add_trait=brilliant_strategist
+
+	640.1.1={
+		birth=yes
+	}
+	716.1.1={
+		death=yes
+	}
+}
+
+200025={
+	name="°¢²·¶ÅÀÕ-ÑÅ°Í¶û"
+	dynasty=1046000
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	690.1.1={
+		birth=yes
+	}
+	723.1.1={
+		add_spouse=73902
+	}
+	743.1.1={
+		death=yes
+	}
+}
+
+200032={
+	name="ËÕÀ³Âü"
+	dynasty=1046002
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	725.1.1={
+		birth=yes
+	}
+	779.1.1={
+		death=yes
+	}
+}
+
+200033={
+	name="¹şÏ£Ä·"
+	dynasty=12308
+
+	father=200034
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	788.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+200034={
+	name="¼ÖÀïµÂ"
+	dynasty=12308
+
+	father=200035
+	mother=200037
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	762.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+200035={
+	name="°¢²·¶ÅÀ­"
+	dynasty=12308
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	738.1.1={
+		birth=yes
+	}
+	760.1.1={
+		add_spouse=200037
+	}
+	789.1.1={
+		death=yes
+	}
+}
+
+200036={
+	name="ÎÚ°ÍÑÅ-°¢À­"
+	dynasty=12308
+
+	father=200034
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	786.1.1={
+		birth=yes
+	}
+	832.1.1={
+		death=yes
+	}
+}
+
+200038={
+	name="ÑÅ¹ş"
+	dynasty=12308
+
+	father=200036
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	814.1.1={
+		birth=yes
+	}
+	867.1.1={
+		death=yes
+	}
+}
+
+200039={
+	name="ÒÁµÂÀïË¹"
+	dynasty=12308
+
+	father=200038
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	837.1.1={
+		birth=yes
+	}
+	867.1.1={
+		add_spouse=200040
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+200040={
+	name="ÈøÃ×À­"
+	female=yes
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	850.1.1={
+		birth=yes
+	}
+	911.1.1={
+		death=yes
+	}
+}
+
+200042={
+	name="¹ş¿¨Ä·"
+	dynasty=1046003
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	734.1.1={
+		birth=yes
+	}
+	757.1.1={
+		add_spouse=200044
+	}
+	789.1.1={
+		death=yes
+	}
+}
+
+200043={
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=1046003
+
+	father=200042
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	758.1.1={
+		birth=yes
+	}
+	806.1.1={
+		death=yes
+	}
+}
+
+200046={
+	name="ºîÈüÒò"
+	dynasty=1046004
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	740.1.1={
+		birth=yes
+	}
+	768.1.1={
+		add_spouse=200047
+	}
+	788.6.10={
+		death=yes
+	}
+}
+
+200048={
+	name="ÈüÒåµÂ"
+	dynasty=1046004
+
+	father=200046
+	mother=200047
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	769.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+200049={
+	name="ËÕÀ³Âü"
+	dynasty=1046005
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	733.1.1={
+		birth=yes
+	}
+	761.1.1={
+		add_spouse=200050
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+200051={
+	name="ÂíÌØÂ³"
+	dynasty=1046005
+
+	father=200049
+	mother=200050
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	762.1.1={
+		birth=yes
+	}
+	792.1.1={
+		death=yes
+	}
+}
+
+200052={
+	name="Èø¶Ù"
+	dynasty=1046006
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	760.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+200054={
+	name="ËÕÀ³Âü"
+	dynasty=1046007
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	736.1.1={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+200202={
+	name="°¢Ê«Âê"
+	female=yes
+	dynasty=1046001
+
+	father=200023
+	mother=200063
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	715.1.1={
+		birth=yes
+	}
+	775.1.1={
+		death=yes
+	}
+}
+188608 = {
+	name="¼Ö±È¶û" # Jabir b Tubah, governor of Basra
+	dynasty=1042113 # Kilabid 
+	religion="sunni"
+	culture="bedouin_arabic"
+	725.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188609 = {
+	name="ÄÂº±Ä¬µÂ" # Muhammad b Sulayman b Ali, governor of Kufa
+	dynasty=1042114 # Kufahyid 
+	religion="sunni"
+	culture="bedouin_arabic"
+	729.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188624 = {
+	name="¹ş»ùÄ·"
+	dynasty=1042121 # Abd al-Qays 
+	religion="sunni"
+	culture="bedouin_arabic"
+	711.1.1={
+		birth=yes
+	}
+	764.1.1={
+		death=yes
+	}
+}
+
+188625 = {
+	name="°¢¸ñÀ­²¼" # fictitious
+	dynasty=1042121 # Abd al-Qays 
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188624
+	741.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188626 = {
+	name="ËÕÀ³Âü" # leader in Bahrain
+	dynasty=1042121 # Abd al-Qays 
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188624
+	738.1.1={
+		birth=yes
+	}
+	770.1.1={ # actually 768
+		death=yes
+	}
+}
+
+188627 = {
+	name="Ò×²·À­ĞÀ" # fictitious
+	dynasty=1042121 # Abd al-Qays 
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188626
+	760.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+188610 = {
+	name="ÄÂº±Ä¬µÂ" # Muhammad b Ibrahim, governor of Mecca
+	dynasty=1042115 # Ibrahimid 
+	religion="sunni"
+	culture="bedouin_arabic"
+	729.1.1={
+		birth=yes
+	}
+	783.1.1={
+		death=yes
+	}
+}
+
+188611 = {
+	name="°¢°ÍË¹"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188671
+	trait="sayyid"
+	665.1.1={
+		birth=yes
+	}
+	730.1.1={
+		death=yes
+	}
+}
+
+188612 = {
+	name="¿âÌ¹" # governor of Yamamah
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188611
+	trait="sayyid"
+	700.1.1={
+		birth=yes
+	}
+	776.1.1={
+		death=yes
+	}
+}
+
+188613 = {
+	name="ÈüÒåµÂ" # fictitious holder of Ar Ar/Shaka
+	dynasty=1042116 # Banu Kalb
+	religion="sunni"
+	culture="bedouin_arabic"
+	740.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188614 = {
+	name="Ã×Ôú" # fictitious
+	dynasty=1042117 # Banu Tayy
+	religion="sunni"
+	culture="bedouin_arabic"
+	700.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+188615 = {
+	name="ÎÚ°ÍµÏ" # fictitious holder of Rafha
+	dynasty=1042117 # Banu Tayy
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188614
+	734.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188616 = {
+	name="åÈÀû²¼" # fictitious holder of Hail
+	dynasty=1042117 # Banu Tayy
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188614
+	736.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188617 = {
+	name="ÑÅÇú²©" # fictitious
+	dynasty=1042118 # Banu Judham
+	religion="sunni"
+	culture="bedouin_arabic"
+	700.1.1={
+		birth=yes
+	}
+	755.1.1={
+		death=yes
+	}
+}
+
+188618 = {
+	name="ÑÅÇú²©" # fictitious holder of Al Aqabah
+	dynasty=1042118 # Banu Judham
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188617
+	725.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188619 = {
+	name="¹şÉ£" # fictitious holder of Tabuk
+	dynasty=1042118 # Banu Judham
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188617
+	728.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188620 = {
+	name="ÄáÔúÄ·" # fictitious holder of Hijaz
+	dynasty=1042119 # Banu Udhrah
+	religion="sunni"
+	culture="bedouin_arabic"
+	742.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188621 = {
+	name="»ùÀ³²¼" # fictitious holder of Asir
+	dynasty=1042120 # Banu Kinanah
+	religion="sunni"
+	culture="bedouin_arabic"
+	720.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+188622 = {
+	name="ÇüÈüÒå" # fictitious
+	dynasty=1042120 # Banu Kinanah
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188621
+	745.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188623 = {
+	name="ÑÅË¹Ãô"# fictitious
+	female=yes
+	dynasty=1042120 # Banu Kinanah
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188621
+	751.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+188551 = {
+	name="ÓÅ°ÍµÏ" # fictitious
+	dynasty=1042103
+	religion="sunni"
+	culture="bedouin_arabic"
+	730.4.4={
+		birth=yes
+	}
+	789.4.4={
+		death=yes
+	}
+}
+200229={
+	name="ÓÅËØ¸£"
+	dynasty=1046027
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	741.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+
+200261={
+	name="ÑÅ¹ş"
+	dynasty=1046029
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	966.1.1={
+		birth=yes
+	}
+	1020.1.1={
+		death=yes
+	}
+}
+
+200262={
+	name="°¬¹şÂõµÂ"
+	dynasty=1046029
+
+	father=200261
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	991.1.1={
+		birth=yes
+	}
+	1042.1.1={
+		death=yes
+	}
+}
+
+200263={
+	name="°¢°ÍË¹"
+	dynasty=1046029
+
+	father=200262
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1018.1.1={
+		birth=yes
+	}
+	1070.1.1={
+		death=yes
+	}
+}
+
+200264={
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=1046029
+
+	father=200261
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	993.1.1={
+		birth=yes
+	}
+	1051.1.1={
+		death=yes
+	}
+}
+
+200265={
+	name="¼ÓÀ­·ò"
+	dynasty=1046029
+
+	father=200261
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	995.1.1={
+		birth=yes
+	}
+	1048.1.1={
+		death=yes
+	}
+}
+
+200266={
+	name="·¨ÌØºÕ"
+	dynasty=1046029
+
+	father=200265
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1026.1.1={
+		birth=yes
+	}
+	1049.1.1={
+		add_spouse=200268
+	}
+	1083.1.1={
+		death=yes
+	}
+}
+
+200267={
+	name="ÄÉ¶ûË¹"
+	dynasty=1046029
+
+	father=200266
+	mother=200268
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1051.1.1={
+		birth=yes
+	}
+	1107.1.1={
+		death=yes
+	}
+}
+
+200268={
+	name="ËÕÀ³ÑÇ"
+	female=yes
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1033.1.1={
+		birth=yes
+	}
+	1096.1.1={
+		death=yes
+	}
+}
+200219={
+	name="Èö²¼¶û"
+	dynasty=1046023
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	966.1.1={
+		birth=yes
+	}
+	1020.1.1={
+		death=yes
+	}
+}
+
+200220={
+	name="°¢²·¶ÅÀÕ°¢Æë×È"
+	dynasty=1046023
+
+	father=200219
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	994.1.1={
+		birth=yes
+	}
+	1030.1.1={
+		death=yes
+	}
+}
+
+200221={
+	name="°¢²·¶ÅÀÕÂíÀû¿Ë"
+	dynasty=1046023
+
+	father=200219
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	998.1.1={
+		birth=yes
+	}
+	1034.1.1={
+		death=yes
+	}
+}
+
+200222={
+	name="Âí¶ûÍò"
+	dynasty=1046024
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	741.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+200226={
+	name="Î÷É½ÄÂ"
+	dynasty=1046026
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	728.1.1={
+		birth=yes
+	}
+	758.1.1={
+		add_spouse=200227
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+200228={
+	name="Ò×²·À­ĞÀ"
+	dynasty=1046026
+
+	father=200226
+	mother=200227
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	760.1.1={
+		birth=yes
+	}
+	813.1.1={
+		death=yes
+	}
+}
+188605 = {
+	name="ÎÚÎ¬Ë¹" # fictitious governor of Makran
+	dynasty=1042133 
+	religion="sunni"
+	culture="bedouin_arabic"
+	723.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+188606 = {
+	name="Î÷É½ÄÂ" # fictitious governor of Kerman
+	dynasty=1042137 
+	religion="sunni"
+	culture="bedouin_arabic"
+	729.1.1={
+		birth=yes
+	}
+	788.1.1={
+		death=yes
+	}
+}
+188604 = {
+	name="Âü¶÷" # governor of Sistan
+	dynasty=1029123 # Shaybanid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146067
+	712.1.1={
+		birth=yes
+	}
+	769.6.1={
+		death=yes
+	}
+}
+188602 = {
+	# Governor of Khorasan
+	name="»ôÂíµÏ"
+	dynasty=602 # Taid or al-Ta'i
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188574
+	720.1.1={
+		birth=yes
+	}
+	776.1.1={
+		death=yes
+	}
+}
+
+188574 = {
+	name="¿¨Ëş°Î"
+	dynasty=602 # Taid or al-Ta'i
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146022
+	690.1.1={
+		birth=yes
+	}
+	749.8.27={
+		death=yes
+	}
+}
+
+188575 = {
+	name="°¢¶û¹şÉ£"
+	dynasty=602 # Taid or al-Ta'i
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188574
+	713.1.1={
+		birth=yes
+	}
+	797.1.1={
+		death=yes
+	}
+}
+
+188576 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=602 # Taid or al-Ta'i
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188575
+	738.1.1={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+
+188577 = {
+	name="°¢Àï"
+	dynasty=602 # Taid or al-Ta'i
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188575
+	740.1.1={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+
+188578 = {
+	name="ÈüÒåµÂ"
+	dynasty=602 # Taid or al-Ta'i
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188575
+	742.1.1={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+
+188579 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=602 # Taid or al-Ta'i
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188602
+	749.1.1={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+
+188690 = {
+	# Governor of Khorasan, 780 & 782
+	name="ÄÂÈøÑÅ"
+	dynasty=1042152 # Dabbid
+	religion="sunni"
+	culture="bedouin_arabic"
+	730.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188691 = {
+	name="×æº£¶û"
+	dynasty=1042152 # Dabbid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188690
+	755.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+188692 = {
+	name="¹şÀïË¹"
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33901
+	665.1.1={
+		birth=yes
+	}
+	715.1.1={
+		death=yes
+	}
+}
+
+188693 = {
+	name="ÈøÀûÒÁ"
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188692
+	705.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+188696 = {
+	name="¹şÂíµÂ" # general that fought Ustadhsis
+	dynasty=1042155 # Amrid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188692
+	715.1.1={
+		birth=yes
+	}
+	775.1.1={
+		death=yes
+	}
+}
+146014 = {
+	name="Ôú·Æ¶û"
+	dynasty=1022357 # Sulamid or Al-Sulami
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	681.1.1={
+		birth="681.1.1"
+	}
+	735.1.1={
+		death="735.1.1"
+	}
+}
+
+146015 = {
+	name="°¢Î÷µÂ"
+	dynasty=1022357
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146014
+	700.1.1={
+		birth="700.1.1"
+	}
+	754.1.1={
+		death="754.1.1"
+	}
+}
+
+146016 = {
+	name="ÑÅ×ÈµÂ"
+	dynasty=1022357
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146015
+	720.1.1={
+		birth="720.1.1"
+	}
+	783.1.1={
+		death="783.1.1"
+	}
+}
+
+146017 = {
+	name="À­Ï£µÂ"
+	dynasty=1022357
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146015
+	732.1.1={
+		birth="732.1.1"
+	}
+	782.1.1={
+		death="782.1.1"
+	}
+}
+
+146018 = {
+	name="¼ÖÀïµÂ"
+	dynasty=1022357
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146016
+	741.1.1={
+		birth="741.1.1"
+	}
+	779.1.1={
+		death="779.1.1"
+	}
+}
+
+146019 = {
+	name="°¬¹şÂõµÂ"
+	dynasty=1022357
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146016
+	743.1.1={
+		birth="743.1.1"
+	}
+	794.1.1={
+		death="794.1.1"
+	}
+}
+
+146020 = {
+	name="ÓÅËØ¸£"
+	dynasty=1022357
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146017
+	749.1.1={
+		birth="749.1.1"
+	}
+	814.1.1={
+		death="814.1.1"
+	}
+}
+
+146021 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=1022357
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146019
+	760.1.1={
+		birth="760.1.1"
+	}
+	819.1.1={
+		death="819.1.1"
+	}
+}
+
+146022 = {
+	name="É³±È²·"
+	dynasty=602 # Taid or al-Ta'i
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	670.1.1={
+		birth=yes
+	}
+	735.1.1={
+		death=yes
+	}
+}
+
+146023 = {
+	name="ËÕ°İ"
+	dynasty=1022358 # Kindid or al-Kindi
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	723.1.1={
+		birth=yes
+	}
+	778.1.1={
+		death=yes
+	}
+}
+
+146024 = {
+	name="ÈøÀûºÕ"
+	dynasty=1022358
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146023
+	740.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+146025 = {
+	name="°¢Ã·¶û"
+	dynasty=101731 # Hilalid or al-Hilali
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146026
+	760.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+
+146026 = {
+	name="×ô·¨¶û"
+	dynasty=101731
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146027
+	741.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+146027 = {
+	name="°¢Ï£Ä·"
+	dynasty=101731
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	713.1.1={
+		birth=yes
+	}
+	767.1.1={
+		death=yes
+	}
+}
+
+146028 = {
+	name="ÑÅ¹ş"
+	dynasty=1022359 # Hajurid or al-Hajuri
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	719.1.1={
+		birth=yes
+	}
+	777.1.1={
+		death=yes
+	}
+}
+
+146029 = {
+	name="ÂíÓñ¸£"
+	dynasty=1022359
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146028
+	739.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+
+146030 = {
+	name="°¢Ï£Ä·"
+	dynasty=101862 # Uqaylid or al-Uqayli
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	610.1.1={
+		birth=yes
+	}
+	658.1.1={
+		death=yes
+	}
+}
+
+146031 = {
+	name="À­±ÈÑÇ"
+	dynasty=101862
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146030
+	627.1.1={
+		birth=yes
+	}
+	656.11.7={
+		death=yes
+	}
+}
+
+146032 = {
+	name="ÄÂË¹ÁÖ"
+	dynasty=101862
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146031
+	655.1.1={
+		birth=yes
+	}
+	732.1.1={
+		death=yes
+	}
+}
+
+146033 = {
+	name="ÒÁÉ³¿Ë"
+	dynasty=101862
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146032
+	708.1.1={
+		birth=yes
+	}
+	766.1.1={
+		death=yes
+	}
+}
+
+146034 = {
+	name="°¢²·¶ÅÀ­ÂíÀû¿Ë"
+	dynasty=101862
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146032
+	710.1.1={
+		birth=yes
+	}
+	772.1.1={
+		death=yes
+	}
+}
+
+146035 = {
+	name="°®É¯"
+	dynasty=101862
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146032
+	715.1.1={
+		birth=yes
+	}
+	782.1.1={
+		death=yes
+	}
+}
+
+146036 = {
+	name="°Í¿¨"
+	dynasty=101862
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146032
+	725.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+146037 = {
+	name="°£Ã×¶û"
+	dynasty=101862
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146036
+	755.1.1={
+		birth=yes
+	}
+	817.1.1={
+		death=yes
+	}
+}
+
+146054 = {
+	name="°¢ÄÂ¶û"
+	dynasty=1022364 # Al-Harashi or Harashid
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	670.1.1={
+		birth=yes
+	}
+	721.1.1={
+		death=yes
+	}
+}
+
+146055 = {
+	name="ÈüÒåµÂ"
+	dynasty=1022364
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146054
+	690.1.1={
+		birth=yes
+	}
+	749.1.1={
+		death=yes
+	}
+}
+
+146056 = {
+	name="ÑÅ×ÈµÂ"
+	dynasty=1022364
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146055
+	710.1.1={
+		birth=yes
+	}
+	744.1.1={
+		death=yes
+	}
+}
+
+146057 = {
+	name="ÄÉµÂ¶û"
+	dynasty=1022364
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146055
+	715.1.1={
+		birth=yes
+	}
+	752.1.1={
+		death=yes
+	}
+}
+
+146058 = {
+	name="°²°ÍÈø"
+	dynasty=1022364
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146055
+	735.1.1={
+		birth=yes
+	}
+	798.1.1={
+		death=yes
+	}
+}
+
+146059 = {
+	name="ÑÅ¹ş"
+	dynasty=1022364
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146055
+	740.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+
+146060 = {
+	name="ÈøÀûºÕ"
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33902
+	trait="sayyid"
+	711.1.1={
+		birth=yes
+	}
+	769.1.1={
+		death=yes
+	}
+}
+
+146061 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33902
+	trait="sayyid"
+	712.1.1={
+		birth=yes
+	}
+	764.1.1={
+		death=yes
+	}
+}
+
+146062 = {
+	name="·¨µÂ¶û"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146060
+	trait="sayyid"
+	740.1.1={
+		birth=yes
+	}
+	789.1.1={
+		death=yes
+	}
+}
+
+146063 = {
+	name="Ò×²·À­ĞÀ"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146060
+	trait="sayyid"
+	742.1.1={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+146064 = {
+	name="°¢²·¶ÅÀ­ÂíÀû¿Ë"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146060
+	trait="sayyid"
+	750.1.1={
+		birth=yes
+	}
+	812.1.1={
+		death=yes
+	}
+}
+
+146065 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146060
+	trait="sayyid"
+	755.1.1={
+		birth=yes
+	}
+	813.1.1={
+		death=yes
+	}
+}
+
+146066 = {
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146064
+	trait="sayyid"
+	768.1.1={
+		birth=yes
+	}
+	813.1.1={
+		death=yes
+	}
+}
+
+146067 = {
+	name="ÈüÒÁµÂ"
+	dynasty=1029123 # Al-Shaybani or Shaybanid
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	690.1.1={
+		birth=yes
+	}
+	747.1.1={
+		death=yes
+	}
+}
+
+146068 = {
+	name="ÈüÒÁµÂ"
+	dynasty=1029123
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188604
+	743.1.1={
+		birth=yes
+	}
+	801.1.1={
+		death=yes
+	}
+}
+
+146069 = {
+	name="É³À­Ï£¶û"
+	dynasty=1029123
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188604
+	755.1.1={
+		birth=yes
+	}
+	819.1.1={
+		death=yes
+	}
+}
+
+146070 = {
+	name="Âí×ÈÑÅ"
+	dynasty=1029123
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146067
+	714.1.1={
+		birth=yes
+	}
+	761.1.1={
+		death=yes
+	}
+}
+
+146071 = {
+	name="ÑÅ×ÈµÂ"
+	dynasty=1029123
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait="skilled_tactician"
+	trait="diligent"
+	father=146070
+	735.1.1={
+		birth=yes
+	}
+	801.1.1={
+		death=yes
+	}
+}
+
+146072 = {
+	name="°¬¹şÂõµÂ"
+	dynasty=1029123
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146070
+	740.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+146073 = {
+	name="ÈøÀû¶û"
+	dynasty=1029123
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146072
+	766.1.1={
+		birth=yes
+	}
+	822.1.1={
+		death=yes
+	}
+}
+
+146074 = {
+	name="°¢ÈøµÂ"
+	dynasty=1029123
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146071
+	752.1.1={
+		birth=yes
+	}
+	816.1.1={
+		death=yes
+	}
+}
+
+146075 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=1029123
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146071
+	765.1.1={
+		birth=yes
+	}
+	823.1.1={
+		death=yes
+	}
+}
+
+146076 = {
+	name="¹şÀûµÂ"
+	dynasty=1029123
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146071
+	780.1.1={
+		birth=yes
+	}
+	844.1.1={
+		dynasty=1029124
+		death=yes
+	}
+}
+
+146077 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=1029123
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146076
+	817.1.1={
+		birth=yes
+	}
+	844.1.1={
+		dynasty=1029124
+	}
+	882.1.1={
+		death=yes
+	}
+}
+
+146078 = {
+	name="ÑÅ×ÈµÂ"
+	dynasty=1029123
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146076
+	819.1.1={
+		birth=yes
+	}
+	844.1.1={
+		dynasty=1029124
+	}
+	881.1.1={
+		death=yes
+	}
+}
+
+146126 = {
+	name="Ò×²·À­ĞÀ"
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33902
+	trait="sayyid"
+	714.1.1={
+		birth=yes
+	}
+	762.1.1={
+		death=yes
+	}
+}
+
+146127 = {
+	name="°¢²·¶ÅÀ­°Í¹ş²·"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146126
+	trait="sayyid"
+	734.1.1={
+		birth=yes
+	}
+	781.1.1={
+		death=yes
+	}
+}
+
+146132 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=1022366 # Taglibid or al-Taglibi 
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	722.1.1={
+		birth=yes
+	}
+	773.1.1={
+		death=yes
+	}
+}
+
+146133 = {
+	name="¸£°¢µÂ"
+	dynasty=1022366
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146132
+	741.1.1={
+		birth=yes
+	}
+	803.1.1={
+		death=yes
+	}
+}
+
+146134 = {
+	name="ÄÂÈø"
+	dynasty=1022366
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146132
+	743.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+
+146135 = {
+	name="Èø¿Æ"
+	dynasty=1022366
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146134
+	765.1.1={
+		birth=yes
+	}
+	822.1.1={
+		death=yes
+	}
+}
+
+146136 = {
+	name="ÂíÀû¿Ë"
+	dynasty=1022366
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=146135
+	801.1.1={
+		birth=yes
+	}
+	866.1.1={
+		death=yes
+	}
+}
+188653 = {
+	name="ÊæÑÇ±È" 
+	dynasty=1042122 # Banu Tamim
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188630
+	trait=skilled_tactician
+	753.1.1={
+		birth=yes
+	}
+	821.1.1={
+		death=yes
+	}
+}
+188603 = {
+	name="¼ª²·Á¦¶û" # governor of Samarkand in 775
+	dynasty=1042147
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188685
+	732.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+188680 = {
+	name="ÂíË¹À­Âí" # governor of Egypt in 789
+	dynasty=1042147
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188685
+	737.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188685 = {
+	name="ÑÅ¹ş"
+	dynasty=1042147
+	religion="sunni"
+	culture="bedouin_arabic"
+	730.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+188683 = {
+	# general who fought al-Muqanna
+	name="Å·¸ñ°×" 
+	dynasty=1042150
+	religion="sunni"
+	culture="bedouin_arabic"
+	725.1.1={
+		birth=yes
+	}
+	783.1.1={
+		death=yes
+	}
+}
+188649 = {
+	name="ÎÚÂíÀ­" # governor of Ahwaz in 773
+	dynasty=1042139 # Hamzahbid 
+	religion="sunni"
+	culture="bedouin_arabic"
+	trait=fortune_builder
+	trait=greedy
+	738.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+188607 = {
+	name="ÄÉÈü¶û" # governor of Fars in 775
+	dynasty=1042142 # Tamimi
+	religion="sunni"
+	culture="bedouin_arabic"
+	736.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+188667 = {
+	name="°®É¯"
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33902
+	703.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+188668 = {
+	name="ÄÂÈø"
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33902
+	trait="sayyid"
+	695.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+188669 = {
+	name="°®É¯"
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188668
+	trait="sayyid"
+	720.1.1={
+		birth=yes
+	}
+	783.1.1={
+		death=yes
+	}
+}
+
+188670 = {
+	name="ÎÚ°Í´ïÀ­"
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188612
+	trait="sayyid"
+	732.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188671 = {
+	name="ÎÚ°Í´ïÀ­"
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33900
+	trait="sayyid"
+	625.1.1={
+		birth=yes
+	}
+	700.1.1={
+		death=yes
+	}
+}
+
+188672 = {
+	name="°¢Ê«Âê"
+	female=yes
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=33901
+	trait="sayyid"
+	660.1.1={
+		birth=yes
+	}
+	715.1.1={
+		death=yes
+	}
+}
+
+188673 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188671
+	trait="sayyid"
+	660.1.1={
+		birth=yes
+	}
+	710.1.1={
+		death=yes
+	}
+}
+
+188674 = {
+	name="ÎÚ°Í´ïÀ­" # made up name
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188673
+	trait="sayyid"
+	700.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+188675 = {
+	name="°®É¯" # made up name
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188673
+	trait="sayyid"
+	704.1.1={
+		birth=yes
+	}
+	772.1.1={
+		death=yes
+	}
+}
+188648 = {
+	name="¹şµÏ" # half brother of al-Mahdi
+	dynasty=101727 # Abbasid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34002
+	740.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+188697 = {
+	name="°¢²·¶ÅÀ­·ò" 
+	dynasty=809 # Dulafid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188698
+	785.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+188698 = {
+	name="°®É¯" 
+	dynasty=809 # Dulafid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188699
+	745.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+
+188699 = {
+	name="ÒÁµÂÀïË¹" 
+	dynasty=809 # Dulafid
+	religion="sunni"
+	culture="bedouin_arabic"
+	720.1.1={
+		birth=yes
+	}
+	765.1.1={
+		death=yes
+	}
+}
+
+188725 = {
+	name="ÀµÂòµ¤" # fictitious holder of Qazim
+	dynasty=1042158
+	religion="sunni"
+	culture="bedouin_arabic"
+	726.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+188732 = {
+	name="ÄÂº±Ä¬µÂ" # fictitious
+	dynasty=1042164 # Yufirid
+	religion="sunni"
+	culture="bedouin_arabic"
+	739.8.12={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188733 = {
+	name="ÓÅ¸£" # fictitious
+	dynasty=1042164 # Yufirid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188732
+	765.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+
+188734 = {
+	name="°¢²·¶ÅÀ­ºÕÂü"
+	dynasty=1042164 # Yufirid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188733
+	790.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+188735 = {
+	name="ÓÅ¸£"
+	dynasty=1042164 # Yufirid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188734
+	815.1.1={
+		birth=yes
+	}
+	872.1.1={
+		death=yes
+	}
+}
+
+188736 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=1042165 # Ziyadid
+	religion="sunni"
+	culture="bedouin_arabic"
+	790.1.1={
+		birth=yes
+	}
+	859.1.1={
+		death=yes
+	}
+}
+
+188737 = {
+	name="Ò×²·À­ĞÀ"
+	dynasty=1042165 # Ziyadid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188736
+	830.1.1={
+		birth=yes
+	}
+	896.1.1={
+		death=yes
+	}
+}
+
+188738 = {
+	name="ÆëÑÇµÂ"
+	dynasty=1042165 # Ziyadid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188737
+	855.1.1={
+		birth=yes
+	}
+	902.1.1={
+		death=yes
+	}
+}
+
+188739 = {
+	name="ÒÁÉ³¿Ë"
+	dynasty=1042165 # Ziyadid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188737
+	895.1.1={
+		birth=yes
+	}
+	981.1.1={
+		death=yes
+	}
+}
+
+188740 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=1042165 # Ziyadid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188739
+	935.1.1={
+		birth=yes
+	}
+	1012.1.1={
+		death=yes
+	}
+}
+
+188741 = {
+	name="Ò×²·À­ĞÀ"
+	dynasty=1042165 # Ziyadid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188740
+	960.1.1={
+		birth=yes
+	}
+	1018.1.1={
+		death=yes
+	}
+}
+
+188742 = {
+	name="ËşÀû²·" # fictitious holder of Taizz
+	dynasty=1042166 # Hashid
+	religion="sunni"
+	culture="bedouin_arabic"
+	738.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188743 = {
+	name="¼ÖÎéµÂ" # fictitious holder of Bayid
+	dynasty=1042167 # Bakil
+	religion="sunni"
+	culture="bedouin_arabic"
+	732.1.1={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+188744 = {
+	name="ÓÅËØ¸£" # fictitious holder of Aden
+	dynasty=1042168 # Modharite
+	religion="shiite"
+	culture="bedouin_arabic"
+	728.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+188745 = {
+	name="ÓÅ¿ÍººÄÈ" # fictitious holder of Mahra
+	dynasty=1042169 # Kathirid
+	religion="sunni"
+	culture="bedouin_arabic"
+	735.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+188746 = {
+	name="ÑÇÍß" # wife of al-Mansur Abbasid
+	female=yes
+	dynasty=1042170 # Arwadid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188749
+	716.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+188747 = {
+	name="¼Ö·¨¶û"
+	dynasty=101727
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=34002
+	mother=188746
+	trait="sayyid"
+	738.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188748 = {
+	name="Ò®ÆëµÂ" # governor of Yemen and Basra
+	dynasty=1042170 # Arwadid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=188749
+	718.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+188749 = {
+	name="ÂüËÕ¶û"
+	dynasty=1042170 # Arwadid
+	religion="sunni"
+	culture="bedouin_arabic"
+	690.1.1={
+		birth=yes
+	}
+	740.1.1={
+		death=yes
+	}
+}
+210001  = {
+	name="Ä¾¹şÀ­°Í"
+	dynasty=1048001  #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	632.1.1={
+		birth="632.1.1"
+	}
+	702.1.2={
+		death="702.1.2"
+	}
+}
+210002  = {
+	name="Ò®ÆëµÂ"
+	dynasty=1048001  #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210001
+	670.1.1={
+		birth="670.1.1"
+	}
+	720.1.1={
+		death="720.1.1"
+	}
+}
+
+210003 = {
+	name="¹ş±È²·"
+	dynasty=1048001 #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210001
+	673.1.1={
+		birth="673.1.1"
+	}
+	720.1.1={
+		death="720.1.1"
+	}
+}
+210004 = {
+	name="°¢ÄÂ·¨´ï"
+	dynasty=1048001 #muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210001
+	674.1.1={
+		birth="674.1.1"
+	}
+	720.1.1={
+		death="720.1.1"
+	}
+}
+210005 = {
+	name="Âí¶ûÍò"
+	dynasty=1048001 #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210001
+	675.1.1={
+		birth="675.1.1"
+	}
+	720.1.1={
+		death="720.1.1"
+	}
+}
+210006 = {
+	name="°¢²·¶ÅÀ­ÂíÀû¿Ë"
+	dynasty=1048001 #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210001
+	676.1.1={
+		birth="676.1.1"
+	}
+	720.1.1={
+		death="720.1.1"
+	}
+}
+
+210007    = {
+	name="ÄÂ°¢ÍşÒ¶"
+	dynasty=1048001  #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210002
+	700.1.1={
+		birth="700.1.1"
+	}
+	750.1.2={
+		death="750.1.2"
+	}
+}
+210008  = {
+	name="¹şµÙÄ·"
+	dynasty=1048001  #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210002
+	702.1.1={
+		birth="702.1.1"
+	}
+	755.1.1={
+		death="755.1.1"
+	}
+}
+
+210009 = {
+	name="Ò®ÆëµÂ"
+	dynasty=1048001 #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210008
+	720.1.1={
+		birth="720.1.1"
+	}
+	787.1.1={
+		death="787.1.1"
+	}
+}
+210010 = {
+	name="´ïÎéµÂ"
+	dynasty=1048001 #muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210009
+	740.1.1={
+		birth="740.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+210011 = {
+	name="ÄÂ¼ªÀ­"
+	dynasty=1048001 #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210009
+	751.1.1={
+		birth="751.1.1"
+	}
+	822.1.1={
+		death="822.1.1"
+	}
+}
+210012 = {
+	name="±ÈĞ»¶û"
+	dynasty=1048001 #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210010
+	780.1.1={
+		birth="780.1.1"
+	}
+	835.1.1={
+		death="835.1.1"
+	}
+}
+210013 = {
+	name="¹ş·òË¹"
+	dynasty=1048001 #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210005
+	710.1.1={
+		birth="710.1.1"
+	}
+	777.1.1={
+		death="777.1.1"
+	}
+}
+210014 = {
+	name="ÎÚÂê¶û"
+	dynasty=1048001 #muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210013
+	735.1.1={
+		birth="735.1.1"
+	}
+	769.1.1={
+		add_claim = d_tripolitania
+	}
+	771.1.1={
+		death="771.1.1"
+	}
+}
+210015 = {
+	name="¹ş±È²·"
+	dynasty=1048001 #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210003
+	703.1.1={
+		birth="703.1.1"
+	}
+	771.1.1={
+		death="771.1.1"
+	}
+}
+210016 = {
+	name="À­ÎÖ"
+	dynasty=1048001 #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210008
+	725.1.1={
+		birth="725.1.1"
+	}
+	791.1.1={
+		death="791.1.1"
+	}
+}
+210017 = {
+	name="ÄÉÈü¶û"
+	dynasty=1048001 #Muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210015
+	740.1.1={
+		birth="740.1.1"
+	}
+	793.1.1={
+		death="793.1.1"
+	}
+}
+210018 = {
+	name="·¨µÂ"
+	dynasty=1048001 #muhallabid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210016
+	760.1.1={
+		birth="760.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+210019    = {
+	name="ºú´ó°¢¶ûÍÁ¼¦²·"
+	dynasty= 1048002 #Tujibid
+	religion="sunni"
+	culture="bedouin_arabic"
+	640.1.1={
+		birth="640.1.1"
+	}
+	712.1.2={
+		death="712.1.2"
+	}
+}
+210020  = {
+	name="ÄÂ°¢ÍşÒ¶"
+	dynasty=1048002 # Tujibid
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=210019
+	675.1.1={
+		birth="675.1.1"
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+188763 = {
+	name="°¢¶û¾ÓÀ¼´ï"	
+	dynasty=1042181
+	religion="ibadi"
+	culture="bedouin_arabic"
+	711.1.1={
+		birth=yes
+	}
+	775.1.1={
+		death=yes
+	}
+}
+194176 = {
+	name="ÄÂº±Ä¬µÂ"	
+	dynasty=1042181
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father = 188763
+	734.1.1 = {
+		birth=yes
+	}
+	790.1.1 = {
+		death=yes
+	}
+}
+
+188764 = {
+	name="¿¨²¼"
+	dynasty=1042182
+	religion="ibadi"
+	culture="bedouin_arabic"
+	733.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+188765 = {
+	name="²¼¶ûº¹Å¬¶¡"	# fictitious holder of Dhofar
+	dynasty=1042183
+	religion="ibadi"
+	culture="bedouin_arabic"
+	738.1.1={
+		birth=yes
+	}
+	796.1.1={
+		death=yes
+	}
+}
+
+188766 = {
+	name="¼ÖÀï¶û"	# fictitious holder of Dhu Zabi
+	dynasty=1042184
+	religion="ibadi"
+	culture="bedouin_arabic"
+	728.1.1={
+		birth=yes
+	}
+	779.1.1={
+		death=yes
+	}
+}
+
+168728={
+	name=Aisa
+	
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	710.1.1={
+		birth=yes
+	}
+	736.1.1={
+		add_spouse=168721
+	}
+	755.1.1={
+		death=yes
+	}
+}
+
+168729 = {
+	name="Umar"
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	720.1.1={
+		birth=yes
+	}
+	755.1.1={
+		add_spouse=168721
+	}
+	770.1.1 = {
+		death=yes
+	}
+}
+
+168731={
+	name="Ibrahim" 
+	
+
+	father=168728
+	mother=168721
+
+	religion="sunni"
+	culture="bedouin_arabic"
+
+	737.1.1 = {
+		birth=yes
+	}	
+	790.1.1 = {
+		death=yes
+	}
+}
+
+168732={
+	name="Ishaq" 
+	
+
+	father=168728
+	mother=168721
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	740.1.1={
+		birth=yes
+	}	
+	797.1.1={
+		death=yes
+	}
+}
+217320 = {
+	name = Qutayba
+	dynasty = 1051142
+	religion = sunni
+	culture = bedouin_arabic
+	
+	trait = brilliant_strategist
+	trait = diligent
+	trait = brave
+	trait = quick
+	
+	669.4.17 = {
+		birth = yes
+	}
+	715.9.22 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}

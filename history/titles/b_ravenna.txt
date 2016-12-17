@@ -1,0 +1,88 @@
+
+850.1.1=
+{
+liege="c_ravenna"
+holder=167910
+}
+1051.1.1={
+	holder=7740
+	
+}
+1072.1.1={
+	holder=73529
+}
+1072.7.1={
+	holder=73530
+}
+1100.9.8={
+	holder=73531
+}
+1110.1.1={
+	holder=73532
+}
+1110.7.1={
+	holder=73533
+}
+1119.1.1={
+	holder=73534
+}
+1144.1.1={
+	holder=73535
+}
+1154.1.1={
+	holder=73536
+}
+1155.1.1={
+	holder=73537
+}
+1168.1.1={
+	holder=73538
+}
+1169.1.1={
+	holder=73539
+}
+1190.1.1={
+	holder=213010
+}
+1194.1.1={
+	holder=73540
+}
+1198.1.1={
+	holder=73541
+}
+1201.1.1={
+	holder=73542
+}
+1207.1.1={
+	holder=73543
+}
+1208.1.1={
+	holder=73544
+}
+1215.1.1={
+	holder=73545
+}
+1217.1.1={
+	holder=73546
+}
+1228.1.1={
+	holder = 0
+}
+1247.12.31={ # This is needed for the capital change command in province history since we need to ensure the ownership of the new capital.
+	holder=71823
+}
+1254.12.7={
+	holder=71824
+}
+1261.5.25={
+	holder=71825
+}
+1264.10.2={
+	holder=71826
+}
+1268.11.29={
+	holder=70785
+}
+1276.1.10 = {
+	holder=0
+}

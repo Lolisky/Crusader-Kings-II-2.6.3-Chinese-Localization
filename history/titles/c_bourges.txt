@@ -1,0 +1,71 @@
+#Viscounty of Bourges
+769.1.1={
+	holder = 190553 #Theodbert
+}
+769.1.1={
+	liege=k_lotharingia
+}
+826.1.1={
+	holder = 190554 #Robert
+}
+834.1.1={
+	liege=k_france
+	holder = 163065
+}
+1040.1.1={
+	
+	holder=91324 #Geoffroy IV le Meschin
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+
+1060.1.1={
+	holder=91325 #Étienne
+}
+
+1092.1.1={
+	holder=91330 #Eudes d'Arpin
+}
+
+1101.1.1={
+	holder=214 #Philippe I
+}
+1108.7.29=
+{
+	holder = 205502 #Louis VI le Gros
+}
+1137.8.1=
+{
+	holder = 205500 #Louis VII le Jeune
+}
+
+#counts of Sancerre
+
+1151.1.1=
+{
+	holder = 161410 
+}
+1191.1.1=
+{
+	holder = 161411
+}
+1217.1.1=
+{
+	holder = 161414
+}
+1267.1.1=
+{
+	holder = 161415
+}
+1284.5.22=
+{
+	holder = 161419
+}
+1306.5.16=
+{
+	holder = 161420
+}
+1327.1.1=
+{
+	holder = 161422
+}

@@ -1,0 +1,73 @@
+440.1.1={
+	holder=205026 # Hengist
+}
+460.1.1={
+	holder=205027 # Horsa
+}
+500.1.1={
+	holder=205028 # Oisc
+}
+516.1.1={
+	holder=205029 # Octa
+}
+540.1.1={
+	holder=205030 # Eormenric
+}
+590.1.1={
+	holder=205031 # Æthelberht I
+}
+616.2.24={
+	holder=205032 # Eadbald
+}
+640.1.28 = {
+	holder = 205036 # Eorcenberht
+}
+664.7.1={
+	holder=205039 # Ecgberht I
+}
+673.1.1={
+	holder=205040 # Hlothere
+}
+685.1.1={
+	holder=205041 # Eadric
+}
+686.8.1={
+	holder=205160 # Mul of Kent
+}
+687.1.1={ #693.1.1={
+	holder=205043 # Wihtraed
+}
+725.1.1={
+	holder=205045 # Eadberht I
+}
+748.1.1={
+	holder = 205044 # Aethelberht II
+}
+762.1.1={
+	holder=205047 # Eardwulf
+}
+763.1.1={
+	holder=205048 # Eadberht II
+}
+765.1.1={
+	holder=205049 # Ecgberht II
+	set_tribute_suzerain = { who = d_hereford percentage = 0.40 }
+}
+796.1.1={
+	holder=205050 # Eadberht III
+}
+798.1.1={
+	holder=0
+	clear_tribute_suzerain = d_hereford
+}
+1066.1.1={
+	liege="k_england"
+	#law = agnatic_succession
+	#law = succ_primogeniture
+}
+1066.1.1={
+	holder=130 #Leofwine Godwinsson
+}
+1066.10.14={
+	holder=0
+}

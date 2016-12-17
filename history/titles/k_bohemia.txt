@@ -1,0 +1,49 @@
+200.1.1 = {
+	de_jure_liege = e_germany
+}
+867.1.1 = {
+	de_jure_liege = e_wendish_empire
+}
+898.1.1 = {
+#	liege = "e_hre"
+	de_jure_liege = e_hre
+}
+
+1045.1.1={
+	liege = "e_hre"
+	law = agnatic_succession
+	law = succ_seniority
+}
+1198.9.1={
+	law = succ_primogeniture
+}
+1198.9.1={
+	holder = 212855
+}
+1212.1.1={
+	law = succ_feudal_elective
+}
+1230.12.15={
+	holder = 96000
+}
+1253.9.23={
+	holder = 96001
+}
+1278.8.26={
+	holder = 96002
+}
+1305.6.21={
+	holder = 96003
+}
+1306.8.4={
+	holder = 462720
+}
+1306.12.1={
+	holder = 462024
+}
+1307.7.4={
+	holder = 462720
+}
+1310.1.1={
+	holder=462610
+}

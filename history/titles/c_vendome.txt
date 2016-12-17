@@ -1,0 +1,105 @@
+750.1.1={
+	liege="k_france"
+	holder = 91478 #BAUGULF, historical count as placeholder
+}
+853.1.1={
+	liege="d_anjou"
+	holder = 6440 #Robert le fort
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+#Bouchardides
+866.7.2=
+{
+	holder = 168011
+}
+905.1.1=
+{
+	holder = 168012
+}
+955.1.1=
+{
+	holder = 168013
+}
+1007.1.9=
+{
+	holder = 168014
+}
+#House of Nevers
+
+1016.1.6={
+	liege="d_anjou"
+	holder=40372 #Bodon
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+
+1023.1.1={
+	holder=91259 #Bouchard II le Chauve
+}
+
+1028.1.1={
+	holder=40374 #Foulques l'Oison
+}
+
+#House of Anjou
+
+1032.1.1={
+	holder = 376 #Geoffroy I Martel, count of Anjou
+}
+
+#House of Nevers
+
+1056.1.1={
+	holder=40374 #Foulques l'Oison
+}
+
+1066.1.1={
+	holder=40905 #Bouchard III le jeune
+}
+
+
+#House of Preuilly
+
+1085.1.1={
+	holder = 91305 #Geoffroy II Jourdain
+}
+
+1102.1.1={
+	holder = 91308 #Geoffroy III Grisegonnelle
+}
+
+1137.1.1={
+	holder=205761 #Jean I
+}
+
+1180.1.1={
+	holder=205970 #Bouchard IV
+}
+
+1202.1.1={
+	holder=205977 #Jean II
+}
+
+
+#House of Montoire
+
+1217.1.1={
+	holder=205976 #Jean IV de Vendôme
+}
+
+1230.1.1={
+	holder=91322 #Pierre de Vendôme
+}
+
+1249.1.1={
+	holder=91323 #Bouchard V de Vendôme
+}
+
+1271.1.1 = {
+	holder = 455009 #Jean V de Vendôme
+}
+
+1315.1.1={
+	holder=455006 #Bouchard VI de Vendôme
+}

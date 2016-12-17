@@ -1,0 +1,6581 @@
+20388 = {
+	name="斯坦尼斯瓦夫"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="polish"
+	trait="wroth"
+	trait="greedy"
+	trait="deceitful"
+	trait="temperate"
+	trait="scholarly_theologian"
+	1030.11.26={
+		birth="1030.11.26"
+	}
+	1079.5.11={
+		death="1079.5.11"
+	}
+}
+
+20390 = {
+	name="耶尼斯瓦夫"
+	dynasty=21011
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="polish"
+	trait="deceitful"
+	trait="kind"
+	trait="temperate"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20393 = {
+	name="博古米尔"
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="polish"
+	trait="humble"
+	trait="zealous"
+	trait="scholarly_theologian"
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1092.1.1={
+		death="1092.1.1"
+	}
+}
+
+20395 = {
+	name="雅罗斯瓦夫"
+	dynasty=21031
+	martial=5
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="polish"
+	trait="arbitrary"
+	trait="flamboyant_schemer"
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+
+20396 = {
+	name="谢博尔"
+	dynasty=21035
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="polish"
+	trait="tough_soldier"
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1084.1.1={
+		death="1084.1.1"
+	}
+}
+
+220390 = {
+	name="耶尼斯瓦夫"
+	dynasty=100430
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="polish"
+	trait="deceitful"
+	trait="kind"
+	trait="temperate"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+221510 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221515
+	mother=221519
+	1131.1.2={
+		birth="1131.1.2"
+	}
+	1166.10.18={
+		death="1166.10.18"
+	}
+}
+
+221511 = {
+	name="里莎"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221515
+	mother=221519
+	1116.1.2={
+		birth="1116.1.2"
+	}
+	1155.1.26={
+		death="1155.1.26"
+	}
+}
+
+221512 = {
+	name="多布洛涅加"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221515
+	mother=221519
+	1129.1.2={
+		birth="1129.1.2"
+	}
+	1160.1.27={
+		death="1160.1.27"
+	}
+}
+
+221513 = {
+	name="尤蒂达"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221515
+	mother=221519
+	1130.1.2={
+		birth="1130.1.2"
+	}
+	1175.7.8={
+		death="1175.7.8"
+	}
+}
+
+221514 = {
+	name="阿涅斯卡"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221515
+	mother=221519
+	1137.1.2={
+		birth="1137.1.2"
+	}
+	1182.1.2={
+		death="1182.1.2"
+	}
+}
+
+221515 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="polish"
+	trait="ambitious"
+	father=764
+	mother=212881
+	1086.8.20={
+		birth="1086.8.20"
+	}
+	1103.11.16={
+		add_spouse = 222781
+	}
+	1115.6.1={
+		add_spouse = 221519
+	}
+	1138.10.28={
+		death="1138.10.28"
+	}
+}
+
+221520 = {
+	name="卡齐米日"
+	dynasty=699
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="polish"
+	father=221515
+	mother=221519
+	1138.1.2={
+		birth="1138.1.2"
+	}
+	1166.1.2 = {
+		add_spouse = 221521
+	}
+	1177.1.1 = {
+		trait="just"
+		give_nickname="nick_the_just"
+	}
+	1194.5.5={
+		death="1194.5.5"
+	}
+}
+
+221523 = {
+	name="玛利亚"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221520
+	mother=221521
+	1166.1.2={
+		birth="1166.1.2"
+	}
+	1194.1.2={
+		death="1194.1.2"
+	}
+}
+
+221524 = {
+	name="莱谢克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221520
+	mother=221521
+	1186.1.2={
+		birth="1186.1.2"
+	}
+	1207.1.2={
+		add_spouse=125134
+	}
+	1227.11.23={
+		death="1227.11.23"
+	}
+}
+
+221525 = {
+	name="康拉德"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221520
+	mother=221521
+	1187.1.2={
+		birth="1187.1.2"
+	}
+	1209.1.2={
+		add_spouse=125073
+	}
+	1247.8.31={
+		death="1247.8.31"
+	}
+}
+
+221529 = {
+	name="丽莎"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221531
+	mother=212545
+	1130.1.2={
+		birth="1130.1.2"
+	}
+	1185.1.13={
+		death="1185.1.13"
+	}
+}
+
+221530 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	#give_nickname="nick_the_tall"
+	father=221531
+	mother=212545
+	1127.1.2={
+		birth="1127.1.2"
+	}
+	1142.1.2={
+		add_spouse = 125068
+	}
+	1163.1.17={
+		add_spouse = 221541
+	}
+	1201.12.7={
+		death="1201.12.7"
+	}
+}
+
+221531 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221515
+	mother=222781
+	1105.1.2={
+		birth="1105.1.2"
+	}
+	1127.1.1={
+		add_spouse=212545
+	}
+	1146.5.1={
+		add_claim=k_poland
+		employer=7903
+	}
+	1152.2.15 = {
+		employer=212501
+	}
+	1159.5.30={
+		death="1159.5.30"
+	}
+}
+
+221532 = {
+	name="雅罗斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="martial_cleric"
+	father=221530
+	mother=125068
+	1143.1.2={
+		birth="1143.1.2"
+	}
+	1201.3.22={
+		death="1201.3.22"
+	}
+}
+
+221533 = {
+	name="奥尔加"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221530
+	mother=125068
+	1155.1.2={
+		birth="1155.1.2"
+	}
+	1175.6.27={
+		death="1175.6.27"
+	}
+}
+
+221534 = {
+	name="康拉德"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221530
+	mother=221541
+	1164.1.2={
+		birth="1164.1.2"
+	}
+	1190.7.5={
+		death="1190.7.5"
+	}
+}
+
+221535 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221530
+	mother=221541
+	1163.10.2={
+		birth="1163.10.2"
+	}
+	1181.7.18={
+		death="1181.7.18"
+	}
+}
+
+221536 = {
+	name="扬"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221530
+	mother=221541
+	1165.1.2={
+		birth="1165.1.2"
+	}
+	1174.3.10={
+		death="1174.3.10"
+	}
+}
+
+221537 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221530
+	mother=221541
+	1168.1.2={
+		birth="1168.1.2"
+	}
+	1188.1.2={
+		add_spouse=212943
+	}
+	1238.3.19={
+		death="1238.3.19"
+	}
+}
+
+221538 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221530
+	mother=221541
+	1181.1.2={
+		birth="1181.1.2"
+	}
+	1199.1.2={
+		death="1199.1.2"
+	}
+}
+
+221539 = {
+	name="贝尔妲"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221530
+	mother=221541
+	1167.1.2={
+		birth="1167.1.2"
+	}
+	1200.5.7={
+		death="1200.5.7"
+	}
+}
+
+221540 = {
+	name="阿德莱妲"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221530
+	mother=221541
+	1166.1.2={
+		birth="1166.1.2"
+	}
+	1215.3.29={
+		death="1215.3.29"
+	}
+}
+
+221550 = {
+	name="梅什科"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221531
+	mother=212545
+	1132.1.2={
+		birth="1132.1.2"
+	}
+	1166.1.2={
+		add_spouse = 221551
+	}
+	1211.5.16={
+		death="1211.5.16"
+	}
+}
+
+221555 = {
+	name="卡齐米日"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221550
+	mother=221551
+	1179.1.2={
+		birth="1179.1.2"
+	}
+	1230.5.13={
+		death="1230.5.13"
+	}
+}
+
+221560 = {
+	name="梅什科"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221515
+	mother=221519
+	1126.1.2={
+		birth="1126.1.2"
+	}
+	1144.1.2={
+		add_spouse=219505
+	}
+	1155.1.1={
+		add_spouse=222826
+	}
+	1182.1.1={
+		give_nickname="nick_the_old"
+	}
+	1202.3.13={
+		death="1202.3.13"
+	}
+}
+
+221561 = {
+	name="奥登"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221560
+	mother=219505
+	1149.1.2={
+		birth="1149.1.2"
+	}
+	1184.1.2={
+		add_spouse=222509
+	}
+	1194.4.20={
+		death="1194.4.20"
+	}
+}
+
+221562 = {
+	name="维也什奥斯拉瓦"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221560
+	mother=219505
+	1151.1.2={
+		birth="1151.1.2"
+	}
+	1223.1.2={
+		death="1223.1.2"
+	}
+}
+
+221563 = {
+	name="伊利莎白"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221560
+	mother=219505
+	1152.1.2={
+		birth="1152.1.2"
+	}
+	1209.4.2={
+		death="1209.4.2"
+	}
+}
+
+221564 = {
+	name="尤蒂达"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221560
+	mother=219505
+	1153.1.2={
+		birth="1153.1.2"
+	}
+	1201.12.12={
+		death="1201.12.12"
+	}
+}
+
+221565 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221560
+	mother=222826
+	1159.1.2={
+		birth="1159.1.2"
+	}
+	1195.9.13={
+		death="1195.9.13"
+	}
+}
+
+221566 = {
+	name="梅什科"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221560
+	mother=222826
+	1160.1.2={
+		birth="1160.1.2"
+	}
+	1193.8.2={
+		death="1193.8.2"
+	}
+}
+
+221567 = {
+	name="泽温尼什拉瓦"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221560
+	mother=222826
+	1166.1.2={
+		birth="1166.1.2"
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+221568 = {
+	name="阿纳斯塔西娅"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221560
+	mother=222826
+	1164.1.1={
+		birth="1164.1.1"
+	}
+	1240.5.31={
+		death="1240.5.31"
+	}
+}
+
+221569 = {
+	name="萨洛玛"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221560
+	mother=222826
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	1183.5.11={
+		death="1183.5.11"
+	}
+}
+
+221570 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221560
+	mother=222826
+	1161.1.2={
+		birth="1161.1.2"
+	}
+	1195.1.2={
+		add_spouse=221732
+	}
+	1231.11.3={
+		death="1231.11.3"
+	}
+}
+
+221750 = {
+	name="桑博尔" #Sambor I
+	dynasty=175
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="polish"
+	trait="fortune_builder"
+	father=221760
+	mother=221761
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1207.2.7={
+		death="1207.2.7"
+	}
+}
+
+221751 = {
+	name="索别斯瓦夫" #Subislaw II
+	dynasty=175
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="polish"
+	trait="harelip"
+	trait="martial_cleric"
+	father=221750
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1223.12.28={
+		death="1223.12.28"
+	}
+}
+
+221755 = {
+	name="姆斯卓" #Mszczuj I
+	dynasty=175
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="polish"
+	trait="greedy"
+	trait="humble"
+	trait="inbred"
+	trait="martial_cleric"
+	father=221760
+	mother=221761
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1186.1.2={
+		add_spouse=221567
+	}
+	1219.5.1={
+		death="1219.5.1"
+	}
+}
+
+221760 = {
+	name="索别斯瓦夫" #Subislaw I
+	dynasty=175
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="polish"
+	trait="patient"
+	trait="deceitful"
+	trait="cynical"
+	trait="flamboyant_schemer"
+	1130.1.2={
+		birth="1130.1.2"
+	}
+	1149.1.2={
+		add_spouse=221761
+	}
+	1187.1.29={
+		death="1187.1.29"
+	}
+}
+
+221761 = {
+	name="安娜"
+	female = yes
+	dynasty=7160 #Powal
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="polish"
+	trait="just"
+	trait="underhanded_rogue"
+	1132.1.1={
+		birth="1132.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+30450 = {
+	name="希温托佩乌克" #Swietopelk I
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=221750
+	1193.1.1={
+		birth="1193.1.1"
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+
+30451 = {
+	name="希温托佩乌克" #Swietopelk II
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=221755
+	mother=221567
+	
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1266.1.10={
+		death="1266.1.10"
+	}
+}
+
+30452 = {
+	name="瓦尔齐斯瓦夫" #Wartislaw I
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=221755
+	mother=221567
+	
+	1197.1.1={
+		birth="1197.1.1"
+	}
+	1233.5.4={
+		death="1233.5.4"
+	}
+}
+
+30453 = {
+	name="桑博尔" #Sambor II
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=221755
+	mother=221567
+	
+	1206.1.1={
+		birth="1206.1.1"
+	}
+	1234.1.1={
+		add_spouse=30470
+	} 
+	1278.11.13={
+		death="1278.11.13"
+	}
+}
+
+30454 = {
+	name="拉齐博尔"
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=221755
+	mother=221567
+	
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1272.6.6={
+		death="1272.6.6"
+	}
+}
+
+30455 = {
+	name="维托斯拉瓦"
+	female=yes
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=221755
+	mother=221567
+	
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+30456 = {
+	name="米洛斯瓦尔瓦"
+	female=yes
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=221755
+	mother=221567
+	
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+
+30457 = {
+	name="雅德维加"
+	female=yes
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=221755
+	mother=221567
+	
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+
+30458 = {
+	name="姆斯卓" #Mszczuj II
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=30451
+	
+	
+	1228.1.1={
+		birth="1228.1.1"
+	}
+	1248.1.1={
+		add_spouse=30471
+	} 
+	
+	1294.12.25={
+		death="1294.12.25"
+	}
+}
+
+30459 = {
+	name="瓦尔齐斯瓦夫" #Wartislaw II
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=30451
+	
+	
+	1227.1.1={
+		birth="1227.1.1"
+	}
+	1271.1.1={
+		death="1271.1.1"
+	}
+}
+
+30460 = {
+	name="扬"
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=30451
+	
+	
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1248.1.1={
+		death="1248.1.1"
+	}
+}
+
+30461 = {
+	name="欧菲米娅"
+	female=yes
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=30451
+	
+	
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+30462 = {
+	name="欧菲米娅"
+	female=yes
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=30458
+	mother=30471
+	
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1317.1.1={
+		death="1317.1.1"
+	}
+}
+
+30464 = {
+	name="索别斯瓦夫"
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=30453
+	mother=30470
+	
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1254.1.1={
+		death="1254.1.1"
+	}
+}
+
+30466 = {
+	name="斯威尼斯瓦尔瓦"
+	female=yes
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=30453
+	mother=30470
+	
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+30467 = {
+	name="伽璐妲"
+	# AKA: Gertrude
+	female=yes
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=30453
+	mother=30470
+	
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+30468 = {
+	name="欧菲米娅"
+	female=yes
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=30453
+	mother=30470
+	
+	1254.1.1={
+		birth="1254.1.1"
+	}
+	1305.1.1={
+		death="1305.1.1"
+	}
+}
+
+30469 = {
+	name="萨洛梅"
+	female=yes
+	dynasty=175
+	
+	religion="catholic"
+	culture="polish"
+	
+	father=30453
+	mother=30470
+	
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+451519 = {
+	name="玛格丽特"
+	# AKA: Margarethe Sambiria
+	female = yes
+	dynasty=175
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="polish"
+	trait="charitable"
+	trait="amateurish_plotter"
+	father=30453
+	mother=30470
+	
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1282.1.1={
+		death="1282.1.1"
+	}
+}
+
+470042 = {
+	name="安娜"
+	# AKA: Anna Oswiecim
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="polish"
+	trait="proud"
+	trait="temperate"
+	trait="naive_appeaser"
+	1301.1.2={
+		birth="1301.1.2"
+	}
+	1351.1.2={
+		death="1351.1.2"
+	}
+}
+
+471500 = {
+	name="卡齐米日"
+	dynasty=699
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=9
+	religion="catholic"
+	culture="polish"
+	trait="genius"
+	trait="midas_touched"
+	give_nickname="nick_the_great"
+	father=471510
+	mother=471555
+	1310.4.30={
+		birth="1310.4.30"
+	}
+	1325.1.2={
+		add_spouse = 471503
+	}
+	1370.11.5={
+		death="1370.11.5"
+	}
+}
+
+471501 = {
+	name="伊利莎白"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471510
+	mother=471555
+	1305.1.2={
+		birth="1305.1.2"
+	}
+	1380.1.2={
+		death="1380.1.2"
+	}
+}
+
+471502 = {
+	name="库娜昆妲"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471510
+	mother=471555
+	1298.1.2={
+		birth="1298.1.2"
+	}
+	1331.4.9={
+		death="1331.4.9"
+	}
+}
+
+471504 = {
+	name="伊利莎白"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471500
+	mother=471503
+	1326.1.2={
+		birth="1326.1.2"
+	}
+	1361.1.2={
+		death="1361.1.2"
+	}
+}
+
+471505 = {
+	name="库娜昆妲"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471500
+	mother=471503
+	1334.1.2={
+		birth="1334.1.2"
+	}
+	1357.1.2={
+		death="1357.1.2"
+	}
+}
+
+471510 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	martial=8
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="polish"
+	trait="ambitious"
+	trait="charismatic_negotiator"
+	father=471520
+	mother=471540
+	1261.1.2={
+		birth="1261.1.2"
+	}
+	1293.1.2={
+		add_spouse=471555
+	}
+	1333.3.2={
+		death="1333.3.2"
+	}
+}
+
+471515 = {
+	name="托格丹"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125990
+	mother=125313
+	1284.1.2={
+		birth="1284.1.2"
+	}
+	1308.1.2={
+		add_spouse = 471516
+	}
+	1341.3.13={
+		death="1341.3.13"
+	}
+}
+
+471518 = {
+	name="谢莫维特"
+	dynasty=699
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="polish"
+	trait="chaste"
+	trait="skilled_tactician"
+	father=471515
+	mother=471516
+	1319.1.2={
+		birth="1319.1.2"
+	}
+	1335.1.2={
+		add_spouse=471525
+	}
+	1364.1.2={
+		death="1364.1.2"
+	}
+}
+
+471519 = {
+	name="欧菲米娅"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471515
+	mother=471516
+	1310.1.2={
+		birth="1310.1.2"
+	}
+	1373.1.2={
+		death="1373.1.2"
+	}
+}
+
+471520 = {
+	name="卡齐米日"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 221525
+	mother=125073
+	1211.1.2={
+		birth="1211.1.2"
+	}
+	1233.1.1={
+		add_spouse=125976
+	}
+	1239.1.1={
+		add_spouse=125907
+	}
+	1257.3.1={
+		add_spouse=471540
+	}
+	1267.12.14={
+		death="1267.12.14"
+	}
+}
+
+471521 = {
+	name="卡齐米日"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471515
+	mother=471516
+	1314.1.2={
+		birth="1314.1.2"
+	}
+	1355.1.2={
+		death="1355.1.2"
+	}
+}
+
+471530 = {
+	name="谢莫梅斯乌"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471520
+	mother=125907
+	1245.1.2={
+		birth="1245.1.2"
+	}
+	1268.1.2={
+		add_spouse=30469
+	}
+	1287.1.2={
+		death="1287.1.2"
+	}
+}
+
+471533 = {
+	name="普热梅斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471530
+	mother=30469
+	1277.1.2={
+		birth="1277.1.2"
+	}
+	1339.1.2={
+		death="1339.1.2"
+	}
+}
+
+471534 = {
+	name="莱谢克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471530
+	mother=30469
+	1276.1.2={
+		birth="1276.1.2"
+	}
+	1339.1.2={
+		death="1339.1.2"
+	}
+}
+
+471535 = {
+	name="卡齐米日"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471530
+	mother=30469
+	1278.1.2={
+		birth="1278.1.2"
+	}
+	1348.1.2={
+		death="1348.1.2"
+	}
+}
+
+471536 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471535
+	1327.1.2={
+		birth="1327.1.2"
+	}
+	1388.1.2={
+		death="1388.1.2"
+	}
+}
+
+471537 = {
+	name="伊利莎白"
+	female = yes
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="polish"
+	trait="proud"
+	trait="thrifty_clerk"
+	1319.1.2={
+		birth="1319.1.2"
+	}
+	1369.1.2={
+		death="1369.1.2"
+	}
+}
+
+471538 = {
+	name="伊利莎白"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471535
+	1308.1.2={
+		birth="1308.1.2"
+	}
+	1345.1.2={
+		death="1345.1.2"
+	}
+}
+
+471540 = {
+	name="欧弗洛齐娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221555
+	1228.1.2={
+		birth="1228.1.2"
+	}
+	1292.11.4={
+		death="1292.11.4"
+	}
+}
+
+471550 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	give_nickname="nick_the_pious"
+	father=7689
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1258.1.1={
+		add_spouse=98038
+	}
+	1279.4.14={
+		death="1279.4.14"
+	}
+}
+
+471555 = {
+	name="雅德维加"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471550
+	mother=98038
+	1270.1.2={
+		birth="1270.1.2"
+	}
+	1339.12.10={
+		death="1339.12.10"
+	}
+}
+
+471560 = {
+	name="斯皮齐米尔"
+	dynasty=24
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="polish"
+	trait="tough_soldier"
+	father=471570
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1317.1.2={
+		add_spouse=471605
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+471561 = {
+	name="帕科斯瓦夫"
+	dynasty=24
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="polish"
+	trait="chaste"
+	trait="patient"
+	trait="amateurish_plotter"
+	father=471560
+	mother=471605
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1370.1.2={
+		death="1370.1.2"
+	}
+}
+
+471570 = {
+	name="雅各布"
+	dynasty=24
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="polish"
+	trait="lustful"
+	trait="tough_soldier"
+	1262.1.2={
+		birth="1262.1.2"
+	}
+	1324.1.2={
+		death="1324.1.2"
+	}
+}
+
+471580 = {
+	name="姆斯齐沃"
+	dynasty=21016
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="polish"
+	trait="diligent"
+	trait="arbitrary"
+	trait="kind"
+	trait="tough_soldier"
+	father=471590
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+471590 = {
+	name="瓦尔齐斯瓦夫"
+	dynasty=21016
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="polish"
+	trait="amateurish_plotter"
+	1261.1.2={
+		birth="1261.1.2"
+	}
+	1306.1.2={
+		death="1306.1.2"
+	}
+}
+
+471600 = {
+	name="彼得"
+	dynasty=21002
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="polish"
+	trait="honest"
+	trait="proud"
+	trait="skilled_tactician"
+	1221.1.2={
+		birth="1221.1.2"
+	}
+	1290.1.2={
+		death="1290.1.2"
+	}
+}
+
+471603 = {
+	name="沃依切赫"
+	dynasty=21002
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="polish"
+	trait="envious"
+	trait="craven"
+	trait="tough_soldier"
+	father=471600
+	1278.1.2={
+		birth="1278.1.2"
+	}
+	1317.1.2={
+		death="1317.1.2"
+	}
+}
+
+471604 = {
+	name="雅罗斯瓦夫"
+	dynasty=21002
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="polish"
+	trait="diligent"
+	trait="skilled_tactician"
+	father=471600
+	1276.1.2={
+		birth="1276.1.2"
+	}
+	1326.1.2={
+		death="1326.1.2"
+	}
+}
+
+471605 = {
+	name="斯坦尼斯拉瓦"
+	female = yes
+	dynasty=21002
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="polish"
+	trait="proud"
+	trait="cynical"
+	trait="scholarly_theologian"
+	father=471600
+	1287.1.2={
+		birth="1287.1.2"
+	}
+	1337.1.2={
+		death="1337.1.2"
+	}
+}
+
+471652 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125905
+	mother=96042
+	1227.1.2={
+		birth="1227.1.2"
+	}
+	1252.6.2={
+		add_spouse=125996
+	}
+	1266.1.1 = {
+		add_spouse=161704
+	}
+	1266.12.3={
+		death="1266.12.3"
+	}
+}
+
+471670 = {
+	name="马切伊"
+	dynasty=18
+	martial=8
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="polish"
+	trait="lustful"
+	trait="proud"
+	trait="cynical"
+	trait="tough_soldier"
+	1313.1.2={
+		birth="1313.1.2"
+	}
+	1363.1.2={
+		death="1363.1.2"
+	}
+}
+
+471700 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="tough_soldier"
+	father=471710
+	mother=471502
+	1314.1.2={
+		birth="1314.1.2"
+	}
+	1368.7.28={
+		death="1368.7.28"
+	}
+}
+
+471710 = {
+	name="伯纳德"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471735
+	mother=33740
+	1291.1.2={
+		birth="1291.1.2"
+	}
+	1314.1.2={
+		add_spouse = 471502
+	}
+	1326.5.6={
+		death="1326.5.6"
+	}
+}
+
+471720 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471722
+	mother=471723
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1330.1.2={
+		add_spouse = 471721
+	}
+	1356.1.2={
+		death="1356.1.2"
+	}
+}
+
+471721 = {
+	name="伊利莎白"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471710
+	mother=471502
+	1315.1.2={
+		birth="1315.1.2"
+	}
+	1348.2.9={
+		death="1348.2.9"
+	}
+}
+
+471722 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471724
+	mother=125980
+	1258.1.2={
+		birth="1258.1.2"
+	}
+	1280.1.2={
+		add_spouse=471723
+	}
+	1313.5.14={
+		death="1313.5.14"
+	}
+}
+
+471723 = {
+	name="格米斯瓦尔瓦"
+	female = yes
+	religion="catholic"
+	culture="polish"
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1306.1.2={
+		death="1306.1.2"
+	}
+}
+
+471724 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221555
+	1225.1.2={
+		birth="1225.1.2"
+	}
+	1251.1.2={
+		add_spouse=125980
+	}
+	1282.8.27={
+		death="1282.8.27"
+	}
+}
+
+471725 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471720
+	mother=471721
+	1332.1.2={
+		birth="1332.1.2"
+	}
+	1401.1.2={
+		death="1401.1.2"
+	}
+}
+
+471726 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471720
+	mother=471721
+	1335.1.2={
+		birth="1335.1.2"
+	}
+	1382.1.2={
+		death="1382.1.2"
+	}
+}
+
+471729 = {
+	name="欧斐米娅"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471732
+	mother=471733
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1347.6.1={
+		death="1347.6.1"
+	}
+}
+
+471730 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="charitable"
+	father=471732
+	mother=471733
+	1291.9.23={
+		birth="1291.9.23"
+	}
+	1312.2.21={
+		add_spouse = 96061
+	}
+	1326.1.2={
+		add_spouse = 470013
+	}
+	1352.4.21={
+		death="1352.4.21"
+	}
+}
+
+471732 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471734
+	mother=125997
+	1248.1.24={
+		birth="1248.1.24"
+	}
+	1264.1.24={
+		trait="gluttonous"
+		give_nickname="nick_the_fat"
+	}
+	1279.1.2={
+		add_spouse=471733
+	}
+	1296.2.22={
+		death="1296.2.22"
+	}
+}
+
+471733 = {
+	name="伊利莎白"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471550
+	mother=98038
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	1304.9.28={
+		death="1304.9.28"
+	}
+}
+
+471734 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125905
+	mother=96042
+	1223.1.24={
+		birth="1223.1.24"
+	}
+	1242.5.8={
+		add_spouse=125997
+	}
+	1260.1.2={
+		add_spouse=170029
+	}
+	1278.12.25={
+		death="1278.12.25"
+	}
+}
+
+471735 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="just"
+	trait="envious"
+	trait="flamboyant_schemer"
+	father=471734
+	mother=125997
+	1252.1.24={
+		birth="1252.1.24"
+	}
+	1286.1.1={
+		add_spouse=33740
+	}
+	1301.11.9={
+		death="1301.11.9"
+	}
+}
+
+471736 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471732
+	mother=471733
+	1296.6.6={
+		birth="1296.6.6"
+	}
+	1325.8.13={
+		add_spouse = 170033
+	}
+	1329.1.13={
+		remove_spouse = 170033
+	}
+	1352.1.13={
+		death="1352.1.13"
+	}
+}
+
+471737 = {
+	name="瓦茨拉夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471730
+	mother=96061
+	1318.1.24={
+		birth="1318.1.24"
+	}
+	1364.6.2={
+		death="1364.6.2"
+	}
+}
+
+471738 = {
+	name="路德维克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="just"
+	father=471730
+	mother=96061
+	1321.1.24={
+		birth="1321.1.24"
+	}
+	1398.12.23={
+		death="1398.12.23"
+	}
+}
+
+471739 = {
+	name="卡特琳娜"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471730
+	mother=96061
+	1322.1.24={
+		birth="1322.1.24"
+	}
+	1409.1.24={
+		death="1409.1.24"
+	}
+}
+
+471740 = {
+	name="卡齐米日"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471741
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1325.1.1={
+		add_spouse = 471519
+	}
+	1358.9.29={
+		death="1358.9.29"
+	}
+}
+
+471741 = {
+	name="梅什科"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471724
+	mother=125980
+	1252.1.2={
+		birth="1252.1.2"
+	}
+	1315.6.27={
+		death="1315.6.27"
+	}
+}
+
+471742 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471740
+	mother=471519
+	1328.1.2={
+		birth="1328.1.2"
+	}
+	1355.1.2={
+		death="1355.1.2"
+	}
+}
+
+471743 = {
+	name="普热梅斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471740
+	mother=471519
+	1334.1.2={
+		birth="1334.1.2"
+	}
+	1410.1.2={
+		death="1410.1.2"
+	}
+}
+
+472900 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471515
+	mother=471516
+	1308.1.2={
+		birth="1308.1.2"
+	}
+	1325.1.2={
+		name="尤里"
+		religion="orthodox"
+	}
+	1331.1.2={
+		add_spouse=472901
+	}
+	1360.1.2={
+		death="1360.1.2"
+	}
+}
+
+7515 = {
+	name="欧多西娅"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 221525
+	mother=125073
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+752 = {
+	name="谢莫梅斯乌"
+	dynasty=699
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="slavic_pagan"
+	culture="polish"
+	father=82236
+	trait="brave"
+	trait="tough_soldier"
+	900.1.2={
+		birth="900.1.2"
+	}
+	960.1.2={
+		death="960.1.2"
+	}
+}
+
+754 = {
+	name="梅什科"
+	dynasty=699
+	martial=7
+	diplomacy=7
+	stewardship=8
+	religion="catholic"
+	culture="polish"
+	trait="quick"
+	father=752
+	922.1.1={
+		birth="922.1.1"
+	}
+	965.1.1={
+		add_spouse=509
+	}
+	978.1.1={
+		add_spouse=168525
+	}
+	992.5.25={
+		death="992.5.25"
+	}
+}
+
+755 = {
+	name="希温托斯瓦尔瓦"
+	female=yes
+	dynasty=699
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="polish"
+	trait="envious"
+	trait="proud"
+	trait="underhanded_rogue"
+	father=754
+	mother=509
+	970.1.2={
+		birth="970.1.2"
+	}
+	1014.2.2={
+		death="1014.2.2"
+	}
+}
+
+756 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	martial=8
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="polish"
+	trait="brave"
+	trait="skilled_tactician"
+	give_nickname="nick_the_brave"
+	father=754
+	mother=509
+	967.1.2={
+		birth="967.1.2"
+	}
+	985.1.2={
+		add_spouse=463
+	}
+	987.1.2={
+	remove_spouse=463
+	}
+	987.1.2={
+		add_spouse=757
+	}
+	1025.6.17={
+		death="1025.6.17"
+	}
+}
+
+757 = {
+	name="埃姆尼尔妲"
+	female = yes
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="polish"
+	trait="patient"
+	trait="amateurish_plotter"
+	971.1.2={
+		birth="971.1.2"
+	}
+	1017.1.2={
+		death="1017.1.2"
+	}
+}
+
+758 = {
+	name="梅什科"
+	dynasty=699
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="polish"
+	trait="scholar"
+	#give_nickname="nick_the_lazy"
+	father=756
+	mother=757
+	990.1.2={
+		birth="990.1.2"
+	}
+	1013.1.2={
+		add_spouse = 427
+	}
+	1034.5.11={
+		death="1034.5.11"
+	}
+}
+
+759 = {
+	name="阿德勒妲"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=752
+	934.1.2={
+		birth="934.1.2"
+	}
+	997.1.3={
+		death="997.1.3"
+	}
+}
+
+760 = {
+	name="卡齐米日"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	give_nickname="nick_the_restorer"
+	father=758
+	mother=427
+	1016.7.25={
+		birth="1016.7.25"
+	}
+	1040.1.2={
+		add_spouse = 13501
+	}
+	1058.11.28={
+		death="1058.11.28"
+	}
+}
+
+761 = {
+	name="格特鲁妲"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=758
+	mother=427
+	1025.1.2={
+		birth="1025.1.2"
+	}
+	1108.1.4={
+		death="1108.1.4"
+	}
+}
+
+762 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	learning=7
+	religion="catholic"
+	culture="polish"
+	trait="strong"
+	trait="diligent"
+	trait="wroth"
+	trait="charitable"
+	trait="brave"
+	trait="skilled_tactician"
+	give_nickname="nick_the_bold"
+	father=760
+	mother=13501
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1066.1.1={
+		add_spouse=161257
+	}
+	1079.1.1={
+		employer=474
+	}
+	1081.3.22={
+		death="1081.3.22"
+	}
+}
+
+763 = {
+	name="里莎"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=758
+	mother=427
+	1016.1.2={
+		birth="1016.1.2"
+	}
+	1052.1.2={
+		death="1052.1.2"
+	}
+}
+
+764 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="polish"
+	trait="infirm"
+	trait="greedy"
+	trait="gluttonous"
+	trait="deceitful"
+	trait="arbitrary"
+	trait="amateurish_plotter"
+	father=760
+	mother=13501
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1080.1.1={
+		add_spouse = 212881
+	}
+	1089.1.1={
+		add_spouse = 1476
+	}
+	1102.6.4={
+		death="1102.6.4"
+	}
+}
+
+765 = {
+	name="希温托斯瓦尔瓦"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=760
+	mother=13501
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1126.9.1={
+		death="1126.9.1"
+	}
+}
+
+766 = {
+	name="贝斯普里姆"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=756
+	mother=463
+	986.1.2={
+		birth="986.1.2"
+	}
+	1032.1.2={
+		death="1032.1.2"
+	}
+}
+
+767 = {
+	name="谢切赫"
+	dynasty=101681
+	martial=8
+	diplomacy=5
+	intrigue=10
+	stewardship=4
+	religion="catholic"
+	culture="polish"
+	trait="flamboyant_schemer"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1094.1.2={
+		death="1094.1.2"
+	}
+}
+
+7689 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221561
+	mother=222509
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1239.6.5={
+		death="1239.6.5"
+	}
+}
+
+7690 = {
+	name="普热梅斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=7689
+	1220.6.5={
+		birth="1220.6.5"
+	}
+	1244.1.1={
+		add_spouse=125927
+	}
+	1257.6.4={
+		death="1257.6.4"
+	}
+}
+
+7691 = {
+	name="康斯坦齐娅"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=7690
+	mother=125927
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1281.10.8={
+		death="1281.10.8"
+	}
+}
+
+7706 = {
+	name="弗里德里希"
+	dynasty=706
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="polish"
+	trait="scholarly_theologian"
+	1020.1.2={
+		birth="1020.1.2"
+	}
+	1070.1.2={
+		death="1070.1.2"
+	}
+}
+
+125900 = {
+	name="阿德莱妲"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=764
+	mother=1476
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	1127.3.26={
+		death="1127.3.26"
+	}
+}
+
+125901 = {
+	name="梅什科"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=762
+	mother=161257
+	1069.4.12={
+		birth="1069.4.12"
+	}
+	1088.1.1={
+		add_spouse=40600
+	}
+	1089.1.7={
+		death="1089.1.7"
+	}
+}
+
+125902 = {
+	name="索非娅"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=764
+	mother=1476
+	1089.1.1={
+		birth="1089.1.1"
+	}
+	1112.10.12={
+		death="1112.10.12"
+	}
+}
+
+125903 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221537
+	mother=212943
+	1191.1.2={
+		birth="1191.1.2"
+	}
+	1207.9.10={
+		death="1207.9.10"
+	}
+}
+
+125904 = {
+	name="康拉德"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221537
+	mother=212943
+	1198.1.2={
+		birth="1198.1.2"
+	}
+	1213.9.4={
+		death="1213.9.4"
+	}
+}
+
+125905 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221537
+	mother=212943
+	1196.1.2={
+		birth="1196.1.2"
+	}
+	1220.1.1={
+		add_spouse=96042
+	}
+	1240.1.1={
+		give_nickname="nick_the_pious"
+	}
+	1241.4.9={
+		death="1241.4.9"
+	}
+}
+
+
+125906 = {
+	name="格特鲁妲"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125905
+	mother=96042
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1247.4.23={
+		death="1247.4.23"
+	}
+}
+
+125907 = {
+	name="康斯坦齐娅"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125905
+	mother=96042
+	1221.1.1={
+		birth="1221.1.1"
+	}
+	1257.2.21={
+		death="1257.2.21"
+	}
+}
+
+125908 = {
+	name="梅什科"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125905
+	mother=96042
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+
+125909 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="honest"
+	father=471652
+	mother=125996
+	1258.1.1={
+		birth="1258.1.1"
+	}
+	1277.1.1={
+		add_spouse=125969
+	}
+	1284.1.1={
+		remove_spouse=125969
+	}
+	1287.1.1={
+		add_spouse=33741
+	}	
+	1290.6.24={
+		death="1290.6.24"
+	}
+}
+
+125910 = {
+	name="康拉德"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125905
+	mother=96042
+	1228.1.1={
+		birth="1228.1.1"
+	}
+	1249.1.1={
+		add_spouse=125979
+	}
+	1271.1.1={
+		add_spouse=30815
+	}
+	1274.8.6={
+		death="1274.8.6"
+	}
+}
+
+125911 = {
+	name="安娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125910
+	mother=125979
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1271.6.25={
+		death="1271.6.25"
+	}
+}
+
+125912 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125910
+	mother=125979
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1291.3.1={
+		add_spouse=125998
+	}
+	1309.12.3={
+		death="1309.12.3"
+	}
+}
+
+125913 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125912
+	mother=125998
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1314.1.5={
+		add_spouse=33746
+	}
+	1342.1.22={
+		death="1342.1.22"
+	}
+}
+
+125914 = {
+	name="雅德维加"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="scholarly_theologian"
+	father=125913
+	mother=33746
+	1316.1.1={
+		birth="1316.1.1"
+	}
+	1348.5.28={
+		death="1348.5.28"
+	}
+}
+
+125915 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	give_nickname="nick_the_ironside"
+	father=125913
+	mother=33746
+	1319.1.1={
+		birth="1319.1.1"
+	}
+	1369.4.8={
+		death="1369.4.8"
+	}
+}
+
+125916 = {
+	name="萨洛玛"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125913
+	mother=33746
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1359.6.12={
+		death="1359.6.12"
+	}
+}
+
+125917 = {
+	name="阿涅斯卡"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125913
+	mother=33746
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1362.7.7={
+		death="1362.7.7"
+	}
+}
+
+125918 = {
+	name="康拉德"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125912
+	mother=125998
+	1294.1.1={
+		birth="1294.1.1"
+	}
+	1322.1.10={
+		add_spouse=125932
+	}
+	1333.3.2={
+		add_spouse=125957
+	}
+	1366.12.22={
+		death="1366.12.22"
+	}
+}
+
+125919 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125912
+	mother=125998
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1321.4.23={
+		death="1321.4.23"
+	}
+}
+
+125920 = {
+	name="阿涅斯卡"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125912
+	mother=125998
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1361.12.25={
+		death="1361.12.25"
+	}
+}
+
+125921 = {
+	name="扬"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125912
+	mother=125998
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1316.1.14={
+		add_spouse=471658
+	}
+	1365.5.19={
+		death="1365.5.19"
+	}
+}
+
+125922 = {
+	name="卡特琳娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125912
+	mother=125998
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1323.12.5={
+		death="1323.12.5"
+	}
+}
+
+125923 = {
+	name="普热梅斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125912
+	mother=125998
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1330.3.1={
+		add_spouse=125937
+	}
+	1331.1.11={
+		death="1331.1.11"
+	}
+}
+
+125924 = {
+	name="康拉德"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="scholarly_theologian"
+	father=125910
+	mother=125979
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1304.10.11={
+		death="1304.10.11"
+	}
+}
+
+125925 = {
+	name="欧菲米娅"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125910
+	mother=125979
+	1254.1.1={
+		birth="1254.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+
+125926 = {
+	name="普热梅斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125910
+	mother=125979
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1289.2.26={
+		death="1289.2.26"
+	}
+}
+
+125927 = {
+	name="伊利莎白"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125905
+	mother=96042
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1265.1.16={
+		death="1265.1.16"
+	}
+}
+
+125928 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="scholarly_theologian"
+	father=125905
+	mother=96042
+	1237.1.1={
+		birth="1237.1.1"
+	}
+	1270.4.27={
+		death="1270.4.27"
+	}
+}
+
+125929 = {
+	name="阿涅斯卡"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471734
+	mother=125997
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	1265.3.13={
+		death="1265.3.13"
+	}
+}
+
+125930 = {
+	name="雅德维加"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471732
+	mother=471733
+	1279.1.2={
+		birth="1279.1.2"
+	}
+	1347.2.3={
+		death="1347.2.3"
+	}
+}
+
+125931 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="charitable"
+	trait="just"
+	father=471732
+	mother=471733
+	1294.3.18={
+		birth="1294.3.18"
+	}
+	1310.1.1={
+		add_spouse=125999
+	}
+	1311.1.1={
+		give_nickname="nick_the_good"
+	}
+	1335.11.24={
+		death="1335.11.24"
+	}
+}
+
+125932 = {
+	name="伊利莎白"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125931
+	mother=125999
+	1311.1.1={
+		birth="1311.1.1"
+	}
+	1328.2.20={
+		death="1328.2.20"
+	}
+}
+
+125933 = {
+	name="欧菲米娅"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125931
+	mother=125999
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1384.3.21={
+		death="1384.3.21"
+	}
+}
+
+125934 = {
+	name="雅德维加"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471734
+	mother=125997
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+125935 = {
+	name="尤蒂达"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471735
+	mother=33740
+	1287.1.1={
+		birth="1287.1.1"
+	}
+	1320.9.15={
+		death="1320.9.15"
+	}
+}
+
+125936 = {
+	name="安娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471735
+	mother=33740
+	1301.11.21={
+		birth="1301.11.21"
+	}
+	1334.6.24={
+		death="1334.6.24"
+	}
+}
+
+125937 = {
+	name="康斯坦齐娅"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471710
+	mother=471502
+	1314.1.2={
+		birth="1314.1.2"
+	}
+	1363.11.21={
+		death="1363.11.21"
+	}
+}
+
+125938 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471710
+	mother=471502
+	1316.1.2={
+		birth="1316.1.2"
+	}
+	1345.6.28={
+		death="1345.6.28"
+	}
+}
+
+125939 = {
+	name="亨里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471735
+	mother=33740
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1321.1.1={
+		add_spouse=96063
+	}
+	1346.5.15={
+		death="1346.5.15"
+	}
+}
+
+125940 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471735
+	mother=33740
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1322.1.1={
+		add_spouse=462144
+	}
+	1341.6.11={
+		death="1341.6.11"
+	}
+}
+
+125941 = {
+	name="米科莱"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125940
+	mother=462144
+	1327.1.1={
+		birth="1327.1.1"
+	}
+	1358.4.23={
+		death="1358.4.23"
+	}
+}
+
+125942 = {
+	name="伯纳德"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471734
+	mother=125997
+	1253.1.1={
+		birth="1253.1.1"
+	}
+	1286.4.25={
+		death="1286.4.25"
+	}
+}
+
+125943 = {
+	name="康拉德"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221531
+	mother=212545
+	1146.1.2={
+		birth="1146.1.2"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+125944 = {
+	name="梅什科"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="gluttonous"
+	give_nickname="nick_the_fat"
+	father=221555
+	1220.1.2={
+		birth="1220.1.2"
+	}
+	1246.10.22={
+		death="1246.10.22"
+	}
+}
+
+125946 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471741
+	1275.1.2={
+		birth="1275.1.2"
+	}
+	1308.1.2={
+		add_spouse=125995
+	}
+	1324.5.15={
+		death="1324.5.15"
+	}
+}
+
+125947 = {
+	name="扬"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="scholarly_theologian"
+	father=125946
+	mother=125995
+	1308.1.2={
+		birth="1308.1.2"
+	}
+	1372.9.29={
+		death="1372.9.29"
+	}
+}
+
+125948 = {
+	name="安娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125946
+	mother=125995
+	1315.1.2={
+		birth="1315.1.2"
+	}
+	1354.9.29={
+		death="1354.9.29"
+	}
+}
+
+125949 = {
+	name="安娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471740
+	mother=471519
+	1325.1.2={
+		birth="1325.1.2"
+	}
+	1367.1.2={
+		death="1367.1.2"
+	}
+}
+
+125950 = {
+	name="约兰达"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471740
+	mother=471519
+	1331.1.2={
+		birth="1331.1.2"
+	}
+	1403.1.2={
+		death="1403.1.2"
+	}
+}
+
+125951 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471740
+	mother=471519
+	1332.1.2={
+		birth="1332.1.2"
+	}
+	1356.1.2={
+		death="1356.1.2"
+	}
+}
+
+125952 = {
+	name="伊利莎白"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+    trait="fair"
+	father=471741
+	1291.1.2={
+		birth="1291.1.2"
+	}
+	1317.9.21={
+		death="1317.9.21"
+	}
+}
+
+125953 = {
+	name="卡齐米日"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471724
+	mother=125980
+	1253.1.2={
+		birth="1253.1.2"
+	}
+	1312.3.10={
+		death="1312.3.10"
+	}
+}
+
+125954 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125953
+	1276.1.2={
+		birth="1276.1.2"
+	}
+	1329.1.17={
+		death="1329.1.17"
+	}
+}
+
+125955 = {
+	name="瓦迪斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125953
+	1277.1.2={
+		birth="1277.1.2"
+	}
+	1328.4.5={
+		add_spouse=451987
+	}
+	1352.1.17={
+		death="1352.1.17"
+	}
+}
+
+125956 = {
+	name="卡齐米日"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125955
+	1312.1.2={
+		birth="1312.1.2"
+	}
+	1347.1.17={
+		death="1347.1.17"
+	}
+}
+
+125957 = {
+	name="欧菲米娅"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125955
+	1313.1.2={
+		birth="1313.1.2"
+	}
+	1378.1.17={
+		death="1378.1.17"
+	}
+}
+
+125958 = {
+	name="阿涅斯卡"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125955
+	mother=451987
+	1328.1.2={
+		birth="1328.1.2"
+	}
+	1362.1.17={
+		death="1362.1.17"
+	}
+}
+
+125959 = {
+	name="卡特琳娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125955
+	mother=451987
+	1329.1.2={
+		birth="1329.1.2"
+	}
+	1377.1.17={
+		death="1377.1.17"
+	}
+}
+
+125960 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125955
+	mother=451987
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1355.1.17={
+		death="1355.1.17"
+	}
+}
+
+125961 = {
+	name="贝娅塔"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125955
+	mother=451987
+	1335.1.2={
+		birth="1335.1.2"
+	}
+	1364.1.17={
+		death="1364.1.17"
+	}
+}
+
+125962 = {
+	name="玛利亚"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125953
+	1282.1.2={
+		birth="1282.1.2"
+	}
+	1315.12.15={
+		death="1315.12.15"
+	}
+}
+
+125963 = {
+	name="谢莫维特"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125953
+	1292.1.2={
+		birth="1292.1.2"
+	}
+	1342.7.1={
+		death="1342.7.1"
+	}
+}
+
+125964 = {
+	name="梅什科"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125953
+	1305.1.2={
+		birth="1305.1.2"
+	}
+	1344.8.9={
+		death="1344.8.9"
+	}
+}
+
+125965 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471722
+	mother=471723
+	1293.1.2={
+		birth="1293.1.2"
+	}
+	1325.1.2={
+		add_spouse=125933
+	}
+	1365.1.1={
+		death="1365.1.1"
+	}
+}
+
+125966 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125965
+	mother=125933
+	1326.1.2={
+		birth="1326.1.2"
+	}
+	1368.1.1={
+		death="1368.1.1"
+	}
+}
+
+125967 = {
+	name="瓦茨拉夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125965
+	mother=125933
+	1336.1.2={
+		birth="1336.1.2"
+	}
+	1369.1.1={
+		death="1369.1.1"
+	}
+}
+
+125968 = {
+	name="阿尔伯特"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471722
+	mother=471723
+	1305.1.2={
+		birth="1305.1.2"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+
+125969 = {
+	name="康斯坦齐娅"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471724
+	mother=125980
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1287.1.1={
+		death="1287.1.1"
+	}
+}
+
+125970 = {
+	name="普热梅斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471724
+	mother=125980
+	1268.6.12={
+		birth="1268.6.12"
+	}
+	1289.1.1={
+		add_spouse=125989
+	}
+	1306.5.7={
+		death="1306.5.7"
+	}
+}
+
+125971 = {
+	name="莱谢克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125970
+	mother=125989
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1332.1.1={
+		add_spouse=125917
+	}
+	1336.1.1={
+		death="1336.1.1"
+	}
+}
+
+125972 = {
+	name="安娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125970
+	mother=125989
+	1293.1.1={
+		birth="1293.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+125973 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221515
+	mother=221519
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1141.1.1={
+		add_spouse=222823
+	}
+	1173.4.3={
+		death="1173.4.3"
+	}
+}
+
+125974 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125973
+	mother=222823
+	1156.1.1={
+		birth="1156.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+125975 = {
+	name="莱谢克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125973
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+125976 = {
+	name="雅德维加"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=7689
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1234.1.8={
+		death="1234.1.8"
+	}
+}
+
+125977 = {
+	name="普热梅斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=7690
+	mother=125927
+	1257.5.14={
+		birth="1257.5.14"
+	}
+	1278.1.1={
+		add_spouse=126000
+	}
+	1285.1.1={
+		add_spouse=126001
+	}
+	1293.4.19={
+		add_spouse=33752
+	}
+	1296.2.8={
+		death="1296.2.8"
+	}
+}
+
+125978 = {
+	name="里莎 伊利莎白"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125977
+	mother=126001
+	1286.9.1={
+		birth="1286.9.1"
+	}
+	1335.10.18={
+		death="1335.10.18"
+	}
+}
+
+125979 = {
+	name="萨洛玛"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=7689
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1267.1.1={
+		death="1267.1.1"
+	}
+}
+
+125980 = {
+	name="欧菲米娅"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=7689
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1281.2.15={
+		death="1281.2.15"
+	}
+}
+
+125981 = {
+	name="萨洛玛"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221524
+	mother=125134
+	1211.1.1={
+		birth="1211.1.1"
+	}
+	1268.11.10={
+		death="1268.11.10"
+	}
+}
+
+125982 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="chaste"
+	give_nickname="nick_the_chaste"
+	father=221524
+	mother=125134
+	1226.6.21={
+		birth="1226.6.21"
+	}
+    1239.1.1={
+		add_spouse=98034
+    }
+	1279.12.7={
+		death="1279.12.7"
+	}
+}
+
+125983 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221525
+	mother=125073
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	1236.1.1={
+		add_spouse=125906
+	}
+	1247.7.1={
+		add_spouse=170087 #Anastasia Aleksandrovna
+	}
+	1248.4.1={
+		death="1248.4.1"
+	}
+}
+
+125984 = {
+	name="莱谢克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471520
+	mother=125907
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1265.1.1={
+		add_spouse=125054
+	}
+	1288.9.30={
+		death="1288.9.30"
+	}
+}
+
+125985 = {
+	name="谢莫维特"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471520
+	mother=471540
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1301.1.1={
+		add_spouse=125119
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+125986 = {
+	name="欧菲米娅"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471520
+	mother=471540
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1308.3.18={
+		death="1308.3.18"
+	}
+}
+
+125987 = {
+	name="谢莫维特"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 221525
+	mother=125073
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1248.1.1={
+		add_spouse=125124
+	}
+	1262.6.23={
+		death="1262.6.23"
+	}
+}
+
+125988 = {
+	name="康拉德"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 125987
+	mother=125124
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1268.1.1={
+		add_spouse=125934
+	}
+	1294.10.11={
+		death="1294.10.11"
+	}
+}
+
+125989 = {
+	name="安娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 125988
+	mother=125934
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1324.7.13={
+		death="1324.7.13"
+	}
+}
+
+125990 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 125987
+	mother=125124
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1279.1.1={
+		add_spouse=125313
+	}
+	1291.1.1={
+		add_spouse=96050
+	}
+	1313.4.20={
+		death="1313.4.20"
+	}
+}
+
+125991 = {
+	name="谢莫维特"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 125990
+	mother=125313
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1345.2.18={
+		death="1345.2.18"
+	}
+}
+
+125992 = {
+	name="瓦茨拉夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 125990
+	mother=96050
+	1293.1.1={
+		birth="1293.1.1"
+	}
+	1320.1.1={
+		add_spouse=125319
+	}
+	1336.1.1={
+		death="1336.1.1"
+	}
+}
+
+125993 = {
+	name="波列斯瓦夫"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 125992
+	mother=125319
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1351.1.1={
+		death="1351.1.1"
+	}
+}
+
+125994 = {
+	name="安娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 125992
+	mother=125319
+	1324.1.1={
+		birth="1324.1.1"
+	}
+	1363.1.1={
+		death="1363.1.1"
+	}
+}
+
+125995 = {
+	name="欧弗洛齐娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 125990
+	mother=96050
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1328.12.26={
+		death="1328.12.26"
+	}
+}
+
+125996 = {
+	name="尤蒂达"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 221525
+	mother=125073
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1265.1.1={
+		death="1265.1.1"
+	}
+}
+
+96071 = {
+	name="希波里特"
+	religion="catholic"
+	culture="polish"
+	trait="scholarly_theologian"
+	965.1.1={
+		birth="965.1.1"
+	}
+	1027.1.1={
+		death="1027.1.1"
+	}
+}
+
+96072 = {
+	name="斯特凡"
+	religion="catholic"
+	culture="polish"
+	971.1.1={
+		birth="971.1.1"
+	}
+	1028.3.7={
+		death="1028.3.7"
+	}
+}
+
+96075 = {
+	name="马尔钦"
+	religion="catholic"
+	culture="polish"
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+96076 = {
+	name="雅各布"
+	religion="catholic"
+	culture="polish"
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1148.9.23={
+		death="1148.9.23"
+	}
+}
+
+96077 = {
+	name="耶尼斯瓦夫"
+	dynasty=21012
+	religion="catholic"
+	culture="polish"
+	1099.1.1={
+		birth="1099.1.1"
+	}
+	1168.3.11={
+		death="1168.3.11"
+	}
+}
+
+96079 = {
+	name="博古米尔"
+	religion="catholic"
+	culture="polish"
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1191.1.1={
+		death="1191.1.1"
+	}
+}
+
+96080 = {
+	name="彼得"
+	religion="catholic"
+	culture="polish"
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1198.8.20={
+		death="1198.8.20"
+	}
+}
+
+96081 = {
+	name="亨里克"
+	religion="catholic"
+	culture="polish"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1219.3.22={
+		death="1219.3.22"
+	}
+}
+
+96082 = {
+	name="文森特"
+	religion="catholic"
+	culture="polish"
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+96083 = {
+	name="贝尔卡"
+	dynasty=21016
+	religion="catholic"
+	culture="polish"
+	1181.1.1={
+		birth="1181.1.1"
+	}
+	1258.4.5={
+		death="1258.4.5"
+	}
+}
+
+96084 = {
+	name="雅努什"
+	religion="catholic"
+	culture="polish"
+	1203.1.1={
+		birth="1203.1.1"
+	}
+	1271.8.26={
+		death="1271.8.26"
+	}
+}
+
+96085 = {
+	name="马尔钦"
+	religion="catholic"
+	culture="polish"
+	trait="scholarly_theologian"
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1278.6.25={
+		death="1278.6.25"
+	}
+}
+
+96086 = {
+	name="雅各布"
+	religion="catholic"
+	culture="polish"
+	trait="mastermind_theologian"
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1314.3.4={
+		death="1314.3.4"
+	}
+}
+
+96087 = {
+	name="波齐斯瓦夫"
+	religion="catholic"
+	culture="polish"
+	1256.1.1={
+		birth="1256.1.1"
+	}
+	1317.1.1={
+		death="1317.1.1"
+	}
+}
+
+96088 = {
+	name="耶尼斯瓦夫"
+	religion="catholic"
+	culture="polish"
+	1279.1.1={
+		birth="1279.1.1"
+	}
+	1341.12.4={
+		death="1341.12.4"
+	}
+}
+
+96089 = {
+	name="克里斯丁"
+	dynasty=21010
+	religion="catholic"
+	culture="polish"
+	trait="tough_soldier"
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+96090 = {
+	name="克里斯丁"
+	dynasty=21010
+	religion="catholic"
+	culture="polish"
+	father=96089
+	1083.1.1={
+		birth="1083.1.1"
+	}
+	1138.1.1={
+		death="1138.1.1"
+	}
+}
+
+96091 = {
+	name="马切伊"
+	dynasty=11114
+	religion="catholic"
+	culture="polish"
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+96092 = {
+	name="安德鲁"
+	dynasty=11114
+	religion="catholic"
+	culture="polish"
+	father=96091
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1138.1.1={
+		death="1138.1.1"
+	}
+}
+
+96093 = {
+	name="瓦斯特"
+	dynasty=10111
+	religion="catholic"
+	culture="polish"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+96094 = {
+	name="彼得"
+	dynasty=10111
+	religion="catholic"
+	culture="polish"
+	trait="charitable"
+	father=96093
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1116.1.1={
+		add_spouse=96095
+	}	
+	1153.4.16={
+		death="1153.4.16"
+	}
+}
+
+96096 = {
+	name="谢博尔"
+	dynasty=10111
+	religion="catholic"
+	culture="polish"
+	father=96094
+	mother=96095
+	1117.1.1={
+		birth="1117.1.1"
+	}
+	1163.1.1={
+		death="1163.1.1"
+	}
+}
+
+96097 = {
+	name="希温托斯瓦夫"
+	dynasty=10111
+	religion="catholic"
+	culture="polish"
+	father=96094
+	mother=96095
+	1119.1.1={
+		birth="1119.1.1"
+	}
+	1178.1.1={
+		death="1178.1.1"
+	}
+}
+
+96098 = {
+	name="兰伯特"
+	religion="catholic"
+	culture="polish"
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1071.8.22={
+		death="1071.8.22"
+	}
+}
+
+96099 = {
+	name="兰伯特"
+	religion="catholic"
+	culture="polish"
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+96100 = {
+	name="切斯瓦夫"
+	religion="catholic"
+	culture="polish"
+	1047.1.1={
+		birth="1047.1.1"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+
+96105 = {
+	name="马修"
+	religion="catholic"
+	culture="polish"
+	1099.1.1={
+		birth="1099.1.1"
+	}
+	1166.10.18={
+		death="1166.10.18"
+	}
+}
+
+96106 = {
+	name="格德科"
+	religion="catholic"
+	culture="polish"
+	1127.1.1={
+		birth="1127.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+96107 = {
+	name="贝尔卡"
+	religion="catholic"
+	culture="polish"
+	1127.1.1={
+		birth="1127.1.1"
+	}
+	1207.9.11={
+		death="1207.9.11"
+	}
+}
+
+96108 = {
+	name="文森特"
+	religion="catholic"
+	culture="polish"
+	trait="mastermind_theologian"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1223.3.8={
+		death="1223.3.8"
+	}
+}
+
+96109 = {
+	name="伊沃"
+	dynasty=21021
+	religion="catholic"
+	culture="polish"
+	trait="humble"
+	1163.1.1={
+		birth="1163.1.1"
+	}
+	1229.7.21={
+		death="1229.7.21"
+	}
+}
+
+96110 = {
+	name="维斯瓦夫"
+	religion="catholic"
+	culture="polish"
+	1174.1.1={
+		birth="1174.1.1"
+	}
+	1242.3.15={
+		death="1242.3.15"
+	}
+}
+
+96111 = {
+	name="潘多塔"
+	dynasty=21021
+	religion="catholic"
+	culture="polish"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1266.9.20={
+		death="1266.9.20"
+	}
+}
+
+96112 = {
+	name="保罗"
+	dynasty=21023
+	religion="catholic"
+	culture="polish"
+	1226.1.1={
+		birth="1226.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+96114 = {
+	name="扬"
+	religion="catholic"
+	culture="polish"
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1320.2.7={
+		death="1320.2.7"
+	}
+}
+
+96115 = {
+	name="扬"
+	religion="catholic"
+	culture="polish"
+	1279.1.1={
+		birth="1279.1.1"
+	}
+	1341.5.8={
+		death="1341.5.8"
+	}
+}
+
+96116 = {
+	name="扬"
+	religion="catholic"
+	culture="polish"
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1347.8.5={
+		death="1347.8.5"
+	}
+}
+
+96117 = {
+	name="普热梅斯瓦夫"
+	dynasty=21025
+	religion="catholic"
+	culture="polish"
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1107.1.1={
+		death="1107.1.1"
+	}
+}
+
+96118 = {
+	name="乔治"
+	dynasty=21025
+	religion="catholic"
+	culture="polish"
+	father=96117
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1138.10.28={
+		death="1138.10.28"
+	}
+}
+
+93534 = {
+	name="海德薇"
+	female=yes
+	dynasty=175
+	religion="catholic"
+	culture="polish"
+	father=30451
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+161902 = {
+	name="别阿特丽莎" # Beatrycza of Schweidnitz
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125912
+	mother=125998
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1322.8.24={
+		death="1322.8.24"
+	}
+}
+
+
+82232 = {
+	name="波派"
+	dynasty=9120
+	religion="slavic_pagan"
+	culture="polish"
+	trait="cruel"
+	trait="lustful"
+	trait="drunkard"
+	trait="hedonist"
+	trait="gluttonous"
+	trait="deceitful"
+	father = 194080
+	800.1.1={
+		birth="800.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+
+
+}
+
+82233 = {
+	name="皮阿斯特"
+	dynasty=699
+	religion="slavic_pagan"
+	culture="polish"
+	father=171010
+	835.1.1={
+		birth="835.1.1"
+	}
+	862.1.2={
+		add_spouse = 82234
+	}
+	899.1.1={
+		death="899.1.1"
+	}
+
+
+}
+
+82234 = {
+	name="雷泽皮夏"
+	female=yes
+	religion="slavic_pagan"
+	culture="polish"
+	845.1.1={
+		birth="845.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+
+82235 = {
+	name="锡耶莫维特"
+	dynasty=699
+	religion="slavic_pagan"
+	culture="polish"
+	father=82233
+	mother=82234
+	863.1.1={
+		birth="863.1.1"
+	}
+	921.1.1={
+		death="921.1.1"
+	}
+
+
+}
+
+
+
+82236 = {
+	name="雷斯泰克"
+	dynasty=9120
+	religion="slavic_pagan"
+	culture="polish"
+	father=82235
+	880.1.1={
+		birth="880.1.1"
+	}
+	900.1.1={
+		dynasty=699 #Piast
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+
+
+}
+
+
+82237 = {
+	name="索别斯劳"
+	dynasty=9122
+	religion="slavic_pagan"
+	culture="polish"
+	father = 194093
+	830.1.1={
+		birth="830.1.1"
+	}
+	911.1.1={
+		death="911.1.1"
+	}
+}
+
+82238 = {
+	name="拉季波"
+	dynasty=9122
+	religion="slavic_pagan"
+	culture="polish"
+	father=82237
+	882.1.1={
+		birth="882.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+
+
+}
+
+82239 = {
+	name="尼克洛特"
+	dynasty=9122
+	religion="catholic"
+	culture="polish"
+	father=82238
+	932.1.1={
+		birth="932.1.1"
+	}
+	992.1.1={
+		death="992.1.1"
+	}
+
+
+}
+
+82240 = {
+	name="拉季波"
+	dynasty=9122
+	religion="catholic"
+	culture="polish"
+	father=82239
+	967.1.1={
+		birth="967.1.1"
+	}
+	1044.1.1={
+		death="1044.1.1"
+	}
+
+
+}
+
+82241 = {
+	name="斯维托波"
+	dynasty=9122
+	religion="catholic"
+	culture="polish"
+	father=82240
+	1023.1.1={
+		birth="1023.1.1"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+
+
+}
+
+
+82242 = {
+	name="瓦奇斯劳"
+	dynasty=9121
+	religion="slavic_pagan"
+	culture="polish"
+	father = 194083
+	830.1.1={
+		birth="830.1.1"
+	}
+	909.1.1={
+		death="909.1.1"
+	}
+
+
+}
+
+82243 = {
+	name="雷泽克"
+	dynasty=9121
+	father=82242
+	religion="slavic_pagan"
+	culture="polish"
+	870.1.1={
+		birth="871.1.1"
+	}
+	945.1.1={
+		death="945.1.1"
+	}
+
+
+}
+82244 = {
+	name="威希斯劳"
+	dynasty=9121
+	father=82243
+	religion="slavic_pagan"
+	culture="polish"
+	911.1.1={
+		birth="911.1.1"
+	}
+	969.1.1={
+		death="969.1.1"
+	}
+
+
+}
+
+82245 = {
+	name="勃古斯劳"
+	dynasty=9121
+	father=82244
+	religion="catholic"
+	culture="polish"
+	945.1.1={
+		birth="945.1.1"
+	}
+	1004.1.1={
+		death="1004.1.1"
+	}
+
+
+}
+
+82246 = {
+	name="沃洛兹米尔兹"
+	dynasty=9121
+	father=82245
+	religion="catholic"
+	culture="polish"
+	983.1.1={
+		birth="983.1.1"
+	}
+	1055.1.1={
+		death="1055.1.1"
+	}
+
+
+}
+
+82247 = {
+	name="瓦奇斯劳"
+	dynasty=9121
+	father=82246
+	religion="catholic"
+	culture="polish"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+
+
+}
+
+
+82248 = {
+	name="卓格米尔"
+	dynasty=9123
+	religion="slavic_pagan"
+	culture="polish"
+	810.1.1={
+		birth="810.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+
+
+}
+
+82249 = {
+	name="卓格维特"
+	dynasty=9123
+	father=82248
+	religion="slavic_pagan"
+	culture="polish"
+	847.1.1={
+		birth="847.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+
+
+}
+
+82250 = {
+	name="戈西米尔"
+	dynasty=9123
+	father=82248
+	religion="slavic_pagan"
+	culture="polish"
+	849.1.1={
+		birth="849.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+
+
+}
+
+82251 = {
+	name="普泽达波格"
+	dynasty=9123
+	father=82249
+	religion="slavic_pagan"
+	culture="polish"
+	910.1.1={
+		birth="910.1.1"
+	}
+	987.1.1={
+		death="987.1.1"
+	}
+
+
+}
+
+82252 = {
+	name="卓格米西"
+	dynasty=9123
+	father=82249
+	culture="polish"
+	religion="catholic"
+	921.1.1={
+		birth="921.1.1"
+	}
+	999.1.1={
+		death="999.1.1"
+	}
+
+
+}
+
+82253 = {
+	name="贝奇米尔"
+	dynasty=9123
+	father=82252
+	culture="polish"
+	religion="catholic"
+	972.1.1={
+		birth="972.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+
+
+}
+
+
+82254 = {
+	name="罗德斯劳"
+	dynasty=9123
+	father=82253
+	culture="polish"
+	religion="catholic"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1064.1.2={
+		add_spouse =82221
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+
+
+}
+
+
+82255 = {
+	name="特戈米尔"
+	dynasty=9123
+	father=82250
+	religion="slavic_pagan"
+	culture="polish"
+	900.1.1={
+		birth="900.1.1"
+	}
+	987.1.1={
+		death="920.1.1"
+	}
+
+
+}
+
+82256 = {
+	name="默德里伯格"
+	dynasty=9123
+	father=82255
+	religion="catholic"
+	culture="polish"
+	951.1.1={
+		birth="951.1.1"
+	}
+	1033.1.1={
+		death="1033.1.1"
+	}
+
+
+}
+
+
+82257 = {
+	name="鲁托斯劳"
+	dynasty=9123
+	father=82256
+	religion="catholic"
+	culture="polish"
+	1014.1.1={
+		birth="1014.1.1"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+
+
+}
+
+82258 = {
+	name="雷奇"
+	dynasty=9124
+	religion="slavic_pagan"
+	culture="polish"
+	father = 194090
+	800.1.1={
+		birth="800.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+82259 = {
+	name="雷克斯劳"
+	dynasty=9124
+	father=82258
+	religion="slavic_pagan"
+	culture="polish"
+	845.1.1={
+		birth="845.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+
+
+}
+
+82260 = {
+	name="欧斯特罗沃德"
+	dynasty=9124
+	father=82259
+	religion="slavic_pagan"
+	culture="polish"
+	905.1.1={
+		birth="905.1.1"
+	}
+	977.1.2={
+		death="977.1.2"
+	}
+
+
+}
+
+82261 = {
+	name="佩尔奇伯格"
+	dynasty=9124
+	father=82259
+	religion="catholic"
+	culture="polish"
+	950.1.1={
+		birth="950.1.1"
+	}
+	999.7.1={
+		death="999.7.1"
+	}
+
+
+}
+
+
+82262 = {
+	name="纳德波"
+	dynasty=9124
+	father=82258
+	religion="slavic_pagan"
+	culture="polish"
+	847.1.1={
+		birth="847.1.1"
+	}
+	922.1.1={
+		death="922.1.1"
+	}
+
+
+}
+
+82263 = {
+	name="沃尔拉德"
+	dynasty=9124
+	father=82262
+	religion="slavic_pagan"
+	culture="polish"
+	903.1.1={
+		birth="903.1.1"
+	}
+	977.1.2={
+		death="977.1.2"
+	}
+
+
+}
+
+82264 = {
+	name="雷德格"
+	dynasty=9124
+	father=82263
+	religion="catholic"
+	culture="polish"
+	950.1.1={
+		birth="950.1.1"
+	}
+	1033.1.1={
+		death="1033.1.1"
+	}
+
+
+}
+
+82265 = {
+	name="米奇戈涅"
+	dynasty=9124
+	father=82264
+	religion="catholic"
+	culture="polish"
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+
+
+}
+
+82273 = {
+	name="克拉库斯"
+	dynasty=9124
+	father=82258
+	religion="slavic_pagan"
+	culture="polish"
+	841.1.1={
+		birth="841.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+
+
+}
+
+
+82274 = {
+	name="万达"
+	female=yes
+	dynasty=9124
+	father=82273
+	religion="slavic_pagan"
+	culture="polish"
+	894.1.1={
+		birth="894.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+
+
+}
+
+82291 = {
+	name="斯雷萨斯劳"
+	dynasty=9127
+	religion="slavic_pagan"
+	culture="polish"
+	father = 194085
+	805.1.1={
+		birth="805.1.1"
+	}
+	842.1.2={
+		add_spouse = 82292
+	}
+	864.1.1={
+		death="864.1.1"
+	}
+}
+
+82292 = {
+	name="格涅沃萨卡"
+	female=yes
+	religion="slavic_pagan"
+	culture="polish"
+	825.1.1={
+		birth="825.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+82293 = {
+	name="伽多米尔"
+	dynasty=9127
+	father=82291
+	mother=82292
+	religion="slavic_pagan"
+	culture="polish"
+	844.1.1={
+		birth="844.1.1"
+	}
+	862.1.2={
+		add_spouse = 82296
+	}
+	912.1.1={
+		death="912.1.1"
+	}
+
+
+}
+
+82294 = {
+	name="扎米尔"
+	dynasty=9127
+	father=82291
+	mother=82292
+	religion="slavic_pagan"
+	culture="polish"
+	847.1.1={
+		birth="847.1.1"
+	}
+	914.1.1={
+		death="914.1.1"
+	}
+
+
+}
+
+82295 = {
+	name="普兹毕泽克"
+	female=yes
+	dynasty=9127
+	father=82291
+	mother=82292
+	religion="slavic_pagan"
+	culture="polish"
+	851.1.1={
+		birth="851.1.1"
+	}
+	924.1.1={
+		death="924.1.1"
+	}
+
+
+}
+
+82296 = {
+	name="斯拉沃米拉"
+	female=yes
+	religion="slavic_pagan"
+	culture="polish"
+	846.1.1={
+		birth="846.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+
+82297 = {
+	name="乌涅德罗戈"
+	dynasty=9127
+	father=82293
+	mother=82296
+	religion="slavic_pagan"
+	culture="polish"
+	863.1.1={
+		birth="863.1.1"
+	}
+	942.1.1={
+		death="942.1.1"
+	}
+
+
+}
+
+82298 = {
+	name="奇兹皮斯拉瓦"
+	female=yes
+	dynasty=9127
+	father=82293
+	mother=82296
+	religion="slavic_pagan"
+	culture="polish"
+	864.1.1={
+		birth="864.1.1"
+	}
+	943.1.1={
+		death="943.1.1"
+	}
+
+
+}
+
+82299 = {
+	name="苏里戈斯特"
+	dynasty=9127
+	father=82293
+	mother=82296
+	religion="slavic_pagan"
+	culture="polish"
+	865.1.1={
+		birth="865.1.1"
+	}
+	921.1.1={
+		death="921.1.1"
+	}
+
+
+}
+
+
+82300 = {
+	name="马洛戈斯特"
+	dynasty=9127
+	father=82299
+	religion="slavic_pagan"
+	culture="polish"
+	900.1.1={
+		birth="900.1.1"
+	}
+	965.1.1={
+		death="965.1.1"
+	}
+
+
+}
+
+82301 = {
+	name="米罗戈德"
+	dynasty=9127
+	father=82297
+	religion="slavic_pagan"
+	culture="polish"
+	912.1.1={
+		birth="912.1.1"
+	}
+	985.1.1={
+		death="985.1.1"
+	}
+
+
+}
+
+82302 = {
+	name="乌涅德罗戈"
+	dynasty=9127
+	father=82300
+	religion="catholic"
+	culture="polish"
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+
+
+}
+
+82303 = {
+	name="欧多兰"
+	dynasty=9127
+	father=82302
+	religion="catholic"
+	culture="polish"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+
+
+}
+
+82304 = {
+	name="沃拉迪斯劳"
+	dynasty=9128
+	religion="slavic_pagan"
+	culture="polish"
+	815.1.1={
+		birth="815.1.1"
+	}
+	859.1.1={
+		add_spouse = 82305
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+
+
+}
+
+82305 = {
+	name="格奇米斯拉瓦"
+	female=yes
+	dynasty=9127
+	father=82291
+	mother=82292
+	religion="slavic_pagan"
+	culture="polish"
+	843.1.1={
+		birth="843.1.1"
+	}
+	934.1.1={
+		death="934.1.1"
+	}
+
+
+}
+
+82306 = {
+	name="多比埃内瓦"
+	female=yes
+	dynasty=9128
+	father=82304
+	mother=82305
+	religion="slavic_pagan"
+	culture="polish"
+	860.1.1={
+		birth="860.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+
+
+}
+
+82307 = {
+	name="克泽斯米尔"
+	dynasty=9128
+	father=82304
+	mother=82305
+	religion="slavic_pagan"
+	culture="polish"
+	862.1.1={
+		birth="862.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+
+
+}
+
+
+82308 = {
+	name="米罗维特"
+	dynasty=9128
+	father=82304
+	mother=82305
+	religion="slavic_pagan"
+	culture="polish"
+	862.1.1={
+		birth="862.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+
+
+}
+
+82309 = {
+	name="布拉图拉德"
+	dynasty=9128
+	father=82307
+	religion="slavic_pagan"
+	culture="polish"
+	892.1.1={
+		birth="892.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+
+
+}
+
+82310 = {
+	name="伊沃斯劳"
+	dynasty=9128
+	father=82309
+	religion="slavic_pagan"
+	culture="polish"
+	929.1.1={
+		birth="929.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+
+
+}
+
+82311 = {
+	name="斯特拉切米尔"
+	dynasty=9128
+	father=82310
+	religion="catholic"
+	culture="polish"
+	971.1.1={
+		birth="971.1.1"
+	}
+	1036.1.1={
+		death="1036.1.1"
+	}
+
+
+}
+
+82312 = {
+	name="达格拉德"
+	dynasty=9128
+	father=82311
+	religion="catholic"
+	culture="polish"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+
+
+}
+
+
+82313 = {
+	name="朱特洛戈斯特"
+	dynasty=9129
+	religion="slavic_pagan"
+	culture="polish"
+	father = 194087
+	820.1.1={
+		birth = yes
+	}
+	862.1.1={
+		add_spouse = 82314
+	}
+	902.1.1={
+		death="902.1.1"
+	}
+}
+
+82314  = {
+	name="莫约米拉"
+	female=yes
+	dynasty=9127
+	father=82291
+	mother=82292
+	religion="slavic_pagan"
+	culture="polish"
+	845.1.1={
+		birth="843.1.1"
+	}
+	931.1.1={
+		death="931.1.1"
+	}
+
+
+}
+
+82315 = {
+	name="威科米尔"
+	dynasty=9129
+	father=82313
+	mother=82314
+	religion="slavic_pagan"
+	culture="polish"
+	864.1.1={
+		birth="864.1.1"
+	}
+	932.1.1={
+		death="932.1.1"
+	}
+
+
+}
+
+82316 = {
+	name="穆洛奇斯劳"
+	dynasty=9129
+	father=82313
+	mother=82314
+	religion="slavic_pagan"
+	culture="polish"
+	866.1.1={
+		birth="866.1.1"
+	}
+	942.1.1={
+		death="942.1.1"
+	}
+
+
+}
+
+82317 = {
+	name="威科米尔"
+	dynasty=9129
+	father=82316
+	religion="slavic_pagan"
+	culture="polish"
+	900.1.1={
+		birth="900.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+
+
+}
+
+
+82318 = {
+	name="伊兹比涅"
+	dynasty=9129
+	father=82317
+	religion="slavic_pagan"
+	culture="polish"
+	930.1.1={
+		birth="930.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+
+
+}
+
+
+82319 = {
+	name="贝托米尔"
+	dynasty=9129
+	father=82318
+	religion="catholic"
+	culture="polish"
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+
+
+}
+
+
+82320 = {
+	name="涅米洛涅格"
+	dynasty=9129
+	father=82319
+	religion="catholic"
+	culture="polish"
+	1001.1.1={
+		birth="1001.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+
+
+}
+
+
+82321 = {
+	name="塔托米尔"
+	dynasty=9129
+	father=82320
+	religion="catholic"
+	culture="polish"
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+
+
+}
+
+
+82322 = {
+	name="波寇"
+	dynasty=9130
+	religion="slavic_pagan"
+	culture="polish"
+	father = 194088
+	770.1.1={
+		birth="770.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+82323 = {
+	name="雷泽科"
+	father=82322
+	dynasty=9130
+	religion="slavic_pagan"
+	culture="polish"
+	790.1.1={
+		birth="790.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+
+
+}
+
+82324 = {
+	name="切斯科"
+	father=82323
+	dynasty=9130
+	religion="slavic_pagan"
+	culture="polish"
+	810.1.1={
+		birth="810.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+
+
+}
+
+82325 = {
+	name="奇兹皮波"
+	father=82323
+	dynasty=9130
+	religion="slavic_pagan"
+	culture="polish"
+	810.1.1={
+		birth="810.1.1"
+	}
+	842.1.2={
+		add_spouse = 82326
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+
+
+}
+
+82326 = {
+	name="普兹毕拉达"
+	female=yes
+	religion="slavic_pagan"
+	culture="polish"
+	825.1.1={
+		birth="825.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}
+
+82327 = {
+	name="波寇"
+	father=82325
+	mother=82326
+	dynasty=9130
+	religion="slavic_pagan"
+	culture="polish"
+	843.1.1={
+		birth="843.1.1"
+	}
+	902.1.1={
+		death="902.1.1"
+	}
+
+
+}
+
+82328 = {
+	name="达布洛卡"
+	female=yes
+	father=82325
+	mother=82326
+	dynasty=9130
+	religion="slavic_pagan"
+	culture="polish"
+	845.1.1={
+		birth="845.1.1"
+	}
+	914.1.1={
+		death="914.1.1"
+	}
+
+
+}
+
+82329 = {
+	name="雷泽科"
+	father=82325
+	mother=82326
+	dynasty=9130
+	religion="slavic_pagan"
+	culture="polish"
+	847.1.1={
+		birth="847.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+
+
+}
+
+82330 = {
+	name="切斯科"
+	father=82325
+	mother=82326
+	dynasty=9130
+	religion="slavic_pagan"
+	culture="polish"
+	849.1.1={
+		birth="849.1.1"
+	}
+	892.1.1={
+		death="892.1.1"
+	}
+
+
+}
+
+82331 = {
+	name="卓格斯劳"
+	father=82327
+	dynasty=9130
+	religion="slavic_pagan"
+	culture="polish"
+	880.1.1={
+		birth="880.1.1"
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+
+
+}
+
+82332 = {
+	name="布洛尼萨德"
+	father=82327
+	dynasty=9130
+	religion="slavic_pagan"
+	culture="polish"
+	908.1.1={
+		birth="908.1.1"
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+
+
+}
+
+82333 = {
+	name="扎尼斯劳"
+	father=82332
+	dynasty=9130
+	religion="slavic_pagan"
+	culture="polish"
+	940.1.1={
+		birth="940.1.1"
+	}
+	995.1.1={
+		death="995.1.1"
+	}
+
+
+}
+
+82334 = {
+	name="斯维托佩克"
+	father=82333
+	dynasty=9130
+	religion="catholic"
+	culture="polish"
+	990.1.1={
+		birth="990.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+
+
+}
+
+168536 = {
+	name="符拉迪沃约" #duke of Bohemia 1002-1003
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=754
+	mother=509
+	972.1.1={
+		birth=yes
+	}
+	
+	1003.1.1={
+		death=yes
+	}
+}
+
+
+
+
+
+
+168538 = {
+	name="米耶兹克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=754
+	mother=168525
+	979.1.1={
+		birth=yes
+	}
+	
+	999.1.1={
+		death=yes
+	}
+}
+
+
+
+168539 = {
+	name="斯维托波克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=754
+	mother=168525
+	980.1.1={
+		birth=yes
+	}
+	
+	992.5.25={
+		death=yes
+	}
+}
+
+
+
+
+168540 = {
+	name="兰伯特"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=754
+	mother=168525
+	981.1.1={
+		birth=yes
+	}
+	
+	992.5.25={
+		death=yes
+	}
+}
+
+
+
+168541 = {
+	name="迪特里克"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=168538
+	995.1.1={
+		birth=yes
+	}
+	
+	1032.7.7={
+		death=yes
+	}
+}
+
+170096 = {
+	name="布雷斯劳"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221520
+	mother=221521
+	1168.1.2={
+		birth="1168.1.2"
+	}
+	1182.4.16={
+		death="1182.4.16"
+	}
+}
+
+170103 = {
+	name="玛蒂尔达"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221515
+	mother=222781
+	1108.1.1={
+		birth="1108.1.1"
+	}
+	1148.1.1={
+		death="1148.1.1"
+	}
+}
+
+170108 = {
+	name="兹毕涅"
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	trait="bastard"
+	father=764
+	1073.1.2={
+		birth="1073.1.2"
+	}
+	1102.6.4={
+		add_claim = k_poland
+		employer = 8504
+	}
+	1107.5.1={
+		employer = 96011
+	}
+	1109.9.21={
+		employer = 212861
+	}
+	1112.1.2={
+		death="1112.1.2"
+	}
+}
+
+171010 = {
+	name="科西斯科"
+	religion="slavic_pagan"
+	culture="polish"
+	795.1.2={
+		birth="795.1.2"
+	}
+	860.1.2={
+		death="860.1.2"
+	}
+}
+
+170030 = {
+	name="安娜"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471732
+	mother=471733
+	1284.1.1={
+		birth="1284.1.1"
+	}
+	1343.10.2={
+		death="1343.10.2"
+	}
+}
+
+170031 = {
+	name="伊丽莎白"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471732
+	mother=471733
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1357.11.1={
+		death="1357.11.1"
+	}
+}
+
+170032 = {
+	name="海伦娜"
+	female = yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=471732
+	mother=471733
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+170033 = {
+	name="安娜"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father = 125990
+	mother=125313
+	1285.1.1={
+		birth="1287.1.1"
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+
+170034 = {
+	name="马洛戈扎塔"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125931
+	mother=125999
+	1313.1.1={
+		birth="1313.1.1"
+	}
+	1379.3.8={
+		death="1379.3.8"
+	}
+}
+
+170029 = {
+	name="阿伦塔"
+	female=yes
+	dynasty=175
+	religion="catholic"
+	culture="polish"
+	father=30453
+	mother=30470
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+
+170097 = {
+	name="阿格内斯"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221537
+	mother=212943
+	1192.1.2={
+		birth="1192.1.2"
+	}
+	1214.4.9={
+		death="1214.4.9"
+	}
+}
+
+170098 = {
+	name="格特鲁德"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=221537
+	mother=212943
+	1200.1.2={
+		birth="1200.1.2"
+	}
+	1268.12.30={
+		death="1268.12.30"
+	}
+}
+
+170102 = {
+	name="里可萨"
+	female=yes
+	dynasty=699
+	religion="catholic"
+	culture="polish"
+	father=125973
+	mother=222823
+	1159.1.2={
+		birth="1159.1.2"
+	}
+	1178.1.2={
+		death="1178.1.2"
+	}
+}
+194079 = {
+	name = "德别斯拉夫"
+	dynasty = 9120
+	religion = slavic_pagan
+	culture = polish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194080 = {
+	name = "波皮耶"
+	dynasty = 9120
+	religion = slavic_pagan
+	culture = polish
+	father = 194079
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194081 = {
+	name = "塞德泽"
+	dynasty = 9121
+	religion = slavic_pagan
+	culture = polish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194082 = {
+	name = "森吉米尔"
+	dynasty = 9121
+	religion = slavic_pagan
+	culture = polish
+	father = 194081
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194083 = {
+	name = "维斯拉夫"
+	dynasty = 9121
+	religion = slavic_pagan
+	culture = polish
+	father = 194082
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194084 = {
+	name = "维托斯"
+	dynasty = 9127
+	religion = slavic_pagan
+	culture = polish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194085 = {
+	name = "维托斯"
+	dynasty = 9127
+	religion = slavic_pagan
+	culture = polish
+	father = 194084
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194086 = {
+	name = "萨莫博"
+	dynasty = 9129
+	religion = slavic_pagan
+	culture = polish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194087 = {
+	name = "维里斯拉夫"
+	dynasty = 9129
+	religion = slavic_pagan
+	culture = polish
+	father = 194086
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194088 = {
+	name = "米拉扎斯"
+	dynasty = 9130
+	religion = slavic_pagan
+	culture = polish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194089 = {
+	name = "塞莫维特"
+	dynasty = 9124
+	religion = slavic_pagan
+	culture = polish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194090 = {
+	name = "纳德博"
+	dynasty = 9124
+	religion = slavic_pagan
+	culture = polish
+	father = 194089
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194091 = {
+	name = "维托斯"
+	dynasty = 9122
+	religion = slavic_pagan
+	culture = polish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194092 = {
+	name = "伊姆兰"
+	dynasty = 9122
+	religion = slavic_pagan
+	culture = polish
+	father = 194091
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194093 = {
+	name = "克兹博尔"
+	dynasty = 9122
+	religion = slavic_pagan
+	culture = polish
+	father = 194092
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,7362 @@
+242 = {
+	name="罗洛" # Hrolf Gange - founder of Normandy
+	dynasty=752
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	learning=5
+	religion=norse_pagan
+	culture=norse
+	trait=lustful
+	trait=proud
+	trait=strong
+	trait=brave
+	trait=brilliant_strategist
+	846.6.6={
+		birth=yes
+	}
+	866.1.1={
+		trait=viking
+	}
+	867.1.1={
+		employer=186004
+	}
+	886.1.1={
+		add_spouse=241
+	}
+	911.1.1={
+		religion=catholic
+	}
+	930.1.1={
+		trait=lunatic
+		religion=norse_pagan
+	}
+	932.1.1={
+		death=yes
+	}
+}
+
+600 = {
+	name="英格瓦尔" # AKA Igor
+	dynasty=705
+	religion=norse_pagan
+	culture=norse
+	father=40605
+	mother=6863
+	875.1.1={
+		birth=yes
+	}
+	920.1.1={
+		add_spouse=601
+	}
+	945.1.1={
+		death=yes
+	}
+}
+
+5789 = {
+	name="西特里克 克茨"
+	# AKA: 西特里克 克茨
+	dynasty=20084
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	father=168500
+	884.1.1={
+		birth=yes
+	}
+	927.1.1={
+		death=yes
+	}
+}
+
+5790 = {
+
+
+	name="奥拉夫 夸兰"
+	# AKA: Olaf Cuaran
+	dynasty=20084
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	father=5789
+	926.1.2={
+		birth=yes
+	}
+	953.1.1={
+		add_spouse=131520
+	}
+	969.1.1={
+		add_spouse=166102
+	}
+	981.1.2={
+		death=yes
+	}
+}
+
+5791 = {
+	name="哈拉尔"
+	# AKA: Harald Olafsson
+	dynasty=556
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	father=5790
+	950.1.2={
+		birth=yes
+	}
+	999.1.2={
+		death=yes
+	}
+}
+
+5792 = {
+
+
+	name="伊瓦尔"
+	# AKA: 伊瓦尔 'Gamle'
+	dynasty=556
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	father=5791
+	986.1.2={
+		birth=yes
+	}
+	1054.1.2={
+		death=yes
+	}
+}
+
+5793 = {
+	name="哈拉尔"
+	# AKA: Harald 'Dubh'
+	dynasty=556
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	father=5792
+	1026.1.2={
+		birth="1026.1.2"
+	}
+	1060.1.2={
+		death="1060.1.2"
+	}
+}
+
+5994 = {
+
+
+	name="希格德尔"
+	dynasty=461
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	father=161315
+	mother=166039
+	965.1.1={
+		birth="965.1.1"
+	}
+	1008.1.1={
+		add_spouse=5995
+	}
+	1014.4.23={
+		death="1014.4.23"
+	}
+}
+
+6800 = {
+
+
+	name="赫法斯"
+	dynasty=534
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="amateurish_plotter"
+	father=168645
+	mother=168646
+	921.1.1={
+		birth=yes
+	}
+	979.1.1={
+		death=yes
+	}
+}
+
+6827 = {
+
+
+	name="埃伊尔"
+	dynasty=828
+	religion="norse_pagan"
+	culture="norse"
+	trait = content
+	838.1.1={
+		birth=yes
+	}
+	885.1.1={
+		death=yes
+	}
+}
+
+6837 = {
+	name="伊瓦尔"
+	dynasty=830
+	religion="norse_pagan"
+	culture="norse"
+	838.1.1={
+		birth=yes
+	}
+	885.1.1={
+		death=yes
+	}
+}
+
+6838 = {
+
+
+	name="古德蒙"
+	dynasty=831
+	religion="norse_pagan"
+	culture="norse"
+	835.1.1={
+		birth=yes
+	}
+	888.1.1={
+		death=yes
+	}
+}
+
+6840 = {
+
+
+	name="索尔维"
+	dynasty=832
+	religion="norse_pagan"
+	culture="norse"
+	830.1.1={
+		birth=yes
+	}
+	888.1.1={
+		death=yes
+	}
+}
+
+6841 = {
+
+
+	name="霍尔姆高"
+	dynasty=833
+	religion="norse_pagan"
+	culture="norse"
+	838.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+6842 = {
+	name="弗里雷克"
+	dynasty=834
+	religion="norse_pagan"
+	culture="norse"
+	837.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+6843 = {
+	name="阿尔尼"
+	dynasty=835
+	religion="norse_pagan"
+	culture="norse"
+	845.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+6844 = {
+	name="达格"
+	dynasty=836
+	religion="norse_pagan"
+	culture="norse"
+	846.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+6845 = {
+
+
+	name="斯温"
+	dynasty=838
+	religion="norse_pagan"
+	culture="norse"
+	843.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+6846 = {
+
+
+	name="阿克"
+	dynasty=839
+	religion="norse_pagan"
+	culture=norse
+	840.1.1={
+		birth=yes
+	}
+	897.1.1={
+		death=yes
+	}
+}
+
+6862 = {
+
+
+	name="罗格希尔德"
+	female=yes
+	religion="norse_pagan"
+	culture=norse
+	850.1.1={
+		birth=yes
+	}
+	910.1.1={
+		death=yes
+	}
+}
+
+6863 = {
+
+
+	name="英亚德尔"
+	dynasty=502 # af Muns?
+	female=yes
+	religion="norse_pagan"
+	culture=norse
+	father=163108
+	mother=6839
+	850.1.1={
+		birth=yes
+	}
+	915.1.1={
+		death=yes
+	}
+}
+
+6864 = {
+
+
+	name="亚斯拉琪"
+	dynasty=20084 # af 伊瓦尔
+	female=yes
+	religion="norse_pagan"
+	culture=norse
+	father=163111
+	849.1.1={
+		birth=yes
+	}
+	915.1.1={
+		death=yes
+	}
+}
+
+6865 = {
+	name="弗里雷克"
+	dynasty=818 # Jute
+	religion="norse_pagan"
+	culture=norse
+	father=163113
+	855.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+6866 = {
+	name="埃里克" # Harik II of Denmark
+	dynasty=818 # Jute
+	religion="norse_pagan"
+	culture=norse
+	810.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+6867 = {
+
+
+	name="埃琳"
+	dynasty=818 # Jute
+	female=yes
+	religion="norse_pagan"
+	culture=norse
+	father=6866
+	844.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+6871 = {
+	name="哈夫丹"
+	dynasty=7516
+	religion=norse_pagan
+	culture=norse
+	father=6811
+	mother=6872
+	864.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+6872 = {
+	name="希芙"
+	female=yes
+	religion=norse_pagan
+	culture=norse
+	847.1.1={
+		birth=yes
+	}
+	893.1.1={
+		death=yes
+	}
+}
+
+6873 = {
+	name="阿尔芙里德"
+	female=yes
+	religion=norse_pagan
+	culture=norse
+	850.1.1={
+		birth=yes
+	}
+	893.1.1={
+		death=yes
+	}
+}
+
+6874 = {
+	name="英格芙里德"
+	female=yes
+	religion=norse_pagan
+	culture=norse
+	848.1.1={
+		birth=yes
+	}
+	889.1.1={
+		death=yes
+	}
+}
+
+6878 = {
+	name="赫斯泰因"
+	dynasty=1059
+	religion=norse_pagan
+	culture=norse
+	diplomacy=9
+	martial=9
+	stewardship=5
+	intrigue=7
+	learning=4
+	trait=gregarious
+	trait=ambitious
+	trait=quick
+	trait=greedy
+	trait=viking
+	trait=brilliant_strategist
+	823.1.1={
+		birth=yes
+	}
+	865.1.1={
+		prestige = 1000 # Rich and prestigious from raiding
+		wealth = 500 
+		effect = {
+			spawn_unit = {
+				province = 106 # Nantes
+				owner = ROOT
+				leader = ROOT
+				troops = {
+					light_infantry = { 217 217 }
+					heavy_infantry = { 168 168 }
+					pikemen = { 26 26 }
+					archers = { 100 100 }
+					light_cavalry = { 61 61 }
+				}
+				attrition = 1.0
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 29
+				attributes = {
+					martial = 5
+				}
+				trait = tough_soldier
+			}
+			new_character = {
+				spawn_unit = {
+					province = 106 # Nantes
+					owner = PREV
+					troops = {
+						light_infantry = { 217 217 }
+						heavy_infantry = { 168 168 }
+						pikemen = { 26 26 }
+						archers = { 100 100 }
+						light_cavalry = { 61 61 }
+					}
+					attrition = 1.0
+				}
+			}
+			create_character = {
+				random_traits = yes
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 25
+				attributes = {
+					martial = 5
+				}
+				trait = tough_soldier
+			}
+			new_character = {
+				spawn_unit = {
+					province = 106 # Nantes
+					owner = PREV
+					troops = {
+						light_infantry = { 217 217 }
+						heavy_infantry = { 168 168 }
+						pikemen = { 26 26 }
+						archers = { 100 100 }
+						light_cavalry = { 61 61 }
+					}
+					attrition = 1.0
+				}
+			}
+			spawn_fleet = {
+				province = closest # closest sea zone
+				owner = ROOT
+				cannot_inherit = yes # disbands on inheritance
+				troops =
+				{
+					galleys = { 40 40 }
+				}
+			}
+		}
+	}
+	866.1.1={
+		add_spouse=6879
+	}
+	896.1.1={
+		death=yes
+	}
+}
+
+6879 = {
+	name="维格迪丝"
+	female=yes
+	religion=norse_pagan
+	culture=norse
+	849.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+6880 = {
+
+
+	name="朗纳尔"
+	dynasty=1059
+	religion=norse_pagan
+	culture=norse
+	father=6878
+	mother=6879
+	867.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+40605 = {
+	name="留里克" # 留里克, legendary founder of Rus. Probably known as 留里克 by his Norse contemporaries.
+	dynasty=705
+	religion="norse_pagan"
+	culture=norse
+	diplomacy = 12
+	martial = 8
+	stewardship = 8
+	intrigue = 6
+	learning = 3
+	trait=gregarious
+	trait=ambitious
+	trait=just
+	trait=quick
+	trait=brilliant_strategist
+	trait=brave
+	830.1.1={
+		birth=yes
+	}
+	866.1.1={
+		add_spouse = 6863
+		wealth = 1000
+		effect = {
+			spawn_unit = {
+				province = 414
+				owner = ROOT
+				leader = ROOT
+				troops = {
+					light_infantry = { 507 507 }
+					heavy_infantry = { 50 50 }
+					archers = { 119 119 }
+				}
+				attrition = 1.0
+			}
+			spawn_fleet = {
+				province = closest # closest sea zone
+				owner = ROOT
+				cannot_inherit = yes # disbands on inheritance
+				troops =
+				{
+					galleys = { 40 40 }
+				}
+			}
+		}
+	}
+	879.1.2={
+		death=yes
+	}
+}
+
+40606 = {
+
+
+	name="赫尔吉"
+	dynasty=705
+	religion=slavic_pagan
+	culture=norse
+	father=40605 # "kinsman of 留里克"
+	diplomacy=9
+	martial=9
+	trait=quick
+	trait=legit_bastard
+	trait=proud
+	trait=skilled_tactician
+	850.1.1={
+		birth=yes
+	}
+	912.1.1={
+		death=yes
+	}
+}
+
+41234 = {
+	name="西格弗里德" #count of Guines
+	dynasty=102
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="tough_soldier"
+	father=168342
+	920.1.1={
+		birth="920.1.1"
+	}
+	960.1.1={
+		add_spouse=161344
+	}
+	965.1.1={
+		death="965.1.1"
+	}
+}
+
+41256 = {
+	name="安斯弗雷德"
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="tough_soldier"
+	963.1.1={
+		birth="963.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+
+41257 = {
+	name="里库夫" # AKA Rikiwulf, plundered Flandres in 880 AD
+	dynasty = 821 # Ylfing/Wulfing
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="norse_pagan"
+	culture=norse
+	trait=content
+	trait=tough_soldier
+	father = 194052
+	845.1.1={
+		birth="845.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+41258 = {
+
+	name="赫拉恩"
+	dynasty = 822 # Gautske
+	martial=5
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="norse_pagan"
+	culture=norse
+	trait="tough_soldier"
+	father = 194049
+	840.1.1={
+		birth="840.1.1"
+	}
+	866.1.1={
+		add_spouse = 6874
+	}
+	875.1.1={
+		death="875.1.1" # Killed in battle by Harald Fairhair
+	}
+}
+
+41259 = {
+
+
+	name="托尔芬"
+	dynasty = 823 # V鋝e
+	religion="norse_pagan"
+	culture=norse
+	840.1.1={
+		birth="840.1.1"
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+
+41266 = {
+
+
+	name="瓦格恩"
+	dynasty = 824 # Njudunge
+	religion="norse_pagan"
+	culture=norse
+	847.1.1={
+		birth="847.1.1"
+	}
+	867.1.1={
+		add_spouse = 6873
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+
+41267 = {
+
+
+	name="施泰因"
+	dynasty = 825 # Gute
+	religion="norse_pagan"
+	culture=norse
+	father = 194048
+	841.1.1={
+		birth="841.1.1"
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+
+83365 = {
+	name="伊瓦尔"
+	dynasty=9214
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	946.1.1={
+		birth="946.1.1"
+	}
+	1000.7.1={
+		death="1000.7.1"
+	}
+}
+
+83366 = {
+
+
+	name="西格特吕格"
+	dynasty=9214
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	father = 83365
+	975.1.1={
+		birth="975.1.1"
+	}
+	1020.1.1 = {
+		add_spouse=83369
+	}
+	1022.7.1={
+		death="1022.7.1"
+	}
+}
+
+83367 = {
+
+
+	name="朗瓦尔德"
+	dynasty=9214
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	father = 83365
+	977.1.1={
+		birth="977.1.1"
+	}
+	1035.7.1={
+		death="1035.7.1"
+	}
+}
+
+100500 = {
+	name="埃里克" # According to most sources son of "Anund Uppsale", but we've cut both him and his father "Erik", son of 比约恩 Ironside
+	dynasty=502
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="norse_pagan"
+	culture=norse
+	trait="patient"
+	trait="humble"
+	trait="cynical"
+	trait="skilled_tactician"
+	father = 163108 # 比约恩 Ironside
+	mother = 6839
+	840.1.1={
+		birth=yes
+	}
+	
+	# King of Sweden from 868.1.1
+	
+	882.1.1={
+		death=yes
+	}
+}
+
+100501 = {
+	name="比约恩" # Eriksson
+	dynasty=502
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="norse_pagan"
+	culture=norse
+	trait="honest"
+	trait="zealous"
+	trait="lisp"
+	trait="fortune_builder"
+	father=100500
+	860.1.1={
+		birth="860.1.1"
+	}
+	
+	# King of Sweden from 882
+	
+	932.1.1={
+		death="932.1.1"
+	}
+}
+
+100502 = {
+	name="奥拉夫"
+	dynasty=502
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	religion="norse_pagan"
+	culture=norse
+	trait="skilled_tactician"
+	father=100501
+	920.1.1={
+		birth="920.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+100503 = {
+
+
+	name="斯蒂尔比约恩" # Starke
+	# AKA: 斯蒂尔比约恩
+	dynasty=502
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="norse_pagan"
+	culture=norse
+	trait="diligent"
+	trait="wroth"
+	trait="brave"
+	trait="strong"
+	trait="tough_soldier"
+	give_nickname = nick_the_strong
+	father=100502
+	955.1.1={
+		birth="955.1.1"
+	}
+	974.1.1={
+		add_spouse=101506
+	}
+	988.1.1={
+		death="988.1.1"
+	}
+}
+
+100504 = {
+	name="埃里克" # Segers鋖l
+	dynasty=502
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="norse_pagan"
+	culture=norse
+	trait="diligent"
+	trait="brilliant_strategist"
+	father=100501
+	925.1.1={
+		birth="925.1.1"
+	}
+	975.1.1={
+		give_nickname = nick_the_victorious
+	}
+	995.1.1={
+		death="995.1.1"
+	}
+}
+
+100505 = {
+
+
+	name="霍尔姆弗里德"
+	female=yes
+	dynasty=502
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="proud"
+	trait="flamboyant_schemer"
+	father=100504
+	mother=100519
+	972.1.2={
+		birth="972.1.2"
+	}
+	1010.1.8={
+		death="1010.1.8"
+	}
+}
+
+100506 = {
+	name="奥拉夫" # "Sk鰐konung" 
+	dynasty=502
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norse"
+	trait="underhanded_rogue"
+	father=100504
+	mother=100519
+	980.1.2={
+		birth="980.1.2"
+	}
+	1000.1.2={
+		add_spouse=2801 # 爱斯特丽 of the Obotrites
+	}
+	1022.1.7={
+		death="1022.1.7"
+	}
+}
+
+100508 = {
+
+
+	name="阿农德" # Anund Jakob "Kolbr鋘na"
+	# AKA: Anund Jakob
+	dynasty=502
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norse"
+	trait="diligent"
+	trait="wroth"
+	trait="just"
+	trait="charismatic_negotiator"
+	father=100506
+	mother=2801
+	1008.7.25={
+		birth="1008.7.25"
+	}
+	1028.1.2={
+		add_spouse=102516 # 贡hild Sveinsdatter
+	}
+	1050.6.16={
+		death="1050.6.16"
+	}
+}
+
+100509 = {
+
+
+	name="埃蒙德" # "Den Gamle" "Emund Slemme"
+	dynasty=502
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="norse_pagan"
+	culture="norse"
+	trait="wroth"
+	trait="cynical"
+	trait="legit_bastard"
+	trait="flamboyant_schemer"
+	father=100506
+	mother=100507
+	1005.1.13={
+		birth="1005.1.13"
+	}
+	1040.1.2={
+		add_spouse=100510 # 阿斯特丽 Njalsdotter
+	}
+	1060.8.2={
+		give_nickname=nick_the_old
+		death="1060.8.2"
+	}
+}
+100510 = {
+
+
+	name="阿斯特丽"
+	female=yes
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="underhanded_rogue"
+	1000.1.2={
+		birth="1000.1.2"
+	}
+	1058.1.7={
+		death="1058.1.7"
+	}
+}
+
+100511 = {
+
+
+	name="英亚德尔"
+	female = yes
+	dynasty=502
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture=norse
+	trait="just"
+	trait="kind"
+	trait="humble"
+	trait="zealous"
+	trait="elusive_shadow"
+	father=100506
+	mother=2801
+	1001.1.2={
+		birth="1001.1.2"
+	}
+	1050.1.2={
+		death="1050.1.2"
+	}
+}
+
+100512 = {
+
+
+	name="阿斯特丽"
+	female = yes
+	dynasty=502
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norse"
+	trait="kind"
+	trait="legit_bastard"
+	trait="fortune_builder"
+	father=100506
+	mother=100507
+	1007.1.2={
+		birth="1007.1.2"
+	}
+	1035.1.2={
+		death="1035.1.2"
+	}
+}
+
+100513 = {
+
+
+	name="于达"
+	female = yes
+	dynasty=502
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	trait="scholarly_theologian"
+	father=100508
+	mother=102516
+	1021.1.2={
+		birth="1021.1.2"
+	}
+	1060.1.6={
+		death="1060.1.6"
+	}
+}
+
+100515 = {
+	name="阿农德" # Probably died with "Ingvar Vittfarne" (possibly his brother) 
+	dynasty=502
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="norse_pagan"
+	culture=norse
+	trait="diligent"
+	trait="honest"
+	trait="kind"
+	trait="skilled_tactician"
+	trait="legit_bastard"
+    father=100509
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1049.1.9={
+		death="1049.1.9"
+	}
+}
+
+100517 = {
+
+
+	name="托斯特"
+	dynasty=500
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="norse_pagan"
+	culture=norse
+	trait="charismatic_negotiator"
+	927.1.2={
+		birth="927.1.2"
+	}
+	970.1.2={
+		death="970.1.2"
+	}
+}
+
+100518 = {
+
+
+	name="乌尔夫"
+	dynasty=500
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="norse_pagan"
+	culture=norse
+	trait="cynical"
+	trait="underhanded_rogue"
+	father=100517
+	949.1.2={
+		birth="949.1.2"
+	}
+	1000.1.8={
+		death="1000.1.8"
+	}
+}
+
+100519 = {
+
+
+	name="希格丽德"
+	female = yes
+	dynasty=500
+	martial=4
+	diplomacy=7
+	intrigue=9
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="diligent"
+	trait="wroth"
+	trait="elusive_shadow"
+	father=100517
+	955.1.2={
+		birth="955.1.2"
+	}
+	1012.1.6={
+		death="1012.1.6"
+	}
+}
+
+100521 = {
+
+
+	name="朗瓦尔德"
+	dynasty=500
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="norse_pagan"
+	culture=norse
+	trait="chaste"
+	trait="underhanded_rogue"
+	father=100518
+	970.1.2={
+		birth="970.1.2"
+	}
+    1000.1.1={
+        add_spouse = 102545 # Ingeborg
+    }
+	1020.1.1 = {
+		add_spouse = 100510
+	}
+	1028.1.12={
+		death="1028.1.12"
+	}
+}
+
+100532 = {
+
+
+	name="利凯尔"
+	dynasty=495
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="martial_cleric"
+	980.1.1={
+		birth="980.1.1"
+	}
+	1001.1.1={
+		add_spouse=100543
+	}
+	1030.1.1={
+		death="1030.1.1"
+	}
+}
+
+100533 = {
+
+
+	name="蒙凯尔"
+	dynasty=495
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="chaste"
+	trait="martial_cleric"
+	father=100532
+	mother=100543
+	1013.1.1={
+		birth="1013.1.1"
+	}
+	1040.1.1 = {
+		add_spouse = 100541
+	}
+	1063.1.1={
+		death="1063.1.1"
+	}
+}
+
+100534 = {
+
+
+	name="罗蒂奥德"
+	female=yes
+	dynasty=495
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="lustful"
+	trait="kind"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	father=100532
+	mother=100543
+	1007.1.1={
+		birth="1007.1.1"
+	}
+	1057.1.1={
+		death="1057.1.1"
+	}
+}
+
+100539 = {
+
+
+	name="博泰尔"
+	dynasty=494
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="kind"
+	trait="tough_soldier"
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1026.1.1={
+		add_spouse=100534
+	}
+	1055.1.1={
+		death="1055.1.1"
+	}
+}
+
+100543 = {
+
+
+	name="西格提若"
+	female=yes
+	dynasty=492
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="greedy"
+	trait="kind"
+	trait="humble"
+	trait="fortune_builder"
+	982.1.1={
+		birth="982.1.1"
+	}
+	1031.1.18={
+		death="1031.1.18"
+	}
+}
+
+101500 = {
+	name="高姆" # the Old
+	dynasty=490
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="norse_pagan"
+	culture=norse
+	trait="wroth"
+	trait="zealous"	
+	trait="skilled_tactician"
+	father=101549 # Hardeknud
+	877.1.1={
+		birth="877.1.1"
+	}
+	899.1.1={
+		add_spouse=101501
+	}
+	932.1.1={
+		give_nickname=nick_the_old
+	}
+	958.12.1={
+		death="958.12.1"
+	}
+}
+
+101501 = {
+	name="赛拉" #Dannebod
+	female = yes
+	dynasty=9552
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="norse_pagan"
+	culture=norse
+	trait="charismatic_negotiator"
+	father=168634
+	874.1.1={
+		birth="874.1.1"
+	}
+	935.1.8={
+		death="935.1.8"
+	}
+}
+
+101502 = {
+	name="哈拉尔" # Bl錿and
+	dynasty=490
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="norse_pagan"
+	culture=norse
+	trait="just"
+	trait="cynical"
+	trait="fortune_builder"
+	father=101500 # 高姆 the Old
+	mother=101501 # 赛拉 Dannebod
+	give_nickname=nick_bluetooth
+	920.1.1={
+		birth="920.1.1"
+	}
+	965.1.1={
+		religion="catholic"
+		add_spouse=101552 # Tove
+	}
+	979.1.1={
+		add_spouse=101503 # Gyrid Olavsdottir
+	}
+	986.11.1={
+		death="986.11.1"
+	}
+}
+
+101505 = {
+	name="斯温" # Tvesk鎔
+	dynasty=490
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="ambitious"
+	trait="skilled_tactician"
+	father=101502 # Harald Bl錿and
+	960.1.1={
+		birth="960.1.1"
+	}
+	986.11.1={
+		trait="kinslayer"
+	}
+	987.1.1={
+		add_spouse=755 #Swietoslawa 贡hild
+	}
+	997.1.1={
+		remove_spouse=755 #Swietoslawa 贡hild
+	}
+	997.1.2={
+		add_spouse=100519 #希格丽德 Storr錮e
+	}
+	1014.2.3={
+		death="1014.2.3"
+	}
+}
+
+101506 = {
+
+
+	name="泰拉"
+	female = yes
+	dynasty=490
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	trait="greedy"
+	trait="clubfooted"
+	trait="flamboyant_schemer"
+	father=101502 #Harald Bl錿and
+	950.1.1={
+		birth="950.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+101507 = {
+	name="哈拉尔"
+	dynasty=490
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="humble"
+	trait="content"
+	trait="thrifty_clerk"
+	father=101505 # Svend Tvesk鎔
+	mother=755 # Swietoslawa 贡hild
+	989.1.1={
+		birth="989.1.1"
+	}
+	1018.1.1={
+		death="1018.1.1"
+	}
+}
+
+101508 = {
+
+
+	name="于达"
+	female=yes
+	dynasty=490
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="flamboyant_schemer"
+	trait="legit_bastard"
+	father=101505 # Svend Tvesk鎔
+	978.1.1={
+		birth="978.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+101509 = {
+
+
+	name="爱斯特丽"
+	female=yes
+	dynasty=490
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="amateurish_plotter"
+	father=101505 #Svend Tvesk鎔
+	mother=100519 # 希格丽德 Storr錮e
+	997.1.2={
+		birth="997.1.2"
+	}
+	1057.1.1={
+		death="1057.1.1"
+	}
+}
+
+101510 = {
+	name="克努特" # The Great
+	dynasty=490
+	martial=9
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="envious"
+	trait="brilliant_strategist"
+	father=101505 # Svend Tvesk鎔
+	mother=755 # Swietoslawa 贡hild
+	995.1.1={
+		birth="995.1.1"
+	}
+	1013.12.24={
+		add_spouse=135 #苐dgyth
+	}
+	1017.1.1={
+		remove_spouse=135 #苐dgyth
+	}
+	1017.1.2={
+		add_spouse=259 # Emma of Normandy
+	}
+	1030.1.1 = {
+		give_nickname=nick_the_great
+	}
+	1035.11.12={
+		death="1035.11.12"
+	}
+}
+
+101511 = {
+	name="克努特" # III - Hardeknud
+	# AKA: Hardeknud
+	dynasty=490
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="wroth"
+	trait="greedy"
+	trait="underhanded_rogue"
+	father=101510 # 克努特 the Great
+	mother=259 # Emma of Normandy
+	1018.1.1={
+		birth="1018.1.1"
+		give_nickname=nick_hardeknud
+	}
+	1042.6.8={
+		death="1042.6.8"
+	}
+}
+
+101513 = {
+	name="哈拉尔"
+	dynasty=490
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="flamboyant_schemer"
+	trait="hunter"
+	father=101510 #克努特 The Great
+	mother=135 #苐dgyth
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1040.3.17={
+		death="1040.3.17"
+	}
+}
+
+101514 = {
+
+
+	name="斯温"
+	dynasty=490
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="amateurish_plotter"
+	father=101510 #克努特 The Great
+	mother=135 #苐dgyth
+	1016.1.1={
+		birth="1016.1.1"
+	}
+	1035.1.29={
+		death="1035.1.29"
+	}
+}
+
+101533 = {
+	name="索吉尔" #Sprakalegg
+	dynasty=502
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="tough_soldier"
+	father=100503 # 斯蒂尔比约恩
+	mother=101506 # 赛拉
+	975.1.2={
+		birth="975.1.2"
+	}
+	998.1.26={
+		death="998.1.26"
+	}
+}
+
+101535 = {
+
+
+	name="乌尔夫"
+	dynasty=502
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="patient"
+	trait="ambitious"
+	trait="flamboyant_schemer"
+	father=101533 # 索吉尔 Sprakalegg
+	998.1.11={
+		birth="998.1.11"
+	}
+	1015.1.1={
+		add_spouse=101509 #爱斯特丽
+	}
+	1026.12.25={
+		death="1026.12.25"
+	}
+}
+
+101538 = {
+
+
+	name="托克"
+	dynasty=482
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="brave"
+	trait="thrifty_clerk"
+	975.1.2={
+		birth="975.1.2"
+	}
+	1047.1.4={
+		death="1047.1.4"
+	}
+}
+
+101541 = {
+
+
+	name="乌尔夫"
+	dynasty=1025000
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="honest"
+	trait="underhanded_rogue"
+	990.1.1={
+		birth="990.1.1"
+	}
+	1032.1.1={
+		add_spouse=102519 # 博迪尔
+	}
+	1062.1.1={
+		death="1062.1.1"
+	}
+}
+
+101543 = {
+
+
+	name="瓦格恩"
+	dynasty=100304
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="wroth"
+	trait="scholarly_theologian"
+	985.1.2={
+		birth="985.1.2"
+	}
+	1025.1.2={
+		add_spouse=101544
+	}
+	1050.1.31={
+		death="1050.1.31"
+	}
+}
+
+101544 = {
+
+
+	name="英吉比约格"
+	# AKA: Ingebjorg
+	female = yes
+	dynasty=479
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	trait="just"
+	trait="scholarly_theologian"
+	1000.1.2={
+		birth="1000.1.2"
+	}
+	1058.1.2={
+		death="1058.1.2"
+	}
+}
+
+101549 = {
+
+
+	name="克努特" 
+	dynasty=490
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="norse_pagan"
+	culture=norse
+	trait="brave"
+	trait="skilled_tactician"
+	father = 163110
+	mother = 6861
+	857.1.1={
+		birth="857.1.1"
+	}
+	934.1.1={
+		death="934.1.1"
+	}
+}
+
+102500 = {
+
+
+	name="西古德" # "Syr"
+	dynasty=499
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	trait="lustful"
+	trait="envious"
+	trait="flamboyant_schemer"
+	father = 144008
+	955.1.1={
+		birth="955.1.1"
+	}
+	995.1.2={
+		add_spouse = 102501
+	}
+	1018.1.8={
+		death="1018.1.8"
+	}
+}
+
+102501 = {
+
+
+	name="阿斯塔"
+	female = yes
+	dynasty=476
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="lustful"
+	trait="charitable"
+	trait="flamboyant_schemer"
+	970.1.2={
+		birth="970.1.2"
+	}
+	1020.1.2={
+		death="1020.1.2"
+	}
+}
+
+102502 = {
+	name="哈夫丹"
+	dynasty=499
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="patient"
+	trait="thrifty_clerk"
+	father=102500
+	mother=102501
+	985.1.2={
+		birth="985.1.2"
+	}
+	1034.1.2={
+		death="1034.1.2"
+	}
+}
+
+102503 = {
+
+
+	name="托比约"
+	female = yes
+	dynasty=499
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	trait="envious"
+	trait="scholarly_theologian"
+	father=102502
+	1002.1.2={
+		birth="1002.1.2"
+	}
+	1060.1.2={
+		death="1060.1.2"
+	}
+}
+
+102504 = {
+
+
+	name="芬恩"
+	dynasty=475
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="just"
+	trait="humble"
+	trait="scholarly_theologian"
+	father=102548
+	mother=102549
+	999.1.2={
+		birth="999.1.2"
+	}
+	1020.1.2= {
+		add_spouse = 102503
+	}
+	1062.1.1={
+		death="1062.1.1"
+	}
+}
+
+102505 = {
+	name="英吉比约格"
+	# AKA: Ingebjorg
+	female = yes
+	dynasty=475
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="proud"
+	trait="fortune_builder"
+	father=102504
+	mother=102503
+	1027.1.2={
+		birth="1027.1.2"
+	}
+	1069.1.2={
+		death="1069.1.2"
+	}
+}
+
+102507 = {
+	name="埃里克"
+	dynasty=499
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="lustful"
+	trait="diligent"
+	trait="deceitful"
+	trait="envious"
+	trait="kinslayer"
+	trait="skilled_tactician"
+	father = 144000
+	mother = 6862
+	895.1.1={
+		birth="895.1.1"
+	}
+	934.1.1={
+		add_spouse=101504
+	}
+	954.1.1={
+		death="954.1.1"
+	}
+}
+
+102508 = {
+	name="哈拉尔"
+	dynasty=499
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="wroth"
+	trait="deceitful"
+	trait="envious"
+	trait="proud"
+	trait="craven"
+	trait="tough_soldier"
+	father=102507
+	mother=101504
+	935.1.2={
+		birth="935.1.2"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+
+102509 = {
+
+
+	name="贝尔特拉达"
+	female = yes
+	dynasty=499
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="scholarly_theologian"
+	father=102508
+	970.1.23={
+		birth="970.1.23"
+	}
+	1035.1.2={
+		death="1035.1.2"
+	}
+}
+
+102510 = {
+
+
+	name="哈康"
+	dynasty=471
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="skilled_tactician"
+	937.1.2={
+		birth="937.1.2"
+	}
+	995.1.11={
+		death="995.1.11"
+	}
+}
+
+102511 = {
+
+
+	name="托拉"
+	female = yes
+	dynasty=470
+	martial=4
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="slothful"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	936.1.2={
+		birth="936.1.2"
+	}
+	1000.1.2={
+		death="1000.1.2"
+	}
+}
+
+102512 = {
+
+
+	name="贝格约特"
+	female = yes
+	dynasty=471
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="wroth"
+	trait="cynical"
+	trait="martial_cleric"
+	father=102510
+	mother=102511
+	990.1.2={
+		birth="990.1.2"
+	}
+	1050.1.13={
+		death="1050.1.13"
+	}
+}
+
+102513 = {
+
+
+	name="罗格希尔德"
+	female = yes
+	dynasty=471
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="amateurish_plotter"
+	father=102510
+	mother=102511
+	983.1.2={
+		birth="983.1.2"
+	}
+	1050.1.6={
+		death="1050.1.6"
+	}
+}
+
+102514 = {
+
+
+	name="斯温"
+	dynasty=471
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norse"
+	trait="kind"
+	trait="amateurish_plotter"
+	father=102510
+	mother=102511
+	970.1.2={
+		birth="970.1.2"
+	}
+	990.1.2={
+		add_spouse=100505 # 霍尔姆弗里德 Eriksdotter
+	}
+	1015.1.2={
+		death="1015.1.2"
+	}
+}
+
+102515 = {
+
+
+	name="希格丽德"
+	female = yes
+	dynasty=471
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="proud"
+	trait="brave"
+	trait="underhanded_rogue"
+	father=102514
+	mother=100505
+	995.1.2={
+		birth="995.1.2"
+	}
+	1052.1.10={
+		death="1052.1.10"
+	}
+}
+
+102516 = {
+
+
+	name="贡希尔妲"
+	female=yes
+	dynasty=471
+	martial=5
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="kind"
+	trait="amateurish_plotter"
+	father=102514
+	mother=100505
+	1000.1.2={
+		birth="1000.1.2"
+	}
+	1054.1.2={
+		death="1054.1.2"
+	}
+}
+
+102517 = {
+	name="埃里克"
+	dynasty=471
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="bastard"
+	trait="patient"
+	trait="proud"
+	trait="flamboyant_schemer"
+	father=102510
+	mother=102511
+	963.1.1={
+		birth="963.1.1"
+	}
+	996.1.1={
+		add_spouse=101508
+	}
+	1024.1.1={
+		death="1024.1.1"
+	}
+}
+
+102518 = {
+
+
+	name="哈康"
+	dynasty=471
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="craven"
+	trait="harelip"
+	trait="scholarly_theologian"
+	father=102517
+	mother=101508
+	997.1.1={
+		birth="997.1.1"
+	}
+	1015.1.1={
+		add_spouse=102520
+	}
+	1030.7.29={
+		death="1030.7.29"
+	}
+}
+
+102519 = {
+
+
+	name="博迪尔"
+	female = yes
+	dynasty=471
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="diligent"
+	trait="martial_cleric"
+	father=102518
+	mother=102520
+	1016.1.1={
+		birth="1016.1.1"
+	}
+	1066.1.1={
+		death="1066.1.1"
+	}
+}
+
+102521 = {
+
+
+	name="斯卡格"
+	dynasty=100273
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="amateurish_plotter"
+	965.1.2={
+		birth="965.1.2"
+	}
+	999.1.1={
+		add_spouse=102513
+	}
+	1015.1.2={
+		death="1015.1.2"
+	}
+}
+
+102522 = {
+	name="伊瓦尔"
+	dynasty=100273
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="patient"
+	trait="martial_cleric"
+	father=102521
+	mother=102513
+	1000.1.2={
+		birth="1000.1.2"
+	}
+	1027.1.2={
+		death="1027.1.2"
+	}
+}
+
+
+102526 = {
+	name="哈拉尔"
+	dynasty=499
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="lisp"
+	trait="martial_cleric"
+	father = 144006
+	955.1.2={
+		birth="955.1.2"
+	}
+	985.1.2={
+		add_spouse=102501
+	}
+	995.1.9={
+		death="995.1.9"
+	}
+}
+
+102527 = {
+	name="奥拉夫" # den helige
+	dynasty=499
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	trait="zealous"
+	trait="tough_soldier"
+	father=102526
+	mother=102501
+	995.1.4 = {
+		birth="995.1.4"
+	}
+	1024.1.1 = {
+		add_spouse = 100512
+	}
+	1030.7.29 = {
+		death="1030.7.29"
+	}
+}
+
+102529 = {
+	name="玛格努斯" # den Gode
+	dynasty=499
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="temperate"
+	trait="brave"
+	trait="underhanded_rogue"
+	father=102527 # Olaf den Helige
+	1024.1.1={
+		birth="1024.1.1"
+	}
+	1047.10.25={
+		death="1047.10.25"
+	}
+}
+
+102537 = {
+
+
+	name="托尔芬"
+	dynasty=461
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="temperate"
+	trait="underhanded_rogue"
+	father=5994
+	mother=5995
+	1009.1.1={
+		birth="1009.1.1"
+	}
+	1040.1.1={
+		add_spouse = 102505
+	}
+	1064.1.1={
+		death="1064.1.1"
+	}
+}
+
+102541 = {
+
+
+	name="阿斯特丽"
+	female = yes
+	dynasty=459
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="chaste"
+	trait="kind"
+	trait="flamboyant_schemer"
+	928.1.2={
+		birth="928.1.2"
+	}
+	980.1.2={
+		death="980.1.2"
+	}
+}
+
+102544 = {
+
+
+	name="阿斯特丽"
+	female = yes
+	dynasty=499
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="martial_cleric"
+	father=144003
+	mother=102541
+	961.1.2={
+		birth="961.1.2"
+	}
+	1020.1.2={
+		death="1020.1.2"
+	}
+}
+
+102545 = {
+
+
+	name="英吉比约格"
+	female = yes
+	dynasty=499
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="charismatic_negotiator"
+	father=144003
+	mother=102541
+	962.1.2={
+		birth="962.1.2"
+	}
+	1018.1.25={
+		death="1018.1.25"
+	}
+}
+
+102546 = {
+
+
+	name="艾利夫"
+	dynasty=455
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="tough_soldier"
+	991.1.2={
+		birth="991.1.2"
+	}
+	1017.1.2={
+		add_spouse = 102513
+	}
+	1041.1.2={
+		death="1041.1.2"
+	}
+}
+
+102543 = {
+
+
+	name="艾利夫"
+	dynasty=500
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="norse_pagan"
+	culture=norse
+	trait="brave"
+	trait="tough_soldier"
+	father=100521
+	mother=102545
+	1002.1.2={
+		birth="1002.1.2"
+	}
+	1052.10.4={
+		death="1052.10.4"
+	}
+}
+
+102548 = {
+
+
+	name="阿尔内"
+	dynasty=453
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="wroth"
+	trait="underhanded_rogue"
+	963.1.2={
+		birth="963.1.2"
+	}
+	980.1.2={
+		add_spouse=102549
+	}
+	1024.1.2={
+		death="1024.1.2"
+	}
+}
+
+102549 = {
+
+
+	name="托拉"
+	female = yes
+	dynasty=452
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	trait="just"
+	trait="stutter"
+	trait="flamboyant_schemer"
+	950.1.2={
+		birth="950.1.2"
+	}
+	1016.1.26={
+		death="1016.1.26"
+	}
+}
+
+102550 = {
+
+
+	name="托尔贝里"
+	dynasty=453
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture=norse
+	trait="clubfooted"
+	trait="tough_soldier"
+	father=102548
+	mother=102549
+	965.1.2={
+		birth="965.1.2"
+	}
+	1007.1.2={
+		add_spouse = 102566
+	}
+	1028.1.22={
+		death="1028.1.22"
+	}
+}
+
+102552 = {
+
+
+	name="奥格蒙"
+	dynasty=453
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="flamboyant_schemer"
+	father=102550
+	mother=102566
+	1020.1.2={
+		birth="1020.1.2"
+	}
+	1050.1.2={
+		death="1050.1.2"
+	}
+}
+
+102554 = {
+
+
+	name="埃纳尔"
+	dynasty=451
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="chaste"
+	trait="proud"
+	trait="cynical"
+	trait="hunter"
+	trait="tough_soldier"
+        father=183900 #爱德里 av Gimse
+	980.1.1={
+		birth="980.1.1"
+	}
+	997.1.2={
+		add_spouse=102512
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+102555 = {
+
+
+	name="阿洛夫"
+	female = yes
+	dynasty=451
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="arbitrary"
+	trait="underhanded_rogue"
+	father=102554
+	mother=102512
+	1007.1.1={
+		birth="1007.1.1"
+	}
+	1029.1.27 = {
+		death="1029.1.27"
+	}
+}
+
+102556 = {
+
+
+	name="托尔d"
+	dynasty=448
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="temperate"
+	trait="fortune_builder"
+	1000.1.2={
+		birth="1000.1.1"
+	}
+	1020.1.2={
+		add_spouse = 102555
+	}
+	1030.1.2={
+		death="1030.1.1"
+	}
+}
+
+102559 = {
+
+
+	name="兰韦赫"
+	female = yes
+	dynasty=447
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="honest"
+	trait="patient"
+	trait="clubfooted"
+	trait="charismatic_negotiator"
+	973.1.2={
+		birth="973.1.2"
+	}
+	1027.1.2={
+		death="1027.1.2"
+	}
+}
+
+102560 = {
+	name="赫尔吉"
+	dynasty=447
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="honest"
+	trait="brave"
+	trait="flamboyant_schemer"
+	mother=102559
+	993.1.2={
+		birth="993.1.2"
+	}
+	1045.1.8={
+		death="1045.1.8"
+	}
+}
+
+102561 = {
+
+
+	name="托尔d"
+	dynasty=447
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="patient"
+	trait="greedy"
+	trait="honest"
+	trait="amateurish_plotter"
+	mother=102559
+	999.1.2={
+		birth="999.1.2"
+	}
+	1054.1.14={
+		death="1054.1.14"
+	}
+}
+
+102565 = {
+
+
+	name="埃尔林"
+	dynasty=446
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture=norse
+	trait="scholarly_theologian"
+	965.1.2={
+		birth="965.1.2"
+	}
+	976.1.2={
+		add_spouse = 102544
+	}
+	1028.1.22={
+		death="1028.1.22"
+	}
+}
+
+102566 = {
+
+
+	name="罗格希尔德"
+	female = yes
+	dynasty=446
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture=norse
+	trait="arbitrary"
+	trait="fortune_builder"
+	father=102565
+	mother=102544
+	990.1.2={
+		birth="990.1.2"
+	}
+	1040.1.2={
+		death="1040.1.2"
+	}
+}
+
+102567 = {
+
+
+	name="阿斯拉克"
+	dynasty=446
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="honest"
+	trait="underhanded_rogue"
+	father=102565
+	mother=102544
+	992.1.2={
+		birth="992.1.2"
+	}
+	1011.1.2={
+		add_spouse = 102515
+	}
+	1034.1.1={
+		death="1034.1.1"
+	}
+}
+
+102572 = {
+
+
+	name="哈夫格伦"
+	dynasty=445
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="ill"
+	trait="tough_soldier"
+	950.1.2={
+		birth="950.1.2"
+	}
+	1010.1.2={
+		death="1010.1.2"
+	}
+}
+
+102573 = {
+
+
+	name="奥索"
+	# AKA: Ossur
+	dynasty=445
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="diligent"
+	trait="skilled_tactician"
+	father=102572
+	985.1.2={
+		birth="985.1.2"
+	}
+	1018.1.2={
+		death="1018.1.2"
+	}
+}
+
+144000 = {
+
+
+	name="哈拉尔" # "Fairhair"
+	dynasty=499
+	dna="bhjaavafacj"
+	properties="0b00d0"
+	religion="norse_pagan"
+	culture=norse
+	give_nickname = nick_fairhair
+	martial = 7
+	stewardship=6
+	diplomacy = 7
+	intrigue = 5
+	learning = 5
+	trait=quick
+	trait=patient
+	trait=brave
+	trait=ambitious
+	trait=hunter
+	trait="skilled_tactician"
+	father=168323
+	mother=168649
+	850.1.1={
+		birth="850.1.1"
+	}
+	867.1.1= {
+		add_spouse = 6862
+		
+		prestige = 400
+		
+		effect = {
+			spawn_unit = {
+				province = 272 # Akershus
+				owner = ROOT
+				leader = ROOT
+
+
+
+
+				troops = {
+					light_infantry = { 115 115 }
+					heavy_infantry = { 6 6 }
+					archers = { 34 34 }
+				}
+				attrition = 1.0
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 29
+				attributes = {
+					martial = 5
+				}
+				trait = tough_soldier
+			}
+			new_character = {
+				spawn_unit = {
+					province = 272 # Akershus
+					owner = PREV
+					troops = {
+						light_infantry = { 115 115 }
+						heavy_infantry = { 6 6 }
+						archers = { 34 34 }
+					}
+					attrition = 1.0
+				}
+			}
+			create_character = {
+				random_traits = yes
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 25
+				attributes = {
+					martial = 5
+				}
+				trait = tough_soldier
+			}
+			new_character = {
+				spawn_unit = {
+					province = 272 # Akershus
+					owner = PREV
+
+
+
+
+					troops = {
+						light_infantry = { 115 115 }
+						heavy_infantry = { 6 6 }
+						archers = { 34 34 }
+					}
+					attrition = 1.0
+				}
+			}
+		}
+	}
+	872.1.1= {
+		add_spouse = 166044
+	}
+	893.1.1= {
+		add_spouse = 161305
+	}
+	
+	933.1.1={
+		death="933.1.1"
+	}
+}
+
+144001 = {
+
+
+	name="哈康"
+	dynasty=499
+	religion="catholic"
+	culture=norse	
+	father = 144000
+	920.1.1={
+		birth="920.1.1"
+	}
+	961.1.1={
+		death="961.1.1"
+	}
+}
+
+144002 = {
+	name="奥拉夫"
+	dynasty=499
+	religion="catholic"
+	culture=norse	
+	father = 144000
+	mother = 161305
+	897.1.1={
+		birth="897.1.1"
+	}
+	934.1.1={
+		death="934.1.1"
+	}
+}
+
+144003 = {
+
+
+	name="特吕格弗"
+	dynasty=499
+	religion="catholic"
+	culture=norse	
+	father = 144002
+	925.1.1={
+		birth="925.1.1"
+	}
+	960.1.1={
+		add_spouse=102541
+	}
+	963.1.1={
+		death="963.1.1"
+	}
+}
+
+144004 = {
+
+
+	name="奥拉夫"
+	dynasty=499
+	religion="catholic"
+	culture=norse	
+	father = 144003
+	mother = 102541
+	962.12.31={
+		birth="962.12.31"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+144005 = {
+
+
+	name="比约恩"
+	dynasty=499
+	religion="catholic"
+	culture=norse	
+	father = 144000
+	mother = 161305
+	894.1.1={
+		birth="894.1.1"
+	}
+	927.1.1={
+		death="927.1.1"
+	}
+}
+
+144006 = {
+
+
+	name="古德鲁尔"
+	dynasty=499
+	religion="catholic"
+	culture=norse	
+	father = 144005
+	907.1.1={
+		birth="907.1.1"
+	}
+	968.1.1={
+		death="968.1.1"
+	}
+}
+
+144007 = {
+
+
+	name="希格德尔"
+	dynasty=499
+	religion="catholic"
+	culture=norse	
+	father = 144000
+	895.1.1={
+		birth="895.1.1"
+	}
+	929.1.1={
+		death="929.1.1"
+	}
+}
+
+144008 = {
+	name="哈夫丹"
+	dynasty=499
+	religion="catholic"
+	culture=norse	
+	father = 144007
+	920.1.1={
+		birth="920.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+
+161301 = {
+
+
+	name="厄斯泰因"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	830.1.1={
+		birth="830.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+161302 = {
+
+
+	name="朗瓦尔德"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161301
+	850.1.1={
+		birth="850.1.1"
+	}
+	894.1.1={
+		death="894.1.1"
+	}
+}
+
+161303 = {
+
+
+	name="希格德尔"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161301
+	852.1.1={
+		birth="852.1.1"
+	}
+	892.1.1={
+		death="892.1.1"
+	}
+}
+
+161304 = {
+
+
+	name="古托姆"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161303
+	870.1.1={
+		birth="870.1.1"
+	}
+	893.1.1={
+		death="893.1.1"
+	}
+}
+
+
+161305 = {
+
+
+	name="斯万希尔"
+	female=yes
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161301
+	870.1.1={
+		birth="870.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+
+161306 = {
+
+
+	name="哈拉德"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	trait="bastard"
+	father=161302
+	870.1.1={
+		birth="870.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+
+161307 = {
+
+
+	name="罗洛朗"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	trait="bastard"
+	father=161302
+	870.1.1={
+		birth="870.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+161308 = {
+
+
+	name="埃纳尔"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	trait="bastard"
+	father=161302
+	890.1.1={
+		birth="890.1.1"
+	}
+	946.1.1={
+		death="946.1.1"
+	}
+}
+
+161309 = {
+
+
+	name="阿恩凯尔"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161308
+	910.1.1={
+		birth="910.1.1"
+	}
+	954.1.1={
+		death="954.1.1"
+	}
+}
+
+161310 = {
+
+
+	name="厄伦德"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161308
+	911.1.1={
+		birth="911.1.1"
+	}
+	954.1.1={
+		death="954.1.1"
+	}
+}
+
+161311 = {
+
+
+	name="托尔芬"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161308
+	912.1.1={
+		birth="912.1.1"
+	}
+	977.1.1={
+		death="977.1.1"
+	}
+}
+
+161312 = {
+
+
+	name="阿恩芬"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161311
+	930.1.1={
+		birth="930.1.1"
+	}
+	988.1.1= {
+		add_spouse = 161320
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+161313 = {
+
+
+	name="哈瓦德"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161311
+	931.1.1={
+		birth="931.1.1"
+	}
+	990.1.1= {
+		add_spouse = 161320
+	}
+	991.1.1={
+		death="991.1.1"
+	}
+}
+
+161314 = {
+
+
+	name="里约特"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161311
+	932.1.1={
+		birth="932.1.1"
+	}
+	991.1.1= {
+		add_spouse = 161320
+	}
+	992.1.1={
+		death="992.1.1"
+	}
+}
+
+161315 = {
+
+
+	name="赫洛德维"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161311
+	933.1.1={
+		birth="933.1.1"
+	}
+	960.1.1= {
+		add_spouse = 166039
+	}
+	993.1.1={
+		death="993.1.1"
+	}
+}
+
+161316 = {
+
+
+	name="苏马利"
+	dynasty=461
+	religion="catholic"
+	culture=norse
+	father=5994
+	985.1.1={
+		birth="985.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+161317 = {
+
+
+	name="布鲁西"
+	dynasty=461
+	religion="catholic"
+	culture=norse
+	father=5994
+	986.1.1={
+		birth="986.1.1"
+	}
+	1030.1.1={
+		death="1030.1.1"
+	}
+}
+
+161318 = {
+
+
+	name="埃纳尔"
+	dynasty=461
+	religion="catholic"
+	culture=norse
+	father=5994
+	988.1.1={
+		birth="988.1.1"
+	}
+	1025.1.1={
+		death="1025.1.1"
+	}
+}
+
+161319 = {
+
+
+	name="朗瓦尔德"
+	dynasty=461
+	religion="catholic"
+	culture=norse
+	father=161317
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1046.12.1={
+		death="1046.12.1"
+	}
+}
+
+161320 = {
+
+
+	name="罗格希尔德"
+	female=yes
+	dynasty=499
+	religion="catholic"
+	culture=norse
+	father=102507
+	mother=101504
+	937.1.1={
+		birth="937.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+
+161321 = {
+
+
+	name="琼"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161307
+	890.1.1={
+		birth="890.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+161322 = {
+
+
+	name="托雷"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161321
+	910.1.1={
+		birth="910.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+161323 = {
+
+
+	name="哈尔"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161322
+	930.1.1={
+		birth="930.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+161324 = {
+
+
+	name="托迪斯"
+	dynasty=461
+	religion="norse_pagan"
+	culture=norse
+	father=161323
+	950.1.1={
+		birth="950.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+161325 = {
+
+
+	name="乌斯帕克"
+	dynasty=461
+	religion="catholic"
+	culture=norse
+	father=161324
+	970.1.1={
+		birth="970.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+161326 = {
+
+
+	name="苏马利"
+	dynasty=461
+	religion="catholic"
+	culture=norse
+	father=161325
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+163106 = {
+
+
+	name="阿农德"
+	dynasty=502
+	religion="norse_pagan"
+	culture=norse
+	father=100500
+	881.1.1={
+		birth="881.1.1"
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+
+163107 = {
+	name="埃里克"
+	dynasty=502
+	religion="norse_pagan"
+	culture=norse
+	father=163106
+	920.1.1={
+		birth="920.1.1"
+	}
+	970.1.1={
+		death="950.1.1"
+	}
+}
+
+163108 = {
+	name="比约恩" # 比约恩 Ironside
+	dynasty=502
+	religion="norse_pagan"
+	culture=norse
+	martial = 7
+	stewardship=5
+	diplomacy = 8
+	intrigue = 3
+	learning = 3
+	trait=brave
+	trait=temperate
+	trait=hunter
+	trait="charismatic_negotiator"
+	trait=viking
+	father = 163109
+	mother = 6836
+	
+	821.1.1={
+		birth=yes
+	}
+	838.1.1={
+		add_spouse=6839
+	}
+	848.1.1={
+		give_nickname = nick_the_ironside
+		prestige = 400
+	}
+	
+#	866.11.2={
+#		raise_levies = {
+#			location=57 # York
+#			force_mult=1.0
+#		}
+#	}
+	
+	868.1.1={
+		death=yes
+	}
+}
+
+6839 = {
+
+	name="伊利安娜"
+	female=yes
+	religion="norse_pagan"
+	culture="norse"
+	trait=fortune_builder
+	822.1.1={
+		birth=yes
+	}
+	888.1.1={
+		death=yes
+	}
+}
+
+163109 = {
+	name="朗纳尔" # Lodbrok
+	dynasty=502
+	father = 194004 # 西格urd Ring
+	mother = 194056 # Alfhild of Alfheim
+	religion="norse_pagan"
+	culture="norse"
+	martial=9
+	stewardship=7
+	diplomacy=5
+	intrigue=5
+	learning=3
+
+	766.6.6 = {
+		birth = yes
+		effect = { set_character_flag = is_ragnar_lodbrok }
+	}
+	800.1.1 = {
+		add_trait=wroth
+		add_trait=hunter
+		add_trait=strong
+		add_trait=brave
+		add_trait=viking
+		add_trait=skilled_tactician
+	}
+	818.1.1={
+		add_spouse=6836
+		give_nickname = nick_lodbrok
+	}
+
+
+	860.1.1={
+		death = {
+			death_reason = death_execution
+			killer = 163103 # Aella of Northumberland
+		}
+	}
+}
+
+6836 = {
+	name="亚斯拉琪" # Aka Kraka or Randalin
+	female=yes
+	religion="norse_pagan"
+	culture="norse"
+	diplomacy = 7
+	martial = 7
+	stewardship = 7
+	intrigue = 5
+	learning = 7
+	trait=fair
+	trait=quick
+	trait=zealous
+	trait=temperate
+	trait=mystic
+	trait=midas_touched
+	802.1.1={
+		birth=yes
+	}
+	875.1.1={
+		death=yes
+	}
+}
+
+163110 = {
+	name="希格德尔" # Snake-in-the-eye
+	dynasty=490
+	religion="norse_pagan"
+	culture=norse
+	
+	martial=6
+	stewardship=8
+	diplomacy=8
+	intrigue=5
+	learning=3
+	trait=diligent
+	trait=hunter
+	trait=gregarious
+	trait=viking
+	trait=zealous
+	trait=fortune_builder
+	
+	father = 163109
+	mother = 6836
+	give_nickname = nick_snake_in_the_eye
+	
+	840.1.1={
+
+
+		birth=yes
+	}
+	
+	856.1.1 = {
+		add_spouse = 6861
+	}
+	
+#	866.11.2={
+#		raise_levies = {
+#			location=57 # York
+#			force_mult=1.0
+#		}
+#	}
+	
+	917.1.1={
+
+
+		death=yes
+	}
+}
+
+163111 = {
+	name=伊瓦尔 # The Boneless
+	dynasty=20084
+	religion=norse_pagan
+	culture=norse
+	martial=8
+	stewardship=8
+	diplomacy=7
+	intrigue=5
+	learning=3
+	trait=ambitious
+	trait=hunter
+	trait=strong
+	trait=brave
+	trait=viking
+	trait=skilled_tactician
+	father = 163109
+	mother = 6836
+	
+	818.2.7={
+		birth=yes
+	}
+	838.1.1={
+		give_nickname = nick_the_boneless
+	}
+	
+	866.11.2={
+		wealth = 500
+		
+		raise_levies = {
+			location=57 # York
+			force_mult=2.0
+		}
+		
+		effect = {
+			spawn_unit = {
+				province = 57 # York
+				owner = ROOT
+				leader = ROOT
+
+
+
+
+				troops = {
+					light_infantry = { 1292 1292 }
+					heavy_infantry = { 245 245 }
+					archers = { 426 426 }
+				}
+				attrition = 0.5
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 30
+				attributes = {
+					martial = 5
+				}
+				trait = tough_soldier
+			}
+			new_character = {
+				spawn_unit = {
+					province = 57 # York
+					owner = PREV
+
+
+
+
+					troops = {
+						light_infantry = { 1292 1292 }
+						heavy_infantry = { 245 245 }
+						archers = { 426 426 }
+					}
+					attrition = 0.5
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = 826
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 25
+				attributes = {
+					martial = 5
+				}
+				trait = tough_soldier
+			}
+			new_character = {
+				spawn_unit = {
+					province = 57 # York
+					owner = PREV
+
+
+
+
+					troops = {
+						light_infantry = { 1292 1292 }
+						heavy_infantry = { 245 245 }
+						archers = { 426 426 }
+					}
+					attrition = 0.5
+				}
+			}
+			add_character_modifier = { 
+				name = launched_prepared_invasion
+				hidden = yes
+				days = -1 
+			}
+		}
+	}
+	
+	873.1.6={
+		death=yes
+	}
+}
+
+40608 = {
+
+
+	name="西格特吕格"
+	dynasty=20084
+	religion="norse_pagan"
+	culture=norse
+	father = 163111
+	838.1.1={
+		birth=yes
+	}
+	896.1.1={
+		death=yes
+	}
+}
+
+40609 = {
+
+
+	name="西格福罗特"
+	dynasty=20084
+	religion="norse_pagan"
+	culture=norse
+	father = 163111
+	842.1.1={
+		birth=yes
+	}
+	888.1.1={
+		death=yes
+	}
+}
+
+6814 = {
+
+
+	name="巴里德"
+	dynasty=20084
+	religion="norse_pagan"
+	culture=norse
+	father = 163111
+	844.1.1={
+		birth=yes
+	}
+	881.1.1={
+		death=yes
+	}
+}
+
+163112 = {
+	name="哈夫丹" # 朗诺arsson 'Hvitserk'
+	dynasty=7514
+	religion="norse_pagan"
+	culture=norse
+	martial=7
+	stewardship=6
+	diplomacy=4
+	intrigue=5
+	learning=3
+	trait=ambitious
+	trait=hunter
+	trait=wroth
+	trait=cruel
+	trait=viking
+	trait=skilled_tactician
+	father = 163109
+	mother = 6836
+	give_nickname = nick_whiteshirt
+	825.1.1={
+		birth=yes
+	}
+	866.11.2={
+		wealth = 500
+		
+		raise_levies = {
+			location=57 # York
+			force_mult=2.0
+		}
+		
+		effect = {
+			spawn_unit = {
+				province = 57 # York
+				owner = ROOT
+				leader = ROOT
+				troops = {
+					light_infantry = { 1118 1118 }
+					heavy_infantry = { 1723 1723 }
+					pikemen = { 199 199 }
+					archers = { 325 325 }
+					light_cavalry = { 503 503 }
+				}
+				attrition = 0.5
+			}
+			c_163119 = { # 乌贝
+				spawn_unit = {
+					province = 57 # York
+					owner = PREV
+					troops = {
+						light_infantry = { 1118 1118 }
+						heavy_infantry = { 1723 1723 }
+						pikemen = { 199 199 }
+						archers = { 325 325 }
+						light_cavalry = { 503 503 }
+					}
+					attrition = 0.5
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = 826
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 5
+				}
+				trait = tough_soldier
+			}
+			new_character = {
+				spawn_unit = {
+					province = 57 # York
+					owner = PREV
+					troops = {
+						light_infantry = { 1118 1118 }
+						heavy_infantry = { 1723 1723 }
+						pikemen = { 199 199 }
+						archers = { 325 325 }
+						light_cavalry = { 503 503 }
+					}
+					attrition = 0.5
+					disband_on_peace = yes
+				}
+			}
+			add_character_modifier = { 
+				name = launched_prepared_invasion
+				hidden = yes
+				days = -1 
+			}
+		}
+	}
+	875.1.1={
+		death=yes
+	}
+}
+
+40607 = {
+	name="朗纳尔" # Fictional son of 哈夫丹 Hvitserk's
+	dynasty=7514
+	religion="norse_pagan"
+	culture=norse
+	father = 163112
+	trait=legit_bastard
+	trait=tough_soldier
+	845.1.1={
+		birth=yes
+	}
+	864.1.1={
+		add_spouse=6867
+	}
+	893.1.1={
+		death=yes
+	}
+}
+
+163119 = {
+	name="乌比" # 朗诺arsson
+	dynasty=7515
+	religion="norse_pagan"
+	culture=norse
+	martial=6
+	stewardship=4
+	diplomacy=5
+	intrigue=4
+	learning=2
+	trait=hunter
+	trait=brave
+	trait=viking
+	trait=tough_soldier
+	father = 163109
+	
+	827.1.1={
+		birth=yes
+	}
+	866.11.1={
+		employer = 163112
+	}
+	878.6.6={ 
+		death=yes # Battle of Cynwit
+	}
+}
+
+6811 = {
+	name="德连" # Ruler of Kiev
+	dynasty=7516
+	religion="norse_pagan"
+	culture=norse
+	martial=9
+	diplomacy=9
+	stewardship=6
+	trait=ambitious
+	trait=cynical
+	trait=greedy
+	trait=gregarious
+	trait=grey_eminence
+	trait=brave
+	trait=heavy_infantry_leader
+	trait=genius
+#	trait=bastard
+#	father = 163112
+	give_nickname = nick_the_stranger # Oskyldr -> Askold
+	845.1.1={
+		birth=yes
+	}
+	863.1.1={
+		add_spouse=6872
+	}
+	867.1.1={
+		wealth = 500
+		effect = {
+			spawn_unit = {
+				province = 547
+				owner = ROOT
+				leader = ROOT
+
+
+
+
+				troops = {
+					light_infantry = { 722 722 }
+					heavy_infantry = { 156 156 }
+					archers = { 200 200 }
+				}
+				attrition = 1.0
+			}
+			spawn_fleet = {
+				province = closest # closest sea zone
+				owner = ROOT
+				cannot_inherit = yes # disbands on inheritance
+				troops =
+				{
+					galleys = { 30 30 }
+				}
+			}
+		}
+	}
+	882.1.1={
+		death=yes
+	}
+}
+
+167649 = {
+
+
+	name="英格丽德"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture=norse
+	1010.1.1 = {
+		birth="1010.1.1"
+	}
+	1060.1.1 = {
+		death="1060.1.1"
+	}
+}
+
+
+101512 = {
+
+
+	name="贡希尔妲"
+	female=yes
+	dynasty=490
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture=norse
+	trait="patient"
+	trait="temperate"
+	trait="flamboyant_schemer"
+	father=101510
+	mother=259
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1038.7.18={
+		death="1038.7.18"
+	}
+}
+
+101504 = {
+
+
+	name="贡希尔妲"
+	female = yes
+	dynasty=490
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="norse_pagan"
+	culture=norse
+	trait="humble"
+	trait="martial_cleric"
+	father=101500 #高姆
+	mother=101501 #赛拉
+	910.1.1={
+		birth="910.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+161425 = {
+
+
+	name="比约恩"
+	dynasty=502
+	religion="catholic"
+	culture=norse
+	father=101535 # Ulf Torgilsson
+	mother=101509 # 爱斯特丽
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1049.1.1={
+		death="1049.1.1"
+	}
+}
+
+163113 = {
+
+
+	name="巴格塞格" 
+	dynasty=818
+	religion="norse_pagan"
+	culture=norse
+	martial=7
+	stewardship=4
+	diplomacy=4
+	intrigue=4
+	learning=3
+	trait=wroth
+	trait=hunter
+	trait=proud
+	trait=honest
+	trait=skilled_tactician
+	father = 6866
+	830.1.1={ 
+		birth="830.1.1" 
+	}
+	866.1.1={ 
+		add_spouse = 6864 # A daughter of 伊瓦尔 the Boneless
+	}
+	880.1.1={ 
+		death="880.1.1"
+	}
+}
+
+166332 = {
+
+
+	name="比亚德尼"
+	dynasty=1040003
+	religion="norse_pagan"
+	culture=norse
+	807.1.1={
+		birth="807.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+166040 = {
+	name="艾温德" #Austmann
+	dynasty=1040003
+	religion="norse_pagan"
+	culture=norse
+	father=166332
+	830.1.1={
+		birth="830.1.1"
+	}
+	847.1.1= {
+		add_spouse = 166035
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+166331 = {
+
+
+	name="赫尔吉"
+	dynasty=1040003
+	religion="catholic"
+	culture=norse
+	father=166040
+	mother=166035
+	848.1.1={
+		birth="848.1.1"
+	}
+	908.5.20={
+		death="908.5.20"
+	}
+}
+
+166041 = {
+	name="特里德" # Wife of 托尔斯泰因 the Red and mother of Olaf Feilan
+	female=yes
+	dynasty=1040003
+	religion="catholic"
+	culture=norse
+	father=166040
+	mother=166035
+	849.1.1={
+		birth="849.1.1"
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+
+166330 = {
+	name="比约居" # Wife of 趌fr Hagnason
+	female=yes
+	dynasty=1040003
+	religion="catholic"
+	culture=norse
+	father=166040
+	mother=166035
+	850.1.1={
+		birth="850.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+
+166042 = {
+
+
+	name="斯因比约恩"
+	dynasty=1040003
+	religion="catholic"
+	culture=norse
+	father=166040
+	mother=166035
+	852.1.1={
+		birth="852.1.1"
+	}
+	916.1.1={
+		death="916.1.1"
+	}
+}
+
+166043 = {
+	name="托居希尔" # Wife of Fr骴i Haraldsson, son of Harald Fairhair (144000)
+	dynasty=1040003
+	religion="catholic"
+	culture=norse
+	father=166040
+	mother=166035
+	880.1.1={
+		birth="880.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+166329 = {
+	name="埃里克" #Eirik of Hordaland
+	dynasty=1040004
+	religion="norse_pagan"
+	culture=norse
+	819.1.1={
+		birth="819.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+166044 = {
+	name="于达" #于达 Eiriksdottir
+	female=yes
+	dynasty=1040004
+	religion="norse_pagan"
+	culture="norwegian"
+	father=166329
+	854.1.1={
+		birth="854.1.1"
+	}
+	935.1.1={
+		death="935.1.1"
+	}
+}
+
+166045 = {
+	name="弗罗迪" #Fr骴i Haraldsson
+	female = yes
+	dynasty=499
+	religion="norse_pagan"
+	culture=norse
+	father=144000
+	mother=166044
+	891.1.1={
+		birth="891.1.1"
+	}
+	907.1.1= {
+		add_spouse = 166043
+	}
+	938.1.1={
+		death="938.1.1"
+	}
+}
+
+166046 = {
+
+
+	name="杜法塔"
+	dynasty=1040005
+	religion="catholic"
+	culture=norse
+	father=166034
+	937.1.1={
+		birth="937.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+
+166047 = {
+
+
+	name="维尔巴尔德"
+	dynasty=1040005
+	religion="catholic"
+	culture=norse
+	father=166046
+	960.1.1={
+		birth="960.1.1"
+	}
+	1018.1.1={
+		death="1018.1.1"
+	}
+}
+
+166048 = {
+
+
+	name="阿斯克尔" # "Hnokkan"
+	dynasty=1040005
+	religion="catholic"
+	culture=norse
+	father=166046
+	965.1.1={
+		birth="965.1.1"
+	}
+	998.1.1={
+		death="998.1.1"
+	}
+}
+
+166049 = {
+
+
+	name="比约洛克"
+	dynasty=1040005
+	religion="catholic"
+	culture=norse
+	father=166047
+	992.1.1={
+		birth="992.1.1"
+	}
+	1049.1.1={
+		death="1049.1.1"
+	}
+}
+
+451000 = {
+
+
+	name="于尔娃"
+	female = yes
+	dynasty=490
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait="charismatic_negotiator"
+	trait="wroth"
+	trait="gregarious"
+	father=101502 #Harald Bl錿and
+	971.1.1={
+		birth="971.1.1"
+	}
+	1059.1.1={
+		death="1059.1.1"
+	}
+}
+
+451001 = {
+
+
+	name="奥尔姆"
+	female = no
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait = "skilled_tactician"
+	trait = "inspiring_leader"
+	trait = "wroth"
+	trait = "brave"
+	trait = "strong"
+	trait = "just"
+	965.1.1={
+		birth="965.1.1"
+	}
+	991.1.1={
+		add_spouse=451000
+	}
+	1043.1.1={
+		death="1043.1.1"
+	}
+}
+
+451002 = {
+
+
+	name="奥尼"
+	female = yes
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait = "twin"
+	trait = "shy"
+	father=451001 #R鰀e Orm
+	mother=451000 #于尔娃
+	992.1.1={
+		birth="992.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+451003 = {
+
+
+	name="卢德米拉"
+	female = yes
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait = "twin"
+	trait = "fair"
+	trait = "deceitful"
+	father=451001 #R鰀e Orm
+	mother=451000 #于尔娃
+	992.1.1={
+		birth="992.1.1"
+	}
+	1062.1.1={
+		death="1062.1.1"
+	}
+}
+
+451004 = {
+	name="哈拉尔"
+	female = no
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	father=451001 #R鰀e Orm
+	mother=451000 #于尔娃
+	994.1.1={
+		birth="994.1.1"
+	}
+	1057.1.1={
+		death="1057.1.1"
+	}
+}
+
+451005 = {
+
+
+	name="斯瓦托"
+	female = no
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture=norse
+	trait = "brave"
+	trait = "skilled_tactician"
+	trait = "inspiring_leader"
+	father=451001 #R鰀e Orm
+	mother=451000 #于尔娃
+	995.1.1={
+		birth="995.1.1"
+	}
+	1063.1.1={
+		death="1063.1.1"
+	}
+}
+
+
+
+
+167715 = {
+
+
+	name="朗瓦尔德"
+	#placeholder
+	dynasty=1029
+	religion="norse_pagan"
+	culture="norse"
+	810.1.1={
+		birth="810.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+
+167716 = {
+
+
+	name="罗洛"
+	#placeholder
+	dynasty=1029
+	religion="norse_pagan"
+	culture="norse"
+	father=166715
+	840.1.1={
+		birth="840.1.1"
+	}
+	867.1.1={
+		add_spouse=167717
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+167717 = {
+
+
+	name="博迪尔"
+	#placeholder
+	female=yes
+	religion="norse_pagan"
+	culture="norse"
+	850.1.1={
+		birth="850.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+
+
+167718 = {
+	name="奥拉夫"
+	#placeholder
+	dynasty=1030
+	religion="norse_pagan"
+	culture="norse"
+	815.1.1={
+		birth="815.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+
+
+167719 = {
+
+
+	name="朗纳尔"
+	#placeholder
+	dynasty=1030
+	religion="norse_pagan"
+	culture="norse"
+	father=166718
+	845.1.1={
+		birth="845.1.1"
+	}
+	867.1.1={
+		add_spouse=167720
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+167720 = {
+
+
+	name="英格芙里德"
+	#placeholder
+	female=yes
+	religion="norse_pagan"
+	culture="norse"
+	850.1.1={
+		birth="850.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+
+
+167721 = {
+
+
+	name="泰克"
+	#placeholder
+	dynasty=1031
+	religion="norse_pagan"
+	culture="norse"
+	810.1.1={
+		birth="810.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+
+
+167722 = {
+
+
+	name="斯维克"
+	#placeholder
+	dynasty=1031
+	religion="norse_pagan"
+	culture="norse"
+	father=167721
+	845.1.1={
+		birth="845.1.1"
+	}
+	867.1.1={
+		add_spouse=167723
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+167723 = {
+
+
+	name="梅尔"
+	#placeholder
+	female=yes
+	religion="norse_pagan"
+	culture="norse"
+	850.1.1={
+		birth="850.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+
+
+167724 = {
+	name="伊瓦尔"
+	#placeholder
+	dynasty=1032
+	religion="norse_pagan"
+	culture="norse"
+	810.1.1={
+		birth="810.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+
+#Tr鴑delag
+186004 = {
+
+
+	name="朗瓦尔德"
+	dynasty=1043303
+	religion="norse_pagan"
+	culture="norse"
+	830.1.1={
+			birth="830.1.1"
+			}
+	892.1.1={
+			death="892.1.1"
+			}
+}
+
+186005 = {
+
+
+	name="希尔德"
+	female = yes
+	religion="norse_pagan"
+	culture="norse"
+	830.1.1={
+			birth="830.1.1"
+			}
+	892.1.1={
+			death="892.1.1"
+			}
+}
+
+186006 = {
+
+
+	name="罗洛"
+	dynasty=1043303
+	religion="norse_pagan"
+	culture="norse"
+	father=186004
+	mother=186005
+	860.1.1={
+			birth="860.1.1"
+			}
+	932.1.1={
+			death="932.1.1"
+			}
+}
+
+186007 = {
+
+
+	name="托雷"
+	dynasty=1043303
+	religion="norse_pagan"
+	culture="norse"
+	father=186004
+	mother=186005
+	862.1.1={
+			birth="862.1.1"
+			}
+	932.1.1={
+			death="892.1.1"
+			}
+}
+
+186008 = {
+
+
+	name="哈拉德"
+	dynasty=1043303
+	religion="norse_pagan"
+	culture="norse"
+	father=186004
+	trait="bastard"
+	863.1.1={
+			birth="863.1.1"
+			}
+	880.1.1={
+			death="892.1.1"
+			}
+}
+
+186009 = {
+
+
+	name="埃纳尔"
+	dynasty=1043303
+	religion="norse_pagan"
+	culture="norse"
+	father=186004
+	trait="bastard"
+	864.1.1={
+			birth="864.1.1"
+			}
+	880.1.1={
+			death="892.1.1"
+			}
+}
+
+186010 = {
+
+
+	name="罗朗"
+	dynasty=1043303
+	religion="norse_pagan"
+	culture="norse"
+	father=186004
+	trait="bastard"
+	865.1.1={
+			birth="865.1.1"
+			}
+	880.1.1={
+			death="892.1.1"
+			}
+}
+
+#H錶ogaland
+186002 = {
+
+
+	name="杰约特加德"
+	dynasty=1043302
+	religion="norse_pagan"
+	culture="norse"
+	790.1.1={
+			birth="790.1.1"
+			}
+	868.1.1={
+			death="868.1.1"
+			}
+}
+
+186003 = {
+
+
+	name="哈康"
+	dynasty=1043302
+	father = 186002
+	religion="norse_pagan"
+	culture="norse"
+	845.1.1={
+			birth="845.1.1"
+			}
+	917.1.1={
+			death="917.1.1"
+			}
+}
+
+#Nordland
+186000 = {
+
+
+	name="奥塔尔"
+	dynasty=1043300
+	religion="norse_pagan"
+	culture="norse"
+	845.1.1={
+			birth="845.1.1"
+			}
+	898.1.1={
+			death="898.1.1"
+			}
+}
+
+#Herjedalen
+186016 = {
+	name="奥拉夫"
+	dynasty=1043308
+	religion="norse_pagan"
+	culture="norse"
+	840.1.1={
+			birth="840.1.1"
+			}
+	882.1.1={
+			death="882.1.1"
+			}
+}
+
+#Jemtland
+186015 = {
+
+
+	name="比约恩"
+	dynasty=1043309
+	religion="norse_pagan"
+	culture="norse"
+	840.1.1={
+		birth="840.1.1"
+	}
+	882.1.1={
+		death="882.1.1"
+	}
+}
+
+#Telemark
+186017 = {
+
+
+	name="罗阿尔德"
+	dynasty=1043307
+	religion="norse_pagan"
+	culture="norse"
+	840.1.1={
+		birth="840.1.1"
+	}
+	872.1.1={
+		death="872.1.1"
+	}
+}
+
+#Agder
+186011 = {
+
+
+	name="克约特弗"
+	dynasty=1043304
+	religion="norse_pagan"
+	culture="norse"
+	812.1.1={
+			birth="812.1.1"
+			}
+	872.1.1={
+			death="872.1.1"
+			}
+}
+
+186012 = {
+
+
+	name="托雷"
+	dynasty=1043304
+	religion="norse_pagan"
+	culture="norse"
+	father=186011
+	842.1.1={
+			birth="842.1.1"
+			}
+	872.1.1={
+			death="872.1.1"
+			}
+}
+
+#Rogaland
+186014 = {
+
+
+	name="赫尔亚尔斯津"
+	dynasty=1043306
+	religion="norse_pagan"
+	culture="norse"
+	840.1.1={
+			birth="840.1.1"
+			}
+	890.1.1={
+			death="890.1.1"
+			}
+}
+
+#Bergenshus
+186013 = {
+	name="埃里克"
+	dynasty=1043305
+	religion="norse_pagan"
+	culture="norse"
+	850.1.1={
+		birth="850.1.1"
+	}
+	872.1.1={
+		death="872.1.1"
+	}
+}
+
+186500 = {
+
+
+	name="西古德"
+	dynasty=1043500
+	religion="norse_pagan"
+	culture="norse"
+	852.1.1={
+		birth="825.1.1"
+	}
+	874.1.1={
+		death="874.1.1"
+	}
+}
+
+186501 = {
+
+
+	name="埃纳尔"
+	dynasty=1043501
+	religion="norse_pagan"
+	culture="norse"
+	803.1.1={
+		birth="803.1.1"
+	}
+	874.1.1={
+		death="874.1.1"
+	}
+}
+186502 = {
+
+
+	name="索吉尔"
+	dynasty=1043502
+	religion="norse_pagan"
+	culture="norse"
+	816.1.1={
+		birth="816.1.1"
+	}
+	881.1.1={
+		death="881.1.1"
+	}
+}
+186503 = {
+
+
+	name="哈夫纳弗洛金"
+	dynasty=1043503
+	religion="norse_pagan"
+	culture="norse"
+	829.1.1={
+		birth="829.1.1"
+	}
+	871.1.1={
+		death="871.1.1"
+	}
+}
+186504 = {
+
+
+	name="因格弗"
+	# founder of Reykjavik
+	dynasty=1043504
+	religion="norse_pagan"
+	culture="norse"
+	father=180773
+	840.1.1={
+
+
+		birth="840.1.1"
+	}
+	891.1.1={
+		death="891.1.1"
+	}
+}
+
+1761 = {
+
+
+	name="欧多西亚"
+	# AKA: Eudocia
+	female = yes
+	dynasty=1022158
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="orthodox"
+	culture="norse"
+	trait="lustful"
+	trait="envious"
+	trait="naive_appeaser"
+	840.1.1 = {
+		birth="840.1.1"
+	}
+	882.1.1 = {
+		death="882.1.1"
+	}
+}
+
+167776 = {
+	name="哈夫丹"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=168647
+	750.1.1 = {
+		birth="750.1.1"
+	}
+	
+	800.1.1 = {
+		death="800.1.1"
+	}
+}
+
+167777 = {
+	name="哈拉尔"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167776
+	780.1.1 = {
+		birth="780.1.1"
+	}
+	826.1.1 = {
+		religion="catholic"
+	}
+	
+	852.1.1 = {
+		death="852.1.1"
+	}
+}
+
+167778 = {
+
+
+	name="阿努洛"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167776
+	782.1.1 = {
+		birth="783.1.1"
+	}
+	
+	812.1.1 = {
+		death="812.1.1"
+	}
+}
+
+167779 = {
+
+
+	name="朗格弗里德"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167776
+	786.1.1 = {
+		birth="786.1.1"
+	}
+	
+	814.1.1 = {
+		death="814.1.1"
+	}
+}
+
+167780 = {
+
+
+	name="赫明"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167776
+	790.1.1 = {
+		birth="790.1.1"
+	}
+	
+	
+	837.1.1 = {
+		death="837.1.1"
+	}
+}
+
+167781 = {
+
+
+	name="古德弗里斯"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167777
+	820.1.1 = {
+		birth="820.1.1"
+	}
+	826.1.1 = {
+		religion="catholic"
+	}
+	
+	856.1.1 = {
+		death="856.1.1"
+	}
+}
+
+167782 = {
+	name="留里克" # 留里克 of Dorestad
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167780
+	820.1.1 = {
+		birth="820.1.1"
+	}
+	864.1.1 = {
+		religion = catholic
+	}
+	873.1.1 = {
+		death="873.1.1"
+	}
+}
+
+167783 = {
+	name="哈拉尔"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167780
+	822.1.1 = {
+		birth="822.1.1"
+	}
+	
+	853.1.1 = {
+		death="853.1.1"
+	}
+}
+
+180257 = {
+
+
+	name="加达"
+	dynasty=1042061
+	religion="norse_pagan"
+	culture="norse"
+	825.3.21={
+		birth="825.3.21"
+	}
+	871.1.1={
+		death="871.1.1"
+	}
+}
+
+180258 = {
+
+
+	name="乌尼"
+	dynasty=1042061
+	religion="norse_pagan"
+	culture="norse"
+	father=180257
+	850.6.11={
+		birth="850.6.11"
+	}
+	894.1.1={
+		death="894.1.1"
+	}
+}
+
+168316 = {
+	name="哈夫丹"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	705.1.1={
+		birth="705.1.1"
+	}
+	755.1.1={
+		death="755.1.1"
+	}
+}
+
+168317 = {
+
+
+	name="厄斯泰因"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168316
+	740.1.1={
+		birth="740.1.1"
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+
+168318 = {
+
+
+	name="古德鲁尔"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168316
+	745.1.1={
+		birth="745.1.1"
+	}
+	795.1.1={
+		death="795.1.1"
+	}
+}
+
+168319 = {
+	name="哈夫丹"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168317
+	775.1.1={
+		birth="775.1.1"
+	}
+	833.1.1={
+		death="833.1.1"
+	}
+}
+
+168320 = {
+
+
+	name="古德鲁尔"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168319
+	805.1.1={
+		birth="805.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+
+168321 = {
+	name="奥拉夫"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168320
+	830.1.1={
+		birth="830.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+168322 = {
+
+
+	name="朗瓦尔德"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168321
+	847.1.1={
+		birth="847.1.1"
+	}
+	895.1.1={
+		death="895.1.1"
+	}
+}
+
+
+168323 = {
+	name="哈夫丹"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168320
+	825.1.1={
+		birth="825.1.1"
+	}
+	849.1.1={
+		add_spouse=168649
+	}
+	866.1.1={
+		death="866.1.1"
+	}
+}
+
+168324 = {
+
+
+	name="西古德"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168323
+	mother=168649
+	849.1.1={
+		birth="849.1.1"
+	}
+
+	858.1.1={
+		death="858.1.1"
+	}
+}
+
+
+168325 = {
+
+
+	name="赫尔吉"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168318
+	780.1.1={
+		birth="780.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+168326 = {
+
+
+	name="古德鲁尔"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168325
+	805.1.1={
+		birth="805.1.1"
+	}
+	873.1.1={
+		death="873.1.1"
+	}
+}
+
+168327 = {
+
+
+	name="托尔"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168326
+	828.1.1={
+		birth="828.1.1"
+	}
+	848.1.1={
+		death="848.1.1"
+	}
+}
+
+168328 = {
+
+
+	name="赫尔吉"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168327
+	847.1.1={
+		birth="847.1.1"
+	}
+	897.1.1={
+		death="897.1.1"
+	}
+}
+
+
+
+168329 = {
+
+
+	name="托尔"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168328
+	885.1.1={
+		birth="885.1.1"
+	}
+	935.1.1={
+		death="935.1.1"
+	}
+}
+
+168330 = {
+	name="奥拉夫"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168326
+	830.1.1={
+		birth="830.1.1"
+	}
+	849.1.1 = {
+		add_spouse=168609
+	}
+	874.1.1={
+		death="874.1.1"
+	}
+}
+
+
+168331 = {
+
+
+	name="厄斯泰因"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168330
+	mother=168609
+	850.1.1={
+		birth="850.1.1"
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+
+168332 = {
+
+
+	name="托尔斯泰因"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168330
+	mother=168609
+	851.1.1={
+		birth="851.1.1"
+	}
+	893.1.1={
+		death="893.1.1"
+	}
+}
+
+168333 = {
+
+
+	name="卡尔"
+	dynasty=499
+	religion="norse_pagan"
+	culture="norse"
+	father=168330
+	mother=168609
+	852.1.1={
+		birth="852.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+168335 = {
+
+
+	name="西格弗里德" 
+	dynasty=7514
+	religion="norse_pagan"
+	culture=norse
+	father = 163112
+	trait=legit_bastard
+	843.1.1={
+		birth=yes
+	}
+	
+	888.1.1={
+		death=yes
+	}
+}
+
+
+
+
+168336 = {
+	name="古德弗里德" #the Seaking
+	dynasty=7514
+	religion="norse_pagan"
+	culture=norse
+	father = 163112
+	trait=legit_bastard
+	844.1.1={
+		birth=yes
+	}
+	882.1.1={
+		religion="catholic"
+	}
+	882.1.1={
+		add_spouse=168315 #Gisela 卡尔ing
+	}
+	885.1.1={
+		death=yes
+	}
+}
+
+168337 = {
+
+
+	name="罗格希尔德" 
+	female=yes
+	dynasty=7514
+	religion="catholic"
+	culture=norse
+	father = 168336
+	mother = 168315
+	883.1.1={
+		birth=yes
+	}
+	
+	933.1.1={
+		death=yes
+	}
+}
+
+
+168338 = {
+
+
+	name="西格弗里德" 
+	dynasty=7514
+	religion="norse_pagan"
+	culture=norse
+	father = 40607
+	mother = 6867
+	874.1.1={
+		birth=yes
+	}
+	
+	900.1.1={
+		death=yes
+	}
+}
+
+
+
+168339 = {
+	name="哈夫丹" 
+	dynasty=7514
+	religion="norse_pagan"
+	culture=norse
+	father = 40607
+	mother = 6867
+	881.1.1={
+		birth=yes
+	}
+	
+	910.8.5={ #battle of Tettenhall
+		death=yes
+	}
+}
+
+168340 = {
+
+
+	name="奥德伊斯尔" 
+	dynasty=7514
+	religion="norse_pagan"
+	culture=norse
+	father = 40607
+	mother = 6867
+	882.1.1={
+		birth=yes
+	}
+	
+	910.8.5={ #battle of Tettenhall
+		death=yes
+	}
+}
+
+
+
+168341 = {
+
+
+	name="伊瓦尔" 
+	dynasty=7514
+	religion="norse_pagan"
+	culture=norse
+	father = 40607
+	mother = 6867
+	883.1.1={
+		birth=yes
+	}
+	
+	910.8.5={ #battle of Tettenhall
+		death=yes
+	}
+}
+
+
+
+168342 = {
+
+
+	name="朗纳尔" 
+	dynasty=7514
+	religion="norse_pagan"
+	culture=norse
+	father = 168338
+	895.1.1={
+		birth=yes
+	}
+	
+	932.1.1={
+		death=yes
+	}
+}
+
+
+
+168343 = {
+
+
+	name="鲁道夫"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167783
+	842.1.1 = {
+		birth="842.1.1"
+	}
+	873.6.1 = {
+		death="873.6.1"
+	}
+}
+
+168365 = {
+
+
+	name="比约居夫"
+	dynasty=9589
+	religion="norse_pagan"
+	culture="norse"
+	trait="weak"
+	810.1.1={
+		birth="810.1.1"
+	}
+	850.1.1={
+		add_spouse=168369
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+168366 = {
+
+
+	name="布吕约夫"
+	dynasty=9589
+	religion="norse_pagan"
+	trait="brave"
+	trait="honest"
+	culture="norse"
+	father=168365
+	830.1.1={
+		birth="830.1.1"
+	}
+	846.1.1={
+		add_spouse=168370
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+168367 = {
+
+
+	name="赫莱克"
+	dynasty=9589
+	religion="norse_pagan"
+	culture="norse"
+	trait="greedy"
+	trait="craven"
+	trait="wroth"
+	trait="harelip"
+	trait="twin"
+	father=168365
+	mother=168369
+	851.1.1={
+		birth="851.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}
+
+
+
+168368 = {
+
+
+	name="留里克"
+	dynasty=9589
+	religion="norse_pagan"
+	culture="norse"
+	father=168365
+	mother=168369
+	trait="cruel"
+	trait="lisp"
+	trait="envious"
+	trait="twin"
+	851.1.1={
+		birth="851.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}
+
+
+
+168369 = {
+
+
+	name="希尔德里达"
+	female=yes
+	religion="norse_pagan"
+	culture="norse"
+	832.1.1={
+		birth="832.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+
+168370 = {
+
+
+	name="黑尔格"
+	female=yes
+	religion="norse_pagan"
+	culture="norse"
+	830.1.1={
+		birth="830.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+
+168371 = {
+
+
+	name="巴德"
+	dynasty=9589
+	religion="norse_pagan"
+	culture="norse"
+	trait="humble"
+	trait="strong"
+	father=168366
+	mother=168370
+	850.1.1={
+		birth="850.1.1"
+	}
+	
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+168500 = {
+
+
+	name="古德弗里德"
+	dynasty=20084
+	religion="norse_pagan"
+	culture=norse
+	father = 163111
+	853.1.1={
+		birth=yes
+	}
+	891.1.1={
+		death=yes
+	}
+}
+
+168609 = {
+
+
+	name="艾于德"
+	female=yes
+	dynasty=9612
+	religion="norse_pagan"
+	culture="norse"
+	father=168610
+	mother=168612
+	833.1.1={
+		birth=yes
+	}
+	
+	900.1.1={
+		death=yes
+	}
+}
+
+
+
+168610 = {
+
+
+	name="凯蒂尔"
+	dynasty=9612
+	religion="norse_pagan"
+	culture="norse"
+	father=168611
+	815.1.1={
+		birth=yes
+	}
+	832.1.1={
+		add_spouse=168612
+	}
+	874.1.1={
+		death=yes
+	}
+}
+
+
+
+168611 = {
+
+
+	name="比约恩"
+	dynasty=9612
+	religion="norse_pagan"
+	culture="norse"
+	790.1.1={
+		birth=yes
+	}
+	
+	850.1.1={
+		death=yes
+	}
+}
+
+
+
+168612 = {
+
+
+	name="伊戈维德"
+	female=yes
+	religion="norse_pagan"
+	culture="norse"
+	815.1.1={
+		birth=yes
+	}
+	
+	870.1.1={
+		death=yes
+	}
+}
+
+168613 = {
+
+
+	name="比约恩"
+	dynasty=9612
+	religion="norse_pagan"
+	culture="norse"
+	father=168610
+	mother=168612
+	835.1.1={
+		birth=yes
+	}
+	
+	885.1.1={
+		death=yes
+	}
+}
+
+168614= {
+
+
+	name="赫尔吉"
+	dynasty=9612
+	religion="norse_pagan"
+	culture="norse"
+	father=168610
+	mother=168612
+	837.1.1={
+		birth=yes
+	}
+	
+	887.1.1={
+		death=yes
+	}
+}
+
+168615= {
+
+
+	name="托尔敦"
+	female=yes
+	dynasty=9612
+	religion="norse_pagan"
+	culture="norse"
+	father=168610
+	mother=168612
+	839.1.1={
+		birth=yes
+	}
+	
+	890.1.1={
+		death=yes
+	}
+}
+
+168616= {
+
+
+	name="约伦"
+	female=yes
+	dynasty=9612
+	religion="norse_pagan"
+	culture="norse"
+	father=168610
+	mother=168612
+	841.1.1={
+		birth=yes
+	}
+	
+	890.1.1={
+		death=yes
+	}
+}
+
+183001 = {
+
+
+	name="英格瓦尔"
+	# AKA: Ingvar Vittfarne / Ingvar the Far-Travelled
+	dynasty=502
+	martial=9
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="norse_pagan"
+	culture="norse"
+	trait="brave"
+	trait="zealous"
+	trait="skilled_tactician"
+	trait="legit_bastard"
+	father=100509
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1042.1.1={
+		death="1042.1.1"
+	}
+}
+
+168631 = {
+	name="哈夫丹" 
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167777
+	800.1.1={
+		birth=yes
+	}
+	819.1.1={
+		death=yes
+	}
+}
+
+168632 = {
+
+
+	name="泰拉"
+	female=yes 
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167777
+	812.1.1={
+		birth=yes
+	}
+	862.1.1={
+		death=yes
+	}
+}
+
+168633 = {
+
+
+	name="西格弗里德"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167777
+	825.1.1 = {
+		birth=yes
+	}
+	
+	
+	885.1.1 = {
+		death=yes
+	}
+}
+
+168634 = {
+	name="哈拉尔"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=168633
+	855.1.1 = {
+		birth=yes
+	}
+	
+	
+	915.1.1 = {
+		death=yes
+	}
+}
+
+168635 = {
+
+
+	name="高姆"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=168633
+	870.1.1 = {
+		birth=yes
+	}
+	
+	
+	938.1.1 = {
+		death=yes
+	}
+}
+
+168636 = {
+
+
+	name="罗洛"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167777
+	828.1.1 = {
+		birth=yes
+	}
+	873.1.1 = {
+		death=yes
+	}
+}
+
+168637 = {
+	name="哈夫丹"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=167777
+	830.1.1 = {
+		birth=yes
+	}
+	880.1.1 = {
+		death=yes
+	}
+}
+
+168638 = {
+
+
+	name="西格弗里德"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=168635
+	900.1.1 = {
+		birth=yes
+	}
+	
+	
+	961.1.1 = {
+		death=yes
+	}
+}
+
+168639 = {
+	name="哈拉尔"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=168638
+	930.1.1 = {
+		birth=yes
+	}
+	
+	965.1.1 = {
+		religion=catholic
+	}
+	985.1.1 = {
+		death=yes
+	}
+}
+
+168640 = {
+
+
+	name="西格瓦德"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=168639
+	962.1.1 = {
+		birth=yes
+	}
+	
+	965.1.1 = {
+		religion=catholic
+	}
+	1002.1.1 = {
+		death=yes
+	}
+}
+
+168641 = {
+
+
+	name="索吉尔"
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	father=168639
+	964.1.1 = {
+		birth=yes
+	}
+	
+	965.1.1 = {
+		religion=catholic
+	}
+	1025.1.1 = {
+		death=yes
+	}
+}
+
+168645 = {
+
+
+	name="拉努尔弗"
+	dynasty=534
+	religion="catholic"
+	culture=norse
+	900.1.1={
+		birth=yes
+	}
+	920.1.1={
+		add_spouse=168646
+	}
+	950.1.1={
+		death=yes
+	}
+}
+
+168646 = {
+
+
+	name="贡尔"
+	female = yes
+	dynasty=9552
+	religion="norse_pagan"
+	culture=norse
+	father=168634
+	903.1.1={
+		birth=yes
+	}
+	953.1.1={
+		death=yes
+	}
+}
+
+168647 = {
+	name="哈拉尔" 
+	dynasty=9552
+	religion="norse_pagan"
+	culture="norse"
+	710.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+168648 = {
+
+
+	name="西古德" 
+	dynasty=9613
+	religion="norse_pagan"
+	culture="norse"
+	800.1.1={
+		birth=yes
+	}
+	829.1.1={
+		add_spouse=168632
+	}
+	855.1.1={
+		death=yes
+	}
+}
+
+168649= {
+
+
+	name="罗格希尔德" 
+	female=yes
+	dynasty=9613
+	religion="norse_pagan"
+	culture="norse"
+	father=168648
+	mother=168632
+	830.1.1={
+		birth=yes
+	}
+	
+	888.1.1={
+		death=yes
+	}
+}
+
+168650 = {
+
+
+	name="古托姆" 
+	dynasty=9613
+	religion="norse_pagan"
+	culture="norse"
+	father=168648
+	mother=168632
+	839.1.1={
+		birth=yes
+	}
+	881.1.1={
+		religion="catholic"
+
+
+		name="阿瑟尔斯坦"
+		culture="saxon"
+	}
+	891.1.1={
+		death=yes
+	}
+}
+
+183900 = {
+
+
+	name="爱德里"
+	dynasty=451
+	religion="norse_pagan"
+	culture="norse"
+    trait="fortune_builder"
+	950.1.1={
+		birth="950.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+183901 = {
+
+
+	name="爱德里"
+	dynasty=451
+	religion="catholic"
+	culture="norse"
+    trait="tough_soldier"
+    father=102554
+	mother=102512
+	1006.1.2={
+		birth="1006.1.1"
+	}
+	1050.1.2={
+		death="1050.1.1"
+	}
+}
+180680 = {
+	name="奥达"
+	# Archbishop of Canterbury, Bishop of Ramsbury
+	religion="catholic"
+	culture="norse"
+	add_trait="mastermind_theologian"
+	875.1.1={
+		birth=yes
+	}
+	958.6.2={
+		death=yes
+	}
+}
+194003 = {
+	name = "哈拉尔"
+	dynasty = 102013 # Skj鰈dung
+	martial = 10
+	religion = norse_pagan
+	culture = norse
+	father = 194035
+	mother = 194034
+	690.6.12 = {
+		birth = yes
+	}
+	730.1.1 = {
+		give_nickname = nick_hildetand
+	}
+	770.7.7 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+194004 = {
+	name = "希格德尔"  # 西格urd Ring
+	dynasty = 502
+	father = 194028
+	religion = norse_pagan
+	culture = norse
+	trait = quick
+	trait = brave
+	trait = skilled_tactician
+	730.12.12 = {
+		birth = yes
+	}
+	750.1.1 = {
+		give_nickname = nick_ring
+	}
+	766.1.1 = {
+		add_spouse = 194056 # Alfhild
+	}
+	800.2.5 = {
+		death = yes
+	}
+}
+194005 = {
+	name = "约瓦德"
+	dynasty = 821 # Ulfing
+	religion = norse_pagan
+	culture = norse
+	722.10.1 = {
+		birth="722.10.1"
+	}
+	788.12.1 = {
+		death="788.12.1"
+	}
+}
+194007 = {
+	name = "托尔芬"
+	dynasty = 825 # Gute
+	religion = "norse_pagan"
+	culture = norse
+	731.1.1 = {
+		birth = yes
+	}
+	790.1.1 = {
+		death = yes
+	}
+}
+194008 = {
+	name = "盖尔"
+	dynasty = 1045010
+	religion = "norse_pagan"
+	culture = norse
+	735.1.1 = {
+		birth = yes
+	}
+	810.1.1 = {
+		death = yes
+	}
+}
+194009 = {
+	name = "阿尔夫"
+	dynasty = 1045022
+	religion = norse_pagan
+	culture = norse
+	730.1.1 = {
+		birth = yes
+	}
+	749.1.1 = {
+		add_spouse = 194057
+		capital = c_viken
+	}
+	790.1.1 = {
+		death = yes
+	}
+}
+194010 = {
+	name = "奥德"
+	dynasty = 822
+	religion = norse_pagan
+	culture = norse
+	731.1.1 = {
+		birth = yes
+	}
+	798.1.1 = {
+		death = yes
+	}
+}
+194011 = {
+	name = "豪克"
+	dynasty = 1045019
+	religion = norse_pagan
+	culture = norse
+	741.1.1 = {
+		birth = yes
+	}
+	790.1.1 = {
+		death = yes
+	}
+}
+194012 = {
+	name = "拉芬"
+	dynasty = 1045011
+	religion = norse_pagan
+	culture = norse
+	744.1.1 = {
+		birth = yes
+	}
+	788.1.1 = {
+		death = yes
+	}
+}
+194013 = {
+	name = "格里姆"
+	dynasty = 1045012
+	religion = norse_pagan
+	culture = norse
+	733.1.1 = {
+		birth = yes
+	}
+	790.1.1 = {
+		death = yes
+	}
+}
+194014 = {
+	name = "托尔斯泰因"
+	dynasty = 836
+	religion = norse_pagan
+	culture = norse
+	740.1.1 = {
+		birth = yes
+	}
+	790.1.1 = {
+		death = yes
+	}
+}
+194015 = {
+	name = "托尔比约恩"
+	dynasty = 1045016
+	religion = norse_pagan
+	culture = norse
+	735.1.1 = {
+		birth = yes
+	}
+	795.1.1 = {
+		death = yes
+	}
+}
+194016 = {
+	name = "奥瓦尔"
+	dynasty = 1045013
+	religion = norse_pagan
+	culture = norse
+	733.1.1 = {
+		birth = yes
+	}
+	791.1.1 = {
+		death = yes
+	}
+}
+194017 = {
+	name = "乌尔夫"
+	dynasty = 1045014
+	religion = norse_pagan
+	culture = norse
+	739.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+194018 = {
+	name = "奥尔姆"
+	dynasty = 1045015
+	religion = norse_pagan
+	culture = norse
+	740.1.1 = {
+		birth = yes
+	}
+	795.1.1 = {
+		death = yes
+	}
+}
+194019 = {
+	name = "西格特吕格"
+	dynasty = 1045018
+	religion = norse_pagan
+	culture = norse
+	737.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+194020 = {
+	name = "朗纳尔"
+	dynasty = 1180
+	religion = norse_pagan
+	culture = norse
+	750.1.1 = {
+		birth = yes
+	}
+	820.1.1 = {
+		death = yes
+	}
+}
+194021 = {
+	name = "施泰因"
+	dynasty = 1045017
+	religion = norse_pagan
+	culture = norse
+	740.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+194022 = {
+	name = "特吕格弗"
+	dynasty = 1183
+	religion = norse_pagan
+	culture = norse
+	742.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+194023 = {
+	name = "居德蒙德"
+	dynasty = 1175
+	religion = norse_pagan
+	culture = norse
+	739.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+194027 = {
+	name = "伊瓦尔"
+	dynasty = 1045002
+	religion = norse_pagan
+	culture = norse
+	650.1.1 = {
+		birth = yes
+	}
+	720.1.1 = {
+		death = yes
+	}
+}
+
+194028 = {
+	name = "兰德弗"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	father = 194029
+	700.1.1 = {
+		birth = yes
+	}
+	761.1.1 = {
+		death = yes
+	}
+}
+
+194029 = {
+	name = "瓦尔达"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	father = 194030
+	668.1.1 = {
+		birth = yes
+	}
+	729.1.1 = {
+		death = yes
+	}
+}
+
+194030 = {
+	name = "奥拉夫"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	father = 194031
+	640.1.1 = {
+		birth = yes
+	}
+	700.1.1 = {
+		death = yes
+	}
+}
+
+194031 = {
+	name = "英亚尔"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	father = 194032
+	620.1.1 = {
+		birth = yes
+	}
+	680.1.1 = {
+		death = yes
+	}
+}
+
+194032 = {
+	name = "阿农德"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	570.1.1 = {
+		birth = yes
+	}
+	650.1.1 = {
+		death = yes
+	}
+}
+
+194033 = {
+	name = "英洁尔"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	female = yes
+	father = 194029
+	700.1.1 = {
+		birth = yes
+	}
+	720.1.1 = {
+		add_spouse = 194003
+	}
+	776.1.1 = {
+		death = yes
+	}
+}
+
+194034 = {
+	name = "艾于德"
+	dynasty = 1045002
+	religion = norse_pagan
+	culture = norse
+	female = yes
+	father = 194027
+	672.1.1 = {
+		birth = yes
+	}
+	735.1.1 = {
+		death = yes
+	}
+}
+194035 = {
+	name = "留里克"
+	dynasty = 102013
+	religion = norse_pagan
+	culture = norse
+	665.1.1 = {
+		birth = yes
+	}
+	733.1.1 = {
+		death = yes
+	}
+}
+194036 = {
+	name = "德兰德"
+	dynasty = 102013
+	religion = norse_pagan
+	culture = norse
+	father = 194003
+	mother = 194033
+	730.1.1 = {
+		birth = yes
+	}
+	780.1.1 = {
+		death = yes
+	}
+}
+194037 = {
+	name = "留里克"
+	dynasty = 102013
+	religion = norse_pagan
+	culture = norse
+	father = 194003
+	mother = 194033
+	733.1.1 = {
+		birth = yes
+	}
+	757.1.1 = {
+		add_spouse = 194038
+	}
+	784.1.1 = {
+		death = yes
+	}
+}
+194038 = {
+	name = "朗诺弗里德"
+	dynasty = 102013
+	religion = norse_pagan
+	culture = norse
+	female = yes
+	738.1.1 = {
+		birth = yes
+	}
+	757.1.1 = {
+		add_spouse = 194037
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194039 = {
+	name = "托尔夫"
+	dynasty = 102013
+	religion = norse_pagan
+	culture = norse
+	father = 194037
+	mother = 194038
+	758.1.1 = {
+		birth = yes
+	}
+	810.1.1 = {
+		death = yes
+	}
+}
+180770 = {
+	name="格里普"
+	dynasty=1043504
+	religion="norse_pagan"
+	culture="norse"
+	725.1.1={
+		birth="725.1.1"
+	}
+	775.1.1={
+		death="775.1.1"
+	}
+}
+180771 = {
+	name="罗曼德"
+	dynasty=1043504
+	religion="norse_pagan"
+	culture="norse"
+	father=180770
+	750.1.1={
+		birth="750.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+180772 = {
+	name="比约恩夫"
+	dynasty=1043504
+	religion="norse_pagan"
+	culture="norse"
+	father=180771
+	775.1.1={
+		birth="775.1.1"
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+180773 = {
+	name="阿尼"
+	dynasty=1043504
+	religion="norse_pagan"
+	culture="norse"
+	father=180772
+	810.1.1={
+		birth="810.1.1"
+	}
+	862.1.1={
+		death="862.1.1"
+	}
+}
+180776 = {
+	name="海尔加"
+	# wife of 约莱
+	female=yes
+	dynasty=1043504
+	religion="norse_pagan"
+	culture="norse"
+	father=180773
+	843.1.1={
+		birth="843.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+180777 = {
+	name="罗阿德"
+	dynasty=1043504
+	religion="norse_pagan"
+	culture="norse"
+	father=180771
+	779.1.1={
+		birth="779.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+180778 = {
+	name="罗德马"
+	dynasty=1043504
+	religion="norse_pagan"
+	culture="norse"
+	father=180777
+	808.1.1={
+		birth="808.1.1"
+	}
+	855.1.1={
+		death="855.1.1"
+	}
+}
+180779 = {
+	name="约莱"
+	dynasty=1043504
+	religion="norse_pagan"
+	culture="norse"
+	father=180778
+	838.1.1={
+		birth="838.1.1"
+	}
+	866.1.1={
+		add_spouse=180776
+	}
+	875.4.1={
+		death="875.4.1"
+	}
+}
+194044 = {
+	name = "埃里克"
+	dynasty = 1045008
+	religion = norse_pagan
+	culture = norse
+	745.1.1 = {
+		birth = yes
+	}
+	820.1.1 = {
+		death = yes
+	}
+}
+194045 = {
+	name = "弗罗迪"
+	dynasty = 1045009
+	religion = norse_pagan
+	culture = norse
+	742.1.1 = {
+		birth = yes
+	}
+	820.1.1 = {
+		death = yes
+	}
+}
+194046 = {
+	name = "奥德"
+	dynasty = 825 # Gute
+	religion = "norse_pagan"
+	culture = norse
+	father = 194007
+	761.1.1 = {
+		birth = yes
+	}
+	830.1.1 = {
+		death = yes
+	}
+}
+194047 = {
+	name = "弗罗迪"
+	dynasty = 825 # Gute
+	religion = "norse_pagan"
+	culture = norse
+	father = 194046
+	789.1.1 = {
+		birth = yes
+	}
+	842.1.1 = {
+		death = yes
+	}
+}
+194048 = {
+	name = "斯库"
+	dynasty = 825 # Gute
+	religion = "norse_pagan"
+	culture = norse
+	father = 194047
+	820.1.1 = {
+		birth = yes
+	}
+	860.1.1 = {
+		death = yes
+	}
+}
+194049 = {
+	name = "拉芬"
+	dynasty = 822
+	religion = norse_pagan
+	culture = norse
+	father = 194050
+	800.1.1 = {
+		birth = yes
+	}
+	860.1.1 = {
+		death = yes
+	}
+}
+194050 = {
+	name = "拉芬"
+	dynasty = 822
+	religion = norse_pagan
+	culture = norse
+	father = 194010
+	750.1.1 = {
+		birth = yes
+	}
+	830.1.1 = {
+		death = yes
+	}
+}
+194051 = {
+	name = "杭内"
+	dynasty = 821
+	religion = norse_pagan
+	culture = norse
+	father = 194005
+	760.1.1 = {
+		birth = yes
+	}
+	835.1.1 = {
+		death = yes
+	}
+}
+194052 = {
+	name = "希尔丢"
+	dynasty = 821
+	religion = norse_pagan
+	culture = norse
+	father = 194051
+	802.1.1 = {
+		birth = yes
+	}
+	855.1.1 = {
+		death = yes
+	}
+}
+194053 = {
+	name = "居德蒙德"
+	dynasty = 822
+	religion = norse_pagan
+	culture = norse
+	father = 194010
+	755.1.1 = {
+		birth = yes
+	}
+	825.1.1 = {
+		death = yes
+	}
+}
+194054 = {
+	name = "阿尔夫"
+	dynasty = 1045021
+	religion = norse_pagan
+	culture = norse
+	730.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194055 = {
+	name = "埃里克"
+	dynasty = 1045021
+	religion = norse_pagan
+	culture = norse
+	father = 194054
+	mother = 194059
+	750.1.1 = {
+		birth = yes
+	}
+	812.1.1 = {
+		death = yes
+	}
+}
+194056 = {
+	name = "阿尔芙希尔德"
+	female = yes
+	dynasty = 1045022
+	religion = norse_pagan
+	culture = norse
+	father = 194009
+	mother = 194057
+	750.1.1 = {
+		birth = yes
+	}
+	810.1.1 = {
+		death = yes
+	}
+}
+194057 = {
+	name = "朗诺弗里德"
+	female = yes
+	religion = norse_pagan
+	culture = norse
+	730.1.1 = {
+		birth = yes
+	}
+	780.1.1 = {
+		death = yes
+	}
+}
+194058 = {
+	name = "阿尔夫索"
+	female = yes
+	dynasty = 1045021
+	religion = norse_pagan
+	culture = norse
+	father = 194054
+	mother = 194059
+	768.12.12 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194059 = {
+	name = "耶德"
+	female = yes
+	religion = norse_pagan
+	culture = norse
+	728.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194060 = {
+	name = "斯维克"
+	dynasty = 1045023
+	religion = norse_pagan
+	culture = norse
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194061 = {
+	name = "特吕格弗"
+	dynasty = 1045020
+	religion = norse_pagan
+	culture = norse
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}

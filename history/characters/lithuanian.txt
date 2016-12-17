@@ -1,0 +1,2934 @@
+125300 = {
+	name="里恩格达斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=228012
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1213.1.1={
+		death="1213.1.1"
+	}
+}
+
+125301 = {
+	name="米恩达加斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125300
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1245.1.1={
+		religion="orthodox"
+	}
+	1251.1.1={
+		religion="catholic"
+	}
+	1263.9.12={
+		death="1263.9.12"
+	}
+}
+
+125302 = {
+	name="特雷尼奥塔斯"
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1264.1.2={
+		death="1264.1.2"
+	}
+}
+
+125303 = {
+	name="瓦伊斯维卡斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125301
+	1223.1.1={
+		birth="1223.1.1"
+	}
+	1245.1.2={
+		religion="orthodox"
+	}
+	1267.4.23={
+		death="1267.4.23"
+	}
+}
+
+125304 = {
+	name="拉姆恩"
+	female=yes
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125301
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1245.1.2={
+	religion="orthodox"
+	}
+	1280.1.2={
+		death="1280.1.2"
+	}
+}
+
+125305 = {
+	name="达斯普伦加斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125300
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1236.1.2={
+		death="1236.1.2"
+	}
+}
+
+125306 = {
+	name="陶特维拉斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125305
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1240.1.1={
+	add_spouse=125011
+	}
+	1250.1.1={
+	religion="catholic"
+	}
+	1264.1.2={
+		death="1264.1.2"
+	}
+}
+
+125307 = {
+	name="达努特"
+	female=yes
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125305
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1250.1.1={
+	religion="orthodox"
+	}
+	1280.1.2={
+		death="1280.1.2"
+	}
+}
+
+125308 = {
+	name="德拉威尼斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=228012
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+125309 = {
+	name="维特纳斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125308
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+125310 = {
+	name="特莱德尼斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125309
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1282.1.1={
+		death="1282.1.1"
+	}
+}
+
+125311 = {
+	name="达曼塔斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125309
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+125312 = {
+	name="达曼塔斯"
+	# AKA: Dovmont
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125301
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1265.1.1={
+	religion="orthodox"
+	}
+	1284.1.1={
+	add_spouse=125215
+	}
+	1299.1.2={
+		death="1299.1.2"
+	}
+}
+
+125313 = {
+	name="高迪曼特"
+	female=yes
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125310
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1279.1.1={
+	religion="catholic"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+
+125314 = {
+	name="布提格迪斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125310
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1291.1.2={
+		death="1291.1.2"
+	}
+}
+
+125315 = {
+	name="维特尼斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=472352
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1316.1.1={
+		death="1316.1.1"
+	}
+}
+
+125316 = {
+	name="弗拉迪米尔"
+	dynasty=11
+	religion="orthodox"
+	culture="lithuanian"
+	father=473506
+	mother=473512
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1386.1.2={
+		death="1386.1.2"
+	}
+}
+
+125317 = {
+	name="费奥多尔"
+	dynasty=11
+	religion="orthodox"
+	culture="lithuanian"
+	father=473506
+	mother=473512
+	1333.1.2={
+		birth="1333.1.2"
+	}
+	1394.1.2={
+		death="1394.1.2"
+	}
+}
+
+125318 = {
+	name="阿格拉费娜"
+	female=yes
+	dynasty=11
+	religion="orthodox"
+	culture="lithuanian"
+	father=473506
+	mother=473512
+	1334.1.2={
+		birth="1334.1.2"
+	}
+	1393.1.2={
+		death="1393.1.2"
+	}
+}
+
+144673 = {
+	name="萨鲁纳斯"
+	dynasty=100426
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father = 28017	
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+144674 = {
+	name="萨鲁纳斯"
+	dynasty=100426
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="baltic_pagan"
+	culture="lithuanian"
+	trait="amateurish_plotter"
+	father=228017
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1253.6.30={
+		death="1253.6.30"
+	}
+}
+
+20460 = {
+	name="斯威特里盖拉"
+	dynasty=100425
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="baltic_pagan"
+	culture="lithuanian"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+228012 = {
+	name="安塔纳斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	trait="bastard"
+	father=82198 
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.2={
+		death="1200.1.2"
+	}
+}
+
+228013 = {
+	name="道格维拉斯"
+	dynasty=100420
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="baltic_pagan"
+	culture="lithuanian"
+	trait="lisp"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+228017 = {
+	name="萨鲁纳斯"
+	dynasty=100426
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="baltic_pagan"
+	culture="lithuanian"
+	trait="amateurish_plotter"
+	father=144673
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+228014 = {
+	name="德拉维尼斯"
+	dynasty=100421
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="baltic_pagan"
+	culture="lithuanian"
+	trait="brave"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+28012 = {
+	name="安塔纳斯"
+	dynasty=100420
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="baltic_pagan"
+	culture="lithuanian"
+	trait="patient"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+28017 = {
+	name="萨鲁纳斯"
+	dynasty=100426
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="baltic_pagan"
+	culture="lithuanian"
+	trait="amateurish_plotter"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+28022 = {
+	name="道格维拉斯"
+	dynasty=100372
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="baltic_pagan"
+	culture="lithuanian"
+	trait="diligent"
+	trait="cynical"
+	trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+471503 = {
+	name="阿尔多娜"
+	female = yes
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=473500
+	mother=473502
+	1309.1.2={
+		birth="1309.1.2"
+	}
+	1325.1.2={
+	religion="catholic"
+	}
+	1339.1.2={
+		death="1339.1.2"
+	}
+}
+
+472100 = {
+	name="费奥多尔"
+	# AKA: Teodoras
+	dynasty=11
+	religion="orthodox"
+	culture="lithuanian"
+	father=472352
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1325.1.2={
+	capital="c_kiev"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+472350 = {
+	name="卢布科"
+	dynasty=11
+	religion="orthodox"
+	culture="lithuanian"
+	father=472351
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+
+472351 = {
+	name="瓦尼乌斯"
+	# AKA: Voin
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=472352
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1334.1.1={
+		death="1334.1.1"
+	}
+}
+
+472352 = {
+	name="布帖达斯"
+	# AKA: Lutuveras
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=125310
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1295.1.1={
+		death="1295.1.1"
+	}
+}
+
+472852 = {
+	name="阿纳斯塔西娅"
+	female = yes
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=473500
+	mother=473502
+	1317.1.2={
+		birth="1317.1.2"
+	}
+	1333.1.2={
+	religion="orthodox"
+	}
+	1345.1.2={
+		death="1345.1.2"
+	}
+}
+
+472867 = {
+	name="玛丽娅"
+	female = yes
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=473500
+	mother=473502
+	1305.1.2={
+		birth="1305.1.2"
+	}
+	1320.1.2={
+	religion="orthodox"
+	}
+	1348.1.2={
+		death="1348.1.2"
+	}
+}
+
+472901 = {
+	name="盖迪曼特"
+	# AKA: Gaudemunda
+	female = yes
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=473500
+	mother=473502
+	1316.1.2={
+		birth="1316.1.2"
+	}
+	1331.1.2={
+	religion="catholic"
+	}
+	1342.1.2={
+		death="1342.1.2"
+	}
+}
+
+473500 = {
+	name="格蒂米纳斯"
+	dynasty=11
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=10
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=472352
+	1270.1.2={
+		birth="1270.1.2"
+	}
+	1287.1.2={
+	add_spouse = 473501
+	}
+	1295.1.2={
+	add_spouse = 473502
+	}
+	1341.5.2={
+		death="1341.5.2"
+	}
+}
+
+473501 = {
+	name="维达"
+	female = yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1271.1.2={
+		birth="1271.1.2"
+	}
+	1294.1.2={
+		death="1294.1.2"
+	}
+}
+
+473503 = {
+	name="曼帖达斯"
+	# AKA: Manvydas
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=473500
+	mother=473502
+	1314.1.2={
+		birth="1314.1.2"
+	}
+	1348.1.2={
+		death="1348.1.2"
+	}
+}
+
+473504 = {
+	name="纳里曼塔斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=473500
+	mother=473501
+	1294.1.2={
+		birth="1294.1.2"
+	}
+	1332.1.2={
+	religion="orthodox"
+	}
+	1332.1.2={
+	name="格雷布"
+	# AKA: Narimantas
+	}
+	1332.1.2={
+	add_spouse=473511
+	}
+	1348.1.2={
+		death="1348.1.2"
+	}
+}
+
+473506 = {
+	name="阿尔吉达斯"
+	dynasty=11
+	martial=8
+	stewardship=9
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=473500
+	mother=473502
+	1296.1.2={
+		birth="1296.1.2"
+	}
+	1318.1.2={
+	add_spouse=473512
+	}
+	1318.1.2={
+	religion="orthodox"
+	}
+	1377.1.2={
+		death="1377.1.2"
+	}
+}
+
+473507 = {
+	name="亚努提斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=473500
+	mother=473502
+	1315.1.2={
+		birth="1315.1.2"
+	}
+	1366.1.2={
+		death="1366.1.2"
+	}
+}
+
+473508 = {
+	name="克斯图提斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=473500
+	mother=473502
+	1297.1.2={
+		birth="1297.1.2"
+	}
+	1382.1.2={
+		death="1382.1.2"
+	}
+}
+
+473509 = {
+	name="卡里约塔斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=473500
+	mother=473502
+	1302.1.2={
+		birth="1302.1.2"
+	}
+	1363.1.2={
+		death="1363.1.2"
+	}
+}
+
+473510 = {
+	name="利乌巴尔塔斯"
+	dynasty=11
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=473500
+	mother=473502
+	1303.1.2={
+		birth="1303.1.2"
+	}
+	1325.1.2={
+	religion="orthodox"
+	}
+	1325.1.2={
+	name="季米特里"
+	# AKA: Liubartas
+	}
+	1325.1.2={
+	add_spouse=473517
+	}
+	1383.1.2={
+		death="1383.1.2"
+	}
+}
+
+473513 = {
+	name="安德烈"
+	# AKA: Vygantas
+	dynasty=11
+	religion="orthodox"
+	culture="lithuanian"
+	father=473506
+	mother=473512
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1399.1.2={
+		death="1399.1.2"
+	}
+}
+
+473514 = {
+	name="迪米特里"
+	dynasty=11
+	religion="orthodox"
+	culture="lithuanian"
+	father=473506
+	mother=473512
+	1327.1.2={
+		birth="1327.1.2"
+	}
+	1399.1.2={
+		death="1399.1.2"
+	}
+}
+
+473515 = {
+	name="康斯坦丁"
+	dynasty=11
+	religion="orthodox"
+	culture="lithuanian"
+	father=473506
+	mother=473512
+	1331.1.2={
+		birth="1331.1.2"
+	}
+	1398.1.2={
+		death="1398.1.2"
+	}
+}
+
+125319 = {
+	name="伊丽莎白"
+	female=yes
+	dynasty=11
+	religion="catholic"
+	culture="lithuanian"
+	father=473500
+	mother=473502
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1364.1.2={
+		death="1364.1.2"
+	}
+}
+
+143134 = {
+	name="安塔纳斯"
+	dynasty=100420
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=28012
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+
+143135 = {
+	name="安塔纳斯"
+	dynasty=100420
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=143134
+	1119.1.1={
+		birth="1119.1.1"
+	}
+	1187.1.1={
+		death="1187.1.1"
+	}
+}
+
+82140 = {
+	name="帕勒芒" 
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father = 194115
+	825.1.1={
+		birth="825.1.1"
+	}
+	850.1.1=
+	{
+	add_spouse=82142
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+6893 = {
+	name="威高尔达斯"
+	dynasty=9117
+	religion=baltic_pagan
+	culture=lithuanian
+	810.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+
+82141 = {
+	name="恶魔" 
+	dynasty=9117
+	religion=baltic_pagan
+	culture=lithuanian
+	father=6893
+	830.1.1={
+		birth=yes
+	}
+	854.1.1=
+	{
+		add_spouse=82143
+	}
+	899.1.1={
+		death=yes
+	}
+}
+
+82142 = {
+	name="泽米亚"
+	female=yes
+	religion=baltic_pagan
+	culture=lithuanian
+	father=6893
+	833.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+82143 = {
+	name="拉戛纳"
+	female=yes
+	religion=baltic_pagan
+	culture=lithuanian
+	837.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+82144 = {
+	name="库诺斯"
+	dynasty=9116
+	religion=baltic_pagan
+	culture=lithuanian
+	father=82140
+	mother=82142
+	851.1.1={
+		birth=yes
+	}
+	867.1.1=
+	{
+		add_spouse=82277
+	}
+	890.1.1=
+	{
+		add_spouse=82157
+	}
+	935.1.1={
+		death=yes
+	}
+}
+
+82145 = {
+	name="库洛姆"
+	female=yes
+	dynasty=9116
+	religion=baltic_pagan
+	culture=lithuanian
+	father=82140
+	mother=82142
+	854.1.1={
+		birth=yes
+	}
+	939.1.1={
+		death=yes
+	}
+}
+
+
+82146 = {
+	name="波尔库斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82140
+	mother=82142
+	856.1.1={
+		birth="856.1.1"
+	}
+	880.1.1=
+	{
+	add_spouse=82151
+	}
+	938.1.1={
+		death="938.1.1"
+	}
+}
+
+
+82147 = {
+	name="布雷克阿"
+	female=yes
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82140
+	mother=82142
+	858.1.1={
+		birth="858.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+
+82148 = {
+	name="司蓓拉"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82140
+	mother=82142
+	860.1.1={
+		birth="860.1.1"
+	}
+	928.1.1={
+		death="928.1.1"
+	}
+
+
+}
+
+82149 = {
+	name="布比拉斯" 
+	dynasty=9117
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82141
+	mother=82143
+	856.1.1={
+		birth="856.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+
+
+82150 = {
+	name="佩特拉斯" 
+	dynasty=9117
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82141
+	mother=82143
+	858.1.1={
+		birth="858.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+82151 = {
+	name="威利沃纳"
+	female=yes
+	dynasty=9117
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82141
+	mother=82143
+	861.1.1={
+		birth="861.1.1"
+	}
+	944.1.1={
+		death="944.1.1"
+	}
+}
+
+
+82152 = {
+	name="科尔纽斯" 
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82144 #Kunos son of Palemon
+	mother=82157
+	895.1.1={
+		birth="895.1.1"
+	}
+	962.1.1={
+		death="958.1.1"
+	}
+
+
+}
+
+
+82153 = {
+	name="金布塔斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82144 #Kunos son of Palemon
+	mother=82157
+	899.1.1={
+		birth="899.1.1"
+	}
+	962.1.1={
+		death="962.1.1"
+	}
+
+
+}
+
+
+82154 = {
+	name="沃吉娜"
+	dynasty=9118 #of Gardinas
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father = 194118
+	827.1.1={
+		birth="827.1.1"
+	}
+	852.1.1=
+	{
+	add_spouse=82155
+	}
+	888.1.1={
+		death="888.1.1"
+	}
+}
+
+82155 = {
+	name="阿拉巴蒂斯"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	835.1.1={
+		birth="835.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+
+82156 = {
+	name="塔瓦拉斯"
+	dynasty=9118
+	religion="baltic_pagan"
+	father=82154
+	mother=82155
+	culture="lithuanian"
+	864.1.1={
+		birth="864.1.1"
+	}
+	880.1.1=
+	{
+	add_spouse=82147
+	}
+	937.1.1={
+		death="937.1.1"
+	}
+}
+
+82157 = {
+	name="拉兹多纳"
+	female=yes
+	dynasty=9118
+	religion="baltic_pagan"
+	father=82154
+	mother=82155
+	culture="lithuanian"
+	869.1.1={
+		birth="869.1.1"
+	}
+	939.1.1={
+		death="939.1.1"
+	}
+}
+
+
+82158 = {
+	name="德瓦甘迪思"
+	dynasty=9118
+	religion="baltic_pagan"
+	father=82156
+	mother=82147
+	culture="lithuanian"
+	882.1.1={
+		birth="882.1.1"
+	}
+	920.1.1=
+	{
+	add_spouse=82159
+	}
+	956.1.1={
+		death="956.1.1"
+	}
+}
+
+
+82159 = {
+	name="咖比加"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	899.1.1={
+		birth="899.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+
+
+82160 = {
+	name="衮度"
+	female=yes
+	dynasty=9118
+	religion="baltic_pagan"
+	father=82158
+	mother=82159
+	culture="lithuanian"
+	925.1.1={
+		birth="925.1.1"
+	}
+	999.1.1={
+		death="999.1.1"
+	}
+}
+
+
+82161 = {
+	name="克拉玛塔"
+	dynasty=9118
+	religion="baltic_pagan"
+	father=82158
+	mother=82159
+	culture="lithuanian"
+	931.1.1={
+		birth="931.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+
+82162 = {
+	name="乌布莱尼西亚"
+	dynasty=9118
+	religion="baltic_pagan"
+	father=82158
+	mother=82159
+	culture="lithuanian"
+	934.1.1={
+		birth="934.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+82163 = {
+	name="多曼蒂斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82148 #Spera son of Palemon
+	892.1.1={
+		birth="892.1.1"
+	}
+	955.1.1={
+		death="955.1.1"
+	}
+
+
+}
+
+
+82164 = {
+	name="帕高塔"
+	female=yes
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82152 #Kernius son of Kunos
+	920.1.1={
+		birth="920.1.1"
+	}
+	974.1.1={
+		death="974.1.1"
+	}
+
+
+}
+
+
+82165 = {
+	name="吉拉斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82163 #Daumantis son of Spera
+	914.1.1={
+		birth="914.1.1"
+	}
+	937.1.1=
+	{
+	add_spouse=82164
+	}
+	967.1.1={
+		death="967.1.1"
+	}
+
+
+}
+
+
+82166 = {
+	name="莫特维拉斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82153 #Gimbutas son of Kunos
+	mother=82157
+	929.1.1={
+		birth="929.1.1"
+	}
+	960.1.1=
+	{
+	add_spouse=82167
+	}
+	989.1.1={
+		death="989.1.1"
+	}
+
+
+}
+
+
+82167 = {
+	name="尼高乐"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	940.1.1={
+		birth="940.1.1"
+	}
+	1004.1.1={
+		death="1004.1.1"
+	}
+
+
+}
+
+
+
+82168 = {
+	name="涅曼"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82166 #Montvilas son of Gimbutas
+	mother=82167
+	961.1.1={
+		birth="961.1.1"
+	}
+	989.1.1={
+		death="989.1.1"
+	}
+
+
+}
+
+
+
+82169 = {
+	name="妹的兹欧杰纳"
+	female=yes
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82166 #Montvilas son of Gimbutas
+	mother=82167
+	963.1.1={
+		birth="963.1.1"
+	}
+	1034.1.1={
+		death="1034.1.1"
+	}
+
+
+}
+
+82170 = {
+	name="维金塔斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82166 #Montvilas son of Gimbutas
+	mother=82167
+	965.1.1={
+		birth="965.1.1"
+	}
+	998.1.1=
+	{
+	add_spouse=82174
+	}
+	1023.1.1={
+		death="1023.1.1"
+	}
+
+
+}
+
+82171 = {
+	name="埃尔的维拉斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82166 #Montvilas son of Gimbutas
+	mother=82167
+	968.1.1={
+		birth="968.1.1"
+	}
+	1041.1.1={
+		death="1041.1.1"
+	}
+
+
+}
+
+82172 = {
+	name="斯基尔曼塔斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82166 #Montvilas son of Gimbutas
+	mother=82167
+	970.1.1={
+		birth="970.1.1"
+	}
+	1012.1.1={
+		death="1012.1.1"
+	}
+
+
+}
+
+82173 = {
+	name="威尔贝加"
+	female=yes
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82166 #Montvilas son of Gimbutas
+	mother=82167
+	972.1.1={
+		birth="972.1.1"
+	}
+	1047.1.1={
+		death="1047.1.1"
+	}
+
+
+}
+
+
+82174 = {
+	name="拉贝格尔达"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	980.1.1={
+		birth="980.1.1"
+	}
+	1056.1.1={
+		death="1056.1.1"
+	}
+
+
+}
+
+82175 = {
+	name="文部达斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82170 #Vykintas son of Montvilas
+	mother=82174
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1020.1.1=
+	{
+	add_spouse=82179
+	}
+	1064.1.1={
+		death="1064.1.1"
+	}
+
+
+}
+
+
+82176 = {
+	name="库克外迪斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82165 #Kiras son of Daumantis
+	mother=82164 #Pajauta daughter of Kernius
+	940.1.1={
+		birth="940.1.1"
+	}
+	975.1.1=
+	{
+	add_spouse=82177
+	}
+	1021.1.1={
+		death="1021.1.1"
+	}
+
+
+}
+
+82177 = {
+	name="度吉"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	954.1.1={
+		birth="954.1.1"
+	}
+	1011.1.1={
+		death="1011.1.1"
+	}
+
+
+}
+
+
+82178 = {
+	name="伍特尼斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82176 #Kukovaitis son of Kiras son of Daumantis
+	mother=82177
+	977.1.1={
+		birth="977.1.1"
+	}
+	1022.1.1=
+	{
+	add_spouse=82181
+	}
+	1054.1.1={
+		death="1054.1.1"
+	}
+
+
+}
+
+
+82179 = {
+	name="帕高塔"
+	female=yes
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82176 #Kukovaitis son of Kiras son of Daumantis
+	mother=82177
+	988.1.1={
+		birth="988.1.1"
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+
+
+}
+
+82180 = {
+	name="库克外迪斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82175 #Zivinbudas son of Vykintas
+	mother=82179
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1088.1.1={
+		death="1088.1.1"
+	}
+
+
+}
+
+82181 = {
+	name="咖比加"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1001.1.1={
+		birth="1001.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+
+
+}
+
+
+82182 = {
+	name="贝恩塔拉基斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82178 #utenis son of Kukovaitis
+	mother=82181
+	1024.1.1={
+		birth="1024.1.1"
+	}
+	1065.1.1=
+	{
+	add_spouse=82201
+	}
+	1093.1.1={
+		death="1093.1.1"
+	}
+
+
+}
+
+
+82183 = {
+	name="波克留斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82178 #utenis son of Kukovaitis
+	mother=82181
+	1027.1.1={
+		birth="1027.1.1"
+	}
+	1084.1.1={
+		death="1084.1.1"
+	}
+
+
+}
+
+
+
+82184 = {
+	name="克罗尼斯"
+	female=yes
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82178 #utenis son of Kukovaitis
+	mother=82181
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1099.1.1={
+		death="1099.1.1"
+	}
+
+
+}
+
+82185 = {
+	name="搜塔瓦拉斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82178 #Utenis son of Kukovaitis
+	mother=82181
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+
+
+}
+
+82186 = {
+	name="威尔贝加"
+	female=yes
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82178 #utenis son of Kukovaitis
+	mother=82181
+	1036.1.1={
+		birth="1036.1.1"
+	}
+	1099.1.1={
+		death="1099.1.1"
+	}
+
+
+}
+
+
+82187 = {
+	name="明咖拉"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82171 #Erdvilas son of Montvilas
+	1008.1.1={
+		birth="1008.1.1"
+	}
+	1055.1.1=
+	{
+	add_spouse=82188
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+
+
+}
+
+
+82188 = {
+	name="米尔大"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1035.1.1={
+		birth="1025.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+
+
+}
+
+82189 = {
+	name="斯基尔曼塔斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82187 #Mingaila son of Erdvilas
+	mother=82188
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1080.1.1=
+	{
+	add_spouse=82192
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+
+
+}
+
+
+82190 = {
+	name="金维拉斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82187 #Mingaila son of Erdvilas
+	mother=82188
+	1058.1.1={
+		birth="1056.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+
+
+}
+
+
+82191 = {
+	name="骏达"
+	female=yes
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82187 #Mingaila son of Erdvilas
+	mother=82188
+	1062.1.1={
+		birth="1062.1.1"
+	}
+	1143.1.1={
+		death="1143.1.1"
+	}
+
+
+}
+
+
+82192 = {
+	name="拉萨"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1144.1.1={
+		death="1144.1.1"
+	}
+
+
+}
+
+
+82193 = {
+	name="配料"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82189 #Skirmantas son of Mingaila
+	mother=82192
+	1088.1.1={
+		birth="1088.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+
+
+}
+
+82194 = {
+	name="里欧巴尔塔斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82189 #Skirmantas son of Mingaila
+	mother=82192
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1150.1.1=
+	{
+	add_spouse=82197
+	}
+	1176.1.1={
+		death="1176.1.1"
+	}
+
+
+}
+
+82195 = {
+	name="皮斯曼塔斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82189 #Skirmantas son of Mingaila
+	mother=82192
+	1097.1.1={
+		birth="1097.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+
+
+}
+
+82196 = {
+	name="毕璐特"
+	female=yes
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82189 #Skirmantas son of Mingaila
+	mother=82192
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1157.1.1={
+		death="1157.1.1"
+	}
+
+
+}
+
+
+82197 = {
+	name="奥斯特拉"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+
+
+}
+
+82198 = {
+	name="阿尔吉曼塔斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82194 #Liubartas son of Skirmantas
+#	mother=82197
+	1111.1.1={
+		birth="1151.1.1"
+	}
+	1188.1.1={
+		death="1238.1.1"
+	}
+
+
+}
+
+
+
+82199 = {
+	name="乌帕里尼"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82194 #Liubartas son of Skirmantas
+	mother=82197
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1174.1.1={
+		religion="orthodox"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+
+
+}
+
+
+82200 = {
+	name="斯基尔曼塔斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82182 #妚entaragis son of Utenis
+	mother=82201
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1085.1.1=
+	{
+	add_spouse=82202
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+
+
+}
+
+
+82201 = {
+	name="盖拉"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+
+
+}
+
+
+82202 = {
+	name="句米娜"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1134.1.1={
+		death="1134.1.1"
+	}
+
+
+}
+
+82203 = {
+	name="库里吉纳斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82200 #Skirmkantas son of 妚entaragis
+	mother=82202
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1167.1.1={
+		death="1167.1.1"
+	}
+
+
+}
+
+82204 = {
+	name="特拉布斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82200 #Skirmkantas son of 妚entaragis
+	mother=82202
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1169.1.1={
+		death="1169.1.1"
+	}
+
+
+}
+
+82205 = {
+	name="罗哥沃罗达斯"
+	dynasty=9116
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82190 #Ginvilas son of Mingaila
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+
+
+}
+
+82206 = {
+	name="拉古蒂斯"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	820.1.1={
+		birth="820.1.1"
+	}
+	856.1.1=
+	{
+	add_spouse=82207
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+
+
+}
+
+
+82207 = {
+	name="乌帕里尼"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	840.1.1={
+		birth="840.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+
+
+}
+
+
+82208 = {
+	name="科尔皮西幽斯"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82206
+	mother=82207
+	857.1.1={
+		birth="857.1.1"
+	}
+	929.1.1={
+		death="929.1.1"
+	}
+
+
+}
+
+
+
+82209 = {
+	name="乌里尼提斯"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82206
+	mother=82207
+	859.1.1={
+		birth="859.1.1"
+	}
+	876.1.1=
+	{
+	add_spouse=82145
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+
+
+}
+
+82210 = {
+	name="莫得兹欧吉娜"
+	female=yes
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82206
+	mother=82207
+	861.1.1={
+		birth="861.1.1"
+	}
+	941.1.1={
+		death="941.1.1"
+	}
+
+
+}
+
+
+82211 = {
+	name="贝鲁特"
+	female=yes
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82209
+	mother=82145
+	880.1.1={
+		birth="880.1.1"
+	}
+	954.1.1={
+		death="954.1.1"
+	}
+
+
+}
+
+82212 = {
+	name="句拉特"
+	female=yes
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82209
+	mother=82145
+	882.1.1={
+		birth="882.1.1"
+	}
+	957.1.1={
+		death="957.1.1"
+	}
+
+
+}
+
+82213 = {
+	name="拐杖"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82209
+	mother=82145
+	885.1.1={
+		birth="885.1.1"
+	}
+	907.1.1=
+	{
+	add_spouse=82214
+	}
+	954.1.1={
+		death="954.1.1"
+	}
+
+
+}
+
+
+82214 = {
+	name="威尔贝加"
+	dynasty=9117
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82150
+	890.1.1={
+		birth="890.1.1"
+	}
+	967.1.1={
+		death="967.1.1"
+	}
+}
+
+
+82215 = {
+	name="加尔代提斯"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82213
+	mother=82214
+	917.1.1={
+		birth="917.1.1"
+	}
+	967.1.1=
+	{
+	add_spouse=82216
+	}
+	1002.1.1={
+		death="1002.1.1"
+	}
+
+
+}
+
+
+82216 = {
+	name="莱玛"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	945.1.1={
+		birth="945.1.1"
+	}
+	1027.1.1={
+		death="1027.1.1"
+	}
+}
+
+
+82217 = {
+	name="阿皮德玛"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82215
+	mother=82216
+	974.1.1={
+		birth="974.1.1"
+	}
+	1030.1.1=
+	{
+	add_spouse=82218
+	}
+	1056.1.1={
+		death="1056.1.1"
+	}
+
+
+}
+
+82218 = {
+	name="贝泽莱"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1014.1.1={
+		birth="1014.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+
+82219 = {
+	name="威布拉塔斯"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82217
+	mother=82218
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1079.1.1=
+	{
+	add_spouse=82191
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+
+
+}
+
+
+82220 = {
+	name="索特瓦拉斯"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82217
+	mother=82218
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1098.1.2=
+	{
+	add_spouse=82191
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+
+
+}
+
+
+82221 = {
+	name="乌帕里尼"
+	female=yes
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82217
+	mother=82218
+	1048.1.1={
+		birth="1048.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+
+
+}
+
+
+82222 = {
+	name="皮尔维特"
+	female=yes
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82219
+	mother=82191
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1158.1.1={
+		death="1158.1.1"
+	}
+
+
+}
+
+
+82223 = {
+	name="拉兹多娜"
+	female=yes
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82219
+	mother=82191
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1159.1.1={
+		death="1159.1.1"
+	}
+
+
+}
+
+82224 = {
+	name="代维提斯"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82219
+	mother=82191
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1135.1.2=
+	{
+	add_spouse=82227
+	}
+	1145.1.1={
+		death="1145.1.1"
+	}
+
+
+}
+
+82225 = {
+	name="克瓦斯"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82219
+	mother=82191
+	1088.1.1={
+		birth="1088.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+
+
+}
+
+
+82226 = {
+	name="乌里尼尼斯"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82220
+	mother=82191
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+
+
+}
+
+82227 = {
+	name="莫得兹欧简"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1117.1.1={
+		birth="1117.1.1"
+	}
+	1188.1.1={
+		death="1188.1.1"
+	}
+}
+
+82228 = {
+	name="布比拉兹"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82224
+	mother=82227
+	1136.1.1={
+		birth="1136.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+
+
+}
+
+82229 = {
+	name="塔瓦拉兹"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82224
+	mother=82227
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1205.1.1=
+	{
+	add_spouse=82230
+	}
+	1222.1.1={
+		death="1222.1.1"
+	}
+
+
+}
+
+82230 = {
+	name="拉泰尼西亚"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1187.1.1={
+		birth="1187.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+
+82231 = {
+	name="威布拉塔斯"
+	dynasty=9119
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father=82229
+	mother=82230
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	1282.1.1={
+		death="1282.1.1"
+	}
+
+
+}
+
+
+82275 = {
+	name="句特瓦"
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	father = 194109
+	799.1.1={
+		birth="799.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+
+
+}
+
+82276 = {
+	name="佩尔格鲁布里幽斯"
+	father=82275
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	844.1.1={
+		birth="844.1.1"
+	}
+	921.1.1={
+		death="921.1.1"
+	}
+
+
+}
+
+82277 = {
+	name="基尔提尼"
+	female=yes
+	father=82275
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	850.1.1={
+		birth="850.1.1"
+	}
+	927.1.1={
+		death="927.1.1"
+	}
+
+
+}
+
+82278 = {
+	name="巴尔多雅斯"
+	father=82276
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	911.1.1={
+		birth="911.1.1"
+	}
+	1000.1.1={
+		death="100.1.1"
+	}
+
+
+}
+
+82279 = {
+	name="尼蒂米拉斯"
+	father=82278
+	dynasty=9126
+	religion="catholic" #converted in 1009
+	culture="lithuanian"
+	950.1.1={
+		birth="950.1.1"
+	}
+	1015.1.1={
+		death="1015.1.1"
+	}
+
+
+}
+
+82280 = {
+	name="干你克里斯"
+	father=82279
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	989.1.1={
+		birth="989.1.1"
+	}
+	1040.1.1=
+	{
+	add_spouse=82281
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+
+
+}
+
+82281 = {
+	name="贝泽莱"
+	female=yes
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1024.1.1={
+		birth="1024.1.1"
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+
+
+}
+
+82282 = {
+	name="普劳里米"
+	female=yes
+	father=82280
+	mother=82281
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+
+
+}
+
+82283 = {
+	name="曼威达斯"
+	father=82280
+	mother=82281
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1060.1.1=
+	{
+	add_spouse=82186
+	}
+	1123.1.1={
+		death="1123.1.1"
+	}
+
+
+}
+
+
+82284 = {
+	name="威尔贝加"
+	female=yes
+	father=82283
+	mother=82186
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1061.1.1={
+		birth="1061.1.1"
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+
+
+}
+
+
+82285 = {
+	name="佩尔格鲁布"
+	female=yes
+	father=82283
+	mother=82186
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1063.1.1={
+		birth="1063.1.1"
+	}
+	1149.1.1={
+		death="1149.1.1"
+	}
+
+
+}
+
+
+82286 = {
+	name="科曼塔斯"
+	father=82283
+	mother=82186
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1144.1.1={
+		death="1144.1.1"
+	}
+
+
+}
+
+82287 = {
+	name="格蒂米纳斯"
+	father=82286
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1189.1.1={
+		death="1189.1.1"
+	}
+
+
+}
+
+82288 = {
+	name="布特威代斯"
+	father=82287
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1154.1.1={
+		birth="1154.1.1"
+	}
+	1235.1.1={
+		death="1235.1.1"
+	}
+
+
+}
+
+82289 = {
+	name="斯卡尔曼塔斯"
+	father=82288
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1199.1.1={
+		birth="1199.1.1"
+	}
+	1256.1.1={
+		death="1256.1.1"
+	}
+
+
+}
+
+82290 = {
+	name="科曼塔斯"
+	father=82289
+	dynasty=9126
+	religion="baltic_pagan"
+	culture="lithuanian"
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+
+
+}
+194108 = {
+	name = "阿鲁纳斯" #Arunas
+	dynasty = 9126
+	religion = baltic_pagan
+	culture = lettigallish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194109 = {
+	name = "约维达斯" #Jovirdas
+	dynasty = 9126
+	religion = baltic_pagan
+	culture = lettigallish
+	father = 194108
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194113 = {
+	name = "西儒里斯" #Cirulis
+	dynasty = 9116
+	religion = baltic_pagan
+	culture = lithuanian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194114 = {
+	name = "伊玛塔" #Imanta
+	dynasty = 9116
+	religion = baltic_pagan
+	culture = lithuanian
+	father = 194113
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194115 = {
+	name = "曼维达斯" #Manvydas
+	dynasty = 9116
+	religion = baltic_pagan
+	culture = lithuanian
+	father = 194114
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194116 = {
+	name = "阿鲁纳斯" #Arunas
+	dynasty = 9118
+	religion = baltic_pagan
+	culture = lithuanian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194117 = {
+	name = "曼特维达斯" #Mantvydas
+	dynasty = 9118
+	religion = baltic_pagan
+	culture = lithuanian
+	father = 194116
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194118 = {
+	name = "韦恩哥达斯" #Vingoldas
+	dynasty = 9118
+	religion = baltic_pagan
+	culture = lithuanian
+	father = 194117
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}

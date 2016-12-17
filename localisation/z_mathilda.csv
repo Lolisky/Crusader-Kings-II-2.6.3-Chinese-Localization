@@ -1,0 +1,46 @@
+;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+common_interests_opinion;¹²Í¬ÀûÒæ;;;;;;;;;x
+EVTDESC_37252;Äã±»ÄãµÄ[Root.GetEducationTool]¸ãµÃ»è»èÓûË¯£¬¼èÄÑµØÏë±£³Ö×¨×¢ºÍÇåĞÑ£¬ÕâÊ±ÄãµÄ[From.GetHusbandWife] [From.GetTitledFirstName]½øÀ´ÁË¡£[From.GetSheHeCap]´©¹ı·¿¼ä²¢Ô½¹ıÄãµÄ¼çÍ·¼ìÊÓÁË[Root.GetEducationTool]¡£¡°»òĞí²»Í¬µÄÊÓ½Ç»á¶ÔÄãÓĞÓÃ£¬Ç×°®µÄ[Root.GetHusbandWife]£¿¡±;;;;;;;;;x
+EVTOPTA_37252;Ò²ĞíÄãÊÇ¶ÔµÄ£¬[From.GetFirstName]¡£;;;;;;;;;x
+EVTOPTA_37252_TOOLTIP;½ÓÊÜ§Y[From.GetTitledFirstName]§!Ìá¹©°ïÖúµÄÌáÒé¡£\n;;;;;;;;;x
+EVTOPTB_37252;ÄãÄÑµÀ¾õµÃÎÒ×Ô¼º¸ã²»¶¨ÕâĞ©£¿;;;;;;;;;x
+EVTOPTB_37252_TOOLTIP;¾Ü¾ø§Y[From.GetTitledFirstName]§!Ìá¹©°ïÖúµÄÌáÒé¡£\n;;;;;;;;;x
+EVTDESC_37253;¸úÄãÒ»Ñù£¬ÄãµÄ[From.GetHusbandWife]Ò²ÔÚ[From.GetEducationSubject]ÊÜ¹ı½ÌÓı£¬ËùÒÔ[From.GetSheHe]ºÜ¿ìÀí½âÁËÄãÊÔÍ¼½âÊÍµÄÎÊÌâÖĞµÄÏ¸Î¢²î±ğ¡£ÄãÃÇÁ½ÈË×øÏÂ¿ªÊ¼ÑĞ¾¿£¬ÌÖÂÛ²¢±È½Ï[Root.GetEducationalTopicPlural]¡£[From.GetFirstName]ÕæÊÇ×îÊ¤ÈÎµÄ[From.GetEducationRole]£¡Ö»ÏûÒ»¸öÖÓÍ·£¬ÄãÒÑ¾­Îª»ñµÃÒ»¸ö¿É¿¿µÄ½á¹û´òÏÂÁË¼áÊµ»ù´¡¡£;;;;;;;;;x
+EVTOPTA_37253;Ìì²ÅµÄÏë·¨£¬[From.GetFirstName]£¡ÄãÓĞÆäËûµÄ½¨ÒéÂğ£¿;;;;;;;;;x
+EVTOPTA_37253_TOOLTIP;Íê³ÉÄãµÄ¹¤×÷ ÔÚ§Y[From.GetTitledFirstName]§!µÄ°ïÖúÖ®ÏÂ¡£\n;;;;;;;;;x
+EVTOPTB_37253;ÈÃÎÒÃÇ»Ø·¿ĞİÏ¢°É£¬ÎÒÇ×°®µÄ...;;;;;;;;;x
+EVTOPTB_37253_TOOLTIP;ÔİÊ±·ÅÏÂÄãµÄ¹¤×÷ ¸ú§Y[From.GetTitledFirstName]§!ÏíÊÜÒ»Ğ©ÓĞÈ¤µÄÊ±¹â...\n;;;;;;;;;x
+GetEducationTool_Martial;É³ÅÌ;;;;;;;;;x
+GetEducationTool_Diplomacy;ĞÅÔı;;;;;;;;;x
+GetEducationTool_Stewardship;ÕÊÄ¿;;;;;;;;;x
+GetEducationTool_Intrigue;µØÍ¼;;;;;;;;;x
+GetEducationTool_Learning;¾íÖá;;;;;;;;;x
+GetEducationalTopicPlural_Strategies;Õ½ÂÔ;;;;;;;;;x
+GetEducationalTopicPlural_TroopCompositions;×é¾ü;;;;;;;;;x
+GetEducationalTopicPlural_Diplomats;Íâ½»;;;;;;;;;x
+GetEducationalTopicPlural_Alliances;ÁªÃË;;;;;;;;;x
+GetEducationalTopicPlural_Phrasings;´Ê×é;;;;;;;;;x
+GetEducationalTopicPlural_TradeRoutes;ÉÌÂ·;;;;;;;;;x
+GetEducationalTopicPlural_InvestmentOpportunities;Í¶×Ê»ú»á;;;;;;;;;x
+GetEducationalTopicPlural_BuildingPlans;½¨Öş¼Æ»®;;;;;;;;;x
+GetEducationalTopicPlural_TaxLevels;Ë°ÊÕµÈ¼¶;;;;;;;;;x
+GetEducationalTopicPlural_Poisons;¶¾Ò©;;;;;;;;;x
+GetEducationalTopicPlural_Spies;¼äµı;;;;;;;;;x
+GetEducationalTopicPlural_TravelRoutes;ÉÌÂ·;;;;;;;;;x
+GetEducationalTopicPlural_PotentialAccomplices;Ç±ÔÚÍ¬Ä±;;;;;;;;;x
+GetEducationalTopicPlural_Priests;[This.Religion.GetPriestName]ÃÇ;;;;;;;;;x
+GetEducationalTopicPlural_Translations;·­Òë;;;;;;;;;x
+GetEducationalTopicPlural_Doctrines;½ÌÒå;;;;;;;;;x
+GetEducationalTopicPlural_Passages;[This.Religion.GetScriptureName]µÄÆ¬¶Î;;;;;;;;;x
+GetEducationSubject_Warfare;Õ½Õù;;;;;;;;;x
+GetEducationSubject_Diplomacy;Íâ½»;;;;;;;;;x
+GetEducationSubject_Stewardship;Àí²Æ;;;;;;;;;x
+GetEducationSubject_Intrigue;ÖÇÄ±;;;;;;;;;x
+GetEducationSubject_Theology;ÉñÑ§;;;;;;;;;x
+opinion_unfaithful_husband_crime;²»ÖÒµÄµÇÍ½×Ó;Infidélité;Untreuer Lüstling;;Libertino Infiel;;;;;;;;;x
+GetEducationRole_Strategist;Ãû½«;;;;;;;;;x
+GetEducationRole_Diplomat;Íâ½»¹Ù;;;;;;;;;x
+GetEducationRole_Steward;×Ü¹Ü;;;;;;;;;x
+GetEducationRole_Schemer;¹íÄ±;;;;;;;;;x
+GetEducationRole_Theologian;ÉñÑ§¼Ò;;;;;;;;;x
+;;

@@ -1,0 +1,3023 @@
+100507 = {
+	name="爱德拉"
+	female = yes
+	dynasty=501
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="martial_cleric"
+	980.1.2={
+		birth="980.1.2"
+	}
+	1040.1.2={
+		death="1040.1.2"
+	}
+}
+
+102520 = {
+	name="盖恩希尔德"
+	female = yes
+	dynasty=501
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="pommeranian"
+	trait="amateurish_plotter"
+	993.1.2={
+		birth="993.1.2"
+	}
+	1055.1.2={
+		death="1055.1.2"
+	}
+}
+
+20584 = {
+	name="康拓益" #High chief of Mecklenburg
+	dynasty=101890
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="proud"
+	trait="diligent"
+	trait="envious"
+	trait="brilliant_strategist"
+	father=20586
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1076.1.1={
+	add_spouse=30480 #Slavia z Liubice
+	}
+	
+	
+	1093.1.1={
+		death="1093.1.1"
+	}
+}
+
+20586 = {
+	name="戈音"
+	dynasty=101890
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="proud"
+	trait="zealous"
+	trait="tough_soldier"
+	father=30483
+	999.1.1={
+		birth="999.1.1"
+	}
+	1043.1.1={
+		death="1043.1.1"
+	}
+}
+
+20625 = {
+	name="巴尔尼姆"
+	dynasty=100308
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20626 = {
+	name="弗拉迪斯拉夫"
+	dynasty=100368
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="ill"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+221700 = {
+	name="弗拉迪斯拉夫" #Duke of Pomerania, count of Stettin
+	# AKA: Warcislaw
+	dynasty=177
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="slothful"
+	trait="hunchback"
+	trait="tough_soldier"
+	father=221703 #斯维托贝克
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1124.1.1={
+	religion="catholic"
+	}
+	
+	1129.1.1={
+	add_spouse=221701
+	}
+	
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+
+221701 = {
+	name="海伦娜"
+	female = yes
+	dynasty=7162
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="martial_cleric"
+	1108.1.1={
+		birth="1108.1.1"
+	}
+	1124.1.2={
+		religion="catholic"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+221702 = {
+	name="弗伊斯拉娃"
+	female = yes
+	dynasty=177
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="pommeranian"
+	trait="zealous"
+	trait="lustful"
+	trait="charismatic_negotiator"
+	father=221700
+	mother=221701
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+221703 = {
+	name="斯维托贝克"  #Duke of Pomerania, count of Stettin&Slupsk
+	# AKA: Swantepolk
+	dynasty=177
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="tough_soldier"
+	1087.1.1={
+		birth="1087.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+
+221710 = {
+	name="博吉斯拉夫" #I duke of Pomerania, count of Stettin
+	dynasty=177
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="pommeranian"
+	trait="tough_soldier"
+	father=221700
+	mother=221701
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1151.1.1={
+	add_spouse = 221711
+	}
+	1178.1.1={
+	add_spouse = 221568
+	}
+	1187.3.18={
+		death="1187.3.18"
+	}
+}
+
+221711 = {
+	name="瓦尔普尔加"
+	female=yes
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=30520 #斯旺迪博
+	1132.1.1={
+		birth="1132.1.1"
+	}
+	1175.4.18={
+		death="1175.4.18"
+	}
+}
+
+221712 = {
+	name="博吉斯拉夫" #Duke of Pommerania, count of Stettin
+	dynasty=177
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="pommeranian"
+	trait="gluttonous"
+	trait="tough_soldier"
+	father=221710
+	mother=221568
+	1178.1.1={
+		birth="1178.1.1"
+	}
+	1206.1.1={
+	add_spouse=30456 #米洛斯拉娃 Subislawic
+	}
+	1220.4.1={
+		death="1220.4.1"
+	}
+}
+
+221713 = {
+	name="卡齐米日"
+	# AKA: Kasimir
+	dynasty=177
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="pommeranian"
+	trait="tough_soldier"
+	father=221710
+	mother=221568
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+221714 = {
+	name="杜波丝拉娃"
+	female = yes
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=221710
+	mother=221711
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+221715 = {
+	name="卡齐米日"
+	dynasty=177
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	trait="skilled_tactician"
+	father=221700
+	mother=221701
+	1132.1.1={
+		birth="1132.1.1"
+	}
+	1180.11.1={
+		death="1180.11.1"
+	}
+}
+
+221716 = {
+	name="弗拉迪斯拉夫"
+	dynasty=177
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	trait="lustful"
+	trait="honest"
+	trait="just"
+	trait="cynical"
+	trait="scholarly_theologian"
+	father=221710
+	mother=221711
+	1161.1.1={
+		birth="1161.1.1"
+	}
+	1184.2.18={
+		death="1184.2.18"
+	}
+}
+
+221717 = {
+	name="拉提波"
+	dynasty=177
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="pommeranian"
+	trait="skilled_tactician"
+	father=221710
+	mother=221711
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1180.1.2={
+		add_spouse=221569
+	}
+	1183.1.14={
+		death="1183.1.14"
+	}
+}
+
+221718 = {
+	name="拉提波" #Duke of Pomerania, count of Slupsk
+	dynasty=177
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="pommeranian"
+	trait="tough_soldier"
+	father=221703
+	1103.1.1={
+		birth="1103.1.1"
+	}
+	1124.1.1={
+		religion="catholic"
+	}
+	1136.1.1={
+		add_spouse=222546
+	}
+	1156.5.7={
+		death="1156.5.7"
+	}
+}
+
+221719 = {
+	name="弗拉迪斯拉夫"
+	dynasty=177
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="pommeranian"
+	trait="lustful"
+	trait="tough_soldier"
+	father=221718
+	mother=222546
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1182.1.1={
+		death="1182.1.1"
+	}
+}
+
+221720 = {
+	name="博吉斯拉夫"
+	dynasty=177
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="pommeranian"
+	trait="slothful"
+	trait="martial_cleric"
+	father=221719
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	1224.1.1={
+		death="1224.1.1"
+	}
+}
+
+221721 = {
+	name="拉提波"
+	dynasty=177
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="pommeranian"
+	trait="just"
+	trait="cynical"
+	trait="tough_soldier"
+	father=221719
+	1163.1.1={
+		birth="1163.1.1"
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+
+221722 = {
+	name="玛基塔"
+	# AKA: Margareta
+	female = yes
+	dynasty=177
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="pommeranian"
+	trait="cynical"
+	trait="thrifty_clerk"
+	father=221719
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1237.1.1={
+		death="1237.1.1"
+	}
+}
+
+221723 = {
+	name="斯维托贝克"
+	# AKA: Swantepolk
+	dynasty=177
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="pommeranian"
+	trait="chaste"
+	trait="tough_soldier"
+	father=221718
+	mother=222546
+	1137.1.1={
+		birth="1137.1.1"
+	}
+	1175.1.20={
+		death="1175.1.20"
+	}
+}
+
+221730 = {
+	name="泰斯迪斯拉夫"
+	dynasty=101890
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="deceitful"
+	trait="skilled_tactician"
+	father=221734
+	1138.1.2={
+		birth="1138.1.2"
+	}
+	
+	1168.1.1={
+	religion="catholic"
+	}
+	
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+221732 = {
+	name="露西娅"
+	female = yes
+	dynasty=101890
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="pommeranian"
+	father=221735
+	mother=201512
+	1187.1.1={
+		birth="1187.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+221734 = {
+	name="维兹拉夫"
+	dynasty=101890
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="tough_soldier"
+	father=30482 #罗斯季斯拉夫
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1163.1.1={
+		death="1163.1.1"
+	}
+}
+
+221735 = {
+	name="雅罗马"
+	dynasty=101890
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="honest"
+	trait="kind"
+	trait="patient"
+	trait="tough_soldier"
+	father=221734 #维兹拉夫
+	
+	1147.1.1={
+		birth="1147.1.1"
+	}
+	
+	#Danes conquer and convert R黦en
+	
+	1168.1.1={
+	religion="catholic"
+	}
+	
+	1178.1.1={
+	add_spouse = 201512
+	}
+	
+	1218.1.1={
+		death="1218.1.1"
+	}
+}
+
+221736 = {
+	name="巴努塔"
+	dynasty=101890
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="pommeranian"
+	father=221735
+	mother=201512
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1236.1.1={
+		death="1236.1.1"
+	}
+}
+
+221737 = {
+	name="维兹拉夫"
+	dynasty=101890
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	father=221735
+	mother=201512
+	1186.1.1={
+		birth="1186.1.1"
+	}
+	1212.1.1={
+	add_spouse = 30488 #Margarete Hvide
+	}
+	
+	
+	1256.1.1={
+		death="1256.1.1"
+	}
+}
+
+2801 = {
+	name="阿斯特丽德"
+	female = yes
+	dynasty=620
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	trait="chaste"
+	trait="diligent"
+	trait="arbitrary"
+	trait="stutter"
+	trait="charismatic_negotiator"
+	979.1.2={
+		birth="979.1.2"
+	}
+	1006.1.2={
+		death="1006.1.2"
+	}
+}
+
+30463 = {
+	name="卡特琳娜"
+	female=yes
+	dynasty=175
+	
+	religion="catholic"
+	culture="pommeranian"
+	
+	father=30458
+	mother=30471
+	
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+
+30480 = {
+	name="斯拉维娜"
+	female=yes
+	dynasty=101907 #z Wagria
+	religion="slavic_pagan"
+	culture="pommeranian"
+	1061.1.1={
+		birth="1061.1.1"
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+
+30481 = {
+	name="瓦迪斯拉夫" #ruler of Rugen
+	dynasty=101890
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=20584 #康拓益
+	mother=30480 #斯拉维娜
+	1077.1.1={
+		birth="1077.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+30482 = {
+	name="罗斯季斯拉夫" #ruler of Rugen
+	dynasty=101890
+	
+	religion="slavic_pagan"
+	culture="pommeranian"
+	
+	father=30481 #瓦迪斯拉夫
+	
+	
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+
+30483 = {
+	name="维兹拉夫" 
+	dynasty=101890
+	
+	religion="slavic_pagan"
+	culture="pommeranian"
+	
+	
+	
+	955.1.1={
+		birth="955.1.1"
+	}
+	1016.1.1={
+		death="1016.1.1"
+	}
+}
+
+30484 = {
+	name="杜比茨拉夫"
+	dynasty=101890
+	religion="slavic_pagan"
+	culture="pommeranian"
+	
+	father=221734 #维兹拉夫
+	1148.1.1={
+		birth="1148.1.1"
+	}
+	
+	#Danes conquer and convert R黦en
+	
+	1168.1.1={
+	religion="catholic"
+	}
+	
+	1173.1.1={
+		death="1173.1.1"
+	}
+}
+
+30485 = {
+	name="斯托伊斯拉夫"
+	dynasty=101890
+	religion="slavic_pagan"
+	culture="pommeranian"
+	
+	father=221734 #维兹拉夫
+	1149.1.1={
+		birth="1149.1.1"
+	}
+	
+	#Danes conquer and convert R黦en
+	
+	1168.1.1={
+	religion="catholic"
+	}
+	
+	1193.1.1={
+		death="1193.1.1"
+	}
+}
+
+30486 = {
+	name="普比格尼夫"
+	dynasty=101890
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	father=221735
+	mother=201512
+	1191.1.1={
+		birth="1191.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+30487 = {
+	name="斯维托贝克"
+	dynasty=101890
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	father=221735
+	mother=201512
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1208.1.1={
+		death="1208.1.1"
+	}
+}
+
+30489 = {
+	name="雅罗斯瓦夫"
+	dynasty=101890
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	father=221737
+	mother=30488
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1243.1.1={
+		death="1243.1.1"
+	}
+}
+
+30490 = {
+	name="佩特吕斯"
+	dynasty=101890
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	father=221737
+	mother=30488
+	1216.1.1={
+		birth="1216.1.1"
+	}
+	1237.1.1={
+		death="1237.1.1"
+	}
+}
+
+30491 = {
+	name="雅罗马" #雅罗马 II
+	dynasty=101890
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	father=221737
+	mother=30488
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1241.1.1={
+		add_spouse = 30461 #爱菲米娅 Subislawic
+	}
+	1260.8.20={
+		death="1260.8.20"
+	}
+}
+
+30492 = {
+	name="维兹拉夫"
+	dynasty=101890
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	father=221737
+	mother=30488
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1244.1.1={
+		death="1244.1.1"
+	}
+}
+
+30493 = {
+	name="布里斯瓦夫"
+	dynasty=101890
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	father=221737
+	mother=30488
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1237.1.1={
+		death="1237.1.1"
+	}
+}
+
+30494 = {
+	name="米克拉斯"
+	# AKA: Mikolas
+	dynasty=101890
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	father=221737
+	mother=30488
+	1227.1.1={
+		birth="1227.1.1"
+	}
+	1237.1.1={
+		death="1237.1.1"
+	}
+}
+
+30495 = {
+	name="玛基塔"
+	# AKA: Marketa
+	female=yes
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	father=30491
+	mother=30461
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1272.1.1={
+		death="1272.1.1"
+	}
+}
+
+30496 = {
+	name="雅罗马" #雅罗马 III
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	father=30491
+	mother=30461
+	1249.1.1={
+		birth="1249.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+30497 = {
+	name="维兹拉夫" #维兹拉夫 II
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	father=30491
+	mother=30461
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1257.1.1={
+		add_spouse=30506 #艾格妮丝 Welf
+	}
+	1302.12.29={
+		death="1302.12.29"
+	}
+}
+
+30498 = {
+	name="维兹拉夫" #维兹拉夫 III
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	father=30497
+	mother=30506 #艾格妮丝 Welf
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1305.1.1={
+		add_spouse=33279
+	} 
+	1325.1.1={
+		add_spouse=462108
+	}
+	1325.11.8={
+		death="1325.11.8"
+	}
+}
+
+30499 = {
+	name="雅罗马" 
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	father=30497
+	mother=30506 #艾格妮丝 Welf
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1294.1.1={
+		death="1294.1.1"
+	}
+}
+
+30500 = {
+	name="桑博" 
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	trait="martial_cleric"
+	father=30497
+	mother=30506 #艾格妮丝 Welf
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1304.6.4={
+		death="1304.6.4"
+	}
+}
+
+30501 = {
+	name="斯维托贝克" 
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	trait="martial_cleric"
+	father=30497
+	mother=30506 #艾格妮丝 Welf
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+30502 = {
+	name="玛基塔" 
+	# AKA: Marketa
+	female=yes
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	trait="martial_cleric"
+	father=30497
+	mother=30506 #艾格妮丝 Welf
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+
+30503 = {
+	name="哈丽娜" 
+	# AKA: 海伦娜
+	female=yes
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	trait="martial_cleric"
+	father=30497
+	mother=30506 #艾格妮丝 Welf
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1315.8.9={
+		death="1315.8.9"
+	}
+}
+
+30504 = {
+	name="索菲娅" 
+	female=yes
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	trait="martial_cleric"
+	father=30497
+	mother=30506 #艾格妮丝 Welf
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+
+30507 = {
+	name="普日比斯拉夫"
+	dynasty=101906
+	religion="catholic"
+	culture="pommeranian"
+	father=8400 #布迪瓦
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1156.1.1={
+		death="1156.1.1"
+	}
+}
+
+30508 = {
+	name="斯维托贝克"
+	dynasty=101906
+	religion="catholic"
+	culture="pommeranian"
+	father=8402 #亨里克
+	mother=30480 #Slavia
+	1089.1.1={
+		birth="1089.1.1"
+	}
+	1129.1.1={
+		death="1129.1.1"
+	}
+}
+
+30509 = {
+	name="克努特"
+	dynasty=101906
+	religion="catholic"
+	culture="pommeranian"
+	father=8402 #亨里克
+	mother=30480 #Slavia
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1128.1.1={
+		death="1128.1.1"
+	}
+}
+
+30510 = {
+	name="米斯迪沃"
+	dynasty=101906
+	religion="catholic"
+	culture="pommeranian"
+	father=8402 #亨里克
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1127.1.1={
+		death="1127.1.1"
+	}
+}
+
+30511 = {
+	name="瓦尔德马尔"
+	dynasty=101906
+	religion="catholic"
+	culture="pommeranian"
+	father=8402 #亨里克
+	1088.1.1={
+		birth="1088.1.1"
+	}
+	1123.1.1={
+		death="1123.1.1"
+	}
+}
+
+30512 = {
+	name="茨维尼克"
+	dynasty=101906
+	religion="catholic"
+	culture="pommeranian"
+	father=30508 #斯维托贝克
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1129.7.1={
+		death="1129.7.1"
+	}
+}
+
+30520 = {
+	name="斯旺迪博" 
+	dynasty=177
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=221703 #斯维托贝克
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1124.1.1={
+		religion="catholic"
+	}
+	1144.1.1={
+		death="1144.1.1"
+	}
+}
+
+30521 = {
+	name="瓦迪斯拉夫" 
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=30520 #斯旺迪博
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1196.1.1={
+		death="1196.1.1"
+	}
+}
+
+30522 = {
+	name="泽莫米斯尔"  #Duke of Pomerania, count of Stettin&Slupsk
+	dynasty=7162 #z Pomorski
+	religion="slavic_pagan"
+	culture="pommeranian"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1068.1.1={
+		death="1068.1.1"
+	}
+}
+
+30523 = {
+	name="斯维迪博"  #Duke of Pomerania, count of Stettin&Slupsk
+	# AKA: 斯旺迪博
+	dynasty=7162 #z Pomorski
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=30522 #泽莫米斯尔
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1092.1.1={
+		death="1092.1.1"
+	}
+}
+
+30524 = {
+	name="戈维诺梅尔"
+	dynasty=7162 #z Pomorski
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=30522 #泽莫米斯尔
+	1047.1.1={
+		birth="1047.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+
+30525 = {
+	name="杜波丝拉娃"
+	female = yes
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=221719
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+30526 = {
+	name="玛基塔"
+	# AKA: Margareta
+	female=yes
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=221718
+	mother=222546
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+30527 = {
+	name="弗拉迪斯拉夫"
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=221713
+	1209.1.1={
+		birth="1209.1.1"
+	}
+	1264.5.17={
+		death="1264.5.17"
+	}
+}
+
+30528 = {
+	name="巴尔尼姆"
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=221713
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1227.10.12={
+		death="1227.10.12"
+	}
+}
+
+30529 = {
+	name="弗伊斯拉娃" 
+	female=yes
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=221712
+	mother=30456
+	1211.1.1={
+		birth="1211.1.1"
+	}
+	1229.5.7={
+		death="1229.5.7"
+	}
+}
+
+30530 = {
+	name="杜波丝拉娃" 
+	female=yes
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=221712
+	mother=30456
+	1213.1.1={
+		birth="1213.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+30531 = {
+	name="米洛斯拉娃"
+	female=yes
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=451953
+	mother=33739
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1328.11.11={
+		death="1328.11.11"
+	}
+}
+
+30532 = {
+	name="贝娅特丽克丝"
+	female=yes
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=451953
+	mother=33739
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1316.1.1={
+		death="1316.1.1"
+	}
+}
+
+30533 = {
+	name="梅希蒂尔德"
+	female=yes
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=451953
+	mother=33739
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1295.1.1={
+		death="1295.1.1"
+	}
+}
+
+30534 = {
+	name="巴尔尼姆"
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=451953
+	mother=33739
+	1277.1.1={
+		birth="1277.1.1"
+	}
+	1295.5.8={
+		death="1295.5.8"
+	}
+}
+
+30535 = {
+	name="尤蒂塔"
+	female = yes
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=471660
+	mother=30502
+	1293.1.1={
+		birth="1293.1.1"
+	}
+	1336.3.18={
+		death="1336.3.18"
+	}
+}
+
+30536 = {
+	name="奥顿"
+	# AKA: Otto
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=451952
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+30537 = {
+	name="斯温佐" #Real name unknown
+	dynasty=7163 #Swacowie
+	religion="catholic"
+	culture="pommeranian"
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+30538 = {
+	name="斯温佐" 
+	dynasty=7163 #Swacowie
+	religion="catholic"
+	culture="pommeranian"
+	father=30537
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+30539 = {
+	name="洛伦茨" 
+	dynasty=7163 #Swacowie
+	religion="catholic"
+	culture="pommeranian"
+	father=30537
+	1253.1.1={
+		birth="1253.1.1"
+	}
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+
+30540 = {
+	name="皮奥特" 
+	dynasty=7163 #Swacowie
+	religion="catholic"
+	culture="pommeranian"
+	father=30538
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1327.1.1={
+		death="1327.1.1"
+	}
+}
+
+30541 = {
+	name="雅斯科" 
+	dynasty=7163 #Swacowie
+	religion="catholic"
+	culture="pommeranian"
+	father=30538
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+
+30542 = {
+	name="洛伦茨" 
+	dynasty=7163 #Swacowie
+	religion="catholic"
+	culture="pommeranian"
+	father=30538
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1317.1.1={
+		death="1317.1.1"
+	}
+}
+
+30543 = {
+	name="斯温兹卡" 
+	dynasty=7163 #Swacowie
+	religion="catholic"
+	culture="pommeranian"
+	father=30539
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+30544 = {
+	name="卡齐米日" 
+	dynasty=7163 #Swacowie
+	religion="catholic"
+	culture="pommeranian"
+	father=30539
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+30550 = {
+	name="瓦迪斯拉夫"
+	dynasty=101893 #尼克洛特id
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=452005
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1160.8.2={
+		religion="catholic"
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+30551 = {
+	name="普利斯拉夫"
+	dynasty=101893 #尼克洛特id
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=452005
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1141.1.1={
+		add_spouse=30549
+	}
+	1160.8.2={
+		religion="catholic"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+
+30552 = {
+	name="尼克洛特" #Rostock
+	# AKA: Nikolaus
+	dynasty=101893 #尼克洛特id
+	religion="catholic"
+	culture="pommeranian"
+	father=30550
+	1164.1.1={
+		birth="1164.1.1"
+	}
+	1200.5.6={
+		death="1200.5.6"
+	}
+}
+
+30556 = {
+	name="普日比斯拉夫"
+	dynasty=101893
+	religion="catholic"
+	culture="pommeranian"
+	father=452003
+	mother=212610
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1225.9.28={
+		death="1225.9.28"
+	}
+}
+
+30558 = {
+	name="豆比艾斯拉夫"
+	dynasty=101893
+	religion="catholic"
+	culture="pommeranian"
+	father=452003
+	mother=212610
+	1183.1.1={
+		birth="1183.1.1"
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+30561 = {
+	name="普日比斯拉夫"
+	dynasty=101893
+	religion="catholic"
+	culture="pommeranian"
+	father=452002
+	#mother=christina of Sweden
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1250.1.1={
+		add_spouse=30548 #NN von Friesack
+	}
+	1272.8.1={
+		death="1272.8.1"
+	}
+}
+
+30574 = {
+	name="巴尔尼姆"
+	dynasty=101893 #尼克洛特id
+	religion="catholic"
+	culture="pommeranian"
+	father=30572
+	mother=30532
+	1291.1.1={
+		birth="1291.1.1"
+	}
+	1339.8.6={
+		death="1339.8.6"
+	}
+}
+
+30593 = {
+	name="普日比斯拉夫"
+	dynasty=101893
+	religion="catholic"
+	culture="pommeranian"
+	father=30561
+	mother=30548
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1269.1.1={
+		add_spouse=30463 #卡特琳娜 维兹拉夫id
+	}
+	1316.6.21={
+		death="1316.6.21"
+	}
+}
+
+30594 = {
+	name="普利比科"
+	dynasty=101893
+	religion="catholic"
+	culture="pommeranian"
+	father=30561
+	mother=30548
+	1253.1.1={
+		birth="1253.1.1"
+	}
+	1289.1.27={
+		death="1289.1.27"
+	}
+}
+
+30595 = {
+	name="穆斯托伊"
+	dynasty=101893
+	religion="catholic"
+	culture="pommeranian"
+	father=30593
+	mother=30463
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1311.1.1={
+		death="1311.1.1"
+	}
+}
+
+451521 = {
+	name="爱菲米娅"
+	# AKA: Euphemia
+	female = yes
+	dynasty=177
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="pommeranian"
+	trait="flamboyant_schemer"
+	father=471660
+	mother=30502
+	1287.1.1={
+		birth="1287.1.1"
+	}
+	1330.6.26={
+		death="1330.6.26"
+	}
+}
+
+451950 = {
+	name="奥顿" #count of Stettin
+	# AKA: Otto
+	dynasty=177
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pommeranian"
+	trait="greedy"
+	trait="craven"
+	trait="tough_soldier"
+	father=451953
+	mother=33739
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1296.1.2={
+		add_spouse=451976
+	}
+	1344.12.31={
+		death="1344.12.31"
+	}
+}
+
+451951 = {
+	name="玛蒂尔德"
+	female = yes
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=451950
+	mother=451976
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1332.7.12={
+		death="1332.7.12"
+	}
+}
+
+451952 = {
+	name="巴尔尼姆"
+	dynasty=177
+	religion="catholic"
+	culture="pommeranian"
+	father=451950
+	mother=451976
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1368.8.24={
+		death="1368.8.24"
+	}
+}
+
+451953 = {
+	name="巴尔尼姆" #Duke of Pommerania, count of Stettin
+	dynasty=177
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	trait="tough_soldier"
+	father=221712
+	mother=30456
+	1219.1.1={
+		birth="1219.1.1"
+	}
+	1239.1.1={
+		add_spouse=30546 #Mariana of Sweden
+	}
+	1253.1.1={
+		add_spouse=30584 #Margarethe 尼克洛特id
+	}
+	1267.1.1={
+		add_spouse=33739 #梅希蒂尔德 Askanien
+	}
+	1278.2.14={
+		death="1278.2.14"
+	}
+}
+
+452003 = {
+	name="海因里希 鲍尔温"
+	# AKA: 海因里希 鲍尔温
+	dynasty=101893 #尼克洛特id
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="pommeranian"
+	trait="lustful"
+	trait="humble"
+	trait="zealous"
+	trait="tough_soldier"
+	father=452004
+	mother=221702
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1173.1.1={
+		add_spouse = 212610 #Matilda Welf
+	}
+	1227.1.28={
+		death="1227.1.28"
+	}
+}
+
+452004 = {
+	name="普日比斯拉夫"
+	dynasty=101893 #Niklotid
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="tough_soldier"
+	father=452005
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1149.1.1={
+		add_spouse=221702 #Woislawa Gryfita
+	}
+	1160.8.2={
+		religion="catholic"
+	}
+	1178.12.1={
+		death="1178.12.1"
+	}
+}
+
+452005 = {
+	name="尼克洛特"
+	dynasty=101893 #尼克洛特id
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="charismatic_negotiator"
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1160.8.2={
+		death="1160.8.2"
+	}
+}
+
+452511 = {
+	name="爱菲米娅"
+	# AKA: Euphemia of Arnstein
+	female = yes
+	dynasty=101890 #维兹拉夫id
+	martial=8
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="pommeranian"
+	trait="chaste"
+	trait="slothful"
+	trait="humble"
+	trait="martial_cleric"
+	father=30497 #维兹拉夫 II
+	mother=30506 #艾格妮丝 Welf
+	1282.1.1={
+		birth="1282.1.1"
+	}
+	1312.1.2={
+		death="1312.1.2"
+	}
+}
+
+471554 = {
+	name="弗拉迪斯拉夫" #count of Wolgast
+	# AKA: Warcislaw
+	dynasty=177
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="pommeranian"
+	trait="martial_cleric"
+	father=471650
+	mother=471651
+	1326.11.1={
+		birth="1326.11.1"
+	}
+	1390.1.1={
+		death="1390.1.1"
+	}
+}
+
+471650 = {
+	name="弗拉迪斯拉夫" #Duke of Pomerania, count of R黦en, Rostock
+	# AKA: Warcislaw
+	dynasty=177
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="pommeranian"
+	trait="tough_soldier"
+	father=471660
+	mother=30502
+	1291.1.1={
+		birth="1291.1.1"
+	}
+	1315.1.2={
+		add_spouse=471651
+	}
+	1326.8.1={
+		death="1326.8.1"
+	}
+}
+
+471653 = {
+	name="巴尔尼姆" #count of Rugen
+	dynasty=177
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="pommeranian"
+	trait="tough_soldier"
+	father=471650
+	mother=471651
+	1317.7.17={
+		birth="1317.7.17"
+	}
+	1365.8.22={
+		death="1365.8.22"
+	}
+}
+
+471655 = {
+	name="博吉斯拉夫" #Duke of Pommerania
+	# AKA: Boguslaw
+	dynasty=177
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="pommeranian"
+	trait="patient"
+	trait="greedy"
+	trait="amateurish_plotter"
+	father=471650
+	mother=471651
+	1316.1.1={
+		birth="1316.1.1"
+	}
+	1373.12.7={
+		death="1373.12.7"
+	}
+}
+
+471658 = {
+	name="玛尔格扎塔"
+	female = yes
+	dynasty=177
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="pommeranian"
+	trait="patient"
+	trait="kind"
+	trait="pneumonic"
+	trait="amateurish_plotter"
+	father=471660
+	mother=30502
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1334.7.25={
+		death="1334.7.25"
+	}
+}
+
+471659 = {
+	name="艾尔兹毕耶塔"
+	female = yes
+	dynasty=177
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="pommeranian"
+	trait="envious"
+	trait="temperate"
+	trait="naive_appeaser"
+	father=471660
+	mother=30502
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1349.10.16={
+		death="1349.10.16"
+	}
+}
+
+471660 = {
+	name="博吉斯拉夫" #duke of Pommerania, count of Stettin
+	dynasty=177
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="pommeranian"
+	trait="underhanded_rogue"
+	father=451953
+	mother=30584
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1286.1.1={
+	add_spouse=30502 #Marketa 维兹拉夫id
+	}
+	1309.3.2={
+		death="1309.3.2"
+	}
+}
+
+471662 = {
+	name="阿纳斯塔西娅"
+	female = yes
+	dynasty=177
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="pommeranian"
+	trait="humble"
+	trait="underhanded_rogue"
+	father=451953
+	mother=30546
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1317.3.15={
+		death="1317.3.15"
+	}
+}
+
+505 = {
+	name="德拉赫米拉"
+	female = yes
+	dynasty=1042805
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=184006
+	trait="diligent"
+	trait="cynical"
+	trait="wroth"
+	trait="charismatic_negotiator"
+	890.1.1={
+		birth="890.1.1"
+	}
+	906.1.1={
+		religion=catholic #marries Vratislav I of Bohemia
+	}
+	935.1.2={
+		death="935.1.2"
+	}
+}
+
+8400 = {
+	name="布迪瓦"
+	dynasty=101906
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="pommeranian"
+	trait="wroth"
+	trait="proud"
+	trait="martial_cleric"
+	father=8410
+	1039.1.15={
+		birth="1039.1.15"
+	}
+	1073.1.1={
+		death="1073.1.1"
+	}
+}
+
+8402 = {
+	name="亨里克"
+	dynasty=101906
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="pommeranian"
+	trait="wroth"
+	trait="tough_soldier"
+	father=8410
+	mother=101527
+	1062.1.15={
+		birth="1062.1.15"
+	}
+	
+	1093.2.1={
+	add_spouse=30480 #Slavia z Liubice
+	}
+	1127.6.7={
+		death="1127.6.7"
+	}
+}
+
+8410 = {
+	name="古茨卡尔克"
+	# AKA: Gottschalk
+	dynasty=101906 #Nakonid
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pommeranian"
+	trait="zealous"
+	trait="charitable"
+	trait="diligent"
+	trait="martial_cleric"
+	father=8411
+	1005.1.15={
+		birth="1005.1.15"
+	}
+	1060.1.1={
+	add_spouse=101527
+	}
+	1066.6.7={
+		death="1066.6.7"
+	}
+}
+
+8411 = {
+	name="普利比格尼夫"
+	dynasty=101906
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="tough_soldier"
+	father=161119
+	970.1.1={
+		birth="970.1.1"
+	}
+	1000.1.1={
+		religion="catholic"
+	}
+	1028.1.1={
+		death="1028.1.1"
+	}
+}
+
+8420 = {
+	name="普日比斯拉夫"
+	dynasty=100304
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="zealous"
+	trait="gluttonous"
+	trait="tough_soldier"
+	1030.1.15={
+		birth="1030.1.15"
+	}
+	1080.1.15={
+		death="1080.1.15"
+	}
+}
+
+33282 = {
+	name="爱菲米娅"
+	female=yes
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	trait="ill" 
+	father=30498
+	mother=33279 
+	1306.1.1={
+		birth="1306.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+
+33283 = {
+	name="艾格妮丝"
+	female=yes
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	father=30498
+	mother=33279 
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1337.1.25={
+		death="1337.1.25"
+	}
+}
+
+33284 = {
+	name="雅罗马"
+	dynasty=101890
+	religion="catholic"
+	culture="pommeranian"
+	father=30498
+	mother=33279 
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1325.5.24={
+		death="1325.5.24"
+	}
+}
+
+96078 = {
+	name="兹迪斯拉夫"
+	religion="catholic"
+	culture="pommeranian"
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1182.1.1={
+		death="1182.1.1"
+	}
+}
+
+96103 = {
+	name="拉多斯拉夫"
+	religion="catholic"
+	culture="pommeranian"
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1142.1.19={
+		death="1142.1.19"
+	}
+}
+
+101552 = {
+	name="托芙" #fra Venden
+	female = yes
+	dynasty=101906 #Nakonid
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="slavic_pagan"
+	culture="pommeranian"
+	trait="proud"
+	trait="martial_cleric"
+	father=161119
+	948.1.1={
+		birth="948.1.1"
+	}
+	965.1.2={
+		religion="catholic"
+	}	
+	970.1.1={
+		death="970.1.1"
+	}
+}
+
+161118 = {
+	name="纳孔"
+	dynasty=101906
+	religion="slavic_pagan"
+	culture="pommeranian"
+	910.1.1={
+		birth="910.1.1"
+	}
+	966.1.1={
+		death="966.1.1"
+	}
+}
+
+161119 = {
+	name="摩西可"
+	dynasty=101906
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=161118
+	930.1.1={
+		birth="930.1.1"
+	}
+	995.1.1={
+		death="995.1.1"
+	}
+}
+
+161120 = {
+	name="米斯提达格"
+	dynasty=101906
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=161118
+	930.1.1={
+		birth="930.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+161121 = {
+	name="摩斯希克"
+	dynasty=101906
+	religion=slavic_pagan
+	culture=pommeranian
+	father=161119
+	955.1.1={
+		birth=yes
+	}
+	1005.1.1={
+		death=yes
+	}
+}
+
+184001 = {
+	name=Msciwoj
+	dynasty=1042800
+	religion=slavic_pagan
+	culture=pommeranian
+	father = 194064
+	830.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+6894 = {
+	name=Smiechna
+	female=yes
+	dynasty=1042800
+	religion=slavic_pagan
+	culture=pommeranian
+	father=184001
+	849.1.1={
+		birth=yes
+	}
+	897.1.1={
+		death=yes
+	}
+}
+
+#Pommerania
+184002 = {
+	name="扎格维特"
+	dynasty=1042801
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father = 194073
+	850.1.1={
+		birth=yes
+	}
+	867.1.1={
+		add_spouse=6895
+	}
+	920.1.1={
+		death=yes
+	}
+}
+#R黦en
+184003 = {
+	name="德沃韦德"
+	dynasty=1042802
+	religion="slavic_pagan"
+	culture="pommeranian"
+	840.1.1={
+		birth="840.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+#Pomeralia
+184004 = {
+	name="斯维托佩克"
+	dynasty=1042803
+	religion="slavic_pagan"
+	culture="pommeranian"
+	829.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+6895 = {
+	name=Jarka
+	female=yes
+	dynasty=1042803
+	religion=slavic_pagan
+	culture=pommeranian
+	father=184004
+	849.1.1={
+		birth=yes
+	}
+	897.1.1={
+		death=yes
+	}
+}
+
+#Brandenburg
+184005 = {
+	name="兹斯提博"
+	dynasty=1042804
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=168601
+	830.1.1={
+		birth="830.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+#Altmark
+184006 = {
+	name="巴尔宁"
+	dynasty=1042805
+	religion="slavic_pagan"
+	culture="pommeranian"
+	850.1.1={
+		birth="850.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+#Meissen/Lusatia
+184007 = {
+	name="拉多米尔"
+	dynasty=1042806
+	religion="slavic_pagan"
+	culture="pommeranian"
+	840.1.1={
+		birth="840.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+
+168553 = {
+	name="瓦克劳"
+	dynasty=1042805
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=184006
+	870.1.1={
+		birth=yes
+	}
+	930.1.1={
+		death=yes
+	}
+}
+
+
+
+168554 = {
+	name="图古米尔"
+	dynasty=1042805
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=168553
+	900.1.1={
+		birth=yes
+	}
+	960.1.1={
+		death=yes
+	}
+}
+
+
+
+168555 = {
+	name="普兹比斯劳"
+	dynasty=1042805
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=168554
+	950.1.1={
+		birth=yes
+	}
+	990.1.1={
+		add_spouse=168526
+	}
+	994.12.28={ #in battle
+		death=yes
+	}
+}
+
+
+
+168556 = {
+	name="柳多夫"
+	dynasty=1042805
+	religion="catholic"
+	culture="pommeranian"
+	father=168554
+	952.1.1={
+		birth=yes
+	}
+	
+	996.1.1={ 
+		death=yes
+	}
+}
+
+
+
+168557 = {
+	name="普里布沃"
+	dynasty=1042805
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=168554
+	953.1.1={
+		birth=yes
+	}
+	
+	992.1.1={ 
+		death=yes
+	}
+}
+
+
+
+
+168558 = {
+	name="波里卢"
+	dynasty=1042805
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=168554
+	954.1.1={
+		birth=yes
+	}
+	
+	1010.1.1={ 
+		death=yes
+	}
+}
+
+
+168559 = {
+	name="普兹比斯劳"
+	dynasty=1042805
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=168555
+	mother=168526
+	994.1.1={
+		birth=yes
+	}
+	
+	1057.1.1={ 
+		death=yes
+	}
+}
+
+168582 = {
+	name="穆奇斯劳"
+	#placeholder 
+	dynasty=9605
+	religion="slavic_pagan"
+	culture="pommeranian"
+	848.1.1 = {
+		birth=yes
+	}
+	
+	898.1.1 = {
+		death=yes
+	}
+}
+
+
+
+
+168583 = {
+	name="拉多斯拉夫"
+	#placeholder 
+	dynasty=9606
+	religion="slavic_pagan"
+	culture="pommeranian"
+	847.1.1 = {
+		birth=yes
+	}
+	
+	898.1.1 = {
+		death=yes
+	}
+}
+
+
+
+
+168584 = {
+	name="布雷迪斯拉夫"
+	#placeholder 
+	dynasty=9607
+	religion="slavic_pagan"
+	culture="pommeranian"
+	846.1.1 = {
+		birth=yes
+	}
+	
+	898.1.1 = {
+		death=yes
+	}
+}
+
+168585 = {
+	name="威兹劳" #Werle
+	#placeholder 
+	dynasty=9608
+	religion="slavic_pagan"
+	culture="pommeranian"
+	848.1.1 = {
+		birth=yes
+	}
+	867.1.1 = {
+		add_spouse=6894
+	}
+	898.1.1 = {
+		death=yes
+	}
+}
+
+168587 = {
+	name="兹迪斯拉夫" #Rostock
+	#placeholder 
+	dynasty=9609
+	religion="slavic_pagan"
+	culture="pommeranian"
+	849.1.1 = {
+		birth=yes
+	}
+	
+	898.1.1 = {
+		death=yes
+	}
+}
+
+
+
+
+168588 = {
+	name="卡耶坦" #Slupsk
+	#placeholder 
+	dynasty=9610
+	religion="slavic_pagan"
+	culture="pommeranian"
+	849.1.1 = {
+		birth=yes
+	}
+	
+	898.1.1 = {
+		death=yes
+	}
+}
+
+
+
+
+168589 = {
+	name="沃洛兹米尔兹" #Danzig
+	#placeholder 
+	dynasty=9611
+	religion="slavic_pagan"
+	culture="pommeranian"
+	849.1.1 = {
+		birth=yes
+	}
+	
+	898.1.1 = {
+		death=yes
+	}
+}
+
+
+
+168590 = {
+	name="德布洛米尔"
+	#placeholder 
+	dynasty=9607
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=168584
+	870.1.1 = {
+		birth=yes
+	}
+	
+	920.1.1 = {
+		death=yes
+	}
+}
+
+
+
+
+168591 = {
+	name="贝泽林"
+	#placeholder 
+	dynasty=9607
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=168590
+	895.1.1 = {
+		birth=yes
+	}
+	
+	929.1.1 = {
+		death=yes
+	}
+}
+
+168600 = {
+	name="米卢杜奇"
+	dynasty=1042804
+	religion="slavic_pagan"
+	culture="pommeranian"
+	750.1.1={
+		birth=yes
+	}
+	806.1.1={
+		death=yes
+	}
+}
+
+168601 = {
+	name="奇兹米斯拉夫"
+	dynasty=1042804
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=168600
+	790.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+
+168602 = {
+	name="贝杨纳"
+	#placeholder
+	dynasty=1042804
+	religion="slavic_pagan"
+	culture="pommeranian"
+	father=184005
+	855.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+194062 = {
+	name = "博里沃"
+	dynasty = 1042800
+	religion = slavic_pagan
+	culture = pommeranian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194063 = {
+	name = "伯拉第斯拉夫"
+	dynasty = 1042800
+	religion = slavic_pagan
+	culture = pommeranian
+	father = 194062
+	760.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194064 = {
+	name = "斯沃特佩尔科"
+	dynasty = 1042800
+	religion = slavic_pagan
+	culture = pommeranian
+	father = 194063
+	800.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194065 = {
+	name = "索沃斯拉夫"
+	dynasty = 1042801
+	religion = slavic_pagan
+	culture = pommeranian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194066 = {
+	name = "斯塔兹"
+	dynasty = 1042801
+	religion = slavic_pagan
+	culture = pommeranian
+	father = 194065
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194067 = {
+	name = "博里沃"
+	dynasty = 1042801
+	religion = slavic_pagan
+	culture = pommeranian
+	father = 194066
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194068 = {
+	name = "斯塔兹"
+	dynasty = 1042802
+	religion = slavic_pagan
+	culture = pommeranian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194069 = {
+	name = "维兹拉"
+	dynasty = 1042802
+	religion = slavic_pagan
+	culture = pommeranian
+	father = 194068
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194070 = {
+	name = "沃德克"
+	dynasty = 1042802
+	religion = slavic_pagan
+	culture = pommeranian
+	father = 194069
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194071 = {
+	name = "普热梅希尔"
+	dynasty = 1042803
+	religion = slavic_pagan
+	culture = pommeranian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194072 = {
+	name = "普日比斯拉夫"
+	dynasty = 1042803
+	religion = slavic_pagan
+	culture = pommeranian
+	father = 194071
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194073 = {
+	name = "斯沃特佩尔科"
+	dynasty = 1042803
+	religion = slavic_pagan
+	culture = pommeranian
+	father = 194072
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}

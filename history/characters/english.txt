@@ -1,0 +1,13621 @@
+144237 = {
+	name="ÍþÁ®"
+	dynasty=342
+	religion="catholic"
+	culture="english"
+	father=204750
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1221.2.1 = {
+		death="1221.2.1"
+	}
+}
+
+144238 = {
+	name="ÍþÁ®"
+	dynasty=342
+	religion="catholic"
+	culture="english"
+	father=144237
+	1203.1.1 = {
+		birth="1203.1.1"
+	}
+	1224.8.7 = {
+		death="1224.8.7"
+	}
+}
+
+144239 = {
+	name="ÐÝ"
+	dynasty=342
+	religion="catholic"
+	culture="english"
+	father=144237
+	1204.1.1 = {
+		birth="1204.1.1"
+	}
+	1243.5.7 = {
+		death="1243.5.7"
+	}
+}
+
+144240 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=342
+	religion="catholic"
+	culture="english"
+	father=144237
+	1205.1.1 = {
+		birth="1205.1.1"
+	}
+	1242.1.1 = {
+		death="1242.1.1"
+	}
+}
+
+203544 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes 
+	dynasty=101709
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father = 204540
+	mother = 204772
+	1200.10.9 = {
+		birth="1200.10.9"
+	}
+	1240.1.17 = {
+		death="1240.1.17"
+	}
+}
+
+203545 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=364
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="fortune_builder"
+	father=204801
+	mother=203544
+	1226.11.2 = {
+		birth="1226.11.2"
+	}
+	1264.7.10 = {
+		death="1264.7.10"
+	}
+}
+
+204000 = {
+	name="ÍþÁ®"
+	dynasty=350
+	martial=6
+	diplomacy=3
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	1127.1.1 = {
+		birth="1127.1.1"
+	}
+	1157.1.19 = {
+		add_spouse=204623
+	}
+	1180.1.11 = {
+		death="1180.1.11"
+	}
+}
+
+204004 = {
+	name="ÍþÁ®"
+	dynasty=350
+	martial=6
+	diplomacy=3
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="wroth"
+	trait="envious"
+	trait="deceitful"
+	trait="flamboyant_schemer"
+	father=204000
+	mother=204623
+	1148.1.1 = {
+		birth="1148.1.1"
+	}
+	1165.1.1 = {
+		add_spouse = 204005
+	}
+	1198.1.1 = {
+		death="1198.1.1"
+	}
+}
+
+204005 = {
+	name="Ã°µÃ"
+	female = yes
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="cynical"
+	trait="proud"
+	trait="gluttonous"
+	trait="naive_appeaser"
+	1149.1.1 = {
+		birth="1149.1.1"
+	}
+	1199.1.1 = {
+		death="1199.1.1"
+	}
+}
+
+204006 = {
+	name="À×½ðÄÉµÂ"
+	dynasty=350
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="honest"
+	trait="misguided_warrior"
+	father=204000
+	mother=204623
+	1157.1.1 = {
+		birth="1157.1.1"
+	}
+	1186.1.19 = {
+		add_spouse=204007
+	}
+	1207.1.1 = {
+		death="1207.1.1"
+	}
+}
+
+204007 = {
+	name="¸ñÂÞÎ÷æ«"
+	female = yes
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="temperate"
+	trait="honest"
+	trait="arbitrary"
+	trait="flamboyant_schemer"
+	1166.1.1 = {
+		birth="1166.1.1"
+	}
+	1216.1.1 = {
+		death="1216.1.1"
+	}
+}
+
+204008 = {
+	name="ÍþÁ®"
+	dynasty=350
+	martial=7
+	diplomacy=3
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="english"
+	trait="slothful"
+	trait="cynical"
+	trait="tough_soldier"
+	father=204004
+	mother=204005
+	1169.1.1 = {
+		birth="1169.1.1"
+	}
+	1219.1.1 = {
+		death="1219.1.1"
+	}
+}
+
+204009 = {
+	name="¼Ö¶ûË¹"
+	dynasty=350
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="cynical"
+	trait="brave"
+	trait="martial_cleric"
+	father=204004
+	mother=204005
+	1173.1.1 = {
+		birth="1173.1.1"
+	}
+	1223.1.1 = {
+		death="1223.1.1"
+	}
+}
+
+204010 = {
+	name="Ä½µÂ"
+	female = yes
+	dynasty=350
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="humble"
+	trait="chaste"
+	trait="charismatic_negotiator"
+	father=204004
+	mother=204005
+	1171.1.1 = {
+		birth="1171.1.1"
+	}
+	1221.1.1 = {
+		death="1221.1.1"
+	}
+}
+
+204011 = {
+	name="À×ÄÉµÂ"
+	dynasty=350
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="stutter"
+	trait="thrifty_clerk"
+	father=204004
+	mother=204005
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1227.5.5 = {
+		death="1227.5.5"
+	}
+}
+
+204012 = {
+	name="Ô¼º²"
+	dynasty=350
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=204004
+	mother=204005
+	1176.1.1 = {
+		birth="1176.1.1"
+	}
+	1226.1.1 = {
+		death="1226.1.1"
+	}
+}
+
+204013 = {
+	name="Çí¶÷"
+	female = yes
+	dynasty=350
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="zealous"
+	trait="arbitrary"
+	trait="stutter"
+	trait="scholarly_theologian"
+	father=204004
+	mother=204005
+	1165.1.1 = {
+		birth="1165.1.1"
+	}
+	1215.1.1 = {
+		death="1215.1.1"
+	}
+}
+
+204014 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=350
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="cynical"
+	trait="amateurish_plotter"
+	father=204004
+	mother=204005
+	1177.1.1 = {
+		birth="1177.1.1"
+	}
+	1256.1.1 = {
+		death="1256.1.1"
+	}
+}
+
+204020 = {
+	name="ÎÖ¶ûÌØ"
+	dynasty=4037
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="envious"
+	trait="tough_soldier"
+	father=204021
+	1172.1.1 = {
+		birth="1172.1.1"
+	}
+	1200.1.19 = {
+		add_spouse=204014
+	}
+	1241.1.1 = {
+		death="1241.1.1"
+	}
+}
+
+204021 = {
+	name="ÐÝ"
+	dynasty=4037
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="tough_soldier"
+	father=129082
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1186.7.25={
+		death="1186.7.25"
+	}
+}
+
+204022 = {
+	name="ÐÝ"
+	dynasty=4037
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="tough_soldier"
+	father=204021
+	1176.1.1 = {
+		birth="1176.1.1"
+	}
+	1242.12.26 = {
+		death="1242.12.26"
+	}
+}
+
+204023 = {
+	name="Ä½µÂ"
+	female = yes
+	dynasty=4037
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="slothful"
+	trait="humble"
+	trait="gluttonous"
+	trait="naive_appeaser"
+	father=204021
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1219.1.1 = {
+		death="1219.1.1"
+	}
+}
+
+204038 = {
+	name="Î÷°Â²©¶ûµÂ"
+	dynasty=4040
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="tough_soldier"
+	father=204039
+	1151.1.1 = {
+		birth="1151.1.1"
+	}
+	1175.1.19 = {
+		add_spouse=204040
+	}
+	1205.5.1 = {
+		death="1205.5.1"
+	}
+}
+
+204039 = {
+	name="ºÕÎ¬"
+	# AKA: Hervey Walter
+	dynasty=4040
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="deceitful"
+	trait="tough_soldier"
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1175.1.1 = {
+		death="1175.1.1"
+	}
+}
+
+204040 = {
+	name="Ä½µÂ"
+	female = yes
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="cynical"
+	trait="amateurish_plotter"
+	1155.1.1 = {
+		birth="1155.1.1"
+	}
+	1205.1.1 = {
+		death="1205.1.1"
+	}
+}
+
+204041 = {
+	name="Î÷°Â²©¶ûµÂ"
+	dynasty=4040
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="temperate"
+	trait="humble"
+	trait="tough_soldier"
+	father=204038
+	mother=204040
+	1174.1.1 = {
+		birth="1174.1.1"
+	}
+	1230.7.1 = {
+		death="1230.7.1"
+	}
+}
+
+204042 = {
+	name="Ä½µÂ"
+	female = yes
+	dynasty=4040
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="just"
+	trait="gluttonous"
+	trait="thrifty_clerk"
+	father=204038
+	mother=204040
+	1176.1.1 = {
+		birth="1176.1.1"
+	}
+	1226.1.1 = {
+		death="1226.1.1"
+	}
+}
+
+204500 = {
+	name="ºàÀû" # Henry II
+	dynasty=106
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="wroth"
+	trait="greedy"
+	trait="ambitious"
+	trait="lustful"
+	trait="fortune_builder"
+	father=204506
+	mother=202991
+	1133.3.5 = {
+		birth="1133.3.5"
+	}
+	1152.5.18 = {
+		add_spouse = 205730
+	}
+	1187.1.1 = {
+		trait="ill"
+	}
+	1189.7.6 = {
+		death="1189.7.6"
+	}
+}
+
+204502 = {
+	name="¿µË¹Ì¹´Ä"
+	female = yes
+	dynasty=106
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="patient"
+	father=204511
+	mother=205740
+	1183.1.2 = {
+		birth="1183.1.2"
+	}
+	1233.1.2 = {
+		death="1233.1.2"
+	}
+}
+
+204503 = {
+	name="°£ÀòÅµ¶û"
+	female = yes
+	dynasty=106
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	father=204511
+	mother=205740
+	1184.1.2 = {
+		birth="1184.1.2"
+	}
+	1234.1.2 = {
+		death="1234.1.2"
+	}
+}
+
+204504 = {
+	name="ÂíµÙ¶ûµÂ"
+	female = yes
+	dynasty=106
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=204511
+	mother=205740
+	1185.1.2 = {
+		birth="1185.1.2"
+	}
+	1235.1.2 = {
+		death="1235.1.2"
+	}
+}
+
+204505 = {
+	name="ÑÇÉª"
+	dynasty=106
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	father=204511
+	mother=205740
+	1187.3.29 = {
+		birth="1187.3.29"
+	}
+	1203.4.3 = {
+		death="1203.4.3"
+	}
+}
+
+204507 = {
+	name="ÍþÁ®"
+	dynasty=106
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="martial_cleric"
+	father=204500
+	mother=205730
+	1153.8.17 = {
+		birth="1153.8.17"
+	}
+	1156.4.2 = {
+		death="1156.4.2"
+	}
+}
+
+204508 = {
+	name="ºàÀû"
+	# AKA: Henry the Young King
+	dynasty=106
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="fair"
+	trait="duelist"
+	trait="diligent"
+	trait="martial_cleric"
+	father=204500
+	mother=205730
+	1155.2.28 = {
+		birth="1155.2.28"
+	}
+	1172.1.2 = {
+		give_nickname=nick_the_young
+		add_spouse=205515
+	}
+	1183.6.11 = {
+		death="1183.6.11"
+	}
+}
+
+204509 = {
+	name="ÂêµÙ¶û´ï" #Plantagenet
+	female = yes
+	dynasty=106
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="zealous"
+	trait="flamboyant_schemer"
+	father=204500
+	mother=205730
+	1156.1.2 = {
+		birth="1156.1.2"
+	}
+	1206.1.2 = {
+		death="1206.1.2"
+	}
+}
+
+204510 = {
+	name="Àí²é"
+	# AKA: Richard the Lionheart
+	dynasty=106
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="chaste"
+	trait="brave"
+	trait="fair"
+	trait="proud"
+	trait="brilliant_strategist"
+	father=204500
+	mother=205730
+	1157.9.8 = {
+		birth="1157.9.8"
+	}
+	1187.1.1 = {
+		give_nickname=nick_the_lionheart
+		trait="crusader"
+	}
+	1191.5.1 = {
+		add_spouse=206501 #Berengaria de Navarra
+	}	
+	1199.4.6 = {
+		death="1199.4.6"
+	}
+}
+
+204511 = {
+	name="½Ü¸¥Àï"
+	dynasty=106
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="deceitful"
+	trait="scholarly_theologian"
+	father=204500
+	mother=205730
+	1158.9.23 = {
+		birth="1158.9.23"
+	}
+	1178.1.1 = {
+		add_spouse = 205740
+	}
+	1186.8.19 = {
+		death="1186.8.19"
+	}
+}
+
+204512 = {
+	name="°£ÀòÅµ"
+	female = yes
+	dynasty=106
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="slothful"
+	trait="charitable"
+	trait="cynical"
+	trait="martial_cleric"
+	father=204500
+	mother=205730
+	1162.1.14 = {
+		birth="1162.1.14"
+	}
+	1212.1.14 = {
+		death="1212.1.14"
+	}
+}
+
+204513 = {
+	name="Çí"
+	female = yes
+	dynasty=106
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="deceitful"
+	trait="cynical"
+	trait="scholarly_theologian"
+	father=204500
+	mother=205730
+	1165.1.2 = {
+		birth="1165.1.2"
+	}
+	1215.1.2 = {
+		death="1215.1.2"
+	}
+}
+
+204514 = {
+	name="Ô¼º²" #Lackland Prince John
+	dynasty=106
+	dna="kldxnqxzfjn"
+	properties="0g00l0"
+	martial=4
+	diplomacy=2
+	intrigue=7
+	stewardship=2
+	religion="catholic"
+	culture="english"
+	trait="arbitrary"
+	trait="greedy"
+	trait="deceitful"
+	trait="envious"
+	trait="craven"
+	trait="indulgent_wastrel"
+	father=204500
+	mother=205730
+	1166.12.24 = {
+		birth="1166.12.24"
+	}
+	1189.8.29 = {
+		add_spouse = 204665
+	}
+	1199.4.6={
+		add_claim = c_anjou
+		add_claim = c_maine
+		add_claim = d_anjou
+	}
+	1199.8.1 = {
+		remove_spouse = 204665
+	}
+	1200.8.24 = {
+		add_spouse = 205648
+	}
+	1204.1.1={
+		add_claim = d_normandy
+		add_claim = c_evreux
+		add_claim = c_avranches
+		add_claim = c_arques
+	}
+	1216.10.18 = {
+		death="1216.10.18"
+	}
+}
+
+204515 = {
+	name="°¬´ï" #Ida de Tosny
+	female = yes
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="wroth"
+	trait="kind"
+	trait="scholarly_theologian"
+	1159.1.1 = {
+		birth="1159.1.1"
+	}
+	1205.1.2 = {
+		death="1205.1.2"
+	}
+}
+
+204516 = {
+	name="½Ü¸¥Àï"
+	dynasty=106
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	trait="chaste"
+	trait="scholarly_theologian"
+	father=204500
+	1152.1.2 = {
+		birth="1152.1.2"
+	}
+	1212.12.12 = {
+		death="1212.12.12"
+	}
+}
+
+204517 = {
+	name="ÍþÁ®"
+	dynasty=20050
+	martial=8
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	trait="honest"
+	trait="gluttonous"
+	trait="tough_soldier"
+	father=204500
+	1173.1.18 = {
+		birth="1173.1.18"
+	}
+	1202.1.1 = {
+		add_spouse=204532
+	}
+	1223.1.18 = {
+		death="1223.1.18"
+	}
+}
+
+204520 = {
+	name="ÐÝ"
+	dynasty=101708
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="lustful"
+	trait="scholarly_theologian"
+	1157.1.24 = {
+		birth="1157.1.24"
+	}
+	1207.1.24 = {
+		death="1207.1.24"
+	}
+}
+
+204525 = {
+	name="ÈøÀ­"#of Cornwall (de Dunstanville )
+	female = yes
+	dynasty=1020103 #was Nicolay 367
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	learning=4
+	religion="catholic"
+	culture="english"
+	trait="deceitful"
+	trait="brave"
+	trait="scholarly_theologian"
+	father=204571
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	#married 1156 Boson Adhémar V de Comborn 205620
+	1190.1.1 = { 
+		death="1190.1.1"
+	}
+}
+
+204526 = {
+	name="µÂÄáÉ¯"
+	female = yes
+	dynasty=1020103 #de Dunstanville
+	religion="catholic"
+	culture="english"
+	father=204571
+	1133.1.1 = {
+		birth="1133.1.1"
+	}
+	1162.4.21 = {
+		death="1162.4.21"
+	}
+}
+
+204530 = {
+	name="ÍþÁ®" # William FitzPatrick
+	dynasty=100023
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="chaste"
+	trait="humble"
+	trait="misguided_warrior"
+	father=204533
+	mother=204534
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1180.1.1 = {
+		add_spouse=204531
+	}
+	1196.1.1 = {
+		death="1196.1.1"
+	}
+}
+
+204532 = {
+	name="°£À­"
+	female = yes
+	dynasty=100023
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	father=204530
+	mother=204531
+	1186.1.1 = {
+		birth="1186.1.1"
+	}
+	1261.8.24 = {
+		death="1261.8.24"
+	}
+}
+
+204533 = {
+	name="ÅÁÌØÀï¿Ë"
+	dynasty=100023
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	father=204535
+	1120.1.24 = {
+		birth="1120.1.24"
+	}
+	1150.1.2 = {
+		add_spouse=204534
+	}
+	1168.1.20 = {
+		death="1168.1.20"
+	}
+}
+
+204535 = {
+	name="ÎÖ¶ûÌØ"
+	dynasty=100023
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	1102.1.24 = {
+		birth="1102.1.24"
+	}
+	1150.1.20 = {
+		death="1150.1.20"
+	}
+}
+
+204536 = {
+	name="Î÷±È¶û"
+	female = yes
+	dynasty=100023
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	father=204535
+	1120.1.24 = {
+		birth="1120.1.24"
+	}
+	1186.1.20 = {
+		death="1186.1.20"
+	}
+}
+
+204537 = {
+	name="°¢¶ûÞ±Ë¿"
+	female = yes
+	dynasty=100023
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="humble"
+	trait="cynical"
+	trait="flamboyant_schemer"
+	father=204535
+	1130.1.2 = {
+		birth="1130.1.2"
+	}
+	1180.1.2 = {
+		death="1180.1.2"
+	}
+}
+
+204538 = {
+	name="Ô¼º²"
+	dynasty=101709
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	1115.1.24 = {
+		birth="1115.1.24"
+	}
+	1136.1.1 = {
+		add_spouse = 204536
+	}
+	1165.11.1 = {
+		death="1165.11.1"
+	}
+}
+
+204539 = {
+	name="Ô¼º²"
+	dynasty=101709
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=2
+	religion="catholic"
+	culture="english"
+	trait="lunatic"
+	trait="tough_soldier"
+	father=204538
+	mother=204536
+	1145.1.1 = {
+		birth="1145.1.1"
+	}
+	1176.4.20 = {
+		employer = 204500
+		effect = {
+			give_job_title=job_marshal
+		}
+	}
+	1194.3.1 = {
+		death="1194.3.1"
+	}
+}
+
+204540 = {
+	name="ÍþÁ®"
+	dynasty=101709
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="brave"
+	trait="diligent"
+	trait="honest"
+	trait="skilled_tactician"
+	father=204538
+	mother=204536
+	1146.1.1 = {
+		birth="1146.1.1"
+	}
+	1189.8.1 = {
+		add_spouse = 204772
+	}
+	1194.3.1 = {
+		effect = {
+			give_job_title=job_marshal
+		}
+	}
+	1219.5.14 = {
+		death="1219.5.14"
+	}
+}
+
+204550 = {
+	name="°Â²¼Àï" 
+	dynasty=365 #de Vere
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="martial_cleric"
+	father=204560
+	mother=204561
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1140.1.1 = {
+		add_spouse = 32152
+	}
+	1145.9.1 = {
+		remove_spouse = 32152
+	}
+	1163.1.3 = {
+		add_spouse = 204575
+	}
+	1194.12.1 = {
+		death="1194.12.1"
+	}
+}
+
+204551 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=365
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="scholarly_theologian"
+	father=204550
+	mother=204575
+	1170.1.2 = {
+		birth="1170.1.2"
+	}
+	1207.1.1 = {
+		add_spouse=129043
+	}
+	1221.1.1 = {
+		death="1221.1.1"
+	}
+}
+
+204552 = {
+	name="À­¶û·ò"
+	dynasty=365
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="arbitrary"
+	trait="flamboyant_schemer"
+	father=204550
+	mother=204575
+	1168.1.2 = {
+		birth="1168.1.2"
+	}
+	1218.1.2 = {
+		death="1218.1.2"
+	}
+}
+
+204553 = {
+	name="ºàÀû"
+	dynasty=365
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="harelip"
+	trait="thrifty_clerk"
+	father=204550
+	mother=204575
+	1172.1.2 = {
+		birth="1172.1.2"
+	}
+	1222.1.2 = {
+		death="1222.1.2"
+	}
+}
+
+204554 = {
+	name="°®ÀöË¿"
+	female = yes
+	dynasty=365
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="greedy"
+	trait="martial_cleric"
+	father=204550
+	mother=204575
+	1174.1.2 = {
+		birth="1174.1.2"
+	}
+	1224.1.2 = {
+		death="1224.1.2"
+	}
+}
+
+204555 = {
+	name="°Â²¼Àï"
+	dynasty=365
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="harelip"
+	trait="tough_soldier"
+	father=204550
+	mother=204575
+	1172.1.1 = {
+		birth="1172.1.1"
+	}
+	1214.10.1 = {
+		death="1214.10.1"
+	}
+}
+
+204560 = {
+	name="°Â²¼Àï"
+	dynasty=365
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="wroth"
+	trait="amateurish_plotter"
+	1082.1.2 = {
+		birth="1082.1.2"
+	}
+	1119.1.2 = {
+		add_spouse=204561
+	}
+	1141.1.4 = {
+		death="1141.1.4"
+	}
+}
+
+204561 = {
+	name="°¢µÂÀöÉ¯"
+	female = yes
+	dynasty=364
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	father=204792
+	1077.1.2 = {
+		birth="1077.1.2"
+	}
+	1163.1.2 = {
+		death="1163.1.2"
+	}
+}
+
+204563 = {
+	name="ÂÞÜçæ«"
+	female = yes
+	dynasty=365
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="charismatic_negotiator"
+	father=204560
+	mother=204561
+	1104.1.1 = {
+		birth="1104.1.1"
+	}
+	1166.1.1 = {
+		death="1166.1.1"
+	}
+}
+
+204573 = {
+	name="°£µÂÃÉ"
+	dynasty=106
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="kind"
+	father=232682
+	mother=71648
+	1249.12.26 = {
+		birth="1249.12.26"
+	}
+	1300.9.25 = {
+		death="1300.9.25"
+	}
+}
+
+204575 = {
+	name="°¢¸ñÄáË¹"
+	female = yes
+	religion="catholic"
+	culture="english"
+	1147.1.1 = {
+		birth="1147.1.1"
+	}
+	1205.1.1 = {
+		death="1205.1.1"
+	}
+}
+
+204580 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=5061
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="charismatic_negotiator"
+	father=204590
+	mother=204591
+	1121.1.2 = {
+		birth="1121.1.2"
+	}
+	1153.1.1 = {
+		add_spouse = 204581
+	}
+	1190.1.1 = {
+		death="1190.1.1"
+	}
+}
+
+204581 = {
+	name="ÅåÌØÀÊÄá¶û"
+	female = yes
+	dynasty=362
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="chaste"
+	trait="envious"
+	trait="martial_cleric"
+	1136.1.2 = {
+		birth="1136.1.2"
+	}
+	1186.1.2 = {
+		death="1186.1.2"
+	}
+}
+
+204582 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=5061
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="chaste"
+	trait="slothful"
+	trait="charismatic_negotiator"
+	father=204580
+	mother=204581
+	1154.1.2 = {
+		birth="1154.1.2"
+	}
+	1186.1.2 = {
+		add_spouse=204593
+	}
+	1204.10.21 = {
+		death="1204.10.21"
+	}
+}
+
+204583 = {
+	name="ÅåÌØÀÊÄá¶û"
+	female = yes
+	dynasty=5061
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=204580
+	mother=204581
+	1172.1.2 = {
+		birth="1172.1.2"
+	}
+	1222.1.2 = {
+		death="1222.1.2"
+	}
+}
+
+204584 = {
+	name="°¢Ã×Î÷"
+	female = yes
+	dynasty=5061
+	martial=8
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="scholarly_theologian"
+	father=204580
+	mother=204581
+	1157.1.2 = {
+		birth="1157.1.2"
+	}
+	1207.1.2 = {
+		death="1207.1.2"
+	}
+}
+
+204585 = {
+	name="ÂÞ½Ü"
+	dynasty=101859
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	trait="martial_cleric"
+	father=204580
+	1161.1.2 = {
+		birth="1161.1.2"
+	}
+	1211.1.2 = {
+		death="1211.1.2"
+	}
+}
+
+204590 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=5061
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="martial_cleric"
+	father=204596
+	mother=551
+	1104.1.2 = {
+		birth="1104.1.2"
+	}
+	1121.1.1 = {
+		add_spouse=204591
+	}
+	1168.4.5 = {
+		death="1168.4.5"
+	}
+}
+
+204591 = {
+	name="°¢Ã×Ë¹"
+	female = yes
+	dynasty=559
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="cynical"
+	trait="scholarly_theologian"
+	father=161429
+	1105.1.2 = {
+		birth="1105.1.2"
+	}
+	1168.8.31 = {
+		death="1168.8.31"
+	}
+}
+
+204592 = {
+	name="¹þÎ¬Ë¹"
+	female = yes
+	dynasty=5061
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="greedy"
+	trait="scholarly_theologian"
+	father=204590
+	mother=204591
+	1134.1.1 = {
+		birth="1134.1.1"
+	}
+	1215.1.1 = {
+		death="1215.1.1"
+	}
+}
+
+204593 = {
+	name="ÂåÀöËþ"
+	female = yes
+	dynasty=350
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="just"
+	trait="patient"
+	trait="chaste"
+	trait="intricate_webweaver"
+	father=204004
+	mother=204005
+	1166.1.2 = {
+		birth="1166.1.2"
+	}
+	1216.1.2 = {
+		death="1216.1.2"
+	}
+}
+
+204595 = {
+	name="ÐÝ"
+	dynasty=5061
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="envious"
+	trait="cynical"
+	trait="tough_soldier"
+	father=204596
+	mother = 551
+	1106.1.1 = {
+		birth="1106.1.1"
+	}
+	1141.1.1 = {
+		death="1141.1.1"
+	}
+}
+
+204600 = {
+	name="ºàÀû"
+	dynasty=359
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="cynical"
+	trait="martial_cleric"
+	father=204610
+	mother=203510
+	1176.1.1 = {
+		birth="1176.1.1"
+	}
+	1206.1.1 = {
+		add_spouse=129054
+	}	
+	1220.6.1 = {
+		death="1220.6.1"
+	}
+}
+
+204601 = {
+	name="Ä½µÂ"
+	female = yes
+	dynasty=359
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="wroth"
+	trait="martial_cleric"
+	father=204610
+	mother=203510
+	1174.1.2 = {
+		birth="1174.1.2"
+	}
+	1224.1.2 = {
+		death="1224.1.2"
+	}
+}
+
+204610 = {
+	name="ºº¸¥À³"
+	dynasty=359
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="greedy"
+	trait="martial_cleric"
+	father=204620
+	mother=204621
+	1155.1.2 = {
+		birth="1155.1.2"
+	}
+	1171.4.20 = {
+		add_spouse = 203510
+	}
+	1182.1.22 = {
+		death="1182.1.22"
+	}
+}
+
+204620 = {
+	name="ºº¸¥À³"
+	dynasty=359
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="ill"
+	trait="honest"
+	trait="thrifty_clerk"
+	1120.1.2 = {
+		birth="1120.1.2"
+	}
+	1170.1.2 = {
+		death="1170.1.2"
+	}
+}
+
+204621 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=358
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="lisp"
+	trait="scholarly_theologian"
+	father=204622
+	1120.1.2 = {
+		birth="1120.1.2"
+	}
+	1176.1.2 = {
+		death="1176.1.2"
+	}
+}
+
+204622 = {
+	name="ãèÂÞ"
+	dynasty=358
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	1098.1.2 = {
+		birth="1098.1.2"
+	}
+	1143.12.23 = {
+		death="1143.12.23"
+	}
+}
+
+204623 = {
+	name="²®É¯"
+	female = yes
+	dynasty=350
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="temperate"
+	trait="scholarly_theologian"
+	father=204622
+	1133.1.2 = {
+		birth="1133.1.2"
+	}
+	1183.1.2 = {
+		death="1183.1.2"
+	}
+}
+
+204630 = {
+	name="¹þÄ·ÁÖ"
+	dynasty=106
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	trait="lustful"
+	trait="deceitful"
+	trait="flamboyant_schemer"
+	father=204506
+	1134.1.2 = {
+		birth="1134.1.2"
+	}
+	1154.1.2 = {
+		add_spouse=204641
+	}
+	1202.5.7 = {
+		death="1202.5.7"
+	}
+}
+
+204631 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=748
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="temperate"
+	trait="hunchback"
+	trait="fortune_builder"
+	father=204630
+	mother=204641
+	1154.1.2 = {
+		birth="1154.1.2"
+	}
+	1204.1.2 = {
+		death="1204.1.2"
+	}
+}
+
+204632 = {
+	name="½Ü¸¥Àï"
+	dynasty=748
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="honest"
+	trait="brave"
+	trait="tough_soldier"
+	father=204630
+	mother=204641
+	1160.1.2 = {
+		birth="1160.1.2"
+	}
+	1210.1.2 = {
+		death="1210.1.2"
+	}
+}
+
+204633 = {
+	name="°¢µÂÀ­"
+	female = yes
+	dynasty=748
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="inbred"
+	trait="amateurish_plotter"
+	father=204630
+	mother=204641
+	1162.1.2 = {
+		birth="1162.1.2"
+	}
+	1212.1.2 = {
+		death="1212.1.2"
+	}
+}
+
+204634 = {
+	name="Ä½µÂ" #AKA Matilda
+	female = yes
+	dynasty=748
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="patient"
+	trait="kind"
+	trait="underhanded_rogue"
+	father=204630
+	mother=204641
+	1163.1.1 = {
+		birth="1163.1.1"
+	}
+	1228.12.13 = {
+		death="1228.12.13"
+	}
+}
+
+204635 = {
+	name="ÍþÁ®"
+	dynasty=748
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="just"
+	trait="skilled_tactician"
+	father=204630
+	mother=204641
+	1166.1.2 = {
+		birth="1166.1.2"
+	}
+	1216.1.2 = {
+		death="1216.1.2"
+	}
+}
+
+204636 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=748
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="craven"
+	trait="flamboyant_schemer"
+	father=204630
+	mother=204641
+	1170.1.2 = {
+		birth="1170.1.2"
+	}
+	1220.1.2 = {
+		death="1220.1.2"
+	}
+}
+
+204641 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=748
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="zealous"
+	trait="inbred"
+	trait="underhanded_rogue"
+	father=552
+	mother=204646
+	1137.1.1 = {
+		birth="1137.1.1"
+	}
+	1199.7.13 = {
+		death="1199.7.13"
+	}
+}
+
+204650 = {
+	name="ÍþÁ®" #count of Devon 1193-1217
+	dynasty=101857
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="patient"
+	trait="gluttonous"
+	trait="flamboyant_schemer"
+	father=204655
+	mother=204656
+	1138.1.1 = {
+		birth="1138.1.1"
+	}
+	1181.1.1 = {
+		add_spouse=32506
+	}
+	1217.9.10 = {
+		death="1217.9.10"
+	}
+}
+
+204656 = {
+	name="°¢µÂÀöÉ¯"
+	female = yes
+	dynasty=356
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="martial_cleric"
+	1106.1.1 = {
+		birth="1106.1.1"
+	}
+	1146.1.1 = {
+		death="1146.1.1"
+	}
+}
+
+204657 = {
+	name="Àí²é" #count of Devon 1155-1162
+	dynasty=101857
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="envious"
+	trait="deceitful"
+	trait="flamboyant_schemer"
+	father=204655
+	mother=204656
+	1125.1.1 = {
+		birth="1125.1.1"
+	}
+	1150.1.1 = {
+		add_spouse = 204526
+	}
+	1162.1.2 = {
+		death="1162.1.2"
+	}
+}
+
+204658 = {
+	name="±«µÂÎÂ" #count of Devon 1162 - 1188
+	dynasty=101857
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="ill"
+	trait="chaste"
+	trait="skilled_tactician"
+	father=204657
+	mother=204526
+	1159.1.1 = {
+		birth="1159.1.1"
+	}
+	1188.5.28 = {
+		death="1188.5.28"
+	}
+}
+
+204660 = {
+	name="Àí²é" #count of Devon 1188 - 1193
+	dynasty=101857
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="kind"
+	trait="humble"
+	trait="chaste"
+	trait="intricate_webweaver"
+	father=204657
+	mother=204526
+	1161.1.1 = {
+		birth="1161.1.1"
+	}
+	1185.1.1 = {
+		add_spouse=204661
+	}
+	1193.8.19 = {
+		death="1193.8.19"
+	}
+}
+
+204664 = {
+	name="°¢Ã×Î÷æ«"
+	female = yes
+	dynasty=355
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="clubfooted"
+	trait="humble"
+	trait="flamboyant_schemer"
+	father=204670
+	mother=204592
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+204665 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=355
+	religion="catholic"
+	culture="english"
+	trait="craven"
+	trait="flamboyant_schemer"
+	father=204670
+	mother=204592
+	1172.1.1 = {
+		birth="1172.1.1"
+	}
+	1217.10.14 = {
+		death="1217.10.14"
+	}
+}
+
+204666 = {
+	name="Ã·²¼¶û"
+	female = yes
+	dynasty=355
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="clubfooted"
+	trait="humble"
+	trait="flamboyant_schemer"
+	father=204670
+	mother=204592
+	1161.1.2 = {
+		birth="1161.1.2"
+	}
+	1211.1.2 = {
+		death="1211.1.2"
+	}
+}
+
+204670 = {
+	name="ÍþÁ®"
+	dynasty=355
+	religion="catholic"
+	culture="english"
+	father=203036 #Robert Fitzroy of Caen
+	mother=138457 #Mabel Fitzhamon of Gloucester
+	1116.1.1 = {
+		birth="1116.1.1"
+	}
+	1167.1.1 = {
+		add_spouse=204592
+	}
+	1183.1.13 = {
+		death="1183.1.13"
+	}
+}
+
+204671 = {
+	name="Ä½µÂ" 
+	female=yes
+	dynasty=752 #de Normandie
+	religion="catholic"
+	culture="english"
+	father=203036 #Robert Fitzroy of Caen
+	mother=138457 #Mabel Fitzhamon of Gloucester
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1190.7.29 = {
+		death="1190.7.29"
+	}
+}
+
+204680 = {
+	name="À¼ÄÉ¶û·ò" #Ranulf de Blondeville
+	dynasty=9111
+	religion="catholic"
+	culture="english"
+	father=204685
+	mother=204686
+	1172.1.2 = {
+		birth="1172.1.2"
+	}
+	1189.1.1 = {
+		add_spouse=205740
+	}
+	1198.1.1 = {
+		remove_spouse=205740
+	}
+	1232.10.26 = {
+		death="1232.10.26"
+	}
+}
+
+204681 = {
+	name="Ä½µÂ"
+	female=yes
+	dynasty=9111
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="temperate"
+	trait="thrifty_clerk"
+	father=204685
+	mother=204686
+	1171.1.1 = {
+		birth="1171.1.1"
+	}
+	1233.1.7 = {
+		death="1233.1.7"
+	}
+}
+
+204682 = {
+	name="Ã·²¼¶û"
+	female = yes
+	dynasty=9111
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="arbitrary"
+	trait="greedy"
+	trait="thrifty_clerk"
+	father=204685
+	mother=204686
+	1176.1.2 = {
+		birth="1176.1.2"
+	}
+	1226.1.2 = {
+		death="1226.1.2"
+	}
+}
+
+204683 = {
+	name="°¢¸ñÄáË¹"
+	female = yes
+	dynasty=9111
+	martial=8
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=204685
+	mother=204686
+	1179.1.2 = {
+		birth="1179.1.2"
+	}
+	1247.11.2 = {
+		death="1247.11.2"
+	}
+}
+
+204684 = {
+	name="¹þÎ¬Ë¹"
+	female = yes
+	dynasty=9111
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	father=204685
+	mother=204686
+	1180.6.6 = {
+		birth="1180.6.6"
+	}
+	1243.5.3 = {
+		death="1243.5.3"
+	}
+}
+
+204685 = {
+	name="ÐÝ"
+	dynasty=9111
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="arbitrary"
+	trait="humble"
+	trait="inbred"
+	trait="flamboyant_schemer"
+	father=204687
+	mother=204671
+	1147.1.2 = {
+		birth="1147.1.2"
+	}
+	1169.1.2 = {
+		add_spouse=204686
+	}
+	1181.6.30 = {
+		death="1181.6.30"
+	}
+}
+
+204687 = {
+	name="À¼ÄÉ¶û·ò"
+	# AKA: Ranulph
+	dynasty=9111
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=82062
+	mother=82058
+	trait="tough_soldier"
+	1100.12.16 = {
+		birth="1100.12.16"
+	}
+	1141.1.1 = {
+		add_spouse=204671
+	}
+	1153.12.16 = {
+		death="1153.12.16"
+	}
+}
+
+204690 = {
+	name="ÍþÁ®"
+	dynasty=352
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="underhanded_rogue"
+	father=204700
+	mother=204701
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1150.1.1 = {
+		add_spouse = 204692
+	}
+	1199.1.1 = {
+		death="1199.1.1"
+	}
+}
+
+204691 = {
+	name="¸ê´ï"
+	female = yes
+	dynasty=351
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="craven"
+	trait="martial_cleric"
+	1171.1.2 = {
+		birth="1171.1.2"
+	}
+	1221.1.2 = {
+		death="1221.1.2"
+	}
+}
+
+204692 = {
+	name="Î÷±È¶û"
+	female = yes
+	dynasty=350
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="patient"
+	trait="amateurish_plotter"
+	father=204000
+	mother=204623
+	1150.1.2 = {
+		birth="1150.1.2"
+	}
+	1200.1.2 = {
+		death="1200.1.2"
+	}
+}
+
+204693 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=352
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="gluttonous"
+	trait="scholarly_theologian"
+	father=204694
+	mother=204683	
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1260.1.1 = {
+		death="1260.1.1"
+	}
+}
+
+204694 = {
+	name="ÍþÁ®"
+	dynasty=352
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="flamboyant_schemer"
+	father=204690
+	mother=204692
+	1164.1.2 = {
+		birth="1164.1.2"
+	}
+	1194.1.1 = {
+		add_spouse = 204683
+	}
+	1247.1.1 = {
+		death="1247.1.1"
+	}
+}
+
+204695 = {
+	name="çêÄÚ¶û"
+	dynasty=352
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="ill"
+	trait="martial_cleric"
+	father=204690
+	mother=204692
+	1169.1.2 = {
+		birth="1169.1.2"
+	}
+	1219.1.2 = {
+		death="1219.1.2"
+	}
+}
+
+204696 = {
+	name="°¢¼ÓÉ¯"
+	female = yes
+	dynasty=352
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="cynical"
+	trait="patient"
+	trait="scholarly_theologian"
+	father=204690
+	mother=204692
+	1168.1.2 = {
+		birth="1168.1.2"
+	}
+	1218.1.2 = {
+		death="1218.1.2"
+	}
+}
+
+204697 = {
+	name="Ã×ÀòÉ­ÌØ"
+	female = yes
+	dynasty=352
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="honest"
+	trait="fortune_builder"
+	father=204690
+	mother=204692
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1197.1.1 = {
+		death="1197.1.1"
+	}
+}
+
+204698 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=352
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=204690
+	mother=204692
+	1172.1.2 = {
+		birth="1172.1.2"
+	}
+	1222.1.2 = {
+		death="1222.1.2"
+	}
+}
+
+204699 = {
+	name="Íß¶ûÆõÁÖ"
+	dynasty=352
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="slothful"
+	trait="honest"
+	trait="tough_soldier"
+	father=204690
+	mother=204692
+	1165.1.1 = {
+		birth="1165.1.1"
+	}
+	1217.1.1 = {
+		death="1217.1.1"
+	}
+}
+
+204700 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=352
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="hunchback"
+	trait="scholarly_theologian"
+	father = 7430
+	1090.1.2 = {
+		birth="1090.1.2"
+	}
+	1139.1.2 = {
+		add_spouse=204701
+	}
+	1162.1.1 = {
+		death="1162.1.1"
+	}
+}
+
+204701 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=349
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="brave"
+	trait="amateurish_plotter"
+	father=32502
+	1123.1.1 = {
+		birth="1123.1.1"
+	}
+	1173.1.1 = {
+		death="1173.1.1"
+	}
+}
+
+204710 = {
+	name="Íß¶ûÀ¼"
+	dynasty=5061
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="patient"
+	trait="tough_soldier"
+	father=204715
+	mother=204716
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1180.1.1 = {
+		add_spouse = 7452
+	}
+	1204.12.12 = {
+		death="1204.12.12"
+	}
+}
+
+204711 = {
+	name="ºàÀû"
+	dynasty=5061
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	father=204710
+	mother=7452
+	1192.1.1 = {
+		birth="1192.1.1"
+	}
+	1229.10.10 = {
+		death="1229.10.10"
+	}
+}
+
+204715 = {
+	name="ÂÞ½Ü"
+	# AKA: Robert
+	dynasty=5061
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="humble"
+	trait="scholarly_theologian"
+	father=204717
+	1102.1.1 = {
+		birth="1102.1.1"
+	}
+	1138.1.1 = {
+		add_spouse = 204716
+	}
+	1153.6.21 = {
+		death="1153.6.21"
+	}
+}
+
+204716 = {
+	name="¸ÔÀ×µÂ"
+	female = yes
+	dynasty=748
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="lisp"
+	trait="amateurish_plotter"
+	father=171
+	mother=551
+	1121.1.1 = {
+		birth="1121.1.1"
+	}
+	1174.1.1 = {
+		death="1174.1.1"
+	}
+}
+
+204730 = {
+	name="ÂÞ½Ü"
+	dynasty=346
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="just"
+	trait="martial_cleric"
+	father=204735
+	mother=204736
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1181.1.1 = {
+	add_spouse = 204515
+	}
+	1221.1.1 = {
+		death="1221.1.1"
+	}
+}
+
+204731 = {
+	name="ÐÝ"
+	dynasty=346
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=204730
+	mother=204515
+	1182.1.1 = {
+		birth="1182.1.1"
+	}
+	1207.1.1 = {
+		add_spouse = 230526
+	}
+	1225.1.1 = {
+		death="1225.1.1"
+	}
+}
+
+204735 = {
+	name="ÐÝ"
+	dynasty=346
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="arbitrary"
+	trait="flamboyant_schemer"
+	1095.1.2 = {
+		birth="1095.1.2"
+	}
+	1146.1.2 = {
+		add_spouse=204736
+	}
+	1177.1.1 = {
+		death="1177.1.1"
+	}
+}
+
+204736 = {
+	name="ÖìÀö°²ÄÈ"
+	female = yes
+	dynasty=365
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="amateurish_plotter"
+	father=204560
+	mother=204561
+	1116.1.2 = {
+		birth="1116.1.2"
+	}
+	1166.1.2 = {
+		death="1166.1.2"
+	}
+}
+
+204740 = {
+	name="ÍþÁ®"
+	dynasty=344
+	religion="catholic"
+	culture="english"
+	father=204745
+	mother=204563
+	1126.1.1 = {
+		birth="1126.1.1"
+	}
+	1189.11.14 = {
+		death="1189.11.14"
+	}
+}
+
+204741 = {
+	name="¹þÎ¬Ë¹"
+	female = yes
+	dynasty=343
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="scholarly_theologian"
+	1131.1.2 = {
+		birth="1131.1.2"
+	}
+	1181.1.2 = {
+		death="1181.1.2"
+	}
+}
+
+204745 = {
+	name="½Ü¸¥Àï"
+	dynasty=344
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="craven"
+	trait="tough_soldier"
+	father=129049
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1120.1.1 = {
+		add_spouse=204563
+	}
+	1144.10.1 = {
+		death="1144.10.1"
+	}
+}
+
+204750 = {
+	name="ÍþÁ®"
+	dynasty=342
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=204755
+	mother=206857
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1193.12.24 = {
+		death="1193.12.24"
+	}
+}
+
+204751 = {
+	name="Ä½µÂ"
+	female = yes
+	dynasty=341
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="envious"
+	trait="temperate"
+	trait="inbred"
+	trait="martial_cleric"
+	1145.1.2 = {
+		birth="1145.1.2"
+	}
+	1195.1.2 = {
+		death="1195.1.2"
+	}
+}
+
+204755 = {
+	name="ÍþÁ®"
+	dynasty=342
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="flamboyant_schemer"
+	1090.1.2 = {
+		birth="1090.1.2"
+	}
+	1138.1.2 = {
+		add_spouse=206857
+	}
+	1176.9.25 = {
+		death="1176.9.25"
+	}
+}
+
+204770 = {
+	name="Àí²é"
+	dynasty=364
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="brave"
+	trait="skilled_tactician"
+	father=204790
+	mother=204791
+	1122.1.2 = {
+		birth="1122.1.2"
+	}
+	1149.1.7 = {
+		effect = {
+			give_job_title=job_marshal
+		}
+	}
+	1152.1.2 = {
+		add_spouse = 214553
+	}
+	1176.4.20 = {
+		death="1176.4.20"
+	}
+}
+
+204771 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=364
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="martial_cleric"
+	father=204770
+	mother=214553
+	1173.1.2 = {
+		birth="1173.1.2"
+	}
+	1185.7.1 = {
+		death="1185.7.1"
+	}
+}
+
+204772 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=364
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="just"
+	trait="thrifty_clerk"
+	father=204770
+	mother=214553
+	1172.1.1 = {
+		birth="1172.1.1"
+	}
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}
+
+204773 = {
+	name="°¢ÀöÄÈ"
+	female = yes
+	dynasty=364
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=204770
+	mother=214553
+	1175.1.2 = {
+		birth="1175.1.2"
+	}
+	1225.1.2 = {
+		death="1225.1.2"
+	}
+}
+
+204780 = {
+	name="Èû¶û"
+	dynasty=101710
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="tough_soldier"
+	father=204785
+	mother=204786
+	1155.1.2 = {
+		birth="1155.1.2"
+	}
+	1176.1.2 = {
+		add_spouse=204781
+	}
+	1219.11.3 = {
+		death="1219.11.3"
+	}
+}
+
+204781 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=5061
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="amateurish_plotter"
+	father=204580
+	mother=204581
+	1160.1.2 = {
+		birth="1160.1.2"
+	}
+	1210.1.2 = {
+		death="1210.1.2"
+	}
+}
+
+204782 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=101710
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=2
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=204780
+	mother=204781
+	1182.1.2 = {
+		birth="1182.1.2"
+	}
+	1205.1.1 = {
+		add_spouse=204684
+	}
+	1232.1.1 = {
+		death="1232.1.1"
+	}
+}
+
+204783 = {
+	name="ÂÞ½Ü"
+	dynasty=101710
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=204780
+	mother=204781
+	1195.1.1 = {
+		birth="1195.1.1"
+	}
+	1217.1.2 = {
+		add_spouse=7427
+	}
+	1250.1.1 = {
+		add_spouse=129039
+	}
+	1255.1.1 = {
+		add_spouse=129041
+	}
+	1264.4.25 = {
+		death="1264.4.25"
+	}
+}
+
+204790 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=364
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="amateurish_plotter"
+	father=204792
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1119.1.1 = {
+		add_spouse=204791
+	}
+	1149.1.7 = {
+		death="1149.1.7"
+	}
+}
+
+204791 = {
+	name="ÒÁÀòÉ¯°×"
+	female = yes
+	dynasty=5061
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="amateurish_plotter"
+	father=204596
+	mother=551 
+	1103.1.1 = {
+		birth="1103.1.1"
+	}
+	1172.1.1 = {
+		death="1172.1.1"
+	}
+}
+
+204795 = {
+	name="ÂÞ½Ü"
+	dynasty=364
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=204794
+	1116.1.2 = {
+		birth="1116.1.2"
+	}
+	1136.1.2 = {
+		add_spouse = 204796
+	}
+	1173.1.7 = {
+		death="1173.1.7"
+	}
+}
+
+204796 = {
+	name="Ä½µÂ"
+	female = yes
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="amateurish_plotter"
+	1120.1.2 = {
+		birth="1120.1.2"
+	}
+	1173.1.7 = {
+		death="1173.1.7"
+	}
+}
+
+204797 = {
+	name="Àí²é"
+	dynasty=364
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="craven"
+	trait="charitable"
+	trait="charismatic_negotiator"
+	father=204795
+	mother=204796
+	1162.1.1 = {
+		birth="1162.1.1"
+	}
+	1178.1.1 = {
+		add_spouse = 204664
+	}
+	1217.10.14 = {
+		death="1217.10.14"
+	}
+}
+
+204798 = {
+	name="°¬¸¥ÁÕ"
+	female = yes
+	dynasty=364
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="intricate_webweaver"
+	father=204795
+	mother=204796
+	1166.1.2 = {
+		birth="1166.1.2"
+	}
+	1216.1.2 = {
+		death="1216.1.2"
+	}
+}
+
+204799 = {
+	name="Ã·²¼¶û"
+	female = yes
+	dynasty=364 #de Clare
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="temperate"
+	trait="naive_appeaser"
+	father=204795
+	mother=204796
+	1146.1.1 = {
+		birth="1146.1.1"
+	}
+	1203.1.1 = {
+		death="1203.1.1"
+	}
+}
+
+204800 = {
+	name="Äá»ù¶û"
+	dynasty=9115
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="envious"
+	trait="charitable"
+	trait="diligent"
+	trait="tough_soldier"
+	father=82074
+	mother=161444
+	1146.1.1 = {
+		birth="1146.1.1"
+	}
+	1170.1.1 = {
+		add_spouse=204799
+	}
+	1191.1.1 = {
+		death="1191.1.1"
+	}
+}
+
+204801 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=364
+	religion="catholic"
+	culture="english"
+	father=204797
+	mother=204664
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1217.10.9 = {
+		add_spouse=203544
+	}
+	1230.10.25 = {
+		death="1230.10.25"
+	}
+}
+
+204802 = {
+	name="Ä½µÂ"
+	female = yes
+	dynasty=364
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	father=204797
+	mother=204664
+	1184.1.2 = {
+		birth="1184.1.2"
+	}
+	1234.1.2 = {
+		death="1234.1.2"
+	}
+}
+
+204803 = {
+	name="ÍþÁ®"
+	dynasty=9115
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="honest"
+	trait="diligent"
+	trait="tough_soldier"
+	father=204800
+	mother=204799
+	1171.1.1 = {
+		birth="1171.1.1"
+	}
+	1224.3.25 = {
+		death="1224.3.25"
+	}
+}
+
+204804 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=9115
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="zealous"
+	trait="slothful"
+	trait="tough_soldier"
+	father=204800
+	mother=204799
+	1173.1.1 = {
+		birth="1173.1.1"
+	}
+	1197.1.1 = {
+		death="1197.1.1"
+	}
+}
+
+204805 = {
+	name="·ÆÀûÆÕ"
+	dynasty=9115
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="cynical"
+	trait="patient"
+	trait="scholarly_theologian"
+	father=204800
+	mother=204799
+	1172.1.1 = {
+		birth="1172.1.1"
+	}
+	1196.9.22 = {
+		death="1196.9.22"
+	}
+}
+
+204806 = {
+	name="ÂÞ½Ü"
+	dynasty=9115
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=204800
+	mother=204799
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+214000 = {
+	name="Ô¼º²"
+	dynasty=101711
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="diligent"
+	trait="tough_soldier"
+	father=214003
+	1155.1.1 = {
+		birth="1155.1.1"
+	}
+	1181.1.1 = {
+		add_spouse = 214001
+	}
+	1205.1.1 = {
+		death="1205.1.1"
+	}
+}
+
+214002 = {
+	name="Ô¼º²"
+	dynasty=101711
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=214000
+	mother=214001
+	1182.1.1 = {
+		birth="1182.1.1"
+	}
+	1232.1.1 = {
+		death="1232.1.1"
+	}
+}
+
+214003 = {
+	name="ÍþÁ®"
+	dynasty=101711
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="underhanded_rogue"
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+230525 = {
+	name="ÍþÁ®"
+	dynasty=347
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father = 204630
+	mother = 204641
+	1166.1.1 = {
+		birth="1166.1.1"
+	}
+	1225.10.13 = {
+		add_spouse = 230526
+	}
+	1240.5.27 = {
+		death="1240.5.27"
+	}
+}
+
+230526 = {
+	name="Ä½µÂ"
+	female = yes 
+	dynasty=101709
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father = 204540
+	mother = 204772
+	1194.1.1 = {
+		birth="1194.1.1"
+	}
+	1248.3.27 = {
+		death="1248.3.27"
+	}
+}
+
+230527 = {
+	name="Ô¼º²"
+	dynasty=347
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father = 230525
+	mother = 230526
+	1231.1.1 = {
+		birth="1231.1.1"
+	}
+	1247.8.1 = {
+		add_spouse = 230528
+	}
+	1304.9.29 = {
+		death="1304.9.29"
+	}
+}
+
+230529 = {
+	name="ÒÁÉ¯±´À­"
+	female = yes
+	dynasty=347
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father = 230527
+	mother = 230528
+	1253.1.1 = {
+		birth="1253.1.1"
+	}
+	1291.12.15 = {
+		death="1291.12.15"
+	}
+}
+
+231055 = {
+	name="ÍþÁ®"
+	dynasty=4034
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="deceitful"
+	trait="lustful"
+	trait="envious"
+	trait="tough_soldier"
+	father = 7460
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+232000 = {
+	name="·ÆÀûÆÕ"
+	dynasty=40016
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	trait="tough_soldier"
+	trait="wroth"
+	father=204510
+	1181.1.2 = {
+		birth="1181.1.2"
+	}
+	1231.1.2 = {
+		death="1231.1.2"
+	}
+}
+
+232001 = {
+	name="ÍþÁ®"
+	dynasty=20015
+	martial=4
+	diplomacy=10
+	intrigue=7
+	stewardship=2
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	trait="deceitful"
+	trait="proud"
+	trait="wroth"
+	1150.1.2 = {
+		birth="1150.1.2"
+	}
+	1200.1.2 = {
+		death="1200.1.2"
+	}
+}
+
+232020 = {
+	name="ÍþÁ®"
+	dynasty=106
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	father=204508
+	mother=205515
+	1177.1.20 = {
+		birth="1177.1.20"
+	}
+	1177.1.23 = {
+		death="1177.1.23"
+	}
+}
+
+232680 = {
+	name="ÐÝ²®ÌØ"
+	dynasty=4040
+	martial=4
+	diplomacy=9
+	intrigue=4
+	stewardship=9
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	trait="patient"
+	trait="diligent"
+	trait="zealous"
+	father=204039
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1205.7.13 = {
+		death="1205.7.13"
+	}
+}
+
+232682 = {
+	name="Àí²é"
+	# AKA: Richard of Cornwall
+	dynasty=106
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="charismatic_negotiator"
+	father=204514
+	mother=205648
+	1209.1.5 = {
+		birth="1209.1.5"
+	}
+	1231.1.1 = {
+		add_spouse=203544 #Isabelle Marshal
+	}
+	1243.11.23 = {
+		add_spouse=71648 #Sanca de Barcelona
+	}
+	1269.6.16 = {
+		add_spouse=161696 #Beatrix Flamens
+	}
+	1272.4.2 = {
+		death="1272.4.2"
+	}
+}
+
+31001 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=23100
+	religion="catholic"
+	culture="english"
+	father=31000
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1199.1.1 = {
+		add_spouse=32507
+	}
+	1242.7.26 = {
+		death="1242.7.26"
+	}
+}
+
+31002 = {
+	name="Ô¼º²"
+	dynasty=23100
+	religion="catholic"
+	culture="english"
+	father=31001
+	mother=32507
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1274.5.3 = {
+		death="1274.5.3"
+	}
+}
+
+31003 = {
+	name="ÐÝ"
+	dynasty=23100
+	religion="catholic"
+	culture="english"
+	father=31002
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	#married Eleanor le Despencer
+	1278.1.1 = {
+		add_spouse=161667
+	}
+	1292.2.28 = {
+		death="1292.2.28"
+	}
+}
+
+31004 = {
+	name="ÐÝ" #Earl of Devon 1335
+	dynasty=23100
+	religion="catholic"
+	culture="english"
+	father=31003
+	mother=161667
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1300.1.1 = {
+		add_spouse=31005 #Agnes de St. John
+	}
+	1340.12.23 = {
+		death="1340.12.23"
+	}
+}
+
+31005 = {
+	name="°¢¸ñÄáË¹"
+	female=yes
+	dynasty=4026 #de St. John
+	religion="catholic"
+	culture="english"
+	1274.1.1 = {
+		birth="1274.1.1"
+	}
+	1345.6.11 = {
+		death="1345.6.11"
+	}
+}
+
+31006 = {
+	name="ÍÐÂíË¹"
+	dynasty=23100
+	religion="catholic"
+	culture="english"
+	father=454594
+	mother=454565
+	1328.1.1 = {
+		birth="1328.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1"
+	}
+}
+
+31007 = {
+	name="°®µÂ»ª"
+	dynasty=23100
+	religion="catholic"
+	culture="english"
+	father=454594
+	mother=454565
+	1329.1.1 = {
+		birth="1329.1.1"
+	}
+	1375.9.20 = {
+		death="1375.9.20"
+	}
+}
+
+31008 = {
+	name="Ô¼º²"
+	dynasty=23100
+	religion="catholic"
+	culture="english"
+	father=31004
+	mother=31005 
+	1301.1.1 = {
+		birth="1301.1.1"
+	}
+	1349.1.1 = {
+		death="1349.1.1"
+	}
+}
+
+31009 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=23100
+	religion="catholic"
+	culture="english"
+	father=31004
+	mother=31005 
+	1309.1.1 = {
+		birth="1309.1.1"
+	}
+	1334.1.1 = {
+		death="1334.1.1"
+	}
+}
+
+31010 = {
+	name="°£ÀòÅµ"
+	female=yes
+	dynasty=23100
+	religion="catholic"
+	culture="english"
+	father=31004
+	mother=31005 
+	1310.1.1 = {
+		birth="1310.1.1"
+	}
+	1330.1.1 = {
+		death="1330.1.1"
+	}
+}
+
+31011 = {
+	name="ÍÐÂíË¹"
+	dynasty=23100
+	religion="catholic"
+	culture="english"
+	father=31004
+	mother=31005 
+	1311.1.1 = {
+		birth="1311.1.1"
+	}
+	1362.1.1 = {
+		death="1362.1.1"
+	}
+}
+
+31012 = {
+	name="ÒÁÀòÉ¯°×"
+	female=yes
+	dynasty=23100
+	religion="catholic"
+	culture="english"
+	father=31004
+	mother=31005 
+	1313.1.1 = {
+		birth="1313.1.1"
+	}
+	1360.1.1 = {
+		death="1360.1.1"
+	}
+}
+
+332027 = {
+	name="Àí²é"
+	dynasty=368
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="ill"
+	trait="tough_soldier"
+	father=332026
+	1133.1.1 = {
+		birth="1133.1.1"
+	}
+	1170.1.1 = {
+		add_spouse = 332029
+	}
+	1190.1.1 = {
+		death="1190.1.1"
+	}
+}
+
+332028 = {
+	name="ÐÝ"
+	dynasty=368
+	martial=7
+	diplomacy=2
+	intrigue=9
+	stewardship=3
+	religion="catholic"
+	culture="english"
+	trait="wroth"
+	father=332026
+	1131.1.1 = {
+		birth="1131.1.1"
+	}
+	1174.1.1 = {
+		death="1174.1.1"
+	}
+}
+
+332029 = {
+	name="°¢Î¬Î÷æ«"
+	female = yes
+	dynasty=100058
+	martial=3
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	1154.1.1 = {
+		birth="1154.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+332030 = {
+	name="ÍþÁ®"
+	dynasty=368
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="chaste"
+	trait="tough_soldier"
+	father=332027
+	mother=332029
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1190.1.1 = {
+		death="1190.1.1"
+	}
+}
+
+332033 = {
+	name="À¼ÄÉ¶û·ò"
+	dynasty=25055
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="arbitrary"
+	trait="envious"
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+332034 = {
+	name="ÕÜÍßË¹"
+	dynasty=25058
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="craven"
+	trait="tough_soldier"
+	1165.1.1 = {
+		birth="1165.1.1"
+	}
+	1215.1.1 = {
+		death="1215.1.1"
+	}
+}
+
+420021 = {
+	name="ÍþÁ®"
+	dynasty=9107 #de Montagu
+	religion="catholic"
+	culture="english"
+	father=155254
+	1301.1.1 = {
+		birth="1301.1.1"
+	}
+	1344.1.30 = {
+		death="1344.1.30"
+	}
+}
+
+453066 = {
+	name="ÇÇ°²ÄÈ"
+	female = yes
+	dynasty=364
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="brave"
+	trait="tough_soldier"
+	father = 454606
+	mother = 7444
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1309.1.2 = {
+		death="1309.1.2"
+	}
+}
+
+453067 = {
+	name="ÂêÀö"
+	# AKA: Mary de Monthhermer
+	female = yes
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="gluttonous"
+	trait="thrifty_clerk"
+	1298.1.1 = {
+		birth="1298.1.1"
+	}
+	1348.1.1 = {
+		death="1348.1.1"
+	}
+}
+
+453400 = {
+	name="ÀÍÂ×Ë¹"
+	dynasty=540
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="charitable"
+	trait="just"
+	trait="brave"
+	trait="tough_soldier"
+	father=453401
+	mother=453402
+	1320.3.20 = {
+		birth="1320.3.20"
+	}
+	1336.3.20={
+		add_spouse = 161648
+	}
+	1348.8.30 = {
+		death="1348.8.30"
+	}
+}
+
+453401 = {
+	name="Ô¼º²"
+	dynasty=540
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="envious"
+	trait="tough_soldier" 
+	father = 7381
+	mother = 7382
+	1286.9.29 = {
+		birth="1286.9.29"
+	}
+	1313.1.1 = {
+		add_spouse = 453402
+	}
+	1325.1.20 = {
+		death="1325.1.20"
+	}
+}
+
+453402 = {
+	name="ÖìÀò°²"
+	# AKA: Julian Leybourn
+	female = yes
+	martial=4
+	diplomacy=3
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="temperate"
+	trait="lustful"
+	trait="flamboyant_schemer"
+	1297.1.1 = {
+		birth="1297.1.1"
+	}
+	1347.1.1 = {
+		death="1347.1.1"
+	}
+}
+
+453604 = {
+	name="°£ÀòÅµ"
+	# AKA: Eleanor de Louvaine
+	female = yes
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="flamboyant_schemer"
+	1266.1.1 = {
+		birth="1266.1.1"
+	}
+	1326.1.2 = {
+		death="1326.1.2"
+	}
+}
+
+454013 = {
+	name="À­¶û·ò"
+	dynasty=100029
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="amateurish_plotter"
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1"
+	}
+}
+
+454016 = {
+	name="°£µÂÃÉ"
+	dynasty=100052
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="skilled_tactician"
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1"
+	}
+}
+
+454017 = {
+	name="°²Èû¶ûÄ·"
+	dynasty=100053
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="deceitful"
+	trait="cynical"
+	trait="clubfooted"
+	trait="skilled_tactician"
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1"
+	}
+}
+
+454018 = {
+	name="Î÷ÃÉ"
+	dynasty=100055
+	martial=8
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="chaste"
+	trait="arbitrary"
+	trait="zealous"
+	trait="brave"
+	trait="flamboyant_schemer"
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1"
+	}
+}
+
+454022 = {
+	name="ÍÐÂíË¹"
+	dynasty=100059
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="honest"
+	trait="just"
+	trait="humble"
+	trait="scholarly_theologian"
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1"
+	}
+}
+
+454023 = {
+	name="°®ÀöË¿" #Alice de Lacy
+	female = yes
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+	trait="deceitful"
+	trait="kind"
+	trait="underhanded_rogue"
+	father=454040
+	mother=454041
+	1281.1.1 = {
+		birth="1281.1.1"
+	}
+	1348.10.2 = {
+		death="1348.10.2"
+	}
+}
+
+454027 = {
+	name="ÍþÁ®"
+	dynasty=100067
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="flamboyant_schemer"
+	father = 7448
+	mother = 7449
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1267.1.8 = {
+		death="1267.1.8"
+	}
+}
+
+454030 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=4036
+	martial=5
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="wroth"
+	trait="zealous"
+	trait="tough_soldier"
+	father=454032
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1315.1.2 = {
+		add_spouse=454031
+	}
+	1345.1.1 = {
+		death="1345.1.1"
+	}
+}
+
+454031 = {
+	name="Âê¸ñÀöÌØ"
+	# AKA: Margaret de Norwich
+	female = yes
+	martial=5
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="humble"
+	trait="flamboyant_schemer"
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1345.1.1 = {
+		death="1345.1.1"
+	}
+}
+
+454032 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=4036
+	martial=5
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1311.1.1 = {
+		death="1311.1.1"
+	}
+}
+
+454033 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=4036
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="tough_soldier"
+	father=454030
+	mother=454031
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1365.1.1 = {
+		death="1365.1.1"
+	}
+}
+
+454034 = {
+	name="ÍþÁ®"
+	dynasty=4036
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="temperate"
+	trait="tough_soldier"
+	father=454030
+	mother=454031
+	1318.1.1 = {
+		birth="1318.1.1"
+	}
+	1368.1.1 = {
+		death="1368.1.1"
+	}
+}
+
+454035 = {
+	name="ÈûÎ÷Àò"
+	female = yes
+	dynasty=4036
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="temperate"
+	trait="amateurish_plotter"
+	father=454030
+	mother=454031
+	1319.1.1 = {
+		birth="1319.1.1"
+	}
+	1369.1.1 = {
+		death="1369.1.1"
+	}
+}
+
+454036 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=4036
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=454030
+	mother=454031
+	1325.1.1 = {
+		birth="1325.1.1"
+	}
+	1375.1.1 = {
+		death="1375.1.1"
+	}
+}
+
+454037 = {
+	name="Ô¼º²"
+	dynasty=4036
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="chaste"
+	trait="zealous"
+	trait="mastermind_theologian"
+	father=454032
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1"
+	}
+}
+
+454038 = {
+	name="À­¶û·ò"
+	dynasty=4036
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="zealous"
+	trait="skilled_tactician"
+	father=454032
+	1301.1.1 = {
+		birth="1301.1.1"
+	}
+	1351.1.1 = {
+		death="1351.1.1"
+	}
+}
+
+454040 = {
+	name="ºàÀû"
+	dynasty=4037
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="kind"
+	trait="underhanded_rogue"
+	father=454043
+	mother=454044
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1270.1.2 = {
+		add_spouse=454041
+	}
+	1311.1.1 = {
+		death="1311.1.1"
+	}
+}
+
+454041 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=20050
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="amateurish_plotter"
+	father=161373
+	1256.1.1 = {
+		birth="1256.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+
+454042 = {
+	name="ÐÝ"
+	dynasty=4038
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="gluttonous"
+	trait="diligent"
+	trait="tough_soldier"
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+454043 = {
+	name="°£µÂÃÉ"
+	dynasty=4037
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="amateurish_plotter"
+	father=454045
+	mother=454046
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1257.1.1 = {
+		death="1257.1.1"
+	}
+}
+
+454045 = {
+	name="Ô¼º²" #John de Lacy
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+	father=129090
+	1192.1.1 = {
+		birth="1192.1.1"
+	}
+	1240.1.1 = {
+		death="1240.1.1"
+	}
+}
+
+454046 = {
+	name="Âê¸ñÀöÌØ" #Margaret de Quincy
+	female=yes
+	dynasty=101710
+	religion="catholic"
+	culture="english"
+	father=204782
+	mother=204684
+	1208.1.1 = {
+		birth="1208.1.1"
+	}
+	1265.1.1 = {
+		death="1265.1.1"
+	}
+}
+
+454047 = {
+	name="Ä½µÂ"
+	female = yes
+	dynasty=4037
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="indulgent_wastrel"
+	father=454045
+	mother=454046
+	1223.1.1 = {
+		birth="1223.1.1"
+	}
+	1288.1.1 = {
+		death="1288.1.1"
+	}
+}
+
+454048 = {
+	name="Àí²é"
+	dynasty=364
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="fortune_builder"
+	father = 204801
+	mother = 203544
+	1222.1.1 = {
+		birth="1222.1.1"
+	}
+	1262.7.14 = {
+		death="1262.7.14"
+	}
+}
+
+454049 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=364
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="wroth"
+	trait="tough_soldier"
+	father=454606
+	mother=454605
+	1291.1.1 = {
+		birth="1291.1.1"
+	}
+	1308.1.1 = {
+		add_spouse = 454050
+	}
+	1314.1.25 = {
+		death="1314.1.25"
+	}
+}
+
+454050 = {
+	name="Ä½µÂ"
+	female = yes
+	dynasty=4034
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="temperate"
+	trait="amateurish_plotter"
+	father=454106
+	mother=454108
+	1294.1.1 = {
+		birth="1294.1.1"
+	}
+	1320.1.1 = {
+		death="1320.1.1"
+	}
+}
+
+454051 = {
+	name="ÍþÁ®"
+	dynasty=4001
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="temperate"
+	trait="tough_soldier"
+	father=161619
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1316.1.1 = {
+		add_spouse = 454054
+	}
+	1327.1.1 = {
+		add_spouse = 454607
+	}
+	1337.2.28 = {
+		death="1337.2.28"
+	}
+}
+
+454052 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=4001
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=454051
+	mother=454607
+	1327.1.1 = {
+		birth="1327.1.1"
+	}
+	1375.1.1 = {
+		death="1375.1.1"
+	}
+}
+
+454053 = {
+	name="ÇÇÒÁË¹"
+	female = yes
+	dynasty=4001
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=454051
+	mother=454607
+	1328.1.1 = {
+		birth="1328.1.1"
+	}
+	1376.1.1 = {
+		death="1376.1.1"
+	}
+}
+
+454054 = {
+	name="°®ÀöË¿"
+	# AKA: Alice de Toeni
+	dynasty=385 #de Tosny
+	female = yes
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="detached_priest"
+	father=161608
+	1283.1.1 = {
+		birth="1283.1.1"
+	}
+	1325.1.8 = {
+		death="1325.1.8"
+	}
+}
+
+454055 = {
+	name="°¢Â×"
+	dynasty=4001
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="humble"
+	trait="envious"
+	trait="flamboyant_schemer"
+	father=454051
+	mother=454054
+	1317.1.1 = {
+		birth="1317.1.1"
+	}
+	1367.1.1 = {
+		death="1367.1.1"
+	}
+}
+
+454100 = {
+	name="Ô¼º²"
+	dynasty=4039
+	martial=7
+	diplomacy=4
+	intrigue=3
+	stewardship=3
+	religion="catholic"
+	culture="english"
+	trait="wroth"
+	trait="skilled_tactician"
+	father=454101
+	mother=454102
+	1317.1.1 = {
+		birth="1317.1.1"
+	}
+	1367.1.1 = {
+		death="1367.1.1"
+	}
+}
+
+454101 = {
+	name="Ô¼º²"
+	dynasty=4039
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="skilled_tactician"
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1310.1.2 = {
+		add_spouse=454102
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+454102 = {
+	name="°£Ã×ÁÕ"
+	# AKA: Emeline Heron
+	female = yes
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="envious"
+	trait="flamboyant_schemer"
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1345.1.1 = {
+		death="1345.1.1"
+	}
+}
+
+454103 = {
+	name="ÂÞ½Ü"
+	dynasty=4039
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="tough_soldier"
+	father=454101
+	mother=454102
+	1320.1.1 = {
+		birth="1320.1.1"
+	}
+	1370.1.1 = {
+		death="1370.1.1"
+	}
+}
+
+454104 = {
+	name="°¢¶äÂê"
+	dynasty=4039
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="naive_appeaser"
+	father=454101
+	mother=454102
+	1312.1.1 = {
+		birth="1312.1.1"
+	}
+	1329.1.2 = {
+		add_spouse=454107
+	}
+	1362.1.1 = {
+		death="1362.1.1"
+	}
+}
+
+454105 = {
+	name="ÒÁÀòÉ¯°×"
+	female = yes
+	dynasty=4039
+	martial=2
+	diplomacy=4
+	intrigue=7
+	stewardship=3
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="indulgent_wastrel"
+	father=454101
+	mother=454102
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1365.1.1 = {
+		death="1365.1.1"
+	}
+}
+
+454106 = {
+	name="Àí²é"
+	dynasty=4034
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="tough_soldier"
+	father=454154
+	1259.1.1 = {
+		birth="1259.1.1"
+	}
+	1275.1.2 = {
+		add_spouse=454108
+	}
+	1329.7.29 = {
+		death="1329.7.29"
+	}
+}
+
+454107 = {
+	name="Çí"
+	female = yes
+	dynasty=4034
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="thrifty_clerk"
+	father=454106
+	mother=454108
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1362.1.1 = {
+		death="1362.1.1"
+	}
+}
+
+454108 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="thrifty_clerk"
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1304.1.1 = {
+		death="1304.1.1"
+	}
+}
+
+454110 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=4040
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=1
+	religion="catholic"
+	culture="english"
+	trait="brave"
+	trait="misguided_warrior"
+	father=454111 #Edmund earl of Carrick
+	mother=454112 #born 1265
+	1284.1.1 = {
+		birth="1284.1.1"
+	}
+	1300.1.1 = {
+		add_spouse=454564
+	}
+	1338.7.1 = {
+		death="1338.7.1"
+	}
+}
+
+454111 = {
+	name="°£µÂÃÉ" #earl of Carrick
+	dynasty=4040
+	martial=3
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="brave"
+	trait="tough_soldier"
+	father=83377
+	1263.1.1 = {
+		birth="1263.1.1"
+	}
+	1282.1.2 = {
+		add_spouse=454112 #born 1265
+	}
+	1321.7.1 = {
+		death="1321.7.1"
+	}
+}
+
+454112 = {
+	name="Çí"
+	female = yes
+	dynasty=4041
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="amateurish_plotter"
+	father=454120
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1333.1.1 = {
+		death="1333.1.1"
+	}
+}
+
+454113 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=4040
+	martial=7
+	diplomacy=3
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=454110
+	mother=454564
+	1305.1.1 = {
+		birth="1305.1.1"
+	}
+	1382.7.1 = {
+		death="1382.7.1"
+	}
+}
+
+454114 = {
+	name="ÅåÌØÀÊÄáÀ­"
+	female = yes
+	dynasty=4040
+	martial=5
+	diplomacy=3
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=454110
+	mother=454564
+	1312.1.1 = {
+		birth="1312.1.1"
+	}
+	1382.7.1 = {
+		death="1382.7.1"
+	}
+}
+
+454120 = {
+	name="Ô¼º²"
+	dynasty=4041
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="misguided_warrior"
+	father = 454123
+	1247.1.1 = {
+		birth="1247.1.1"
+	}
+	1316.9.12 = {
+		death="1316.9.12"
+	}
+}
+
+454121 = {
+	name="ÍÐÂíË¹"
+	dynasty=4041
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="amateurish_plotter"
+	father=454120
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1316.1.1 = {
+		add_spouse = 454107
+	}
+	1328.4.5 = {
+		death="1328.4.5"
+	}
+}
+
+454122 = {
+	name="ÄªÀïË¹"
+	dynasty=4041
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="honest"
+	trait="tough_soldier"
+	father=454121
+	mother=454107
+	1318.1.1 = {
+		birth="1318.1.1"
+	}
+	1368.1.1 = {
+		death="1368.1.1"
+	}
+}
+
+454123 = {
+	name="ÍÐÂíË¹"
+	dynasty=4041
+	religion="catholic"
+	culture="english"
+	father = 454124
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1271.1.1 = {
+		death="1271.1.1"
+	}
+}
+
+454124 = {
+	name="ÄªÀïË¹"
+	dynasty=4041
+	religion="catholic"
+	culture="english"
+	father = 454125
+	1183.1.1 = {
+		birth="1183.1.1"
+	}
+	1257.1.1 = {
+		death="1257.1.1"
+	}
+}
+
+454125 = {
+	name="½ÜÀ­µÂ"
+	dynasty=4041
+	religion="catholic"
+	culture="english"
+	father = 454126
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1203.1.1 = {
+		death="1203.1.1"
+	}
+}
+
+454126 = {
+	name="ÄªÀïË¹"
+	dynasty=4041
+	religion="catholic"
+	culture="english"
+	father=204056
+	mother=204057
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1176.9.1 = {
+		death="1176.9.1"
+	}
+}
+
+454150 = {
+	name="°£µÂÃÉ"
+	dynasty=4034
+	martial=8
+	diplomacy=2
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="envious"
+	trait="zealous"
+	trait="martial_cleric"
+	father=454151
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1365.1.1 = {
+		death="1365.1.1"
+	}
+}
+
+454151 = {
+	name="Î¬Àï°²"
+	# AKA: Willian Liath
+	dynasty=4034
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=454152
+	1258.1.1 = {
+		birth="1258.1.1"
+	}
+	1324.1.1 = {
+		death="1324.1.1"
+	}
+}
+
+454152 = {
+	name="Î¬Àï°² °Â¿Ë"
+	# AKA: Willian Oc
+	dynasty=4034
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=454153
+	mother = 7284
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1271.12.28 = {
+		death="1271.12.28"
+	}
+}
+
+454153 = {
+	name="Àí²é"
+	dynasty=4034
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="brilliant_strategist"
+	father = 231055
+	1174.1.1 = {
+		birth="1174.1.1"
+	}
+	1196.1.1 = {
+		add_spouse = 7284
+	}
+	1243.2.17 = {
+		death="1243.2.17"
+	}
+}
+
+454154 = {
+	name="ÎÖ¶ûÌØ"
+	dynasty=4034
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="temperate"
+	trait="tough_soldier"
+	father=454153
+	mother = 7284
+	1234.1.1 = {
+		birth="1234.1.1"
+	}
+	1271.1.1 = {
+		death="1271.1.1"
+	}
+}
+
+454155 = {
+	name="ÍþÁ®"
+	dynasty=4034
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	father=454150
+	1335.1.1 = {
+		birth="1335.1.1"
+	}
+	1385.1.1 = {
+		death="1385.1.1"
+	}
+}
+
+454210 = {
+	name="Ô¼º²" #Charleton
+	dynasty=4042 #de Cherleton
+	religion="catholic"
+	culture="english"
+	father=454214
+	1268.1.1 = {
+		birth="1268.1.1"
+	}
+	1309.7.26 = {
+		add_spouse=454211 #Hawise de la Pole
+	}
+	1353.12.27 = {
+		death="1353.12.27"
+	}
+}
+
+454212 = {
+	name="Ô¼º²"
+	dynasty=4042
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=2
+	religion="catholic"
+	culture="english"
+	trait="brave"
+	trait="wroth"
+	trait="tough_soldier"
+	father=454210
+	mother=454211
+	1319.1.1 = {
+		birth="1319.1.1"
+	}
+	1336.1.1 = {
+		add_spouse = 161654
+	}
+	1369.1.1 = {
+		death="1369.1.1"
+	}
+}
+
+454213 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=4042
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=454210
+	mother=454211
+	1325.1.1 = {
+		birth="1325.1.1"
+	}
+	1375.1.1 = {
+		death="1375.1.1"
+	}
+}
+
+454214 = {
+	name="Ô¼º²"
+	dynasty=4042
+	martial=4
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="just"
+	trait="patient"
+	trait="tough_soldier"
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1295.1.1 = {
+		death="1295.1.1"
+	}
+}
+
+454500 = {
+	name="°®µÂ»ª" # Edward III
+	dynasty=106
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="just"
+	trait="proud"
+	trait="gregarious"
+	trait="ambitious"
+	trait="midas_touched"
+	father=454510
+	mother=455525
+	1312.11.13 = {
+		birth="1312.11.13"
+	}
+	1328.1.1 = {
+		add_spouse=455611
+	}
+	1328.2.1 = {
+		add_claim = k_france
+	}
+	1377.6.21 = {
+		death="1377.6.21"
+	}
+}
+
+454501 = {
+	name="°®µÂ»ª" # The Black Prince
+	dynasty=106
+	martial=10
+	diplomacy=6
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="english"
+	trait="envious"
+	trait="wroth"
+	trait="cruel"
+	trait="proud"
+	trait="brilliant_strategist"
+	father=454500
+	mother=455611
+	1330.6.15 = {
+		birth="1330.6.15"
+	}
+	1376.6.8 = {
+		death="1376.6.8"
+	}
+}
+
+454502 = {
+	name="ÒÁÉ¯±´À­"
+	female = yes
+	dynasty=106
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="craven"
+	trait="martial_cleric"
+	father=454500
+	mother=455611
+	1332.6.16 = {
+		birth="1332.6.16"
+	}
+	1382.10.5 = {
+		death="1382.10.5"
+	}
+}
+
+454503 = {
+	name="Çí"
+	female = yes
+	dynasty=106
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="brave"
+	trait="charismatic_negotiator"
+	father=454500
+	mother=455611
+	1333.12.19 = {
+		birth="1333.12.19"
+	}
+	1348.7.1 = {
+		death="1348.7.1"
+	}
+}
+
+454505 = {
+	name="°£ÀòÅµ"
+	female = yes
+	dynasty=106
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="harelip"
+	trait="thrifty_clerk"
+	father=454510
+	mother=455525
+	1318.1.2 = {
+		birth="1318.1.2"
+	}
+	1368.1.2 = {
+		death="1368.1.2"
+	}
+}
+
+454506 = {
+	name="Çí"
+	female = yes
+	dynasty=106
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="arbitrary"
+	trait="envious"
+	trait="flamboyant_schemer"
+	father=454510
+	mother=455525
+	1321.1.2 = {
+		birth="1321.1.2"
+	}
+	1371.1.2 = {
+		death="1371.1.2"
+	}
+}
+
+454507 = {
+	name="Ô¼º²"
+	female = no
+	dynasty=106
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="arbitrary"
+	trait="envious"
+	trait="flamboyant_schemer"
+	father=454510
+	mother=455525
+	1316.8.15 = {
+		birth="1316.8.15"
+	}
+	1336.9.13 = {
+		death="1336.9.13"
+	}
+}
+
+454510 = {
+	name="°®µÂ»ª" # Edward II
+	dynasty=106
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="charitable"
+	trait="kind"
+	trait="trusting"
+	trait="slothful"
+	trait="indulgent_wastrel"
+	father=454520
+	mother=457642
+	1284.4.25 = {
+		birth="1284.4.25"
+	}
+	1308.1.2 = {
+		add_spouse=455525
+	}
+	1327.1.25 = {
+		trait="maimed"
+	}
+	1327.9.21 = {
+		death="1327.9.21"
+	}
+}
+
+454511 = {
+	name="°£µÂÃÉ"
+	dynasty=100073
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="deceitful"
+	trait="naive_appeaser"
+	father=454520
+	mother=455527
+	1301.8.1 = {
+		birth="1301.8.1"
+	}
+	1318.1.1 = {
+		add_spouse = 454512
+	}
+	1330.3.19 = {
+		death="1330.3.19"
+	}
+}
+
+454512 = {
+	name="Âê¸ñÀöÌØ"
+	# AKA: Margaret Wake
+	female = yes
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="humble"
+	trait="flamboyant_schemer"
+	1299.1.2 = {
+		birth="1299.1.2"
+	}
+	1349.1.2 = {
+		death="1349.1.2"
+	}
+}
+
+454513 = {
+	name="Ô¼º²"
+	dynasty=100073
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=454511
+	mother=454512
+	1330.1.2 = {
+		birth="1330.1.2"
+	}
+	1380.1.2 = {
+		death="1380.1.2"
+	}
+}
+
+454514 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=100073
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=454511
+	mother=454512
+	1327.1.2 = {
+		birth="1327.1.2"
+	}
+	1377.1.2 = {
+		death="1377.1.2"
+	}
+}
+
+454515 = {
+	name="Çí"
+	female = yes
+	dynasty=100073
+	martial=3
+	diplomacy=9
+	intrigue=4
+	stewardship=9
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="thrifty_clerk"
+	father=454511
+	mother=454512
+	1328.1.2 = {
+		birth="1328.1.2"
+	}
+	1378.1.2 = {
+		death="1378.1.2"
+	}
+}
+
+454516 = {
+	name="ÒÁÀòÉ¯°×"
+	female = yes
+	dynasty=106
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="naive_appeaser"
+	father=454520
+	mother=457642
+	1282.8.7 = {
+		birth="1282.8.7"
+	}
+	1316.5.5 = {
+		death="1316.5.5"
+	}
+}
+
+454520 = {
+	name="°®µÂ»ª"
+	# AKA: Edward Longshanks
+	dynasty=106
+	martial=10
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="ambitious"
+	trait="wroth"
+	trait="cruel"
+	trait="just"
+	trait="brilliant_strategist"
+	father=454522
+	mother = 454536
+	1239.6.17 = {
+		birth="1239.6.17"
+	}
+	1254.1.1 = {
+		add_spouse=457642
+	}
+	1271.1.1 = {
+		trait="crusader"
+	}
+	1299.1.1 = {
+		add_spouse=455527
+	}
+	1307.7.7 = {
+		death="1307.7.7"
+	}
+}
+
+454522 = {
+	name="ºàÀû"
+	# AKA: Henry III
+	dynasty=106
+	martial=10
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="weak"
+	trait="zealous"
+	trait="temperate"
+	trait="envious"
+	trait="martial_cleric"
+	father = 204514
+	mother = 205648
+	1207.10.1 = {
+		birth="1207.10.1"
+	}
+	1236.1.14 = {
+		add_spouse = 454536
+	}
+	1272.11.16 = {
+		death="1272.11.16"
+	}
+}
+
+454523 = {
+	name="°£µÂÃÉ"
+	dynasty=106
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="cynical"
+	trait="tough_soldier"
+	father=454522
+	mother = 454536
+	1245.1.16 = {
+		birth="1245.1.16"
+	}
+	1276.2.3 = {
+		add_spouse = 454524
+	}
+	1296.6.5 = {
+		death="1296.6.5"
+	}
+}
+
+454525 = {
+	name="ºàÀû"
+	dynasty=106
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="tough_soldier"
+	father=454523
+	mother=454524
+	1281.1.2 = {
+		birth="1281.1.2"
+	}
+	1297.3.1 = {
+		add_spouse = 454526
+	}
+	1345.9.22 = {
+		death="1345.9.22"
+	}
+}
+
+454527 = {
+	name="ºàÀû"
+	dynasty=106
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="temperate"
+	trait="tough_soldier"
+	father=454525
+	mother=454526
+	1314.1.2 = {
+		birth="1314.1.2"
+	}
+	1334.1.2 = {
+		add_spouse=454528
+	}
+	1364.1.2 = {
+		death="1364.1.2"
+	}
+}
+
+454529 = {
+	name="ÂêµÙ¶û´ï"
+	female = yes
+	dynasty=106
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	father=454527
+	mother=454528
+	1335.1.2 = {
+		birth="1335.1.2"
+	}
+	1385.1.2 = {
+		death="1385.1.2"
+	}
+}
+
+454530 = {
+	name="²¼À¼Ææ"
+	female = yes
+	dynasty=106
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="slothful"
+	trait="naive_appeaser"
+	father=454525
+	mother=454526
+	1305.1.2 = {
+		birth="1305.1.2"
+	}
+	1355.1.2 = {
+		death="1355.1.2"
+	}
+}
+
+454531 = {
+	name="Ä½µÂ"
+	female = yes
+	dynasty=106
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="temperate"
+	trait="amateurish_plotter"
+	father=454525
+	mother=454526
+	1310.1.2 = {
+		birth="1310.1.2"
+	}
+	1360.1.2 = {
+		death="1360.1.2"
+	}
+}
+
+454532 = {
+	name="Çí"
+	female = yes
+	dynasty=106
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="temperate"
+	trait="amateurish_plotter"
+	father=454525
+	mother=454526
+	1312.1.2 = {
+		birth="1312.1.2"
+	}
+	1362.1.2 = {
+		death="1362.1.2"
+	}
+}
+
+454533 = {
+	name="ÒÁÁÕÅµ"
+	female = yes
+	dynasty=106
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="gluttonous"
+	trait="amateurish_plotter"
+	father=454525
+	mother=454526
+	1317.1.2 = {
+		birth="1317.1.2"
+	}
+	1367.1.2 = {
+		death="1367.1.2"
+	}
+}
+
+454534 = {
+	name="ÂêÀö"
+	female = yes
+	dynasty=106
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="amateurish_plotter"
+	father=454525
+	mother=454526
+	1310.1.2 = {
+		birth="1310.1.2"
+	}
+	1377.5.5 = {
+		death="1377.5.5"
+	}
+}
+
+454550 = {
+	name="ÍÐÂíË¹"
+	dynasty=105
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="patient"
+	trait="flamboyant_schemer"
+	father=454520
+	mother=455527
+	1300.6.1 = {
+		birth="1300.6.1"
+	}
+	1319.1.2 = {
+		add_spouse=454551
+	}
+	1338.8.4 = {
+		death="1338.8.4"
+	}
+}
+
+454551 = {
+	name="°®ÀöË¿"
+	# AKA: Alice 
+	female = yes
+	dynasty=104
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="martial_cleric"
+	1297.1.2 = {
+		birth="1297.1.2"
+	}
+	1326.1.15 = {
+		death="1326.1.15"
+	}
+}
+
+454552 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=105
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="arbitrary"
+	trait="underhanded_rogue"
+	father=454550
+	mother=454551
+	1320.1.2 = {
+		birth="1320.1.2"
+	}
+	1370.1.2 = {
+		death="1370.1.2"
+	}
+}
+
+454553 = {
+	name="°®ÀöË¿"
+	# AKA: Alice 
+	female = yes
+	dynasty=105
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="greedy"
+	trait="wroth"
+	trait="martial_cleric"
+	father=454550
+	mother=454551
+	1325.1.2 = {
+		birth="1325.1.2"
+	}
+	1375.1.2 = {
+		death="1375.1.2"
+	}
+}
+
+454554 = {
+	name="ÂêÀö"
+	# AKA: Mary 
+	female = yes
+	dynasty=4019
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="humble"
+	trait="scholarly_theologian"
+	1319.1.2 = {
+		birth="1319.1.2"
+	}
+	1369.1.2 = {
+		death="1369.1.2"
+	}
+}
+
+454560 = {
+	name="ºº¸¥À³"
+	dynasty=359
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="honest"
+	trait="ill"
+	trait="tough_soldier"
+	father=454561
+	mother=454516
+	1309.1.2 = {
+		birth="1309.1.2"
+	}
+	1359.1.2 = {
+		death="1359.1.2"
+	}
+}
+
+454561 = {
+	name="ºº¸¥À³"
+	dynasty=359
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father = 7463
+	1259.1.1 = {
+		birth="1259.1.1"
+	}
+	1276.1.1 = {
+		add_spouse=454516
+	}
+	1321.11.6 = {
+		death="1321.11.6"
+	}
+}
+
+454562 = {
+	name="ÍþÁ®"
+	dynasty=359
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="tough_soldier"
+	father=454561
+	mother=454516
+	1311.1.2 = {
+		birth="1311.1.2"
+	}
+	1361.1.2 = {
+		death="1361.1.2"
+	}
+}
+
+454563 = {
+	name="ÒÁÀòÉ¯°×"
+	# AKA: Elizabeth Badlesmere
+	female = yes
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="chaste"
+	trait="naive_appeaser"
+	1313.1.2 = {
+		birth="1313.1.2"
+	}
+	1363.1.2 = {
+		death="1363.1.2"
+	}
+}
+
+454564 = {
+	name="ÒÁÁÕÅµ"
+	female = yes
+	dynasty=359
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="slothful"
+	trait="lisp"
+	trait="naive_appeaser"
+	father=454561
+	mother=454516
+	1287.1.1 = {
+		birth="1287.1.1"
+	}
+	1354.7.1 = {
+		death="1354.7.1"
+	}
+}
+
+454565 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=359
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="thrifty_clerk"
+	father=454561
+	mother=454516
+	1311.1.1 = {
+		birth="1311.1.1"
+	}
+	1391.12.16 = {
+		death="1391.12.16"
+	}
+}
+
+454572 = {
+	name="°®ÀöË¿"
+	female = yes
+	dynasty=347
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="envious"
+	trait="amateurish_plotter"
+	father=454579
+	mother=454580
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1335.1.1 = {
+		death="1335.1.1"
+	}
+}
+
+454574 = {
+	name="°£µÂÃÉ"
+	dynasty=101899
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="slothful"
+	trait="thrifty_clerk"
+	father=454570
+	mother=161670
+	1327.1.1={
+		birth=yes
+	}
+	1377.1.1={
+		death=yes
+	}
+}
+
+454575 = {
+	name="ÂêÀö"
+	female=yes
+	dynasty=101899
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=454570
+	mother=161670
+	1333.1.1={
+		birth=yes
+	}
+	1396.8.29={
+		death=yes
+	}
+}
+
+454576 = {
+	name="ÍÐÂíË¹"
+	# AKA: Thomas de Holland
+	dynasty=4035
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="skilled_tactician"
+	father=454577
+	mother=454578
+	1314.1.1 = {
+		birth="1314.1.1"
+	}
+	1360.12.26 = {
+		death="1360.12.26"
+	}
+}
+
+454577 = {
+	name="ÂÞ²®ÌØ"
+	# AKA: Robert de Holland
+	dynasty=4035
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	1283.1.1 = {
+		birth="1283.1.1"
+	}
+	1308.1.1 = {
+		add_spouse=454578
+	}
+	1328.1.1 = {
+		death="1328.1.1"
+	}
+}
+
+454578 = {
+	name="Ä½µÂ"
+	# AKA: Maud la Zouche
+	female = yes
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	1289.1.1 = {
+		birth="1289.1.1"
+	}
+	1339.1.1 = {
+		death="1339.1.1"
+	}
+}
+
+454579 = {
+	name="ÍþÁ®"
+	dynasty=347
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father = 230527
+	mother = 230528
+	1256.1.1 = {
+		birth="1256.1.1"
+	}
+	1282.1.1 ={		
+		add_spouse = 454580
+	}
+	1286.12.15 = {
+		death="1286.12.15"
+	}
+}
+
+454580 = {
+	name="Çí"
+	female = yes
+	dynasty=365
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=454583
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1293.1.1 = {
+		death="1293.1.1"
+	}
+}
+
+454581 = {
+	name="Ô¼º²"
+	dynasty=347
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="fortune_builder"
+	father=454579
+	mother=454580
+	1286.6.30 = {
+		birth="1286.6.30"
+	}
+	1347.6.1 = {
+		death="1347.6.1"
+	}
+}
+
+454582 = {
+	name="ÇÇ°²ÄÝ"
+	female = yes
+	dynasty=517
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="amateurish_plotter"
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+454583 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=365
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=129044
+	mother=129045
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1256.1.6 = {
+		add_spouse=129046
+	}	
+	1296.1.1 = {
+		death="1296.1.1"
+	}
+}
+
+454584 = {
+	name="°¢·½Ë÷"
+	dynasty=365
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="tough_soldier"
+	father=454583
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1306.1.2 = {
+		add_spouse=454585
+	}
+	1319.1.1 = {
+		death="1319.1.1"
+	}
+}
+
+454585 = {
+	name="¼ò"
+	# AKA: Jane Foliot
+	female = yes
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="underhanded_rogue"
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1330.1.1 = {
+		death="1330.1.1"
+	}
+}
+
+454586 = {
+	name="Ô¼º²"
+	dynasty=365
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="brave"
+	trait="tough_soldier"
+	father=454584
+	mother=454585
+	1312.3.12 = {
+		birth="1312.3.12"
+	}
+	1360.1.24 = {
+		death="1360.1.24"
+	}
+}
+
+454587 = {
+	name="Ä½µÂ"
+	# AKA: Maud Bedlesmere
+	female = yes
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="cynical"
+	trait="flamboyant_schemer"
+	1320.1.1 = {
+		birth="1320.1.1"
+	}
+	1370.1.1 = {
+		death="1370.1.1"
+	}
+}
+
+454590 = {
+	name="¸ÇÒÁ"
+	# AKA: Guy Beauchamp
+	dynasty=102008
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="tough_soldier"
+	father = 7453
+	1272.1.1 = {
+		birth="1272.1.1"
+	}
+	1310.1.2 = {
+		add_spouse=454054
+	}
+	1315.8.12 = {
+		death="1315.8.12"
+	}
+}
+
+454592 = {
+	name="ÍÐÂíË¹"
+	# AKA: Thomas Beauchamp
+	dynasty=102008
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="lustful"
+	trait="tough_soldier"
+	father=454590
+	mother=454054
+	1313.2.13 = {
+		birth="1313.2.13"
+	}
+	1330.1.1={
+		add_spouse = 161647
+	}
+	1369.11.13 = {
+		death="1369.11.13"
+	}
+}
+
+454594 = {
+	name="ÐÝ"
+	dynasty=23100
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="deceitful"
+	trait="tough_soldier"
+	father=31004
+	mother=31005 
+	1303.1.1 = {
+		birth="1303.1.1"
+	}
+	1325.1.1 = {
+		add_spouse=454565
+	}
+	1377.5.2 = {
+		death="1377.5.2"
+	}
+}
+
+454595 = {
+	name="ÐÝ"
+	dynasty=23100
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	father=454594
+	mother=454565
+	1327.3.22 = {
+		birth="1327.3.22"
+	}
+	1349.9.2 = {
+		death="1349.9.2"
+	}
+}
+
+454596 = {
+	name="Àí²é"
+	dynasty=565
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="patient"
+	trait="scholarly_theologian"
+	1299.1.1 = {
+		birth="1299.1.1"
+	}
+	1349.1.1 = {
+		death="1349.1.1"
+	}
+}
+
+454600 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=4010
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="skilled_tactician"
+	father=82084
+	mother=82083
+	1264.1.1 = {
+		birth="1264.1.1"
+	}
+	1300.1.2 = {
+		add_spouse=454601
+	}
+	1314.1.25 = {
+		death="1314.1.25"
+	}
+}
+
+454601 = {
+	name="Ä½µÂ"
+	# AKA: Maud 
+	female = yes
+	dynasty=364
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="detached_priest"
+	father = 7445
+	mother=161458
+	1274.1.1 = {
+		birth="1274.1.1"
+	}
+	1327.1.25 = {
+		death="1327.1.25"
+	}
+}
+
+454602 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=4010
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="chaste"
+	trait="tough_soldier"
+	father=454600
+	mother=454601
+	1305.1.1 = {
+		birth="1305.1.1"
+	}
+	1355.1.1 = {
+		death="1355.1.1"
+	}
+}
+
+454603 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=4010
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="amateurish_plotter"
+	father=454600
+	mother=454601
+	1310.1.1 = {
+		birth="1310.1.1"
+	}
+	1360.1.1 = {
+		death="1360.1.1"
+	}
+}
+
+454604 = {
+	name="°£¶ÅÒò"
+	female = yes
+	dynasty=4010
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="chaste"
+	trait="fortune_builder"
+	father=454600
+	mother=454601
+	1313.1.1 = {
+		birth="1313.1.1"
+	}
+	1363.1.1 = {
+		death="1363.1.1"
+	}
+}
+
+454605 = {
+	name="Çí"
+	female=yes
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	father=454520
+	mother=457642
+	1272.1.1 = {
+		birth="1272.1.1"
+	}
+	1307.4.23 = {
+		death="1307.4.23"
+	}
+}
+
+454606 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=364
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="ambitious"
+	trait="cruel"
+	trait="intricate_webweaver"
+	father=454048
+	mother=454047
+	1243.9.2 = {
+		birth="1243.9.2"
+	}
+	1263.1.1 = {
+		add_spouse=7444
+	}
+	1285.1.1 = {
+		remove_spouse=7444
+	} 
+	1290.4.30 = {
+		add_spouse=454605
+	}
+	1295.12.7 = {
+		death="1295.12.7"
+	}
+}
+
+454607 = {
+	name="°£ÀòÅµ"
+	female = yes
+	dynasty=364
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="amateurish_plotter"
+	father=454606
+	mother=454605
+	1292.1.1 = {
+		birth="1292.1.1"
+	}
+	1342.1.1 = {
+		death="1342.1.1"
+	}
+}
+
+454608 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=364
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="proud"
+	trait="flamboyant_schemer"
+	father=454606
+	mother=454605
+	1293.1.1 = {
+		birth="1293.1.1"
+	}
+	1343.1.1 = {
+		death="1343.1.1"
+	}
+}
+
+454609 = {
+	name="ÒÁÀòÉ¯°×"
+	female = yes
+	dynasty=364
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="lisp"
+	trait="envious"
+	trait="flamboyant_schemer"
+	father=454606
+	mother=454605
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1345.1.1 = {
+		death="1345.1.1"
+	}
+}
+
+454610 = {
+	name="ÐÝ"
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	father=161680
+	mother=161681
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1317.4.18 = {
+		add_spouse = 454608
+	}
+	1347.11.10 = {
+		death="1347.11.10"
+	}
+}
+
+454611 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=4023
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=454610
+	mother=454608
+	1320.1.1 = {
+		birth="1320.1.1"
+	}
+	1370.1.1 = {
+		death="1370.1.1"
+	}
+}
+
+454612 = {
+	name="Ô¼º²"
+	dynasty=4034
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="envious"
+	trait="tough_soldier"
+	father=454106
+	mother=454108
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1308.1.2 = {
+		add_spouse=454609
+	}
+	1314.1.1 = {
+		death="1314.1.1"
+	}
+}
+
+454613 = {
+	name="ÍþÁ®"
+	dynasty=4034
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="brave"
+	trait="proud"
+	trait="tough_soldier"
+	father=454612
+	mother=454609
+	1312.1.1 = {
+		birth="1312.1.1"
+	}
+	1327.11.16 = {
+		add_spouse = 454531
+	}
+	1333.6.6 = {
+		death="1333.6.6"
+	}
+}
+
+454614 = {
+	name="ÒÁÀòÉ¯°×"
+	female = yes
+	dynasty=4034
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="martial_cleric"
+	father=454613
+	mother=454531
+	1332.1.1 = {
+		birth="1332.1.1"
+	}
+	1382.1.1 = {
+		death="1382.1.1"
+	}
+}
+
+455764 = {
+	name="°£ÀòÅµ"
+	female=yes
+	dynasty=106
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	trait="detached_priest"
+	father=454520
+	mother=457642
+	1269.6.18 = {
+		birth="1269.6.18"
+	}
+	1298.8.19 = {
+		death="1298.8.19"
+	}
+}
+
+455791 = {
+	name="±È°¢ÌØÀöË¹"
+	female = yes
+	dynasty=106
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="fortune_builder"
+	father=454522
+	mother = 454536
+	1242.1.2 = {
+		birth="1242.1.2"
+	}
+	1275.1.2 = {
+		death="1275.1.2"
+	}
+}
+
+455792 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=106
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="fortune_builder"
+	father=454522
+	mother = 454536
+	1240.9.29 = {
+		birth="1240.9.29"
+	}
+	1275.2.26 = {
+		death="1275.2.26"
+	}
+}
+
+487043 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=106
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="english"
+	trait="amateurish_plotter"
+	father=454520
+	mother=457642
+	1275.3.15 = {
+		birth="1275.3.15"
+	}
+	1333.3.11 = {
+		death="1333.3.11"
+	}
+}
+
+71809 = {
+	name="Äá¹ÅÀ­Ë¹"
+	dynasty=8788
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="ambitious"
+	trait="trusting"
+	trait="scholarly_theologian"
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1154.12.3 = {
+		name="¹þµÂÁ¼"
+	}
+	1185.1.1 = {
+		death="1185.1.1"
+	}
+}
+
+7284 = {
+	name="°£¼ªµÙæ«"
+	female = yes
+	dynasty=4037
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="slothful"
+	trait="humble"
+	trait="gluttonous"
+	trait="naive_appeaser"
+	father=204021
+	1177.1.1 = {
+		birth="1177.1.1"
+	}
+	1248.11.5 = {
+		death="1248.11.5"
+	}
+}
+
+7353 = {
+	name="Çí"
+	female = yes
+	dynasty=101709
+	religion="catholic"
+	culture="english"
+	father = 204540
+	mother = 204772
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1234.1.1 = {
+		death="1234.1.1"
+	}
+}
+
+7354 = {
+	name="°²ÈûÄ·"
+	dynasty=101709
+	religion="catholic"
+	culture="english"
+	father = 204540
+	mother = 204772
+	1208.1.1 = {
+		birth="1208.1.1"
+	}
+	1245.12.22 = {
+		death="1245.12.22"
+	}
+}
+
+7355 = {
+	name="ÎÖ¶ûÌØ"
+	dynasty=101709
+	religion="catholic"
+	culture="english"
+	father = 204540
+	mother = 204772
+	1199.1.1 = {
+		birth="1199.1.1"
+	}
+	1245.11.1 = {
+		death="1245.11.1"
+	}
+}
+
+7356 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=101709
+	religion="catholic"
+	culture="english"
+	father = 204540
+	mother = 204772
+	1197.1.1 = {
+		birth="1197.1.1"
+	}
+	1241.6.27 = {
+		death="1241.6.27"
+	}
+}
+
+7348 = {
+	name="ÍþÁ®"
+	dynasty=101709
+	religion="catholic"
+	culture="english"
+	father = 204540
+	mother = 204772
+	1190.1.1 = {
+		birth="1190.1.1"
+	}
+	1206.1.1 = {
+		add_spouse=161761
+	}	
+	1231.4.6 = {
+		death="1231.4.6"
+	}
+}
+
+7357 = {
+	name="Àí²é"
+	dynasty=101709
+	religion="catholic"
+	culture="english"
+	father = 204540
+	mother = 204772
+	1191.1.1 = {
+		birth="1191.1.1"
+	}
+	1234.4.16 = {
+		death="1234.4.16"
+	}
+}
+
+7370 = {  	
+	name="°¬´ï"
+	female=yes
+	dynasty=540
+	religion="catholic"
+	culture="english"
+	father = 7372
+	mother = 7385
+	1194.1.1={
+		birth="1194.1.1"
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+
+7371 = {
+	name="ÐÝ"
+	dynasty=540
+	religion="catholic"
+	culture="english"
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1163.1.1 = {
+		death="1163.1.1"
+	}
+}
+
+7372 = {
+	name="´óÎÀ"
+	dynasty=540
+	religion="catholic"
+	culture="english"
+	father = 7373
+	1174.1.1 = {
+		birth="1174.1.1"
+	}
+	1194.1.1 = {
+		add_spouse = 7385
+	}
+	1247.1.1 = {
+		death="1247.1.1"
+	}
+}
+
+7373 = {
+	name="Ô¼º²"
+	dynasty=540
+	religion="catholic"
+	culture="english"
+	father = 7371
+	1152.1.1 = {
+		birth="1152.1.1"
+	}
+	1194.1.1 = {
+		death="1194.1.1"
+	}
+}
+
+7375 = {
+	name="ÍþÁ®"
+	dynasty=540
+	religion="catholic"
+	culture="english"
+	father = 7371
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1182.1.1 = {
+		death="1182.1.1"
+	}
+}
+
+7376 = {
+	name="Âê½ÜÀò"
+	female = yes
+	dynasty=346
+	religion="catholic"
+	culture="english"
+	father=204730
+	mother=204515
+	1185.1.1 = {
+		birth="1185.1.1"
+	}
+	1222.1.1 = {
+		death="1222.1.1"
+	}
+}
+
+7377 = {
+	name="ÍþÁ®"
+	dynasty=540
+	religion="catholic"
+	culture="english"
+	father = 7375
+	1171.1.1 = {
+		birth="1171.1.1"
+	}
+	1201.1.1 = {
+		add_spouse = 7376
+	}
+	1250.8.9 = {
+		death="1250.8.9"
+	}
+}
+
+7378 = {
+	name="ºàÀû"
+	dynasty=540
+	religion="catholic"
+	culture="english"
+	father = 7377
+	mother = 7376
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1250.8.9 = {
+		death="1250.8.9"
+	}
+}
+
+7380 = {
+	name="ºàÀû"
+	dynasty=540
+	religion="catholic"
+	culture="english"
+	father = 7378
+	mother = 7379
+	1239.1.1 = {
+		birth="1239.1.1"
+	}
+	1269.3.5 = {
+		death="1269.3.5"
+	}
+}
+
+7381 = {
+	name="Ô¼º²"
+	dynasty=540
+	religion="catholic"
+	culture="english"
+	father = 7380
+	1262.5.6 = {
+		birth="1262.5.6"
+	}
+	1281.1.1 = {
+		add_spouse = 7382
+	}
+	1308.1.1 = {
+		add_spouse = 454573
+	}
+	1313.2.10 = {
+		death="1313.2.10"
+	}
+}
+
+7428 = {
+	name="ÂÞË¹"
+	female = yes
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+	father=204022
+	1192.1.1 = {
+		birth="1192.1.1"
+	}
+	1238.1.1 = {
+		death="1238.1.1"
+	}
+}
+
+7429 = {
+	name="ÍþÁ®"
+	dynasty=352
+	religion="catholic"
+	culture="english"
+	father=204694
+	mother=204683
+	1195.1.1 = {
+		birth="1195.1.1"
+	}
+	1238.1.1 = {
+		add_spouse=129040
+	}
+	1254.3.28 = {
+		death="1254.3.28"
+	}
+}
+
+7436 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=364
+	religion="catholic"
+	culture="english"
+	father=204801
+	mother=203544
+	1219.1.1 = {
+		birth="1219.1.1"
+	}
+	1284.1.1 = {
+		death="1284.1.1"
+	}
+}
+
+7440 = {
+	name="Ä½µÂ"
+	female = yes
+	dynasty=1020103 #de Dunstanville
+	religion="catholic"
+	culture="english"
+	father=204571
+	1142.1.1 = {
+		birth="1142.1.1"
+	}
+	1194.1.1 = {
+		death="1194.1.1"
+	}
+}
+
+7441 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=5061
+	religion="catholic"
+	culture="english"
+	father=7443
+	mother=7442
+	1142.1.1 = {
+		birth="1142.1.1"
+	}
+	1165.1.1 = {
+		add_spouse = 7440
+	}
+	1204.8.16 = {
+		death="1204.8.16"
+	}
+}
+
+7443 = {
+	name="Íß¶ûÀ¼"
+	dynasty=5061
+	religion="catholic"
+	culture="english"
+	father=204596
+	mother=551 
+	1104.1.1 = {
+		birth="1104.1.1"
+	}
+	1138.1.1 = {
+		add_spouse = 7442
+	}
+	1166.4.9 = {
+		death="1166.4.9"
+	}
+}
+
+7445 = {
+	name="ÍÐÂíË¹"
+	dynasty=364
+	religion="catholic"
+	culture="english"
+	trait="lustful"
+	trait="fortune_builder"
+	father=454048
+	mother=454047
+	1245.1.1 = {
+		birth="1245.1.1"
+	}
+	1272.1.1 = {
+		add_spouse=161458
+	} 
+	1287.8.29 = {
+		death="1287.8.29"
+	}
+}
+
+7446 = {
+	name="ÍþÁ®"
+	dynasty=102008
+	religion="catholic"
+	culture="english"
+	father=161652
+	mother=161653
+	1219.1.1 = {
+		birth="1219.1.1"
+	}
+	1237.1.1 = {
+		add_spouse = 7447
+	}
+	1268.1.7 = {
+		death="1268.1.7"
+	}
+}
+
+7447 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=100067
+	religion="catholic"
+	culture="english"
+	trait="flamboyant_schemer"
+	father = 7448
+	mother = 7449
+	1221.1.1 = {
+		birth="1221.1.1"
+	}
+	1267.1.9 = {
+		death="1267.1.9"
+	}
+}
+
+7448 = {
+	name="ÍþÁ®"
+	dynasty=100067
+	religion="catholic"
+	culture="english"
+	trait="flamboyant_schemer"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1213.1.1 = {
+		add_spouse = 7449
+	}
+	1250.1.1 = {
+		death="1250.1.1"
+	}
+}
+
+7449 = {
+	name="°®ÀöË¿"
+	female = yes
+	dynasty=5061
+	religion="catholic"
+	culture="english"
+	father=204710
+	1197.1.1 = {
+		birth="1197.1.1"
+	}
+	1263.1.1 = {
+		death="1263.1.1"
+	}
+}
+
+7450 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=5061
+	religion="catholic"
+	culture="english"
+	father=204711
+	1209.1.1 = {
+		birth="1209.1.1"
+	}
+	1253.6.3 = {
+		death="1253.6.3"
+	}
+}
+
+7451 = {
+	name="ÍÐÂíË¹"
+	dynasty=5061
+	religion="catholic"
+	culture="english"
+	father=204711
+	1208.1.1 = {
+		birth="1208.1.1"
+	}
+	1230.1.1 = {
+		add_spouse=161372
+	}
+	1242.6.26 = {
+		death="1242.6.26"
+	}
+}
+
+7452 = {
+	name="Âê½ÜÀò"
+	female = yes
+	dynasty=359
+	religion="catholic"
+	culture="english"
+	father=204620
+	mother=204621
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1196.1.1 = {
+		death="1196.1.1"
+	}
+}
+
+7453 = {
+	name="ÍþÁ®"
+	dynasty=102008
+	religion="catholic"
+	culture="english"
+	father = 7446
+	mother = 7447
+	1237.10.1 = {
+		birth="1237.10.1"
+	}
+	1298.1.1 = {
+		death="1298.1.1"
+	}
+}
+
+
+7454 = {
+	name="ÂÞ½Ü"
+	dynasty=346
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=7456
+	1245.1.1 = {
+		birth="1245.1.1"
+	}
+	1290.1.2 = {
+		add_spouse=161903 # Alix de Hainaut
+	}
+	1306.12.6 = {
+		death="1306.12.6"
+	}
+}
+
+7455 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=346
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=204731
+	mother=230526
+	1212.1.1 = {
+		birth="1212.1.1"
+	}
+	1250.1.1 = {
+		death="1250.1.1"
+	}
+}
+
+7456 = {
+	name="ÐÝ"
+	dynasty=346
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=204731
+	mother=230526
+	1211.1.1 = {
+		birth="1211.1.1"
+	}
+	1266.1.1 = {
+		death="1266.1.1"
+	}
+}
+
+
+7457 = {
+	name="ÂÞ½Ü"
+	dynasty=346
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=204731
+	mother=230526
+	1209.1.1 = {
+		birth="1209.1.1"
+	}
+	1270.1.1 = {
+		death="1270.1.1"
+	}
+}
+
+7458 = {
+	name="ÐÝ²®ÌØ"
+	dynasty=4034
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="deceitful"
+	trait="lustful"
+	trait="envious"
+	trait="tough_soldier"
+	father = 7460
+	1161.1.1 = {
+		birth="1161.1.1"
+	}
+	1243.5.5 = {
+		death="1243.5.5"
+	}
+}
+
+7460 = {
+	name="ÎÖ¶ûÌØ"
+	dynasty=4034
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="deceitful"
+	trait="lustful"
+	trait="envious"
+	trait="tough_soldier"
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+7461 = {
+	name="ÂÞ½Ü"
+	dynasty=358
+	religion="catholic"
+	culture="english"
+	father=204622
+	1125.1.1 = {
+		birth="1125.1.1"
+	}
+	1155.9.22 = {
+		death="1155.9.22"
+	}
+}
+
+7462 = {
+	name="ºº¸¥À³"
+	dynasty=359
+	religion="catholic"
+	culture="english"
+	father = 204600
+	mother=129054
+	1208.1.1 = {
+		birth="1208.1.1"
+	}
+	1275.9.24 = {
+		death="1275.9.24"
+	}
+}
+
+7463 = {
+	name="ºº¸¥À³"
+	dynasty=359
+	religion="catholic"
+	culture="english"
+	father=129055
+	mother=161623
+	1242.1.1 = {
+		birth="1242.1.1"
+	}
+	1298.12.31 = {
+		death="1298.12.31"
+	}
+}
+
+7464 = {
+	name="Ô¼º²"
+	dynasty=359
+	religion="catholic"
+	culture="english"
+	father=454561
+	mother=454516
+	1306.11.23 = {
+		birth="1306.11.23"
+	}
+	1335.1.20 = {
+		death="1335.1.20"
+	}
+}
+
+7510 = {
+	name="ÒÁÉ¯±´À­"
+	female=yes
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	father = 204514
+	mother = 205648
+	1214.1.1 = {
+		birth=yes
+	}
+	1241.12.1 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+
+82041 = {
+	name="ÍþÁ®"
+	dynasty=9106
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="proud"
+	trait="scholarly_theologian"
+	1135.1.24 = {
+		birth="1135.1.24"
+	}
+	1190.5.3 = {
+		death="1190.5.3"
+	}
+}
+
+82042 = {
+	name="Î÷ÃÉ"
+	dynasty=9107
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="scholarly_theologian"
+	father=155254
+	1308.1.1 = {
+		birth="1308.1.1"
+	}
+	1345.6.20 = {
+		death="1345.6.20"
+	}
+}
+
+82076 = {
+	name="Ä½µÂ"
+	female = yes
+	dynasty=368
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=332026 #Hugh de Morville
+	1135.1.1 = {
+		birth="1135.1.1"
+	}
+	1210.7.1 = {
+		death="1210.7.1"
+	}
+}
+
+82077 = {
+	name="°¬´ï"
+	female = yes
+	dynasty=368
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=332026 #Hugh de Morville
+	1137.1.1 = {
+		birth="1137.1.1"
+	}
+	1197.7.1 = {
+		death="1197.7.1"
+	}
+}
+
+82078 = {
+	name="ÍþÁ®"
+	dynasty=9113
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	1134.1.1 = {
+		birth="1134.1.1"
+	}
+	1155.7.1 = {
+		add_spouse=82076
+	}
+	1203.1.1 = {
+		death="1203.1.1"
+	}
+}
+
+82079 = {
+	name="ÒÁÎÖ"
+	dynasty=9113
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=82078
+	mother=82076
+	1155.1.1 = {
+		birth="1155.1.1"
+	}
+	1223.1.1 = {
+		death="1223.1.1"
+	}
+}
+
+82080 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=9113
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=82078
+	mother=82076
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1228.2.1 = {
+		death="1228.2.1"
+	}
+}
+
+82081 = {
+	name="Ô¼º²"
+	dynasty=9113
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=82080
+	1189.1.1 = {
+		birth="1189.1.1"
+	}
+	1241.2.1 = {
+		death="1241.2.1"
+	}
+}
+
+82082 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=9113
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	father=82081
+	1217.1.1 = {
+		birth="1217.1.1"
+	}
+	1264.2.1 = {
+		death="1264.2.1"
+	}
+}
+
+82083 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=9113
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=82082
+	1251.1.1 = {
+		birth="1251.1.1"
+	}
+	1292.5.14 = {
+		death="1292.5.14"
+	}
+}
+
+82084 = {
+	name="ÂÞ½Ü"
+	dynasty=4010
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	1244.1.1 = {
+		birth="1244.1.1"
+	}
+	1263.10.2 = {
+		add_spouse=82083
+	}
+	1282.1.1 = {
+		death="1282.1.1"
+	}
+}
+
+31381 = {
+	name="çêÄÚ¶û"
+	female = yes
+	dynasty=4037 #de Lacy
+	religion="catholic"
+	culture="english"
+	father=204020
+	mother=204014
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1288.10.25 = {
+		death="1288.10.25"
+	}
+}
+
+32506 = {
+	name="Âí°Ý¶û"
+	female=yes
+	dynasty=5061
+	religion="catholic"
+	culture="english"
+	father=7441
+	mother=7440
+	1165.1.1 = {
+		birth="1165.1.1"
+	}
+	1204.5.1 = {
+		death="1204.5.1"
+	}
+}
+
+32507 = {
+	name="ÂêÀö" 
+	female=yes
+	dynasty=101857
+	religion="catholic"
+	culture="english"
+	father=204650
+	mother=32506
+	1182.1.1 = {
+		birth="1182.1.1"
+	}
+	1242.1.1 = {
+		death="1242.1.1"
+	}
+}
+
+32508 = {
+	name="Çí" 
+	female=yes
+	dynasty=101857
+	religion="catholic"
+	culture="english"
+	father=204650
+	mother=32506
+	1183.1.1 = {
+		birth="1183.1.1"
+	}
+	1233.1.1 = {
+		death="1233.1.1"
+	}
+}
+
+32509 = {
+	name="±«µÂÎÂ" 
+	dynasty=101857
+	religion="catholic"
+	culture="english"
+	father=204650
+	mother=32506
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1216.1.1 = {
+		add_spouse=32510
+	}
+	1216.9.1 = {
+		death="1216.9.1"
+	}
+}
+
+32510 = {
+	name="Âê¸ñÀöÌØ" 
+	female=yes
+	#dynasty=4041 #not FitzGerald but FitzGerold
+	religion="catholic"
+	culture="english"
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1252.9.1 = {
+		death="1252.9.1"
+	}
+}
+
+32511 = {
+	name="±«µÂÎÂ" #count of Devon 1217-1245
+	dynasty=101857
+	religion="catholic"
+	culture="english"
+	father=32509
+	mother=32510
+	1217.1.1 = {
+		birth="1217.1.1"
+	}
+	#1235 married Amice de Clare
+	1245.2.15 = {
+		death="1245.2.15"
+	}
+}
+
+32512 = {
+	name="±«µÂÎÂ" #count of Devon 1245-1262
+	dynasty=101857
+	religion="catholic"
+	culture="english"
+	father=32511
+	1236.1.1 = {
+		birth="1236.1.1"
+	}
+	#1257 married Avoie de Savoye
+	1262.9.13 = {
+		death="1262.9.13"
+	}
+}
+
+32513 = {
+	name="ÒÁÉ¯±´¶û" #countess of Devon 1262 - 1293
+	female=yes
+	dynasty=101857
+	religion="catholic"
+	culture="english"
+	father=32511
+	1237.7.1 = {
+		birth="1237.7.1"
+	}
+	1293.11.10 = {
+		death="1293.11.10"
+	}
+}
+
+33367 = {
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+	dynasty=364
+	religion="catholic"
+	culture="english"
+	father=454048
+	mother=454047
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1268.1.1 = {
+		death="1268.1.1"
+	}
+}
+
+129019 = {
+	name="½Ü¸¥Àï"
+	religion="catholic"
+	culture="english"
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1141.5.6 = {
+		death="1141.5.6"
+	}
+}
+
+129026 = {
+	name="Àí²é"
+	religion="catholic"
+	culture="english"
+	1169.1.1 = {
+		birth="1169.1.1"
+	}
+	1226.5.1 = {
+		death="1226.5.1"
+	}
+}
+
+129027={
+	name="Àí²é"
+	religion="catholic"
+	culture="english"
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	learning=8
+	trait="scholarly_theologian"
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1237.4.15={
+		death="1237.4.15"
+	}
+}
+
+129028={
+	name="Äá¹ÅÀ­Ë¹"
+	religion="catholic"
+	culture="english"
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1257.7.31={
+		death="1257.7.31"
+	}
+}
+
+129029={
+	name="ÎÖ¶ûÌØ"
+	religion="catholic"
+	culture="english"
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1260.8.9={
+		death="1260.8.9"
+	}
+}
+
+129030={
+	name="ÂÞ²®ÌØ"
+	religion="catholic"
+	culture="english"
+	1207.1.1={
+		birth="1207.1.1"
+	}
+	1274.8.4={
+		death="1274.8.4"
+	}
+}
+
+129031={
+	name="ÂÞ²®ÌØ"
+	religion="catholic"
+	culture="english"
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1283.6.7={
+		death="1283.6.7"
+	}
+}
+
+129032={
+	name="°²¶«Äá"
+	religion="catholic"
+	culture="english"
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	trait="skilled_tactician"
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1311.3.3={
+		death="1311.3.3"
+	}
+}
+
+129033={
+	name="Àí²é"
+	religion="catholic"
+	culture="english"
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1316.10.9={
+		death="1316.10.9"
+	}
+}
+
+129034={
+	name="Â·Ò×"
+	religion="catholic"
+	culture="english"
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1333.9.24={
+		death="1333.9.24"
+	}
+}
+
+129035={
+	name="Àí²é"
+	religion="catholic"
+	culture="english"
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=8
+	trait="scholarly_theologian"
+	1287.1.24={
+		birth="1287.1.24"
+	}
+	1345.4.14={
+		death="1345.4.14"
+	}
+}
+
+129036 = {
+	name="°²µÂÂ³"
+	dynasty=4007
+	religion="catholic"
+	culture="english"
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1323.3.3 = {
+		death="1323.3.3"
+	}
+}
+
+129037 = {
+	name="ÍÐÂíË¹"
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	father=454523
+	mother=454524
+	1278.1.2 = {
+		birth="1278.1.2"
+	}
+	1322.3.22 = {
+		death="1322.3.22"
+	}
+}
+
+129038 = {
+	name="°£ÀòÅµ"
+	female=yes
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	father=204514
+	mother=205648
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1275.4.13 = {
+		death="1275.4.13"
+	}
+}
+
+129039 = {
+	name="Ä½µÂ"
+	female=yes
+	dynasty=359
+	religion="catholic"
+	culture="english"
+	father=7462
+	1232.1.1 = {
+		birth="1232.1.1"
+	}
+	1252.1.1 = {
+		death="1252.1.1"
+	}
+}
+
+129040 = {
+	name="Âê¸ñÀöÌØ"
+	female=yes
+	dynasty=101710
+	religion="catholic"
+	culture="english"
+	father=204783
+	mother=7427
+	1224.11.1 = {
+		birth="1224.11.1"
+	}
+	1259.1.1 = {
+		death="1259.1.1"
+	}
+}
+
+129041 = {
+	name="°£ÀòÅµ"
+	female=yes
+	dynasty=352
+	religion="catholic"
+	culture="english"
+	father=7429
+	1239.1.1 = {
+		birth="1239.1.1"
+	}
+	1274.10.16 = {
+		death="1274.10.16"
+	}
+}
+
+129042 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=352
+	religion="catholic"
+	culture="english"
+	father=7429
+	mother=129040
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1265.1.1={
+		add_spouse = 161625
+	}
+	1279.4.25 = {
+		death="1279.4.25"
+	}
+}
+
+129043 = {
+	name="ÒÁÉ¯±´¶û" #Isabel de Bolebec
+	female = yes
+	religion="catholic"
+	culture="english"
+	1165.1.1 = {
+		birth="1165.1.1"
+	}
+	1245.2.3 = {
+		death="1245.2.3"
+	}
+}
+
+129044 = {
+	name="ÐÝ" #Hugh de Vere
+	dynasty=365
+	religion="catholic"
+	culture="english"
+	father=204551
+	mother=129043
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1239.1.1 = {
+		add_spouse=129045
+	}
+	1263.12.1 = {
+		death="1263.12.1"
+	}
+}
+
+129045 = {
+	name="¹þÎ¬Ë¹" #Hawise de Quincy
+	dynasty=101710
+	female = yes
+	religion="catholic"
+	culture="english"
+	father=204780
+	mother=204781
+	1209.1.1 = {
+		birth="1209.1.1"
+	}
+	1278.1.1 = {
+		death="1278.1.1"
+	}
+}
+
+129046 = {
+	name="°®ÀöË¿" #Alice de Sandford
+	female = yes
+	religion="catholic"
+	culture="english"
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1298.1.1 = {
+		death="1298.1.1"
+	}
+}
+
+129047 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=365
+	religion="catholic"
+	culture="english"
+	father=454583
+	mother=129046
+	1257.6.24 = {
+		birth="1257.6.24"
+	}
+	1277.1.1={
+		add_spouse = 161633
+	}
+	1331.4.17 = {
+		death="1331.4.17"
+	}
+}
+
+129050 = {
+	name="½Ü¸¥Àï" #Geoffrey de Mandeville
+	dynasty=344
+	religion="catholic"
+	culture="english"
+	father=204745
+	mother=204563
+	1125.1.1 = {
+		birth="1125.1.1"
+	}
+	1164.1.1 = {
+		add_spouse=161356
+	}
+	1166.10.21 = {
+		death="1166.10.21"
+	}
+}
+
+129051 = {
+	name="½Ü¸¥Àï" #Geoffrey FitzPeter
+	dynasty=11500
+	religion="catholic"
+	culture="english"
+	1162.1.1 = {
+		birth="1162.1.1"
+	}
+	1213.10.14 = {
+		death="1213.10.14"
+	}
+}
+
+129052 = {
+	name="½Ü¸¥Àï"
+	dynasty=11500
+	religion="catholic"
+	culture="english"
+	father=129051
+	1190.1.1 = {
+		birth="1190.1.1"
+	}
+	1216.2.23 = {
+		death="1216.2.23"
+	}
+}
+
+129053 = {
+	name="ÍþÁ®"
+	dynasty=11500
+	religion="catholic"
+	culture="english"
+	father=129051
+	1192.1.1 = {
+		birth="1192.1.1"
+	}
+	1227.1.1 = {
+		death="1227.1.1"
+	}
+}
+
+129054 = {
+	name="Ä½µÂ" #Maud PitzPeter
+	female=yes
+	dynasty=11500
+	religion="catholic"
+	culture="english"
+	father=129051
+	1189.1.1 = {
+		birth="1189.1.1"
+	}
+	1227.1.1 = {
+		death="1227.1.1"
+	}
+}
+
+129055 = {
+	name="ºº¸¥À³"
+	dynasty=359
+	religion="catholic"
+	culture="english"
+	father=7462
+	1225.1.1 = {
+		birth="1225.1.1"
+	}
+	1241.1.1={
+		add_spouse = 161623
+	}
+	1265.1.1 = {
+		death="1265.1.1"
+	}
+}
+
+129056 = {
+	name="ÍþÁ®"
+	dynasty=5061
+	religion="catholic"
+	culture="english"
+	father=204715
+	mother=204716
+	1139.1.1 = {
+		birth="1139.1.1"
+	}
+	1184.11.15 = {
+		death="1184.11.15"
+	}
+}
+
+129060 = {
+	name="Î÷ÃÉ" #Simon of Worcester
+	martial=5
+	diplomacy=9
+	intrigue=6
+	stewardship=6
+	learning=9
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1082.1.1 = {
+		birth="1082.1.1"
+	}
+	1150.3.20 = {
+		death="1150.3.20"
+	}
+}
+
+129061 = {
+	name="Ô¼º²" #John of Pageham
+	religion="catholic"
+	culture="english"
+	1094.1.1 = {
+		birth="1094.1.1"
+	}
+	1157.12.1 = {
+		death="1157.12.1"
+	}
+}
+
+129062 = {
+	name="°¢ÁôÀ×µÂ"
+	religion="catholic"
+	culture="english"
+	1098.1.1 = {
+		birth="1098.1.1"
+	}
+	1160.7.31 = {
+		death="1160.7.31"
+	}
+}
+
+129063 = {
+	name="ÂÞ½Ü" #Bishop of Worcester
+	dynasty=752
+	religion="catholic"
+	culture="english"
+	father=203036 #Robert Fitzroy of Caen
+	mother=138457 #Mabel Fitzhamon of Gloucester
+	1112.1.1 = {
+		birth="1112.1.1"
+	}
+	1179.8.9 = {
+		death="1179.8.9"
+	}
+}
+
+129064 = {
+	name="±«µÂÎÂ" #Baldwin of Forde
+	religion="catholic"
+	culture="english"
+	1125.1.1 = {
+		birth="1125.1.1"
+	}
+	1190.11.19 = {
+		death="1190.11.19"
+	}
+}
+
+129065 = {
+	name="ÍþÁ®" #William of Nothall
+	religion="catholic"
+	culture="english"
+	1125.1.1 = {
+		birth="1125.1.1"
+	}
+	1190.5.2 = {
+		death="1190.5.2"
+	}
+}
+
+129066 = {
+	name="ÂÞ²®ÌØ"
+	religion="catholic"
+	culture="english"
+	1127.1.1 = {
+		birth="1127.1.1"
+	}
+	1193.6.27 = {
+		death="1193.6.27"
+	}
+}
+
+129067 = {
+	name="ºàÀû" #Henry de Sully
+	religion="catholic"
+	culture="english"
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1195.10.25 = {
+		death="1195.10.25"
+	}
+}
+
+129068 = {
+	name="Ô¼º²" #John of Coutances
+	religion="catholic"
+	culture="english"
+	1131.1.1 = {
+		birth="1131.1.1"
+	}
+	1198.9.24 = {
+		death="1198.9.24"
+	}
+}
+
+129069 = {
+	name="Ã«ÕÜ" #Mauger of Worcester
+	religion="catholic"
+	culture="english"
+	1139.1.1 = {
+		birth="1139.1.1"
+	}
+	1212.7.1 = {
+		death="1212.7.1"
+	}
+}
+
+129070 = {
+	name="À¼´ï¶û·ò" #Randulf of Evesham
+	religion="catholic"
+	culture="english"
+	1157.1.1 = {
+		birth="1157.1.1"
+	}
+	1229.12.17 = {
+		death="1229.12.17"
+	}
+}
+
+129071 = {
+	name="ÎÖ¶ûÌØ" #Walter de Gray
+	martial=4
+	diplomacy=9
+	intrigue=7
+	stewardship=8
+	learning=8
+	religion="catholic"
+	culture="english"
+	trait="grey_eminence"
+	1184.1.1 = {
+		birth="1184.1.1"
+	}
+	1255.5.1 = {
+		death="1255.5.1"
+	}
+}
+
+129072 = {
+	name="Î÷¶ûÎ¬Ë¹ÌØ" #Sylvester of Worcester
+	religion="catholic"
+	culture="english"
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1218.7.16 = {
+		death="1218.7.16"
+	}
+}
+
+129073 = {
+	name="ÍþÁ®" #William de Blois
+	religion="catholic"
+	culture="english"
+	1157.1.1 = {
+		birth="1157.1.1"
+	}
+	1236.8.17 = {
+		death="1236.8.17"
+	}
+}
+
+129074 = {
+	name="ÎÖ¶ûÌØ" #Walter de Cantilupe
+	religion="catholic"
+	culture="english"
+	1193.1.1 = {
+		birth="1193.1.1"
+	}
+	1266.1.1 = {
+		death="1266.1.1"
+	}
+}
+
+129075 = {
+	name="Äá¹ÅÀ­Ë¹" #Nicholas of Ely
+	religion="catholic"
+	culture="english"
+	1211.1.1 = {
+		birth="1211.1.1"
+	}
+	1280.2.12 = {
+		death="1280.2.12"
+	}
+}
+
+129076 = {
+	name="¸ê¸¥À×" #Godfrey Giffard
+	religion="catholic"
+	culture="english"
+	1235.1.1 = {
+		birth="1235.1.1"
+	}
+	1302.1.26 = {
+		death="1302.1.26"
+	}
+}
+
+129077 = {
+	name="ÍþÁ®" #William Gainsborough
+	religion="catholic"
+	culture="english"
+	1239.1.1 = {
+		birth="1239.1.1"
+	}
+	1307.9.17 = {
+		death="1307.9.17"
+	}
+}
+
+129078 = {
+	name="ÎÖ¶ûÌØ" #Walter Reynolds
+	religion="catholic"
+	culture="english"
+	1256.1.1 = {
+		birth="1256.1.1"
+	}
+	1327.11.16 = {
+		death="1327.11.16"
+	}
+}
+
+129079 = {
+	name="ÎÖ¶ûÌØ" #Walter Maidstone
+	religion="catholic"
+	culture="english"
+	1256.1.1 = {
+		birth="1256.1.1"
+	}
+	1317.3.28 = {
+		death="1317.3.28"
+	}
+}
+
+129080 = {
+	name="ÍÐÂíË¹" #Thomas Cobham
+	religion="catholic"
+	culture="english"
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1327.8.27 = {
+		death="1327.8.27"
+	}
+}
+
+129081 = {
+	name="ÑÇµ±" #Adam Orleton
+	religion="catholic"
+	culture="english"
+	1277.1.1 = {
+		birth="1277.1.1"
+	}
+	1345.7.18 = {
+		death="1345.7.18"
+	}
+}
+
+129082 = {
+	name="ÐÝ" #Hugh de Lacy
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+	father=129083
+	1082.1.1 = {
+		birth="1082.1.1"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+129084 = {
+	name="ÂÞ²®ÌØ" #Robert de Lacy
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+	father=129083
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1111.1.1 = {
+		death="1111.1.1"
+	}
+}
+
+129085 = {
+	name="°¢¶û²¼À×æ§" #Albreda de Lacy
+	female=yes
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+	father=129084
+	1097.1.1 = {
+		birth="1097.1.1"
+	}
+	1148.1.1 = {
+		death="1148.1.1"
+	}
+}
+
+129086 = {
+	name="ÂÞ²®ÌØ" #Robert de Lisours
+	religion="catholic"
+	culture="english"
+	1097.1.1 = {
+		birth="1097.1.1"
+	}
+	1113.1.1 = {
+		add_spouse=129085
+	}	
+	1150.1.1 = {
+		death="1150.1.1"
+	}
+}
+
+129087 = {
+	name="°¢¶û²¼À×æ§" #Albreda de Lisours
+	female=yes
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+	father=129086
+	mother=129085
+	1128.1.1 = {
+		birth="1128.1.1"
+	}
+	1193.1.1 = {
+		death="1193.1.1"
+	}
+}
+
+129088 = {
+	name="Àí²é" #Richard FitzEustace
+	religion="catholic"
+	culture="english"
+	1128.1.1 = {
+		birth="1128.1.1"
+	}
+	1150.1.1 = {
+		add_spouse=129087
+	}	
+	1171.1.1 = {
+		death="1171.1.1"
+	}
+}
+
+129089 = {
+	name="Ô¼º²" #John FitzRichard
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+	father=129088
+	mother=129087
+	1151.1.1 = {
+		birth="1151.1.1"
+	}
+	1190.1.1 = {
+		death="1190.1.1"
+	}
+}
+
+129090 = {
+	name="ÂÞ½Ü" #Roger de Lacy
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+	father=129089
+	1171.1.1 = {
+		birth="1171.1.1"
+	}
+	1211.1.1 = {
+		death="1211.1.1"
+	}
+}
+
+203036 = {
+	name="ÂÞ²®ÌØ" #Robert Fitzroy of Caen
+	dynasty=752 #de Normandie
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	father=202992  #Henry I of England
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1112.1.1 = {
+		add_spouse= 138457 #Mabel Fitzhamon of Gloucester
+		#solemnized June 1119 
+	}
+	1147.10.31 = {
+		death="1147.10.31"
+	}
+}
+
+204571 = {
+	name="À×½ðÄÉµÂ"
+	dynasty=1020103 #de Dunstanville
+	religion="catholic"
+	culture="english"
+	trait="bastard" 
+	father=202992
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1175.1.1 = {
+		death="1175.1.1"
+	}
+}
+
+203571 = {
+	name="°£ÁÕÄÈ" 
+	female = yes
+	dynasty=368
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="thrifty_clerk"
+	father=332027
+	mother=332029
+	1169.1.2={
+		birth="1169.1.2"
+	}
+	1222.1.2={
+		death="1222.1.2"
+	}
+}
+
+138426 = {
+	name="Ô¼º²" #Bishop Jean Belles-mains of Lyon/Saint Jubin
+	religion="catholic"
+	culture="english"
+	dynasty=13112
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1204.1.1 = {
+		death="1204.1.1" 
+	}	
+}
+
+138451 = {
+	name="Çí"
+	female=yes
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	father=204514 #King John of England
+	#mother Clementia Pinel
+	1189.1.1 = {
+		birth="1189.1.1"
+	}
+	#1205.4.16 married Llywelyn ab Iorwerth 214714
+	1226.1.1 = {
+		remove_trait="bastard"
+		trait="legit_bastard"
+	}
+	1237.3.30 = {
+		death="1237.3.30"
+	}
+}
+
+34349 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=7305
+	religion="catholic"
+	culture="english"
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1193.9.23={
+		death="1193.9.23"
+	}
+}
+
+34351 = {
+	name="Àí²é"
+	dynasty=7306
+	religion="catholic"
+	culture="english"
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1152.1.1={
+		add_spouse=34353
+	}
+	1192.5.3={
+		death="1192.5.3"
+	}
+}
+
+34353 = {
+	name="ÒÁÀòÉ¯°×"
+	female=yes
+	dynasty=20035
+	religion="catholic"
+	culture="english"
+	father=232013
+	mother=34352
+	1117.1.1 = {
+		birth="1117.1.1"
+	}	
+	1161.1.1 = {
+		death="1161.1.1"
+	}
+}
+
+34354 = {
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+	dynasty=7306
+	religion="catholic"
+	culture="english"
+	father=34351
+	mother=34353
+	1153.1.1={
+		birth="1153.1.1"
+	}
+	1212.9.1={
+		death="1212.9.1"
+	}
+}
+
+83306 = {
+	name="Å·¶¡ÄÚ¶û" #Odinel II de Umfraville
+	dynasty=9114
+	martial=6
+	diplomacy=5
+	intrigue=5 
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	father=83304
+	1127.1.1={
+		birth="1127.1.1"
+	}
+	1182.7.1={  
+		death="1182.7.1"
+	}
+}
+
+83307 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=9114
+	martial=6
+	diplomacy=5
+	intrigue=5 
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	father=83304
+	1129.1.1={
+		birth="1129.1.1"
+	}
+	1181.7.1={  
+		death="1181.7.1"
+	}
+}
+
+83308 = {
+	name="¼ª¶û²®ÌØ" 
+	dynasty=9114
+	martial=6
+	diplomacy=5
+	intrigue=5 
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	father=83304
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1189.7.1={  
+		death="1189.7.1"
+	}
+}
+
+83309 = {
+	name="ÇÇµ¤"
+	dynasty=9114
+	martial=6
+	diplomacy=5
+	intrigue=5 
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	father=83304
+	1137.1.1={
+		birth="1137.1.1"
+	}
+	1199.7.1={  
+		death="1199.7.1"
+	}
+}
+
+83310 = {
+	name="ÂÞ²®ÌØ" #Robert II de Umfraville
+	dynasty=9114
+	martial=4
+	diplomacy=5
+	intrigue=5 
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	father=83306
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1195.7.1={  
+		death="1195.7.1"
+	}
+}
+
+83311 = {
+	name="ÍþÁ®"
+	dynasty=9114
+	martial=4
+	diplomacy=5
+	intrigue=5 
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	father=83306
+	1147.1.1={
+		birth="1147.1.1"
+	}
+	1195.7.1={  
+		death="1195.7.1"
+	}
+}
+
+83312 = {
+	name="Àí²é" #Richard I de Umfraville
+	dynasty=9114
+	martial=7
+	diplomacy=5                                          
+	intrigue=5 
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	father=83306
+	1149.1.1={
+		birth="1149.1.1"
+	}
+	1226.7.1={  
+		death="1226.7.1"
+	}
+}
+
+83313 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=9114
+	martial=4
+	diplomacy=5
+	intrigue=5 
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	father=83306
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1199.7.1={  
+		death="1199.7.1"
+	}
+}
+
+83314 = {
+	name="¼ª¶û²®ÌØ" #Gilbert I de Umfraville husband of countess of Angus
+	dynasty=9114
+	martial=8
+	diplomacy=5
+	intrigue=5 
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=83312
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1243.1.1 = {
+		add_spouse=83302
+	}
+	1245.3.1={  
+		death="1245.3.1"
+	}
+}
+
+83315 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=9114
+	martial=5
+	diplomacy=5
+	intrigue=5 
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	father=83312
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1257.7.1={  
+		death="1257.7.1"
+	}
+}
+
+83316 = {
+	name="ÍþÁ®"
+	dynasty=9114
+	martial=5
+	diplomacy=5
+	intrigue=5 
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	father=83312
+	1219.1.1={
+		birth="1219.1.1"
+	}
+	1275.7.1={  
+		death="1275.7.1"
+	}
+}
+
+83317 = {
+	name="Å·¶¡ÄÚ¶û"
+	dynasty=9114
+	martial=5
+	diplomacy=5
+	intrigue=5 
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	father=83312
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1268.7.1={  
+		death="1268.7.1"
+	}
+}
+
+83318 = {
+	name="¼ª¶û²®ÌØ" #Gilbert II de Umfraville earl of Angus
+	dynasty=9114
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	father=83314
+	mother=83302
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1307.7.1={  
+		death="1307.7.1"
+	}
+}
+
+83319 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=9114
+	religion="catholic"
+	culture="english"
+	father=83318 #With Elizabeth Comyn
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1303.7.1={  
+		death="1303.7.1"
+	}
+}
+
+83320 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=9114
+	martial=7
+	diplomacy=5
+	intrigue=5 
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	father=83318 #With Elizabeth Comyn
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1325.4.12={  
+		death="1325.4.12"
+	}
+}
+
+83321 = {
+	name="ÍÐÂíË¹"
+	dynasty=9114
+	religion="catholic"
+	culture="english"
+	father=83318 #With Elizabeth Comyn
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1305.7.1={  
+		death="1305.7.1"
+	}
+}
+
+83322 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=9114
+	religion="catholic"
+	culture="english"
+	father=83320
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1381.1.5={  
+		death="1381.1.5"
+	}
+}
+
+83375 = {
+	name="šWË¹²®ÌØ" 
+	dynasty=4040
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=10
+	religion="catholic"
+	culture="english"
+	father=204039
+	trait="diligent"
+	trait="midas_touched"
+	1161.1.1={
+		birth="1161.1.1"
+	}
+	1211.1.1={
+		death="1211.1.1"
+	}
+}
+
+83376 = {
+	name="Î÷°Â²©¶ûµÂ"
+	dynasty=4040
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	father=204041
+	trait="arbitrary"
+	trait="tough_soldier"
+	1224.1.1={
+		birth=yes
+	}
+	1248.7.1={
+		death=yes
+	}
+}
+
+83377 = {
+	name="Î÷°Â²©¶ûµÂ"
+	dynasty=4040
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	father=83376
+	trait="tough_soldier"
+	1242.1.1={
+		birth=yes
+	}
+	1285.7.1={
+		death=yes
+	}
+}
+
+83378 = {
+	name="Î÷°Â²©¶ûµÂ"
+	dynasty=4040
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	father=83377
+	trait="tough_soldier"
+	1261.1.1={
+		birth="1261.1.1"
+	}
+	1299.7.1={
+		death="1299.7.1"
+	}
+}
+
+83379 = {
+	name="ÍÐÂíË¹"
+	dynasty=4040
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="english"
+	father=83377
+	trait="tough_soldier"
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1329.7.1={
+		death="1329.7.1"
+	}
+}
+
+83380 = {
+	name="ÀÍÂ×Ë¹"
+	dynasty=4040
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=9
+	religion="catholic"
+	culture="english"
+	father=454111 #Edmund earl of Carrick
+	mother=454112 #born 1280
+	trait="tough_soldier"
+	1309.1.1={
+		birth="1309.1.1"
+	}
+	1338.7.1={
+		death="1338.7.1"
+	}
+}
+
+83381 = {
+	name="ÍÐÂíË¹"
+	dynasty=4040
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=9
+	religion="catholic"
+	culture="english"
+	father=454111 #Edmund earl of Carrick
+	mother=454112 #born 1280
+	trait="tough_soldier"
+	1311.1.1={
+		birth="1311.1.1"
+	}
+	1360.7.1={
+		death="1360.7.1"
+	}
+}
+
+155241 = {
+	name="ÍþÁ®"
+	# William III de Roumare
+	dynasty=9110
+	religion="catholic"
+	culture="english"
+	father=155240
+	mother=155243
+	1145.1.1 = {
+		birth="1145.1.1"
+	}
+	1198.10.1 = {
+		death="1198.10.1"
+	}
+}
+
+155243 = {
+	name="°¢¸ñÄáË¹"
+	female=yes
+	dynasty=714
+	religion="catholic"
+	culture="english"
+	1117.1.1 = {
+		birth="1117.1.1"
+	}
+	1171.1.1 = {
+		death="1171.1.1"
+	}
+}
+
+155244 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=364
+	religion="catholic"
+	culture="english"
+	father=204794
+	1115.1.1 = {
+		birth="1115.1.1"
+	}
+	1153.1.1 = {
+		death="1153.1.1"
+	}
+}
+
+155248 = {
+	name="Àí²é"
+	#Richard of Ilchester
+	dynasty=1027028
+	religion="catholic"
+	culture="english"
+	1120.12.1 = {
+		birth="1120.12.1"
+	}
+	1188.12.22 = {
+		death="1188.12.22"
+	}
+}
+
+155251 = {
+	name="ÍþÁ®"
+	#William de Raley
+	dynasty=1027030
+	religion="catholic"
+	culture="english"
+	1180.9.1 = {
+		birth="1180.9.1"
+	}
+	1250.9.1 = {
+		death="1250.9.1"
+	}
+}
+
+155252 = {
+	name="°¬Ã·¶û"
+	#Aymer de Valance
+	dynasty=93
+	religion="catholic"
+	culture="english"
+	father=138001
+	mother=205648
+	1227.12.1 = {
+		birth="1227.12.1"
+	}
+	1260.12.4 = {
+		death="1260.12.4"
+	}
+}
+
+155253 = {
+	name="Ô¼º²"
+	#John Gervais
+	religion="catholic"
+	culture="english"
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1268.3.2 = {
+		death="1268.3.2"
+	}
+}
+
+155254 = {
+	name="ÍþÁ®"
+	dynasty=9107 #De Montagu
+	religion="catholic"
+	culture="english"
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1319.10.18 = {
+		death="1319.10.18"
+	}
+}
+
+155255 = {
+	name="Ô¼º²"
+	#John of Pontoise
+	religion="catholic"
+	culture="english"
+	1240.12.1 = {
+		birth="1240.12.1"
+	}
+	1304.12.5 = {
+		death="1304.12.5"
+	}
+}
+
+155256 = {
+	name="ºàÀû"
+	#Henry Woodlock
+	religion="catholic"
+	culture="english"
+	1250.6.1 = {
+		birth="1250.6.1"
+	}
+	1316.6.28 = {
+		death="1316.6.28"
+	}
+}
+
+155257 = {
+	name="Ô¼º²"
+	#John Sandale
+	religion="catholic"
+	culture="english"
+	1260.11.1 = {
+		birth="1260.11.1"
+	}
+	1319.11.2 = {
+		death="1319.11.2"
+	}
+}
+
+155258 = {
+	name="Àï¸ßµÂ"
+	#Rigaud of Assier
+	religion="catholic"
+	culture="english"
+	1270.4.1 = {
+		birth="1270.4.1"
+	}
+	1323.4.12 = {
+		death="1323.4.12"
+	}
+}
+
+155259 = {
+	name="Ô¼º²"
+	#John de Stratford
+	dynasty=1027031
+	religion="catholic"
+	culture="english"
+	1285.8.1 = {
+		birth="1285.8.1"
+	}
+	1348.8.23 = {
+		death="1348.8.23"
+	}
+}
+
+161365 = {
+	name="°£Åµ·ò"
+	dynasty=344
+	religion="catholic"
+	culture="english"
+	father=204745
+	mother=204563
+	1122.1.1 = {
+		birth="1122.1.1"
+	}
+	1178.1.1 = {
+		death="1178.1.1"
+	}
+}
+
+161366 = {
+	name="½Ü¸¥Àï"
+	dynasty=344
+	religion="catholic"
+	culture="english"
+	father=161365
+	1145.1.1 = {
+		birth="1145.1.1"
+	}
+	1194.1.1 = {
+		death="1194.1.1"
+	}
+}
+
+161368 = {
+	name="ÍþÁ®"
+	dynasty=20050
+	religion="catholic"
+	culture="english"
+	father=204517
+	mother=204532
+	1208.1.1 = {
+		birth="1208.1.1"
+	}
+	1250.2.7 = {
+		death="1250.2.7"
+	}
+}
+
+161369 = {
+	name="°¬´ï"
+	female=yes
+	dynasty=20050
+	religion="catholic"
+	culture="english"
+	father=204517
+	mother=204532
+	1206.1.1 = {
+		birth="1206.1.1"
+	}
+	1260.1.1 = {
+		death="1260.1.1"
+	}
+}
+
+161370 = {
+	name="Ë¹µÙ·Ò"
+	dynasty=20050
+	religion="catholic"
+	culture="english"
+	father=204517
+	mother=204532
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1260.1.1 = {
+		death="1260.1.1"
+	}
+}
+
+161371 = {
+	name="Äá¹ÅÀ­Ë¹"
+	dynasty=20050
+	religion="catholic"
+	culture="english"
+	father=204517
+	mother=204532
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1297.1.1 = {
+		death="1297.1.1"
+	}
+}
+
+161372 = {
+	name="°£À­"
+	female=yes
+	dynasty=20050
+	religion="catholic"
+	culture="english"
+	father=204517
+	mother=204532
+	1214.1.1 = {
+		birth="1214.1.1"
+	}
+	1298.2.9 = {
+		death="1298.2.9"
+	}
+}
+
+161373 = {
+	name="ÍþÁ®"
+	dynasty=20050
+	religion="catholic"
+	culture="english"
+	father=161368
+	1225.1.1 = {
+		birth="1225.1.1"
+	}
+	1257.1.1 = {
+		death="1257.1.1"
+	}
+}
+
+161331 = {
+	name="Î÷°Â²©¶ûµÂ"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1161.4.18={
+		death="1161.4.18"
+	}
+}
+
+161332 = {
+	name="ÍÐÂíË¹"
+	dynasty=9500
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1118.1.1={
+		birth="1118.1.1"
+	}
+	1170.12.29={
+		death="1170.12.29"
+	}
+}
+
+161333 = {
+	name="Àí²é"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1184.2.16={
+		death="1184.2.16"
+	}
+}
+161334 = {
+	name="±«µÂÎÂ"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1190.11.19={
+		death="1190.11.19"
+	}
+}
+
+161335 = {
+	name="Ë¹µÙ·Ò"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1228.7.9={
+		death="1228.7.9"
+	}
+}
+161336 = {
+	name="Àí²é"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1231.8.3={
+		death="1231.8.3"
+	}
+}
+161337 = {
+	name="°£µÂÃÉ"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1175.11.20={
+		birth="1175.11.20"
+	}
+	1240.11.16={
+		death="1240.11.16"
+	}
+}
+
+161338 = {
+	name="ÂÞ²®ÌØ"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1279.9.11={
+		death="1279.9.11"
+	}
+}
+161339 = {
+	name="Ô¼º²"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1292.12.8={
+		death="1292.12.8"
+	}
+}
+161340 = {
+	name="ÂÞ²®ÌØ"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1313.5.11={
+		death="1313.5.11"
+	}
+}
+161341 = {
+	name="ÎÖ¶ûÌØ"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1327.11.16={
+		death="1327.11.16"
+	}
+}
+161342 = {
+	name="Î÷ÃÉ"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1264.1.1={
+		birth="1264.1.1"
+	}
+	1333.10.12={
+		death="1333.10.12"
+	}
+}
+161343 = {
+	name="Ô¼º²"
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1348.8.23={
+		death="1348.8.23"
+	}
+}
+
+204058 = {
+	name="ÍþÁ®"
+	dynasty=101905
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="scholarly_theologian"
+	father=204056
+	mother=204057
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1173.1.1 = {
+		death="1173.1.1"
+	}
+}
+
+204059 = {
+	name="°Â¶à"
+	dynasty=101905
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="english"
+	trait="brave"
+	trait="honest"
+	trait="misguided_warrior"
+	father=204058
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1203.1.1 = {
+		death="1203.1.1"
+	}
+}
+
+204060 = {
+	name="ÍþÁ®"
+	dynasty=101905
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="charitable"
+	trait="proud"
+	trait="cynical"
+	trait="martial_cleric"
+	father=204058
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+161426 = {
+	name="ÐÝ"
+	dynasty=5061
+	religion="catholic"
+	culture="english"
+	father=204595
+	1125.1.1 = {
+		birth="1125.1.1"
+	}
+	1175.1.1 = {
+		death="1175.1.1"
+	}
+}
+
+161434 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=5061 #de Beaumont
+	religion="catholic"
+	culture="english"
+	father=204596
+	mother=551 
+	1102.1.1 = {
+		birth="1102.1.1"
+	}
+	1162.1.1 = {
+		death="1162.1.1"
+	}
+}
+
+161435 = {
+	name="Î÷ÃÉ"
+	dynasty=5065 #de Senlis
+	religion="catholic"
+	culture="english"
+	father=161432
+	mother=161434
+	1138.1.1 = {
+		birth="1138.1.1"
+	}
+	1155.1.1={
+		add_spouse=161442
+	}
+	1184.6.1 = {
+		death="1184.6.1"
+	}
+}
+
+161436 = {
+	name="°¢Ã×Ë¹"
+	female=yes
+	dynasty=5065 #de Senlis
+	religion="catholic"
+	culture="english"
+	father=161432
+	mother=161434
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+161437 = {
+	name="¹þÎ¬Ë¹"
+	female=yes
+	dynasty=5065 #de Senlis
+	religion="catholic"
+	culture="english"
+	father=161432
+	mother=161434
+	1124.1.1 = {
+		birth="1124.1.1"
+	}
+	1174.1.1 = {
+		death="1174.1.1"
+	}
+}
+
+161438 = {
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+	dynasty=5065 #de Senlis
+	religion="catholic"
+	culture="english"
+	father=161432
+	mother=161434
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+161439 = {
+	name="Î÷ÃÉ"
+	dynasty=5065 #de Senlis
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	father=161432
+	1115.1.1 = {
+		birth="1115.1.1"
+	}
+	1175.3.28 = {
+		death="1175.3.28"
+	}
+}
+
+161440 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=434 #van Gent/de Gand
+	religion="catholic"
+	culture="english"
+	father=32203
+	mother=91276
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1138.1.1 = {
+		add_spouse=161441
+	}
+	1156.1.1={
+		death="1156.1.1"
+	}
+}
+
+161441 = {
+	name="ÂÞÔó"
+	female=yes
+	dynasty=364
+	religion="catholic"
+	culture="english"
+	father=204794
+	1118.1.1 = {
+		birth="1118.1.1"
+	}
+	1168.1.1 = {
+		death="1168.1.1"
+	}
+}
+
+161442 = {
+	name="°®ÀöË¿"
+	female=yes
+	dynasty=434 #van Gent/de Gand
+	religion="catholic"
+	culture="english"
+	father=161440
+	mother=161441
+	1139.1.1={
+		birth="1139.1.1"
+	}
+	
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+161443 = {
+	name="½Ü¸¥Àï"
+	dynasty=434 #van Gent/de Gand
+	religion="catholic"
+	culture="english"
+	father=32203
+	mother=91276
+	1122.1.1={
+		birth="1122.1.1"
+	}
+
+	1153.1.1={
+		death="1153.1.1"
+	}
+}
+
+161444 = {
+	name="°®ÀöË¿"
+	female=yes
+	dynasty=434 #van Gent/de Gand
+	religion="catholic"
+	culture="english"
+	father=32203
+	mother=91276
+	1125.1.1={
+		birth="1125.1.1"
+	}
+
+	1188.1.1={
+		death="1188.1.1"
+	}
+}
+
+161446 = {
+	name="¹±ÅµÀ­"
+	female=yes
+	dynasty=5065 #de Senlis
+	religion="catholic"
+	culture="english"
+	father=161435
+	mother=161442
+	1156.1.1 = {
+		birth="1156.1.1"
+	}
+	1206.1.1 = {
+		death="1206.1.1"
+	}
+}
+
+161447 = {
+	name="Î÷ÃÉ"
+	dynasty=5065 #de Senlis
+	religion="catholic"
+	culture="english"
+	father=161435
+	mother=161442
+	1158.1.1 = {
+		birth="1158.1.1"
+	}
+	1168.1.1 = {
+		death="1168.1.1"
+	}
+}
+
+161448 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=434 #van Gent/de Gand
+	religion="catholic"
+	culture="english"
+	father=32203
+	mother=91276
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1192.1.1={
+		death="1192.1.1"
+	}
+}
+
+161452 = {
+	name="ÎÖ¶ûÌØ" #earl of Buckingham
+	dynasty=4011
+	religion="catholic"
+	culture="english"
+	father=32143
+	1095.1.1 = {
+		birth="1095.1.1"
+	}
+	1164.9.18 = {
+		death="1164.9.18"
+	}
+}
+
+161453 = {
+	name="ÍþÁ®"
+	dynasty=4041
+	religion="catholic"
+	culture="english"
+	father = 454126
+	1148.1.1 = {
+		birth="1148.1.1"
+	}
+	1199.1.1 = {
+		death="1199.1.1"
+	}
+}
+
+161454 = {
+	name="ÍÐÂíË¹"
+	dynasty=4041
+	religion="catholic"
+	culture="english"
+	father = 454126
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1213.1.1 = {
+		death="1213.1.1"
+	}
+}
+
+
+161455 = {
+	name="½ÜÀ­µÂ"
+	dynasty=4041
+	religion="catholic"
+	culture="english"
+	father = 454124
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1243.1.1 = {
+		death="1243.1.1"
+	}
+}
+
+161456 = {
+	name="ÄªÀïË¹"
+	dynasty=4041
+	religion="catholic"
+	culture="english"
+	father = 454124
+	1225.1.1 = {
+		birth="1225.1.1"
+	}
+	1250.1.1 = {
+		add_spouse=161457
+	} 
+	1286.1.1 = {
+		death="1286.1.1"
+	}
+}
+
+161457 = {
+	name="°£Ã×ÁÕ"
+	female=yes
+	dynasty=20050
+	religion="catholic"
+	culture="english"
+	father = 161370
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1286.1.1 = {
+		death="1286.1.1"
+	}
+}
+
+161458 = {
+	name="ÖìÀò°²ÄÈ"
+	female=yes
+	dynasty=4041
+	religion="catholic"
+	culture="english"
+	father = 454124
+	1222.1.1 = {
+		birth="1222.1.1"
+	}
+	1302.1.1 = {
+		death="1302.1.1"
+	}
+}
+
+161459 = {
+	name="Àí²é"
+	dynasty=4041
+	religion="catholic"
+	culture="english"
+	trait="diligent"
+	trait="honest"
+	trait="tough_soldier"
+	father=454121
+	mother=454107
+	1317.1.1 = {
+		birth="1317.1.1"
+	}
+	1331.7.7 = {
+		death="1331.7.7"
+	}
+}
+
+161602 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=5061
+	religion="catholic"
+	culture="english"
+	father=204590
+	mother=204591
+	1136.1.1 = {
+		birth="1136.1.1"
+	}
+	1185.1.1 = {
+		death="1185.1.1"
+	}
+}
+
+161603 = {
+	name="ÂÞ½Ü"
+	dynasty=385 #de Tosny
+	religion="catholic"
+	culture="english"
+	father=161601
+	mother=161602
+	1156.1.1 = {
+		birth="1156.1.1"
+	}
+	1199.9.22={
+		add_spouse = 161604
+	}
+	1208.12.29 = {
+		death="1208.12.29"
+	}
+}
+
+161605 = {
+	name="À­ÎÚ¶û"
+	dynasty=385 #de Tosny
+	religion="catholic"
+	culture="english"
+	father=161603
+	mother=161604
+	1201.1.1 = {
+		birth="1201.1.1"
+	}
+	1236.1.1={
+		add_spouse = 31381
+	}
+	1239.9.29 = {
+		death="1239.9.29"
+	}
+}
+
+161606 = {
+	name="ÂÞ½Ü"
+	dynasty=385 #de Tosny
+	religion="catholic"
+	culture="english"
+	father=161605
+	mother=31381
+	1237.1.1 = {
+		birth="1237.1.1"
+	}
+	1253.1.1={
+		add_spouse = 161607
+	}
+	1264.5.14 = {
+		death="1264.5.14"
+	}
+}
+
+161607 = {
+	name="°®ÀöË¿"
+	female=yes
+	dynasty=359
+	religion="catholic"
+	culture="english"
+	father=7462
+	1234.1.1 = {
+		birth="1234.1.1"
+	}
+	1254.1.1 = {
+		death="1254.1.1"
+	}
+}
+
+161608 = {
+	name="À­ÎÚ¶û"
+	dynasty=385 #de Tosny
+	religion="catholic"
+	culture="english"
+	father=161606
+	1255.1.1 = {
+		birth="1255.1.1"
+	}
+	1295.7.29 = {
+		death="1295.7.29"
+	}
+}
+
+161609 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=385 #de Tosny
+	religion="catholic"
+	culture="english"
+	father=161608
+	1276.4.4 = {
+		birth="1276.4.4"
+	}
+	1309.11.28 = {
+		death="1309.11.28"
+	}
+}
+
+161610 = {
+	name="ÐÝ"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=41019
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1180.2.1 = {
+		death="1180.2.1"
+	}
+}
+
+161611 = {
+	name="ÂÞ½Ü"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161610
+	1155.1.1 = {
+		birth="1155.1.1"
+	}
+	1195.1.1={
+		add_spouse = 204697
+	}
+	1198.1.1={
+		add_spouse = 161612
+	}
+	1214.7.8 = {
+		death="1214.7.8"
+	}
+}
+
+161612 = {
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+	dynasty=352
+	religion="catholic"
+	culture="english"
+	father=204699
+	1182.1.1 = {
+		birth="1182.1.1"
+	}
+	1252.4.29 = {
+		death="1252.4.29"
+	}
+}
+
+161613 = {
+	name="ÐÝ"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161611
+	mother=204697
+	1197.1.1 = {
+		birth="1197.1.1"
+	}
+	1227.11.10 = {
+		death="1227.11.10"
+	}
+}
+
+161614 = {
+	name="À­¶û·ò"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161611
+	mother=161612
+	1199.1.1 = {
+		birth="1199.1.1"
+	}
+	1230.1.1={
+		add_spouse = 161615
+	}
+	1246.8.6 = {
+		death="1246.8.6"
+	}
+}
+
+161616 = {
+	name="ÂÞ½Ü"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161614
+	mother=161615
+	1231.1.1 = {
+		birth="1231.1.1"
+	}
+	1247.1.1 = {
+		add_spouse=161622
+	}
+	1282.10.5 = {
+		death="1282.10.5"
+	}
+}
+
+161617 = {
+	name="ÐÝ"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161614
+	mother=161615
+	1236.1.1 = {
+		birth="1236.1.1"
+	}
+	1273.6.1 = {
+		death="1273.6.1"
+	}
+}
+
+161618 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161611
+	mother=161612
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1219.1.1 = {
+		death="1219.1.1"
+	}
+}
+
+161619 = {
+	name="ÂÞ²®ÌØ"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161651
+	1251.1.1 = {
+		birth="1251.1.1"
+	}
+	1287.4.7 = {
+		death="1287.4.7"
+	}
+}
+
+161620 = {
+	name="ÍþÁ®"
+	dynasty=350
+	religion="catholic"
+	culture="english"
+	father=204011
+	1195.1.1 = {
+		birth="1195.1.1"
+	}
+	1230.5.2 = {
+		death="1230.5.2"
+	}
+}
+
+161621 = {
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+	dynasty=350
+	religion="catholic"
+	culture="english"
+	father=161620
+	1213.1.1 = {
+		birth="1213.1.1"
+	}
+	1248.1.1 = {
+		death="1248.1.1"
+	}
+}
+
+161622 = {
+	name="ÂêµÙ¶û´ï"
+	female=yes
+	dynasty=350
+	religion="catholic"
+	culture="english"
+	father=161620
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1301.3.23 = {
+		death="1301.3.23"
+	}
+}
+
+161623 = {
+	name="°£ÀòÅµ"
+	female=yes
+	dynasty=350
+	religion="catholic"
+	culture="english"
+	father=161620
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1287.1.1 = {
+		death="1287.1.1"
+	}
+}
+
+161624 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=359
+	religion="catholic"
+	culture="english"
+	father=129055
+	mother=161623
+	1244.1.1 = {
+		birth="1244.1.1"
+	}
+	1294.1.1 = {
+		death="1294.1.1"
+	}
+}
+
+161625 = {
+	name="°£ÀòÅµ"
+	female=yes
+	dynasty=359
+	religion="catholic"
+	culture="english"
+	father=129055
+	mother=161623
+	1245.1.1 = {
+		birth="1245.1.1"
+	}
+	1314.2.20 = {
+		death="1314.2.20"
+	}
+}
+
+161626 = {
+	name="°£ÀòÅµ"
+	female=yes
+	dynasty=352
+	religion="catholic"
+	culture="english"
+	father=129042
+	mother=161625
+	1267.1.1 = {
+		birth="1267.1.1"
+	}
+	1308.1.1 = {
+		death="1308.1.1"
+	}
+}
+
+161627 = {
+	name="Ô¼º²"
+	dynasty=352
+	religion="catholic"
+	culture="english"
+	father=129042
+	mother=161625
+	1271.6.20 = {
+		birth="1271.6.20"
+	}
+	1312.8.1 = {
+		death="1312.8.1"
+	}
+}
+
+
+161628 = {
+	name="À­¶û·ò"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161616
+	mother=161622
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1274.8.10 = {
+		death="1274.8.10"
+	}
+}
+
+161629 = {
+	name="°£µÂÃÉ"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161616
+	mother=161622
+	1251.1.1 = {
+		birth="1251.1.1"
+	}
+	1286.1.1 = {
+		add_spouse=161639
+	}
+	1304.7.17 = {
+		death="1304.7.17"
+	}
+}
+
+161630 = {
+	name="ÂÞ½Ü"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	trait="ambitious"
+	father=161616
+	mother=161622
+	1253.1.1 = {
+		birth="1253.1.1"
+	}
+	1326.8.3 = {
+		death="1326.8.3"
+	}
+}
+
+161631 = {
+	name="ÂÞ½Ü"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161630
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1333.10.3 = {
+		death="1333.10.3"
+	}
+}
+
+161632 = {
+	name="Ô¼º²"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161631
+	1305.1.1 = {
+		birth="1305.1.1"
+	}
+	1361.11.1 = {
+		death="1361.11.1"
+	}
+}
+
+161633 = {
+	name="Âê¸ñÀöÌØ"
+	female=yes
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161616
+	mother=161622
+	1257.1.1 = {
+		birth="1257.1.1"
+	}
+	1297.1.1 = {
+		death="1297.1.1"
+	}
+}
+
+161634 = {
+	name="ÍÐÂíË¹"
+	dynasty=365
+	religion="catholic"
+	culture="english"
+	father=129047
+	mother=161633
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1304.1.1={
+		add_spouse = 161638
+	}
+	1329.5.29 = {
+		death="1329.5.29"
+	}
+}
+
+161635 = {
+	name="Ô¼º²"
+	dynasty=101709
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	father=204539
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1235.1.1 = {
+		death="1235.1.1"
+	}
+}
+
+161636 = {
+	name="ÍþÁ®"
+	dynasty=101709
+	religion="catholic"
+	culture="english"
+	father=161635
+	1205.1.1 = {
+		birth="1205.1.1"
+	}
+	1265.1.1 = {
+		death="1265.1.1"
+	}
+}
+
+161637 = {
+	name="Ô¼º²"
+	dynasty=101709
+	religion="catholic"
+	culture="english"
+	father=161636
+	1255.1.1 = {
+		birth="1255.1.1"
+	}
+	1282.12.4 = {
+		death="1282.12.4"
+	}
+}
+
+161638 = {
+	name="Åå¶ûÄÚÀÕ"
+	female=yes
+	dynasty=101709
+	religion="catholic"
+	culture="english"
+	father=161636
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1329.1.1 = {
+		death="1329.1.1"
+	}
+}
+
+161640 = {
+	name="ÂÞ½Ü"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	trait="ambitious"
+	father=161629
+	mother=161639
+	1287.4.25 = {
+		birth="1287.4.25"
+	}
+	1306.1.1 = {
+		add_spouse=161641
+	}
+	1330.11.29 = {
+		death="1330.11.29"
+	}
+}
+
+161641 = {
+	name="Çí"
+	#Joan de Geneville
+	female=yes
+	religion="catholic"
+	culture="english"
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1356.1.1 = {
+		death="1356.1.1"
+	}
+}
+
+161642 = {
+	name="°£µÂÃÉ"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161640
+	mother=161641
+	1307.1.1 = {
+		birth="1307.1.1"
+	}
+	1331.12.16 = {
+		death="1331.12.16"
+	}
+}
+
+161643 = {
+	name="ÂÞ½Ü"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161642
+	1328.11.11 = {
+		birth="1328.11.11"
+	}
+	1360.2.26 = {
+		death="1360.2.26"
+	}
+}
+
+161644 = {
+	name="ÂÞ½Ü"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161640
+	mother=161641
+	1308.1.1 = {
+		birth="1308.1.1"
+	}
+	1358.1.1 = {
+		death="1358.1.1"
+	}
+}
+161645 = {
+	name="½Ü¸¥Àï"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161640
+	mother=161641
+	1309.1.1 = {
+		birth="1309.1.1"
+	}
+	1376.5.5 = {
+		death="1376.5.5"
+	}
+}
+
+161646 = {
+	name="Ô¼º²"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161640
+	mother=161641
+	1310.1.1 = {
+		birth="1310.1.1"
+	}
+	1328.1.1 = {
+		death="1328.1.1"
+	}
+}
+
+161647 = {
+	name="¿­ÉªÁÕ"
+	female=yes
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161640
+	mother=161641
+	1311.1.1 = {
+		birth="1311.1.1"
+	}
+	1369.8.4 = {
+		death="1369.8.4"
+	}
+}
+
+161648 = {
+	name="°¢¸ñÄáË¹"
+	female=yes
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161640
+	mother=161641
+	1313.1.1 = {
+		birth="1313.1.1"
+	}
+	1348.1.1 = {
+		death="1348.1.1"
+	}
+}
+
+161649 = {
+	name="±È°¢ÌØÀöË¹"
+	female=yes
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161640
+	mother=161641
+	1314.1.1 = {
+		birth="1314.1.1"
+	}
+	1347.1.1 = {
+		death="1347.1.1"
+	}
+}
+
+161650 = {
+	name="¸ÇÒÁ"
+	dynasty=102008
+	religion="catholic"
+	culture="english"
+	father=454592
+	mother=161647
+	1333.1.1 = {
+		birth="1333.1.1"
+	}
+	1360.4.28 = {
+		death="1360.4.28"
+	}
+}
+
+161651 = {
+	name="ÐÝ"
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161618
+	1218.1.1 = {
+		birth="1218.1.1"
+	}
+	1274.11.28 = {
+		death="1274.11.28"
+	}
+}
+
+161652 = {
+	name="ÎÖ¶ûÌØ"
+	dynasty=102008
+	religion="catholic"
+	culture="english"
+	1195.1.1 = {
+		birth="1195.1.1"
+	}
+	1218.1.1 = {
+		add_spouse = 161653
+	}
+	1236.4.14 = {
+		death="1236.4.14"
+	}
+}
+
+161653 = {
+	name="Çí"
+	female=yes
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161611
+	mother=161612
+	1203.1.1 = {
+		birth="1203.1.1"
+	}
+	1225.1.1 = {
+		death="1225.1.1"
+	}
+}
+
+161654 = {
+	name="Ä½µÂ"
+	female=yes
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161640
+	mother=161641
+	1313.1.1 = {
+		birth="1313.1.1"
+	}
+	1345.1.1 = {
+		death="1345.1.1"
+	}
+}
+
+#Beauchamp
+
+161660 = {
+	name="Ô¼º²"
+	dynasty=102008
+	religion="catholic"
+	culture="english"
+	father = 7446
+	mother = 7447
+	1238.1.1 = {
+		birth="1238.1.1"
+	}
+	1269.1.1 = {
+		death="1269.1.1"
+	}
+}
+
+161661 = {
+	name="ÎÖ¶ûÌØ"
+	dynasty=102008
+	religion="catholic"
+	culture="english"
+	father = 7446
+	mother = 7447
+	1239.1.1 = {
+		birth="1239.1.1"
+	}
+	1261.1.1 = {
+		death="1261.1.1"
+	}
+}
+
+161662 = {
+	name="Çí"
+	female=yes
+	dynasty=102008
+	religion="catholic"
+	culture="english"
+	father = 7446
+	mother = 7447
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1298.1.1 = {
+		death="1298.1.1"
+	}
+}
+
+161663 = {
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+	dynasty=102008
+	religion="catholic"
+	culture="english"
+	father = 7453
+	1273.1.1 = {
+		birth="1273.1.1"
+	}
+	1306.1.1 = {
+		death="1306.1.1"
+	}
+}
+
+161664 = {
+	name="Ô¼º²"
+	dynasty=102008
+	religion="catholic"
+	culture="english"
+	father=454590
+	mother=454054
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1360.12.2 = {
+		death="1360.12.2"
+	}
+}
+
+#de Spencer
+
+161665 = {
+	name="ÐÝ"
+	dynasty=4002
+	religion="catholic"
+	culture="english"
+	1223.1.1 = {
+		birth="1223.1.1"
+	}
+	1265.8.4 = {
+		death="1265.8.4"
+	}
+}
+
+161666 = {
+	name="ÐÝ"
+	dynasty=4002
+	religion="catholic"
+	culture="english"
+	father=161665
+	1261.1.1 = {
+		birth="1261.1.1"
+	}
+	1290.1.1 = {
+		add_spouse=161663
+	}
+	1326.11.27 = {
+		death="1326.11.27"
+	}
+}
+
+161667 = {
+	name="°£ÀòÅµ"
+	female=yes
+	dynasty=4002
+	religion="catholic"
+	culture="english"
+	father=161665
+	1262.1.1 = {
+		birth="1262.1.1"
+	}
+	1328.9.30 = {
+		death="1328.9.30"
+	}
+}
+
+161668 = {
+	name="ÐÝ"
+	dynasty=4002
+	religion="catholic"
+	culture="english"
+	father=161666
+	mother=161663
+	trait="ambitious"
+	1291.1.1 = {
+		birth="1291.1.1"
+	}
+	1308.1.1 = {
+		add_spouse = 454607
+	}
+	1326.11.24 = {
+		death="1326.11.24"
+	}
+}
+
+161669 = {
+	name="ÐÝ"
+	dynasty=4002
+	religion="catholic"
+	culture="english"
+	trait="ambitious"
+	father=161668
+	mother=454607
+	1309.1.1 = {
+		birth="1309.1.1"
+	}
+	1349.2.8 = {
+		death="1349.2.8"
+	}
+}
+
+161670 = {
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+	dynasty=4002
+	religion="catholic"
+	culture="english"
+	father=161668
+	mother=454607
+	1312.1.1 = {
+		birth="1312.1.1"
+	}
+	1362.1.1 = {
+		death="1362.1.1"
+	}
+}
+
+161671 = {
+	name="ÒÁÀòÉ¯°×"
+	female=yes
+	dynasty=4002
+	religion="catholic"
+	culture="english"
+	father=161668
+	mother=454607
+	1314.1.1 = {
+		birth="1314.1.1"
+	}
+	1389.7.13 = {
+		death="1389.7.13"
+	}
+}
+
+161672 = {
+	name="°®µÂ»ª"
+	dynasty=4002
+	religion="catholic"
+	culture="english"
+	father=161668
+	mother=454607
+	1313.1.1 = {
+		birth="1313.1.1"
+	}
+	1342.9.30 = {
+		death="1342.9.30"
+	}
+}
+
+161673 = {
+	name="¼ª¶û²®ÌØ"
+	dynasty=4002
+	religion="catholic"
+	culture="english"
+	father=161668
+	mother=454607
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1365.1.1 = {
+		death="1365.1.1"
+	}
+}
+
+# de Montagu
+
+
+161674 = {
+	name="ÍþÁ®"
+	dynasty=9107 #de Montagu
+	religion="catholic"
+	culture="english"
+	father=420021
+	1328.6.20 = {
+		birth="1328.6.20"
+	}
+	1397.6.3 = {
+		death="1397.6.3"
+	}
+}
+
+161675 = {
+	name="Ô¼º²"
+	dynasty=9107 #de Montagu
+	religion="catholic"
+	culture="english"
+	father=420021
+	1330.1.1 = {
+		birth="1330.1.1"
+	}
+	1390.2.25 = {
+		death="1390.2.25"
+	}
+}
+
+161676 = {
+	name="Î÷±È¶û"
+	female=yes
+	dynasty=9107 #de Montagu
+	religion="catholic"
+	culture="english"
+	father=420021
+	1332.1.1 = {
+		birth="1332.1.1"
+	}
+	1382.1.1 = {
+		death="1382.1.1"
+	}
+}
+
+# d'Audley
+
+161677 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1244.1.1 = {
+		add_spouse = 161678
+	}
+	1272.6.11 = {
+		death="1272.6.11"
+	}
+}
+
+161678 = {
+	name="°£À­"
+	female=yes
+	dynasty=20050
+	religion="catholic"
+	culture="english"
+	father=161368
+	1227.1.1 = {
+		birth="1227.1.1"
+	}
+	1299.11.22 = {
+		death="1299.11.22"
+	}
+}
+
+161679 = {
+	name="Äá¹ÅÀ­Ë¹"
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	father=161677
+	mother=161678
+	1258.1.1 = {
+		birth="1258.1.1"
+	}
+	1299.8.28 = {
+		death="1299.8.28"
+	}
+}
+
+161680 = {
+	name="ÐÝ"
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	father=161677
+	mother=161678
+	1267.1.1 = {
+		birth="1267.1.1"
+	}
+	1290.1.1 = {
+		add_spouse = 161681
+	}
+	1326.3.1 = {
+		death="1326.3.1"
+	}
+}
+
+161681 = {
+	name="ÒÁË÷¶û´ï"
+	female=yes
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	father=161629
+	1273.1.1 = {
+		birth="1273.1.1"
+	}
+	1336.1.1 = {
+		death="1336.1.1"
+	}
+}
+
+161682 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	father=161680
+	mother=161681
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1334.1.1 = {
+		death="1334.1.1"
+	}
+}
+
+161683 = {
+	name="±ËµÃ"
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	father=161682
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1359.1.1 = {
+		death="1359.1.1"
+	}
+}
+
+161684 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	father=161682
+	1317.1.1 = {
+		birth="1317.1.1"
+	}
+	1369.1.1 = {
+		death="1369.1.1"
+	}
+}
+
+161685 = {
+	name="°®ÀöË¿"
+	female=yes
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	father=161680
+	mother=161681
+	1301.1.1 = {
+		birth="1301.1.1"
+	}
+	1375.1.1 = {
+		death="1375.1.1"
+	}
+}
+
+161686 = {
+	name="Äá¹ÅÀ­Ë¹"
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	father=161679
+	1289.11.1 = {
+		birth="1289.11.1"
+	}
+	1316.12.6 = {
+		death="1316.12.6"
+	}
+}
+
+161687 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	father=161686
+	1313.1.1 = {
+		birth="1313.1.1"
+	}
+	1330.1.1 = {
+		add_spouse = 161688
+	}
+	1386.4.1 = {
+		death="1386.4.1"
+	}
+}
+
+161688 = {
+	name="Çí"
+	female=yes
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161640
+	mother=161641
+	1312.1.1 = {
+		birth="1312.1.1"
+	}
+	1351.1.1 = {
+		death="1351.1.1"
+	}
+}
+
+161689 = {
+	name="Äá¹ÅÀ­Ë¹"
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	father=161687
+	mother=161688
+	1331.1.1 = {
+		birth="1331.1.1"
+	}
+	1397.7.22 = {
+		death="1397.7.22"
+	}
+}
+
+161690 = {
+	name="°£À­"
+	female=yes
+	dynasty=4023
+	religion="catholic"
+	culture="english"
+	father=161679
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1343.1.1 = {
+		death="1343.1.1"
+	}
+}
+
+#Hastings
+
+#161690 = {
+#	name="°£µÂÃÉ"
+#	dynasty=540
+#	religion="catholic"
+#	culture="english"
+#	father = 7380
+#	1264.1.1 = {
+#		birth="1264.1.1"
+#	}
+#	1314.6.24 = {
+#		death="1314.6.24"
+#	}
+#}
+
+161691 = {
+	name="°Â´ï"
+	female=yes
+	dynasty=540
+	religion="catholic"
+	culture="english"
+	father = 7380
+	1266.1.1 = {
+		birth="1266.1.1"
+	}
+	
+	1316.1.1 = {
+		death="1316.1.1"
+	}
+}
+
+161692 = {
+	name="ÍþÁ®"
+	dynasty=540
+	religion="catholic"
+	culture="english" 
+	father = 7381
+	mother = 7382
+	1282.10.4 = {
+		birth="1282.10.4"
+	}
+	
+	1311.3.1 = {
+		death="1311.3.1"
+	}
+}
+
+161693 = {
+	name="ÍÐÂíË¹"
+	dynasty=540
+	religion="catholic"
+	culture="english" 
+	father = 7381
+	mother = 454573
+	1309.1.1 = {
+		birth="1309.1.1"
+	}
+	
+	1333.1.1 = {
+		death="1333.1.1"
+	}
+}
+
+161694 = {
+	name="ÐÝ"
+	dynasty=540
+	religion="catholic"
+	culture="english" 
+	father = 7381
+	mother = 454573
+	1310.1.1 = {
+		birth="1310.1.1"
+	}
+	
+	1347.7.30 = {
+		death="1347.7.30"
+	}
+}
+
+161697 = {
+	name="ºàÀû"
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	father=232682
+	mother=203544
+	1235.11.2 = {
+		birth="1235.11.2"
+	}
+	1269.5.15 = {
+		add_spouse = 138163
+	}
+	1271.3.13 = {
+		death = {
+			death_reason = death_murder
+			killer = 144183
+		}
+	}
+}
+
+161698 = {
+	name="Àí²é"
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	father=232682
+	mother=71648
+	1252.1.1 = {
+		birth="1252.1.1"
+	}
+	1296.3.31 = {
+		death="1296.3.31"
+	}
+}
+
+161699 = {
+	name="Àí²é"
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	father=232682
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1280.1.1 = {
+		death="1280.1.1"
+	}
+}
+
+183211 = {
+	name="Çí"
+	# AKA: Joan de Holland
+	female = yes
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	father=454577
+	mother=454578
+	1308.1.1 = {
+		birth="1308.1.1"
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+183212 = {
+	name="Âê½ÜÀò"
+	# AKA: Margery de Holland
+	female = yes
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	father=454577
+	mother=454578
+	1310.1.1 = {
+		birth="1310.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1" #unknown
+	}
+}
+
+183213 = {
+	name="ÂÞ²®ÌØ"
+	# AKA: Robert de Holland
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	father=454577
+	mother=454578
+	1312.1.1 = {
+		birth="1312.1.1"
+	}
+	1373.3.16 = {
+		death="1373.3.16"
+	}
+}
+
+183214 = {
+	name="°ÂÍÐ"
+	# AKA: Otho de Holland
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	father=454577
+	mother=454578
+	1316.1.1 = {
+		birth="1316.1.1"
+	}
+	1359.9.3 = {
+		death="1359.9.3"
+	}
+}
+
+183215 = {
+	name="Ô¼º²"
+	# AKA: John de Holland
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	father=454577
+	mother=454578
+	1318.1.1 = {
+		birth="1318.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1" #unknown
+	}
+}
+
+183216 = {
+	name="Ä½µÂ"
+	# AKA: Maud de Holland
+	female = yes
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	father=454577
+	mother=454578
+	1319.1.1 = {
+		birth="1319.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1" #unknown
+	}
+}
+
+183217 = {
+	name="°¢Â×"
+	# AKA: Alan de Holland
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	trait="twin"
+	father=454577
+	mother=454578
+	1320.1.1 = {
+		birth="1320.1.1"
+	}
+	1339.1.1 = {
+		death="1339.1.1"
+	}
+}
+
+183218 = {
+	name="ÒÁÀòÉ¯°×"
+	# AKA: Elizabeth de Holland
+	female = yes
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	trait="twin"
+	father=454577
+	mother=454578
+	1320.1.1 = {
+		birth="1320.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1" #unknown
+	}
+}
+
+183219 = {
+	name="Âê¸ñÀöÌØ"
+	# AKA: Margaret de Holland
+	female = yes
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	father=454577
+	mother=454578
+	1322.1.1 = {
+		birth="1322.1.1"
+	}
+	1349.1.1 = {
+		death="1349.1.1"
+	}
+}
+
+183220 = {
+	name="¼ò"
+	# AKA: Jane de Holland
+	female = yes
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	father=454577
+	mother=454578
+	1326.1.1 = {
+		birth="1326.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1" #unknown
+	}
+}
+
+183221 = {
+	name="°£ÀòÅµ"
+	# AKA: Eleanor de Holland
+	female = yes
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	father=454577
+	mother=454578
+	1327.1.1 = {
+		birth="1327.1.1"
+	}
+	1341.1.1 = {
+		death="1341.1.1"
+	}
+}
+
+183222 = {
+	name="ÒÁÉ¯±´À­"
+	# AKA: Isabella de Holland
+	female = yes
+	dynasty=4035
+	religion="catholic"
+	culture="english"
+	father=454577
+	mother=454578
+	1328.1.1 = {
+		birth="1328.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1" #unknown
+	}
+}
+
+183029 = {
+	name="Àí²é"
+	# AKA: Richard FitzRoy
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	trait="bastard"
+	trait="fortune_builder"
+	father=204514
+	mother=204633
+	1190.1.2 = {
+		birth="1190.1.2"
+	}
+	1246.6.2 = {
+		death="1246.6.2"
+	}
+}
+
+183030 = {
+	name="Çí"
+	# AKA: Joan of England
+	female = yes
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	trait="fair"
+	trait="thrifty_clerk"
+	father=204514
+	mother=205648
+	1210.7.22 = {
+		birth="1210.7.22"
+	}
+	1238.3.4 = {
+		death="1238.3.4"
+	}
+}
+
+183199 = {
+	name="ÍþÁ®"
+	# AKA: William de la Pole
+	dynasty=1042610
+	religion="catholic"
+	culture="english"
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1290.1.1={
+		add_spouse=183209
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+183200 = {
+	name="Àí²é"
+	# AKA: Richard de la Pole
+	dynasty=1042610
+	religion="catholic"
+	culture="english"
+	father=183199 #William de la Pole
+	mother=183209 #Elena de la Pole
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1325.1.1={
+		add_spouse=183210
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+
+183201 = {
+	name="ÍþÁ®"
+	# AKA: William de la Pole
+	dynasty=1042610
+	religion="catholic"
+	culture="english"
+	father=183200 #Richard de la Pole
+	mother=183210 #Maud de la Pole
+	1327.1.1={
+		birth="1327.1.1"
+	}
+	1365.1.1={
+		death="1365.1.1"
+	}
+}
+
+183202 = {
+	name="ÍþÁ®"
+	# AKA: William de la Pole
+	dynasty=1042610
+	religion="catholic"
+	culture="english"
+	father=183199 #William de la Pole
+	mother=183209 #Elena de la Pole
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1325.1.1={
+		add_spouse=183208
+	}
+	1366.6.21={
+		death="1366.6.21"
+	}
+}
+
+183203 = {
+	name="Ô¼º²"
+	# AKA: John de la Pole
+	dynasty=1042610
+	religion="catholic"
+	culture="english"
+	father=183199 #William de la Pole
+	mother=183209 #Elena de la Pole
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+183204 = {
+	name="Âõ¿Ë¶û"
+	# AKA: Michael de la Pole
+	dynasty=1042610
+	religion="catholic"
+	culture="english"
+	father=183202 #William de la Pole
+	mother=183208 #Katherine de Norwich
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	1389.9.5={
+		death="1389.9.5"
+	}
+}
+
+183205 = {
+	name="°£µÂÃÉ"
+	# AKA: Edmund de la Pole
+	dynasty=1042610
+	religion="catholic"
+	culture="english"
+	father=183202 #William de la Pole
+	mother=183208 #Katherine de Norwich
+	1332.1.1={
+		birth="1332.1.1"
+	}
+	1419.8.3={
+		death="1419.8.3"
+	}
+}
+
+183206 = {
+	name="Âê¸ñÀöÌØ"
+	# AKA: Margaret de la Pole
+	female = yes
+	dynasty=1042610
+	religion="catholic"
+	culture="english"
+	father=183202 #William de la Pole
+	mother=183208 #Katherine de Norwich
+	1334.1.1={
+		birth="1334.1.1"
+	}
+	1365.1.1={
+		death="1365.1.1"
+	}
+}
+
+183207 = {
+	name="²¼À¼Ææ"
+	# AKA: Blanche de la Pole
+	female = yes
+	dynasty=1042610
+	religion="catholic"
+	culture="english"
+	father=183202 #William de la Pole
+	mother=183208 #Katherine de Norwich
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+183208 = {
+	name="¿­ÉªÁÕ"
+	# AKA: Katherine de Norwich (William's wife)
+	female = yes
+	religion="catholic"
+	culture="english"
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1382.1.22={
+		death="1382.1.22"
+	}
+}
+
+183209 = {
+	name="ÒÁÀ³ÄÈ"
+	# AKA: Elena de la Pole (William's mother)
+	female = yes
+	religion="catholic"
+	culture="english"
+	1274.1.1={
+		birth="1274.1.1"
+	}
+	1349.1.1={
+		death="1349.1.1"
+	}
+}
+
+183210 = {
+	name="Ä½µÂ"
+	# AKA: Maud de la Pole (Richard's wife)
+	female = yes
+	religion="catholic"
+	culture="english"
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+
+183010 = {
+	name="ÍþÁ®" #William FitzEmpress
+	dynasty=106
+	martial=9
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="english"
+	trait="humble"
+	trait="diligent"
+	trait="martial_cleric"
+	father=204506
+	mother=202991
+	1136.7.22 = {
+		birth="1136.7.22"
+	}
+	1164.2.1 = {
+		death="1164.2.1"
+	}
+}
+
+183071 = {
+	name="Ô¼º²"
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=454520
+	mother=457642
+	1266.7.13 = {
+		birth="1266.7.13"
+	}
+	1271.8.3 = {
+		death="1271.8.3"
+	}
+}
+
+183072 = {
+	name="ºàÀû"
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	father=454520
+	mother=457642
+	1268.5.6 = {
+		birth="1268.5.6"
+	}
+	1274.10.14 = {
+		death="1274.10.14"
+	}
+}
+
+183073 = {
+	name="°¢·½Ë÷"
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	trait="ill"
+	trait="thrifty_clerk"
+	father=454520
+	mother=457642
+	1273.11.24 = {
+		birth="1273.11.24"
+	}
+	1284.8.19 = {
+		death="1284.8.19"
+	}
+}
+
+183074 = {
+	name="ÂêÀö"
+	female=yes
+	dynasty=106
+	religion="catholic"
+	culture="english"
+	trait="celibate"
+	trait="scholarly_theologian"
+	father=454520
+	mother=457642
+	1279.3.12 = {
+		birth="1279.3.12"
+	}
+	1332.5.29 = {
+		death="1332.5.29"
+	}
+}
+
+180790 = {
+	name="Ä½µÂ"
+	# wife of John Fitzalan, 6th Earl of Arundel
+	female=yes
+	dynasty=4040
+	religion="catholic"
+	culture="english"
+	father=204041
+	1229.1.1={
+		birth=yes
+	}
+	1283.11.27={
+		death=yes
+	}
+}
+
+180056 = {
+	name="ÒÁÉ¯±´À­"
+	# wife of John Fitzalan, 7th Earl of Arundel
+	female=yes
+	dynasty=4001 #Mortimer
+	religion="catholic"
+	culture="english"
+	father=161616
+	mother=161622
+	1247.1.1 = {
+		birth=yes
+	}
+	1292.1.1 = {
+		death=yes
+	}
+}
+
+180050 = {
+	name="°£µÂÃÉ"
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=454571
+	mother=454572
+	1308.1.1={
+		birth=yes
+	}
+	1349.1.1={
+		death=yes
+	}
+}
+180051 = {
+	name="ÂêÀö"
+	# wife of John le Strange
+	female=yes
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=454571
+	mother=454572
+	1310.1.1={
+		birth=yes
+	}
+	1396.8.29={
+		death=yes
+	}
+}
+180052 = {
+	name="°¬ÁÕÄÈ"
+	# wife of Roger le Strange
+	female=yes
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=454571
+	mother=454572
+	1312.1.1={
+		birth=yes
+	}
+	1386.1.20={
+		death=yes
+	}
+}
+180053 = {
+	name="°®ÀöË¿"
+	# wife of John de Bohun
+	female=yes
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=454571
+	mother=454572
+	1314.1.1={
+		birth=yes
+	}
+	1326.1.1={
+		death=yes
+	}
+}
+180054 = {
+	name="¿­ÉªÁÕ"
+	# wife of Henry Hussey and Andrew Peverell
+	female=yes
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=454571
+	mother=454572
+	1316.1.1={
+		birth=yes
+	}
+	1375.1.1={
+		death=yes
+	}
+}
+180055 = {
+	name="°£ÀòÅµ"
+	# wife of Gerard de Lisle
+	female=yes
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=454571
+	mother=454572
+	1318.1.1={
+		birth=yes
+	}
+	1345.1.1={
+		death=yes
+	}
+}
+180791 = {
+	name="Ô¼º²"
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144246
+	mother=71187
+	1290.1.1={
+		birth=yes
+	}
+	1335.1.1={
+		death=yes
+	}
+}
+180057 = {
+	name="°£ÀòÅµ"
+	# wife of Henry de Percy
+	female=yes
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144246
+	mother=71187
+	1284.1.1={
+		birth=yes
+	}
+	1328.7.1={
+		death=yes
+	}
+}
+180196 = {
+	name="°®ÀöË¿"
+	# wife of Stephen de Segrave
+	female=yes
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144246
+	mother=71187
+	1287.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+180197 = {
+	name="Âê¸ñÀöÌØ"
+	# wife of William le Botiller
+	female=yes
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144246
+	mother=71187
+	1288.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+180198 = {
+	name="Ä½µÂ"
+	# wife of Philip Burnell
+	female=yes
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144245
+	mother=180056
+	1268.1.1={
+		birth=yes
+	}
+	1298.10.1={
+		death=yes
+	}
+}
+
+180710 = {
+	name="ÇÇµ¤"
+	# Seneschal of Dol
+	dynasty=3134
+	religion="catholic"
+	culture="breton"
+	father=203041
+	mother=180782
+	1109.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		death=yes
+	}
+}
+180711 = {
+	name="ÇÇµ¤"
+	# died without issue
+	dynasty=3134
+	religion="catholic"
+	culture="breton"
+	father=180710
+	1133.1.1={
+		birth=yes
+	}
+	1164.1.1={
+		death=yes
+	}
+}
+180712 = {
+	name="°¢Â×"
+	dynasty=3134
+	religion="catholic"
+	culture="english"
+	father=180710
+	1136.1.1={
+		birth=yes
+	}
+	1186.1.1={
+		death=yes
+	}
+}
+180713 = {
+	name="ÇÇµ¤"
+	# died without issue
+	dynasty=3134
+	religion="catholic"
+	culture="english"
+	father=180712
+	1160.1.1={
+		birth=yes
+	}
+	1183.1.1={
+		death=yes
+	}
+}
+180714 = {
+	name="°ÂÀû¸¥"
+	# wife of  Robert de St John and Roger de Monbegon
+	female=yes
+	dynasty=3134
+	religion="catholic"
+	culture="english"
+	father=180712
+	1165.1.1={
+		birth=yes
+	}
+	1239.1.1={
+		death=yes
+	}
+}
+180715 = {
+	name="°¢ÀöÎ÷ÑÇ"
+	# wife of William Spina
+	female=yes
+	dynasty=3134
+	religion="catholic"
+	culture="english"
+	father=180712
+	1167.1.1={
+		birth=yes
+	}
+	1238.1.1={
+		death=yes
+	}
+}
+
+144241 = {
+	name="ÍþÁ®"
+	# Lord of Oswestry
+	dynasty=3134 # Stewart
+	religion="catholic"
+	culture="english"
+	father=203041
+	mother=180782
+	1105.1.1={
+		birth=yes
+	}
+	1114.1.1={
+		dynasty=101899 # Cadet branch Fitzalan
+	}
+	1150.1.1={
+		add_spouse=203043
+	}
+	1160.4.1={
+		death=yes
+	}
+}
+
+144242 = {
+	name="ÍþÁ®"
+	# 1st Lord of Oswestry and Clun
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144241
+	mother=203043
+	1154.1.1={
+		birth=yes
+	}
+	1185.1.1={
+		add_spouse=204023
+	}
+	1210.1.1={
+		death=yes
+	}
+}
+
+144247 = {
+	name="ÍþÁ®"
+	# 2nd Lord of Oswestry and Clun
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144242
+	mother=204023
+	1197.1.1={
+		birth=yes
+	}
+	1214.4.1={
+		death=yes
+	}
+}
+
+144243 = {
+	name="Ô¼º²"
+	# Lord of Oswestry
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144242
+	mother=204023
+	1200.1.1={
+		birth=yes
+	}
+	1221.1.1={
+		add_spouse=144240
+	}
+	1240.1.1={
+		death=yes
+	}
+}
+
+144244 = {
+	name="Ô¼º²"
+	# 6th Earl of Arundel
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144243
+	mother=144240
+	1223.1.1={
+		birth=yes
+	}
+	1245.1.1={
+		add_spouse=180790
+	}
+	1267.11.10={
+		death=yes
+	}
+}
+
+144245 = {
+	name="Ô¼º²"
+	# 7th Earl of Arundel
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144244
+	mother=180790
+	1246.9.14={
+		birth=yes
+	}
+	1260.1.1={
+		add_spouse=180056
+	}
+	1272.3.18={
+		death=yes
+	}
+}
+
+144246 = {
+	name="Àí²é"
+	# 8th Earl of Arundel
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144245
+	mother=180056
+	1266.2.3={
+		birth=yes
+	}
+	1284.1.1={
+		add_spouse=71187
+	}
+	1301.3.9={
+		death=yes
+	}
+}
+
+454571 = {
+	name="°£µÂÃÉ"
+	# 9th Earl of Arundel
+	dynasty=101899
+	religion="catholic"
+	culture="english"
+	father=144246
+	mother=71187
+	1285.5.1={
+		birth=yes
+	}
+	1305.1.2={
+		add_spouse=454572
+	}
+	1326.11.17={
+		death=yes
+	}
+}
+
+454570 = {
+	name="Àí²é"
+	# 10th Earl of Arundel
+	dynasty=101899
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	trait="brave"
+	trait="flamboyant_schemer"
+	father=454571
+	mother=454572
+	1306.1.1={
+		birth=yes
+	}
+	1321.2.9={
+		add_spouse=161670
+	}
+	1376.1.24={
+		death=yes
+	}
+}
+
+188888 = {
+	name="John" # first name unknown
+	dynasty=101600 # Comyn
+	religion="catholic"
+	culture="english"
+	father=188890
+	1099.1.1={
+		birth=yes
+	}
+	1142.1.1={
+		death=yes
+	}
+}
+
+188889 = {
+	name="William"
+	dynasty=101600 # Comyn
+	religion="catholic"
+	culture="english"
+	father=188890
+	1096.1.1={
+		birth=yes
+	}
+	1159.1.1={
+		death=yes
+	}
+}
+
+188890 = {
+	name="Walter" # name unknown
+	dynasty=101600 # Comyn
+	religion="catholic"
+	culture="english"
+	father=188891 # conjecture
+	1066.1.1={
+		birth=yes
+	}
+	1112.1.1={
+		death=yes
+	}
+}
+
+453502 = {  	
+	name="Elizabeth"
+	female = yes
+	dynasty=4034
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="english"
+	trait="amateurish_plotter"
+	father=454106
+	mother=454108
+	1280.1.2={
+		birth=yes
+	}
+	1327.1.2={
+		death=yes
+	}
+}
+
+454573 = {
+	name="Isabelle"
+	dynasty=4002
+	female=yes
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="english"
+	add_trait="lustful"
+	add_trait="amateurish_plotter"
+	father=161666
+	mother=161663
+	1292.1.1 = {
+		birth=yes
+	}
+	1334.12.5 = {
+		death=yes
+	}
+}
+
+183075 = {
+	name="Edward"
+	dynasty=106 # or 105
+	religion="catholic"
+	culture="english"
+	add_trait="deceitful"
+	add_trait="underhanded_rogue"
+	father=454550
+	mother=454551
+	1321.1.2 = {
+		birth=yes
+	}
+	1334.1.2 = {
+		death=yes
+	}
+}
+
+183076 = {
+	name="Edmund"
+	dynasty=106 # or 100073
+	religion="catholic"
+	culture="english"
+	add_trait="ill"
+	add_trait="amateurish_plotter"
+	father=454511
+	mother=454512
+	1326.1.2 = {
+		birth=yes
+	}
+	1331.10.2 = {
+		death=yes
+	}
+}
+
+# House de Percy
+
+183077 = {
+	name="Henry"
+	dynasty=4000
+	religion="catholic"
+	culture="english"
+	add_trait="strong"
+	add_trait="fortune_builder"
+	1273.1.2 = {
+		birth=yes
+	}
+	1314.1.2 = {
+		death=yes
+	}
+}
+
+183078 = {
+	name="Henry"
+	dynasty=4000
+	religion="catholic"
+	culture="english"
+	add_trait="cynical"
+	add_trait="tough_soldier"
+	father=183077
+	1299.1.2 = {
+		birth=yes
+	}
+	1316.1.2 = {
+		add_spouse = 454604
+	}
+	1352.1.2 = {
+		death=yes
+	}
+}
+
+183079 = {
+	name="William"
+	dynasty=4000
+	religion="catholic"
+	culture="english"
+	add_trait="diligent"
+	add_trait="martial_cleric"
+	father=183077
+	1303.1.2 = {
+		birth=yes
+	}
+	1355.1.2 = {
+		death=yes
+	}
+}
+
+183080 = {
+	name="Henry"
+	dynasty=4000
+	religion="catholic"
+	culture="english"
+	add_trait="brave"
+	add_trait="tough_soldier"
+	father=183078
+	mother=454604
+	1321.1.2 = {
+		birth=yes
+	}
+	1368.5.18 = {
+		death=yes
+	}
+}
+
+183081 = {
+	name="Thomas"
+	dynasty=4000
+	religion="catholic"
+	culture="english"
+	add_trait="quick"
+	add_trait="scholarly_theologian"
+	father=183078
+	mother=454604
+	1322.1.2 = {
+		birth=yes
+	}
+	1369.8.8 = {
+		death=yes
+	}
+}
+
+183082 = {
+	name="Roger"
+	dynasty=4000
+	religion="catholic"
+	culture="english"
+	add_trait="slothful"
+	add_trait="indulgent_wastrel"
+	father=183078
+	mother=454604
+	1324.1.2 = {
+		birth=yes
+	}
+	1374.1.2 = {
+		death=yes
+	}
+}
+
+183083 = {
+	name="Maud"
+	female = yes
+	dynasty=4000
+	religion="catholic"
+	culture="english"
+	add_trait="fair"
+	add_trait="flamboyant_schemer"
+	father=183078
+	mother=454604
+	1325.1.2 = {
+		birth=yes
+	}
+	1375.1.2 = {
+		death=yes
+	}
+}
+
+183084 = {
+	name="Eleanor"
+	female = yes
+	dynasty=4000
+	religion="catholic"
+	culture="english"
+	add_trait="cruel"
+	add_trait="intricate_webweaver"
+	father=183078
+	mother=454604
+	1328.1.2 = {
+		birth=yes
+	}
+	1378.1.2 = {
+		death=yes
+	}
+}
+
+183085 = {
+	name="Isabel"
+	female = yes
+	dynasty=4000
+	religion="catholic"
+	culture="english"
+	add_trait="greedy"
+	add_trait="thrifty_clerk"
+	father=183078
+	mother=454604
+	1329.1.2 = {
+		birth=yes
+	}
+	1379.1.2 = {
+		death=yes
+	}
+}
+
+# House de Neville
+
+183086 = {
+	name="Ralph"
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="envious"
+	add_trait="midas_touched"
+	1262.10.18 = {
+		birth=yes
+	}
+	1280.1.2 = {
+		add_spouse = 183087
+	}
+	1331.4.18 = {
+		death=yes
+	}
+}
+
+183087 = {
+	name="Euphemia"
+	female = yes
+	religion="catholic"
+	culture="english"
+	add_trait="fair"
+	add_trait="thrifty_clerk"
+	1264.1.2 = {
+		birth=yes
+	}
+	1312.1.2 = {
+		death=yes
+	}
+}
+
+183088 = {
+	name="Joan"
+	female = yes
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="greedy"
+	add_trait="amateurish_plotter"
+	father=183086
+	mother=183087
+	1283.1.2 = {
+		birth=yes
+	}
+	1324.1.2 = {
+		death=yes
+	}
+}
+
+183089 = {
+	name="Anastasia"
+	female = yes
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="deceitful"
+	add_trait="naive_appeaser"
+	father=183086
+	mother=183087
+	1285.1.2 = {
+		birth=yes
+	}
+	1339.1.2 = {
+		death=yes
+	}
+}
+
+183090 = {
+	name="Robert"
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="just"
+	add_trait="tough_soldier"
+	father=183086
+	mother=183087
+	1287.1.2 = {
+		birth=yes
+	}
+	1319.6.2 = {
+		death=yes
+	}
+}
+
+183091 = {
+	name="Ida"
+	female = yes
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="temperate"
+	add_trait="thrifty_clerk"
+	father=183086
+	mother=183087
+	1289.1.2 = {
+		birth=yes
+	}
+	1330.1.2 = {
+		death=yes
+	}
+}
+
+183092 = {
+	name="Ralph"
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="twin"
+	add_trait="brave"
+	add_trait="tough_soldier"
+	father=183086
+	mother=183087
+	1291.1.2 = {
+		birth=yes
+	}
+	1326.1.14 = {
+		add_spouse = 183102
+	}
+	1367.8.5 = {
+		death=yes
+	}
+}
+
+183093 = {
+	name="Euphemia"
+	female = yes
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="twin"
+	add_trait="temperate"
+	add_trait="scholarly_theologian"
+	father=183086
+	mother=183087
+	1291.1.2 = {
+		birth=yes
+	}
+	1309.1.2 = {
+		death=yes
+	}
+}
+
+183094 = {
+	name="Alice"
+	female = yes
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="arbitrary"
+	add_trait="flamboyant_schemer"
+	father=183086
+	mother=183087
+	1293.1.2 = {
+		birth=yes
+	}
+	1362.1.2 = {
+		death=yes
+	}
+}
+
+183095 = {
+	name="Alexander"
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="wroth"
+	add_trait="amateurish_plotter"
+	father=183086
+	mother=183087
+	1297.1.2 = {
+		birth=yes
+	}
+	1366.3.15 = {
+		death=yes
+	}
+}
+
+183096 = {
+	name="John"
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="strong"
+	add_trait="martial_cleric"
+	father=183086
+	mother=183087
+	1299.1.2 = {
+		birth=yes
+	}
+	1333.7.19 = {
+		death=yes
+	}
+}
+
+183097 = {
+	name="Mary"
+	female = yes
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="lustful"
+	add_trait="amateurish_plotter"
+	father=183086
+	mother=183087
+	1301.1.2 = {
+		birth=yes
+	}
+	1324.1.2 = {
+		death=yes
+	}
+}
+
+183098 = {
+	name="William"
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="quick"
+	add_trait="charismatic_negotiator"
+	father=183086
+	mother=183087
+	1303.1.2 = {
+		birth=yes
+	}
+	1352.1.2 = {
+		death=yes
+	}
+}
+
+183099 = {
+	name="Margaret"
+	female = yes
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="ambitious"
+	add_trait="indulgent_wastrel"
+	father=183086
+	mother=183087
+	1305.1.2 = {
+		birth=yes
+	}
+	1332.1.2 = {
+		death=yes
+	}
+}
+
+183100 = {
+	name="Thomas"
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="craven"
+	add_trait="misguided_warrior"
+	father=183086
+	mother=183087
+	1306.1.2 = {
+		birth=yes
+	}
+	1349.6.2 = {
+		death=yes
+	}
+}
+
+183101 = {
+	name="Avelina"
+	female = yes
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="lisp"
+	add_trait="thrifty_clerk"
+	father=183086
+	mother=183087
+	1307.1.2 = {
+		birth=yes
+	}
+	1368.6.2 = {
+		death=yes
+	}
+}
+
+183102 = {
+	name="Alice"
+	female = yes
+	religion="catholic"
+	culture="english"
+	add_trait="lustful"
+	add_trait="fortune_builder"
+	1310.1.2 = {
+		birth=yes
+	}
+	1360.1.2 = {
+		death=yes
+	}
+}
+
+183103 = {
+	name="John"
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="cruel"
+	add_trait="skilled_tactician"
+	father=183092
+	mother=183102
+	1328.1.2 = {
+		birth=yes
+	}
+	1388.10.17 = {
+		death=yes
+	}
+}
+
+183104 = {
+	name="Margaret"
+	female = yes
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="quick"
+	add_trait="charismatic_negotiator"
+	father=183092
+	mother=183102
+	1329.2.12 = {
+		birth=yes
+	}
+	1372.5.12 = {
+		death=yes
+	}
+}
+
+183105 = {
+	name="Catherine"
+	female = yes
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="cynical"
+	add_trait="martial_cleric"
+	father=183092
+	mother=183102
+	1330.1.2 = {
+		birth=yes
+	}
+	1361.9.1 = {
+		death=yes
+	}
+}
+
+183106 = {
+	name="Ralph"
+	dynasty=4004
+	religion="catholic"
+	culture="english"
+	add_trait="deceitful"
+	add_trait="amateurish_plotter"
+	father=183092
+	mother=183102
+	1332.1.2 = {
+		birth=yes
+	}
+	1380.1.2 = {
+		death=yes
+	}
+}

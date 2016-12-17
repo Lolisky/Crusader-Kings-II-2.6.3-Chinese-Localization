@@ -1,0 +1,184 @@
+6899 = {
+	name="巴赫拉姆" #Bahram# Fantasy
+	dynasty=858
+	religion=sunni
+	culture=baloch
+	835.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+6910 = {
+	name="弗鲁克斯" #Ferux # Fantasy
+	dynasty=859
+	religion=sunni
+	culture=baloch
+	830.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+178018 = {
+	name="扎哈克" #Zahak # Fictional
+	dynasty=1041118
+	religion="sunni"
+	culture="baloch"
+	842.1.1={
+		birth="842.1.1"
+	}
+	888.1.1={
+		death="884.1.1"
+	}
+}
+
+188544 = {
+	name="玛阿丹" #Ma'dan
+	dynasty=1042102 # Ma'danid
+	religion="sunni"
+	culture="baloch"
+	980.1.1={
+		birth=yes
+	}
+	1025.1.1={
+		death=yes
+	}
+}
+
+188545 = {
+	name="以撒" #Isa
+	dynasty=1042102 # Ma'danid
+	religion="sunni"
+	culture="baloch"
+	father=188544
+	1000.1.1={
+		birth=yes
+	}
+	1031.1.1={
+		death=yes
+	}
+}
+
+188546 = {
+	name="侯赛因" #Husayn
+	dynasty=1042102 # Ma'danid
+	religion="sunni"
+	culture="baloch"
+	father=188544
+	1005.1.1={
+		birth=yes
+	}
+	1068.1.1={
+		death=yes
+	}
+}
+
+188547 = {
+	name="法拉茨" #Feraz # fictitious
+	dynasty=1042102 # Ma'danid
+	religion="sunni"
+	culture="baloch"
+	father=188546
+	1034.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+
+188548 = {
+	name="纳维德" #Naveed # fictitious
+	dynasty=1042102 # Ma'danid
+	religion="sunni"
+	culture="baloch"
+	father=188547
+	1060.1.1={
+		birth=yes
+	}
+	1105.1.1={
+		death=yes
+	}
+}
+
+188549 = {
+	name="艾默德" #Ehmed # fictitious
+	dynasty=1042102 # Ma'danid
+	religion="sunni"
+	culture="baloch"
+	father=188548
+	1082.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+
+188550 = {
+	name="米斯特法" #Mistefa # fictitious
+	dynasty=1042102 # Ma'danid
+	religion="sunni"
+	culture="baloch"
+	father=188549
+	1109.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+188661 = {
+	name="克维达达迪" #Xwedadad # fictitious holder of Jask
+	dynasty=1042134
+	religion="zoroastrian"
+	culture="baloch"
+	725.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188662 = {
+	name="基亚克萨雷斯" #Keyxusrew # fictitious holder of Tis
+	dynasty=1042135
+	religion="zoroastrian"
+	culture="baloch"
+	738.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188663 = {
+	name="费扎德" #Ferzad # fictitious holder of Saravan
+	dynasty=1042136
+	religion="zoroastrian"
+	culture="baloch"
+	744.1.1={
+		birth=yes
+	}
+	803.1.1={
+		death=yes
+	}
+}
+188679 = {
+	name="塔赫玛斯普" #Tahmasp # fictitious holder of Shiraz
+	dynasty=1042146
+	religion="zoroastrian"
+	culture="baloch"
+	740.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}

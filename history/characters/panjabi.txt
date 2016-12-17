@@ -1,0 +1,1986 @@
+178000 = {
+	name="Dayaram" # Fictional
+	dynasty=1041100
+	religion="buddhist"
+	culture="panjabi"
+	832.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}
+
+178020 = {
+	name="Farid" # Fictional
+	dynasty=1041120
+	religion="buddhist"
+	culture="panjabi"
+	834.1.1={
+		birth="834.1.1"
+	}
+	888.1.1={
+		death="884.1.1"
+	}
+}
+178021 = {
+	name="Ajit" # Fictional
+	dynasty=1041121
+	religion="buddhist"
+	culture="panjabi"
+	834.1.1={
+		birth="834.1.1"
+	}
+	888.1.1={
+		death="884.1.1"
+	}
+}
+178022 = {
+	name="Shamsher" # Fictional
+	dynasty=1041122
+	religion="hindu"
+	culture="panjabi"
+	trait=brahmin
+	trait=vaishnavist_hindu
+	834.1.1={
+		birth="834.1.1"
+	}
+	888.1.1={
+		death="884.1.1"
+	}
+}
+178023 = {
+	name="Prithichand" # Fictional
+	dynasty=1041123
+	religion="hindu"
+	culture="panjabi"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	834.1.1={
+		birth="834.1.1"
+	}
+	888.1.1={
+		death="884.1.1"
+	}
+}
+178024 = {
+	name="Khushal" # Fictional
+	dynasty=1041124
+	religion="hindu"
+	culture="panjabi"
+	trait=kshatriya
+	trait=shaivist_hindu
+	834.1.1={
+		birth="834.1.1"
+	}
+	888.1.1={
+		death="884.1.1"
+	}
+}
+178025 = {
+	name="Budh" # Fictional
+	dynasty=1041125
+	religion="hindu"
+	culture="panjabi"
+	trait=kshatriya
+	trait=shaivist_hindu
+	834.1.1={
+		birth="834.1.1"
+	}
+	888.1.1={
+		death="884.1.1"
+	}
+}
+178026 = {
+	name="Mohan" # Fictional
+	dynasty=1041126
+	religion="hindu"
+	culture="panjabi"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	834.1.1={
+		birth="834.1.1"
+	}
+	888.1.1={
+		death="884.1.1"
+	}
+}
+188373 = {
+	name="Durlabhavardhana"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	575.1.1={
+		birth=yes
+	}
+	636.1.1={
+		death=yes
+	}
+}
+
+188374 = {
+	name="Durlabhavardhana"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188373
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	615.1.1={
+		birth=yes
+	}
+	686.1.1={
+		death=yes
+	}
+}
+
+188375 = {
+	name="Chandrapida"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188374
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	640.1.1={
+		birth=yes
+	}
+	695.1.1={
+		death=yes
+	}
+}
+
+188376 = {
+	name="Tarapida"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188374
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	644.1.1={
+		birth=yes
+	}
+	699.1.1={
+		death=yes
+	}
+}
+
+188377 = {
+	name="Lalitadiyta-Muktapida" 
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188374
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	650.1.1={
+		birth=yes
+	}
+	736.1.1={
+		death=yes
+	}
+}
+
+188378 = {
+	name="Kuvalayapida"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188377
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	672.1.1={
+		birth=yes
+	}
+	737.1.1={
+		death=yes
+	}
+}
+
+188379 = {
+	name="Vajraditya"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188377
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	trait="cruel"
+	680.1.1={
+		birth=yes
+	}
+	744.1.1={
+		death=yes
+	}
+}
+
+188380 = {
+	name="Prithvyapida"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188379
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	trait="cruel"
+	705.1.1={
+		birth=yes
+	}
+	748.1.1={
+		death=yes
+	}
+}
+
+188381 = {
+	name="Jayapida"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188379
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	trait="ambitious"
+	trait="fortune_builder"
+	718.1.1={
+		birth=yes
+	}
+	740.1.1={
+		add_spouse=188382
+	}
+	782.1.1={
+		death=yes
+	}
+}
+
+188382 = {
+	name="Durga"
+	female=yes
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	720.1.1={
+		birth=yes
+	}
+	775.1.1={
+		death=yes
+	}
+}
+
+188383 = {
+	name="Lalitapida"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188381
+	mother=188382
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	trait="indulgent_wastrel"
+	742.1.1={
+		birth=yes
+	}
+	798.1.1={
+		death=yes
+	}
+}
+
+188384 = {
+	name="Samgramapida" # or Prithivyapida
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188381
+	mother=188385
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	750.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+
+188385 = {
+	name="Kalyanadevi"
+	female=yes
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	730.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+188386 = {
+	name="Cippatajayapida"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188383
+	mother=188387
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	765.1.1={
+		birth=yes
+	}
+	817.1.1={
+		death=yes
+	}
+}
+
+188387 = {
+	name="Jayadeva"
+	female=yes
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188388
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	trait="fair"
+	trait="grey_eminence"
+	745.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+188388 = {
+	name="Uppa"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	# trait="kshatriya" (lowborn)
+	trait="shaivist_hindu" 
+	720.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+188389 = {
+	name="Utpalaka"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188388
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	738.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188390 = {
+	name="Sukhavarma"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188389
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	768.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+188391 = {
+	name="Avantivarma"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188390
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	805.1.1={
+		birth=yes
+	}
+	881.1.1={
+		death=yes
+	}
+}
+
+188392 = {
+	name="Tribhuvanapida"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188379
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	740.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188393 = {
+	name="Ajitapida"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188392
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	780.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+
+188394 = {
+	name="Anangapida"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188384
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	788.1.1={
+		birth=yes
+	}
+	870.1.1={
+		death=yes
+	}
+}
+
+188395 = {
+	name="Utpalapida"
+	dynasty=1042100 # Karkota
+	religion="hindu"
+	culture="panjabi"
+	father=188393
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	800.1.1={
+		birth=yes
+	}
+	856.1.1={
+		death=yes
+	}
+}
+
+188396 = {
+	name="Samkaravarman"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188391
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	840.1.1={
+		birth=yes
+	}
+	888.1.1={
+		add_spouse=188398
+	}
+	902.1.1={
+		death=yes
+	}
+}
+
+188397 = {
+	name="Gopalavarma"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188396
+	mother=188398
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	892.1.1={
+		birth=yes
+	}
+	904.1.1={
+		death=yes
+	}
+}
+
+188398 = {
+	name="Surgandha"
+	female=yes
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	865.1.1={
+		birth=yes
+	}
+	914.1.1={
+		death=yes
+	}
+}
+
+188399 = {
+	name="Suravarman"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188390
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	810.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+188400 = {
+	name="Sukhavaraman"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188399
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	835.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+188401 = {
+	name="Nirjitavarman"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188400
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	860.1.1={
+		birth=yes
+	}
+	923.1.1={
+		death=yes
+	}
+}
+
+188402 = {
+	name="Partha"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188401
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	896.1.1={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+
+188403 = {
+	name="Cakravarman"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188401
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	915.1.1={
+		birth=yes
+	}
+	937.1.1={
+		death=yes
+	}
+}
+
+188404 = {
+	name="Unmattavanti"
+	dynasty=1042092 # Utpala
+	religion="hindu"
+	culture="panjabi"
+	father=188402
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	916.1.1={
+		birth=yes
+	}
+	939.1.1={
+		death=yes
+	}
+}
+
+188405 = {
+	name="Simharaja"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	910.1.1={
+		birth=yes
+	}
+	970.1.1={
+		death=yes
+	}
+}
+
+188406 = {
+	name="Didda"
+	# wife of Ksemagupta Parvagupta, ruler of Kashmir
+	female=yes
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188405
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	930.1.1={
+		birth=yes
+	}
+	1003.1.1={
+		death=yes
+	}
+}
+
+188407 = {
+	name="Udayaraja"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188405
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	931.1.1={
+		birth=yes
+	}
+	990.1.1={
+		death=yes
+	}
+}
+
+188408 = {
+	name="Kantiraja"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188405
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	932.1.1={
+		birth=yes
+	}
+	990.1.1={
+		death=yes
+	}
+}
+
+188409 = {
+	name="Samgrama"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188407
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	987.1.1={
+		birth=yes
+	}
+	1028.1.1={
+		death=yes
+	}
+}
+
+188410 = {
+	name="Vigraha"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188407
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	988.1.1={
+		birth=yes
+	}
+	1028.1.22={
+		death=yes
+	}
+}
+
+188411 = {
+	name="Ksitiraja"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188410
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1018.1.1={
+		birth=yes
+	}
+	1066.1.1={
+		death=yes
+	}
+}
+
+188412 = {
+	name="Bhuvana"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188411
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1046.1.1={
+		birth=yes
+	}
+	1096.1.1={
+		death=yes
+	}
+}
+
+188413 = {
+	name="Hariraja"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188409
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1008.1.1={
+		birth=yes
+	}
+	1028.1.22={
+		death=yes
+	}
+}
+
+188414 = {
+	name="Ananta"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188409
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1020.1.1={
+		birth=yes
+	}
+	1081.1.1={
+		death=yes
+	}
+}
+
+188415 = {
+	name="Jassaraja"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188408
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	980.1.1={
+		birth=yes
+	}
+	1020.1.1={
+		death=yes
+	}
+}
+
+188416 = {
+	name="Gunga"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188415
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1010.1.1={
+		birth=yes
+	}
+	1070.1.1={
+		death=yes
+	}
+}
+
+188417 = {
+	name="Malla"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188416
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1040.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+188418 = {
+	name="Uccala"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188417
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1080.1.1={
+		birth=yes
+	}
+	1111.1.1={
+		death=yes
+	}
+}
+
+188419 = {
+	name="Kalasa"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188414
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1048.1.1={
+		birth=yes
+	}
+	1089.1.1={
+		death=yes
+	}
+}
+
+188420 = {
+	name="Harsa"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188419
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1068.1.1={
+		birth=yes
+	}
+	1101.1.1={
+		death=yes
+	}
+}
+
+188421 = {
+	name="Salhana"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188417
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1082.1.1={
+		birth=yes
+	}
+	1112.1.1={
+		death=yes
+	}
+}
+
+188422 = {
+	name="Sussala"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188417
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1081.1.1={
+		birth=yes
+	}
+	1128.1.1={
+		death=yes
+	}
+}
+
+188423 = {
+	name="Bhoja"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188420
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1088.1.1={
+		birth=yes
+	}
+	1110.1.1={
+		death=yes
+	}
+}
+
+188424 = {
+	name="Bhiksacara"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188423
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1104.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+
+188425 = {
+	name="Jayasimha"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188422
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1105.1.1={
+		birth=yes
+	}
+	1155.1.1={
+		death=yes
+	}
+}
+
+188426 = {
+	name="Paramanuka"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188425
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1129.1.1={
+		birth=yes
+	}
+	1165.1.1={
+		death=yes
+	}
+}
+
+188427 = {
+	name="Vantideva"
+	dynasty=1042093 # Lohara
+	religion="hindu"
+	culture="panjabi"
+	father=188426
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1149.1.1={
+		birth=yes
+	}
+	1172.1.1={
+		death=yes
+	}
+}
+
+188428 = {
+	name="Vuppadeva"
+	dynasty=1042094 # Vopyadeva
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1122.1.1={
+		birth=yes
+	}
+	1162.1.1={
+		death=yes
+	}
+}
+
+188429 = {
+	name="Vuppadeva"
+	dynasty=1042094 # Vopyadeva
+	religion="hindu"
+	culture="panjabi"
+	father=188428
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1142.1.1={
+		birth=yes
+	}
+	1181.1.1={
+		death=yes
+	}
+}
+
+188430 = {
+	name="Jassaka"
+	dynasty=1042094 # Vopyadeva
+	religion="hindu"
+	culture="panjabi"
+	father=188428
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1143.1.1={
+		birth=yes
+	}
+	1199.1.1={
+		death=yes
+	}
+}
+
+188431 = {
+	name="Jagadeva"
+	dynasty=1042094 # Vopyadeva
+	religion="hindu"
+	culture="panjabi"
+	father=188430
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1163.1.1={
+		birth=yes
+	}
+	1213.1.1={
+		death=yes
+	}
+}
+
+188432 = {
+	name="Rajadeva"
+	dynasty=1042094 # Vopyadeva
+	religion="hindu"
+	culture="panjabi"
+	father=188431
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1183.1.1={
+		birth=yes
+	}
+	1236.1.1={
+		death=yes
+	}
+}
+
+188433 = {
+	name="Samgramadeva"
+	dynasty=1042094 # Vopyadeva
+	religion="hindu"
+	culture="panjabi"
+	father=188432
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1203.1.1={
+		birth=yes
+	}
+	1252.1.1={
+		death=yes
+	}
+}
+
+188434 = {
+	name="Ramadeva"
+	dynasty=1042094 # Vopyadeva
+	religion="hindu"
+	culture="panjabi"
+	father=188433
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1223.1.1={
+		birth=yes
+	}
+	1273.1.1={
+		death=yes
+	}
+}
+
+188435 = {
+	name="Laksmadeva"
+	dynasty=1042095 # of Dakhinpara
+	religion="hindu"
+	culture="panjabi"
+	father=188437 # fictitious
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1243.1.1={
+		birth=yes
+	}
+	1286.1.1={
+		death=yes
+	}
+}
+
+188436 = {
+	name="Simhadeva" # fictitious
+	dynasty=1042095 # of Dakhinpara
+	religion="hindu"
+	culture="panjabi"
+	father=188437 
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1240.1.1={
+		birth=yes
+	}
+	1285.1.1={
+		death=yes
+	}
+}
+
+188437 = {
+	name="Laksmadeva" # fictitious
+	dynasty=1042095 # of Dakhinpara
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1218.1.1={
+		birth=yes
+	}
+	1253.1.1={
+		death=yes
+	}
+}
+
+188438 = {
+	name="Simhadeva"
+	dynasty=1042095 # of Dakhinpara
+	religion="hindu"
+	culture="panjabi"
+	father=188436
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1260.1.1={
+		birth=yes
+	}
+	1301.1.1={
+		death=yes
+	}
+}
+
+188439 = {
+	name="Suhadeva"
+	dynasty=1042095 # of Dakhinpara
+	religion="hindu"
+	culture="panjabi"
+	father=188436
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1261.1.1={
+		birth=yes
+	}
+	1320.1.1={
+		death=yes
+	}
+}
+
+188440 = {
+	name="Ramacandra"
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1261.1.1={
+		birth=yes
+	}
+	1320.6.1={
+		death=yes
+	}
+}
+
+188441 = {
+	name="Kotadevi"
+	female=yes
+	religion="hindu"
+	culture="panjabi"
+	father=188440
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1281.1.1={
+		birth=yes
+	}
+	1338.6.1={
+		death=yes
+	}
+}
+
+188442 = {
+	name="Rincana"
+	dynasty=1042096 # Ladakhi
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1281.1.1={
+		birth=yes
+	}
+	1301.1.1={
+		add_spouse=188441
+	}
+	1323.1.1={
+		death=yes
+	}
+}
+
+188443 = {
+	name="Haidaracandra"
+	dynasty=1042096 # Ladakhi
+	religion="hindu"
+	culture="panjabi"
+	father=188442
+	mother=188441
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1310.1.1={
+		birth=yes
+	}
+	1323.6.1={
+		death=yes
+	}
+}
+
+188444 = {
+	name="Udayanadeva"
+	dynasty=1042095 # of Dakhinpara
+	religion="hindu"
+	culture="panjabi"
+	father=188436
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1281.1.1={
+		birth=yes
+	}
+	1323.1.1={
+		add_spouse=188441
+	}
+	1338.1.1={
+		death=yes
+	}
+}
+
+188528 = {
+	name="Jahm"
+	dynasty=1042099 # Banu Sama
+	religion="sunni"
+	culture="panjabi"
+	father=188527
+	710.1.1={
+		birth=yes
+	}
+	765.1.1={
+		death=yes
+	}
+}
+
+188537 = {
+	name="Ismail" # fictitious
+	dynasty=1042099 # Banu Sama
+	religion="sunni"
+	culture="panjabi"
+	father=188528
+	735.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188529 = {
+	name="Muhammad" # fictitious
+	dynasty=1042099 # Banu Sama
+	religion="sunni"
+	culture="panjabi"
+	father=188537
+	760.1.1={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+
+188530 = {
+	name="Munabbih"
+	dynasty=1042099 # Banu Sama
+	religion="sunni"
+	culture="panjabi"
+	father=188529
+	785.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+188531 = {
+	name="al-Qasim"
+	dynasty=1042099 # Banu Sama
+	religion="sunni"
+	culture="panjabi"
+	father=188530
+	810.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+188532 = {
+	name="Muhammad"
+	dynasty=1042099 # Banu Sama
+	religion="sunni"
+	culture="panjabi"
+	father=188531
+	837.1.1={
+		birth=yes
+	}
+	910.1.1={
+		death=yes
+	}
+}
+
+188538 = {
+	name="Farid" # fictional
+	dynasty=1042101 # Karmatia
+	religion="shiite" # Ismaili
+	culture="panjabi"
+	1010.1.1={
+		birth=yes
+	}
+	1065.1.1={
+		death=yes
+	}
+}
+
+188539 = {
+	name="Amir" # fictional
+	dynasty=1042101 # Karmatia
+	religion="shiite" # Ismaili
+	culture="panjabi"
+	father=188538
+	1035.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+
+188540 = {
+	name="Arjun" # fictional
+	dynasty=1042101 # Karmatia
+	religion="shiite" # Ismaili
+	culture="panjabi"
+	father=188539
+	1060.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+
+188541 = {
+	name="Muhammad" # fictional
+	dynasty=1042101 # Karmatia
+	religion="shiite" # Ismaili
+	culture="panjabi"
+	father=188540
+	1085.1.1={
+		birth=yes
+	}
+	1145.1.1={
+		death=yes
+	}
+}
+
+188542 = {
+	name="Hasan" # fictional
+	dynasty=1042101 # Karmatia
+	religion="shiite" # Ismaili
+	culture="panjabi"
+	father=188541
+	1110.1.1={
+		birth=yes
+	}
+	1170.1.1={
+		death=yes
+	}
+}
+
+188543 = {
+	name="Musa" # fictional
+	dynasty=1042101 # Karmatia
+	religion="shiite" # Ismaili
+	culture="panjabi"
+	father=188542
+	1135.1.1={
+		birth=yes
+	}
+	1178.1.1={
+		death=yes
+	}
+}
+191017 = {
+	name="Sher"	#Fictional
+	dynasty=1044305 #Madra
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	740.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+188552 = {
+	name="Mohri" # fictional
+	dynasty=1041125
+	religion="buddhist"
+	culture="panjabi"
+	trait=kshatriya
+	trait=theravada_buddhist
+	705.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+188553 = {
+	name="Prithichand" # fictional
+	dynasty=1041125
+	religion="buddhist"
+	culture="panjabi"
+	father=188552
+	trait=kshatriya
+	trait=theravada_buddhist
+	732.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188554 = {
+	name="Pheru" # fictional
+	dynasty=1041123
+	religion="hindu"
+	culture="panjabi"
+	trait=kshatriya
+	trait=shaivist_hindu
+	731.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+188555 = {
+	name="Lahna" # fictional
+	dynasty=1041124
+	religion="hindu"
+	culture="panjabi"
+	trait=kshatriya
+	trait=shaivist_hindu
+	742.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+188568 = {
+	name="Lakhmichand" # fictitious holder of Purushapura
+	dynasty=1042106 # Nagar
+	religion="buddhist"
+	culture="panjabi"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	751.6.30={
+		birth=yes
+	}
+	803.1.1={
+		death=yes
+	}
+}
+
+188569 = {
+	name="Zorawar" # fictitious holder of Bannu
+	dynasty=1042107 # Varna
+	religion="buddhist"
+	culture="panjabi"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	743.4.20={
+		birth=yes
+	}
+	803.1.1={
+		death=yes
+	}
+}
+191961 = {
+	name="Sujji"	#Fictional
+	dynasty=1044393 # Saindhava
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaktist_hindu"	#random
+	740.1.1={
+		birth=yes
+	}
+	764.1.1={
+		add_spouse=191963
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191962 = {
+	name="Lothana"	#Fictional
+	dynasty=1044393 # Saindhava
+	religion="hindu"
+	culture="panjabi"
+	father=191961
+	mother=191963
+	trait="kshatriya"
+	trait="shaktist_hindu"	#random
+	765.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+
+191963 = {
+	name="Surgandha"	#Fictional
+	female=yes
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaktist_hindu"	#random
+	745.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191964 = {
+	name="Kotadevi"	#Fictional
+	dynasty=1044393 # Saindhava
+	female=yes
+	religion="hindu"
+	culture="panjabi"
+	father=191961
+	mother=191963
+	trait="kshatriya"
+	trait="shaktist_hindu"	#random
+	767.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191965 = {
+	name="Sangiya"	#Fictional
+	dynasty=1044394 #Takkavishaya
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	720.1.1={
+		birth=yes
+	}
+	749.1.1={
+		add_spouse=191967
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191966 = {
+	name="Lava"	#Fictional
+	dynasty=1044394 #Takkavishaya
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191965
+	mother=191967
+	750.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+
+191967 = {
+	name="Khivi"	#Fictional
+	female=yes
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	730.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191968 = {
+	name="Tripta"	#Fictional
+	dynasty=1044394 #Takkavishaya
+	female=yes
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191965
+	mother=191967
+	755.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191969 = {
+	name="Govinda"	#Fictional
+	dynasty=1044395
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	740.1.1={
+		birth=yes
+	}
+	765.1.1={
+		add_spouse = 191970
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191970 = {
+	name="Sahaja"	#Fictional
+	female=yes
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	745.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191971 = {
+	name="Zain"
+	dynasty=1044396 #Gakkhar
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	950.1.1={
+		birth=yes
+	}
+	1005.1.1={
+		death=yes
+	}
+}
+
+191972 = {
+	name="Kai Gohar"
+	dynasty=1044396 #Gakkhar
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191971
+	980.1.1={
+		birth=yes
+	}
+	1031.1.1={
+		death=yes
+	}
+}
+
+191973 = {
+	name="Bag"
+	dynasty=1044396 #Gakkhar
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191972
+	1010.1.1={
+		birth=yes
+	}
+	1065.1.1={
+		death=yes
+	}
+}
+
+191974 = {
+	name="Mahpal"
+	dynasty=1044396 #Gakkhar
+	religion="hindu"
+	culture="panjabi"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191973
+	1030.1.1={
+		birth=yes
+	}
+	1101.1.1={
+		death=yes
+	}
+}
+
+191975 = {
+	name="Mu'azzam"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191974
+	1050.1.1={
+		birth=yes
+	}
+	1135.1.1={
+		death=yes
+	}
+}
+
+191987 = {
+	name="Sundari"	#Fictional
+	dynasty=1044396 #Gakkhar
+	female=yes
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191974
+	1052.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+
+191976 = {
+	name="Asi"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191975
+	1080.1.1={
+		birth=yes
+	}
+	1152.1.1={
+		death=yes
+	}
+}
+
+191977 = {
+	name="Ragar"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191976
+	1110.1.1={
+		birth=yes
+	}
+	1186.1.1={
+		death=yes
+	}
+}
+
+191978 = {
+	name="Sipihr"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191977
+	1130.1.1={
+		birth=yes
+	}
+	1199.1.1={
+		death=yes
+	}
+}
+
+191979 = {
+	name="Surkah"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191978
+	1160.1.1={
+		birth=yes
+	}
+	1206.1.1={
+		death=yes
+	}
+}
+
+191980 = {
+	name="Fidai"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191979
+	1180.1.1={
+		birth=yes
+	}
+	1220.1.1={
+		death=yes
+	}
+}
+
+191981 = {
+	name="Mang"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191980
+	1200.1.1={
+		birth=yes
+	}
+	1267.1.1={
+		death=yes
+	}
+}
+
+191982 = {
+	name="Lahar"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191981
+	1250.1.1={
+		birth=yes
+	}
+	1330.1.1={
+		death=yes
+	}
+}
+
+191983 = {
+	name="Lakhan"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191982
+	1270.1.1={
+		birth=yes
+	}
+	1341.1.1={
+		death=yes
+	}
+}
+
+191984 = {
+	name="Haydar"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191983
+	1290.1.1={
+		birth=yes
+	}
+	1365.1.1={
+		death=yes
+	}
+}
+
+191985 = {
+	name="Kad"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191984
+	1310.1.1={
+		birth=yes
+	}
+	1380.1.1={
+		death=yes
+	}
+}
+
+191986 = {
+	name="Saiha"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191985
+	1330.1.1={
+		birth=yes
+	}
+	1399.1.1={
+		death=yes
+	}
+}
+194284 = {
+	name="Ajit"
+	dynasty=1044396 #Gakkhar
+	religion="sunni"
+	culture="panjabi"
+	trait="kshatriya"
+	father=191980
+	1202.1.1={
+		birth=yes
+	}
+	1269.1.1={
+		death=yes
+	}
+}

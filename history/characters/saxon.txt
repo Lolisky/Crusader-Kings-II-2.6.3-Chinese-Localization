@@ -1,0 +1,6808 @@
+98 = {
+	name="爱德加"
+	# AKA: Eadgar 'the Peaceable'
+	dynasty=100072
+	martial=2
+	diplomacy=10
+	intrigue=10
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="honest"
+	trait="grey_eminence"
+	father=102
+	943.8.7={
+		birth=yes
+	}
+	975.7.8={
+		death=yes
+	}
+}
+
+99 = {
+	name="爱德华"
+	# AKA: Eadweard 'se Martyr'
+	dynasty=100072
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="saxon"
+	trait="martial_cleric"
+	father=98
+	962.1.1={
+		birth=yes
+	}
+	978.1.1 = {
+		give_nickname=nick_the_martyr
+	}
+	978.3.18={
+		death=yes
+	}
+}
+
+100 = {
+	name="爱德华"
+	# AKA: Eadweard 'se Ieldra'
+	dynasty=100072
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="honest"
+	trait="tough_soldier"
+	father = 7627
+	874.1.1={
+		birth="874.1.1"
+	}
+	920.1.1 = {
+		give_nickname=nick_the_old
+	}
+	924.7.17={
+		death="924.7.17"
+	}
+}
+
+101 = {
+	name="爱迪西娅"
+	female = yes
+	dynasty=100072
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="envious"
+	trait="fortune_builder"
+	father=100
+	910.1.1={
+		birth="910.1.1"
+	}
+	946.1.26={
+		death="946.1.26"
+	}
+}
+
+102 = {
+	name="爱德蒙"
+	# AKA: Eadmund 'the Magnificent'
+	dynasty=100072
+	martial=9
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="saxon"
+	trait="honest"
+	trait="tough_soldier"
+	father=100
+	922.1.1={
+		birth="922.1.1"
+	}
+	946.1.1 = {
+		give_nickname=nick_the_magnificent
+	}
+	946.5.26={
+		death="946.5.26"
+	}
+}
+
+105 = {
+	name="阿尔夫吉芙"
+	# AKA: Aelflaed
+	female = yes
+	dynasty=100052
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="flamboyant_schemer"
+	963.1.1={
+		birth=yes
+	}
+	1002.1.9={
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+
+106 = {
+	name="埃塞尔雷德"
+	# AKA: Aethelraed 'Unraed'
+	dynasty=100072
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="skilled_tactician"
+	father=98
+	968.1.1={
+		birth="968.1.1"
+	}
+	985.1.1={
+		add_spouse=105
+	}
+	1002.3.1={
+		add_spouse=259 #Emma de Normandie
+	}
+	1016.1.1 = {
+		give_nickname=nick_the_unready
+	}
+	1016.4.23={
+		death="1016.4.23"
+	}
+}
+
+107 = {
+	name="埃尔德吉丝"
+	female=yes
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="amateurish_plotter"
+	969.1.2={
+		birth="969.1.2"
+	}
+	1016.1.11={
+		death="1016.1.11"
+	}
+}
+
+108 = {
+	name="爱德蒙"
+	# AKA: Eadmund 'Ironside'
+	dynasty=100072
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="saxon"
+	trait="amateurish_plotter"
+	father=106
+	mother=105
+	988.1.1={
+		birth="988.1.1"
+	}
+	1016.1.1 = {
+		give_nickname=nick_the_ironside
+	}
+	1016.11.30={
+		death="1016.11.30"
+	}
+}
+
+110 = {
+	name="爱德华"
+	# AKA: Eadward 'the Exile'
+	dynasty=100072
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="saxon"
+	trait="slothful"
+	trait="charitable"
+	trait="skilled_tactician"
+	father=108
+	1016.1.1={
+		birth="1016.1.1"
+	}
+	1036.1.2={
+		add_spouse = 41101
+	}
+	1057.8.30={
+		death="1057.8.30"
+	}
+}
+
+111 = {
+	name="戈德温"
+	dynasty=756
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="saxon"
+	trait="thrifty_clerk"
+	father=122
+	mother=131
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1066.10.14={
+		employer=922
+	}
+
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+112 = {
+	name="爱德加" # the Aetheling
+	dynasty=100072
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="tough_soldier"
+	trait="brave"
+	trait="diligent"
+	trait="gregarious"
+	trait="kind"
+	father=110
+	mother=41101
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1057.8.30={
+		add_claim = k_england
+	}
+	1066.1.5 = {
+		employer=122
+		trait="hunter"
+	}
+	1066.10.14={
+		employer=5644
+	}
+	1068.1.1={
+		employer=984
+	}
+	1098.1.1={
+		employer=1742 #Alexios Komnenos
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+
+113 = {
+	name="玛格丽特"
+	female = yes
+	dynasty=100072
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="saxon"
+	trait="cynical"
+	trait="martial_cleric"
+	father=110
+	mother=41101
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1057.8.30={
+		add_claim = k_england
+	}
+	1066.1.5 = {
+		employer=122
+	}
+	1066.10.14={
+		employer=5644
+	}
+	1068.1.1={
+		employer=984
+	}
+
+	1093.11.16={
+		death="1093.11.16"
+	}
+}
+
+114 = {
+	name="爱德华"
+	# AKA: Eadweard 'se Andettere'
+	dynasty=100072
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="saxon"
+	trait="charitable"
+	trait="chaste"
+	trait="charismatic_negotiator"
+	father=106
+	mother=259
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1016.1.1 = {
+		give_nickname=nick_the_confessor
+	}
+	1046.1.1 = {
+		add_spouse = 121
+	}
+	1066.1.5={
+		death="1066.1.5"
+	}
+}
+
+115 = {
+	name="爱德蒙"
+	dynasty=756
+	martial=6
+	diplomacy=3
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="saxon"
+	trait="tough_soldier"
+	father=122
+	mother=131
+	1049.12.10={
+		birth="1049.12.10"
+	}
+	1066.10.14={
+		employer=922
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+
+116 = {
+	name="玛格努斯"
+	dynasty=756
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="saxon"
+	trait="tough_soldier"
+	father=122
+	mother=131
+	1051.6.10={
+		birth="1051.6.10"
+	}
+	1066.10.14={
+		employer=922
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+117 = {
+	name="克里斯蒂娜"
+	female = yes
+	dynasty=100072
+	martial=3
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="wroth"
+	trait="chaste"
+	trait="martial_cleric"
+	father=110
+	mother=41101
+	1047.5.8={
+		birth="1047.5.8"
+	}
+	1057.8.30={
+		add_claim = k_england
+	}
+	1066.1.5 = {
+		employer=122
+	}
+	1066.10.14={
+		employer=5644
+	}
+	1068.1.1={
+		employer=984
+	}
+
+	1099.11.19={
+		death="1099.11.19"
+	}
+}
+
+120 = {
+	name="戈德温"
+	dynasty=756
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="fortune_builder"
+	993.1.1={
+		birth="993.1.1"
+	}
+	1015.1.2={
+		add_spouse = 101534
+	}
+	1053.4.15={
+		death="1053.4.15"
+	}
+}
+
+121 = {
+	name="埃迪丝"
+	female=yes
+	dynasty=756
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="wroth"
+	trait="martial_cleric"
+	father=120
+	mother=101534
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1075.12.18={
+		death="1075.12.18"
+	}
+}
+
+122 = {
+	name=哈罗德 # Godwineson, king of England
+	dynasty=756
+	dna=medjejoencc
+	properties=ae00e0
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="saxon"
+	trait="arbitrary"
+	trait="proud"
+	trait="skilled_tactician"
+	father=120
+	mother=101534
+	1022.1.1={
+		birth=yes
+	}
+	1048.1.1={
+		add_spouse=131 #Ealdgyth 'Swanneck'
+	}
+	1064.1.1={
+		remove_spouse = 131
+	}
+	1065.6.6={
+		add_spouse=123 #Ealdgyth of Mercia
+	}
+	1066.9.14 = {
+		raise_levies = {
+			location = 62 # Leicester
+			force_mult = 0.66
+		}
+		effect = {
+			spawn_unit = {
+				province = 62 # Leicester
+				owner = ROOT
+				leader = ROOT
+				troops = {
+					heavy_infantry = { 100 100 }
+				}
+				attrition = 1.0
+			}
+			spawn_unit = {
+				province = 62 # Leicester
+				owner = ROOT
+				leader = 130 # Leofwine
+				troops = {
+					heavy_infantry = { 50 50 }
+				}
+				attrition = 1.0
+			}
+			spawn_unit = {
+				province = 62 # Leicester
+				owner = ROOT
+				leader = 132 # Gyrth
+				troops = {
+					heavy_infantry = { 50 50 }
+				}
+				attrition = 1.0
+			}
+		}
+	}
+	1066.10.14={
+	
+		raise_levies = {
+			dismiss = yes
+			location = 62 # Leicester
+			force_mult = 1.0
+		}
+
+		death = {
+			death_reason = death_battle
+			killer = 140
+		}
+	}
+}
+
+123 = {
+	name="埃尔德吉丝" # of Mercia
+	# AKA: Ealdgyth
+	female=yes
+	dynasty=560
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="saxon"
+	trait="proud"
+	trait="gluttonous"
+	trait="amateurish_plotter"
+	father=5642
+	mother=161280
+	1036.1.1={
+		birth="1036.1.1"
+	}
+	1066.12.14={
+		death="1066.12.14"
+	}
+}
+
+124 = {
+	name="托斯蒂格"
+	dynasty=756
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="lustful"
+	trait="greedy"
+	trait="flamboyant_schemer"
+	father=120
+	mother=101534
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1050.1.1={
+		add_spouse = 363
+	}
+	1066.1.1={
+		employer=102531
+		effect = {
+			give_job_title = job_marshal
+		}
+	}
+	1066.1.1={
+		add_claim = c_york
+		add_claim = c_westmorland
+		add_claim = c_lincoln
+		add_claim = d_northumberland
+		add_claim = d_york
+	}
+	1066.9.25={
+		death="1066.9.25"
+	}
+}
+
+125 = {
+	name="斯古利"
+	dynasty=756
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="saxon"
+	trait="patient"
+	trait="thrifty_clerk"
+	father=124
+	mother=363
+	1052.1.2={
+		birth="1052.1.2"
+	}
+	1066.1.1={
+		employer=102531
+	}
+	1102.1.2={
+		death="1102.1.2"
+	}
+}
+
+126 = {
+	name="凯蒂尔"
+	dynasty=756
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="hunchback"
+	trait="thrifty_clerk"
+	father=124
+	mother=363
+	1054.1.2={
+		birth="1054.1.2"
+	}
+	1066.1.1={
+		employer=102531
+	}
+	1104.1.2={
+		death="1104.1.2"
+	}
+}
+
+127 = {
+	name="吉萨"
+	female=yes
+	dynasty=756
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="saxon"
+	trait="martial_cleric"
+	father=122
+	mother=131
+	1053.1.2={
+		birth="1053.1.2"
+	}
+	1098.1.2={
+		death="1098.1.2"
+	}
+}
+
+128 = {
+	name="斯温"
+	dynasty=756
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="saxon"
+	trait="arbitrary"
+	trait="tough_soldier"
+	father=120
+	mother=101534
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1052.9.29={
+		death="1052.9.29"
+	}
+}
+
+129 = {
+	name="贡希尔德"
+	female=yes
+	dynasty=756
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="saxon"
+	trait="martial_cleric"
+	father=122
+	mother=131
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1097.1.2={
+		death="1097.1.2"
+	}
+}
+
+130 = {
+	name="利奥夫文"
+	dynasty=756
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="thrifty_clerk"
+	father=120
+	mother=101534
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1066.10.14={
+		death="1066.10.14"
+	}
+}
+
+131 = {
+	name="埃尔德吉丝" # 'the Fair', 'Swanneck'
+	# AKA: Ealdgyth 'Swanneck'
+	female=yes
+	dynasty=363
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="fair"
+	trait="fortune_builder"
+	1025.6.6={
+		birth="1025.6.6"
+	}
+	1086.1.2={
+		death="1086.1.2"
+	}
+}
+
+132 = {
+	name="吉尔斯"
+	dynasty=756
+	martial=9
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="saxon"
+	trait="patient"
+	trait="brave"
+	trait="honest"
+	trait="skilled_tactician"
+	father=120
+	mother=101534
+	1032.1.1={
+		birth="1032.1.1"
+	}
+	1050.1.1={
+		trait="hunter"
+	}
+	1066.10.14={
+		death="1066.10.14"
+	}
+}
+
+135 = {
+	name="埃尔德吉丝"
+	# AKA: Ealdgyth
+	female=yes
+	dynasty=753
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="saxon"
+	trait="cynical"
+	trait="fortune_builder"
+	996.1.2={
+		birth="996.1.2"
+	}
+	1015.1.7={
+		death="1015.1.7"
+	}
+}
+
+186 = {
+	name="沃蒂夫"
+	dynasty=744
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="saxon"
+	trait="brave"
+	trait="flamboyant_schemer"
+	955.1.2={
+		birth="955.1.2"
+	}
+	1001.1.2={
+		death="1001.1.2"
+	}
+}
+
+188 = {
+	name="乌特雷德"
+	# AKA: Uhtred 'the Bold'
+	dynasty=744
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="flamboyant_schemer"
+	father=186
+	974.1.1={
+		birth="974.1.1"
+	}
+	990.1.1={
+		add_spouse=161263
+	}
+	1010.1.1={
+		add_spouse=161261
+	}
+	1016.1.1={
+		death="1016.1.1"
+	}
+}
+
+189 = {
+	name="埃尔德吉丝"
+	female=yes
+	dynasty=744
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="saxon"
+	trait="scholarly_theologian"
+	father=188
+	mother=161261
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+190 = {
+	name="埃多夫"
+	dynasty=744
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="saxon"
+	trait="honest"
+	trait="just"
+	trait="zealous"
+	trait="amateurish_plotter"
+	father=188
+	mother=161263
+	992.1.1={
+		birth="992.1.1"
+	}
+	1041.1.1={
+		death="1041.1.1"
+	}
+}
+
+191 = {
+	name="奥索夫"
+	dynasty=744
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="saxon"
+	trait="temperate"
+	trait="wroth"
+	trait="amateurish_plotter"
+	father=190
+	1032.1.1={
+		birth="1032.1.1"
+	}
+	1069.1.1={
+		death="1069.1.1"
+	}
+}
+
+192 = {
+	name="爱德雷德"
+	dynasty=744
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="underhanded_rogue"
+	father=188
+	mother=161263
+	991.1.1={
+		birth="991.1.1"
+	}
+	1039.1.1={
+		death="1039.1.1"
+	}
+}
+
+193 = {
+	name="埃尔芙蕾德"
+	# AKA: aelflaed
+	female = yes
+	dynasty=744
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="charismatic_negotiator"
+	father=192
+	1023.1.1={
+		birth="1023.1.1"
+	}
+	1055.1.1={
+		death="1055.1.1"
+	}
+}
+
+196 = {
+	name="斯沃德"
+	# AKA: Siward 'Grossus'
+	dynasty=745
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="brave"
+	trait="tough_soldier"
+	1010.1.2={
+		birth="1010.1.2"
+	}
+	1046.1.2={
+		add_spouse=193
+	}
+	1055.1.2={
+		death="1055.1.2"
+	}
+}
+
+198 = {
+	name="沃提奥夫"
+	dynasty=745
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="deceitful"
+	trait="underhanded_rogue"
+	trait="wroth"
+	father=196
+	mother=193
+	1050.1.2={
+		birth="1050.1.2"
+	}
+	1070.1.1={
+		add_spouse = 317
+	}
+	1076.1.1={
+		death="1076.1.1"
+	}
+}
+
+199 = {
+	name="毛德"
+	female = yes
+	dynasty=745
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="saxon"
+	trait="zealous"
+	trait="martial_cleric"
+	father= 198
+	mother= 317
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1130.4.23={
+		death="1130.4.23"
+	}
+}
+
+131601 = {
+	name="埃德万"
+	# AKA: aethelwine
+	dynasty=100056
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="humble"
+	trait="scholarly_theologian"
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1072.1.1={
+		death="1072.1.1"
+	}
+}
+
+41002 = {
+	name="哈罗德"
+	dynasty=756
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="twin"
+	father=122
+	mother=123
+	1066.11.8={
+		birth="1066.11.8"
+		employer=102532
+	}
+	1069.4.28={
+		employer=102534
+	}
+	1093.1.1={
+		employer=102577
+	}
+	1094.6.6={
+		employer=202511
+	}
+
+	1112.4.16={
+		death="1112.4.16"
+	}
+}
+
+41003 = {
+	name="伍尔夫"
+	dynasty=756
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="twin"
+	father=122
+	mother=123
+	1066.11.8={
+		birth="1066.11.8"
+		employer=140
+	}
+	1087.9.9={
+		employer=142
+	}
+
+	1103.6.3={
+		death="1103.6.3"
+	}
+}
+
+511 = {
+	name="埃尔吉娃"
+	female = yes
+	dynasty=100072
+	martial=3
+	diplomacy=5
+	intrigue=5
+	stewardship=9
+	religion="catholic"
+	culture="saxon"
+	trait="scholarly_theologian"
+	father=100
+	922.1.2={
+		birth="922.1.2"
+	}
+	976.1.2={
+		death="976.1.2"
+	}
+}
+
+5604 = {
+	name="斯蒂干德"
+	dynasty=565
+	martial=4
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	995.1.1={
+		birth="995.1.1"
+	}
+	1072.1.1={
+		death="1072.1.1"
+	}
+}
+
+5624 = {
+	name="埃德万"
+	# AKA: aethelwine
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="saxon"
+	trait="arbitrary"
+	trait="hunchback"
+	trait="scholarly_theologian"
+	1016.1.1={
+		birth="1016.1.1"
+	}
+	1066.1.1={
+		death="1066.1.1"
+	}
+}
+
+5640 = {
+	name="李奥弗里克"
+	dynasty=560
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="saxon"
+	trait="envious"
+	trait="humble"
+	trait="cynical"
+	trait="skilled_tactician"
+	968.1.1={
+		birth="968.1.1"
+	}
+	1018.1.1={
+		add_spouse=161279
+	}
+	
+	1057.10.30={
+		death="1057.10.30"
+	}
+}
+
+5642 = {
+	name="阿夫加"
+	# AKA: aelfgar
+	dynasty=560
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="saxon"
+	trait="skilled_tactician"
+	father=5640
+	mother=161279
+	1019.1.1={
+		birth="1019.1.1"
+	}
+	1036.1.1={
+		add_spouse=161280
+	}
+	1062.1.1={
+		death="1062.1.1"
+	}
+}
+
+
+5644 = {
+	name="埃德温"
+	dynasty=560
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="saxon"
+	trait="greedy"
+	trait="brave"
+	trait="slothful"
+	trait="charismatic_negotiator"
+	trait="ambitious"
+	father=5642
+	mother=161280
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1066.1.1={
+		trait="hunter"
+	}
+	1071.1.1={
+		death="1071.1.1"
+	}
+}
+
+#nothing can be found of him
+#5646 = {
+#	name="艾斯特蒙"
+#	dynasty=560
+#	martial=8
+#	diplomacy=5
+#	intrigue=8
+#	stewardship=4
+#	religion="catholic"
+#	culture="saxon"
+#	trait="craven"
+#	trait="tough_soldier"
+#	father=5644
+#	1060.1.1={
+#		birth="1060.1.1"
+#	}
+#	1100.1.1={
+#		death="1100.1.1"
+#	}
+#}
+
+5660 = {
+	name="莫卡尔"
+	dynasty=560
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="saxon"
+	trait="arbitrary"
+	trait="brave"
+	trait="flamboyant_schemer"
+	trait="ambitious"
+	father=5642
+	mother=161280
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1066.1.1={
+		trait="hunter"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+5684 = {
+	name="爱德雷德"
+	dynasty=100073
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="lustful"
+	trait="temperate"
+	trait="fortune_builder"
+	1002.1.2={
+		birth="1002.1.2"
+	}
+	1052.1.2={
+		death="1052.1.2"
+	}
+}
+
+6890 = {
+	name=埃克格温 # Fantasy
+	female=yes
+	religion="catholic"
+	culture=saxon
+	828.1.1 = {
+		birth=yes
+	}
+	894.1.1 = {
+		death=yes
+	}
+}
+
+6891 = {
+	name=布尔格弗莱德 # Fantasy
+	female=yes
+	religion="catholic"
+	culture=saxon
+	845.1.1 = {
+		birth=yes
+	}
+	899.1.1 = {
+		death=yes
+	}
+}
+
+7387 = {
+	name="海克丝提尔达"
+	female = yes 
+	dynasty=745
+	religion="catholic"
+	culture="saxon"
+	father= 7396
+	mother= 7388
+	1129.1.1={
+		birth="1129.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+7396 = {
+	name="乌特雷德"
+	dynasty=745
+	religion="catholic"
+	culture="saxon"
+	father= 198
+	mother= 317
+	1073.1.1={
+		birth="1073.1.1"
+	}
+	1085.1.1={
+		add_spouse = 7388
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+7627 = {
+	name=阿尔弗雷德
+	dynasty=100072
+	martial=8
+	diplomacy=9
+	intrigue=7
+	stewardship=8
+	learning = 6
+	religion=catholic
+	culture=saxon
+	trait=honest
+	trait=just
+	trait=gregarious
+	trait=diligent
+	trait=quick
+	trait=brilliant_strategist
+	father=33355
+	849.1.1={
+		birth=yes
+	}
+	890.1.1 = {
+		give_nickname=nick_the_great
+	}
+	899.10.26={
+		death=yes
+	}
+}
+
+7629 = {
+	name="埃尔芙丝莉丝"
+	female = yes
+	dynasty=100072
+	martial=3
+	diplomacy=5
+	intrigue=5
+	stewardship=9
+	religion="catholic"
+	culture="saxon"
+	trait="scholarly_theologian"
+	father=7627
+	870.1.1={
+		birth="870.1.1"
+	}
+	929.6.7={
+		death="929.6.7"
+	}
+}
+
+82001 = {
+	name="埃德乌夫"
+	# AKA: Eadulf 'Rus'
+	dynasty=744
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="saxon"
+	father=82002
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1087.1.2={
+		death="1087.1.2"
+	}
+}
+
+82002 = {
+	name="格斯帕特里奇"
+	dynasty=744
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="saxon"
+	father=188
+	mother=161263
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+82040 = {
+	name="伍尔夫斯坦"
+	martial=4
+	diplomacy=9
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="charitable"
+	trait="scholarly_theologian"
+	1008.1.2={
+		birth="1008.1.2"
+	}
+	1095.1.20={
+		death="1095.1.20"
+	}
+}
+
+82057 = {
+	name="托罗德" 
+	dynasty=9112
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	1028.1.1={
+		birth="1028.1.1"
+	}
+	1084.1.1={
+		death="1084.1.1"
+	}
+}
+
+82058 = {
+	name="露西"
+	# wife of Ranulf le Meschin earl of Chester
+	female = yes
+	dynasty=9112
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=9
+	religion="catholic"
+	culture="saxon"
+	father=82057
+	1065.1.2={
+		birth="1065.1.2"
+	}
+	1138.12.1={
+		death="1138.12.1"
+	}
+}
+
+85013 = {
+	name="伍尔夫诺斯"
+	dynasty=756
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="amateurish_plotter"
+	father=120
+	mother=101534
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1094.2.1={
+		death="1094.2.1"
+	}
+}
+
+90027 = {
+	name="埃德里克"
+	# AKA: Eadric Wilde
+	dynasty=20022
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	trait="wroth"
+	trait="brave"
+	trait="tough_soldier"
+	trait="ambitious"
+	father=161278
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1088.1.1={
+		death="1088.1.1"
+	}
+}
+
+90028 = {
+	name="赫里沃德"
+	dynasty=20049
+	martial=11
+	diplomacy=9
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="saxon"
+	trait="skilled_tactician"
+	trait="deceitful"
+	trait="proud"
+	trait="ambitious"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1066.1.2={
+		add_spouse=90029
+	}
+	1094.1.2={
+		death="1094.1.2"
+	}
+}
+
+90029 = {
+	name="埃迪丝"
+	female = yes
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="saxon"
+	trait="thrifty_clerk"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1096.1.2={
+		death="1096.1.2"
+	}
+}
+
+90124 = {
+	name="埃德吉芙"
+	female = yes
+	dynasty=100072
+	martial=3
+	diplomacy=5
+	intrigue=5
+	stewardship=9
+	religion="catholic"
+	culture="saxon"
+	father=100
+	902.1.2={
+		birth="902.1.2"
+	}
+	956.1.2={
+		death="956.1.2"
+	}
+}
+
+33350 = {
+	name="埃塞尔斯坦"
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father = 100
+	893.1.1={
+		birth="893.1.1"
+	}
+	939.10.27={
+		death="939.10.27"
+	}
+}
+
+33351 = {
+	name="爱德雷德"
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father = 100
+	923.1.1={
+		birth="923.1.1"
+	}
+	955.11.23={
+		death="955.11.23"
+	}
+}
+
+33352 = {
+	name="爱德威"
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father = 102
+	941.1.1={
+		birth="941.1.1"
+	}
+	959.1.1 = {
+	give_nickname=nick_the_fair
+	}
+	959.10.1={
+		death="959.10.1"
+	}
+}
+
+33354 = {
+	name="埃格伯特"
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205189
+	769.1.1={
+		birth="769.1.1"
+	}
+	839.1.1={
+		death="839.1.1"
+		dynasty=100072
+	}
+}
+
+33355 = {
+	name="埃塞尔沃夫"
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father=33354
+	795.1.1={
+		birth="795.1.1"
+	}
+	858.1.13={
+		death="858.1.13"
+	}
+}
+
+33356 = {
+	name="埃塞尔巴德"
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father=33355
+	834.1.1={
+		birth="834.1.1"
+	}
+	860.12.20={
+		death="860.12.20"
+	}
+}
+
+33357 = {
+	name="埃塞尔伯特"
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father=33355
+	836.1.1={
+		birth="836.1.1"
+	}
+	865.9.1={
+		death="865.9.1"
+	}
+}
+
+33358 = {
+	name="埃塞尔雷德"
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father=33355
+	840.1.1={
+		birth="840.1.1"
+	}
+	871.1.1={
+		death="871.1.1"
+	}
+}
+
+129058={
+	name="萨姆森"
+	religion="catholic"
+	culture="saxon"
+	trait="lustful"
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1112.5.5={
+		death="1112.5.5"
+	}
+}
+
+151014 = {
+	name="阿诺德"
+	religion="catholic"
+	culture="saxon"
+	trait="trusting"
+	trait="detached_priest"
+	1058.1.1 = {
+		birth="1058.1.1" 
+	}
+	1124.5.24 = {
+		death="1124.5.24"
+	}
+}
+
+129059 = {
+	name="提乌夫"
+	religion="catholic"
+	culture="saxon"
+	trait="greedy"
+	1056.1.1 = {
+		birth="1056.1.1"
+	}
+	1100.1.1={
+		culture="english"
+	}
+	1123.10.20 = {
+		death="1123.10.20"
+	}
+}
+
+32703  = {
+	name="爱德蒙"
+	religion="catholic"
+	culture="saxon"
+	trait="martial_cleric"
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1100.1.1={
+		culture="english"
+	}
+	1125.1.1 = {
+		death="1125.1.1"
+	}
+}
+
+161260 = {
+	name="埃尔夫万"
+	dynasty=490
+	religion="catholic"
+	culture="saxon"
+	trait="legit_bastard"
+	trait="chaste"
+	trait="detached_priest"
+	father=101513
+	1036.12.6={
+		birth="1036.12.6"
+	}
+	1040.3.17={
+		add_claim = k_england
+	}
+	1060.1.1 = {
+		employer=336
+	}
+	1083.7.4={
+		death="1083.7.4"
+	}
+}
+
+161261 = {
+	name="阿尔夫吉芙"
+	female=yes
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father=106
+	mother=105
+	990.1.1={
+		birth="990.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+161262 = {
+	name="戈德吉芙" # aka Goda
+	female=yes
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father=106
+	mother=259
+	1004.1.1={
+		birth="1004.1.1"
+	}
+	1047.1.1={
+		death="1047.1.1"
+	}
+}
+
+161263 = {
+	name="埃克芙里达"
+	female=yes
+	religion="catholic"
+	culture="saxon"
+	972.1.1={
+		birth="972.1.1"
+	}
+	1005.1.1={
+		death="1005.1.1"
+	}
+}
+
+161264 = {
+	name="阿尔夫吉芙" #real name unknown
+	female=yes
+	dynasty=744
+	religion="catholic"
+	culture="saxon"
+	father=188
+	mother=161261
+	1016.1.1={
+		birth="1016.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+161265 = {
+	name="爱德加" 
+	religion="catholic"
+	culture="saxon"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1035.1.1={
+		add_spouse=161264
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+161266 = {
+	name="斯沃德"
+	dynasty=744 
+	religion="catholic"
+	culture="saxon"
+	father=161265
+	mother=161264
+	1036.1.1={
+		birth="1036.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+161267 = {
+	name="爱德雷德"
+	dynasty=744 
+	religion="catholic"
+	culture="saxon"
+	father=161265
+	mother=161264
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+161268 = {
+	name="哈尔登"
+	dynasty=744
+	religion="catholic"
+	culture="saxon"
+	father=190
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+
+161269 = {
+	name="埃尔德吉丝"
+	female = yes
+	dynasty=744
+	religion="catholic"
+	culture="saxon"
+	father=192
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+161270 = {
+	name="里格乌夫" 
+	dynasty=562
+	religion="catholic"
+	culture="saxon"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1048.1.1={
+		add_spouse=161269
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+161271 = {
+	name="乌特雷德"
+	dynasty=562
+	religion="catholic"
+	culture="saxon"
+	father=161270
+	mother=161269
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+161272 = {
+	name="莫卡尔" 
+	dynasty=562
+	religion="catholic"
+	culture="saxon"
+	father=161270
+	mother=161269
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+161273 = {
+	name="里格乌夫" 
+	dynasty=562
+	religion="catholic"
+	culture="saxon"
+	father=161271
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+161274 = {
+	name="吉萨" 
+	female=yes
+	dynasty=756
+	religion="catholic"
+	culture="saxon"
+	father=120
+	mother=101534
+	1032.1.1={
+		birth="1032.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+161275 = {
+	name="阿德里克" 
+	dynasty=20022
+	religion="catholic"
+	culture="saxon"
+	960.1.1={
+		birth="960.1.1"
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+
+161276 = {
+	name="埃德里克" 
+	#Eadric Streona
+	dynasty=20022
+	religion="catholic"
+	culture="saxon"
+	father=161275
+	980.1.1={
+		birth="980.1.1"
+	}
+	1009.1.1={
+		add_spouse=161277
+	}
+	1017.12.25={
+		death="1017.12.25"
+	}
+}
+
+161277 = {
+	name="埃德吉丝" 
+	female=yes
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father=106
+	mother=105
+	992.1.1={
+		birth="992.1.1"
+	}
+	
+	1021.11.11={
+		death="1021.11.11"
+	}
+}
+
+161278 = {
+	name="阿尔弗里克" 
+	dynasty=20022
+	religion="catholic"
+	culture="saxon"
+	father=161275
+	990.1.1={
+		birth="990.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+161279 = {
+	name="戈德吉芙"
+	#AKA Lady Godiva
+	female=yes
+	religion="catholic"
+	culture="saxon"
+	1002.1.1={
+		birth="1002.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+161280 = {
+	name="埃尔吉芙"
+	female=yes
+	religion="catholic"
+	culture="saxon"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+40420 = {
+	name="哈罗德"
+	dynasty=380
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=3
+	religion="catholic"
+	culture="saxon"
+	father=40418
+	mother=161274
+	1052.1.1 = {
+		birth="1052.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+161451 = {
+	name="阿德里萨"
+	female=yes
+	dynasty=745
+	religion="catholic"
+	culture="saxon"
+	father= 198
+	mother= 317
+	1076.1.1={
+		birth="1076.1.1"
+	}
+	
+	1128.1.1={
+		death="1128.1.1"
+	}
+}
+
+167002 = {
+	name="哈坎"
+	dynasty=756
+	religion="catholic"
+	culture="saxon"
+	trait="legit_bastard"
+	father=128
+	1047.1.1 = {
+		birth="1047.1.1"
+	}
+	1066.1.1={
+		add_claim = d_lancaster
+	}
+	1091.1.1 = {
+		death="1091.1.1"
+	}
+}
+
+167003 = {
+	name="阿尔夫加"
+	dynasty=756
+	religion="catholic"
+	culture="saxon"
+	trait="chaste"
+	trait="detached_priest"
+	father=120
+	mother=101534
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1066.1.5 = {
+		employer=91173 # Bishop of Rheims
+	}
+	1078.1.1 = {
+		death="1078.1.1"
+	}
+}
+
+167004 = {
+	name="阿尔夫吉芙"
+	female=yes
+	dynasty=756
+	religion="catholic"
+	culture="saxon"
+	father=120
+	mother=101534
+	1043.1.1 = {
+		birth="1043.1.1"
+	}
+	1065.11.1 = {
+		death="1065.11.1"
+	}
+}
+
+163064 = {
+	name="爱德蒙" # of East Anglia
+	dynasty=626
+	religion="catholic"
+	culture="saxon"
+	father=205021
+	840.1.1 = {
+		birth="840.1.1"
+	}
+	
+	866.11.2={
+		raise_levies = {
+			location=70 # Norfolk
+			force_mult=2.0
+		}
+	}
+	
+	869.11.20 = {
+		death="869.11.20"
+	}
+}
+163102 = {
+	name="布尔格雷德"
+	dynasty=813
+	religion="catholic"
+	culture="saxon"
+	father=205100
+	830.1.1 = {
+		birth=yes
+	}
+	855.1.1 = {
+		add_spouse=168594
+	}
+	874.1.1 = {
+		death=yes
+	}
+}
+
+163103 = {
+	name="埃拉"
+	dynasty=814
+	religion="catholic"
+	culture="saxon"
+	father=205252
+	martial=5
+	diplomacy=3
+	stewardship=3
+	intrigue=6
+	learning=5
+	trait=deceitful
+	trait=cruel
+	trait=arbitrary
+	trait=paranoid
+	trait=intricate_webweaver
+	
+	824.1.1 = {
+		birth=yes
+	}
+	
+	840.1.1 = {
+		add_spouse = 6890
+	}
+	
+	866.11.2={
+		raise_levies = {
+			location=52 # Northumberland
+			force_mult=2.0
+		}
+	}
+	
+	867.3.21 = {
+		death=yes
+	}
+}
+
+6861 = {
+	name="布莱雅"
+	female=yes
+	dynasty=814
+	religion="catholic"
+	culture=saxon
+	father = 163103
+	mother = 6890
+	841.1.1={
+		birth=yes
+	}
+	893.1.1={
+		death=yes
+	}
+}
+
+6875 = {
+	name="阿尔夫加"
+	dynasty=814
+	religion="catholic"
+	culture=saxon
+	father = 163103
+	mother = 6890
+	843.1.1={
+		birth=yes
+	}
+	866.1.1 = {
+		add_spouse = 6891
+	}
+	867.3.21={
+		death=yes
+	}
+}
+
+163120 = {
+	name="埃尔多夫" # Bishop of Durham/Lindisfarne
+	religion="catholic"
+	culture="saxon"
+	learning=5
+	trait=scholarly_theologian
+	
+	829.1.1 = {
+		birth="829.1.1"
+	}
+	900.1.1 = {
+		death="900.1.1"
+	}
+}
+
+163121 = {
+	name="奥斯万" # Earl of Lancaster (made up)
+	religion="catholic"
+	culture="saxon"
+	
+	830.1.1 = {
+		birth="830.1.1"
+	}
+	880.1.1 = {
+		death="880.1.1"
+	}
+}
+
+163122 = {
+	name="阿尔夫沃德" # Earl of Westmorland (made up)
+	religion="catholic"
+	culture="saxon"
+	
+	833.1.1 = {
+		birth="833.1.1"
+	}
+	880.1.1 = {
+		death="880.1.1"
+	}
+}
+
+163123 = {
+	name="萨克斯拉德" # Earl of Cumberland (made up)
+	religion="catholic"
+	culture="saxon"
+	
+	835.1.1 = {
+		birth="835.1.1"
+	}
+	885.1.1 = {
+		death="885.1.1"
+	}
+}
+159465 = {
+	name="阿尔弗雷德" #Alured
+	religion="catholic"
+	culture="saxon"
+	dynasty=100031 #of Cornwall
+	father=159464
+	970.1.1={
+		birth="970.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+159470 = {
+	name="戈德温"  #Godwyn
+	religion="catholic"
+	culture="saxon"
+	dynasty=100031 #of Cornwall
+	father=159465
+	1014.1.1={
+		birth="1014.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+159471 = {
+	name="赫里伯特" 
+	religion="catholic"
+	culture="saxon"
+	dynasty=100031
+	father=159470
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+168594 = {
+	name="埃德丝维丝"
+	female=yes
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father=33355
+	838.1.1={
+		birth=yes
+	}
+	888.1.1={
+		death=yes
+	}
+}
+180665 = {
+	name="迪乌斯狄迪特"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	600.1.1={
+		birth=yes
+	}
+	664.7.14={
+		death=yes
+	}
+}
+180667 = {
+	name="贝尔特沃德"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	650.1.1={
+		birth=yes
+	}
+	731.1.13={
+		death=yes
+	}
+}
+180668 = {
+	name="塔特万"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	670.1.1={
+		birth=yes
+	}
+	734.7.30={
+		death=yes
+	}
+}
+180669 = {
+	name="诺特海姆"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	675.1.1={
+		birth=yes
+	}
+	739.10.17={
+		death=yes
+	}
+}
+180670 = {
+	name="库特伯特"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	690.1.1={
+		birth=yes
+	}
+	760.10.26={
+		death=yes
+	}
+}
+180671 = {
+	name="布里格温"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	700.1.1={
+		birth=yes
+	}
+	765.8.1={
+		death=yes
+	}
+}
+180672 = {
+	name="耶恩伯特"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	715.1.1={
+		birth=yes
+	}
+	792.8.12={
+		death=yes
+	}
+}
+180673 = {
+	name="埃德哈德"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	730.1.1={
+		birth=yes
+	}
+	805.5.12={
+		death=yes
+	}
+}
+180674 = {
+	name="伍尔夫雷德"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	760.1.1={
+		birth=yes
+	}
+	832.3.24={
+		death=yes
+	}
+}
+180675 = {
+	name="西奥诺斯"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	790.1.1={
+		birth=yes
+	}
+	870.2.4={
+		death=yes
+	}
+}
+180676 = {
+	name="爱德雷德"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	820.1.1={
+		birth=yes
+	}
+	888.6.30={
+		death=yes
+	}
+}
+180677 = {
+	name="普利格蒙"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	856.5.30={
+		birth=yes
+	}
+	923.8.2={
+		death=yes
+	}
+}
+180678 = {
+	name="安塞姆"
+	# Archbishop of Canterbury, Bishop of Wells
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	863.4.4={
+		birth=yes
+	}
+	926.1.8={
+		death=yes
+	}
+}
+180679 = {
+	name="伍尔夫海姆"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	870.1.1={
+		birth=yes
+	}
+	941.2.12={
+		death=yes
+	}
+}
+180681 = {
+	name="埃尔夫西格"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	895.1.1={
+		birth=yes
+	}
+	959.1.1={
+		death=yes
+	}
+}
+180682 = {
+	name="拜尔特海姆"
+	# Archbishop of Canterbury, Bishop of Wells
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	910.1.1={
+		birth=yes
+	}
+	973.5.15={
+		death=yes
+	}
+}
+180683 = {
+	name="唐斯坦"
+	# Archbishop of Canterbury, Bishop of London
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	909.1.1={
+		birth=yes
+	}
+	988.5.19={
+		death=yes
+	}
+}
+180684 = {
+	name="阿德加"
+	# Archbishop of Canterbury, Bishop of Selsey
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	915.1.1={
+		birth=yes
+	}
+	990.2.13={
+		death=yes
+	}
+}
+180685 = {
+	name="西格里克"
+	# Archbishop of Canterbury, Bishop of Ramsbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	930.1.1={
+		birth=yes
+	}
+	994.10.28={
+		death=yes
+	}
+}
+180686 = {
+	name="阿尔弗里克"
+	# Archbishop of Canterbury, Bishop of Winchester
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	940.1.1={
+		birth=yes
+	}
+	1005.11.16={
+		death=yes
+	}
+}
+180687 = {
+	name="埃夫海斯"
+	# Archbishop of Canterbury, Bishop of Winchester
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	954.1.1={
+		birth=yes
+	}
+	1012.4.19={
+		death=yes
+	}
+}
+180688 = {
+	name="来风"
+	# Archbishop of Canterbury, Bishop of Wells
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	949.1.1={
+		birth=yes
+	}
+	1020.6.12={
+		death=yes
+	}
+}
+168608 = {
+	name="艾泽诺斯"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	975.1.1={
+		birth=yes
+	}
+	1038.10.30={
+		death=yes
+	}
+}
+180690 = {
+	name="埃德西格"
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="saxon"
+	add_trait="mastermind_theologian"
+	995.1.1={
+		birth=yes
+	}
+	1050.10.29={
+		death=yes
+	}
+}
+205025 = {
+	name="威特吉尔斯"
+	dynasty=1047001
+	religion="norse_pagan"
+	culture="saxon"
+	400.1.1={
+		birth="400.1.1"
+	}
+	440.1.1={
+		death="440.1.1"
+	}
+}
+205026 = {
+	name="亨吉斯特"
+	dynasty=1047001
+	religion="norse_pagan"
+	culture="saxon"
+	father=205025
+	425.1.1={
+		birth="425.1.1"
+	}
+	500.1.1={
+		death="500.1.1"
+	}
+}
+205027 = {
+	name="霍萨"
+	dynasty=1047001
+	religion="norse_pagan"
+	culture="saxon"
+	father=205025
+	426.1.1={
+		birth="426.1.1"
+	}
+	500.1.1={
+		death="500.1.1"
+	}
+}
+205028 = {
+	name="奥尔斯克"
+	dynasty=1047001
+	religion="norse_pagan"
+	culture="saxon"
+	father=205026
+	450.1.1={
+		birth="450.1.1"
+	}
+	516.1.1={
+		death="516.1.1"
+	}
+}
+205029 = {
+	name="奥克塔"
+	dynasty=1047001
+	religion="norse_pagan"
+	culture="saxon"
+	father=205028
+	480.1.1={
+		birth="480.1.1"
+	}
+	540.1.1={
+		death="540.1.1"
+	}
+}
+205030 = {
+	name="艾奥门里克"
+	dynasty=1047001
+	religion="norse_pagan"
+	culture="saxon"
+	father=205029
+	520.1.1={
+		birth="520.1.1"
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+205031 = {
+	name="埃塞尔伯特"
+	dynasty=1047001
+	religion="norse_pagan"
+	culture="saxon"
+	father=205030
+	560.1.1={
+		birth="560.1.1"
+	}
+	600.1.1={
+		religion="catholic"
+	}
+	616.2.24={
+		death="616.2.24"
+	}
+}
+205032 = {
+	name="埃塞尔巴德"
+	dynasty=1047001
+	religion="norse_pagan"
+	culture="saxon"
+	father=205031
+	#mother=Bertha Meroving
+	590.1.1={
+		birth="590.1.1"
+	}
+	620.1.1={
+		religion="catholic"
+		#add_spouse=Emma Meroving
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+205033 = {
+	name="埃德沃德"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205031
+	#mother=Bertha Meroving
+	591.1.1={
+		birth="591.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+205034 = {
+	name="埃德伯赫"
+	female = yes
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205031
+	#mother=Bertha Meroving
+	592.1.1={
+		birth="592.1.1"
+	}
+	620.1.1={
+		add_spouse=205198
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+205035 = {
+	name="艾奥门雷德"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205032
+	#mother=Emma Meroving
+	610.1.1={
+		birth="610.1.1"
+	}
+	665.1.1={
+		death="665.1.1"
+	}
+}
+205036 = {
+	name="艾奥森伯特"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205032
+	#mother=Emma Meroving
+	612.1.1={
+		birth="612.1.1"
+	}
+	664.6.14={
+		death="664.6.14"
+	}
+}
+205037 = {
+	name="埃塞尔伯特"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205035
+	630.1.1={
+		birth="630.1.1"
+	}
+	669.1.1={
+		death="669.1.1"
+	}
+}
+205038 = {
+	name="爱德雷德"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205035
+	632.1.1={
+		birth="632.1.1"
+	}
+	669.1.1={
+		death="669.1.1"
+	}
+}
+205039 = {
+	name="埃格伯特"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205036
+	630.1.1={
+		birth="630.1.1"
+	}
+	673.1.1={
+		death="673.1.1"
+	}
+}
+205040 = {
+	name="霍洛希尔"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205036
+	635.1.1={
+		birth="635.1.1"
+	}
+	685.1.1={
+		death="685.1.1"
+	}
+}
+205041 = {
+	name="埃德里克"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205039
+	650.1.1={
+		birth="650.1.1"
+	}
+	686.8.1={
+		death="686.8.1"
+	}
+}
+205042 = {
+	name="奥斯万"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205038
+	661.1.1={
+		birth="661.1.1"
+	}
+	690.1.1={
+		death="690.1.1"
+	}
+}
+205043 = {
+	name="威特拉德"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205039
+	655.1.1={
+		birth="655.1.1"
+	}
+	725.4.23={
+		death="725.4.23"
+	}
+}
+205044 = {
+	name="埃塞尔伯特"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205043
+	685.1.1={
+		birth="685.1.1"
+	}
+	762.1.1={
+		death="762.1.1"
+	}
+}
+205045 = {
+	name="埃德伯特"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205043
+	680.1.1={
+		birth="680.1.1"
+	}
+	748.1.1={
+		death="748.1.1"
+	}
+}
+205046 = {
+	name="阿尔弗里克"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205043
+	679.1.1={
+		birth="679.1.1"
+	}
+	725.1.1={
+		death="725.1.1"
+	}
+}
+205047 = {
+	name="埃德乌夫"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205045
+	700.1.1={
+		birth="700.1.1"
+	}
+	762.1.1={
+		death="762.1.1"
+	}
+}
+205048 = {
+	name="埃德伯特"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205044
+	710.1.1={
+		birth="710.1.1"
+	}
+	765.1.1={
+		death="765.1.1"
+	}
+}
+205049 = {
+	name="埃格伯特"
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205048
+	735.1.1={
+		birth="735.1.1"
+	}
+	779.1.1={
+		death="779.1.1"
+	}
+}
+205050 = {
+	name="埃德伯特" # III
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205049
+	755.1.1={
+		birth="755.1.1"
+	}
+	798.1.1={
+		death="798.1.1"
+	}
+}
+205000 = {
+	name="魏哈"
+	dynasty=1047000
+	religion="norse_pagan"
+	culture="saxon"
+	500.1.1={
+		birth="500.1.1"
+	}
+	571.1.1={
+		death="571.1.1"
+	}
+}
+205001 = {
+	name="武法"
+	dynasty=1047000
+	religion="norse_pagan"
+	culture="saxon"
+	father=205000
+	520.1.1={
+		birth="520.1.1"
+	}
+	578.1.1={
+		death="578.1.1"
+	}
+}
+205002 = {
+	name="泰蒂拉"
+	dynasty=1047000
+	religion="norse_pagan"
+	culture="saxon"
+	father=205001
+	550.1.1={
+		birth="550.1.1"
+	}
+	616.1.1={
+		death="616.1.1"
+	}
+}
+205003 = {
+	name="拉德沃德"
+	dynasty=1047000
+	religion="norse_pagan"
+	culture="saxon"
+	father=205002
+	570.1.1={
+		birth="570.1.1"
+	}
+	627.1.1={
+		death="627.1.1"
+	}
+}
+205004 = {
+	name="艾奥沃德"
+	dynasty=1047000
+	religion="norse_pagan"
+	culture="saxon"
+	father=205002
+	590.1.1={
+		birth="590.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+		religion="catholic"
+	}
+}
+205005 = {
+	name="西格伯特"
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205002
+	591.1.1={
+		birth="591.1.1"
+	}
+	634.1.1={
+		death="634.1.1"
+	}
+}
+205006 = {
+	name="埃尼"
+	dynasty=1047000
+	religion="norse_pagan"
+	culture="saxon"
+	father=205002
+	571.1.1={
+		birth="571.1.1"
+	}
+	627.1.1={
+		death="627.1.1"
+	}
+}
+205007 = {
+	name="安娜"
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205006
+	590.1.1={
+		birth="590.1.1"
+	}
+	654.1.1={
+		death="654.1.1"
+	}
+}
+205008 = {
+	name="埃德希尔"
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205006
+	592.1.1={
+		birth="592.1.1"
+	}
+	655.11.15={
+		death="655.11.15"
+	}
+}
+205009 = {
+	name="埃德沃德"
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205006
+	595.1.1={
+		birth="595.1.1"
+	}
+	664.1.1={
+		death="664.1.1"
+	}
+}
+205010 = {
+	name="阿德里克" #Ecgric
+	dynasty=1047000
+	religion="norse_pagan"
+	culture="saxon"
+	father=205006
+	600.1.1={
+		birth="600.1.1"
+	}
+	636.1.1={
+		death="636.1.1"
+	}
+}
+205011 = {
+	name="埃德乌夫" 
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205010
+	635.1.1={
+		birth="635.1.1"
+	}
+	713.1.1={
+		death="713.1.1"
+	}
+}
+205012 = {
+	name="埃德沃德" 
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205011
+	675.1.1={
+		birth="675.1.1"
+	}
+	749.1.1={
+		death="749.1.1"
+	}
+}
+205013 = {
+	name="碧昂纳" 
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205012
+	700.1.1={
+		birth="700.1.1"
+	}
+	760.1.1={
+		death="760.1.1"
+	}
+}
+205014 = {
+	name="埃塞尔伯特" 
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205012
+	702.1.1={
+		birth="702.1.1"
+	}
+	761.1.1={
+		death="761.1.1"
+	}
+}
+205015 = {
+	name="爱德雷德" 
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205013
+	725.1.1={
+		birth="725.1.1"
+	}
+	779.1.1={
+		death="779.1.1"
+	}
+}
+205016 = {
+	name="埃塞尔伯特" 
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205015
+	750.1.1={
+		birth="750.1.1"
+	}
+	794.1.1={
+		death="794.1.1"
+	}
+}
+205017 = {
+	name="埃德里克" 
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205014
+	725.1.1={
+		birth="725.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+205018 = {
+	name="埃德沃德" 
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205017
+	751.1.1={
+		birth="751.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+205019 = {
+	name="爱德雷德" 
+	dynasty=1047000
+	religion="catholic"
+	culture="saxon"
+	father=205018
+	769.1.1={
+		birth="769.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+205020 = {
+	name="埃德尔斯坦" # of East Anglia
+	dynasty=626
+	religion="catholic"
+	culture="saxon"
+	father=205019
+	790.1.1={
+		birth="790.1.1"
+	}
+	845.1.1={
+		death="845.1.1"
+	}
+}
+205021 = {
+	name="埃德威尔德" # of East Anglia
+	dynasty=626
+	religion="catholic"
+	culture="saxon"
+	father=205020
+	810.1.1={
+		birth="810.1.1"
+	}
+	854.1.1={
+		death="854.1.1"
+	}
+}
+205022 = {
+	name="比奥特里奇" # of East Anglia
+	dynasty=626
+	religion="catholic"
+	culture="saxon"
+	father=205020
+	811.1.1={
+		birth="811.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+205023 = {
+	name="奥斯沃德" # of East Anglia
+	dynasty=626
+	religion="catholic"
+	culture="saxon"
+	father=205021
+	841.1.1 = {
+		birth="841.1.1"
+	}
+	875.1.1 = {
+		death="875.1.1"
+	}
+}
+205024 = {
+	name="爱德雷德" # of East Anglia
+	dynasty=626
+	religion="catholic"
+	culture="saxon"
+	father=205023
+	860.1.1 = {
+		birth="860.1.1"
+	}
+	879.1.1 = {
+		death="879.1.1"
+	}
+}
+205051 = {
+	name="艾奥摩" #
+	religion="norse_pagan"
+	culture="saxon"
+	455.1.1={
+		birth="455.1.1"
+	}
+	527.1.1={
+		death="527.1.1"
+	}
+}
+205052 = {
+	name="艾瑟尔" #
+	dynasty=1047002
+	religion="norse_pagan"
+	culture="saxon"
+	father=205051
+	480.1.1={
+		birth="480.1.1"
+	}
+	536.1.1={
+		death="536.1.1"
+	}
+}
+205053 = {
+	name="科内巴" #
+	dynasty=1047002
+	religion="norse_pagan"
+	culture="saxon"
+	father=205052
+	500.1.1={
+		birth="500.1.1"
+	}
+	554.1.1={
+		death="554.1.1"
+	}
+}
+205054 = {
+	name="西内沃德" #
+	dynasty=1047002
+	religion="norse_pagan"
+	culture="saxon"
+	father=205053
+	520.1.1={
+		birth="520.1.1"
+	}
+	584.1.1={
+		death="584.1.1"
+	}
+}
+205055 = {
+	name="克里奥达" #
+	dynasty=1047002
+	religion="norse_pagan"
+	culture="saxon"
+	father=205054
+	540.1.1={
+		birth="540.1.1"
+	}
+	593.1.1={
+		death="593.1.1"
+	}
+}
+205056 = {
+	name="派巴" #
+	dynasty=1047002
+	religion="norse_pagan"
+	culture="saxon"
+	father=205055
+	560.1.1={
+		birth="560.1.1"
+	}
+	626.1.1={
+		death="626.1.1"
+	}
+}
+205057 = {
+	name="彭达" #
+	dynasty=1047002
+	religion="norse_pagan"
+	culture="saxon"
+	father=205056
+	trait= zealous
+	600.1.1={
+		birth="600.1.1"
+	}
+	655.11.15={
+		death="655.11.15"
+	}
+}
+205058 = {
+	name="艾奥瓦" #
+	dynasty=1047002
+	religion="norse_pagan"
+	culture="saxon"
+	father=205056
+	601.1.1={
+		birth="601.1.1"
+	}
+	642.8.5={
+		death="642.8.5"
+	}
+}
+205059 = {
+	name="科恩沃" #
+	dynasty=1047003
+	religion="norse_pagan"
+	culture="saxon"
+	father=205056
+	602.1.1={
+		birth="602.1.1"
+	}
+	644.1.1={
+		death="644.1.1"
+	}
+}
+205060 = {
+	name="皮达" #
+	dynasty=1047002
+	religion="norse_pagan"
+	culture="saxon"
+	father=205057
+	630.1.1={
+		birth="630.1.1"
+	}
+	655.11.15={
+		religion="catholic"
+	}
+	656.4.17={
+		death="656.4.17"
+	}
+}
+205061 = {
+	name="武夫希尔" #
+	dynasty=1047002
+	religion="norse_pagan"
+	culture="saxon"
+	father=205057
+	640.1.1={
+		birth="640.1.1"
+	}
+	655.11.15={
+		religion="catholic"
+	}
+	675.1.1={
+		death="675.1.1"
+	}
+}
+205062 = {
+	name="爱德雷德" #
+	dynasty=1047002
+	religion="norse_pagan"
+	culture="saxon"
+	father=205057
+	645.1.1={
+		birth="645.1.1"
+	}
+	655.11.15={
+		religion="catholic"
+	}
+	704.1.1={
+		death="704.1.1"
+	}
+}
+205063 = {
+	name="科恩雷德" #
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205061
+	670.1.1={
+		birth="670.1.1"
+	}
+	716.1.1={
+		death="716.1.1"
+	}
+}
+205064 = {
+	name="西奥雷德" #
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205062
+	671.1.1={
+		birth="671.1.1"
+	}
+	716.6.1={
+		death="716.6.1"
+	}
+}
+205065 = {
+	name="西奥沃德" #
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205062
+	671.1.1={
+		birth="671.1.1"
+	}
+	716.12.1={
+		death="716.12.1"
+	}
+}
+205066 = {
+	name="阿尔维奥" #
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205058
+	641.1.1={
+		birth="641.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+205067 = {
+	name="埃塞尔巴德" #
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205066
+	680.1.1={
+		birth="680.1.1"
+	}
+	757.1.1={
+		death="757.1.1"
+	}
+}
+205068 = {
+	name="哈德伯特" #
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205066
+	685.1.1={
+		birth="685.1.1"
+	}
+	760.1.1={
+		death="760.1.1"
+	}
+}
+205069 = {
+	name="奥斯莫德" #
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205058
+	642.1.1={
+		birth="642.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+205070 = {
+	name="艾恩武夫" #
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205069
+	670.1.1={
+		birth="670.1.1"
+	}
+	735.1.1={
+		death="735.1.1"
+	}
+}
+205071 = {
+	name="星弗里斯" #
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205070
+	705.1.1={
+		birth="705.1.1"
+	}
+	761.1.1={
+		death="761.1.1"
+	}
+}
+205072 = {
+	name="奥法" #
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205071
+	#mother=Marcellina
+	730.1.1={
+		birth="730.1.1"
+	}
+	760.1.1={
+		add_spouse=205074
+	}
+	796.7.29={
+		death="796.7.29"
+	}
+}
+205073 = {
+	name="埃克弗里斯" #
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205072
+	mother=205074
+	760.1.1={
+		birth="760.1.1"
+	}
+	796.12.17={
+		death="796.12.17"
+	}
+}
+205074 = {
+	name="希尼丝莉丝" #
+	dynasty=1047003 #
+	female = yes
+	religion="catholic"
+	culture="saxon"
+	father=205104
+	744.1.1={
+		birth="744.1.1"
+	}
+	760.1.1={
+		add_spouse=205072
+	}
+	799.1.1={
+		death="799.1.1"
+	}
+}
+205075 = {
+	name="埃德伯赫" #
+	female = yes
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205072
+	mother=205074
+	761.1.1={
+		birth="761.1.1"
+	}
+	802.1.1={
+		death="802.1.1"
+	}
+}
+205076 = {
+	name="埃尔芙蕾德" #
+	female = yes
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205072
+	mother=205074
+	762.1.1={
+		birth="762.1.1"
+	}
+	805.1.1={
+		death="805.1.1"
+	}
+}
+205077 = {
+	name="埃德伯赫" #
+	female = yes
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205072
+	mother=205074
+	763.1.1={
+		birth="763.1.1"
+	}
+	805.1.1={
+		death="805.1.1"
+	}
+}
+205078 = {
+	name="埃德丝维丝" #
+	female = yes
+	dynasty=1047002
+	religion="catholic"
+	culture="saxon"
+	father=205072
+	mother=205074
+	762.1.1={
+		birth="762.1.1"
+	}
+	805.1.1={
+		death="805.1.1"
+	}
+}
+205079 = {
+	name="威格莱夫" #
+	dynasty=1047004
+	religion="catholic"
+	culture="saxon"
+	father=205063
+	700.1.1={
+		birth="700.1.1"
+	}
+	755.1.1={
+		death="755.1.1"
+	}
+}
+205081 = {
+	name="威格哈德" #
+	dynasty=1047004
+	religion="catholic"
+	culture="saxon"
+	father=205079
+	722.1.1={
+		birth="722.1.1"
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+205082 = {
+	name="威格费斯" #
+	dynasty=1047004
+	religion="catholic"
+	culture="saxon"
+	father=205081
+	740.1.1={
+		birth="740.1.1"
+	}
+	795.1.1={
+		death="795.1.1"
+	}
+}
+205083 = {
+	name="威格伯特" #
+	dynasty=1047004
+	religion="catholic"
+	culture="saxon"
+	father=205082
+	760.1.1={
+		birth="760.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+205084 = {
+	name="威格莱夫" # I of Mercia
+	dynasty=1047004
+	religion="catholic"
+	culture="saxon"
+	father=205083
+	780.1.1={
+		birth="780.1.1"
+	}
+	839.1.1={
+		death="839.1.1"
+	}
+}
+205085 = {
+	name="威格蒙德" # I of Mercia
+	dynasty=1047004
+	religion="catholic"
+	culture="saxon"
+	father=205084
+	796.1.1={
+		birth="796.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+205086 = {
+	name="西奥武夫" # 
+	dynasty=1047004
+	religion="catholic"
+	culture="saxon"
+	father=205085
+	#mother=Aelfflaed of Mercia
+	812.1.1={
+		birth="812.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+194041 = {
+	name="威格斯坦" # 
+	dynasty=1047004
+	religion="catholic"
+	culture="saxon"
+	father=205085
+	#mother=Aelfflaed of Mercia
+	813.1.1={
+		birth="813.1.1"
+	}
+	840.6.1={
+		death="840.6.1"
+	}
+}
+205087 = {
+	name="李奥弗里克" # 
+	dynasty=1047004
+	religion="catholic"
+	culture="saxon"
+	father=205085
+	#mother=Aelfflaed of Mercia
+	815.1.1={
+		birth="815.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+205088 = {
+	name="爱德雷德" # II of Mercia
+	dynasty=1047004
+	religion="catholic"
+	culture="saxon"
+	father=205087
+	850.1.1={
+		birth="850.1.1"
+	}
+	911.1.1={
+		death="911.1.1"
+	}
+}
+205080 = {
+	name="比奥万" #
+	dynasty=1047005
+	religion="catholic"
+	culture="saxon"
+	father=205063
+	701.1.1={
+		birth="701.1.1"
+	}
+	760.1.1={
+		death="760.1.1"
+	}
+}
+205089 = {
+	name="比奥雷德" # I of Mercia
+	dynasty=1047005
+	religion="catholic"
+	culture="saxon"
+	father=205080
+	720.1.1={
+		birth="720.1.1"
+	}
+	769.1.1={
+		death="769.1.1"
+	}
+}
+205090 = {
+	name="比奥诺斯" # 
+	dynasty=1047005
+	religion="catholic"
+	culture="saxon"
+	father=205089
+	740.1.1={
+		birth="740.1.1"
+	}
+	787.1.1={
+		death="787.1.1"
+	}
+}
+205091 = {
+	name="比奥维德" # 
+	dynasty=1047005
+	religion="catholic"
+	culture="saxon"
+	father=205090
+	760.1.1={
+		birth="760.1.1"
+	}
+	799.1.1={
+		death="799.1.1"
+	}
+}
+205092 = {
+	name="贝奥武夫" # 
+	dynasty=1047005
+	religion="catholic"
+	culture="saxon"
+	father=205091
+	782.1.1={
+		birth="782.1.1"
+	}
+	826.1.1={
+		death="826.1.1"
+	}
+}
+205093 = {
+	name="比奥万" # 
+	dynasty=1047005
+	religion="catholic"
+	culture="saxon"
+	father=205092
+	800.1.1={
+		birth="800.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+205094 = {
+	name="贝奥武夫" # 
+	dynasty=1047005
+	religion="catholic"
+	culture="saxon"
+	father=205093
+	820.1.1={
+		birth="820.1.1"
+	}
+	852.1.1={
+		death="852.1.1"
+	}
+}
+205095 = {
+	name="比奥弗里斯" # 
+	dynasty=1047005
+	religion="catholic"
+	culture="saxon"
+	father=205094
+	#mother=Saethryth
+	850.1.1={
+		birth="850.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}
+205096 = {
+	name="比奥特里克" # 
+	dynasty=1047005
+	religion="catholic"
+	culture="saxon"
+	father=205094
+	#mother=Saethryth
+	851.1.1={
+		birth="851.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+205097 = {
+	name="比奥蒙德" # 
+	dynasty=813
+	religion="catholic"
+	culture="saxon"
+	father=205090
+	762.1.1={
+		birth="762.1.1"
+	}
+	805.1.1={
+		death="805.1.1"
+	}
+}
+205098 = {
+	name="贝奥武夫" # 
+	dynasty=813
+	religion="catholic"
+	culture="saxon"
+	father=205097
+	780.1.1={
+		birth="780.1.1"
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+205099 = {
+	name="比奥万" # 
+	dynasty=813
+	religion="catholic"
+	culture="saxon"
+	father=205098
+	796.1.1={
+		birth="796.1.1"
+	}
+	845.1.1={
+		death="845.1.1"
+	}
+}
+205100 = {
+	name="比奥雷德" # 
+	dynasty=813
+	religion="catholic"
+	culture="saxon"
+	father=205099
+	812.1.1={
+		birth="812.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+205101 = {
+	name="堪德沃" #
+	dynasty=1047003
+	religion="norse_pagan"
+	culture="saxon"
+	father=205059
+	630.1.1={
+		birth="630.1.1"
+	}
+	687.1.1={
+		death="687.1.1"
+	}
+}
+205102 = {
+	name="堪特万" #
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205101
+	659.1.1={
+		birth="659.1.1"
+	}
+	693.1.1={
+		death="693.1.1"
+	}
+}
+205103 = {
+	name="席恩利奥" #
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205102
+	680.1.1={
+		birth="680.1.1"
+	}
+	745.1.1={
+		death="745.1.1"
+	}
+}
+205104 = {
+	name="巴萨" #
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205103
+	700.1.1={
+		birth="700.1.1"
+	}
+	767.1.1={
+		death="767.1.1"
+	}
+}
+205105 = {
+	name="库特伯特" #
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205104
+	720.1.1={
+		birth="720.1.1"
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+205106 = {
+	name="库特雷德" #
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205104
+	722.1.1={
+		birth="722.1.1"
+	}
+	795.1.1={
+		death="795.1.1"
+	}
+}
+205107 = {
+	name="科恩武夫" #
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205105
+	765.1.1={
+		birth="765.1.1"
+	}
+	821.1.1={
+		death="821.1.1"
+	}
+}
+205108 = {
+	name="科尔武夫" #
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205105
+	769.1.1={
+		birth="769.1.1"
+	}
+	823.1.1={
+		death="823.1.1"
+	}
+}
+205109 = {
+	name="席恩海姆" #
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205107
+	785.1.1={
+		birth="785.1.1"
+	}
+	812.1.1={
+		death="812.1.1"
+	}
+}
+205110 = {
+	name="堪特万" #
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205107
+	805.1.1={
+		birth="805.1.1"
+	}
+	869.1.1={
+		death="869.1.1"
+	}
+}
+205111 = {
+	name="库特伯特" #
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205108
+	790.1.1={
+		birth="790.1.1"
+	}
+	852.1.1={
+		death="852.1.1"
+	}
+}
+205112 = {
+	name="西奥武夫" #
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205111
+	820.1.1={
+		birth="820.1.1"
+	}
+	879.1.1={
+		death="879.1.1"
+	}
+}
+190565 = {
+	name="鲁鲁斯" #archbishop of Mainz
+	religion="catholic"
+	culture="saxon"
+	710.1.1={
+		birth=yes
+	}
+	786.10.16={
+		death=yes
+	}
+}
+205141 = {
+	name="希尔迪克" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	460.1.1={
+		birth="460.1.1"
+	}
+	534.1.1={
+		death="534.1.1"
+	}
+}
+205142 = {
+	name="席恩里克" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205141
+	480.1.1={
+		birth="480.1.1"
+	}
+	560.1.1={
+		death="560.1.1"
+	}
+}
+205143 = {
+	name="西奥林" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205142
+	520.1.1={
+		birth="520.1.1"
+	}
+	591.1.1={
+		death="591.1.1"
+	}
+}
+205144 = {
+	name="库萨" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205142
+	525.1.1={
+		birth="525.1.1"
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+205145 = {
+	name="西奥" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205144
+	550.1.1={
+		birth="550.1.1"
+	}
+	597.1.1={
+		death="597.1.1"
+	}
+}
+205146 = {
+	name="西奥武夫" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205145
+	570.1.1={
+		birth="570.1.1"
+	}
+	611.1.1={
+		death="611.1.1"
+	}
+}
+205147 = {
+	name="西尼吉尔斯" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205145
+	575.1.1={
+		birth="575.1.1"
+	}
+	643.1.1={
+		death="643.1.1"
+	}
+}
+205148 = {
+	name="席恩沃" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205147
+	595.1.1={
+		birth="595.1.1"
+	}
+	648.1.1={
+		death="648.1.1"
+	}
+}
+205149 = {
+	name="西克海姆" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205147
+	600.1.1={
+		birth="600.1.1"
+	}
+	636.1.1={
+		death="636.1.1"
+	}
+}
+205150 = {
+	name="库特雷德" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205149
+	620.1.1={
+		birth="620.1.1"
+	}
+	680.1.1={
+		death="680.1.1"
+	}
+}
+205151 = {
+	name="堪特万" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205147
+	610.1.1={
+		birth="610.1.1"
+	}
+	686.1.1={
+		death="686.1.1"
+	}
+}
+205152 = {
+	name="库特吉尔斯" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205146
+	586.1.1={
+		birth="586.1.1"
+	}
+	645.1.1={
+		death="645.1.1"
+	}
+}
+205153 = {
+	name="科恩费斯" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205152
+	602.1.1={
+		birth="602.1.1"
+	}
+	656.1.1={
+		death="656.1.1"
+	}
+}
+205154 = {
+	name="堪福斯" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205153
+	618.1.1={
+		birth="618.1.1"
+	}
+	666.1.1={
+		death="666.1.1"
+	}
+}
+205155 = {
+	name="埃斯科万" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205154
+	634.1.1={
+		birth="634.1.1"
+	}
+	685.1.1={
+		death="685.1.1"
+	}
+}
+205156 = {
+	name="库特万" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205143
+	550.1.1={
+		birth="550.1.1"
+	}
+	592.1.1={
+		death="592.1.1"
+	}
+}
+205157 = {
+	name="希达" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205156
+	590.1.1={
+		birth="590.1.1"
+	}
+	652.1.1={
+		death="652.1.1"
+	}
+}
+205158 = {
+	name="库塔" # Cathwulf
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205156
+	592.1.1={
+		birth="592.1.1"
+	}
+	655.1.1={
+		death="655.1.1"
+	}
+}
+205159 = {
+	name="科恩伯特" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205157
+	610.1.1={
+		birth="610.1.1"
+	}
+	661.1.1={
+		death="661.1.1"
+	}
+}
+205160 = {
+	name="穆尔" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205159
+	626.1.1={
+		birth="626.1.1"
+	}
+	687.1.1={
+		death="687.1.1"
+	}
+}
+205161 = {
+	name="凯德瓦拉" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205159
+	630.1.1={
+		birth="630.1.1"
+	}
+	688.1.1={
+		death="688.1.1"
+	}
+}
+205162 = {
+	name="西奥沃德" # 
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205156
+	620.1.1={
+		birth="620.1.1"
+	}
+	675.1.1={
+		death="675.1.1"
+	}
+}
+205163 = {
+	name="科恩雷德" # 
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205162
+	637.1.1={
+		birth="637.1.1"
+	}
+	685.1.1={
+		death="685.1.1"
+	}
+}
+205164 = {
+	name="伊尼" # 
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205162
+	655.1.1={
+		birth="655.1.1"
+	}
+	726.1.1={
+		death="726.1.1"
+	}
+}
+205165 = {
+	name="英吉尔德" # 
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205162
+	650.1.1={
+		birth="650.1.1"
+	}
+	718.1.1={
+		death="718.1.1"
+	}
+}
+205166 = {
+	name="克里奥达" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205141
+	485.1.1={
+		birth="485.1.1"
+	}
+	532.1.1={
+		death="532.1.1"
+	}
+}
+205167 = {
+	name="席恩里克" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205166
+	510.1.1={
+		birth="510.1.1"
+	}
+	566.1.1={
+		death="566.1.1"
+	}
+}
+205168 = {
+	name="库特雷德" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205167
+	530.1.1={
+		birth="530.1.1"
+	}
+	585.1.1={
+		death="585.1.1"
+	}
+}
+205169 = {
+	name="席恩武夫" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205168
+	550.1.1={
+		birth="550.1.1"
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+205170 = {
+	name="席恩哈德" #
+	dynasty=1047006
+	religion="norse_pagan"
+	culture="saxon"
+	father=205169
+	568.1.1={
+		birth="568.1.1"
+	}
+	620.1.1={
+		death="620.1.1"
+	}
+}
+205171 = {
+	name="埃德哈德" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205170
+	590.1.1={
+		birth="590.1.1"
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+205172 = {
+	name="西格伯特" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205171
+	610.1.1={
+		birth="610.1.1"
+	}
+	655.1.1={
+		death="655.1.1"
+	}
+}
+205173 = {
+	name="比奥特里克" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205172
+	650.1.1={
+		birth="650.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+205174 = {
+	name="席恩沃德" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205171
+	610.1.1={
+		birth="610.1.1"
+	}
+	655.1.1={
+		death="655.1.1"
+	}
+}
+205175 = {
+	name="席恩哈德" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205174
+	640.1.1={
+		birth="640.1.1"
+	}
+	685.1.1={
+		death="685.1.1"
+	}
+}
+205176 = {
+	name="西格哈德" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205175
+	670.1.1={
+		birth="670.1.1"
+	}
+	715.1.1={
+		death="715.1.1"
+	}
+}
+205177 = {
+	name="西格伯特" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205176
+	700.1.1={
+		birth="700.1.1"
+	}
+	757.1.1={
+		death="757.1.1"
+	}
+}
+205178 = {
+	name="席恩哈德" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205176
+	705.1.1={
+		birth="705.1.1"
+	}
+	786.1.1={
+		death="786.1.1"
+	}
+}
+205179 = {
+	name="贝奥武夫" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205173
+	685.1.1={
+		birth="685.1.1"
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+205180 = {
+	name="席恩武夫" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205179
+	720.1.1={
+		birth="720.1.1"
+	}
+	796.1.1={
+		death="796.1.1"
+	}
+}
+205181 = {
+	name="比奥特里克" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205180
+	750.1.1={
+		birth="750.1.1"
+	}
+	802.1.1={
+		death="802.1.1"
+	}
+}
+205182 = {
+	name="席恩里克" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205171
+	641.1.1={
+		birth="641.1.1"
+	}
+	685.1.1={
+		death="685.1.1"
+	}
+}
+205183 = {
+	name="爱德雷德" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205182
+	665.1.1={
+		birth="665.1.1"
+	}
+	725.1.1={
+		death="725.1.1"
+	}
+}
+205184 = {
+	name="埃德哈德" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205183
+	686.1.1={
+		birth="686.1.1"
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+205185 = {
+	name="库特雷德" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205183
+	690.1.1={
+		birth="690.1.1"
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+205186 = {
+	name="席恩里克" #
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205185
+	720.1.1={
+		birth="720.1.1"
+	}
+	748.1.1={
+		death="748.1.1"
+	}
+}
+205187 = {
+	name="艾奥帕" # 
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205165
+	706.1.1={
+		birth="706.1.1"
+	}
+	758.1.1={
+		death="758.1.1"
+	}
+}
+205188 = {
+	name="爱法" # 
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205187
+	father=205191
+	730.1.1={
+		birth="730.1.1"
+	}
+	760.1.1={
+		death="760.1.1"
+	}
+}
+205189 = {
+	name="伊尔蒙德" # 
+	dynasty=1047006
+	religion="catholic"
+	culture="saxon"
+	father=205188
+	750.1.1={
+		birth="750.1.1"
+	}
+	784.1.1={
+		death="784.1.1"
+	}
+}
+
+205190 = {
+	name="埃德伯赫"
+	female= yes
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205049
+	753.1.1={
+		birth = yes
+	}
+	779.1.1={
+		death="779.1.1"
+	}
+}
+
+205191 = {
+	name="希克斯伯赫"
+	female= yes
+	dynasty=1047001
+	religion="catholic"
+	culture="saxon"
+	father=205045
+	706.1.1={
+		birth="706.1.1"
+	}
+	762.1.1={
+		death="762.1.1"
+	}
+}
+205113 = {
+	name="奥斯希尔" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205130
+	mother=205137
+	600.1.1={
+		birth="600.1.1"
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+205114 = {
+	name="艾恩希尔" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205113
+	mother=205138
+	628.1.1={
+		birth="628.1.1"
+	}
+	675.1.1={
+		death="675.1.1"
+	}
+}
+205115 = {
+	name="艾恩弗里斯" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205113
+	mother=205138
+	627.1.1={
+		birth="627.1.1"
+	}
+	674.1.1={
+		death="674.1.1"
+	}
+}
+205116 = {
+	name="埃芙" #
+	female=yes
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205115
+	650.1.1={
+		birth="650.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+205117 = {
+	name="奥斯里克" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205114
+	#mother = Osthryth of Northumbria
+	645.1.1={
+		birth="645.1.1"
+	}
+	679.1.1={
+		death="679.1.1"
+	}
+}
+205118 = {
+	name="奥斯希尔" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205114
+	#mother = Osthryth of Northumbria
+	651.1.1={
+		birth="651.1.1"
+	}
+	704.1.1={
+		death="704.1.1"
+	}
+}
+205119 = {
+	name="奥斯沃德" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205114
+	#mother = Osthryth of Northumbria
+	652.1.1={
+		birth="652.1.1"
+	}
+	690.1.1={
+		death="690.1.1"
+	}
+}
+205120 = {
+	name="埃德哈德" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205118
+	mother=205133
+	680.1.1={
+		birth="680.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+205121 = {
+	name="埃德沃德" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205118
+	mother=205133
+	681.1.1={
+		birth="681.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+205122 = {
+	name="埃尔德里克" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205118
+	mother=205133
+	682.1.1={
+		birth="682.1.1"
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+205123 = {
+	name="奥斯雷德" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205118
+	mother=205133
+	685.1.1={
+		birth="685.1.1"
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+205124 = {
+	name="英吉尔德" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205122
+	mother=205134
+	700.1.1={
+		birth="700.1.1"
+	}
+	756.1.1={
+		death="756.1.1"
+	}
+}
+205125 = {
+	name="埃德蒙德" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205124
+	mother=205131
+	730.1.1={
+		birth="730.1.1"
+	}
+	802.1.1={
+		death="802.1.1"
+	}
+}
+205126 = {
+	name="阿德里克" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205125
+	760.1.1={
+		birth="760.1.1"
+	}
+	804.1.1={
+		death="804.1.1"
+	}
+}
+205127 = {
+	name="艾恩伯特" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205123
+	mother=205132
+	715.1.1={
+		birth="715.1.1"
+	}
+	759.1.1={
+		death="759.1.1"
+	}
+}
+205128 = {
+	name="乌特雷德" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205123
+	mother=205132
+	716.1.1={
+		birth="716.1.1"
+	}
+	777.1.1={
+		death="777.1.1"
+	}
+}
+205129 = {
+	name="爱德雷德" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205123
+	mother=205132
+	717.1.1={
+		birth="717.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+205130 = {
+	name="奥斯莫德" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205139
+	mother=159751
+	560.1.1={
+		birth="560.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+	}
+}
+205131 = {
+	name="席恩特里丝" #
+	female=yes
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205103
+	700.1.1={
+		birth="700.1.1"
+	}
+	767.1.1={
+		death="767.1.1"
+	}
+}
+205132 = {
+	name="伍尔夫特里丝" #
+	female=yes
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205102
+	689.1.1={
+		birth="689.1.1"
+	}
+	754.1.1={
+		death="754.1.1"
+	}
+}
+205133 = {
+	name="塞丝莉丝" #
+	female=yes
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205101
+	659.1.1={
+		birth="659.1.1"
+	}
+	715.1.1={
+		death="715.1.1"
+	}
+}
+205134 = {
+	name="萨博赫" #
+	female=yes
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205102
+	684.1.1={
+		birth="684.1.1"
+	}
+	745.1.1={
+		death="745.1.1"
+	}
+}
+205135 = {
+	name="埃德莫德" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	father=205117
+	mother=205136
+	667.1.1={
+		birth="667.1.1"
+	}
+	733.1.1={
+		death="733.1.1"
+	}
+}
+205136 = {
+	name="席恩伯赫" #
+	female=yes
+	dynasty=1047003
+	religion="catholic"
+	culture="saxon"
+	father=205101
+	650.1.1={
+		birth="650.1.1"
+	}
+	715.1.1={
+		death="715.1.1"
+	}
+}
+205139 = {
+	name="奥斯沃德" #
+	dynasty=1047011
+	religion="catholic"
+	culture="saxon"
+	530.1.1={
+		birth="530.1.1"
+	}
+	570.1.1={
+		death="570.1.1"
+	}
+}
+194094 = {
+	name="奥法"
+	dynasty=1047012
+	religion="norse_pagan"
+	culture="saxon"
+	460.1.1={
+		birth="460.1.1"
+	}
+	527.1.1={
+		death="527.1.1"
+	}
+}
+194095 = {
+	name="埃斯科万"
+	dynasty=1047012
+	religion="norse_pagan"
+	culture="saxon"
+	father=194094
+	490.1.1={
+		birth="490.1.1"
+	}
+	587.1.1={
+		death="587.1.1"
+	}
+}
+194096 = {
+	name="斯莱达"
+	dynasty=1047012
+	religion="norse_pagan"
+	culture="saxon"
+	father=194095
+	520.1.1={
+		birth="520.1.1"
+	}
+	604.1.1={
+		death="604.1.1"
+	}
+}
+194097 = {
+	name="萨博特"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=194096
+	550.1.1={
+		birth="550.1.1"
+	}
+	615.1.1={
+		death="615.1.1"
+	}
+}
+194098 = {
+	name="萨克斯雷德"
+	dynasty=1047012
+	religion="norse_pagan"
+	culture="saxon"
+	father=194097
+	570.1.1={
+		birth="570.1.1"
+	}
+	616.1.1={
+		death="616.1.1"
+	}
+}
+194099 = {
+	name="萨沃德"
+	dynasty=1047012
+	religion="norse_pagan"
+	culture="saxon"
+	father=194098
+	575.1.1={
+		birth="575.1.1"
+	}
+	616.1.1={
+		death="616.1.1"
+	}
+}
+194100 = {
+	name="西格伯特"
+	dynasty=1047012
+	religion="norse_pagan"
+	culture="saxon"
+	father=194099
+	600.1.1={
+		birth="600.1.1"
+	}
+	653.1.1={
+		death="653.1.1"
+	}
+}
+194101 = {
+	name="西格伯特"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=194100
+	605.1.1={
+		birth="605.1.1"
+	}
+	660.1.1={
+		death="660.1.1"
+	}
+}
+194102 = {
+	name="斯维斯海姆"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=194101
+	620.1.1={
+		birth="620.1.1"
+	}
+	664.1.1={
+		death="664.1.1"
+	}
+}
+194103 = {
+	name="西格希尔"
+	dynasty=1047012
+	religion="norse_pagan"
+	culture="saxon"
+	father=194102
+	630.1.1={
+		birth="630.1.1"
+	}
+	683.1.1={
+		death="683.1.1"
+	}
+}
+205256 = {
+	name="塞比"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=194102
+	635.1.1={
+		birth="635.1.1"
+	}
+	694.1.1={
+		death="694.1.1"
+	}
+}
+205257 = {
+	name="西格哈德"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=205256
+	660.1.1={
+		birth="660.1.1"
+	}
+	708.1.1={
+		death="708.1.1"
+	}
+}
+205258 = {
+	name="斯瓦弗雷德"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=205256
+	655.1.1={
+		birth="655.1.1"
+	}
+	708.1.1={
+		death="708.1.1"
+	}
+}
+205259 = {
+	name="奥法"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=205257
+	676.1.1={
+		birth="676.1.1"
+	}
+	709.1.1={
+		death="709.1.1"
+	}
+}
+205260 = {
+	name="塞比"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=205257
+	677.1.1={
+		birth="677.1.1"
+	}
+	708.1.1={
+		death="708.1.1"
+	}
+}
+205261 = {
+	name="西格雷德"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=205258
+	675.1.1={
+		birth="675.1.1"
+	}
+	708.1.1={
+		death="708.1.1"
+	}
+}
+205262 = {
+	name="塞尔雷德"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=205261
+	691.1.1={
+		birth="691.1.1"
+	}
+	746.1.1={
+		death="746.1.1"
+	}
+}
+205263 = {
+	name="斯维斯雷德"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=205260
+	700.1.1={
+		birth="700.1.1"
+	}
+	758.1.1={
+		death="758.1.1"
+	}
+}
+205264 = {
+	name="塞尔雷德"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=205262
+	725.1.1={
+		birth="725.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+205265 = {
+	name="西格里克"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=205264
+	745.1.1={
+		birth="745.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+205266 = {
+	name="西格雷德"
+	dynasty=1047012
+	religion="catholic"
+	culture="saxon"
+	father=205265
+	765.1.1={
+		birth="765.1.1"
+	}
+	835.1.1={
+		death="835.1.1"
+	}
+}
+205192 = {
+	name="叶斐"
+	dynasty=1047009
+	religion="norse_pagan"
+	culture="saxon"
+	500.1.1={
+		birth="500.1.1"
+	}
+	559.1.1={
+		death="559.1.1"
+	}
+}
+205193 = {
+	name="埃拉"
+	dynasty=1047009
+	religion="norse_pagan"
+	culture="saxon"
+	father=205192
+	540.1.1={
+		birth="540.1.1"
+	}
+	588.1.1={
+		death="588.1.1"
+	}
+}
+205194 = {
+	name="阿尔弗里克"
+	dynasty=1047009
+	religion="norse_pagan"
+	culture="saxon"
+	father=205192
+	545.1.1={
+		birth="545.1.1"
+	}
+	589.1.1={
+		death="589.1.1"
+	}
+}
+205195 = {
+	name="奥斯里克"
+	dynasty=1047009
+	religion="norse_pagan"
+	culture="saxon"
+	father=205194
+	565.1.1={
+		birth="565.1.1"
+	}
+	634.1.1={
+		death="634.1.1"
+	}
+}
+205196 = {
+	name="奥斯万"
+	dynasty=1047009
+	religion="catholic"
+	culture="saxon"
+	father=205195
+	585.1.1={
+		birth="585.1.1"
+	}
+	651.1.1={
+		death="651.1.1"
+	}
+}
+205197 = {
+	name="埃德尔里克"
+	dynasty=1047009
+	religion="norse_pagan"
+	culture="saxon"
+	father=205193
+	580.1.1={
+		birth="580.1.1"
+	}
+	604.1.1={
+		death="604.1.1"
+	}
+}
+205198 = {
+	name="埃德万"
+	dynasty=1047009
+	religion="catholic"
+	culture="saxon"
+	father=205193
+	585.1.1={
+		birth="585.1.1"
+	}
+	620.1.1={
+		add_spouse=205034
+	}
+	633.10.12={
+		death="633.10.12"
+	}
+}
+205199 = {
+	name="英格维"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	433.1.1={
+		birth="433.1.1"
+	}
+	490.1.1={
+		death="490.1.1"
+	}
+}
+205200 = {
+	name="埃萨"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205199
+	456.1.1={
+		birth="456.1.1"
+	}
+	510.1.1={
+		death="510.1.1"
+	}
+}
+205201 = {
+	name="艾欧帕"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205200
+	486.1.1={
+		birth="486.1.1"
+	}
+	547.1.1={
+		death="547.1.1"
+	}
+}
+205202 = {
+	name="依达"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205201
+	505.1.1={
+		birth="505.1.1"
+	}
+	559.1.1={
+		death="559.1.1"
+	}
+}
+205203 = {
+	name="格拉帕"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205202
+	521.1.1={
+		birth="521.1.1"
+	}
+	560.1.1={
+		death="560.1.1"
+	}
+}
+205204 = {
+	name="艾达"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205202
+	522.1.1={
+		birth="522.1.1"
+	}
+	568.1.1={
+		death="568.1.1"
+	}
+}
+205205 = {
+	name="阿达尔里克"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205202
+	527.1.1={
+		birth="527.1.1"
+	}
+	572.1.1={
+		death="572.1.1"
+	}
+}
+205206 = {
+	name="提奥德里克"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205202
+	528.1.1={
+		birth="528.1.1"
+	}
+	579.1.1={
+		death="579.1.1"
+	}
+}
+205207 = {
+	name="弗里苏沃德"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205202
+	532.1.1={
+		birth="532.1.1"
+	}
+	585.1.1={
+		death="585.1.1"
+	}
+}
+205208 = {
+	name="胡萨"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205202
+	535.1.1={
+		birth="535.1.1"
+	}
+	592.1.1={
+		death="592.1.1"
+	}
+}
+205209 = {
+	name="埃德尔福里斯"
+	dynasty=1047010
+	religion="norse_pagan"
+	culture="saxon"
+	father=205205
+	555.1.1={
+		birth="555.1.1"
+	}
+	590.1.1={
+		add_spouse=205210
+	}
+	616.1.1={
+		death="616.1.1"
+	}
+}
+205210 = {
+	name="阿查"
+	female=yes
+	dynasty=1047009
+	religion="norse_pagan"
+	culture="saxon"
+	father=205193
+	570.1.1={
+		birth="570.1.1"
+	}
+	590.1.1={
+		add_spouse=205209
+	}
+	634.1.1={
+		death="634.1.1"
+	}
+}
+205211 = {
+	name="艾恩弗里斯"
+	dynasty=1047010
+	religion="catholic"
+	culture="saxon"
+	father=205209
+	mother=205210
+	590.1.1={
+		birth="590.1.1"
+	}
+	634.1.1={
+		death="634.1.1"
+	}
+}
+205212 = {
+	name="奥斯沃德"
+	dynasty=1047010
+	religion="catholic"
+	culture="saxon"
+	father=205209
+	mother=205210
+	604.1.1={
+		birth="604.1.1"
+	}
+	642.8.5={
+		death="642.8.5"
+	}
+}
+205213 = {
+	name="奥斯乌"
+	dynasty=1047010
+	religion="catholic"
+	culture="saxon"
+	father=205209
+	mother=205210
+	612.1.1={
+		birth="612.1.1"
+	}
+	642.1.1={
+		add_spouse=205214
+	}
+	670.2.15={
+		death="670.2.15"
+	}
+}
+205214 = {
+	name="艾恩弗莱德"
+	female=yes
+	dynasty=1047009
+	religion="catholic"
+	culture="saxon"
+	father=205198
+	mother=205034
+	626.4.19={
+		birth="626.4.19"
+	}
+	642.1.1={
+		add_spouse=205213
+	}
+	686.1.1={
+		death="686.1.1"
+	}
+}
+205215 = {
+	name="奥克格"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205202
+	536.1.1={
+		birth="536.1.1"
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+205216 = {
+	name="阿尔戴姆"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205215
+	571.1.1={
+		birth="571.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+	}
+}
+205217 = {
+	name="埃克乌夫"
+	dynasty=1047008
+	religion="norse_pagan"
+	culture="saxon"
+	father=205216
+	595.1.1={
+		birth="595.1.1"
+	}
+	660.1.1={
+		death="660.1.1"
+	}
+}
+205218 = {
+	name="利奥沃德"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205217
+	621.1.1={
+		birth="621.1.1"
+	}
+	690.1.1={
+		death="690.1.1"
+	}
+}
+205219 = {
+	name="库特万"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205218
+	654.1.1={
+		birth="654.1.1"
+	}
+	715.1.1={
+		death="715.1.1"
+	}
+}
+205220 = {
+	name="雅塔"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205218
+	655.1.1={
+		birth="655.1.1"
+	}
+	713.1.1={
+		death="713.1.1"
+	}
+}
+205221 = {
+	name="科恩雷德"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205219
+	690.1.1={
+		birth="690.1.1"
+	}
+	718.1.1={
+		death="718.1.1"
+	}
+}
+205222 = {
+	name="科奥武夫"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205219
+	695.1.1={
+		birth="695.1.1"
+	}
+	765.1.1={
+		death="765.1.1"
+	}
+}
+205223 = {
+	name="埃格伯特"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205220
+	685.1.1={
+		birth="685.1.1"
+	}
+	766.11.19={
+		death="766.11.19"
+	}
+}
+205224 = {
+	name="埃德伯特"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205220
+	690.1.1={
+		birth="690.1.1"
+	}
+	768.8.20={
+		death="768.8.20"
+	}
+}
+205225 = {
+	name="奥斯乌夫"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205224
+	720.1.1={
+		birth="720.1.1"
+	}
+	759.7.24={
+		death="759.7.24"
+	}
+}
+205226 = {
+	name="奥斯乌夫"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205224
+	725.1.1={
+		birth="725.1.1"
+	}
+	761.8.1={
+		death="761.8.1"
+	}
+}
+205227 = {
+	name="奥丝吉芙"
+	female=yes
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205224
+	730.1.1={
+		birth="730.1.1"
+	}
+	750.1.1={
+		add_spouse=205237
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+194104 = {
+	name="埃尔夫沃德"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205226
+	745.1.1={
+		birth="745.1.1"
+	}
+	788.9.23={
+		death="788.9.23"
+	}
+}
+205228 = {
+	name="奥斯巴德"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205226
+	750.1.1={
+		birth="750.1.1"
+	}
+	799.1.1={
+		death="799.1.1"
+	}
+}
+205229 = {
+	name="埃尔夫"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205228
+	766.1.1={
+		birth="766.1.1"
+	}
+	791.1.1={
+		death="791.1.1"
+	}
+}
+205230 = {
+	name="埃尔夫万"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205228
+	767.1.1={
+		birth="767.1.1"
+	}
+	791.1.1={
+		death="791.1.1"
+	}
+}
+205231 = {
+	name="伯恩"
+	dynasty=1047021
+	religion="catholic"
+	culture="saxon"
+	father=205228
+	765.1.1={
+		birth="765.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+205232 = {
+	name="埃德里克"
+	dynasty=1047023
+	religion="norse_pagan"
+	culture="saxon"
+	father=205202
+	537.1.1={
+		birth="537.1.1"
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+205233 = {
+	name="布莱克曼"
+	dynasty=1047023
+	religion="norse_pagan"
+	culture="saxon"
+	father=205232
+	570.1.1={
+		birth="570.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+205234 = {
+	name="伯法"
+	dynasty=1047023
+	religion="norse_pagan"
+	culture="saxon"
+	father=205233
+	610.1.1={
+		birth="610.1.1"
+	}
+	690.1.1={
+		death="690.1.1"
+	}
+}
+205235 = {
+	name="贝奥霍姆"
+	dynasty=1047023
+	religion="catholic"
+	culture="saxon"
+	father=205234
+	650.1.1={
+		birth="650.1.1"
+	}
+	733.1.1={
+		death="733.1.1"
+	}
+}
+205236 = {
+	name="艾恩万"
+	dynasty=1047023
+	religion="catholic"
+	culture="saxon"
+	father=205235
+	690.1.1={
+		birth="690.1.1"
+	}
+	767.1.1={
+		death="767.1.1"
+	}
+}
+205237 = {
+	name="埃尔雷德"
+	dynasty=1047023
+	religion="catholic"
+	culture="saxon"
+	father=205236
+	725.1.1={
+		birth="725.1.1"
+	}
+	750.1.1={
+		add_spouse=205227
+	}
+	774.1.1={
+		death="774.1.1"
+	}
+}
+205238 = {
+	name="奥斯雷德"
+	dynasty=1047023
+	religion="catholic"
+	culture="saxon"
+	father=205237
+	mother=205227
+	750.1.1={
+		birth="750.1.1"
+	}
+	792.1.1={
+		death="792.1.1"
+	}
+}
+205239 = {
+	name="埃尔蒙德"
+	dynasty=1047023
+	religion="catholic"
+	culture="saxon"
+	father=205237
+	mother=205227
+	751.1.1={
+		birth="751.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+205240 = {
+	name="埃德乌夫"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	631.1.1={
+		birth="631.1.1"
+	}
+	705.3.1={
+		death="705.3.1"
+	}
+}
+205241 = {
+	name="艾恩万"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205240
+	665.1.1={
+		birth="665.1.1"
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+205242 = {
+	name="摩尔"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205240
+	680.1.1={
+		birth="680.1.1"
+	}
+	743.1.1={
+		death="743.1.1"
+	}
+}
+205243 = {
+	name="埃德沃德"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205242
+	730.1.1={
+		birth="730.1.1"
+	}
+	765.10.30={
+		death="765.10.30"
+	}
+}
+205244 = {
+	name="爱德雷德"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205243
+	762.1.1={
+		birth="762.1.1"
+	}
+	796.4.18={
+		death="796.4.18"
+	}
+}
+205245 = {
+	name="厄德武夫"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205241
+	700.1.1={
+		birth="700.1.1"
+	}
+	741.1.1={
+		death="741.1.1"
+	}
+}
+205246 = {
+	name="厄德武夫"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205245
+	730.1.1={
+		birth="730.1.1"
+	}
+	806.1.1={
+		death="806.1.1"
+	}
+}
+205247 = {
+	name="艾恩雷德"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205246
+	760.1.1={
+		birth="760.1.1"
+	}
+	850.1.1={
+		death="850.1.1"
+	}
+}
+205248 = {
+	name="奥斯乌夫"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205246
+	761.1.1={
+		birth="761.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+205249 = {
+	name="艾恩万"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205245
+	735.1.1={
+		birth="735.1.1"
+	}
+	805.1.1={
+		death="805.1.1"
+	}
+}
+205250 = {
+	name="奥斯沃德"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205245
+	740.1.1={
+		birth="740.1.1"
+	}
+	805.1.1={
+		death="805.1.1"
+	}
+}
+205251 = {
+	name="厄德武夫"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205249
+	770.1.1={
+		birth="770.1.1"
+	}
+	835.1.1={
+		death="835.1.1"
+	}
+}
+205252 = {
+	name="奥斯乌夫"
+	dynasty=814
+	religion="catholic"
+	culture="saxon"
+	father=205250
+	775.1.1={
+		birth="775.1.1"
+	}
+	836.1.1={
+		death="836.1.1"
+	}
+}
+205253 = {
+	name="奥斯波特"
+	dynasty=814
+	religion="catholic"
+	culture="saxon"
+	father=205252
+	805.1.1={
+		birth="805.1.1"
+	}
+	866.1.1={
+		death="866.1.1"
+	}
+}
+205254 = {
+	name="拉德武夫"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205251
+	800.1.1={
+		birth="800.1.1"
+	}
+	844.1.1={
+		death="844.1.1"
+	}
+}
+205255 = {
+	name="爱德雷德"
+	dynasty=1047022
+	religion="catholic"
+	culture="saxon"
+	father=205247
+	800.1.1={
+		birth="800.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+205267 = {
+	name="布罗达"
+	dynasty=1047013
+	religion="catholic"
+	culture="saxon"
+	740.1.1={
+		birth="740.1.1"
+	}
+	835.1.1={
+		death="835.1.1"
+	}
+}
+205268 = {
+	name="奥斯蒙德"
+	dynasty=1047017
+	religion="catholic"
+	culture="saxon"
+	740.1.1={
+		birth="740.1.1"
+	}
+	835.1.1={
+		death="835.1.1"
+	}
+}
+
+214037 = {
+	name="Aldfrith"
+	dynasty=214019
+	religion="catholic"
+	culture="saxon"
+	father=214038
+	730.1.1={
+		birth=yes
+	}
+	796.1.1={
+		death=yes
+	}
+}
+
+214038 = {
+	name="Eatta"
+	dynasty=214019
+	religion="catholic"
+	culture="saxon"
+	father=214039
+	700.1.1={
+		birth=yes
+	}
+	765.1.1={
+		death=yes
+	}
+}
+
+214039 = {
+	name="Eanfrith"
+	dynasty=214019
+	religion="catholic"
+	culture="saxon"
+	father=214040
+	675.1.1={
+		birth=yes
+	}
+	740.1.1={
+		death=yes
+	}
+}
+
+214040 = {
+	name="Biscop"
+	dynasty=214019
+	religion="catholic"
+	culture="saxon"
+	father=214041
+	650.1.1={
+		birth=yes
+	}
+	700.1.1={
+		death=yes
+	}
+}
+
+214041 = {
+	name="Beda"
+	dynasty=214019
+	religion="catholic"
+	culture="saxon"
+	father=214042
+	625.1.1={
+		birth=yes
+	}
+	675.1.1={
+		death=yes
+	}
+}
+
+214042 = {
+	name="Bl鎐ca"
+	dynasty=214019
+	religion="norse_pagan"
+	culture="saxon"
+	# father= unknown relationship to earlier Lindsey kings
+	600.1.1={
+		birth=yes
+	}
+	629.1.1={
+		religion="catholic"
+	}
+	650.1.1={
+		death=yes
+	}
+}
+
+214035 = { # Bishop of Lindsey
+	name="Ceolwulf" 
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	725.1.1={
+		birth=yes
+	}
+	796.1.1={
+		death=yes
+	}
+}
+
+214036 = { # Bishop of Lindsey
+	name="Eadbald"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	810.1.1={
+		birth=yes
+	}
+	869.1.1={
+		death=yes
+	}
+}
+
+214033 = { # Bishop of London
+	name="Wigheah"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	709.1.1={
+		birth=yes
+	}
+	776.1.1={
+		death=yes
+	}
+}
+
+214034 = { # Bishop of London
+	name="Swithwulf"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	825.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+
+214031 = { # Bishop of Lichfield
+	name="Cuthfrith"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	715.1.1={
+		birth=yes
+	}
+	769.6.1={
+		death=yes
+	}
+}
+
+214032 = { # Bishop of Lichfield
+	name="Wulfsige"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	820.1.1={
+		birth=yes
+	}
+	868.1.1={
+		death=yes
+	}
+}
+
+188915 = { # Bishop of York
+	name="苩helbert"
+	religion="catholic"
+	culture="saxon"
+	learning = 12
+	trait=erudite
+	trait=scholarly_theologian
+	715.1.1={
+		birth=yes
+	}
+	780.11.8={
+		death=yes
+	}
+}
+
+188916 = { # Bishop of York
+	name="Wulfhere"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	820.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+188917 = { # Bishop of York
+	name="Ealdred"
+	religion="catholic"
+	culture="saxon"
+	learning = 7
+	diplomacy = 8
+	martial = 5
+	trait=erudite
+	1000.1.1={
+		birth=yes
+	}
+	1069.9.11={
+		death=yes
+	}
+}
+
+188918 = { # Carolingian scholar
+	name="Alcuin"
+	religion="catholic"
+	culture="saxon"
+	learning = 13
+	trait=erudite
+	trait=scholar
+	trait=mastermind_theologian
+	735.1.1={
+		birth=yes
+	}
+	767.1.1={
+		employer=188915
+	}
+	804.5.19={
+		death=yes
+	}
+}
+
+188919 = { # Bishop of Sherborne
+	name="Herewald"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	700.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+214030 = { # Bishop of Sherborne
+	name="Heahmund"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	830.1.1={
+		birth=yes
+	}
+	871.3.22={
+		death=yes
+	}
+}
+
+214044 = { # Bishop of Hereford
+	name="Deorlaf"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	825.1.1={
+		birth=yes
+	}
+	886.1.1={
+		death=yes
+	}
+}
+
+214045 = { # Bishop of Lindisfarne
+	name="Cynewulf"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	709.1.1={
+		birth=yes
+	}
+	783.1.1={
+		death=yes
+	}
+}
+
+214046 = { # Bishop of Selsey
+	name="Oswald"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	719.1.1={
+		birth=yes
+	}
+	776.1.1={
+		death=yes
+	}
+}
+
+214047 = { # Bishop of Selsey
+	name="苩helric"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	1020.1.1={
+		birth=yes
+	}
+	1076.1.1={
+		death=yes
+	}
+}
+
+214048 = { # Bishop of Rochester
+	name="Diora"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	722.1.1={
+		birth=yes
+	}
+	783.1.1={
+		death=yes
+	}
+}
+
+214049 = { # Bishop of Rochester
+	name="Cuthwulf"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	820.1.1={
+		birth=yes
+	}
+	874.1.1={
+		death=yes
+	}
+}
+
+214050 = { # Bishop of Rochester
+	name="Siward"
+	religion="catholic"
+	culture="saxon"
+	learning = 8
+	1021.1.1={
+		birth=yes
+	}
+	1075.1.1={
+		death=yes
+	}
+}

@@ -1,0 +1,116 @@
+734.1.1={
+	liege = d_medapata
+	holder = 188470 # Kalbhoj Guhilot
+}
+753.1.1={
+	holder = 188471 # Khuman
+}
+773.1.1={
+	holder = 188472 # Mattat
+}
+793.1.1={
+	holder = 188473 # Bhert-Patt
+}
+813.1.1={
+	holder = 188474 # Sinha
+}
+828.1.1={
+	holder = 188475 # Khuman II
+}
+853.1.1={
+	holder = 188206 # Mahayak
+}
+878.1.1={
+	holder = 188476 # Khuman III
+}
+942.1.1={
+	holder = 188477 # Bhert-Patt II
+}
+951.1.1={
+	holder = 188478 # Allat
+}
+953.1.1={
+	liege = k_malwa
+	holder = 188181 # Siyaka II Paramara
+}
+973.1.1={
+	holder = 188182 # Vakpati II
+}
+995.1.1={
+	holder = 188183 # Sindhu
+}
+1010.1.1={
+	holder = 188184 # Bhoja I
+}
+1055.1.1={
+	holder = 188185 # Jayasimha
+}
+1069.1.1={
+	holder = 188186 # Udayaditya
+}
+1087.1.1={
+	holder = 188187 # Lakshamanadeva
+}
+1094.1.1={
+	holder = 188188 # Naravarmandeva
+}
+1133.1.1={
+	holder = 188189 # Yasovarman
+}
+1142.1.1={
+	holder = 188190 # Jayavarman I
+}
+1143.1.1={
+	holder = 188191 # Ballala of Malwa
+}
+1151.1.1={
+	liege = k_gujarat
+	holder = 188088 # Kumarapala Solanki
+}
+1155.1.1={
+	liege = k_delhi
+	holder = 188136 # Vigrharaja IV Chauhan
+}
+1163.1.1={
+	holder = 188139 # Amarangeya
+}
+1165.1.1={
+	holder = 188135 # Prithviraja II
+}
+1169.1.1={
+	holder = 188141 # Someshwara
+}
+1177.1.1={
+	holder = 188142 # Prithviraja III
+}
+1192.1.1={
+	holder = 188145 # Govinda
+	liege=k_delhi
+}
+1193.1.1={
+	holder = 188143 # Hariraja
+}
+
+
+1220.1.1={
+	liege=d_medapata # defeat of Malwa kings
+	holder = 188500 # Jaitrasingh 
+}
+1253.1.1={ # actually an 8 year gap, rule starts in 1262
+	holder = 188501 # Tejsingh 
+}
+1273.1.1={
+	holder = 188502 # Samarsingh
+}
+1302.1.1={
+	holder = 188503 # Ratansingh
+}
+1303.8.25={
+	holder = 170249 # Hidr/Khijr Khan
+}
+1314.1.1={
+	holder = 188504 # Maldeo Sanchore
+}
+1326.1.1={
+	holder = 188517 # Hamir Singh Sisodia
+}

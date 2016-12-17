@@ -1,0 +1,3464 @@
+20780 = {
+	name="ÄÂ°¢Î¬Ò¶"
+	dynasty=101015
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20816 = {
+	name="±ÈÀ­¶û"
+	dynasty=101046
+	martial=5
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="gluttonous"
+	trait="craven"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20840 = {
+	name="ÈøÀ­¶¡"
+	dynasty=101030
+	martial=8
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="lustful"
+	trait="temperate"
+	trait="brave"
+	trait="underhanded_rogue"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20855 = {
+	name="ÑÇ×ğ"
+	dynasty=101699
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="gluttonous"
+	trait="flamboyant_schemer"
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1083.1.1={
+		death="1083.1.1"
+	}
+}
+
+20869 = {
+	name="°¢Àï"
+	dynasty=596
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="arbitrary"
+	trait="slothful"
+	trait="tough_soldier"
+	father=85008
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1076.1.1={
+		death="1076.1.1"
+	}
+}
+
+20876 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=101608
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="humble"
+	trait="zealous"
+	trait="wroth"
+	982.1.1={
+		birth="982.1.1"
+	}
+	1014.1.1={
+		add_spouse=4876
+	}
+	1047.1.1={
+		death="1047.1.1"
+	}
+}
+
+20877 = {
+	name="Âü"
+	dynasty=101608
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="wroth"
+	trait="tough_soldier"
+	father=20876
+	mother=4876
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1052.1.1={
+		death="1052.1.1"
+	}
+}
+
+20889 = {
+	name="°¢²·¶Å¶û-¿¨¶ûÄ¬"
+	# AKA: Abdul
+	dynasty=101056
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="chaste"
+	trait="cynical"
+	trait="underhanded_rogue"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20890 = {
+	name="¼ªÑÇÈø¶¡"
+	dynasty=101055
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="humble"
+	trait="cynical"
+	trait="hunchback"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20894 = {
+	name="ÄÂ¶ûËşÔú"
+	dynasty=101054
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20895 = {
+	name="ÈüÒåµÂ"
+	# AKA: Said
+	dynasty=101053
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="just"
+	trait="envious"
+	trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20896 = {
+	name="ºúÈøÄ·¶¡"
+	dynasty=101052
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="proud"
+	trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+
+
+20898 = {
+	name="°¢²·¶Å¶û-¿¨µÏ¶û"
+	# AKA: Abdul
+	dynasty=101050
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="charismatic_negotiator"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+224049 = {
+	name="°¢²·¶Å¶û-Âí¼ªµÂ"
+	# AKA: Abdul
+	dynasty=100826
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="cynical"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+3212 = {
+	name="°¢°ÍµÂ"
+	dynasty=594
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73209
+	trait="poet"
+	trait="cynical"
+	trait="gluttonous"
+	trait="craven"
+	trait="greedy"
+	trait="ambitious"
+	trait="tough_soldier"
+	1016.1.1={
+		birth="1016.1.1"
+	}
+	1038.1.1={
+		add_spouse=85009
+	}
+	1069.1.15={
+		death="1069.1.15"
+	}
+}
+
+3214 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=594
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="poet"
+	trait="ambitious"
+	trait="arbitrary"
+	trait="cynical"
+	father=3212
+	mother=85009
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1062.1.1={
+		add_spouse=73211
+	}
+	1091.1.1={
+		add_claim = d_sevilla
+		add_claim = d_cordoba
+		add_claim = d_murcia
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+3928 = {
+	name="°¢±È-²®¿Ë¶û"
+	dynasty=569
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=45025
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1059.1.1={
+		add_spouse=73193
+	}
+	1069.1.1={
+		add_claim = d_valencia
+	}
+	1076.1.1={
+		remove_claim = d_valencia
+		add_claim = d_zaragoza
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_toledo
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+
+3938 = {
+	name="ÓÈËØ¸£"
+	dynasty=599
+	martial=5
+	diplomacy=5
+	intrigue=2
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="humble"
+	trait="tough_soldier"
+	father=3933
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+
+45001 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty=101607
+	martial=4
+	diplomacy=12
+	intrigue=4
+	stewardship=8
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="charismatic_negotiator"
+	trait="humble"
+	father = 45000
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+45006 = {
+	name="Ò¶º£ÑÇ" #AKA: al-Mustasim
+	dynasty=101608
+	martial=2
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="tough_soldier"
+	father=20877
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1091.6.1={
+		death="1091.6.1"
+	}
+}
+
+45030 = {
+	name="¹şÒÁ±ÈÈø"
+	dynasty=7500
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="martial_cleric"
+	960.1.2={
+		birth="960.1.2"
+	}
+	1040.1.2={
+		death="1040.1.2"
+	}
+}
+
+45031 = {
+	name="ÒÀÈö"
+	dynasty=7500
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="martial_cleric"
+	father=45033
+	1000.1.2={
+		birth="1000.1.2"
+	}
+	1053.1.2={
+		death="1053.1.2"
+	}
+}
+
+45032 = {
+	name="ÄÂÔú·¨¶û"
+	# AKA: Nuzaffar
+	dynasty=7500
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="martial_cleric"
+	father=45034
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1080.1.2={
+		death="1080.1.2"
+	}
+}
+
+45033 = {
+	name="¹şÒÁ±ÈÈø"
+	# AKA: Amid
+	dynasty=7500
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="martial_cleric"
+	father=45030
+	980.1.2={
+		birth="980.1.2"
+	}
+	1048.1.2={
+		death="1048.1.2"
+	}
+}
+
+45034 = {
+	name="ÄÉÎ÷¶û"
+	dynasty=7500
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="martial_cleric"
+	father=45031
+	1020.1.2={
+		birth="1020.1.2"
+	}
+	1053.1.2={
+		death="1053.1.2"
+	}
+}
+
+464010 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty=12224
+	martial=4
+	diplomacy=12
+	intrigue=4
+	stewardship=8
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="charismatic_negotiator"
+	trait="humble"
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1119.1.1={
+		death="1119.1.1"
+	}
+}
+
+485260 = {
+	name="°¢²·¶ÅÀ­-À­Æë×È"
+	# AKA: Abdul
+	dynasty=100778
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="proud"
+	trait="thrifty_clerk"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+487000 = {
+	name="ÓÈËØ¸£"
+	dynasty=101904
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="proud"
+	trait="lustful"
+	trait="underhanded_rogue"
+	father=73641
+	mother=73649
+	1318.1.1={
+		birth="1318.1.1"
+	}
+	1354.1.1={
+		death="1354.1.1"
+	}
+}
+
+487001 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty=101904
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="proud"
+	trait="brave"
+	father=73641
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+
+4876={
+	name="·¨º£ÑÅ"
+	female=yes
+
+	religion=sunni
+	culture=andalusian_arabic
+
+	998.1.1={
+		birth=yes
+	}
+	1047.1.1={
+		death=yes
+	}
+}
+
+85009 = {
+	name="¿­À­"
+	female = yes
+	dynasty=596
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="slothful"
+	trait="indulgent_wastrel"
+	father=85008
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1072.1.1={
+		death="1072.1.1"
+	}
+}
+
+33053 = {
+	name="°¢²·¶ÅÀ­" #AKA: al-Murqtada
+	dynasty=7278
+	religion="sunni"
+	culture="andalusian_arabic"
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1076.1.1={
+		add_claim = d_zaragoza
+		add_claim = d_valencia
+		add_claim = d_murcia
+		add_claim = d_toledo
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1085.5.25={
+		remove_claim = d_toledo
+	}
+	1093.1.1={
+		death="1093.1.1"
+	}
+}
+
+33054 = {
+	name="ÄÂ°ÍÏ£¶û"
+	dynasty=7278
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="eunuch"
+	father=33053
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1093.1.1={
+		add_claim = d_zaragoza
+		add_claim = d_valencia
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+33055 = {
+	name="ËÕÀ³Âü" #AKA: al-Rabi
+	dynasty=12202
+	religion="sunni"
+	culture="andalusian_arabic"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1114.1.1={
+		add_claim = d_zaragoza
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+71373={
+	name="ÔúÎ÷µÃ"
+	female=yes
+
+	religion=sunni
+	culture=andalusian_arabic
+
+	1070.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		religion=catholic
+		name="ÒÁÉ¯±´¶û"
+	}
+	1107.9.13={
+		death=yes
+	}
+}
+
+73181 = {
+	name="°¬¹şÂõµÂ"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73180
+	1097.1.1={
+		birth="1097.1.1"
+	}
+	1130.1.1 = {
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1145.1.1 = {
+		remove_claim = d_granada
+	}
+	1146.1.1 = {
+		remove_claim = d_valencia
+		add_claim = d_granada
+	}
+	1147.1.1 = {
+		add_claim = d_valencia
+	}
+	1153.1.1={
+		death="1153.1.1"
+	}
+}
+
+73182 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 12192
+	religion="sunni"
+	culture="andalusian_arabic"
+	1059.1.1={
+		birth="1059.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+73185 = {
+	name="Ò¶º£ÑÇ"
+	dynasty = 12194
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73184
+	998.1.1={
+		birth="998.1.1"
+	}
+	1026.1.1 = {
+		add_spouse=73188
+	}
+	1036.1.1={
+		death="1036.1.1"
+	}
+}
+
+73186 = {
+	name="ÂüµÏ¶û"
+	dynasty = 12194
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73185
+	mother=73188
+	1027.1.1={
+		birth="1027.1.1"
+	}
+	1038.1.1={
+		death="1038.1.1"
+	}
+}
+
+73188 = {
+	name="°¢±È´ï"
+	female=yes
+	dynasty = 570
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73194
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+}
+
+73190 = {
+	name="ÂüµÏ¶û"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3934
+	1048.1.1={
+		birth="1048.1.1"
+	}
+	1082.1.1 = {
+		add_claim = d_zaragoza
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_toledo
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1085.5.25 = {
+		remove_claim = d_toledo
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+73191 = {
+	name="ËÕÀ³Âü"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73190
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1090.1.1 = {
+		add_claim = d_zaragoza
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1118.12.18 = {
+		remove_claim = d_zaragoza
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+73192 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3933
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1084.1.1={
+		death="1084.1.1"
+	}
+}
+
+73193 = {
+	name="°¬Èö"
+	female=yes
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3934
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+73194 = {
+	name="Ò¶º£ÑÇ"
+	dynasty = 570
+	religion="sunni"
+	culture="andalusian_arabic"
+	963.1.1={
+		birth="963.1.1"
+	}
+	1012.1.1={
+		death="1012.1.1"
+	}
+}
+
+73195 = {
+	name="ÒÁË¹ÂêÒÇ"
+	dynasty = 570
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3924
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1074.1.1={
+		death="1074.1.1"
+	}
+}
+
+73196 = {
+	name="ÎÚÂê¶û"
+	dynasty = 573
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3902
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+73197 = {
+	name="ÑÇº£·¨"
+	dynasty = 12195
+	religion="sunni"
+	culture="andalusian_arabic"
+	1008.1.1={
+		birth="1008.1.1"
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+}
+
+73198 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty = 12195
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73197
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1075.1.1 = {
+		add_claim = d_toledo
+	}
+	1080.1.1 = {
+		remove_claim = d_toledo
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+
+73199 = {
+	name="ÑÇ·¨"
+	dynasty = 12195
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73198
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1092.10.28 = {
+		add_claim = d_zaragoza
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+
+73200 = {
+	name="ÔúÒÁµÂ"
+	dynasty = 12196
+	religion="sunni"
+	culture="andalusian_arabic"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+73201 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 12196
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73200
+	1084.1.1={
+		birth="1084.1.1"
+	}
+	1145.1.1 = {
+		add_claim = d_valencia
+	}
+	1145.7.1 = {
+		remove_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1146.1.1 = {
+		add_claim = d_valencia
+	}
+	1147.1.1={
+		death="1147.1.1"
+	}
+}
+
+73202 = {
+	name="ÍßÆë¶û"
+	dynasty = 12197
+	religion="sunni"
+	culture="andalusian_arabic"
+	1084.1.1={
+		birth="1084.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+73203 = {
+	name="Ï£´ï¶û"
+	dynasty = 12197
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73202
+	1108.1.1={
+		birth="1108.1.1"
+	}
+	1145.1.1 = {
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1146.1.1 = {
+		add_claim = d_badajoz
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+73204 = {
+	name="¹ş¿¨Ä·"
+	dynasty = 12192
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73182
+	1089.1.1={
+		birth="1089.1.1"
+	}
+	1144.1.1={
+		death="1144.1.1"
+	}
+}
+
+73205 = {
+	name="ÓÈËØ¸£"
+	dynasty = 12198
+	religion="sunni"
+	culture="andalusian_arabic"
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+73206 = {
+	name="°¢Àï"
+	dynasty = 12198
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73205
+	1081.1.1={
+		birth="1081.1.1"
+	}
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+
+73207 = {
+	name="ÒÁË¹ÂêÒÇ"
+	dynasty = 12199
+	religion="sunni"
+	culture="andalusian_arabic"
+	1073.1.1={
+		birth="1073.1.1"
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+73208 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 12199
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73207
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1149.1.1={
+		death="1149.1.1"
+	}
+}
+
+73209 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 594
+	religion="sunni"
+	culture="andalusian_arabic"
+	984.1.1={
+		birth="984.1.1"
+	}
+	1042.1.1={
+		death="1042.1.1"
+	}
+}
+
+
+73212 = {
+	name="²¼ËşÑÇÄÈ"
+	female=yes
+	dynasty = 594
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3214
+	mother=73211
+	1063.1.1={
+		birth="1063.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+73213 = {
+	name="°¢°ÍµÂ"
+	dynasty = 594
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3214
+	mother=73211
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1074.1.1={
+		death="1074.1.1"
+	}
+}
+
+73214 = {
+	name="·¨ÌØ"
+	dynasty = 594
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3214
+	mother=73211
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+73215 = {
+	name="À­Ï£µÂ"
+	dynasty = 594
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3214
+	mother=73211
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+73217 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 594
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3214
+	mother=73211
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+73218 = {
+	name="ÒÁË¹ÂêÒÇ"
+	dynasty = 594
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3214
+	mother=73211
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1095.1.1 = {
+		add_claim = d_sevilla
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+73223 = {
+	name="ÑÇ·¨"
+	dynasty = 12201
+	religion="sunni"
+	culture="andalusian_arabic"
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+73224 = {
+	name="°¬ÓÈ²·"
+	dynasty = 12201
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73223
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	1148.1.1={
+		death="1148.1.1"
+	}
+}
+
+73225 = {
+	name="Ò×²·À­ĞÀ"
+	dynasty = 12201
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73223
+	1087.1.1={
+		birth="1087.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+73227 = {
+	name="ÎÚËşÂü"
+	dynasty = 569
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3928
+	mother=73193
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1085.1.1 = {
+		add_claim = d_zaragoza
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1085.5.25 = {
+		remove_claim = d_toledo
+	}
+	1086.1.1 = {
+		add_claim = d_valencia
+	}
+	1118.12.18 = {
+		remove_claim = d_zaragoza
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+
+73235={
+	name="°¢²·¶ÅÀÕ-À­ºÕÂü"
+	dynasty=12192
+
+	father=73182
+
+	religion=sunni
+	culture=andalusian_arabic
+
+	1111.1.1={
+		birth=yes
+	}
+	1145.3.1 = {
+		add_claim=d_murcia
+		add_claim=c_almansa
+	}
+	1164.1.1={
+		death=yes
+	}
+}
+
+73236 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty = 12209
+	religion="sunni"
+	culture="andalusian_arabic"
+	1113.1.1={
+		birth="1113.1.1"
+	}
+	1145.1.1 = {
+		add_claim = d_murcia
+	}
+	1145.3.1 = {
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1145.6.1 = {
+		add_claim = d_murcia
+	}
+	1163.1.1={
+		death="1163.1.1"
+	}
+}
+
+73237 = {
+	name="ÑÇ·¨"
+	dynasty = 12210
+	religion="sunni"
+	culture="andalusian_arabic"
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1145.3.1 = {
+		add_claim = d_murcia
+	}
+	1145.6.1 = {
+		remove_claim = d_murcia
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1145.9.1 = {
+		add_claim = d_murcia
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+73238 = {
+	name="°¢±È-²®¿Ë¶û"
+	dynasty = 572
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3910
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1081.1.1 = {
+		add_claim = d_murcia
+	}
+	1109.1.1={
+		death="1109.1.1"
+	}
+}
+
+73240 = {
+	name="ÈøµÂ"
+	dynasty = 12211
+	religion="sunni"
+	culture="andalusian_arabic"
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1123.1.1 = {
+		add_spouse=73242
+	}
+	1156.1.1={
+		death="1156.1.1"
+	}
+}
+
+73241 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 12211
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73240
+	mother=73242
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1147.1.1 = {
+		add_claim = d_mallorca
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1148.1.1 = {
+		remove_claim = d_granada
+	}
+	1172.3.1={
+		death="1172.3.1"
+	}
+}
+
+73242 = {
+	name="ËşÎ÷Ä·"
+	female=yes
+	dynasty = 12196
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73200
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+73243={
+	name="°¢²·¶Å¶û-¹ş¼Ñ¼ª"
+	dynasty=12211
+
+	religion=sunni
+	culture=andalusian_arabic
+
+	father=73240
+	mother=73242
+
+	1126.1.1={
+		birth=yes
+	}
+	1172.1.1={
+		religion=shiite
+	}
+	1186.1.1={
+		death=yes
+	}
+}
+
+73244 = {
+	name="Ï£À­ÀÕ"
+	dynasty = 12211
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73241
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1172.3.1 = {
+		religion="shiite"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+73245 = {
+	name="ÄÂÈø"
+	dynasty = 12212
+	religion="sunni"
+	culture="andalusian_arabic"
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+73246 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 12212
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73245
+	1092.1.1={
+		birth="1092.1.1"
+	}
+	1143.1.1={
+		death="1143.1.1"
+	}
+}
+
+73247 = {
+	name="ÄÂÈø"
+	dynasty = 12213
+	religion="sunni"
+	culture="andalusian_arabic"
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+
+73249 = {
+	name="°¬¹şÂõµÂ"
+	dynasty = 101608
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=45006
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+73250 = {
+	name="ÑÇ·¨"
+	dynasty = 101608
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=45006
+	1067.1.1={
+		birth="1067.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+73251 = {
+	name="ÎÚ°İµÂ"
+	dynasty = 101608
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=45006
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+73252 = {
+	name="À­·ò"
+	dynasty = 101608
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=45006
+	1071.1.1={
+		birth="1071.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+73253 = {
+	name="ÎÚÄÂ"
+	female=yes
+	dynasty = 101608
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=45006
+	1073.1.1={
+		birth="1073.1.1"
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+}
+
+73254 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty = 12227
+	religion="sunni"
+	culture="andalusian_arabic"
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1144.1.1 = {
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1178.1.1={
+		death="1178.1.1"
+	}
+}
+
+73255 = {
+	name="°¢±È-²®¿Ë¶û"
+	dynasty = 12228
+	religion="sunni"
+	culture="andalusian_arabic"
+	1020.1.1={
+		birth="1020.1.1"
+	}	
+	1076.1.1={
+		death="1076.1.1"
+	}
+}
+
+73256={
+	name="°¢²·¶ÅÀ­-°¢Æë×È"
+	dynasty=12228
+
+	father=73255
+
+	religion=sunni
+	culture=andalusian_arabic
+
+	1054.1.1={
+		birth=yes
+	}
+	1076.1.1 = {
+		add_claim=c_almeria
+	}
+	1113.1.1={
+		death=yes
+	}
+}
+
+73257 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 12228
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73256
+	1077.1.1={
+		birth="1077.1.1"
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+
+73258 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty = 12228
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73257
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1146.1.1 = {
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1154.1.1={
+		death="1154.1.1"
+	}
+}
+
+73259 = {
+	name="ÑÇ·¨"
+	dynasty = 12229
+	religion="sunni"
+	culture="andalusian_arabic"
+	1112.1.1={
+		birth="1112.1.1"
+	}	
+	1145.1.1 = {
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+	}
+	1145.7.1 = {
+		add_claim = d_granada
+	}
+	1146.1.1 = {
+		remove_claim = d_granada
+		remove_claim = d_valencia
+		remove_claim = d_mallorca
+		remove_claim = d_murcia
+		remove_claim = d_cordoba
+		remove_claim = d_badajoz
+		remove_claim = d_sevilla
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+73260={
+	name="°¢²·¶Å¶û-¹ş¿¨Ä·"
+	dynasty=12230
+
+	religion=sunni
+	culture=andalusian_arabic
+
+	1120.1.1={
+		birth=yes
+	}	
+	1153.1.1={
+		add_claim=c_malaga
+	}
+	1176.1.1={
+		death=yes
+	}
+}
+
+73261 = {
+	name="Ò×²·À­ĞÀ"
+	dynasty = 12234
+	religion="sunni"
+	culture="andalusian_arabic"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1144.1.1={
+		death="1144.1.1"
+	}
+}
+
+73262 = {
+	name="·¨µÙÂê"
+	female=yes
+	dynasty = 569
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3928
+	mother=73193
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+3933 = {
+	name="ËÕÀ³Âü"
+	dynasty=599
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="thrifty_clerk"
+	990.1.1={
+		birth="990.1.1"
+	}
+	1046.1.1={
+		death="1046.1.1"
+	}
+}
+
+3934 = {
+	name="°¬¹şÂõµÂ" #AKA: al-Muqtadir
+	dynasty=599
+	martial=3
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="patient"
+	trait="humble"
+	trait="honest"
+	trait="cynical"
+	trait="poet"
+	trait="underhanded_rogue"
+	father=3933
+	1026.1.1={
+		birth="1026.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+3935 = {
+	name="ÓÈËÕ·ò"
+	dynasty=599
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="poet"
+	trait="tough_soldier"
+	father=3934
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1076.1.1={
+		add_spouse=73262
+	}
+	1082.1.1={
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_toledo
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+
+45005 = {
+	name="°¬¹şÂõµÂ"
+	dynasty=599
+	martial=5
+	diplomacy=3
+	intrigue=4
+	stewardship=8
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="poet"
+	trait="tough_soldier"
+	father=3934
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1085.1.1={
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_toledo
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1085.5.25={
+		remove_claim = d_toledo
+	}
+	1092.10.28={
+		add_claim = d_valencia
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+45027 = {
+	name="°¢±È-²®¿Ë¶û"
+	dynasty=572
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="greedy"
+	trait="tough_soldier"
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1063.1.1={
+		death="1063.1.1"
+	}
+}
+
+224002 = {
+	name="¹şÀûÀÕ"
+	dynasty=12226
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="shiite"
+	culture="andalusian_arabic"
+	trait="tough_soldier"
+	1157.1.1={
+		birth="1157.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+224006 = {
+	name="ÈøµÂ"
+	dynasty=12214
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="deceitful"
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+224007 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=12215
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="chaste"
+	trait="arbitrary"
+	trait="skilled_tactician"
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+224008 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty=12192
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73204
+	1113.1.1={
+		birth="1113.1.1"
+	}
+	1145.1.1={
+		add_claim = d_badajoz
+	}
+	1146.1.1={
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+224012 = {
+	name="ËşÀï¿Ë"
+	dynasty=12212
+	martial=8
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="envious"
+	trait="amateurish_plotter"
+	father=73245
+	1099.1.1={
+		birth="1099.1.1"
+	}
+	1144.1.1={
+		death="1144.1.1"
+	}
+}
+
+224014 = {
+	name="¹ş¿¨Ä·"
+	dynasty=12216
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="tough_soldier"
+	1116.1.1={
+		birth="1116.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+224016={
+	name="°¢±È-°¢¶û-ÂíÀû¿Ë"
+	dynasty=12232
+
+	religion=shiite
+	culture=andalusian_arabic
+
+	1146.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+
+224017 = {
+	name="ÑÅ¿â²¼"
+	dynasty=12231
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="diligent"
+	trait="deceitful"
+	trait="arbitrary"
+	trait="fortune_builder"
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+224023 = {
+	name="Ò×²·À­ĞÀ"
+	dynasty=574
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="greedy"
+	trait="wroth"
+	trait="tough_soldier"
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1148.1.1={
+		death="1148.1.1"
+	}
+}
+
+224024 = {
+	name="°¢Àï"
+	dynasty=12223
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="patient"
+	trait="brave"
+	trait="tough_soldier"
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1178.1.1={
+		death="1178.1.1"
+	}
+}
+
+224025 = {
+	name="°¢ÄÂ"
+	dynasty=12224
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="diligent"
+	trait="flamboyant_schemer"
+	father=464010
+	1079.1.1={
+		birth="1079.1.1"
+	}
+	1147.1.1={
+		death="1147.1.1"
+	}
+}
+
+3922 = {
+	name="ÒÁË¹ÂêÒÇ"
+	dynasty=570
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="wroth"
+	trait="cynical"
+	trait="flamboyant_schemer"
+	father=73194
+	990.1.1={
+		birth="990.1.1"
+	}
+	1043.1.1={
+		death="1043.1.1"
+	}
+}
+
+3924 = {
+	name="Ò¶º£ÑÇ"
+	dynasty=570
+	martial=5
+	diplomacy=1
+	intrigue=7
+	stewardship=3
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="proud"
+	trait="diligent"
+	trait="zealous"
+	trait="tough_soldier"
+	father=3922
+	1013.1.1={
+		birth="1013.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+3926 = {
+	name="Ò¶º£ÑÇ"
+	dynasty=570
+	martial=5
+	diplomacy=2
+	intrigue=7
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="patient"
+	trait="brave"
+	trait="lisp"
+	father=73195
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1075.1.1={
+		add_claim = d_zaragoza
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_toledo
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1075.7.1={
+		add_claim = d_valencia
+	}
+	1080.1.1={
+		add_claim = d_toledo
+		employer=108500
+	}
+	1081.1.1={
+		remove_claim = d_toledo
+		employer=0
+	}
+	1085.5.25={
+		employer=108500
+	}
+	1086.1.1={
+		remove_claim = d_valencia
+		employer=0
+	}
+	1092.10.28={
+		death="1092.10.28"
+	}
+}
+
+3912 = {
+	name="°¢±È-²®¿Ë¶û"	# AKA: Ibn Ammar
+	dynasty=12204
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="sunni"
+	culture="andalusian_arabic"
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1079.1.1={
+		add_claim = d_murcia
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+
+3914 = {
+	name="À­Ï£µÂ" # AKA: Ibn Rasiq
+	dynasty=572
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="cynical"
+	trait="tough_soldier"
+	father=73248
+	mother=45028
+	1048.1.1={
+		birth="1048.1.1"
+	}
+	1088.1.1={
+		death="1088.1.1"
+	}
+}
+
+3916={
+	name="°¢²·¶Å¶û-¹şÉ£"
+	dynasty=12205
+
+	religion=sunni
+	culture=andalusian_arabic
+
+	1059.1.1={
+		birth=yes
+	}
+	1115.1.1={
+		death=yes
+	}
+}
+
+45028 = {
+	name="°¢ºú"
+	female=yes
+	dynasty=572
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=45027
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+}
+
+20883={
+	name="°¢±È-°¢¶û-ÂíÀï¿Ë"
+	dynasty=586
+
+	religion=sunni
+	culture=andalusian_arabic
+
+	1026.1.1={
+		birth=yes
+	}
+	1103.1.1={
+		death=yes
+	}
+}
+
+20884 = {
+	name="Ò¶º£ÑÇ"
+	dynasty=586
+	martial=7
+	diplomacy=3
+	intrigue=4
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="tough_soldier"
+	father=20883
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+3900 = {
+	name="°¢±È-²®¿Ë¶û"
+	dynasty=573
+	martial=4
+	diplomacy=2
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="charitable"
+	trait="wroth"
+	trait="arbitrary"
+	trait="honest"
+	trait="amateurish_plotter"
+	father= 45007
+	1018.1.1={
+		birth="1018.1.1"
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+}
+
+3901 = {
+	name="Ò¶º£ÑÇ"
+	dynasty=573
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="honest"
+	trait="tough_soldier"
+	father=3900
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+}
+
+3902 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty=573
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="wroth"
+	trait="skilled_tactician"
+	father=3900
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1067.1.1={
+		add_claim = d_badajoz
+	}
+	1079.1.1={
+		remove_claim = d_badajoz
+		add_claim = d_zaragoza
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_toledo
+		add_claim = d_cordoba
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1080.1.1={
+		remove_claim = d_toledo
+	}
+	1081.11.1={
+		add_claim = d_toledo
+	}
+	1085.5.25={
+		remove_claim = d_toledo
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+45008 = {
+	name="·¨´ï¶û"
+	dynasty=573
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3902
+	1063.1.1={
+		birth="1063.1.1"
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+45007 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=573
+	martial=4
+	diplomacy=2
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_arabic"
+	trait="charitable"
+	trait="wroth"
+	trait="arbitrary"
+	trait="honest"
+	trait="amateurish_plotter"
+	991.1.1={
+		birth="991.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+
+45009 = {
+	name="°¢°ÎË¹"
+	dynasty=573
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3902
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+20858 = {
+	name="ÔúÎ÷´ï"
+	female=yes
+	dynasty=570
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=3924
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+73621={
+	name="ÈøµÂ"
+	dynasty = 12211
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73243
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+
+73622={
+	name="ÔúÑÓ"
+	dynasty = 12211
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73621
+	1184.1.1={
+		birth="1184.1.1"
+	}
+	1236.1.1={
+		add_claim = d_murcia
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1238.1.1={ 
+		remove_claim = d_sevilla
+	}
+	1239.1.1={
+		remove_claim = d_murcia
+	}
+	1241.1.1={
+		death="1241.1.1"
+	}
+}
+
+73623={
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73181
+	trait=bastard
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+73624={
+	name="ÓÈÉª·ò"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73623
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+
+73625={
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73624
+	1186.1.1={
+		birth="1186.1.1"
+	}
+	1228.1.1={
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_badajoz
+	}
+	1230.1.1={
+		remove_claim = d_mallorca
+	}
+	1230.3.19={
+		remove_claim = d_badajoz
+	}
+	1236.1.1={
+		remove_claim = d_valencia
+	}
+	1237.1.1={
+		add_claim = d_granada
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+
+73626={
+	name="°¢Àï"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73624
+	1188.1.1={
+		birth="1188.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+
+73627={
+	name="°¢±È-²®¿Ë¶û"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73625
+	1223.1.1={
+		birth="1223.1.1"
+	}
+	1238.1.1={
+		add_claim = d_granada
+	}
+	1238.7.1={
+		add_claim = d_murcia
+	}
+	1264.1.1={
+		remove_claim = d_murcia
+	}
+	1278.1.1={
+		death="1278.1.1"
+	}
+}
+
+73628={
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73625
+	1223.1.1={
+		birth="1223.1.1"
+	}
+	1241.1.1={
+		add_claim = d_granada
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+73629={
+	name="ÑÇ·¨"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73628
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1260.1.1={
+		add_claim = d_granada
+	}
+	1263.1.1={
+		death="1263.1.1"
+	}
+}
+
+73630={
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 599
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73629
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	1263.1.1={
+		add_claim = d_granada
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+
+73632={
+	name="ËÕ°¢ÒÁ²¼"
+	dynasty = 12261
+	religion="sunni"
+	culture="andalusian_arabic"
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1234.1.1={
+		add_claim = d_valencia
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1236.1.1={
+		remove_claim = d_valencia
+		remove_claim = d_cordoba
+	}
+	1238.1.1={ 
+		remove_claim = d_sevilla
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+73633={
+	name="°¢²·¶ÅÀ­"
+	dynasty = 12262
+	religion="sunni"
+	culture="andalusian_arabic"
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1241.1.1={
+		add_claim = d_murcia
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1244.1.1={
+		death="1244.1.1"
+	}
+}
+
+73634={
+	name="°¢Àï"
+	dynasty = 12262
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73633
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1244.1.1={
+		add_claim = d_murcia
+		add_claim = d_granada
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+
+73635={
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 12262
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73634
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1264.1.1={
+		add_claim = d_murcia
+		add_claim = d_granada
+	}
+	1266.1.1={
+		remove_claim = d_murcia
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+73636={
+	name="ÔŞÅ©"
+	dynasty = 12263
+	religion="sunni"
+	culture="andalusian_arabic"
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1228.1.1={
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1230.1.1={
+		remove_claim = d_mallorca
+	}
+	1230.3.19={
+		remove_claim = d_badajoz
+	}
+	1236.1.1={
+		remove_claim = d_valencia
+		remove_claim = d_cordoba
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+
+73637={
+	name="°¬¹şÂõµÂ"
+	dynasty = 12264
+	religion="sunni"
+	culture="andalusian_arabic"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1238.1.1={
+		add_claim = d_murcia
+		add_claim = d_granada
+	}
+	1251.1.1={
+		death="1251.1.1"
+	}
+}
+
+73638={
+	name="°¢Àï"
+	dynasty = 12265
+	religion="sunni"
+	culture="andalusian_arabic"
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1238.1.1={
+		add_claim = d_murcia
+		add_claim = d_granada
+	}
+	1266.1.1={
+		remove_claim = d_murcia
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+
+73639={
+	name="°¢²·¶Å À­ÃÅ"
+	dynasty=12266
+
+	religion=sunni
+	culture=andalusian_arabic
+
+	1206.1.1={
+		birth=yes
+	}
+	1248.1.1={
+		death=yes
+	}
+}
+
+73640={
+	name="ÎÚÂê¶û"
+	dynasty = 12267
+	religion="sunni"
+	culture="andalusian_arabic"
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1238.1.1={
+		add_claim = d_murcia
+		add_claim = d_granada
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+
+73641={
+	name="ÒÁË¹ÂêÒÇ"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73642
+	1279.1.1={
+		birth="1279.1.1"
+	}
+	1313.1.1={
+		add_spouse=73649
+		add_claim = d_granada
+	}
+	1314.2.8={
+		remove_claim = d_granada
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+
+73642={
+	name="·¨À­Ææ"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73654
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+73643={
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73642
+	1282.1.1={
+		birth="1282.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+73644={
+	name="ÒÁË¹ÂêÒÇ"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73643
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1359.1.1={
+		death="1359.1.1"
+	}
+}
+
+73645={
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73644
+	1332.1.1={
+		birth="1332.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+73646={
+	name="ÄÉÈø¶û"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73650
+	1287.11.2={
+		birth="1287.11.2"
+	}
+	1322.11.16={
+		death="1322.11.16"
+	}
+}
+
+73647={
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73650
+	1257.8.15={
+		birth="1257.8.15"
+	}
+	1314.1.21={
+		death="1314.1.21"
+	}
+}
+
+73648={
+	name="·¨µÙÂê"
+	female=yes
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73647
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+
+73649={
+	name="ËÕÀ­ÑÇ"
+	female=yes
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	mother=73648
+	1297.1.1={
+		birth="1297.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+73650={
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73651
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1302.4.7={
+		death="1302.4.7"
+	}
+}
+
+73651={
+	name="ÄÂº±ÄÂµÂ"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73653
+	1194.1.1={
+		birth="1194.1.1"
+	}
+	1232.1.1 = {
+		add_claim = d_granada
+	}
+	1237.1.1={
+		remove_claim = d_granada
+		add_claim = d_murcia
+		add_claim = d_sevilla
+	}
+	1238.1.1={
+		remove_claim = d_sevilla
+	}
+	1266.1.1={
+		remove_claim = d_murcia
+	}
+	1273.1.1={
+		death="1273.1.1"
+	}
+}
+
+73652={
+	name="ÓÈÉª·ò"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73651
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1295.1.1={
+		death="1295.1.1"
+	}
+}
+
+73653={
+	name="ÄÉÈø¶û"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+
+73654={
+	name="ÒÁË¹ÂêÒÇ"
+	dynasty = 101904
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=73653
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1274.1.1={
+		death="1274.1.1"
+	}
+}
+
+73665={
+	name="°¬¹şÂõµÂ"
+	dynasty = 12268
+	religion="sunni"
+	culture="andalusian_arabic"
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+73919 = {
+	name="ÄÂÈø"
+	dynasty=12260
+
+	father=73918
+
+	religion="sunni"
+	culture="andalusian_arabic"
+
+	969.1.1 = {
+		birth="969.1.1"
+	}
+	1030.1.1 = {
+		death="1030.1.1"
+	}
+}
+
+73920 = {
+	name="°¢±È-²®¿Ë¶û"
+	dynasty=12260
+
+	father=73919
+
+	religion="sunni"
+	culture="andalusian_arabic"
+
+	990.1.1 = {
+		birth="990.1.1"
+	}
+	1058.1.1 = {
+		death="1058.1.1"
+	}
+}
+
+73921 = {
+	name="·¨µÂ"
+	dynasty=12260
+
+	father=73920
+
+	religion="sunni"
+	culture="andalusian_arabic"
+
+	1015.1.1 = {
+		birth="1015.1.1"
+	}
+	1077.1.1 = {
+		death="1077.1.1"
+	}
+}
+
+73922={
+	name="°¢²·¶Å ÍßÏ£µÂ"
+	dynasty=12260
+
+	father=73921
+
+	religion=sunni
+	culture=andalusian_arabic
+
+	1041.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		death=yes
+	}
+}
+
+73923 = {
+	name="ÄÂÈø"
+	dynasty=12260
+
+	father=73922
+
+	religion="sunni"
+	culture="andalusian_arabic"
+
+	1068.1.1 = {
+		birth="1068.1.1"
+	}
+	1125.1.1 = {
+		death="1125.1.1"
+	}
+}
+
+73924 = {
+	name="º¹¶Ù"
+	dynasty=12260
+
+	father=73923
+
+	religion="sunni"
+	culture="andalusian_arabic"
+
+	1096.1.1 = {
+		birth="1096.1.1"
+	}
+	1157.1.1 = {
+		death="1157.1.1"
+	}
+}
+
+73925 = {
+	name="Ò×²·À­ĞÀ"
+	dynasty=12260
+
+	father=73924
+
+	religion="sunni"
+	culture="andalusian_arabic"
+
+	1122.1.1 = {
+		birth="1122.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+73926={
+	name="°¢²·¶Å ÂíÀû¿Ë"
+	dynasty=12260
+
+	father=73925
+
+	religion=sunni
+	culture=andalusian_arabic
+
+	1150.1.1={
+		birth=yes
+	}
+	1216.1.1={
+		death=yes
+	}
+}
+
+73631={
+	name="°¢Æë×È"
+	dynasty = 12260
+	father=73926
+	religion="sunni"
+	culture="andalusian_arabic"
+	1177.1.1={
+		birth="1177.1.1"
+	}
+	1238.7.1={
+		add_claim = d_granada
+	}
+	1239.1.1={
+		death="1239.1.1"
+	}
+}
+
+159521 = {
+	name="ÒÁÉ¯" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	720.1.1={
+		birth="720.1.1" #Unknown
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+159522 = {
+	name="ËÕ°¢ÒÁ²¼" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159521
+	740.1.1={
+		birth="740.1.1" #Unknown
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+159523 = {
+	name="¹ş·òË¹" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159522
+	760.1.1={
+		birth="760.1.1" #Unknown
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+159524 = {
+	name="ÎÚÂê¶û" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159523
+	780.1.1={
+		birth="780.1.1" #Unknown
+	}
+	827.1.1={
+		give_nickname = nick_the_fat
+	}
+	855.1.1={
+		death="855.1.1"
+	}
+}
+159525 = {
+	name="ËÕ°¢ÒÁ²¼" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159524
+	810.1.1={
+		birth="810.1.1" #Unknown
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+159526 = {
+	name="ÎÚÂê¶û" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159525
+	830.1.1={
+		birth="830.1.1" #Unknown
+	}
+	895.1.1={
+		death="895.1.1"
+	}
+}
+159527 = {
+	name="ÄÂº±ÄÂµÂ" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159525
+	835.1.1={
+		birth="835.1.1" #Unknown
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+159528 = {
+	name="ÓÈÉª·ò" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159526
+	860.1.1={
+		birth="860.1.1" #Unknown
+	}
+	915.1.1={
+		death="915.1.1"
+	}
+}
+159529 = {
+	name="°¬¹şÂõµÂ" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159526
+	860.1.1={
+		birth="860.1.1" #Unknown
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+159530 = {
+	name="°¢Àï" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159528
+	900.1.1={
+		birth="900.1.1" #Unknown
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+159531 = {
+	name="ËÕ°¢ÒÁ²¼" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159529
+	900.1.1={
+		birth="900.1.1" #Unknown
+	}
+	943.1.1={
+		death="943.1.1"
+	}
+}
+159532 = {
+	name="°¢Àï" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159529
+	905.1.1={
+		birth="905.1.1" #Unknown
+	}
+	949.1.1={
+		death="949.1.1"
+	}
+}
+159533 = {
+	name="°¢²·¶Å °¢Æë×È" #
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159531
+	920.1.1={
+		birth="920.1.1" #Unknown
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+159534 = {
+	name="Å¬Âü" # Anemas
+	dynasty=1029093
+	religion="sunni"
+	culture="andalusian_arabic"
+	father=159531
+	940.1.1={
+		birth="940.1.1" #Unknown
+	}
+	961.1.1={
+		religion="orthodox"
+		dynasty=101183
+	}
+	971.1.1={
+		death="971.1.1"
+	}
+}

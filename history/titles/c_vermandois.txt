@@ -1,0 +1,75 @@
+#Carolingian house of Vermandois
+687.1.1={
+	holder = 131720
+}
+714.1.17={
+	holder = 131721
+}
+769.1.1 = {
+	holder = 6392
+}
+834.1.1={
+	liege="k_france"
+	holder =6398 #Pépin
+}
+892.1.1={
+	holder = 6400 #Herbert I
+}
+907.1.1={
+	holder=6402 #Herbert II
+}
+943.1.1={
+	holder = 412 #Albert I
+}
+987.1.1={
+	holder = 414 #Albert II
+}
+1000.10.18={
+	holder = 416 #Otton de Vermandois
+}
+1045.1.1={
+	holder=418 #Herbert IV
+}
+1080.1.1={
+	holder=419 #Adèle de Vermandois
+}
+
+#Capetian house of Vermandois
+1085.1.1={
+	holder = 216 #Hugues le Grand
+}
+1101.10.18={
+	holder = 550 #Raoul de Vermandois
+}
+1152.10.13 = {
+	holder = 91079 #Élisabeth de Vermandois
+}
+1183.1.1 = {
+	holder = 212591 #Philippe I d'Alsace
+}
+1191.1.1 = {
+	holder = 91081 # Éléonore de Vermandois
+}
+
+#de Coucy
+
+1213.6.1=
+{
+	holder=204981 
+}
+1242.1.1=
+{
+	holder=454996 
+}
+1311.1.1=
+{
+	holder=454991
+}
+1322.1.24=
+{
+	holder=454990 
+}
+1335.1.1=
+{
+	holder=454980 
+}

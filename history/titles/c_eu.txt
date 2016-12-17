@@ -1,0 +1,72 @@
+760.1.1 = {
+	liege="k_france"
+	holder = 91477 #BAUGULF, historical count as placeholder
+}
+853.1.1={
+	liege="d_anjou"
+	holder = 6440 #Robert le fort
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+866.7.2={
+	holder = 168171
+}
+#de Normandie
+996.1.1={
+	liege="d_normandy"
+	holder=41012 #Godefroi de Brionne
+}
+1015.1.1={
+	holder=41013 #Gilbert de Brionne
+}
+1040.1.1={
+	holder=258 #Guillaume I
+}
+1058.1.1={
+	holder=6818 #Guillaume Busac
+}
+1077.1.27={
+	holder=6820 #Robert
+}
+1089.9.8={
+	holder=6822 #Guillaume II
+}
+1096.1.2={
+	holder=32211 #Henri
+}
+1140.7.12={
+	holder=32214 #Jean
+}
+1170.6.26={
+	holder=205920 #Henri II
+}
+
+#de Lusignan
+1195.1.2={
+	liege="k_france"
+	holder=205659 #Raoul I de Lusignan as count consort
+}
+1219.5.1={
+	holder=138000 #Alice d'Eu
+}
+1246.5.13={
+	holder=138007 #Raoul II de Lusignan
+}
+1246.9.2={
+	holder=138008 #Marie de Lusignan
+}
+
+#de Brienne
+
+1249.1.1={
+	holder=461744 #Alphonse de Brienne
+}
+1270.1.1={
+	holder=461745 #Jean de Brienne
+}
+1294.1.1={
+	holder=461746 #Jean de Brienne
+}
+1302.7.11={
+	holder=455850 #Raoul de Brienne
+}

@@ -1,0 +1,140 @@
+330.1.1={
+	liege="d_antioch"
+}
+733.1.1={
+	holder=146051
+}
+758.1.1={
+	holder=146049
+}
+791.1.1={
+	holder=146050
+}
+860.1.1 = {
+	liege="d_edessa"
+	holder=159736
+}
+969.1.1={
+	liege="d_antioch"
+}
+1060.1.1=
+{
+	holder=1758
+}
+1071.8.26=
+{
+	holder=85001
+}
+1084.2.1=
+{
+	holder = 41701
+}
+1086.1.1=
+{
+	holder = 93117
+}
+1092.1.1=
+{
+	holder=93118
+}
+1098.6.3=
+{
+	holder=1140 #Bohemond I de Hauteville
+}
+1105.1.1=
+{
+	holder=30871 #Tancred I de Hauteville (regent)
+}
+1112.12.5=
+{
+	holder=30877 #Roger I de Hauteville (regent)
+}
+1119.6.27=
+{
+	holder=223700 #Bohemond II de Hauteville
+}
+1130.1.5=
+{
+	holder=223525 #Foulques I d'Anjou (regent)
+}
+1136.4.1=
+{
+	holder=223740 #Raimond I de Poitou
+}
+1149.6.28=
+{
+	holder=223720 #Constance I de Hauteville
+}
+1153.1.1=
+{
+	holder=223590 #Renaud I de Chatillion
+}
+1160.1.1=
+{
+	holder=223750 #Bohemond III de Poitou
+}
+1201.3.20=
+{
+	holder=223755 #Bohemond IV de Poitou
+}
+1216.1.1=
+{
+	holder=31018 #Raymon-Roupen I de Poitou
+}
+1219.1.1=
+{
+	holder=223755 #Bohemond IV de Poitou
+}
+1233.3.1=
+{
+	holder=31024 #Bohemond V de Poitou
+}
+1252.1.1=
+{
+	holder=31031 #Bohemond VI de Poitou
+}
+
+#Antioch conquerd by Baibars
+
+1268.1.1=
+{
+	holder=32933 #K_Egypt
+}
+1277.7.1={
+	holder=32934
+}
+#1279.1.1={
+#	holder=32942
+#}
+1279.1.1=
+{ #Should be 1279.7.1, above holder does not exist
+	holder=32936
+}
+1291.11.10=
+{
+	holder=32937
+}
+1293.12.14=
+{
+	holder=485000
+}
+1294.7.1=
+{
+	holder=32938
+}
+1296.1.1=
+{
+	holder=32939
+}
+1299.1.1=
+{
+	holder=485000
+}
+1309.1.1=
+{
+	holder=32940
+}
+1309.11.1=
+{
+	holder=485000
+}

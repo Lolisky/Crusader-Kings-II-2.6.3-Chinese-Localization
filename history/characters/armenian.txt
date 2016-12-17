@@ -1,0 +1,8465 @@
+20562 = {
+	name="加布埃尔"
+	dynasty=100706
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="tough_soldier"
+	trait="cynical"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+
+223000 = {
+	name="列翁" #Prince of Cilicia 1185-1198, k. of Armenia 1198-1219
+	# AKA: Levon Medzakordz
+	dynasty=190
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="temperate"
+	trait="patient"
+	trait="diligent"
+	trait="charismatic_negotiator"
+	father=223010
+	mother=223029
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1215.1.1={
+		add_spouse=30995 #Sybille de Lusignan
+	}
+	
+	1219.5.2={
+		death="1219.5.2"
+	}
+}
+
+223003 = {
+	name="鲁本" #Prince of Cilicia 1174-1186
+	dynasty=190
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="just"
+	trait="temperate"
+	trait="martial_cleric"
+	father=223010
+	mother=223029
+	1146.1.1={
+		birth="1146.1.1"
+	}
+	1179.1.1={
+		add_spouse = 223004
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+223005 = {
+	name="爱丽丝"
+	female = yes
+	dynasty=190
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=223003
+	mother=223004
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+
+223006 = {
+	name="菲丽帕"
+	female = yes
+	dynasty=190
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="thrifty_clerk"
+	father=223003
+	mother=223004
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1219.1.1={
+		death="1219.1.1"
+	}
+}
+
+223010 = {
+	name="斯特凡" #Prince of Cilicia 1140-1145
+	# AKA: Stepane
+	dynasty=190
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="charismatic_negotiator"
+	father=223012
+	mother=223011
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1144.1.1={
+		add_spouse = 223029
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+223012 = {
+	name="列翁" #Prince of Cilicia 1130-1140
+	dynasty=190
+	martial=5
+	diplomacy=5
+	intrigue=2
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="misguided_warrior"
+	father=232563
+	1088.1.1={
+		birth="1088.1.1"
+	}
+	1104.1.1={
+		add_spouse=223011 #Beatrice de Rethel
+	}
+	1140.2.14={
+		death="1140.2.14"
+	}
+}
+
+223014 = {
+	name="托罗斯" #Prince of Cilicia 1145-1169
+	dynasty=190
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="tough_soldier"
+	father=223012
+	mother=223011
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1149.1.1={
+		add_spouse=232567 #Isabelle de Courtenay
+	}
+	
+	1164.1.1={
+		add_spouse=30992 #Mariam Rubenid
+	}
+	
+	1169.1.1={
+		death="1169.1.1"
+	}
+}
+
+223015 = {
+	name="扎贝尔"
+	female = yes
+	dynasty=190
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="amateurish_plotter"
+	father=223014
+	mother=232567
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+223026 = {
+	name="瓦萨格克"
+	dynasty=23003
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="cynical"
+	trait="tough_soldier"
+	father=223030
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1166.1.1={
+		add_spouse = 223027
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+223027 = {
+	name="莱塔"
+	female = yes
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="lisp"
+	trait="humble"
+	trait="charismatic_negotiator"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+223028 = {
+	name="高斯坦丁"
+	dynasty=23003
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="diligent"
+	trait="tough_soldier"
+	father=223026
+	mother=223027
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1205.1.1={
+		add_spouse=223037
+	}	
+	1263.1.1={
+		death="1263.1.1"
+	}
+}
+
+223029 = {
+	name="莱塔"
+	female = yes
+	dynasty=23003
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="cynical"
+	trait="envious"
+	trait="intricate_webweaver"
+	father=223030
+	1128.1.1={
+		birth="1128.1.1"
+	}
+	1178.1.1={
+		death="1178.1.1"
+	}
+}
+
+223030 = {
+	name="斯姆巴特" #Lord of Lampron
+	dynasty=23003
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="zealous"
+	trait="tough_soldier"
+	father=223031
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1153.1.1={
+		death="1153.1.1"
+	}
+}
+
+223031 = {
+	name="海屯姆" #Lord of Lampron
+	dynasty=23003
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="tough_soldier"
+	father=41591
+	1089.1.1={
+		birth="1089.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+223032 = {
+	name="奥辛" #Lord of Lampron
+	dynasty=23003
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="zealous"
+	trait="tough_soldier"
+	father=223031
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1150.1.1={
+		add_spouse=223033
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+223033 = {
+	name="斯堪图克得"
+	female = yes
+	dynasty=23002
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="greedy"
+	trait="just"
+	trait="amateurish_plotter"
+	father=232587
+	1136.1.1={
+		birth="1136.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+223034 = {
+	name="海屯姆"
+	# AKA: Oshin
+	dynasty=23003
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="zealous"
+	trait="chaste"
+	trait="tough_soldier"
+	father=223032
+	mother=223033
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1176.1.1={
+		add_spouse = 223035
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+
+223035 = {
+	name="马莱米克"
+	female = yes
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="zealous"
+	trait="lustful"
+	trait="naive_appeaser"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+223036 = {
+	name="高斯坦丁"
+	dynasty=23003
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="just"
+	trait="cynical"
+	trait="tough_soldier"
+	father=223034
+	mother=223035
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1220.1.1={
+		add_spouse=31831
+	}
+	1250.6.29={
+		death="1250.6.29"
+	}
+}
+
+223037 = {
+	name="帕扎派特"
+	#AKA Alix
+	female = yes
+	dynasty=23003
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="honest"
+	trait="gluttonous"
+	trait="thrifty_clerk"
+	father=223034
+	mother=223035
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1222.1.2={
+		death="1222.1.2"
+	}
+}
+
+232561 = {
+	name="鲁本" #Prince of Cilicia 1080 - 1095
+	dynasty=190
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="miaphysite"
+	culture="armenian"
+	trait="honest"
+	trait="tough_soldier"
+	father=159266
+	mother=159283
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1037.1.1={
+		add_spouse = 232562
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+232562 = {
+	name="考哈"
+	female = yes
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+232563 = {
+	name="高斯坦丁" #Prince of Cilicia 1095-1102
+	dynasty=190
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="cynical"
+	trait="tough_soldier"
+	father=232561
+	mother=232562
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1102.1.25={
+		death="1102.1.25"
+	}
+}
+
+232564 = {
+	name="托罗斯" #Prince of Cilicia 1102-1129
+	dynasty=190
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="diligent"
+	trait="brave"
+	trait="wroth"
+	trait="martial_cleric"
+	father=232563
+	1062.1.1={
+		birth="1062.1.1"
+	}
+	1129.1.1={
+		death="1129.1.1"
+	}
+}
+
+232565 = {
+	name="高斯坦丁" #Prince of Cilicia 1130
+	dynasty=190
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="ill"
+	father=232564
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+232566 = {
+	name="贝娅特丽丝"
+	female = yes
+	dynasty=190
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	father=232563
+	1087.1.1={
+		birth="1087.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+232568 = {
+	name="丽塔"
+	female = yes
+	dynasty=190
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	father=223014
+	mother=232567
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1169.1.1={
+		death="1169.1.1"
+	}
+}
+
+232569 = {
+	name="鲁本" #Prince of Cilicia 1170
+	dynasty=190
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	father=223014
+	mother=30992
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+232570 = {
+	name="高斯坦丁"
+	dynasty=190
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="maimed"
+	trait="wroth"
+	father=223012
+	mother=223011
+	1107.1.1={
+		birth="1107.1.1"
+	}
+	1138.1.1={
+		death="1138.1.1"
+	}
+}
+
+232571 = {
+	name="姆莱赫" #Prince of Cilicia 1170-1175
+	dynasty=190
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="envious"
+	trait="greedy"
+	trait="martial_cleric"
+	father=223012
+	mother=223011
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1170.1.1={
+	trait="kinslayer"
+	}
+	1175.1.16={
+		death="1175.1.16"
+	}
+}
+
+232572 = {
+	name="鲁本"
+	dynasty=190
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="maimed"
+	father=223012
+	mother=223011
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+
+232573 = {
+	name="克里克尔"
+	# AKA: Grigor
+	dynasty=190
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="bastard"
+	trait="tough_soldier"
+	father=232571
+	1174.1.1={
+		birth="1174.1.1"
+	}
+	1210.1.27={
+		death="1210.1.27"
+	}
+}
+
+232574 = {
+	name="斯姆巴特"
+	dynasty=23003
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="thrifty_clerk"
+	father=223026
+	mother=223027
+	1181.1.1={
+		birth="1181.1.1"
+	}
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+
+232575 = {
+	name="斯姆巴特" #Lord of Lampron
+	# AKA: Smbat
+	dynasty=23003
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="chaste"
+	trait="scholarly_theologian"
+	father=223032
+	mother=223033
+	1154.1.1={
+		birth="1154.1.1"
+	}
+	1204.1.1={
+		death="1204.1.1"
+	}
+}
+
+232576 = {
+	name="阿比拉德"
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	father=41586
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+232577 = {
+	name="瓦妮内"
+	female = yes
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	1084.1.1={
+		birth="1084.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+232578 = {
+	name="瓦萨克"
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="misguided_warrior"
+	father=232576
+	mother=232577
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1149.1.1={
+		death="1149.1.1"
+	}
+}
+
+232579 = {
+	name="马莱米克"
+	female=yes
+	dynasty=23003
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	father=223031
+	1117.1.1={
+		birth="1117.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+232580 = {
+	name="格里高尔 特加"
+	# AKA: Grigor Tgha
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="celibate"
+	trait="chaste"
+	trait="kind"
+	trait="scholarly_theologian"
+	father=232578
+	mother=232579
+	1136.1.1={
+		birth="1136.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+232581 = {
+	name="阿格阿维尼"
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	father=232578
+	mother=232579
+	1134.1.1={
+		birth="1134.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+232582 = {
+	name="曦尔瓦特"
+	female = yes
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	father=232578
+	mother=232579
+	1137.1.1={
+		birth="1137.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+232583 = {
+	name="格里高尔 Dgha "
+	# AKA: Grigor Dgha 
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	father=232576
+	mother=232577
+	1103.1.1={
+		birth="1103.1.1"
+	}
+	1168.1.9={
+		death="1168.1.9"
+	}
+}
+
+232584 = {
+	name="奈尔赛"
+	# AKA: Nerseh Shnorhali
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="scholarly_theologian"
+	father=232576
+	mother=232577
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1173.1.17={
+		death="1173.1.17"
+	}
+}
+
+232585 = {
+	name="阿比拉德"
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	father=232576
+	mother=232577
+	1107.1.1={
+		birth="1107.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+232586 = {
+	name="格里高尔"
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="proud"
+	trait="diligent"
+	trait="detached_priest"
+	father=232585
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+232587 = {
+	name="沙汗"
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	father=232576
+	mother=232577
+	1111.1.1={
+		birth="1111.1.1"
+	}
+	1173.1.1={
+		death="1173.1.1"
+	}
+}
+
+232588 = {
+	name="格里高尔"
+	# AKA: Grigor Abirat
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="mastermind_theologian"
+	father=232587
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1188.1.1={
+		death="1188.1.1"
+	}
+}
+
+232589 = {
+	name="米卡耶尔"
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="cynical"
+	trait="thrifty_clerk"
+	father=232587
+	1141.1.1={
+		birth="1141.1.1"
+	}
+	1191.1.1={
+		death="1191.1.1"
+	}
+}
+
+232590 = {
+	name="叶娃"
+	female = yes
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="zealous"
+	trait="thrifty_clerk"
+	father=232589
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+232591 = {
+	name="朝超安尔"
+	dynasty=23000
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	1114.1.1={
+		birth="1114.1.1"
+	}
+	1137.1.1={
+		add_spouse = 232582
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+232592 = {
+	name="海屯姆"
+	dynasty=23000
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="slothful"
+	trait="wroth"
+	trait="tough_soldier"
+	father=232591
+	mother=232582
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1205.1.1={
+		death="1205.1.1"
+	}
+}
+
+232593 = {
+	name="沙罕沙阿"
+	dynasty=23000
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="stutter"
+	trait="honest"
+	trait="amateurish_plotter"
+	father=232591
+	mother=232582
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1208.1.1={
+		death="1208.1.1"
+	}
+}
+
+232594 = {
+	name="高弗里都斯"
+	dynasty=23010
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="deceitful"
+	trait="underhanded_rogue"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+232595 = {
+	name="瓦拉姆"
+	dynasty=23010
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="tough_soldier"
+	father=232594
+	1177.1.1={
+		birth="1177.1.1"
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+
+232596 = {
+	name="乔斯琳"
+	female = yes
+	dynasty=23010
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="thrifty_clerk"
+	father=232594
+	1179.1.1={
+		birth="1179.1.1"
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+232597 = {
+	name="帕古然"
+	dynasty=23003
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="chaste"
+	trait="diligent"
+	trait="patient"
+	trait="tough_soldier"
+	father=223030
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1165.1.2={
+		add_spouse=232771
+	}
+	1192.1.1={
+		death="1192.1.1"
+	}
+}
+
+232771 = { 
+	name="塔库依 萨文"
+	# AKA: Takuhi Saven; used to be 232598
+	female = yes
+	dynasty=23002
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="arbitrary"
+	trait="patient"
+	trait="thrifty_clerk"
+	father=232587
+	1146.1.1={
+		birth="1146.1.1"
+	}
+	1196.1.1={
+		death="1196.1.1"
+	}
+}
+
+232758 = { 
+	name="撒吉斯"
+	dynasty=1029018
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="content"
+	trait="diligent"
+	trait="tough_soldier"
+	father=159219
+	1137.1.2={
+		birth="1137.1.2"
+	}
+	1187.1.2={
+		death="1187.1.2"
+	}
+}
+
+232759 = { 
+	name="扎卡莱"
+	dynasty=1029018
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	father=232758
+	trait="brave"
+	trait="tough_soldier"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+232760 = { 
+	name="艾阿内"
+	dynasty=1029018
+	religion="miaphysite"
+	culture="armenian"
+	father=232758
+	trait="tough_soldier"
+	1161.1.1={
+		birth="1161.1.1"
+	}
+	1200.1.1={
+		name="乔安娜"
+		religion="orthodox"
+		culture="georgian"
+		dynasty=101747
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+232761 = { 
+	name="娜娜"
+	dynasty=1029018
+	female=yes
+	religion="miaphysite"
+	culture="armenian"
+	father=232758
+	1169.1.2={
+		birth="1169.1.2"
+	}
+	1219.1.2={
+		death="1219.1.2"
+	}
+}
+
+232768 = {
+	name="鲍特绍"
+	dynasty=42
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="craven"
+	trait="diligent"
+	trait="wroth"
+	trait="elusive_shadow"
+	1159.1.1={
+		birth="1159.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+30920 = {
+	name="阿尔道依"
+	# AKA: Arda
+	female=yes
+	dynasty=190 #Rubenid
+	
+	religion="miaphysite"
+	culture="armenian"
+	
+	father=232564
+	
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+30990 = {
+	name="玛利亚姆" #real name unknown
+	female=yes
+	dynasty=190
+	
+	religion="miaphysite"
+	culture="armenian"
+	
+	father=223012
+	mother=223011
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+30991 = {
+	name="托马斯" 
+	dynasty=190
+	
+	religion="miaphysite"
+	culture="armenian"
+	
+	mother=30990
+	1126.1.1={
+		birth="1126.1.1"
+	}
+	
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+30992 = {
+	name="玛利亚姆" 
+	female=yes
+	dynasty=190
+	
+	religion="miaphysite"
+	culture="armenian"
+	
+	father=30991
+	1143.1.1={
+		birth="1143.1.1"
+	}
+	
+	1168.1.1={
+		death="1168.1.1"
+	}
+}
+
+30993 = {
+	name="史蒂凡妮"
+	female=yes
+	dynasty=190
+	religion="miaphysite"
+	culture="armenian"
+	father=223012
+	mother=223011
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+30994 = {
+	name="道莱塔"
+	female=yes
+	dynasty=190
+	
+	religion="miaphysite"
+	culture="armenian"
+	
+	father=223010
+	mother=223029
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	
+	1217.1.1={
+		death="1217.1.1"
+	}
+}
+
+30998 = {
+	name="扎贝尔"
+	female = yes
+	dynasty=190
+	religion="miaphysite"
+	culture="armenian"
+	father=223000
+	mother=30995
+	1216.1.1={
+		birth="1216.1.1"
+	}
+	#1231 married Hethum I 
+	1252.1.23={
+		death="1252.1.23"
+	}
+}
+
+30999 = {
+	name="丽塔"
+	female = yes
+	dynasty=190
+	religion="miaphysite"
+	culture="armenian"
+	father=223000
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1220.6.1={
+		death="1220.6.1"
+	}
+}
+
+31033 = {
+	name="西比拉"
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31830
+	mother=30998
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1290.1.1={ 
+		death="1290.1.1"
+	}
+}
+
+41336 = {
+	name="达维特"
+	dynasty=507
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="flamboyant_schemer"
+	father=41513
+	mother=41334
+	1048.1.1={
+		birth="1048.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+41337 = {
+	name="阿巴斯"
+	dynasty=507
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="underhanded_rogue"
+	father=41513
+	mother=41334
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1109.1.1={
+		death="1109.1.1"
+	}
+}
+
+41500 = {
+	name="阿绍特"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=70447
+	685.1.1={
+		birth="685.1.1"
+	}
+	745.1.1={
+		trait="blinded"
+	}
+	749.1.1={
+		death="749.1.1"
+	}
+}
+
+41501 = {
+	name="斯姆巴特"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41500
+	715.1.1={
+		birth="715.1.1"
+	}
+	775.4.15={
+		death="775.4.15"
+	}
+}
+
+41502 = {
+	name="阿绍特"
+	# AKA: Ashot Msaker
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41501
+	755.1.1={
+		birth="755.1.1"
+	}
+	785.1.1={
+		add_spouse=159882
+	}
+	826.1.1={
+		death="826.1.1"
+	}
+}
+
+41503 = {
+	name="斯姆巴特"
+	female=yes
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41502
+	mother=159882
+	815.1.1={
+		birth="815.1.1"
+	}
+	827.1.1={
+		add_spouse=41559
+	}
+	882.1.1={
+		death="882.1.1"
+	}
+}
+
+41504 = {
+	name="斯姆巴特"
+	# AKA: Smbat Ablabas
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41502
+	mother=159882
+	785.1.1={
+		birth="785.1.1"
+	}
+#	820.1.1={
+#		add_spouse = 125884
+#	}
+	862.1.1={
+		death="862.1.1"
+		give_nickname = nick_the_confessor
+	}
+}
+
+41505 = {
+	name="阿绍特"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41504
+	mother=159884
+	820.1.1={
+		birth="820.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+41506 = {
+	name="斯姆巴特"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41505
+	850.1.1={
+		birth="850.1.1"
+	}
+	912.1.1={
+		death="912.1.1"
+	}
+}
+
+41507 = {
+	name="阿绍特"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41506
+	869.1.1={
+		birth="869.1.1"
+	}
+	928.1.1={
+		death="928.1.1"
+	}
+}
+
+41508 = {
+	name="阿巴斯"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41506
+	875.1.1={
+		birth="875.1.1"
+	}
+	951.1.1={
+		death="951.1.1"
+	}
+}
+
+41509 = {
+	name="阿绍特"
+	# AKA: Ashot Oghormac
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41508
+	905.1.1={
+		birth="905.1.1"
+	}
+	977.1.1={
+		death="977.1.1"
+	}
+}
+
+41510 = {
+	name="斯姆巴特"
+	# AKA: Smbat Tiezerakal
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41509
+	933.1.1={
+		birth="933.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+41511 = {
+	name="古尔跟·柯维瑞凯"
+	# AKA: Kvirike
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41509
+	937.1.2={
+		birth="937.1.2"
+	}
+	989.1.1={
+		death="989.1.1"
+	}
+}
+
+41512 = {
+	name="达维特"
+	# AKA: Davit Anhoghin
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41511
+	988.1.1={
+		birth="988.1.1"
+	}
+	1048.1.1={
+		death="1048.1.1"
+	}
+}
+
+41513 = {
+	name="柯维瑞凯"
+	dynasty=507
+	martial=1
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="underhanded_rogue"
+	father=41512
+	1018.1.1={
+		birth="1018.1.1"
+	}
+	1049.1.1={
+		add_spouse=41334
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+41514 = {
+	name="加吉克"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41512
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1049.1.1={
+		add_spouse=41335
+	}
+	1058.1.1={
+		death="1058.1.1"
+	}
+}
+
+41517 = {
+	name="海屯姆"
+	dynasty=507
+	martial=6
+	diplomacy=10
+	intrigue=1
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="underhanded_rogue"
+	father=41513
+	mother=41334
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+41518 = {
+	name="玛拉"
+	female = yes
+	dynasty=507
+	martial=8
+	diplomacy=4
+	intrigue=10
+	stewardship=8
+	religion="miaphysite"
+	culture="armenian"
+	trait="elusive_shadow"
+	father=41521
+	1027.1.1={
+		birth="1027.1.1"
+	}
+	1092.1.1={
+		death="1092.1.1"
+	}
+}
+
+41519 = {
+	name="加吉克"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41509
+	950.1.1={
+		birth="950.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+41520 = {
+	name="斯姆巴特"
+	# AKA: Smbat Hovhannes
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41519
+	995.1.1={
+		birth="995.1.1"
+	}
+	1041.1.1={
+		death="1041.1.1"
+	}
+}
+
+41521 = {
+	name="阿绍特"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41519
+	997.1.1={
+		birth="997.1.1"
+	}
+	1041.9.1={
+		death="1041.9.1"
+	}
+}
+
+41522 = {
+	name="加吉克"
+	dynasty=507
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=9
+	religion="miaphysite"
+	culture="armenian"
+	trait="indulgent_wastrel"
+	father=41521
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1050.1.1={
+		add_spouse=41579
+	}
+	1076.3.2={
+		death="1076.3.2"
+	}
+}
+
+41524 = {
+	name="穆舍尔"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41508
+	910.1.1={
+		birth="910.1.1"
+	}
+	984.1.1={
+		death="984.1.1"
+	}
+}
+
+41525 = {
+	name="阿巴斯"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41524
+	940.1.1={
+		birth="940.1.1"
+	}
+	1024.1.1={
+		death="1024.1.1"
+	}
+}
+
+41526 = {
+	name="加吉克"
+	# AKA: Gagik Abas
+	dynasty=507
+	martial=3
+	diplomacy=6
+	intrigue=3
+	stewardship=10
+	religion="miaphysite"
+	culture="armenian"
+	trait="indulgent_wastrel"
+	father=41525
+	970.1.1={
+		birth="970.1.1"
+	}
+	1066.1.1={
+	employer=41513
+	}
+	1069.1.1={
+		death="1069.1.1"
+	}
+}
+
+41527 = {
+	name="索丕"
+	female = yes
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41505
+	860.1.1={
+		birth="860.1.1"
+	}
+	889.1.1={
+		death="889.1.1"
+	}
+}
+
+41528 = {
+	name="玛拉"
+	female = yes
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41504
+	mother=159884
+	824.1.1={
+		birth="824.1.1"
+	}
+	884.1.1={
+		death="884.1.1"
+	}
+}
+
+41530 = {
+	name="巴格拉特"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41502
+	mother=159882
+	789.1.1={
+		birth="789.1.1"
+	}
+	851.1.1={
+		death="851.1.1"
+	}
+}
+
+41531 = {
+	name="陶尔尼克"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41530
+	840.1.1={
+		birth="840.1.1"
+	}
+	903.1.1={
+		death="903.1.1"
+	}
+}
+
+41532 = {
+	name="格里高尔"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41531
+	863.1.1={
+		birth="863.1.1"
+	}
+	923.1.1={
+		death="923.1.1"
+	}
+}
+
+41533 = {
+	name="阿绍特"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41532
+	893.1.1={
+		birth="893.1.1"
+	}
+	968.1.1={
+		death="968.1.1"
+	}
+}
+
+41534 = {
+	name="格里高尔"
+	dynasty=101510
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41533
+	912.1.1={
+		birth="912.1.1"
+	}
+	995.1.1={
+		death="995.1.1"
+	}
+}
+
+41535 = {
+	name="阿绍特"
+	dynasty=101510
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41534
+	950.1.1={
+		birth="950.1.1"
+	}
+	998.1.1={
+		add_spouse=41323
+	}
+	1008.1.1={
+		death="1008.1.1"
+	}
+}
+
+41538 = {
+	name="瓦萨卡"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41500
+	720.1.1={
+		birth="720.1.1"
+	}
+	765.1.1={
+		death="765.1.1"
+	}
+}
+41539 = {
+	name="Atrnerseh"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41538
+	740.1.1={
+		birth="740.1.1"
+	}
+	765.1.1={
+		add_spouse = 159790
+	}
+	809.1.1={
+		death="809.1.1"
+		name="Adanarse"
+		religion="orthodox"
+		culture="georgian"
+	}
+}
+
+41540 = {
+	name="Ashot"
+	dynasty=507
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="kind"
+	trait="thrifty_clerk"
+	father=41539
+	mother=159790
+	765.1.1={
+		birth="765.1.1"
+	}
+	809.1.1={
+		religion="orthodox"
+		culture="georgian"
+	}
+	826.1.29={
+		death="826.1.29"
+	}
+}
+
+41556 = {
+	name="斯姆巴特"
+	dynasty=101743
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="incapable"
+	trait="tough_soldier"
+	father=41555
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1071.8.26={
+		death="1071.8.26"
+	}
+}
+
+41557 = {
+	name="格里高尔"
+	dynasty=101743
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="miaphysite"
+	culture="armenian"
+	trait="brave"
+	trait="gluttonous"
+	trait="tough_soldier"
+	father=41555
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1050.1.1={
+		add_spouse=159240
+	}
+	1084.1.1={
+		death="1084.1.1"
+	}
+}
+
+41558 = {
+	name="郝万奈斯"
+	dynasty=101743
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion=miaphysite
+	culture=armenian
+	trait=tough_soldier
+	father=41557
+	mother=159240
+	1050.1.1={
+		birth=yes
+	}
+	1066.1.1={
+		effect = {
+			give_job_title=job_spymaster
+		}
+	}
+	1105.1.1={
+		death=yes
+	}
+}
+
+41559 = {
+	name="哈马扎斯"
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=160014
+	810.1.1={
+		birth="810.1.1"
+	}
+	827.1.1={
+		add_spouse=41503
+	}
+	836.1.1={
+		death="836.1.1"
+	}
+}
+
+41560 = {
+	name="阿绍特"
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41559
+	mother=41503
+	828.1.1={
+		birth="828.1.1"
+	}
+	874.1.1={
+		death="874.1.1"
+	}
+}
+
+41561 = {
+	name="玛利亚姆"
+	female = yes
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41560
+	854.1.1={
+		birth="854.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+41562 = {
+	name="格里高尔"
+	# AKA: Grigor Derenik
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41560
+	855.1.1={
+		birth="855.1.1"
+	}
+	872.1.1={
+		add_spouse=41527
+	}
+	887.1.1={
+		death="887.1.1"
+	}
+}
+
+41563 = {
+	name="加吉克"
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41562
+	mother=41527
+	873.1.1={
+		birth="873.1.1"
+	}
+	943.1.1={
+		death="943.1.1"
+	}
+}
+
+41564 = {
+	name="德仁尼克"
+	# AKA: Derenik Ashot
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41563
+	903.1.1={
+		birth="903.1.1"
+	}
+	953.1.1={
+		death="953.1.1"
+	}
+}
+
+41565 = {
+	name="格里高尔"
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41564
+	950.1.1={
+		birth="950.1.1"
+	}
+	1016.1.1={
+		death="1016.1.1"
+	}
+}
+
+41566 = {
+	name="加吉克"
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41565
+	979.1.1={
+		birth="979.1.1"
+	}
+	1036.1.1={
+		death="1036.1.1"
+	}
+}
+
+41567 = {
+	name="哈桑"
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41566
+	990.1.1={
+		birth="990.1.1"
+	}
+	1057.1.1={
+		death="1057.1.1"
+	}
+}
+
+41568 = {
+	name="阿比拉格里卜"
+	dynasty=101736
+	martial=1
+	diplomacy=8
+	intrigue=9
+	stewardship=2
+	religion="miaphysite"
+	culture="armenian"
+	trait="ill"
+	trait="flamboyant_schemer"
+	father=41567
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1068.1.1={
+		death="1068.1.1"
+	}
+}
+
+41569 = {
+	name="伽达伊"
+	dynasty=101736
+	female=yes
+	martial=2
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="flamboyant_schemer"
+	father=41568
+	1047.1.1={
+		birth="1047.1.1"
+	}
+	1109.1.1={
+		death="1109.1.1"
+	}
+}
+
+41570 = {
+	name="阿比萨尔·哈马扎斯帕"
+	# AKA: Abusahl Hamazasp
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41563
+	910.1.1={
+		birth="910.1.1"
+	}
+	972.1.1={
+		death="972.1.1"
+	}
+}
+
+41571 = {
+	name="阿绍特·萨阿卡"
+	# AKA: Ashot Sahak
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41570
+	926.1.1={
+		birth="926.1.1"
+	}
+	983.1.1={
+		death="983.1.1"
+	}
+}
+
+41572 = {
+	name="古尔跟·哈齐克"
+	# AKA: Gurgen Khachik
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41571
+	945.1.1={
+		birth="945.1.1"
+	}
+	1003.1.1={
+		death="1003.1.1"
+	}
+}
+
+41573 = {
+	name="加吉克"
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41572
+	965.1.1={
+		birth="965.1.1"
+	}
+	1023.1.1={
+		death="1023.1.1"
+	}
+}
+
+41574 = {
+	name="古尔根"
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41573
+	995.1.1={
+		birth="995.1.1"
+	}
+	1048.1.1={
+		death="1048.1.1"
+	}
+}
+
+41575 = {
+	name="加吉克"
+	dynasty=101736
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="mastermind_theologian"
+	father=41574
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+41576 = {
+	name="郝万奈斯·谢涅克里姆"
+	# AKA: Hovhannes Senek'erim
+	dynasty=101736
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=41570
+	970.1.1={
+		birth="970.1.1"
+	}
+	1000.1.1={
+		add_spouse=159282
+	}
+	1024.1.1={
+		death="1024.1.1"
+	}
+}
+
+41578 = {
+	name="达维特"
+	dynasty=101736
+	martial=2
+	diplomacy=1
+	intrigue=7
+	stewardship=10
+	religion="miaphysite"
+	culture="armenian"
+	trait="thrifty_clerk"
+	father=41576
+	mother=159282
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1050.1.2={
+		death="1050.1.2"
+	}
+}
+
+41579 = {
+	name="阿努什"
+	female = yes
+	dynasty=101736
+	martial=1
+	diplomacy=2
+	intrigue=7
+	stewardship=8
+	religion="miaphysite"
+	culture="armenian"
+	trait="indulgent_wastrel"
+	father=41578
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1092.1.1={
+		death="1092.1.1"
+	}
+}
+
+41580 = {
+	name="阿童木"
+	dynasty=101736
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=2
+	religion="miaphysite"
+	culture="armenian"
+	trait="tough_soldier"
+	father=41576
+	mother=159282
+	1001.1.1={
+		birth="1001.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+41581 = {
+	name="阿比萨尔"
+	dynasty=101736
+	martial=7
+	diplomacy=3
+	intrigue=3
+	stewardship=8
+	religion="miaphysite"
+	culture="armenian"
+	trait="thrifty_clerk"
+	father=41576
+	mother=159282
+	1002.1.1={
+		birth="1002.1.1"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+}
+
+41583 = {
+	name="瓦萨克"
+	dynasty=23002
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="humble"
+	trait="just"
+	trait="chaste"
+	trait="tough_soldier"
+	father=90084
+	965.1.1={
+		birth="965.1.1"
+	}
+	1021.1.1={
+		death="1021.1.1"
+	}
+}
+
+41584 = {
+	name="格里高尔"
+	# AKA: Grigor Magistros
+	dynasty=23002
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="patient"
+	trait="just"
+	trait="zealous"
+	trait="kind"
+	trait="midas_touched"
+	father=41583
+	990.1.1={
+		birth="990.1.1"
+	}
+	1059.1.1={
+		death="1059.1.1"
+	}
+}
+
+41585 = {
+	name="格里高尔"
+	# AKA: Grigor Ykayaser
+	dynasty=23002
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="zealous"
+	trait="patient"
+	trait="honest"
+	trait="naive_appeaser"
+	father=41584
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+41586 = {
+	name="萨尔克斯"
+	dynasty=23002
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="gluttonous"
+	trait="wroth"
+	trait="thrifty_clerk"
+	father=41585
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1099.1.1={
+		death="1099.1.1"
+	}
+}
+
+41587 = {
+	name="忒奥多拉桑提"
+	dynasty=23002
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="proud"
+	trait="diligent"
+	trait="brave"
+	trait="tough_soldier"
+	father=41585
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+41588 = {
+	name="破高斯"
+	dynasty=23002
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="cynical"
+	trait="thrifty_clerk"
+	father=41585
+	1053.1.1={
+		birth="1053.1.1"
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+
+41589 = {
+	name="海屯姆"
+	dynasty=23002
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="miaphysite"
+	culture="armenian"
+	trait="patient"
+	trait="honest"
+	trait="diligent"
+	trait="thrifty_clerk"
+	father=70440
+	1006.1.1={
+		birth="1006.1.1"
+	}
+	1040.1.1={
+		add_spouse=159289
+	}
+	1072.1.1={
+		death="1072.1.1"
+	}
+}
+
+41590 = {
+	name="托罗斯"
+	# AKA: Thoros
+	dynasty=23002
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="miaphysite"
+	culture="armenian"
+	trait="greedy"
+	trait="honest"
+	trait="tough_soldier"
+	father=41589
+	mother=159289
+	1051.1.1={
+		birth="1051.1.1"
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+
+41591 = {
+	name="奥辛姆" #Lord of Lampron
+	dynasty=23002
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="slothful"
+	trait="gluttonous"
+	trait="brave"
+	trait="tough_soldier"
+	father=41589
+	mother=159289
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1076.1.1={
+		dynasty=23003
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+4554 = {
+	name="考哈"
+	female = yes
+	dynasty=44
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="fortune_builder"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+461798 = {
+	name="阿里克斯"
+	female = yes
+	dynasty=23003
+	martial=2
+	diplomacy=3
+	intrigue=5
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="humble"
+	trait="amateurish_plotter"
+	father=31872
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1329.1.1={
+		death="1329.1.1"
+	}
+}
+
+461799 = {
+	name="海屯姆"
+	dynasty=23003
+	martial=3
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="inbred"
+	trait="thrifty_clerk"
+	father=461800
+	mother=461798
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1330.1.2={
+		death="1330.1.2"
+	}
+}
+
+461800 = {
+	name="列翁" #king of Armenia 1320-1341
+	dynasty=23003
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="slothful"
+	trait="underhanded_rogue"
+	trait="kinslayer"
+	father=461803
+	mother=31877
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1312.1.1={
+		add_spouse=461798
+	}
+	1333.1.1={
+		add_spouse=461509
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+
+461801 = {
+	name="托罗斯" #king of Armenia 1293-1294
+	dynasty=23003
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="deceitful"
+	trait="tough_soldier"
+	father=461802
+	mother=31851
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1292.1.1={
+		add_spouse = 461914
+	}
+	1298.7.23={
+		death="1298.7.23"
+	}
+}
+
+461802 = {
+	name="列翁" #king of Armenia 1270-1289
+	dynasty=23003
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="indulgent_wastrel"
+	father=31830
+	mother=30998
+	1236.1.1={
+		birth="1236.1.1"
+	}
+	1265.1.1={
+		add_spouse=31851
+	}	
+	1289.1.1={
+		death="1289.1.1"
+	}
+}
+
+461803 = {
+	name="奥辛姆" #king of Armenia 1308-1320
+	dynasty=23003
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="cynical"
+	trait="tough_soldier"
+	father=461802
+	mother=31851
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1300.1.1={
+		add_spouse=31877
+	}
+	1320.7.20={
+		death="1320.7.20"
+	}
+}
+
+461804 = {
+	name="玛利亚"
+	female = yes
+	dynasty=23003
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="cynical"
+	trait="temperate"
+	trait="naive_appeaser"
+	father=461803
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1363.1.1={
+		death="1363.1.1"
+	}
+}
+
+461917 = {
+	name="扎贝尔"
+	female = yes
+	dynasty=23003
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="underhanded_rogue"
+	father=461802
+	mother=31851
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1323.1.1={
+		death="1323.1.1"
+	}
+}
+
+465911 = {
+	name="莱塔"
+	# AKA: Rita-Maria
+	female = yes
+	dynasty=23003
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=8
+	religion="miaphysite"
+	culture="armenian"
+	trait="patient"
+	trait="inbred"
+	trait="amateurish_plotter"
+	father=461802
+	mother=31851
+	1283.1.2={
+		birth="1283.1.2"
+	}
+	1333.1.2={
+		death="1333.1.2"
+	}
+}
+
+70440 = {
+	name="海屯姆"
+	dynasty=23002
+	martial=5
+	diplomacy=9
+	intrigue=8
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="scholar"
+	trait="thrifty_clerk"
+	father=41583
+	
+	990.1.1={
+		birth="990.1.1"
+	}
+	1071.1.1={
+		death="1071.1.1"
+	}
+}
+
+70445 = {
+	name="海文奈斯"
+	dynasty=507
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="homosexual"
+	trait="envious"
+	trait="tough_soldier"
+	father=41522
+	mother=41579
+	1054.1.1={
+		birth="1054.1.1"
+	}
+	1099.1.1={
+		death="1099.1.1"
+	}
+}
+
+70446 = {
+	name="达维特"
+	dynasty=507
+	martial=6
+	diplomacy=3
+	intrigue=6
+	stewardship=3
+	religion="miaphysite"
+	culture="armenian"
+	trait="kind"
+	trait="temperate"
+	trait="indulgent_wastrel"
+	father=41522
+	mother=41579
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+
+70447 = {
+	name="斯姆巴特"
+	dynasty=507
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="trusting"
+	trait="gregarious"
+	trait="tough_soldier"
+	father=70448
+	660.1.1={
+		birth="660.1.1"
+	}
+	726.1.1={
+		death="726.1.1"
+	}
+}
+
+70448 = {
+	name="阿绍特"
+	dynasty=507
+	martial=5
+	diplomacy=3
+	intrigue=4
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="shy"
+	trait="patient"
+	trait="underhanded_rogue"
+	father=159918
+	633.1.1={
+		birth="633.1.1"
+	}
+	690.1.1={
+		death="690.1.1"
+	}
+}
+
+70450 = {
+	name="穆舍尔" #VI
+	dynasty=23006
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="brave"
+	trait="proud"
+	trait="tough_soldier"
+	father=159874
+	
+	710.1.1={
+		birth="710.1.1"
+	}
+	754.1.1={
+		add_claim = d_armenia
+	}
+	774.1.1={
+		death="774.1.1"
+	}
+}
+
+70451 = {
+	name="格里高尔"
+	dynasty=23006
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="cynical"
+	trait="craven"
+	trait="naive_appeaser"
+	father=159874
+	
+	705.1.1={
+		birth="705.1.1"
+	}
+	750.1.1={
+		death="750.1.1"
+	}
+}
+
+70452 = {
+	name="格里高尔"
+	dynasty=23006
+	martial=4
+	diplomacy=3
+	intrigue=6
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="humble"
+	trait="duelist"
+	trait="skilled_tactician"
+	father=70454
+	620.1.1={
+		birth="620.1.1"
+	}
+	684.1.1={
+		death="684.1.1"
+	}
+}
+
+70453 = {
+	name="穆舍尔"
+	dynasty=23006
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="greedy"
+	trait="trusting"
+	trait="fortune_builder"
+	father=70452
+	675.1.1={
+		birth="675.1.1"
+	}
+	743.1.1={
+		death="743.1.1"
+	}
+}
+
+70454 = {
+	name="穆舍尔"
+	dynasty=23006
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=3
+	religion="miaphysite"
+	culture="armenian"
+	trait="cynical"
+	trait="arbitrary"
+	trait="tough_soldier"
+	father=70455
+	595.1.1={
+		birth="595.1.1"
+	}
+	660.1.1={
+		death="660.1.1"
+	}
+}
+
+70455 = {
+	name="达维特"
+	dynasty=23006
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="gregarious"
+	trait="wroth"
+	trait="amateurish_plotter"
+	father=159865
+	mother=159917
+	545.1.1={
+		birth="545.1.1"
+	}
+	570.1.1={
+		add_spouse = 159931
+	}
+	607.1.1={
+		death="607.1.1"
+	}
+}
+
+85001 = {
+	name="瓦拉姆"
+	# AKA: Philaretos Brakhamios
+	dynasty=20063
+	martial=9
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	trait="envious"
+	trait="gregarious"
+	trait="cynical"
+	trait="greedy"
+	trait="skilled_tactician"
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+
+90024 = {
+	name="考欧守斯"
+	dynasty=100706
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="tough_soldier"
+	father=20562
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1109.1.1={
+		death="1109.1.1"
+	}
+}
+
+90025 = {
+	name="莫菲娅"
+	female = yes
+	dynasty=100706
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="amateurish_plotter"
+	father=20562
+	1062.1.1={
+		birth="1062.1.1"
+	}
+	1127.1.1={
+		death="1127.1.1"
+	}
+}
+
+90026 = {
+	name="贝娅特丽丝"
+	female = yes
+	dynasty=100706
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="miaphysite"
+	culture="armenian"
+	trait="fortune_builder"
+	father=20562
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+90084 = {
+	name="阿比拉德"
+	dynasty=23002
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	father=159260
+	trait="indulgent_wastrel"
+	946.1.1={
+		birth="946.1.1"
+	}
+	991.1.1={
+		death="991.1.1"
+	}
+}
+
+90087 = {
+	name="阿比拉格里卜"
+	# AKA: Abelgharib
+	dynasty=20063
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="miaphysite"
+	culture="armenian"
+	trait="tough_soldier"
+	trait="honest"
+	father=85001
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+90088 = {
+	name="里格斯"
+	dynasty=20063
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="greedy"
+	father=85001
+	1062.1.1={
+		birth="1062.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+9951 = {
+	name="玛利亚姆"
+	female = yes
+	dynasty=101736
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	trait="amateurish_plotter"
+	father=41576
+	mother=159282
+	1004.1.1={
+		birth="1004.1.1"
+	}
+	1072.11.1={
+		death="1072.11.1"
+	}
+}
+
+9955 = {
+	name="海伦娜"
+	female = yes
+	dynasty=507
+	martial=8
+	diplomacy=7
+	intrigue=8
+	stewardship=10
+	religion="miaphysite"
+	culture="armenian"
+	trait="diligent"
+	trait="thrifty_clerk"
+	father=41522
+	mother=41579
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+31830 = {
+	name="海屯姆" #Hethum I
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	mother=223037
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1226.1.1={
+		add_spouse=30998
+	}
+	1270.10.28={
+		death="1270.10.28"
+	}
+}
+
+31831 = {
+	name="史蒂凡妮"
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	1204.1.1={
+		birth="1204.1.1"
+	}
+	#married Gosdantin lord of Lampron
+	1274.1.1={
+		death="1274.1.1"
+	}
+}
+
+31832 = {
+	name="斯姆巴特" #lord of Barbaron
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	mother=223037
+	1206.1.1={
+		birth="1206.1.1"
+	}
+	#married Bkhatakhavor Kathun
+	1276.1.1={
+		death="1276.1.1"
+	}
+}
+31833 = {
+	name="奥辛姆" #lord of Korikos
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	mother=223037
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1241.1.1={
+		add_spouse=31869
+	}
+	1265.12.25={
+		death="1265.12.25"
+	}
+}
+31834 = {
+	name="海文奈斯" #bishop of Sis
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	1223.1.1={
+		birth="1223.1.1"
+	}
+	1289.1.1={
+		death="1289.1.1"
+	}
+}
+
+31835 = {
+	name="玛利亚"
+	#AKA Kalamaria
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	mother=223037
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	#1237 married Jean d'Ibelin ct of Jaffa-Ascalon
+	1263.1.15={
+		death="1263.1.15"
+	}
+}
+
+31836 = {
+	name="艾米琳"
+	#AKA Stephanie or Estienette
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	mother=223037
+	1211.1.1={
+		birth="1211.1.1"
+	}
+	#married 1237 Henry I Lusignan of Cyprus
+	1263.1.1={
+		death="1263.1.1"
+	}
+}
+
+31837 = {
+	name="巴尔塞格克" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	mother=223037
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+31838 = {
+	name="列翁" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	mother=223037
+	1219.1.1={
+		birth="1219.1.1"
+	}
+	1258.1.25={
+		death="1258.1.25"
+	}
+}
+31839 = {
+	name="赫瑞丕斯麦" 
+	#AKA Margueritte
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	mother=223037
+	1221.1.1={
+		birth="1221.1.1"
+	}
+	1241.1.1={
+		death="1241.1.1"
+	}
+}
+
+31840 = {
+	name="瓦萨克" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+31841 = {
+	name="里科斯" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1266.1.1={
+		death="1266.1.1"
+	}
+}
+
+31842 = {
+	name="高斯坦丁" #Lord of Neghir
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223028
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+31843 = {
+	name="海屯姆" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31840
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1305.1.1={
+		death="1305.1.1"
+	}
+}
+31845 = {
+	name="高斯坦丁" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31840
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+31846 = {
+	name="列翁" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31841
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+
+31847 = {
+	name="尤菲米娅"
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31830
+	mother=30998
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	#married Julian Grenier
+	1309.1.1={
+		death="1309.1.1"
+	}
+}
+
+31848 = {
+	name="玛利亚"
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31830
+	mother=30998
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	#married Guy d'Ibelin (1289)
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+31849 = {
+	name="海屯姆" #Lord of Lampron
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223036
+	mother=31831
+	1221.1.1={
+		birth="1221.1.1"
+	}
+	1237.1.1={
+		add_spouse=31850
+	}
+	1250.6.29={
+		death="1250.6.29"
+	}
+}
+
+31851 = {
+	name="克依安娜" 
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31849
+	mother=31850
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	#Levon III of Armenia
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+31852 = {
+	name="阿历克斯" 
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31849
+	mother=31850
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	#married Bailan Ibelin
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+31853 = {
+	name="克依安娜"
+	female=yes 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223036
+	mother=31831
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1274.1.1={
+		death="1274.1.1"
+	}
+}
+
+31854 = {
+	name="奥辛"
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223036
+	mother=31831
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1294.1.7={
+		death="1294.1.7"
+	}
+}
+
+31855 = {
+	name="海屯姆"
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31854
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+
+31856 = {
+	name="雷蒙多" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31849
+	mother=31850
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1309.1.1={
+		death="1309.1.1"
+	}
+}
+
+31857 = {
+	name="海屯姆" #king of Armenia 1289-1293 1294-1296 1299-1307
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=461802
+	mother=31851
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1290.1.1={
+		add_spouse=31858
+	}
+	#blinded by his brother Smbat
+	1299.1.1={
+		trait="blinded"
+	}
+	#converted to catholicism
+	1299.3.4={
+		religion="catholic"
+	} 
+	1307.11.7={
+		death="1307.11.7"
+	}
+}
+
+31859 = {
+	name="托罗斯" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31857
+	mother=31858
+	1291.1.1={
+		birth="1291.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+31860 = {
+	name="斯姆巴特" #king of Armenia 1296-1298 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=461802
+	mother=31851
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1296.1.1={
+		trait="kinslayer"
+	} 
+	1311.1.1={
+		death="1311.1.1"
+	}
+}
+
+31861 = {
+	name="托罗斯" 
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=461802
+	mother=31851
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+31862 = {
+	name="纳尔西斯" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=461802
+	mother=31851
+	1279.1.1={
+		birth="1279.1.1"
+	}
+	1301.5.26={
+		death="1301.5.26"
+	}
+}
+
+31863 = {
+	name="阿里纳克斯" #twin of 461803 Oshim
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=461802
+	mother=31851
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1310.8.28={
+		death="1310.8.28"
+	}
+}
+
+31864 = {
+	name="海屯姆" #lord of Barbaron
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31832
+	1249.1.1={
+		birth="1249.1.1"
+	}
+	1269.7.15={
+		death="1269.7.15"
+	}
+}
+31865 = {
+	name="列翁" #lord of Barbaron
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31832
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+31866 = {
+	name="斯姆巴特" #lord of Barbaron
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31865
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+31867 = {
+	name="玛丽艾" 
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31865
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1352.8.27={
+		death="1352.8.27"
+	}
+}
+
+31868 = {
+	name="海屯姆" #lord of Korikos
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31833
+	mother=31869
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	# Isabelle d'Ibelin
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+31869 = {
+	name="阿历克斯"
+	female=yes 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=223036
+	mother=31831
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1266.1.13={
+		death="1266.1.13"
+	}
+}
+
+31870 = {
+	name="奥辛" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31833
+	mother=31869
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	1294.1.1={
+		death="1294.1.1"
+	}
+}
+
+31871 = {
+	name="扎贝尔" 
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31868
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	# Oshin of Armenia
+	1310.4.3={
+		death="1310.4.3"
+	}
+}
+
+31872 = {
+	name="奥辛" #Lord of Korikos
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31868
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	#married 1308 Marguerite d'Ibelin
+	#married 1320 Jeanne di Tarento
+	1329.2.26={
+		death="1329.2.26"
+	}
+}
+
+31873 = {
+	name="高斯坦丁" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31868
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1329.2.26={
+		death="1329.2.26"
+	}
+}
+
+31874 = {
+	name="列翁" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31868
+	1274.1.1={
+		birth="1274.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+
+31875 = {
+	name="海屯姆" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31872
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+
+31877 = {
+	name="扎贝尔"
+	female=yes 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31868
+	1279.1.1={
+		birth="1279.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+31878 = {
+	name="列翁" #king of Armenia 1305 - 1307
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=461801
+	1287.1.1={
+		birth="1287.1.1"
+	}
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+
+31879 = {
+	name="高斯坦丁" #king of Armenia 1298-1299 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=461802
+	mother=31851
+	1277.1.1={
+		birth="1277.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+31880 = {
+	name="鲍德温" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31845
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1310.1.1={
+		add_spouse=31867
+	} 
+	1336.12.12={
+		death="1336.12.12"
+	}
+}
+
+
+31882 = {
+	name="海屯姆" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31845
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1356.1.1={
+		death="1356.1.1"
+	}
+}
+
+31883 = {
+	name="高斯坦丁" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31880
+	mother=31867
+	1313.1.1={
+		birth="1313.1.1"
+	}
+	1362.12.21={
+		death="1362.12.21"
+	}
+}
+
+31884 = {
+	name="尤菲姆" 
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31880
+	mother=31867
+	1325.5.7={
+		birth="1325.5.7"
+	}
+	1381.1.1={
+		death="1381.1.1"
+	}
+}
+
+31885 = {
+	name="高菲罗伊" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31882
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1357.5.21={
+		death="1357.5.21"
+	}
+}
+
+31886 = {
+	name="高斯坦丁" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31882
+	1324.1.1={
+		birth="1324.1.1"
+	}
+	1373.4.1={
+		death="1373.4.1"
+	}
+}
+
+31887 = {
+	name="瓦查科" 
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31845
+	1293.1.1={
+		birth="1293.1.1"
+	}
+	1328.10.28={
+		death="1328.10.28"
+	}
+}
+
+31888 = {
+	name="德乔弗瑞"
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=232574
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1240.1.1={
+		add_spouse=31853
+	} 
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+
+
+31889 = {
+	name="高斯坦丁"
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31888
+	mother=31853
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1261.1.1={
+		add_spouse=31890
+	} 
+	1274.1.1={
+		death="1274.1.1"
+	}
+}
+
+31890 = {
+	name="莱塔"
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31830
+	mother=30998
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+
+	}
+}
+
+31891 = {
+	name="斯姆巴特"
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31888
+	mother=31853
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+
+31892 = {
+	name="奥辛"
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31888
+	mother=31853
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1294.1.1={
+		death="1294.1.1"
+	}
+}
+
+31893 = {
+	name="扎贝尔"
+	female=yes
+	dynasty=23003
+	religion="miaphysite"
+	culture="armenian"
+	father=31892
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+32928 = {
+	name="莎贾尔·阿尔-杜尔" #Egypt
+	female=yes
+	religion="sunni"
+	culture="armenian"
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1257.1.1={
+		death="1257.1.1"
+	}
+}
+
+41554 = {
+	name="斯姆巴特"
+	dynasty=101743
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	father=159257
+	933.1.1={
+		birth="933.1.1"
+	}
+	998.1.1={
+		death="998.1.1"
+	}
+}
+
+41555 = {
+	name="格里高尔"
+	dynasty=101743
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="miaphysite"
+	culture="armenian"
+	father=41554
+	990.1.1={
+		birth="990.1.1"
+	}
+	1053.1.1={
+		death="1053.1.1"
+	}
+}
+
+145068 = {
+	name="菲利普科斯"
+	dynasty=1022181
+	religion="miaphysite"
+	culture="armenian"
+	trait="proud"
+	trait="deceitful"
+	trait="tough_soldier"
+ 
+	670.1.1={
+	birth="670.1.1"
+	}
+
+	713.6.3={
+	trait="blinded"
+	}
+	714.1.20={
+	death="714.1.20"
+	}
+}
+
+159206 = { 
+	name="沙罕沙阿" #Shahanshah
+	dynasty=1029018
+	religion="miaphysite"
+	culture="armenian"
+	father=232759
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+159209 = { 
+	name="克瑞萨"
+	dynasty=1029018
+	female=yes
+	religion="miaphysite"
+	culture="armenian"
+	father=232758
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	1171.1.25 = {
+		add_spouse=159212 #Vakhtank II
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+159210 = { 
+	name="海卡兹"
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=159259
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+159211 = { 
+	name="海桑"
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=159210
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1130.1.1={
+		add_spouse=159236 
+	}
+	1182.1.1={
+		death="1182.1.1"
+	}
+}
+159212 = { 
+	name="瓦克坦克"
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=159211
+	mother=159236
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1171.1.25 = {
+		add_spouse=159209 #Khorishah
+	}
+	1214.1.1={
+		death="1214.1.1"
+	}
+}
+159213 = { 
+	name="格里高尔"
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=159211
+	mother=159236
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+159214 = { 
+	name="海卡兹"
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=159212
+	mother=159209
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1214.1.1={
+		name="哈桑-贾拉尔 达拉"
+	}
+	1215.1.1 = {
+		add_spouse=159216
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+159215 = { 
+	name="玛坎"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159242
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1214.1.1={
+		death="1214.1.1"
+	}
+}
+159216 = { 
+	name="斯姆巴特" #name unknown
+	dynasty=1029025
+	female=yes
+	religion="miaphysite"
+	culture="armenian"
+	father=159215
+	1193.1.1={
+		birth="1193.1.1"
+	}
+	1215.1.1 = {
+		add_spouse=159214
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+159217 = { 
+	name="阿特白"
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=159214
+	mother=159216
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+159218 = { 
+	name="茹祖堪"
+	dynasty=1029023
+	female=yes
+	religion="miaphysite"
+	culture="armenian"
+	father=159214
+	mother=159216
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+159219 = { 
+	name="扎卡莱"
+	dynasty=1029018
+	religion="miaphysite"
+	culture="armenian"
+	father=159237
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+159220 = { 
+	name="扎卡莱"
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=159212
+	mother=159209
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1265.1.1={
+		death="1265.1.1"
+	}
+}
+
+159221 = { 
+	name="艾娃妮"
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=159212
+	mother=159209
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1265.1.1={
+		death="1265.1.1"
+	}
+}
+159222 = { 
+	name="瓦克坦克"
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=159220
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+159223 = { 
+	name="扎卡莱" #
+	dynasty=1029018
+	religion="miaphysite"
+	culture="armenian"
+	father=159206
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+159224 = { 
+	name="扎卡莱" #
+	dynasty=1029018
+	religion="miaphysite"
+	culture="armenian"
+	father=159223
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+159225 = { 
+	name="安娃阁" #
+	dynasty=1029018
+	religion="miaphysite"
+	culture="armenian"
+	father=159223
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+159226 = { 
+	name="萨格里斯" #
+	dynasty=1029018
+	religion="miaphysite"
+	culture="armenian"
+	father=159223
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1315.1.1={
+		death="1315.1.1"
+	}
+}
+159227 = { 
+	name="安塔什尔" #
+	dynasty=1029018
+	religion="miaphysite"
+	culture="armenian"
+	father=159223
+	1253.1.1={
+		birth="1253.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+159228 = { 
+	name="艾娃妮" #
+	dynasty=1029018
+	religion="miaphysite"
+	culture="armenian"
+	father=159223
+	1254.1.1={
+		birth="1254.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+159229 = { 
+	name="郝武汉尼斯" # John VII, Catholicos of Caucasian Albania
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=159214
+	mother=159216
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+159230 = { 
+	name="郝武汉尼斯" # John VIII, Catholicos of Caucasian Albania
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=159221
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+159235 = {
+	name="格里高尔" 
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159241
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+
+159236 = {
+	name="凯塔" 
+	dynasty=1029025
+	female=yes
+	religion="miaphysite"
+	culture="armenian"
+	father=159235
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1130.1.1={
+		add_spouse=159210 
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+159237 = { 
+	name="萨利克斯"
+	dynasty=1029018
+	religion="miaphysite"
+	culture="armenian"
+	father=159238
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+159238 = { 
+	name="扎卡莱"
+	dynasty=1029018
+	religion="miaphysite"
+	culture="armenian"
+	father=41584
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+159239 = { 
+	name="格里高尔"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159986
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+159240 = { 
+	name="沙哈多克赫特"
+	dynasty=1029025
+	female=yes
+	religion="miaphysite"
+	culture="armenian"
+	father=159239
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1050.1.1={
+		add_spouse=41557
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+159241 = { 
+	name="瑟尼克利姆"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159239
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+159242 = { 
+	name="瑟尼克利姆"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159235
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+159243 = {
+	name="瓦萨克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160013
+	740.1.1={
+		birth="740.1.1"
+	}
+	821.1.1={
+		death="821.1.1"
+	}
+}
+
+159244 = {
+	name="飞利浦"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159243
+	770.1.1={
+		birth="770.1.1"
+	}
+	848.1.1={
+		death="848.1.1"
+	}
+}
+
+159245 = {
+	name="萨哈克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159243
+	755.1.1={
+		birth="755.1.1"
+	}
+	831.1.1={
+		death="831.1.1"
+	}
+}
+
+159246 = {
+	name="格里高尔·索攀"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159245
+	780.1.1={
+		birth="780.1.1"
+	}
+	851.1.1={
+		death="851.1.1"
+	}
+}
+
+159247 = {
+	name="瓦萨克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159246
+	800.1.1={
+		birth="800.1.1"
+	}
+	859.1.1={
+		death="859.1.1"
+	}
+}
+
+159248 = {
+	name="格里高尔·索攀"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159247
+	830.1.1={
+		birth="830.1.1"
+	}
+	912.1.1={
+		death="912.1.1"
+	}
+}
+
+159249 = {
+	name="萨哈克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159247
+	831.1.1={
+		birth="831.1.1"
+	}
+	914.1.1={
+		death="914.1.1"
+	}
+}
+
+159250 = {
+	name="瓦萨克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159247
+	835.1.1={
+		birth="835.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+159251 = {
+	name="瓦萨克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159244
+	825.1.1={
+		birth="825.1.1"
+	}
+	892.1.1={
+		death="892.1.1"
+	}
+}
+
+159252 = {
+	name="阿绍特"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159244
+	830.1.1={
+		birth="830.1.1"
+	}
+	908.1.1={
+		death="908.1.1"
+	}
+}
+
+159253 = {
+	name="飞利浦"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159251
+	850.1.1={
+		birth="850.1.1"
+	}
+	943.1.1={
+		death="943.1.1"
+	}
+}
+
+159254 = {
+	name="斯姆巴特"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159252
+	855.1.1={
+		birth="855.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+159255 = {
+	name="巴格根"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159252
+	856.1.1={
+		birth="856.1.1"
+	}
+	941.1.1={
+		death="941.1.1"
+	}
+}
+
+159256 = {
+	name="瓦萨克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159254
+	890.1.1={
+		birth="890.1.1"
+	}
+	963.1.1={
+		death="963.1.1"
+	}
+}
+
+159257 = {
+	name="萨哈克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159244
+	845.1.1={
+		birth="845.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+159258 = {
+	name="瓦萨克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=41554
+	980.1.1={
+		birth="980.1.1"
+	}
+	1019.1.1={
+		death="1019.1.1"
+	}
+}
+
+159259 = { 
+	name="瓦克坦克"
+	dynasty=1029023
+	religion="miaphysite"
+	culture="armenian"
+	father=41520
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1041.1.1={
+		remove_claim = k_armenia
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+159260 = { 
+	name="阿布哈姆"
+	dynasty=23002
+	religion="miaphysite"
+	culture="armenian"
+	father=159261
+	920.1.1={
+		birth="920.1.1"
+	}
+	993.1.1={
+		death="993.1.1"
+	}
+}
+
+159261 = { 
+	name="阿拉克"
+	dynasty=23002
+	religion="miaphysite"
+	culture="armenian"
+	father=159262
+	mother=159980
+	890.1.1={
+		birth="890.1.1"
+	}
+	971.1.1={
+		death="971.1.1"
+	}
+}
+
+159262 = { 
+	name="拉汉姆"
+	dynasty=23002
+	religion="miaphysite"
+	culture="armenian"
+	father=159578
+	860.1.1={
+		birth="860.1.1"
+	}
+	890.1.1={
+		add_spouse = 159980
+	}
+	936.1.1={
+		death="936.1.1"
+	}
+}
+
+159264 = {
+	name="巴格根"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159244
+	820.1.1={
+		birth="820.1.1"
+	}
+	851.1.1={
+		death="851.1.1"
+	}
+}
+
+159265 = {
+	name="鲁本"
+	dynasty=190
+	religion="miaphysite"
+	culture="armenian"
+	father=159267
+	975.1.1={
+		birth="975.1.1"
+	}
+	1000.1.1={
+		add_spouse=159279
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+159266 = {
+	name="托罗斯"
+	dynasty=190
+	religion="miaphysite"
+	culture="armenian"
+	father=159265
+	mother=159279
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1020.1.1={
+		add_spouse=159283
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+159267 = {
+	name="瑟尼克利姆"
+	dynasty=190
+	religion="miaphysite"
+	culture="armenian"
+	father=159268
+	930.1.1={
+		birth="930.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+159268 = {
+	name="鲁本"
+	dynasty=190
+	religion="miaphysite"
+	culture="armenian"
+	father=159280
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+159280 = {
+	name="斯姆巴特"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159250
+	865.1.1={
+		birth="865.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+159282 = {
+	name="考首斯"
+	female=yes
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=41519
+	980.1.1={
+		birth="980.1.1"
+	}
+	1000.1.1={
+		add_spouse=41576
+	}
+	1051.9.1={
+		death="1051.9.1"
+	}
+}
+
+159283 = {
+	name="考首斯"
+	female=yes
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=41576
+	mother=159282
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1020.1.1={
+		add_spouse=159266
+	}
+	1071.9.1={
+		death="1071.9.1"
+	}
+}
+
+159284 = {
+	name="高兰多柯赫特"
+	female=yes
+	dynasty=190
+	religion="miaphysite"
+	culture="armenian"
+	trait="honest"
+	father=159266
+	mother=159283
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1030.1.1={
+		add_spouse=159287
+	}
+	1076.1.1={
+		death="1076.1.1"
+	}
+}
+
+159285 = {
+	name="穆舍尔" #I of Kars
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=41509
+	940.1.1={
+		birth="940.1.1"
+	}
+	984.1.1={
+		death="984.1.1"
+	}
+}
+
+159286 = {
+	name="阿巴斯" #I of Kars
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159285
+	970.1.1={
+		birth="970.1.1"
+	}
+	1029.1.1={
+		death="1029.1.1"
+	}
+}
+
+159287 = {
+	name="迦吉克·阿巴斯" #I of Kars
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159286
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1030.1.1={
+		add_spouse=159284
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+159288 = {
+	name="玛利亚" 
+	female = yes
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159287
+	mother=159284
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1050.1.1={
+		add_spouse=20534
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+159289 = {
+	name="盖得" 
+	female = yes
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=41567
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1040.1.1={
+		add_spouse=41589
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+159316 = {
+	name="哈格"
+	dynasty=23002
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="miaphysite"
+	culture="armenian"
+	trait="brave"
+	trait="honest"
+	trait="tough_soldier"
+	father=41589
+	mother=159289
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+
+142589 = {
+	name="玛利亚姆" #Maria Ardzroun?
+	female = yes
+	dynasty=101736 #Ardzroun?
+	religion="miaphysite"
+	culture="armenian"
+	father=41576
+	mother=159282
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1025.1.1={
+		name="玛利亚"
+		religion="catholic"
+		culture="portuguese"
+		add_spouse=142587
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+159611 = { 
+	name="瓦拉子·巴格尔" # 
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159610
+	mother=159592
+	410.1.1={
+		birth="410.1.1"
+	}
+	455.1.1={
+		death="455.1.1"
+	}
+}
+159612 = { 
+	name="米汗拉姆" # 
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159611
+	430.1.1={
+		birth="430.1.1"
+	}
+	480.1.1={
+		death="480.1.1"
+	}
+}
+159613 = { 
+	name="阿玛耶尔" # 
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159612
+	450.1.1={
+		birth="450.1.1"
+	}
+	510.1.1={
+		death="510.1.1"
+	}
+}
+159614 = { 
+	name="瓦德" # 
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159613
+	475.1.1={
+		birth="475.1.1"
+	}
+	540.1.1={
+		death="540.1.1"
+	}
+}
+159615 = { 
+	name="瓦蛋" # I of Aghbania
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159614
+	500.1.1={
+		birth="500.1.1"
+	}
+	530.1.1={
+		add_spouse = 159616
+	}
+	570.1.1={
+		death="570.1.1"
+	}
+}
+159617 = { 
+	name="瓦德" # I
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159615
+	mother=159616
+	530.1.1={
+		birth="530.1.1"
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+159618 = { 
+	name="瓦拉子-格里高尔" # I
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159617
+	560.1.1={
+		birth="560.1.1"
+	}
+	636.1.1={
+		death="636.1.1"
+	}
+}
+159619 = { 
+	name="瓦拉子-白若兹" # I
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159618
+	590.1.1={
+		birth="590.1.1"
+	}
+	668.1.1={
+		death="668.1.1"
+	}
+}
+159620 = { 
+	name="瓦拉子-特历代特" # I
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=160036
+	634.1.1={
+		birth="634.1.1"
+	}
+	705.1.1={
+		death="705.1.1"
+	}
+}
+
+
+159627 = { 
+	name="瓦蛋" # II
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159620
+	665.1.1={
+		birth="665.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+159628 = { 
+	name="加吉克" # I
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159620
+	655.1.1={
+		birth="655.1.1"
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+159629 = { 
+	name="乃什" # I of Aghvank
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=160037
+	700.1.1={
+		birth="700.1.1"
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+159630 = { 
+	name="斯特潘诺斯" # I of Aghvank
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159629
+	730.1.1={
+		birth="730.1.1"
+	}
+	821.1.1={
+		death="821.1.1"
+	}
+}
+159631 = { 
+	name="瓦拉子·特历代特" # II of Aghvank
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159630
+	760.1.1={
+		birth="760.1.1"
+	}
+	822.1.1={
+		death="822.1.1"
+	}
+}
+159632 = { 
+	name="斯普拉姆"
+	female=yes
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159631
+	801.1.1={
+		birth="801.1.1"
+	}
+	820.1.1={
+		add_spouse=159966
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+
+159616 = { 
+	name="可汗什克" # 
+	female=yes
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159591
+	505.11.1={
+		birth="505.11.1"
+	}
+	530.1.1={
+		add_spouse = 159615
+	}
+	570.8.29={
+		death="570.8.29"
+	}
+}
+
+
+159621 = { 
+	name="瓦拉子满" # 
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159613
+	480.1.1={
+		birth="480.1.1"
+	}
+	550.1.1={
+		death="550.1.1"
+	}
+}
+159622 = { 
+	name="瓦蛋" # 
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159621
+	510.1.1={
+		birth="510.1.1"
+	}
+	580.1.1={
+		death="580.1.1"
+	}
+}
+159623 = { 
+	name="阿拉木叶儿" # 
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159622
+	540.1.1={
+		birth="540.1.1"
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+159624 = { 
+	name="瓦拉子满" # 
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159623
+	570.1.1={
+		birth="570.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+	}
+}
+159625 = { 
+	name="斯普拉姆" #unhistorical name 
+	female=yes
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159624
+	600.1.1={
+		birth="600.1.1"
+	}
+	620.1.1={
+		add_spouse=159626
+	}
+	670.1.1={
+		death="670.1.1"
+	}
+}
+
+
+159626 = { 
+	name="拉米赫尔" # 
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	595.1.1={
+		birth="595.1.1"
+	}
+	620.1.1={
+		add_spouse=159625
+	}
+	660.1.1={
+		death="660.1.1"
+	}
+}
+
+159580 = { 
+	name="瓦查干" # I of Aghvank
+	dynasty=100685
+	religion="zoroastrian"
+	culture="armenian"
+	father=159579
+	220.11.1={
+		birth="220.11.1"
+	}
+	300.8.29={
+		death="300.8.29"
+	}
+}
+159581 = { 
+	name="瓦查" # 
+	dynasty=100685
+	religion="zoroastrian"
+	culture="armenian"
+	father=159580
+	260.11.1={
+		birth="260.11.1"
+	}
+	330.8.29={
+		death="330.8.29"
+	}
+}
+159582 = { 
+	name="乌拉那耶尔" # 
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159581
+	300.11.1={
+		birth="300.11.1"
+	}
+	372.8.29={
+		death="372.8.29"
+	}
+}
+159583 = { 
+	name="瓦查干" # II
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159582
+	330.11.1={
+		birth="330.11.1"
+	}
+	402.8.29={
+		death="402.8.29"
+	}
+}
+159584 = { 
+	name="萨嘎万" #
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159583
+	360.11.1={
+		birth="360.11.1"
+	}
+	432.8.29={
+		death="432.8.29"
+	}
+}
+159585 = { 
+	name="米尔哈文" #
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159583
+	361.11.1={
+		birth="361.11.1"
+	}
+	435.8.29={
+		death="435.8.29"
+	}
+}
+159586 = { 
+	name="萨托利" #
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159583
+	362.11.1={
+		birth="362.11.1"
+	}
+	440.8.29={
+		death="440.8.29"
+	}
+}
+159587 = { 
+	name="埃塞" #
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159586
+	390.11.1={
+		birth="390.11.1"
+	}
+	460.8.29={
+		death="460.8.29"
+	}
+}
+159588 = { 
+	name="奥斯瓦根" #
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159586
+	395.11.1={
+		birth="395.11.1"
+	}
+	465.8.29={
+		death="465.8.29"
+	}
+}
+159589 = { 
+	name="瓦查" #
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159588
+	430.11.1={
+		birth="430.11.1"
+	}
+	500.8.29={
+		death="500.8.29"
+	}
+}
+159590 = { 
+	name="哈子科特" # Yazdegerd
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159588
+	440.11.1={
+		birth="440.11.1"
+	}
+	490.8.29={
+		death="490.8.29"
+	}
+}
+159591 = { 
+	name="瓦查干" # III the Pious
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159590
+	470.11.1={
+		birth="470.11.1"
+	}
+	530.8.29={
+		death="530.8.29"
+	}
+}
+159592 = { 
+	name="萨嘎瓦诺斯" #
+	female=yes
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=159584
+	390.11.1={
+		birth="390.11.1"
+	}
+	462.8.29={
+		death="462.8.29"
+	}
+}
+159558 = {
+	name="卡穆萨" 
+	dynasty=1029099
+	religion="zoroastrian"
+	culture="armenian"
+	father=159557
+	250.11.1={
+		birth="250.11.1"
+	}
+	325.8.29={
+		death="325.8.29"
+	}
+}
+159559 = {
+	name="阿沙维尔" 
+	dynasty=1029099
+	religion="zoroastrian"
+	culture="armenian"
+	father=159558
+	280.11.1={
+		birth="280.11.1"
+	}
+	353.8.29={
+		death="353.8.29"
+	}
+}
+159560 = {
+	name="斯潘德拉特" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159559
+	300.11.1={
+		birth="300.11.1"
+	}
+	369.8.29={
+		death="369.8.29"
+	}
+}
+159561 = {
+	name="咖瓦讯" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159560
+	330.11.1={
+		birth="330.11.1"
+	}
+	392.8.29={
+		death="392.8.29"
+	}
+}
+159562 = {
+	name="哈拉哈特" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159561
+	360.11.1={
+		birth="360.11.1"
+	}
+	428.8.29={
+		death="428.8.29"
+	}
+}
+159563 = {
+	name="咖瓦讯" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159562
+	390.11.1={
+		birth="390.11.1"
+	}
+	440.8.29={
+		death="440.8.29"
+	}
+}
+159564 = {
+	name="阿沙维尔" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159563
+	414.11.1={
+		birth="414.11.1"
+	}
+	490.8.29={
+		death="490.8.29"
+	}
+}
+159565 = {
+	name="奈尔森" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159564
+	430.11.1={
+		birth="430.11.1"
+	}
+	505.8.29={
+		death="505.8.29"
+	}
+}
+159566 = {
+	name="咖瓦讯" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159565
+	470.11.1={
+		birth="470.11.1"
+	}
+	555.8.29={
+		death="555.8.29"
+	}
+}
+159567 = {
+	name="祖腊科" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159566
+	500.11.1={
+		birth="500.11.1"
+	}
+	560.8.29={
+		death="560.8.29"
+	}
+}
+159568 = {
+	name="欧瑟克" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159567
+	520.11.1={
+		birth="520.11.1"
+	}
+	590.8.29={
+		death="590.8.29"
+	}
+}
+159569 = {
+	name="奈尔森" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159568
+	540.11.1={
+		birth="540.11.1"
+	}
+	620.8.29={
+		death="620.8.29"
+	}
+}
+159570 = {
+	name="瓦汗" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159569
+	590.11.1={
+		birth="590.11.1"
+	}
+	650.8.29={
+		death="650.8.29"
+	}
+}
+159571 = {
+	name="奈尔森"
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159570
+	620.11.1={
+		birth="620.11.1"
+	}
+	693.8.29={
+		death="693.8.29"
+	}
+}
+159572 = {
+	name="哈拉哈特" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159571
+	650.11.1={
+		birth="650.11.1"
+	}
+	710.8.29={
+		death="710.8.29"
+	}
+}
+159573 = {
+	name="阿塔瓦兹德" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159572
+	680.11.1={
+		birth="680.11.1"
+	}
+	750.8.29={
+		death="750.8.29"
+	}
+}
+159574 = {
+	name="奈尔森"
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159573
+	710.11.1={
+		birth="710.11.1"
+	}
+	780.8.29={
+		death="780.8.29"
+	}
+}
+159575 = {
+	name="格里高尔" 
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159574
+	740.11.1={
+		birth="740.11.1"
+	}
+	820.8.29={
+		death="820.8.29"
+		dynasty=23002
+	}
+}
+
+159576 = {
+	name="瓦萨克" 
+	dynasty=23002
+	religion="miaphysite"
+	culture="armenian"
+	father=159575
+	770.11.1={
+		birth="770.11.1"
+	}
+	850.8.29={
+		death="850.8.29"
+	}
+}
+159577 = {
+	name="阿布格哈姆尔" 
+	dynasty=23002
+	religion="miaphysite"
+	culture="armenian"
+	father=159576
+	800.11.1={
+		birth="800.11.1"
+	}
+	870.8.29={
+		death="870.8.29"
+	}
+}
+159578 = {
+	name="阿比拉德" 
+	dynasty=23002
+	religion="miaphysite"
+	culture="armenian"
+	father=159577
+	830.11.1={
+		birth="830.11.1"
+	}
+	900.8.29={
+		death="900.8.29"
+	}
+}
+
+159838 = {
+	name="阿塔瓦兹德" #
+	dynasty=23006 # Mamikonian
+	religion="zoroastrian"
+	culture="armenian"
+	255.1.1={
+		birth="255.1.1"
+	}
+	314.1.1={
+		death="314.1.1"
+	}
+}
+159839 = {
+	name="瓦车" #
+	dynasty=23006 # Mamikonian
+	religion="zoroastrian"
+	culture="armenian"
+	father=159838
+	280.1.1={
+		birth="280.1.1"
+	}
+	338.1.1={
+		death="338.1.1"
+	}
+}
+159840 = {
+	name="阿塔瓦兹德" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159839
+	300.1.1={
+		birth="300.1.1"
+	}
+	350.1.1={
+		death="350.1.1"
+	}
+}
+159841 = {
+	name="哈曼扎斯普" #
+	dynasty=23006 # Mamikonian
+	religion="zoroastrian"
+	culture="armenian"
+	father=159838
+	290.1.1={
+		birth="290.1.1"
+	}
+	339.1.1={
+		death="339.1.1"
+	}
+}
+159842 = {
+	name="瓦坦" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159841
+	310.1.1={
+		birth="310.1.1"
+	}
+	365.1.1={
+		death="365.1.1"
+	}
+}
+159843 = {
+	name="瓦萨克" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159841
+	311.1.1={
+		birth="311.1.1"
+	}
+	395.1.1={
+		death="395.1.1"
+	}
+}
+159844 = {
+	name="穆舍尔" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159843
+	330.1.1={
+		birth="330.1.1"
+	}
+	374.1.1={
+		death="374.1.1"
+	}
+}
+159845 = {
+	name="瓦车" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159840
+	330.1.1={
+		birth="330.1.1"
+	}
+	385.1.1={
+		death="385.1.1"
+	}
+}
+159846 = {
+	name="阿塔舍斯" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159839
+	301.1.1={
+		birth="301.1.1"
+	}
+	350.1.1={
+		death="350.1.1"
+	}
+}
+159847 = {
+	name="曼维尔" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159846
+	330.1.1={
+		birth="330.1.1"
+	}
+	385.1.1={
+		death="385.1.1"
+	}
+}
+159848 = {
+	name="阿塔瓦兹德" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159847
+	350.1.1={
+		birth="350.1.1"
+	}
+	416.1.1={
+		death="416.1.1"
+	}
+}
+159849 = {
+	name="哈曼扎斯普" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159848
+	366.1.1={
+		birth="366.1.1"
+	}
+	436.1.1={
+		death="436.1.1"
+	}
+}
+159850 = {
+	name="瓦坦" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159849
+	390.1.1={
+		birth="390.1.1"
+	}
+	451.1.1={
+		death="451.1.1"
+		give_nickname=nick_the_martyr
+	}
+}
+159851 = {
+	name="赫姆雅克" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159841
+	390.1.1={
+		birth="390.1.1"
+	}
+	451.1.1={
+		death="451.1.1"
+		give_nickname=nick_the_martyr
+	}
+}
+159852 = {
+	name="瓦萨克" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159851
+	431.1.1={
+		birth="431.1.1"
+	}
+	506.1.1={
+		death="506.1.1"
+	}
+}
+159853 = {
+	name="瓦汗" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159851
+	432.1.1={
+		birth="432.1.1"
+	}
+	505.1.1={
+		death="505.1.1"
+		give_nickname=nick_the_great
+	}
+}
+159854 = {
+	name="瓦德" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159851
+	433.1.1={
+		birth="433.1.1"
+	}
+	508.1.1={
+		death="508.1.1"
+	}
+}
+159855 = {
+	name="阿塔瓦兹德" # IV
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159854
+	473.1.1={
+		birth="473.1.1"
+	}
+	553.1.1={
+		death="553.1.1"
+	}
+}
+159856 = {
+	name="哈曼扎斯普" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159842
+	360.1.1={
+		birth="360.1.1"
+	}
+	422.1.1={
+		death="422.1.1"
+	}
+}
+159857 = {
+	name="哈曼扎斯普" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159849
+	390.1.1={
+		birth="390.1.1"
+	}
+	454.1.1={
+		death="454.1.1"
+	}
+}
+159858 = {
+	name="瓦拉姆" #
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159857
+	430.1.1={
+		birth="430.1.1"
+	}
+	494.1.1={
+		death="494.1.1"
+	}
+}
+159859 = {
+	name="哈曼扎斯普" # II
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159858
+	470.1.1={
+		birth="470.1.1"
+	}
+	554.1.1={
+		death="554.1.1"
+	}
+}
+159860 = {
+	name="萨姆维尔" # I
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159855
+	500.1.1={
+		birth="500.1.1"
+	}
+	555.1.1={
+		death="555.1.1"
+	}
+}
+159861 = {
+	name="瓦萨克"
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159854
+	474.1.1={
+		birth="474.1.1"
+	}
+	553.1.1={
+		death="553.1.1"
+	}
+}
+159862 = {
+	name="曼维尔" #II
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159861
+	510.1.1={
+		birth="510.1.1"
+	}
+	571.1.1={
+		death="571.1.1"
+	}
+}
+159863 = {
+	name="瓦蛋" #III
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159861
+	511.1.1={
+		birth="511.1.1"
+	}
+	575.1.1={
+		death="575.1.1"
+	}
+}
+159864 = {
+	name="赫姆雅克"
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159854
+	475.1.1={
+		birth="475.1.1"
+	}
+	553.1.1={
+		death="553.1.1"
+	}
+}
+159865 = {
+	name="穆舍尔"# II
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159864
+	510.1.1={
+		birth="510.1.1"
+	}
+	530.1.1={
+		add_spouse=159917
+	}
+	593.1.1={
+		death="593.1.1"
+	}
+}
+159866 = {
+	name="哈曼扎斯普" #III
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159865
+	mother=159917
+	530.1.1={
+		birth="530.1.1"
+	}
+	595.1.1={
+		death="595.1.1"
+	}
+}
+159867 = {
+	name="瓦汗" #II*
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159865
+	mother=159917
+	531.1.1={
+		birth="531.1.1"
+	}
+	606.1.1={
+		death="606.1.1"
+	}
+}
+159868 = {
+	name="斯姆巴特"# I*
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159867
+	550.1.1={
+		birth="550.1.1"
+	}
+	570.1.1={
+		add_spouse = 159930
+	}
+	611.1.1={
+		death="611.1.1"
+	}
+}
+159869 = {
+	name="瓦汗" #III*
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159868
+	mother=159930
+	570.1.1={
+		birth="570.1.1"
+	}
+	636.1.1={
+		death="636.1.1"
+	}
+}
+
+159930 = {
+	name="首商尼格" 
+	female = yes
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159568
+	550.1.1={
+		birth="550.1.1"
+	}
+	570.1.1={
+		add_spouse = 159868
+	}
+	590.8.29={
+		death="590.8.29"
+	}
+}
+
+159931 = {
+	name="达特威" 
+	female = yes
+	dynasty=1029099
+	religion="miaphysite"
+	culture="armenian"
+	father=159568
+	545.1.1={
+		birth="545.1.1"
+	}
+	570.1.1={
+		add_spouse = 70455 
+	}
+	640.1.29={
+		death="640.1.29"
+	}
+}
+159870 = {
+	name="蒂汗" #III*
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159869
+	610.1.1={
+		birth="610.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+159871 = {
+	name="哈曼扎斯普"# IV
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=70454
+	617.1.1={
+		birth="617.1.1"
+	}
+	640.1.1={
+		add_spouse=145997
+	}
+	661.1.1={
+		death="661.1.1"
+	}
+}
+159872 = {
+	name="穆舍尔"# III
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=70454
+	615.1.1={
+		birth="615.1.1"
+	}
+	638.1.1={
+		death="638.1.1"
+	}
+}
+
+159873 = {
+	name="穆舍尔"# V
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159871
+	634.1.1={
+		birth="634.1.1"
+	}
+	709.1.1={
+		death="709.1.1"
+	}
+}
+159874 = {
+	name="哈拉哈特"# 
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159873
+	651.1.1={
+		birth="651.1.1"
+	}
+	714.1.1={
+		death="714.1.1"
+	}
+}
+159875 = {
+	name="达维特" # I
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159874
+	691.1.1={
+		birth="691.1.1"
+	}
+	744.1.1={
+		death="744.1.1"
+	}
+}
+159876 = {
+	name="萨姆维尔" # II
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159875
+	731.1.1={
+		birth="731.1.1"
+	}
+	785.1.1={
+		death="785.1.1"
+	}
+}
+159877 = {
+	name="萨颇赫" # I
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=70450
+	731.1.1={
+		birth="731.1.1"
+	}
+	785.1.1={
+		death="785.1.1"
+	}
+}
+159878 = {
+	name="萨颇赫" # 
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159876
+	751.1.1={
+		birth="751.1.1"
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+159879 = {
+	name="达维特" # II
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159877
+	761.1.1={
+		birth="761.1.1"
+	}
+	805.1.1={
+		death="805.1.1"
+	}
+}
+159880 = {
+	name="科欧迪克" # I
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159879
+	791.1.1={
+		birth="791.1.1"
+	}
+	851.1.1={
+		death="851.1.1"
+	}
+}
+159881 = {
+	name="格里高尔" # III
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159880
+	821.1.1={
+		birth="821.1.1"
+	}
+	856.1.1={
+		death="856.1.1"
+	}
+}
+159883 = {
+	name="萨姆维尔" # 
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=70450
+	760.1.1={
+		birth="760.1.1"
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+159882 = {
+	name="德兹欧克" # 
+	female = yes
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159876
+	760.1.1={
+		birth="760.1.1"
+	}
+	785.1.1={
+		add_spouse=41502
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+159884 = {
+	name="斯姆巴特" # 
+	female = yes
+	dynasty=23006 # Mamikonian
+	religion="miaphysite"
+	culture="armenian"
+	father=159883
+	800.1.1={
+		birth="800.1.1"
+	}
+	820.1.1={
+		add_spouse = 41504
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+159885 = {
+	name="瓦车" 
+	dynasty=101736
+	religion="zoroastrian"
+	culture="armenian"
+	260.1.1={
+		birth="260.1.1"
+	}
+	350.1.1={
+		death="350.1.1"
+	}
+}
+
+159886 = {
+	name="萨瓦斯普" 
+	dynasty=101736
+	religion="zoroastrian"
+	culture="armenian"
+	father=159885
+	290.1.1={
+		birth="290.1.1"
+	}
+	357.1.1={
+		death="357.1.1"
+	}
+}
+159887 = {
+	name="麦如赞" 
+	dynasty=101736
+	religion="zoroastrian"
+	culture="armenian"
+	father=159885
+	trait="zealous"
+	320.1.1={
+		birth="320.1.1"
+	}
+	381.1.1={
+		death="381.1.1"
+	}
+}
+159888 = {
+	name="瓦车" 
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159887
+	360.1.1={
+		birth="360.1.1"
+	}
+	432.1.1={
+		death="432.1.1"
+	}
+}
+159889 = {
+	name="瓦萨克" 
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159888
+	380.1.1={
+		birth="380.1.1"
+	}
+	441.1.1={
+		death="441.1.1"
+	}
+}
+159890 = {
+	name="麦如赞" 
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159889
+	400.1.1={
+		birth="400.1.1"
+	}
+	451.1.1={
+		death="451.1.1"
+	}
+}
+159891 = {
+	name="米何日沙普尔" 
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159890
+	420.1.1={
+		birth="420.1.1"
+	}
+	475.1.1={
+		death="475.1.1"
+	}
+}
+159892 = {
+	name="萨哈克" 
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159891
+	440.1.1={
+		birth="440.1.1"
+	}
+	484.1.1={
+		death="484.1.1"
+	}
+}
+159893 = {
+	name="瓦车" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159892
+	470.1.1={
+		birth="470.1.1"
+	}
+	532.1.1={
+		death="532.1.1"
+	}
+}
+159894 = {
+	name="瓦萨克" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159893
+	500.1.1={
+		birth="500.1.1"
+	}
+	567.1.1={
+		death="567.1.1"
+	}
+}
+159895 = {
+	name="瓦坦" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159894
+	525.1.1={
+		birth="525.1.1"
+	}
+	594.1.1={
+		death="594.1.1"
+	}
+}
+159896 = {
+	name="瓦萨克" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159895
+	550.1.1={
+		birth="550.1.1"
+	}
+	611.1.1={
+		death="611.1.1"
+		give_nickname = nick_the_martyr
+	}
+}
+159897 = {
+	name="瓦拉子-夏普" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159895
+	551.1.1={
+		birth="551.1.1"
+	}
+	607.1.1={
+		death="607.1.1"
+	}
+}
+159898 = {
+	name="瓦查干" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159896
+	580.1.1={
+		birth="580.1.1"
+	}
+	647.1.1={
+		death="647.1.1"
+	}
+}
+159899 = {
+	name="瓦坦" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159898
+	620.1.1={
+		birth="620.1.1"
+	}
+	693.1.1={
+		death="693.1.1"
+	}
+}
+159900 = {
+	name="格里高尔" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159899
+	650.1.1={
+		birth="650.1.1"
+	}
+	705.1.1={
+		death="705.1.1"
+	}
+}
+159901 = {
+	name="柯丽恩" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159899
+	651.1.1={
+		birth="651.1.1"
+	}
+	705.1.1={
+		death="705.1.1"
+	}
+}
+159902 = {
+	name="瓦萨克" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159899
+	652.1.1={
+		birth="652.1.1"
+	}
+	708.1.1={
+		death="708.1.1"
+	}
+}
+159903 = {
+	name="瓦汗" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159902
+	685.1.1={
+		birth="685.1.1"
+	}
+	748.1.1={
+		death="748.1.1"
+	}
+}
+159904 = {
+	name="萨哈克" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159903
+	710.1.1={
+		birth="710.1.1"
+	}
+	762.1.1={
+		death="762.1.1"
+	}
+}
+159905 = {
+	name="哈曼扎斯普" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159903
+	711.1.1={
+		birth="711.1.1"
+	}
+	762.1.1={
+		death="762.1.1"
+	}
+}
+159906 = {
+	name="加吉克" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159903
+	712.1.1={
+		birth="712.1.1"
+	}
+	772.1.1={
+		death="772.1.1"
+	}
+}
+159907 = {
+	name="哈曼扎斯普" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159906
+	740.1.1={
+		birth="740.1.1"
+	}
+	785.1.1={
+		death="785.1.1"
+		give_nickname = nick_the_martyr
+	}
+}
+159908 = {
+	name="麦如赞" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159906
+	745.1.1={
+		birth="745.1.1"
+	}
+	785.1.1={
+		death="785.1.1"
+		give_nickname = nick_the_martyr
+	}
+}
+160014 = {
+	name="加吉克" #
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159907
+	770.1.1={
+		birth="770.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+159917 = {
+	name="德兹欧伊克" #
+	female = yes
+	dynasty=101736
+	religion="miaphysite"
+	culture="armenian"
+	father=159894
+	514.1.1={
+		birth="514.1.1"
+	}
+	530.1.1={
+		add_spouse=159865
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+
+159918 = {
+	name="瓦拉子-狄若科" #
+	dynasty=507
+	martial=5
+	diplomacy=3
+	intrigue=4
+	stewardship=5
+	religion="miaphysite"
+	culture="armenian"
+	father=159919
+	mother=159774
+	600.1.1={
+		birth="600.1.1"
+	}
+	673.1.1={
+		death="673.1.1"
+	}
+}
+159919 = {
+	name="斯姆巴特" #
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159929
+	565.1.1={
+		birth="565.1.1"
+	}
+	580.1.1={
+		add_spouse = 159774
+	}
+	643.1.1={
+		death="643.1.1"
+	}
+}
+159920 = {
+	name="斯姆巴特" #
+	dynasty=507
+	religion="zoroastrian"
+	culture="armenian"
+	260.1.1={
+		birth="260.1.1"
+	}
+	320.1.1={
+		death="320.1.1"
+	}
+}
+159921 = {
+	name="巴格拉特" #
+	dynasty=507
+	religion="zoroastrian"
+	culture="armenian"
+	father=159920
+	280.1.1={
+		birth="280.1.1"
+	}
+	343.1.1={
+		death="343.1.1"
+	}
+}
+159922 = {
+	name="斯姆巴特" #
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159921
+	310.1.1={
+		birth="310.1.1"
+	}
+	370.1.1={
+		death="370.1.1"
+	}
+}
+159923 = {
+	name="萨哈克" #
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159922
+	340.1.1={
+		birth="340.1.1"
+	}
+	390.1.1={
+		death="390.1.1"
+	}
+}
+159924 = {
+	name="斯姆巴特" #
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159923
+	370.1.1={
+		birth="370.1.1"
+	}
+	440.1.1={
+		death="440.1.1"
+	}
+}
+159925 = {
+	name="狄若科" #
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159924
+	400.1.1={
+		birth="400.1.1"
+	}
+	470.1.1={
+		death="470.1.1"
+	}
+}
+159926 = {
+	name="瓦萨克" #
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159925
+	425.1.1={
+		birth="425.1.1"
+	}
+	483.1.1={
+		death="483.1.1"
+	}
+}
+159927 = {
+	name="西班迪亚特" #
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159926
+	450.1.1={
+		birth="450.1.1"
+	}
+	506.1.1={
+		death="506.1.1"
+	}
+}
+159928 = {
+	name="瓦拉子-狄若科" #
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159927
+	490.1.1={
+		birth="490.1.1"
+	}
+	556.1.1={
+		death="556.1.1"
+	}
+}
+159929 = {
+	name="曼维尔" #
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=159928
+	525.1.1={
+		birth="525.1.1"
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+
+159966 = {
+	name="阿特奈舍尔"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159973
+	800.1.1={
+		birth="800.1.1"
+	}
+	820.1.1={
+		add_spouse=159632 #Spram
+	}
+	853.1.1={
+		death="853.1.1"
+	}
+}
+
+159967 = {
+	name="萨哈克"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159626
+	mother=159625
+	625.1.1={
+		birth="625.1.1"
+	}
+	703.1.1={
+		death="703.1.1"
+	}
+}
+159968 = {
+	name="后乌思普"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159967
+	655.1.1={
+		birth="655.1.1"
+	}
+	723.1.1={
+		death="723.1.1"
+	}
+}
+159969 = {
+	name="史迪潘若思"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159968
+	685.1.1={
+		birth="685.1.1"
+	}
+	743.1.1={
+		death="743.1.1"
+	}
+}
+159970 = {
+	name="萨哈克"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159969
+	715.1.1={
+		birth="715.1.1"
+	}
+	783.1.1={
+		death="783.1.1"
+	}
+}
+159971 = {
+	name="埃塞依"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159970
+	740.1.1={
+		birth="740.1.1"
+	}
+	793.1.1={
+		death="793.1.1"
+	}
+}
+159972 = {
+	name="斯姆巴特"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159971
+	756.1.1={
+		birth="756.1.1"
+	}
+	814.1.1={
+		death="814.1.1"
+	}
+}
+159973 = {
+	name="萨哈克" #Sahl Smbatean
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159972
+	780.1.1={
+		birth="780.1.1"
+	}
+	855.1.1={
+		death="855.1.1"
+	}
+}
+159974 = {
+	name="埃塞依" # Isa Abu-Muse
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159975
+	800.1.1={
+		birth="800.1.1"
+	}
+	855.1.1={
+		death="855.1.1"
+	}
+}
+159975 = {
+	name="后乌斯普"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159977
+	785.1.1={
+		birth="785.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+159977 = {
+	name="萨哈克"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159970
+	750.1.1={
+		birth="750.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+159978 = {
+	name="莫乌瑟斯"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159974
+	820.1.1={
+		birth="820.1.1"
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+159979 = {
+	name="加吉克"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159978
+	855.1.1={
+		birth="855.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+159980 = {
+	name="索丕"
+	female=yes
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159978
+	860.1.1={
+		birth="860.1.1"
+	}
+	890.1.1={
+		add_spouse = 159262
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+159981 = {
+	name="瓦查干"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159978
+	865.1.1={
+		birth="865.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+159976 = {
+	name="斯姆巴特"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159966
+	mother=159632
+	830.1.1={
+		birth="830.1.1"
+	}
+	891.1.1={
+		death="891.1.1"
+	}
+}
+159982 = {
+	name="萨哈克"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159976
+	860.1.1={
+		birth="860.1.1"
+	}
+	921.1.1={
+		death="921.1.1"
+	}
+}
+159983 = {
+	name="格里高尔"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159982
+	890.1.1={
+		birth="890.1.1"
+	}
+	956.1.1={
+		death="956.1.1"
+	}
+}
+159984 = {
+	name="阿特奈舍尔"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159983
+	920.1.1={
+		birth="920.1.1"
+	}
+	996.1.1={
+		death="996.1.1"
+	}
+}
+159985 = {
+	name="萨哈克"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159984
+	950.1.1={
+		birth="950.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+159986 = {
+	name="斯姆巴特"
+	dynasty=1029025
+	religion="miaphysite"
+	culture="armenian"
+	father=159985
+	980.1.1={
+		birth="980.1.1"
+	}
+	1030.1.1={
+		death="1030.1.1"
+	}
+}
+
+159987 = {
+	name="安多科"
+	dynasty=101743
+	religion="zoroastrian"
+	culture="armenian"
+	280.1.1={
+		birth="280.1.1"
+	}
+	330.1.1={
+		death="330.1.1"
+	}
+}
+159988 = {
+	name="瓦力耐克"
+	dynasty=101743
+	religion="zoroastrian"
+	culture="armenian"
+	father=159987
+	300.1.1={
+		birth="300.1.1"
+	}
+	339.1.1={
+		death="339.1.1"
+	}
+}
+159989 = {
+	name="安多科"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159987
+	305.1.1={
+		birth="305.1.1"
+	}
+	385.1.1={
+		death="385.1.1"
+	}
+}
+159990 = {
+	name="巴格根"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159989
+	340.1.1={
+		birth="340.1.1"
+	}
+	404.1.1={
+		death="404.1.1"
+	}
+}
+159991 = {
+	name="瓦力耐克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159989
+	345.1.1={
+		birth="345.1.1"
+	}
+	413.1.1={
+		death="413.1.1"
+	}
+}
+159992 = {
+	name="瓦萨克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159990
+	370.1.1={
+		birth="370.1.1"
+	}
+	451.1.1={
+		death="451.1.1"
+	}
+}
+159993 = {
+	name="瓦汗"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159991
+	390.1.1={
+		birth="390.1.1"
+	}
+	475.1.1={
+		death="475.1.1"
+	}
+}
+159994 = {
+	name="巴格根"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159992
+	430.1.1={
+		birth="430.1.1"
+	}
+	490.1.1={
+		death="490.1.1"
+	}
+}
+159995 = {
+	name="戈蒂宏"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159993
+	410.1.1={
+		birth="410.1.1"
+	}
+	483.1.1={
+		death="483.1.1"
+	}
+}
+159996 = {
+	name="瓦拉姆"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159995
+	426.1.1={
+		birth="426.1.1"
+	}
+	491.1.1={
+		death="491.1.1"
+	}
+}
+159997 = {
+	name="瓦萨克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159996
+	432.1.1={
+		birth="432.1.1"
+	}
+	502.1.1={
+		death="502.1.1"
+	}
+}
+159998 = {
+	name="安塔什尔"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159997
+	448.1.1={
+		birth="448.1.1"
+	}
+	514.1.1={
+		death="514.1.1"
+	}
+}
+159999 = {
+	name="巴格根"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159998
+	464.1.1={
+		birth="464.1.1"
+	}
+	535.1.1={
+		death="535.1.1"
+	}
+}
+160000 = {
+	name="郝武汉尼斯"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=159999
+	480.1.1={
+		birth="480.1.1"
+	}
+	553.1.1={
+		death="553.1.1"
+	}
+}
+160001 = {
+	name="瓦罗"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160000
+	496.1.1={
+		birth="496.1.1"
+	}
+	554.1.1={
+		death="554.1.1"
+	}
+}
+160002 = {
+	name="格里高尔"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160001
+	512.1.1={
+		birth="512.1.1"
+	}
+	564.1.1={
+		death="564.1.1"
+	}
+}
+160003 = {
+	name="安塔什尔"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160002
+	528.1.1={
+		birth="528.1.1"
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+160004 = {
+	name="皮冉"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160003
+	544.1.1={
+		birth="544.1.1"
+	}
+	593.1.1={
+		death="593.1.1"
+	}
+}
+160005 = {
+	name="萨格里斯"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160004
+	560.1.1={
+		birth="560.1.1"
+	}
+	598.1.1={
+		death="598.1.1"
+	}
+}
+160006 = {
+	name="萨哈克"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160005
+	576.1.1={
+		birth="576.1.1"
+	}
+	621.1.1={
+		death="621.1.1"
+	}
+}
+160007 = {
+	name="格里高尔"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160006
+	592.1.1={
+		birth="592.1.1"
+	}
+	636.1.1={
+		death="636.1.1"
+	}
+}
+160008 = {
+	name="哈拉哈特"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160007
+	608.1.1={
+		birth="608.1.1"
+	}
+	652.1.1={
+		death="652.1.1"
+	}
+}
+160009 = {
+	name="郝武汉尼斯"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160008
+	624.1.1={
+		birth="624.1.1"
+	}
+	679.1.1={
+		death="679.1.1"
+	}
+}
+160010 = {
+	name="寇尔德"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160009
+	640.1.1={
+		birth="640.1.1"
+	}
+	698.1.1={
+		death="698.1.1"
+	}
+}
+160011 = {
+	name="巴格根"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160010
+	660.1.1={
+		birth="660.1.1"
+	}
+	741.1.1={
+		death="741.1.1"
+	}
+}
+160012 = {
+	name="寇尔德"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160011
+	680.1.1={
+		birth="680.1.1"
+	}
+	750.1.1={
+		death="750.1.1"
+	}
+}
+160013 = {
+	name="阿特奈史可"
+	dynasty=101743
+	religion="miaphysite"
+	culture="armenian"
+	father=160012
+	710.1.1={
+		birth="710.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+145225 = {
+	name="阿塔瓦斯多斯"
+	dynasty=101199
+	religion="orthodox"
+	culture="armenian"
+	trait="envious"
+	trait="ambitious"
+	trait="tough_soldier"
+
+	685.1.1={
+		birth="685.1.1"
+	}
+	743.11.2={
+	trait="blinded"
+	}
+	745.1.1={
+		death="745.1.1"
+	}
+}
+
+160036 = { 
+	name="涓舍尔" # Javanshir
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159619
+	616.1.1={
+		birth="616.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+160037 = { 
+	name="史迪潘若思" # 
+	dynasty=1029027
+	religion="miaphysite"
+	culture="armenian"
+	father=159620
+	670.1.1={
+		birth="670.1.1"
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+145996 = {
+	name="Thoros"
+	dynasty=1022355 # Rshtuni
+	religion="miaphysite"
+	culture="armenian"
+	father=70454
+	600.1.1={
+		birth="600.1.1"
+	}
+	655.1.1={
+		death="655.1.1"
+	}
+}
+
+145997 = {
+	name="Maria"
+	dynasty=1022355
+	female=yes
+	religion="miaphysite"
+	culture="armenian"
+	father=145996
+	625.1.1={
+		birth="625.1.1"
+	}
+	691.1.1={
+		death="691.1.1"
+	}
+}
+
+145998 = {
+	name="Sahak"
+	dynasty=507
+	religion="miaphysite"
+	culture="armenian"
+	father=41500
+	713.1.1={
+		birth="713.1.1"
+	}
+	761.1.1={
+		death="761.1.1"
+	}
+}
+
+
+214064 = {
+	name="Tiridates" # Tiridates III
+	dynasty=100685
+	religion="zoroastrian"
+	culture="armenian"
+	father=214061
+	195.1.1={
+		birth=yes
+	}
+	252.1.1={
+		death=yes
+	}
+}
+
+214065 = {
+	name="Khosrov" # II
+	dynasty=100685
+	religion="zoroastrian"
+	culture="armenian"
+	father=214064
+	220.1.1={
+		birth=yes
+	}
+	252.6.1={
+		death=yes
+	}
+}
+
+214066 = {
+	name="Tiridates" # III
+	dynasty=100685
+	religion="zoroastrian"
+	culture="armenian"
+	father=214065
+	250.1.1={
+		birth=yes
+	}
+	301.1.1={
+		religion="miaphysite"
+	}
+	330.1.1={
+		death=yes
+	}
+}
+
+214067 = {
+	name="Khosrovidukht"
+	female=yes
+	dynasty=100685
+	religion="zoroastrian"
+	culture="armenian"
+	father=214065
+	248.1.1={
+		birth=yes
+	}
+	285.1.1={
+		religion="miaphysite"
+	}
+	330.1.1={
+		death=yes
+	}
+}
+
+214068 = {
+	name="Khosrov" # III the Small
+	dynasty=100685
+	religion="zoroastrian"
+	culture="armenian"
+	father=214066
+	275.1.1={
+		birth=yes
+	}
+	301.1.1={
+		religion="miaphysite"
+	}
+	339.1.1={
+		death=yes
+	}
+}
+
+214069 = {
+	name="Salome"
+	female=yes
+	dynasty=100685
+	religion="zoroastrian"
+	culture="armenian"
+	father=214066
+	298.1.1={
+		birth=yes
+	}
+	301.1.1={
+		religion="miaphysite"
+	}
+	361.1.1={
+		death=yes
+	}
+}
+
+214070 = {
+	name="Tiran" # Tigranes or Diran
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=214068
+	295.1.1={
+		birth=yes
+	}
+	350.1.1={
+		death=yes
+	}
+}
+
+214071 = {
+	name="Arshak" # II
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=214070
+	315.1.1={
+		birth=yes
+	}
+	370.1.1={
+		death=yes
+	}
+}
+
+214072 = {
+	name="Pap"
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=214071
+	355.1.1={
+		birth=yes
+	}
+	374.1.1={
+		death=yes
+	}
+}
+
+214073 = {
+	name="Arshak" # III
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=214072
+	371.1.1={
+		birth=yes
+	}
+	387.1.1={
+		death=yes
+	}
+}
+
+214074 = {
+	name="Varazdat"
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=214075
+	352.1.1={
+		birth=yes
+	}
+	405.1.1={
+		death=yes
+	}
+}
+
+214075 = {
+	name="Anon"
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=214071
+	335.1.1={
+		birth=yes
+	}
+	370.1.1={
+		death=yes
+	}
+}
+
+214076 = {
+	name="Khosrov" # IV
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=214074
+	370.1.1={
+		birth=yes
+	}
+	418.1.1={
+		death=yes
+	}
+}
+
+214077 = {
+	name="Vramshapuh" # Bahramshapur
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=214074
+	372.1.1={
+		birth=yes
+	}
+	417.1.1={
+		death=yes
+	}
+}
+
+214078 = {
+	name="Artashir" # Artaxias IV
+	dynasty=100685
+	religion="miaphysite"
+	culture="armenian"
+	father=214077
+	395.1.1={
+		birth=yes
+	}
+	440.1.1={
+		death=yes
+	}
+}

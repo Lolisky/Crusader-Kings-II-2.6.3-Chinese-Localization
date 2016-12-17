@@ -1,0 +1,80 @@
+769.1.1={
+	holder = 190550 #Bego
+}
+769.1.1={
+	liege=d_toulouse
+}
+826.1.1={
+	holder=163063
+	liege=d_barcelona
+}
+#835.1.1={
+#	holder=163063
+#}
+844.5.1={
+	holder=73785
+}
+848.1.1={
+	holder=73784
+}
+865.1.1={
+	holder=127019
+}
+911.1.1={
+	holder=138216 #Odon I de Narbonne
+	law = succ_primogeniture
+	law = cognatic_succession
+	liege = d_toulouse
+}
+936.1.1={
+	holder=138218 #Matfred de Narbonne
+}
+966.8.10={
+	holder=40210 #Raymond I de Narbonne
+}
+1019.1.1={
+	holder=40212 #Bérenguier I de Narbonne
+}
+1067.2.5={
+	holder=40216 #Bernard Bérenguier I de Narbonne
+}
+1077.1.1={
+	holder=40218 #Aimery I de Narbonne
+}
+1105.1.1={
+	holder=138224 #Aimery II de Narbonne
+}
+1134.7.17={
+	holder=223673 #Alphonse Jourdain de Toulouse
+}
+1143.1.1={
+	holder=138225 #Ermengarde I de Narbonne
+}
+1197.10.14=
+{
+holder=207540
+}
+1202.1.1=
+{
+holder=207542
+}
+1239.2.25=
+{
+holder=72432
+}
+1270.1.1=
+{
+holder=72440
+}
+1298.1.1=
+{
+holder=72446
+}
+1328.1.1=
+{
+holder=455621
+}
+1336.1.1=
+{
+holder=72453
+}

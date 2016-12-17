@@ -1,0 +1,129 @@
+765.1.1={
+	holder = 190504 #Wulgrin
+}
+765.1.1={
+	liege=d_aquitaine
+}
+806.1.1={
+	holder = 190505 #Wulgrin (II)
+}
+866.1.1={
+	liege="d_aquitaine"
+}
+866.1.1={
+	holder = 40080 #Wulgrim I Taillefer
+}
+886.1.1={
+	holder = 40084 #Audouin I Taillefer
+}
+916.3.27={
+	holder = 40086 #Guillaume II Taillefer
+}
+945.1.1={
+	holder = 138110 #Bernard I de périgord
+}
+950.1.1={
+	holder = 138111 #Guillaume III Taillefer
+}
+962.8.6={	
+	holder = 138112 #Ranulf Bompar Taillefer
+}
+975.6.27={
+	holder = 138113 #Richard Inisipiens Taillefer
+}
+976.1.1={
+	holder = 40088 #Arnaud Mancer Taillefer
+}
+998.1.1={
+	holder = 40090 #Guillaume IV Taillefer
+}
+1028.4.6={
+	holder = 40102 #Audouin II Taillefer
+}
+1032.5.1={
+	holder = 40096 # Geoffroy I d'angouleme
+}
+1048.12.1={
+	holder = 40106 #Foulques I d'angouleme
+}
+1089.1.1={
+	holder = 40108 #Guillaume V Taillefer
+}
+1112.1.1={
+	holder = 205643 #Wulgrin II taillefer
+}
+1140.9.16={
+	holder = 205641 #Guillaume VI Taillefer
+}
+1179.8.7={
+	holder = 205647 #Wulgrim III Taillefer
+}
+1181.6.29={
+	holder = 138115 #Guillaume VII Taillefer
+}
+1186.1.1={
+	holder = 205640 #Aymar I Taillefer
+}
+1202.6.16={
+	holder = 205648 #Isabelle d'angouleme
+}
+1220.3.10=
+{
+	holder=138001 #Hugues X de Lusignan
+}
+1230.5.1=
+{
+liege="k_england"
+}
+1242.7.21=
+{
+liege="k_france"
+}
+1249.6.5=
+{
+holder=138011	#Hugues XI de Lusignan
+}
+1250.4.6=
+{
+holder=91166 #Yolande Dreux as Hugues XII too young to inherit
+}
+1256.1.1=
+{
+holder=138015 #Hugues XII de Lusignan
+}
+1270.9.24=
+{
+holder=138016 #Hugues XIII de Lusignan
+}
+1303.11.1=
+{
+holder=138010 #Gui I de Lusignan
+}
+1308.9.24=
+{
+holder = 455526 # Philippe IV le Bel
+}
+1314.11.29={
+	holder = 455836 # Louis V le Hutin
+}
+1316.6.5={
+	holder= 70137 # Jean Ier le Posthume
+}
+1316.11.19={ #corrected from 1316.6.5
+	holder= 455509 # Philippe V le Long, son of 455526.
+}
+1322.1.3={
+	holder = 455414 # Charles IV le Bel
+}
+
+#House of Valois
+
+1328.2.1={
+	holder=455500 # Philippe VI
+}
+
+# Navarra
+1336.3.14={
+	liege="k_navarra"
+	holder=455810
+}

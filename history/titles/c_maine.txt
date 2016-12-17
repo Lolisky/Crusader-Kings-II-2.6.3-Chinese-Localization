@@ -1,0 +1,108 @@
+740.1.1 = {
+	liege="k_france"
+	holder=91503 #Rothgar
+}
+790.1.1={
+	holder = 168017 #Gauslin, son of Rothgar
+}
+812.1.1={
+	holder = 168020
+}
+839.6.16={
+	holder = 168019
+}
+849.1.1={
+	holder = 168027
+}
+853.1.1={
+	liege = "d_anjou"
+}
+886.1.1=
+{
+	holder = 168036
+}
+914.1.1=
+{
+	liege = "k_france"
+	holder = 144952
+}
+931.3.26={
+	holder = 144951
+}
+992.1.1={
+	holder = 1354
+}
+1016.7.6={
+	holder = 1358
+} 
+1036.1.1={
+	holder = 1356
+}
+1051.3.26={
+	holder = 144954
+}
+1062.3.9 ={
+	holder = 40404 # Gautier III of Vexin
+}
+
+1063.1.1={
+	liege="d_normandy"
+	holder=142 #Robert I Courteheuse
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+1093.1.1={
+	liege="k_france"
+	holder=232008 #Élie I de Beaugency
+}
+1110.1.1={
+	holder=232009 #Erembourg
+}
+1126.1.1={
+	holder=204506 #Geoffroy V le Bel
+}
+1151.1.15={
+	holder=204500 #Henri II Plantagenêt
+}
+1154.9.7={
+	liege = k_england
+}
+1156.1.1={
+	holder=103000 #Geoffroy VI
+}
+1158.7.27={
+	holder=204500 #Henri II Plantagenêt
+}
+1169.1.1={
+	holder=204508 #Henri le Jeune
+}
+1183.1.1={
+	holder=204510 #Richard Cœur de Lion
+}
+1199.4.6={
+	holder = 204514 #Jean I Sans Terre
+}
+
+#Capetians
+1204.1.1={
+	liege="k_france"
+	holder=205506 # Philippe II Auguste
+}
+1223.7.14={
+	holder = 455402 #Louis VIII le Lion
+}
+1226.11.18={
+	holder = 455406 #Charles I
+}
+1285.1.7={
+	holder = 461710 #Charles II
+}
+1290.8.16={
+	holder = 455512 #Marguerite
+}
+1299.12.13={
+	holder = 455500 #Philippe
+}
+1328.4.1={
+	holder=455502 #Jean II
+}

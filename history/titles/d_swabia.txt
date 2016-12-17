@@ -1,0 +1,130 @@
+693.1.1={
+	holder = 190335 #Gotfrid
+	liege=k_lotharingia
+	name = ALEMANNIA
+	adjective = ALEMANNIA_ADJ
+}
+709.1.1={
+	holder = 190230 #Lantfrid
+}
+730.1.1={
+	holder = 190232 #Theobald
+}
+745.1.1={
+	holder = 190231 #Lantfrid II
+}
+751.1.1={
+	holder = 190234 #Hnabi
+}
+788.1.1={
+	holder = 190238 #Erbio
+}
+794.1.1={
+	holder = 190239 #Udo
+}
+810.1.1={
+	holder = 0
+}
+865.1.1={
+	reset_name = yes
+	reset_adjective = yes
+	holder = 90105 # Charles the Fat
+	liege = k_germany
+}
+876.8.28={
+	liege=0
+	holder=0
+}
+909.1.1={
+	liege=k_germany
+}
+909.1.1={
+	holder = 7955
+}
+917.1.21={
+	holder = 7956
+}
+926.4.29={
+	holder = 7962
+}
+949.12.10={
+	holder = 7964
+}
+954.1.1={
+	holder = 7957
+}
+973.11.12={
+	holder = 7965
+}
+982.1.1={
+	holder = 11064
+}
+997.8.20={
+	holder = 1384
+}
+1003.5.30={
+	holder = 7944
+}
+1012.4.1={
+	holder = 10083
+}
+1015.5.13={
+	holder = 7943
+}
+1024.7.13={
+	liege = e_hre
+}
+1030.9.17={
+	holder = 10085
+}
+1045.1.1={
+	holder = 20206
+}
+1047.1.1={
+	holder = 20261
+}
+1057.1.1={
+	holder=1388
+}
+1079.1.1={
+	holder = 7054 #Friedrich I von Hohenstaufen
+}
+1105.7.21={
+	holder = 212495 #Friedrich II von Hohenstaufen
+}
+1147.1.22={
+	holder = 212501 #Friedrich III von Hohenstaufen
+}
+1152.2.15={
+	holder = 7904 #Friedrich IV von Hohenstaufen
+}
+1167.1.1={
+	holder = 7905 #Friedrich V von Hohenstaufen
+}
+1170.1.1={
+	holder=212500 #Friedrich VI von Hohenstaufen
+}
+1191.1.20={
+	holder=212505 #Konrad II von Hohenstaufen
+}
+1196.8.15={
+	holder=212506 #Phillip I von Hohenstaufen
+}
+1208.6.21={
+	holder=212607 #Otto IV Welf
+}
+1212.1.1={
+	holder=212513 #Friedrich VII von Hohenstaufen
+}
+1216.1.1={
+	holder=30759 #Heinrich VII von Hohenstaufen
+}
+1235.1.1={
+	holder=30760 #Konrad III von Hohenstaufen
+}
+1254.5.21={
+	holder=30785 #Konrad IV von Hohenstaufen
+}
+1268.10.29={
+	holder = 0
+}

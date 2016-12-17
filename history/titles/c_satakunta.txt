@@ -1,0 +1,67 @@
+755.1.1={
+	holder=170306
+	liege="d_finland"
+}
+800.1.1={
+	holder=170307
+}
+835.1.1={
+	holder=170308
+}
+867.1.1={
+	holder=170131
+}
+901.1.1={
+	holder=170132
+}
+957.1.1={
+	holder=170133
+}
+978.1.1={
+	holder=170134
+}
+1020.1.1={
+	holder=170135
+}
+1066.1.1={
+	holder=28011
+}
+1120.1.1={
+	holder = 144641
+}
+1158.1.1={
+	liege="k_sweden" # Erik the Holy's crusade
+	holder=200490 # Erik the Holy
+}
+
+## Horn ancestors
+1160.6.6 = {
+	holder=194229
+}
+1210.1.1 = {
+	holder=194230
+}
+1250.1.1 = {
+	holder=194231
+}
+##
+
+
+1284.1.1={
+	liege="d_finland"
+	holder=33338 # Bengt Duke of Finland
+}
+1291.5.25={
+	liege="k_sweden"
+	holder=450504 # Birger Magnusson
+}
+1302.1.1={
+	liege="d_finland"
+	holder=450607 # Valdemar Magnusson
+}
+1318.2.16={
+	holder=450504 # King Birger
+}
+1320.1.1={
+	holder=450760
+}

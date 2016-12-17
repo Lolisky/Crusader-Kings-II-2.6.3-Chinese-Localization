@@ -1,0 +1,69 @@
+760.1.1={
+	liege="k_lotharingia"
+	holder = 91482 #FREDERIC, count of Transjuranie
+}
+855.1.1={
+	liege = "d_upper_burgundy"
+	holder = 7977
+}
+864.1.1={
+	holder = 144998
+}
+866.1.1={
+	holder = 7989
+}
+876.1.1={
+	holder = 7984
+}
+
+1032.9.5=
+{
+liege="e_hre"
+holder=40560
+law = succ_primogeniture
+law = agnatic_succession
+}
+1070.1.1=
+{
+holder=32762
+}
+1099.1.1=
+{
+holder=212010
+}
+1132.8.1=
+{
+holder=212012
+}
+1164.1.1=
+{
+holder=212013
+}
+1189.1.1=
+{
+holder=212018
+}
+1196.8.30=
+{
+holder=32768
+}
+1220.1.1 = {
+	liege = d_upper_burgundy
+}
+1225.8.1=
+{
+holder=32769
+}
+1257.3.14=
+{
+holder=32770
+liege = e_hre
+}
+1285.8.16=
+{
+liege="d_savoie"
+}
+1309.8.29=
+{
+holder=32771
+}

@@ -1,0 +1,70 @@
+756.1.1={
+	holder = 191961 #Sujji, fictional vassal in the Salt range
+	liege = k_punjab
+}
+780.1.1={
+	holder = 191962
+}
+860.1.1={
+	holder=178024
+	liege = 0
+}
+
+#Ghakkars
+#983-end of game
+#Muslims from around 1180
+
+#Zain Han
+983.1.1={
+	holder = 191971 #Zain Han
+}
+1005.1.1={
+	holder = 191972 #Kai Gohar
+	liege = d_lahore
+}
+1031.1.1={
+	holder = 191973 #Bag Han
+}
+1065.1.1={
+	holder = 191974 #Mahpal Han
+}
+1101.1.1={
+	holder = 191975 #Mu'azzam Han
+	#muslims
+}
+1135.1.1={
+	holder = 191976 #Asi Han
+}
+1152.1.1={
+	holder = 191977 #Ragar Han
+}
+1175.1.1={
+	liege = k_afghanistan
+}
+1186.1.1={
+	holder = 191978 #Sipihr Han
+}
+1192.1.1={
+	liege=k_delhi
+}
+1199.1.1={
+	holder = 191979 #Surkah Han
+}
+1206.1.1={
+	holder = 191980 #Fidai Han
+}
+1206.3.15={
+	liege=e_rajastan
+}
+1220.1.1={
+	holder = 191981 #Mang Han
+}
+1267.1.1={
+	holder = 191982 #Lahar Han
+}
+1330.1.1={
+	holder = 191983 #Lakhan Han
+}
+1341.1.1={
+	holder = 191984 #Haydar Han
+}

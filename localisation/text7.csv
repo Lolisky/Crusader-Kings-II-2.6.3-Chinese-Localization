@@ -1,0 +1,65 @@
+;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+WIKIPEDIA_LINK;§YÎ¬»ù°Ù¿ÆÁ´½Ó£¨Ó¢ÎÄ£©§W;§YLien Wikipédia§W;§YWikipedia Link§W;;§YEnlace a Wikipedia§W;;;;;;;;;x
+WIKIPEDIA_LINK_DESC;ä¯ÀÀÎ¬»ù°Ù¿ÆÉÏµÄ½ÇÉ«½éÉÜ;Ouvre un navigateur vers la page Wikipedia du personnage;Öffnet den Browser und zeigt die Wikipediaseite für diesen Charakter an;;Abre un enlace en el explorador a la página de Wikipedia de este personaje;;;;;;;;;x
+WIKIPEDIA_LINK_MISSING;§YÕâ¸ö½ÇÉ«Ã»ÓĞÎ¬»ù°Ù¿Æ½éÉÜ§W;§YCe personnage n'a pas de page wikipédia§!;§YDieser Charakter besitzt keinen Wikipedia-Link§!;;§YEste personaje no tiene enlace en Wikipedia§W;;;;;;;;;x
+WIKIPEDIA_LINK_DISABLED;Î¬»ù°Ù¿ÆÁ´½Ó¹Ø±Õ;Les liens wikipedia sont désactivés;Wikipedia-Links sind deaktiviert;;Los enlaces a la Wikipedia están desactivados;;;;;;;;;x
+AIREASON_TARGET_HAS_REPENTED_SINS;§Y[GetBestName]§!×î½üÒÑ¾­âã»Ú  [GetPossPronoun] ·¸ÏÂµÄ×ï¹ı .;§Y[GetBestName]§! s'est récemment repenti de ses péchés;Hat jüngst für seine Sünden Buße getan;;§Y[GetBestName]§! se ha arrepentido recientemente de sus [GetPossPronoun] pecados;;;;;;;;;x
+OL_DISABLED_ALERTS;¹Ø±Õ¾¯¸æ;Alertes déactivées;Alarme sind deaktiviert;;Desactivar Avisos;;;;;;;;;x
+alert_deficits_name;³à×Ö;Déficits;Defizite;;Déficits;;;;;;;;;x
+alert_country_at_war_name;Õ½Õù×´Ì¬;Pays en guerre;Land befindet sich im Krieg;;País en Guerra;;;;;;;;;x
+alert_casus_belli_will_expire_name;ÁÙÊ±ĞûÕ½ÀíÓÉ;Casus belli temporaire;Temporärer Casus Belli;;Casus Belli temporal;;;;;;;;;x
+alert_allies_not_called_in_name;ÎÒÃÇ¿ÉÒÔÕÙ»½ÃËÓÑ;Nous pouvons solliciter de l'aide à nos alliés;Es können Verbündte um Beistand gebeten werden;;Podemos llamar a nuestros aliados;;;;;;;;;x
+alert_build_province_improvement_name;¿ÉÒÔ½¨ÉèÊ¡·İ½¨Öş;Peut contruire des améliorations comtales;Es können Provinzverbesserungen gebaut werden;;Podemos construir mejoras en nuestras provincias;;;;;;;;;x
+alert_troops_in_foreign_territory_name;¾ü¶Ó×¤ÔúÔÚ¹ú¾³Íâ;Troupes en territoire étranger;Truppen im fremden Gebiet;;Tropas en tierras extranjeras;;;;;;;;;x
+alert_revoltrisk_in_provinces_name;¿ÉÄÜ±¬·¢ÅÑÂÒ;Révoltes possibles;Es sind Revolten möglich;;Posibles revueltas;;;;;;;;;x
+alert_available_decision_name;ÖØÒª¾öÒé;Décisions importantes;Wichtige Entscheidungen;;Decisiones Importantes;;;;;;;;;x
+alert_noheir_name;Ã»ÓĞ¼Ì³ĞÈË;Pas d'héritier;Kein Erbe;;No tienes Heredero;;;;;;;;;x
+alert_court_not_filled_name;ÖØ³¼;Postes vacants au Conseil;Ratspositionen nicht besetzt;;Puestos disponibles en el Consejo;;;;;;;;;x
+alert_lose_title_on_succ_name;¼Ì³ĞÊ±Ê§È¥Í·ÏÎ;Perte de titre lors de la succession;Titel geht bei Nachfolge verloren;;Título perdido en la Sucesión;;;;;;;;;x
+alert_should_nominate_heir_name;Ö¸¶¨¼Ì³ĞÈË;Nomination d'un successeur;Nachfolgenominierung;;Nominar Sucesor;;;;;;;;;x
+alert_you_can_create_titles_name;¿ÉÒÔ´´Á¢Í·ÏÎ;Des titres peuvent être créés;Es können Titel geschaffen werden;;Puedes crear títulos;;;;;;;;;x
+alert_you_can_usurp_titles_name;¿ÉÒÔ´Û¶áÍ·ÏÎ;Des titres peuvent être usurpés;Es können Titel ursupiert werden;;Puedes usurpar títulos;;;;;;;;;x
+alert_ruler_should_marry_name;Í³ÖÎÕßÎ´»é;Souverain célibataire;Herrscher ist nicht vermählt;;Gobernante soltero;;;;;;;;;x
+alert_heir_should_marry_name;¼Ì³ĞÈËÎ´»é;Héritier célibataire;Erbe ist nicht vermählt;;Heredero soltero;;;;;;;;;x
+alert_should_appoint_guardian_name;Î´³ÉÄêÈËÃ»ÓĞ¼à»¤ÈË;Enfants sans tuteur;Kein Vormund für Kinder;;Infante sin tutor;;;;;;;;;x
+alert_demesne_too_big_name;Ö±Ï½ÁìµØ¹ı´ó;Domaine trop vaste;Domäne zu groß;;Heredad demasiado grande;;;;;;;;;x
+alert_adult_sons_notitle_name;¶ù×ÓÃ»ÓĞ·âµØ;Fils sans terres;Söhne besitzen kein Land;;Hijos sin tierras;;;;;;;;;x
+alert_betrothed_should_marry_name;¶©»éÕß¿ÉÒÔ³É»é;Les fiancés peuvent se marier;Verlobte können heiraten;;Prometido se puede casar;;;;;;;;;x
+alert_can_imprison_name;ºÏ·¨¾Ğ½û;Emprisonnement justifié;Rechtmäßige Inhaftierung;;Arresto legítimo;;;;;;;;;x
+alert_titles_may_pass_from_realm_name;·â³¼¼Ì³ĞÎ£»ú;Avertissement sur la succession de certains vassaux;Titel fällt möglicherweise an eine Person außerhalb des Reiches;;Aviso de herencia de vasallos;;;;;;;;;x
+alert_can_call_vassals_to_arms_name;¿ÉÒÔÕÙ»½Ç°ÁìÖ÷µÄ·â³¼;Nous pouvons faire appel à des vassaux de notre ancien seigneur lige;Vasallen unseres früheren Lehensherrn können um Beistand ersucht werden;;Puedes llamar a los vasallos de tu antiguo señor;;;;;;;;;x
+alert_available_plot_name;¿ÉÒÔ²ß»®ĞÂÒõÄ±;De nouveaux complots sont disponibles;Neue Verschwörung möglich;;Nuevos complots disponibles;;;;;;;;;x
+alert_vassal_levies_raised_long_name;·â³¼²¿¶ÓÕ÷ÕÙÊ±¼ä¹ı³¤;Les troupes des vassaux sont levées depuis trop longtemps;Wir beanspruchen die Streikräfte unserer Vasallen zu lang;;Levas de los vasallos reclutadas durante mucho tiempo;;;;;;;;;x
+alert_owns_wrong_settlement_type_name;´íÎóµÄÖ±Ï½ÁìµØÀàĞÍ£¨³ÇÊĞ¡¢ĞŞµÀÔº£©;Mauvais type de possession dans le domaine;Falscher Herrschafftstyp für eine Herrschaft in unserer Domäne;;Tipo de población erróneo en la heredad;;;;;;;;;x
+alert_no_ambition_name;Ñ¡ÔñÒ»ÏîÒ°ĞÄ;Choisissez une ambition;Wähle ein Lebensziel;;Escoge una ambición;;;;;;;;;x
+alert_dejure_claim_name;¿ÉÒÔ¹«¿ª·¨ÀíĞû³ÆÈ¨;Peut revendiquer des titres de jure;Es können herzögliche Ansprüche durchgesetzt werden;;Puedes ejercer una reclamación de ducado de iure;;;;;;;;;x
+alert_truce_expiring_name;ºÍÔ¼½«µ½ÆÚ;Des trêves s'achèvent;Waffenstillstand läuft aus;;Finalizando treguas;;;;;;;;;x
+OPINION_OF_ME;¶ÔÎÒµÄºÃ¸Ğ;Son opinion sur moi;Meinung über mich;;Opinión sobre mi;;;;;;;;;x
+MY_OPINION_OF_CHAR;ÎÒ¶Ô$CHAR$µÄºÃ¸Ğ;Mon opinion sur $CHAR$;Meine Meinung von $CHAR$;;Mi opinión sobre $CHAR$;;;;;;;;;x
+ALERT_DISABLED;¹Ø±Õ;Désactivé;Deaktiviert;;Desactivada;;;;;;;;;x
+ALERT_DISABLED_TOOLTIP;ÒÑ¹Ø±Õ\n§Yµã»÷ÖØĞÂÆôÓÃ§!;Désactivé\n§YCliquez pour réactiver§!;Deaktiviert\n§YWählen zum reaktivieren§!;;Desactivada\n§YPincha para activar§!;;;;;;;;;x
+ALERT_DISMISSED;È¡Ïû;Écarté;Abgelehnt;;Descartada;;;;;;;;;x
+ALERT_DISMISSED_TOOLTIP;ÒÑÈ¡Ïû\n§Y»÷ÖØĞÂÆôÓÃ§!;Écarté\n§YCliquez pour réactiver§!;Abgelehnt\n§YWählen zum reaktivieren§!;;Descartada\n§YPincha para activar§!;;;;;;;;;x
+SAME_GUARDIAN_AS;ÓëºóÕß¼à»¤ÈËÏàÍ¬ ;Même tuteur que ;Hat den gleichen Vormund wie ;;Mismo tutor que ;;;;;;;;;x
+NOT_SAME_GUARDIAN_AS;ÓëºóÕß¼à»¤ÈË²»Í¬ ;DIFFERENT tuteur que ;Hat nicht den gleichen Vormund wie;;Distinto tutor que ;;;;;;;;;x
+GARRISON_REINFORCE_PROVINCEVIEW_TOOLTIP;²¹³ä±øÔ±: §Y+$NUM$§!/ÔÂ;Renforts : §Y+$NUM$§!/mois;Verstärkung: §Y+$NUM$§!/month;;Refuerzos: §Y+$NUM$§!/mes;;;;;;;;;x
+NO_LEVY_REINF_GARRISON;§RÔÚÎÀÊù²¿¶Ó²¹³äÍê±ÏÖ®Ç°Õ÷ÕÙ±øÎŞ·¨µÃµ½²¹³ä§!;§RLes troupes ne se renforceront pas tant que la garnison restera incomplète§!;§Rstreitkräfte werden nicht verstärkt, solange die Garnision nicht vollzählig ist§!;;§RLa leva no se reforzará hasta que la guarnición esté completa§!;;;;;;;;;x
+d_ghilman;¹ÅÀ­Ä·;Ghulman;Ghilman;;Ghilman;;;;;;;;;x
+d_ghilman_adj;¹ÅÀ­Ä·;Ghulmane;Ghilman;;Ghulam;;;;;;;;;x
+county_isolated;·ÉµØ;Comté isolé;Isolierte Grafschaft;;Condado Aislado;;;;;;;;;x
+TITLE_TIER_IS_LOWER;§Y$NAME$§!µÄÉí·İµÍÓÚ §Y$RANK$§!\n;Le rang de §Y$NAME$§! est inférieur à §Y$RANK$§!\n;§Y$NAME$'s§! Rang ist geringer als der von §Y$RANK$§!\n;;El rango de §Y$NAME$'s§! es inferior al de §Y$RANK$§!\n;;;;;;;;;x
+TITLE_TIER_IS_NOT_LOWER;§Y$NAME$§!µÄÉí·İ²»µÍÓÚ §Y$RANK$§!\n;Le rang de §Y$NAME$§! n'est pas inférieur à §Y$RANK$§!\n;§Y$NAME$'s§! Rang ist nicht geringer als der von §Y$RANK$§!\n;;El rango de §Y$NAME$'s§! NO es inferior al de §Y$RANK$§!\n;;;;;;;;;x
+TITLE_TIER_IS_HIGHER;§Y$NAME$§!µÄÉí·İ¸ßÓÚ §Y$RANK$§!\n;Le rang de §Y$NAME$§! est supérieur à §Y$RANK$§!\n;§Y$NAME$'s§! Rang ist höher als der von §Y$RANK$§!\n;;El rango de §Y$NAME$'s§! es superior al de §Y$RANK$§!\n;;;;;;;;;x
+TITLE_TIER_IS_NOT_HIGHER;§Y$NAME$§!µÄÉí·İ²»¸ßÓÚ §Y$RANK$§!\n;Le rang de §Y$NAME$§! n'est pas supérieur à §Y$RANK$§!\n;§Y$NAME$'s§! Rang ist nicht höher als der von §Y$RANK$§!\n;;El rango de §Y$NAME$'s§! NO es superior al de §Y$RANK$§!\n;;;;;;;;;x
+MSG_SETTING_PRIO6;½«ÔİÍ£ÓÎÏ·.;Mettre le jeu en pause;Pausiert das Spiel;;Pausará el juego;;;;;;;;;x
+MSG_SETTING_CLOSE_COL;Õâ¸ö±êÖ¾¿ØÖÆÄãºÍÄãµÄ½üÇ×¼°ÎŞÁìµØ¼ÒÍ¥³ÉÔ±µÄÏûÏ¢;Cette colonne contrôle le comportement de ce message vous concernant ou ceux d'un membre de la famille qui est sans terre;Dieser Schalter beeinflusst das Verhalten dieser Nachricht in Hinsicht auf dich oder nahe und besitzlose Familienmitgliedern;;Esta columna controla el comportamiento de los mensajes que te atañen a ti o a tus familiares cercanos en la Corte;;;;;;;;;x
+MSG_SETTING_OTHER_COL;Õâ¸ö±êÖ¾¿ØÖÆÆäËû¹Ø×¢ÈËÎïµÄÏûÏ¢;Cette colonne contrôle le comportement de ce message concernant d'autres personnages;Dieser Schalter beeinflusst das Verhalten dieser Nachricht in Hinsicht auf das Interesse von Nachrichten anderer Charaktere;;Esta columna controla el comportamiento de los mensajes que atañen a otros personajes interesantes;;;;;;;;;x
+MSG_SETTING_INTEREST_COL;Õâ¸ö±êÖ¾¿ØÖÆÌØ±ğ¹Ø×¢ÈËÎïµÄÏûÏ¢;Cette colonne contrôle le comportement du message concernant des personnages importants;Dieser Schalter beeinflusst das Verhalten dieser Nachricht bezüglich Charakteren von besonderem Interesse;;Esta columna controla el comportamiento de los mensajes que atañen a personajes marcados como especialmente interesantes;;;;;;;;;x
+MSG_SETTING_CLOSE_BUT;Õâ¸ö°´Å¥¿ØÖÆÄãºÍÄãµÄ½üÇ×¼°ÎŞÁìµØ¼ÒÍ¥³ÉÔ±µÄÏûÏ¢;Ce bouton affiche les options pour les messages vous concernant ou à propos des membres de votre famille sans terre;;;Este botón muestra las opciones para mensajes referentes a tí o a tu familia cercana o en la corte;;;;;;;;;x
+MSG_SETTING_INTEREST_BUT;Õâ¸ö°´Å¥¿ØÖÆÌØ±ğ¹Ø×¢ÈËÎïµÄÏûÏ¢;Ce bouton affiche les options pour les messages concernant les personnages importants;;;Este botón muestra las opciones para mensajes referentes a personajes especialmente interesantes;;;;;;;;;x
+MSG_SETTING_OTHER_BUT;Õâ¸ö°´Å¥¿ØÖÆÆäËû¹Ø×¢ÈËÎïµÄÏûÏ¢;Ce bouton affiche les options pour les messages concernant les personnages anodins;;;Este botón muestra las opciones para mensajes referentes a otros personajes interesantes;;;;;;;;;x
+SPECIAL_INTEREST_CHARACTERS;ÌØ±ğ¹Ø×¢ÈËÎï;Personnages importants;Charaktere von besonderem Interesse;;Personajes especialmente interesantes;;;;;;;;;x
+CIW_MESSAGES;§Y±ê¼ÇÌØ±ğ¹Ø×¢ÈËÎï§!;§YMarquer comme personnage soit important soit quelconque§!;Kennzeichne als Charakter von besonderem Interesse;;Seleccionar/Deseleccionar como personaje especialmente interesante;;;;;;;;;x
+CIW_MESSAGES_DEL;ÌØ±ğ¹Ø×¢ÈËÎï¸üÈİÒ××·×Ù£¬ËûÃÇÓĞ×Ô¼ºµÄĞÅÏ¢À¸ºÍÏûÏ¢ÉèÖÃ.;Les personnages qui sont marqués comme important sont plus faciles à suivre car ils sont dans l'index et ont leur propre configuration de messages;Charaktere von besonderem Interesse sind leichter zu verfolgen, da sie eine Outlinerkategorie und ihre eigenen Nachrichteneinstellung haben.;;Los personajes especialmente interesantes son más fáciles de seguir pues tienen una categoría especial y su propia configuración de mensajes;;;;;;;;;x
+EVTDESC24503;The rest of my sons are nowhere near the abilities of [From.GetTitledFirstName]. He knew how to handle a sword, and would have been a great [Root.GetTitle] after my death.;Mes fils survivants, hélas, n'arrivent pas à la cheville de [From.GetTitledFirstName]. Lui, au moins, savait manier l'épée, et aurait été un grand [Root.GetTitle] après ma mort.;Meine verbleibenden Söhne haben bei weitem nicht die Fähigkeiten die [From.GetTitledFirstName] hatte. Er wusste wie man ein Schwert führte und wäre ein großartiger [Root.GetTitle], nach meinem Tod gewesen.;;El resto de mis hijos ni se acercan a la capacidad de [From.GetTitledFirstName]. Sabía como blandir una espada, y hubiera sido un gran [Root.GetTitle] a mi muerte;;;;;;;;;x
+EVTOPTD50006;µ«ÊÇ... ÎÒ²»ÊÇ·ÅÁËÄãÃ´£¿;Mais... ne t'avais-je pas libéré ?;Aber...habe ich dich nicht freigelassen? ;;Pero... ¿No te había liberado? ;;;;;;;;;x

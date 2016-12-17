@@ -1,0 +1,47 @@
+754.1.1 = {
+	liege = d_kirghiz
+	holder = 217310
+}
+860.1.1 = {
+	holder = 217169
+}
+# Liao Dynasty
+1051.1.1 = {
+	holder = 217346
+	liege = d_altay
+}
+1071.3.3 = {
+	holder = 217347
+}
+1083.7.11 = {
+	holder = 217348
+}
+1087.5.15 = {
+	holder = 217349
+}
+1096.10.14 = {
+	holder = 217350
+}
+1101.5.2 = {
+	holder = 217351
+}
+1121.7.5 = {
+	holder = 217352
+}
+# Kirghiz rule after Liao fall
+1125.1.1 = {
+	holder = 194201
+	liege = d_kirghiz
+}
+1150.1.1 = {
+	holder = 194202
+}
+1180.1.1 = {
+	holder = 194203
+}
+1200.1.1 = {
+	holder = 194204
+}
+#1200.1.1 = {
+#	holder = 125501
+#}

@@ -1,0 +1,75 @@
+330.1.1={
+	liege = "e_byzantium"
+	vice_royalty = yes
+}
+762.1.1={
+	holder=145819
+}
+801.1.1={
+	holder=145930
+}
+842.1.1={
+	holder=145931
+}
+1025.1.1=
+{
+holder=20528
+}
+1040.1.1=
+{
+holder=20514
+}
+1097.1.1=
+{
+holder=70402
+}
+1100.1.1=
+{
+holder=70404
+}
+1115.1.1=
+{
+holder=232507
+}
+1130.1.1=
+{
+holder=232542
+}
+1146.1.2=
+{
+holder=215019
+}
+1194.1.1=
+{
+holder=34414
+}
+1204.5.16={ # Collapse of Byzantine Empire
+	liege=0
+	vice_royalty = no
+}
+1207.1.1=
+{
+	liege="e_latin_empire"
+	holder=31421
+}
+1227.1.1=
+{
+	holder=31422
+}
+1261.7.25=
+{
+	liege="k_venice"
+}
+1262.1.1=
+{
+	holder=31423
+}
+1303.1.1=
+{
+	holder=31425
+}
+1323.1.1=
+{
+	holder=31427
+}
+

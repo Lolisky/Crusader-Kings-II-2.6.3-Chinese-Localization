@@ -1,0 +1,93 @@
+690.1.1={
+	holder=191385#Jayavardhana I Sailavamsa
+}
+720.1.1={
+	holder=191386#Jayavardhana II Sailavamsa
+}
+740.1.1={
+	holder=191387#Srivardhana II Sailavamsa
+	liege = d_dahala
+}
+780.1.1={
+	holder = 191388 #Cedi?
+}
+825.1.1={
+	holder = 191321 #Laksmanaraja Cedi
+}
+845.1.1= {
+	holder = 190200 #Kokkala Cedi
+}
+890.1.1= {
+	holder = 190201 #Sankaragana Cedi
+}
+910.1.1= {
+	holder = 190202 #Balaharsha Cedi
+}
+915.1.1= {
+	holder = 190203 #Yuvaraja Cedi
+}
+945.1.1= {
+	holder = 190204 #Lakshmanaraja Cedi
+}
+969.1.1= {
+	holder = 190205 #Sankaragana Cedi
+}
+980.1.1= {
+	holder = 190206 #Yuvaraja Cedi
+}
+990.1.1= {
+	holder = 190207 #Kokkala Cedi
+}
+1000.1.1={
+	holder = 191345 #Kalingaraja
+	liege = d_ratanpur
+}
+1030.1.1={
+	holder = 191346 #Kamalaraja
+}
+1050.1.1={
+	holder = 191347 #Ratnadeva - moves capital to Ratanpur
+}
+1070.1.1={
+	holder = 191348 #Prthvideva
+}
+1100.1.1={
+	holder = 191349 #Jajalladeva
+}
+1130.1.1={
+	holder = 191350 #Ratnadeva II
+}
+1150.1.1={
+	holder = 191351 #Prthvideva II
+}
+1170.1.1={
+	holder = 191352 #Jajalladeva
+}
+1190.1.1={
+	holder = 191353 #Ratnadeva III
+}
+1198.1.1={
+	holder = 191354 #Pratapamalla
+}
+1225.1.1={
+	holder = 191355 #Laxmideo
+	liege=d_daksina_kosala
+}
+1250.1.1={
+	holder = 191356 #Simhana
+}
+1280.1.1={
+	holder = 191357 #Danghira
+}
+1300.1.1={
+	holder = 191358 #Ramachandra
+}
+1340.1.1={
+	holder = 191359 #Ratanasena
+}
+1380.1.1={
+	holder = 191360 #Vahar
+}
+1426.1.1={
+	holder = 191361 #Kamaldeva
+}

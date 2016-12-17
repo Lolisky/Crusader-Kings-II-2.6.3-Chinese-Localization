@@ -1,0 +1,69 @@
+;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+;#FILTER_SAME_REL;My Religion;;Meine Religion;;Mi religi¨®n;;;;;;;;;x;
+;#FILTER_SAME_REL_GROUP;My Religion Group;;Meine Religionsgruppe;;Mi grupo religioso;;;;;;;;;x;
+;#FILTER_NOT_SAME_REL;Not My Religion;;Nicht meine Religion;;No es mi religi¨®n;;;;;;;;;x;
+;#FILTER_NOT_SAME_REL_GROUP;Not My Religion Group;;Nicht meine Religionsgruppe;;No es mi grupo religioso;;;;;;;;;x;
+;#FILTER_ANY_REL;Any Religion;;Beliebige Religion;;Cualquier religi¨®n;;;;;;;;;x;
+;#FILTER_SAME_CUL;My Culture;;Meine Kultur;;Mi cultura;;;;;;;;;x;
+;#FILTER_SAME_CUL_GROUP;My Culture Group;;Meine Kulturgruppe;;Mi grupo cultural;;;;;;;;;x;
+;#FILTER_NOT_SAME_CUL;Not My Culture;;Nicht meine Kultur;;No es mi cultura;;;;;;;;;x;
+;#FILTER_ANY_CUL;Any Culture;;Beliebige Kultur;;Cualquier cultura;;;;;;;;;x;
+;#FILTER_NOT_SAME_CUL_GROUP;Not My Culture Group;;Nicht meine Kulturgruppe;;No es mi grupo cultural;;;;;;;;;x;
+temple_baron_jewish;À­±È;Rabbin;Rabbiner;;Rabino;;;;;;;;;x
+temple_baron_samaritan;À­±È;Rabbin;Rabbiner;;Rabino;;;;;;;;;x
+temple_baron_karaite;À­±È;Rabbin;Rabbiner;;Rabino;;;;;;;;;x
+RETTYPE_CUL_NUBIAN;Å¬±ÈÑÇ¹­¼ýÊÖ;Archers nubiens;Nubische Bogenschützen;;Arqueros Nubios;;;;;;;;;x
+ca_culture_nubian_1;Å¬±ÈÑÇÕ½Ê¿±øÓª;Caserne des guerriers nubiens;Nubische Kriegerbaracken;;Barracas de Guerreros Nubios;;;;;;;;;x
+ca_culture_nubian_2;Å¬±ÈÑÇÕ½Ê¿±øÓª;Caserne des guerriers nubiens;Nubische Kriegerbaracken;;Barracas de Guerreros Nubios;;;;;;;;;x
+ca_culture_nubian_3;Å¬±ÈÑÇÕ½Ê¿±øÓª;Caserne des guerriers nubiens;Nubische Kriegerbaracken;;Barracas de Guerreros Nubios;;;;;;;;;x
+ca_culture_nubian_4;Å¬±ÈÑÇÕ½Ê¿±øÓª;Caserne des guerriers nubiens;Nubische Kriegerbaracken;;Barracas de Guerreros Nubios;;;;;;;;;x
+ca_culture_nubian_1_desc;ÕâÐ©±øÓªÊÇ¹Å´úÅ¬±ÈÑÇÕ½Ê¿´«Í³µÄÅàÑøºÍ·¢Õ¹µÄµØ·½¡£Å¬±ÈÑÇ×Ô¹Å´úÆð¾ÍÒÔÆä¾«Õ¿µÄ¹­¼ýÊÖ¶ø±¸ÊÜ×ð¾´£¬ÆäËûµÄ¾«Ó¢²½±ø²¿¶ÓÒ²µÃµ½ÑµÁ·ÒÔÖ§»¤ÕâÒ»Å¬±ÈÑÇÍ³ÖÎÕßµÄÓÐÁ¦ÎäÆ÷¡£;Cette caserne est le lieu où les anciennes traditions des guerriers nubiens sont encouragées et développées. Depuis les anciens temps, la Nubie est respectée pour la qualité magistrale de ses archers. D'autres unités d'infanterie d'élite sont entrainées et exercées à soutenir cette puissante arme des dirigeants nubiens.;In diesen Barracken werden die traditionellen Nubischen Krieger ausgebildet. Nubien ist seit der Antike für seine fähigen Bogenschützen bekannt, so dass seine besten Soldaten darauf gedrillt werden, die mächtigste Waffe der Nubischen Herrscher auf dem Schlachtfeld zu unterstützen.;;En estas barracas es donde se desarrollan y mejoran las tradiciones militares nubias. Nubia es respetada por sus brillantes arqueros, y otras unidades deélite en infantería son entranados para el uso de esta potente arma de los gobernantes nubios.;;;;;;;;;x
+;#NOT_VARIABLE;§Y$VAR$§! is less than §Y$VALUE$§!;;§Y$VAR$§! ist kleiner als §Y$VALUE$§!;;§Y$VAR$§! es menor que §Y$VALUE$§!;;;;;;;;;x;
+;#VARIABLE;§Y$VAR$§! is at least §Y$VALUE$§!;;§Y$VAR$§! ist mindestens §Y$VALUE$§!;;§Y$VAR$§! es al menos de §Y$VALUE$§!;;;;;;;;;x;
+;#SET_VARIABLE;Set §Y$VAR$§! to §Y$VALUE$§!;;Setzt §Y$VAR$§! auf Wert §Y$VALUE$§!;;Adjuste de §Y$VAR$§! a §Y$VALUE$§!;;;;;;;;;x;
+;#CHANGE_VARIABLE;Change §Y$VAR$§! with §Y$VALUE$§!;;?ndert §Y$VAR$§! um §Y$VALUE$§!;;Cambio de §Y$VAR$§! con §Y$VALUE$§!;;;;;;;;;x;
+;#SUBTRACT_VARIABLE;Subtract §Y$VALUE$§! from §Y$VAR$§!;;Reduziert §Y$VAR$§! um §Y$VALUE$§!;;Reste §Y$VALUE$§! de §Y$VAR$§!;;;;;;;;;x;
+;#MULTIPLY_VARIABLE;Multiply §Y$VAR$§! with §Y$VALUE$§!;;Multipliziert §Y$VAR$§! mit §Y$VALUE$§!;;Multiplicar §Y$VAR$§! con §Y$VALUE$§!;;;;;;;;;x;
+;#DIVIDE_VARIABLE;Divide §Y$VAR$§! with §Y$VALUE$§!;;Teilt §Y$VAR$§! durch §Y$VALUE$§!;;Divide §Y$VAR$§! con §Y$VALUE$§!;;;;;;;;;x;
+;#TRIGGER_DYNASTY_HEAD;Head of Dynasty;;Oberhaupt der Dynastie;;Jefe de la Dinast¨ªa;;;;;x;
+;#NUM_OF_MAX_SETTLEMENTS_AT_LEAST;Max holdings at least §Y$VAL$§!;;Anzahl der maximalen Besitzt¨¹mer mindestens §Y$VAL$§!;;Max propiedades al menos §Y$VAL$§!;;;;;x;
+;#NUM_OF_MAX_SETTLEMENTS_LESS_THAN;Max holdings less than §Y$VAL$§!;;Anzahl der maximalen Besitzt¨¹mer geringer als §Y$VAL$§!;;Max propiedades menos de §Y$VAL$§!;;;;;x;
+;#NUM_OF_EMPTY_HOLDINGS_AT_LEAST;Empty holdings at least §Y$VAL$§!;;Anzahl der unbenutzten Besitzt¨¹mer mindestens §Y$VAL$§!;;Propiedades vac¨ªos al menos §Y$VAL$§!;;;;;x;
+;#NUM_OF_EMPTY_HOLDINGS_LESS_THAN;Empty holdings less than §Y$VAL$§!;;Anzahl der unbenutzten Besitzt¨¹mer geringer als §Y$VAL$§!;;Propiedades vac¨ªos menos de §Y$VAL$§!;;;;;x;
+;#DONT_BORDERS_MAJOR_RIVER;Does NOT border major river;;Grenzt NICHT an einen schiffbaren Fluss an;;NO bordea un r¨ªo importante;;;;;x;
+;#BORDERS_MAJOR_RIVER;Borders major river;;Grenzt an einen schiffbaren Fluss an;;Bordea un r¨ªo importante;;;;;x;
+;#SET_GRAPHICAL_CULTURE;Set graphical culture to §Y$NAME$§!;;Setzt dargestellte Kulturgrafik auf §Y$NAME$§!;;Establezca gr¨¢fica Cultura a §Y$NAME$§!;;;;;x;
+;#IS_VARIABLE_EQUAL;§Y$VAR$§! is equal to §Y$VALUE$§!;;§Y$VAR$§! is gleich Wert §Y$VALUE$§!;;§Y$VAR$§! es igual a §Y$VALUE$§!;;;;;;;;;x;
+;#NOT_IS_VARIABLE_EQUAL;§Y$VAR$§! is NOT equal to §Y$VALUE$§!;;§Y$VAR$§! is NICHT gleich Wert §Y$VALUE$§!;;§Y$VAR$§! NO es igual a §Y$VALUE$§!;;;;;;;;;x;
+;#NOT_IS_LOOTING;Is NOT looting;;Pl¨¹ndert NICHT;;NO est¨¢ saqueando;;;;;x;
+;#IS_LOOTING;Is looting;;Pl¨¹ndert;;Est¨¢ saqueando;;;;;x;
+;#NOT_IS_LOOTING_IN;Is NOT looting in §Y$PROVINCE$§!;;Pl¨¹ndert NICHT in §Y$PROVINCE$§!;;NO est¨¢ saqueros en §Y$PROVINCE$§!;;;;;x;
+;#IS_LOOTING_IN;Is looting in §Y$PROVINCE$§!;;Pl¨¹ndert in §Y$PROVINCE$§!;;Se saqueos en §Y$PROVINCE$§!;;;;;x;
+;#MODIFIER_DEMESNE_SIZE;Demesne Size;;Dom?nengr??e;;Tama?o de la heredad;;;;;;;;;x;
+;#MODIFIER_LOCAL_MOVEMENT_SPEED;Local Movement Speed;;Lokale Bewegungsgeschwindigkeit;;Velocidad de movimiento local;;;;;;;;;x;
+;#NOT_IS_ALLIED_WITH;Is NOT allied with §Y$NAME$§!;;Ist NICHT mit §Y$NAME$§! verb¨¹ndet;;NO est¨¢ afiliada a §Y$NAME$§!;;;;;x;
+;#IS_ALLIED_WITH;Is allied with §Y$NAME$§!;;Ist mit §Y$NAME$§! verb¨¹ndet;;Se al¨ªa con §Y$NAME$§!;;;;;x;
+;#ANY_ALLIED_CHARACTER_STARTS;Any Allied Character;;Beliebiger verb¨¹ndeter Charakter;;Cualquier aliado;;;;;x;
+;#LOSES_NICKNAME;Will no longer be known as;;Wird nicht mehr unter folgendem Namen bekannt sein:;;No seguir¨¢ siendo conocido como;;;;;;;;;x;
+;#LOSTNICKNAME_SETUP;Nickname Lost;;Spitzname verloren;;Apodo perdido;;;;;;;;;x;
+;#LOSTNICKNAME_LOG;§Y$CHARACTERNAME$§! is no longer known as $NICKNAME$.;;§Y$CHARACTERNAME$§! ist nicht l?nger als ''$NICKNAME$'' bekannt;;§Y$CHARACTERNAME$§! ya no es conocido como $NICKNAME$.;;;;;;;;;x;
+;#LIEGE_ENDED_WAR_PARTICIPATION_SETUP;Liege ended war participation;;Lehensherr beendete seine Kriegsteilnahme;;Tu se?or puso fin a la participaci¨®n en la guerra;;;;;;;;;x;
+;#LIEGE_ENDED_WAR_PARTICIPATION_LOG;§Y$VASSAL$§! is no longer a participant in §YThe $WAR$§! as $PRONOUN$ liege §Y$LIEGE$§! joined the war as §Y$SIDE$§!.;;§Y$VASSAL$§! nimmt nicht l?nger am Krieg §Y''$WAR$''§! teil, da $PRONOUN$ Lehensherr ''§Y$LIEGE$§!'' dem Krieg als ''§Y$SIDE$§!'' beigetreten ist.;;§Y$VASSAL$§! ya no es un participante en §Yla guerre $WAR$§!, como su se?or §Y$LIEGE$§! se uni¨® a la guerra como §Y$SIDE$§!.;;;;;;;;;x;
+;#LIEGE_ENDED_WAR_SETUP;Liege ended the war;;Lehensherr beendet Krieg;;Tu se?or puso fin a la guerra;;;;;;;;;x;
+;#LIEGE_ENDED_WAR_LOG;§YThe $WAR$§! has ended as §Y$LIEGE$§! joined the war as §Y$SIDE$§!.;;Der Krieg §Y''$WAR$''§! endete da §Y$LIEGE$§! dem Krieg als §Y''$SIDE$''§! beigetreten ist. ;;§YLa guerre $WAR$§! ha terminado como §Y$LIEGE$§! se uni¨® a la guerra como §Y$SIDE$§!.;;;;;;;;;x;
+;#INTERACTION_CANNOT_JOIN_VASSAL_WAR;We cannot join our vassals' wars (except for Crusades/Jihads and for supporting their claims outside your realm);;Wir k?nnen nicht in Kriege unserer Vasallen eintreten (Ausnahme: Kreuzzug/Dschihad oder um ihre Anspr¨¹che au?erhalb eures Reiches durchzusetzen).;;No podemos unirnos a las guerras de nuestros vasallos (Salvo Cruzadas/Jihads o para apoyar reclamaciones territoriales fuera de nuestros dominios);;;;;;;;;x;
+temple_baron_slavic_pagan;ÈøÂú;Chaman;Schamane;;Chamán;;;;;;;;;x
+temple_baron_slavic_pagan_reformed;ÈøÂú;Chaman;Schamane;;Chamán;;;;;;;;;x
+temple_baron_baltic_pagan;ÈøÂú;Chaman;Schamane;;Chamán;;;;;;;;;x
+temple_baron_baltic_pagan_reformed;ÈøÂú;Chaman;Schamane;;Chamán;;;;;;;;;x
+temple_baron_aztec;ÈøÂú;Chaman;Schamane;;Chamán;;;;;;;;;x
+temple_baron_aztec_reformed;ÈøÂú;Chaman;Schamane;;Chamán;;;;;;;;;x
+temple_baron_mazdaki;ÍßºÕÀ¼;Vahram;Vahram;;Vahram;;;;;;;;;x
+temple_baron_manichean;ÍßºÕÀ¼;Vahram;Vahram;;Vahram;;;;;;;;;x
+coa_plain_pagan;ÆÕÍ¨;Pur;Einfach;;Simple;;;;;;;;;x
+coa_plain_indian;ÆÕÍ¨;Pur;Einfach;;Simple;;;;;;;;;x
+;#pagan_subjugation_desc;Pagans are allowed to subjugate other pagan rulers once in their lifetime. (With the 'Become $KING$' ambition, there is no such time limit against targets within the kingdom.) Free men are always willing to follow the mightiest ruler...;;Heiden d¨¹rfen einmal im Leben andere heidnische Anf?hrer unterwerfen. (Mit der '$KING$ werden'-Ambition gibt es kein solches Zeitlimit gegen Gegner innerhalb des K?nigreiches.) Freie M?nner sind immer willens, dem st?rksten Herrscher zu folgen...;;Los paganos pueden subyugar a otros gobernantes paganos durante su vida. (Con la ambici¨®n 'Convertirse en $KING$' no hay existe un plazo contra los objetivos dentro de los territorios de ese Reino.) Los hombres libres siempre estar¨¢n dispuestos a seguir al gobernante m¨¢s poderoso...;;;;;;;;;x;
+temple_baron_hellenic_pagan;¼ÀË¾;Prêtre;Priester;;Sacerdote;;;;;;;;;x
+temple_baron_female_hellenic_pagan;Å®¼ÀË¾;Prêtresse;Priesterin;;Sacerdotisa;;;;;;;;;x
+;#ct_barracks_1_desc;This is where the adult men of the city muster to join the militia in times of war.;;Hier werden die erwachsenen M?nner der Stadt einberufen, um in Kriegszeiten der Miliz beizutreten. ;;Aqu¨ª se congregan los hombres adultos de la ciudad para unirse a la milicia en tiempos de guerra. ;;;;;;;;;x;
+;#ca_training_grounds_1_desc;Training grounds is where the castle levies can practise and ready themselves for the inevitability of war.;;¨¹bungspl?tze, auf denen das Burgheer ¨¹ben und sich auf den unvermeidlichen Krieg vorbereiten kann.;;Campos de entrenamiento donde las levas del castillo pueden practicar y prepararse para la inevitabilidad de la guerra. ;;;;;;;;;x;

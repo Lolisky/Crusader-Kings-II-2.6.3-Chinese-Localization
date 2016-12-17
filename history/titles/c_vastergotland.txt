@@ -1,0 +1,87 @@
+769.1.1 = {
+	holder = 194010
+}
+798.1.1 = {
+	holder = 0
+}
+863.1.1={
+	liege = "d_vastergotland"
+}
+863.1.1={
+	holder = 41258 # Hrane Gautske
+}
+947.1.2={
+	liege="d_vastergotland"
+	holder=100517 # Toste
+}
+970.1.2={
+	holder=100518 # Ulf
+}
+1000.1.8={
+	holder=100521 # Ragnvald
+}
+1028.1.12={
+	holder = 100522 # Stenkil
+}
+1066.9.25={
+	holder=100525 # Erik
+}
+1067.12.20={
+	holder=100523 # Halsten
+}
+1070.12.1={
+	holder=100526 # Håkan Röde
+}
+1080.12.1={
+	holder=100524 # Inge the Older
+}
+1100.1.8={
+	holder=100550 # Filip, son of 100523 (Halsten)
+}
+1118.6.6={
+	holder=100551 # Inge the Younger, son of 100523 (Halsten)
+}
+1125.6.6={
+	holder=100552 # Ragnvald "Knaphövde", possibly a son of 100524 (Inge the Older)
+}
+1126.6.6={
+	holder=101531 # Magnus Nilsson, son of Danish King Nils and Inge the Older's daughter Margareta
+}
+1134.6.4={
+	holder=200600 # Sverker the Older
+}
+1156.12.25={
+	holder=200490 # Erik "the Holy"
+}
+1160.6.6=
+{
+	holder=202044 # Jarl Guttorm
+}
+
+## Sparre ancestors
+1174.1.1 = {
+	holder=194241
+}
+1210.1.1 = {
+	holder=194242
+}
+1250.1.1 = {
+	holder=194243
+}
+1290.1.1 = {
+	holder=194244
+}
+##
+
+1310.7.20={
+	# The Peace at Helsingborg
+	holder=450501 # Erik Magnusson
+}
+
+1318.2.16={
+	holder=450504 # King Birger
+}
+
+1319.7.8={
+	holder=450500 # Magnus Eriksson
+}

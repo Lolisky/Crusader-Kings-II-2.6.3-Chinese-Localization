@@ -1,0 +1,342 @@
+220000 = {
+	name="布拉尼斯拉夫"
+	dynasty=100461
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="romanian"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+220001 = {
+	name="威瑟斯拉夫"
+	dynasty=100463
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="romanian"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+220495 = {
+	name="米尔科"
+	dynasty=100467
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="romanian"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+228027 = {
+	name="塞恩斯拉夫"
+	dynasty=7311
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="romanian"
+	trait="tough_soldier"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1248.1.1={
+		death="1248.1.1"
+	}
+}
+
+475100 = {
+	name="巴巴特"
+	dynasty=100513
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="orthodox"
+	culture="romanian"
+	trait="lisp"
+	trait="flamboyant_schemer"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+475200 = {
+	name="瓦西里"
+	dynasty=100515
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="orthodox"
+	culture="romanian"
+	trait="thrifty_clerk"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+475300 = {
+	name="伊奥恩"
+	dynasty=100516
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="romanian"
+	trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+475410 = {
+	name="萨斯"
+	dynasty=100541
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="romanian"
+	trait="humble"
+	trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+475550 = {
+	name="伊奥恩"
+	dynasty=764
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="orthodox"
+	culture="romanian"
+	trait="arbitrary"
+	trait="skilled_tactician"
+	father=475560
+	1282.1.1={
+		birth="1282.1.1"
+	}
+	1303.1.1={
+		add_spouse=475551
+	}
+	1337.1.1 = {
+		give_nickname = nick_the_great
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+475552 = {
+	name="提奥多拉"
+	female = yes
+	dynasty=764
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="romanian"
+	trait="envious"
+	trait="flamboyant_schemer"
+	father=475550
+	mother=475551
+	1304.1.1={
+		birth="1304.1.1"
+	}
+	1371.2.17={
+		death="1371.2.17"
+	}
+}
+
+475553 = {
+	name="尼古莱·亚历山德鲁"
+	# AKA: Nicolaie Alexandru
+	dynasty=764
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="romanian"
+	trait="diligent"
+	trait="craven"
+	trait="flamboyant_schemer"
+	father=475550
+	mother=475551
+	1306.1.1={
+		birth="1306.1.1"
+	}
+	1325.1.1={
+		add_spouse=475554
+	}
+	1364.11.1={
+		death="1364.11.1"
+	}
+}
+
+475555 = {
+	name="弗莱库"
+	dynasty=764
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="romanian"
+	trait="temperate"
+	trait="cynical"
+	trait="tough_soldier"
+	father=475553
+	mother=475554
+	1326.1.1={
+		birth="1326.1.1"
+	}
+	1377.1.1={
+		death="1377.1.1"
+	}
+}
+
+475556 = {
+	name="拉杜"
+	dynasty=764
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="romanian"
+	trait="honest"
+	trait="tough_soldier"
+	father=475553
+	mother=475554
+	1327.1.1={
+		birth="1327.1.1"
+	}
+	1383.1.1={
+		death="1383.1.1"
+	}
+}
+
+475560 = {
+	name="蒂霍米尔"
+	dynasty=764
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="romanian"
+	trait="wroth"
+	trait="gluttonous"
+	trait="flamboyant_schemer"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+34800 = {
+	name="利特沃伊" 
+	dynasty=7311
+	religion="orthodox"
+	culture="romanian"
+	father=228027
+	1225.1.1={
+		birth="1225.1.1"
+	}	
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+
+34801 = {
+	name="巴巴特" 
+	dynasty=7311
+	religion="orthodox"
+	culture="romanian"
+	father=228027
+	1230.1.1={
+		birth="1230.1.1"
+	}	
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+475554 = {
+	name="玛利亚"
+	female = yes
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="romanian"
+	trait="amateurish_plotter"
+	1308.1.1 = {
+		birth="1308.1.1"
+	}
+	1358.1.1 = {
+		death="1358.1.1"
+	}
+}
+
+168286 = {
+	name="亚诺什"
+	#placeholder
+	dynasty=9580
+	religion="orthodox"
+	culture="romanian"
+	845.1.1 = {
+		birth="845.1.1"
+	}
+	895.1.1 = {
+		death="895.1.1"
+	}
+}

@@ -1,0 +1,541 @@
+175060 = {
+	name=¿¨À­ #Kallar # Founder of the Hindu Shahi dynasty 
+	dynasty=1043006
+	religion=hindu
+	culture=afghan
+	trait=brahmin # Well documented as a Brahmin
+	841.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+74723 = {
+	name="¹şÉ£" #Hasan
+	dynasty=12334
+	religion="sunni"
+	culture="afghan"
+
+	1285.1.1={
+		birth=yes
+	}
+	1312.1.1={
+		add_spouse=74725
+	}
+	1330.1.1={
+		name=°ÍºÕÂüÄá
+	}
+	1358.1.1={
+		death=yes
+	}
+}
+
+74724 = {
+	name="ÄÂº±Ä¬µÂ" #Mohammed
+	dynasty=12334
+	religion="sunni"
+	culture="afghan"
+	father=74723
+	mother=74725
+
+	1313.1.1={
+		birth=yes
+	}
+	1375.1.1={
+		death=yes
+	}
+}
+
+74725 = {
+	name="ÎÚ°İ´ï" #Ubaidah
+	female=yes
+	religion="sunni"
+	culture="afghan"
+
+	1295.1.1={
+		birth=yes
+	}
+	1362.1.1={
+		death=yes
+	}
+}
+
+178019 = {
+	name="ÄÚÔúÄ·" #Nezam # Fictional
+	dynasty=1041119
+	religion="sunni"
+	culture="afghan"
+	834.1.1={
+		birth="834.1.1"
+	}
+	888.1.1={
+		death="884.1.1"
+	}
+}
+188565 = {
+	name="²© ¸¥×ğ" #Bo-Fuzun #Bo-Fuzun
+	dynasty=1042104 # Nandin
+	religion="buddhist"
+	culture="afghan"
+	father=188718
+	trait=kshatriya
+	trait=mahayana_buddhist
+	711.7.11={
+		birth=yes
+	}
+	738.1.1={
+		add_spouse=188566
+	}
+	775.1.1={
+		death=yes
+	}
+}
+
+188566 = {
+	name="ÈøÃ×µÂÎ¬" #Samidevi # probably from 7th rather than 8th century
+	female=yes
+	dynasty=1042105 # Trailokyadevi
+	religion="buddhist"
+	culture="afghan"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	720.1.28={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+188567 = {
+	name="ÄÉ×ÈÔú¿¨Ëş" #Naz'aktar # from early rather than mid 700s
+	dynasty=1042104 # Nandin
+	religion="buddhist"
+	culture="afghan"
+	father=188565
+	mother=188566
+	trait=kshatriya
+	trait=mahayana_buddhist
+	742.9.25={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188570 = {
+	name="É³¶ûÎÄ" #Šarvin # fictitious Bamiyan ruler
+	dynasty=1042109 # Bamiyan
+	religion="buddhist"
+	culture="afghan"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	709.5.22={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188571 = {
+	name=" °¬Ë¹¿µµÂ" #Eskander # fictitious holder of Kunduz
+	dynasty=1042108 # of Kunduz
+	religion="buddhist"
+	culture="afghan"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	738.11.12={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188572 = {
+	name="ÃÉ¶û×æ°à" #Merzuban# fictitious Bamiyan prince
+	dynasty=1042109 # Bamiyan
+	religion="buddhist"
+	culture="afghan"
+	father=188570
+	trait=kshatriya
+	trait=mahayana_buddhist
+	736.5.22={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+188573 = {
+	name="Äá¹şÀÕ" #Nihaal# fictional
+	dynasty=1042111 # Kaikanite
+	religion="buddhist"
+	culture="afghan"
+#	trait=kshatriya # Jats, so no caste
+	trait=mahayana_buddhist
+	741.3.7={
+		birth=yes
+	}
+	798.1.1={
+		death=yes
+	}
+}
+188700 = {
+	name="°ÍºÕËş½ğ" #Barhatakin
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	610.1.1={
+		birth=yes
+	}
+	660.1.1={
+		death=yes
+	}
+}
+188701 = {
+	name="Â³ÌØ±Ï¶û" #Rutbil # name is more of a title
+	# semi-historical
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188700
+	635.1.1={
+		birth=yes
+	}
+	687.1.1={
+		death=yes
+	}
+}
+188702 = {
+	name="Â¬Ä¬¸¥´ï"	#Rumofuda # name is more of a title
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188701
+	660.1.1={
+		birth=yes
+	}
+	725.1.1={
+		death=yes
+	}
+}
+188703 = {
+	name="ÊÍÓá" #Shihyu
+	# semi-historical
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188702
+	685.1.1={
+		birth=yes
+	}
+	738.1.1={
+		death=yes
+	}
+}
+188628 = {
+	name="ÙÊÄ¦¸¡Ëş" #Jimofuta
+	# semi-historical
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188703
+	711.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+188705 = {
+	name="°Í¹ş"	#Barha # fictional
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188628
+	732.6.16={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+188706 = {
+	name="±¾ÄÉ×È"	#Benaz # fictional
+	female=yes
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188705
+	761.1.28={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+188707 = {
+	name="Â³Äª¸¥´ï"	#Rumofuda# fictional
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188705
+	764.12.18={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+188708 = {
+	name="Â³ÌØ±Ï¶û"	#Rutbil # fictional
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188707
+	792.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+188709 = {
+	name="ÙÊÄ¦¸¡Ëş" #Jimofuta	# fictional
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188708
+	825.1.1={
+		birth=yes
+	}
+	864.1.1={
+		death=yes
+	}
+}
+188710 = {
+	name="ºô¶ûÃ×´Ä" #hurmiz # fictitious name
+	# Saffarid governor of Zabul
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188709
+	846.1.1={
+		birth=yes
+	}
+	865.1.1 = {
+		religion = sunni
+	}
+	868.1.1={
+		death=yes
+	}
+}
+188711 = {
+	name="¿¦°Í¿Ë" #Kabak
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188708
+	823.1.1={
+		birth=yes
+	}
+	865.1.1={
+		death=yes
+	}
+}
+188712 = {
+	name="·ÑÂ¬´Ä" #Firuz
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188711
+	850.1.1={
+		birth=yes
+	}
+	865.1.1={
+		employer=175060
+		religion = hindu
+	}
+	873.1.1={
+		death=yes
+	}
+}
+188713 = {
+	name="ÄáÉ£"	#Nîšan# fictional
+	female=yes
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188711
+	846.1.1={
+		birth=yes
+	}
+	865.1.1={
+		employer=175060
+		religion = hindu
+	}
+	900.1.1={
+		death=yes
+	}
+}
+188714 = {
+	name="Ï£Àï¿°" #Xêlîcan	# fictional
+	female=yes
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188711
+	848.1.1={
+		birth=yes
+	}
+	865.1.1={
+		employer=175060
+		religion = hindu
+	}
+	900.1.1={
+		death=yes
+	}
+}
+188715 = {
+	name="ÊÍ¿ü¶û"	#Shiquer# fictional
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188628
+	738.11.26={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+188716 = {
+	name="Ôóœc"	#Zer? # fictional
+	dynasty=1042110 # Zunbil
+	religion="zun_pagan"
+	culture="afghan"
+	father=188628
+	748.8.3={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+188717 = {
+	name="ÌØ¼ªÒò-É³ºÕ" #Tegin-Shah # more of a title than name
+	# founder of Kabul Shahi line
+	dynasty=1042104 # Nandin
+	religion="buddhist"
+	culture="afghan"
+	father=188700
+	655.1.1={
+		birth=yes
+	}
+	740.1.1={
+		death=yes
+	}
+}
+188718 = {
+	name="·ÑÂŞÄÂ-¿ÆÈø¶û" #Phrom-Kesar
+	dynasty=1042104 # Nandin
+	religion="buddhist"
+	culture="afghan"
+	father=188717
+	685.1.1={
+		birth=yes
+	}
+	745.1.1={
+		death=yes
+	}
+}
+
+188719 = {
+	name="µ¤Å«Ë¹" Danûš # fictitious
+	dynasty=1042156
+	religion="zun_pagan"
+	culture="afghan"
+	720.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+188720 = {
+	name="°¢ÀïÔú" #Arêz # fictitious
+	female=yes
+	dynasty=1042156
+	religion="zun_pagan"
+	culture="afghan"
+	father=188719
+	748.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188721 = {
+	name="Åå¶ûÍßÄù" #Perwane # fictitious
+	female=yes
+	dynasty=1042156
+	religion="zun_pagan"
+	culture="afghan"
+	father=188719
+	752.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188722 = {
+	name="Â³ºÕ¶ûÀ­" #Ruhollah # fictitious
+	dynasty=1042157
+	religion="zun_pagan"
+	culture="afghan"
+	739.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188723 = {
+	name="Â³ºÕ¶ûÀ­" #Ruhollah # fictitious
+	dynasty=1042157
+	religion="zun_pagan"
+	culture="afghan"
+	father=188722
+	764.1.1={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+
+188724 = {
+	name="ÀÊµÏ¿Ë" #Rondik # fictitious
+	female=yes
+	dynasty=1042157
+	religion="zun_pagan"
+	culture="afghan"
+	father=188722
+	766.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}

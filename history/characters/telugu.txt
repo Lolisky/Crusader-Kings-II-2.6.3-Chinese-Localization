@@ -1,0 +1,928 @@
+175110 = {
+	name="ÅþÉÝÒ®ÌáâòÒ®" # Vijay AÌáâòÒ® III
+	#name="Vijayaditya"
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189085
+	815.1.1={
+		birth="815.1.1"
+	}
+	892.1.1={
+		death="892.1.1"
+	}
+}
+
+189075 = {
+	name="êAÒ®É®Ú­"
+	#name="Jayasimha" 	
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189074
+	610.1.1={
+		birth="610.1.1"
+	}
+	673.1.1={
+		death="673.1.1"
+	}
+}
+189076 = {
+	name="ÒòÍÓÂÞÆÅ¶àÂÞÙ¤"  
+	#name="Indrabhattaraka"  
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189074
+	611.1.1={
+		birth="611.1.1"
+	}
+	673.1.8={
+		death="673.1.8"
+	}
+}
+189077 = {
+	name="ÅþÊªÅ«ÆÅÂÞÍÐÄÇ" #II
+	#name="Vishnuvardhana" #II
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189076
+	630.1.1={
+		birth="630.1.1"
+	}
+	682.1.1={
+		death="682.1.1"
+	}
+}
+189078 = {
+	name="ÃÅêÈÓÉÆÅÂÞêA" 
+	#name="Mangiyuvaraja" 
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189077
+	650.1.1={
+		birth="650.1.1"
+	}
+	706.1.1={
+		death="706.1.1"
+	}
+}
+189079 = {
+	name="êAÒ®É®Ú­" #II
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189078
+	670.1.1={
+		birth="670.1.1"
+	}
+	718.1.1={
+		death="718.1.1"
+	}
+}
+189080 = {
+	name="ÅþÙ¤ÂÞÄ¦ÌáâòÒ®" 
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189078
+	680.1.1={
+		birth="680.1.1"
+	}
+	718.1.1={
+		death="718.1.1"
+	}
+}
+189081 = {
+	name="ÅþÊªÅ«ÆÅÂÞÍÐÄÇ" #III
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189078
+	675.1.1={
+		birth="675.1.1"
+	}
+	755.1.1={
+		death="755.1.1"
+	}
+}
+189082 = {
+	name="ÅþÉÝÒ®ÌáâòÒ®" #I
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189081
+	700.1.1={
+		birth="700.1.1"
+	}
+	772.1.1={
+		death="772.1.1"
+	}
+}
+189083 = {
+	name="ÅþÊªÅ«ÆÅÂÞÍÐÄÇ" #IV
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189082
+	730.1.1={
+		birth="730.1.1"
+	}
+	808.1.1={
+		death="808.1.1"
+	}
+}
+189084 = {
+	name="ÅþÉÝÒ®ÌáâòÒ®" #II
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189083
+	760.1.1={
+		birth="760.1.1"
+	}
+	847.1.1={
+		death="847.1.1"
+	}
+}
+189085 = {
+	name="ÅþÊªÅ«ÆÅÂÞÍÐÄÇ" #V
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189084
+	780.1.1={
+		birth="780.1.1"
+	}
+	849.1.1={
+		death="849.1.1"
+	}
+}
+
+
+189086 = {
+	name="ÓÉâòÍÓÄ¦ÂÞ"
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189085
+	820.1.1={
+		birth="820.1.1"
+	}
+	892.6.1={
+		death="892.6.1"
+	}
+}
+189087 = {
+	name="ÅþÙ¤ÂÞÄ¦ÌáâòÒ®"
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189085
+	825.1.1={
+		birth="825.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+189088 = {
+	name="ÅþÄ¦"
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189087
+	850.1.1={
+		birth="850.1.1"
+	}
+	921.1.1={
+		death="921.1.1"
+	}
+}
+189089 = {
+	name="ÅþÉÝÒ®ÌáâòÒ®"
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189088
+	870.1.1={
+		birth="870.1.1"
+	}
+	921.6.1={
+		death="921.6.1"
+	}
+}
+189090 = {
+	name="ÅþÉÝÒ®ÌáâòÒ®"
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189089
+	890.1.1={
+		birth="890.1.1"
+	}
+	927.1.1={
+		death="927.1.1"
+	}
+}
+189091 = {
+	name="¶àÂÞ"
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189086
+	850.1.1={
+		birth="850.1.1"
+	}
+	927.2.1={
+		death="927.2.1"
+	}
+}
+189092 = {
+	name="ÅþÙ¤ÂÞÄ¦ÌáâòÒ®"
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189086
+	855.1.1={
+		birth="855.1.1"
+	}
+	928.1.1={
+		death="928.1.1"
+	}
+}
+189093 = {
+	name="ÅþÄ¦"
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189089
+	895.1.1={
+		birth="895.1.1"
+	}
+	928.6.1={
+		death="928.6.1"
+	}
+}
+189094 = {
+	name="ÓÉÍÓÄ¦ÂÞ"
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189091
+	880.1.1={
+		birth="880.1.1"
+	}
+	935.1.1={
+		death="935.1.1"
+	}
+}
+189095 = {
+	name="ÅþÄ¦" #III
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189089
+	900.1.1={
+		birth="900.1.1"
+	}
+	947.1.1={
+		death="947.1.1"
+	}
+}
+189096 = {
+	name="°¢Ä¦" #
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189095
+	920.1.1={
+		birth="920.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+189097 = {
+	name="¶àÂÞ" #II
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189094
+	920.1.1={
+		birth="920.1.1"
+	}
+	970.6.1={
+		death="970.6.1"
+	}
+}
+189098 = {
+	name="ÍÓÄÇÂÞÄÇÆÅ" #
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189095
+	910.1.1={
+		birth="910.1.1"
+	}
+	973.1.1={
+		death="973.1.1"
+	}
+}
+189099 = {
+	name="æ¶Ù¤µ×°ÏÄ¦" #
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189098
+	940.1.1={
+		birth="940.1.1"
+	}
+	1011.1.1={
+		death="1011.1.1"
+	}
+}
+189100 = {
+	name="ÅþÄ¦ÂÞÌáâòÒ®" #
+	dynasty=1029175
+	religion="jain"
+	culture="telugu"
+	trait=kshatriya
+	trait=digambara_jain
+	father=189098
+	945.1.1={
+		birth="945.1.1"
+	}
+	1018.1.1={
+		death="1018.1.1"
+	}
+}
+189101 = {
+	name="ÍÓÄÇÂÞÄÇÆÅ" #unknown name
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189099
+	960.1.1={
+		birth="960.1.1"
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+189102 = {
+	name="ÂÞÉÝÂÞê^" #ÄÇÀãÍÓÂÞ
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189099
+	990.1.1={
+		birth="990.1.1"
+	}
+	1061.1.1={
+		death="1061.1.1"
+	}
+}
+189103 = {
+	name="æ¶Ù¤µ×°ÏÄ¦" #II
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189098
+	990.1.1={
+		birth="990.1.1"
+	}
+	1063.1.1={
+		death="1063.1.1"
+	}
+}
+189104 = {
+	name="ÅþÉÝÒ®ÌáâòÒ®" #VII
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189103
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+189105 = {
+	name="ÂÞÉÝÂÞê^" #II
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189102
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+}
+189106 = {
+	name="ÅþÊªÅ«ÆÅÂÞÍÐÄÇ" #IX
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189105
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+189074 = {
+	name="ÅþÊªÅ«ÆÅÂÞÍÐÄÇ"  
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	father=74720
+	trait=kshatriya
+	trait=shaivist_hindu
+	590.1.1={
+		birth="590.1.1"
+	}
+	641.1.1={
+		death="641.1.1"
+	}
+}
+189223 = {
+	name="ÝËÂÞêAÒ®" #
+	dynasty=1029179
+	religion="jain"
+	culture="telugu"
+	trait=kshatriya
+	trait=svetambara_jain
+	760.1.1={
+		birth="760.1.1"
+	}
+	834.1.1={
+		death="834.1.1"
+	}
+}
+189224 = {
+	name="·ÍÄÇ" #
+	dynasty=1029179
+	religion="jain"
+	culture="telugu"
+	trait=kshatriya
+	trait=svetambara_jain
+	father=189223
+	790.1.1={
+		birth="790.1.1"
+	}
+	858.1.1={
+		death="858.1.1"
+	}
+}
+189225 = {
+	name="¹±ÍÓ" #
+	dynasty=1029179
+	religion="jain"
+	culture="telugu"
+	trait=kshatriya
+	trait=svetambara_jain
+	father=189224
+	810.1.1={
+		birth="810.1.1"
+	}
+	876.1.1={
+		death="876.1.1"
+	}
+}
+189226 = {
+	name="¹±ÍÓ" #
+	dynasty=1029179
+	religion="jain"
+	culture="telugu"
+	trait=kshatriya
+	trait=svetambara_jain
+	father=189225
+	830.1.1={
+		birth="830.1.1"
+	}
+	889.1.1={
+		death="889.1.1"
+	}
+}
+189227 = {
+	name="¹±ÍÓ" #
+	dynasty=1029179
+	religion="jain"
+	culture="telugu"
+	trait=kshatriya
+	trait=svetambara_jain
+	father=189226
+	854.1.1={
+		birth="854.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+189228 = {
+	name="ÒÄÂÞÀûÒ®" #
+	dynasty=1029179
+	religion="jain"
+	culture="telugu"
+	trait=kshatriya
+	trait=svetambara_jain
+	father=189227
+	880.1.1={
+		birth="880.1.1"
+	}
+	934.1.1={
+		death="934.1.1"
+	}
+}
+189229 = {
+	name="·ÍµÛÒ®" #
+	dynasty=1029179
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189228
+	915.1.1={
+		birth="915.1.1"
+	}
+	969.1.1={
+		death="969.1.1"
+	}
+}
+189230 = {
+	name="¹±ÍÓ" #
+	dynasty=1029179
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189229
+	941.1.1={
+		birth="941.1.1"
+	}
+	996.1.1={
+		death="996.1.1"
+	}
+}
+189231 = {
+	name="·Í¶à" #
+	dynasty=1029179
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189230
+	980.1.1={
+		birth="980.1.1"
+	}
+	1055.1.1={
+		death="1055.1.1"
+	}
+}
+189232 = {
+	name="²¨Â¥ÂÞ" #
+	dynasty=1029179
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189231
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1076.1.1={
+		death="1076.1.1"
+	}
+}
+189233 = {
+	name="·Í¶à" #
+	dynasty=1029179
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189232
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+189234 = {
+	name="ÝËÂÞÙ¤ÂÞê^" #
+	dynasty=1029179
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189233
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+189235 = {
+	name="²¨Â¥ÂÞ" #
+	dynasty=1029179
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189233
+	1066.9.1={
+		birth="1066.9.1"
+	}
+	1157.1.1={
+		death="1157.1.1"
+	}
+}
+189236 = {
+	name="²¨ÂÞ¶à²¨Â¬âòÂÞ" #
+	dynasty=1029179
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189235
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+189237 = {
+	name="Ä¦Ú­ÌáÆÅ" #
+	dynasty=1029179
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189235
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+189238 = {
+	name="Ç¬²¨µ×ÌáÆÅ" #
+	dynasty=1029179
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189237
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+189239 = {
+	name="Â¬âòÂÞÄ¦ÌáÅþ" #
+	dynasty=1029179
+	female=yes
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189238
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1260.1.1={
+		add_spouse=189244
+	}
+	1289.1.1={
+		death="1289.1.1"
+	}
+}
+189240 = {
+	name="ÅþÉÝÒ®ÌáâòÒ®" # hypothetical name
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189106
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1168.1.1={
+		death="1168.1.1"
+	}
+}
+189241 = {
+	name="ÄÇÀãÍÓÂÞ" #hypothetical name
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189240
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1214.1.1={
+		death="1214.1.1"
+	}
+}
+189242 = {
+	name="ÅþÂÞÆÅÍÓÂÞ" #hypothetical name
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189241
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+189243 = {
+	name="²¨ÂÞ¶à²¨Â¬âòÂÞ" #hypothetical name
+	dynasty=1029175
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189242
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+189244 = {
+	name="ÅþÂÞÆÅÍÓÂÞ" #
+	dynasty=1029206
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189243
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1260.1.1={
+		add_spouse=189239
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+189245 = {
+	name="ÄÇÀãÍÓÂÞ" #hypothetical name
+	dynasty=1029206
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189244
+	mother=189239
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+189246 = {
+	name="²¨ÂÞ¶à²¨Â¬âòÂÞ" #
+	dynasty=1029206
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189245
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1323.1.1={
+		death="1323.1.1"
+	}
+}
+189247 = {
+	name="°¢ÄÑÌáÆÅ" #
+	dynasty=1029206
+	religion="hindu"
+	culture="telugu"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189245
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+178009 = {
+	name="¾ãÄ¦ÂÞêÈÀû" # Fictional
+	dynasty=1041109
+	religion="hindu"
+	culture="telugu"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	836.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}
+178010 = {
+	name="ÓÉâòÍÓÄ¦ÂÞ" # Fictional
+	dynasty=1041110
+	religion="hindu"
+	culture="telugu"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	843.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}

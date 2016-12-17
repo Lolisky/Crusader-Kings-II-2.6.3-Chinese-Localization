@@ -1,0 +1,60 @@
+700.1.1 = {
+	de_jure_liege = k_saxony
+	liege = k_saxony
+}
+761.1.1={
+	holder = 190474 #Hesso
+}
+782.1.1={
+	holder = 0
+	liege = 0
+	de_jure_liege = k_denmark
+}
+1129.7.1=
+{
+liege="k_denmark"
+#law = agnatic_succession
+#law = succ_primogeniture
+}
+1129.7.1=
+{
+holder=201513 #Knud Lavard
+}
+1131.1.13=
+{
+holder=0
+}
+1131.1.13=
+{
+liege=0
+}
+
+1202.1.1=
+{
+liege="k_denmark"
+}
+1202.1.1=
+{
+holder=31795 #Albrecht Askanien
+}
+1227.7.22=
+{
+	liege="e_hre"
+	de_jure_liege = k_germany
+}
+1227.7.22=
+{
+holder=31752 #Adolf IV
+}
+1261.7.8=
+{
+holder=451975 #Gerhard I
+}
+1290.12.21=
+{
+holder=451945 #Heinrich I
+}
+1304.8.5=
+{
+holder=451940 #Gerhard II
+}

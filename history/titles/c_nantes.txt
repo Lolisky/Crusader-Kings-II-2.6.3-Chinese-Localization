@@ -1,0 +1,107 @@
+730.1.1 = {
+	liege="k_france"
+	holder=91470 #Chiemgaud, historical placeholder
+}
+857.1.1={
+	liege="d_brittany"
+	holder = 163105
+}
+865.1.1={
+	liege=0
+	holder = 6878 # Hastein, the feared Viking chieftain
+}
+882.1.1={
+	liege=d_brittany
+	holder = 160077 # Ridoredh de Nantes - Hastein is expelled
+}
+
+#House of Nantes
+938.1.1={
+	holder=50002 #Alain Barbetorte
+}
+952.1.1={
+	holder=50003 #Drogon
+}
+958.1.1={
+	holder = 370 #Foulque II le Bon
+}
+960.1.1={
+	holder=50004 #Hoël I
+}
+981.1.1={
+	holder=50005 #Guérech
+}
+
+#House of Rennes
+990.1.1={
+	holder=340 #Conan I
+}
+992.6.27={
+	holder=10056 #Judicaël
+}
+1004.1.1={
+	holder=10057 #Budic
+}
+1038.1.1={
+	holder=91167 #Mathias I
+}
+1050.1.1={
+	holder=10043 #Judith
+}
+
+#House of Cornouaille
+1063.2.27={
+	holder=178 #Hoël de Cornouaille
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+1084.04.13={
+	holder=50001 #Mathias II
+}
+1103.1.1={
+	holder=180 #Alain IV Fergent
+}
+1112.1.8={
+	holder=91159 #Conan III le Gros
+}
+1148.9.17={
+	holder=91168 #Hoël III de Bretagne
+}
+
+#Plantagenêt dynasty
+1156.1.1={
+	liege="k_england"
+	holder=103000 #Geoffroy Plantagenêt
+}
+1158.7.27={
+	holder=204500 #Henri II Plantagenêt
+}
+1181.1.1={
+	holder=204511 #Geoffroy II Plantagenêt
+}
+1186.8.19=
+{
+	liege="d_brittany"
+	holder=205740 #Constance de Penthierve
+}
+1194.1.1={
+	holder=204505 #Arthur I
+}
+1203.4.3={
+	holder=91139 #Alix
+}
+
+
+#Capetian house of Dreux
+1221.10.21={
+	holder=7621 #Jean I le Roux
+}
+1286.10.8={
+	holder=455789 #Jean II
+}
+1305.11.18={
+	holder=455751 #Arthur II
+}
+1312.8.27={
+	holder=455750 #Jean III le Bon
+}

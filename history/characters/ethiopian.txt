@@ -1,0 +1,3038 @@
+32225 = {
+	name="迪尔 纳奥德" #Dil Na'od
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=167707
+	840.1.1={
+		birth="840.1.1"
+	}
+	916.1.1={
+		death="916.1.1"
+	}
+}
+
+32226 = {
+	name="玛索巴 瓦尔克" #Masoba Warq
+	female=yes
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32225
+	875.1.1={
+		birth="875.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+32227 = {
+	name="马拉 塔克拉 海马诺特" #Mara Takla Haymanot
+	dynasty=101793
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145982
+	860.1.1={
+		birth="860.1.1"
+	}
+	895.1.1={
+		add_spouse=32226
+	}
+	919.1.1={
+		death="919.1.1"
+	}
+}
+
+32228 = {
+	name="塔塔迪姆" #Tatadim
+	dynasty=101793 
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32227
+	mother=32226
+	897.1.1={
+		birth="897.1.1"
+	}
+	959.1.1={
+		death="959.1.1"
+	}
+}
+
+32229 = {
+	name="詹 塞尤姆" #Jan Seyum
+	dynasty=101793 
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32228
+	930.1.1={
+		birth="930.1.1"
+	}
+	999.1.1={
+		death="999.1.1"
+	}
+}
+
+32230 = {
+	name="格尔曼 塞尤姆" #German Seyum
+	dynasty=101793 
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32229
+	970.1.1={
+		birth="970.1.1"
+	}
+	1039.1.1={
+		death="1039.1.1"
+	}
+}
+
+32231 = {
+	name="亚伯拉罕 克雷托斯" #Yemrehana Krestos
+	dynasty=101793 
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32230
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+}
+
+
+32232 = {
+	name="克杜斯 哈尔贝" #Kedus Harbe
+	dynasty=101793 
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32231
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1119.1.1={
+		death="1119.1.1"
+	}
+}
+
+32233 = {
+	name="拉里贝拉" #Lalibela
+	dynasty=101793 
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32232
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1159.1.1={
+		death="1159.1.1"
+	}
+}
+32234 = {
+	name="纳阿侩洛 拉阿布" #Na'akuelo La'ab
+	dynasty=101793 
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32233
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1207.1.1={
+		death="1207.1.1"
+	}
+}
+32235 = {
+	name="耶特巴拉克" #Yetbarak
+	dynasty=101793 
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32234
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1247.1.1={
+		death="1247.1.1"
+	}
+}
+32236 = {
+	name="麦拉里" #Mairari
+	dynasty=101793 
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32235
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+32237 = {
+	name="哈尔拜" #Harbai
+	dynasty=101793 
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32236
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+32238 = {
+	name="马赫贝勒-维达姆" #Mahbere-Widam
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32225
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+32239 = {
+	name="阿格巴 塞尤姆" #Agba Seyum
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32238
+	950.1.1={
+		birth="950.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+32240 = {
+	name="辛达 阿勒阿德" #Sinda Ar'ad
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32239
+	990.1.1={
+		birth="990.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+32241 = {
+	name="耐古斯 扎雷" #Negus Zaré
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32240
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+32242 = {
+	name="阿斯菲哈" #Asfiha
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32241
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+32243 = {
+	name="雅各" #Yakob
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32242
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+32244 = {
+	name="巴赫尔 塞加德" #Bahr Seggad
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32243
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+32245 = {
+	name="亚当 阿斯加德" #Adam Asgad
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32244
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+32246 = {
+	name="塔斯法 伊雅苏斯" #Tasfa Iyasus
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32245
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+32247 = {
+	name="耶库诺 阿穆拉克" #Yekuno Amlak
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32246
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+32248 = {
+	name="所罗门" #Salomon
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32247
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1294.1.1={
+		death="1294.1.1"
+	}
+}
+
+32249 = {
+	name="瓦迪姆 阿勒阿德" #Wadim Ar'ad
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32247
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1310.1.1=
+	{
+		add_spouse=32256
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+32250 = {
+	name="克德玛 塞加达" #Qidma Seggada
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32247
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1305.1.1={
+		death="1305.1.1"
+	}
+}
+
+32251 = {
+	name="加布里 马斯喀勒" #Gabre Maskal
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32250
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1315.1.1=
+	{
+		add_spouse=32256
+	}
+	1320.1.1=
+	{
+		add_spouse=32257
+	}
+	1344.1.1={
+		death="1344.1.1"
+	}
+}
+
+#5 sons all ruled 1 year, then abdicated
+
+32252 = {
+	name="辛法 阿斯加德" #Sinfa Asgad
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32248
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+32253 = {
+	name="希兹巴 阿斯加德" #Hizba Asgad
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32248
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+32254 = {
+	name="克德玛 阿斯加德" #Qidma Asgad
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32248
+	1269.1.1={
+		birth="1269.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+
+32263 = {
+	name="贾斯 阿斯加德" #Jas Asgad
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32248
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+32255 = {
+	name="萨巴 阿斯加德" #Saba Asgad
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32248
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+32256 = {
+	name="詹 曼格沙" #Jan Mangesha
+	female=yes
+	dynasty=101789
+	religion="miaphysite"
+	culture="ethiopian"
+	1294.1.1={
+		birth="1294.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+
+32257 = {
+	name="贝伦" #Belen
+	female=yes
+	dynasty=101787
+	religion="miaphysite"
+	culture="ethiopian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1355.1.1={
+		death="1355.1.1"
+	}
+}
+
+32258 = {
+	name="巴赫尔 塞加德" #Bahr Seggad
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32251
+	mother=32257
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1344.1.1={
+		death="1344.1.1"
+	}
+}
+32259 = {
+	name="萨夫 塞加德" #Saf Seggad
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32251
+	mother=32257
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1344.1.1={
+		death="1344.1.1"
+	}
+}
+32260 = {
+	name="尼瓦亚 克里斯托" #Niwaya Krestos
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32251
+	mother=32257
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1372.1.1={
+		death="1372.1.1"
+	}
+}
+
+32261 = {
+	name="基利罗斯" #Kirillos
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32251
+	mother=32257
+	1324.1.1={
+		birth="1324.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+
+32262 = {
+	name="阿巴 阿赛伊" #Abba Assay
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32251
+	mother=32257
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+
+93498 = {
+	name="基金" #Dhidhin
+	dynasty=7373
+	religion="sunni"
+	culture="ethiopian"
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1311.1.1={
+		death="1311.1.1"
+	}
+}
+
+93499 = {
+	name="哈马尔 加勒" #Hamar Gale
+	dynasty=7373
+	religion="sunni"
+	culture="ethiopian"
+	father=93498
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+93500= {
+	name="易卜拉欣" #Ibrahim
+	dynasty=7373
+	religion="sunni"
+	culture="ethiopian"
+	father=93499
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+93501= {
+	name="奥马尔" #Omar 
+	dynasty=7373
+	religion="sunni"
+	culture="ethiopian"
+	father=93500
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1355.1.1={
+		death="1355.1.1"
+	}
+}
+
+167707 = {
+	name="德格纳 占" #Degna Djan
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145994
+	800.1.1={
+		birth="800.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+167708 = {
+	name="安巴萨 维德姆" #Anbasa Wedem
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=167707
+	835.1.1={
+		birth="835.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+##Ethiopian Characters
+
+##Abuns (Patriarchs) of Ethiopia
+
+166186 = {
+	name="弗鲁门提乌斯" #Frumentius
+	religion="orthodox"
+	culture="levantine_arabic" #assyrian
+	trait="scholarly_theologian"
+	305.1.1={
+		birth="305.1.1"
+	}
+	328.1.1={
+		name="瑟拉玛" #Selama
+	}
+	383.1.1={
+		death="383.1.1"
+		give_nickname=nick_the_holy
+	}
+}
+
+166187 = {
+	name="米纳斯" #Minas
+	religion="orthodox"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	311.1.1={
+		birth="311.1.1"
+	}
+	355.1.1={
+		death="355.1.1"
+	}
+}
+
+166188 = {
+	name="易勒雅斯" #Elyas
+	religion="orthodox"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	315.1.1={
+		birth="315.1.1"
+	}
+	378.1.1={
+		death="378.1.1"
+	}
+}
+
+166189 = {
+	name="亚伯拉罕" #Abreham
+	religion="orthodox"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	352.1.1={
+		birth="352.1.1"
+	}
+	426.1.1={
+		death="426.1.1"
+	}
+}
+
+166190 = {
+	name="彼得罗斯" #Petros
+	religion="orthodox"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	387.1.1={
+		birth="387.1.1"
+	}
+	451.1.1={
+		religion="miaphysite"
+	}
+	465.1.1={
+		death="465.1.1"
+	}
+}
+
+166191 = {
+	name="彼得罗斯" #Petros
+	religion="orthodox"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	405.1.1={
+		birth="405.1.1"
+	}
+	451.1.1={
+		religion="miaphysite"
+	}
+	472.1.1={
+		death="472.1.1"
+	}
+}
+
+166192 = {
+	name="阿巴 阿夫瑟" #Abba Afse
+	religion="orthodox"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	437.1.1={
+		birth="437.1.1"
+	}
+	451.1.1={
+		religion="miaphysite"
+	}
+	504.1.1={
+		death="504.1.1"
+	}
+}
+
+166193 = {
+	name="科斯莫斯" #Qozmos
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	456.1.1={
+		birth="456.1.1"
+	}
+	520.1.1={
+		death="520.1.1"
+	}
+}
+
+166194 = {
+	name="优伯比乌" #Euprepius
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	464.1.1={
+		birth="464.1.1"
+	}
+	537.1.1={
+		death="537.1.1"
+	}
+}
+
+166195 = {
+	name="马科斯" #Marqos
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	499.1.1={
+		birth="499.1.1"
+	}
+	565.1.1={
+		death="565.1.1"
+	}
+}
+
+166196 = {
+	name="彼得罗斯" #Petros
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	506.1.1={
+		birth="506.1.1"
+	}
+	576.1.1={
+		death="576.1.1"
+	}
+}
+
+166197 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	510.1.1={
+		birth="510.1.1"
+	}
+	584.1.1={
+		death="584.1.1"
+	}
+}
+
+166198 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	513.1.1={
+		birth="513.1.1"
+	}
+	589.1.1={
+		death="589.1.1"
+	}
+}
+
+166199 = {
+	name="马科斯" #Marqos
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	528.1.1={
+		birth="528.1.1"
+	}
+	597.1.1={
+		death="597.1.1"
+	}
+}
+
+166200 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	537.1.1={
+		birth="537.1.1"
+	}
+	606.1.1={
+		death="606.1.1"
+	}
+}
+
+166201 = {
+	name="马科斯" #Marqos
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	555.1.1={
+		birth="555.1.1"
+	}
+	611.1.1={
+		death="611.1.1"
+	}
+}
+
+166202 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	573.1.1={
+		birth="573.1.1"
+	}
+	629.1.1={
+		death="629.1.1"
+	}
+}
+
+166203 = {
+	name="基利罗斯" #Qerellos
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	581.1.1={
+		birth="581.1.1"
+	}
+	648.1.1={
+		death="648.1.1"
+	}
+}
+
+166204 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	586.1.1={
+		birth="586.1.1"
+	}
+	655.1.1={
+		death="655.1.1"
+	}
+}
+
+166205 = {
+	name="彼得罗斯" #Petros
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	598.1.1={
+		birth="598.1.1"
+	}
+	667.1.1={
+		death="667.1.1"
+	}
+}
+
+166206 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	604.1.1={
+		birth="604.1.1"
+	}
+	683.1.1={
+		death="683.1.1"
+	}
+}
+
+166207 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	628.1.1={
+		birth="628.1.1"
+	}
+	698.1.1={
+		death="698.1.1"
+	}
+}
+
+166208 = {
+	name="马科斯" #Marqos
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	646.1.1={
+		birth="646.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+
+166209 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	659.1.1={
+		birth="659.1.1"
+	}
+	723.1.1={
+		death="723.1.1"
+	}
+}
+
+166210 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	671.1.1={
+		birth="671.1.1"
+	}
+	748.1.1={
+		death="748.1.1"
+	}
+}
+
+166211 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	699.1.1={
+		birth="699.1.1"
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+
+166212 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	728.1.1={
+		birth="728.1.1"
+	}
+	799.1.1={
+		death="799.1.1"
+	}
+}
+
+166213 = {
+	name="马科斯" #Marqos
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	752.1.1={
+		birth="752.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+
+166214 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	776.1.1={
+		birth="776.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+166215 = {
+	name="雅各" #Yaqob
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	799.1.1={
+		birth="799.1.1"
+	}
+	863.1.1={
+		death="863.1.1"
+	}
+}
+
+166216 = {
+	name="萨拉玛 扎-阿泽布" #Salama Za-'Azeb
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	819.1.1={
+		birth="819.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+166217 = {
+	name="巴托罗缪" #Bartalomewos
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	842.1.1={
+		birth="842.1.1"
+	}
+	907.1.1={
+		death="907.1.1"
+	}
+}
+
+166218 = {
+	name="彼得罗斯" #Petros
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	874.1.1={
+		birth="874.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+166219 = {
+	name="但以理" #Daniel
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	929.1.1={
+		birth="929.1.1"
+	}
+	996.1.1={
+		death="996.1.1"
+	}
+}
+
+166220 = {
+	name="维克多尔" #Fiqtor
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	981.1.1={
+		birth="981.1.1"
+	}
+	1034.1.1={
+		death="1034.1.1"
+	}
+}
+
+166221 = {
+	name="阿布顿" #'Abdun
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1009.1.1={
+		birth="1009.1.1"
+	}
+	1077.1.1={
+		death="1077.1.1"
+	}
+}
+
+166222 = {
+	name="塞维鲁" #Sawiros
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1027.1.1={
+		birth="1027.1.1"
+	}
+	1092.1.1={
+		death="1092.1.1"
+	}
+}
+
+166223 = {
+	name="格奥尔格" #Giyorgis
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1121.1.1={
+		death="1121.1.1"
+	}
+}
+
+166224 = {
+	name="米迦勒" #Mikael
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1089.1.1={
+		birth="1089.1.1"
+	}
+	1149.1.1={
+		death="1149.1.1"
+	}
+}
+
+166225 = {
+	name="雅各" #Yaqob
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1097.1.1={
+		birth="1097.1.1"
+	}
+	1163.1.1={
+		death="1163.1.1"
+	}
+}
+
+166226 = {
+	name="加布拉 克里斯托斯" #Gabra Krestos
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1127.1.1={
+		birth="1127.1.1"
+	}
+	1184.1.1={
+		death="1184.1.1"
+	}
+}
+
+166227 = {
+	name="阿塔纳提乌斯" #Atnatewos
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+166228 = {
+	name="米迦勒" #Mikael
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1153.1.1={
+		birth="1153.1.1"
+	}
+	1209.1.1={
+		death="1209.1.1"
+	}
+}
+
+166229 = {
+	name="以撒" #Yeshaq
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1169.1.1={
+		birth="1169.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+166230 = {
+	name="格奥尔格" #Giyorgis
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1194.1.1={
+		birth="1194.1.1"
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+
+166231 = {
+	name="特克勒 海马诺特" #Tekle Haymonot
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+		give_nickname=nick_the_holy
+	}
+}
+
+166232 = {
+	name="约翰内斯" #Yohannes
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1337.1.1={
+		death="1337.1.1"
+	}
+}
+
+166233 = {
+	name="雅各" #Yaqob
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1277.1.1={
+		birth="1277.1.1"
+	}
+	1344.1.1={
+		death="1344.1.1"
+	}
+}
+
+166234 = {
+	name="萨拉马" #Salama
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1388.1.1={
+		death="1388.1.1"
+	}
+}
+
+166235 = {
+	name="巴托罗缪" #Bartalomewos
+	religion="miaphysite"
+	culture="ethiopian"
+	trait="scholarly_theologian"
+	1372.1.1={
+		birth="1372.1.1"
+	}
+	1436.1.1={
+		death="1436.1.1"
+	}
+}
+
+183506 = {
+	name="莱卜纳" #Lebna
+	dynasty=1042636
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145972
+	845.1.1={
+		birth="845.1.1"
+	}
+	895.1.1={
+		death="895.1.1"
+	}
+}
+
+183507 = {
+	name="尤斯图斯" #Yostos
+	dynasty=1042637
+	religion="miaphysite"
+	culture="ethiopian"
+	842.1.1={
+		birth="842.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+183508 = {
+	name="梅库利乌斯" #Merkourios
+	dynasty=1042638
+	religion="miaphysite"
+	culture="ethiopian"
+	839.1.1={
+		birth="839.1.1"
+	}
+	895.1.1={
+		death="895.1.1"
+	}
+}
+
+183509 = {
+	name="哈基姆" #Hakym
+	dynasty=1042639
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145975
+	835.1.1={
+		birth="835.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+183510 = {
+	name="得赛马" #Tessema
+	dynasty=1042640
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145978
+	840.1.1={
+		birth="840.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+
+145633 = { 
+	name="尼扎木" #Nizam
+	dynasty=1022240
+	religion="sunni"
+	culture="ethiopian"
+	844.1.1={
+		birth="844.1.1"
+	}
+	899.1.1={
+		death="899.1.1"
+	}
+}
+
+145634 = { 
+	name="马雅伊尔" #Maya'ir 
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+
+
+145635 = { 
+	name="哈尔巴伊尔" #Harba'ir
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145634
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1121.1.1={
+		death="1121.1.1"
+	}
+}
+
+145636 = { 
+	name="希沙穆" #Hisham
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145635
+	1092.1.1={
+		birth="1092.1.1"
+	}
+	1157.1.1={
+		death="1157.1.1"
+	}
+}
+
+145637 = { 
+	name="马拉司马义" #Malasma'i
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145636
+	1128.1.1={
+		birth="1128.1.1"
+	}
+	1183.8.24={
+		death="1183.8.24"
+	}
+}
+
+145638 = { 
+	name="侯赛因" #Husein 
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145637
+	1152.1.1={
+		birth="1152.1.1"
+	}
+	1193.1.1={
+		death="1193.1.1"
+	}
+}
+
+145639 = { 
+	name="阿卜杜拉" #Abdallah 
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145638
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1235.1.1={
+		death="1235.1.1"
+	}
+}
+
+145640 = { 
+	name="默罕默德" #Mahamed 
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145638
+	1178.1.1={
+		birth="1178.1.1"
+	}
+	1239.1.1={
+		death="1239.1.1"
+	}
+}
+
+145641 = { 
+	name="马勒扎拉" #Malzarrah
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145640
+	1197.1.1={
+		birth="1197.1.1"
+	}
+	1252.1.1={
+		death="1252.1.1"
+	}
+}
+
+145768 = { 
+	name="戛纳" #Ganah
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145640
+	1206.1.1={
+		birth="1206.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+145769 = { 
+	name="基拉穆-噶兹" #Giram-Gazi
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145768
+	1231.1.1={
+		birth="1231.1.1"
+	}
+	1269.1.1={
+		death="1269.1.1"
+	}
+}
+
+145770 = { 
+	name="迪勒嘎迷失" #Dilgamis
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145768
+	1229.1.1={
+		birth="1229.1.1"
+	}
+	1281.1.1={
+		death="1281.1.1"
+	}
+}
+
+145771 = { 
+	name="迪勒马拉" #Dilmarrah
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145641
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1283.1.1={
+		death="1283.1.1"
+	}
+}
+
+145772 = { 
+	name="阿卜杜拉" #Abdallah 
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145768
+	1233.1.1={
+		birth="1233.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+145773 = { 
+	name="默罕默德" #Mahamed 
+	dynasty=1022241
+	religion="sunni"
+	culture="ethiopian"
+	father=145771
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+145642 = { 
+	name="非尼哈" #Phineas
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	723.1.1={
+		birth="723.1.1"
+	}
+	774.1.1={
+		death="774.1.1"
+	}
+}
+
+145643 = { 
+	name="基甸" #Gideon
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145642
+	755.1.1={
+		birth="755.1.1"
+	}
+	817.1.1={
+		death="817.1.1"
+	}
+}
+
+145644 = { 
+	name="雅各" #Yacob 
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145643
+	778.1.1={
+		birth="778.1.1"
+	}
+	831.1.1={
+		death="831.1.1"
+	}
+}
+
+145645 = { 
+	name="基甸" #Gideon
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145644
+	813.1.1={
+		birth="813.1.1"
+	}
+	857.1.1={
+		death="857.1.1"
+	}
+}
+
+145646 = { 
+	name="大卫" #Dawit 
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145645
+	834.1.1={
+		birth="834.1.1"
+	}
+	889.1.1={
+		death="889.1.1"
+	}
+}
+
+145647 = { 
+	name="基甸" #Gideon
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145646
+	855.1.1={
+		birth="855.1.1"
+	}
+	918.1.1={
+		death="918.1.1"
+	}
+}
+
+145648 = { 
+	name="迦勒" #Kaleb
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145647
+	892.1.1={
+		birth="892.1.1"
+	}
+	949.1.1={
+		death="949.1.1"
+	}
+}
+
+145649 = { 
+	name="基甸" #Gideon
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145648
+	911.1.1={
+		birth="911.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+145650 = { 
+	name="虞狄特" #Gudit
+	female=yes
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145649
+	929.1.1={
+		birth="929.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+
+145651 = { 
+	name="歌珊" #Goshen
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	mother=145650
+	952.1.1={
+		birth="952.1.1"
+	}
+	1008.1.1={
+		death="1008.1.1"
+	}
+}
+
+145652 = { 
+	name="约兰" #Joram
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	mother=145650
+	956.1.1={
+		birth="956.1.1"
+	}
+	1019.1.1={
+		death="1119.1.1"
+	}
+}
+
+145653 = { 
+	name="耶利米" #Eremias
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145652
+	987.1.1={
+		birth="987.1.1"
+	}
+	1046.1.1={
+		death="1146.1.1"
+	}
+}
+
+145654 = { 
+	name="大卫" #Dawit
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145653
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1053.1.1={
+		death="1053.1.1"
+	}
+}
+
+145655 = { 
+	name="大卫" #Dawit
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145654
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+145656 = { 
+	name="拉笛" #Radi
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145655
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+145657 = { 
+	name="撒督" #Zadok
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145656
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+145658 = { 
+	name="亚撒利雅" #Azariah
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145657
+	1143.1.1={
+		birth="1143.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+
+145659 = { 
+	name="所罗门" #Solomon
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145658
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1237.1.1={
+		death="1237.1.1"
+	}
+}
+
+145660 = { 
+	name="埃扎纳" #Ezana
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145659
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+
+145661 = { 
+	name="卢亚" #Loua
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145660
+	1237.1.1={
+		birth="1237.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+145662 = { 
+	name="以利亚" #Eliya
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145661
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+
+145663 = { 
+	name="大卫" #Dawit
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145662
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1354.1.1={
+		death="1354.1.1"
+	}
+}
+
+145664 = { 
+	name="雅各" #Yacob
+	dynasty=1022242
+	religion="jewish"
+	culture="ethiopian"
+	father=145663
+	1317.1.1={
+		birth="1317.1.1"
+	}
+	1378.1.1={
+		death="1378.1.1"
+	}
+}
+
+145665 = { 
+	name="拉哈德" #Rahad
+	dynasty=1022243
+	religion="sunni"
+	culture="ethiopian"
+	851.1.1={
+		birth="851.1.1"
+	}
+	909.1.1={
+		death="909.1.1"
+	}
+}
+
+145666 = { 
+	name="宰德" #Zeyd
+	dynasty=1022244
+	religion="sunni"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+
+
+145667 = { 
+	name="塔里卜" #Talib
+	dynasty=1022244
+	religion="sunni"
+	culture="ethiopian"
+	father=145666
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+145668 = { 
+	name="胡赛因" #Hussayn
+	dynasty=1022244
+	religion="sunni"
+	culture="ethiopian"
+	father=145667
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1153.1.1={
+		death="1153.1.1"
+	}
+}
+
+145669 = { 
+	name="阿拉丁" #Alladin
+	dynasty=1022244
+	religion="sunni"
+	culture="ethiopian"
+	father=145668
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1177.1.1={
+		death="1177.1.1"
+	}
+}
+
+145670 = { 
+	name="阿里木" #Alim
+	dynasty=1022244
+	religion="sunni"
+	culture="ethiopian"
+	father=145669
+	1156.1.1={
+		birth="1156.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+145671 = { 
+	name="费迪勒" #Fadil
+	dynasty=1022244
+	religion="sunni"
+	culture="ethiopian"
+	father=145670
+	1188.1.1={
+		birth="1188.1.1"
+	}
+	1247.1.1={
+		death="1247.1.1"
+	}
+}
+
+145672 = { 
+	name="穆阿齐尔" #Muazir
+	dynasty=1022244
+	religion="sunni"
+	culture="ethiopian"
+	father=145670
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1254.1.1={
+		death="1254.1.1"
+	}
+}
+
+145673 = { 
+	name="穆扎法尔" #Muzaffar
+	dynasty=1022244
+	religion="sunni"
+	culture="ethiopian"
+	father=145672
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1276.1.1={
+		death="1276.1.1"
+	}
+}
+
+145674 = { 
+	name="穆扎法拉丁" #Muzaffaraddin
+	dynasty=1022244
+	religion="sunni"
+	culture="ethiopian"
+	father=145673
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1287.1.1={
+		death="1287.1.1"
+	}
+}
+
+145675 = { 
+	name="穆斯里希丁" #Muslihiddin
+	dynasty=1022244
+	religion="sunni"
+	culture="ethiopian"
+	father=145673
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+
+145676 = { 
+	name="穆合塔尔" #Mukhtar
+	dynasty=1022244
+	religion="sunni"
+	culture="ethiopian"
+	father=145675
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+145736 = { 
+	name="贝克勒" #Bekele
+	dynasty=1022257
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1097.1.1={
+		death="1097.1.1"
+	}
+}
+
+145737 = { 
+	name="耶利米" #Eremias
+	dynasty=1022257
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145736
+	1073.1.1={
+		birth="1073.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+145738 = { 
+	name="加布拉" #Gabra
+	dynasty=1022257
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145737
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1147.1.1={
+		death="1147.1.1"
+	}
+}
+
+145739 = { 
+	name="伊斯坎达尔" #Iskander
+	dynasty=1022257
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145738
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+145740 = { 
+	name="卡法" #Kafa
+	dynasty=1022257
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145739
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+
+145741 = { 
+	name="祖拉" #Zula
+	dynasty=1022257
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145740
+	1204.1.1={
+		birth="1204.1.1"
+	}
+	1258.1.1={
+		death="1258.1.1"
+	}
+}
+
+145742 = { 
+	name="忒鲁沃尔克" #Teruworq
+	dynasty=1022257
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145741
+	1237.1.1={
+		birth="1237.1.1"
+	}
+	1282.1.1={
+		death="1282.1.1"
+	}
+}
+
+145743 = { 
+	name="米鲁茨" #Miruts
+	dynasty=1022257
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145742
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+145744 = { 
+	name="內贾什" #Negash
+	dynasty=1022257
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145742
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+
+145745 = { 
+	name="马默" #Mamo
+	dynasty=1022257
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145744
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+145746 = { 
+	name="约翰尼斯" #Yohannas
+	dynasty=1022258
+	religion="miaphysite"
+	culture="ethiopian"
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1074.1.1={
+		death="1074.1.1"
+	}
+}
+
+145747 = { 
+	name="提奥多罗斯" #Tewodros
+	dynasty=1022258
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145746
+	1054.1.1={
+		birth="1054.1.1"
+	}
+	1096.1.1={
+		death="1096.1.1"
+	}
+}
+
+145748 = { 
+	name="阿拜" #Abai
+	dynasty=1022258
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145746
+	1057.1.1={
+		birth="1057.1.1"
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+145749 = { 
+	name="贡达尔" #Gondar
+	dynasty=1022258
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145748
+	1096.1.1={
+		birth="1096.1.1"
+	}
+	1159.1.1={
+		death="1159.1.1"
+	}
+}
+
+145750 = { 
+	name="奥格拜" #Ogbai
+	dynasty=1022258
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145749
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1177.1.1={
+		death="1177.1.1"
+	}
+}
+
+145751 = { 
+	name="耐古什" #Negus
+	dynasty=1022258
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145750
+	1159.1.1={
+		birth="1159.1.1"
+	}
+	1223.1.1={
+		death="1223.1.1"
+	}
+}
+
+145752 = { 
+	name="卢亚" #Loua
+	dynasty=1022258
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145751
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1244.1.1={
+		death="1244.1.1"
+	}
+}
+
+145753 = { 
+	name="济马" #Jima
+	dynasty=1022258
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145752
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1276.1.1={
+		death="1276.1.1"
+	}
+}
+
+145754 = { 
+	name="埃扎那" #Ezana
+	dynasty=1022258
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145753
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+
+145755 = { 
+	name="约拿" #Yonas
+	dynasty=1022258
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145754
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+
+145756 = { 
+	name="塔里库" #Tariku
+	dynasty=1022259
+	religion="miaphysite"
+	culture="ethiopian"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+145757 = { 
+	name="伊斯坎达尔" #Iskinder
+	dynasty=1022259
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145756
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1149.1.1={
+		death="1049.1.1"
+	}
+}
+
+145758 = { 
+	name="葛步乐" #Gebre
+	dynasty=1022259
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145757
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+
+145759 = { 
+	name="大卫" #Dawit
+	dynasty=1022259
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145758
+	1157.1.1={
+		birth="1179.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+145760 = { 
+	name="欧罗摩" #Oromo
+	dynasty=1022259
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145759
+	1182.1.1={
+		birth="1182.1.1"
+	}
+	1224.1.1={
+		death="1224.1.1"
+	}
+}
+
+145761 = { 
+	name="法特海" #Fethee
+	dynasty=1022259
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145759
+	1184.1.1={
+		birth="1184.1.1"
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+145762 = { 
+	name="德米西" #Demissie
+	dynasty=1022259
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145759
+	1186.1.1={
+		birth="1186.1.1"
+	}
+	1245.1.1={
+		death="1245.1.1"
+	}
+}
+
+145763 = { 
+	name="阿贝贝" #Abebe
+	dynasty=1022259
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145762
+	1226.1.1={
+		birth="1226.1.1"
+	}
+	1289.1.1={
+		death="1289.1.1"
+	}
+}
+
+145764 = { 
+	name="贝纳音" #Benaim
+	dynasty=101793
+	religion="miaphysite"
+	culture="ethiopian"
+	father=32236
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+145765 = { 
+	name="特斯法耶" #3Tesfaye
+	dynasty=101793
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145764
+	1282.1.1={
+		birth="1282.1.1"
+	}
+	1344.1.1={
+		death="1344.1.1"
+	}
+}
+
+145766 = { 
+	name="梅里勒" #Merille
+	dynasty=101793
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145765
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1365.1.1={
+		death="1365.1.1"
+	}
+}
+
+145774 = { 
+	name="阿兹梅拉" #Azmera
+	dynasty=1022260
+	religion="miaphysite"
+	culture="ethiopian"
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1074.1.1={
+		death="1074.1.1"
+	}
+}
+
+145775 = { 
+	name="哈戈斯" #Hagos
+	dynasty=1022260
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145774
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+145776 = { 
+	name="塞拉西" #Selassie
+	dynasty=1022260
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145775
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+
+145777 = { 
+	name="雅各" #Yacob
+	dynasty=1022260
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145776
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+
+145778 = { 
+	name="约书亚" #Iyasu
+	dynasty=1022260
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145777
+	1137.1.1={
+		birth="1137.1.1"
+	}
+	1198.1.1={
+		death="1198.1.1"
+	}
+}
+
+145779 = { 
+	name="内贾西" #Negasi
+	dynasty=1022260
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145778
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1239.1.1={
+		death="1239.1.1"
+	}
+}
+
+145780 = { 
+	name="巴西里德斯" #Fasilidas
+	dynasty=1022260
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145779
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1256.1.1={
+		death="1256.1.1"
+	}
+}
+
+145781 = { 
+	name="特克勒" #Tekle
+	dynasty=1022260
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145780
+	1229.1.1={
+		birth="1229.1.1"
+	}
+	1287.1.1={
+		death="1287.1.1"
+	}
+}
+
+145782 = { 
+	name="迦勒" #Kaleb
+	dynasty=1022260
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145781
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+
+145783 = { 
+	name="贝尔哈努阿" #Berhanua
+	dynasty=1022260
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145782
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+145970 = {
+	name="阿斐沃尔克" #Afework
+	dynasty=1042636
+	religion="miaphysite"
+	culture="ethiopian"
+
+	743.1.1={
+		birth="743.1.1"
+	}
+	798.1.1={
+		death="798.1.1"
+	}
+}
+
+145971 = {
+	name="哈基姆" #Hackeem
+	dynasty=1042636
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145970
+	760.1.1={
+		birth="760.1.1"
+	}
+	823.1.1={
+		death="823.1.1"
+	}
+}
+
+145972 = {
+	name="科里勒" #Kelile
+	dynasty=1042636
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145971
+	805.1.1={
+		birth="805.1.1"
+	}
+	862.1.1={
+		death="862.1.1"
+	}
+}
+
+145973 = {
+	name="湄公嫩" #Mekonnen
+	dynasty=1042639
+	religion="miaphysite"
+	culture="ethiopian"
+
+	738.1.1={
+		birth="738.1.1"
+	}
+	793.1.1={
+		death="793.1.1"
+	}
+}
+
+145974 = {
+	name="色麦尔" #Semer
+	dynasty=1042639
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145973
+	755.1.1={
+		birth="755.1.1"
+	}
+	818.1.1={
+		death="818.1.1"
+	}
+}
+
+145975 = {
+	name="特斐乐" #Tefere
+	dynasty=1042639
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145974
+	800.1.1={
+		birth="800.1.1"
+	}
+	854.1.1={
+		death="854.1.1"
+	}
+}
+
+145976 = {
+	name="阿曼" #Aman
+	dynasty=1042640
+	religion="miaphysite"
+	culture="ethiopian"
+
+	733.1.1={
+		birth="733.1.1"
+	}
+	788.1.1={
+		death="788.1.1"
+	}
+}
+
+145977 = {
+	name="加布里埃尔" #Gebereal
+	dynasty=1042640
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145976
+	750.1.1={
+		birth="750.1.1"
+	}
+	813.1.1={
+		death="813.1.1"
+	}
+}
+
+145978 = {
+	name="哈基木" #Hakim
+	dynasty=1042640
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145976
+	795.1.1={
+		birth="795.1.1"
+	}
+	858.1.1={
+		death="858.1.1"
+	}
+}
+
+145979 = {
+	name="欧格拜" #Ogbae
+	dynasty=101793
+	religion="miaphysite"
+	culture="ethiopian"
+
+	728.1.1={
+		birth="728.1.1"
+	}
+	783.1.1={
+		death="783.1.1"
+	}
+}
+
+145980 = {
+	name="达赫奈" #Dahnay
+	dynasty=101793
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145979
+	745.1.1={
+		birth="745.1.1"
+	}
+	801.1.1={
+		death="801.1.1"
+	}
+}
+
+145981 = {
+	name="基弗勒" #Kifle
+	dynasty=101793
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145995
+	790.1.1={
+		birth="790.1.1"
+	}
+	853.1.1={
+		death="853.1.1"
+	}
+}
+
+145982 = {
+	name="梅拉谷" #Melaku
+	dynasty=101793
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145981
+	835.1.1={
+		birth="835.1.1"
+	}
+	895.1.1={
+		death="895.1.1"
+	}
+}
+
+145983 = {
+	name="德格纳 米迦勒" #Degna Mikael
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+
+	620.1.1={
+		birth="620.1.1"
+	}
+	677.1.1={
+		death="677.1.1"
+	}
+}
+
+145984 = {
+	name="巴赫尔 易克拉" #Bahr Ikela
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145983
+	640.1.1={
+		birth="640.1.1"
+	}
+	696.1.1={
+		death="696.1.1"
+	}
+}
+145985 = {
+	name="古穆" #Gum
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145984
+	658.1.1={
+		birth="658.1.1"
+	}
+	720.1.1={
+		death="720.1.1"
+	}
+}
+
+145986 = {
+	name="阿斯格沃姆古穆" #Asgwomgum
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145984
+	660.1.1={
+		birth="660.1.1"
+	}
+	725.1.1={
+		death="725.1.1"
+	}
+}
+
+145987 = {
+	name="勒特木" #Letem
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145986
+	679.1.1={
+		birth="679.1.1"
+	}
+	741.1.1={
+		death="741.1.1"
+	}
+}
+
+145988 = {
+	name="塔拉店" #Talatem
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145987
+	698.1.1={
+		birth="698.1.1"
+	}
+	762.1.1={
+		death="762.1.1"
+	}
+}
+
+145989 = {
+	name="奥达 戈什" #Oda Gosh
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	add_trait="zealous"
+	add_trait="celibate"
+	add_trait="charitable"
+	add_trait="just"
+	add_trait="kind"
+	add_trait="charismatic_negotiator"
+	father=145988
+	718.1.1={
+		birth="718.1.1"
+	}
+	775.1.1={
+		death="775.1.1"
+	}
+}
+
+145990 = {
+	name="埃祖尔" #Ayzur
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145988
+	720.1.1={
+		birth="720.1.1"
+	}
+	775.1.2={
+		death="775.1.2"
+	}
+}
+
+145991 = {
+	name="德店" #Dedem
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145988
+	722.1.1={
+		birth="722.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+145992 = {
+	name="韦德店" #Wededem
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145991
+	741.1.1={
+		birth="741.1.1"
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+
+145993 = {
+	name="韦店 阿斯法勒" #Wedem Asfare
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145992
+	762.1.1={
+		birth="762.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+
+145994 = {
+	name="雷马 阿尔玛" #Rema Armah
+	dynasty=7246
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145990
+	760.1.1={
+		birth="760.1.1"
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+
+145995 = {
+	name="阿塞法" #Assefa
+	dynasty=101793
+	religion="miaphysite"
+	culture="ethiopian"
+	father=145980
+	763.1.1={
+		birth="763.1.1"
+	}
+	808.1.1={
+		death="808.1.1"
+	}
+}
+
+170196 = {
+	name="扎马鲁丁 雅库特" #Jamal-ud-Din Yaqut
+	religion="sunni"
+	culture="ethiopian"
+	1196.1.1={
+		birth="1196.1.1"
+		employer=170191
+	}
+	1211.1.1={
+		employer=170193
+	}
+	1236.5.1={
+		employer=170194
+	}
+	1236.11.20={
+		employer=170195
+	}
+	1239.10.1={
+		death="1239.10.1"
+	}
+}

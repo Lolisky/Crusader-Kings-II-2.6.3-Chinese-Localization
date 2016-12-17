@@ -1,0 +1,71 @@
+#Kathis of Kanthakota
+768.1.1={
+	holder = 191682
+}
+780.1.1={
+	holder = 191683
+}
+815.1.1={
+	liege = d_stravani
+	holder = 188303 # Mod Samma
+}
+840.1.1={
+	holder = 188304 # Saad
+}
+860.1.1={
+	holder = 188305 # Phool
+}
+# two more Samma rulers: Phoolani Pooeronjee
+# Chawda take over after Pooeronjee
+
+930.1.1={
+	liege = k_gujarat
+	holder = 188073 # Bhubhatadeva
+}
+942.1.1={
+	holder = 188306 # ? Chawda
+}
+970.1.1={
+	holder = 188307 # ? Chawda
+}
+1000.1.1={
+	holder = 188308 # ? Chawda
+}
+1030.1.1={
+	holder = 188309 # ? Chawda
+}
+1060.1.1={
+	holder = 188310 # ? Chawda
+}
+1085.1.1={
+	holder = 188311 # ? Chawda
+}
+1105.1.1={
+	holder = 188312 # ? Chawda
+}
+1125.1.1={
+	holder = 188313 # Waghum Chawda
+}
+1147.1.1={
+	liege=0
+	holder = 188278 # Lakho Jadani
+}
+1175.1.1={
+	holder = 188279 # Ratto Rayadhan
+}
+1215.1.1={
+	holder = 188280 # Othoji
+}
+1255.1.1={
+	holder = 188281 # Rao Gaoji
+}
+1285.1.1={
+	holder = 188282 # Rao Vehanji
+}
+1321.1.1={
+	holder = 188283 #Rao Mulvaji
+}
+
+1325.1.1={
+	liege=e_rajastan
+}

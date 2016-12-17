@@ -1,0 +1,2223 @@
+20479 = {
+	name="拉多米尔"
+	dynasty=702
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="underhanded_rogue"
+	father=20486
+	1036.1.1={
+		birth="1036.1.1"
+	}
+	1093.1.1={
+		death="1093.1.1"
+	}
+}
+
+20486 = {
+	name="阿隆"
+	dynasty=702
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="craven"
+	trait="deceitful"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	father=722
+	1012.1.1={
+		birth="1012.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+215004 = {
+	name="多布洛米尔"
+	# AKA: Dobromir Chrysos
+	dynasty=17008
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="lustful"
+	trait="diligent"
+	trait="tough_soldier"
+	1163.1.1={
+		birth="1163.1.1"
+	}
+	1180.1.30={
+		add_spouse=217504
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+217007 = {
+	name="兹沃尼米尔"
+	dynasty=17001
+	martial=5
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="chaste"
+	trait="amateurish_plotter"
+	1171.1.1={
+		birth="1171.1.1"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+
+217500 = {
+	name="伊凡" #Ivan I 
+	dynasty=185
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="diligent"
+	trait="brave"
+	trait="proud"
+	trait="charismatic_negotiator"
+	father=217503
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	
+	
+	1196.1.1={
+		death="1196.1.1"
+	}
+}
+
+217501 = {
+	name="佩塔尔" #Petar IV
+	dynasty=185
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="honest"
+	trait="patient"
+	trait="humble"
+	trait="martial_cleric"
+	father=217503
+	1156.1.1={
+		birth="1156.1.1"
+	}
+	1197.1.1={
+		death="1197.1.1"
+	}
+}
+
+217502 = {
+	name="卡洛扬" #Kaloyan I
+	dynasty=185
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="envious"
+	trait="gluttonous"
+	trait="skilled_tactician"
+	father=217503
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1190.1.1={
+		add_spouse=31184
+		add_claim = c_philippopolis
+		add_claim = c_adrianopolis
+		add_claim = c_thrake
+	} 
+	
+	1207.10.1={
+		death="1207.10.1"
+	}
+}
+
+217503 = {
+	name="伊凡"
+	dynasty=185
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="orthodox"
+	culture="bulgarian"
+	trait="cynical"
+	trait="skilled_tactician"
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1179.1.1={
+		death="1179.1.1"
+	}
+}
+
+217504 = {
+	name="海伦"
+	female = yes
+	dynasty=185
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="temperate"
+	trait="arbitrary"
+	trait="amateurish_plotter"
+	father=217503
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+
+217505 = {
+	name="博里尔"
+	dynasty=185
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=3
+	religion="orthodox"
+	culture="bulgarian"
+	trait="arbitrary"
+	trait="thrifty_clerk"
+	father=215004
+	mother=217504
+	1181.1.1={
+		birth="1181.1.1"
+	}
+	1218.1.2={
+		death="1218.1.2"
+	}
+}
+
+217506 = {
+	name="阿历克斯"
+	dynasty=185
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	father=215004
+	mother=217504
+	1183.1.1={
+		birth="1183.1.1"
+	}
+	1230.1.2={
+		death="1230.1.2"
+	}
+}
+
+217507 = {
+	name="斯特雷兹"
+	dynasty=185
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	father=215004
+	mother=217504
+	1183.1.1={
+		birth="1183.1.1"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+
+232525 = {
+	name="伊凡科-阿莱克修斯"
+	# AKA: Ivanko
+	dynasty=101071
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="bulgarian"
+	trait="diligent"
+	trait="lustful"
+	trait="greedy"
+	trait="tough_soldier"
+	1176.1.2={
+		birth="1176.1.2"
+	}
+	1226.1.2={
+		death="1226.1.2"
+	}
+}
+
+31160 = {
+	name="伊凡" #Ivan II
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=217500
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1221.1.1={
+		add_spouse=98026
+	}
+	1237.1.1={
+		add_spouse=125713 # Eirene Komnene Doukaina
+	}
+	1242.6.24={
+		death="1242.6.24"
+	}
+}
+
+31161 = {
+	name="玛利娅"
+	female = yes
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	trait="bastard"
+	father=31160
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+31162 = {
+	name="贝罗斯拉娃"
+	female = yes
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	trait="bastard"
+	father=31160
+	
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+31163 = {
+	name="海伦"
+	female = yes
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=31160
+	mother=98026
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1254.1.1={
+		death="1254.1.1"
+	}
+}
+
+31164 = {
+	name="科洛曼"
+	female = yes
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=31160
+	mother=98026
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+31165 = {
+	name="科洛曼" #Koloman I
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=31160
+	mother=98026
+	1233.1.1={
+		birth="1233.1.1"
+	}
+	1246.8.1={
+		death="1246.8.1"
+	}
+}
+
+31166 = {
+	name="米哈伊" #Mihail I
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=31160
+	mother=125713
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1256.1.1={
+		death="1256.1.1"
+	}
+}
+
+31167 = {
+	name="特奥多拉"
+	female=yes
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=31160
+	mother=125713
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+31168 = {
+	name="玛利娅"
+	female=yes
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=31160
+	mother=125713
+	1237.1.1={
+		birth="1237.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+31169 = {
+	name="亚历山大" 
+	# AKA: Aleksii
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=217500
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+31170 = {
+	name="科洛曼" #Koloman I
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=31169
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1257.1.1={
+		death="1257.1.1"
+	}
+}
+
+31171 = {
+	name="维乌娜"
+	female = yes
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=217502
+	mother=31184
+	1191.1.1={
+		birth="1191.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+31172 = {
+	name="玛利娅"
+	female = yes
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=217502
+	mother=31184
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1216.1.1={
+		death="1216.1.1"
+	}
+}
+
+31183 = {
+	name="克拉玛雅"
+	female=yes
+	dynasty=185
+	religion="orthodox"
+	culture="bulgarian"
+	father=31185
+	mother=31168
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+31185 = {
+	name="米斯诺" 
+	dynasty=7202
+	religion="orthodox"
+	culture="bulgarian"
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1251.1.1={
+		add_spouse=31168
+	}
+	1278.1.1={
+		death="1278.1.1"
+	}
+}
+
+31186 = {
+	name="蒂霍米尔" 
+	dynasty=7203
+	religion="orthodox"
+	culture="bulgarian"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+31187 = {
+	name="康斯坦丁" 
+	dynasty=7203
+	religion="orthodox"
+	culture="bulgarian"
+	father=31186
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1256.1.1={
+		add_spouse=125744 #Eirene Laskaris dau of Theodoros II Laskaris
+	}
+	1270.1.1={
+		add_spouse=34419 #Maria Kantakouzenos
+	}
+	1277.9.1={
+		death="1277.9.1"
+	}
+}
+
+31188 = {
+	name="米哈伊" 
+	dynasty=7203
+	religion="orthodox"
+	culture="bulgarian"
+	father=31187
+	mother=34419
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1301.1.1={
+		death="1301.1.1"
+	}
+}
+
+31189 = {
+	name="玛利娅" #real name unknown
+	female=yes
+	dynasty=7203
+	religion="orthodox"
+	culture="bulgarian"
+	father=31187
+	mother=125744
+	1258.1.1={
+		birth="1258.1.1"
+	}
+	#1280 married Smilec Sliven
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+31191 = {
+	name="玛丽娜"
+	# AKA: Eirene
+	female=yes
+	dynasty=40
+	religion="orthodox"
+	culture="bulgarian"
+	father=31195
+	1316.1.1={
+		birth="1316.1.1"
+	}
+	1366.1.1={
+		death="1366.1.1"
+	}
+}
+
+31192 = {
+	name="伊瓦尤"
+	dynasty=7204
+	religion="orthodox"
+	culture="bulgarian"
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1278.1.1={
+		add_spouse=34419
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+31193 = {
+	name="托多尔"
+	# AKA: Theodore Svetoslav
+	dynasty=40
+	religion="orthodox"
+	culture="bulgarian"
+	father=467530
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	#married Efrosina ??
+	1320.1.1={
+		add_spouse=465515
+	} 
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+31194 = {
+	name="海伦"
+	female=yes
+	dynasty=40
+	religion="orthodox"
+	culture="bulgarian"
+	father=467530
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	#married 125519 Chaka son of Nogai Khan
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+31195 = {
+	name="格奥尔基"
+	dynasty=40
+	religion="orthodox"
+	culture="bulgarian"
+	father=31193
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1322.8.1={
+		death="1322.8.1"
+	}
+}
+
+31196 = {
+	name="约瑟夫"
+	dynasty=7205
+	religion="orthodox"
+	culture="bulgarian"
+	father=467540
+	mother=31189
+	1282.1.2={
+		birth="1282.1.2"
+	}
+	1310.1.2={
+		death="1310.1.2"
+	}
+}
+
+31197 = {
+	name="约安涅斯"
+	dynasty=7205
+	religion="orthodox"
+	culture="bulgarian"
+	father=467540
+	mother=34288
+	1293.1.1={
+		birth="1293.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+31198 = {
+	name="伊凡"
+	dynasty=7205
+	religion="orthodox"
+	culture="bulgarian"
+	1240.1.2={
+		birth="1240.1.2"
+	}
+	1275.1.2={
+		death="1275.1.2"
+	}
+}
+
+31199 = {
+	name="拉多斯拉夫"
+	dynasty=7205
+	religion="orthodox"
+	culture="bulgarian"
+	father=31198
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1298.1.2={
+		death="1298.1.2"
+	}
+}
+
+31200 = {
+	name="沃伊希尔"
+	dynasty=7205
+	religion="orthodox"
+	culture="bulgarian"
+	father=31198
+	1266.1.2={
+		birth="1266.1.2"
+	}
+	1298.1.2={
+		death="1298.1.2"
+	}
+}
+
+31201 = {
+	name="格奥尔基"
+	dynasty=40
+	religion="orthodox"
+	culture="bulgarian"
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+40531 = {
+	name="科萨拉"
+	female = yes
+	dynasty=702
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	father=728
+	982.1.2={
+		birth="982.1.2"
+	}
+	1025.1.2={
+		death="1025.1.2"
+	}
+}
+
+41323 = {
+	name="米洛斯拉娃"
+	female = yes
+	dynasty=702
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	father=720
+	980.1.1={
+		birth="980.1.1"
+	}
+	1016.1.1={
+		death="1016.1.1"
+	}
+}
+
+4490 = {
+	name="安娜"
+	female = yes
+	dynasty=702
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="thrifty_clerk"
+	father=730
+	999.1.1={
+		birth="999.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+465551 = {
+	name="伊凡"
+	# AKA: Ivan 'Mytzes'
+	dynasty=185
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="craven"
+	trait="honest"
+	trait="underhanded_rogue"
+	father=31185
+	mother=31168
+	1259.1.1={
+		birth="1259.1.1"
+	}
+	1275.1.1={
+		add_spouse=465526
+	}
+	
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+
+467500 = {
+	name="伊凡 亚历山大"
+	# AKA: Ivan Alexander
+	dynasty=41
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="orthodox"
+	culture="bulgarian"
+	trait="zealous"
+	trait="charitable"
+	trait="thrifty_clerk"
+	father=467505
+	mother=467506
+	1301.1.2={
+		birth="1301.1.2"
+	}
+	1320.1.2={
+		add_spouse = 475552
+	}
+	1371.2.17={
+		death="1371.2.17"
+	}
+}
+
+467501 = {
+	name="海伦"
+	female = yes
+	dynasty=41
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="orthodox"
+	culture="bulgarian"
+	trait="brave"
+	trait="flamboyant_schemer"
+	father=467505
+	mother=467506
+	1303.1.2={
+		birth="1303.1.2"
+	}
+	1355.1.2={
+		death="1355.1.2"
+	}
+}
+
+467502 = {
+	name="伊凡-科穆宁"
+	# AKA: Ivan Komnin
+	dynasty=41
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="arbitrary"
+	trait="scholarly_theologian"
+	father=467505
+	mother=467506
+	1305.1.2={
+		birth="1305.1.2"
+	}
+	1363.1.2={
+		death="1363.1.2"
+	}
+}
+
+467503 = {
+	name="米哈伊"
+	dynasty=41
+	martial=8
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="orthodox"
+	culture="bulgarian"
+	trait="greedy"
+	trait="amateurish_plotter"
+	father=467505
+	mother=467506
+	1307.1.2={
+		birth="1307.1.2"
+	}
+	1357.1.2={
+		death="1357.1.2"
+	}
+}
+
+467504 = {
+	name="德拉古廷"
+	dynasty=41
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="greedy"
+	trait="brave"
+	trait="underhanded_rogue"
+	father=467505
+	mother=467506
+	1309.1.2={
+		birth="1309.1.2"
+	}
+	1359.1.2={
+		death="1359.1.2"
+	}
+}
+
+467505 = {
+	name="斯拉奇米尔"
+	dynasty=100500
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="fortune_builder"
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1300.1.2={
+		add_spouse=467506
+	}
+	1330.1.2={
+		death="1330.1.2"
+	}
+}
+
+467506 = {
+	name="凯拉察"
+	# AKA: Keratsa Petriza
+	female = yes
+	dynasty=41
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="diligent"
+	trait="envious"
+	trait="martial_cleric"
+	father=467508
+	1282.1.2={
+		birth="1282.1.2"
+	}
+	1332.1.2={
+		death="1332.1.2"
+	}
+}
+
+467507 = {
+	name="维劳尔"
+	dynasty=41
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="charitable"
+	trait="proud"
+	trait="patient"
+	trait="skilled_tactician"
+	father=467508
+	1281.1.2={
+		birth="1281.1.2"
+	}
+	1334.1.2={
+		death="1334.1.2"
+	}
+}
+
+467508 = {
+	name="希什曼"
+	dynasty=41
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="lustful"
+	trait="slothful"
+	trait="tough_soldier"
+	1252.1.2={
+		birth="1252.1.2"
+	}
+	1311.1.2={
+		death="1311.1.2"
+	}
+}
+
+467510 = {
+	name="米哈伊"
+	dynasty=41
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="tough_soldier"
+	father=467500
+	mother=475552
+	1323.1.2={
+		birth="1323.1.2"
+	}
+	1354.1.2={
+		death="1354.1.2"
+	}
+}
+
+467511 = {
+	name="伊凡"
+	# AKA: Ivan Sratzimir
+	dynasty=41
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="diligent"
+	trait="thrifty_clerk"
+	father=467500
+	mother=475552
+	1325.1.2={
+		birth="1325.1.2"
+	}
+	1396.1.2={
+		death="1396.1.2"
+	}
+}
+
+467512 = {
+	name="伊凡"
+	# AKA: Ivan Shishman
+	dynasty=41
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="patient"
+	trait="kind"
+	trait="temperate"
+	trait="tough_soldier"
+	father=467500
+	mother=475552
+	1328.1.2={
+		birth="1328.1.2"
+	}
+	1395.1.2={
+		death="1395.1.2"
+	}
+}
+
+467513 = {
+	name="凯拉 塔玛拉"
+	# AKA: Kera Tamara
+	female = yes
+	dynasty=41
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="thrifty_clerk"
+	father=467500
+	mother=475552
+	1332.1.2={
+		birth="1332.1.2"
+	}
+	1382.1.2={
+		death="1382.1.2"
+	}
+}
+
+467520 = {
+	name="米哈伊"
+	dynasty=41
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="orthodox"
+	culture="bulgarian"
+	trait="diligent"
+	trait="honest"
+	trait="just"
+	trait="zealous"
+	trait="patient"
+	trait="martial_cleric"
+	father=467508
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1300.1.2={
+		add_spouse=468511
+	}
+	1324.1.1={
+	remove_spouse=468511
+	}	
+	1325.1.1={
+		add_spouse=465515
+	} 
+	1330.7.28={
+		death="1330.7.28"
+	}
+}
+
+467521 = {
+	name="伊凡 斯特凡"
+	# AKA: Ivan Stefan
+	dynasty=41
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="bulgarian"
+	trait="envious"
+	trait="flamboyant_schemer"
+	father=467520
+	mother=468511
+	1302.1.2={
+		birth="1302.1.2"
+	}
+	1373.1.2={
+		death="1373.1.2"
+	}
+}
+
+467522 = {
+	name="希什曼"
+	dynasty=41
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="tough_soldier"
+	father=467520
+	mother=468511
+	1304.1.2={
+		birth="1304.1.2"
+	}
+	1354.1.2={
+		death="1354.1.2"
+	}
+}
+
+467523 = {
+	name="米哈伊"
+	dynasty=41
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="orthodox"
+	culture="bulgarian"
+	trait="kind"
+	trait="temperate"
+	trait="tough_soldier"
+	father=467520
+	mother=468511
+	1306.1.2={
+		birth="1306.1.2"
+	}
+	1356.1.2={
+		death="1356.1.2"
+	}
+}
+
+467524 = {
+	name="柳多维克"
+	dynasty=41
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="tough_soldier"
+	father=467520
+	mother=468511
+	1308.1.2={
+		birth="1308.1.2"
+	}
+	1358.1.2={
+		death="1358.1.2"
+	}
+}
+
+467530 = {
+	name="格奥尔基"
+	dynasty=40
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="flamboyant_schemer"
+	father=31201
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1266.1.1={
+		add_spouse=31183
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+467531 = {
+	name="安娜"
+	female = yes
+	dynasty=40
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="patient"
+	trait="stutter"
+	trait="flamboyant_schemer"
+	father=467530
+	mother=31183
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+467540 = {
+	name="斯米雷茨"
+	dynasty=7205
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="orthodox"
+	culture="bulgarian"
+	trait="wroth"
+	trait="charismatic_negotiator"
+	father=31198
+	1264.1.2={
+		birth="1264.1.2"
+	}
+	1280.1.1={
+		add_spouse=31189
+	}
+	1291.1.1={
+		add_spouse=34288
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+467541 = {
+	name="特奥多拉"
+	female = yes
+	dynasty=7205
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="orthodox"
+	culture="bulgarian"
+	trait="stutter"
+	trait="scholarly_theologian"
+	father=467540
+	mother=31189
+	1281.1.2={
+		birth="1281.1.2"
+	}
+	1322.1.2={
+		death="1322.1.2"
+	}
+}
+
+467542 = {
+	name="玛利亚"
+	female = yes
+	dynasty=7205
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="greedy"
+	trait="amateurish_plotter"
+	father=467540
+	mother=31189
+	1285.1.2={
+		birth="1285.1.2"
+	}
+	1335.1.2={
+		death="1335.1.2"
+	}
+}
+
+467550 = {
+	name="鲍里克"
+	dynasty=39
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="orthodox"
+	culture="bulgarian"
+	trait="charitable"
+	trait="deceitful"
+	trait="skilled_tactician"
+	father=467555
+	1315.1.2={
+		birth="1315.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+467551 = {
+	name="多布罗迪扎"
+	dynasty=39
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="honest"
+	trait="temperate"
+	trait="flamboyant_schemer"
+	father=467555
+	1317.1.2={
+		birth="1317.1.2"
+	}
+	1367.1.2={
+		death="1367.1.2"
+	}
+}
+
+467555 = {
+	name="多布洛米尔"
+	dynasty=39
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="craven"
+	trait="charismatic_negotiator"
+	1263.1.2={
+		birth="1263.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+468550 = {
+	name="伊凡"
+	dynasty=40
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="zealous"
+	trait="tough_soldier"
+	father=468555
+	mother=467542
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+468555 = {
+	name="阿迪米尔"
+	dynasty=40
+	martial=8
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="kind"
+	trait="martial_cleric"
+	father=31201
+	1251.1.2={
+		birth="1251.1.2"
+	}
+	1301.1.2={
+		add_spouse = 467542
+	}
+	1305.1.5={
+		death="1305.1.5"
+	}
+}
+
+70380 = {
+	name="普雷西安"
+	dynasty=702
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="orthodox"
+	culture="bulgarian"
+	trait="diligent"
+	trait="content"
+	trait="charismatic_negotiator"
+	father=722
+	1008.1.1={
+		birth="1008.1.1"
+	}
+	1030.1.1={
+		death="1030.1.1"
+	}
+}
+
+70381 = {
+	name="尼古拉"
+	dynasty=702
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="ambitious"
+	trait="proud"
+	trait="tough_soldier"
+	mother=70385
+	938.1.1={
+		birth="938.1.1"
+	}
+	976.1.1={
+		death="976.1.1"
+	}
+}
+
+70382 = {
+	name="鲍里斯"
+	dynasty=8636
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="tengri_pagan"
+	culture="bulgarian"
+	trait="diligent"
+	trait="brave"
+	trait="brilliant_strategist"
+	father=70384
+	825.1.1={
+		birth="825.1.1"
+	}
+	841.1.1={
+		add_spouse=168075
+	}
+	864.1.1={
+		religion="orthodox"
+	}
+	907.5.2={
+		death="907.5.2"
+	}
+}
+
+70383 = {
+	name="瓦拉迪米尔"
+	dynasty=8636
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="tengri_pagan"
+	culture="bulgarian"
+	trait="patient"
+	trait="temperate"
+	trait="thrifty_clerk"
+	father=70382
+	mother=168075
+	845.1.1={
+		birth="845.1.1"
+	}
+	864.1.1={
+		religion="orthodox"
+	}
+	889.1.1={
+		religion="tengri_pagan"	
+	}
+	893.1.1={
+		death="893.1.1"
+	}
+}
+
+70384 = {
+	name="弗鲁津"
+	dynasty=8636
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="tengri_pagan"
+	culture="bulgarian"
+	trait="brave"
+	trait="proud"
+	trait="tough_soldier"
+	father=159126
+	802.1.1={
+		birth="802.1.1"
+	}
+	852.1.1={
+		death="852.1.1"
+	}
+}
+
+70385 = {
+	name="米洛斯拉娃"
+	female=yes
+	dynasty=8636
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="greedy"
+	trait="bastard"
+	trait="underhanded_rogue"
+	father=70382
+	
+	920.1.1={
+		birth="920.1.1"
+	}
+	973.1.1={
+		death="973.1.1"
+	}
+}
+
+712 = {
+	name="西蒙"
+	dynasty=8636
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="tengri_pagan"	
+	culture="bulgarian"
+	trait="deceitful"
+	trait="kind"
+	trait="cynical"
+	trait="lisp"
+	trait="tough_soldier"
+	father=70382
+	mother=168075
+	850.1.1={
+		birth="850.1.1"
+	}
+	864.1.1={
+		religion="orthodox"
+	}
+	927.5.27={
+		death="927.5.27"
+	}
+}
+
+714 = {
+	name="佩塔尔"
+	dynasty=8636
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="wroth"
+	trait="patient"
+	trait="honest"
+	trait="flamboyant_schemer"
+	father=712
+	912.1.1={
+		birth="912.1.1"
+	}
+	969.1.30={
+		death="969.1.30"
+	}
+}
+
+716 = {
+	name="鲍里斯"
+	dynasty=8636
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="deceitful"
+	trait="amateurish_plotter"
+	father=714
+	940.1.1={
+		birth="940.1.1"
+	}
+	986.1.1={
+		death="986.1.1"
+	}
+}
+
+718 = {
+	name="罗马"
+	dynasty=8636
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="celibate"
+	trait="gluttonous"
+	trait="skilled_tactician"
+	father=714
+	945.1.1={
+		birth="945.1.1"
+	}
+	998.1.1={
+		death="998.1.1"
+	}
+}
+
+720 = {
+	name="阿隆"
+	dynasty=702
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="chaste"
+	trait="hunchback"
+	trait="flamboyant_schemer"
+	father=70381
+	940.1.1={
+		birth="940.1.1"
+	}
+	988.7.14={
+		death="988.7.14"
+	}
+}
+
+722 = {
+	name="伊凡 弗拉迪斯拉夫"
+	# AKA: Ivan Vladislav
+	dynasty=702
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="zealous"
+	trait="tough_soldier"
+	father=720
+	977.1.1={
+		birth="977.1.1"
+	}
+	1018.2.1={
+		death="1018.2.1"
+	}
+}
+
+724 = {
+	name="阿鲁斯安"
+	dynasty=702
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="bulgarian"
+	trait="gluttonous"
+	trait="honest"
+	trait="tough_soldier"
+	father=722
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1071.8.26={
+		death="1071.8.26"
+	}
+}
+
+7242 = {
+	name="萨姆伊尔"
+	dynasty=702
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="orthodox"
+	culture="bulgarian"
+	trait="ill"
+	trait="tough_soldier"
+	father=724
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1066.1.1={
+		employer=724
+	}
+	1069.1.1={
+		death="1069.1.1"
+	}
+}
+
+725 = {
+	name="安娜"
+	female = yes
+	dynasty=702
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="just"
+	trait="flamboyant_schemer"
+	father=724
+	1032.1.1={
+		birth="1032.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+726 = {
+	name="图拉真"
+	dynasty=702
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=4
+	religion="orthodox"
+	culture="bulgarian"
+	trait="diligent"
+	trait="wroth"
+	trait="tough_soldier"
+	father=722
+	1013.1.1={
+		birth="1013.1.1"
+	}
+	1066.5.19={
+		death="1066.5.19"
+	}
+}
+
+727 = {
+	name="玛利亚"
+	female = yes
+	dynasty=702
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="orthodox"
+	culture="bulgarian"
+	trait="diligent"
+	trait="naive_appeaser"
+	father=726
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+728 = {
+	name="萨姆伊尔"
+	dynasty=702
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="bulgarian"
+	trait="just"
+	trait="skilled_tactician"
+	father=70381
+	945.1.1={
+		birth="945.1.1"
+	}
+	1014.10.6={
+		death="1014.10.6"
+	}
+}
+
+729 = {
+	name="叶卡捷琳娜"
+	female = yes
+	dynasty=702
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="orthodox"
+	culture="bulgarian"
+	trait="scholarly_theologian"
+	father=722
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1061.1.1={
+		death="1061.1.1"
+	}
+}
+
+730 = {
+	name="加夫里尔 拉多米尔"
+	# AKA: Gavril 拉多米尔
+	dynasty=702
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="bulgarian"
+	trait="brave"
+	trait="wroth"
+	trait="skilled_tactician"
+	father=728
+	969.1.2={
+		birth="969.1.2"
+	}
+	987.1.1={
+		add_spouse=492
+	}
+	988.1.1={
+		remove_spouse=492
+	}
+	1015.10.1={
+		death="1015.10.1"
+	}
+}
+
+732 = {
+	name="佩塔尔"
+	# AKA: Petar Deljan
+	dynasty=702
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="bulgarian"
+	trait="cynical"
+	trait="proud"
+	trait="tough_soldier"
+	father=730
+	mother=492
+	989.1.1={
+		birth="989.1.1"
+	}
+	1041.1.1={
+		death="1041.1.1"
+	}
+}
+
+34463 = {
+	name="格奥尔基"
+	dynasty=25200
+	trait="ambitious"
+	religion="orthodox"
+	culture="bulgarian"
+	1035.1.1={
+		birth="1035.1.1"
+	}	
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+34584 = {
+	name="多布洛米尔"
+	dynasty=100508
+	religion="orthodox"
+	culture="bulgarian"
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1197.1.1={
+		add_spouse=34585
+	}
+	1201.1.1={
+		remove_spouse=34585
+	}
+	1201.1.1={
+		add_spouse=7686
+	}
+	1203.1.1={
+		death="1203.1.1"
+	}
+}
+
+159126 = {
+	name="日瓦妮察" #father of Presian I
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bulgarian"
+	father=159124
+	784.1.2={
+		birth="784.1.2"
+	}
+	830.1.2={
+		death="830.1.2"
+	}
+}
+
+168066 = {
+	name="光头"
+	dynasty=8636
+	religion="tengri_pagan"
+	culture="bulgarian"
+	father=70382
+	mother=168075
+	847.1.1={
+		birth="847.1.1"
+	}
+	864.1.1={
+		religion="orthodox"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+
+168067 = {
+	name="加夫里尔"
+	dynasty=8636
+	religion="tengri_pagan"
+	culture="bulgarian"
+	father=70382
+	mother=168075
+	848.1.1={
+		birth="848.1.1"
+	}
+	864.1.1={
+		religion="orthodox"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+
+168068 = {
+	name="安娜"
+	female=yes
+	dynasty=8636
+	religion="tengri_pagan"
+	culture="bulgarian"
+	father=70382
+	mother=168075
+	842.1.1={
+		birth="842.1.1"
+	}
+	864.1.1={
+		religion="orthodox"
+	}
+	899.1.1={
+		death="899.1.1"
+	}
+}
+
+
+168069 = {
+	name="阿霉素"
+	dynasty=8636
+	religion="tengri_pagan"
+	culture="bulgarian"
+	father=70384
+	827.1.1={
+		birth="827.1.1"
+	}
+	864.1.1={
+		religion="orthodox"
+	}
+	877.1.1={
+		death="877.1.1"
+	}
+}
+
+
+
+168070 = {
+	name="加夫里尔"
+	dynasty=8636
+	religion="tengri_pagan"
+	culture="bulgarian"
+	father=70384
+	829.1.1={
+		birth="829.1.1"
+	}
+	864.1.1={
+		religion="orthodox"
+	}
+	879.1.1={
+		death="879.1.1"
+	}
+}
+
+168075 = {
+	name="玛利亚"
+	female=yes
+	religion="orthodox"
+	culture="bulgarian"
+	825.1.1={
+		birth="825.1.1"
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+
+
+
+168076 = {
+	name="普莱西"
+	female=yes
+	religion="tengri_pagan"
+	culture="bulgarian"
+	835.1.1={
+		birth="835.1.1"
+	}
+	864.1.1={
+		religion="orthodox"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+
+168077 = {
+	name="瓦斯勒卡" #real name unknown
+	female=yes
+	dynasty=8636
+	religion="tengri_pagan"
+	culture="bulgarian"
+	trait="bastard"
+	father=70382
+	mother=168076
+	855.1.1={
+		birth="855.1.1"
+	}
+	864.1.1={
+		religion="orthodox"
+	}
+	899.1.1={
+		death="899.1.1"
+	}
+}
+
+
+168078 = {
+	name="拉克夫"
+	dynasty=8636
+	religion="tengri_pagan"
+	culture="bulgarian"
+	father=70382
+	mother=168075
+	852.1.1={
+		birth="852.1.1"
+	}
+	864.1.1={
+		religion="orthodox"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+
+168287 = {
+	name="阿罗果伯托尔"
+	dynasty=9581
+	trait="skilled_tactician"
+	religion="tengri_pagan"
+	culture="bulgarian"
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	893.1.1 = {
+		religion = "orthodox"
+	}
+	927.5.27 = {
+		death="927.5.27"
+	}
+}
+
+168288 = {
+	name="马尔麦斯"
+	dynasty=9582
+	trait="skilled_tactician"
+	religion="tengri_pagan"
+	culture="bulgarian"
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	893.1.1 = {
+		religion = "orthodox"
+	}
+	924.1.1 = {
+		death="924.1.1"
+	}
+}
+
+
+168289 = {
+	name="莫斯提齐"
+	#placeholder
+	dynasty=9583
+	trait="tough_soldier"
+	religion="tengri_pagan"
+	culture="bulgarian"
+	845.1.1 = {
+		birth="845.1.1"
+	}
+	893.1.1 = {
+		religion = "orthodox"
+	}
+	915.1.1 = {
+		death="915.1.1"
+	}
+}
+
+168290 = {
+	name="扎兰"
+	dynasty=9584
+	trait="intricate_webweaver"
+	religion="orthodox"
+	culture="bulgarian"
+	845.1.1 = {
+		birth="845.1.1"
+	}
+	895.1.1 = {
+		death="895.1.1"
+	}
+}
+
+168291 = {
+	name="斯托"
+	dynasty=9585
+	trait="charismatic_negotiator"
+	religion="orthodox"
+	culture="bulgarian"
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	889.1.1 = {
+		death="889.1.1"
+	}
+}

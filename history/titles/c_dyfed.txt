@@ -1,0 +1,150 @@
+360.1.1={
+	holder = 159807 #Macsen Wledig
+}
+380.1.1={
+	holder = 159808 #Annwn Dynod
+}
+428.1.1={
+	holder = 159816 #Ednyfed ap Annwn
+}
+431.1.1={
+	holder = 159817 #Glotguin ap Ednyfed
+}
+451.1.1={
+	holder = 159818 #Clotri
+}
+471.1.1={
+	holder = 159819 #Maelgwn
+}
+475.1.1={
+	holder = 159322 #Aircol Lawhir
+}
+495.1.1={
+	holder = 159324 #Gwerthefyr
+}
+540.1.1={
+	holder = 159340 #Cyngar
+}
+570.1.1={
+	holder = 159341 #Pedr
+}
+595.1.1={
+	holder = 159342 #Arthwyr
+}
+620.1.1={
+	holder = 159343 #Nowy Hen
+}
+650.1.1={
+	holder = 159344 #Cloten
+}
+670.1.1={
+	holder = 159345 #Cathen
+}
+690.1.1={
+	holder = 159346 #Cadwgan Tredylig
+}
+710.1.1={
+	holder = 159347 #Rhain
+}
+730.1.1={
+	holder = 159349 #Maredudd ap Tewdos
+}
+797.1.1={
+	holder = 159356 #Rhain ap Maredudd
+}
+808.1.1={
+	holder = 159350 #Owain ap Maredudd
+}
+811.1.1={
+	holder = 159111 #Arthfael Hen
+}
+825.1.1={
+	holder = 159353 # Hyfaidd ap Bledrig
+}
+830.1.1={
+	holder = 159110
+}
+840.1.1={
+	liege="d_deheubarth"
+}
+840.1.1={
+	holder = 159109
+}
+890.1.1={
+	holder = 159361 # Rhodri ap Hyfaidd
+}
+893.1.1={
+	holder = 159354 # Llywarch ap Hyfaidd
+}
+1066.1.1={
+	holder=138496 #Maredudd ap Owain ap Edwin
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+1070.1.1={
+	holder = 81815 #Rhys ap Owain ap Edwin
+}
+1076.1.1={
+	holder = 81816 #Rhys ap Tewdwr
+}
+1093.4.1={
+	holder = 152
+}
+1094.1.1={
+	holder = 41032
+}
+1098.1.1={
+	holder = 41004
+}
+1102.1.1={
+	holder = 202992
+} 
+1135.1.1={
+	holder = 214810 #Gruffyd ap Rhys
+}
+1137.1.1={
+	holder = 138498 #Anarawd ap Gruffyd
+}
+1143.1.1={
+	holder = 138500 #Cadell ap Gruffyd
+}
+1153.1.1={
+	holder = 81814 #Maredudd ap Gruffyd
+}
+1157.1.1={
+	holder = 214800 #Rhys ap Gruffyd
+}
+1197.4.28={
+	holder = 204540 #William Marshal
+}
+1219.5.4={
+	holder = 7348 #William Marshal
+}
+1231.4.6={
+	holder = 7357 #Richard Marshal
+}
+1234.4.16={
+	holder = 7356 #Gilbert Marshal
+}
+1241.6.27={
+	holder = 7355 #Walter Marshal
+}
+1245.11.1={
+	holder = 7354 #Anselm MArshal
+}
+1245.12.22=
+{
+holder=138013 #William de Valence/Lusignan
+}
+1296.5.16=
+{
+holder=138031 #Aymar de Valence/Lusignan
+}
+1324.6.24=
+{
+holder= 453401
+}
+1325.1.20=
+{
+holder=453400
+}

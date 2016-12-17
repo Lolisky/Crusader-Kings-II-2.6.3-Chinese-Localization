@@ -1,0 +1,89 @@
+330.1.1={
+	liege=e_byzantium
+	vice_royalty=yes
+}
+736.1.1={
+	holder=145807
+}
+775.1.1={
+	holder=145808
+}
+865.1.1={
+	holder=145182
+}
+1060.1.1={
+	holder=1766
+}
+1089.1.1={
+	holder=232504
+}
+1107.1.1={
+	holder=231057
+}
+1151.1.1={
+	holder=215010
+}
+1204.5.16={ # Collapse of Byzantine Empire
+	liege=0
+	vice_royalty=no
+}
+1204.8.1={
+	liege=e_latin_empire
+}
+1204.8.1={
+	holder=31334 #Guillaume I
+}
+1210.1.1={
+	holder=31336 #Geoffory I 
+}
+1216.6.11={
+	liege=0
+}
+1218.9.1={
+	holder=31337 #Geoffory II
+}
+1246.5.6={
+	holder=31338 #Guillaume II
+}
+1278.1.4={
+	liege=k_sicily
+}
+1278.1.14={
+	holder=455406 #Charles I d'Anjou
+}
+1285.1.7={
+	holder=461710 #Charles II d'Anjou
+}
+1289.1.1={
+	holder=31103 #Floris I d'Avesnes
+}
+1297.1.23={
+	holder=31341 #Isabelle I
+}
+1301.1.1={
+	holder=462691 #Phillipe I
+}
+1302.8.31={
+	liege=k_naples
+}
+1307.1.1={
+	holder=461712 #Phillipe II
+}
+1313.1.1={
+	holder=31344 #Louis I
+}
+1316.8.2={
+	holder=31343 #Mathilda
+}
+1318.1.1={
+	holder=455910 #Eudes
+}
+1320.1.1={
+	holder=455650 #Louis II
+}
+1322.1.1={
+	holder=461721 #Jean I
+}
+1336.1.2={
+	holder=461718 #Robert I
+}

@@ -1,0 +1,74 @@
+761.1.1 = {
+	holder = 194060
+	liege = d_uppland
+}
+860.1.1={
+	holder = 6840
+}
+1066.1.1=
+{
+	holder=20006
+}
+1067.12.20={
+	liege = 0
+}
+1089.1.1=
+{
+	holder=143136
+}
+1139.1.1=
+{
+	holder=143137
+}
+1158.1.1=
+{
+	liege="k_sweden" # Erik the Holy's crusade
+	holder=200017
+}
+1200.1.1={
+	holder=200604 # Sverker den Yngre, son of 200602 - Karl Sverkersson
+}
+1208.1.31= 
+{
+	holder=200504 # Erik Knutsson, son of 200500, Knut Eriksson
+}
+1216.4.10= 
+{
+	holder=200609 # Johan, son of Sverker (200604)
+}
+1222.3.10={
+	holder=200507 # Erik 'den Läspe och Halte'
+}
+
+1229.11.29={
+	holder=200508 # Knut Holmgersson 'den Långe'
+}
+
+1234.6.6={
+	holder=200507 # Erik 'den Läspe och Halte', reinstated
+}
+
+1250.2.2={
+	holder=450506 # Valdemar Birgersson
+}
+
+1275.7.22={
+	holder=450502 # Magnus 'Ladulås'
+}
+
+1290.12.18={
+	holder=450504 # Birger Magnusson
+}
+
+1302.1.1=
+{
+	liege="d_finland"
+	holder=450607 # Valdemar Magnusson
+}
+1318.2.16=
+{
+	holder=450504 # King Birger
+}
+1321.1.1={
+	holder=450710
+}

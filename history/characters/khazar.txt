@@ -1,0 +1,1000 @@
+74000 = {
+	name="Muhan"
+	dynasty=12269
+
+	culture="khazar"
+	religion="tengri_pagan"
+
+	560.1.1={
+		birth="560.1.1"
+	}
+	611.1.1={
+		death="611.1.1"
+	}
+}
+74001 = {
+	name="Tun-Yagbu"
+	dynasty=12269
+	father = 74000
+	culture="khazar"
+	religion="tengri_pagan"
+
+	580.1.1={
+		birth="580.1.1"
+	}
+	628.1.1={
+		death="628.1.1"
+	}
+}
+
+74002 = {
+	name="Bagha-Shad"
+	dynasty=12269
+	father = 74000
+	culture="khazar"
+	religion="tengri_pagan"
+
+	582.1.1={
+		birth="582.1.1"
+	}
+	626.1.1={
+		death="626.1.1"
+	}
+}
+
+74003 = {
+	name="Böri-Shad"
+	dynasty=12269
+	father = 74002
+	culture="khazar"
+	religion="tengri_pagan"
+
+	603.1.1={
+		birth="603.1.1"
+	}
+	654.1.1={
+		death="654.1.1"
+	}
+}
+
+74004 = {
+	name="Irbis"
+	dynasty=12269
+	father = 74003
+	culture="khazar"
+	religion="tengri_pagan"
+
+	621.1.1={
+		birth="621.1.1"
+	}
+	682.1.1={
+		death="682.1.1"
+	}
+}
+
+74005 = {
+	name="Khalga"
+	dynasty=12269
+	father = 74003
+	culture="khazar"
+	religion="tengri_pagan"
+
+	646.1.1={
+		birth="646.1.1"
+	}
+	709.1.1={
+		death="709.1.1"
+	}
+}
+
+74006 = {
+	name="Kaban"
+	dynasty=12269
+	father = 74005
+	culture="khazar"
+	religion="tengri_pagan"
+
+	683.1.1={
+		birth="683.1.1"
+	}
+	745.1.1={
+		death="745.1.1"
+	}
+}
+
+74007 = {
+	name="Busir"
+	dynasty=12269
+	father = 74004
+	culture="khazar"
+	religion="tengri_pagan"
+
+	656.1.1={
+		birth="656.1.1"
+	}
+	715.1.1={
+		death="715.1.1"
+	}
+}
+
+74008 = {
+	name="Barjik"
+	dynasty=12269
+	father = 74007
+	culture="khazar"
+	religion="tengri_pagan"
+
+	683.1.1={
+		birth="683.1.1"
+	}
+	731.1.1={
+		death="731.1.1"
+	}
+}
+
+74009 = {
+	name="Bihar"
+	dynasty=12269
+	father = 74007
+	culture="khazar"
+	religion="tengri_pagan"
+
+	685.1.1={
+		birth="685.1.1"
+	}
+	715.1.1={
+		add_spouse=74010
+	}
+	749.1.1={
+		death="749.1.1"
+	}
+}
+
+74010 = {
+	name="Parsbit"
+	dynasty=1022377
+	female=yes
+	father = 146195
+	culture="khazar"
+	religion="tengri_pagan"
+	
+	trait = skilled_tactician
+	trait = quick
+
+	699.1.1={
+		birth="699.1.1"
+	}
+	771.1.1={
+		death="771.1.1"
+	}
+}
+
+74011 = {
+	name="Kundaç"
+	dynasty=12269
+	father = 74006
+	culture="khazar"
+	religion="tengri_pagan"
+
+	724.1.1={
+		birth="724.1.1"
+	}
+	777.1.1={
+		death="777.1.1"
+	}
+
+}
+
+74012 = {
+	name="Baghatur"
+	dynasty=12269
+	father = 74009
+	mother = 74010
+	culture="khazar"
+	religion="tengri_pagan"
+
+	716.1.1={
+		birth="716.1.1"
+	}
+	788.1.1={
+		death="788.1.1"
+	}
+}
+
+74013 = {
+	name="Yilig"
+	dynasty=12269
+	father = 74011
+	culture="khazar"
+	religion="tengri_pagan"
+
+	746.1.1={
+		birth="746.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+74014 = {
+	name="Mänäs"
+	dynasty=12269
+	father = 74013
+	culture="khazar"
+	religion="tengri_pagan"
+
+	783.1.1={
+		birth="783.1.1"
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+
+74015 = {
+	name="Tuvan"
+	dynasty=12269
+	father = 74013
+	culture="khazar"
+	religion="tengri_pagan"
+
+	786.1.1={
+		birth="786.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+74016 = {
+	name="Tarkhan"
+	dynasty=12269
+
+	father = 74014
+
+	culture="khazar"
+	religion="tengri_pagan"
+
+	813.1.1={
+		birth="813.1.1"
+	}
+	861.1.1={
+		death="861.1.1"
+	}
+}
+74017 = {
+	name="Zachariah"
+	dynasty=12269
+
+	father = 74016
+
+	culture="khazar"
+	religion="jewish" 
+
+	840.1.1={
+		birth="840.1.1"
+	}
+	886.1.1={
+		death="886.1.1"
+	}
+}
+194369 = {
+	name="Yeldem"
+	female=yes
+	dynasty=12269
+
+	father = 74016
+
+	culture="khazar"
+	religion="jewish" 
+
+	846.1.1={
+		birth=yes
+	}
+	886.1.1={
+		death="886.1.1"
+	}
+}
+74018 = {
+	name="Bulan"
+	dynasty=12269
+	culture="khazar"
+	religion="tengri_pagan"
+	father = 74012
+	734.1.1={
+		birth="734.1.1"
+	}
+	794.1.1={
+		religion="jewish"
+		dynasty=12270
+	}
+	802.1.1={
+		death="802.1.1"
+	}
+}
+
+74019 = {
+	name="Obadiah"
+	dynasty=12269
+	father = 146186
+	culture="khazar"
+	religion="tengri_pagan"
+	768.1.1={
+		birth="768.1.1"
+	}
+	794.1.1={
+		religion="jewish"
+		dynasty=12270
+	}
+	823.1.1={
+		death="823.1.1"
+	}
+}
+
+74020 = {
+	name="Hezekiah"
+	dynasty=12269
+	father = 74019
+	culture="khazar"
+	religion="tengri_pagan"
+	785.1.1={
+		birth="785.1.1"
+	}
+	794.1.1={
+		religion="jewish"
+		dynasty=12270
+	}
+	829.1.1={
+		death="829.1.1"
+	}
+}
+
+74021 = {
+	name="Manasseh"
+	dynasty=12270
+	father = 74020
+	culture="khazar"
+	religion="jewish"
+
+	810.1.1={
+		birth="810.1.1"
+	}
+	831.1.1={
+		death="831.1.1"
+	}
+}
+
+74022 = {
+	name="Hanukkah"
+	dynasty=12269
+	father = 74019
+	culture="khazar"
+	religion="tengri_pagan"
+	787.1.1={
+		birth="787.1.1"
+	}
+	794.1.1={
+		religion="jewish"
+		dynasty=12270
+	}
+	847.1.1={
+		death="847.1.1"
+	}
+}
+
+74023 = {
+	name="Isaac"
+	dynasty=12270
+	father = 74022
+	culture="khazar"
+	religion="jewish"
+
+	804.1.1={
+		birth="804.1.1"
+	}
+	856.1.1={
+		death="856.1.1"
+	}
+}
+
+74024 = {
+	name="Zebulun"
+	dynasty=12270
+	father = 74023
+	culture=khazar
+	religion="jewish"
+
+	821.1.1={
+		birth=yes
+	}
+	864.1.1={
+		death=yes
+	}
+}
+
+74025 = {
+	name="Manasseh"
+	dynasty=12270
+	father = 74024
+	culture=khazar
+	religion="jewish"
+
+	838.1.1={
+		birth=yes
+	}
+	854.1.1={
+		add_spouse = 173000
+	}
+	867.1.1 = {
+		# Boost the initial strength of the Khazars
+		effect = {
+			spawn_unit = {
+				province = 620 # Itil
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					light_cavalry = { 197 197 }
+					horse_archers = { 84 84 }
+				}
+				attrition = 0.5
+			}
+			spawn_unit = {
+				province = 620 # Itil
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					light_cavalry = { 197 197 }
+					horse_archers = { 84 84 }
+				}
+				attrition = 0.5
+			}
+			spawn_unit = {
+				province = 620 # Itil
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					light_cavalry = { 197 197 }
+					horse_archers = { 84 84 }
+				}
+				attrition = 0.5
+			}
+		}
+	}
+	888.1.1={
+		death=yes
+	}
+}
+
+74026 = {
+	name="Nisi"
+	dynasty=12270
+	father = 74025
+	mother = 173000
+	culture="khazar"
+	religion="jewish" 
+
+	855.1.1={
+		birth=yes
+	}
+	899.1.1={
+		death=yes
+	}
+}
+
+180226 = {
+	name=Yavdi	# fictional
+	# Count of Sarkel
+	dynasty=1042041
+	religion=jewish
+	culture=khazar
+	833.8.25={
+		birth=yes
+	}
+	889.1.1={
+		death=yes
+	}
+}
+194370 = {
+	name=Itakh	# fictional
+	dynasty=1042041
+	religion=jewish
+	culture=khazar
+	father=180226
+	853.8.25={
+		birth=yes
+	}
+	889.1.1={
+		death=yes
+	}
+}
+194371 = {
+	name=Ayten	# fictional
+	female=yes
+	dynasty=1042041
+	religion=jewish
+	culture=khazar
+	father=180226
+	855.8.25={
+		birth=yes
+	}
+	889.1.1={
+		death=yes
+	}
+}
+
+183244 = {
+	name=Lärkka
+	female = yes
+
+	religion=tengri_pagan
+	culture=khazar
+	849.1.1={
+		birth=yes
+	}
+	877.1.1={
+		death=yes
+	}
+}
+
+20663 = {
+	name=Isaac
+	dynasty=100620
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion=jewish
+	culture=khazar
+	trait=content
+	trait=cynical
+	trait=scholarly_theologian
+	1025.1.1={
+		birth=yes
+	}
+	1089.1.1={
+		death=yes
+	}
+}
+194391 = {
+	name=Ezra
+	dynasty=100620
+	religion=jewish
+	culture=khazar
+	father=20663
+	1045.1.1={
+		birth=yes
+	}
+	1089.1.1={
+		death=yes
+	}
+}
+194392 = {
+	name=Sirin
+	female=yes
+	dynasty=100620
+	religion=jewish
+	culture=khazar
+	father=20663
+	1047.1.1={
+		birth=yes
+	}
+	1089.1.1={
+		death=yes
+	}
+}
+
+173000 = {
+	name="Belet"
+	female = yes
+	religion=jewish
+	culture=khazar
+
+	838.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}
+145786 = {
+	name="Kibar"
+	dynasty=12269
+	culture="khazar"
+	religion="tengri_pagan"
+	father = 74011
+	748.1.1={
+		birth="748.1.1"
+	}
+	812.1.1={
+		death="812.1.1"
+	}
+}
+
+145787 = {
+	name="Irge"
+	female=yes
+	dynasty=12269
+	culture="khazar"
+	religion="tengri_pagan"
+	father = 74009
+	mother = 74010
+	718.1.1={
+		birth="718.1.1"
+	}
+	735.1.1={
+		name="Eirene"
+		religion="iconoclast"
+	}
+	750.1.25={
+		death="750.1.25"
+	}
+}
+
+145999 = {
+	name="Mala"
+	female=yes
+	dynasty=12269
+	culture="khazar"
+	religion="tengri_pagan"
+	father = 74012
+	733.1.1={
+		birth="733.1.1"
+	}
+	749.1.1={
+		name="Maria"
+		religion="iconoclast"
+	}
+	785.1.1={
+		death="785.1.1"
+	}
+}
+146185 = {
+	name="Tura"
+	dynasty=12269
+	female=yes
+	religion="tengri_pagan"
+	culture="khazar"
+	father = 74004
+	677.1.1={
+		birth=yes
+	}
+	703.1.1={
+		name="Theodora"
+		religion="orthodox"
+	}
+	711.1.1={
+		death=yes
+	}
+}
+
+146186 = {
+	name="Ezra"
+	dynasty=12269
+	culture="khazar"
+	religion="tengri_pagan"
+	father = 74018
+	751.1.1={
+		birth=yes
+	}
+	794.1.1={
+		religion="jewish"
+		dynasty=12270
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+146187 = {
+	name="Aaron"
+	dynasty=12270
+	culture="khazar"
+	religion="jewish"
+	father = 74026
+	872.1.1={
+		birth=yes
+	}
+	916.1.1={
+		death=yes
+	}
+}
+
+146188 = {
+	name="Menahem"
+	dynasty=12270
+	culture="khazar"
+	religion="jewish"
+	father = 146187
+	889.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+146189 = {
+	name="Benjamin"
+	dynasty=12270
+	culture="khazar"
+	religion="jewish"
+	father = 146187
+	891.1.1={
+		birth=yes
+	}
+	928.1.1={
+		death=yes
+	}
+}
+
+146190 = {
+	name="Aaron"
+	dynasty=12270
+	culture="khazar"
+	religion="jewish"
+	father = 146189
+	908.1.1={
+		birth=yes
+	}
+	945.1.1={
+		death=yes
+	}
+}
+
+146191 = {
+	name="Ioseph"
+	dynasty=12270
+	culture="khazar"
+	religion="jewish"
+	father = 146190
+	925.1.1={
+		birth=yes
+	}
+	969.1.1={
+		death=yes
+	}
+}
+
+146192 = {
+	name="Abraham"
+	dynasty=12270
+	culture="khazar"
+	religion="jewish"
+	father = 146191
+	942.1.1={
+		birth=yes
+	}
+	969.1.1={
+		death=yes
+	}
+}
+
+146193 = {
+	name="David"
+	dynasty=1022378
+	culture="khazar"
+	religion="jewish"
+
+	937.1.1={
+		birth=yes
+	}
+	993.1.1={
+		death=yes
+	}
+}
+
+146194 = {
+	name="Georgios"
+	dynasty=1022378
+	culture="khazar"
+	religion="jewish"
+	father = 146193
+	962.1.1={
+		birth=yes
+	}
+	1023.1.1={
+		death=yes
+	}
+}
+
+146195 = {
+	name="Çorpan"
+	dynasty=1022377
+	culture="khazar"
+	religion="tengri_pagan"
+
+	682.1.1={
+		birth=yes
+	}
+	743.1.1={
+		death=yes
+	}
+}
+
+146196 = {
+	name="Simsam"
+	dynasty=1022377
+	culture="khazar"
+	religion="tengri_pagan"
+	father = 146195
+	717.1.1={
+		birth=yes
+	}
+	774.1.1={
+		death=yes
+	}
+}
+
+146197 = {
+	name="Bulçan"
+	dynasty=1022377
+	culture="khazar"
+	religion="tengri_pagan"
+	father = 146196
+	738.1.1={
+		birth=yes
+	}
+	797.1.1={
+		death=yes
+	}
+}
+
+146198 = {
+	name="Täbär"
+	dynasty=1022377
+	culture="khazar"
+	religion="tengri_pagan"
+	father = 146196
+	740.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+146199 = {
+	name="Bälgiçi"
+	dynasty=1022377
+	culture="khazar"
+	religion="tengri_pagan"
+	father = 146196
+	742.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+
+146200 = {
+	name="Kayghalagh"
+	dynasty=1022377
+	culture="khazar"
+	religion="tengri_pagan"
+	father = 146196
+	744.1.1={
+		birth=yes
+	}
+	803.1.1={
+		death=yes
+	}
+}
+
+146201 = {
+	name="Bagha"
+	dynasty=1022379
+	culture="khazar"
+	religion="tengri_pagan"
+
+	747.1.1={
+		birth=yes
+	}
+	801.1.1={
+		death=yes
+	}
+}
+
+146202 = {
+	name="Iltäbär"
+	dynasty=1022380
+	culture="khazar"
+	religion="tengri_pagan"
+
+	745.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+
+146203 = {  
+	name="Sartäç"
+	dynasty=1022381
+	culture="khazar"
+	religion="tengri_pagan"
+
+	733.1.1={ #down from 743
+		birth=yes
+	}
+	796.1.1={
+		death=yes
+	}
+}
+
+194347 = {
+	name="Yabghu"
+	dynasty=1022381
+	father = 146203
+	culture="khazar"
+	religion="tengri_pagan"
+
+	750.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+
+194355 = {
+	name="Gulay"
+	female = yes
+	dynasty=1022381
+	father = 146203
+	culture="khazar"
+	religion="tengri_pagan"
+
+	752.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+
+146204 = {
+	name="Mënümarót"
+	dynasty=1022382
+	culture="khazar"
+	religion="tengri_pagan"
+
+	731.1.1={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+194346 = {
+	name="Bastu"
+	dynasty=1022382
+	father = 146204
+	culture="khazar"
+	religion="tengri_pagan"
+
+	750.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+194356 = {
+	name="Tura"
+	dynasty=1022382
+	female = yes
+	father = 146204
+	culture="khazar"
+	religion="tengri_pagan"
+
+	751.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+
+

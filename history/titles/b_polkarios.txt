@@ -1,0 +1,44 @@
+839.1.1=
+{
+holding_dynasty = 9591 # Polkarios - makes this a FAMILY_PALACE type Holding
+liege="d_amalfi"
+}
+839.1.1=
+{
+holder=168398
+}
+860.1.1=
+{
+holder=6881 #168399
+}
+879.9.1=
+{
+holder=168402
+}
+915.1.1=
+{
+holder=168403
+}
+945.1.1=
+{
+holder=168404
+}
+970.1.1=
+{
+holder=168405
+}
+990.1.1=
+{
+holder=168406
+}
+1025.1.1=
+{
+holder=168407
+}
+#1060.1.1=
+#{
+#holder=168408
+#}
+1060.1.1={
+	holder=0
+}

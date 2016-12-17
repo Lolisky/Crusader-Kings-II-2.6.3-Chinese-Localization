@@ -1,0 +1,59 @@
+769.1.1 = {
+	holder = 194005
+}
+788.1.1 = {
+	holder = 194051
+}
+835.1.1 = {
+	holder = 0
+}
+1066.1.1=
+{
+	liege="k_sweden"
+}
+1066.1.1=
+{
+	holder = 100530
+}
+1106.1.1={
+	holder = 200600
+}
+1134.6.4={
+	holder = 200521
+}
+1166.1.1={
+	holder=200540
+}
+1210.7.17={
+	holder=450510
+}
+1266.10.21=
+{
+	holder=450506
+}
+1275.7.22=
+{
+	holder=450502
+}
+1290.12.18=
+{
+	holder=450504
+}
+1302.1.1=
+{
+	holder=450501 # Erik Magnusson
+}
+1310.7.20=
+{
+	# The Peace of Helsingborg - Sweden is divided
+	liege=0
+}
+1318.2.16=
+{
+	liege="k_sweden" # Duke Erik dies at Nyköpingshus
+	holder=450504 # King Birger
+}
+1319.7.8=
+{
+	holder=450500 # Magnus Eriksson
+}

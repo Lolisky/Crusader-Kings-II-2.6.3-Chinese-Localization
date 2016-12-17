@@ -1,0 +1,68 @@
+#Earls of Richmond used for this title
+765.1.1={
+	liege="d_northumberland"
+	holder = 205244
+}
+866.11.1={
+	liege = "d_york"
+	holder = 163112
+}
+875.1.1 = {
+	holder = 0
+}
+1055.1.1={
+	holder=124 #Tostig Godwinson
+}
+1066.1.1={
+	holder=5660 #Morcar
+}
+1070.1.1={
+	holder = 356 #Alain 'Rufus' de Penthièvre
+}
+1089.1.1={
+	holder = 10047 #Alain Niger
+}
+1093.1.1={
+	holder = 205744 #Étienne I de Penthièvre
+}
+1093.8.24={
+	holder = 146 #William II Rufus
+}
+1100.8.3={
+	holder = 202992 #Henry I
+} 
+1135.12.2={
+	holder = 205851 #Stephen
+}
+1136.4.21={
+	holder = 205751 #Alain de Penthièvre
+}
+1146.1.1={
+	holder = 205851 #Stephen
+}
+1154.10.25={
+	holder=204500 #Henry II
+}
+1189.7.6={
+	holder = 204510 #Richard I Lionheart
+}
+1199.1.1=
+{
+	holder = 204694 #William de Ferrers
+}
+1241.1.1={
+	holder = 70909 #Pierre of Savoy
+}
+1263.1.1={
+	holder = 454522 #Henry III
+}
+1272.11.16={
+	holder = 454520 #Edward I Longshanks
+}
+1307.7.8={
+	holder = 454510 #Edward II of England
+}
+1327.2.1={
+	holder=454500 #Edward III
+}
+

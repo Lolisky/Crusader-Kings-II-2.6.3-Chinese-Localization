@@ -1,0 +1,356 @@
+144628 = {
+	name="里脱"
+	dynasty=9534
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 28020
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+144629 = {
+	name="大贝斯莱芜"
+	dynasty=100374
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 20603
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+20603 = {
+	name="库尔莱姆斯"
+	# AKA: Kurlemuse
+	dynasty=100374
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="baltic_pagan"
+	culture="lettigallish"
+	trait="skilled_tactician"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+220603 = {
+	name="库尔莱姆斯"
+	dynasty=100374
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="baltic_pagan"
+	culture="lettigallish"
+	trait="skilled_tactician"
+	father = 144629
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+
+228020 = {
+	name="阿拉斯特斯"
+	dynasty=9534
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 144628
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+228022 = {
+	name="多亚特"
+	dynasty=100372
+	religion="baltic_pagan"
+	culture="lettigallish"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+228024 = {
+	name="舒特尔"
+	dynasty=100378
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="baltic_pagan"
+	culture="lettigallish"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+228075 = {
+	name="萨贝"
+	dynasty=100373
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 143133
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+28020 = {
+	name="艾拉斯特斯"
+	dynasty=9534
+	religion="baltic_pagan"
+	culture="lettigallish"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+28075 = {
+	name="萨贝"
+	dynasty=100373
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="baltic_pagan"
+	culture="lettigallish"
+	trait="ill"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+143132 = {
+	name="萨贝"
+	dynasty=100373
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 28075
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+143133 = {
+	name="萨贝"
+	dynasty=100373
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 143132
+	1119.1.1={
+		birth="1119.1.1"
+	}
+	1187.1.1={
+		death="1187.1.1"
+	}
+}
+
+143149 = {
+	name="多亚特"
+	dynasty=100372
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 228022
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1253.6.30={
+		death="1253.6.30"
+	}
+}
+
+167730 = {
+	name="库德勒"
+	dynasty=9530
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 194112
+	830.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+6892={
+	name="达雷特"
+	female=yes
+	dynasty=9530
+	religion=baltic_pagan
+	culture=lettigallish
+	father=167730
+	849.1.1={
+		birth=yes
+	}
+	899.1.1={
+		death=yes
+	}
+}
+
+167731 = {
+	name="毕克设"
+	dynasty=9531
+	religion=baltic_pagan
+	culture=lettigallish
+	840.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+167732 = {
+	name="那维特"
+	dynasty=9532
+	religion=baltic_pagan
+	culture=lettigallish
+	844.1.1={
+		birth=yes
+	}
+	865.1.1={
+		add_spouse=6892
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+167733 = {
+	name="瓦利凯拉"
+	dynasty=9533
+	religion="baltic_pagan"
+	culture="lettigallish"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+170351 = {
+	name="普库维拉斯"
+	dynasty=1040229
+	religion="baltic_pagan"
+	culture="lettigallish"
+	737.1.1={
+		birth=yes
+	}
+	788.1.1={
+		death=yes
+	}
+}
+194105 = {
+	name = "安卡德"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = lettigallish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194106 = {
+	name = "阿括"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = lettigallish
+	father = 194105
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194107 = {
+	name = "岺甘达斯"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = lettigallish
+	father = 194106
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194110 = {
+	name = "巴迪斯"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = lettigallish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194111 = {
+	name = "威特塞克"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = lettigallish
+	father = 194110
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194112 = {
+	name = "维希库特"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = lettigallish
+	father = 194111
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}

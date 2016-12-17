@@ -1,0 +1,11812 @@
+6825 = {
+	name="亚罗波尔克"
+	religion="slavic_pagan"
+	culture="russian"
+	trait = content
+	trait = cynical
+	dynasty=1029117
+	father=160064
+	841.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+6826 = {
+	name="戈斯托米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029137
+	father=160139
+	trait = content
+	trait = cynical
+	839.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+6829 = {
+	name="沃塞米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	trait = content
+	dynasty=1029136
+	father=160062
+	839.1.1={
+		birth=yes
+	}
+	887.1.1={
+		death=yes
+	}
+}
+
+6831 = {
+	name="斯维托扎"
+	religion="slavic_pagan"
+	culture="russian"
+	trait = content
+	dynasty=1029136
+	father=160058
+	834.1.1={
+		birth=yes
+	}
+	887.1.1={
+		death=yes
+	}
+}
+
+6832 = {
+	name="拉多斯拉夫"
+	religion="slavic_pagan"
+	culture="russian"
+	trait = content
+	dynasty=1029136
+	father=160062
+	836.1.1={
+		birth=yes
+	}
+	888.1.1={
+		death=yes
+	}
+}
+6833 = {
+	name="斯维亚托波克"
+	religion="slavic_pagan"
+	culture="russian"
+	trait = content
+	dynasty=1029136
+	father=160062
+	834.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+6834 = {
+	name="萨沃洛诺克"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029118
+	father=160063
+	831.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+6835 = {
+	name="杜布洛齐"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=160058
+	trait = content
+	835.1.1={
+		birth=yes
+	}
+	869.1.1={
+		death=yes
+	}
+}
+
+6859 = {
+	name="叶里赛"
+	dynasty=1029116
+	religion="slavic_pagan"
+	culture=russian
+	father=160051
+	trait=content
+	845.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+6860 = {
+	name="贝利米尔"
+	religion="slavic_pagan"
+	culture=russian
+	trait=content
+	dynasty=1029138
+	father=159721
+	843.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+6868 = {
+	name="沃塞波"
+	dynasty=1029117
+	religion="slavic_pagan"
+	culture=russian
+	trait=content
+	father=160064
+	845.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+6869 = {
+	name="拉多斯拉夫"
+	religion="slavic_pagan"
+	culture=russian
+	dynasty=1029116
+	father=160134
+	trait=content
+	840.1.1={
+		birth=yes
+	}
+	893.1.1={
+		death=yes
+	}
+}
+
+6870 = {
+	name="亚罗波克"
+	religion="slavic_pagan"
+	culture=russian
+	trait=content
+	dynasty=1029137
+	father=160139
+	840.1.1={
+		birth=yes
+	}
+	875.1.1={
+		death=yes
+	}
+}
+
+6889 = {
+	name=Yemelyan # Fantasy
+	religion="slavic_pagan"
+	culture=russian
+	trait=content
+	dynasty=704
+	830.1.1 = {
+		birth=yes
+	}
+	894.1.1 = {
+		death=yes
+	}
+}
+
+122503 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=686
+	mother=40601
+	1065.1.2={
+		birth="1065.1.2"
+	}
+	1093.1.2={
+		death="1093.1.2"
+	}
+}
+
+125000 = {
+	name="夫谢斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=616
+	994.1.2={
+		birth="994.1.2"
+	}
+	1003.1.2={
+		death="1003.1.2"
+	}
+}
+
+125001 = {
+	name="伊贾斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=672
+	mother=125095
+	1105.1.2={
+		birth="1105.1.2"
+	}
+	1134.1.2={
+		death="1134.1.2"
+	}
+}
+
+125002 = {
+	name="弗谢沃洛德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=672
+	mother=125095
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1162.1.2={
+		death="1162.1.2"
+	}
+}
+
+125003 = {
+	name="罗格沃洛德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=680
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1143.1.2={
+	add_spouse=125135
+	}
+	1171.5.7={
+		death="1171.5.7"
+	}
+}
+
+125004 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125003
+	mother=125135
+	1145.1.2={
+		birth="1145.1.2"
+	}
+	1186.1.2={
+		death="1186.1.2"
+	}
+}
+
+125005 = {
+	name="夫谢斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125003
+	mother=125135
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1190.1.2={
+		death="1190.1.2"
+	}
+}
+
+125006 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=680
+	1105.1.2={
+		birth="1105.1.2"
+	}
+	1145.1.2={
+		death="1145.1.2"
+	}
+}
+
+125007 = {
+	name="叶夫普拉克西娅"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="zealous"
+	trait="scholarly_theologian"
+	father=680
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1175.1.2={
+		death="1175.1.2"
+	}
+}
+
+125008 = {
+	name="耶夫罗辛娅"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="zealous"
+	trait="scholarly_theologian"
+	father=682
+	1110.1.2={
+		birth="1110.1.2"
+	}
+	1173.1.2={
+		death="1173.1.2"
+	}
+}
+
+125009 = {
+	name="安娜"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222560
+	mother=125220
+	1190.1.2={
+		birth="1190.1.2"
+	}
+	1230.1.2={
+		death="1230.1.2"
+	}
+}
+
+125010 = {
+	name="布里亚奇斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222560
+	mother=125220
+	1200.1.2={
+		birth="1200.1.2"
+	}
+	1241.1.2={
+		death="1241.1.2"
+	}
+}
+
+125011 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125010
+	1221.1.2={
+		birth="1221.1.2"
+	}
+	1270.1.2={
+		death="1270.1.2"
+	}
+}
+
+125012 = {
+	name="伊贾斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125010
+	1222.1.2={
+		birth="1222.1.2"
+	}
+	1264.1.2={
+		death="1264.1.2"
+	}
+}
+
+125013 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125010
+	1223.1.2={
+		birth="1223.1.2"
+	}
+	1263.1.2={
+		death="1263.1.2"
+	}
+}
+
+125014 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125013
+	1245.1.2={
+		birth="1245.1.2"
+	}
+	1280.1.2={
+		death="1280.1.2"
+	}
+}
+
+125015 = {
+	name="瓦西里科"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125010
+	1225.1.2={
+		birth="1225.1.2"
+	}
+	1297.1.2={
+		death="1297.1.2"
+	}
+}
+
+125016 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125015
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+125017 = {
+	name="弗谢沃洛德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=608
+	mother=609
+	983.1.2={
+		birth="983.1.2"
+	}
+	1008.1.2={
+		death="1008.1.2"
+	}
+}
+
+125018 = {
+	name="斯坦尼斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=608
+	986.1.2={
+		birth="986.1.2"
+	}
+	1014.1.2={
+		death="1014.1.2"
+	}
+}
+
+125019 = {
+	name="斯维亚托斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=608
+	982.1.2={
+		birth="982.1.2"
+	}
+	1015.9.1={
+		death="1015.9.1"
+	}
+}
+
+125020 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222545
+	1098.1.2={
+		birth="1098.1.2"
+	}
+	1155.1.2={
+		death="1155.1.2"
+	}
+}
+
+125021 = {
+	name="鲍里斯"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222545
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1169.1.2={
+		death="1169.1.2"
+	}
+}
+
+125022 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222545
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1172.1.2={
+		death="1172.1.2"
+	}
+}
+
+125023 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222545
+	1125.1.2={
+		birth="1125.1.2"
+	}
+	1183.1.2={
+		death="1183.1.2"
+	}
+}
+
+125024 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=9130
+	1090.1.2={
+		birth="1090.1.2"
+	}
+	1141.1.2={
+		death="1141.1.2"
+	}
+}
+
+125025 = {
+	name="瓦西里科"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222504
+	trait="bastard"
+	1170.1.2={
+		birth="1170.1.2"
+	}
+	1187.1.2={
+	add_spouse=125056
+	}
+	1188.1.2={
+	remove_spouse=125056
+	}
+	1241.1.2={
+		death="1241.1.2"
+	}
+}
+
+125027 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=684
+	mother=7061
+	1076.1.1={
+		birth="1076.1.1"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+
+125028 = {
+	name="维亚切斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=684
+	mother=7061
+	1077.1.1={
+		birth="1077.1.1"
+	}
+	1105.1.2={
+		death="1105.1.2"
+	}
+}
+
+125029 = {
+	name="安娜"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=652
+	1090.1.2={
+		birth="1090.1.2"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+125030 = {
+	name="布里亚奇斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=652
+	1104.1.2={
+		birth="1104.1.2"
+	}
+	1123.1.2={
+		death="1123.1.2"
+	}
+}
+
+125031 = {
+	name="伊贾斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=652
+	1105.1.2={
+		birth="1105.1.2"
+	}
+	1127.1.2={
+		death="1127.1.2"
+	}
+}
+
+125032 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=652
+	trait="bastard"
+	1070.1.2={
+		birth="1070.1.2"
+	}
+	1099.7.12={
+		death="1099.7.12"
+	}
+}
+
+125033 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222542
+	mother=222543
+	1146.1.2={
+		birth="1146.1.2"
+	}
+	1189.1.2={
+		death="1189.1.2"
+	}
+}
+
+125034 = {
+	name="斯维亚托波尔克"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222542
+	mother=222543
+	1147.1.2={
+		birth="1147.1.2"
+	}
+	1190.1.2={
+		death="1190.1.2"
+	}
+}
+
+125035 = {
+	name="亚罗波尔克"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222542
+	mother=222543
+	1148.1.2={
+		birth="1148.1.2"
+	}
+	1195.1.2={
+		death="1195.1.2"
+	}
+}
+
+125036 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222542
+	mother=222543
+	1149.1.2={
+		birth="1149.1.2"
+	}
+	1195.1.2={
+		death="1195.1.2"
+	}
+}
+
+125037 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125036
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1228.1.2={
+		death="1228.1.2"
+	}
+}
+
+125038 = {
+	name="亚历山大"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125036
+	1185.1.2={
+		birth="1185.1.2"
+	}
+	1223.5.31={
+		death="1223.5.31"
+	}
+}
+
+125039 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125037
+	1200.1.2={
+		birth="1200.1.2"
+	}
+	1242.1.2={
+		death="1242.1.2"
+	}
+}
+
+125040 = {
+	name="费奥多"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125037
+	1205.1.2={
+		birth="1205.1.2"
+	}
+	1262.1.2={
+		death="1262.1.2"
+	}
+}
+
+125041 = {
+	name="尤里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125037
+	1215.1.2={
+		birth="1215.1.2"
+	}
+	1292.1.2={
+		death="1292.1.2"
+	}
+}
+
+125042 = {
+	name="杰米德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125037
+	1225.1.2={
+		birth="1225.1.2"
+	}
+	1305.1.2={
+		death="1305.1.2"
+	}
+}
+
+125043 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125041
+	1250.1.2={
+		birth="1250.1.2"
+	}
+	1333.1.2={
+		death="1333.1.2"
+	}
+}
+
+125044 = {
+	name="奇里乞亚"
+	female=yes
+	religion="orthodox"
+	culture="russian"
+	1028.1.2={
+		birth="1028.1.2"
+	}
+	1069.1.2={
+		death="1069.1.2"
+	}
+}
+
+125045 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=656
+	1074.1.2={
+		birth="1074.1.2"
+	}
+	1114.1.2={
+	add_spouse=125020
+	}
+	1151.5.12={
+		death="1151.5.12"
+	}
+}
+
+125046 = {
+	name="斯维亚托斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125045
+	mother=125020
+	1116.1.2={
+		birth="1116.1.2"
+	}
+	1159.1.2={
+	add_spouse=125219
+	}
+	1166.1.2={
+		death="1166.1.2"
+	}
+}
+
+125047 = {
+	name="伊贾斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=656
+	1076.1.2={
+		birth="1076.1.2"
+	}
+	1161.3.6={
+		death="1161.3.6"
+	}
+}
+
+125048 = {
+	name="弗谢沃洛德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=656
+	1078.1.2={
+		birth="1078.1.2"
+	}
+	1124.1.1={
+		add_spouse=170103
+	}
+	1127.1.2={
+		death="1127.1.2"
+	}
+}
+
+125049 = {
+	name="斯维亚托斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="zealous"
+	father=656
+	1080.1.2={
+		birth="1080.1.2"
+	}
+	1106.1.2={
+	add_spouse=125029
+	}
+	1143.10.14={
+		death="1143.10.14"
+	}
+}
+
+125050 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=656
+	1082.1.2={
+		birth="1082.1.2"
+	}
+	1120.1.2={
+		death="1120.1.2"
+	}
+}
+
+125052 = {
+	name="奥列格"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222650
+	mother=222651
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1204.1.2={
+		death="1204.1.2"
+	}
+}
+
+125054 = {
+	name="阿古利碧娜"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=98015
+	mother=98012
+	1244.1.2={
+		birth="1244.1.2"
+	}
+	1305.1.2={
+		death="1305.1.2"
+	}
+}
+
+125055 = {
+	name="耶利扎韦塔"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=98015
+	mother=98012
+	1246.1.2={
+		birth="1246.1.2"
+	}
+	1298.1.2={
+		death="1298.1.2"
+	}
+}
+
+125056 = {
+	name="费奥多"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222520
+	mother=222521
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1201.1.2={
+		death="1201.1.2"
+	}
+}
+
+125057 = {
+	name="贝拉"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=98015
+	mother=98012
+	1250.1.2={
+		birth="1250.1.2"
+	}
+	1272.9.9={
+		death="1272.9.9"
+	}
+}
+
+125058 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=98015
+	mother=98012
+	1252.1.2={
+		birth="1252.1.2"
+	}
+	1270.1.2={
+		death="1270.1.2"
+	}
+}
+
+125059 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222654
+	mother=125104
+	1228.1.2={
+		birth="1228.1.2"
+	}
+	1289.1.2={
+		death="1289.1.2"
+	}
+}
+
+125060 = {
+	name="奥列格"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125059
+	1245.1.2={
+		birth="1245.1.2"
+	}
+	1307.1.2={
+		death="1307.1.2"
+	}
+}
+
+125061 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125059
+	1247.1.2={
+		birth="1247.1.2"
+	}
+	1308.1.2={
+		death="1308.1.2"
+	}
+}
+
+125062 = {
+	name="奥尔加"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125059
+	1250.1.2={
+		birth="1250.1.2"
+	}
+	1290.1.2={
+		death="1290.1.2"
+	}
+}
+
+125063 = {
+	name="西麦"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222654
+	mother=125104
+	1230.1.2={
+		birth="1230.1.2"
+	}
+	1280.1.2={
+		death="1280.1.2"
+	}
+}
+
+125064 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222654
+	mother=125104
+	1210.1.2={
+		birth="1210.1.2"
+	}
+	1271.12.9={
+		death="1271.12.9"
+	}
+}
+
+125065 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222652
+	mother=221523
+	1190.1.2={
+		birth="1190.1.2"
+	}
+	1263.1.2={
+		death="1263.1.2"
+	}
+}
+
+125066 = {
+	name="阿加菲娅"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222652
+	mother=221523
+	1191.1.2={
+		birth="1191.1.2"
+	}
+	1238.2.7={
+		death="1238.2.7"
+	}
+}
+
+125067 = {
+	name="耶夫菲米亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222655
+	mother=222656
+	1184.1.2={
+		birth="1184.1.2"
+	}
+	1230.1.2={
+		death="1230.1.2"
+	}
+}
+
+125068 = {
+	name="兹韦尼斯拉娃"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222602
+	mother=222603
+	1126.1.2={
+		birth="1126.1.2"
+	}
+	1163.1.2={
+		death="1163.1.2"
+	}
+}
+
+125069 = {
+	name="伊戈尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=660
+	mother=125051
+	1096.1.2={
+		birth="1096.1.2"
+	}
+	1147.9.19={
+		death="1147.9.19"
+	}
+}
+
+125070 = {
+	name="奥列格"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222632
+	mother=222633
+	1137.1.2={
+		birth="1137.1.2"
+	}
+	1150.1.2={
+	add_spouse=125162
+	}
+	1166.1.2={
+	add_spouse=125143
+	}
+	1180.1.18={
+		death="1180.1.18"
+	}
+}
+
+125071 = {
+	name="斯维亚托斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125070
+	1166.1.2={
+		birth="1166.1.2"
+	}
+	1186.1.2={
+		death="1186.1.2"
+	}
+}
+
+125072 = {
+	name="伊贾斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222635
+	1186.1.2={
+		birth="1186.1.2"
+	}
+	1255.1.2={
+		death="1255.1.2"
+	}
+}
+
+125073 = {
+	name="阿加菲娅"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222638
+	mother=125138
+	1193.1.2={
+		birth="1193.1.2"
+	}
+	1248.1.2={
+		death="1248.1.2"
+	}
+}
+
+125074 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222637
+	1200.1.2={
+		birth="1200.1.2"
+	}
+	1265.1.2={
+		death="1265.1.2"
+	}
+}
+
+125075 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125074
+	1230.1.2={
+		birth="1230.1.2"
+	}
+	1285.1.2={
+		death="1285.1.2"
+	}
+}
+
+125076 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125075
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1303.1.2={
+		death="1303.1.2"
+	}
+}
+
+125077 = {
+	name="捷连季"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125076
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1325.1.2={
+		death="1325.1.2"
+	}
+}
+
+125078 = {
+	name="尤里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=662
+	1095.1.2={
+		birth="1095.1.2"
+	}
+	1143.1.2={
+		death="1143.1.2"
+	}
+}
+
+125079 = {
+	name="耶夫多基亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222775
+	1200.1.2={
+		birth="1200.1.2"
+	}
+	1260.1.2={
+		death="1260.1.2"
+	}
+}
+
+125080 = {
+	name="尤里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222775
+	1205.1.2={
+		birth="1205.1.2"
+	}
+	1237.12.2={
+		death="1237.12.2"
+	}
+}
+
+125081 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125080
+	1221.1.2={
+		birth="1221.1.2"
+	}
+	1248.1.2={
+		death="1248.1.2"
+	}
+}
+
+125082 = {
+	name="耶夫罗辛亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222675
+	1125.1.2={
+		birth="1125.1.2"
+	}
+	1179.1.2={
+		death="1179.1.2"
+	}
+}
+
+125083 = {
+	name="弗谢斯拉娃"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222650
+	mother=222651
+	1160.1.2={
+		birth="1160.1.2"
+	}
+	1220.1.2={
+		death="1220.1.2"
+	}
+}
+
+125084 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222745
+	mother=125083
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1237.1.2={
+		death="1237.1.2"
+	}
+}
+
+125085 = {
+	name="英格瓦"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222752
+	1210.1.2={
+		birth="1210.1.2"
+	}
+	1252.1.2={
+		death="1252.1.2"
+	}
+}
+
+125086 = {
+	name="奥列格"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222752
+	1215.1.2={
+		birth="1215.1.2"
+	}
+	1258.1.2={
+		death="1258.1.2"
+	}
+}
+
+125087 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="zealous"
+	father=125086
+	1235.1.2={
+		birth="1235.1.2"
+	}
+	1270.7.19={
+		death="1270.7.19"
+	}
+}
+
+125088 = {
+	name="费奥多"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125087
+	1255.1.2={
+		birth="1255.1.2"
+	}
+	1294.1.2={
+		death="1294.1.2"
+	}
+}
+
+125089 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125087
+	1262.1.2={
+		birth="1262.1.2"
+	}
+	1306.1.2={
+		death="1306.1.2"
+	}
+}
+
+125090 = {
+	name="瓦西里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125089
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1308.1.2={
+		death="1308.1.2"
+	}
+}
+
+125091 = {
+	name="奥莱娜"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222652
+	mother=221523
+	1192.1.2={
+		birth="1192.1.2"
+	}
+	1238.1.2={
+		death="1238.1.2"
+	}
+}
+
+125093 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=630
+	mother=125092
+	1070.1.2={
+		birth="1070.1.2"
+	}
+	1093.5.26={
+		death="1093.5.26"
+	}
+}
+
+125094 = {
+	name="耶夫普拉克西亚"
+	# AKA: Eupraxia
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=630
+	mother=125092
+	1071.1.2={
+		birth="1071.1.2"
+	}
+	1109.7.9={
+		death="1109.7.9"
+	}
+}
+
+125095 = {
+	name="阿纳斯塔西娅"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=684
+	mother=125026
+	1074.1.2={
+		birth="1074.1.2"
+	}
+	1158.1.2={
+		death="1158.1.2"
+	}
+}
+
+125096 = {
+	name="伊贾斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=666
+	mother=127
+	1078.1.2={
+		birth="1078.1.2"
+	}
+	1096.9.6={
+		death="1096.9.6"
+	}
+}
+
+125097 = {
+	name="斯维亚托斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=666
+	mother=127
+	1079.1.2={
+		birth="1079.1.2"
+	}
+	1114.3.16={
+		death="1114.3.16"
+	}
+}
+
+125098 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=666
+	mother=127
+	1081.1.2={
+		birth="1081.1.2"
+	}
+	1114.1.2={
+	add_spouse=125100
+	}
+	1119.1.2={
+		death="1119.1.2"
+	}
+}
+
+125099 = {
+	name="伊琳娜"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=9128
+	1088.1.2={
+		birth="1088.1.2"
+	}
+	1130.1.2={
+		death="1130.1.2"
+	}
+}
+
+125100 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=9128
+	1097.1.2={
+		birth="1097.1.2"
+	}
+	1140.1.2={
+		death="1140.1.2"
+	}
+}
+
+125101 = {
+	name="亚罗波尔克"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=666
+	mother=127
+	1082.1.2={
+		birth="1082.1.2"
+	}
+	1139.2.8={
+		death="1139.2.8"
+	}
+}
+
+125102 = {
+	name="维亚切斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=666
+	mother=127
+	1083.1.2={
+		birth="1083.1.2"
+	}
+	1154.2.6={
+		death="1154.2.6"
+	}
+}
+
+125103 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=666
+	mother=127
+	1096.1.2={
+		birth="1096.1.2"
+	}
+	1147.1.2={
+		death="1147.1.2"
+	}
+}
+
+125104 = {
+	name="奥莱娜"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222520
+	mother=222521
+	1182.1.2={
+		birth="1182.1.2"
+	}
+	1242.1.2={
+		death="1242.1.2"
+	}
+}
+
+125105 = {
+	name="阿加菲娅"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=666
+	mother=127
+	1098.1.2={
+		birth="1098.1.2"
+	}
+	1150.1.2={
+		death="1150.1.2"
+	}
+}
+
+125106 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=666
+	1102.8.11={
+		birth="1102.8.11"
+	}
+	1142.1.22={
+		death="1142.1.22"
+	}
+}
+
+125107 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125106
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1160.1.2={
+	add_spouse=125108
+	}
+	1170.1.28={
+		death="1170.1.28"
+	}
+}
+
+125108 = {
+	name="安娜"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222632
+	mother=222633
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1180.1.2={
+		death="1180.1.2"
+	}
+}
+
+125109 = {
+	name="耶夫普拉克西亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222575
+	1102.1.2={
+		birth="1102.1.2"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+125110 = {
+	name="安娜"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125049
+	mother=125029
+	1106.1.2={
+		birth="1106.1.2"
+	}
+	1150.1.2={
+		death="1150.1.2"
+	}
+}
+
+125111 = {
+	name="罗格涅达"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222575
+	1096.1.2={
+		birth="1096.1.2"
+	}
+	1175.1.2={
+		death="1175.1.2"
+	}
+}
+
+125112 = {
+	name="泽尼娅"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222575
+	1109.1.2={
+		birth="1109.1.2"
+	}
+	1129.1.2={
+		death="1129.1.2"
+	}
+}
+
+125113 = {
+	name="斯维亚托波尔克"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222575
+	1111.1.2={
+		birth="1111.1.2"
+	}
+	1154.1.2={
+		death="1154.1.2"
+	}
+}
+
+125114 = {
+	name="丹尼尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222520
+	mother=125053
+	1201.1.2={
+		birth="1201.1.2"
+	}
+	1218.1.2={
+	add_spouse=125147
+	}
+	1251.1.2={
+	add_spouse=125307
+	}
+	1264.1.2={
+		death="1264.1.2"
+	}
+}
+
+125115 = {
+	name="伊拉克利"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125114
+	mother=125147
+	1223.1.2={
+		birth="1223.1.2"
+	}
+	1240.1.2={
+		death="1240.1.2"
+	}
+}
+
+125116 = {
+	name="列夫"
+		dynasty=705
+	martial=8
+	diplomacy=8
+	religion="orthodox"
+	culture="russian"
+	father=125114
+	mother=125147
+	1228.1.2={
+		birth="1228.1.2"
+	}
+    1251.1.1={
+		add_spouse=98037
+    }
+	1301.1.2={
+		death="1301.1.2"
+	}
+}
+
+125117 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=471511
+	mother=125221
+	1283.1.2={
+		birth="1283.1.2"
+	}
+	1286.1.2={
+		death="1286.1.2"
+	}
+}
+
+125118 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=473516
+	mother=125157
+	1310.1.2={
+		birth="1310.1.2"
+	}
+	1325.1.2={
+		death="1325.1.2"
+	}
+}
+
+125119 = {
+	name="阿纳斯塔西娅"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125116
+    mother=98037
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1335.1.2={
+		death="1335.1.2"
+	}
+}
+
+125120 = {
+	name="斯维亚托斯拉娃"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="zealous"
+	father=125116
+    mother=98037
+	1270.1.2={
+		birth="1270.1.2"
+	}
+	1335.1.2={
+		death="1335.1.2"
+	}
+}
+
+125121 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125114
+	mother=125147
+	1229.1.2={
+		birth="1229.1.2"
+	}
+	1261.1.2={
+		death="1261.1.2"
+	}
+}
+
+125122 = {
+	name="什瓦恩纳斯"
+	# AKA: Shvarn
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125114
+	mother=125147
+	1230.1.2={
+		birth="1230.1.2"
+	}
+	1255.1.2={
+	add_spouse=125304
+	}
+	1269.1.2={
+		death="1269.1.2"
+	}
+}
+
+125123 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125114
+	mother=125147
+	1232.1.2={
+		birth="1232.1.2"
+	}
+	1300.1.2={
+		death="1300.1.2"
+	}
+}
+
+125124 = {
+	name="佩列亚斯拉娃"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125114
+	mother=125147
+	1231.1.2={
+		birth="1231.1.2"
+	}
+	1283.1.2={
+		death="1283.1.2"
+	}
+}
+
+125125 = {
+	name="多布罗斯拉娃"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125114
+	mother=125147
+	1233.1.2={
+		birth="1233.1.2"
+	}
+	1290.1.2={
+		death="1290.1.2"
+	}
+}
+
+125126 = {
+	name="索非亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125114
+	mother=125147
+	1234.1.2={
+		birth="1234.1.2"
+	}
+	1290.1.2={
+		death="1290.1.2"
+	}
+}
+
+125127 = {
+	name="瓦西里科"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222520
+	mother=125053
+	1203.1.2={
+		birth="1203.1.2"
+	}
+	1231.1.2={
+	add_spouse=125189
+	}
+	1269.1.2={
+		death="1269.1.2"
+	}
+}
+
+125128 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125127
+	mother=125189
+	1248.1.2={
+		birth="1248.1.2"
+	}
+	1266.1.2={
+	add_spouse=125062
+	}
+	1289.1.2={
+		death="1289.1.2"
+	}
+}
+
+125129 = {
+	name="奥尔加"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125127
+	mother=125189
+	1249.1.2={
+		birth="1249.1.2"
+	}
+	1289.1.2={
+		death="1289.1.2"
+	}
+}
+
+125130 = {
+	name="亚历山大"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222524
+	1173.1.2={
+		birth="1173.1.2"
+	}
+	1228.1.2={
+	add_spouse=125141
+	}
+	1234.1.2={
+		death="1234.1.2"
+	}
+}
+
+125131 = {
+	name="弗谢沃洛德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125130
+	mother=125141
+	1229.1.2={
+		birth="1229.1.2"
+	}
+	1250.1.2={
+		death="1250.1.2"
+	}
+}
+
+125132 = {
+	name="英格瓦"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222622
+	mother=222623
+	1158.1.2={
+		birth="1158.1.2"
+	}
+	1220.1.2={
+		death="1220.1.2"
+	}
+}
+
+125133 = {
+	name="伊贾斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125132
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1223.5.31={
+		death="1223.5.31"
+	}
+}
+
+125134 = {
+	name="格列米斯拉娃"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125132
+	1190.1.2={
+		birth="1190.1.2"
+	}
+	1258.1.2={
+		death="1258.1.2"
+	}
+}
+
+125135 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222525
+	mother=30201
+	1127.1.2={
+		birth="1127.1.2"
+	}
+	1180.1.2={
+		death="1180.1.2"
+	}
+}
+
+125136 = {
+	name="斯维亚托斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222610
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1239.1.2={
+		death="1239.1.2"
+	}
+}
+
+125137 = {
+	name="弗谢沃洛德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222610
+	1185.1.2={
+		birth="1185.1.2"
+	}
+	1249.1.2={
+		death="1249.1.2"
+	}
+}
+
+125138 = {
+	name="雅罗斯拉娃"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222579
+	mother=222581
+	1173.1.2={
+		birth="1173.1.2"
+	}
+	1200.1.2={
+		death="1200.1.2"
+	}
+}
+
+125139 = {
+	name="弗谢斯拉娃"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222579
+	mother=222581
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1250.1.2={
+		death="1250.1.2"
+	}
+}
+
+125140 = {
+	name="玛琳娜"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222588
+	1210.1.2={
+		birth="1210.1.2"
+	}
+	1238.1.2={
+		death="1238.1.2"
+	}
+}
+
+125141 = {
+	name="奥尔加"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222588
+	1175.1.2={
+		birth="1175.1.2"
+	}
+	1260.1.2={
+		death="1260.1.2"
+	}
+}
+
+125142 = {
+	name="斯维亚托斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222572
+	1141.1.2={
+		birth="1141.1.2"
+	}
+	1169.1.2={
+		death="1169.1.2"
+	}
+}
+
+125143 = {
+	name="阿加菲娅"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222572
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1170.1.2={
+		death="1170.1.2"
+	}
+}
+
+125144 = {
+	name="费奥多西娅"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222742
+	mother=125082
+	1160.1.2={
+		birth="1160.1.2"
+	}
+	1200.1.2={
+		death="1200.1.2"
+	}
+}
+
+125146 = {
+	name="瓦西里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222589
+	mother=125145
+	1198.1.2={
+		birth="1198.1.2"
+	}
+	1218.1.2={
+		death="1218.1.2"
+	}
+}
+
+125147 = {
+	name="安娜"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222589
+	mother=125145
+	1202.1.2={
+		birth="1202.1.2"
+	}
+	1250.1.2={
+		death="1250.1.2"
+	}
+}
+
+125148 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222589
+	mother=125145
+	1212.1.2={
+		birth="1212.1.2"
+	}
+	1260.1.2={
+		death="1260.1.2"
+	}
+}
+
+125149 = {
+	name="罗斯季斯拉娃"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222589
+	mother=125145
+	1200.1.2={
+		birth="1200.1.2"
+	}
+	1244.1.2={
+		death="1244.1.2"
+	}
+}
+
+125150 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222582
+	mother=125144
+	1177.1.2={
+		birth="1177.1.2"
+	}
+	1233.1.2={
+		death="1233.1.2"
+	}
+}
+
+125151 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125150
+	1200.1.2={
+		birth="1200.1.2"
+	}
+	1245.1.2={
+		death="1245.1.2"
+	}
+}
+
+125152 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222570
+	1190.1.2={
+		birth="1190.1.2"
+	}
+	1219.1.2={
+		death="1219.1.2"
+	}
+}
+
+125153 = {
+	name="费奥多"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222570
+	1193.1.2={
+		birth="1193.1.2"
+	}
+	1230.1.2={
+		death="1230.1.2"
+	}
+}
+
+125154 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125153
+	1210.1.2={
+		birth="1210.1.2"
+	}
+	1240.1.2={
+		death="1240.1.2"
+	}
+}
+
+125155 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125154
+	1235.1.2={
+		birth="1235.1.2"
+	}
+	1279.1.2={
+		death="1279.1.2"
+	}
+}
+
+125156 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125154
+	1237.1.2={
+		birth="1237.1.2"
+	}
+	1270.1.2={
+		death="1270.1.2"
+	}
+}
+
+125157 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472505
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+125158 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472794
+	mother=125177
+	1270.1.2={
+		birth="1270.1.2"
+	}
+	1290.1.2={
+		death="1290.1.2"
+	}
+}
+
+125159 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="chaste"
+	trait="scholar"
+	father=472794
+	mother=472795
+	1282.1.2={
+		birth="1282.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+125160 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222672
+	mother=222673
+	1112.1.2={
+		birth="1112.1.2"
+	}
+	1147.1.2={
+		death="1147.1.2"
+	}
+}
+
+125161 = {
+	name="伊贾斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222676
+	mother=222677
+	1148.1.2={
+		birth="1148.1.2"
+	}
+	1165.10.28={
+		death="1165.10.28"
+	}
+}
+
+125162 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222672
+	mother=222673
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1165.1.2={
+		death="1165.1.2"
+	}
+}
+
+125163 = {
+	name="安娜"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125047
+	1130.1.2={
+		birth="1130.1.2"
+	}
+	1180.1.2={
+		death="1180.1.2"
+	}
+}
+
+125164 = {
+	name="扎巴娃"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222600
+	mother=222601
+	1167.1.2={
+		birth="1167.1.2"
+	}
+	1190.1.2={
+		death="1190.1.2"
+	}
+}
+
+125165 = {
+	name="伊贾斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222702
+	mother=125163
+	1160.1.2={
+		birth="1160.1.2"
+	}
+	1184.1.2={
+		death="1184.1.2"
+	}
+}
+
+125166 = {
+	name="瓦西里科"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222672
+	mother=222673
+	1134.1.2={
+		birth="1134.1.2"
+	}
+	1162.1.2={
+		death="1162.1.2"
+	}
+}
+
+125167 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222672
+	mother=222673
+	1135.1.2={
+		birth="1135.1.2"
+	}
+	1166.4.12={
+		death="1166.4.12"
+	}
+}
+
+125168 = {
+	name="斯维亚托斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222672
+	mother=222673
+	1136.1.2={
+		birth="1136.1.2"
+	}
+	1174.1.11={
+		death="1174.1.11"
+	}
+}
+
+125169 = {
+	name="阿加菲娅"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222610
+	1190.1.2={
+		birth="1190.1.2"
+	}
+	1221.1.11={
+		death="1221.1.11"
+	}
+}
+
+125170 = {
+	name="瓦西里科"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222686
+	mother=125169
+	1209.7.12={
+		birth="1209.7.12"
+	}
+	1227.1.2={
+	add_spouse=125064
+	}
+	1238.3.4={
+		death="1238.3.4"
+	}
+}
+
+125171 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125081
+	1237.1.2={
+		birth="1237.1.2"
+	}
+	1287.1.2={
+		death="1287.1.2"
+	}
+}
+
+125172 = {
+	name="亚历山大"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472813
+	1286.1.2={
+		birth="1286.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+125173 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472813
+	1283.1.2={
+		birth="1283.1.2"
+	}
+	1333.1.2={
+		death="1333.1.2"
+	}
+}
+
+125174 = {
+	name="弗谢沃洛德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222686
+	mother=125169
+	1210.6.18={
+		birth="1210.6.18"
+	}
+	1238.3.4={
+		death="1238.3.4"
+	}
+}
+
+125175 = {
+	name="瓦西里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125174
+	1229.1.2={
+		birth="1229.1.2"
+	}
+	1249.1.2={
+		death="1249.1.2"
+	}
+}
+
+125176 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125174
+	1230.1.2={
+		birth="1230.1.2"
+	}
+	1257.1.2={
+		death="1257.1.2"
+	}
+}
+
+125177 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125175
+	1246.1.2={
+		birth="1246.1.2"
+	}
+	1281.1.2={
+		death="1281.1.2"
+	}
+}
+
+125178 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222686
+	mother=125169
+	1214.1.2={
+		birth="1214.1.2"
+	}
+	1232.1.2={
+	add_spouse=125179
+	}
+	1249.1.2={
+		death="1249.1.2"
+	}
+}
+
+125179 = {
+	name="耶夫多基亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222752
+	1216.1.2={
+		birth="1216.1.2"
+	}
+	1278.1.2={
+		death="1278.1.2"
+	}
+}
+
+125180 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125178
+	mother=125179
+	1234.1.2={
+		birth="1234.1.2"
+	}
+	1261.1.2={
+		death="1261.1.2"
+	}
+}
+
+125181 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125178
+	mother=125179
+	1236.1.2={
+		birth="1236.1.2"
+	}
+	1285.1.2={
+		death="1285.1.2"
+	}
+}
+
+125182 = {
+	name="鲍里斯"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222670
+	mother=222671
+	1187.6.1={
+		birth="1187.6.1"
+	}
+	1188.1.2={
+		death="1188.1.2"
+	}
+}
+
+125183 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222670
+	mother=222671
+	1187.6.1={
+		birth="1187.6.1"
+	}
+	1189.9.29={
+		death="1189.9.29"
+	}
+}
+
+125184 = {
+	name="尤里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222670
+	mother=222671
+	1188.11.26={
+		birth="1188.11.26"
+	}
+	1211.4.10={
+	add_spouse=125066
+	}
+	1238.3.4={
+		death="1238.3.4"
+	}
+}
+
+125185 = {
+	name="弗谢沃洛德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125184
+	mother=125066
+	1212.10.23={
+		birth="1212.10.22"
+	}
+	1230.4.14={
+	add_spouse=125140
+	}
+	1238.2.7={
+		death="1238.2.7"
+	}
+}
+
+125186 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125184
+	mother=125066
+	1218.1.2={
+		birth="1218.1.2"
+	}
+	1238.2.7={
+		death="1238.2.7"
+	}
+}
+
+125187 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125184
+	mother=125066
+	1219.1.2={
+		birth="1219.1.2"
+	}
+	1238.2.3={
+		death="1238.2.3"
+	}
+}
+
+125188 = {
+	name="费奥多娃"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125184
+	mother=125066
+	1229.9.21={
+		birth="1229.9.21"
+	}
+	1238.2.7={
+		death="1238.2.7"
+	}
+}
+
+125189 = {
+	name="多布拉娃"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125184
+	mother=125066
+	1215.1.2={
+		birth="1215.1.2"
+	}
+	1265.1.2={
+		death="1265.1.2"
+	}
+}
+
+125190 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222670
+	mother=222671
+	1192.10.26={
+		birth="1192.10.26"
+	}
+	1214.1.2={
+	add_spouse=125191
+	}
+	1227.1.2={
+		death="1227.1.2"
+	}
+}
+
+125191 = {
+	name="耶夫多基亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222655
+	mother=222656
+	1192.1.2={
+		birth="1192.1.2"
+	}
+	1238.1.2={
+		death="1238.1.2"
+	}
+}
+
+125192 = {
+	name="斯维亚托斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="zealous"
+	father=222670
+	mother=222671
+	1196.3.27={
+		birth="1196.3.27"
+	}
+	1216.1.2={
+	add_spouse=125079
+	}
+	1252.2.3={
+		death="1252.2.3"
+	}
+}
+
+125193 = {
+	name="季米特里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125192
+	mother=125079
+	1220.1.2={
+		birth="1220.1.2"
+	}
+	1269.1.2={
+		death="1269.1.2"
+	}
+}
+
+125194 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125193
+	1250.1.2={
+		birth="1250.1.2"
+	}
+	1310.1.2={
+		death="1310.1.2"
+	}
+}
+
+125195 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125194
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1341.1.2={
+		death="1341.1.2"
+	}
+}
+
+125196 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222670
+	mother=222671
+	1198.8.28={
+		birth="1198.8.28"
+	}
+	1247.1.2={
+		death="1247.1.2"
+	}
+}
+
+125197 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125196
+	1230.1.2={
+		birth="1230.1.2"
+	}
+	1281.1.2={
+		death="1281.1.2"
+	}
+}
+
+125198 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125197
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1315.1.2={
+		death="1315.1.2"
+	}
+}
+
+125199 = {
+	name="费奥多"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125198
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1330.1.2={
+		death="1330.1.2"
+	}
+}
+
+125200 = {
+	name="季米特里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125199
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1354.1.2={
+		death="1354.1.2"
+	}
+}
+
+125201 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125199
+	1322.1.2={
+		birth="1322.1.2"
+	}
+	1363.1.2={
+		death="1363.1.2"
+	}
+}
+
+125202 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125199
+	1324.1.2={
+		birth="1324.1.2"
+	}
+	1380.1.2={
+		death="1380.1.2"
+	}
+}
+
+125203 = {
+	name="费奥多"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472885
+	mother=125149
+	1219.1.2={
+		birth="1219.1.2"
+	}
+	1233.1.2={
+		death="1233.1.2"
+	}
+}
+
+125204 = {
+	name="米哈伊尔"
+	# AKA: 米哈伊尔 'Khorobrit'
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472885
+	mother=125149
+	1229.1.2={
+		birth="1229.1.2"
+	}
+	1248.1.2={
+		death="1248.1.2"
+	}
+}
+
+125205 = {
+	name="鲍里斯"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125204
+	1245.1.2={
+		birth="1245.1.2"
+	}
+	1263.1.2={
+		death="1263.1.2"
+	}
+}
+
+125206 = {
+	name="丹尼尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472885
+	mother=125149
+	1229.1.2={
+		birth="1229.1.2"
+	}
+	1256.1.2={
+		death="1256.1.2"
+	}
+}
+
+125207 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472885
+	mother=125149
+	1235.1.2={
+		birth="1235.1.2"
+	}
+	1255.1.2={
+		death="1255.1.2"
+	}
+}
+
+125208 = {
+	name="瓦西里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125207
+	1254.1.2={
+		birth="1254.1.2"
+	}
+	1310.1.2={
+		death="1310.1.2"
+	}
+}
+
+125209 = {
+	name="瓦西里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472885
+	mother=125149
+	trait="drunkard"
+	1241.1.2={
+		birth="1241.1.2"
+	}
+	1276.1.2={
+		death="1276.1.2"
+	}
+}
+
+125210 = {
+	name="瓦西里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472844
+	mother=472845
+	1240.1.2={
+		birth="1240.1.2"
+	}
+	1271.1.2={
+		death="1271.1.2"
+	}
+}
+
+125211 = {
+	name="季米特里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472844
+	mother=472845
+	1250.1.2={
+		birth="1250.1.2"
+	}
+	1294.1.2={
+		death="1294.1.2"
+	}
+}
+
+125212 = {
+	name="亚历山大"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125211
+	1270.1.2={
+		birth="1270.1.2"
+	}
+	1292.1.2={
+		death="1292.1.2"
+	}
+}
+
+125213 = {
+	name="伊凡"
+	# AKA: 伊凡 'Bolshoy'
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125211
+	1272.1.2={
+		birth="1272.1.2"
+	}
+	1299.1.2={
+	add_spouse=125173
+	}
+	1302.1.2={
+		death="1302.1.2"
+	}
+}
+
+125214 = {
+	name="伊凡"
+	# AKA: 伊凡 'Menshoy'
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125211
+	1274.1.2={
+		birth="1274.1.2"
+	}
+	1290.1.2={
+		death="1290.1.2"
+	}
+}
+
+125215 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125211
+	1268.1.2={
+		birth="1268.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+125216 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472804
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1315.1.2={
+		death="1315.1.2"
+	}
+}
+
+125217 = {
+	name="尤里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472914
+	mother=125125
+	1251.1.2={
+		birth="1251.1.2"
+	}
+	1279.1.2={
+		death="1279.1.2"
+	}
+}
+
+125218 = {
+	name="斯维亚托斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472864
+	mother=472865
+	1257.1.2={
+		birth="1257.1.2"
+	}
+	1318.11.22={
+		death="1318.11.22"
+	}
+}
+
+125219 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222676
+	mother=222677
+	1143.1.2={
+		birth="1143.1.2"
+	}
+	1193.1.2={
+		death="1193.1.2"
+	}
+}
+
+125220 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222572
+	1165.1.2={
+		birth="1165.1.2"
+	}
+	1215.1.2={
+		death="1215.1.2"
+	}
+}
+
+125221 = {
+	name="泽尼娅"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472864
+	mother=472865
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1286.1.2={
+		death="1286.1.2"
+	}
+}
+
+125222 = {
+	name="亚历山大"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472804
+	1286.1.2={
+		birth="1286.1.2"
+	}
+	1302.1.2={
+		death="1302.1.2"
+	}
+}
+
+125223 = {
+	name="尤里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125222
+	1302.1.2={
+		birth="1302.1.2"
+	}
+	1320.5.30={
+		death="1320.5.30"
+	}
+}
+
+125224 = {
+	name="康斯坦汀"
+	dynasty=11101
+	religion="orthodox"
+	culture="russian"
+	1095.1.2={
+		birth="1095.1.2"
+	}
+	1136.1.2={
+	capital="c_novgorod"
+	}
+	1147.1.2={
+		death="1147.1.2"
+	}
+}
+
+125225 = {
+	name="亚坤"
+	dynasty=11102
+	religion="orthodox"
+	culture="russian"
+	1110.1.2={
+		birth="1110.1.2"
+	}
+	1136.1.2={
+	capital="c_novgorod"
+	}
+	1170.1.2={
+		death="1170.1.2"
+	}
+}
+
+125226 = {
+	name="苏季拉"
+	dynasty=11103
+	religion="orthodox"
+	culture="russian"
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1136.1.2={
+	capital="c_novgorod"
+	}
+	1157.1.2={
+		death="1157.1.2"
+	}
+}
+
+125227 = {
+	name="涅扎塔"
+	dynasty=11104
+	religion="orthodox"
+	culture="russian"
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1136.1.2={
+	capital="c_novgorod"
+	}
+	1161.1.2={
+		death="1161.1.2"
+	}
+}
+
+125228 = {
+	name="扎哈里亚"
+	dynasty=11105
+	religion="orthodox"
+	culture="russian"
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1136.1.2={
+	capital="c_novgorod"
+	}
+	1167.1.2={
+		death="1167.1.2"
+	}
+}
+
+125229 = {
+	name="亚坤"
+	religion="orthodox"
+	culture="russian"
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1136.1.2={
+	capital="c_novgorod"
+	}
+	1168.1.2={
+		death="1168.1.2"
+	}
+}
+
+125230 = {
+	name="日罗斯拉夫"
+	dynasty=11103
+	religion="orthodox"
+	culture="russian"
+	father=125226
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1136.1.2={
+	capital="c_novgorod"
+	}
+	1175.1.2={
+		death="1175.1.2"
+	}
+}
+
+125231 = {
+	name="伊凡科"
+	dynasty=11105
+	religion="orthodox"
+	culture="russian"
+	father=125228
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1186.1.2={
+		death="1186.1.2"
+	}
+}
+
+125232 = {
+	name="扎维德"
+	dynasty=11106
+	religion="orthodox"
+	culture="russian"
+	1130.1.2={
+		birth="1130.1.2"
+	}
+	1136.1.2={
+	capital="c_novgorod"
+	}
+	1180.1.2={
+		death="1180.1.2"
+	}
+}
+
+125233 = {
+	name="米哈尔科"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	1155.1.2={
+		birth="1155.1.2"
+	}
+	1155.1.2={
+	capital="c_novgorod"
+	}
+	1205.1.2={
+		death="1205.1.2"
+	}
+}
+
+125234 = {
+	name="米罗什科"
+	dynasty=11108
+	religion="orthodox"
+	culture="russian"
+	1154.1.2={
+		birth="1154.1.2"
+	}
+	1154.1.2={
+	capital="c_novgorod"
+	}
+	1204.1.2={
+		death="1204.1.2"
+	}
+}
+
+125235 = {
+	name="季米特里"
+	dynasty=11108
+	religion="orthodox"
+	culture="russian"
+	father=125234
+	1170.1.2={
+		birth="1170.1.2"
+	}
+	1170.1.2={
+	capital="c_novgorod"
+	}
+	1220.1.2={
+		death="1220.1.2"
+	}
+}
+
+125236 = {
+	name="特韦尔季斯拉夫"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	father=125233
+	1175.1.2={
+		birth="1175.1.2"
+	}
+	1175.1.2={
+	capital="c_novgorod"
+	}
+	1225.1.2={
+		death="1225.1.2"
+	}
+}
+
+125237 = {
+	name="季米特里"
+	religion="orthodox"
+	culture="russian"
+	father=125229
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1150.1.2={
+	capital="c_novgorod"
+	}
+	1212.1.2={
+		death="1212.1.2"
+	}
+}
+
+125238 = {
+	name="尤里"
+	dynasty=11105
+	religion="orthodox"
+	culture="russian"
+	father=125231
+	1160.1.2={
+		birth="1160.1.2"
+	}
+	1160.1.2={
+	capital="c_novgorod"
+	}
+	1216.1.2={
+		death="1216.1.2"
+	}
+}
+
+125239 = {
+	name="西麦"
+	religion="orthodox"
+	culture="russian"
+	1160.1.2={
+		birth="1160.1.2"
+	}
+	1160.1.2={
+	capital="c_novgorod"
+	}
+	1219.7.2={
+		death="1219.7.2"
+	}
+}
+
+125240 = {
+	name="伊凡科"
+	religion="orthodox"
+	culture="russian"
+	father=125237
+	1170.1.2={
+		birth="1170.1.2"
+	}
+	1170.1.2={
+	capital="c_novgorod"
+	}
+	1229.1.2={
+		death="1229.1.2"
+	}
+}
+
+125241 = {
+	name="费奥多"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	father=125233
+	1175.1.2={
+		birth="1175.1.2"
+	}
+	1175.1.2={
+	capital="c_novgorod"
+	}
+	1225.1.2={
+		death="1225.1.2"
+	}
+}
+
+125242 = {
+	name="苏季米尔"
+	religion="orthodox"
+	culture="russian"
+	1175.1.2={
+		birth="1175.1.2"
+	}
+	1175.1.2={
+	capital="c_novgorod"
+	}
+	1226.1.2={
+		death="1226.1.2"
+	}
+}
+
+125243 = {
+	name="弗涅兹"
+	# AKA: 弗涅兹 Vodovik
+	religion="orthodox"
+	culture="russian"
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1180.1.2={
+	capital="c_novgorod"
+	}
+	1231.1.2={
+		death="1231.1.2"
+	}
+}
+
+125244 = {
+	name="斯捷潘"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	father=125236
+	1195.1.2={
+		birth="1195.1.2"
+	}
+	1195.1.2={
+	capital="c_novgorod"
+	}
+	1240.1.1 = {
+		capital="c_novgorod"
+	}
+	1243.1.2={
+		death="1243.1.2"
+	}
+}
+
+125245 = {
+	name="斯贝斯拉夫"
+	religion="orthodox"
+	culture="russian"
+	1200.1.2={
+		birth="1200.1.2"
+	}
+	1200.1.2={
+	capital="c_novgorod"
+	}
+	1250.1.2={
+		death="1250.1.2"
+	}
+}
+
+125246 = {
+	name="奥纳尼亚"
+	dynasty=11109
+	religion="orthodox"
+	culture="russian"
+	1200.1.2={
+		birth="1200.1.2"
+	}
+	1200.1.2={
+	capital="c_novgorod"
+	}
+	1258.1.2={
+		death="1258.1.2"
+	}
+}
+
+125247 = {
+	name="米哈尔科"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	father=125244
+	1215.1.2={
+		birth="1215.1.2"
+	}
+	1215.1.2={
+	capital="c_novgorod"
+	}
+	1258.1.2={
+		death="1258.1.2"
+	}
+}
+
+125248 = {
+	name="米哈伊尔"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	father=125241
+	1195.1.2={
+		birth="1195.1.2"
+	}
+	1195.1.2={
+	capital="c_novgorod"
+	}
+	1268.1.2={
+		death="1268.1.2"
+	}
+}
+
+125249 = {
+	name="帕沙"
+	dynasty=11109
+	religion="orthodox"
+	culture="russian"
+	father=125246
+	1220.1.2={
+		birth="1220.1.2"
+	}
+	1220.1.2={
+	capital="c_novgorod"
+	}
+	1274.1.2={
+		death="1274.1.2"
+	}
+}
+
+125250 = {
+	name="米哈伊尔"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	father=125247
+	1235.1.2={
+		birth="1235.1.2"
+	}
+	1235.1.2={
+	capital="c_novgorod"
+	}
+	1280.1.2={
+		death="1280.1.2"
+	}
+}
+
+125251 = {
+	name="西麦"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	father=125248
+	1225.1.2={
+		birth="1225.1.2"
+	}
+	1225.1.2={
+	capital="c_novgorod"
+	}
+	1287.1.2={
+		death="1287.1.2"
+	}
+}
+
+125252 = {
+	name="安德烈"
+	dynasty=11110
+	religion="orthodox"
+	culture="russian"
+	1250.1.2={
+		birth="1250.1.2"
+	}
+	1250.1.2={
+	capital="c_novgorod"
+	}
+	1316.1.2={
+		death="1316.1.2"
+	}
+}
+
+125253 = {
+	name="尤里"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	father=125247
+	1240.1.2={
+		birth="1240.1.2"
+	}
+	1240.1.2={
+	capital="c_novgorod"
+	}
+	1306.1.2={
+		death="1306.1.2"
+	}
+}
+
+125254 = {
+	name="西麦"
+	dynasty=11110
+	religion="orthodox"
+	culture="russian"
+	1255.1.2={
+		birth="1255.1.2"
+	}
+	1255.1.2={
+	capital="c_novgorod"
+	}
+	1317.1.2={
+		death="1317.1.2"
+	}
+}
+
+125255 = {
+	name="米哈伊尔"
+	dynasty=11109
+	religion="orthodox"
+	culture="russian"
+	father=125249
+	1250.1.2={
+		birth="1250.1.2"
+	}
+	1250.1.2={
+	capital="c_novgorod"
+	}
+	1312.1.2={
+		death="1312.1.2"
+	}
+}
+
+125256 = {
+	name="瓦尔福洛梅伊"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	father=125253
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1280.1.2={
+	capital="c_novgorod"
+	}
+	1342.1.2={
+		death="1342.1.2"
+	}
+}
+
+125257 = {
+	name="丹尼拉"
+	dynasty=1042648
+	religion="orthodox"
+	culture="russian"
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1290.1.2={
+	capital="c_novgorod"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+125258 = {
+	name="费奥多"
+	religion="orthodox"
+	culture="russian"
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1290.1.2={
+	capital="c_novgorod"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+125259 = {
+	name="马特韦伊"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	father=125256
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1300.1.2={
+	capital="c_novgorod"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+125260 = {
+	name="费奥多"
+	dynasty=1042648
+	religion="orthodox"
+	culture="russian"
+	father=125257
+	1310.1.2={
+		birth="1310.1.2"
+	}
+	1310.1.2={
+	capital="c_novgorod"
+	}
+	1360.1.2={
+		death="1360.1.2"
+	}
+}
+
+13501 = {
+	name="多布罗涅加 玛丽亚"
+	# AKA: 多布罗涅加 玛丽亚
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=608
+	1012.1.2={
+		birth="1012.1.2"
+	}
+	1087.1.2={
+		death="1087.1.2"
+	}
+}
+
+20416 = {
+	name="德米特里"
+	dynasty=100583
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="envious"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20419 = {
+	name="多马日尔"
+	dynasty=100408
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="proud"
+	trait="underhanded_rogue"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20420 = {
+	name="鲍里斯"
+	dynasty=100571
+	martial=4
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20421 = {
+	name="日罗斯拉夫"
+	dynasty=100572
+	martial=8
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="honest"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20423 = {
+	name="亚历山大里"
+	dynasty=100570
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="hunchback"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20424 = {
+	name="高尔基"
+	dynasty=100575
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="envious"
+	trait="zealous"
+	trait="underhanded_rogue"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20445 = {
+	name="多马斯拉夫"
+	dynasty=100414
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="greedy"
+	trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20446 = {
+	name="多马日尔"
+	dynasty=100413
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="russian"
+	trait="cynical"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20448 = {
+	name="多马斯拉夫"
+	dynasty=100551
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="greedy"
+	trait="proud"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20449 = {
+	name="奥列格"
+	dynasty=100417
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="russian"
+	trait="gluttonous"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20450 = {
+	name="费奥多尔"
+	dynasty=100587
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="honest"
+	trait="lisp"
+	trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20451 = {
+	name="西麦"
+	dynasty=100580
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="envious"
+	trait="clubfooted"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20453 = {
+	name="伊戈尔"
+	dynasty=100577
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="temperate"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20454 = {
+	name="奥列格"
+	dynasty=100581
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="just"
+	trait="envious"
+	trait="proud"
+	trait="honest"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20458 = {
+	name="尤里"
+	dynasty=100535
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="hunchback"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20459 = {
+	name="米洛斯拉夫"
+	dynasty=100549
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=4
+	religion="orthodox"
+	culture="russian"
+	trait="cynical"
+	trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20468 = {
+	name="特里丰"
+	dynasty=100418
+	martial=8
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="russian"
+	trait="deceitful"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20870 = {
+	name="阿尤布"
+	dynasty=101018
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="sunni"
+	culture="russian"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+218003 = {
+	name="阿列克西"
+	dynasty=100468
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="russian"
+	trait="wroth"
+	trait="greedy"
+	trait="amateurish_plotter"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+219012 = {
+	name="阿列克西"
+	dynasty=100505
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="wroth"
+	trait="honest"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+219532 = {
+	name="普列茨拉娃"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=652
+	1088.1.2={
+		birth="1088.1.2"
+	}
+	1145.1.2={
+		death="1145.1.2"
+	}
+}
+
+222020 = {
+	name="姆斯季斯拉夫"
+	dynasty=100410
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222021 = {
+	name="米哈伊尔"
+	dynasty=100393
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=4
+	religion="orthodox"
+	culture="russian"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222022 = {
+	name="阿列克谢"
+	dynasty=100394
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="russian"
+	trait="kind"
+	trait="ill"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222023 = {
+	name="科西马"
+	dynasty=100395
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="chaste"
+	trait="deceitful"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222024 = {
+	name="米哈伊尔"
+	dynasty=100396
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="patient"
+	trait="amateurish_plotter"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222025 = {
+	name="日罗斯拉夫"
+	dynasty=100397
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="orthodox"
+	culture="russian"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222026 = {
+	name="亚历山大ii"
+	dynasty=100398
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="harelip"
+	trait="amateurish_plotter"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222027 = {
+	name="格里高利"
+	dynasty=100399
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="slothful"
+	trait="cynical"
+	trait="underhanded_rogue"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222029 = {
+	name="斯捷潘"
+	dynasty=100403
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222030 = {
+	name="尤里"
+	dynasty=100409
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="orthodox"
+	culture="russian"
+	trait="wroth"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222031 = {
+	name="多马日尔"
+	dynasty=100412
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="russian"
+	trait="just"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222033 = {
+	name="姆斯季斯拉夫"
+	dynasty=100414
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="cynical"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222034 = {
+	name="费奥多尔"
+	dynasty=100415
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="lustful"
+	trait="patient"
+	trait="greedy"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+222500 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222502
+	mother=219525
+	1135.1.2={
+		birth="1135.1.2"
+	}
+	1135.1.2={
+	add_spouse = 222501
+	}
+	1187.10.1={
+		death="1187.10.1"
+	}
+}
+
+222501 = {
+	name="奥尔加"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222672
+	mother=222673
+	1135.1.2={
+		birth="1135.1.2"
+	}
+	1189.7.14={
+		death="1189.7.14"
+	}
+}
+
+222502 = {
+	name="弗拉基米尔"
+	# AKA: 弗拉基米尔ko
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=9128
+	1104.1.2={
+		birth="1104.1.2"
+	}
+	1117.1.2={
+	add_spouse=219525
+	}
+	1153.1.2={
+		death="1153.1.2"
+	}
+}
+
+222504 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="lustful"
+	trait="gluttonous"
+	trait="slothful"
+	father=222500
+	mother=222501
+	1151.1.4={
+		birth="1151.1.4"
+	}
+	1167.1.4={
+	add_spouse=222505
+	}
+	1199.1.4={
+		death="1199.1.4"
+	}
+}
+
+222505 = {
+	name="勃列苏娃"
+	# AKA: Bolyeslava
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222650
+	mother=222651
+	1151.1.2={
+		birth="1151.1.2"
+	}
+	1189.1.2={
+		death="1189.1.2"
+	}
+}
+
+222506 = {
+	name="奥列格"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="bastard"
+	father=222500
+	1162.1.2={
+		birth="1162.1.2"
+	}
+	1189.1.2={
+		death="1189.1.2"
+	}
+}
+
+222509 = {
+	name="维亚切斯拉娃"
+	# AKA: Vyacheslava
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222500
+	mother=222501
+	1155.1.2={
+		birth="1155.1.2"
+	}
+	1205.1.2={
+		death="1205.1.2"
+	}
+}
+
+222510 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222511
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1189.1.2={
+		death="1189.1.2"
+	}
+}
+
+222511 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222512
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1161.1.2={
+		death="1161.1.2"
+	}
+}
+
+222512 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=9128
+	1098.1.2={
+		birth="1098.1.2"
+	}
+	1129.1.2={
+		death="1129.1.2"
+	}
+}
+
+222520 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222522
+	mother=221514
+	1154.1.2={
+		birth="1154.1.2"
+	}
+	1178.1.2={
+	add_spouse=222521
+	}
+	1197.1.2={
+	remove_spouse=222521
+	}
+	1197.1.2={
+	add_spouse=125053
+	}
+	1205.6.19={
+		death="1205.6.19"
+	}
+}
+
+222521 = {
+	name="普列茨拉娃"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222579
+	mother=222581
+	1155.1.2={
+		birth="1155.1.2"
+	}
+	1205.1.2={
+		death="1205.1.2"
+	}
+}
+
+222522 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222525
+	mother=30201
+	1126.1.2={
+		birth="1126.1.2"
+	}
+	1153.1.2={
+	add_spouse=221514
+	}
+	1170.8.19={
+		death="1170.8.19"
+	}
+}
+
+222524 = {
+	name="弗谢沃洛德"
+	# AKA: 夫谢沃洛德
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222522
+	mother=221514
+	1155.1.2={
+		birth="1155.1.2"
+	}
+	1195.4.2={
+		death="1195.4.2"
+	}
+}
+
+222525 = {
+	name="伊贾斯拉夫"
+	# AKA: Izyaslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222575
+	1097.1.2={
+		birth="1097.1.2"
+	}
+	1125.1.2={
+	add_spouse=30201
+	}
+	1154.11.13={
+		death="1154.11.13"
+	}
+}
+
+222530 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	add_trait="bastard"
+	father=222522
+	1152.1.2={
+		birth="1152.1.2"
+	}
+	1183.1.2={
+		death="1183.1.2"
+	}
+}
+
+222531 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222522
+	mother=221514
+	1156.1.2={
+		birth="1156.1.2"
+	}
+	1173.1.2={
+		death="1173.1.2"
+	}
+}
+
+222540 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222542
+	mother=222543
+	1145.1.2={
+		birth="1145.1.2"
+	}
+	1207.1.2={
+		death="1207.1.2"
+	}
+}
+
+222542 = {
+	name="尤里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222544
+	mother=125902
+	1109.1.2={
+		birth="1109.1.2"
+	}
+	1144.1.2={
+		add_spouse = 222543
+	}
+	1168.1.2={
+		death="1168.1.2"
+	}
+}
+
+222543 = {
+	name="安娜"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222545
+	1099.1.2={
+		birth="1099.1.2"
+	}
+	1166.1.2={
+		death="1166.1.2"
+	}
+}
+
+222544 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=652
+	1072.1.2={
+		birth="1072.1.2"
+	}
+	1090.1.2={
+		add_spouse=98049
+	}
+	1108.1.2={
+		add_spouse=125902
+	}
+	1112.1.2={
+		add_spouse=125111
+	}
+	1123.5.2={
+		death="1123.5.2"
+	}
+}
+
+222545 = {
+	name="弗谢沃洛德"
+	# AKA: 夫谢沃洛德
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=668
+	1075.1.2={
+		birth="1075.1.2"
+	}
+	1116.1.2={
+	add_spouse=125105
+	}
+	1142.1.2={
+		death="1142.1.2"
+	}
+}
+
+222546 = {
+	name="普里比斯拉娃"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222544
+	mother=125111
+	1114.1.2={
+		birth="1114.1.2"
+	}
+	1156.1.2={
+		death="1156.1.2"
+	}
+}
+
+222550 = {
+	name="弗拉基米尔"
+	# AKA: 沃洛达尔
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222552
+	mother=222553
+	1177.1.2={
+		birth="1177.1.2"
+	}
+	1215.1.2={
+		death="1215.1.2"
+	}
+}
+
+222551 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222552
+	mother=222553
+	1178.1.2={
+		birth="1178.1.2"
+	}
+	1218.1.2={
+		death="1218.1.2"
+	}
+}
+
+222552 = {
+	name="夫谢斯拉夫"
+	# AKA: Vsyeslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222554
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1172.1.2={
+	add_spouse = 222553
+	}
+	1186.1.13={
+		death="1186.1.13"
+	}
+}
+
+222553 = {
+	name="奥尔加"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="martial_cleric"
+	father=222577
+	mother=222578
+	1156.1.2={
+		birth="1156.1.2"
+	}
+	1200.1.2={
+		death="1200.1.2"
+	}
+}
+
+222554 = {
+	name="瓦西里科"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=682
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1144.1.2={
+		death="1144.1.2"
+	}
+}
+
+222560 = {
+	name="瓦西里科"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222562
+	1165.1.2={
+		birth="1165.1.2"
+	}
+	1181.1.2={
+	add_spouse=125220
+	}
+	1221.1.2={
+		death="1221.1.2"
+	}
+}
+
+222562 = {
+	name="布里亚奇斯拉夫"
+	# AKA: Bryachislav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222554
+	1142.1.2={
+		birth="1142.1.2"
+	}
+	1190.1.2={
+		death="1190.1.2"
+	}
+}
+
+222570 = {
+	name="戴维"
+	# AKA: David
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222572
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1197.4.23={
+		death="1197.4.23"
+	}
+}
+
+222572 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222575
+	1108.1.2={
+		birth="1108.1.2"
+	}
+	1167.3.14={
+		death="1167.3.14"
+	}
+}
+
+222573 = {
+	name="耶夫罗辛亚"
+	# AKA: Yevfrosinia
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222576
+	1130.1.2={
+		birth="1130.1.2"
+	}
+	1186.1.2={
+		death="1186.1.2"
+	}
+}
+
+222574 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	father=666
+	mother=127
+	1076.6.1={
+		birth="1076.6.1"
+	}
+	1095.1.2={
+	add_spouse=222575
+	}
+	1122.2.1={
+	add_spouse=222576
+	}
+	1132.4.14={
+		death="1132.4.14"
+	}
+}
+
+222576 = {
+	name="柳巴娃"
+	female = yes
+	dynasty=511
+	religion="orthodox"
+	culture="russian"
+	father=9300
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1168.1.2={
+		death="1168.1.2"
+	}
+}
+
+222577 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222572
+	1138.1.2={
+		birth="1138.1.2"
+	}
+	1156.1.2={
+	add_spouse = 222578
+	}
+	1180.1.5={
+		death="1180.1.5"
+	}
+}
+
+222578 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222632
+	mother=222633
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1190.1.2={
+		death="1190.1.2"
+	}
+}
+
+222579 = {
+	name="卢芮克"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222572
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1156.1.2={
+	add_spouse = 222581
+	}
+	1214.1.2={
+		death="1214.1.2"
+	}
+}
+
+222581 = {
+	name="安娜"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222542
+	mother=222543
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1190.1.2={
+		death="1190.1.2"
+	}
+}
+
+222582 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	martial=8
+	religion="orthodox"
+	culture="russian"
+	trait="brave"
+	father=222572
+	1142.1.2={
+		birth="1142.1.2"
+	}
+	1176.1.2={
+	add_spouse=125144
+	}
+	1180.1.12={
+		death="1180.1.12"
+	}
+}
+
+222584 = {
+	name="伊贾斯拉夫"
+	# AKA: Izyaslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222570
+	1165.1.2={
+		birth="1165.1.2"
+	}
+	1188.1.2={
+		death="1188.1.2"
+	}
+}
+
+222585 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222570
+	1167.1.2={
+		birth="1167.1.2"
+	}
+	1189.1.2={
+		death="1189.1.2"
+	}
+}
+
+222586 = {
+	name="亚罗波尔克"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222577
+	mother=222578
+	1157.1.2={
+		birth="1157.1.2"
+	}
+	1200.1.2={
+		death="1200.1.2"
+	}
+}
+
+222587 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222579
+	mother=222581
+	1172.1.2={
+		birth="1172.1.2"
+	}
+	1196.1.2={
+	add_spouse=222691
+	}
+	1218.1.2={
+		death="1218.1.2"
+	}
+}
+
+222588 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222579
+	mother=222581
+	1159.1.2={
+		birth="1159.1.2"
+	}
+	1239.3.3={
+		death="1239.3.3"
+	}
+}
+
+222589 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222582
+	mother=125144
+	1176.1.2={
+		birth="1176.1.2"
+	}
+	1196.1.2={
+	add_spouse=125145
+	}
+	1228.1.2={
+		death="1228.1.2"
+	}
+}
+
+222590 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222592
+	1160.1.2={
+		birth="1160.1.2"
+	}
+	1210.1.2={
+		death="1210.1.2"
+	}
+}
+
+222592 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222576
+	1132.1.2={
+		birth="1132.1.2"
+	}
+	1171.5.30={
+		death="1171.5.30"
+	}
+}
+
+222593 = {
+	name="英格博格"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222575
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1181.1.2={
+		death="1181.1.2"
+	}
+}
+
+222594 = {
+	name="马尔夫里达"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222575
+	1101.1.2={
+		birth="1101.1.2"
+	}
+	1138.1.2={
+		death="1138.1.2"
+	}
+}
+
+222600 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222602
+	mother=222603
+	1139.1.2={
+		birth="1139.1.2"
+	}
+	1167.1.4={
+	add_spouse = 222601
+	}
+	1198.1.2={
+		death="1198.1.2"
+	}
+}
+
+222601 = {
+	name="耶夫罗辛亚"
+	# AKA: Eufrosinia
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	1151.1.4={
+		birth="1151.1.4"
+	}
+	1202.1.4={
+		death="1202.1.4"
+	}
+}
+
+222602 = {
+	name="弗谢沃洛德"
+	# AKA: 夫谢沃洛德
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=660
+	mother=125051
+	1084.1.2={
+		birth="1084.1.2"
+	}
+	1116.1.2={
+	add_spouse=222603
+	}
+	1146.8.1={
+		death="1146.8.1"
+	}
+}
+
+222603 = {
+	name="玛丽亚"
+	# AKA: Agafia
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222575
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1179.1.2={
+		death="1179.1.2"
+	}
+}
+
+222606 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222600
+	mother=222601
+	1174.6.24={
+		birth="1174.6.24"
+	}
+	1195.6.24={
+	add_spouse=222690
+	}
+	1215.1.2={
+		death="1215.1.2"
+	}
+}
+
+222607 = {
+	name="亚罗波尔克"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222600
+	mother=222601
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1220.1.2={
+		death="1220.1.2"
+	}
+}
+
+222610 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222577
+	mother=222578
+	1156.5.2={
+		birth="1156.5.2"
+	}
+	1223.6.2={
+		death="1223.6.2"
+	}
+}
+
+222620 = {
+	name="弗谢沃洛德"
+	# AKA: 夫谢沃洛德
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222622
+	mother=222623
+	1159.1.2={
+		birth="1159.1.2"
+	}
+	1176.1.2={
+	add_spouse=222621
+	}
+	1210.1.2={
+		death="1210.1.2"
+	}
+}
+
+222621 = {
+	name="马尔夫里达"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222542
+	mother=222543
+	1115.1.2={
+		birth="1115.1.2"
+	}
+	1137.1.2={
+		death="1137.1.2"
+	}
+}
+
+222622 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222525
+	mother=30201
+	1132.1.2={
+		birth="1132.1.2"
+	}
+	1157.1.2={
+	add_spouse=222623
+	}
+	1180.1.2={
+		death="1180.1.2"
+	}
+}
+
+222630 = {
+	name="伊戈尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222632
+	mother=222633
+	1151.4.2={
+		birth="1151.4.2"
+	}
+	1184.1.2={
+	add_spouse = 222631
+	}
+	1202.12.29={
+		death="1202.12.29"
+	}
+}
+
+222631 = {
+	name="耶夫罗辛亚"
+	# AKA: Eufrosinia
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222500
+	mother=222501
+	1152.1.2={
+		birth="1152.1.2"
+	}
+	1202.1.2={
+		death="1202.1.2"
+	}
+}
+
+222632 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="arbitrary"
+	trait="charismatic_negotiator"
+	father=660
+	mother=125051
+	1097.1.2={
+		birth="1097.1.2"
+	}
+	1135.1.2={
+	add_spouse=222633
+	}
+	1164.2.15={
+		death="1164.2.15"
+	}
+}
+
+222635 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222630
+	1170.1.2={
+		birth="1170.1.2"
+	}
+	1187.1.2={
+	add_spouse=125400
+	}
+	1212.1.2={
+		death="1212.1.2"
+	}
+}
+
+222636 = {
+	name="奥列格"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222630
+	1175.1.2={
+		birth="1175.1.2"
+	}
+	1226.1.2={
+		death="1226.1.2"
+	}
+}
+
+222637 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222630
+	1178.1.2={
+		birth="1178.1.2"
+	}
+	1211.1.2={
+		death="1211.1.2"
+	}
+}
+
+222638 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222630
+	1177.1.2={
+		birth="1177.1.2"
+	}
+	1193.1.2={
+	add_spouse=125138
+	}
+	1211.1.2={
+		death="1211.1.2"
+	}
+}
+
+222639 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222630
+	1179.1.2={
+		birth="1179.1.2"
+	}
+	1211.1.2={
+		death="1211.1.2"
+	}
+}
+
+222640 = {
+	name="夫谢沃洛德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222632
+	mother=222633
+	1153.1.2={
+		birth="1153.1.2"
+	}
+	1170.1.2={
+	add_spouse=222641
+	}
+	1196.1.2={
+		death="1196.1.2"
+	}
+}
+
+222641 = {
+	name="奥尔加"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222702
+	mother=125163
+	1153.1.2={
+		birth="1153.1.2"
+	}
+	1203.1.2={
+		death="1203.1.2"
+	}
+}
+
+222650 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222602
+	mother=222603
+	1117.1.2={
+		birth="1117.1.2"
+	}
+	1143.1.2={
+	add_spouse=222651
+	}
+	1194.7.27={
+		death="1194.7.27"
+	}
+}
+
+222651 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222554
+	1125.1.2={
+		birth="1125.1.2"
+	}
+	1175.1.2={
+		death="1175.1.2"
+	}
+}
+
+222652 = {
+	name="弗谢沃洛德"
+	# AKA: 夫谢沃洛德
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222650
+	mother=222651
+	1144.1.2={
+		birth="1144.1.2"
+	}
+	1188.1.2={
+	add_spouse=221523
+	}
+	1215.1.2={
+		death="1215.1.2"
+	}
+}
+
+222654 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="zealous"
+	father=222652
+	mother=221523
+	1185.1.2={
+		birth="1185.1.2"
+	}
+	1211.1.2={
+	add_spouse=125104
+	}
+	1246.9.20={
+		death="1246.9.20"
+	}
+}
+
+222655 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222650
+	mother=222651
+	1155.1.2={
+		birth="1155.1.2"
+	}
+	1183.1.2={
+	add_spouse=222656
+	}
+	1217.1.2={
+		death="1217.1.2"
+	}
+}
+
+222656 = {
+	name="阿纳斯塔西娅"
+	# AKA: 奥尔加
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222579
+	mother=222581
+	1167.1.2={
+		birth="1167.1.2"
+	}
+	1219.1.2={
+		death="1219.1.2"
+	}
+}
+
+222657 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222655
+	mother=222656
+	1185.1.2={
+		birth="1185.1.2"
+	}
+	1239.1.2={
+		death="1239.1.2"
+	}
+}
+
+222658 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222650
+	mother=222651
+	1160.1.2={
+		birth="1160.1.2"
+	}
+	1181.1.2={
+	add_spouse=222659
+	}
+	1223.5.31={
+		death="1223.5.31"
+	}
+}
+
+222660 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222650
+	mother=222651
+	1151.1.2={
+		birth="1151.1.2"
+	}
+	1183.1.2={
+	add_spouse=222661
+	}
+	1201.1.2={
+		death="1201.1.2"
+	}
+}
+
+222661 = {
+	name="普列布拉娜"
+	# AKA: Elyena
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222682
+	mother=222683
+	1167.1.2={
+		birth="1167.1.2"
+	}
+	1220.1.2={
+		death="1220.1.2"
+	}
+}
+
+222670 = {
+	name="弗谢沃洛德"
+	# AKA: 夫谢沃洛德 'Bolshoe Gnesdo'
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="lustful"
+	trait="just"
+	trait="zealous"
+	father=222672
+	mother=222674
+	1154.1.2={
+		birth="1154.1.2"
+	}
+	1174.1.2={
+	add_spouse=222671
+	}
+	1209.1.2={
+	add_spouse=125009
+	}
+	1212.5.14={
+		death="1212.5.14"
+	}
+}
+
+222672 = {
+	name="尤里"
+	# AKA: Yuri
+	dynasty=705
+	martial=8
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="ambitious"
+	father=666
+	mother=127
+	1095.1.2={
+		birth="1095.1.2"
+	}
+	1108.1.2={
+	add_spouse=222673
+	}
+	1151.1.2={
+	add_spouse = 222674
+	}
+	1157.5.15={
+		death="1157.5.15"
+	}
+}
+
+222675 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222672
+	mother=222673
+	1109.1.2={
+		birth="1109.1.2"
+	}
+	1151.1.2={
+		death="1151.1.2"
+	}
+}
+
+222676 = {
+	name="安德烈"
+	dynasty=705
+	martial=8
+	religion="orthodox"
+	culture="russian"
+	trait="ambitious"
+	trait="zealous"
+	father=222672
+	mother=222673
+	1111.1.2={
+		birth="1111.1.2"
+	}
+	1140.1.2={
+	add_spouse = 222677
+	}
+	1174.6.29={
+		death="1174.6.29"
+	}
+}
+
+222677 = {
+	name="乌莉塔"
+	female = yes
+	dynasty=170
+	religion="orthodox"
+	culture="russian"
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1170.1.2={
+		death="1170.1.2"
+	}
+}
+
+222678 = {
+	name="鲍里斯"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222672
+	mother=222673
+	1115.1.2={
+		birth="1115.1.2"
+	}
+	1159.5.2={
+		death="1159.5.2"
+	}
+}
+
+222681 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222672
+	mother=222673
+	1133.1.2={
+		birth="1133.1.2"
+	}
+	1162.1.2={
+		death="1162.1.2"
+	}
+}
+
+222682 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222672
+	mother=222674
+	1151.1.2={
+		birth="1151.1.2"
+	}
+	1167.1.2={
+	add_spouse=222683
+	}
+	1176.6.20={
+		death="1176.6.20"
+	}
+}
+
+222683 = {
+	name="费夫罗尼娅"
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1200.1.2={
+		death="1200.1.2"
+	}
+}
+
+222686 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222670
+	mother=222671
+	1186.5.18={
+		birth="1186.5.18"
+	}
+	1206.5.18={
+	add_spouse=125169
+	}
+	1218.2.2={
+		death="1218.2.2"
+	}
+}
+
+222687 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	martial=7
+	religion="orthodox"
+	culture="russian"
+	father=222676
+	mother=222677
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1173.3.28={
+		death="1173.3.28"
+	}
+}
+
+222689 = {
+	name="斯贝斯拉娃"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222670
+	mother=222671
+	1178.10.27={
+		birth="1178.10.27"
+	}
+	1228.1.2={
+		death="1228.1.2"
+	}
+}
+
+222690 = {
+	name="弗谢斯拉娃"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222670
+	mother=222671
+	1179.1.2={
+		birth="1179.1.2"
+	}
+	1206.1.2={
+		death="1206.1.2"
+	}
+}
+
+222691 = {
+	name="韦尔胡斯拉娃"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222670
+	mother=222671
+	1181.1.2={
+		birth="1181.1.2"
+	}
+	1226.1.2={
+		death="1226.1.2"
+	}
+}
+
+222700 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="brave"
+	father=222702
+	mother=125163
+	1157.1.2={
+		birth="1157.1.2"
+	}
+	1183.1.2={
+	add_spouse=125164
+	}
+	1187.4.18={
+		death="1187.4.18"
+	}
+}
+
+222702 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222672
+	mother=222673
+	1114.1.2={
+		birth="1114.1.2"
+	}
+	1155.1.2={
+	add_spouse=125163
+	}
+	1171.1.20={
+		death="1171.1.20"
+	}
+}
+
+222710 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222681
+	1155.1.2={
+		birth="1155.1.2"
+	}
+	1199.1.2={
+		death="1199.1.2"
+	}
+}
+
+222720 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222722
+	1176.1.2={
+		birth="1176.1.2"
+	}
+	1190.1.2={
+		death="1190.1.2"
+	}
+}
+
+222722 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="proud"
+	trait="martial_cleric"
+	father=222675
+	1130.1.2={
+		birth="1130.1.2"
+	}
+	1178.4.20={
+		death="1178.4.20"
+	}
+}
+
+222730 = {
+	name="亚罗波尔克"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222675
+	1132.1.2={
+		birth="1132.1.2"
+	}
+	1194.1.2={
+	add_spouse=222551
+	}
+	1196.1.2={
+		death="1196.1.2"
+	}
+}
+
+222740 = {
+	name="伊戈尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222742
+	mother=125082
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1170.1.2={
+	add_spouse=222741
+	}
+	1195.1.2={
+		death="1195.1.2"
+	}
+}
+
+222741 = {
+	name="阿格拉费娜"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222572
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1200.1.2={
+		death="1200.1.2"
+	}
+}
+
+222742 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222744
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1141.1.2={
+	add_spouse=125082
+	}
+	1177.6.30={
+		death="1177.6.30"
+	}
+}
+
+222744 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=662
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1153.1.2={
+		death="1153.1.2"
+	}
+}
+
+222745 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222742
+	mother=125082
+	1145.1.2={
+		birth="1145.1.2"
+	}
+	1176.1.2={
+	add_spouse=125083
+	}
+	1216.1.2={
+		death="1216.1.2"
+	}
+}
+
+222746 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222742
+	mother=125082
+	1168.1.2={
+		birth="1168.1.2"
+	}
+	1199.1.2={
+	add_spouse=125139
+	}
+	1210.1.2={
+		death="1210.1.2"
+	}
+}
+
+222747 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222742
+	mother=125082
+	1155.1.2={
+		birth="1155.1.2"
+	}
+	1187.1.2={
+		death="1187.1.2"
+	}
+}
+
+222748 = {
+	name="弗谢沃洛德"
+	# AKA: 夫谢沃洛德
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222742
+	mother=125082
+	1160.1.2={
+		birth="1160.1.2"
+	}
+	1207.1.2={
+		death="1207.1.2"
+	}
+}
+
+222751 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222740
+	mother=222741
+	1178.1.2={
+		birth="1178.1.2"
+	}
+	1217.7.20={
+		death="1217.7.20"
+	}
+}
+
+222752 = {
+	name="英格瓦"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222740
+	mother=222741
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1235.1.2={
+		death="1235.1.2"
+	}
+}
+
+222753 = {
+	name="尤里"
+	# AKA: Yuri
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222740
+	mother=222741
+	1183.1.2={
+		birth="1183.1.2"
+	}
+	1237.12.27={
+		death="1237.12.27"
+	}
+}
+
+222754 = {
+	name="米哈伊尔"
+	# AKA: Kur
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222748
+	1186.1.2={
+		birth="1186.1.2"
+	}
+	1212.1.2={
+	add_spouse=125091
+	}
+	1217.1.2={
+		death="1217.1.2"
+	}
+}
+
+222755 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222747
+	1185.1.2={
+		birth="1185.1.2"
+	}
+	1219.1.2={
+		death="1219.1.2"
+	}
+}
+
+222757 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=662
+	1088.1.1={
+		birth="1088.1.1"
+	}
+	1145.1.1={
+		death="1145.1.1"
+	}
+}
+
+222760 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222742
+	mother=125082
+	1165.1.2={
+		birth="1165.1.2"
+	}
+	1213.1.2={
+		death="1213.1.2"
+	}
+}
+
+222770 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222772
+	1165.1.2={
+		birth="1165.1.2"
+	}
+	1205.1.2={
+		death="1205.1.2"
+	}
+}
+
+222772 = {
+	name="尤里"
+	# AKA: Yuri
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222774
+	1145.1.2={
+		birth="1145.1.2"
+	}
+	1176.1.19={
+		death="1176.1.19"
+	}
+}
+
+222774 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222757
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1162.1.2={
+		death="1162.1.2"
+	}
+}
+
+222775 = {
+	name="戴维"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222772
+	1170.1.2={
+		birth="1170.1.2"
+	}
+	1228.6.25={
+		death="1228.6.25"
+	}
+}
+
+222781 = {
+	name="斯贝斯拉娃"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=652
+	1080.1.2={
+		birth="1080.1.2"
+	}
+	1112.1.6={
+		death="1112.1.6"
+	}
+}
+
+222790 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222792
+	1141.1.2={
+		birth="1141.1.2"
+	}
+	1216.1.2={
+		death="1216.1.2"
+	}
+}
+
+222792 = {
+	name="沃洛达尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=672
+	mother=125095
+	1095.1.2={
+		birth="1095.1.2"
+	}
+	1137.1.2={
+		add_spouse=221511
+	}
+	1146.1.1={
+		remove_spouse=221511
+	}
+	1167.1.2={
+		death="1167.1.2"
+	}
+}
+
+222795 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=672
+	mother=125095
+	1090.1.2={
+		birth="1090.1.2"
+	}
+	1127.1.2={
+	add_spouse = 222796
+	}
+	1165.1.2={
+		death="1165.1.2"
+	}
+}
+
+222796 = {
+	name="索非亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222544
+	mother=125902
+	1111.1.2={
+		birth="1111.1.2"
+	}
+	1158.1.2={
+		death="1158.1.2"
+	}
+}
+
+222797 = {
+	name="索非亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222792
+	mother=221511
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1198.1.2={
+		death="1198.1.2"
+	}
+}
+
+222798 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222795
+	mother=222796
+	1135.1.2={
+		birth="1135.1.2"
+	}
+	1159.1.2={
+		death="1159.1.2"
+	}
+}
+
+222799 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222795
+	mother=222796
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1196.1.2={
+		death="1196.1.2"
+	}
+}
+
+222801 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222799
+	1170.1.2={
+		birth="1170.1.2"
+	}
+	1196.1.2={
+		death="1196.1.2"
+	}
+}
+
+222810 = {
+	name="瓦西里科"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222792
+	mother=221511
+	1142.1.2={
+		birth="1142.1.2"
+	}
+	1222.1.2={
+		death="1222.1.2"
+	}
+}
+
+222822 = {
+	name="弗谢沃洛德"
+	# AKA: 夫谢沃洛德
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222574
+	mother=222575
+	1096.1.2={
+		birth="1096.1.2"
+	}
+	1122.1.2={
+	add_spouse=125110
+	}
+	1138.2.11={
+		death="1138.2.11"
+	}
+}
+
+222823 = {
+	name="韦尔胡斯拉娃"
+	# AKA: Vierkuslava
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="just"
+	trait="charismatic_negotiator"
+	father=222822
+	mother=125110
+	1122.1.2={
+		birth="1122.1.2"
+	}
+	1167.3.15={
+		death="1167.3.15"
+	}
+}
+
+222824 = {
+	name="叶琳娜"
+	# AKA: Elena
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222572
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1200.1.2={
+		death="1200.1.2"
+	}
+}
+
+222826 = {
+	name="耶夫多基亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222525
+	mother=30201
+	1136.1.2={
+		birth="1136.1.2"
+	}
+	1186.1.2={
+		death="1186.1.2"
+	}
+}
+
+222828 = {
+	name="尤里"
+	# AKA: Yuri 'Bogolyubsky'
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="hedonist"
+	trait="lustful"
+	father=222676
+	mother=222677
+	1160.1.2={
+		birth="1160.1.2"
+	}
+	1185.1.2={
+		add_spouse=466517
+	}
+	1187.1.2={
+		remove_spouse=466517
+	}
+	1194.1.2={
+		death="1194.1.2"
+	}
+}
+
+40600 = {
+	name="耶夫普拉克西亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=626
+	mother=761
+	1060.1.2={
+		birth="1060.1.2"
+	}
+	1110.1.2={
+		death="1110.1.2"
+	}
+}
+
+40601 = {
+	name="普列茨拉娃"
+	# AKA: Predlava
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1097.1.2={
+		death="1097.1.2"
+	}
+}
+
+40602 = {
+	name="安娜"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="zealous"
+	father=630
+	mother=1727
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1112.11.2={
+		death="1112.11.2"
+	}
+}
+
+40603 = {
+	name="索非亚"
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1085.1.2={
+		death="1085.1.2"
+	}
+}
+
+40604 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=650
+	mother=40603
+	1070.1.2={
+		birth="1070.1.2"
+	}
+	1130.1.2={
+		death="1130.1.2"
+	}
+}
+
+41101 = {
+	name="阿加莎"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=608
+	1015.1.2={
+		birth="1015.1.2"
+	}
+	1093.1.2={
+		death="1093.1.2"
+	}
+}
+
+468830 = {
+	name="卡济缪兹"
+	dynasty=33
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="martial_cleric"
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1330.1.2={
+		death="1330.1.2"
+	}
+}
+
+468850 = {
+	name="尼古拉"
+	dynasty=32
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="slothful"
+	trait="humble"
+	trait="zealous"
+	trait="scholarly_theologian"
+	1285.1.2={
+		birth="1285.1.2"
+	}
+	1335.1.2={
+		death="1335.1.2"
+	}
+}
+
+471511 = {
+	name="尤里"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125116
+    mother=98037
+	1252.1.2={
+		birth="1252.1.2"
+	}
+	1276.1.2={
+		add_spouse=125221
+	}
+	1286.1.2={
+		add_spouse=125986
+	}
+	1308.4.24={
+		death="1308.4.24"
+	}
+}
+
+471512 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=471511
+	mother=125986
+	1287.1.2={
+		birth="1287.1.2"
+	}
+	1323.1.2={
+		death="1323.1.2"
+	}
+}
+
+471516 = {
+	name="玛丽亚"
+	# AKA: 玛丽亚 
+	female = yes
+	dynasty=705
+	religion="catholic"
+	culture="russian"
+	father=471511
+	1292.1.2={
+		birth="1292.1.2"
+	}
+	1341.1.2={
+		death="1341.1.2"
+	}
+}
+
+472000 = {
+	name="科西马"
+	dynasty=100404
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="orthodox"
+	culture="russian"
+	trait="underhanded_rogue"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472001 = {
+	name="拉多斯拉夫"
+	dynasty=100405
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="slothful"
+	trait="charitable"
+	trait="zealous"
+	trait="temperate"
+	trait="thrifty_clerk"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472002 = {
+	name="拉多斯拉夫"
+	dynasty=100406
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="orthodox"
+	culture="russian"
+	trait="chaste"
+	trait="slothful"
+	trait="charitable"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472003 = {
+	name="格奥尔基"
+	dynasty=100407
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="just"
+	trait="amateurish_plotter"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472101 = {
+	name="基斯拉夫"
+	dynasty=100544
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="cynical"
+	trait="inbred"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472102 = {
+	name="格列布"
+	dynasty=100546
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="patient"
+	trait="skilled_tactician"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472250 = {
+	name="米哈伊尔"
+	dynasty=100554
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="orthodox"
+	culture="russian"
+	trait="honest"
+	trait="scholarly_theologian"
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+472300 = {
+	name="姆斯季斯拉夫"
+	dynasty=100410
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="russian"
+	trait="underhanded_rogue"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472301 = {
+	name="尤里"
+	dynasty=100387
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="russian"
+	trait="honest"
+	trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472305 = {
+	name="格里高利"
+	dynasty=100393
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="wroth"
+	trait="honest"
+	trait="amateurish_plotter"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472306 = {
+	name="日罗斯拉夫"
+	dynasty=100394
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="just"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472307 = {
+	name="拉多斯拉夫"
+	dynasty=100395
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="just"
+	trait="inbred"
+	trait="amateurish_plotter"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472308 = {
+	name="弗拉基米尔"
+	dynasty=100396
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="charismatic_negotiator"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472309 = {
+	name="沃伊斯拉夫"
+	dynasty=100397
+	martial=8
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="patient"
+	trait="temperate"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472310 = {
+	name="费奥多尔"
+	dynasty=100398
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="honest"
+	trait="charismatic_negotiator"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472311 = {
+	name="亚罗波尔克"
+	dynasty=100399
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="russian"
+	trait="deceitful"
+	trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472312 = {
+	name="尤里"
+	dynasty=100403
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="arbitrary"
+	trait="brave"
+	trait="flamboyant_schemer"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472313 = {
+	name="特沃里米尔"
+	dynasty=100409
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="chaste"
+	trait="wroth"
+	trait="deceitful"
+	trait="fortune_builder"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472315 = {
+	name="沃伊斯拉夫"
+	dynasty=100412
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="charitable"
+	trait="envious"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472316 = {
+	name="伊凡"
+	dynasty=100414
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="orthodox"
+	culture="russian"
+	trait="flamboyant_schemer"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472317 = {
+	name="特沃里米尔"
+	dynasty=100415
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="amateurish_plotter"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472318 = {
+	name="沃伊斯拉夫"
+	dynasty=100402
+	martial=8
+	diplomacy=6
+	intrigue=8
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="cynical"
+	trait="hunchback"
+	trait="flamboyant_schemer"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472319 = {
+	name="基斯拉夫"
+	dynasty=100400
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	trait="just"
+	trait="patient"
+	trait="brave"
+	trait="underhanded_rogue"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472320 = {
+	name="格里高利"
+	dynasty=100401
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="amateurish_plotter"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472400 = {
+	name="斯维亚托波尔克"
+	dynasty=100567
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="russian"
+	trait="honest"
+	trait="skilled_tactician"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472450 = {
+	name="斯贝斯拉夫"
+	dynasty=100555
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="cynical"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+472500 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472502
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1359.1.2={
+		death="1359.1.2"
+	}
+}
+
+472502 = {
+	name="亚历山大"
+	# AKA: Aleksandr
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472504
+	1258.1.2={
+		birth="1258.1.2"
+	}
+	1313.1.2={
+		death="1313.1.2"
+	}
+}
+
+472504 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125154
+	1234.1.2={
+		birth="1234.1.2"
+	}
+	1278.1.2={
+		death="1278.1.2"
+	}
+}
+
+472505 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472504
+	1262.1.2={
+		birth="1262.1.2"
+	}
+	1305.1.2={
+		death="1305.1.2"
+	}
+}
+
+472506 = {
+	name="瓦西里"
+	# AKA: Vasilii
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472502
+	1291.1.2={
+		birth="1291.1.2"
+	}
+	1314.1.2={
+		death="1314.1.2"
+	}
+}
+
+472507 = {
+	name="季米特里"
+	# AKA: 德米特里
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472502
+	1295.1.2={
+		birth="1295.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+472508 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472500
+	1318.1.2={
+		birth="1318.1.2"
+	}
+	1386.1.2={
+		death="1386.1.2"
+	}
+}
+
+472509 = {
+	name="瓦西里"
+	# AKA: Vasilii
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472500
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1397.1.2={
+		death="1397.1.2"
+	}
+}
+
+472510 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472511
+	1295.1.2={
+		birth="1295.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+472511 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472504
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1310.1.2={
+		death="1310.1.2"
+	}
+}
+
+472514 = {
+	name="费奥多"
+	# AKA: 费奥多尔
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472511
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+472515 = {
+	name="季米特里"
+	# AKA: 德米特里
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472511
+	1305.1.2={
+		birth="1305.1.2"
+	}
+	1355.1.2={
+		death="1355.1.2"
+	}
+}
+
+472516 = {
+	name="亚历山大"
+	# AKA: Aleksandr
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472510
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1370.1.2={
+		death="1370.1.2"
+	}
+}
+
+472517 = {
+	name="耶夫普拉克西亚"
+	# AKA: Yevpraksia
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472514
+	1325.1.2={
+		birth="1325.1.2"
+	}
+	1375.1.2={
+		death="1375.1.2"
+	}
+}
+
+472518 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472515
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1380.1.2={
+		death="1380.1.2"
+	}
+}
+
+472520 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472522
+	1305.1.2={
+		birth="1305.1.2"
+	}
+	1343.1.2={
+		death="1343.1.2"
+	}
+}
+
+472522 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472524
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1327.1.2={
+		death="1327.1.2"
+	}
+}
+
+472524 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125087
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1299.1.2={
+		death="1299.1.2"
+	}
+}
+
+472625 = {
+	name="奥列格"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472520
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1402.1.2={
+		death="1402.1.2"
+	}
+}
+
+472630 = {
+	name="亚历山大"
+	# AKA: Aleksandr
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472632
+	1302.1.2={
+		birth="1302.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+472632 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472524
+	1285.1.2={
+		birth="1285.1.2"
+	}
+	1326.1.2={
+		death="1326.1.2"
+	}
+}
+
+472634 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472630
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1344.1.2={
+		death="1344.1.2"
+	}
+}
+
+472635 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472630
+	1322.1.2={
+		birth="1322.1.2"
+	}
+	1372.1.2={
+		death="1372.1.2"
+	}
+}
+
+472636 = {
+	name="瓦西里"
+	# AKA: Vasilii
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472630
+	1324.1.2={
+		birth="1324.1.2"
+	}
+	1374.1.2={
+		death="1374.1.2"
+	}
+}
+
+472640 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472792
+	1301.1.2={
+		birth="1301.1.2"
+	}
+	1362.1.2={
+		death="1362.1.2"
+	}
+}
+
+472780 = {
+	name="季米特里"
+	# AKA: Dmitri
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472782
+	1310.1.2={
+		birth="1310.1.2"
+	}
+	1360.1.2={
+		death="1360.1.2"
+	}
+}
+
+472782 = {
+	name="费奥多"
+	# AKA: 费奥多尔
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472784
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1330.1.2={
+		death="1330.1.2"
+	}
+}
+
+472784 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125061
+	1270.1.2={
+		birth="1270.1.2"
+	}
+	1315.1.2={
+		death="1315.1.2"
+	}
+}
+
+472785 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472782
+	1315.1.2={
+		birth="1315.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+472786 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472782
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1380.1.2={
+		death="1380.1.2"
+	}
+}
+
+472787 = {
+	name="西麦"
+	# AKA: Semyon
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472780
+	1335.1.2={
+		birth="1335.1.2"
+	}
+	1385.1.2={
+		death="1385.1.2"
+	}
+}
+
+472790 = {
+	name="瓦西里"
+	# AKA: Vasilii
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="ambitious"
+	trait="wroth"
+	father=472792
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1336.1.2={
+	add_spouse=472858
+	}
+	1345.1.2={
+		death="1345.1.2"
+	}
+}
+
+472792 = {
+	name="戴维"
+	# AKA: David
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472794
+	mother=472795
+	1281.1.2={
+		birth="1281.1.2"
+	}
+	1321.1.2={
+		death="1321.1.2"
+	}
+}
+
+472794 = {
+	name="费奥多"
+	# AKA: 费奥多尔
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="zealous"
+	father=125154
+	1238.1.2={
+		birth="1238.1.2"
+	}
+	1261.1.2={
+	add_spouse=125177
+	}
+	1282.1.2={
+	add_spouse=472795
+	}
+	1299.9.19={
+		death="1299.9.19"
+	}
+}
+
+472800 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472802
+	1312.1.2={
+		birth="1312.1.2"
+	}
+	1329.1.2={
+	add_spouse = 472801
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+472801 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472840
+	mother=472841
+	1313.1.2={
+		birth="1313.1.2"
+	}
+	1363.1.2={
+		death="1363.1.2"
+	}
+}
+
+472802 = {
+	name="瓦西里"
+	# AKA: Vasilii
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472804
+	1291.1.2={
+		birth="1291.1.2"
+	}
+	1316.1.2={
+		death="1316.1.2"
+	}
+}
+
+472804 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472814
+	1255.7.30={
+		birth="1255.7.30"
+	}
+	1307.1.2={
+		death="1307.1.2"
+	}
+}
+
+472806 = {
+	name="费奥多"
+	# AKA: 费奥多尔
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472802
+	1311.1.2={
+		birth="1311.1.2"
+	}
+	1327.1.2={
+	add_spouse=472807
+	}
+	1331.3.28={
+		death="1331.3.28"
+	}
+}
+
+472807 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=13
+	religion="orthodox"
+	culture="russian"
+	1311.1.2={
+		birth="1311.1.2"
+	}
+	1361.1.2={
+		death="1361.1.2"
+	}
+}
+
+472808 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472800
+	mother=472801
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+472809 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472800
+	mother=472801
+	1332.1.2={
+		birth="1332.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+472811 = {
+	name="瓦西里"
+	# AKA: Vasilii
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472800
+	mother=472801
+	1335.1.2={
+		birth="1335.1.2"
+	}
+	1375.1.2={
+		death="1375.1.2"
+	}
+}
+
+472812 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472806
+	mother=472807
+	1331.1.2={
+		birth="1331.1.2"
+	}
+	1409.1.2={
+		death="1409.1.2"
+	}
+}
+
+472813 = {
+	name="季米特里"
+	# AKA: 德米特里
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472814
+	mother=125171
+	1253.9.11={
+		birth="1253.9.11"
+	}
+	1294.1.2={
+		death="1294.1.2"
+	}
+}
+
+472814 = {
+	name="鲍里斯"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125170
+	mother=125064
+	1231.7.24={
+		birth="1231.7.24"
+	}
+	1253.7.24={
+	add_spouse=125171
+	}
+	1277.9.16={
+		death="1277.9.16"
+	}
+}
+
+472820 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472822
+	mother=472823
+	1282.1.2={
+		birth="1282.1.2"
+	}
+	1339.1.2={
+		death="1339.1.2"
+	}
+}
+
+472822 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472824
+	mother=472825
+	1263.1.2={
+		birth="1263.1.2"
+	}
+	1281.1.2={
+	add_spouse=472823
+	}
+	1293.1.4={
+		death="1293.1.4"
+	}
+}
+
+472823 = {
+	name="奥尔加"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472794
+	mother=125177
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+472824 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125170
+	mother=125064
+	1237.1.2={
+		birth="1237.1.2"
+	}
+	1257.1.2={
+	add_spouse=472825
+	}
+	1278.12.13={
+		death="1278.12.13"
+	}
+}
+
+472826 = {
+	name="费奥多"
+	# AKA: 费奥多尔
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472822
+	mother=472823
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1314.1.2={
+		death="1314.1.2"
+	}
+}
+
+472827 = {
+	name="费奥多"
+	# AKA: 费奥多尔
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472820
+	1315.1.2={
+		birth="1315.1.2"
+	}
+	1380.1.2={
+		death="1380.1.2"
+	}
+}
+
+472828 = {
+	name="瓦西里"
+	# AKA: Vasilii
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472820
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1370.1.2={
+		death="1370.1.2"
+	}
+}
+
+472830 = {
+	name="伊凡"
+	# AKA: 德米特里
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472832
+	1310.1.2={
+		birth="1310.1.2"
+	}
+	1360.1.2={
+		death="1360.1.2"
+	}
+}
+
+472832 = {
+	name="费奥多"
+	# AKA: 伊凡
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472834
+	mother=472835
+	1277.1.2={
+		birth="1277.1.2"
+	}
+	1334.1.2={
+		death="1334.1.2"
+	}
+}
+
+472834 = {
+	name="戴维"
+	# AKA: David
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125207
+	1252.1.2={
+		birth="1252.1.2"
+	}
+	1276.1.2={
+	add_spouse=472835
+	}
+	1280.1.2={
+		death="1280.1.2"
+	}
+}
+
+472835 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472794
+	mother=125177
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1300.1.2={
+		death="1300.1.2"
+	}
+}
+
+472840 = {
+	name="伊凡"
+	dynasty=705
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="midas_touched"
+	father=472843
+	1288.1.2={
+		birth="1288.1.2"
+	}
+	1306.1.1={
+	add_spouse = 472841
+	}
+	1332.1.1= {
+	add_spouse = 472842
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+472841 = {
+	name="叶琳娜"
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1331.1.2={
+		death="1331.1.2"
+	}
+}
+
+472842 = {
+	name="乌利亚纳"
+	# AKA: Yulyana
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+472843 = {
+	name="丹尼尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472844
+	mother=472845
+	1261.1.2={
+		birth="1261.1.2"
+	}
+	1303.3.4={
+		death="1303.3.4"
+	}
+}
+
+472844 = {
+	name="亚历山大"
+	# AKA: Aleksandr
+	dynasty=705
+	martial=9
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	father=472885
+	mother=125149
+	trait="brave"
+	trait="proud"
+	trait="cynical"
+	trait="diligent"
+	trait="brilliant_strategist"
+	1220.5.30={
+		birth="1220.5.30"
+	}
+	1239.1.2={
+	add_spouse=472845
+	}
+	1263.11.14={
+		death="1263.11.14"
+	}
+}
+
+472845 = {
+	name="亚历山卓"
+	# AKA: Aleksandra
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125010
+	1220.1.2={
+		birth="1220.1.2"
+	}
+	1270.1.2={
+		death="1270.1.2"
+	}
+}
+
+472846 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472844
+	mother=472845
+	1255.1.2={
+		birth="1255.1.2"
+	}
+	1294.1.2={
+	add_spouse=472847
+	}
+	1304.7.27={
+		death="1304.7.27"
+	}
+}
+
+472847 = {
+	name="瓦西里莎"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472813
+	1277.1.2={
+		birth="1277.1.2"
+	}
+	1327.1.2={
+		death="1327.1.2"
+	}
+}
+
+472848 = {
+	name="尤里"
+	# AKA: Yuri
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472843
+	1281.1.2={
+		birth="1281.1.2"
+	}
+	1306.1.2={
+	add_spouse=125216
+	}
+	1317.1.2={
+	add_spouse=125500
+	}
+	1325.11.21={
+		death="1325.11.21"
+	}
+}
+
+472849 = {
+	name="鲍里斯"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472843
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+472851 = {
+	name="西麦"
+	# AKA: Semyon
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="proud"
+	father=472840
+	mother=472841
+	1317.11.7={
+		birth="1317.11.7"
+	}
+	1334.1.2={
+	add_spouse = 472852
+	}
+	1353.1.2={
+		death="1353.1.2"
+	}
+}
+
+472853 = {
+	name="瓦西里"
+	# AKA: Vasilii
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472851
+	mother=472852
+	1336.1.2={
+		birth="1336.1.2"
+	}
+	1338.1.2={
+		death="1338.1.2"
+	}
+}
+
+472854 = {
+	name="丹尼尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472840
+	mother=472841
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1328.1.2={
+		death="1328.1.2"
+	}
+}
+
+472855 = {
+	name="伊凡"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="fair"
+	father=472840
+	mother=472841
+	1326.3.30={
+		birth="1326.3.30"
+	}
+	1359.1.31={
+		death="1359.1.31"
+	}
+}
+
+472856 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472840
+	mother=472841
+	1327.7.4={
+		birth="1327.7.4"
+	}
+	1353.1.5={
+		death="1353.1.5"
+	}
+}
+
+472858 = {
+	name="耶夫多基亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472840
+	mother=472841
+	1321.1.2={
+		birth="1321.1.2"
+	}
+	1342.1.2={
+		death="1342.1.2"
+	}
+}
+
+472859 = {
+	name="费奥多西娅"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472840
+	mother=472842
+	1331.1.2={
+		birth="1331.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+472860 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472862
+	mother=472863
+	1306.1.2={
+		birth="1306.1.2"
+	}
+	1322.1.2={
+	add_spouse=472861
+	}
+	1345.1.2={
+		death="1345.1.2"
+	}
+}
+
+472861 = {
+	name="索非亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472848
+	mother=125216
+	1306.1.2={
+		birth="1306.1.2"
+	}
+	1356.1.2={
+		death="1356.1.2"
+	}
+}
+
+472862 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472864
+	mother=472865
+	1271.1.2={
+		birth="1271.1.2"
+	}
+	1294.1.2={
+	add_spouse=472863
+	}
+	1318.11.22={
+		death="1318.11.22"
+	}
+}
+
+472863 = {
+	name="安娜"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472813
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1330.1.2={
+		death="1330.1.2"
+	}
+}
+
+472864 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472885
+	mother=125149
+	1230.1.2={
+		birth="1230.1.2"
+	}
+	1256.1.2={
+	add_spouse=472865
+	}
+	1271.9.16={
+		death="1271.9.16"
+	}
+}
+
+472865 = {
+	name="泽尼娅"
+	# AKA: Ksyenia
+	female = yes
+	dynasty=101802
+	religion="orthodox"
+	culture="russian"
+	1240.1.2={
+		birth="1240.1.2"
+	}
+	1313.1.2={
+		death="1313.1.2"
+	}
+}
+
+472866 = {
+	name="季米特里"
+	# AKA: 德米特里
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="wroth"
+	father=472862
+	mother=472863
+	1299.1.2={
+		birth="1299.1.2"
+	}
+	1321.1.2={
+	add_spouse=472867
+	}
+	1326.1.16={
+		death="1326.1.16"
+	}
+}
+
+472868 = {
+	name="亚历山大"
+	# AKA: Aleksandr
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472862
+	mother=472863
+	1301.1.2={
+		birth="1301.1.2"
+	}
+	1320.1.2={
+	add_spouse = 472869
+	}
+	1351.1.2={
+		death="1351.1.2"
+	}
+}
+
+472869 = {
+	name="阿纳斯塔西娅"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=471511
+	1301.1.2={
+		birth="1301.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+472871 = {
+	name="瓦西里"
+	# AKA: Vasilii
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472862
+	mother=472863
+	1304.1.2={
+		birth="1304.1.2"
+	}
+	1330.1.2={
+	add_spouse=472872
+	}
+	1368.1.2={
+		death="1368.1.2"
+	}
+}
+
+472872 = {
+	name="叶琳娜"
+	# AKA: Yelyena
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	1310.1.2={
+		birth="1310.1.2"
+	}
+	1360.1.2={
+		death="1360.1.2"
+	}
+}
+
+472873 = {
+	name="费奥多"
+	# AKA: 费奥多尔
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472868
+	mother=472869
+	1321.1.2={
+		birth="1321.1.2"
+	}
+	1339.1.2={
+		death="1339.1.2"
+	}
+}
+
+472874 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472868
+	mother=472869
+	1333.1.2={
+		birth="1333.1.2"
+	}
+	1399.1.2={
+		death="1399.1.2"
+	}
+}
+
+472875 = {
+	name="弗谢沃洛德"
+	# AKA: 夫谢沃洛德
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472868
+	mother=472869
+	1322.1.2={
+		birth="1322.1.2"
+	}
+	1364.1.2={
+		death="1364.1.2"
+	}
+}
+
+472876 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472868
+	mother=472869
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1364.1.2={
+		death="1364.1.2"
+	}
+}
+
+472877 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472868
+	mother=472869
+	1327.1.2={
+		birth="1327.1.2"
+	}
+	1364.1.2={
+		death="1364.1.2"
+	}
+}
+
+472878 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472868
+	mother=472869
+	1323.1.2={
+		birth="1323.1.2"
+	}
+	1399.1.2={
+		death="1399.1.2"
+	}
+}
+
+472879 = {
+	name="乌利亚纳"
+	# AKA: Yulyana
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472868
+	mother=472869
+	1325.1.2={
+		birth="1325.1.2"
+	}
+	1392.1.2={
+		death="1392.1.2"
+	}
+}
+
+472881 = {
+	name="西麦"
+	# AKA: Semyon
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472860
+	mother=472861
+	1325.1.2={
+		birth="1325.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+472882 = {
+	name="耶列梅伊"
+	# AKA: Eremei
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472860
+	mother=472861
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1372.1.2={
+		death="1372.1.2"
+	}
+}
+
+472883 = {
+	name="米哈伊尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472871
+	mother=472872
+	1331.1.2={
+		birth="1331.1.2"
+	}
+	1373.1.2={
+		death="1373.1.2"
+	}
+}
+
+472884 = {
+	name="瓦西里"
+	# AKA: Vasilii
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472871
+	mother=472872
+	1333.1.2={
+		birth="1333.1.2"
+	}
+	1363.1.2={
+		death="1363.1.2"
+	}
+}
+
+472885 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	martial=7
+	religion="orthodox"
+	culture="russian"
+	father=222670
+	mother=222671
+	1191.2.8={
+		birth="1191.2.8"
+	}
+	1216.1.2={
+	add_spouse=125149
+	}
+	1246.9.30={
+		death="1246.9.30"
+	}
+}
+
+472910 = {
+	name="康斯坦汀"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472912
+	mother=472913
+	1295.1.2={
+		birth="1295.1.2"
+	}
+	1320.1.2={
+	add_spouse=472911
+	}
+	1345.1.2={
+		death="1345.1.2"
+	}
+}
+
+472911 = {
+	name="叶琳娜"
+	# AKA: Elyena
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+472912 = {
+	name="瓦西里"
+	# AKA: Vasilii
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472914
+	mother=125125
+	1264.1.2={
+		birth="1264.1.2"
+	}
+	1286.1.2={
+	add_spouse=472913
+	}
+	1309.1.2={
+		death="1309.1.2"
+	}
+}
+
+472913 = {
+	name="叶琳娜"
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	1270.1.2={
+		birth="1260.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+472914 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472885
+	mother=125149
+	1221.1.2={
+		birth="1221.1.2"
+	}
+	1250.1.2={
+	add_spouse=125125
+	}
+	1264.1.2={
+		death="1264.1.2"
+	}
+}
+
+472916 = {
+	name="亚历山大"
+	# AKA: Aleksandr
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472912
+	mother=472913
+	1292.1.2={
+		birth="1292.1.2"
+	}
+	1331.1.2={
+		death="1331.1.2"
+	}
+}
+
+472917 = {
+	name="安德烈"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472910
+	mother=472911
+	1321.1.2={
+		birth="1321.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+472918 = {
+	name="季米特里"
+	# AKA: 德米特里
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=472910
+	mother=472911
+	1322.1.2={
+		birth="1322.1.2"
+	}
+	1383.1.2={
+		death="1383.1.2"
+	}
+}
+
+473502 = {
+	name="奥尔加"
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	1275.1.2={
+		birth="1275.1.2"
+	}
+	1344.1.2={
+		death="1344.1.2"
+	}
+}
+
+473511 = {
+	name="玛丽亚"
+	# AKA: Marija
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	1310.1.2={
+		birth="1310.1.2"
+	}
+	1360.1.2={
+		death="1360.1.2"
+	}
+}
+
+473512 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125016
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1346.1.2={
+		death="1346.1.2"
+	}
+}
+
+473516 = {
+	name="列夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=471511
+	mother=125986
+	1288.1.2={
+		birth="1288.1.2"
+	}
+	1306.1.2={
+		add_spouse=125157
+	}
+	1324.1.2={
+		death="1324.1.2"
+	}
+}
+
+473517 = {
+	name="伊菲米娅"
+	# AKA: Eufemia 
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=473516
+	mother=125157
+	1308.1.2={
+		birth="1308.1.2"
+	}
+	1349.1.2={
+		death="1349.1.2"
+	}
+}
+
+475400 = {
+	name="迪米特鲁"
+	dynasty=100512
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="russian"
+	trait="gluttonous"
+	trait="martial_cleric"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+475430 = {
+	name="戈伊斯拉夫"
+	dynasty=100545
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="russian"
+	trait="wroth"
+	trait="honest"
+	trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+601 = {
+	name="奥尔加"
+	female = yes
+	religion="orthodox"
+	culture="russian"
+	890.1.2={
+		birth="890.1.2"
+	}
+	969.1.2={
+		death="969.1.2"
+	}
+}
+
+602 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="norse_pagan"
+	culture="russian"
+	trait="tough_soldier"
+	father=600
+	mother=601
+	942.1.2={
+		birth="942.1.2"
+	}
+	957.1.2={
+	add_spouse=599
+	}
+	972.1.2={
+		death="972.1.2"
+	}
+}
+
+603 = {
+	name="马卢沙"
+	female = yes
+	religion="norse_pagan"
+	culture="russian"
+	944.1.2={
+		birth="944.1.2"
+	}
+	1015.1.2={
+		death="1015.1.2"
+	}
+}
+
+604 = {
+	name="亚罗波尔克"
+	dynasty=705
+	religion="norse_pagan"
+	culture="russian"
+	father=602
+	mother=599
+	958.1.2={
+		birth="958.1.2"
+	}
+	978.1.2={
+		death="978.1.2"
+	}
+}
+
+606 = {
+	name="奥列格"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=602
+	mother=599
+	959.1.2={
+		birth="959.1.2"
+	}
+	977.1.2={
+		death="977.1.2"
+	}
+}
+
+608 = {
+	name="弗拉基米尔"
+	dynasty=705
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="envious"
+	trait="zealous"
+	trait="bastard"
+	trait="skilled_tactician"
+	father=602
+	mother=603
+	960.1.2={
+		birth="960.1.2"
+	}
+	977.1.2={
+	add_spouse = 609
+	}
+	989.1.2={
+	remove_spouse = 609
+	}
+	989.1.2={
+	add_spouse = 41100
+	}
+	1015.7.15={
+		death="1015.7.15"
+	}
+}
+
+609 = {
+	name="罗格涅达"
+	# AKA: Ragnhild
+	female = yes
+	dynasty=703
+	religion="orthodox"
+	culture="russian"
+	960.1.2={
+		birth="960.1.2"
+	}
+	989.1.2={
+		death="989.1.2"
+	}
+}
+
+610 = {
+	name="斯维亚托波尔克"
+	# AKA: Svyatopolk
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="envious"
+	trait="wroth"
+	trait="kinslayer"
+	trait="misguided_warrior"
+	father=604
+	979.1.2={
+		birth="979.1.2"
+	}
+	1016.1.2={
+	add_claim = d_kiev
+	add_claim = c_kiev
+	add_claim = c_korsun
+	}
+	1019.1.2={
+		death="1019.1.2"
+	}
+}
+
+612 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="scholar"
+	trait="midas_touched"
+	father=608
+	mother=609
+	983.1.2={
+		birth="983.1.2"
+	}
+	1015.1.2={
+	add_claim = d_kiev
+	}
+	1019.1.2={
+	add_spouse = 100511
+	}
+	1054.2.20={
+		death="1054.2.20"
+	}
+}
+
+616 = {
+	name="伊贾斯拉夫"
+	# AKA: Izyaslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=608
+	mother=609
+	978.1.2={
+		birth="978.1.2"
+	}
+	1001.1.2={
+		death="1001.1.2"
+	}
+}
+
+618 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=608
+	983.1.2={
+		birth="983.1.2"
+	}
+	1020.1.2={
+	add_spouse=122502
+	}
+	1036.1.2={
+		death="1036.1.2"
+	}
+}
+
+620 = {
+	name="苏季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=608
+	987.1.2={
+		birth="987.1.2"
+	}
+	1063.1.2={
+		death="1063.1.2"
+	}
+}
+
+622 = {
+	name="维舍斯拉夫"
+	# AKA: Vycheslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=608
+	977.1.2={
+		birth="977.1.2"
+	}
+	1010.1.2={
+		death="1010.1.2"
+	}
+}
+
+624 = {
+	name="鲍里斯"
+	# AKA: St
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=608
+	986.1.2={
+		birth="986.1.2"
+	}
+	1015.7.24={
+		death="1015.7.24"
+	}
+}
+
+625 = {
+	name="格列布"
+	# AKA: St
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=608
+	987.1.2={
+		birth="987.1.2"
+	}
+	1015.9.9={
+		death="1015.9.9"
+	}
+}
+
+626 = {
+	name="伊贾斯拉夫"
+	# AKA: Izyaslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=612
+	mother=100511
+	1024.1.2={
+		birth="1024.1.2"
+	}
+	1045.1.2={
+	add_spouse = 761
+	}
+	1078.10.3={
+		death="1078.10.3"
+	}
+}
+
+627 = {
+	name="安娜"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=612
+	mother=100511
+	1032.1.2={
+		birth="1032.1.2"
+	}
+	1075.1.2={
+		death="1075.1.2"
+	}
+}
+
+628 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	diplomacy=8
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	father=612
+	mother=100511
+	1027.1.2={
+		birth="1027.1.2"
+	}
+	1045.1.2={
+	add_spouse=125044
+	}
+	1070.1.2={
+	add_spouse=1353
+	}
+	1076.12.27={
+		death="1076.12.27"
+	}
+}
+
+630 = {
+	name="弗谢沃洛德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="scholar"
+	father=612
+	mother=100511
+	1030.1.2={
+		birth="1030.1.2"
+	}
+	1046.1.2={
+	add_spouse=1727
+	}
+	1068.1.2={
+	add_spouse=125092
+	}
+	1093.4.13={
+		death="1093.4.13"
+	}
+}
+
+633 = {
+	name="耶利扎韦塔"
+	# AKA: Elizaveta
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=612
+	mother=100511
+	1025.1.2={
+		birth="1025.1.2"
+	}
+	1067.1.5={
+		death="1050.1.5"
+	}
+}
+
+634 = {
+	name="弗拉基米尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=612
+	mother=100511
+	1020.1.2={
+		birth="1020.1.2"
+	}
+	1052.10.4={
+		death="1052.10.4"
+	}
+}
+
+637 = {
+	name="阿纳斯塔西娅"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=612
+	mother=100511
+	1023.1.2={
+		birth="1023.1.2"
+	}
+	1074.1.2={
+		death="1074.1.2"
+	}
+}
+
+638 = {
+	name="伊戈尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=612
+	mother=100511
+	1037.1.2={
+		birth="1037.1.2"
+	}
+	1060.1.2={
+		death="1060.1.2"
+	}
+}
+
+642 = {
+	name="布里亚奇斯拉夫"
+	# AKA: Bryachislav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=616
+	997.1.2={
+		birth="997.1.2"
+	}
+	1044.1.2={
+		death="1044.1.2"
+	}
+}
+
+644 = {
+	name="耶夫斯塔菲"
+	# AKA: Yevstafyi
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=618
+	mother=122502
+	1021.1.2={
+		birth="1021.1.2"
+	}
+	1033.1.2={
+		death="1033.1.2"
+	}
+}
+
+650 = {
+	name="夫谢斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="cynical"
+	trait="skilled_tactician"
+	father=642
+	1030.1.2={
+		birth="1030.1.2"
+	}
+	1053.1.2={
+	add_spouse=40603
+	}
+	1101.4.14={
+		death="1101.4.14"
+	}
+}
+
+652 = {
+	name="斯维亚托波尔克"
+	# AKA: Svyatopolk
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="bastard"
+	father=626
+	1050.11.8={
+		birth="1050.11.8"
+	}
+	1113.4.16={
+		death="1113.4.16"
+	}
+}
+
+654 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=628
+	mother=125044
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1078.5.30={
+		death="1078.5.30"
+	}
+}
+
+656 = {
+	name="戴维"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=628
+	mother=125044
+	1050.1.2={
+		birth="1050.1.2"
+	}
+	1123.1.2={
+		death="1123.1.2"
+	}
+}
+
+658 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=628
+	mother=125044
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1079.8.2={
+		death="1079.8.2"
+	}
+}
+
+660 = {
+	name="奥列格"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="ambitious"
+	trait="cynical"
+	father=628
+	mother=125044
+	1053.1.2={
+		birth="1053.1.2"
+	}
+	1084.1.2={
+	add_spouse=125051
+	}
+	1115.8.1={
+		death="1115.8.1"
+	}
+}
+
+662 = {
+	name="雅罗斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=628
+	mother=1353
+	1071.1.2={
+		birth="1071.1.2"
+	}
+	1129.1.2={
+		death="1129.1.2"
+	}
+}
+
+666 = {
+	name="弗拉基米尔"
+	dynasty=705
+	martial=8
+	diplomacy=9
+	intrigue=6
+	stewardship=9
+	religion="orthodox"
+	culture="russian"
+	trait="genius"
+	father=630
+	mother=1727
+	1053.1.2={
+		birth="1053.1.2"
+	}
+	1074.1.2={
+		add_spouse=127
+	}
+	1125.5.19={
+		death="1125.5.19"
+	}
+}
+
+668 = {
+	name="戴维"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=638
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1113.7.27={
+		death="1113.7.27"
+	}
+}
+
+670 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=634
+	1038.1.2={
+		birth="1038.1.2"
+	}
+    1057.1.1={
+		add_spouse=41201
+    }
+	1067.2.3={
+		death="1067.2.3"
+	}
+}
+
+672 = {
+	name="格列布"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=650
+	mother=40603
+	1053.1.2={
+		birth="1053.1.2"
+	}
+	1090.1.2={
+	add_spouse=125095
+	}
+	1119.9.13={
+		death="1119.9.13"
+	}
+}
+
+674 = {
+	name="罗曼"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=650
+	mother=40603
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1116.1.2={
+		death="1116.1.2"
+	}
+}
+
+676 = {
+	name="戴维"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=650
+	mother=40603
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1129.1.1={
+		death="1129.1.1"
+	}
+}
+
+678 = {
+	name="布里亚奇斯拉夫"
+	# AKA: 鲍里斯
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=676
+	1080.1.2={
+		birth="1080.1.2"
+	}
+	1124.1.2={
+	add_spouse=125112
+	}
+	1135.1.2={
+		death="1135.1.2"
+	}
+}
+
+680 = {
+	name="罗格沃洛德"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=650
+	mother=40603
+	1066.1.2={
+		birth="1066.1.2"
+	}
+	1128.1.2={
+		death="1128.1.2"
+	}
+}
+
+682 = {
+	name="斯维亚托斯拉夫"
+	# AKA: Svyatoslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=650
+	mother=40603
+	1063.1.2={
+		birth="1063.1.2"
+	}
+	1129.1.2={
+		death="1129.1.2"
+	}
+}
+
+684 = {
+	name="亚罗波尔克"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=626
+	mother=761
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1075.1.1={
+		add_spouse=7061
+	}
+	1086.12.5={
+		death="1086.12.5"
+	}
+}
+
+686 = {
+	name="姆斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=626
+	mother=761	
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1062.1.2={
+		add_spouse=40601
+	}
+	1069.1.2={
+		death="1069.1.2"
+	}
+}
+
+90135 = {
+	name="维沙塔"
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="orthodox"
+	culture="russian"
+	trait="tough_soldier"
+	trait="wroth"
+	trait="brave"
+	1012.1.2={
+		birth="1012.1.2"
+	}
+	1062.1.2={
+		death="1062.1.2"
+	}
+}
+
+90136 = {
+	name="伊凡"
+	dynasty=20080
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="orthodox"
+	culture="russian"
+	trait="skilled_tactician"
+	trait="temperate"
+	trait="zealous"
+	father=90135
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1092.1.2={
+		death="1092.1.2"
+	}
+}
+
+90137 = {
+	name="普佳塔"
+	dynasty=20080
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=4
+	religion="orthodox"
+	culture="russian"
+	trait="skilled_tactician"
+	trait="deceitful"
+	trait="cynical"
+	father=90135
+	1050.1.2={
+		birth="1050.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+90138 = {
+	name="涅斯托"
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="orthodox"
+	culture="russian"
+	trait="martial_cleric"
+	trait="patient"
+	1056.1.2={
+		birth="1056.1.2"
+	}
+	1106.1.2={
+		death="1106.1.2"
+	}
+}
+
+90139 = {
+	name="安东尼乌斯"
+	dynasty=20081
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=9
+	religion="orthodox"
+	culture="russian"
+	trait="scholarly_theologian"
+	trait="zealous"
+	trait="humble"
+	983.1.2={
+		birth="983.1.2"
+	}
+	1033.1.2={
+		death="1033.1.2"
+	}
+}
+
+90140 = {
+	name="迪奥多修斯"
+	dynasty=20081
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=9
+	religion="orthodox"
+	culture="russian"
+	trait="scholarly_theologian"
+	trait="zealous"
+	trait="just"
+	trait="temperate"
+	1036.1.2={
+		birth="1036.1.2"
+	}
+	1086.1.2={
+		death="1086.1.2"
+	}
+}
+
+90141 = {
+	name="拉季博尔"
+	dynasty=100555
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="orthodox"
+	culture="russian"
+	trait="thrifty_clerk"
+	trait="deceitful"
+	1054.1.2={
+		birth="1054.1.2"
+	}
+	1104.1.2={
+		death="1104.1.2"
+	}
+}
+
+90145 = {
+	name="李安迪"
+	dynasty=100574
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="scholarly_theologian"
+	trait="patient"
+	1016.1.2={
+		birth="1016.1.2"
+	}
+	1066.1.2={
+		death="1066.1.2"
+	}
+}
+
+90146 = {
+	name="季卡"
+	dynasty=100574
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="baltic_pagan"
+	culture="russian"
+	trait="mastermind_theologian"
+	trait="wroth"
+	trait="deceitful"
+	trait="cynical"
+	1022.1.2={
+		birth="1022.1.2"
+	}
+	1072.1.2={
+		death="1072.1.2"
+	}
+}
+
+90147 = {
+	name="克鲁格列茨"
+	dynasty=100574
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="baltic_pagan"
+	culture="russian"
+	trait="martial_cleric"
+	father=90146
+	1056.1.2={
+		birth="1056.1.2"
+	}
+	1106.1.2={
+		death="1106.1.2"
+	}
+}
+
+90148 = {
+	name="阿卡迪"
+	dynasty=20082
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="orthodox"
+	culture="russian"
+	trait="detached_priest"
+	trait="zealous"
+	trait="possessed"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}
+
+9126 = {
+	name="卢芮克"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=670
+    mother=41201
+	1058.1.2={
+		birth="1058.1.2"
+	}
+	1092.1.2={
+		death="1092.1.2"
+	}
+}
+
+9128 = {
+	name="沃洛达尔"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=670
+    mother=41201
+	1060.1.2={
+		birth="1060.1.2"
+	}
+	1124.3.19={
+		death="1124.3.19"
+	}
+}
+
+9130 = {
+	name="瓦西里科"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=670
+    mother=41201
+	1066.1.2={
+		birth="1066.1.2"
+	}
+	1098.1.2={
+		give_nickname="nick_the_blind"
+		trait="blinded"
+	}
+	1124.1.2={
+		death="1124.1.2"
+	}
+}
+
+9132 = {
+	name="维亚切斯拉夫"
+	# AKA: Vyacheslav
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=612
+	mother=100511
+	1036.1.2={
+		birth="1036.1.2"
+	}
+	1057.1.2={
+		death="1057.1.2"
+	}
+}
+
+9134 = {
+	name="鲍里斯"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=9132
+	1054.1.2={
+		birth="1054.1.2"
+	}
+	1078.10.3={
+		death="1078.10.3"
+	}
+}
+
+9300 = {
+	name="季米特里"
+	# AKA: Dmitry
+	dynasty=511
+	religion="orthodox"
+	culture="russian"
+	1061.1.2={
+		birth="1061.1.2"
+	}
+	1111.1.2={
+		death="1111.1.2"
+	}
+}
+
+98015 = {
+	name="罗斯季斯拉夫"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222654
+	mother=125104
+	1227.1.2={
+		birth="1227.1.2"
+	}
+	1243.1.2={
+	add_spouse = 98012
+	}
+	1262.1.2={
+		death="1262.1.2"
+	}
+}
+
+98016 = {
+	name="昆妮昆妲"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=98015
+	mother=98012
+	1245.1.2={
+		birth="1245.1.2"
+	}
+	1285.9.9={
+		death="1285.9.9"
+	}
+}
+
+98018 = {
+	name="尤菲米亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=666
+	mother=127
+	1097.1.2={
+		birth="1097.1.2"
+	}
+	1139.4.4={
+		death="1139.4.4"
+	}
+}
+
+98022 = {
+	name="雅罗斯拉娃"
+	female = yes
+	dynasty=705
+	martial=2
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="russian"
+	father=222500
+	mother=222501
+	1154.1.2={
+		birth="1154.1.2"
+	}
+	1180.1.2={
+		death="1180.1.2"
+	}
+}
+
+96095 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=660
+	mother=125051
+	1097.1.2={
+		birth="1097.1.2"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+161257 = {
+	name="维泽拉瓦" # Daughter to Grand Prince Sviatoslav
+	female=yes
+	dynasty=705 # Rurikovich
+	religion="orthodox"
+	culture="russian"
+	father=628
+	mother=125044
+	1047.1.1 = {
+		birth="1047.1.1"
+	}
+	1099.1.1 = {
+		death="1099.1.1"
+	}
+}
+
+159718 = {
+	name="维亚切斯拉夫"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029167
+	father = 194138
+	830.1.1={
+		birth="830.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+159719 = {
+	name="伊奇亚斯拉夫"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029116
+	father=160050
+	835.1.1={
+		birth="835.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+159720 = {
+	name="伯格坦"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029117
+	trait = content
+	trait = craven
+	trait = cynical
+	father=160064
+	840.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+159721 = {
+	name="塔提米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	father = 194144
+	dynasty=1029138
+	822.1.1={
+		birth="822.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+82266 = {
+	name="波利斯拉夫"
+	dynasty=9125
+	father=82258
+	religion="slavic_pagan"
+	culture="russian"
+	trait="bastard"
+	824.1.1={
+		birth="824.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+
+
+}
+
+82267 = {
+	name="伯格坦"
+	dynasty=9125
+	father=82266
+	religion="slavic_pagan"
+	culture="russian"
+	846.1.1={
+		birth="846.1.1"
+	}
+	927.1.1={
+		death="927.1.1"
+	}
+
+
+}
+
+82268 = {
+	name="雅罗斯拉夫"
+	dynasty=9125
+	father=82267
+	religion="slavic_pagan"
+	culture="russian"
+	910.1.1={
+		birth="910.1.1"
+	}
+	977.1.2={
+		death="977.1.2"
+	}
+
+
+}
+
+82269 = {
+	name="布洛尼斯拉夫"
+	dynasty=9125
+	father=82266
+	religion="slavic_pagan"
+	culture="russian"
+	848.1.1={
+		birth="848.1.1"
+	}
+	929.1.1={
+		death="929.1.1"
+	}
+
+
+}
+
+82270 = {
+	name="弗拉迪米尔"
+	dynasty=9125
+	father=82269
+	religion="slavic_pagan"
+	culture="russian"
+	909.1.1={
+		birth="909.1.1"
+	}
+	977.1.2={
+		death="977.1.2"
+	}
+
+
+}
+
+
+82271 = {
+	name="季兹博尔"
+	dynasty=9125
+	father=82266
+	religion="slavic_pagan"
+	culture="russian"
+	850.1.1={
+		birth="850.1.1"
+	}
+	928.1.1={
+		death="928.1.1"
+	}
+
+
+}
+
+82272 = {
+	name="米罗斯拉夫"
+	dynasty=9125
+	father=82271
+	religion="slavic_pagan"
+	culture="russian"
+	911.1.1={
+		birth="911.1.1"
+	}
+	977.1.2={
+		death="977.1.2"
+	}
+}
+
+160049 = {
+	name="弗塞沃洛德"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029116
+	father = 194133
+	780.1.1={
+		birth="780.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+160050 = {
+	name="普迪米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029116
+	father=160049
+	810.1.1={
+		birth="810.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+160051 = {
+	name="拉迪戈斯特"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029116
+	father=160049
+	815.1.1={
+		birth="815.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+160052 = {
+	name="拉多斯拉夫"
+	dynasty=1029116
+	religion="slavic_pagan"
+	culture=russian
+	father=160051
+	trait=content
+	850.1.1={
+		birth=yes
+	}
+	899.1.1={
+		death=yes
+	}
+}
+160053 = {
+	name="萨莫夫拉德"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029116
+	father=160050
+	840.1.1={
+		birth="840.1.1"
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+160054 = {
+	name="普雷姆西尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029116
+	father=160050
+	850.1.1={
+		birth="850.1.1"
+	}
+	926.1.1={
+		death="926.1.1"
+	}
+}
+160055 = {
+	name="吕伯斯拉夫"
+	religion="slavic_pagan"
+	culture="ilmenian"
+	dynasty=1029136
+	father=160057
+	780.1.1={
+		birth="780.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+160056 = {
+	name="克拉希米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=160057
+	785.1.1={
+		birth="785.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+160057 = {
+	name="兹别涅夫"
+	religion="slavic_pagan"
+	culture="ilmenian"
+	dynasty=1029136
+	father = 194131
+	750.1.1={
+		birth="750.1.1"
+	}
+	812.1.1={
+		death = yes
+	}
+}
+160058 = {
+	name="萨莫夫拉德"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=160055
+	810.1.1={
+		birth="810.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+160059 = {
+	name="弗拉季斯拉夫"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029118
+	father=6834
+	850.1.1={
+		birth="850.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+160060 = {
+	name="德拉甘"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029118
+	father=6834
+	851.1.1={
+		birth="851.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+160061 = {
+	name="戈拉季米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029118
+	father=6834
+	852.1.1={
+		birth="852.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+160062 = {
+	name="格斯特维"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=160057
+	810.1.1={
+		birth="810.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+160063 = {
+	name="波杨"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029118
+	father = 194146
+	816.1.1={
+		birth="816.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+160064 = {
+	name="杜布洛米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029117
+	father = 194135
+	816.1.1={
+		birth="816.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+160089 = {
+	name="伊兹别内夫"#
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029138
+	father=6860
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160090 = {
+	name="克拉希米尔"#
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029138
+	father=6860
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160091 = {
+	name="拉季米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=6829
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160092 = {
+	name="拉多戈"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=6829
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160093 = {
+	name="斯维亚托戈"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=6831
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160094 = {
+	name="提霍米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=6831
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160095 = {
+	name="格多斯拉夫"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=6832
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160096 = {
+	name="维亚切斯拉夫"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=6832
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160097 = {
+	name="杜布洛弗拉德"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=6833
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160098 = {
+	name="兹洛斯拉夫"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=6833
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160099 = {
+	name="兹沃尼米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029137
+	father=6826
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160100 = {
+	name="维利米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029137
+	father=6826
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160101 = {
+	name="布莱切斯拉夫"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029117
+	father=159720
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160102 = {
+	name="温谢斯拉夫"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029117
+	father=159720
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160103 = {
+	name="雅罗斯拉夫"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029117
+	father=6825
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160104 = {
+	name="勃迪米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029117
+	father=6825
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160105 = {
+	name="穆拉丹"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029116
+	father=159719
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160106 = {
+	name="拉多米斯尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029116
+	father=159719
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160107 = {
+	name="斯维托韦德"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029116
+	father=6859
+	862.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160108 = {
+	name="普雷德拉格"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029116
+	father=6859
+	863.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160109 = {
+	name="斯维亚托戈"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=6835
+	851.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160110 = {
+	name="特维尔季米尔"
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029136
+	father=6835
+	852.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+160111 = {
+	name="梅奇斯拉夫"#
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029138
+	father=159721
+	850.1.1={
+		birth="850.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+160112 = {
+	name="克雷斯拉夫"#
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029138
+	father=159721
+	851.1.1={
+		birth="851.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+160113 = {
+	name="瓦迪姆"#
+	religion="slavic_pagan"
+	culture="russian"
+	dynasty=1029138
+	father=159721
+	852.1.1={
+		birth="852.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+
+160134 = {
+	name="拉多米尔"
+	religion="slavic_pagan"
+	culture=russian
+	dynasty=1029116
+	father=160049
+	810.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+160135 = {
+	name="斯坦尼斯拉夫"
+	religion="slavic_pagan"
+	culture=russian
+	dynasty=1029116
+	father=6869
+	857.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160136 = {
+	name="弗拉斯迪米尔"
+	religion="slavic_pagan"
+	culture=russian
+	dynasty=1029116
+	father=6869
+	858.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160137 = {
+	name="罗斯提斯拉夫"
+	religion="slavic_pagan"
+	culture=russian
+	dynasty=1029117
+	father=6868
+	862.1.1={
+		birth=yes
+	}
+	905.1.1={
+		death=yes
+	}
+}
+160138 = {
+	name="卡季米尔"
+	religion="slavic_pagan"
+	culture=russian
+	dynasty=1029117
+	father=6868
+	863.1.1={
+		birth=yes
+	}
+	905.1.1={
+		death=yes
+	}
+}
+160139 = {
+	name="维利米尔"
+	religion="slavic_pagan"
+	culture=russian
+	dynasty=1029137
+	father = 194141
+	810.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+160140 = {
+	name="斯维托斯拉夫"
+	religion="slavic_pagan"
+	culture=russian
+	dynasty=1029137
+	father=6870
+	857.1.1={
+		birth=yes
+	}
+	905.1.1={
+		death=yes
+	}
+}
+160141 = {
+	name="兹沃尼米尔"
+	religion="slavic_pagan"
+	culture=russian
+	dynasty=1029137
+	father=6870
+	858.1.1={
+		birth=yes
+	}
+	905.1.1={
+		death=yes
+	}
+}
+
+168530 = {
+	name="索菲亚" #real name unknown
+	female = yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	trait="bastard"
+	father=608
+	990.1.1={
+		birth=yes
+	}
+	1051.1.1={
+		death=yes
+	}
+}
+
+170087 = {
+	name="安娜斯塔西娅" #Anastasia Aleksandrovna
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=125130
+	mother=125141
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+170099 = {
+	name="伊阿洛波克"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222525
+	mother=30201
+	1137.1.2={
+		birth="1137.1.2"
+	}
+	1168.1.2={
+		add_spouse=170100
+	}
+	1170.3.7={
+		death="1168.3.7"
+	}
+}
+
+170100 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=222650
+	mother=222651
+	1152.1.2={
+		birth="1152.1.2"
+	}
+	1223.1.2={
+		death="1223.1.2"
+	}
+}
+
+170101 = {
+	name="瓦希尔科"
+	dynasty=705
+	religion="orthodox"
+	culture="russian"
+	father=170099
+	1153.1.2={
+		birth="1153.1.2"
+	}
+	1175.1.2={
+		add_spouse=170102
+	}	
+	1178.1.2={
+		death="1178.1.2"
+	}
+}
+194131 = {
+	name="維亞切斯拉夫"
+	religion="slavic_pagan"
+	culture="ilmenian"
+	dynasty=1029136
+	720.1.1={
+		birth = yes
+	}
+	760.1.1={
+		death = yes
+	}
+}
+194132 = {
+	name="罗季斯拉夫"
+	religion="slavic_pagan"
+	culture="ilmenian"
+	dynasty=1029136
+	father = 194131
+	743.1.1={
+		birth = yes
+	}
+	800.1.1={
+		death = yes
+	}
+}
+194133 = {
+	name="斯韦托扎尔"
+	religion="slavic_pagan"
+	culture="ilmenian"
+	dynasty=1029116
+	750.1.1={
+		birth = yes
+	}
+	799.1.1={
+		death = yes
+	}
+}
+194134 = {
+	name="伊戈尔"
+	religion="slavic_pagan"
+	culture="ilmenian"
+	dynasty=1029117
+	738.1.1={
+		birth = yes
+	}
+	799.1.1={
+		death = yes
+	}
+}
+194135 = {
+	name="伊戈尔"
+	religion="slavic_pagan"
+	culture="ilmenian"
+	dynasty=1029117
+	father = 194134
+	764.1.1={
+		birth = yes
+	}
+	822.1.1={
+		death = yes
+	}
+}
+194136 = {
+	name = "布里亚奇斯拉夫"
+	dynasty = 1029167
+	religion = slavic_pagan
+	culture = volhynian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194137 = {
+	name = "斯韦托扎尔"
+	dynasty = 1029167
+	religion = slavic_pagan
+	culture = volhynian
+	father = 194136
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194138 = {
+	name = "格列布"
+	dynasty = 1029167
+	religion = slavic_pagan
+	culture = russian
+	father = 194137
+	810.1.1 = {
+		birth = yes
+	}
+	890.1.1 = {
+		death = yes
+	}
+}
+194139 = {
+	name = "多布拉瓦"
+	female = yes
+	dynasty = 1045024
+	religion = slavic_pagan
+	culture = volhynian
+	750.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194140 = {
+	name = "斯坦尼斯拉夫"
+	dynasty = 1029137
+	religion = slavic_pagan
+	culture = severian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194141 = {
+	name = "伊戈尔"
+	dynasty = 1029137
+	religion = slavic_pagan
+	culture = severian
+	father = 194140
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194142 = {
+	name = "斯维亚托斯拉夫"
+	dynasty = 1029138
+	religion = slavic_pagan
+	culture = severian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194143 = {
+	name = "沃洛达里"
+	dynasty = 1029138
+	religion = slavic_pagan
+	culture = severian
+	father = 194140
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194144 = {
+	name = "斯韦托扎尔"
+	dynasty = 1029138
+	religion = slavic_pagan
+	culture = ilmenian
+	father = 194137
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194145 = {
+	name = "沃洛达里"
+	dynasty = 1029118
+	religion = slavic_pagan
+	culture = ilmenian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194146 = {
+	name = "伊利亚"
+	dynasty = 1029118
+	religion = slavic_pagan
+	culture = ilmenian
+	father = 194145
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194177 = {
+	name="伊万"
+	dynasty=11107
+	religion="orthodox"
+	culture="russian"
+	father=125244
+	1217.1.2={
+		birth = yes
+	}
+	1258.1.2={
+		death = yes
+	}
+}

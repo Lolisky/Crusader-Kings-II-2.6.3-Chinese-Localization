@@ -1,0 +1,1305 @@
+188062 = {
+    name="êAÒ®Ï¬Ù¤ÂÞ"
+	#name="Jayasekhara"
+    dynasty=1042068 #Capa
+    religion="hindu"
+    culture="gujurati"
+    trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+    700.1.1={
+        birth=yes
+    }
+    746.1.1={
+        death=yes
+    }
+}
+
+188063 = {
+    name="ÆÅÄÇÂÞÉÝ"
+	#name="Vanaraja"
+    dynasty=1042068 #Capa
+    religion="jain"
+    culture="gujurati"
+    father=188062
+    trait="kshatriya"
+    trait="svetambara_jain" # chosen randomly
+    720.1.1={
+        birth=yes
+    }
+    780.1.1={
+        death=yes
+    }
+}
+
+188064 = {
+    name="è¤Ù¤ÂÞê^"#"Yogaraja"
+    dynasty=1042068 #Capa
+    religion="hindu"
+    culture="gujurati"
+    father=188063
+    trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+    760.1.1={
+        birth=yes
+    }
+    786.1.1={
+        add_spouse=188065
+    }
+    820.1.1={
+        death=yes
+    }
+}
+
+188065 = {
+    name="¸¡ÒÁÙ¤"
+	#name="Bhuyika"
+    female=yes
+    religion="hindu"
+    culture="gujurati"
+    trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+    765.1.1={
+        birth=yes
+    }
+    820.1.1={
+        death=yes
+    }
+}
+
+188066 = {
+    name="ÂÞâòÄÇµÛâòÒ®"
+	#name="Ratnaditya"
+    dynasty=1042068 #Capa
+    religion="hindu"
+    culture="gujurati"
+    father=188064
+    mother=188065
+    trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+    790.1.1={
+        birth=yes
+    }
+    825.1.1={
+        death=yes
+    }
+}
+
+188067 = {
+    name="ÅþÀûÉ®Ú­"
+	#name="Vairisimha"
+    dynasty=1042068 #Capa
+    religion="hindu"
+    culture="gujurati"
+    father=188064
+    mother=188065
+    trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+    795.1.1={
+        birth=yes
+    }
+    835.1.1={
+        death=yes
+    }
+}
+
+188068 = {
+    name="Ù¤Ï¬Ä¦ÂÞÒ®"
+	#name="Ksemaraja"
+    dynasty=1042068 #Capa
+    religion="hindu"
+    culture="gujurati"
+    father=188064
+    mother=188065
+    trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+    800.1.1={
+        birth=yes
+    }
+    820.1.1={
+        add_spouse=188069
+    }
+    860.1.1={
+        death=yes
+    }
+}
+
+188069 = {
+    name="ÌáÂÞÄÇ"
+	#name="Delhana"
+    female=yes
+    religion="hindu"
+    culture="gujurati"
+    trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+    803.1.1={
+        birth=yes
+    }
+    868.1.1={
+        death=yes
+    }
+}
+
+188070 = {
+    name="°¢Ù¤ÍÓÌáÆÅ"
+	#name="Akadadeva"
+    dynasty=1042068 #Capa
+    religion="hindu"
+    culture="gujurati"
+    father=188068
+    mother=188069
+    trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+    832.6.3={
+        birth=yes
+    }
+    850.1.1={
+        add_spouse=188071
+    }
+    890.1.1={
+        death=yes
+    }
+}
+
+188071 = {
+    name="µÛæ¶ÂÞ"
+	#name="Desala"
+    female=yes
+    religion="hindu"
+    culture="gujurati"
+    trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+    834.1.1={
+        birth=yes
+    }
+    890.1.1={
+        death=yes
+    }
+}
+
+188072 = {
+    name="ÆÐÒ®ÍÓÌáÆÅ"
+	#name="Bhuyadadeva"
+    dynasty=1042068 #Capa
+    religion="hindu"
+    culture="gujurati"
+    father=188070
+    mother=188071
+    trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+    860.1.1={
+        birth=yes
+    }
+    920.1.1={
+        death=yes
+    }
+}
+
+188073 = {
+    name="ÆÐÆÅ¶àÌáÆÅ"
+	#name="Bhubhatadeva"
+    dynasty=1042068 #Capa
+    religion="hindu"
+    culture="gujurati"
+    father=188072
+    trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+    880.1.1={
+        birth=yes
+    }
+    942.1.1={
+        death=yes
+    }
+}
+
+188167 = {
+    name="°¢Éá" # ruler of Ashaval
+	#name="Asha"
+    dynasty=1042073 # Bhil
+    religion="hindu"
+    culture="gujurati"
+    trait="kshatriya"
+    trait="shaivist_hindu"
+    1025.1.1={
+        birth=yes
+    }
+    1068.1.1={
+        death=yes
+    }
+}
+
+188306 = {
+	name="ÂÞâòÄÇµÛâòÒ®" # made up
+	#name="Ratnaditya"
+    dynasty=1042068 #Capa
+	religion="hindu"
+	culture="gujurati"
+	father=188073
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	910.1.1={
+		birth=yes
+	}
+	970.1.1={
+		death=yes
+	}
+}
+
+188307 = {
+	name="ÅþÀûÉ®Ú­" # made up
+	#name="Vairisimha"
+    dynasty=1042068 #Capa
+	religion="hindu"
+	culture="gujurati"
+	father=188306
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	940.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+
+188308 = {
+	name="Ù¤Ï¬Ä¦" # made up
+	#name="Ksema"
+    dynasty=1042068 #Capa
+	religion="hindu"
+	culture="gujurati"
+	father=188307
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	970.1.1={
+		birth=yes
+	}
+	1030.1.1={
+		death=yes
+	}
+}
+
+188309 = {
+	name="ÆÐÒ®ÍÓ" # made up
+	#name="Bhuyada"
+    dynasty=1042068 #Capa
+	religion="hindu"
+	culture="gujurati"
+	father=188308
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	1000.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+
+188310 = {
+	name="ÂÞâòÄÇµÛâòÒ®" # made up
+	#name="Ratnaditya"
+    dynasty=1042068 #Capa
+	religion="hindu"
+	culture="gujurati"
+	father=188309
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	1030.1.1={
+		birth=yes
+	}
+	1085.1.1={
+		death=yes
+	}
+}
+
+188311 = {
+	name="ÆÐÒ®ÍÓ" # made up
+	#name="Bhuyada"
+    dynasty=1042068 #Capa
+	religion="hindu"
+	culture="gujurati"
+	father=188310
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	1060.1.1={
+		birth=yes
+	}
+	1105.1.1={
+		death=yes
+	}
+}
+
+188312 = {
+	name="è¤Ù¤" # made up
+	#name="Yoga"
+    dynasty=1042068 #Capa
+	religion="hindu"
+	culture="gujurati"
+	father=188311
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	1085.1.1={
+		birth=yes
+	}
+	1125.1.1={
+		death=yes
+	}
+}
+
+188313 = {
+	name="ÆÅ¹ÅÃï"
+	#name="Whagum"
+    dynasty=1042068 #Capa
+	religion="hindu"
+	culture="gujurati"
+	father=188312
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	1109.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+
+188314 = {
+	name="öÄÉáÂÞ" # fictitious
+	#name="Kaushal" 
+    dynasty=1042089 #Kathi
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	1030.1.1={
+		birth=yes
+	}
+	1080.1.1={
+		death=yes
+	}
+}
+
+188315 = {
+	name="ÍÓÅþÂÞ" # fictitious
+	#name="Dabir"
+    dynasty=1042089 #Kathi
+	religion="hindu"
+	culture="gujurati"
+	father=188314
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	1060.1.1={
+		birth=yes
+	}
+	1110.1.1={
+		death=yes
+	}
+}
+
+188316 = {
+	name="ÓÅÆÅÍÓÂÞ" # fictitious
+	#name="Ubdal"
+    dynasty=1042089 #Kathi
+	religion="hindu"
+	culture="gujurati"
+	father=188315
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	1090.1.1={
+		birth=yes
+	}
+	1140.1.1={
+		death=yes
+	}
+}
+
+188317 = {
+	name="Ä¦Ù¤âò" # fictitious
+	#name="Magath"
+    dynasty=1042089 #Kathi
+	religion="hindu"
+	culture="gujurati"
+	father=188316
+	trait="kshatriya"
+    trait="smartist_hindu" # chosen randomly
+	1110.1.1={
+		birth=yes
+	}
+	1147.1.1={
+		death=yes
+	}
+}
+188265 = {
+	name="¸»ÊªÒ®ÌáÆÅ"
+	#name="Pushyadeva"
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	700.1.1={
+		birth=yes
+	}
+	750.1.1={
+		death=yes
+	}
+}
+
+188266 = {
+	name="Ù¤ÀûÊªÄÇ"
+	#name="Krishna"
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	father=188265
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	724.1.1={
+		birth=yes
+	}
+	775.1.1={
+		death=yes
+	}
+}
+
+188267 = {
+	name="°¢¾ã¹ÅÙ¤"
+	#name="Agguka"
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	father=188266
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	740.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188268 = {
+	name="ÂÞÄÇÙ¤"
+	#name="Ranaka"
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	father=188267
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	766.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+188269 = {
+	name="Ù¤ÀûÊªÄÇ" # II
+	#name="Krishna"
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	father=188268
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	800.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+
+188270 = {
+	name="°¢¾ã¹ÅÙ¤" # II
+	#name="Agguka"
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	father=188269
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	825.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+188271 = {
+	name="êÈÙ¤" #I
+	#name="Jaika"
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	father=188268
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	809.1.1={
+		birth=yes
+	}
+	845.1.1={
+		death=yes
+	}
+}
+
+188272 = {
+	name="ì¹ÃÉÍÓ"
+	#name="Chamunda"
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	father=188271
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	830.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+188273 = {
+	name="°¢¾ã¹ÅÙ¤" # III
+	#name="Agguka"
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	father=188271
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	832.1.1={
+		birth=yes
+	}
+	874.1.1={
+		death=yes
+	}
+}
+
+188274 = {
+	name="ÂÞÄÇÙ¤" # II
+	#name="Ranaka"
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	father=188273
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	850.1.1={
+		birth=yes
+	}
+	886.1.1={
+		death=yes
+	}
+}
+
+188275 = {
+	name="°¢¾ã¹ÅÙ¤" # IV
+	#name="Agguka"
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	father=188272
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	855.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+188276 = {
+	name="êÈÙ¤" # II
+	#name="Jaika" 
+	dynasty=1042087 # Saindhava
+	religion="hindu"
+	culture="gujurati"
+	father=188272
+	trait="kshatriya"
+	trait="vaishnavist_hindu" # random
+	855.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+191643 = {
+	name="ÆÅ¶àÂÞÙ¤"
+	#name="Bhatarka"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	440.1.1={
+		birth=yes
+	}
+	493.1.1={
+		death=yes
+	}
+}
+191644 = {
+	name="ÍÓÂÞÏ¬ÄÇ"
+	#name="Dharasena"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191643
+	460.1.1={
+		birth=yes
+	}
+	502.1.1={
+		death=yes
+	}
+}
+191645 = {
+	name="ÍÓÂ¬ÄÇ´ÍÉ®Ú­"
+	#name="Dronasimha"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191643
+	462.1.1={
+		birth=yes
+	}
+	525.1.1={
+		death=yes
+	}
+}
+191646 = {
+	name="ÍÓÂ¥ÆÅÏ¬ÄÇ"
+	#name="Dhruvasena"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191643
+	464.1.1={
+		birth=yes
+	}
+	545.1.1={
+		death=yes
+	}
+}
+191647 = {
+	name="ÍÓÂÞ²¨âò¶à"
+	#name="Dharapatta"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191643
+	470.1.1={
+		birth=yes
+	}
+	556.1.1={
+		death=yes
+	}
+}
+191648 = {
+	name="¹ÅÚ­Ï¬ÄÇ"
+	#name="Guhasena"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191647
+	490.1.1={
+		birth=yes
+	}
+	571.1.1={
+		death=yes
+	}
+}
+191649 = {
+	name="ÍÓÂÞÏ¬ÄÇ"
+	#name="Dharasena"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191648
+	510.1.1={
+		birth=yes
+	}
+	595.1.1={
+		death=yes
+	}
+}
+191650 = {
+	name="Ï¬ÂÞÌáâòÒ®"
+	#name="Siladitya"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191649
+	530.1.1={
+		birth=yes
+	}
+	616.1.1={
+		death=yes
+	}
+}
+191651 = {
+	name="Ù¤ÂÞ¾ãÂÞÚ­"
+	#name="Kharagraha"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191649
+	535.1.1={
+		birth=yes
+	}
+	623.1.1={
+		death=yes
+	}
+}
+191652 = {
+	name="ÍÓÂÞÏ¬ÄÇ"
+	#name="Dharasena"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191651
+	555.1.1={
+		birth=yes
+	}
+	629.1.1={
+		death=yes
+	}
+}
+191653 = {
+	name="ÍÓÂ¥ÆÅÏ¬ÄÇ"
+	#name="Dhruvasena"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191651
+	575.1.1={
+		birth=yes
+	}
+	640.1.1={
+		death=yes
+	}
+}
+191654 = {
+	name="ÍÓÂÞÏ¬ÄÇ"
+	#name="Dharasena"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191653
+	595.1.1={
+		birth=yes
+	}
+	651.1.1={
+		death=yes
+	}
+}
+191655 = {
+	name="ÌáÂÞÆÅ¶à"
+	#name="Dherabata"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191650
+	560.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+191656 = {
+	name="ÍÓÂ¥ÆÅÏ¬ÄÇ"
+	#name="Dhruvasena"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191655
+	590.1.1={
+		birth=yes
+	}
+	653.1.1={
+		death=yes
+	}
+}
+191657 = {
+	name="Ù¤ÂÞ¾ãÂÞÚ­"
+	#name="Kharagraha"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191656
+	610.1.1={
+		birth=yes
+	}
+	662.1.1={
+		death=yes
+	}
+}
+191658 = {
+	name="Ï¬ÂÞÌáâòÒ®"
+	#name="Siladitya"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191656
+	611.1.1={
+		birth=yes
+	}
+	650.1.1={
+		death=yes
+	}
+}
+191659 = {
+	name="Ï¬ÂÞÌáâòÒ®" #II
+	#name="Siladitya"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191658
+	630.1.1={
+		birth=yes
+	}
+	691.1.1={
+		death=yes
+	}
+}
+191660 = {
+	name="Ï¬ÂÞÌáâòÒ®" #III
+	#name="Siladitya"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191659
+	650.1.1={
+		birth=yes
+	}
+	722.1.1={
+		death=yes
+	}
+}
+191661 = {
+	name="Ï¬ÂÞÌáâòÒ®" #IV
+	#name="Siladitya"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191660
+	670.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+191662 = {
+	name="Ï¬ÂÞÌáâòÒ®" #V
+	#name="Siladitya"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191661
+	690.1.1={
+		birth=yes
+	}
+	766.1.1={
+		death=yes
+	}
+}
+191663 = {
+	name="Ï¬ÂÞÌáâòÒ®" #VI
+	#name="Siladitya" 
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191662
+	710.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+191664 = {
+	name="Ä¦Ú­ÆÅÂÞÚ­"
+	#name="Mahavaraha"
+	dynasty=1044369	#Varaha
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	730.1.1={
+		birth=yes
+	}
+	750.1.1={
+		add_spouse=191671
+	}
+	780.1.1={
+		death=yes
+	}
+}
+191665 = {
+	name="êAÒ®ÆÅÂÞÚ­"
+	#name="Jayavaraha"
+	dynasty=1044369	#Varaha
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191664
+	mother=191671
+	751.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+191666 = {
+	name="ÅþÙ¤ÂÞÄ¦ÂÞÙ¤"
+	#name="Vikramarka"
+	dynasty=1044370	#Vardhamana Capa
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	780.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+191667 = {
+	name="°¢âòÍÓÙ¤"
+	#name="Addaka"
+	dynasty=1044370	#Vardhamana Capa
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191666
+	800.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+191668 = {
+	name="¸»ÂÞÒÕË¹"
+	#name="Pulakesi"
+	dynasty=1044370	#Vardhamana Capa
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191667
+	820.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+191669 = {
+	name="ÍÓÂ¬·¥ÆÅÍÓ"
+	#name="Dhruvabhata"
+	dynasty=1044370	#Vardhamana Capa
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191668
+	840.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+191670 = {
+	name="ÍÓÂÞÄáÆÅÂÞÚ­"
+	#name="Dharanivaraha"
+	dynasty=1044370	#Vardhamana Capa
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191668
+	865.1.1={
+		birth=yes
+	}
+	942.1.1={
+		death=yes
+	}
+}
+191671 = {
+	name="ÂÞæ¶ÂÞÌáË¹"	#Fictional wife of Mahavaraha
+	#name="Rasaladevi"
+	female=yes
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	732.8.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+191672 = {
+	name="ÆÅºîÙ¤ÍÓÆÅÂÞ"	#Fictional, real name is unkown
+	#name="Vahukadhavala"
+	dynasty=1044371	#Calukya
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	700.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+191673 = {
+	name="Ù¤ÂÞ"
+	#name="Kalla"
+	dynasty=1044371	#Calukya
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191672
+	720.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+191674 = {
+	name="Ä¦Ú­ÂÞ"
+	#name="Mahalla"
+	dynasty=1044371	#Calukya
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191672
+	725.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+191675 = {
+	name="ÆÅÂÞ°ÏÄ¦"	#Fictional, real name unkown
+	#name="Balavarman"
+	dynasty=1044371	#Calukya
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191674
+	745.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+191676 = {
+	name="ÆÅºîÙ¤ÍÓÆÅÂÞ"
+	#name="Vahukadhavala"
+	dynasty=1044371	#Calukya
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191675
+	765.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+191677 = {
+	name="°¢ÆÅÄá°ÏÄ¦"
+	#name="Avanivarman"
+	dynasty=1044371	#Calukya
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191676
+	795.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+191678 = {
+	name="ÆÅÂÞ°ÏÄ¦"
+	#name="Balavarman"
+	dynasty=1044371	#Calukya
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191677
+	820.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+191679 = {
+	name="°¢ÆÅÄá°ÏÄ¦"
+	#name="Avanivarman"
+	dynasty=1044371	#Calukya
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191678
+	840.1.1={
+		birth=yes
+	}
+	915.1.1={
+		death=yes
+	}
+}
+191680 = {
+	name="ÆÅÂÞ²¨"
+	#name="Barappa"
+	dynasty=1044372	#Later Chalukyas of Lata
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	920.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+191681 = {
+	name="‘xêÈÂÞê^"
+	#name="Gongiraja"
+	dynasty=1044372	#Later Chalukyas of Lata
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191680
+	960.1.1={
+		birth=yes
+	}
+	1050.1.1={
+		death=yes
+	}
+}
+191682 = {
+	name="ÆÅÂÞ²¨"	#Fictional, real rulers unkown
+	#name="Barappa"
+	dynasty=1044373	#Sankhyavat
+	religion="jain"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="digambara_jain"
+	750.1.1={
+		birth=yes
+	}
+	767.1.1={
+		add_spouse=191684
+	}
+	780.1.1={
+		death=yes
+	}
+}
+191683 = {
+	name="ÍÓÅþÂÞ"	#Fictional, real rulers unkown
+	#name="Dabir"
+	dynasty=1044373	#Sankhyavat
+	religion="jain"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="digambara_jain"
+	father=191682
+	mother=191684
+	768.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+191684 = {
+	name="Â¬ÍÓÂÞÄá"	#Fictional wife of Barappa Sankhyavat
+	#name="Rudrani"	
+	female=yes
+	religion="jain"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="digambara_jain"
+	751.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}

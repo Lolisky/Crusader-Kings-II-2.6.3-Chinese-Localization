@@ -1,0 +1,40 @@
+1187.1.1={
+	liege="e_hre"
+	holder=223597
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+1193.12.15={
+	holder=223596
+}
+1212.11.1={
+	holder=70658
+}
+1215.1.1={
+	holder=70661
+}
+1264.2.17={
+	holder=70669
+liege="0"
+}
+1293.2.20={
+	holder=70674
+}
+1308.1.31={
+	holder=70686
+}
+1308.10.1={
+	holder=70689
+}
+1310.1.1={
+	liege="k_papal_state"
+	law = succ_catholic_bishopric
+}
+1317.1.1={
+	liege="0"
+	holder=70700
+	law = succ_primogeniture
+}
+1335.12.31={
+	holder=70709
+}

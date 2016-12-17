@@ -1,0 +1,66 @@
+769.1.1 = {
+	holder = 194010
+}
+770.1.1 = {
+	holder = 0
+}
+863.1.1={
+	liege = "d_vastergotland"
+}
+863.1.1={
+	holder = 41258 # Hrane Gautske
+}
+1066.1.1={
+	liege = 0
+}
+1066.1.1=
+{
+	holder=20008
+}
+1089.1.1=
+{
+	holder=143138
+}
+1139.1.1=
+{
+	holder=143139
+}
+1187.1.1=
+{
+	liege="k_sweden"
+}
+1187.1.1=
+{
+	holder=200010
+}
+
+
+## Lilliehöök ancestors
+1200.1.1 = {
+	holder=194247
+}
+1210.1.1 = {
+	holder=194248
+}
+1250.1.1 = {
+	holder=194249
+}
+1290.1.1 = {
+	holder=194250
+}
+##
+
+
+1310.7.20=
+{
+	# The Peace at Helsingborg
+	liege = "d_vastergotland"
+	holder=450501 # Erik Magnusson
+}
+
+1318.2.16={
+	holder=450504 # King Birger
+}
+1320.1.1={
+	holder=450630
+}

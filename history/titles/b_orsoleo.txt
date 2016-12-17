@@ -1,0 +1,57 @@
+726.1.1={
+	holding_dynasty = 101562 # Orsoleo - makes this a FAMILY_PALACE type Holding
+	liege="d_venice"
+	holder=145910
+}
+737.1.1={
+	holder=145911
+}
+782.1.1={
+	holder=145912
+}
+797.1.1={
+	holder=145913
+}
+811.1.1={
+	liege="k_venice"
+}
+821.1.1={
+	holder=145914
+}
+844.1.1={
+	holder = 184060
+}
+910.1.1={
+	holder = 184062
+}
+912.1.1={
+	holder = 184056
+}
+920.1.1={
+	holder = 184064
+}
+940.1.1={
+	holder = 184066
+}
+960.1.1={
+	holder = 539
+}
+981.1.2={
+	holder = 537
+}
+1008.1.2={
+	holder = 496
+}
+1031.1.1={
+	holder = 543
+}
+1037.1.2={
+	holder = 542
+}
+1053.1.2={
+	holder = 184073
+}
+1060.1.1={
+	holder = 0
+	liege = 0
+}

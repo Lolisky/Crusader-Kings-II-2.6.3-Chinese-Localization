@@ -1,0 +1,76 @@
+735.1.1 = {
+	liege="k_france"
+	holder = 91471 #HILDEGAR, historical placeholder
+}
+853.1.1={
+	liege="d_anjou"
+	holder = 6440 #Robert le fort
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+866.7.2={
+	holder = 168061 #Ingelger
+}
+898.1.1={
+	holder = 1799 #Foulques I le Roux
+}
+942.1.1={
+	holder = 370 #Foulque II le Bon
+}
+958.11.11={
+	holder = 372 #Geoffroy I Grisegonelle
+}
+987.7.21={
+	holder = 374 #Foulque III Nerra
+}
+1040.6.21={
+	holder = 376 #Geoffroy II Martel
+}
+1060.1.1={
+	holder = 378 #Geoffroy III le Barbu
+}
+1068.1.1={
+	holder = 380 #Foulque IV le Réchin
+}
+1103.1.1={
+	holder = 183345 #Geoffroy IV Martel
+}
+1106.5.19={
+	holder = 380 #Foulque IV le Réchin (restored)
+}
+1109.4.14={
+	holder = 223525 #Foulque V le Jeune
+}
+1129.1.1={
+	holder = 204506 #Geoffroy V le Bel
+}
+1151.9.7={
+	holder=204500 #Henri I Courtmanteau
+}
+1183.1.1={
+	holder = 204510 #Richard I Cœur-de-Lion
+}
+1199.4.6={
+	holder = 204505 #Arthur I de Bretagne
+}
+1203.1.1 = {
+	holder=205506 # Philippe II Auguste
+}
+1223.7.14={
+	holder = 455402 #Louis VIII le Lion
+}
+1226.11.8={
+	holder = 455406 #Charles I
+}
+1285.1.7={
+	holder = 461710 #Charles II
+}
+1290.8.16={
+	holder = 455512 #Marguerite
+}
+1299.12.13={
+	holder = 455500 #Philippe
+}
+1328.4.1={
+	holder=455502 #Jean II
+}

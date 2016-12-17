@@ -1,0 +1,91 @@
+769.1.1={
+	holder = 144986 #Childebrand
+}
+769.1.1={
+	liege=d_burgundy
+}
+864.1.1={
+	liege = "k_aquitaine"
+	holder = 167924
+}
+865.1.1={
+	liege="k_burgundy"
+}
+867.1.4={
+	holder=167925
+}
+884.12.12={
+	liege = "k_france"
+}
+982.1.1 = {
+	liege="d_burgundy"
+	holder= 272 #Otte-Guillaume de Bourgogne
+}
+1002.1.1={
+	holder=274 #Guy I de Mâcon
+}
+1004.1.1={
+	holder=282 #Otton II de Macon
+}
+1049.1.1={
+	holder=284 #Geoffroy de Macon
+}
+1065.1.1={
+	holder=288 #Guy II de Mâcon
+}
+1078.1.1={
+	holder=280 #Guillaume I de Bourgogne
+}
+1085.1.1={
+	holder=290 #Renaud II de Bourgogne
+}
+1097.1.1={
+	holder = 91150 #Guillaume II de Bourgogne
+}
+1125.1.1={
+	holder = 91145 #Guillaume III de Bourgogne
+}
+1127.3.1={
+	holder=205704 #Guillaume III de Mâcon
+}
+1157.1.1={
+	holder=205701 #Géraud I de Mâcon
+}
+1184.1.1={
+	holder=205700 #Guillaume IV de Mâcon
+}
+1224.1.1={
+	holder=205703 #Gérard II de Mâcon
+}
+1224.6.1={
+	holder=91140 #Alix de Mâcon
+}
+
+1239.1.1={
+	liege="k_france"
+	holder = 455404 #Louis IX (saint Louis)
+}
+1270.8.25={
+	holder = 455528 # Philippe III le Hardi
+}
+1285.10.5={
+	holder = 455526 # Philippe IV le Bel
+}
+1314.11.29={
+	holder = 455836 # Louis V le Hutin
+}
+1316.6.5={ #in fact 1316.11.5 as a posthumus heir, but ck2 can't handle interregnum
+	holder= 70137 # Jean Ier le Posthume
+}
+1316.11.19={ #corrected from 1316.6.5
+	holder= 455509 # Philippe V le Long, son of Philippe IV le Bel
+}
+1322.1.3={
+	holder = 455414 # Charles IV le Bel
+}
+
+#House of Valois
+
+1328.2.1={
+	holder=455910
+}

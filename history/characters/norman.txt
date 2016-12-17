@@ -1,0 +1,8251 @@
+10000 = {
+	name="ÄÂÀöÒ®À­" #Muriella
+	female=yes
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="charismatic_negotiator"
+	990.1.2 = {
+		birth=yes
+	}
+	1019.1.2 = {
+		death=yes
+	}
+}
+
+10003 = {
+	name="°¢¶ûÝíÀ­´ï" #Alberada
+	female=yes
+	dynasty=102000
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="underhanded_rogue"
+	trait="patient"
+	1035.1.1 = {
+		birth=yes
+	}
+	1085.1.1 = {
+		death=yes
+	}
+}
+
+10008 = {
+	name="¸¥À³É£µÏæ«" #Fredesende
+	female=yes
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="elusive_shadow"
+	999.1.1 = {
+		birth=yes
+	}
+	1050.1.1 = {
+		death=yes
+	}
+}
+
+10015 = {
+	name="°¢÷ì¶û" #Adele
+	female=yes
+	dynasty=22002
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="greedy"
+	1000.1.1 = {
+		birth=yes
+	}
+	1040.2.1 = {
+		death=yes
+	}
+}
+
+10016 = {
+	name="ÍþÁ®" #William
+	dynasty=22001
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="brave"
+	trait="skilled_tactician"
+	father=20112
+	mother=10015
+	1039.1.1 = {
+		birth=yes
+	}
+	1064.1.1 = {
+		add_spouse=10017
+	}
+	1118.1.1 = {
+		death=yes
+	}
+}
+
+10018 = {
+	name="°¬¸ñÄáË¿" #Agnes
+	female=yes
+	dynasty=22001
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="lustful"
+	trait="just"
+	trait="flamboyant_schemer"
+	father=20112
+	mother=10015
+	1032.1.1 = {
+		birth="1032.1.1"
+	}
+	1082.1.1 = {
+		death="1082.1.1"
+	}
+}
+
+10020 = {
+	name="¸èµÂÏ£¶ûµÂ" #Godechilde
+	female=yes
+	dynasty=22001
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="chaste"
+	trait="flamboyant_schemer"
+	father=20112
+	mother=10015
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+10021 = {
+	name="À­µÀ·ò" #Radulf
+	dynasty=752
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="skilled_tactician"
+	father=260
+	1000.1.1 = {
+		birth="1000.1.1"
+	}
+	1050.1.1 = {
+		death="1050.1.1"
+	}
+}
+
+110635 = {
+	name="ÂÞ½Ü" #Roger
+	# AKA: Roger 'd'Espagne'
+	dynasty=385
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="charitable"
+	trait="skilled_tactician"
+	990.1.1 = {
+		birth="990.1.1"
+	}
+	1020.1.1 = {
+		add_spouse=110541
+	}
+	1040.1.1 = {
+		death="1040.1.1"
+	}
+}
+
+110637 = {
+	name="À­ÎÚ¶û" #Raoul
+	dynasty=385
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="charitable"
+	trait="proud"
+	trait="tough_soldier"
+	father=110635
+	1038.1.1 = {
+		birth="1038.1.1"
+	}
+	1066.1.1 = {
+	employer=41226
+	}
+	1074.1.1 = {
+		add_spouse=41223
+	}
+	1102.3.24 = {
+		death="1102.3.24"
+	}
+}
+
+110638 = {
+	name="ÂÞ²®ÌØ" #Robert #de Toeni de Stafford
+	dynasty=25063
+	religion="catholic"
+	culture="norman"
+	father=110635
+	1031.1.1 = {
+		birth="1031.1.1"
+	}
+	#wife probably not Avice de Clare
+	1066.1.1 = {
+		employer=41226
+	}
+	1088.1.1 = {
+		death="1088.1.1"
+	}
+}
+
+110639 = {
+	name="°¢µÂÀ³Ë¿" #Adelis
+	# AKA: Adelise
+	female=yes
+	dynasty=385
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="proud"
+	trait="gluttonous"
+	trait="charismatic_negotiator"
+	father=110635
+	mother=110541
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1085.10.6 = {
+		death="1085.10.6"
+	}
+}
+
+1120 = {
+	name="µ¤¿ËÀ×µÂ" #Tancred
+	dynasty=678
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="brave"
+	trait="thrifty_clerk"
+	980.1.1 = {
+		birth="980.1.1"
+	}
+	1003.1.1 = {
+		add_spouse=10000
+	}
+	1021.1.1 = {
+		add_spouse=10008
+	}
+	1041.1.1 = {
+		death="1041.1.1"
+	}
+}
+
+1121 = {
+	name="ÂêµÙ¶û´ï" #Matilda
+	female=yes
+	dynasty=678
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="greedy"
+	trait="cynical"
+	trait="intricate_webweaver"
+	father=1128
+	mother=1123
+	1059.1.2 = {
+		birth="1059.1.2"
+	}
+	1109.1.2 = {
+		death="1109.1.2"
+	}
+}
+
+1122 = {
+	name="ÍþÁ®" #William
+	# AKA: William 'Bras
+	dynasty=678
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	trait="envious"
+	father=1120
+	mother=10000
+	1011.1.1 = {
+		birth="1011.1.1"
+	}
+	1046.1.1={
+		add_spouse=200324
+	}
+	1046.7.1 = {
+		death="1046.7.1"
+	}
+}
+
+1124 = {
+	name="µÂÂÞ¸ê" #Drogo
+	dynasty=678
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	father=1120
+	mother=10000
+	1011.1.2 = {
+		birth="1011.1.2"
+	}
+	1048.1.2 = {
+		add_spouse=1129
+	}
+	1051.8.10 = {
+		death="1051.8.10"
+	}
+}
+
+1125 = {
+	name="ÈûÂå" #Serlo
+	dynasty=678
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	father=1120
+	mother=10000
+	1005.1.2 = {
+		birth="1005.1.2"
+	}
+	1060.1.2 = {
+		death="1060.1.2"
+	}
+}
+
+1126 = {
+	name="ºº¸¥À³" #Humphrey
+	dynasty=678
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=1120
+	mother=10000
+	1015.1.2 = {
+		birth="1015.1.2"
+	}
+	1057.1.1 = {
+		death="1057.1.1"
+	}
+}
+
+1127 = {
+	name="ÈûÂå" #Serlo
+	dynasty=678
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="skilled_tactician"
+	father=1125
+	1044.1.2 = {
+		birth="1044.1.2"
+	}
+	1094.1.2 = {
+		death="1094.1.2"
+	}
+}
+
+1128 = {
+	name="ÂÞ²®ÌØ" #Robert #Guiscard
+	# AKA: Robert 'Guiscard'
+	dynasty=678
+	properties="ch00e0"
+	martial=9
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="deceitful"
+	trait="envious"
+	trait="patient"
+	trait="brilliant_strategist"
+	father=1120
+	mother=10008
+	1015.1.1 = {
+		birth="1015.1.1"
+	}
+	1051.1.1 = {
+		add_spouse=10003
+	}
+	1057.1.1 = {
+		remove_spouse=10003
+	}
+	1058.1.1 = {
+		add_spouse=1123
+	}
+	1085.7.17 = {
+		death="1085.7.17"
+	}
+}
+
+1130 = {
+	name="ÍþÁ®" #William
+	# AKA: William 'Sanicandro'
+	dynasty=678
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="martial_cleric"
+	father=1120
+	mother=10008
+	1022.1.2 = {
+		birth="1022.1.2"
+	}
+	1049.1.2 = {
+		add_spouse=1137
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+1132 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=678
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	trait="just"
+	trait="patient"
+	trait="brilliant_strategist"
+	father=1120
+	mother=10008
+	1031.1.2 = {
+		birth="1031.1.2"
+	}
+	1061.1.2 = {
+		add_spouse=10014
+	}
+	1101.6.22 = {
+		death="1101.6.22"
+	}
+}
+
+1133 = {
+	name="ÂêµÙ¶ûµÂ" #Mathilde
+	female=yes
+	dynasty=678
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="deceitful"
+	father=1132
+	mother=10014
+	1062.1.2 = {
+		birth="1062.1.2"
+	}
+	1112.1.2 = {
+		death="1112.1.2"
+	}
+}
+
+1134 = {
+	name="°¢²®À­¶û" #Abelard
+	dynasty=678
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="skilled_tactician"
+	father=1126
+	1040.1.2 = {
+		birth="1040.1.2"
+	}
+	1090.1.2 = {
+		death="1090.1.2"
+	}
+}
+
+11341 = {
+	name="ºÕ¶ûÂü" #Herman
+	dynasty=678
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	father=1126
+	1041.1.2 = {
+		birth="1041.1.2"
+	}
+	1091.1.2 = {
+		death="1091.1.2"
+	}
+}
+
+11342 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=678
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=1126
+	1042.1.2 = {
+		birth="1042.1.2"
+	}
+	1092.1.2 = {
+		death="1092.1.2"
+	}
+}
+
+1135 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=678
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="tough_soldier"
+	father=1124
+	mother=1129
+	1048.1.2 = {
+		birth="1048.1.2"
+	}
+	1098.1.2 = {
+		death="1098.1.2"
+	}
+}
+
+11351 = {
+	name="Âå¿¨" #Rocca
+	female=yes
+	dynasty=678
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	
+	father=1124
+	mother=1129
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1114.1.1 = {
+		death="1114.1.1"
+	}
+}
+
+1136 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=678
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="kind"
+	trait="martial_cleric"
+	father=1130
+	mother=1137
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1080.1.1 = {
+		add_spouse=30882
+	}
+	1099.1.1 = {
+		death="1099.1.1"
+	}
+}
+
+11361 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=678
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="thrifty_clerk"
+	father=1130
+	mother=1137
+	1053.1.2 = {
+		birth="1053.1.2"
+	}
+	1086.1.1 = {
+		add_spouse=30873
+	}
+	1103.1.2 = {
+		death="1103.1.2"
+	}
+}
+
+1139 = {
+	name="°¢µÂÀ³Ë¿" #Adelise
+	female=yes
+	dynasty=678
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	father=1132
+	mother=10014
+	1065.1.2 = {
+		birth="1065.1.2"
+	}
+	1115.1.2 = {
+		death="1115.1.2"
+	}
+}
+
+1140 = {
+	name="²©Ï£ÃÉµÂ" #Bohemond
+	dynasty=678
+	martial=8
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="brave"
+	trait="cynical"
+	trait="wroth"
+	trait="tough_soldier"
+	father=1128
+	mother=10003
+	1058.1.1 = {
+		birth="1058.1.1"
+	}
+	1105.1.1 = {
+		add_spouse=205511
+	}
+	1111.3.3 = {
+		death="1111.3.3"
+	}
+}
+
+1142 = {
+	name="ÂÞ½Ü" #Roger
+	# AKA: Roger 'Borsa'
+	dynasty=678
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="greedy"
+	trait="hunchback"
+	trait="thrifty_clerk"
+	father=1128
+	mother=1123
+	1061.1.2 = {
+		birth="1061.1.2"
+	}
+	1092.1.1 = {
+		add_spouse=369
+	}
+	1111.2.11 = {
+		death="1111.2.11"
+	}
+}
+
+1143 = {
+	name="°¬Âê" #Emma
+	female=yes
+	dynasty=678
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="charitable"
+	trait="martial_cleric"
+	father=1128
+	mother=10003
+	1052.1.2 = {
+		birth="1052.1.2"
+	}
+	1108.1.2 = {
+		death="1108.1.2"
+	}
+}
+
+1150 = {
+	name="°¢Ë¹¿ËÀ³¶¡" #Asclettin
+	dynasty=676
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="charitable"
+	trait="amateurish_plotter"
+	father=30826
+	988.1.1 = {
+		birth="988.1.1"
+	}
+	1042.1.1 = {
+		death="1042.1.1"
+	}
+}
+
+1151 = {
+	name="°¢Ë¹¿ËÀ³¶¡" #Asclettin
+	# AKA: Ascletin
+	dynasty=676
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="amateurish_plotter"
+	father=1150
+	1012.1.1 = {
+		birth="1012.1.1"
+	}
+	1045.12.1 = {
+		death="1045.12.1"
+	}
+}
+
+1152 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=676
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="cynical"
+	trait="thrifty_clerk"
+	father=1150
+	1022.1.1 = {
+		birth="1022.1.1"
+	}
+	1050.1.1 = {
+		add_spouse=1153
+	}
+	1078.4.1 = {
+		death="1078.4.1"
+	}
+}
+
+1153 = {
+	name="¸¥À³É£µÏæ«" #Fredesende
+	female=yes
+	dynasty=678
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="diligent"
+	trait="underhanded_rogue"
+	father=1120
+	mother=10008
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1075.1.1 = {
+		death="1075.1.1"
+	}
+}
+
+1154 = {
+	name="ÇÇµ¤" #Jordan
+	dynasty=676
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="diligent"
+	trait="tough_soldier"
+	father=1152
+	mother=1153
+	1051.1.1 = {
+		birth="1051.1.1"
+	}
+	1091.2.1 = {
+		death="1091.2.1"
+	}
+}
+
+
+
+127058 = {
+	name="°¬Á«²©¶û¼Ñ" #Eremburga
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1124
+	mother=1129
+	1052.1.1 = {
+		birth="1052.1.1"
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+127063 = {
+	name="ÍþÁ®" #William
+	# AKA: Guillaume
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	father=211507
+	mother=211508
+	1139.1.1 = {
+		birth="1139.1.1"
+	}
+	1168.1.1 = {
+		death="1168.1.1"
+	}
+}
+
+127065 = {
+	name="Ã«¸ñ" #Mauger
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1132
+	mother=160380
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1125.1.1 = {
+		death="1125.1.1"
+	}
+}
+
+127067 = {
+	name="ÖìµÏË¹" #Judith
+	# AKA: Mathilde
+	dynasty=678
+	female=yes
+	religion="catholic"
+	culture="norman"
+	father=1132
+	mother=160380
+	1083.1.1 = {
+		birth="1083.1.1"
+	}
+	1133.1.1 = {
+		death="1133.1.1"
+	}
+}
+
+127070 = {
+	name="Î÷ÃÉ" #Simon
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1132
+	mother=70979
+	1093.1.1 = {
+		birth="1093.1.1"
+	}
+	1105.9.28 = {
+		death="1105.9.28"
+	}
+}
+
+127071 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211501
+	mother=206512
+	1152.1.1 = {
+		birth="1152.1.1"
+	}
+	1161.1.1 = {
+		death="1161.1.1"
+	}
+}
+
+127083 = {
+	name="ÍþÁ®" #William
+	# AKA: Guillaume
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1142
+	mother=369
+	1096.1.1 = {
+		birth="1096.1.1"
+	}
+	1127.7.25 = {
+		death="1127.7.25"
+	}
+}
+
+127084 = {
+	name="µ¤¿ËÀ×µÂ" #Tancred
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211502
+	mother=207662
+	1119.1.1 = {
+		birth="1119.1.1"
+	}
+	1143.1.1 = {
+		death="1143.1.1"
+	}
+}
+
+127085 = {
+	name="°¢¶û·½Ë¹" #Alphonse
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211502
+	mother=207662
+	1121.1.1 = {
+		birth="1121.1.1"
+	}
+	1144.10.10 = {
+		death="1144.10.10"
+	}
+}
+
+127092 = {
+	name="²©Ï£ÃÉµÂ" #Bohemond
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211500
+	mother=204513
+	1182.1.1 = {
+		birth="1182.1.1"
+	}
+	1187.1.1 = {
+		death="1187.1.1"
+	}
+}
+
+140 = {
+	name="ÍþÁ®" #William
+	# AKA: William 'the Conqueror'
+	dynasty=752
+	dna="epdbiohgukk"
+	properties="ae0000"
+	martial=7
+	diplomacy=7
+	intrigue=10
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="ambitious"
+	trait="diligent"
+	trait="proud"
+	trait="cynical"
+	trait="brave"
+	trait="temperate"
+	trait="patient"
+	trait="legit_bastard"
+	trait="brilliant_strategist"
+	father=252
+	mother=41001
+	1027.1.15 = {
+		birth=yes
+	}
+	1035.7.3 = {
+		give_nickname=nick_the_bastard
+	}
+	1053.1.1 = {
+		add_spouse=367 # Mathilda of Flanders
+	}
+	1066.1.5 = {
+		add_claim=k_england
+	}
+	1066.9.14 = {
+		wealth=1000
+		
+		raise_levies = {
+			location=97 # Rouen
+			force_mult=1.0
+		}
+		
+		effect = {
+			set_global_flag = williams_invasion_of_england
+			spawn_unit = {
+				province = 97 # Rouen
+				owner = ROOT
+				leader = ROOT
+				troops = {
+					light_infantry = { 767 767 }
+					heavy_infantry = { 566 566 }
+					pikemen = { 152 152 }
+					light_cavalry = { 285 285 }
+					knights = { 114 114 }
+					archers = { 439 439 }
+				}
+				attrition = 1.0
+			}
+			spawn_unit = {
+				province = 97 # Rouen
+				owner = ROOT
+				leader = 148 # Odo of Bayeux
+				troops = {
+					light_infantry = { 767 767 }
+					heavy_infantry = { 566 566 }
+					pikemen = { 152 152 }
+					light_cavalry = { 285 285 }
+					knights = { 114 114 }
+					archers = { 439 439 }
+				}
+				attrition = 1.0
+			}
+			spawn_unit = {
+				province = 97 # Rouen
+				owner = ROOT
+				leader = 6818 # William of Eu
+				troops = {
+					light_infantry = { 767 767 }
+					heavy_infantry = { 566 566 }
+					pikemen = { 152 152 }
+					light_cavalry = { 285 285 }
+					knights = { 114 114 }
+					archers = { 439 439 }
+				}
+				attrition = 1.0
+			}
+			spawn_unit = {
+				province = 97 # Rouen
+				owner = ROOT
+				leader = 150 # Robert of Mortain
+				troops = {
+					light_infantry = { 767 767 }
+					heavy_infantry = { 566 566 }
+					pikemen = { 152 152 }
+					light_cavalry = { 285 285 }
+					knights = { 114 114 }
+					archers = { 439 439 }
+				}
+				attrition = 1.0
+				merge = yes # Merge all armies in this province
+			}
+			spawn_fleet = {
+				province = 97 # Rouen
+				owner = ROOT
+				earmark = williams_invasion_fleet
+				disband_on_peace = yes
+				troops =
+				{
+					galleys = { 180 180 }
+				}
+			}
+		}
+	}
+	1066.10.14 = {
+		raise_levies = {
+			dismiss=yes
+			location=97 # Rouen
+			force_mult=1.0
+		}
+		effect = {
+			clr_global_flag = williams_invasion_of_england
+			disband_event_forces = yes
+		}
+	}
+	1066.12.25  = {
+		remove_claim=k_england
+		give_nickname=nick_the_conqueror
+	}
+	1087.9.9 = {
+		death=yes
+	}
+}
+
+141 = {
+	name="°¢¼ÓÌØ" #Agathe
+	female=yes
+	dynasty=752
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	father=140
+	mother=367
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1074.1.1 = {
+		death="1074.1.1"
+	}
+}
+
+142 = {
+	name="ÂÞ²®ÌØ" #Robert
+	# AKA: Robert 'Curthose'
+	dynasty=752
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="norman"
+	trait="envious"
+	trait="wroth"
+	trait="lisp"
+	trait="slothful"
+	trait="skilled_tactician"
+	father=140
+	mother=367
+	1054.1.1 = {
+		birth="1054.1.1"
+	}
+	1096.1.1 = {
+		trait="crusader"
+	}
+	1100.1.1 = {
+		add_spouse=171162
+	}
+	1134.2.3 = {
+		death="1134.2.3"
+	}
+}
+
+143 = {
+	name="¿µË¹Ì¹Ë¿" #Constance
+	female=yes
+	dynasty=752
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="thrifty_clerk"
+	father=140
+	mother=367
+	1061.1.1 = {
+		birth="1061.1.1"
+	}
+	1090.8.13 = {
+		death="1090.8.13"
+	}
+}
+
+
+144 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=752
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	trait="ill"
+	father=140
+	mother=367
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	1081.1.1 = {
+		death="1081.1.1"
+	}
+}
+
+146 = {
+	name="ÍþÁ®" #William
+	# AKA: William 'Rufus'
+	dynasty=752
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="brave"
+	trait="cynical"
+	trait="charitable"
+	trait="proud"
+    trait="homosexual"
+	trait="tough_soldier"
+	father=140
+	mother=367
+	1056.1.1 = {
+		birth="1056.1.1"
+	}
+	1100.8.3 = {
+		death="1100.8.3"
+	}
+}
+
+147 = {
+	name="ÉªÎ÷ÀòÑÇ" #Cecilia
+	female=yes
+	dynasty=752
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="proud"
+	trait="thrifty_clerk"
+	father=140
+	mother=367
+	1057.1.1 = {
+		birth="1057.1.1"
+	}
+	1126.7.30 = {
+		death="1126.7.30"
+	}
+}
+
+148 = {
+	name="°Â¶à" #Odo
+	dynasty=101754
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="greedy"
+	trait="wroth"
+	trait="ambitious"
+	trait="deceitful"
+	trait="cruel"
+	trait="martial_cleric"
+	father=41000
+	mother=41001
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1066.1.1 = {
+		employer=140
+	}
+	1096.1.1 = {
+		trait="crusader"
+	}
+	
+	1097.2.1 = {
+		death="1097.2.1"
+	}
+}
+
+149 = {
+	name="Ã¯µÂ" #Maud #de Montgommery
+	# AKA: Maude
+	female=yes
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=152 #Roger II de Montgommery
+	mother=449 #Maud de Belesme/Talvas
+	1037.1.1 = {
+		birth="1037.1.1"
+	}
+	1091.1.1 = {
+		death="1091.1.1"
+	}
+}
+
+150 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=101754
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="humble"
+	trait="content"
+	trait="tough_soldier"
+	father=41000
+	mother=41001
+	1031.1.1 = {
+		birth="1031.1.1"
+	}
+	1056.1.1 = {
+		add_spouse=149
+	}
+	1066.1.1 = {
+		employer=140
+	}
+	1095.12.9 = {
+		death="1095.12.9"
+	}
+}
+
+152 = {
+	name="ÂÞ½Ü" #Roger #Roger II de Montgomerie
+	dynasty=751
+	dna="wwgbkbzfbay"
+	properties="eh0chk0000"
+	religion="catholic"
+	culture="norman"
+	1012.1.1 = {
+		birth="1012.1.1"
+	}
+	1048.1.1 = {
+		add_spouse=449 #Maud de Belesme/Talvas
+	}
+	1074.1.1 = {
+		give_nickname="nick_the_great"
+	}
+	1094.1.1 = {
+		death="1094.1.1"
+	}
+}
+
+154 = {
+	name="À­Å¬¶û·ò" #Ranulf
+	dynasty=750
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	trait="just"
+	trait="cynical"
+	trait="thrifty_clerk"
+	trait="bastard"
+	1060.1.2 = {
+		birth="1060.1.2"
+	}
+	1110.1.2 = {
+		death="1110.1.2"
+	}
+}
+
+156 = {
+	name="°¬Âê" #Emma
+	female=yes
+	dynasty=101754
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="flamboyant_schemer"
+	father=41000
+	mother=41001
+	1030.1.2 = {
+		birth="1030.1.2"
+	}
+	1080.1.2 = {
+		death="1080.1.2"
+	}
+}
+
+157 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=101754
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	father=150
+	mother=149
+	1074.1.1 = {
+		birth="1074.1.1"
+	}
+	1091.1.1 = {
+		death="1091.1.1"
+	}
+}
+
+158 = {
+	name="ÍþÁ®" #William
+	dynasty=101754
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	father=150
+	mother=149
+	1084.1.1 = {
+		birth="1084.1.1"
+	}
+	1103.1.1 = {
+		add_spouse=159742
+	} #Avice
+	1140.1.1 = {
+		death="1140.1.1"
+	}
+}
+
+160378 = {
+	name="À­¶û·ò" #Ralph
+	dynasty=752
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="kind"
+	trait="honest"
+	trait="clubfooted"
+	trait="martial_cleric"
+	father=6820
+	mother=6821
+	1043.1.1 = {
+		birth="1043.1.1"
+	}
+	1083.1.1 = {
+		death="1083.1.1"
+	}
+}
+
+160379 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=752
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="proud"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	father=6820
+	mother=6821
+	1047.1.1 = {
+		birth="1047.1.1"
+	}
+	1097.1.1 = {
+		death="1097.1.1"
+	}
+}
+
+160380 = {
+	name="ºº±¤" #Amburga
+	female=yes
+	dynasty=752
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="thrifty_clerk"
+	father=6820
+	mother=6821
+	1051.1.1 = {
+		birth="1051.1.1"
+	}
+	1087.1.1 = {
+		death="1087.1.1"
+	}
+}
+
+160403 = {
+	name="ÍþÁ®" #William
+	dynasty=752
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="temperate"
+	trait="intricate_webweaver"
+	father=248
+	1020.1.2 = {
+		birth="1020.1.2"
+	}
+	1054.1.29 = {
+		death="1054.1.29"
+	}
+}
+
+160404 = {
+	name="°£Á«Åµ¶û" #Eleonore
+	female=yes
+	dynasty=752
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="proud"
+	trait="bastard"
+	trait="martial_cleric"
+	father=160403
+	1041.1.2 = {
+		birth="1041.1.2"
+	}
+	1091.1.2 = {
+		death="1091.1.2"
+	}
+}
+
+160405 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=749
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="craven"
+	trait="thrifty_clerk"
+	father=170
+	mother=160404
+	1060.1.2 = {
+		birth="1060.1.2"
+	}
+	1110.1.2 = {
+		death="1110.1.2"
+	}
+}
+
+170 = {
+	name="µÂÂÞ¸ê" #Drogo
+	dynasty=749
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="envious"
+	trait="hunchback"
+	trait="deceitful"
+	trait="tough_soldier"
+	1039.1.2 = {
+		birth="1039.1.2"
+	}
+	1058.1.2 = {
+		add_spouse=160404
+	}
+	1066.1.1 = {
+	employer=140
+	}
+	1089.1.2 = {
+		death="1089.1.2"
+	}
+}
+
+171 = {
+	name="ÍþÁ®" #William
+	dynasty=748
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="martial_cleric"
+	father=172
+	mother=173
+	1071.1.2 = {
+		birth="1071.1.2"
+	}
+	1115.1.1 = {
+		add_spouse=551
+	}
+	1138.5.11 = {
+		death="1138.5.11"
+	}
+}
+
+171153 = {
+	name="°¬Âê" #Emma
+	female=yes
+	dynasty=678
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="intricate_webweaver"
+	father=1120
+	mother=10000
+	1017.1.1 = {
+		birth="1017.1.1"
+	}
+	1078.1.1 = {
+		death="1078.1.1"
+	}
+}
+
+171154 = {
+	name="°Â¶à" #Odo
+	dynasty=200080
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="intricate_webweaver"
+	1000.1.1 = {
+		birth="1000.1.1"
+	}
+	1025.1.1 = {
+		add_spouse=171153
+	}
+	1055.1.1 = {
+		death="1055.1.1"
+	}
+}
+
+171155 = {
+	name="ÇÇ·ðÀï" #Geoffroy
+	dynasty=200080
+	religion="catholic"
+	culture="norman"
+	father=171154
+	mother=171153
+	1039.1.1 = {
+		birth="1039.1.1"
+	}
+	1060.1.1 = {
+		add_spouse=30863
+	}
+	1104.2.1 = {
+		death="1104.2.1"
+	}
+}
+
+171158 = {
+	name="ÍþÁ®" #William
+	dynasty=200080
+	martial=6
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="envious"
+	trait="tough_soldier"
+	father=171155
+	mother=30863
+	1067.1.1 = {
+		birth="1067.1.1"
+	}
+	1102.1.1 = {
+		death="1102.1.1"
+	}
+}
+
+171159 = {
+	name="µ¤¿ËÀ×µÂ" #Tancred
+	dynasty=200080
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=9
+	religion="catholic"
+	culture="norman"
+	trait="patient"
+	trait="thrifty_clerk"
+	father=171155
+	mother=30863
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1133.1.1 = {
+		death="1133.1.1"
+	}
+}
+
+171161 = {
+	name="ÑÇÀúÉ½´ó" #Alexander
+	dynasty=200080
+	religion="catholic"
+	culture="norman"
+	father=171155
+	mother=30863
+	1063.1.1 = {
+		birth="1063.1.1"
+	}
+	1136.1.1 = {
+		add_claim=c_bari
+	}
+	1142.1.1 = {
+		death="1142.1.1"
+	}
+}
+
+171162 = {
+	name="Î÷±ÌÀ­" #Sybilla
+	female=yes
+	dynasty=200080
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	father=171155
+	1066.1.1 = {
+		birth="1066.1.1"
+	}
+	1103.3.21 = {
+		death="1103.3.21"
+	}
+}
+
+172 = {
+	name="ÍþÁ®" #William
+	dynasty=748
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="martial_cleric"
+	father=174
+	1034.1.2 = {
+		birth="1034.1.2"
+	}
+	1066.1.1 = {
+		employer=140
+	}
+	1070.1.1 = {
+		add_spouse=173
+	}
+	1088.6.24 = {
+		death="1088.6.24"
+	}
+}
+
+173 = {
+	name="¹±µÂÀ×µÂ" #Gundred
+	female=yes
+	dynasty=9501
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="harelip"
+	trait="thrifty_clerk"
+	father=167006
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	1085.5.27 = {
+		death="1085.5.27"
+	}
+}
+
+174 = {
+	name="Â³µÀ·ò" #Rudolph
+	dynasty=748
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="tough_soldier"
+	998.1.2 = {
+		birth="998.1.2"
+	}
+	1055.1.25 = {
+		death="1055.1.25"
+	}
+}
+
+190000 = {
+	name="À³Å¬¶û·ò" #Rainulf
+	dynasty=676
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="chaste"
+	trait="skilled_tactician"
+	father=1150
+	1034.1.1 = {
+		birth="1034.1.1"
+	}
+	1088.1.1 = {
+		death="1088.1.1"
+	}
+}
+
+144701 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=676
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=144700
+	1054.1.1 = {
+		birth=yes
+	}
+	1105.1.1 = {
+		death=yes
+	}
+}
+
+144702 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=676
+	martial=3
+	diplomacy=3
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	father=144700
+	1056.1.1 = {
+		birth="1056.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+
+202990 = {
+	name="¿µË¹Ì¹Ë¿" #Constance
+	# AKA: Constance FitzRoy, Viscountess de Beaumont
+	female=yes
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="tough_soldier"
+	father=202992 #Henry I
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1173.1.1 = {
+		death="1173.1.1"
+	}
+}
+
+202991 = {
+	name="ÂêµÙ¶û´ï" #Matilda
+	# AKA: Maltilda
+	female=yes
+	dynasty=752
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	trait="ambitious"
+	trait="arbitrary"
+	trait="proud"
+	trait="wroth"
+	trait="chaste"
+	father=202992
+	mother=202995
+	1102.2.7 = {
+		birth="1102.2.7"
+	}
+	1135.12.2 = {
+		add_claim=k_england
+	}
+	1167.9.10 = {
+		death="1167.9.10"
+	}
+}
+
+202992 = {
+	name="ºàÀû" #Henry # Henry I of England
+	dynasty=752
+	martial=7
+	diplomacy=4
+	intrigue=9
+	stewardship=6
+	learning=10
+	religion="catholic"
+	culture="norman"
+	trait="charismatic_negotiator"
+	trait="diligent"
+	trait="just"
+	trait="proud"
+	trait="patient"
+	trait="brave"
+	trait="ambitious"
+	father=140
+	mother=367
+	1068.9.1 = {
+		birth="1068.9.1"
+	}
+	1100.11.11 = {
+		add_spouse=202995
+	}
+	1122.1.29 = {
+		add_spouse=206857 #Adelheid Reginar
+	}
+	1135.12.1 = {
+		death="1135.12.1"
+	}
+}
+
+203515 = {
+	name="°¢´ï" #Ada
+	female=yes
+	dynasty=748
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="scholarly_theologian"
+	father=171
+	mother=551
+	1120.1.2 = {
+		birth="1120.1.2"
+	}
+	1178.1.2 = {
+		death="1178.1.2"
+	}
+}
+
+204050 = {
+	name="ÍþÁ®" #William
+	dynasty=101903
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="proud"
+	trait="diligent"
+	trait="tough_soldier"
+	1098.1.1 = {
+		birth="1098.1.1"
+	}
+	1142.1.19 = {
+		add_spouse=204051
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+
+204052 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=101903
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="wroth"
+	trait="brave"
+	trait="diligent"
+	trait="tough_soldier"
+	father=204050
+	mother=204051
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1185.1.1 = {
+		death="1185.1.1"
+	}
+}
+
+204053 = {
+	name="·ÆÀûÆÕ" #Philip
+	dynasty=101903
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="wroth"
+	trait="honest"
+	trait="diligent"
+	trait="tough_soldier"
+	father=204050
+	mother=204051
+	1143.1.1 = {
+		birth="1143.1.1"
+	}
+	1193.1.1 = {
+		death="1193.1.1"
+	}
+}
+
+204054 = {
+	name="ÍþÁ®" #William
+	dynasty=101903
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="proud"
+	trait="honest"
+	trait="diligent"
+	trait="tough_soldier"
+	father=204053
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1225.1.1 = {
+		death="1225.1.1"
+	}
+}
+
+204055 = {
+	name="½ÜÀ­µÂ" #Gerald
+	dynasty=101903
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="patient"
+	trait="diligent"
+	trait="scholarly_theologian"
+	father=204050
+	mother=204051
+	1146.1.1 = {
+		birth="1146.1.1"
+	}
+	1196.1.1 = {
+		death="1196.1.1"
+	}
+}
+
+204056 = {
+	name="½ÜÀ­µÂ" #Gerald
+	dynasty=101905
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	1140.1.1 = {
+		death="1140.1.1"
+	}
+}
+
+204574 = {
+	name="Æ¤¶ûË¹" #Piers
+	dynasty=102005
+	martial=3
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="deceitful"
+	trait="proud"
+	1284.1.2 = {
+		birth="1284.1.2"
+	}
+	1312.6.19 = {
+		death="1312.6.19"
+	}
+}
+
+204577 = {
+	name="Âê°Ø¶û" #Mabel #of Bellême
+	female=yes
+	dynasty=5072
+	martial=5
+	diplomacy=8
+	intrigue=9
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	1022.1.1 = {
+		birth="1022.1.1"
+	}
+	1081.4.8 = {
+		death="1081.4.8"
+	}
+}
+
+205898 = {
+	name="°¢÷ì¶û" #Adele
+	female=yes
+	dynasty=752
+	martial=8
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="amateurish_plotter"
+	father=140
+	mother=367
+	1062.1.1 = {
+		birth="1062.1.1"
+	}
+	1137.3.8 = {
+		death="1137.3.8"
+	}
+}
+
+205988 = {
+	name="¸ñ¶ûÉ­µÂ" #Gersende
+	female = yes
+	dynasty=71
+	martial=8
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="arbitrary"
+	trait="flamboyant_schemer"
+	father=205986
+	mother=205982
+	1175.1.2 = {
+		birth="1175.1.2"
+	}
+	1242.1.2 = {
+		death="1242.1.2"
+	}
+}
+
+211500 = {
+	name="ÍþÁ®" #William 
+	dynasty=678
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="slothful"
+	trait="kind"
+	trait="flamboyant_schemer"
+	father=211501
+	mother=206512
+	1155.1.1 = {
+		birth="1155.1.1"
+	}
+	1166.5.7 = {
+	capital=c_palermo
+	}
+	1177.2.13 = {
+		add_spouse=204513
+	}
+	1189.11.11 = {
+		death="1189.11.11"
+	}
+}
+
+211501 = {
+	name="ÍþÁ®" #William #Guillaume I
+	dynasty=678
+	martial=4
+	diplomacy=4
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	trait="lunatic"
+	trait="wroth"
+	trait="tough_soldier"
+	father=211502
+	mother=207662
+	1131.1.1 = {
+		birth="1131.1.1"
+	}
+	1153.1.2 = {
+		add_spouse=206512
+	}
+	1154.2.26 = {
+		capital=c_palermo
+	}
+	1166.5.7 = {
+		death="1166.5.7"
+	}
+}
+
+211502 = {
+	name="ÂÞ½Ü" #Roger #Roger I of Sicily
+	dynasty=678
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="wroth"
+	trait="tough_soldier"
+	father=1132
+	mother=70979
+	1095.12.22 = {
+		birth="1095.12.22"
+	}
+	1117.1.1 = {
+		add_spouse=207662
+	}
+	1130.12.25 = {
+		capital=c_palermo
+	}
+	1149.1.1 = {
+		add_spouse=91087
+	}
+	1151.1.1 = {
+		add_spouse=211503
+	}
+	1154.2.26 = {
+		death="1154.2.26"
+	}
+}
+
+211507 = {
+	name="ÂÞ½Ü" #Roger 
+	dynasty=678
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	trait="humble"
+	trait="envious"
+	trait="tough_soldier"
+	father=211502
+	mother=207662
+	1118.1.1 = {
+		birth="1118.1.1"
+	}
+	1147.1.1 = {
+		add_spouse=73288
+	}
+	1148.5.12 = {
+		death="1148.5.12"
+	}
+}
+
+211509 = {
+	name="µ¤¿ËÀ×µÂ" #Tancred
+	dynasty=678
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="lustful"
+	trait="proud"
+	trait="bastard"
+	trait="tough_soldier"
+	father=211507
+	mother=211508
+	1138.1.1 = {
+		birth="1138.1.1"
+	}
+	1175.1.1 = {
+		add_spouse=211510
+	}
+	1189.11.11 = {
+	capital=c_palermo
+	}
+	1194.2.20 = {
+		death="1194.2.20"
+	}
+}
+
+211511 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=678
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="lunatic"
+	trait="tough_soldier"
+	father=211509
+	mother=211510
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1193.12.24 = {
+		death="1193.12.24"
+	}
+}
+
+211512 = {
+	name="ÍþÁ®" #William
+	dynasty=678
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="diligent"
+	father=211509
+	mother=211510
+	1186.1.1 = {
+		birth="1186.1.1"
+	}
+	1194.2.20  = {
+		capital=c_palermo
+	}
+	1198.1.1 = {
+		death="1198.1.1"
+	}
+}
+
+211513 = {
+	name="°¢¶û±ÈÄÝæ«" #Albinia
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211509
+	mother=211510
+	1189.1.1 = {
+		birth="1189.1.1"
+	}
+	1217.1.1 = {
+		death="1217.1.1"
+	}
+}
+
+211514 = {
+	name="Ã·µ¤ÄÝæ«" #Medania
+	female=yes
+	dynasty=678
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="thrifty_clerk"
+	father=211509
+	mother=211510
+	1188.1.1 = {
+		birth="1188.1.1"
+	}
+	1243.1.1 = {
+		death="1243.1.1"
+	}
+}
+
+211515 = {
+	name="¿µË¹Ì¹Ë¿" #Constance
+	female=yes
+	dynasty=678
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	father=211509
+	mother=211510
+	1192.1.1 = {
+		birth="1192.1.1"
+	}
+	1247.1.1 = {
+		death="1247.1.1"
+	}
+}
+
+211516 = {
+	name="Î÷ÃÉ" #Simon
+	dynasty=678
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="proud"
+	trait="chaste"
+	trait="tough_soldier"
+	father=211502
+	mother=211503
+	1152.1.2 = {
+		birth="1152.1.2"
+	}
+	1180.1.2 = {
+		add_spouse=211517
+	}
+	1202.1.2 = {
+		death="1202.1.2"
+	}
+}
+
+211518 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=678
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=211516
+	mother=211517
+	1182.1.2 = {
+		birth="1182.1.2"
+	}
+	1232.1.2 = {
+		death="1232.1.2"
+	}
+}
+
+211521 = {
+	name="ÍþÁ®" #William
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	father=1142
+	1095.1.1 = {
+		birth="1095.1.1"
+	}
+	1119.1.1 = {
+		employer=73280
+	}
+	1127.7.1 = {
+		death="1127.7.1"
+	}
+}
+
+211523 = {
+	name="°¬ÀûÑÇ" #"Elia"
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211521
+	mother=73280
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1146.1.1 = {
+		add_spouse=211524
+	}
+	1187.1.1 = {
+		death="1187.1.1"
+	}
+}
+
+211525 = {
+	name="ÍþÁ®" #William
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211523
+	mother=211524
+	1147.1.1 = {
+		birth="1147.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+211526 = {
+	name="ÑÇÀïË¹¶à·ò" #Aristolf
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211523
+	mother=211524
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1185.1.1 = {
+		add_spouse=211527
+	}
+	1206.1.1 = {
+		death="1206.1.1"
+	}
+}
+
+211527 = {
+	name="Î÷±ÈÀ­" #Sibylla
+	female=yes
+	religion="catholic"
+	culture="norman"
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+211530 = {
+	name="ÂêÀö" #Marie
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	trait="scholarly_theologian"
+	father=211507
+	mother=73288
+	1148.1.1 = {
+		birth="1148.1.1"
+	}
+	1197.1.1 = {
+		death="1197.1.1"
+	}
+}
+
+211533 = {
+	name="°¬Âê" #Emma
+	female=yes
+	dynasty=678
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="amateurish_plotter"
+	father=1132
+	mother=10014
+	1063.1.2 = {
+		birth="1063.1.2"
+	}
+	1119.1.17 = {
+		death="1119.1.17"
+	}
+}
+
+212508 = {
+	name="¿µË¹Ì¹Ë¿" #Constance #Queen of Sicily
+	female=yes
+	dynasty=678
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="charitable"
+	trait="just"
+	trait="cynical"
+	trait="brave"
+	trait="lustful"
+	trait="underhanded_rogue"
+	father=211502
+	mother=211503
+	1154.1.1 = {
+		birth="1154.1.1"
+	}
+	1198.11.28 = {
+		death="1198.11.28"
+	}
+}
+
+232018 = {
+	name="ÍþÁ®" #William
+	# AKA: William 'Adelin'
+	dynasty=752
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="wroth"
+	trait="proud"
+	trait="indulgent_wastrel"
+	father=202992
+	mother=202995
+	1103.8.5 = {
+		birth="1103.8.5"
+	}
+	1120.11.25 = {
+		death="1120.11.25"
+	}
+}
+
+232504 = {
+	name="ÂÞ½Ü" #Roger
+	# AKA: Roger Dagobertos
+	dynasty=20066
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="gregarious"
+	trait="wroth"
+	trait="underhanded_rogue"
+	father=34605
+	1052.1.1 = {
+		birth="1052.1.1"
+	}
+	1107.1.1 = {
+		death="1107.1.1"
+	}
+}
+
+232529 = {
+	name="±ËµÃ" #Peter
+	# AKA: Peter of Alife
+	dynasty=7303
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="norman"
+	1097.1.1 = {
+		birth="1097.1.1"
+	}
+	1135.1.1 = {
+		death="1135.1.1"
+	}
+}
+
+243 = {
+	name="°¢÷ìÀ­" #Adela
+	female=yes
+	dynasty=752
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="lustful"
+	trait="envious"
+	trait="martial_cleric"
+	father=242
+	mother=241
+	917.1.2 = {
+		birth="917.1.2"
+	}
+	962.1.2 = {
+		death="962.1.2"
+	}
+}
+
+244 = {
+	name="ÍþÁ®" #William
+	dynasty=752
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="gluttonous"
+	trait="harelip"
+	trait="underhanded_rogue"
+	father=242
+	mother=241
+	914.1.2 = {
+		birth="914.1.2"
+	}
+	942.12.17 = {
+		death="942.12.17"
+	}
+}
+
+246 = {
+	name="Àí²éµÂ" #Richard
+	# AKA: Richard the Fearless
+	dynasty=752
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="flamboyant_schemer"
+	father=244
+	933.1.2 = {
+		birth="933.1.2"
+	}
+	964.1.1 = {
+		add_spouse=6801
+	}
+	996.11.20 = {
+		give_nickname=nick_the_fearless
+		death="996.11.20"
+	}
+}
+
+248 = {
+	name="Àí²éµÂ" #Richard
+	# AKA: Richard the Good
+	dynasty=752
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	father=246
+	mother=6801
+	974.1.2 = {
+		birth="974.1.2"
+	}
+	1000.1.1 = {
+		add_spouse=343
+	}
+	1026.8.28 = {
+		give_nickname=nick_the_good
+		death="1026.8.28"
+	}
+}
+
+250 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=752
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="amateurish_plotter"
+	father=248
+	mother=343
+	1006.1.2 = {
+		birth="1006.1.2"
+	}
+	1027.2.3 = {
+		death="1027.2.3"
+	}
+}
+
+251 = {
+	name="°¢µÂÀ³Ë¿" #Adelis
+	female=yes
+	dynasty=752
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="cynical"
+	trait="scholarly_theologian"
+	father=248
+	mother=343
+	1000.1.2 = {
+		birth="1000.1.2"
+	}
+	1038.1.2 = {
+		death="1038.1.2"
+	}
+}
+
+252 = {
+	name="ÂÞ²®ÌØ" #Robert
+	# AKA: Robert the Magnificent
+	dynasty=752
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="gluttonous"
+	trait="skilled_tactician"
+	father=248
+	mother=343
+	1000.6.22 = {
+		birth="1000.6.22"
+	}
+	1035.7.3 = {
+		give_nickname=nick_the_magnificent
+		death="1035.7.3"
+	}
+}
+
+253 = {
+	name="°¢Á«ÅµÀ­" #Alienora
+	female=yes
+	dynasty=752
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="slothful"
+	trait="deceitful"
+	trait="arbitrary"
+	trait="amateurish_plotter"
+	father=248
+	1011.1.2 = {
+		birth="1011.1.2"
+	}
+	1048.1.2 = {
+		death="1048.1.2"
+	}
+}
+
+255 = {
+	name="°¢µÂÀ³µÂ" #Adelaide
+	female=yes
+	dynasty=752
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="thrifty_clerk"
+	father=252
+	1029.1.2 = {
+		birth="1029.1.2"
+	}
+	1079.1.2 = {
+		death="1079.1.2"
+	}
+}
+
+257 = {
+	name="º£µÂÞ±¸ñ" #Hedwige
+	female=yes
+	dynasty=752
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="temperate"
+	trait="flamboyant_schemer"
+	father=246
+	mother=6801
+	980.1.2 = {
+		birth="980.1.2"
+	}
+	1034.1.22 = {
+		death="1034.1.22"
+	}
+}
+
+258 = {
+	name="ÍþÁ®" #William #count of Eu 1040-1058
+	dynasty=752
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="charismatic_negotiator"
+	father=246
+	mother=6801
+	978.1.1 = {
+		birth="978.1.1"
+	}
+	1022.1.1 = {
+		add_spouse=6817
+	}
+	1057.1.27 = {
+		death="1057.1.27"
+	}
+}
+
+259 = {
+	name="°¬Âê" #Emma
+	female=yes
+	dynasty=752
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	father=246
+	mother=6801
+	988.1.1 = {
+		birth="988.1.1"
+	}
+	1052.3.6 = {
+		death="1052.3.6"
+	}
+}
+
+260 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=752
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="amateurish_plotter"
+	father=246
+	mother=6801
+	965.1.2 = {
+		birth="965.1.2"
+	}
+	1037.1.2 = {
+		death="1037.1.2"
+	}
+}
+
+30207 = {
+	name="¿µË¹Ì¹Ë¿" #Constance
+	female=yes
+	dynasty=678
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	father=1132
+	1080.1.2 = {
+		birth="1080.1.2"
+	}
+	1138.1.1 = {
+		death="1138.1.1"
+	}
+}
+
+30826 = {
+	name="Àí²éµÂ" #Richard #real name unknown
+	dynasty=676
+	religion="catholic"
+	culture="norman"
+	960.1.1 = {
+		birth="960.1.1"
+	}
+	1020.1.1 = {
+		death="1020.1.1"
+	}
+}
+
+30827 = {
+	name="À³Å¬¶û·ò" #Rainulf 
+	dynasty=676
+	religion="catholic"
+	culture="norman"
+	father=30826
+	986.1.1 = {
+		birth="986.1.1"
+	}
+	1035.1.1 = {
+		add_spouse=168471
+	}
+	1040.1.1 = {
+		death="1040.1.1"
+	}
+}
+
+30828 = {
+	name="Àï¿¨¶û¶à" #Riccardo 
+	dynasty=676
+	religion="catholic"
+	culture="norman"
+	father=144703
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	1087.1.1 = {
+		death="1087.1.1"
+	}
+}
+
+30831 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=676
+	religion="catholic"
+	culture="norman"
+	father=1154
+	# mother=Gaitelgrima II di Salerno
+	1072.1.1 = {
+		birth="1072.1.1"
+	}
+	1106.1.1 = {
+		death="1106.1.1"
+	}
+}
+
+30832 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=676
+	religion="catholic"
+	culture="norman"
+	father=98014
+	# mother=
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1120.6.10 = {
+		death="1120.6.10"
+	}
+}
+
+30833 = {
+	name="ÇÇµ¤" #Jordan
+	dynasty=676
+	religion="catholic"
+	culture="norman"
+	father=1154
+	# mother=Gaitelgrima II di Salerno
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	#married Gaitelgrima di Sorrento
+	1127.1.1 = {
+		death="1127.1.1"
+	}
+}
+
+30834 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=676
+	religion="catholic"
+	culture="norman"
+	father=30833
+	# mother=Gaitelgrima di Sorrento
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1154.1.1 = {
+		death="1154.1.1"
+	}
+}
+
+30835 = {
+	name="¸ÇÌØ¸ðÀöÂê" #Gaitelgrima
+	female=yes
+	dynasty=676
+	religion="catholic"
+	culture="norman"
+	father=30833
+	# mother=Gaitelgrima di Sorrento
+	1096.1.1 = {
+		birth="1096.1.1"
+	}
+	1127.7.25 = {
+		death="1127.7.25"
+	}
+}
+
+30836 = {
+	name="ÇÇÄÉÉ­" #Jonathan
+	dynasty=676
+	religion="catholic"
+	culture="norman"
+	father=1154
+	# mother=Gaitelgrima II di Salerno
+	1077.1.1 = {
+		birth="1077.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+30837 = {
+	name="ÇÇÄÉÉ­" #Jonathan
+	dynasty=676
+	religion="catholic"
+	culture="norman"
+	father=1152
+	mother=1153
+	1053.1.1 = {
+		birth="1053.1.1"
+	}
+	1094.1.1 = {
+		death="1094.1.1"
+	}
+}
+
+30850 = {
+	name="°¬ÍÞ-°²ÄÈ"
+	# AKA: Eva
+	female=yes
+	dynasty=7182 #Ridel
+	religion="catholic"
+	culture="norman"
+	1079.1.1 = {
+		birth="1079.1.1"
+	}
+	1123.4.1 = {
+		death="1123.4.1"
+	}
+}
+
+30852 = {
+	name="ÇÇµ¤" #Jordan
+	dynasty=676
+	religion="catholic"
+	culture="norman"
+	father=30834
+	1125.1.1 = {
+		birth="1125.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+30864 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=200080
+	religion="catholic"
+	culture="norman"
+	father=171155
+	mother=30863
+	1061.1.1 = {
+		birth="1061.1.1"
+	}
+	1107.4.1 = {
+		death="1107.4.1"
+	}
+}
+
+30865 = {
+	name="Î÷¶ûÎ¬Ë¹ÌØ" #Silvester
+	dynasty=200080
+	religion="catholic"
+	culture="norman"
+	father=171155
+	mother=30863
+	1068.1.1 = {
+		birth="1068.1.1"
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+30866 = {
+	name="À­µÀ·ò" #Radulf
+	# AKA: Rodolph
+	dynasty=200080
+	religion="catholic"
+	culture="norman"
+	father=171155
+	mother=30863
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1093.1.1 = {
+		death="1093.1.1"
+	}
+}
+
+30867 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=200080
+	religion="catholic"
+	culture="norman"
+	father=171155
+	mother=30863
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	1133.1.1 = {
+		death="1133.1.1"
+	}
+}
+
+30868 = {
+	name="ÇÇ·ðÀï" #Geoffroy
+	dynasty=200080
+	religion="catholic"
+	culture="norman"
+	father=171161
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1142.1.1 = {
+		add_claim=c_bari
+	}
+	1153.5.1 = {
+		death="1153.5.1"
+	}
+}
+
+30869 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=200080
+	religion="catholic"
+	culture="norman"
+	father=171161
+	1092.1.1 = {
+		birth="1092.1.1"
+	}
+	1133.10.16 = {
+		death="1133.10.16"
+	}
+}
+
+30870 = {
+	name="ÍþÁ®" #William
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=85003
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1137.1.1 = {
+		death="1137.1.1"
+	}
+}
+
+30871 = {
+	name="µ¤¿ËÀ×µÂ" #Tancred
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	trait="deceitful"
+	trait="skilled_tactician"
+	father=71253
+	mother=1143
+	1072.1.1 = {
+		birth="1072.1.1"
+	}
+	1096.1.1 = {
+		trait="crusader"
+	}
+	1112.12.5 = {
+		death="1112.12.5"
+	}
+}
+
+30872 = {
+	name="ÍþÁ®" #William
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=71253
+	mother=1143
+	1071.1.1 = {
+		birth="1071.1.1"
+	}
+	1096.1.1 = {
+		trait="crusader"
+	}
+	1097.7.1 = {
+		death="1097.7.1"
+	}
+}
+
+30873 = {
+	name="°¢ÌØÈãµÂ" #Altrude
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=71253
+	mother=1143
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+30874 = {
+	name="¸ÇÒÁ" #Guy
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=71253
+	mother=1143
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	1107.1.1 = {
+		death="1107.1.1"
+	}
+}
+
+30877 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=11361
+	mother=30873
+	1087.1.1 = {
+		birth="1087.1.1"
+	}
+	1114.1.1 = {
+		add_spouse=161928 #Hodierne de Rethel
+	}
+	1119.6.27 = {
+		death="1119.6.27"
+	}
+}
+
+30878 = {
+	name="ÂêÀö" #Marie
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=11361
+	mother=30873
+	1089.1.1 = {
+		birth="1089.1.1"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+30879 = {
+	name="Äá¹ÅÀ­Ë¹" #Nicolas
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=30881
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	
+	1141.1.1 = {
+		death="1141.1.1"
+	}
+}
+
+30880 = {
+	name="ÍþÁ®" #William
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=30881
+	1115.1.1 = {
+		birth="1115.1.1"
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+
+30881 = {
+	name="ÍþÁ®" #William
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1136
+	mother=30882
+	1091.1.1 = {
+		birth="1091.1.1"
+	}
+	1128.1.1 = {
+		death="1128.1.1"
+	}
+}
+
+30883 = {
+	name="À³Å¬¶û·ò" #Rainulf
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1130
+	mother=1137
+	1054.1.1 = {
+		birth="1054.1.1"
+	}
+	1096.1.1 = {
+		trait="crusader"
+	}
+	1107.1.1 = {
+		death="1107.1.1"
+	}
+}
+
+30884 = {
+	name="µ¤¿ËÀ×µÂ" #Tancred
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1130
+	mother=1137
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	1096.1.1 = {
+		trait="crusader"
+	}
+	1104.1.1 = {
+		death="1104.1.1"
+	}
+}
+
+30885 = {
+	name="ÍþÁ®" #William
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1130
+	mother=1137
+	1056.1.1 = {
+		birth="1056.1.1"
+	}
+	1096.1.1 = {
+		trait="crusader"
+	}
+	1103.1.1 = {
+		death="1103.1.1"
+	}
+}
+
+30890 = {
+	name="¸ê¸¥À×" #Godfrey
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=85005
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1145.1.1 = {
+		death="1145.1.1"
+	}
+}
+
+30891 = {
+	name="À×ÃÉµÂ" #Raimond
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=85005
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	1100.1.1 = {
+		add_spouse=30898
+	}
+	1158.1.1 = {
+		death="1158.1.1"
+	}
+}
+
+30892 = {
+	name="ÍÐÂíË¹" #Thomas
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=85005
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1168.1.1 = {
+		death="1168.1.1"
+	}
+}
+
+30893 = {
+	name="ÍþÁ®" #William
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	father=30890
+	1105.1.1 = {
+		birth="1105.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+30894 = {
+	name="¿ËÀÙÃÅÌáÑÅ" #Clementia
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=30890
+	mother=30898
+	1106.1.1 = {
+		birth="1106.1.1"
+	}
+	1167.7.28 = {
+		death="1167.7.28"
+	}
+}
+
+30895 = {
+	name="ºú¸ñ" #Hugh
+	dynasty=7190
+	religion="catholic"
+	culture="norman"
+	1103.1.1 = {
+		birth="1103.1.1"
+	}
+	1128.1.1 = {
+		add_spouse=30894
+	}
+	1168.1.1 = {
+		death="1168.1.1"
+	}
+}
+
+30896 = {
+	name="ºú¸ñ" #Hugh
+	dynasty=7190
+	religion="catholic"
+	culture="norman"
+	father=30895
+	mother=30894
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1191.1.1 = {
+		death="1191.1.1"
+	}
+}
+
+30897 = {
+	name="ÇÇµ¤" #Jordan
+	dynasty=7190
+	religion="catholic"
+	culture="norman"
+	father=30895
+	mother=30894
+	1132.1.1 = {
+		birth="1132.1.1"
+	}
+	1197.1.1 = {
+		death="1197.1.1"
+	}
+}
+
+30899 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=7192 #de Bassonville
+	religion="catholic"
+	culture="norman"
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1110.1.1 = {
+		add_spouse=127067
+	}
+	1142.9.1 = {
+		death="1142.9.1"
+	}
+}
+
+30900 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=7192
+	religion="catholic"
+	culture="norman"
+	father=30899
+	mother=127067
+	1115.1.1 = {
+		birth="1115.1.1"
+	}
+	1136.1.1 = {
+		add_spouse=30902
+	}
+	1182.9.15 = {
+		death="1182.9.15"
+	}
+}
+
+30901 = {
+	name="ÍþÁ®" #William
+	dynasty=7192
+	religion="catholic"
+	culture="norman"
+	father=30899
+	mother=127067
+	1118.1.1 = {
+		birth="1118.1.1"
+	}
+	1170.1.11 = {
+		death="1170.1.11"
+	}
+}
+
+30902 = {
+	name="°¢µÂÀòÉ¯" #Adelisa
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211502
+	mother=207662
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1186.1.1 = {
+		death="1186.1.1"
+	}
+}
+
+30918 = {
+	name="¸èµÂÏ£¶ûµÂ" #Godechilde
+	female=yes
+	dynasty=385 #de Tosny
+	religion="catholic"
+	culture="norman"
+	father=110637
+	mother=41223
+	1074.1.1 = {
+		birth="1074.1.1"
+	}
+	1097.10.1 = {
+		death="1097.10.1"
+	}
+}
+
+31155 = {
+	name="ÍþÁ®" #William
+	# AKA: William Clito
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	father=142
+	mother=171162
+	1101.1.1 = {
+		birth="1101.1.1"
+	}
+	1123.1.1 = {
+		add_spouse=205955
+	}
+	1124.8.26 = {
+		remove_spouse=205955
+	}
+	1127.1.1 = {
+		add_spouse=71258
+	}
+	1128.7.28 = {
+		death="1128.7.28"
+	}
+}
+
+31156 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	father=142
+	1079.1.1 = {
+		birth="1079.1.1"
+	}
+	1100.8.1 = {
+		death="1100.8.1"
+	}
+}
+
+31157 = {
+	name="ÍþÁ®" #William #count of Tortosa 1110 ? 
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	father=142
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1111.1.1 = {
+		death="1111.1.1"
+	}
+}
+
+327 = {
+	name="ÂêµÙÅ·µÂ" #Matheode
+	female=yes
+	dynasty=730
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="arbitrary"
+	trait="patient"
+	trait="lustful"
+	trait="amateurish_plotter"
+	1034.1.2 = {
+		birth="1034.1.2"
+	}
+	1084.1.2 = {
+		death="1084.1.2"
+	}
+}
+
+332019 = {
+	name="ÍþÁ®" #William
+	dynasty=25054
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="fortune_builder"
+	1128.1.1 = {
+		birth="1128.1.1"
+	}
+	1147.1.1 = {
+		add_spouse=332018
+	}
+	1201.1.1 = {
+		death="1201.1.1"
+	}
+}
+
+332026 = {
+	name="ºú¸ñ" #Hugh
+	dynasty=368
+	martial=10
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	trait="brave"
+	1098.1.1 = {
+		birth="1098.1.1"
+	}
+	1162.1.25 = {
+		death="1162.1.25"
+	}
+}
+
+40279 = {
+	name="±´æ«ÌØÀö¿ËË¿" #Beatrix #de Normandie
+	female=yes
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	father=246
+	mother=6801
+	977.1.2 = {
+		birth="977.1.2"
+	}
+	#1000 married Ebles I de Turenne
+	1035.1.18 = {
+		death="1035.1.18"
+	}
+}
+
+40999 = {
+	name="¼ò" #Jean
+	dynasty=101754
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	#father=360
+	#mother=1411
+	962.1.1 = {
+		birth="962.1.1"
+	}
+	1020.1.1 = {
+		death="1020.1.1"
+	}
+}
+
+41000 = {
+	name="ºÕÂ·°²" #Herluin
+	# AKA: Herluin de Conteville
+	dynasty=101754
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	father=40999
+	1001.1.2 = {
+		birth="1001.1.2"
+	}
+	1021.1.2 = {
+		add_spouse=41001
+	}
+	1050.1.2 = {
+		add_spouse=183011
+	}
+	1066.1.2 = {
+		death="1066.1.2"
+	}
+}
+
+41001 = {
+	name="ºÕÀòÍÞ" #Herleva
+	female=yes
+	dynasty=101755
+	martial=2
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	1003.1.2 = {
+		birth="1003.1.2"
+	}
+	1050.1.2 = {
+		death="1050.1.2"
+	}
+}
+
+41004 = {
+	name="ÂÞ²®ÌØ" #Robert #3rd Earl of Shrewsbury
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=152 #Roger II de Montgommery
+	mother=449 #Maud de Belesme/Talvas
+	1057.1.1 = {
+		birth="1057.1.1"
+		
+	}
+	1087.1.1 = {
+		add_spouse=168181
+		give_nickname="nick_the_devil"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+41005 = {
+	name="·ÆÀûÆÕ" #Philip #son of the earl of shrewsbury who dies at the siege of antioch
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=152 #Roger II de Montgommery
+	mother=449 #Maud de Belesme/Talvas
+	1061.1.1 = {
+		birth="1061.1.1"
+	}
+	1098.1.1 = {
+		trait="crusader"
+	}
+	1099.1.1 = {
+		death="1099.1.1"
+	}
+}
+
+41007 = {
+	name="°¬Âê" #Emma #de Montgommery
+	female=yes
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=152 #Roger II de Montgommery
+	mother=449 #Maud de Belesme/Talvas
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+41008 = {
+	name="Âê°Ø¶û" #Mabel
+	female=yes
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=152 #Roger II de Montgommery
+	mother=449 #Maud de Belesme/Talvas
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1114.1.1 = {
+		death="1114.1.1"
+	}
+}
+
+41012 = {
+	name="¸ê¸¥À×" #Godfrey
+	dynasty=101886
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="tough_soldier"
+	father=246
+	mother=6801
+	980.1.2 = {
+		birth="980.1.2"
+	}
+	980.1.2 = {
+		add_spouse=41235
+	}
+	1000.1.2 = {
+		death="1000.1.2"
+	}
+}
+
+41013 = {
+	name="¼ª¶û²®ÌØ" #Gilbert
+	# AKA: Gilbert Crispin
+	dynasty=101886
+	martial=9
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=41012
+	mother=41235
+	1000.1.2 = {
+		birth="1000.1.2"
+	}
+	1040.1.2 = {
+		death="1040.1.2"
+	}
+}
+
+41014 = {
+	name="Àí²éµÂ" #Richard # de Tonbridge FitzGilbert de Clare
+	dynasty=364
+	religion="catholic"
+	culture="norman"
+	father=41013
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1058.1.1 = {
+		add_spouse=41015 #Rohese Giffard
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+41015 = {
+	name="ÂÞºÕË¿" #Rohese #Giffard
+	female=yes
+	dynasty=4011
+	religion="catholic"
+	culture="norman"
+	father=32142 #Walter Giffard
+	1034.1.1 = {
+		birth="1034.1.1"
+	}
+	1113.1.1 = {
+		death="1113.1.1"
+	}
+}
+
+
+41017 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=364
+	martial=9
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	father=41014
+	mother=41015
+	1065.1.2 = {
+		birth="1065.1.2"
+	}
+	1115.1.2 = {
+		death="1115.1.2"
+	}
+}
+
+41019 = {
+	name="À­Å¬¶û·ò" #Ranulph
+	dynasty=4001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="intricate_webweaver"
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1115.8.5 = {
+		death="1115.8.5"
+	}
+}
+
+41030 = {
+	name="Î÷±È¶û" #Ranulph
+	female=yes
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=152 #Roger II de Montgommery
+	mother=449 #Maud de Belesme/Talvas
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+41031 = {
+	name="ÂêµÙ¶û´ï" #Matilda
+	female=yes
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=152 #Roger II de Montgommery
+	mother=449 #Maud de Belesme/Talvas
+	1063.1.1 = {
+		birth="1063.1.1"
+	}
+	1111.1.1 = {
+		death="1111.1.1"
+	}
+}
+
+41032 = {
+	name="ºú¸ñ" #Hugh # 2nd earl of Shrewsbury
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=152 #Roger II de Montgommery
+	mother=449 #Maud de Belesme/Talvas
+	1059.1.1 = {
+		birth="1059.1.1"
+	}
+	1098.8.9 = {
+		death="1098.8.9"
+	}
+}
+
+41211 = {
+	name="Äá¹ÅÀ­Ë¹" #Nicholas #de Toeni de Stafford
+	dynasty=25063
+	religion="catholic"
+	culture="norman" 
+	father=110638 #Robert de Toeni de Stafford
+	1066.1.1 = {
+		birth="1066.1.1"
+	}
+	1116.1.1 = {
+		death="1116.1.1"
+	}
+}
+
+41230 = {
+	name="ÓÈË¹ËþÉª" #Eustace
+	dynasty=102
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=41232
+	mother=161347
+	1020.1.1 = {
+		birth="1020.1.1"
+	}
+	1037.1.2 = {
+		add_spouse=41231
+	}
+	1065.1.1 = {
+		death="1065.1.1"
+	}
+}
+
+41232 = {
+	name="Â³µÀ·ò" #Rudolf
+	dynasty=102
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=41233
+	mother=32136
+	986.1.1 = {
+		birth="986.1.1"
+	}
+	1016.1.1 = {
+		add_spouse=161347
+	}
+	1036.1.1 = {
+		death="1036.1.1"
+	}
+}
+
+41233 = {
+	name="°¢µÀ·ò" #Ardolf
+	dynasty=102
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=41234
+	mother=161344
+	965.1.1 = {
+		birth="965.1.1"
+	}
+	985.1.1={
+		add_spouse=32136
+	}
+	1000.1.1 = {
+		death="1000.1.1"
+	}
+}
+
+41235 = {
+	name="º£ÀÕÞ±É¯" #Helewisa
+	female=yes
+	dynasty=102
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="amateurish_plotter"
+	father=41234
+	966.1.1 = {
+		birth="966.1.1"
+	}
+	1000.1.1 = {
+		death="1000.1.1"
+	}
+}
+
+41236 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=101885
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="just"
+	trait="proud"
+	trait="lustful"
+	trait="tough_soldier"
+	father=41232
+	1024.1.1 = {
+		birth="1024.1.1"
+	}
+	1064.1.1 = {
+		add_spouse=41237
+	}
+	1074.1.1 = {
+		death="1074.1.1"
+	}
+}
+
+41238 = {
+	name="¼ª¶û²®ÌØ" #Gilbert
+	dynasty=101885
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	father=41236
+	mother=41237
+	1066.1.1 = {
+		birth="1066.1.1"
+	}
+	1116.1.1 = {
+		death="1116.1.1"
+	}
+}
+
+41241 = {
+	name="ºàÀû" #Henry
+	dynasty=352
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="lustful"
+	trait="brave"
+	trait="tough_soldier"
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1053.1.2 = {
+		add_spouse=41242
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+41242 = {
+	name="±´¶ûËþ" #Bertha
+	female=yes
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="proud"
+	trait="naive_appeaser"
+	1034.1.1 = {
+		birth="1034.1.1"
+	}
+	1084.1.1 = {
+		death="1084.1.1"
+	}
+}
+
+41243 = {
+	name="Òò¸ùÅ¬¶û·ò" #Ingenulf
+	dynasty=352
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=41241
+	mother=41242
+	1058.1.1 = {
+		birth="1058.1.1"
+	}
+	1099.1.1 = {
+		death="1099.1.1"
+	}
+}
+
+41250 = {
+	name="Àí²éµÂ" #Richard
+	# AKA: Richard 'le Goz'
+	dynasty=4047
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="gluttonous"
+	trait="proud"
+	trait="brave"
+	trait="tough_soldier"
+	father=41255
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1050.1.2 = {
+		add_spouse=156
+	}
+	1078.1.1 = {
+		death="1078.1.1"
+	}
+}
+
+41251 = {
+	name="ºú¸ñ" #Hugh
+	# AKA: Hugh 'Lupus'
+	dynasty=4047
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="gluttonous"
+	trait="wroth"
+	trait="brave"
+	trait="tough_soldier"
+	father=41250
+	mother=156
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1101.7.27 = {
+		death="1101.7.27"
+	}
+}
+
+41252 = {
+	name="°¢¶ûÝíÀÙ´ï" #Albereda
+	female=yes
+	dynasty=4047
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="just"
+	trait="humble"
+	trait="charismatic_negotiator"
+	father=41250
+	mother=156
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1095.1.1 = {
+		death="1095.1.1"
+	}
+}
+
+41253 = {
+	name="Ã¯µÂ" #Maud
+	female=yes
+	dynasty=4047
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="zealous"
+	trait="martial_cleric"
+	father=41250
+	mother=156
+	1054.1.1 = {
+		birth="1054.1.1"
+	}
+	1104.1.1 = {
+		death="1104.1.1"
+	}
+}
+
+41254 = {
+	name="ÖìµÏË¹" #Judith
+	female=yes
+	dynasty=4047
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="zealous"
+	trait="thrifty_clerk"
+	father=41250
+	mother=156
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	1105.1.1 = {
+		death="1105.1.1"
+	}
+}
+
+41255 = {
+	name="Í¼¶ûË¹Ì¹" #Thurstan
+	dynasty=4047
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=41256
+	989.1.1 = {
+		birth="989.1.1"
+	}
+	1033.1.1 = {
+		death="1033.1.1"
+	}
+}
+
+41260 = {
+	name="±«µÂÎÂ" #Baldwin #count of Devon 1066-1090
+	dynasty=101886
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="diligent"
+	trait="tough_soldier"
+	father=41013
+	1030.1.2 = {
+		birth="1030.1.2"
+	}
+	1060.1.2 = {
+		add_spouse=41252
+	}
+	1066.1.1 = {
+		employer=140
+	}
+	1090.2.1 = {
+		death="1090.2.1"
+	}
+}
+
+41261 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=101886
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="humble"
+	father=41260
+	mother=41252
+	1062.1.1 = {
+		birth="1062.1.1"
+	}
+	1101.12.1 = {
+		death="1101.12.1"
+	}
+}
+
+41262 = {
+	name="ÍþÁ®" #William
+	dynasty=101886
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	father=41260
+	mother=41252
+	1063.1.1 = {
+		birth="1063.1.1"
+	}
+	1096.1.1 = {
+		death="1096.1.1"
+	}
+}
+
+41263 = {
+	name="Àí²éµÂ" #Richard #count of Devon 1090 - 1137
+	dynasty=101886
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	father=41260
+	mother=41252
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1137.6.25 = {
+		death="1137.6.25"
+	}
+}
+
+41264 = {
+	name="°¢µÂÀ³Ë¿" #Adelise
+	female=yes
+	dynasty=101886
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="thrifty_clerk"
+	father=41260
+	mother=41252
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1142.8.24 = {
+		death="1142.8.24"
+	}
+}
+
+41265 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=101857
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="lustful"
+	trait="diligent"
+	trait="tough_soldier"
+	1049.1.1 = {
+		birth="1049.1.1"
+	}
+	1092.1.1 = {
+		add_spouse=32500
+	}
+	1107.9.8 = {
+		death="1107.9.8"
+	}
+}
+
+41730 = {
+	name="ÇÇµ¤" #Jordan
+	dynasty=678
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="deceitful"
+	trait="tough_soldier"
+	father=1132
+	1052.1.2 = {
+		birth="1052.1.2"
+	}
+	1102.1.2 = {
+		death="1102.1.2"
+	}
+}
+
+41732 = {
+	name="¸ÇÒÁ" #Guy
+	dynasty=678
+	martial=3
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=1128
+	mother=1123
+	1062.1.2 = {
+		birth="1062.1.2"
+	}
+	1112.1.2 = {
+		death="1112.1.2"
+	}
+}
+
+41733 = {
+	name="ÂÞÈûÁÖ" #Roscelin
+	female=yes
+	dynasty=20014
+	martial=9
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="deceitful"
+	trait="skilled_tactician"
+	1035.1.2 = {
+		birth="1035.1.2"
+	}
+	1085.1.2 = {
+		death="1085.1.2"
+	}
+}
+
+42004 = {
+	name="¸¥Â³ÃÅÍ¡" #Frumentin
+	dynasty=678
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	father=1120
+	mother=10008
+	1029.1.2 = {
+		birth="1029.1.2"
+	}
+	1034.1.2 = {
+		death="1034.1.2"
+	}
+}
+
+42005 = {
+	name="±´æ«ÌØÀö¿ËË¿" #Beatrix
+	female=yes
+	dynasty=678
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="intricate_webweaver"
+	father=1120
+	mother=10000
+	1006.1.2 = {
+		birth="1006.1.2"
+	}
+	1056.1.2 = {
+		death="1056.1.2"
+	}
+}
+
+42006 = {
+	name="°¢ÂüµÂ" #Armand
+	dynasty=25062
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="underhanded_rogue"
+	1005.1.2 = {
+		birth="1005.1.2"
+	}
+	1026.1.2 = {
+		add_spouse=42005
+	}
+	1055.1.2 = {
+		death="1055.1.2"
+	}
+}
+
+42007 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=25062
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="flamboyant_schemer"
+	father=42006
+	mother=42005
+	1020.1.2 = {
+		birth="1020.1.2"
+	}
+	1066.1.2 = {
+		add_spouse=42008
+	}
+	1070.1.2 = {
+		death="1070.1.2"
+	}
+}
+
+42010 = {
+	name="¿µË¹Ì¹¶¡" #Constantine
+	dynasty=678
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=85016
+	1046.1.1 = {
+		birth="1046.1.1"
+	}
+	1066.1.1 = {
+		employer = 1128 #Robert Guiscard
+	}
+	1081.1.1 = {
+		employer = 1742 #Alexios Komnenos
+	}
+
+	1112.1.1 = {
+		death="1112.1.1"
+	}
+}
+
+42011 = {
+	name="µ¤¿ËÀ×µÂ" #Tancred
+	dynasty=200080
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="deceitful"
+	trait="amateurish_plotter"
+	father=171154
+	mother=171153
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1088.1.1 = {
+		death="1088.1.1"
+	}
+}
+
+42012 = {
+	name="ÑÇÀúÉ½´ó" #Alexander
+	# AKA: Alessandro
+	dynasty=200080
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="zealous"
+	trait="martial_cleric"
+	father=171154
+	mother=171153
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+448 = {
+	name="ÍþÁ®" #William
+	dynasty=709
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="skilled_tactician"
+	1002.1.2 = {
+		birth="1002.1.2"
+	}
+	1057.1.2 = {
+		death="1057.1.2"
+	}
+}
+
+449 = {
+	name="Âê°Ø¶û" #Mabel #Talvas
+	female=yes
+	dynasty=709 #de Belesme
+	religion="catholic"
+	culture="norman"
+	trait="charismatic_negotiator"
+	father=448
+	1023.1.1 = {
+		birth="1023.1.1"
+	}
+	# 1048 married  #Roger II de Montgommery
+	1075.1.1 = {
+		death="1075.1.1"
+	}
+}
+
+552 = {
+	name="ÍþÁ®" #William
+	dynasty=748
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="martial_cleric"
+	father=171
+	mother=551
+	1119.1.1 = {
+		birth="1119.1.1"
+	}
+	1135.1.1 = {
+		add_spouse=204646
+	}
+	1148.1.1 = {
+		death="1148.1.1"
+	}
+}
+
+5610 = {
+	name="À­µÀ·ò" #Radulf
+	dynasty=563
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="craven"
+	trait="tough_soldier"
+	1061.1.2 = {
+		birth="1061.1.2"
+	}
+	1111.1.2 = {
+		death="1111.1.2"
+	}
+}
+
+5686 = {
+	name="ÍÐÂíË¹" #Thomas
+	dynasty=100073
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="ill"
+	trait="scholarly_theologian"
+	1038.1.2 = {
+		birth="1038.1.2"
+	}
+	1088.1.2 = {
+		death="1088.1.2"
+	}
+}
+
+5688 = {
+	name="½ÜÀ­µÂ" #Gerard
+	dynasty=100073
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="patient"
+	trait="martial_cleric"
+	1052.1.2 = {
+		birth="1052.1.2"
+	}
+	1102.1.2 = {
+		death="1102.1.2"
+	}
+}
+
+5690 = {
+	name="ÍÐÂíË¹" #Thomas
+	dynasty=100073
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="proud"
+	trait="cynical"
+	trait="scholarly_theologian"
+	1042.1.2 = {
+		birth="1042.1.2"
+	}
+	1092.1.2 = {
+		death="1092.1.2"
+	}
+}
+
+6513 = {
+	name="À¥¶à" #Cundo #Condoha Vagéna d'Eu
+	female=yes
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	father=6820
+	mother=6821
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	#1060 married Foulques I Taillefer 40106
+	1087.1.1 = {
+		death="1087.1.1"
+	}
+}
+
+6801 = {
+	name="¹±ÅµÀ­" #Gunnora
+	female=yes
+	dynasty=534
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="just"
+	trait="amateurish_plotter"
+	father=6800
+	945.1.2 = {
+		birth="945.1.2"
+	}
+	1031.1.2 = {
+		death="1031.1.2"
+	}
+}
+
+6802 = {
+	name="ºÕ¶û·¨Ë¹ÌØ" #Herfast
+	dynasty=534
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="charitable"
+	trait="kind"
+	trait="charismatic_negotiator"
+	father=6800
+	975.1.2 = {
+		birth="975.1.2"
+	}
+	1023.1.2 = {
+		death="1023.1.2"
+	}
+}
+
+6803 = {
+	name="Þ±Î¬æ«" #Wevia
+	female=yes
+	dynasty=534
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	father=6800
+	973.1.2 = {
+		birth="973.1.2"
+	}
+	1028.1.2 = {
+		death="1028.1.2"
+	}
+}
+
+6804 = {
+	name="°ÂË¹±¾" #Osbern
+	dynasty=534
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	father=6802
+	1000.1.2 = {
+		birth="1000.1.2"
+	}
+	1023.1.2 = {
+		add_spouse=6805
+	}
+	1040.1.2 = {
+		death="1040.1.2"
+	}
+}
+
+6806 = {
+	name="ÍþÁ®" #William
+	dynasty=534
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="lustful"
+	trait="skilled_tactician"
+	father=6804
+	mother=6805
+	1026.1.2 = {
+		birth="1026.1.2"
+	}
+	1055.1.1 = {
+		add_spouse=110639
+	}
+	1071.2.22 = {
+		death="1071.2.22"
+	}
+}
+
+6807 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=534
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="proud"
+	trait="deceitful"
+	trait="wroth"
+	trait="tough_soldier"
+	father=6806
+	mother=110639
+	1056.1.2 = {
+		birth="1056.1.2"
+	}
+	1106.1.2 = {
+		death="1106.1.2"
+	}
+}
+
+6808 = {
+	name="ÍþÁ®" #William
+	dynasty=534
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="proud"
+	trait="gluttonous"
+	trait="thrifty_clerk"
+	father=6806
+	mother=110639
+	1057.1.2 = {
+		birth="1057.1.2"
+	}
+	1107.1.2 = {
+		death="1107.1.2"
+	}
+}
+
+6809 = {
+	name="°¬Âê" #Emma
+	female=yes
+	dynasty=534
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="lustful"
+	trait="honest"
+	trait="thrifty_clerk"
+	father=6806
+	mother=110639
+	1053.1.2 = {
+		birth="1053.1.2"
+	}
+	1103.1.2 = {
+		death="1103.1.2"
+	}
+}
+
+6810 = {
+	name="°¢µÂÀ³Ë¿" #Adelise
+	female=yes
+	dynasty=534
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	father=6806
+	mother=110639
+	1065.1.2 = {
+		birth="1065.1.2"
+	}
+	1115.1.2 = {
+		death="1115.1.2"
+	}
+}
+
+6812 = {
+	name="°ÂË¹±¾" #Osbern
+	dynasty=534
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="temperate"
+	trait="chaste"
+	trait="zealous"
+	trait="detached_priest"
+	father=6804
+	mother=6805
+	1040.1.2 = {
+		birth="1040.1.2"
+	}
+	1090.1.2 = {
+		death="1090.1.2"
+	}
+}
+
+6816 = {
+	name="ºú¸ñ" #Hugh #bishop of Lisieux
+	dynasty=752
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="arbitrary"
+	trait="cynical"
+	trait="hunchback"
+	trait="detached_priest"
+	father=258
+	mother=6817
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1077.7.17 = {
+		death="1077.7.17"
+	}
+}
+
+6817 = {
+	name="À³ÉªÁÕ" #Lesceline
+	female=yes
+	dynasty=530
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="honest"
+	trait="martial_cleric"
+	990.1.1 = {
+		birth="990.1.1"
+	}
+	1057.1.27 = {
+		death="1057.1.27"
+	}
+}
+
+6818 = {
+	name="ÍþÁ®" #William
+	dynasty=752
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=258
+	mother=6817
+	1026.1.1 = {
+		birth="1026.1.1"
+	}
+	1077.1.27 = {
+		death="1077.1.27"
+	}
+}
+
+6819 = {
+	name="ÀöÍ¼°®Éª" #Lithuaise
+	female=yes
+	dynasty=752
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="envious"
+	trait="temperate"
+	trait="craven"
+	trait="ill"
+	trait="martial_cleric"
+	father=6816
+	1046.1.1 = {
+		birth="1046.1.1"
+	}
+	1075.1.1 = {
+		death="1075.1.1"
+	}
+}
+
+6820 = {
+	name="ÂÞ²®ÌØ" #Robert #count of Eu 1057-1089
+	dynasty=752
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="humble"
+	trait="flamboyant_schemer"
+	father=258
+	mother=6817
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1042.1.1 = {
+		add_spouse=6821
+	}
+	1089.9.8 = {
+		death="1089.9.8"
+	}
+}
+
+6821 = {
+	name="±´æ«ÌØÀö¿ËË¿" #Beatrix
+	female=yes
+	dynasty=100096
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="slothful"
+	trait="amateurish_plotter"
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1075.1.1 = {
+		death="1075.1.1"
+	}
+}
+
+6822 = {
+	name="ÍþÁ®" #William #count of Eu 1089 - 1096
+	dynasty=752
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="patient"
+	trait="brave"
+	trait="skilled_tactician"
+	father=6820
+	mother=6821
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1075.1.1 = {
+		add_spouse=32210
+	} 
+	1096.1.2 = {
+		death="1096.1.2"
+	}
+}
+
+7430 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=352
+	religion="catholic"
+	culture="norman"
+	father=41241
+	mother=41242
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1139.1.1 = {
+		death="1139.1.1"
+	}
+}
+
+7582 = {
+	name="°®µÂ»ª" #Edward
+	dynasty=22001
+	religion="catholic"
+	culture="norman"
+	father=10016
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+7583 = {
+	name="ÎÖ¶ûÌØ" #Walter
+	dynasty=22001
+	religion="catholic"
+	culture="norman"
+	father=7582
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1147.1.1 = {
+		death="1147.1.1"
+	}
+}
+
+7624 = {
+	name="°¬Âê" #Emma 
+	female=yes
+	dynasty=101754
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="gluttonous"
+	trait="skilled_tactician"
+	father=150
+	mother=149
+	1058.1.1 = {
+		birth="1058.1.1"
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+82051 = {
+	name="ÂÞ½Ü" #Roger #eldest son of 1st Shrewsbury earl
+	# AKA: Roger 'Parvulus'
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=152 #Roger II de Montgommery
+	mother=449 #Maud de Belesme/Talvas
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1064.1.1 = {
+		death="1064.1.1"
+	}
+}
+
+82052 = {
+	name="ÂÞ½Ü" #Roger # lord of Lancaster and Westmorland who revolted against Rufus and was expelled by henry 
+	# AKA: Roger 'the Poitevin'
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=152  #Roger II de Montgommery
+	mother=449 #Maud de Belesme/Talvas
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	1091.1.1 = {
+		add_spouse=138045 #Almodis de la marche
+	}
+	1123.1.1 = {
+		death="1123.1.1"
+	}
+}
+
+82053 = {
+	name="°¢Å¬¶û·ò" #Arnulf # youngest son of earl of Shrewsbury, briefly earl of Holderness, who married daughter of Muirchertach Ó Briaín
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=152 #Roger II de Montgommery
+	mother=449 #Maud de Belesme/Talvas
+	1067.1.1 = {
+		birth="1067.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+82054 = {
+	name="ÒÁÎÖ" #Ivo
+	# AKA: Ivo 'Taillebois'
+	dynasty=9109
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="cynical"
+	trait="fortune_builder"
+	trait="greedy"
+	trait="hunter"
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1084.1.2 = {
+		add_spouse=82058
+	}
+	1094.1.1 = {
+		death="1094.1.1"
+	}
+}
+
+82055 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=9110
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	father=82086
+	1047.1.1 = {
+		birth="1047.1.1"
+	}
+	1094.7.1 = {
+		add_spouse=82058
+	}
+	1098.1.1 = {
+		death="1098.1.1"
+	}
+}
+
+82056 = {
+	name="ÍþÁ®" #William # earl of Lincoln
+	dynasty=9110
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	father=82055
+	mother=82058
+	1096.1.1 = {
+		birth="1096.1.1"
+	}
+	1113.1.1 = {
+		add_spouse=155242
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+
+82059 = {
+	name="Âê¸ñÀöÌØ" #Margaret # mother of Ranulf le Meschin
+	female=yes
+	dynasty=4047
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	father=41250
+	mother=156
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1117.1.1 = {
+		death="1117.1.1"
+	}
+}
+
+82060 = {
+	name="À­Å¬¶û·ò" #Ranulf
+	# AKA: Ranulf 'the Viscount'
+	dynasty=9111
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1060.1.2 = {
+		add_spouse=82059
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+82061 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=9111
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="ill"
+	father=82060
+	mother=82059
+	1061.1.1 = {
+		birth="1061.1.1"
+	}
+	1079.1.1 = {
+		death="1079.1.1"
+	}
+}
+
+82062 = {
+	name="À­Å¬¶û·ò" #Ranulf
+	# AKA: Ranulf 'le Meschin'
+	dynasty=9111
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="fortune_builder"
+	trait="tough_soldier"
+	father=82060
+	mother=82059
+	1063.1.1 = {
+		birth="1063.1.1"
+	}
+	1098.7.1 = {
+		add_spouse=82058
+	}
+	1129.1.10 = {
+		death="1129.1.10"
+	}
+}
+
+82063 = {
+	name="ÍþÁ®" #William
+	dynasty=9111
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	father=82060
+	mother=82059
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1127.1.1 = {
+		death="1127.1.1"
+	}
+}
+
+82064 = {
+	name="°¬¸ñÄáË¿" #Agnes
+	female=yes
+	dynasty=9111
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	father=82060
+	mother=82059
+	1065.1.1 = {
+		birth="1065.1.1"
+	}
+	1137.1.1 = {
+		death="1137.1.1"
+	}
+}
+
+82065 = {
+	name="ÄÎ½Ü¶û" #Nigel
+	# AKA: Nigel 'd'Aubigny'
+	dynasty=9115 
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1107.1.1 = {
+		add_spouse=82067
+	}
+	1118.6.1 = {
+		add_spouse=82075
+	}
+	1129.7.1 = {
+		death="1129.7.1"
+	}
+}
+
+82066 = {
+	name="ÂÞ½Ü" #Roger # name speculative for unnamed father of Roger Geoffrey and Alicia de Mowbray 
+	dynasty=558
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	1004.1.1 = {
+		birth="1004.1.1"
+	}
+	1061.7.1 = {
+		death="1061.7.1"
+	}
+}
+
+82068 = {
+	name="½Ü¸¥Àï" #Geoffrey # bishop of Coutances
+	dynasty=558
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	father=82066
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1093.7.1 = {
+		death="1093.7.1"
+	}
+}
+
+82069 = {
+	name="ÂÞ½Ü" #Roger # father of the earl of Northumbria
+	dynasty=558
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	father=82066
+	1024.1.1 = {
+		birth="1024.1.1"
+	}
+	1069.7.1 = {
+		death="1069.7.1"
+	}
+}
+
+82070 = {
+	name="ÂÞ²®ÌØ" #Robert # earl of Northumbria
+	dynasty=558
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	father=82069
+	1062.1.1 = {
+		birth="1062.1.1"
+	}
+	1095.1.1 = {
+		add_spouse=82067
+	}
+	1107.1.1 = {
+		remove_spouse=82067
+	}
+	1125.7.1 = {
+		death="1125.7.1"
+	}
+}
+
+82071 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=9115
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	father=82065
+	mother=82075
+	1126.1.1 = {
+		birth="1126.1.1"
+	}
+	1176.4.13 = {
+		death="1176.4.13"
+	}
+}
+
+82072 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=9115
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	father=204803
+	1201.1.1 = {
+		birth="1201.1.1"
+	}
+	1266.11.1 = {
+		death="1266.11.1"
+	}
+}
+
+82074 = {
+	name="ÂÞ½Ü" #Roger # died on 3rd Crusade
+	dynasty=9115
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="norman"
+	father=82065
+	mother=82075
+	1124.1.1 = {
+		birth="1124.1.1"
+	}
+	1145.1.1 = {
+		add_spouse=161444
+	}
+	1188.1.1 = {
+		death="1188.1.1"
+	}
+}
+
+82075 = {
+	name="¹±µÂÁÐ´ï" #Gundreda
+	female=yes
+	dynasty=101691
+	martial=7
+	diplomacy=5
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	1101.1.1 = {
+		birth="1101.1.1"
+	}
+	1155.7.1 = {
+		death="1155.7.1"
+	}
+}
+
+82085 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=4047
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="wroth"
+	trait="tough_soldier"
+	father=41251
+	1094.1.1 = {
+		birth="1094.1.1"
+	}
+	1120.11.25 = {
+		death="1120.11.25"
+	}
+}
+
+82086 = {
+	name="¸ñÂÞ¶ûµÂ" #Gerold
+	dynasty=9110
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	1024.1.1 = {
+		birth="1024.1.1"
+	}
+	1068.1.1 = {
+		death="1068.1.1"
+	}
+}
+
+85002 = {
+	name="½Ü¸¥Àï" #Geoffrey
+	dynasty=678
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	trait="brilliant_strategist"
+	father=1120
+	mother=10008
+	1007.1.2 = {
+		birth="1007.1.2"
+	}
+	1070.1.1={
+		add_spouse=200365
+	}
+	1063.1.2 = {
+		death="1063.1.2"
+	}
+}
+
+85003 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=678
+	martial=7
+	diplomacy=7
+	intrigue=3
+	stewardship=9
+	religion="catholic"
+	culture="norman"
+	trait="skilled_tactician"
+	father=85002
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1107.1.1 = {
+		death="1107.1.1"
+	}
+}
+
+85004 = {
+	name="µÂÂÞ¸ê" #Drogo
+	# AKA: Drogo 'Tasso'
+	dynasty=678
+	martial=9
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="brilliant_strategist"
+	father=85002
+	1038.1.2 = {
+		birth="1038.1.2"
+	}
+	1088.1.2 = {
+		death="1088.1.2"
+	}
+}
+
+85005 = {
+	name="À­µÀ·ò" #Radulf
+	dynasty=678
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="zealous"
+	trait="martial_cleric"
+	father=85002
+	1041.1.1 = {
+		birth="1041.1.1"
+	}
+	1102.1.1 = {
+		death="1102.1.1"
+	}
+}
+
+85006 = {
+	name="°¬Âê" #Emma
+	female=yes
+	dynasty=678
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="thrifty_clerk"
+	father=85002
+	1043.1.2 = {
+		birth="1043.1.2"
+	}
+	1093.1.2 = {
+		death="1093.1.2"
+	}
+}
+
+85014 = {
+	name="Ã«¸ñ" #Mauger
+	dynasty=678
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=1120
+	mother=10008
+	1021.1.2 = {
+		birth="1021.1.2"
+	}
+	1060.1.2 = {
+		death="1060.1.2"
+	}
+}
+
+85015 = {
+	name="°Â²¼Àï" #Aubrey
+	dynasty=678
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	father=1120
+	mother=10008
+	1024.1.2 = {
+		birth="1024.1.2"
+	}
+	1065.1.2 = {
+		death="1065.1.2"
+	}
+}
+
+85016 = {
+	name="ºà²®ÌØ" #Humbert
+	dynasty=678
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="naive_appeaser"
+	father=1120
+	mother=10008
+	1026.1.2 = {
+		birth="1026.1.2"
+	}
+	1076.1.2 = {
+		death="1076.1.2"
+	}
+}
+
+85017 = {
+	name="µ¤¿ËÀ×µÂ" #Tancred
+	dynasty=678
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="skilled_tactician"
+	father=1120
+	mother=10008
+	1028.1.2 = {
+		birth="1028.1.2"
+	}
+	1078.1.2 = {
+		death="1078.1.2"
+	}
+}
+
+98008 = {
+	name="·ÑÀûÆëæ«" #Felicia
+	female=yes
+	dynasty=678
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="amateurish_plotter"
+	father=1132
+	1078.1.2 = {
+		birth="1078.1.2"
+	}
+	1102.1.2 = {
+		death="1102.1.2"
+	}
+}
+
+98013 = {
+	name="¿ËÀïË¹µÙ°²ÄÈ" #Cristiana
+	female=yes
+	dynasty=676
+	martial=3
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	trait="intricate_webweaver"
+	father=98014
+	# mother=
+	1101.1.1 = {
+		birth="1101.1.1"
+	}
+	1131.3.1 = {
+		death="1131.3.1"
+	}
+}
+
+98014 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=676
+	martial=7
+	diplomacy=6
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="fortune_builder"
+	father=1154
+	mother=30855
+	1079.1.1 = {
+		birth="1079.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+31399 = {
+	name="ÂêµÙ¶û´ï" #Matilda
+	# AKA: Matilda FitzRoy, Duchess of Brittany
+	female=yes
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="intricate_webweaver"
+	father=202992 #Henry I
+	1091.1.1 = {
+		birth="1091.1.1"
+	}
+	1132.1.1 = {
+		death="1132.1.1"
+	}
+}
+
+32500 = {
+	name="°¢µÂÀöÉ¯" #Adeliza
+	female=yes
+	dynasty=349
+	religion="catholic"
+	culture="norman"
+	father=32501
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	1156.5.27 = {
+		death="1156.5.27"
+	}
+}
+
+32501 = {
+	name="ÍþÁ®" #William
+	dynasty=349
+	religion="catholic"
+	culture="norman"
+	1054.1.1 = {
+		birth="1054.1.1"
+	}
+	1114.1.28 = {
+		death="1114.1.28"
+	}
+}
+
+32502 = {
+	name="ÍþÁ®" #William
+	dynasty=349
+	religion="catholic"
+	culture="norman"
+	father=32501
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1155.1.1 = {
+		death="1155.1.1"
+	}
+}
+
+32503 = {
+	name="ÍþÁ®" #William
+	dynasty=101857
+	religion="catholic"
+	culture="norman"
+	father=41265
+	mother=32500
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1151.6.16 = {
+		death="1151.6.16"
+	}
+}
+
+32210= {
+	name="ºÕÀòÉ­µÂ" #Helisende
+	female=yes
+	dynasty=4047
+	religion="catholic"
+	culture="norman"
+	father=41250
+	mother=156
+	1056.1.1 = {
+	birth="1056.1.1"
+	}
+	1096.1.1 = {
+	death="1096.1.1"
+	}
+}
+
+32211 = {
+	name="ºàÀû" #Henry #count of Eu 1096 - 1140
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	father=6822
+	mother=32210
+	1076.1.1 = {
+	birth="1076.1.1"
+	}
+	#marries Marguerite de Blois
+	1140.7.12 = {
+	death="1140.7.12"
+	}
+}
+32212 = {
+	name="ÂÞ²®ÌØ" #Robert 
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	father=6822
+	mother=32210
+	1078.1.1 = {
+	birth="1078.1.1"
+	}
+	1149.1.1 = {
+	death="1149.1.1"
+	}
+}
+
+32213 = {
+	name="ÍþÁ®" #William 
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	father=6822
+	mother=32210
+	1080.1.1 = {
+	birth="1080.1.1"
+	}
+	1130.1.1 = {
+	death="1130.1.1"
+	}
+}
+
+204646 = {
+	name="°¢µÂÀòæ«" #Adelia #de Talvas
+	# AKA: Ada
+	female=yes
+	dynasty=709
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="kind"
+	trait="martial_cleric"
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	#married William de Warenne count of Surrey
+	1174.1.1 = {
+		death="1174.1.1"
+	}
+}
+
+138054 = {
+	name="°¢¶ûµÂ±´¶ûÌØ" #Aldebert #Aldebert III de la marche/montgommery
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=82052  #Roger le Poitevin
+	mother=138045 #Almodis de la marche
+	1095.1.1 = {
+		birth="1095.1.1"
+	}
+	#1145 married Orengarde ?
+	1168.2.1 = {
+		death="1168.2.1"
+	}	
+}
+
+138055 = {
+	name="±¦É­" #Boson #Boson IV de la marche/montgommery
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=82052  #Roger le Poitevin
+	mother=138045 #Almodis de la marche
+	1093.1.1 = {
+		birth="1093.1.1"
+	}
+	1118.1.1 = {
+		death="1118.1.1"
+	}	
+}
+
+138056 = {
+	name="ÓÈµÂË¹" #Eudes #Eudes II de la marche/montgommery
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=82052  #Roger le Poitevin
+	mother=138045 #Almodis de la marche
+	1094.1.1 = {
+		birth="1094.1.1"
+	}
+	1135.1.1 = {
+		death="1135.1.1"
+	}	
+}
+
+138057 = {
+	name="ÅÓµÙæ«" #Pontia  #Pontia de la Marche/montgommery
+	female=yes
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=82052  #Roger le Poitevin
+	mother=138045 #Almodis de la marche
+	1099.1.1 = {
+		birth="1099.1.1"
+	}
+	#married Vulgrim II of Angouleme 205647
+	1130.1.1 = {
+		death="1130.1.1"
+	}	
+}
+
+138062 = {
+	name="°¢µÂ¶û²®ÌØ" #Adelbert #Adelbert IV de la marche
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=138054  #Adelbert III de la marche/montgommery
+	1148.1.1 = {
+		birth="1148.1.1"
+	}
+	1178.1.1 = {
+		trait="crusader"
+	}
+	1178.8.29 = {
+		death="1178.8.29"
+	}	
+}
+
+138064 = {
+	name="±¦É­" #Boson #Boson V de la marche
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=138054  #Adelbert III de la marche/montgommery
+	1146.1.1 = {
+		birth="1146.1.1"
+	}
+	1172.1.1 = {
+		death="1172.1.1"
+	}	
+}
+
+32265 = {
+	name="°¢Å¬¶û·ò" #Arnulf 
+	religion="catholic"
+	culture="norman"
+	trait="martial_cleric"
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1118.1.1 = {
+		death="1118.1.1"
+	}
+}
+
+32289 = {
+	name="Î÷±Ì¶û" #Sibylle
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1128
+	mother=1123
+	1068.1.1 = {
+		birth="1068.1.1"
+	}
+	1117.1.1 = {
+		death="1117.1.1"
+	}
+}
+
+204655 = {
+	name="±«µÂÎÂ" #Baldwin #count of Devon 1141-1155
+	dynasty=101857
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norman"
+	trait="wroth"
+	trait="skilled_tactician"
+	father=41265
+	mother=32500
+	1093.1.1 = {
+		birth="1093.1.1"
+	}
+	1124.1.1 = {
+		add_spouse=204656
+	}
+	1155.1.4 = {
+		death="1155.1.4"
+	}
+}
+
+91198 = {
+	name="°¢¸ñÄÝË¿" #Agnès #Agnès de Mortain
+	female=yes
+	dynasty=101754 #Conteville
+	father=150 #Robert, baron de Shrewsbury
+	mother=149 #Mathilda de Montgommey
+	religion="catholic"
+	culture="norman"
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+32138 = {
+	name="°¬Âê" #Emma
+	female=yes
+	dynasty=4011
+	religion="catholic"
+	culture="norman"
+	father=32139
+	1082.1.2 = {
+		birth="1082.1.2"
+	}
+	1140.1.1 = {
+		death="1140.1.1"
+	}
+}
+
+32139 = {
+	name="ÍþÁ®" #William #count of Arques, baron of Folkestone
+	dynasty=4011
+	religion="catholic"
+	culture="norman"
+	father=32140
+	1044.1.2 = {
+		birth="1044.1.2"
+	}
+	1087.1.1 = {
+		death="1087.1.1"
+	}
+}
+
+32140 = {
+	name="¸ê¸¥À×" #Godfrey #count of Arques, baron of Folkestone
+	dynasty=4011
+	religion="catholic"
+	culture="norman"
+	father=32141
+	994.1.1 = {
+		birth="994.1.1"
+	}
+	1059.1.1 = {
+		death="1059.1.1"
+	}
+}
+
+32141 = {
+	name="°ÂË¹±¾" #Osbern 
+	dynasty=4011
+	religion="catholic"
+	culture="norman"
+	950.1.1 = {
+		birth="950.1.1"
+	}
+	1023.1.1 = {
+		death="1023.1.1"
+	}
+}
+
+32142 = {
+	name="ÎÖ¶ûÌØ" #Walter
+	dynasty=4011
+	religion="catholic"
+	culture="norman"
+	father=32141
+	991.1.1 = {
+		birth="991.1.1"
+	}
+	1084.1.1 = {
+		death="1084.1.1"
+	}
+}
+
+32143 = {
+	name="ÎÖ¶ûÌØ" #Walter #earl of Buckingham
+	dynasty=4011
+	religion="catholic"
+	culture="norman"
+	father=32142
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1102.7.15 = {
+		death="1102.7.15"
+	}
+}
+
+72123 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=12118
+	religion="catholic"
+	culture="norman"
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1130.1.1 = {
+		add_spouse=72124
+	}
+	1135.1.1 = {
+		add_spouse=72125
+	}
+	1154.1.1 = {
+		add_claim=c_tarragona
+	}
+	1159.1.1 = {
+		death="1159.1.1"
+	}
+}
+
+72124 = {
+	name="Î÷±ÌÀ­" #Sybilla
+	female=yes
+	religion="catholic"
+	culture="norman"
+	1114.1.1 = {
+		birth="1114.1.1"
+	}
+	1135.1.1 = {
+		death="1135.1.1"
+	}
+}
+
+129017 = {
+	name="ÍþÁ®" #William
+	religion="catholic"
+	culture="norman"
+	1028.1.1 = {
+		birth="1028.1.1"
+	}
+	1099.5.1 = {
+		death="1099.5.1"
+	}
+}
+
+129018 = {
+	name="À­Å¬¶û·ò" #Ranulf
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=9
+	religion="catholic"
+	culture="norman"
+	trait="midas_touched"
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1128.9.5 = {
+		death="1128.9.5"
+	}
+}
+
+129020 = {
+	name="ÍþÁ®" #William
+	religion="catholic"
+	culture="norman"
+	1092.1.1 = {
+		birth="1092.1.1"
+	}
+	1159.1.1 = {
+		death="1159.1.1"
+	}
+}
+
+129021 = {
+	name="ÍþÁ®" #William
+	religion="catholic"
+	culture="norman"
+	1096.1.1 = {
+		birth="1096.1.1"
+	}
+	1152.11.13 = {
+		death="1152.11.13"
+	}
+}
+
+129057 = {
+	name="ÎÌ¸¥ÂÞÒÁ" #Onfroi
+	dynasty=5061
+	religion="catholic"
+	culture="norman"
+	992.1.1 = {
+		birth="992.1.1"
+	}
+	1050.1.1 = {
+		death="1050.1.1"
+	}
+}
+
+204576 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=5061
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	father=129057
+	1020.1.2 = {
+		birth="1020.1.2"
+	}
+	1036.1.1 = {
+		add_spouse=204577
+	}
+	1094.1.24 = {
+		death="1094.1.24"
+	}
+}
+
+204596 = {
+	name="ÂÞ²®ÌØ" #Robert #Robert I de Meulan
+	dynasty=5061
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	trait="envious"
+	trait="thrifty_clerk"
+	father=204576
+	mother=204577
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1080.1.1 = {
+		add_spouse=30918
+	}
+	1090.11.1 = {
+		remove_spouse=30918
+	}
+	1096.1.1 = {
+		add_spouse=551
+	}
+	1114.12.1 = {
+		remove_spouse=551
+	}
+	1118.6.5 = {
+		death="1118.6.5"
+	}
+}
+
+204717 = {
+	name="ºàÀû" #Henri
+	dynasty=5061
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norman"
+	father=204576
+	mother=204577
+	1052.1.1 = {
+		birth="1052.1.1"
+	}
+	1119.6.20 = {
+		death="1119.6.20"
+	}
+}
+
+129083 = {
+	name="ÒÁ¶û²®ÌØ" #Boson #Ilbert de Lacie
+	dynasty=4037
+	religion="catholic"
+	culture="norman"
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1093.1.1 = {
+		death="1093.1.1"
+	}
+}
+
+138442 = {
+	name="¼ÍÒ¢Ä·" #Guillaume #Bishop Guillaume de Sure of Lyon/StJeanBaptiste
+	religion="catholic"
+	culture="norman"
+	1280.1.1 = {
+		birth="1280.1.1" #unknown
+	}
+	1340.9.20 = {
+		death="1340.9.20"
+	}	
+}
+
+73270 = {
+	name="ÇÇ·ðÀï" #Geoffroy
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73272
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1065.1.1 = {
+		add_spouse=73271
+	}
+	1082.12.1 = {
+		death="1082.12.1"
+	}
+}
+
+73271 = {
+	name="¹±ÅµÀ­" #Gunnora
+	female=yes
+	religion="catholic"
+	culture="norman"
+	1047.1.1 = {
+		birth="1047.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+73272 = {
+	name="°¢²é¶ûµÂ" #Acciard
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	1006.1.1 = {
+		birth="1006.1.1"
+	}
+	1058.1.1 = {
+		death="1058.1.1"
+	}
+}
+
+73273 = {
+	name="°¢ÅµµÂ" #Arnald
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73272
+	1032.1.1 = {
+		birth="1032.1.1"
+	}
+	1083.1.1 = {
+		death="1083.1.1"
+	}
+}
+
+73274 = {
+	name="À³ÄÉ" #Rayner
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73272
+	1034.1.1 = {
+		birth="1034.1.1"
+	}
+	1086.1.1 = {
+		death="1086.1.1"
+	}
+}
+
+73275 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73272
+	1036.1.1 = {
+		birth="1036.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+73276 = {
+	name="ÇÇ·ðÀï" #Geoffroy
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73270
+	mother=73271
+	1066.1.1 = {
+		birth="1066.1.1"
+	}
+	1114.1.1 = {
+		death="1114.1.1"
+	}
+}
+
+73277 = {
+	name="À³ÄÉ" #Rayner
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73270
+	mother=73271
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+73278 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73270
+	mother=73271
+	1074.1.1 = {
+		birth="1074.1.1"
+	}
+	1122.1.1 = {
+		death="1122.1.1"
+	}
+}
+
+73279 = {
+	name="ÈûÂå" #Serlo
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73270
+	mother=73271
+	1078.1.1 = {
+		birth="1078.1.1"
+	}
+	1121.1.1 = {
+		death="1121.1.1"
+	}
+}
+
+73280 = {
+	name="°¢¶ûÝíÀ­´ï" #Alberada
+	female=yes
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73270
+	mother=73271
+	1082.1.1 = {
+		birth="1082.1.1"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+73281 = {
+	name="°¢²é¶ûµÂ" #Acciard
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73276
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1106.1.1 = {
+		add_spouse=73282
+	}
+	1137.5.1 = {
+		death="1137.5.1"
+	}
+}
+
+73282 = {
+	name="í®µÙ¶ûµÂ" #Mautild
+	female=yes
+	religion="catholic"
+	culture="norman"
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1150.1.1 = {
+		death="1150.1.1"
+	}
+}
+
+73283 = {
+	name="ÇÇ·ðÀï" #Geoffroy
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73281
+	mother=73282
+	1107.1.1 = {
+		birth="1107.1.1"
+	}
+	1174.4.8 = {
+		death="1174.4.8"
+	}
+}
+
+73284 = {
+	name="°¬Âê" #Emma
+	dynasty=100345
+	female=yes
+	religion="catholic"
+	culture="norman"
+	father=73281
+	mother=73282
+	1113.1.1 = {
+		birth="1113.1.1"
+	}
+	1190.5.1 = {
+		death="1190.5.1"
+	}
+}
+
+73285 = {
+	name="ÇÇ·ðÀï" #Geoffroy
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73276
+	1109.1.1 = {
+		birth="1109.1.1"
+	}
+	1133.5.1 = {
+		death="1133.5.1"
+	}
+}
+
+73286 = {
+	name="°¬¸ñÄáË¿" #Agnes
+	female=yes
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73276
+	1111.1.1 = {
+		birth="1111.1.1"
+	}
+	1137.3.1 = {
+		death="1137.3.1"
+	}
+}
+
+73287 = {
+	name="¼ªÂê¶û¿¨" #Gimarca
+	female=yes
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73276
+	1113.1.1 = {
+		birth="1113.1.1"
+	}
+	1142.7.1 = {
+		death="1142.7.1"
+	}
+}
+
+73356 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211501
+	mother=206512
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1158.1.1 = {
+		death="1158.1.1"
+	}
+}
+
+73357 = {
+	name="¶÷Àï¿Ë" #Enrico
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211501
+	mother=206512
+	1158.1.1 = {
+		birth="1158.1.1"
+	}
+	1172.6.16 = {
+		death="1172.6.16"
+	}
+}
+
+73358 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=100348
+	religion="catholic"
+	culture="norman"
+	1141.1.1 = {
+		birth="1141.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+32546 = {
+	name="¸ñÏ£¶ûµÂ" #Gohilde
+	female=yes
+	dynasty=7190 #di Cantanzaro
+	religion="catholic"
+	culture="norman"
+	father=32584
+	1211.1.1 = {
+		birth="1211.1.1"
+	}
+	1262.1.1 = {
+		death="1262.1.1"
+	}
+}
+
+32584 = {
+	name="ºú¸ñË¹" #Hughes
+	dynasty=7190 #di Catanzaro
+	religion="catholic"
+	culture="norman"
+	father=30896
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}
+
+211508 = {
+	name="Î÷±ÈÀ­" #Sibylla
+	female=yes
+	dynasty=100345
+	religion="catholic"
+	culture="norman"
+	father=73281
+	mother=73282
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1178.1.17 = {
+		death="1178.1.17"
+	}
+}
+
+211528 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211521
+	mother=73280
+	1124.1.1 = {
+		birth="1124.1.1"
+	}
+	1177.1.1 = {
+		death="1177.1.1"
+	}
+}
+
+211529 = {
+	name="ÍþÁ®" #William
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	trait="detached_priest"
+	father=211521
+	mother=73280
+	1126.1.1 = {
+		birth="1126.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+465525 = {
+	name="°¬ÀûÑÇ" #"Elia"
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=211526
+	1173.1.1 = {
+		birth="1173.1.1"
+	}
+	1225.1.1 = {
+		death="1225.1.1"
+	}
+}
+
+41210 = {
+	name="°¢Î¬Ë¿" #Avice
+	female=yes
+	dynasty=364
+	father=41014 #Richard de Tonbridge FitzGilbert de Clare
+	mother=41015 #Rohese Giffard
+	religion="catholic"
+	culture="norman"
+	1058.1.1 = {
+		birth="1058.1.1"
+	}
+	1094.1.1 = {
+		death="1094.1.1"
+	}
+}
+
+83303 = {
+	name="ÂÞ²®ÌØ" #Robert #Robert I de Umfraville
+	dynasty=9114
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	1081.1.1 = {
+		birth="1081.1.1"
+	}
+	1145.7.1 = {  
+		death="1145.7.1"
+	}
+}
+
+83304 = {
+	name="°ÂµÏÄÚ¶û" #Odinel #Odinel I de Umfraville
+	dynasty=9114
+	martial=5
+	diplomacy=5
+	intrigue=5 
+	stewardship=7
+	religion="catholic"	
+	culture="norman"
+	father=83303
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1156.7.1 = {  
+		death="1156.7.1"
+	}
+}
+
+83305 = {
+	name="¼ª¶û²®ÌØ" #Gilbert
+	dynasty=9114
+	martial=8
+	diplomacy=5
+	intrigue=5 
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	father=83303
+	1102.1.1 = {
+		birth="1102.1.1"
+	}
+	1152.7.1 = {  
+		death="1152.7.1"
+	}
+}
+
+73483 = {
+	name="ÂÞ½Ü" #Roger
+	dynasty=101843
+	religion="catholic"
+	culture="norman"
+	trait=scholarly_theologian
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1225.1.1 = {
+		death="1225.1.1"
+	}
+}
+
+138455 = {
+	name="ÂÞ²®ÌØ" #Robert #FitzHamon
+	dynasty=13115
+	religion="catholic"
+	culture="norman"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1087.1.1 = {
+		add_spouse=41030 #Sibyl de Montgommery
+	}
+	1107.3.1 = {
+		death="1107.3.1"
+	}
+}
+
+138457 = {
+	name="Âê°Ø¶û" #Mabel #FitzHamon of Gloucester
+	female=yes
+	dynasty=13115
+	religion="catholic"
+	culture="norman"
+	father=138455 #Robert FitzHamon
+	mother=41030 #Sibyl de Montgommery
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1157.9.29 = {
+		death="1157.9.29"
+	}
+}
+
+34605 = {
+	name="´ï¹û²®ÌØ" #Dagobert
+	dynasty=20066
+	religion="catholic"
+	culture="norman"
+	1020.1.1 = {
+		birth="1020.1.1"
+	}	
+	1060.1.1 = {
+		death="1060.1.1"
+	}
+}
+
+34606 = {
+	name="À­ÎÚ¶û" #Raoul 
+	dynasty=20066
+	religion="catholic"
+	culture="norman"
+	father=34605
+	1045.1.1 = {
+		birth="1045.1.1"
+	}	
+	1095.1.1 = {
+		death="1095.1.1"
+	}
+}
+
+93497 = {
+	name="À³Ä·±«µÂ" #Raimbaud
+	dynasty=7372
+	religion="catholic"
+	culture="norman"
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1074.1.1 = {
+		death="1074.1.1"
+	}
+}
+
+155240 = {
+	name="ÍþÁ®" #William
+	# William II de Roumare
+	dynasty=9110
+	religion="catholic"
+	culture="norman"
+	father=82056
+	mother=155242
+	1114.1.1 = {
+		birth="1114.1.1"
+	}
+	1144.1.1 = {
+		add_spouse=155243
+	}
+	1151.1.1 = {
+		death="1151.1.1"
+	}
+}
+
+155242 = {
+	name="¹þÞ±Éª" #Hawise
+	female=yes
+	dynasty=101857
+	religion="catholic"
+	culture="norman"
+	father=41265
+	mother=32500
+	1096.1.1 = {
+		birth="1096.1.1"
+	}
+	1136.1.1 = {
+		death="1136.1.1"
+	}
+}
+
+155245 = {
+	name="ÎÖ¿ËÁÖ" #Walkelin
+	dynasty=1027027
+	religion="catholic"
+	culture="norman"
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1098.1.3 = {
+		death="1098.1.3"
+	}
+}
+
+155246 = {
+	name="ÍþÁ®" #William
+	#William Giffard
+	dynasty=4011
+	religion="catholic"
+	culture="norman"
+    father=32142
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1129.1.20 = {
+		death="1129.1.20"
+	}
+}
+
+155249 = {
+	name="¸ê¸¥À×" #Godfrey
+	#Godfrey de Luci
+	dynasty=1027029
+	religion="catholic"
+	culture="norman"
+	1140.9.1 = {
+		birth="1140.9.1"
+	}
+	1204.9.11 = {
+		death="1204.9.11"
+	}
+}
+
+34220 = {
+	name="ÂÞËØ" #Roussel
+	dynasty=7299
+	religion="catholic"
+	culture="norman"
+	trait="skilled_tactician"
+	1032.1.1 = {
+		birth="1032.1.1"
+	}
+	1082.1.1 = {
+		death="1082.1.1"
+	}
+}
+
+144949 = {  	
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=3123
+	religion="catholic"
+	culture="norman"
+	father=144950
+	1078.1.1 = {
+		birth="1078.1.1"
+	}
+	1141.1.1 = {
+		death="1141.1.1"
+	}
+}
+
+144950 = {  	
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=3123
+	religion="catholic"
+	culture="norman"
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1094.1.1 = {
+		death="1094.1.1"
+	}
+}
+
+204792 = {
+	name="¼ª¶û²®ÌØ" #Gilbert
+	dynasty=364
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="misguided_warrior"
+	father=41014
+	mother=41015
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1100.1.1 = {
+		culture="english"
+	}
+	1114.1.7 = {
+		death="1114.1.7"
+	}
+}
+
+129048 = {
+	name="½Ü¸¥Àï" #Geoffrey #Geoffrey de Mandeville
+	dynasty=344
+	religion="catholic"
+	culture="norman"
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1104.1.1 = {
+		death="1104.1.1"
+	}
+}
+
+129049 = {
+	name="ÍþÁ®" #William #William de Mandeville
+	dynasty=344
+	religion="catholic"
+	culture="norman"
+	father=129048
+	1065.1.1 = {
+		birth="1065.1.1"
+	}
+	1116.1.1 = {
+		death="1116.1.1"
+	}
+}
+
+204794 = {
+	name="Àí²éµÂ" #Richard
+	dynasty=364
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="tough_soldier"
+	father=204792
+	1084.1.2 = {
+		birth="1084.1.2"
+	}
+	1139.1.7 = {
+		death="1139.1.7"
+	}
+}
+
+161112 = {
+	name="Âê°Ø¶û" #Mabel
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1128
+	mother=1123
+	1063.1.1 = {
+		birth="1063.1.1"
+	}
+	1114.1.1 = {
+		death="1114.1.1"
+	}
+}
+
+161113 = {
+	name="°¬Àöæ«" #Eria
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1128
+	mother=1123
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1114.1.1 = {
+		death="1114.1.1"
+	}
+}
+
+161114 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1128
+	mother=1123
+	1067.1.1 = {
+		birth="1067.1.1"
+	}
+	1103.3.1 = {
+		death="1103.3.1"
+	}
+}
+161115 = {
+	name="°ÂÁÖÆ¥æ«Ë¿" #Olympias
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1128
+	mother=1123
+	1069.1.1 = {
+		birth="1069.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+161116 = {
+	name="ÉªÎõÀÕ" #Cécile
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1128
+	mother=1123
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+161117 = {
+	name="¸ÇÌØ¸ðÀöÂê" #Gaitelgrima
+	female=yes
+	dynasty=678
+	religion="catholic"
+	culture="norman"
+	father=1128
+	mother=1123
+	1071.1.1 = {
+		birth="1071.1.1"
+	}
+	1087.1.1 = {
+		death="1087.1.1"
+	}
+}
+
+161256 = {
+	name="Î÷±ÈÀ­" #Sibylla
+	# AKA: Sibylla of Normandy, Queen of Scots
+	female=yes
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="martial_cleric"
+	father=202992 #Henry I
+	1092.1.1 = {
+		birth="1092.1.1"
+	}
+	1122.7.12 = {
+		death="1122.7.12"
+	}
+}
+
+161258 = {
+	name="µ¤ÄáË¿" #Denise
+	female=yes
+	dynasty=101754
+	religion="catholic"
+	culture="norman"
+	father=150
+	mother=149
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+161259 = {
+	name="Ô¼º²" #John
+	dynasty=101754
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	father=148
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1131.1.1 = {
+		death="1131.1.1"
+	}
+}
+
+161329 = {
+	name="À­¶û·ò" #Ralph
+	religion="catholic"
+	culture="norman"
+	trait="detached_priest"
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1122.10.20={
+		death="1122.10.20"
+	}
+}
+
+161450 = {
+	name="À­ÎÚ¶û" #Raoul
+	dynasty=385 #de Tosny
+	religion="catholic"
+	culture="norman"
+	father=110637
+	mother=41223
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	1103.1.1={
+		add_spouse = 161451
+	}
+	1126.1.1 = {
+		death="1126.1.1"
+	}
+}
+
+161600 = {
+	name="À­ÎÚ¶û" #Raoul
+	dynasty=385 #de Tosny
+	religion="catholic"
+	culture="norman"
+	father=161450
+	mother=161451
+	1104.1.1 = {
+		birth="1104.1.1"
+	}
+	1138.1.1={
+		add_spouse = 31141
+	}
+	1158.9.29 = {
+		death="1158.9.29"
+	}
+}
+
+161601 = {
+	name="À­ÎÚ¶û" #Raoul
+	dynasty=385 #de Tosny
+	religion="catholic"
+	culture="norman"
+	father=161600
+	mother=31141
+	1139.1.1 = {
+		birth="1139.1.1"
+	}
+	1155.1.1={
+		add_spouse = 161602
+	}
+	1162.1.1 = {
+		death="1162.1.1"
+	}
+}
+
+205851 = {
+	name="°£ÌáÒ®ÄÚ" #Étienne
+	dynasty=721
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="frankish"
+	trait="arbitrary"
+	trait="kind"
+	trait="charitable"
+	trait="trusting"
+	trait="brave"
+	trait="tough_soldier"
+	father=205897
+	mother=205898
+	1096.1.1={
+		birth="1096.1.1"
+	}
+	1125.1.1={
+		add_spouse=205860 #Mathilde de Boulogne
+	}	
+	1135.12.2 = {
+		name="Ë¹µÙ·Ò" #Stephen
+		culture="norman"
+	}
+	1154.10.25={
+		death="1154.10.25"
+	}
+}
+
+168182 = {
+	name="ÍþÁ®" #William 
+	dynasty=751
+	religion="catholic"
+	culture="norman"
+	father=41004
+	mother=168181
+	1090.1.1 = {
+		birth="1090.1.1"
+		
+	}
+	
+	1171.6.30 = {
+		death="1171.6.30"
+	}
+}
+
+144703 = {
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=676
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norman"
+	trait="arbitrary"
+	trait="martial_cleric"
+	father=30827
+	mother=168471
+	1036.1.1 = {
+		birth="1036.1.1"
+	}
+	1052.1.1 = {
+		add_spouse=1129
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+203561 = {
+	name="ÒÁÀöÉ¯°×" #Elizabeth
+	# AKA: Elizabeth FitzRoy, Duchess of Galloway
+	female=yes
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="amateurish_plotter"
+	father=202992 #Henry I
+	1095.1.1 = {
+		birth="1095.1.1"
+	}
+	1168.1.1 = {
+		death="1168.1.1"
+	}
+}
+
+183123 = {
+	name="ÂêµÙ¶û´ï" #Matilda
+	# AKA: Matilda FitzRoy, Countess of Perche
+	female=yes
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="thrifty_clerk"
+	father=202992 #Henry I
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1120.11.25 = {
+		death="1120.11.25"
+	}
+}
+
+183124 = {
+	name="Àí²éµÂ" #Richard
+	# AKA: Richard of Lincoln
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="tough_soldier"
+	father=202992 #Henry I
+	1094.1.1 = {
+		birth="1094.1.1"
+	}
+	1120.11.25 = {
+		death="1120.11.25"
+	}
+}
+
+183125 = {
+	name="¼ª¶û²®ÌØ" #Gilbert
+	# AKA: Gilbert FitzRoy
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="scholarly_theologian"
+	father=202992 #Henry I
+	1109.1.1 = {
+		birth="1109.1.1"
+	}
+	1146.1.1 = {
+		death="1146.1.1"
+	}
+}
+
+183126 = {
+	name="°®ÀöË¿" #Alice
+	# AKA: Alice FitzRoy, Viscountess de Montmorency
+	female=yes
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="thrifty_clerk"
+	father=202992 #Henry I
+	1104.1.1 = {
+		birth="1104.1.1"
+	}
+	1140.4.24 = {
+		death="1140.4.24"
+	}
+}
+
+183127 = {
+	name="¸»¶û¿Ë" #Fulk
+	# AKA: Fulk FitzRoy
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="detached_priest"
+	father=202992 #Henry I
+	1092.1.1 = {
+		birth="1092.1.1"
+	}
+	1132.1.1 = {
+		death="1132.1.1"
+	}
+}
+
+183128 = {
+	name="ÓÈÀö°²ÄÈ" #Juliana
+	# AKA: Juliana FitzRoy
+	female=yes
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="naive_appeaser"
+	father=202992 #Henry I
+	1093.1.1 = {
+		birth="1093.1.1"
+	}
+	1136.1.1 = {
+		death="1136.1.1"
+	}
+}
+
+183129 = {
+	name="¹±µÂÀ×µÂ" #Gundred
+	# AKA: Gundred FitzRoy
+	female=yes
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="twin"
+	trait="bastard"
+	trait="misguided_warrior"
+	father=202992 #Henry I
+	1114.1.1 = {
+		birth="1114.1.1"
+	}
+	1146.1.1 = {
+		death="1146.1.1"
+	}
+}
+
+183130 = {
+	name="ÂÞºÕË¿" #Rohese
+	# AKA: Rohese FitzRoy
+	female=yes
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="twin"
+	trait="bastard"
+	trait="indulgent_wastrel"
+	father=202992 #Henry I
+	1114.1.1 = {
+		birth="1114.1.1"
+	}
+	1176.1.1 = {
+		death="1176.1.1"
+	}
+}
+
+183131 = {
+	name="ºàÀû" #Henry
+	# AKA: Henry FitzRoy
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="misguided_warrior"
+	father=202992 #Henry I
+	mother=204057 #Nest ferch Rhys
+	1103.1.1 = {
+		birth="1103.1.1"
+	}
+	1158.1.1 = {
+		death="1158.1.1"
+	}
+}
+
+183132 = {
+	name="ÂÞ²®ÌØ" #Robert
+	# AKA: Robert FitzRoy, Lord Okehampton
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="fortune_builder"
+	father=202992 #Henry I
+	1122.1.1 = {
+		birth="1122.1.1"
+	}
+	1172.5.31 = {
+		death="1172.5.31"
+	}
+}
+
+183133 = {
+	name="ÍþÁ®" #William
+	# AKA: William FitzRoy / Constable
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="tough_soldier"
+	father=202992 #Henry I
+	1105.1.1 = {
+		birth="1105.1.1"
+	}
+	1187.1.1 = {
+		death="1187.1.1"
+	}
+}
+
+183134 = {
+	name="ÍþÁ®" #William
+	# AKA: William de Tracy, Baron of Bradninch
+	dynasty=752
+	religion="catholic"
+	culture="norman"
+	trait="bastard"
+	trait="underhanded_rogue"
+	father=202992 #Henry I
+	1096.1.1 = {
+		birth="1096.1.1"
+	}
+	1137.1.1 = {
+		death="1137.1.1"
+	}
+}
+
+183011 = {
+	name="Ü½À×É­µÏË¿" #Fredesendis
+	female=yes
+	religion="catholic"
+	culture="norman"
+	1020.1.2 = {
+		birth="1020.1.2"
+	}
+	1066.1.2 = {
+		employer=140
+	}
+	1084.1.2 = {
+		death="1084.1.2"
+	}
+}
+
+183012 = {
+	name="À­µÀ·ò" #Radulf
+	# AKA: Raoul de Conteville
+	dynasty=101754
+	religion="catholic"
+	culture="norman"
+	trait="misguided_warrior"
+	father=41000
+	mother=183011
+	1051.1.2 = {
+		birth="1051.1.2"
+	}
+	1066.1.2 = {
+		employer=140
+	}
+	1087.9.9 = {
+		employer=146
+	}
+	1097.1.2 = {
+		death="1097.1.2"
+	}
+}
+
+183013 = {
+	name="¼ò" #Jean
+	# AKA: Jean de Conteville
+	dynasty=101754
+	religion="catholic"
+	culture="norman"
+	trait="indulgent_wastrel"
+	father=41000
+	mother=183011
+	1053.1.2 = {
+		birth="1053.1.2"
+	}
+	1066.1.2 = {
+		employer=140
+	}
+	1087.9.9 = {
+		employer=146
+	}
+	1089.1.2 = {
+		death="1089.1.2"
+	}
+}
+
+183014 = {
+	name="Àí²éµÂ" #Richard
+	# AKA: Richard de Conteville
+	dynasty=101754
+	religion="catholic"
+	culture="norman"
+	trait="naive_appeaser"
+	father=41000
+	mother=183011
+	1057.1.2 = {
+		birth="1057.1.2"
+	}
+	1066.1.2 = {
+		employer=140
+	}
+	1087.9.9 = {
+		employer=146
+	}
+	1100.8.3 = {
+		employer=202992
+	}
+	1106.1.2 = {
+		death="1106.1.2"
+	}
+}
+
+205850 = {
+	name="ÂêÀö" #Marie
+	female=yes
+	dynasty=721
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norman"
+	trait="chaste"
+	trait="underhanded_rogue"
+	father=205851
+	mother=205860
+	1136.1.1 = {
+		birth="1136.1.1"
+	}
+	1182.7.25 = {
+		death="1182.7.25"
+	}
+}
+
+7474 = {
+	name="ÍþÁ®" #William
+	dynasty=721
+	religion="catholic"
+	culture="norman"
+	trait="envious"
+	trait="amateurish_plotter"
+	father=205851
+	mother=205860
+	1137.1.1 = {
+		birth="1137.1.1"
+	}
+	1159.10.11 = {
+		death="1159.10.11"
+	}
+}
+180691 = {
+	name="ÂÞ²®ÌØ" #Robert
+	# Archbishop of Canterbury
+	religion="catholic"
+	culture="norman"
+	add_trait="fortune_builder"
+	995.1.1={
+		birth=yes
+	}
+	1054.1.1={
+		death=yes
+	}
+}
+72126={
+	name="ÍþÁ®" #William
+	dynasty=12118
+
+	father=72123
+	mother=72125
+
+	religion=catholic
+	culture=norman
+
+	1136.1.1={
+		birth=yes
+	}
+	1155.1.1={
+		add_spouse=72130
+	}
+	1168.9.19={
+		death=yes
+	}
+}
+
+72127={
+	name="ÂÞ²®ÌØ" #Robert
+	dynasty=12118
+
+	father=72123
+	mother=72125
+
+	religion=catholic
+	culture=norman
+
+	1138.1.1={
+		birth=yes
+	}
+	1168.12.1={
+		death=yes
+	}
+}
+
+72128={
+	name="Àí²éµÂ" #Richard
+	dynasty=12118
+
+	father=72123
+	mother=72125
+
+	religion=catholic
+	culture=norman
+
+	1140.1.1={
+		birth=yes
+	}
+	1160.1.11={
+		death=yes
+	}
+}
+
+72129={
+	name="±´ÀÊÈð" #Berengar
+	dynasty=12118
+
+	father=72123
+	mother=72125
+
+	religion=catholic
+	culture=norman
+
+	1142.1.1={
+		birth=yes
+	}
+	1168.12.1={
+		death=yes
+	}
+}
+200330={
+	name=Î÷ÃÉ #Simon
+	dynasty=1046036
+
+	religion=catholic
+	culture=norman
+
+	1100.1.1={
+		birth=yes
+	}
+	1122.1.1={
+		add_spouse=200329
+	}	
+	1158.1.1={
+		death=yes
+	}
+}
+
+200366={
+	name=µ¤¿ËÀ×µÂ #Tancred
+	dynasty=678
+
+	father=85002
+	mother=200365
+
+	religion=catholic
+	culture=norman
+
+	1071.1.1={
+		birth=yes
+	}	
+	1104.1.1={
+		death=yes
+	}
+}
+

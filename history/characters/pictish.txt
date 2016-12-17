@@ -1,0 +1,1966 @@
+166513 = {
+	name="阿尔根托科克索斯"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	187.1.1={
+		birth=yes
+	}
+	248.1.1={
+		death=yes
+	}
+}
+
+166514 = {
+	name="鲁"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166513
+	212.1.1={
+		birth=yes
+	}
+	271.1.1={
+		death=yes
+	}
+}
+
+166515 = {
+	name="布图特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166514
+	236.1.1={
+		birth=yes
+	}
+	295.1.1={
+		death=yes
+	}
+}
+
+166516 = {
+	name="加特纳特" #Gartnait Ioc
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166514
+	242.1.1={
+		birth=yes
+	}
+	304.1.1={
+		death=yes
+	}
+}
+
+166517 = {
+	name="布雷特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166515
+	260.1.1={
+		birth=yes
+	}
+	311.1.1={
+		death=yes
+	}
+}
+
+166518 = {
+	name="维波伊格"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166516
+	268.1.1={
+		birth=yes
+	}
+	341.1.1={
+		death=yes
+	}
+}
+
+166519 = {
+	name="卡努图拉哈马"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166516
+	275.1.1={
+		birth=yes
+	}
+	345.1.1={
+		death=yes
+	}
+}
+
+166520 = {
+	name="乌拉德奇"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166518
+	286.1.1={
+		birth=yes
+	}
+	347.1.1={
+		death=yes
+	}
+}
+
+166521 = {
+	name="加特纳特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166520
+	305.1.1={
+		birth=yes
+	}
+	387.1.1={
+		death=yes
+	}
+}
+
+166522 = {
+	name="克欧特尔"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166520
+	308.1.1={
+		birth=yes
+	}
+	388.1.1={
+		death=yes
+	}
+}
+
+166523 = {
+	name="阿涅尔"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166519
+	298.1.1={
+		birth=yes
+	}
+	389.1.1={
+		death=yes
+	}
+}
+
+166524 = {
+	name="塔洛尔"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166523
+	373.1.1={
+		birth=yes
+	}
+	456.1.1={
+		death=yes
+	}
+}
+
+166525 = {
+	name="塔洛尔"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166522
+	337.1.1={
+		birth=yes
+	}
+	412.1.1={
+		death=yes
+	}
+}
+
+166526 = {
+	name="埃里谱"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166521
+	347.1.1={
+		birth=yes
+	}
+	415.1.1={
+		death=yes
+	}
+}
+
+166527 = {
+	name="德雷斯特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166526
+	377.1.1={
+		birth=yes
+	}
+	452.1.1={
+		death=yes
+	}
+}
+
+166528 = {
+	name="尼克坦"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166526
+	410.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+
+166529 = {
+	name="布鲁德"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166525
+	375.1.1={
+		birth=yes
+	}
+	442.1.1={
+		death=yes
+	}
+}
+
+166530 = {
+	name="德雷斯特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166529
+	438.1.1={
+		birth=yes
+	}
+	510.1.1={
+		death=yes
+	}
+}
+
+166531 = {
+	name="加拉姆"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166529
+	440.1.1={
+		birth=yes
+	}
+	522.1.1={
+		death=yes
+	}
+}
+
+166532 = {
+	name="乌德罗斯特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166530
+	462.1.1={
+		birth=yes
+	}
+	520.1.1={
+		death=yes
+	}
+}
+
+166533 = {
+	name="德雷斯特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166532
+	480.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}
+
+166534 = {
+	name="吉罗姆"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166531
+	462.1.1={
+		birth=yes
+	}
+	514.1.1={
+		death=yes
+	}
+}
+
+166535 = {
+	name="德雷斯特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166534
+	484.1.1={
+		birth=yes
+	}
+	531.1.1={
+		death=yes
+	}
+}
+
+166536 = {
+	name="加特纳特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166534
+	487.1.1={
+		birth=yes
+	}
+	537.1.1={
+		death=yes
+	}
+}
+
+166537 = {
+	name="卡伊托梅"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166534
+	487.1.1={
+		birth=yes
+	}
+	538.1.1={
+		death=yes
+	}
+}
+
+166538 = {
+	name="穆尔托利克"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166534
+	486.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}
+
+166539 = {
+	name="马纳特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166534
+	489.1.1={
+		birth=yes
+	}
+	528.1.1={
+		death=yes
+	}
+}
+
+166540 = {
+	name="塔洛尔"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166538
+	502.1.1={
+		birth=yes
+	}
+	549.1.1={
+		death=yes
+	}
+}
+
+166541 = {
+	name="德雷斯特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166539
+	505.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death=yes
+	}
+}
+
+166542 = {
+	name="加拉姆" #Galam Cennalath
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166541
+	526.1.1={
+		birth=yes
+	}
+	580.1.1={
+		death=yes
+	}
+}
+
+166543 = {
+	name="埃里谱"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	475.1.1={
+		birth=yes
+	}
+	531.1.1={
+		death=yes
+	}
+}
+
+166544 = {
+	name="马尔孔"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166543
+	498.1.1={
+		birth=yes
+	}
+	552.1.1={
+		death=yes
+	}
+}
+
+166545 = {
+	name="布鲁德"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166544
+	528.1.1={
+		birth=yes
+	}
+	584.1.1={
+		death=yes
+	}
+}
+
+166546 = {
+	name="多姆纳尔"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166543
+	500.1.1={
+		birth=yes
+	}
+	543.1.1={
+		death=yes
+	}
+}
+
+166547 = {
+	name="加特纳特"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166546
+	538.1.1={
+		birth=yes
+	}
+	595.1.1={
+		death=yes
+	}
+}
+
+166548 = {
+	name="卡努"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="pagan"
+	culture="pictish"
+	father=166543
+	503.1.1={
+		birth=yes
+	}
+	552.1.1={
+		death=yes
+	}
+}
+
+166549 = {
+	name="尼克坦"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166548
+	544.1.1={
+		birth=yes
+	}
+	616.1.1={
+		death=yes
+	}
+}
+
+166550 = {
+	name="卢特林"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166545
+	550.1.1={
+		birth=yes
+	}
+	593.1.1={
+		death=yes
+	}
+}
+
+166551 = {
+	name="基尼思"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166550
+	577.1.1={
+		birth=yes
+	}
+	631.1.1={
+		death=yes
+	}
+}
+
+166552 = {
+	name="维德"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166548
+	549.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+
+166553 = {
+	name="阿涅尔"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166542
+	553.1.1={
+		birth=yes
+	}
+	627.1.1={
+		death=yes
+	}
+}
+
+166554 = {
+	name="塔洛尔"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166553
+	581.1.1={
+		birth=yes
+	}
+	668.1.1={
+		death=yes
+	}
+}
+
+166555 = {
+	name="加特纳特"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166552
+	577.1.1={
+		birth=yes
+	}
+	635.1.1={
+		death=yes
+	}
+}
+
+166556 = {
+	name="布鲁德"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166552
+	584.1.1={
+		birth=yes
+	}
+	641.1.1={
+		death=yes
+	}
+}
+
+166557 = {
+	name="塔洛尔"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166552
+	588.1.1={
+		birth=yes
+	}
+	653.1.1={
+		death=yes
+	}
+}
+
+166558 = {
+	name="布丽德"
+	female=yes
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166556
+	600.1.1={
+		birth=yes
+	}
+	655.1.1={
+		death=yes
+	}
+}
+
+166559 = {
+	name="塔洛尔干"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	#father= # son of Eanfrith of Bernicia
+	mother=166558
+	618.1.1={
+		birth=yes
+	}
+	657.1.1={
+		death=yes
+	}
+}
+
+166560 = {
+	name="多姆纳尔"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166555
+	600.1.1={
+		birth=yes
+	}
+	621.1.1={
+		add_spouse=166567
+	}
+	648.1.1={
+		death=yes
+	}
+}
+
+166561 = {
+	name="加特纳特"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166560
+	mother=166567
+	622.1.1={
+		birth=yes
+	}
+	663.1.1={
+		death=yes
+	}
+}
+
+166562 = {
+	name="德雷斯特"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166560
+	mother=166567
+	624.1.1={
+		birth=yes
+	}
+	672.1.1={
+		death=yes
+	}
+}
+
+166563 = {
+	name="埃塞德丽达"
+	female=yes
+	dynasty=1047009
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="saxon"
+	#father= #Edwin of Northumbria
+	#mother= #苩helburg of Kent
+	620.1.1={
+		birth=yes
+	}
+	675.1.1={
+		death=yes
+	}
+}
+
+166564 = {
+	name="维斯特"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166551
+	611.1.1={
+		birth=yes
+	}
+	667.1.1={
+		death=yes
+	}
+}
+
+166565 = {
+	name="比利"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166549
+	615.1.1={
+		birth=yes
+	}
+	637.1.1={
+		add_spouse=166563
+	}
+	669.1.1={
+		death=yes
+	}
+}
+
+166566 = {
+	name="布鲁德"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166565
+	mother=166563
+	638.1.1={
+		birth=yes
+	}
+	656.1.1={
+		add_spouse=166569
+	}
+	693.1.1={
+		death=yes
+	}
+}
+
+166567 = {
+	name="莫尔"
+	female=yes
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166554
+	605.1.1={
+		birth=yes
+	}
+	660.1.1={
+		death=yes
+	}
+}
+
+166568 = {
+	name="恩弗雷德"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166564
+	655.1.1={
+		birth=yes
+	}
+	673.1.1={
+		add_spouse=166570
+	}
+	675.1.1={
+		death=yes
+	}
+}
+
+166569 = {
+	name="乌妮斯"
+	female=yes
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166562
+	640.1.1={
+		birth=yes
+	}
+	699.1.1={
+		death=yes
+	}
+}
+
+166570 = {
+	name="德莉莱"
+	female=yes
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166566
+	mother=166569
+	657.1.1={
+		birth=yes
+	}
+	676.1.1={
+		add_spouse=166572
+	}
+	722.1.1={
+		death=yes
+	}
+}
+
+166571 = {
+	name="塔兰"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166568
+	mother=166570
+	674.1.1={
+		birth=yes
+	}
+	697.1.1={
+		death=yes
+	}
+}
+
+
+
+166573 = {
+	name="布鲁德"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166572
+	mother=166570
+	677.1.1={
+		birth=yes
+	}
+	706.1.1={
+		death=yes
+	}
+}
+
+166574 = {
+	name="尼克坦"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166572
+	mother=166570
+	680.1.1={
+		birth=yes
+	}
+	734.1.1={
+		death=yes
+	}
+}
+
+166575 = {
+	name="德雷斯特"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166561
+	691.1.1={
+		birth=yes
+	}
+	732.1.1={
+		death=yes
+	}
+}
+
+166576 = {
+	name="亚尔宾"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166571
+	694.1.1={
+		birth=yes
+	}
+	742.1.1={
+		death=yes
+	}
+}
+
+166577 = {
+	name="德罗斯滕"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166554
+	612.1.1={
+		birth=yes
+	}
+	673.1.1={
+		death=yes
+	}
+}
+
+166578 = {
+	name="卢特林"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166577
+	644.1.1={
+		birth=yes
+	}
+	687.1.1={
+		death=yes
+	}
+}
+
+166579 = {
+	name="加拉姆"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166578
+	668.1.1={
+		birth=yes
+	}
+	712.1.1={
+		death=yes
+	}
+}
+
+166580 = {
+	name="乌拉德奇"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166579
+	694.1.1={
+		birth=yes
+	}
+	717.1.1={
+		add_spouse=166582
+	}
+	737.1.1={
+		death=yes
+	}
+}
+
+166581 = {
+	name="乌罗伊德"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166579
+	697.1.1={
+		birth=yes
+	}
+	742.1.1={
+		death=yes
+	}
+}
+
+
+
+166583 = {
+	name="基尼思"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166580
+	mother=166582
+	723.1.1={
+		birth=yes
+	}
+	775.1.1={
+		death=yes
+	}
+}
+
+166584 = {
+	name="亚尔宾"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166581
+	720.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+166585 = {
+	name="塔尔拉"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166583
+	744.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+166586 = {
+	name="坎瓦尔"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166585
+	760.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+
+166587 = {
+	name="乌托伊尔"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166584
+	737.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+
+166588 = {
+	name="塔洛尔"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166587
+	765.1.1={
+		birth=yes
+	}
+	837.7.1={
+		death=yes
+	}
+}
+
+166589 = {
+	name="巴尔戈伊特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166586
+	784.1.1={
+		birth=yes
+	}
+	839.1.1={
+		death=yes
+	}
+}
+
+166590 = {
+	name="乌拉德"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166589
+	802.1.1={
+		birth=yes
+	}
+	842.1.1={
+		death=yes
+	}
+}
+
+166591 = {
+	name="布鲁德"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166587
+	773.1.1={
+		birth=yes
+	}
+	845.1.1={
+		death=yes
+	}
+}
+
+166592 = {
+	name="布鲁德"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166590
+	818.1.1={
+		birth=yes
+	}
+	843.7.1={
+		death=yes
+	}
+}
+
+166593 = {
+	name="基尼思"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166590
+	820.1.1={
+		birth=yes
+	}
+	844.1.1={
+		death=yes
+	}
+}
+
+166594 = {
+	name="德雷斯特"
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166590
+	822.1.1={
+		birth=yes
+	}
+	848.1.1={
+		death=yes
+	}
+}
+
+166595 = {
+	name="弗格斯"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	665.1.1={
+		birth=yes
+	}
+	690.1.1={
+		add_spouse=166596
+	}
+	729.1.1={
+		death=yes
+	}
+}
+
+166596 = {
+	name="布蕾托克"
+	female=yes
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166562
+	670.1.1={
+		birth=yes
+	}
+	715.1.1={
+		death=yes
+	}
+}
+
+166597 = {
+	name="安格斯"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166595
+	mother=166596
+	692.1.1={
+		birth=yes
+	}
+	728.1.1={
+		add_spouse=166611
+	}
+	761.1.1={
+		death=yes
+	}
+}
+
+166598 = {
+	name="塔洛尔干"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166595
+	mother=166596
+	695.1.1={
+		birth=yes
+	}
+	750.1.1={
+		death=yes
+	}
+}
+
+166599 = {
+	name="布鲁德"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166595
+	mother=166596
+	700.1.1={
+		birth=yes
+	}
+	763.1.1={
+		death=yes
+	}
+}
+
+166600 = {
+	name="德雷斯特"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166598
+	722.1.1={
+		birth=yes
+	}
+	783.1.1={
+		death=yes
+	}
+}
+
+166601 = {
+	name="塔洛尔"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166600
+	750.1.1={
+		birth=yes
+	}
+	782.1.1={
+		death=yes
+	}
+}
+
+166602 = {
+	name="塔洛尔"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166597
+	mother=166611
+	734.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+166603 = {
+	name="弗格斯"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166597
+	mother=166611
+	730.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+166604 = {
+	name="康斯坦丁"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166603
+	755.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+166605 = {
+	name="安格斯"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166603
+	768.1.1={
+		birth=yes
+	}
+	834.1.1={
+		death=yes
+	}
+}
+
+166606 = {
+	name="德雷斯特"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166604
+	777.1.1={
+		birth=yes
+	}
+	837.1.1={
+		death=yes
+	}
+}
+
+166607 = {
+	name="乌文"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166605
+	792.1.1={
+		birth=yes
+	}
+	839.1.1={
+		death=yes
+	}
+}
+
+166608 = {
+	name="布兰"
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166605
+	800.1.1={
+		birth=yes
+	}
+	839.1.1={
+		death=yes
+	}
+}
+
+166609 = {
+	name="乌妮斯"
+	female=yes
+	dynasty=1040018
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166605
+	790.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+166610 = {
+	name="缪里尔"
+	female=yes
+	dynasty=1040011
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166589
+	811.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+166611 = {
+	name="凯特里奥娜"
+	female=yes
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166574
+	703.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+# Ce - Buchan
+
+166612 = {
+	name="乌罗伊坎"
+	dynasty=1040017
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	742.1.1={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+# Cait - Shetland
+
+166613 = {
+	name="维波伊格"
+	dynasty=1040014
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166614
+	750.1.1={
+		birth=yes
+	}
+	794.1.1={
+		death=yes
+	}
+}
+
+# Cait - Caithness
+
+166614 = {
+	name="卡尔沃尔斯特"
+	dynasty=1040014
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	728.1.1={
+		birth=yes
+	}
+	775.1.1={
+		death=yes
+	}
+}
+
+# Orkney
+
+166615 = {
+	name="鲁"
+	dynasty=1040019
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	744.1.1={
+		birth=yes
+	}
+	789.1.1={
+		death=yes
+	}
+}
+
+# Faroes
+
+166616 = {
+	name="阿尔卡洛雷德"
+	dynasty=1040020
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	700.1.1={
+		birth=yes
+	}
+	772.1.1={
+		death=yes
+	}
+}
+
+# Fidach - Ross
+
+166617 = {
+	name="加特纳特"
+	dynasty=1040016
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	742.1.1={
+		birth=yes
+	}
+	801.1.1={
+		death=yes
+	}
+}
+
+# Fotla - Atholl
+
+166618 = {
+	name="皮达尔诺因"
+	dynasty=1040015
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	730.1.1={
+		birth=yes
+	}
+	794.1.1={
+		death=yes
+	}
+}
+
+# Fortriu
+
+166619 = {
+	name="盖德"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166574
+	705.1.1={
+		birth=yes
+	}
+	749.1.1={
+		death=yes
+	}
+}
+
+166620 = {
+	name="布兰"
+	dynasty=1040012
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="pictish"
+	father=166619
+	733.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}

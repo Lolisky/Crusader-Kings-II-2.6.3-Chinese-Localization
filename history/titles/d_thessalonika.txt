@@ -1,0 +1,116 @@
+330.1.1={
+	liege = "e_byzantium"
+}
+754.1.1={
+	vice_royalty = yes
+	holder=145814
+}
+855.1.1={
+	holder=145185
+}
+1030.1.1=
+{
+holder=1744
+}
+1050.1.1=
+{
+vice_royalty = no
+holder=1732
+}
+1067.5.22={
+	holder = 1736
+}
+1074.1.2={
+	holder = 125700
+}
+1078.3.31={
+	holder = 1742
+}
+1118.8.15={
+	holder = 223023
+}
+1143.4.8={
+	holder = 215530
+}
+1180.9.24={
+	holder = 215531
+}
+1183.9.24={
+	holder = 215529
+}
+1185.9.12={
+	holder = 215503
+}
+#4th crusade
+1204.5.16={ # Collapse of Byzantine Empire
+	liege=0
+}
+1204.8.1=
+{
+liege="e_latin_empire"
+#law = agnatic_succession
+#law = succ_primogeniture
+}
+1204.8.1=
+{
+holder=213523 #Bonifazio I
+}
+1207.9.4=
+{
+holder=31346 #Demetrio I
+}
+
+#conqued by Epirus
+1224.1.1=
+{
+holder=215514
+}
+1224.1.1=
+{
+liege=0
+}
+1230.3.9=
+{
+holder=215516
+}
+1237.1.1=
+{
+holder=125711
+}
+1244.1.1=
+{
+holder=125714
+}
+1246.1.1=
+{
+holder=125741
+}
+1246.1.1=
+{
+liege="e_byzantium"
+}
+1254.11.3=
+{
+holder=125742
+}
+1258.8.18=
+{
+holder=125743
+}
+1261.7.25=
+{
+holder=465527
+}
+1282.12.11=
+{
+holder=465521
+}
+1295.5.1=
+{
+vice_royalty = yes
+holder=465501
+}
+1320.10.12=
+{
+holder=465530
+}

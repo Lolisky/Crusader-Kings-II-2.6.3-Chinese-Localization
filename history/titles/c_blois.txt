@@ -1,0 +1,51 @@
+750.1.1={
+	liege="k_lotharingia"
+	holder = 91481 #ENGELGER, historical placeholder
+}
+834.1.1={
+	liege=k_france
+	holder=163065
+}
+1037.11.15 = {
+	liege="d_champagne"
+	holder=394 #Thibaut I de Blois
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+1089.9.30 = {
+	holder=205897 #Étienne-Henri I de Blois
+}
+1102.5.19={
+	holder=91331 #Guillaume de Blois
+}
+
+1107.1.1 = {
+	holder = 205891 #Thibaut III le Grand
+}
+1152.1.10 ={
+	holder = 205892 # Thibaut IV le Bon
+}
+1191.1.20 = {
+	holder = 205895 #Louis I
+}
+1205.4.14 ={
+	holder = 91040 #Thibaut VI
+}
+1218.1.1 = {
+	holder = 205894 #Marguerite de Blois
+}
+1230.1.1 = {
+	holder = 91061 #Marie d'Avesnes
+}
+1241.1.1 = {
+	holder = 91119 #Jean I de Blois-Châtillon
+}
+1279.12.28 = {
+	holder = 91136 #Jeanne de Blois-Châtillon
+}
+1292.1.1 = {
+	holder = 455782 #Hugues II de Blois-Châtillon
+}
+1307.1.1={
+	holder=455781 #Guy I de Blois-Châtillon
+}

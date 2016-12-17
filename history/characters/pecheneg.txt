@@ -1,0 +1,1229 @@
+20635 = {
+	name="¿¨²¼Ë¹½ğ"
+	dynasty=100512
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait="proud"
+	trait="greedy"
+	trait="chaste"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth=yes
+	}
+	1091.1.1={
+		death=yes
+	}
+}
+
+20637 = {
+	name="ÒÁÅÁ"
+	dynasty=100514
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=7
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait="brave"
+	trait="martial_cleric"
+	1039.1.1={
+		birth=yes
+	}
+	1091.1.1={
+		death=yes
+	}
+}
+
+20638 = {
+	name="Ë÷¶û"
+	dynasty=100515
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait="zealous"
+	trait="temperate"
+	trait="craven"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+20639 = {
+	name="À«¿âÌ¹"
+	dynasty=100516
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait="just"
+	trait="proud"
+	trait="fortune_builder"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+20640 = {
+	name="°Í¶û¸ê"
+	dynasty=100541
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait="slothful"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+20641 = {
+	name="ËşÍ¼Ë¹"
+	dynasty=100542
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait="charitable"
+	trait="gluttonous"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+20642 = {
+	name="¿â¶û"
+	# AKA: Kure
+	dynasty=100543
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait="underhanded_rogue"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+475420 = {
+	name="À«¶ûµ¤"
+	dynasty=100542
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait="lustful"
+	trait="zealous"
+	trait="wroth"
+	trait="brave"
+	trait="fortune_builder"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+479050 = {
+	name="¿â°£Î÷"
+	# AKA: KUerci
+	dynasty=100543
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait="proud"
+	trait="flamboyant_schemer"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+483 = {
+	name="ÈøÀò¿¨"
+	female = yes
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait="gluttonous"
+	trait="charismatic_negotiator"
+	932.1.1={
+		birth="932.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+34802 = {
+	name="²¼À­"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+34803 = {
+	name="Ò¶¿Æ"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+34804 = {
+	name="ÒÁ¶ûµÂ"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34805 = {
+	name="¿Æ²¼ÑÇ¿Ë"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+
+34806 = {
+	name="ÌØÃ×¶û"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+
+34807 = {
+	name="ÑÅ×È"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34808 = {
+	name="°ÍÍĞ¶û"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+34809 = {
+	name="²¼À­"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1145.1.1={
+		death="1145.1.1"
+	}
+}
+
+34810 = {
+	name="À«¶ûµ¤"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34811 = {
+	name="¿âÀ×"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+34812 = {
+	name="¿¨À­²é"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+34813 = {
+	name="¿­¶Å"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34814 = {
+	name="ËşÍ¼Ë¹"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+34815 = {
+	name="ÒÁ¶ûµÂ"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+34816 = {
+	name="°¢°Í"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34817 = {
+	name="±ÈË¹»ùÀû"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+34818 = {
+	name="ÌØ±È¶û"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+34819 = {
+	name="Èû¼ª¶û"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+180173 = {
+	name="±´Åí"	# fictional
+	# founder of Havuksingila clan
+	dynasty=1042052
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=188761
+	800.1.1={
+		birth=yes
+	}
+	828.1.1={
+		add_spouse=180234
+	}
+	860.1.1={
+		death=yes
+	}
+}
+180174 = {
+	name="Ë÷¶û"	# fictional
+	# ruler of Pechenegs
+	dynasty=1042052
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180173
+	mother=180234
+	830.9.4={
+		birth=yes
+	}
+	857.1.1={
+		add_spouse=180232
+	}
+
+	867.1.1 = {
+		# Boost the initial strength of the Pechenegs
+		effect = {
+			spawn_unit = {
+				province = 608 # Lower Volga
+				owner = ROOT
+				leader = ROOT
+				troops = {
+					light_infantry = { 1650 1650 }
+					heavy_infantry = { 75 75 }
+					archers = { 330 330 }
+				}
+				attrition = 0.5
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 608 # Lower Volga
+					owner = ROOT
+					leader = THIS
+					troops = {
+						light_infantry = { 1650 1650 }
+						heavy_infantry = { 75 75 }
+						archers = { 330 330 }
+					}
+					attrition = 0.5
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 27
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 608 # Lower Volga
+					owner = ROOT
+					leader = THIS
+					troops = {
+						light_infantry = { 1650 1650 }
+						heavy_infantry = { 75 75 }
+						archers = { 330 330 }
+					}
+					attrition = 0.5
+				}
+			}
+		}
+	}
+
+	889.1.1={
+		death=yes
+	}
+}
+180175 = {
+	name="À«¶û¿ÜÌ©"
+	dynasty=1042052
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180174
+	mother=180232
+	trait="twin"
+	862.3.1={
+		birth=yes
+	}
+	915.1.1={
+		death=yes
+	}
+}
+180176 = {
+	name="ÅÉ¿ËÉ­"	# fictional
+	female=yes
+	dynasty=1042052
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180174
+	mother=180232
+	trait="twin"
+	862.3.1={
+		birth="862.3.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+180177 = {
+	name="À«¶ûµ¤"	# fictional
+	dynasty=1042052
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180173
+	mother=180234
+	833.3.3={
+		birth="833.3.3"
+	}
+	862.1.1={
+		add_spouse=180245
+	}
+	898.1.1={
+		death="898.1.1"
+	}
+}
+180178 = {
+	name="ÈøÎ¬À³"	# fictional
+	female=yes
+	dynasty=1042052
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180177
+	mother=180245
+	864.4.22={
+		birth="864.4.22"
+	}
+	909.1.1={
+		death="909.1.1"
+	}
+}
+
+180227 = {
+	name="ÑÅÎÚµÏ"	# fictional
+	# founder of Kuertsitsur clan
+		dynasty=1042054
+	religion="manichean"
+	culture="pecheneg"
+	843.8.25={
+		birth=yes
+	}
+	864.1.1={
+		add_spouse=180239
+	}
+	889.1.1={
+		death=yes
+	}
+}
+180228 = {
+	name="¿ÆÄá¶û"
+	dynasty=1042054
+	religion="manichean"
+	culture="pecheneg"
+	father=180227
+	mother=180239
+	866.5.15={
+		birth="866.5.15"
+	}
+	922.1.1={
+		death="922.1.1"
+	}
+}
+
+180256 = {
+	name="°ÙËş×È"
+	# leader of Iavdiertim clan
+	dynasty=1042053
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait="skilled_tactician"
+	trait="brave"
+	trait="strong"
+	851.1.1={
+		birth="851.1.1"
+	}
+	914.1.1={
+		death="914.1.1"
+	}
+}
+
+180229 = {
+	name="°¢°Í"	# fictional
+	dynasty=1042057
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=188808
+	803.10.2={
+		birth=yes
+	}
+	829.1.1={
+		add_spouse=180247
+	}
+	869.1.1={
+		death=yes
+	}
+}
+180230 = {
+	name="ËşÍ¼×È"	# fictional
+	dynasty=1042057
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180229
+	mother=180247
+	831.2.14={
+		birth="831.2.14"
+	}
+	853.1.1={
+		add_spouse=180243
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+180231 = {
+	name="°ÍËş×È"
+	dynasty=1042057
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180230
+	mother=180243
+	856.11.30={
+		birth="856.11.30"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+180232 = {
+	name="ÄÂÌØÂ³"	# fictional
+	# wife of Sol Havuksingila
+	female=yes
+	dynasty=1042057
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180229
+	mother=180247
+	839.1.4={
+		birth="839.1.4"
+	}
+	892.1.1={
+		death="892.1.1"
+	}
+}
+180233 = {
+	name="¿á¸ç¶ù"	# fictional
+	# founder of Haravoi clan
+	dynasty=1042051
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=188818
+	776.1.1={
+		birth=yes
+	}
+	801.1.1={
+		add_spouse=180246
+	}
+	825.1.1={
+		death=yes
+	}
+}
+180234 = {
+	name="ÉªÍşµÏ¿Ë"	# fictional
+	# wife of Bayça Havuksingila
+	female=yes
+	dynasty=1042051
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180233
+	mother=180246
+	806.1.1={
+		birth="806.1.1"
+	}
+	861.1.1={
+		death="861.1.1"
+	}
+}
+180235 = {
+	name="ÌÎÀ³Ä·"	# fictional
+	# wife of Giazis Giazihopon
+	female=yes
+	dynasty=1042051
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180233
+	mother=180246
+	810.1.1={
+		birth="810.1.1"
+	}
+	863.1.1={
+		death="863.1.1"
+	}
+}
+180236 = {
+	name="¿­¶àÄ·"	# fictional
+	dynasty=1042051
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180233
+	mother=180246
+	812.1.19={
+		birth="812.1.19"
+	}
+	841.1.1={
+		add_spouse=180248
+	}
+	873.1.1={
+		death="873.1.1"
+	}
+}
+180237 = {
+	name="¿­¶àÄ·"
+	dynasty=1042051
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180236
+	mother=180248
+	846.4.28={
+		birth="846.4.28"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+180238 = {
+	name="²¨Â³"	# fictional
+	# founder of Sirukalpei clan
+	dynasty=1042055
+	religion="manichean"
+	culture="pecheneg"
+	818.1.1={
+		birth="818.1.1"
+	}
+	843.1.1={
+		add_spouse=180249
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+180239 = {
+	name="ÎÚÑ·±È¿Ë"	# fictional
+	# wife of Yavdi Kuertsitsur
+	female=yes
+	dynasty=1042055
+	religion="manichean"
+	culture="pecheneg"
+	father=180238
+	mother=180249
+	846.7.8={
+		birth="846.7.8"
+	}
+	909.1.1={
+		death="909.1.1"
+	}
+}
+180240 = {
+	name="°¬ÅÙË¹"
+	dynasty=1042055
+	religion="manichean"
+	culture="pecheneg"
+	father=180238
+	mother=180249
+	849.12.17={
+		birth="849.12.17"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+180241 = {
+	name="¿¼Ë¹ËşË¹"
+	# founder of Vorotalmat clan
+	dynasty=1042056
+	religion="tengri_pagan"
+	culture="pecheneg"
+	845.2.27={
+		birth="845.2.27"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+180242 = {
+	name="»ùÑÇ×È"	# fictional
+	dynasty=1042050
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=188822
+	805.1.1={
+		birth=yes
+	}
+	834.1.1={
+		add_spouse=180235
+	}
+	855.1.1={
+		death=yes
+	}
+}
+180243 = {
+	name="µÏÀ×¿Ë"	# fictional
+	# wife of Tatus Vulatsopon
+	female=yes
+	dynasty=1042050
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180242
+	mother=180235
+	835.10.10={
+		birth="835.10.10"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+180244 = {
+	name="»ùÑÇ×È"
+	dynasty=1042050
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180242
+	mother=180235
+	838.8.9={
+		birth="838.8.9"
+	}
+	909.1.1={
+		death="909.1.1"
+	}
+}
+180245 = {
+	name="Ì©¿ËÂ³"	# fictional
+	# wife of Kortan Havuksingila
+	female=yes
+	dynasty=1042050
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=180242
+	mother=180235
+	841.7.17={
+		birth="841.7.17"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+180246 = {
+	name="ÂíÀ­"	# fictional
+	# wife of Kugel Haravoi
+	female=yes
+	dynasty=1042043
+	religion="tengri_pagan"
+	culture="pecheneg"
+	784.1.1={
+		birth="784.1.1"
+	}
+	832.1.1={
+		death="832.1.1"
+	}
+}
+180247 = {
+	name="¹ö¶¿×Ó"	# fictional
+	# wife of Aba Vulatsopon
+	female=yes
+	dynasty=1042041
+	religion="tengri_pagan"
+	culture="pecheneg"
+	809.1.1={
+		birth="809.1.1"
+	}
+	862.1.1={
+		death="862.1.1"
+	}
+}
+180248 = {
+	name="ÒÁ¶ûµÏ×È"	# fictional
+	# wife of Kaydum Haravoi
+	female=yes
+	dynasty=1042042
+	religion="tengri_pagan"
+	culture="pecheneg"
+	811.1.1={
+		birth="811.1.1"
+	}
+	855.1.1={
+		death="855.1.1"
+	}
+}
+180249 = {
+	name="ÇğÂ³¿Ë"	# fictional
+	# wife of Boru Sirukalpei
+	female=yes
+	dynasty=1042040
+	religion="tengri_pagan"
+	culture="pecheneg"
+	822.5.25={
+		birth="822.5.25"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+188761 = {
+	name="Ì©À­Ææ" # fictional
+	dynasty=1042052
+	religion="manichean"
+	culture="pecheneg"
+	father=188762
+	mother=188819
+	768.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+
+188762 = {
+	name="¿ÆË¹Ëş" # fictional
+	dynasty=1042052
+	religion="manichean"
+	culture="pecheneg"
+	father=188814
+	trait=sympathy_pagans
+	742.1.1={
+		birth=yes
+	}
+	767.1.1={
+		add_spouse = 188819
+	}
+	799.1.1={
+		death=yes
+	}
+}
+
+188807 = {
+	name="ËşÍ¼Ë¹" # fictional founder of Vulatsopon clan
+	dynasty=1042057
+	religion="tengri_pagan"
+	culture="pecheneg"
+	755.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+
+188808 = {
+	name="ËşÍ¼Ë¹" # fictional
+	dynasty=1042057
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=188807
+	780.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+
+188809 = {
+	name="¼ªÑÇ¼ªË¹" # fictional
+	dynasty=1042054
+	religion="manichean"
+	culture="pecheneg"
+	father=188812
+	mother=188813
+	765.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+
+188810 = {
+	name="¼ªÑÇ¼ªË¹" # fictional
+	dynasty=1042054
+	religion="manichean"
+	culture="pecheneg"
+	father=188809
+	790.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+188811 = {
+	name="¼ªÑÇ¼ªË¹" # fictional
+	dynasty=1042054
+	religion="manichean"
+	culture="pecheneg"
+	father=188810
+	815.1.1={
+		birth=yes
+	}
+	870.1.1={
+		death=yes
+	}
+}
+
+188812 = {
+	name="ÌØÃ×¶û" # fictional founder of Kuertsitsur clan
+	dynasty=1042054
+	religion="manichean"
+	culture="pecheneg"
+	740.1.1={
+		birth=yes
+	}
+	762.1.1={
+		add_spouse=188813
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188813 = {
+	name="°¬ÑÇöÀ" # fictional
+	female=yes
+	dynasty=1042052
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=188814
+	744.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+
+188814 = {
+	name="ËÕÂ" # fictional found of Havuksingila clan
+	dynasty=1042052
+	religion="manichean"
+	culture="pecheneg"
+	718.1.1={
+		birth=yes
+	}
+	762.1.1={
+		death=yes
+	}
+}
+
+188815 = {
+	name="ÎÚËï±´¿Ë" # fictional
+	female=yes
+	dynasty=1042052
+	religion="manichean"
+	culture="pecheneg"
+	father=188814
+	749.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}
+
+188817 = {
+	name="¿¨À­²é" # fictional founder of Haravoi clan
+	dynasty=1042051
+	religion="tengri_pagan"
+	culture="pecheneg"
+	trait=sympathy_zoroastrianism
+	724.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+188818 = {
+	name="Èü¸ñÀï" # fictional
+	dynasty=1042051
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=188817
+	749.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}
+
+188819 = {
+	name="¸ÊµÂË¹" # fictional
+	female=yes
+	dynasty=1042051
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=188817
+	trait=sympathy_zoroastrianism
+	751.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+
+188820 = {
+	name="¼ªÑÇ¼ªË¹" # fictional founder of Giazihopon clan
+	dynasty=1042050
+	religion="manichean"
+	culture="pecheneg"
+	730.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+
+188821 = {
+	name="ËÕÂ" # fictional
+	dynasty=1042050
+	religion="manichean"
+	culture="pecheneg"
+	father=188820
+	753.1.1={
+		birth=yes
+	}
+	801.1.1={
+		death=yes
+	}
+}
+
+188822 = {
+	name="¼ªÑÇ¼ªË¹" # fictional
+	dynasty=1042050
+	religion="manichean"
+	culture="pecheneg"
+	father=188821
+	780.1.1={
+		birth=yes
+	}
+	822.1.1={
+		death=yes
+	}
+}
+
+188823 = {
+	name="¿âÂ" # fictional
+	dynasty=1042050
+	religion="manichean"
+	culture="pecheneg"
+	father=188820
+	756.1.1={
+		birth=yes
+	}
+	771.1.1={
+		death=yes
+	}
+}

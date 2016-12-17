@@ -1,0 +1,113 @@
+330.1.1={
+	liege = "e_byzantium"
+	vice_royalty = yes
+}
+759.1.1={
+	holder=145838
+}
+835.1.1={
+	holder=145164
+}
+1060.1.1=
+{
+	holder=1742
+}
+#Seljuks
+1077.1.1=
+	
+{
+	liege="k_rum"
+	vice_royalty = no
+	holder=3046
+}
+1086.1.1=
+{
+	holder=41701
+}
+#First Crusade
+1097.6.19=
+{
+	liege="e_byzantium"
+	vice_royalty = yes
+}
+1097.6.19=
+{
+	holder=20537
+}
+1100.1.1=
+{
+	holder=20530
+}
+1107.1.1=
+{
+	holder=20532
+}
+1123.1.1=
+{
+	holder=34290
+}
+1150.1.1=
+{
+	holder=232551
+}
+1185.1.1=
+{
+	holder=34297
+}
+#4th crusade
+#to Trebizond
+1204.5.16=
+	
+{
+	liege="k_trebizond"
+	vice_royalty = no
+	holder=215519
+}
+#to Rum
+1214.1.1=
+{
+
+	liege="k_rum"
+	holder=34189
+}
+1237.1.1=
+{
+	holder=34190
+}
+1246.1.1=
+{
+	holder=34191
+}
+1248.1.1=
+{
+	holder=34192
+}
+1249.1.1=
+{
+	holder=34193
+}
+1257.1.1=
+{
+	holder=34192
+}
+1265.1.1=
+{
+	holder=34194
+}
+1284.1.1=
+{
+	holder=34195
+}
+1296.1.1=
+{
+	holder=34196
+}
+1302.1.1=
+{
+	holder=476501
+	liege="k_ottoman"
+}
+1324.1.1=
+{
+	holder=476500
+}

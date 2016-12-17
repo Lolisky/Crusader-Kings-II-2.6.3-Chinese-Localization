@@ -1,0 +1,728 @@
+194006 = {
+	name ="邓基茨克"
+	dynasty = 9570
+	religion = tengri_pagan
+	culture = avar
+	father = 146163
+	722.1.1 = {
+		birth = 722.1.1
+	}
+	776.1.1 = {
+		death = 776.1.1
+	}
+}
+
+194000 = {
+	name ="阿尔普"
+	dynasty = 9570
+	religion = tengri_pagan
+	culture = avar
+	father = 146172
+	775.1.1 = {
+		birth = 775.1.1
+	}
+	830.1.1 = {
+		death = 830.1.1
+	}
+}
+
+168071 = {
+	name="迪增"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father = 194000
+	810.1.1={
+		birth="810.1.1"
+	}
+	858.1.1={
+		death="858.1.1"
+	}
+}
+
+168072 = {
+	name="巴哈托"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=168071
+	830.1.1={
+		birth="830.1.1"
+	}
+	884.1.1={
+		death="884.1.1"
+	}
+}
+
+168073 = {
+	name="秃子尼克"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=168072
+	850.1.1={
+		birth="850.1.1"
+	}
+	884.1.1={
+		religion="orthodox"
+	}
+	891.1.1={
+		death="891.1.1"
+	}
+}
+
+168074 = {
+	name="库巴德"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=168072
+	852.1.1={
+		birth="852.1.1"
+	}
+	884.1.1={
+		religion="orthodox"
+	}
+	909.1.1={
+		death="909.1.1"
+	}
+}
+
+168283 = {
+	name="幽默"
+	#placeholder
+	dynasty=9577
+	religion="tengri_pagan"
+	culture="avar"
+	845.1.1 = {
+		birth="845.1.1"
+	}
+	895.1.1 = {
+		death="895.1.1"
+	}
+}
+
+168284 = {
+	name="阿拉斯兰"
+	#placeholder
+	dynasty=9578
+	religion="tengri_pagan"
+	culture="avar"
+	845.1.1 = {
+		birth="845.1.1"
+	}
+	895.1.1 = {
+		death="895.1.1"
+	}
+}
+
+168285 = {
+	name="帕瓦"
+	#placeholder
+	dynasty=9579
+	religion="tengri_pagan"
+	culture="avar"
+	845.1.1 = {
+		birth="845.1.1"
+	}
+	895.1.1 = {
+		death="895.1.1"
+	}
+}
+
+168576 = {
+	name="艾斯布尔"
+	#placeholder 
+	dynasty=9602
+	religion="tengri_pagan"
+	culture="avar"
+	800.1.1 = {
+		birth=yes
+	}
+	
+	850.1.1 = {
+		death=yes
+	}
+}
+
+168577 = {
+	name="艾普斯科吉"
+	#placeholder 
+	dynasty=9602
+	religion="tengri_pagan"
+	culture="avar"
+	father=168576
+	830.1.1 = {
+		birth=yes
+	}
+	
+	880.1.1 = {
+		death=yes
+	}
+}
+
+
+
+168578 = {
+	name="萨"
+	female=yes
+	#placeholder 
+	dynasty=9602
+	religion="tengri_pagan"
+	culture="avar"
+	father=168576
+	842.1.1 = {
+		birth=yes
+	}
+	
+	890.1.1 = {
+		death=yes
+	}
+}
+
+
+
+168579 = {
+	name="古来"
+	female=yes
+	#placeholder 
+	dynasty=9602
+	religion="tengri_pagan"
+	culture="avar"
+	father=168576
+	844.1.1 = {
+		birth=yes
+	}
+	
+	892.1.1 = {
+		death=yes
+	}
+}
+146137 = {
+	name="维坦"
+	dynasty=1022368
+	religion="tengri_pagan"
+	culture="avar"
+
+	711.1.1 = {
+		birth=yes
+	}
+	770.1.1 = {
+		death=yes
+	}
+}
+
+146138 = {
+	name="瓦克里姆"
+	dynasty=1022368
+	religion="tengri_pagan"
+	culture="avar"
+	father=146137
+	729.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+146139 = {
+	name="阿尔米石"
+	dynasty=1022368
+	religion="tengri_pagan"
+	culture="avar"
+	father=146137
+	731.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+146140 = {
+	name="卡基德"
+	dynasty=1022368
+	religion="tengri_pagan"
+	culture="avar"
+	father=146139
+	750.1.1={
+		birth=yes
+	}
+	797.1.1={
+		religion="catholic"
+		name="Theodorus"
+	}
+	814.1.1={
+		death=yes
+	}
+}
+
+146141 = {
+	name="安吉"
+	dynasty=1022368
+	religion="tengri_pagan"
+	culture="avar"
+	father=146140
+	770.1.1={
+		birth=yes
+	}
+	797.1.1={
+		religion="catholic"
+		name="Abraham"
+	}
+	829.1.1={
+		death=yes
+	}
+}
+
+146142 = {
+	name="伊萨克"
+	dynasty=1022368
+	religion="catholic"
+	culture="avar"
+	father=146141
+	799.1.1={
+		birth=yes
+	}
+	835.1.1={
+		death=yes
+	}
+}
+
+146143 = {
+	name="伊利格"
+	dynasty=1022369
+	religion="tengri_pagan"
+	culture="avar"
+
+	665.1.1={
+		birth=yes
+	}
+	725.1.1={
+		death=yes
+	}
+}
+
+146144 = {
+	name="达库穆"
+	dynasty=1022369
+	religion="tengri_pagan"
+	culture="avar"
+	father=146143
+	692.1.1={
+		birth=yes
+	}
+	736.1.1={
+		death=yes
+	}
+}
+
+146145 = {
+	name="阿尔泽克"
+	dynasty=1022369
+	religion="tengri_pagan"
+	culture="avar"
+	father=146144
+	709.1.1={
+		birth=yes
+	}
+	750.1.1={
+		death=yes
+	}
+}
+
+146146 = {
+	name="扎伯格安"
+	dynasty=1022369
+	religion="tengri_pagan"
+	culture="avar"
+	father=146144
+	711.1.1={
+		birth=yes
+	}
+	762.1.1={
+		death=yes
+	}
+}
+
+146147 = {
+	name="雅尼"
+	dynasty=1022369
+	religion="tengri_pagan"
+	culture="avar"
+	father=146146
+	728.1.1={
+		birth=yes
+	}
+	771.1.1={
+		death=yes
+	}
+}
+
+146148 = {
+	name="玉古尔图"
+	dynasty=1022369
+	religion="tengri_pagan"
+	culture="avar"
+	father=146146
+	730.1.1={
+		birth=yes
+	}
+	760.1.1={
+		add_claim = k_hungary
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+146149 = {
+	name="卡提尔"
+	dynasty=1022369
+	religion="tengri_pagan"
+	culture="avar"
+	father=146145
+	748.1.1={
+		birth=yes
+	}
+	812.1.1={
+		death=yes
+	}
+}
+
+146150 = {
+	name="伊斯普洱"
+	dynasty=1022369
+	religion="tengri_pagan"
+	culture="avar"
+	father=146148
+	747.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+146151 = {
+	name="高斯塔姆"
+	dynasty=1022369
+	religion="tengri_pagan"
+	culture="avar"
+	father=146148
+	749.1.1={
+		birth=yes
+	}
+	812.1.1={
+		death=yes
+	}
+}
+
+146152 = {
+	name="凯加拉"
+	dynasty=1022369
+	religion="tengri_pagan"
+	culture="avar"
+	father=146150
+	762.1.1={
+		birth=yes
+	}
+	818.1.1={
+		death=yes
+	}
+}
+
+146153 = {
+	name="雅布谷"
+	dynasty=1022369
+	religion="tengri_pagan"
+	culture="avar"
+	father=146151
+	764.1.1={
+		birth=yes
+	}
+	821.1.1={
+		death=yes
+	}
+}
+
+146154 = {
+	name="库特金"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+
+	630.1.1={
+		birth=yes
+	}
+	701.1.1={
+		death=yes
+	}
+}
+
+146155 = {
+	name="伊斯佩里"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146154
+	647.1.1={
+		birth=yes
+	}
+	707.1.1={
+		death=yes
+	}
+}
+
+146156 = {
+	name="瓜儿"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146154
+	649.1.1={
+		birth=yes
+	}
+	714.1.1={
+		death=yes
+	}
+}
+
+146157 = {
+	name="卡拉通"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146155
+	667.1.1={
+		birth=yes
+	}
+	718.1.1={
+		death=yes
+	}
+}
+
+146158 = {
+	name="维涅"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146156
+	669.1.1={
+		birth=yes
+	}
+	721.1.1={
+		death=yes
+	}
+}
+
+146159 = {
+	name="霍潘"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146156
+	671.1.1={
+		birth=yes
+	}
+	731.1.1={
+		death=yes
+	}
+}
+
+146160 = {
+	name="布加拉"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146156
+	673.1.1={
+		birth=yes
+	}
+	733.1.1={
+		death=yes
+	}
+}
+
+146161 = {
+	name="贝兹米尔"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146160
+	693.1.1={
+		birth=yes
+	}
+	743.1.1={
+		death=yes
+	}
+}
+
+146162 = {
+	name="高利达"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146160
+	695.1.1={
+		birth=yes
+	}
+	748.1.1={
+		death=yes
+	}
+}
+
+146163 = {
+	name="真谛"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146160
+	697.1.1={
+		birth=yes
+	}
+	756.1.1={
+		death=yes
+	}
+}
+
+146164 = {
+	name="巴斯贝克"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146161
+	739.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}
+
+146165 = {
+	name="贝克马"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146163
+	720.1.1={
+		birth=yes
+	}
+	767.1.1={
+		death=yes
+	}
+}
+
+146166 = {
+	name="额尔纳"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146163
+	724.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+146167 = {
+	name="奥多哥安"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146166
+	742.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+146168 = {
+	name="拉伯坦"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146163
+	726.1.1={
+		birth=yes
+	}
+	791.1.1={
+		death=yes
+	}
+}
+
+146169 = {
+	name="索格"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146168
+	745.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+146170 = {
+	name="欧克斯"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146165
+	739.1.1={
+		birth=yes
+	}
+	804.1.1={
+		death=yes
+	}
+}
+
+146171 = {
+	name="库提格"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146165
+	741.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+
+146172 = {
+	name="德容"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146165
+	743.1.1={
+		birth=yes
+	}
+	808.1.1={
+		death=yes
+	}
+}
+
+146173 = {
+	name="雅万提"
+	dynasty=9570
+	religion="tengri_pagan"
+	culture="avar"
+	father=146172
+	761.1.1={
+		birth=yes
+	}
+	813.1.1={
+		death=yes
+	}
+}

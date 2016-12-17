@@ -1,0 +1,42 @@
+960.1.1={
+	set_global_flag = seljuk_spawned
+}
+
+1037.1.1={
+	holder = 3038
+	law = crown_authority_2
+}
+1063.9.4=
+{
+	holder=3040
+}
+1072.11.1={
+	holder = 3042
+}
+1092.11.1={
+	holder = 144012
+}
+1094.1.1={
+	holder = 144013
+}
+1105.3.1={
+	holder = 144014
+}
+1118.4.18={
+	holder = 144015
+}
+1157.5.8={
+	holder = 0 # End of the Seljuk Turks
+}
+1194.3.1=
+{
+	holder=230000
+}
+1200.1.1=
+{
+	holder=93052
+}
+1221.1.1=
+{
+	holder=0
+}

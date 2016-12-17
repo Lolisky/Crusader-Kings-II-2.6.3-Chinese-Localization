@@ -1,0 +1,187 @@
+430.1.1={
+	holder = 7255 #Niall of the Nine Hostages
+}
+450.1.1={
+	holder = 7254 #Conall Cremthainne son of Niall
+}
+480.1.1={
+	holder = 7256 #Fergus son of Conall Cremthainne Ua Neill
+}
+525.1.1={
+	holder = 7258 #Diarmet son of Fergus Ua Neill
+}
+565.1.1={
+	holder = 7260 #Colman Bec son of Diarmet Ua Neill
+}
+587.1.1={
+	holder = 7262 #Suibne son of Colman Bec Ua Neill
+}
+600.1.1={
+	holder = 7264 #Conall son of Suibne Ua Neill
+}
+635.1.1={
+	holder = 7266 #Airmetach son of Conall Ua Neill
+}
+637.1.1={
+	holder = 7268 #Diarmait son of Airmetach Ua Neill
+}
+689.1.1={
+	holder = 7270 #Murchard son of Diarmait Ua Neill
+}
+715.1.1={
+	holder = 7272 #Donmnall son of Murchard Ua Neill
+}
+763.11.20={
+	holder = 7274 #Donnachad son of Donmnall Ua Neill
+}
+797.2.6={
+	holder = 7276 #Máel Ruanaid son of Donnachad Ua Neill
+}
+843.1.1={
+	holder = 131501 #Máel Sechnaill son of Máel Ruanaid Ua Neill
+}
+862.11.22={
+	holder = 131502 #Flann Sinna son of Máel Sechnaill Ua Neill
+	liege = d_meath
+}
+879.11.20={
+	liege = 0
+}
+916.5.25={
+	holder = 83132 #Conchobar son of Flann Sinna
+}
+919.7.1={
+	holder = 83125 #Domnall son of Flann Sinna
+}
+921.7.1={
+	holder = 131503 #Donnchad Donn son of Flann Sinna Ua Neill
+}
+944.1.1={
+	holder = 83139 #Donnchad son of Domnall
+}
+950.7.1={
+	holder = 83141 #Aed son of Mael Ruanaid
+}
+951.1.1={
+	holder = 131504 #Domnall Donn son of Donnchad Donn Ua Neill
+}
+952.1.1 = {
+	holder = 83135 #Muirchertach son of Máel Ruanaid
+}
+960.7.1={
+	holder = 83135 #Muirchertach son of Máel Ruanaid 
+}
+976.7.1={
+	holder = 131505 #Máel Sechnaill Mór son of Domnall Donn Ua Neill
+}
+1022.9.2={
+	holder = 83128 #Máel-Sechnaill Got
+}
+1025.7.1={
+	holder = 83136 #Róen son of Muirchertach
+}
+1027.7.1={
+	holder = 83130 #Domnall Got
+}
+1030.7.1={
+	holder = 6120 #Conchobar son of abbot Domnall
+}
+1073.1.1={
+	holder = 6118 #Murchad son of Flann
+}
+1076.7.1={
+	holder = 6119 #Máel Sechlainn Bán son of Conchobar
+}
+1087.7.1={
+	holder = 6117 #Domnall son of Flann
+}
+1094.1.1={
+	holder = 83142 #Conchobar son of Máel Sechlainn Bán
+}
+1100.1.1={
+	holder = 83143 #Donnchad son of Murchad
+}
+1105.1.1={
+	holder = 83142 #Conchobar son of Máel Sechlainn Bán
+}
+1105.7.1={
+	holder = 83143 #Donnchad son of Murchad
+}
+1105.11.1={
+	holder = 83145 #Muirchertach son of Domnall
+}
+1106.12.1={
+	holder = 7194 #Murchad son of Domnall
+}
+1115.2.2={
+	holder = 83149 #Máel-Sechlainn son of Domnall
+}
+1115.7.1={
+	holder = 7194 #Murchad son of Domnall
+}
+1127.1.1={
+	holder = 7193 #Domnall son of Murchad
+}
+1127.12.1={
+	holder = 83147 #Diarmait son of Domnall
+}
+1130.7.1={
+	holder = 7194 #Murchad son of Domnall
+}
+1144.7.1={
+	holder = 83151 #Donnchad son of Muirchertach
+}
+1145.7.1={
+	holder = 7194 #Murchad son of Domnall
+}
+1153.7.1={
+	holder = 7191 #Máel-Sechlainn son of Murchad
+}
+1155.7.1={
+	holder = 83156 #Donnchad son of Domnall son of Murchad
+}
+1155.12.1={
+	holder = 7192 #Diarmait son of Domnall son of Murchad
+}
+1156.4.1={
+	holder = 83156 #Donnchad son of Domnall son of Murchad
+}
+1157.7.1={
+	holder = 7192 #Diarmait son of Domnall son of Murchad
+}
+1158.7.1={
+	holder = 83156 #Donnchad son of Domnall son of Murchad
+}
+1160.7.1={
+	holder = 7192 #Diarmait son of Domnall son of Murchad
+}
+1169.7.1={
+	holder = 83153 #Domnall Bregach son of Máel-Sechlainn
+}
+1173.7.1={
+	holder = 83154 #Art son of Máel-Sechlainn
+}
+1185.1.1={
+	liege="d_meath"
+}
+1185.1.1={
+	holder = 454125 #Gerald FitzGerald
+}
+1203.1.1={
+	holder = 454124 #Maurice FitzGerald
+}
+1257.1.1={
+	holder = 454123 #Thomas FitzGerald
+}
+1271.1.1={
+	holder = 454120 #John FitzGerald
+}
+1316.9.12={
+	holder = 454121 #Thomas FitzGerald
+}
+1328.4.5={
+	holder = 161459 #Richard FitzGerald
+}
+1331.7.7={
+	holder = 454122 #Maurice FitzGerald
+}

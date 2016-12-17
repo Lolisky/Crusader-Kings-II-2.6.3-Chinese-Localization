@@ -1,0 +1,106 @@
+712.1.1={
+	liege=d_multan
+}
+
+# 712-750: Umayyad governors
+
+762.1.1={
+	holder=188551 # fictitious deputy of al-Multan
+}
+
+# 750-863: Abbasid governors
+
+863.1.1={
+	holder = 188532 # Muhammad banu Sama
+}
+
+# 863-985: banu Sama rule
+# 985-1008: Soomra rule
+# 1008-ca 1040: Ghaznavid rule
+
+1040.1.1={ # renewed Ismaili independence (date is an estimate)
+	holder = 188538 # ? Karmatia
+}
+1065.1.1={ 
+	holder = 188539 # ? Karmatia
+}
+1090.1.1={ 
+	holder = 188540 # ? Karmatia
+}
+1120.1.1={ 
+	holder = 188541 # ? Karmatia
+}
+1145.1.1={ 
+	holder = 188542 # ? Karmatia
+}
+1170.1.1={ 
+	holder = 188543 # ? Karmatia
+}
+1178.1.1={ # Ghurid conquest, massacre of Ismaili sultans
+	liege=k_afghanistan
+	holder=144142 
+}
+1186.1.1={
+	liege=k_sindh
+}
+1203.1.1={
+	holder=170300
+}
+1218.1.1 = {
+	holder = 194188
+}
+1228.5.30={
+	holder=170193 #Iltutmish
+	liege=e_rajastan
+}
+1236.5.1={
+	holder = 170194 #Firuz I
+}
+1236.11.20={
+	holder = 170195 #Raziyya
+}
+1239.10.1={
+	holder = 170198 #Bahram
+}
+1242.5.15={
+	holder = 170199 #Masud
+}
+1246.6.11={
+	holder = 170201 #Mahmud
+}
+1266.2.19={
+	holder = 170204 #Ghiyasuddin Balban
+}
+1286.1.1={
+	holder = 170213 #Muizz ud-din Qaiqabad
+}
+1290.10.1={
+	holder = 170243 #Jalal ud din Firuz Khilji
+}
+1296.7.21={
+	holder = 170245 #Ibrahim
+}
+1296.11.1={
+	holder = 170246 #Ala-ud-din Muhammad
+}
+1316.1.3={
+	holder = 170247 #Umar
+}
+1316.4.1={
+	holder = 170248 #Mubarak
+}
+1318.1.1={
+	holder = 170250 #Mahmud
+}
+1318.6.1={
+	holder = 170248 #Mubarak
+}
+1320.6.1={
+	holder = 170251 #Husraw Kushru
+}
+1320.10.1={
+	holder = 170257 #Ghiyath al-Din Tughluq
+}
+1325.2.1={
+	holder = 170258 #Muhammad
+}

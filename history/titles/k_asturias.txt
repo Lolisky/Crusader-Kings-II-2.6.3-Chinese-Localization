@@ -1,0 +1,49 @@
+718.1.1={
+	pentarch = b_roma
+	holder=70000 # Pelayo Fafílaz de Asturias
+	law = succ_feudal_elective
+	law = cognatic_succession
+	law = crown_authority_1
+	law = investiture_law_1
+}
+737.1.1={
+	holder=70115 # Favila Páez de Asturias
+}
+739.6.15={
+	holder=70003 # Alfonso I de Cantabria
+}
+757.1.1={
+	holder=70004 # Fruela I de Asturias
+}
+768.1.1={
+	holder=70012 # Aurelio Froilaz de Cantabria
+}
+773.1.1={
+	holder=70118 # Silo, King of Asturias
+}
+783.1.1={
+	holder=70116 # Mauregato Alfónsez de Cantabria
+}
+788.1.1={
+	holder=70013 # Bermudo I de Cantabria
+}
+791.1.1={
+	holder=70006 # Alfonso II de Asturias
+}
+842.3.20={
+	holder=70015 # Ramiro I de Cantabria
+	law = succ_gavelkind
+}
+850.2.1={
+	holder=70017 # Ordoño I de Cantabria
+}
+866.5.27={
+	holder=70019 # Alfonso III de Cantabria
+}
+910.12.20={
+	holder=70030 # Fruela II de Cantabria
+}
+924.1.1={
+	holder=0
+	de_jure_liege=0
+}

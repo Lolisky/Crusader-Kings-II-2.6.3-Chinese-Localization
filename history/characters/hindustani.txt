@@ -1,0 +1,3025 @@
+190110 = {
+	name="°¢¼Ó¿¨" #Random ruler of kasi
+	dynasty=1044018
+	religion="buddhist"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	824.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+190111 = {
+	name="¸ñ¶ûÉ³" #Son of Random ruler of kasi
+	dynasty=1044018
+	religion="buddhist"
+	culture="hindustani"
+	father=190110
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	834.1.1={
+		birth=yes
+	}
+	902.1.1={
+		death=yes
+	}
+}
+190112 = {
+	name="°¢ÄáÃ×É³" #Son of Random ruler of kasi
+	dynasty=1044018
+	religion="hindu"
+	culture="hindustani"
+	father=190110
+	trait="kshatriya"
+	trait="smartist_hindu"
+	839.1.1={
+		birth=yes
+	}
+	901.1.1={
+		death=yes
+	}
+}
+190113 = {
+	name="ÂêÄÈ·¨" #Grandson of Random ruler of kasi
+	dynasty=1044018
+	religion="buddhist"
+	culture="hindustani"
+	father=190112
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	862.1.1={
+		birth=yes
+	}
+	910.1.1={
+		death=yes
+	}
+}
+190200 = {
+	name="¿É¿¨À­"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191321
+	820.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+190201 = {
+	name="É£¿¨À®¿§ÄÇ"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190200 
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	841.1.1={
+		birth=yes
+	}
+	910.1.1={
+		death=yes
+	}
+}
+190202 = {
+	name="°ÍÀ­¹şÉ³"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190201 
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	861.1.1={
+		birth=yes
+	}
+	915.1.1={
+		death=yes
+	}
+}
+190203 = {
+	name="Óî·¨À®¼Ó"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190201
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	879.1.1={
+		birth=yes
+	}
+	898.1.1={
+		add_spouse=191688
+	}
+	945.1.1={
+		death=yes
+	}
+}
+190204 = {
+	name="À®¿¨ÂüÄÈÀ®¼Ó"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190203
+	mother=191688
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	900.1.1={
+		birth=yes
+	}
+	969.1.1={
+		death=yes
+	}
+}
+190205 = {
+	name="É£¿¨À®¿§ÄÇ"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190204 
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	928.1.1={
+		birth=yes
+	}
+	980.1.1={
+		death=yes
+	}
+}
+190206 = {
+	name="Óî·¨À®¼Ó"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190204
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	949.1.1={
+		birth=yes
+	}
+	990.1.1={
+		death=yes
+	}
+}
+190207 = {
+	name="¿É¿¨À­"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190206
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	970.1.1={
+		birth=yes
+	}
+	1015.1.1={
+		death=yes
+	}
+}
+190208 = {
+	name="¸Ô¸ñÑÇµÂ·¨"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190207
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	996.1.1={
+		birth=yes
+	}
+	1042.1.1={
+		death=yes
+	}
+}
+190209 = {
+	name="¿²ÄÈµÂ·¨"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190208
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1016.1.1={
+		birth=yes
+	}
+	1073.1.1={
+		death=yes
+	}
+}
+190210 = {
+	name="ÑÇË¹¿¨ÄÉ"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190208
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1038.1.1={
+		birth=yes
+	}
+	1123.1.1={
+		death=yes
+	}
+}
+190211 = {
+	name="¿§ÑÇßÇ¿¨ÄÉ"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190210
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1065.1.1={
+		birth=yes
+	}
+	1153.1.1={
+		death=yes
+	}
+}
+190212 = {
+	name="ÄÈÀ­Ê¥¹ş"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190211
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1096.1.1={
+		birth=yes
+	}
+	1163.1.1={
+		death=yes
+	}
+}
+190213 = {
+	name="ÔóÑÇÊ¥¹ş"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190211
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1111.1.1={
+		birth=yes
+	}
+	1188.1.1={
+		death=yes
+	}
+}
+190214 = {
+	name="·ÆÔóÑÇÊ¥¹ş"
+	dynasty=1044019 #Cedi
+	religion="hindu"
+	culture="hindustani"
+	father=190213
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1151.1.1={
+		birth=yes
+	}
+	1211.1.1={
+		death=yes
+	}
+}
+190215 = {
+	name="ÂêÏ£ËşÀ®"
+	dynasty=1044030 #Gahadvala
+	religion="buddhist"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	1026.1.1={
+		birth=yes
+	}
+	1085.1.1={
+		death=yes
+	}
+}
+190216 = {
+	name="¿²×¦µÂ·¨"
+	dynasty=1044030 #Gahadvala
+	religion="hindu"
+	culture="hindustani"
+	father=190215
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1049.1.1={
+		birth=yes
+	}
+	1104.1.1={
+		death=yes
+	}
+}
+190217 = {
+	name="Âí´ïÄÈ¿²×¦"
+	dynasty=1044030 #Gahadvala
+	religion="hindu"
+	culture="hindustani"
+	father=190216
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1072.1.1={
+		birth=yes
+	}
+	1114.1.1={
+		death=yes
+	}
+}
+190218 = {
+	name="¸ç·Ö´ï¿²×¦"
+	dynasty=1044030 #Gahadvala
+	religion="hindu"
+	culture="hindustani"
+	father=190217
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1099.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		add_spouse=191404
+	}
+	1168.1.1={
+		death=yes
+	}
+}
+190219 = {
+	name="·ÆÔóÑÇ¿²×¦"
+	dynasty=1044030 #Gahadvala
+	religion="hindu"
+	culture="hindustani"
+	father=190218
+	mother=191404
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1132.1.1={
+		birth=yes
+	}
+	1170.1.1={
+		death=yes
+	}
+}
+190220 = {
+	name="¼ÓÑÇ¿²×¦"
+	dynasty=1044030 #Gahadvala
+	religion="hindu"
+	culture="hindustani"
+	father=190219
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1154.1.1={
+		birth=yes
+	}
+	1193.1.1={
+		death=yes
+	}
+}
+190221 = {
+	name="¹şÀïË¹¿²×¦"
+	dynasty=1044030 #Gahadvala
+	religion="hindu"
+	culture="hindustani"
+	father=190220
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1173.1.1={
+		birth=yes
+	}
+	1197.1.1={
+		death=yes
+	}
+}
+190222 = {
+	name="°¢¿¨µÂÂêÀ®"
+	dynasty=1044030 #Gahadvala
+	religion="hindu"
+	culture="hindustani"
+	father=190220
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1174.1.1={
+		birth=yes
+	}
+	1226.1.1={
+		death=yes
+	}
+}
+190116 = {
+	name="´ïÈøÀ®·¨"
+	dynasty=1044021
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1030.1.1={
+		birth=yes
+	}
+	1079.1.1={
+		death=yes
+	}
+}
+190117 = {
+	name="ÈøÀæËÕ¿¨"
+	dynasty=1044022
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1032.1.1={
+		birth=yes
+	}
+	1077.1.1={
+		death=yes
+	}
+}
+190118 = {
+	name="ÈøËşº«·¨"
+	dynasty=1044023
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1024.1.1={
+		birth=yes
+	}
+	1081.1.1={
+		death=yes
+	}
+}
+178001 = {
+	name="¹şÃÜÀ®ÍßÂü" # Fictional
+	dynasty=1041101
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	826.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}
+178002 = {
+	name="ÄÈÆÓ" # Fictional
+	dynasty=1041102
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	843.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}
+178003 = {
+	name="¼ÓéÏÅÁÀ­" # Fictional
+	dynasty=1041103
+	religion="buddhist"
+	culture="hindustani"
+	829.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}
+178004 = {
+	name="À¥Íß" # Fictional
+	dynasty=1041104
+	religion="buddhist"
+	culture="hindustani"
+	839.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}
+178005 = {
+	name="ÍĞÆÓ" # Fictional
+	dynasty=1041105
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	822.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}
+178006 = {
+	name="Æ¤Àï·ÆÆÓ" # Fictional
+	dynasty=1041106
+	religion="jain"
+	culture="hindustani"
+	trait="kshatriya"
+    trait="svetambara_jain" # chosen randomly
+	830.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}
+191000 = {
+	name="ÑÇË÷ÍßÂü"
+	dynasty=1044300
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	700.1.1={
+		birth=yes
+	}
+	716.1.1={
+		trait=brilliant_strategist
+		trait=hunter
+		trait=strong
+		trait=proud
+	}
+	720.1.1={
+		add_spouse= 191001
+	}
+	752.1.1={
+		death=yes
+	}
+}
+
+191001 = {
+	name="ÑÇË÷µÂ·Æ"
+	female = yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	704.1.1={
+		birth=yes
+	}
+	720.1.1={
+		trait=intricate_webweaver
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+191002 = {
+	name="°¢Âê"
+	dynasty=1044300
+	religion="jain"
+	culture="hindustani"
+	father=191000
+	mother=191001
+	trait="kshatriya"
+	trait="digambara_jain"
+	720.11.1={
+		birth=yes
+	}
+	762.1.1={
+		death=yes
+	}
+}
+
+191003 = {
+	name="’O´ï¿¨"
+	dynasty=1044300
+	religion="hindu"
+	culture="hindustani"
+	father=191002
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	737.1.1={
+		birth=yes
+	}
+	769.1.1={
+		death={
+			death_reason = death_murder
+			killer = 191004
+		}
+	}
+}
+
+191004 = {
+	name="²¥¼Ó"
+	dynasty=1044300
+	religion="hindu"
+	culture="hindustani"
+	father=191003
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	753.1.1={
+		birth=yes
+	}
+	769.1.1={
+		trait=amateurish_plotter
+	}
+	769.1.1={
+		trait=kinslayer
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191005 = {
+	name="·¨åÈÓî¹ş"
+	dynasty=1044301
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	740.1.1={
+		birth=yes
+	}
+	766.1.1={
+		add_spouse= 191006
+	}
+	783.1.1={
+		death=yes
+	}
+}
+
+191006 = {
+	name="¿¦À­ÑÇµÂ·Æ"	#Made up
+	female=yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	742.1.1={
+		birth=yes
+	}
+	791.1.1={
+		death=yes
+	}
+}
+
+191007 = {
+	name="Ó¢×¦Óî¹ş"
+	dynasty=1044301
+	religion="hindu"
+	culture="hindustani"
+	father=191005
+	mother=191006
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	766.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+191008 = {
+	name="ßÇ¿çÓî¹ş"
+	dynasty=1044301
+	religion="hindu"
+	culture="hindustani"
+	father=191005
+	mother=191006
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	768.1.1={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+
+191015 = {
+	name="¿¨Ä¦¶û"	#Fictional
+	dynasty=1044302 #Yadav
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	735.1.1={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+
+191016 = {
+	name="¿ÆÀïÄÉÅÁ"	#Fictional
+	dynasty=1044303 #Kuru
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	720.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+
+191018 = {
+	name="¿¨À­Ä·²éµÂ"	#Semi-Legendary
+	dynasty=1044308 #Gahirawar
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	670.1.1={
+		birth=yes
+	}
+	686.1.1={
+		trait=fortune_builder
+	}
+	720.1.1={
+		death=yes
+	}
+}
+
+191019 = {
+	name="À­ÄÉË¾¹ş"	#Semi-Legendary
+	dynasty=1044308 #Gahirawar
+	religion="hindu"
+	culture="hindustani"
+	father=191018
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	trait="fair"
+	690.1.1={
+		birth=yes
+	}
+	730.1.1={
+		death=yes
+	}
+}
+
+191020 = {
+	name="À­À®ÄÈ·ò"	#Semi-Legendary
+	dynasty=1044308 #Gahirawar
+	religion="hindu"
+	culture="hindustani"
+	father=191019
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	710.1.1={
+		birth=yes
+	}
+	736.1.1={
+		trait="tough_soldier"
+	}
+	750.1.1={
+		death=yes
+	}
+}
+
+191021 = {
+	name="åÈÑÇË¾¹ş"	#Semi-Legendary
+	dynasty=1044308 #Gahirawar
+	religion="hindu"
+	culture="hindustani"
+	father=191020
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	735.1.1={
+		birth=yes
+	}
+	758.1.1={
+		add_spouse= 191043
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191043 = {
+	name="É£Óî¿ËËş"	#Fictional
+	female = yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	740.1.1={
+		birth=yes
+	}
+	788.1.1={
+		death=yes
+	}
+}
+
+191022 = {
+	name="åÈÄÅ·¨À®ÑÇ"	#Semi-Legendary
+	dynasty=1044308 #Gahirawar
+	religion="hindu"
+	culture="hindustani"
+	father=191021
+	mother=191043
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	760.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191023 = {
+	name="ÄÈÀ­Ë¾¹ş"	#Semi-Legendary
+	dynasty=1044308 #Gahirawar
+	religion="hindu"
+	culture="hindustani"
+	father=191022
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	780.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191024 = {
+	name="ÒÁ¼Ò¼ªÌØ"	#Semi-Legendary
+	dynasty=1044308 #Gahirawar
+	religion="hindu"
+	culture="hindustani"
+	father=191023
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	800.1.1={
+		birth=yes
+	}
+	831.1.1={
+		death=yes
+	}
+}
+
+191025 = {
+	name="À®¼ÓÆÕ¼Ó"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	710.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191026 = {
+	name="Ë¾·¨À®¼Ó"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191025
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	735.1.1={
+		birth=yes
+	}
+	755.1.1={
+		add_spouse= 191040
+	}
+	805.1.1={
+		death=yes
+	}
+}
+
+191040 = {
+	name="ÄÈËşµÂ·Æ"	#Fictional
+	female = yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	735.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191027 = {
+	name="É£¿¦À­¿§ÄÅ"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191026
+	mother=191040
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	760.1.1={
+		birth=yes
+	}
+	835.1.1={
+		death=yes
+	}
+}
+
+191028 = {
+	name="¹ÅÄÈÈø¸ÂÀ®"	#I
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191027
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	820.1.1={
+		birth=yes
+	}
+	858.1.1={
+		add_spouse= 191041
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+191041 = {
+	name="¿¨Âê·¨Ìä"	#Fictional
+	female = yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	840.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+191029 = {
+	name="ÓîÀ®¹ş"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191028
+	mother=191041
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	860.1.1={
+		birth=yes
+	}
+	910.1.1={
+		death=yes
+	}
+}
+
+191030 = {
+	name="°Ø¹şÂêÄÅµÂ·¨"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191028
+	mother=191041
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	870.1.1={
+		birth=yes
+	}
+	942.1.1={
+		death=yes
+	}
+}
+
+191031 = {
+	name="É£ßÇÀ®¿§ÄÅ"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191030
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	920.1.1={
+		birth=yes
+	}
+	960.1.1={
+		death=yes
+	}
+}
+
+191032 = {
+	name="Ä·¸ñ¹ş…×¿§"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	father=191031
+	trait="vaishnavist_hindu"
+	940.1.1={
+		birth=yes
+	}
+	970.1.1={
+		death=yes
+	}
+}
+
+191033 = {
+	name="¹ÅÄÅÈø¿§À®"	#II
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191032
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	959.1.1={
+		birth=yes
+	}
+	975.1.1={
+		add_spouse=191042
+	}
+	990.1.1={
+		death=yes
+	}
+}
+
+191042 = {
+	name="¿²³õßÇ"	#Fictional
+	female = yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	955.1.1={
+		birth=yes
+	}
+	1050.1.1={
+		death=yes
+	}
+}
+
+191034 = {
+	name="Ë¾ÍßÀ®¼Ó"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191033
+	mother=191042
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	975.1.1={
+		birth=yes
+	}
+	1010.1.1={
+		death=yes
+	}
+}
+
+191035 = {
+	name="°Ø¹şÂêÄÅ"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	father=191034
+	trait="vaishnavist_hindu"
+	995.1.1={
+		birth=yes
+	}
+	1020.1.1={
+		death=yes
+	}
+}
+
+191036 = {
+	name="É£ßÇÀ®¿§ÄÅ"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191035
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1011.1.1={
+		birth=yes
+	}
+	1028.1.1={
+		death=yes
+	}
+}
+
+191037 = {
+	name="±ËÎ÷Âê"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191036
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1027.1.1={
+		birth=yes
+	}
+	1031.1.1={
+		death=yes
+	}
+}
+
+191038 = {
+	name="ÑÇÈø"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191033
+	mother=191042
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	986.1.1={
+		birth=yes
+	}
+	1079.1.1={
+		death=yes
+	}
+}
+
+191039 = {
+	name="Ë÷¹şµÂ·¨"
+	dynasty=1044309 #Kalachuri
+	religion="hindu"
+	culture="hindustani"
+	father=191038
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1050.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+
+191044 = {
+	name="¿²×¦"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	980.1.1={
+		birth=yes
+	}
+	1030.1.1={
+		death=yes
+	}
+}
+
+191045 = {
+	name="·ÆßÉ¹şÅÁÀ®"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	father=191044
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1000.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+
+191046 = {
+	name="ÆÕÍßÄÅÅÁÀ®"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	father=191045
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1020.1.1={
+		birth=yes
+	}
+	1080.1.1={
+		death=yes
+	}
+}
+
+
+191047 = {
+	name="¸ñÅÁÀ®"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	father=191046
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1040.1.1={
+		birth=yes
+	}
+	1089.1.1={
+		death=yes
+	}
+}
+
+191048 = {
+	name="è­ºúÍßÄÅ"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	father=191047
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1060.1.1={
+		birth=yes
+	}
+	1119.1.1={
+		death=yes
+	}
+}
+
+191049 = {
+	name="Âí´ïÄÅÅÁÀ®"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	father=191048
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1076.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+
+191050 = {
+	name="µÂ·¨ÅÁÀ­"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	father=191049
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1100.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+
+191051 = {
+	name="±ËÂêÅÁÀ­"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	father=191050
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1128.1.1={
+		birth=yes
+	}
+	1170.1.1={
+		death=yes
+	}
+}
+
+191052 = {
+	name="ËÕÀ®ÅÁÀ®"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	father=191051
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1148.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+
+191053 = {
+	name="°²Ä¾ÀûËşÅÁÀ®"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	father=191052
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1166.1.1={
+		birth=yes
+	}
+	1186.1.1={
+		death=yes
+	}
+}
+
+191054 = {
+	name="À®¹şÅÁÀ®"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	father=191053
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1182.1.1={
+		birth=yes
+	}
+	1202.1.1={
+		death=yes
+	}
+}
+
+191055 = {
+	name="°ÍÀ®¹şµÂ·¨"
+	dynasty=1044310 #Rashtrakutas of Kanyakubja
+	religion="hindu"
+	culture="hindustani"
+	father=191054
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1200.1.1={
+		birth=yes
+	}
+	1240.1.1={
+		death=yes
+	}
+}
+
+
+191056 = {
+	name="·Æ¼ÓÉ£µÂ"
+	dynasty=1044030 #Gahadvala
+	religion="hindu"
+	culture="hindustani"
+	father=190222
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1190.1.1={
+		birth=yes
+	}
+	1210.1.1={
+		death=yes
+	}
+}
+
+191057 = {
+	name="·Æ†EÂê¼ªÌØ"	#Fictional
+	dynasty=1044030 #Gahadvala
+	religion="hindu"
+	culture="hindustani"
+	father=191056
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1210.1.1={
+		birth=yes
+	}
+	1240.1.1={
+		death=yes
+	}
+}
+
+191058 = {
+	name="ÇÇÀ×"	#Fictional
+	dynasty=1044030
+	religion="hindu"
+	culture="hindustani"
+	father=191057
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1230.1.1={
+		birth=yes
+	}
+	1280.1.1={
+		death=yes
+	}
+}
+
+191059 = {
+	name="·Æ†EÂê¼ªÌØ"	#Fictional
+	dynasty=1044030
+	religion="hindu"
+	culture="hindustani"
+	father=191058
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1260.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+
+191060 = {
+	name="ÇÇÀ×"	#Fictional
+	dynasty=1044030
+	religion="hindu"
+	culture="hindustani"
+	father=191059
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1320.1.1={
+		birth=yes
+	}
+	1410.1.1={
+		death=yes
+	}
+}
+
+191061 = {
+	name="·Æ†EÂê¼ªÌØ"	#Fictional
+	dynasty=1044030
+	religion="hindu"
+	culture="hindustani"
+	father=191060
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1380.1.1={
+		birth=yes
+	}
+	1450.1.1={
+		death=yes
+	}
+}
+
+191079 = {
+	name="Ë¾ÍßÀ®¼Ó"
+	dynasty=1044310	#Rashtrakuta
+	religion="hindu"
+	culture="hindustani"
+	father=191046
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1060.1.1={
+		birth=yes
+	}
+	1066.1.1={
+		employer = 191066
+	}
+	1110.1.1={
+		death=yes
+	}
+}
+
+191298 = {
+	name="åÈÑÇµÙÌáÑÇ"
+	dynasty=1044335	#Malayaketu
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	720.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191299 = {
+	name="åÈÑÇµÙÌáÑÇ"
+	dynasty=1044335	#Malayaketu
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191298
+	760.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+
+191300 = {
+	name="åÈÑÇµÙÌáÑÇ"
+	dynasty=1044335	#Malayaketu
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191299
+	790.1.1={
+		birth=yes
+	}
+	870.1.1={
+		death=yes
+	}
+}
+
+191262 = {
+	name="°²±ËßÇµÂ·Æ"
+	dynasty=1044019	#Cedis
+	female=yes
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191319
+	710.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+191317 = {
+	name="ÍßÂêÀ®åÈ"
+	dynasty=1044019	#Cedi
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	620.1.1={
+		birth=yes
+	}
+	700.1.1={
+		death=yes
+	}
+}
+
+191318 = {
+	name="¹ÅÄÈÈø¿§À®"	#Fictional, the 2 generations between Vamaraja and Sankaragana are unkown
+	dynasty=1044019	#Cedi
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191317
+	650.1.1={
+		birth=yes
+	}
+	730.1.1={
+		death=yes
+	}
+}
+
+191319 = {
+	name="ÂêÓîÀ®åÈ"	#Fictional
+	dynasty=1044019	#Cedi
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191318
+	670.1.1={
+		birth=yes
+	}
+	750.1.1={
+		death=yes
+	}
+}
+
+191320 = {
+	name="É£ßÇÀ®¿§ÄÅ"
+	dynasty=1044019	#Cedi
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191319
+	720.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191388 = {
+	name="¿ËÀïË¹ÄÈÀ®åÈ" #Fictional, name unkown
+	dynasty=1044019	#Cedi
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191320
+	750.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+
+191321 = {
+	name="À®¿ËÂüÄÅÀ®åÈ"
+	dynasty=1044019	#Cedi
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191388
+	800.1.1={
+		birth=yes
+	}
+	845.1.1={
+		death=yes
+	}
+}
+
+191345 = {
+	name="¿¨ÁÕ¿§À®åÈ"
+	dynasty=1044338	#Cedi
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=190205
+	970.1.1={
+		birth=yes
+	}
+	1030.1.1={
+		death=yes
+	}
+}
+
+191346 = {
+	name="¿¨ÂêÀ­ÄÉåÈ"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191345
+	990.1.1={
+		birth=yes
+	}
+	1050.1.1={
+		death=yes
+	}
+}
+
+191347 = {
+	name="ÍßÄÅµÂ·¨"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191346
+	1010.1.1={
+		birth=yes
+	}
+	1070.1.1={
+		death=yes
+	}
+}
+
+191348 = {
+	name="Æ¤¶ûµÂ·¨"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191347
+	1040.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+191349 = {
+	name="åÈ¾ôÀ®µÂ·¨"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191348
+	1070.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		death=yes
+	}
+}
+
+191350 = {
+	name="ÍßÄÅµÂ·¨" #II
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191349
+	1100.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+
+191351 = {
+	name="åÈ¾ôÀ®µÂ·¨" #II
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191350
+	1130.1.1={
+		birth=yes
+	}
+	1170.1.1={
+		death=yes
+	}
+}
+
+191352 = {
+	name="åÈ¾ôÀ®µÂ·¨" #II
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191351
+	1150.1.1={
+		birth=yes
+	}
+	1190.1.1={
+		death=yes
+	}
+}
+
+191353 = {
+	name="ÍßÄÅµÂ·¨" #III
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191352
+	1170.1.1={
+		birth=yes
+	}
+	1198.1.1={
+		death=yes
+	}
+}
+
+191354 = {
+	name="ÆÕÀ­ËşÅÁÂêÀ®"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191352
+	1171.1.1={
+		birth=yes
+	}
+	1225.1.1={
+		death=yes
+	}
+}
+
+191355 = {	#From this point on genealogies are conflicting, likely this isn't right
+	name="À®ÃÔµÙ°Â"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191354
+	1190.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+
+191356 = {
+	name="Ë¾¹şÄÈ"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191355
+	1210.1.1={
+		birth=yes
+	}
+	1280.1.1={
+		death=yes
+	}
+}
+
+191357 = {
+	name="µ§Î÷À®"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191356
+	1230.1.1={
+		birth=yes
+	}
+	1300.1.1={
+		death=yes
+	}
+}
+
+191358 = {
+	name="À®Âê²Ø×¦"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191357
+	1260.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+
+191359 = {
+	name="À®ËşÄÅÉ«ÄÅ"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191358
+	1300.1.1={
+		birth=yes
+	}
+	1380.1.1={
+		death=yes
+	}
+}
+
+191360 = {
+	name="·¨¹ş¶û"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191359
+	1340.1.1={
+		birth=yes
+	}
+	1426.1.1={
+		death=yes
+	}
+}
+
+191361 = {
+	name="ßÇÂêµÂ·¨"
+	dynasty=1044338	#Haihaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191360
+	1360.1.1={
+		birth=yes
+	}
+	1436.1.1={
+		death=yes
+	}
+}
+
+191381 = {
+	name="Ë¾ÀûÍß¹şÄÅ"
+	dynasty=1044342	#Sailavamsa
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	550.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+
+191382 = {
+	name="ÆÕ·üÍß¹şÄÅ"
+	dynasty=1044342	#Sailavamsa
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191381
+	580.1.1={
+		birth=yes
+	}
+	620.1.1={
+		death=yes
+	}
+}
+
+191383 = {
+	name="Ë÷Íß¹şÄÅ"
+	dynasty=1044342	#Sailavamsa
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191382
+	600.1.1={
+		birth=yes
+	}
+	650.1.1={
+		death=yes
+	}
+}
+
+191384 = {
+	name="ÆÕ·üÍß¹şÄÅ"	#Fictional name, the name of this son is not known
+	dynasty=1044342	#Sailavamsa
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191383
+	620.1.1={
+		birth=yes
+	}
+	680.1.1={
+		death=yes
+	}
+}
+
+191385 = {
+	name="åÈÑÇÍß¹şÄÅ"	#I
+	dynasty=1044342	#Sailavamsa
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191384
+	640.1.1={
+		birth=yes
+	}
+	720.1.1={
+		death=yes
+	}
+}
+
+191386 = {
+	name="Ë¾ÀûÍß¹şÄÅ"	#II
+	dynasty=1044342	#Sailavamsa
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191385
+	660.1.1={
+		birth=yes
+	}
+	740.1.1={
+		death=yes
+	}
+}
+
+191387 = {
+	name="åÈÑÇÍß¹şÄÅ"	#II
+	dynasty=1044342	#Sailavamsa
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191386
+	700.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191393 = {
+	name="¿¨ÂêÀ®ÅÁÀ®"
+	dynasty=1044344 # Singara
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1000.1.1={
+		birth=yes
+	}
+	1085.1.1={
+		death=yes
+	}
+}
+
+191394 = {
+	name="ËÕ¹şÄÅ"
+	dynasty=1044344 # Singara
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191393
+	1020.1.1={
+		birth=yes
+	}
+	1104.1.1={
+		death=yes
+	}
+}
+
+191395 = {
+	name="¿âÂêÀ®"
+	dynasty=1044344 # Singara
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191394
+	1040.1.1={
+		birth=yes
+	}
+	1114.1.1={
+		death=yes
+	}
+}
+
+191396 = {
+	name="¿©¹şµÂ·¨"
+	dynasty=1044344 # Singara
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191395
+	1070.1.1={
+		birth=yes
+	}
+	1168.1.1={
+		death=yes
+	}
+}
+
+191430 = {
+	name="¹¶ÅÁÀ­"
+	dynasty=1044347 # Gopala
+	religion="hindu"
+	culture="hindustani"
+	trait="brahmin"
+	trait="vaishnavist_hindu"
+	trait=content
+	1040.1.1={
+		birth=yes
+	}
+	1056.1.1={
+		add_trait=brilliant_strategist
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+
+191469 = {
+	name="İ·ªÂêÌäÈøÎ÷°Í"
+	female=yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1200.1.1={
+		birth=yes
+	}
+	1260.1.1={
+		death=yes
+	}
+}
+
+191475 = {
+	name="ÅÁÂê"
+	female=yes
+	dynasty=1044338 # Hayhaya
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191355
+	1220.1.1={
+		birth=yes
+	}
+	1275.1.1={
+		death=yes
+	}
+}
+
+191482 = {
+	name="ÅÁ¼}"	#Fictional
+	dynasty=1044350 #Baland
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	700.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+	
+191483 = {
+	name="Ä¾Î÷Âê"	#Fictional
+	dynasty=1044350 #Baland
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191482
+	720.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+
+191484 = {
+	name="Âê¼ª"	#Fictional
+	dynasty=1044350 #Baland
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191483
+	750.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+
+191485 = {
+	name="Ä¾Î÷Âê"	#Fictional
+	dynasty=1044350 #Baland
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191484
+	800.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+191486 = {
+	name="Âê¼ª"	#Fictional
+	dynasty=1044350 #Baland
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191485
+	820.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+191487 = {
+	name="ÅÁ¼}"	#Fictional
+	dynasty=1044350 #Baland
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191486
+	840.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+191504 = {
+	name="ÄÅİ·¹ş"
+	dynasty=1044352 #Rajgond
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1170.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+
+191505 = {
+	name="È»É£×¦"
+	dynasty=1044352 #Rajgond
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191504
+	1190.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes
+	}
+}
+
+191506 = {
+	name="¿ËÀïË¹ÄÉ"
+	dynasty=1044352 #Rajgond
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191505
+	1210.1.1={
+		birth=yes
+	}
+	1290.1.1={
+		death=yes
+	}
+}
+
+191507 = {
+	name="Èã×¦"
+	dynasty=1044352 #Rajgond
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191506
+	1230.1.1={
+		birth=yes
+	}
+	1320.1.1={
+		death=yes
+	}
+}
+
+191508 = {
+	name="åÈ¸ñÄÅ·©"
+	dynasty=1044352 #Rajgond
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191507
+	1250.1.1={
+		birth=yes
+	}
+	1330.1.1={
+		death=yes
+	}
+}
+
+191509 = {
+	name="·¨ËÕµÂ·¨"
+	dynasty=1044352 #Rajgond
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191508
+	1270.1.1={
+		birth=yes
+	}
+	1360.1.1={
+		death=yes
+	}
+}
+
+191518 = {
+	name="ºÉÅÁÀ®"	#Fictional
+	dynasty=1044353 #Bhar
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	720.1.1={
+		birth=yes
+	}
+	740.1.1={
+		add_spouse = 191520
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191519 = {
+	name="ÄÅÆÓ"	#Fictional
+	dynasty=1044353 #Bhar
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191518
+	mother=191520
+	741.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191520 = {
+	name="¿³³õßÇ"	#Fictional
+	female=yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	722.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191521 = {
+	name="ÄÅÆÓ"	#Fictional
+	dynasty=1044353 #Bhar
+	female=yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191518
+	mother=191520
+	742.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+191685 = {
+	name="Ë¾¹şÍßÂü"
+	dynasty=1044374 #Chaulukyas of Mattamayura
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	740.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+191686 = {
+	name="Èø¹şÍß"
+	dynasty=1044374 #Chalukyas of Mattamayura
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191685
+	780.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+191687 = {
+	name="°¢ÍßÄáÍßÂü"
+	dynasty=1044374 #Chalukyas of Mattamayura
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191686
+	855.1.1={
+		birth=yes
+	}
+	954.1.1={
+		death=yes
+	}
+}
+191688 = {
+	name="ßæ¹şÀ®"
+	dynasty=1044374 #Chalukyas of Mattamayura
+	female=yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191687
+	882.1.1={
+		birth=yes
+	}
+	960.1.1={
+		death=yes
+	}
+}
+
+191933 = {
+	name="µÂ¹şÄ·ÂêÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	770.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191934 = {
+	name="ĞÂ¹şÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191933
+	786.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+191935 = {
+	name="åÈ¿§ÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191934
+	802.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+191936 = {
+	name="ÄÅÀ®ÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191935
+	818.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+191937 = {
+	name="É£ßÉÂêÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191936
+	840.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+191946 = {
+	name="¿â·¨ÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191937
+	860.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+191938 = {
+	name="ÜÂêÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191946
+	880.1.1={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+
+191939 = {
+	name="ËÕßÇ¹şÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191938
+	900.1.1={
+		birth=yes
+	}
+	960.1.1={
+		death=yes
+	}
+}
+
+191940 = {
+	name="ÆÕßÇ¹şÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191939
+	920.1.1={
+		birth=yes
+	}
+	980.1.1={
+		death=yes
+	}
+}
+
+191941 = {
+	name="·ÆÀ®ÂêÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191940
+	940.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+
+191942 = {
+	name="½àËşÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191941
+	960.1.1={
+		birth=yes
+	}
+	1043.1.1={
+		death=yes
+	}
+}
+
+191689 = {
+	name="·ÆåÈÑÇÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191942
+	1000.1.1={
+		birth=yes
+	}
+	1052.1.1={
+		death=yes
+	}
+}
+191690 = {
+	name="ËşÂüÆÓ"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191689
+	1030.1.1={
+		birth=yes
+	}
+	1080.1.1={
+		death=yes
+	}
+}
+191691 = {
+	name="Ksitipala"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191690
+	1050.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+191943 = {
+	name="´î¹şÂêÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191691
+	1070.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		death=yes
+	}
+}
+191692 = {
+	name="°¢½àÑÇÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191943
+	1130.1.1={
+		birth=yes
+	}
+	1196.1.1={
+		death=yes
+	}
+}
+191693 = {
+	name="¿âÂêÀ®ÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191692
+	1150.1.1={
+		birth=yes
+	}
+	1220.1.1={
+		death=yes
+	}
+}
+191694 = {
+	name="¹şÀûÆÓ"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	trait="legit_bastard"
+	father=191692
+	1155.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+191695 = {
+	name="Ë÷º¹ÆÓ"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191693
+	1200.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes
+	}
+}
+191696 = {
+	name="°¢ÄÏ¿§ÆÓ"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191695
+	1240.1.1={
+		birth=yes
+	}
+	1300.1.1={
+		death=yes
+	}
+}
+191697 = {
+	name="Æ¤Èã·ÆÆÓ"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191696
+	1260.1.1={
+		birth=yes
+	}
+	1320.1.1={
+		death=yes
+	}
+}
+191944 = {
+	name="À®åÈÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191697
+	1300.1.1={
+		birth=yes
+	}
+	1350.1.1={
+		death=yes
+	}
+}
+191945 = {
+	name="´§ÂŞßÇÅÁÀ®"
+	dynasty=1044375 #Jadon of Bayana/Karauli
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191944
+	1320.1.1={
+		birth=yes
+	}
+	1370.1.1={
+		death=yes
+	}
+}
+
+191698 = {
+	name="ÂêÏ£ÅÁÀ®"
+	dynasty=1044376 #Surasena
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	856.1.1={
+		birth=yes
+	}
+	955.1.1={
+		death=yes
+	}
+}
+
+191823 = {
+	name="É²¹ş´î"
+	dynasty=1044382	#Yayvapala
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1180.1.1={
+		birth=yes
+	}
+	1254.1.1={
+		death=yes
+	}
+}
+
+191824 = {
+	name="ÄáÀûÍßÂü"
+	dynasty=1044382	#Yayvapala
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191823
+	1200.1.1={
+		birth=yes
+	}
+	1260.1.1={
+		death=yes
+	}
+}
+
+191825 = {
+	name="°¢É¯À­"
+	dynasty=1044382	#Yayvapala
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191824
+	1220.1.1={
+		birth=yes
+	}
+	1279.1.1={
+		death=yes
+	}
+}
+
+191826 = {
+	name="¸ñÅÁÀ®"
+	dynasty=1044382	#Yayvapala
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191825
+	1240.1.1={
+		birth=yes
+	}
+	1291.1.1={
+		death=yes
+	}
+}
+
+191827 = {
+	name="¿§ÄÅÅÁÌä"
+	dynasty=1044382	#Yayvapala
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191824
+	1260.1.1={
+		birth=yes
+	}
+	1298.1.1={
+		death=yes
+	}
+}
+
+191874 = {
+	name="½àåÈ"
+	dynasty=1044387	#Rashtrakutas of Pathari
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191877
+	740.1.1={
+		birth=yes
+	}
+	768.1.1={
+		add_spouse=191926
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+191875 = {
+	name="ßÇßÇÀ®åÈ"
+	dynasty=1044387	#Rashtrakutas of Pathari
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191874
+	mother=191926
+	769.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+191876 = {
+	name="ÅÁÀ®°ÈÀ®"
+	dynasty=1044387	#Rashtrakutas of Pathari
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191875
+	800.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+191877 = {
+	name="ßÇßÇÀ®åÈ"	#Fictional
+	dynasty=1044387	#Rashtrakutas of Pathari
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	710.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+191911 = {
+	name="ÅÁÀ®°ÈÀ®"	#Fictional name of real elder brother of Jejja
+	dynasty=1044387	#Rashtrakutas of Pathari
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191877
+	735.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+191926 = {
+	name="À³Ï£Äá"	#Fictional
+	female=yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	750.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+
+191960 = {
+	name="·Æ±¾º¹"
+	dynasty=1044392	#Khichar
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	740.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+191988 = {
+	name="Ë¹ËÕÆÓ"	#Fictional
+	dynasty=1044397 #Gautam
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	840.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}

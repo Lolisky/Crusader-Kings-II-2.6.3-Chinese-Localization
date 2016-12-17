@@ -1,0 +1,100 @@
+769.1.1 = {
+	de_jure_liege = k_france
+}
+852.1.1 = {
+	de_jure_liege = k_aquitaine
+	liege=k_france
+}
+852.1.1 = {
+	holder = 90129 #Ramnulf I
+}
+866.10.1 = {
+	holder = 90128 #Ramnulf II
+}
+#889.12.12 = {
+#	liege = "k_france"
+#}
+890.10.1 = {
+	holder = 168057 #Ramnulf III
+}
+901.1.1 = {
+	holder = 90127 #Ebles
+}
+934.1.1 = {
+	holder = 230 #Guillaume Ier
+}
+963.4.3 = {
+	holder = 232 #Guillaume II
+}
+995.2.3 = {
+	holder = 234 #Guillaume III
+}
+1030.1.31 = {
+	holder = 236 #Guillaume IV
+}
+1038.12.15 = {
+	holder = 238 #Guillaume V
+}
+1058.1.1 = {
+	holder = 240 #Guillaume VI
+}
+1086.9.25 = {
+	holder = 205733 #Guillaume VII
+}
+1126.2.10 = {
+	holder = 205731 #Guillaume VIII
+}
+1137.4.9 = {
+	holder = 205730 #Alienor
+}
+1137.7.22 = {
+	holder = 205500 #Louis VII
+}
+1152.3.21 = {
+	holder = 205730 #Alienor
+}
+1152.5.18 = {
+	liege = "k_england"
+}
+1152.5.18 = {
+	holder = 204500 #Henry II
+}
+1189.7.6 = {
+	holder = 204510 #Richard I
+}
+1199.4.6 = {
+	holder = 204514 #John
+}
+1205.1.1 = {
+	liege = "k_france"
+}
+1205.1.1 = {
+	holder = 205506 # Philippe II
+}
+1223.7.14 = {
+	holder = 455402 #Louis VIII
+}
+1226.11.8 = {
+	holder = 455404 #Louis IX
+}
+1241.6.24 = {
+	holder = 127000 #Alphonse, brother of Louis IX
+}
+1271.8.21 = {
+	holder = 455528 # Philippe III
+}
+1285.10.5 = {
+	holder = 455526 # Philippe IV
+}
+1311.12.1 = {
+	holder= 455509 # Philippe, V in 1316 
+}
+1322.1.3 = {
+	holder = 455414 # Charles IV
+}
+1328.2.1 = {
+	holder = 455500 # Philippe VI
+}
+1336.12.01={
+	holder=455650
+}

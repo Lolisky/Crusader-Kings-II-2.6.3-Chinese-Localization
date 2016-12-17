@@ -1,0 +1,78 @@
+100.1.1={
+	liege="d_brittany"
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+769.1.1={
+	holder = 159671
+}
+850.1.1={
+	holder = 159673 # Alfrond of Cornouaille
+}
+857.1.1={
+	holder = 163105
+}
+867.1.1={
+	holder = 159673 # Alfrond of Cornouaille
+}
+#House of Poher -> Nantes
+890.1.1={
+	holder=50007 #Malhuedoc
+}
+
+907.1.1={
+	liege=0
+}
+931.1.1={
+	liege=d_brittany
+}
+
+#House of Cornouaille
+1020.1.1={
+	holder=10042 #Alain Canhiart
+}
+1058.1.1={
+	holder=178 #Hoël II
+}
+1084.04.13={
+	holder=180 #Alain IV Fergent
+}
+1112.1.8={
+	holder=91159 #Conan III le Gros
+}
+1148.9.17={
+	holder=205825 #Berthe
+}
+
+#Rennian House of Penthièvre
+1156.1.1={
+	holder=205741 #Conan IV le Petit
+}
+1166.1.1={
+	holder=205740 #Constance
+}
+
+#Plantagenêt dynasty
+1194.1.1={
+	holder=204505 #Arthur I
+}
+1203.4.3={
+	holder=91139 #Alix
+}
+1220.1.1 = {
+	holder = 91218
+}
+
+#Capetian house of Dreux
+1221.10.21={
+	holder=7621 #Jean I le Roux
+}
+1286.10.8={
+	holder=455789 #Jean II
+}
+1305.11.18={
+	holder=455751 #Arthur II
+}
+1312.8.27={
+	holder=455750 #Jean III le Bon
+}

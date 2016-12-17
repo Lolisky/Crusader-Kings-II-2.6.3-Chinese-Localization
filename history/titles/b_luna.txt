@@ -1,0 +1,7 @@
+1066.1.1={
+	holder=167537 # House Fieschi
+	liege="c_genoa"
+}
+1318.7.26 = { # This is needed for the capital change command in province history since we need to ensure the ownership of the new capital.
+	holder = 461700
+}

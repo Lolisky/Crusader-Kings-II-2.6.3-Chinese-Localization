@@ -1,0 +1,66 @@
+645.1.1={
+	holder = 191100 #Khadgodyama
+	liege = d_vanga
+}
+675.1.1={
+	holder = 191101 #Jatakhadga
+}
+700.1.1={
+	holder = 191102 #Devakhadga
+}
+725.1.1={
+	holder = 190084 #Shantideva Shantideva
+}
+750.1.1={
+	holder = 190085 #Viradeva Shantideva
+}
+802.1.1={
+	holder = 190086 #Ananadeva Shantideva
+}
+841.1.1={
+	holder = 190087 #Bhavadeva Shantideva
+}
+856.1.1= {
+	holder = 190095 #Jarasandha
+}
+856.1.1={
+	liege=k_bengal
+}
+891.1.1= {
+	holder = 190096 #Sahadeva
+}#907 return to Pala
+1031.1.1= {
+	holder = 190120 #Skanda dies 1076
+}
+1031.1.1= {
+	liege=d_vanga
+}
+1076.1.1= {
+	holder = 190074 #Harivarman Bengala Varman
+}
+1140.1.1={
+	holder = 154002 #Vijay Sena
+	liege=k_bengal
+}
+1159.1.1= {
+	holder = 154004 #Valla Sena
+}
+1179.1.1= {
+	holder = 154005 #Laksmana Sena
+}
+1204.1.1={
+	holder = 191547 #Kharavana
+	liege = d_vanga
+}
+1250.1.1={
+	holder = 191548 #Gokuladeva
+}
+1270.1.1={
+	holder = 191549 #Narayanadeva
+}
+1290.1.1={
+	holder = 191550 #Isanadeva
+}
+1300.1.1={
+	liege = 0
+}

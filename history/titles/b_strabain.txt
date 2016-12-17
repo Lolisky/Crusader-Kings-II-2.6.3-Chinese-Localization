@@ -1,0 +1,57 @@
+1066.1.1={
+	holding_dynasty = 9520 # Stråben - makes this a FAMILY_PALACE type Holding
+	liege="d_gotland"
+	holder=167361 #Knut Straben
+}
+1077.1.1=
+{
+	holder=167362 #Dyre Straben
+}
+1097.1.1=
+{
+	holder=0
+}
+#1100.1.1=
+#{
+#	holder=167363 #Folke Straben
+#}
+#1105.1.1=
+#{
+#	holder=167365 #Knut Straben
+#}
+#1110.1.1=
+#{
+#	holder=167366 #Erik Straben
+#}
+#1120.1.1=
+#{
+#	holder=167367 #Ulf Straben
+#}
+#1125.1.1=
+#{
+#	holder=167368 #Bjorn Straben
+#}
+#1145.1.1=
+#{
+#	holder=167370 #Knut Straben
+#}
+1161.6.6 = {
+	holder=167372 #Ragnvald Straben
+}
+1187.1.1=
+{
+	holder=167372 #Ragnvald Straben
+}
+1193.1.1=
+{
+	holder=167373 #Knut Straben
+}
+1210.1.1 = {
+	holder=194282
+}
+1255.1.1 = {
+	holder=194283
+}
+1285.1.1 = {
+	holder = 0
+}

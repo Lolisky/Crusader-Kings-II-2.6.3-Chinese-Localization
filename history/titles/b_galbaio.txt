@@ -1,0 +1,21 @@
+746.1.1={
+	holding_dynasty = 1022327 # Galbaio - makes this a FAMILY_PALACE type Holding
+	liege="d_venice"
+	holder=145919
+}
+787.1.1={
+	holder=145920
+}
+811.1.1={
+	liege="k_venice"
+}
+813.1.1={
+	holder=145921
+}
+831.1.1={
+	holder=145929
+}
+840.1.1={
+	holder = 0
+	liege = 0
+}

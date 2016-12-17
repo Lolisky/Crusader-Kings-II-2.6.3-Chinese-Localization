@@ -1,0 +1,17 @@
+200058={
+	name="Luitfredo"
+	dynasty=1046017
+
+	religion=catholic
+	culture=suebi
+
+	715.1.1={
+		birth=yes
+	}
+	745.1.1={
+		add_spouse=200057
+	}
+	770.1.1={
+		death=yes
+	}
+}

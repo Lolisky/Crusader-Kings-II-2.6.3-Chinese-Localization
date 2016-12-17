@@ -1,0 +1,1252 @@
+190054 = {
+	name="ÆÕÈøÑÇÍßÂü" #Pushyavarman
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	324.1.1={
+		birth=yes
+	}
+	374.1.1={
+		death=yes
+	}
+}
+190055 = {
+	name="ÈøÄ·×¦ÍßÂü" #Samudravarman
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190054
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	346.1.1={
+		birth=yes
+	}
+	398.1.1={
+		death=yes
+	}
+}
+190056 = {
+	name="°ÍÀ­ÍßÂü"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190055
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	380.1.1={
+		birth=yes
+	}
+	422.1.1={
+		death=yes
+	}
+}
+190057 = {
+	name="¸ßÑÇÄÈÍßÂü"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190056
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	402.1.1={
+		birth=yes
+	}
+	446.1.1={
+		death=yes
+	}
+}
+190058 = {
+	name="¸çÄÈÅÁµÙÍßÂü"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190057
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	422.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+190059 = {
+	name="Âêì•×¦ÍßÂü"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190058
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	444.1.1={
+		birth=yes
+	}
+	494.1.1={
+		death=yes
+	}
+}
+190060 = {
+	name="ÄÈÈğÑÇÄÈÍßÂü"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190059
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	467.1.1={
+		birth=yes
+	}
+	518.1.1={
+		death=yes
+	}
+}
+190061 = {
+	name="ÆĞÌáÍßÂü"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190060
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	489.1.1={
+		birth=yes
+	}
+	542.1.1={
+		death=yes
+	}
+}
+190062 = {
+	name="Èø×¦Ä¾¿Ì¹şÍßÂü"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190061
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	520.1.1={
+		birth=yes
+	}
+	566.1.1={
+		death=yes
+	}
+}
+190063 = {
+	name="Ë¾ËşÍßÂü"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190062
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	543.1.1={
+		birth=yes
+	}
+	590.1.1={
+		death=yes
+	}
+}
+190064 = {
+	name="ËÕË¾ËşÍßÂü"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190063
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	562.1.1={
+		birth=yes
+	}
+	595.1.1={
+		death=yes
+	}
+}
+190065 = {
+	name="ËÕÅÁÌáË¾ËşÍßÂü"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190064
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	586.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+190066 = {
+	name="Bhaskaravarman°Í¿ÌË¾¿¨À®ÍßÂü"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190064
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	586.1.1={
+		birth=yes
+	}
+	650.1.1={
+		death=yes
+	}
+}
+
+#Mlecchas (same deal with culture and naming conventions, also linking in missing characters that I've added)
+190039 = {
+	name="ÈøÀ­Ê¿èó°Í"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	600.1.1={
+		birth=yes
+	}
+	672.1.1={
+		death=yes
+	}
+}
+190040 = {
+	name="·Æã·ÑÇÊ¿èó°Í"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=190039
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	620.1.1={
+		birth=yes
+	}
+	685.1.1={
+		death=yes
+	}
+}
+
+190041 = {
+	name="¹şÉ³µÂ·¨"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=191559
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	700.1.1={
+		birth=yes
+	}
+	750.1.1={
+		death=yes
+	}
+}
+190042 = {
+	name="°ÍÀ­ÍßÂü"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=190041
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	725.1.1={
+		birth=yes
+	}
+	787.1.1={
+		death=yes
+	}
+}
+190043 = {
+	name="ÈøÀ­Ä·¹ş"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=190042
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	747.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+190044 = {
+	name="¹ş¼ª¼ÓÀ­ÍßÂü"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=191560
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	790.1.1={
+		birth=yes
+	}
+	832.1.1={
+		death=yes
+	}
+}
+190045 = {
+	name="èóÄÈÂíÀ­ÍßÂíµÂ·¨"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=190044
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	810.1.1={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+190046 = {
+	name="½ÜÑÇÂíÀ­"	#Also known as èóÀ®°È»§
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=190045
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	828.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+190047 = {
+	name="°ÍÀ­ÍßÂü"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=190046
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	844.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+190048 = {
+	name="ÌäÑÇîÅÉ­¹ş"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=190047
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	870.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+190075 = {
+	name="°ÍÂíÆÕÅÁÀ®"
+	dynasty=1044000
+	religion="hindu"
+	culture="assamese"
+	father=190114
+	trait="kshatriya"
+	trait="shaktist_hindu" #chosen randomly
+	866.1.1={
+		birth=yes
+	}
+	902.1.1={
+		add_spouse=190035 #Kula Devi
+	} 
+	920.1.1={
+		death=yes
+	}
+}
+190076 = {
+	name="ÈğÄÈÅÁÀ®"
+	dynasty=1044000
+	religion="hindu"
+	culture="assamese"
+	father=190075
+	mother=190035 #Kula Devi
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	904.1.1={
+		birth=yes
+	}
+	921.1.1={
+		add_spouse=190036 #Durlabha
+	} 
+	960.1.1={
+		death=yes
+	}
+}
+190077 = {
+	name="ÆÕÈ»µÂÀ®ÅÁÀ®" 
+	dynasty=1044000
+	religion="hindu"
+	culture="assamese"
+	father=190076
+	mother=190036 #Durlabha
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	925.1.1={
+		birth=yes
+	}
+	957.1.1={
+		death=yes
+	}
+}
+190078 = {
+	name="Òü×¦ÅÁÀ®"
+	dynasty=1044000
+	religion="hindu"
+	culture="assamese"
+	father=190077
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	947.1.1={
+		birth=yes
+	}
+	967.1.1={
+		add_spouse=190037 #Rajya Devi
+	}
+	990.1.1={
+		death=yes
+	}
+}
+190079 = {
+	name="¸çÅÁÀ®"
+	dynasty=1044000
+	religion="hindu"
+	culture="assamese"
+	father=190078
+	mother=190037
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	969.1.1={
+		birth=yes
+	}
+	990.1.1={
+		add_spouse=190038 #Nayana
+	}
+	1015.1.1={
+		death=yes
+	}
+}
+190080 = {
+	name="¹şÉ³¶ûÅÁÀ®"
+	dynasty=1044000
+	religion="hindu"
+	culture="assamese"
+	father=190079
+	mother=190038
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	994.1.1={
+		birth=yes
+	}
+	1035.1.1={
+		death=yes
+	}
+}
+190081 = {
+	name="´ï¹şÂíÆÕÅÁÀ®"
+	dynasty=1044000
+	religion="hindu"
+	culture="assamese"
+	father=190080
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	1016.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+190082 = {
+	name="½ÜÑÇÅÁÀ®"
+	dynasty=1044000
+	religion="hindu"
+	culture="assamese"
+	father=190081
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	1052.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+191557 = {
+	name="ÅÁÀ®ßÇË¾Ëş¹ş"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=190040
+	640.1.1={
+		birth=yes
+	}
+	690.1.1={
+		death=yes
+	}
+}
+
+191558 = {
+	name="¿âÂêÀ®Ë¾Ëş¹ş"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=191557
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	668.1.1={
+		birth=yes
+	}
+	700.1.1={
+		death=yes
+	}
+}
+
+191559 = {
+	name="·©¾öµÂ·¨"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=191558
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	684.1.1={
+		birth=yes
+	}
+	710.1.1={
+		death=yes
+	}
+}
+
+191560 = {
+	name="°¢À­Ìá"
+	dynasty=1043002
+	religion="hindu"
+	culture="assamese"
+	father=190043
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	770.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191561 = {
+	name="ÌûÑÇµÂ·¨"
+	dynasty=1044004	#Timgyadeva
+	religion="buddhist"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	1050.1.1={
+		birth=yes
+	}
+	1126.1.1={
+		death=yes
+	}
+}
+
+191562 = {
+	name="·©¶øÑÇµÂ·¨"
+	dynasty=1044005	#Vaidyadeva
+	religion="buddhist"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	1070.1.1={
+		birth=yes
+	}
+	1145.1.1={
+		death=yes
+	}
+}
+
+191563 = {
+	name="ÍßÑÇÀöµÂ·¨"
+	dynasty=1044005	#Vaidyadeva
+	religion="buddhist"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	father=191562
+	1110.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		death=yes
+	}
+}
+
+191564 = {
+	name="ÓÚ´îÑÇßÇÈÂÄÈ"
+	dynasty=1044005	#Vaidyadeva
+	religion="buddhist"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	father=191563
+	1140.1.1={
+		birth=yes
+	}
+	1175.1.1={
+		death=yes
+	}
+}
+
+191565 = {
+	name="·©À®¹şµÂ·¨"
+	dynasty=1044005	#Vaidyadeva
+	religion="buddhist"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	father=191564
+	1158.1.1={
+		birth=yes
+	}
+	1195.1.1={
+		death=yes
+	}
+}
+
+191566 = {
+	name="Íş¶û·¨Â}´îÀ®µÂ·¨"
+	dynasty=1044005	#Vaidyadeva
+	religion="buddhist"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	father=191565
+	1178.1.1={
+		birth=yes
+	}
+	1228.1.1={
+		death=yes
+	}
+}
+
+191567 = {
+	name="ËÕ¹şÅÁ"
+	dynasty=1044361	#Ahom
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1190.1.1={
+		birth=yes
+	}
+	1268.1.1={
+		death=yes
+	}
+}
+
+191568 = {
+	name="ËÕÌØ¹ş"
+	dynasty=1044361	#Ahom
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191567
+	1210.1.1={
+		birth=yes
+	}
+	1281.1.1={
+		death=yes
+	}
+}
+
+191569 = {
+	name="ËÕ±ö·©"
+	dynasty=1044361	#Ahom
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191568
+	1230.1.1={
+		birth=yes
+	}
+	1293.1.1={
+		death=yes
+	}
+}
+
+191570 = {
+	name="ËÕºã·©"
+	dynasty=1044361	#Ahom
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191569
+	1250.1.1={
+		birth=yes
+	}
+	1332.1.1={
+		death=yes
+	}
+}
+
+191571 = {
+	name="ËÕ¹şÈÃ·©"
+	dynasty=1044361	#Ahom
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191570
+	1270.1.1={
+		birth=yes
+	}
+	1369.1.1={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+191572 = {
+	name="ËÕˆM·©"
+	dynasty=1044361	#Ahom
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191571
+	1357.1.1={
+		birth=yes
+	}
+	1376.1.1={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+191573 = {
+	name="Ì©Ò¢¿²µÙ"
+	dynasty=1044361	#Ahom
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191572
+	1373.1.1={
+		birth=yes
+	}
+	1389.1.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+
+
+191574 = {
+	name="Æ¤Â¬·ö"
+	dynasty=1044362 #Khen
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1150.1.1={
+		birth=yes
+	}
+	1228.1.1={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+191575 = {
+	name="É£ÑÇ"
+	dynasty=1044362 #Khen
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191574
+	1200.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+
+191576 = {
+	name="İ·ºúÈğ"
+	dynasty=1044362 #Khen
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191575
+	1220.1.1={
+		birth=yes
+	}
+	1285.1.1={
+		death=yes
+	}
+}
+
+191577 = {
+	name="Â»ÆÕÄÈÀ®ÑÇ"
+	dynasty=1044362 #Khen
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191576
+	1240.1.1={
+		birth=yes
+	}
+	1300.1.1={
+		death=yes
+	}
+}
+
+191578 = {
+	name="ĞÇµÃÍßÒÁ"
+	dynasty=1044362 #Khen
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191577
+	1260.1.1={
+		birth=yes
+	}
+	1305.1.1={
+		death=yes
+	}
+}
+
+191579 = {
+	name="ÅÁËşÍßÒÁ"
+	dynasty=1044362 #Khen
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191578
+	1280.1.1={
+		birth=yes
+	}
+	1325.1.1={
+		death=yes
+	}
+}
+
+191580 = {
+	name="´î¹şÂíÄÈÀ®ÑÇ"
+	dynasty=1044362 #Khen
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191579
+	1296.1.1={
+		birth=yes
+	}
+	1330.1.1={
+		death=yes
+	}
+}
+
+191581 = {
+	name="¶äÀ®ÄÈÀ®ÑÇ"
+	dynasty=1044362 #Khen
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191580
+	1312.1.1={
+		birth=yes
+	}
+	1350.1.1={
+		death=yes
+	}
+}
+
+191582 = {
+	name="Ó¡×¦ÄÈÀ®ÑÇ"
+	dynasty=1044362 #Khen
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191580
+	1330.1.1={
+		birth=yes
+	}
+	1365.1.1={
+		death=yes
+	}
+}
+
+191583 = {
+	name="°ØÅÁ¶ù"
+	dynasty=1044363#Sutiya
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1150.1.1={
+		birth=yes
+	}
+	1220.1.1={
+		death=yes
+	}
+}
+
+191584 = {
+	name="ßÉÁÕÄÈÀ®ÑÇ"
+	dynasty=1044363#Sutiya
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191583
+	1190.1.1={
+		birth=yes
+	}
+	1280.1.1={
+		death=yes
+	}
+}
+
+191585 = {
+	name="ÄáÌáÑÇ"	#Fictional, name borrowed from the last king of this dynasty in 1522
+	dynasty=1044363#Sutiya
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191584
+	1220.1.1={
+		birth=yes
+	}
+	1310.1.1={
+		death=yes
+	}
+}
+
+191586 = {
+	name="´î¹şÂíÍßÒÁÆÓ"	#This is supposed to be the name of the 8th king, not the third, of this line
+	dynasty=1044363#Sutiya
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191585
+	1250.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+
+191587 = {
+	name="·ÆÂŞÉ²ÄÈ"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	800.1.1={
+		birth=yes
+	}
+	885.1.1={
+		death=yes
+	}
+}
+
+191588 = {
+	name="·ğÀ®º£"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191587
+	840.1.1={
+		birth=yes
+	}
+	925.1.1={
+		death=yes
+	}
+}
+
+191589 = {
+	name="ÅÁÉ¼ÍĞ"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191588
+	909.1.1={
+		birth=yes
+	}
+	1008.1.1={
+		death=yes
+	}
+}
+
+191590 = {
+	name="ÓÈµÙÑÇ"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191589
+	960.1.1={
+		birth=yes
+	}
+	1040.1.1={
+		death=yes
+	}
+}
+
+191591 = {
+	name="ÅÁ°Í¹ş¶ù"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191590
+	1020.1.1={
+		birth=yes
+	}
+	1070.1.1={
+		death=yes
+	}
+}
+
+191592 = {
+	name="¿Â²´¶ûÍßÒÁ"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191591
+	1050.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+191593 = {
+	name="¼ªÀñ¹ş¶û"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191592
+	1070.1.1={
+		birth=yes
+	}
+	1125.1.1={
+		death=yes
+	}
+}
+
+191594 = {
+	name="±ËÀ®ÍßÒÁ"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191593
+	1090.1.1={
+		birth=yes
+	}
+	1155.1.1={
+		death=yes
+	}
+}
+
+191595 = {
+	name="ËÕÀ®¼¾"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191594
+	1110.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+
+191596 = {
+	name="°Â¹ş¿Ì"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191595
+	1130.1.1={
+		birth=yes
+	}
+	1210.1.1={
+		death=yes
+	}
+}
+
+191597 = {
+	name="Âê¿¨µÄÍß ÄÈÀ®ÑÇ"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191596
+	1190.1.1={
+		birth=yes
+	}
+	1286.1.1={
+		death=yes
+	}
+}
+
+191598 = {
+	name="°Ø¶û‘G"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191597
+	1240.1.1={
+		birth=yes
+	}
+	1316.1.1={
+		death=yes
+	}
+}
+
+191599 = {
+	name="ÆÕÈ¾´î¶û"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191598
+	1260.1.1={
+		birth=yes
+	}
+	1336.1.1={
+		death=yes
+	}
+}
+
+191600 = {
+	name="±Ë²é¶ùÅÁÌä¹ş" 
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191599
+	1290.1.1={
+		birth=yes
+	}
+	1386.1.1={
+		death=yes
+	}
+}
+
+191601 = {
+	name="·Æ†EÂíµÙÑÇ·©"
+	dynasty=1044364#Kachari
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191600
+	1320.1.1={
+		birth=yes
+	}
+	1411.1.1={
+		death=yes
+	}
+}
+
+191602 = {
+	name="°Í×¦ÈûÄÈ" #Fictional
+	dynasty=1044365#Barobhuyan
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1150.1.1={
+		birth=yes
+	}
+	1240.1.1={
+		death=yes
+	}
+}
+
+191603 = {
+	name="ÄİÌäÑÇ‘G" #Fictional
+	dynasty=1044365#Barobhuyan
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191602
+	1220.1.1={
+		birth=yes
+	}
+	1310.1.1={
+		death=yes
+	}
+}
+
+191604 = {
+	name="°Í×¦ÈûÄÈ" #Fictional
+	dynasty=1044365#Barobhuyan
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191603
+	1280.1.1={
+		birth=yes
+	}
+	1350.1.1={
+		death=yes
+	}
+}

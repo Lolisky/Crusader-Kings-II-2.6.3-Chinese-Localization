@@ -1,0 +1,131 @@
+733.1.1={
+	liege="d_galilee"
+	holder=146027
+}
+751.1.1={
+	holder=146042
+}
+767.1.1={
+	holder=146043
+}
+817.1.1={
+	holder=146044
+}
+837.1.1={
+	holder=146045
+}
+852.3.1={
+	holder=155149
+}
+866.1.1={
+	liege = "d_jerusalem"
+}
+1066.1.1={
+	holder=34980
+}
+1076.1.1={
+	holder=144067
+}
+1098.1.1={
+	holder=34700
+}
+
+#First Crusade
+1099.7.15={
+	liege="d_galilee"
+}
+1099.7.15={
+	holder=30871 #Tancred de Hauteville
+}
+1101.1.1={
+	liege="d_jerusalem"
+}
+1101.1.1={
+	holder = 10073 #Badouin I de Boulogne
+}
+1118.4.2={
+	holder = 232007 #Badouin II de Rethel
+}
+1131.8.21={
+	holder = 223525
+}
+1143.11.13={
+	holder = 231067
+}
+1162.2.10={
+	holder = 223520
+}
+1174.7.11={
+	holder = 223523
+}
+1176.1.1={
+	holder = 231015
+}
+#conquered by Saladin
+1187.10.2={
+	holder=226000
+}
+#conquered by the Crusaders
+1191.7.1={
+	liege="k_jerusalem"
+}
+1191.7.1={
+	holder = 223524 #Isabelle
+}
+1192.1.1={
+	holder = 213521 #Corrado de Montferrat
+}
+1192.4.28={
+	holder = 223524 #Isabelle
+}
+1197.9.10={
+	holder=223505 #Amaury II de Lusignan
+}
+1205.4.1={
+	holder = 34994 #Maria de Montferrat
+}
+
+1210.1.1={
+	holder=461742 #Jean de Brienne
+}
+1212.1.1={
+	holder=30809 #Isabelle II de Brienne
+}
+#1228.1.1={
+#	holder=30760 #Konrad Hohenstauffen
+#}
+1228.1.1={
+	holder=138019 #Alix de Blois (acting as regent)
+}
+#1254.5.21={
+#	holder=30785 #Konradin Hohenstaufen
+#}
+
+1247.1.1={
+	holder=461905 #Hugues III de Chypres/Lusignan
+}
+1284.3.24={
+	holder=138023 #John I of Cyprus/Lusignan
+}
+1285.5.20={
+	holder=138024 #Henri II of Cyprus/Lusignan
+}
+#conquered by the Mamluks
+1291.5.28={
+	liege="d_jerusalem"
+}
+1291.5.28={
+	holder = 32939
+}
+1296.1.1={
+	holder = 34991
+}
+1297.1.1={
+	holder = 34992
+}
+1312.1.1={
+	holder = 34993
+}
+1317.1.1={
+	holder=485180
+}

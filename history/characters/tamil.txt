@@ -1,0 +1,1734 @@
+175070 = {
+	name="Nantivarman" # Nandivarman III
+	dynasty=1043007
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189072
+	822.1.1={
+		birth="822.1.1"
+	}
+	869.1.1={
+		death="869.1.1"
+	}
+}
+
+175080 = {
+	name="Vicayâlaya" #Vijayalaya
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189402
+	827.1.1={
+		birth="827.1.1"
+	}
+	871.1.1={
+		death="871.1.1"
+	}
+}
+
+175090 = {
+	name="Varakunavarman" # Varagunavarman II
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189068
+	833.1.1={
+		birth="833.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+189033 = {
+	name="Parântaka" #Parantaka
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189032
+	mother=74419
+	880.1.1={
+		birth="880.1.1"
+	}
+	955.1.1={
+		death="955.1.1"
+	}
+}
+189034 = {
+	name="Kantarâtitta" #Ganaraditya
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189033
+	900.1.1={
+		birth="900.1.1"
+	}
+	956.1.1={
+		death="956.1.1"
+	}
+}
+189035 = {
+	name="Uttama" 
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189034
+	920.1.1={
+		birth="920.1.1"
+	}
+	985.1.1={
+		death="985.1.1"
+	}
+}
+189036 = {
+	name="Ariñcaya" #Arinjaya
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189033
+	901.1.1={
+		birth="901.1.1"
+	}
+	957.1.1={
+		death="957.1.1"
+	}
+}
+189037 = {
+	name="Cuntara" #Sundara
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189036
+	920.1.1={
+		birth="920.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+189038 = {
+	name="Arulmolivarman"
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189037
+	947.1.1={
+		birth="947.1.1"
+	}
+	985.1.1={
+		name="Irâcarâca" #Rajaraja the Great
+	}
+	1010.1.1={
+		give_nickname="nick_the_great"
+	}
+	1014.1.1={
+		death="1014.1.1"
+	}
+}
+189039 = {
+	name="Irâcêntira" #Rajendra
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189038
+	980.1.1={
+		birth="980.1.1"
+	}
+	1040.1.1={
+		give_nickname="nick_the_great"
+	}
+	1044.1.1={
+		death="1044.1.1"
+	}
+}
+189040 = {
+	name="Irâcâtirâca" #Rajadhiraja
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189039
+	1008.1.1={
+		birth="1008.1.1"
+	}
+	1054.1.1={
+		death="1054.1.1"
+	}
+}
+189041 = {
+	name="Irâcêntira" #Rajendra II
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189039
+	1009.1.1={
+		birth="1009.1.1"
+	}
+	1063.1.1={
+		death="1063.1.1"
+	}
+}
+189042 = {
+	name="Vîrarâcêntira" #Virarajendra 
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189039
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1066.1.1 = {
+		add_claim = c_rohana
+	}
+	1069.1.1={
+		death="1069.1.1"
+	}
+}
+189043 = {
+	name="Atirâjêntira" #Athirajendra
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189042
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+189044 = {
+	name="Ariñcaya" #name unknown
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189040
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+189045 = {
+	name="Atitta" #name unknown
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189040
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+189046 = {
+	name="Kadarangkonda" 
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189041
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+189047 = {
+	name="Irattapadikonda" 
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189041
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+175100 = {
+	name="Kulacêkara" # Sthanu Ravi Kulasekhara
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189048
+	826.1.1={
+		birth="826.1.1"
+	}
+	883.1.1={
+		death="883.1.1"
+	}
+}
+189048 = {
+	name="Irâcâcekara" # Rama Rajasekhara
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189411
+	780.1.1={
+		birth="780.1.1"
+	}
+	844.1.1={
+		death="844.1.1"
+	}
+}
+189049 = {
+	name="Vicayâraka" # Kota Ravi Vijayaraga
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=175100 
+	850.1.1={
+		birth="850.1.1"
+	}
+	913.1.1={
+		death="913.1.1"
+	}
+}
+189050 = {
+	name="Kêralakecan" # Kota Kota Kerala Kesan
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189049 
+	880.1.1={
+		birth="880.1.1"
+	}
+	943.1.1={
+		death="943.1.1"
+	}
+}
+189051 = {
+	name="Indu Kota" # Indu Kota
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189050 
+	900.1.1={
+		birth="900.1.1"
+	}
+	962.1.1={
+		death="962.1.1"
+	}
+}
+189052 = {
+	name="Manukuladilya" # Bhaskara Ravi Manukuladilya
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189051 
+	940.1.1={
+		birth="940.1.1"
+	}
+	1021.1.1={
+		death="1021.1.1"
+	}
+}
+189053 = {
+	name="Irâcacimman" # Ravi Kota Rajasimha
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189052 
+	970.1.1={
+		birth="970.1.1"
+	}
+	1036.1.1={
+		death="1036.1.1"
+	}
+}
+189054 = {
+	name="Irâcarâca" # Rajaraja
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189053 
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+189055 = {
+	name="Irâcâtitta" # Rajaditya
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189053 
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+189056 = {
+	name="Ranatitta" # Ranaditya
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189053 
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+189057 = {
+	name="Kulacêkara" # Rama Kulasekhara
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189056
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+189058 = {
+	name="Katunkon" # Kadungon
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	521.1.1={
+		birth="521.1.1"
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+189059 = {
+	name="Mâravarman" # Maravarman Avani Culamani 
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189058
+	553.1.1={
+		birth="553.1.1"
+	}
+	620.1.1={
+		death="620.1.1"
+	}
+}
+189060 = {
+	name="Celiyancentan" # Cezhiyan Cendan 
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189059
+	582.1.1={
+		birth="582.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+189061 = {
+	name="Cayantavarman" # Jayantavarman
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189060
+	607.1.1={
+		birth="607.1.1"
+	}
+	670.1.1={
+		death="670.1.1"
+	}
+}
+189062 = {
+	name="Arikêcari" # Arikesari Maravarman Nindraseer Nedumaaran 
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189061
+	643.1.1={
+		birth="643.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+189063 = {
+	name="Ranatîran" # Kochadaiyan Ranadhiran
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189062
+	666.1.1={
+		birth="666.1.1"
+	}
+	735.1.1={
+		death="735.1.1"
+	}
+}
+189064 = {
+	name="Irâcacimman" # Arikesari Parankusa Maravarman Rajasimha I
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189063
+	701.1.1={
+		birth="701.1.1"
+	}
+	765.1.1={
+		death="765.1.1"
+	}
+}
+189065 = {
+	name="Parântaka" # Parantaka Nedunjadaiyan
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189064
+	733.1.1={
+		birth="733.1.1"
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+189066 = {
+	name="Irâcacimman" # Rajasimha II
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189065
+	750.1.1={
+		birth="750.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+189067 = {
+	name="Varakunavarman" # Varakunavarman I
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189066
+	780.1.1={
+		birth="780.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+189068 = {
+	name="Cîvallapan" # Sirmara Seervallabha
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189067
+	800.1.1={
+		birth="800.1.1"
+	}
+	862.1.1={
+		death="862.1.1"
+	}
+}
+189069 = {
+	name="Parântaka" # Parantaka Viranarayana
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189068
+	835.1.1={
+		birth="835.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+189070 = {
+	name="Irâcacimman" # Maravarman Rajasimha
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189069
+	861.1.1={
+		birth="861.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+189071 = {
+	name="Aparâcitavarman" 
+	dynasty=1043007
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=175070
+	841.1.1={
+		birth="841.1.1"
+	}
+	891.1.1={
+		death="891.1.1"
+	}
+}
+189072 = {
+	name="Tantivarman" 
+	dynasty=1043007
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189073
+	740.1.1={
+		birth="740.1.1"
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+189073 = {
+	name="Nantivarman"  #Nandivarman II
+	dynasty=1043007
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	720.1.1={
+		birth="720.1.1"
+	}
+	796.1.1={
+		death="796.1.1"
+	}
+}
+
+189107 = {
+	name="Cembiyan" 
+	dynasty=1029176
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189102
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+189108 = {
+	name="Kulôttunka" #Kulothunga Chola
+	dynasty=1029176
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189107
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+
+189109 = {
+	name="Cuntara" # Sundara Pandya
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189070
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+189110 = {
+	name="Vira" # Virapandya
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189109
+	930.1.1={
+		birth="930.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+189111 = {
+	name="Vira" # Virapandya
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189110
+	950.1.1={
+		birth="950.1.1"
+	}
+	1003.1.1={
+		death="1003.1.1"
+	}
+}
+189112 = {
+	name="Amarapuyankan" #Amarabhujanga Tivrakopa
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189111
+	966.1.1={
+		birth="966.1.1"
+	}
+	1024.1.1={
+		death="1024.1.1"
+	}
+}
+189113 = {
+	name="Cuntara" #Jatavarman Sundara Chola Pandya
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189112
+	993.1.1={
+		birth="993.1.1"
+	}
+	1035.1.1={
+		add_spouse=74604
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+189114 = {
+	name="Vikkirama" #Maravarman Vikrama Chola Pandya
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189113
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+189115 = {
+	name="Parâkkirama" # Maravarman Parakrama Chola Pandya
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189114
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1081.1.1={
+		death="1081.1.1"
+	}
+}
+189116 = {
+	name="Cataiyavarman" # Jatavarman Chola Pandya
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189115
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+189124 = {
+	name="Cîvallapa" #Srivallabha Manakulachala 
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189116
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+}
+189125 = {
+	name="Mâravarman" #Maaravaramban Seervallaban
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189124
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+189126 = {
+	name="Parâkkirama" #Parakrama
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189124
+	1103.1.1={
+		birth="1103.1.1"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+189127 = {
+	name="Vira" #Vira
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189126
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+189128 = {
+	name="Parâkkirama" #Parakrama
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189127
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+189129 = {
+	name="Kulacêkaran" #Kulasekhara
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189125
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+189130 = {
+	name="Cataiyavarman" #Jatavarman Srivallaban
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189125
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+189131 = {
+	name="Vikkirama" #
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189125
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+189132 = {
+	name="Kulacêkaran" # II
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189131
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1216.1.1={
+		death="1216.1.1"
+	}
+}
+189133 = {
+	name="Cuntara" # Maravarman Sundara Pandyan I
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189131
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+189134 = {
+	name="Cuntara" # Maravaram Sundara Pandya II
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189133
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1251.1.1={
+		death="1251.1.1"
+	}
+}
+189135 = {
+	name="Cuntara" #Jatavarman Sundara Pandya III
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189134
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+189136 = {
+	name="Kulacêkara" #Maravaramban Kulasekhara Pandya I
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189135
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+189137 = {
+	name="Sundara" #Jatavarman Sundara Pandya IV
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189136
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1327.1.1={
+		death="1327.1.1"
+	}
+}
+189138 = {
+	name="Vira" #Jatavarman Vira Pandya
+	dynasty=1043009
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	trait=bastard
+	father=189136
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1327.1.1={
+		remove_trait=bastard
+		add_trait=legit_bastard
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+
+189139 = {
+	name="Kulôttunka"
+	dynasty=1029177
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	#father=Rajarajadeva of Eastern Ganga
+	#mother=Rajasundari daughter of Virarajendra Chola
+	1067.1.1={
+		birth="1067.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+189140 = {
+	name="Kulacêkara"
+	dynasty=1029177
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189139
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+189141 = {
+	name="Kulingai" #Kalinga Magha
+	dynasty=1029177
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189140
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1215.1.1={
+		dynasty=1029178
+	}
+	1236.1.1={
+		death="1236.1.1"
+	}
+}
+189142 = {
+	name="Kulacêkara"
+	dynasty=1029177
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189141
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1215.1.1={
+		dynasty=1029178
+	}
+	1284.1.1={
+		death="1284.1.1"
+	}
+}
+189143 = {
+	name="Kulôttunka"
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189142
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+189144 = {
+	name="Vikkirama"
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189143
+	1256.1.1={
+		birth="1256.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+189145 = {
+	name="Varôtaya" #Varodaya
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189144
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+189146 = {
+	name="Mârttânta" #Martanda Cinkaiariyan
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189145
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+189147 = {
+	name="Vîracêkara" #Virasekhara
+	dynasty=1029183
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	#father=Pallava descent
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+189148 = {
+	name="Manavalapperumal" #
+	dynasty=1029183
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189147
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1216.1.1={
+		death="1216.1.1"
+	}
+}
+189149 = {
+	name="Kôpperuñcimman" #Kopperunchiga I
+	dynasty=1029183
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189148
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1243.1.1={
+		death="1243.1.1"
+	}
+}
+189150 = {
+	name="Kôpperuñcimman" #Kopperunchiga II
+	dynasty=1029183
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189149
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1279.1.1={
+		death="1279.1.1"
+	}
+}
+
+189117 = {
+	name="Vikkirama" # Vikrama Chola
+	dynasty=1029176
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189108
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+189118 = {
+	name="Kulôttunka" # Kulothunga II Chola
+	dynasty=1029176
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189117
+	1086.1.1={
+		birth="1086.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+189119 = {
+	name="Irâcarâca" # Rajaraja II Chola
+	dynasty=1029176
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189118
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1173.1.1={
+		death="1173.1.1"
+	}
+}
+
+189120 = {
+	name="Irâcâtirâca" # Rajadhiraja II Chola
+	dynasty=1029176
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189119
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1178.1.1={
+		death="1178.1.1"
+	}
+}
+189121 = {
+	name="Kulôttunka" # Kulothunga III Chola
+	dynasty=1029176
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189119
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1218.1.1={
+		death="1218.1.1"
+	}
+}
+189122 = {
+	name="Irâcarâca" # Rajaraja III Chola
+	dynasty=1029176
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189121
+	1183.1.1={
+		birth="1183.1.1"
+	}
+	1256.1.1={
+		death="1256.1.1"
+	}
+}
+189123 = {
+	name="Irâcêntira" #Rajendra III
+	dynasty=1029176
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189122
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+74780 = {
+	name="Olimatiyâr"
+	dynasty=1043008
+	female=yes
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189042
+
+	1045.1.1={
+		birth="850.1.1"
+	}
+	1100.1.1={
+		death="907.1.1"
+	}
+}
+189420 = {
+	name="Paluvettaraiyar" # 
+	dynasty=10290901
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	700.1.1={
+		birth="700.1.1"
+	}
+	745.1.1={
+		death="745.1.1"
+	}
+}
+189421 = {
+	name="Vilupperadiaraican" # 
+	dynasty=10290901
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189420
+	730.1.1={
+		birth="730.1.1"
+	}
+	806.1.1={
+		death="806.1.1"
+	}
+}
+189422 = {
+	name="Amudanar" # 
+	dynasty=10290902
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189420
+	731.1.1={
+		birth="731.1.1"
+	}
+	809.1.1={
+		death="809.1.1"
+	}
+}
+189423 = {
+	name="Parânkucan" # 
+	dynasty=10290903
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189420
+	732.1.1={
+		birth="732.1.1"
+	}
+	815.1.1={
+		death="815.1.1"
+	}
+}
+189424 = {
+	name="Peradiaraiyan" # 
+	dynasty=10290901
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189421
+	760.1.1={
+		birth="760.1.1"
+	}
+	816.1.1={
+		death="816.1.1"
+	}
+}
+189425 = {
+	name="Atitta" # 
+	dynasty=10290902
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189422
+	761.1.1={
+		birth="761.1.1"
+	}
+	819.1.1={
+		death="819.1.1"
+	}
+}
+189426 = {
+	name="Vikramâtittâ" # 
+	dynasty=10290903
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189423
+	762.1.1={
+		birth="762.1.1"
+	}
+	818.1.1={
+		death="818.1.1"
+	}
+}
+189427 = {
+	name="Muttaraiyan" # 
+	dynasty=10290901
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189421
+	761.1.1={
+		birth="761.1.1"
+	}
+	829.1.1={
+		death="829.1.1"
+	}
+}
+189428 = {
+	name="Pañcavan" # 
+	dynasty=10290902
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189422
+	762.1.1={
+		birth="762.1.1"
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+189429 = {
+	name="Mârapanmar" # 
+	dynasty=10290903
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189423
+	763.1.1={
+		birth="763.1.1"
+	}
+	828.1.1={
+		death="828.1.1"
+	}
+}
+189400 = {
+	name="Irâcâcekara" #
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	740.1.1={
+		birth="740.1.1"
+	}
+	801.1.1={
+		death="801.1.1"
+	}
+}
+189401 = {
+	name="Parântaka" #
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189400
+	mother=189404
+	760.1.1={
+		birth="760.1.1"
+	}
+	831.1.1={
+		death="831.1.1"
+	}
+}
+189402 = {
+	name="Atitta" #
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189401
+	795.1.1={
+		birth="795.1.1"
+	}
+	861.1.1={
+		death="861.1.1"
+	}
+}
+189403 = {
+	name="Vicayâlaya" #
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189400
+	mother=189404
+	761.1.1={
+		birth="761.1.1"
+	}
+	831.1.1={
+		death="831.1.1"
+	}
+}
+189404 = {
+	name="Kâraikkâl" #
+	female = yes
+	dynasty=10290901
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189420
+	744.1.1={
+		birth="744.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+189405 = {
+	name="Cadayan" #
+	dynasty=10290900
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	739.1.1={
+		birth="739.1.1"
+	}
+	788.1.1={
+		death="788.1.1"
+	}
+}
+189406 = {
+	name="Karunandan" #
+	dynasty=10290900
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189405
+	768.1.1={
+		birth="768.1.1"
+	}
+	857.1.1={
+		death="857.1.1"
+	}
+}
+189407 = {
+	name="Karunandadakkan" #
+	dynasty=10290900
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189406
+	800.1.1={
+		birth="800.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+189408 = {
+	name="Vikramâtittâ" #Varakunan
+	dynasty=10290900
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189407
+	840.1.1={
+		birth="840.1.1"
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+189410 = {
+	name="Vicayâraka" # 
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	740.1.1={
+		birth="740.1.1"
+	}
+	804.1.1={
+		death="804.1.1"
+	}
+}
+189411 = {
+	name="Kulacêkara" # 
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189410
+	760.1.1={
+		birth="760.1.1"
+	}
+	804.1.1={
+		death="804.1.1"
+	}
+}
+189412 = {
+	name="Manukuladilya" # 
+	dynasty=1043010
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189410
+	765.1.1={
+		birth="765.1.1"
+	}
+	804.1.1={
+		death="804.1.1"
+	}
+}
+
+217390 = {
+	name = Lokissara
+	dynasty = 1029182 # Fictitious dynasty assignment. Leader of mercenary army.
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1186.1.1 = { birth = yes }
+	1210.10.1 = { death = { death_reason = death_execution } }
+}

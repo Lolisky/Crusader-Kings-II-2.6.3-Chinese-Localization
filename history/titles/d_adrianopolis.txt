@@ -1,0 +1,68 @@
+330.1.1={
+	liege="e_byzantium"
+	vice_royalty = yes
+}
+745.1.1={
+	holder=145795
+}
+790.1.1={
+	holder=145796
+}
+866.9.24={
+	vice_royalty = no
+	holder=1700
+}
+1064.1.1 = {
+	vice_royalty = yes
+	holder=1736
+}
+1071.8.26 = {
+	holder=9810
+}
+1082.1.1 = {
+	holder=34586
+}
+1113.1.1 = {
+	holder=34587
+}
+1168.1.1 = {
+	holder=34273
+}
+1185.9.12 = {
+	holder=215060
+}
+1186.1.1 = {
+	holder=34273
+}
+1202.1.1 = {
+	holder=34590
+}
+#emperors of Nicaea
+1204.5.16 = {
+	vice_royalty = no
+	holder=215674
+}
+1222.8.2 = {
+	holder=125741
+}
+1254.11.3 = {
+	holder=125742
+}
+1258.8.18 = {
+	holder=125743
+}
+#restoration of the Byzantine Empire
+1261.7.25 = {
+	holder=465527
+}
+1272.1.1 = {
+	vice_royalty = yes
+	holder=465521
+}
+1282.12.11={
+	vice_royalty = no
+}
+1332.2.13 = {
+	vice_royalty = yes
+	holder=465530
+}

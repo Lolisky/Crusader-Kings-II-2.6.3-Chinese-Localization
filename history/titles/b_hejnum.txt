@@ -1,0 +1,45 @@
+1066.1.1={
+	holding_dynasty = 9518 # Hejnum - makes this a FAMILY_PALACE type Holding
+	liege="d_gotland"
+	holder=167331 #Tolir Hejnum
+}
+1097.1.1=
+{
+	holder=0
+}
+#1098.1.1=
+#{
+#	holder=167334 #Arnfast Hejnum
+#}
+#1107.1.1=
+#{
+#	holder=167335 #Faste Hejnum
+#}
+#1110.1.1=
+#{
+#	holder=167337 #Emund Hejnum
+#}
+#1128.1.1=
+#{
+#	holder=167338 #Faste Hejnum
+#}
+1161.6.6 = {
+	holder=167339 #Arnfast Hejnum
+}
+1180.1.1=
+{
+	holder=167340 #Sverker Hejnum
+}
+1187.1.1=
+{
+	holder=167340 #Sverker Hejnum
+}
+1200.1.1 = {
+	holder=167378
+}
+1215.1.1 = {
+	holder=194279
+}
+1285.1.1 = {
+	holder = 0
+}

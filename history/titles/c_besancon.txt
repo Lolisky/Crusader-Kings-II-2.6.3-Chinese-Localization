@@ -1,0 +1,94 @@
+#County of Burgundy
+
+#Royal Domain
+769.1.1 = {
+	holder = 144999
+}
+855.8.23={
+	liege = "k_burgundy"
+	holder = 91383
+}
+859.1.1=
+{
+	holder=91384
+}
+880.1.1={
+	holder = 90105
+}
+888.1.14={
+	holder=7984
+}
+911.10.25={
+	holder=1144
+}
+937.12.1={
+	holder=1146
+}
+#House of Ivrée
+986.1.1 = {
+	liege="d_burgundy"
+	holder=272 #Otte-Guillaume
+}
+1026.1.1={
+	liege="e_hre"
+	holder=276 #Renaud I de Bourgogne
+}
+1057.1.1={
+	holder=280 #Guillaume I de Bourgogne
+}
+1087.1.1={
+	holder=290 #Renaud II de Bourgogne
+}
+1097.1.1 = {
+	holder=205706 #Étienne I de Bourgogne
+}
+1102.1.1={
+	holder=232556 #Renaud III de Bourgogne
+}
+1148.1.1 = {
+	holder=205599 #Béatrice I de Bourgogne
+}
+
+#House of Hohenstaufen
+1184.1.1={
+	holder=212501 #Frédéric I Barberousse
+}
+1190.6.2={
+	holder=212511 #Othon I de Hohenstaufen
+}
+1200.1.13={
+	holder=30772 #Jeanne I de Bourgogne
+}
+1205.1.1= {
+	holder= 7652 #Béatrice II de Bourgogne
+}
+1220.1.1 = {
+	liege = d_upper_burgundy
+}
+
+#House of Andechs
+1231.1.1= {
+	holder= 7684 #Othon III de Bourgogne
+}
+1248.1.1={
+	holder=7653 #Adélaïde I de Bourgogne
+	liege = e_hre
+}
+
+#House of Ivrée
+1279.1.1={
+	holder = 455739 #Othon IV de Bourgogne
+}
+1303.1.1={
+	holder = 91146 #Robert de Bourgogne
+}
+1315.1.1={
+	liege="k_france"
+	holder=455741 #Jeanne de Bourgogne
+}
+
+#Direct Capetians
+1330.1.1={
+	liege="d_burgundy"
+	holder=455913 #Jeanne III de Bourgogne
+}

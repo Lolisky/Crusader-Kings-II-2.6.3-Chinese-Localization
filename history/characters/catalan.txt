@@ -1,0 +1,11148 @@
+110501 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=395
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="flamboyant_schemer"
+	father=110560
+	mother=110653
+	1051.1.1={
+		birth="1051.1.1"
+	}
+	1071.12.20={
+		death="1071.12.20"
+	}
+}
+
+110520 = {
+	name="À­ÃÉ ±´µÇÎ¬¶û" 
+	# AKA: À­ÃÉ ±´µÇÎ¬¶û 'el Vell'
+	dynasty=100204
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="deceitful"
+	trait="brave"
+	trait="tough_soldier"
+	father=110530
+	mother=107661
+	1023.1.1={
+		birth="1023.1.1"
+	}
+	1039.11.14={
+		add_spouse=110631
+	}
+	1053.6.29={
+		add_spouse=325
+	}
+	1054.1.1={
+		give_nickname = nick_the_old
+	}
+	1076.5.26={
+		death="1076.5.26"
+	}
+}
+
+110521 = {
+	name="±ËµÃ"
+	dynasty=100204
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="skilled_tactician"
+	father=110520
+	mother=110631
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1073.4.22={
+		death="1073.4.22"
+	}
+}
+
+110522 = {
+	name="À­ÃÉ ±´µÇÎ¬¶û" 
+	# AKA: À­ÃÉ ±´µÇÎ¬¶û 'Cabeza de Estopa'
+	dynasty=100204
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="charitable"
+	trait="honest"
+	trait="tough_soldier"
+	father=110520
+	mother=325
+	1054.1.1={
+		birth="1054.1.1"
+	}
+	1078.1.1={
+		add_spouse=1121
+	}
+	1082.12.6={
+		death="1082.12.6"
+	}
+}
+
+110524 = {
+	name="É£É¯"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="wroth"
+	trait="stutter"
+	trait="naive_appeaser"
+	father=110520
+	mother=325
+	1059.1.1={
+		birth="1059.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+110525 = {
+	name="±´µÇÎ¬¶û À­ÃÉ" 
+	#AKA: ±´µÇÎ¬¶û À­ÃÉ 'el Fraticida'
+	dynasty=100204
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="kind"
+	trait="proud"
+	trait="harelip"
+	trait="intricate_webweaver"
+	father=110520
+	mother=325
+	1054.1.1={
+		birth="1054.1.1"
+	}
+	1097.6.20={
+		death="1097.6.20"
+	}
+}
+
+110530 = {
+	name="±´µÇÎ¬¶û À­ÃÉ" 
+	#AKA: ±´µÇÎ¬¶û À­ÃÉ 'el Corbat'
+	dynasty=100204
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="hunchback"
+	trait="stutter"
+	trait="flamboyant_schemer"
+	father=110540
+	mother=110634
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1021.1.1={
+		add_spouse=107661
+	}
+	1027.1.1={
+		add_spouse=110633
+	}
+	1035.5.26={
+		death="1035.5.26"
+	}
+}
+
+110531 = {
+	name="Î÷±ÈÀ­"
+	female = yes
+	dynasty=100204
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="thrifty_clerk"
+	father=110530
+	mother=110633
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1074.7.6={
+		death="1074.7.6"
+	}
+}
+
+110540 = {
+	name="À­ÃÉ-²©À×Àû"
+	dynasty=100204
+	martial=5
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="diligent"
+	trait="craven"
+	trait="flamboyant_schemer"
+	father=110538
+	mother=110539
+	972.5.26={
+		birth="972.5.26"
+	}
+	990.1.1={
+		add_spouse=110634
+	}
+	1017.2.15={
+		death="1017.2.15"
+	}
+}
+
+110541 = {
+	name="°¢µÂÀ³µÂ"
+	female = yes
+	dynasty=100204
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="amateurish_plotter"
+	father=110540
+	mother=110634
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1035.1.1={
+		death="1035.1.1"
+	}
+}
+
+110550 = {
+	name="°¬Â³Äş¸ñ¶û"
+	dynasty=395
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="proud"
+	trait="clubfooted"
+	trait="tough_soldier"
+	father=110560
+	mother=110653
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1063.6.19={
+		add_spouse=70189
+	}
+	1079.1.1={
+		add_spouse = 407
+	}
+	1092.3.28={
+		death="1092.3.28"
+	}
+}
+
+110560 = {
+	name="°¬Â³Äş¸ñ¶û"
+	dynasty=395
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="flamboyant_schemer"
+	father=110570
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1049.1.1={
+		add_spouse=6641
+	}
+	1051.1.1={
+		add_spouse=110653
+	}
+	1056.1.2={
+		add_spouse = 110636
+	}
+	1065.3.1={
+		death="1065.3.1"
+	}
+}
+
+110561 = {
+	name="À­ÃÉ"
+	dynasty=395
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="wroth"
+	trait="envious"
+	trait="thrifty_clerk"
+	father=110560
+	mother=110636
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1066.1.1={
+		employer=110550
+	}
+	1107.1.1={
+		death="1107.1.1"
+	}
+}
+
+110562 = {
+	name="¼ªÁĞÄ·"
+	dynasty=395
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="tough_soldier"
+	father=110560
+	mother=110636
+	1058.1.1={
+		birth="1058.1.1"
+	}
+	1066.1.1={
+		employer=110550
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+
+110563 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=395
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="tough_soldier"
+	father=110560
+	mother=110636
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1066.1.1={
+	employer=110550
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+110564 = {
+	name="É£É¯"
+	female = yes
+	dynasty=395
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="arbitrary"
+	trait="cynical"
+	trait="thrifty_clerk"
+	father=110560
+	mother=110636
+	1062.1.1={
+		birth="1062.1.1"
+	}
+	1066.1.1={
+	employer=110550
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+110570 = {
+	name="°¬Â³Äş¸ñ¶û"
+	dynasty=395
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="fortune_builder"
+	father=110571
+	mother=110572
+	1009.1.1={
+		birth="1009.1.1"
+	}
+	1030.1.1={
+		add_spouse=70188
+	}
+	1038.1.1={
+		death="1038.1.1"
+	}
+}
+
+110571 = {
+	name="°¬Â³Äş¸ñ¶û"
+	dynasty=395
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	father=110538
+	mother=110539
+	975.1.1={
+		birth="975.1.1"
+	}
+	1000.1.1={
+		add_spouse=110572
+	}
+	1010.9.1={
+		death="1010.9.1"
+	}
+}
+
+110580 = {
+	name="²®¶÷Ë¹"
+	dynasty=393
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="tough_soldier"
+	father=110590
+	mother=110591
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1021.1.1={
+		add_spouse=110663
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+110581 = {
+	name="ÎÚ¸ê"
+	dynasty=393
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="arbitrary"
+	trait="misguided_warrior"
+	father=110580
+	mother=110663
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1078.1.1={
+		add_spouse=110564
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+110582 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=393
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="flamboyant_schemer"
+	father=110580
+	mother=110663
+	1036.1.1={
+		birth="1036.1.1"
+	}
+	1056.1.1={
+	add_spouse=110583
+	}
+	1137.1.1={
+		death="1137.1.1"
+	}
+}
+
+110583 = {
+	name="°¢¶ûÉ­´ï"
+	female = yes
+	dynasty=392
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="cynical"
+	trait="charismatic_negotiator"
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+
+110584 = {
+	name="Ù¤Â³ÂéÎÚ ±´µÇÎ¬¶û"
+	dynasty=392
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="thrifty_clerk"
+	father=110582
+	mother=110583
+	1058.1.1={
+		birth="1058.1.1"
+	}
+	1123.1.1={
+		death="1123.1.1"
+	}
+}
+
+110585={
+	name="À×ÄÉµÂ"
+	dynasty=392
+
+	father=110582
+	mother=110583
+
+	religion=catholic
+	culture=catalan
+
+	1060.1.1={
+		birth=yes
+	}
+	1080.1.1={
+		add_spouse=72236
+	}
+	1123.1.1={
+		name="Dalmau"
+	}
+	1135.1.1={
+		death=yes
+	}
+}
+
+110586 = {
+	name="°¬Â³Äş¸ñ¶û"
+	dynasty=393
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="skilled_tactician"
+	father=110580
+	mother=110663
+	
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+
+110587 = {
+	name="ÅåÀ×"
+	dynasty=393
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="cynical"
+	trait="harelip"
+	trait="martial_cleric"
+	father=110580
+	mother=110663
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+110588 = {
+	name="ÄáÎ÷À­"
+	female = yes
+	dynasty=393
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="flamboyant_schemer"
+	father=110580
+	mother=110663
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+110589 = {
+	name="°£Â³ÃÅÉ­´ï"
+	female = yes
+	dynasty=393
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="charitable"
+	trait="amateurish_plotter"
+	father=110580
+	mother=110663
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+
+110590 = {
+	name="ÎÚ¸ê"
+	dynasty=393
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="deceitful"
+	trait="patient"
+	trait="brave"
+	trait="skilled_tactician"
+	father=110600
+	mother=331
+	960.1.1={
+		birth="960.1.1"
+	}
+	999.1.1={
+	add_spouse=110591
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+110592 = {
+	name="À­ÃÉ"
+	dynasty=393
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="martial_cleric"
+	father=110590
+	mother=110591
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1066.1.1={
+	employer=110580
+	}
+	1073.1.1={
+		death="1073.1.1"
+	}
+}
+
+110610 = {
+	name="¼ÓË¹¸¥À³µÂ"
+	dynasty=393
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="skilled_tactician"
+	father=110620
+	mother=110621
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1030.1.1={
+	add_spouse=110611
+	}
+	1074.1.1={
+		death="1074.1.1"
+	}
+}
+
+110611={
+	name="°¢µÂÀ³µÂ"
+	female=yes
+
+	religion=catholic
+	culture=catalan
+
+	1012.1.1={
+		birth=yes
+	}
+	1078.1.1={
+		death=yes
+	}
+}
+
+110612 = {
+	name="¼ªË¹À­±´¶ûÌØ"
+	dynasty=393
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="ill"
+	trait="misguided_warrior"
+	trait="diligent"
+	father=110610
+	mother=110611
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1052.1.1={
+		add_spouse=110613
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+110613={
+	name="ÒÁË¹ÌØ·¨ÄáÑÇ"
+	female=yes
+
+	religion=catholic
+	culture=catalan
+
+	1036.1.1={
+		birth=yes
+	}
+	1095.1.1={
+		death=yes
+	}
+}
+
+110614 = {
+	name="½ÜÀ­µÂ"
+	dynasty=393
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="tough_soldier"
+	father=110612
+	mother=110613
+	1053.1.1={
+		birth="1053.1.1"
+	}
+	1080.1.1={
+		add_spouse=72119
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+
+110615 = {
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=393
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="honest"
+	trait="wroth"
+	trait="amateurish_plotter"
+	father=110610
+	mother=110611
+	1036.1.1={
+		birth="1036.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+110616 = {
+	name="ÅåÀ×"
+	dynasty=393
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="gluttonous"
+	trait="thrifty_clerk"
+	father=110615
+	1058.1.1={
+		birth="1058.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+110620 = {
+	name="¼ªË¹À­±´¶ûÌØ"
+	dynasty=393
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="skilled_tactician"
+	father=110600
+	mother=331
+	962.1.1={
+		birth="962.1.1"
+	}
+	1002.1.1={
+		add_spouse=110621
+	}
+	1014.1.1={
+		death="1014.1.1"
+	}
+}
+
+110621={
+	name="±´ÀûÒÁ¶û´ï"
+	female=yes
+
+	religion=catholic
+	culture=catalan
+
+	986.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+
+110633={
+	name="¼ªË¹À­"
+	female=yes
+
+	religion=catholic
+	culture=catalan
+
+	1011.1.1={
+		birth=yes
+	}
+	1070.1.1={
+		death=yes
+	}
+}
+
+110640 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10020
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="thrifty_clerk"
+	father=110650
+	mother=110651
+	1024.1.1={
+		birth="1024.1.1"
+	}
+	1065.1.1={
+		add_spouse=110641
+	}
+	1066.1.1={
+		employer=110520
+	}
+	1070.1.25={
+		death="1070.1.25"
+	}
+}
+
+110642 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=10020
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="honest"
+	trait="tough_soldier"
+	father=110640
+	mother=110641
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+110643 = {
+	name="ÒÁË¹ÌØ·¨ÄáÑÇ"
+	female = yes
+	dynasty=10020
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="charitable"
+	trait="flamboyant_schemer"
+	father=110640
+	mother=110641
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+110650 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10020
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="slothful"
+	trait="tough_soldier"
+	father=110660
+	mother=110661
+	993.1.1={
+		birth="993.1.1"
+	}
+	1020.3.30={
+		add_spouse=110651
+	}
+	1052.1.21={
+		death="1052.1.21"
+	}
+}
+
+110651={
+	name="°¢µÂÀ³µÂ"
+	female=yes
+
+	religion=catholic
+	culture=catalan
+
+	1003.1.1={
+		birth=yes
+	}
+	1053.1.1={
+		death=yes
+	}
+}
+
+110652 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=10020
+	martial=4
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="underhanded_rogue"
+	father=110650
+	mother=110651
+	1028.1.1={
+		birth="1028.1.1"
+	}
+	1062.1.1={
+		add_spouse=70287
+	}
+	1066.1.1={
+		employer=107520
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+110653 = {
+	name="°¢µÂÀ³µÂ"
+	female = yes
+	dynasty=10020
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="slothful"
+	trait="deceitful"
+	trait="stutter"
+	trait="harelip"
+	trait="amateurish_plotter"
+	father=110650
+	mother=110651
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1054.1.1={
+		death="1054.1.1"
+	}
+}
+
+110660 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=10020
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="humble"
+	trait="lisp"
+	trait="indulgent_wastrel"
+	father=70156
+	mother=70157
+	963.1.1={
+		birth="963.1.1"
+	}
+	992.1.1={
+		add_spouse=110661
+	}
+	1020.9.26={
+		death="1020.9.26"
+	}
+}
+
+110662 = {
+	name="¼ª·ò"
+	dynasty=10020
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="just"
+	trait="scholarly_theologian"
+	father=110660
+	mother=110661
+	996.1.1={
+		birth="996.1.1"
+	}
+	1054.1.1={
+		death="1054.1.1"
+	}
+}
+
+110663 = {
+	name="°¢µÂÀ³µÂ"
+	female = yes
+	dynasty=10020
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="cynical"
+	trait="amateurish_plotter"
+	father=110660
+	mother=110661
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1060.9.26={
+		death="1060.9.26"
+	}
+}
+
+110664 = {
+	name="°¢¶ûÉ­´ï"
+	female = yes
+	dynasty=10020
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="patient"
+	trait="charismatic_negotiator"
+	father=110660
+	mother=110661
+	1006.1.1={
+		birth="1006.1.1"
+	}
+	1067.2.5={
+		death="1067.2.5"
+	}
+}
+
+144613  = {
+	name="°¢Â³ÄÃÎÚ"
+	religion="catholic"
+	culture="catalan"
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1184.1.1 = {
+		death="1184.1.1"
+	}
+}
+
+210500 = {
+	name="À­ÃÉ ±´µÇÎ¬¶û" 
+	#AKA: °¢·½Ë¹ 'el Cast'
+	dynasty=100204
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="chaste"
+	trait="patient"
+	trait="elusive_shadow"
+	father=210506
+	mother=210507
+	1157.3.25={
+		birth="1157.3.25"
+	}
+	1164.1.1={
+		name="°¢·½Ë¹"
+		dynasty=100204
+	}
+	1166.1.1={
+		add_claim = d_provence
+	}
+	1167.1.1={
+		remove_claim = d_provence
+	}
+	1174.1.18={
+		add_spouse=207504
+	}
+	1174.10.16={
+		capital=c_barcelona
+		give_nickname = nick_the_troubadour
+	}
+	1195.4.25={
+		death="1195.4.25"
+		give_nickname = nick_the_chaste
+	}
+}
+
+210501 = {
+	name="ÅåÀ×" #AKA: ÅåÀ× 'el Catòlic'
+	dynasty=100204
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="zealous"
+	trait="tough_soldier"
+	father=210500
+	mother=207504
+	1174.1.1={
+		birth="1174.1.1"
+	}
+	1204.6.15={
+		add_spouse=205582
+	}
+	1213.9.14={
+		death="1213.9.14"
+	}
+}
+
+210502 = {
+	name="°¢·½Ë¹"
+	dynasty=100204
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="tough_soldier"
+	father=210500
+	mother=207504
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1193.7.1={
+		add_spouse=205988
+	}
+	1209.12.1={
+		death="1209.12.1"
+	}
+}
+
+210503 = {
+	name="¿µË¹Ì¹Èø"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="thrifty_clerk"
+	father=210500
+	mother=207504
+	
+	1179.1.1={
+		birth="1179.1.1"
+	}
+	1222.6.23={
+		death="1222.6.23"
+	}
+}
+
+210504 = {
+	name="°¢Àï°ºÅµ¶û"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="catalan"
+	trait="thrifty_clerk"
+	father=210500
+	mother=207504
+	1182.1.1={
+		birth="1182.1.1"
+	}
+	1223.1.1={
+		death="1223.1.1"
+	}
+}
+
+210505 = {
+	name="É£É¯"
+	female=yes
+	dynasty=100204
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	father=210500
+	mother=207504
+	1186.1.1={
+		birth="1186.1.1"
+	}
+	1241.1.1={
+		death="1241.1.1"
+	}
+}
+
+210506 = {
+	name="À­ÃÉ ±´µÇÎ¬¶û" 
+	#AKA: À­ÃÉ ±´µÇÎ¬¶û 'el Sant'
+	dynasty=100204
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="diligent"
+	trait="patient"
+	trait="skilled_tactician"
+	father=210508
+	mother=40806
+	1113.1.1={
+		birth="1113.1.1"
+	}
+	1151.7.1={
+		add_spouse=210507
+	}
+	1162.8.6={
+		death="1162.8.6"
+		give_nickname = nick_the_saint
+	}
+}
+
+210508 = {
+	name="À­ÃÉ ±´µÇÎ¬¶û" 
+	#AKA: À­ÃÉ ±´µÇÎ¬¶û 'el Gran'
+	dynasty=100204
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="humble"
+	trait="gluttonous"
+	trait="charismatic_negotiator"
+	father=110522
+	mother=1121
+	1082.11.11={
+		birth="1082.11.11"
+	}
+	1103.1.1={
+		add_spouse=210509
+	}
+	1112.2.3={
+		give_nickname = nick_the_great
+		add_spouse=40806
+	}	
+	1131.7.19={ 
+		death="1131.7.19"
+	}
+}
+
+210511 = {
+	name="±´µÇÎ¬¶û"
+	female=yes
+	dynasty=100204
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="honest"
+	trait="proud"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	father=210508
+	1116.1.1={
+		birth="1116.1.1"
+	}
+	1149.1.30={
+		death="1149.1.30"
+	}
+}
+
+210512 = {
+	name="Ï£ÃÀÄÉ"
+	female=yes
+	dynasty=100204
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="charismatic_negotiator"
+	father=210508 #À­ÃÉ ±´µÇÎ¬¶û
+	mother=40806
+	1117.1.1={
+		birth="1117.1.1"
+	}
+	1148.3.1={
+		death="1148.3.1"
+	}
+}
+
+210513 = {
+	name="¶àÈø"
+	female=yes
+	dynasty=100204
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="craven"
+	trait="thrifty_clerk"
+	father=210506
+	mother=210507
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1200.9.1={
+		death="1200.9.1"
+	}
+}
+
+210514 = {
+	name="Ë_¶÷"
+	dynasty=100204
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="patient"
+	trait="tough_soldier"
+	father=210506
+	mother=210507
+	1161.1.1={
+		birth="1161.1.1"
+	}
+	1180.1.1={
+		add_spouse=72246
+	}
+	1184.1.1={
+		add_spouse=210515
+	}
+	1185.1.1={
+		add_claim = d_provence
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+210516 = {
+	name="Å¬Åµ"
+	dynasty=100204
+	martial=3
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	father=210514
+	mother=210515
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1238.1.1={
+		add_spouse=71970
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+
+210550 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=267
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="scholarly_theologian"
+	1137.1.2={
+		birth="1137.1.2"
+	}
+	1187.1.2={
+		death="1187.1.2"
+	}
+}
+
+210560 = {
+	name="²®¶÷Ë¹"
+	dynasty=393
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	father=72086
+	mother=72087
+	trait="cynical"
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1170.1.1={
+		add_spouse=72093
+	}
+	1197.1.1={
+		add_spouse=72094
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+210570 = {
+	name="°¬¶ûÃÅÓÉ"
+	dynasty=395
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	father=210571
+	mother=205557
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1188.1.1={
+		add_spouse=207543
+	}
+	1209.10.16={
+		death="1209.10.16"
+	}
+}
+
+210571 = {
+	name="°¬¶ûÃÅÓÉ"
+	dynasty=395
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	father=210572
+	mother=210573
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1157.5.26={
+		add_spouse=205557
+	}
+	1184.8.11={
+		death="1184.8.11"
+	}
+}
+
+210572 = {
+	name="°¬¶ûÃÅÓÉ"
+	dynasty=395
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="tough_soldier"
+	father=210576
+	mother=107646
+	1096.1.1={
+		birth="1096.1.1"
+	}
+	1119.1.1={
+		add_spouse=210573
+	}
+	1142.1.1={
+		add_spouse = 210574
+	}
+	1154.6.28={
+		death="1154.6.28"
+	}
+}
+
+210575 = {
+	name="ÂêÀûÑÇ"
+	female = yes
+	dynasty=395
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="amateurish_plotter"
+	father=210572
+	mother=210574
+	1143.1.1={
+		birth="1143.1.1"
+	}
+	1196.1.13={
+		death="1196.1.13"
+	}
+}
+
+210576 = {
+	name="°¬¶ûÃÅÓÉ"
+	dynasty=395
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="tough_soldier"
+	father=110550
+	mother=70189
+	1071.1.1={
+		birth="1071.1.1"
+	}
+	1095.5.25={
+		add_spouse=107646
+	}
+	1102.9.14={
+		death="1102.9.14"
+	}
+}
+
+31225 = {
+	name="ÂŞ½Ü" 
+	dynasty=7206
+	religion="catholic"
+	culture="catalan"
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+
+405 = {
+	name="°¢µÂÀ³µÂ"
+	female = yes
+	dynasty=719
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="humble"
+	trait="amateurish_plotter"
+	1030.1.2={
+		birth="1030.1.2"
+	}
+	1080.1.2={
+		death="1080.1.2"
+	}
+}
+
+40807 = {
+	name="±´µÇÎ¬¶û À"
+	dynasty=100204
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="diligent"
+	trait="patient"
+	trait="skilled_tactician"
+	father=210508
+	mother=40806
+	1113.12.1={
+		birth="1113.12.1"
+	}
+	1140.1.1={
+		add_spouse=71637
+	}
+	1144.3.1={
+		death="1144.3.1"
+	}
+}
+
+455529 = {
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="amateurish_plotter"
+	father=460600
+	mother=98030
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	1271.1.28={
+		death="1271.1.28"
+	}
+}
+
+458024 = {
+	name="±È°¢ÌØÀöË¹"
+	female = yes
+	dynasty=8762
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="lustful"
+	trait="diligent"
+	trait="flamboyant_schemer"
+	father=70234
+	mother=71702
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1372.1.1={
+		death="1372.1.1"
+	}
+}
+
+460010 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=8762
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="diligent"
+	trait="bastard"
+	trait="patient"
+	trait="skilled_tactician"
+	father=460600
+	mother=71697
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1275.1.1={
+		add_spouse=71575
+	}
+	1276.7.27={
+	remove_trait="bastard"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+460011 = {
+	name="ÅåÀ×"
+	dynasty=8762
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="greedy"
+	trait="temperate"
+	trait="tough_soldier"
+	father=70234
+	mother=71702
+	1302.1.1={
+		birth="1302.1.1"
+	}
+	1331.1.1={
+		add_spouse = 460012
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+460013 = {
+	name="±È°¢ÌØÀöË¹"
+	female = yes
+	dynasty=8762
+	martial=5
+	diplomacy=4
+	intrigue=3
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	father=460011
+	mother=460012
+	1335.1.1={
+		birth="1335.1.1"
+	}
+	1373.1.1={
+		death="1373.1.1"
+	}
+}
+
+460020={
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=10027
+
+	father=72320
+	mother=200122
+
+	religion=catholic
+	culture=catalan
+
+	1282.1.1={
+		birth=yes
+	}
+	1298.1.1={
+		add_spouse=460021
+	}
+	1330.1.1={
+		death=yes
+	}
+}
+
+460021={
+	name="Î÷±ÈÀ­"
+	female=yes
+
+	religion=catholic
+	culture=catalan
+
+	1282.1.1={
+		birth=yes
+	}
+	1330.1.1={
+		death=yes
+	}
+}
+
+460022 = {
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=10027
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="wroth"
+	trait="brave"
+	trait="skilled_tactician"
+	father=460020
+	mother=460021
+	1299.1.1={
+		birth="1299.1.1"
+	}
+	1349.1.1={
+		death="1349.1.1"
+	}
+}
+
+460023 = {
+	name="±È°¢ÌØÀöË¹"
+	female = yes
+	dynasty=10027
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="proud"
+	trait="cynical"
+	trait="intricate_webweaver"
+	father=460020
+	mother=460021
+	1301.1.1={
+		birth="1301.1.1"
+	}
+	1351.1.1={
+		death="1351.1.1"
+	}
+}
+
+460024 = {
+	name="À­ÃÉ"
+	dynasty=10027
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="lustful"
+	trait="just"
+	trait="brilliant_strategist"
+	father=460020
+	mother=460021
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1322.1.11={
+		add_spouse=460030
+	}
+	1355.1.1={
+		death="1355.1.1"
+	}
+}
+
+460025 = {
+	name="ÎÚ¸ê"
+	dynasty=10027
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="gluttonous"
+	trait="slothful"
+	trait="thrifty_clerk"
+	father=460020
+	mother=460021
+	1307.1.1={
+		birth="1307.1.1"
+	}
+	1357.1.1={
+		death="1357.1.1"
+	}
+}
+
+460026 = {
+	name="ÂŞ½Ü-±´¶ûÄÉÌØ"
+	dynasty=10027
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="kind"
+	trait="humble"
+	trait="misguided_warrior"
+	father=460020
+	mother=460021
+	1309.1.1={
+		birth="1309.1.1"
+	}
+	1359.1.1={
+		death="1359.1.1"
+	}
+}
+
+460027 = {
+	name="°¢¶ûËşÎÚ"
+	dynasty=10027
+	martial=4
+	diplomacy=9
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="craven"
+	trait="cynical"
+	trait="underhanded_rogue"
+	father=460020
+	mother=460021
+	1311.1.1={
+		birth="1311.1.1"
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+
+460030 = {
+	name="Î÷±ÈÀ­"
+	female = yes
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="lustful"
+	trait="arbitrary"
+	trait="charismatic_negotiator"
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1356.1.1={
+		death="1356.1.1"
+	}
+}
+
+460031 = {
+	name="ÎÚ¸ê"
+	dynasty=10027
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="honest"
+	trait="tough_soldier"
+	father=460024
+	mother=460030
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1373.1.1={
+		death="1373.1.1"
+	}
+}
+
+460032 = {
+	name="À­ÃÉ"
+	dynasty=10027
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="proud"
+	trait="thrifty_clerk"
+	father=460024
+	mother=460030
+	1324.1.1={
+		birth="1324.1.1"
+	}
+	1374.1.1={
+		death="1374.1.1"
+	}
+}
+
+460033 = {
+	name="°¢¶ûËşÎÚ"
+	dynasty=10027
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="charitable"
+	trait="martial_cleric"
+	father=460024
+	mother=460030
+	1326.1.1={
+		birth="1326.1.1"
+	}
+	1376.1.1={
+		death="1376.1.1"
+	}
+}
+
+460034 = {
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=10027
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="wroth"
+	trait="tough_soldier"
+	father=460024
+	mother=460030
+	1328.1.1={
+		birth="1328.1.1"
+	}
+	1378.1.1={
+		death="1378.1.1"
+	}
+}
+
+460035 = {
+	name="°¢Àï°ºÅµ¶û"
+	female = yes
+	dynasty=10027
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="just"
+	trait="thrifty_clerk"
+	father=460024
+	mother=460030
+	1311.1.1={
+		birth="1311.1.1"
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+
+460036 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=10027
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	father=460024
+	mother=460030
+	1334.1.1={
+		birth="1334.1.1"
+	}
+	1384.1.1={
+		death="1384.1.1"
+	}
+}
+
+460500 = {
+	name="ÅåÀ×" 
+	#AKA: ÅåÀ× 'el Ceremoniós'
+	dynasty=100204
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="patient"
+	trait="flamboyant_schemer"
+	father=460510
+	mother=460511
+	1319.9.5={
+		birth="1319.9.5"
+	}
+	1387.1.5={
+		death="1387.1.5"
+	}
+}
+
+460510 = {
+	name="°¢·½Ë¹" 
+	#AKA: °¢·½Ë¹ 'el Benigne'
+	dynasty=100204
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="greedy"
+	trait="hunchback"
+	trait="amateurish_plotter"
+	father=460560
+	mother=461727
+	1299.2.1={
+		birth="1299.2.1"
+	}
+	1314.11.10={
+		add_spouse=460511
+	}
+	1328.1.1={
+		give_nickname = nick_the_gentle
+	}
+	1329.1.1={
+		add_spouse=457521
+	}
+	1336.1.24={
+		death="1336.1.24"
+	}
+}
+
+460511 = {
+	name="ÌØÀöÉ¯"
+	female = yes
+	dynasty=74
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	father=72230
+	mother=72229
+	religion="catholic"
+	culture="catalan"
+	1300.1.1={
+		birth=yes
+	}
+	1327.10.20={
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+
+460520 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=100204
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="lustful"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	father=460510
+	mother=460511
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1336.1.14={
+	dynasty=266
+	}
+	1347.11.15={
+		death="1347.11.15"
+	}
+}
+
+460530 = {
+	name="·Ñ¶ûÄÏ"
+	dynasty=100204
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="wroth"
+	trait="brave"
+	trait="tough_soldier"
+	father=460510
+	mother=457521
+	
+	1329.12.11={
+		birth="1329.12.11"
+	}
+	1363.7.16={
+		death="1363.7.16"
+	}
+}
+
+460540 = {
+	name="Ô¼º²"
+	dynasty=100204
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="ill"
+	trait="tough_soldier"
+	father=460510
+	mother=457521
+	1334.1.1={
+		birth="1334.1.1"
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+
+460550 = {
+	name="¿µË¹Ì¹Èø"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="cynical"
+	trait="temperate"
+	trait="naive_appeaser"
+	father=460510
+	mother=460511
+	1318.1.1={
+		birth="1318.1.1"
+	}
+	1346.1.1={
+		death="1346.1.1"
+	}
+}
+
+460560={
+	name="Õ²Ä·" #AKA: Jaume 'el Just'
+	dynasty=100204
+
+	father=460590
+	mother=462515
+
+	religion=catholic
+	culture=catalan
+
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+
+	trait=chaste
+	trait=greedy
+	trait=honest
+	trait=stutter
+	trait=tough_soldier
+
+	1267.8.10={
+		birth=yes
+	}
+	1296.1.1={
+		add_spouse=461727
+	}
+	1315.11.27={
+		add_spouse=200139
+	}
+	1322.12.25={
+		add_spouse=71663
+	}
+	1325.1.1={
+		give_nickname=nick_the_just
+	}
+	1327.11.5={
+		death=yes
+	}
+}
+
+460561 = {
+	name="¶òÀïÕä´ï"
+	female = yes
+	dynasty=10026
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="greedy"
+	trait="patient"
+	trait="martial_cleric"
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+460562 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=100204
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="envious"
+	trait="honest"
+	trait="tough_soldier"
+	father=460560
+	mother=461727
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1323.10.18={
+		add_spouse=457521
+	}
+	1324.1.1={
+		remove_spouse=457521
+	}
+	1324.1.1={
+		remove_trait="tough_soldier"
+		trait="martial_cleric"
+	}
+	1334.5.20={
+		death="1334.5.20"
+	}
+}
+
+460563 = {
+	name="ÂêÀûÑÇ"
+	female=yes
+	dynasty=100204
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="gluttonous"
+	trait="honest"
+	trait="flamboyant_schemer"
+	father=460560
+	mother=461727
+	1299.1.1={
+		birth="1299.1.1"
+	}
+	1327.1.1={
+		death="1327.1.1"
+	}
+}
+
+460564 = {
+	name="¿µË¹Ì¹Èø"
+	female=yes
+	dynasty=100204
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="diligent"
+	trait="naive_appeaser"
+	father=460560
+	mother=461727
+	1300.4.1={
+		birth="1300.4.1"
+	}
+	1327.8.19={
+		death="1327.8.19"
+	}
+}
+
+460565 = {
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="charitable"
+	trait="amateurish_plotter"
+	father=460560
+	mother=461727
+	1300.4.1={
+		birth="1300.4.1"
+	}
+	1330.7.12={
+		death="1330.7.12"
+	}
+}
+
+460566 = {
+	name="°ØÀ¼¿¨"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="patient"
+	trait="gluttonous"
+	trait="scholarly_theologian"
+	father=460560
+	mother=461727
+	1307.1.1={
+		birth="1307.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+460567 = {
+	name="Î¬°ÂÀ¼ÌØ"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="chaste"
+	trait="just"
+	trait="envious"
+	trait="honest"
+	trait="thrifty_clerk"
+	father=460560
+	mother=461727
+	1310.10.1={
+		birth="1310.10.1"
+	}
+	1353.7.19={
+		death="1353.7.19"
+	}
+}
+
+460570 = {
+	name="ÅåÀ×"
+	dynasty=100204
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="intricate_webweaver"
+	father=460560
+	mother=461727
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1331.5.1={
+		add_spouse=71761
+	}
+	1381.11.4={
+		death="1381.11.4"
+	}
+}
+
+460571 = {
+	name="°¢·½Ë¹"
+	dynasty=100204
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="tough_soldier"
+	father=460570
+	mother=71761
+	1332.2.1={
+		birth="1332.2.1"
+	}
+	1412.3.5={
+		death="1412.3.5"
+	}
+}
+
+460572 = {
+	name="Ô¼º²"
+	dynasty=100204
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	father=460570
+	mother=71761
+	1335.1.1={
+		birth="1335.1.1"
+	}
+	1414.1.1={
+		death="1414.1.1"
+	}
+}
+
+460573 = {
+	name="°¢Àï°ºÅµ¶û"
+	female = yes
+	dynasty=100204
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	father=460570
+	mother=71761
+	1333.1.2={
+		birth="1333.1.2"
+	}
+	1417.12.26={
+		death="1417.12.26"
+	}
+}
+
+460580 = {
+	name="À­ÃÉ ±´µÇÎ¬¶û"
+	dynasty=100204
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="honest"
+	trait="kind"
+	trait="tough_soldier"
+	father=460560
+	mother=461727
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1328.1.1={
+		add_spouse=461715
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+460590 = {
+	name="ÅåÀ×" #AKA: ÅåÀ× 'el Gran'
+	dynasty=100204
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="just"
+	trait="ambitious"
+	trait="brilliant_strategist"
+	father=460600
+	mother=98030
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1265.1.1={
+		add_spouse=462515
+	}
+	1282.8.30={
+		give_nickname = nick_the_great
+	}
+	1285.11.11={
+		death="1285.11.11"
+	}
+}
+
+460591 = {
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+	dynasty=100204
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="arbitrary"
+	trait="naive_appeaser"
+	father=460590
+	mother=462515
+	
+	1271.1.4={
+		birth="1271.1.4"
+	}
+	1336.6.4={
+		death="1336.6.4"
+	}
+}
+
+460592 = {
+	name="Î¬°ÂÀ¼ÌØ"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="deceitful"
+	trait="brave"
+	trait="inbred"
+	trait="flamboyant_schemer"
+	father=460590
+	mother=462515
+	
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1302.8.19={
+		death="1302.8.19"
+	}
+}
+
+460600 = {
+	name="Õ²Ä·Ë¹" #AKA: Õ²Ä·Ë¹ 'el Conqueridor'
+	dynasty=100204
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="brilliant_strategist"
+	father=210501
+	mother=205582
+	1208.2.1={
+		birth="1208.2.1"
+	}
+	1224.1.1={
+		add_spouse=460614
+	}
+	1229.4.1={
+		remove_spouse=460614
+	}
+	1235.9.8={
+		add_spouse=98030
+	}
+	1243.1.1={
+		give_nickname = nick_the_conqueror
+	}
+	1276.7.27={
+		add_spouse=71697
+	}
+	1276.7.27={
+		death="1276.7.27"
+	}
+}
+
+460601 = {
+	name="ÌØÀöÉ¯"
+	female = yes
+	dynasty=785
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="envious"
+	trait="proud"
+	trait="craven"
+	trait="harelip"
+	trait="flamboyant_schemer"
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+460602={
+	name="Õ²Ä·"
+	dynasty=100204
+
+	father=460600
+	mother=98030
+
+	religion=catholic
+	culture=catalan
+
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+
+	trait=skilled_tactician
+	
+	1243.5.31={
+		birth=yes
+	}
+	1275.10.12={
+		add_spouse=138155
+	}
+	1311.5.29={
+		death=yes
+	}
+}
+
+460603={
+	name="Õ²Ä·"
+	dynasty=100204
+
+	father=460602
+	mother=138155
+
+	religion=catholic
+	culture=catalan
+
+	1276.8.1={
+		birth=yes
+	}
+	1330.1.1={
+		death=yes
+	}
+}
+
+460604={
+	name="É£Çğ" #AKA: San?'el Pacífic'
+	dynasty=100204
+
+	father=460602
+	mother=138155
+
+	religion=catholic
+	culture=catalan
+
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+
+	trait=slothful
+	trait=just
+	trait=flamboyant_schemer
+
+	1278.1.1={
+		birth=yes
+	}
+	1309.1.1={
+		add_spouse=200108
+	}
+	1324.9.4={
+		death=yes
+	}
+}
+
+460605={
+	name="·ÑÀ¼"
+	dynasty=100204
+
+	father=460602
+
+	religion=catholic
+	culture=catalan
+
+	1278.1.1={
+		birth=yes
+	}
+	1314.2.1={
+		add_spouse=460606
+	}
+	1316.10.19={
+		death=yes
+	}
+}
+
+460606 = {
+	name="ÒÁÉ¯±´¶û"
+	female = yes
+	dynasty=71
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="brave"
+	trait="martial_cleric"
+	1297.1.2={
+		birth="1297.1.2"
+	}
+	1315.4.16={
+		death="1315.4.16"
+	}
+}
+
+460607 = {
+	name="·Ñ¶ûÄÏ"
+	dynasty=100204
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="wroth"
+	father=460605
+	1317.5.5={
+		birth="1317.5.5"
+	}
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+
+460608={
+	name="·ÆÀûÆÕ"
+	dynasty=100204
+
+	father=460602
+	mother=138155
+
+	religion=catholic
+	culture=catalan
+
+	trait=scholarly_theologian
+
+	1288.1.1={
+		birth=yes
+	}
+	1343.1.1={
+		death=yes
+	}
+}
+
+460609={
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+	dynasty=100204
+
+	father=460602
+	mother=138155
+
+	religion=catholic
+	culture=catalan
+
+	1280.1.1={
+		birth=yes
+	}
+	1301.10.10={
+		death=yes
+	}
+}
+
+460610={
+	name="É£Çğ"
+	female=yes
+	dynasty=100204
+
+	father=460602
+	mother=138155
+
+	religion=catholic
+	culture=catalan
+
+	1285.1.1={
+		birth=yes
+	}
+	1345.7.28={
+		death=yes
+	}
+}
+
+460611 = {
+	name="Î¬°ÂÀ¼ÌØ"
+	female = yes
+	dynasty=100204
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	father=460600
+	mother=98030
+	1236.1.1={
+		birth="1236.1.1"
+	}
+	1301.1.1={
+		death="1301.1.1"
+	}
+}
+
+460612 = {
+	name="¿µË¹Ì¹Èø"
+	female = yes
+	dynasty=100204
+	martial=8
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="honest"
+	trait="zealous"
+	father=460600
+	mother=98030
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1266.1.1={
+		death="1266.1.1"
+	}
+}
+
+460620 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=100204
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="catalan"
+	trait="deceitful"
+	trait="tough_soldier"
+	father=460605
+	mother=460606
+	1315.4.15={
+		birth="1315.4.15"
+	}
+	1336.9.24={
+		add_spouse = 460550
+	}
+	1349.10.25={
+		death="1349.10.25"
+	}
+}
+
+460621 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=100204
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	father=460620
+	mother=460550
+	1336.8.24={
+		birth="1336.8.24"
+	}
+	1336.9.24={
+		remove_trait="bastard"
+	}
+	1375.2.1={
+		death="1375.2.1"
+	}
+}
+
+461501 = {
+	name="Î÷±ÈÀ­"
+	female = yes
+	dynasty=70
+	martial=8
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="honest"
+	trait="thrifty_clerk"
+	1274.1.2={
+		birth="1274.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+461511 = {
+	name="ÂêÀûÑÇ"
+	female = yes
+	dynasty=8762
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="underhanded_rogue"
+	father=70234
+	mother=71702
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1364.1.1={
+		death="1364.1.1"
+	}
+}
+
+461512 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=8762
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="greedy"
+	trait="flamboyant_schemer"
+	father=70234
+	mother=71702
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1335.4.28={
+		death="1335.4.28"
+	}
+}
+
+461521 = {
+	name="ÉªÈøÀòÑÇ"
+	female = yes
+	dynasty=69
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="gluttonous"
+	trait="hunchback"
+	trait="charismatic_negotiator"
+	father=461522
+	1317.1.2={
+		birth="1317.1.2"
+	}
+	1367.1.2={
+		death="1367.1.2"
+	}
+}
+
+461550 = {
+	name="°¢·½Ë¹"
+	dynasty=100204
+	martial=8
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	trait="flamboyant_schemer"
+	father=461500
+	mother=461501
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1291.6.18={
+		name="°¢·½Ë¹"
+		culture="italian"
+	}
+	1317.1.1={
+		add_spouse=461571
+	}
+	1339.3.4={
+		death="1339.3.4"
+	}
+}
+
+70158 = {
+	name="¼ÓË¹¸¥À³µÂ"
+	dynasty=10020
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="craven"
+	trait="content"
+	trait="thrifty_clerk"
+	father=110640
+	mother=110641
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1087.11.3={
+		death="1087.11.3"
+	}
+}
+
+70159 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=10020
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="duelist"
+	trait="slothful"
+	trait="tough_soldier"
+	father=110652
+	mother=70287
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1084.9.26={
+		death="1084.9.26"
+	}
+}
+
+70160 = {
+	name="¼ª·ò"
+	dynasty=10019
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="content"
+	trait="just"
+	trait="tough_soldier"
+	father=70156
+	mother=70157
+	965.1.1={
+		birth="965.1.1"
+	}
+	990.1.1={
+		add_spouse=70161
+	}
+	1012.1.1={
+		add_spouse=70162
+	}
+	1049.7.31={
+		death="1049.7.31"
+	}
+}
+
+70161={
+	name="¼ªË¹À­"
+	female=yes
+
+	religion=catholic
+	culture=catalan
+
+	970.1.1={
+		birth=yes
+	}
+	1011.1.1={
+		death=yes
+	}
+}
+
+70162={
+	name="ÒÁÉ¯±´¶û"
+	female=yes
+
+	religion=catholic
+	culture=catalan
+	
+	996.1.1={
+		birth=yes
+	}
+	1036.1.1={
+		death=yes
+	}
+}
+
+70163 = {
+	name="¼ª·ò"
+	dynasty=10019
+	martial=5
+	diplomacy=7
+	intrigue=3
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="cynical"
+	trait="deceitful"
+	trait="flamboyant_schemer"
+	father=70160
+	mother=70161
+	992.1.1={
+		birth="992.1.1"
+	}
+	1046.1.1={
+		add_spouse=70164
+	}
+	1068.1.1={
+		death="1068.1.1"
+	}
+}
+
+70164={
+	name="°¢µÂÀ³µÂ"
+	female=yes
+
+	religion=catholic
+	culture=catalan
+
+	1036.1.1={
+		birth=yes
+	}
+	1086.1.1={
+		death=yes
+	}
+}
+
+70165 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10019
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="diligent"
+	trait="brave"
+	trait="tough_soldier"
+	father=70163
+	mother=70164
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1071.1.1={
+		add_spouse=110501
+	}
+	1076.11.12={
+		add_spouse=110524
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+70166 = {
+	name="ºàÀû"
+	dynasty=10019
+	martial=3
+	diplomacy=4
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="catalan"
+	trait="ill"
+	trait="drunkard"
+	trait="naive_appeaser"
+	father=70163
+	mother=70164
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+70167 = {
+	name="¼ª·ò"
+	dynasty=10019
+	martial=4
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="scholar"
+	trait="temperate"
+	trait="scholarly_theologian"
+	father=70160
+	mother=70161
+	994.1.1={
+		birth="994.1.1"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+}
+
+70168 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10019
+	martial=7
+	diplomacy=3
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="hedonist"
+	trait="homosexual"
+	trait="naive_appeaser"
+	father=70160
+	mother=70161
+	998.1.1={
+		birth="998.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+70169 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=10019
+	martial=9
+	diplomacy=3
+	intrigue=3
+	stewardship=3
+	religion="catholic"
+	culture="catalan"
+	trait="celibate"
+	trait="wroth"
+	trait="misguided_warrior"
+	father=70160
+	mother=70162
+	1016.1.1={
+		birth="1016.1.1"
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+70170 = {
+	name="ÆÕÀû¿ËÎ¨Å·´ï"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="temperate"
+	trait="kind"
+	trait="amateurish_plotter"
+	father=110538
+	mother=110539
+	980.1.1={
+		birth="980.1.1"
+	}
+	1041.1.1={
+		death="1041.1.1"
+	}
+}
+
+70171={
+	name="ÎÚ´ïÀ­¶û´ï"
+
+	religion=catholic
+	culture=catalan
+
+	975.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		add_matrilineal_spouse=70170
+	}
+	1030.5.30={
+		death=yes
+	}
+}
+
+70172 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=100204
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="proud"
+	trait="hunter"
+	trait="tough_soldier"
+	father=70171
+	mother=70170
+	1002.1.1={
+		birth="1002.1.1"
+	}
+	1062.1.1={
+		death="1062.1.1"
+	}
+}
+
+70173 = {
+	name="ÎÚ´ïÀ­¶û´ï"
+	dynasty=100204
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="duelist"
+	trait="greedy"
+	trait="skilled_tactician"
+	father=70172
+	1028.1.1={
+		birth="1028.1.1"
+	}
+	1042.1.1={
+		add_spouse=110633
+	}
+	1066.1.1={
+		employer=110520
+	}
+	1077.6.17={
+		death="1077.6.17"
+	}
+}
+
+70175 = {
+	name="¼ªË¹À­±´¶ûÌØ"
+	dynasty=100204
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="gregarious"
+	trait="proud"
+	trait="thrifty_clerk"
+	father=70173
+	mother=110633
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1125.6.15={
+		death="1125.6.15"
+	}
+}
+
+70176 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=100204
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="scholar"
+	trait="charitable"
+	trait="flamboyant_schemer"
+	father=70173
+	mother=110633
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1100.8.31={
+		death="1100.8.31"
+	}
+}
+
+70177 = {
+	name="ÅåÀ×"
+	dynasty=100204
+	martial=3
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="diligent"
+	trait="poet"
+	trait="detached_priest"
+	father=70173
+	mother=110633
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1118.3.14={
+		death="1118.3.14"
+	}
+}
+
+70178 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=100204
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=3
+	religion="catholic"
+	culture="catalan"
+	trait="impaler"
+	trait="zealous"
+	trait="skilled_tactician"
+	father=70173
+	mother=110633
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+70179 = {
+	name="°¬¶ûÃÅÄÚ´ï"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="cynical"
+	trait="brave"
+	trait="indulgent_wastrel"
+	father=70173
+	mother=110633
+	1048.1.1={
+		birth="1048.1.1"
+	}
+	1088.4.24={
+		death="1088.4.24"
+	}
+}
+
+70180 = {
+	name="¼ªË¹À­±´¶ûÌØ"
+	dynasty=100204
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=3
+	religion="catholic"
+	culture="catalan"
+	trait="hedonist"
+	trait="hunter"
+	trait="tough_soldier"
+	father=70172
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1062.6.3={
+		death="1062.6.3"
+	}
+}
+
+70181 = {
+	name="°£¶ûÃÅÉ­´ï"
+	female=yes
+	dynasty=100204
+	martial=5
+	diplomacy=6
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	trait="mystic"
+	trait="amateurish_plotter"
+	father=70180
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1066.1.1={
+	employer=110520
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+70182 = {
+	name="ÒÁË¹ÌØ·¨ÄáÑÇ"
+	female=yes
+	dynasty=395
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="celibate"
+	trait="temperate"
+	trait="indulgent_wastrel"
+	father=110571
+	mother=110572
+	
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1037.12.19={
+		death="1037.12.19"
+	}
+}
+
+70183 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10028
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="stressed"
+	trait="slothful"
+	trait="underhanded_rogue"
+	father=70280
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1021.1.1={
+		add_spouse=70182
+	}
+	1035.12.30={
+		death="1035.12.30"
+	}
+}
+
+70184 = {
+	name="°¢¶ûËşÎÚ"
+	dynasty=10028
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="charitable"
+	trait="falconer"
+	trait="tough_soldier"
+	father=70183
+	mother=70182
+	1023.1.1={
+		birth="1023.1.1"
+	}
+	1057.1.27={
+		add_spouse=54002
+	}
+	1066.1.1={
+		employer=110550
+	}
+	1082.4.19={
+		death="1082.4.19"
+	}
+}
+
+70185 = {
+	name="°¢¶ûËşÎÚ"
+	dynasty=10028
+	martial=6
+	diplomacy=3
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="proud"
+	trait="just"
+	trait="misguided_warrior"
+	father=70184
+	mother=54002
+	1059.1.1={
+		birth="1059.1.1"
+	}
+	1083.1.1={
+		add_spouse=72073
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+}
+
+70186 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10028
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="content"
+	trait="ill"
+	trait="thrifty_clerk"
+	father=70184
+	mother=54002
+	1061.1.1={
+		birth="1061.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+70187 = {
+	name="°ÂÌØ"
+	dynasty=10028
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="mystic"
+	trait="gardener"
+	trait="scholarly_theologian"
+	father=70184
+	mother=54002
+	1063.1.1={
+		birth="1063.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+
+70188 = {
+	name="¿µË¹Ì¹Èø"
+	female=yes
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="arbitrary"
+	trait="gluttonous"
+	trait="indulgent_wastrel"
+	1014.1.1={
+		birth="1014.1.1"
+	}
+	1064.1.1={
+		death="1064.1.1"
+	}
+}
+
+70189 = {
+	name="Â¶Î÷ÑÇ"
+	female=yes
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="harelip"
+	trait="ill"
+	trait="thrifty_clerk"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1066.1.1={
+		employer=110550
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+70190 = {
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=100204
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="wroth"
+	trait="ill"
+	trait="tough_soldier"
+	father=110520
+	mother=325
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1076.11.2={
+		death="1076.11.2"
+	}
+}
+
+70200 = {
+	name="ÎÚ´ïÀ­¶û´ï"
+	dynasty=12115
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="shy"
+	trait="brave"
+	trait="misguided_warrior"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1064.1.1={
+		add_spouse=110589
+	}
+	1066.1.1={
+		employer=110580
+	}
+	1083.1.7={
+		death="1083.1.7"
+	}
+}
+
+70201 = {
+	name="ÅåÀ×"
+	dynasty=12115
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="fair"
+	trait="kind"
+	trait="charismatic_negotiator"
+	father=70200
+	mother=110589
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1119.4.29={
+		death="1119.4.29"
+	}
+}
+
+70234 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=8762
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="misguided_warrior"
+	father=460010
+	mother=71575
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1296.1.1={
+		add_spouse=71702
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+
+70281 = {
+	name="À­ÃÉ"
+	dynasty=10028
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="catalan"
+	trait="shy"
+	trait="kind"
+	trait="underhanded_rogue"
+	father=70280
+	995.1.1={
+		birth="995.1.1"
+	}
+	1015.1.1={
+		add_spouse=107672
+	}
+	1035.1.1={
+		remove_spouse=107672
+	}
+	1036.1.1={
+		add_spouse=70282
+	}
+	1047.1.1={
+		death="1047.1.1"
+	}
+}
+
+70282 = {
+	name="°£¶ûÃÅÉ­´ï"
+	female=yes
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="deceitful"
+	trait="flamboyant_schemer"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1066.1.1={
+		employer=110550
+	}
+	1076.1.1={
+		death="1076.1.1"
+	}
+}
+
+70283 = {
+	name="À­ÃÉ"
+	dynasty=10028
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="hunter"
+	trait="greedy"
+	trait="tough_soldier"
+	father=70281
+	mother=70282
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1065.1.1={
+		add_spouse=70285
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+
+70284 = {
+	name="ËÕÄù¶û"
+	dynasty=10028
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="hedonist"
+	trait="arbitrary"
+	trait="indulgent_wastrel"
+	father=70281
+	mother=70282
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+
+70285={
+	name="ÍßÂ×Î÷ÑÇ"
+	female=yes
+
+	religion=catholic
+	culture=catalan
+
+	1045.1.1={
+		birth=yes
+	}
+	1106.1.1={
+		death=yes
+	}
+}
+
+70287 = {
+	name="¶ò¶ûÎÌÄáÑÇ"
+	female=yes
+	dynasty=393
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="patient"
+	trait="craven"
+	trait="thrifty_clerk"
+	father=110580
+	mother=110663
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1107.1.1={
+		death="1107.1.1"
+	}
+}
+
+71371 = {
+	name="ÒÁË¹ÌØ·¨ÄáÑÇ"
+	dynasty=395
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210576
+	mother=107646
+	1099.1.1={
+		birth="1099.1.1"
+	}
+	1143.1.1={
+		death="1143.1.1"
+	}
+}
+
+71593 = {
+	name="ÄáÁĞÄ·-»ô¶ûµÏ"
+	dynasty=10019
+	religion="catholic"
+	culture="catalan"
+	father=70165
+	mother=110524
+	1078.1.1={
+		birth="1078.1.1"
+	}
+	1109.7.1={
+		death="1109.7.1"
+	}
+}
+
+71594 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=10019
+	religion="catholic"
+	culture="catalan"
+	father=70165
+	mother=110524
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+71595 = {
+	name="°¬¶ûÃÅÓÉ"
+	dynasty=10019
+	religion="catholic"
+	culture="catalan"
+	father=70165
+	trait="bastard"
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1107.1.23={
+		death="1107.1.23"
+	}
+}
+
+71596 = {
+	name="°¢¶ûÄªµÏË¹"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=110522
+	mother=1121
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+71597 = {
+	name="±´¶ûÄÉÌØ-°¬ÂòÌá"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=72304
+	mother=72302
+	1086.1.1={
+		birth="1086.1.1"
+	}
+	1106.1.1={
+		add_spouse=71596
+	}
+	1135.10.27={
+		death="1135.10.27"
+	}
+}
+
+71598 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71597
+	mother=71596
+	1108.1.1={
+		birth="1108.1.1"
+	}
+	1113.11.10={
+		death="1113.11.10"
+	}
+}
+
+71599 = {
+	name="À­ÃÉ-¸£¿Ë"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71597
+	mother=71596
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1129.1.1={
+		add_spouse=72308
+	}
+	1151.5.7={
+		death="1151.5.7"
+	}
+}
+
+71600 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=71597
+	mother=71596
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1152.1.1={
+		death="1152.1.1"
+	}
+}
+
+71601 = {
+	name="ÅåÀ×"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71597
+	mother=71596
+	1114.1.1={
+		birth="1114.1.1"
+	}
+	1177.7.19={
+		death="1177.7.19"
+	}
+}
+
+71602 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71601
+	1127.1.1={
+		birth="1127.1.1"
+	}
+	1177.7.19={
+		death="1177.7.19"
+	}
+}
+
+71603 = {
+	name="À­ÃÉ-¸£¿Ë"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71599
+	mother=72308
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1149.1.1={
+		add_spouse=72142
+	}
+	1176.1.1={
+		death="1176.1.1"
+	}
+}
+
+71604 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71603
+	mother=72142
+	1156.1.1={
+		birth="1156.1.1"
+	}
+	1175.1.1={
+		add_spouse=72309
+	}
+	1214.1.1={
+		add_spouse=72321
+	}
+	1225.7.12={
+		death="1225.7.12"
+	}
+}
+
+71605 = {
+	name="¶òÀïÕä´ï"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71604
+	mother=72309
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+
+71606 = {
+	name="°º¸ñÀïÈø"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71603
+	mother=72142
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1207.1.1={
+		death="1207.1.1"
+	}
+}
+
+71607 = {
+	name="²©Â×ÌØ"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71597
+	trait="bastard"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1175.9.8={
+		death="1175.9.8"
+	}
+}
+
+71608 = {
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=8756
+	religion="catholic"
+	culture="catalan"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1203.1.1={
+		add_spouse=71605
+	}
+	1226.9.8={
+		death="1226.9.8"
+	}
+}
+
+71609 = {
+	name="°£¶ûÃÅÉ­´ï"
+	dynasty=8756
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71608
+	1187.1.1={
+		birth="1187.1.1"
+	}
+	1229.12.28={
+		death="1229.12.28"
+	}
+}
+
+71610 = {
+	name="À­ÃÉ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=72062
+	mother=72067
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1170.1.1={
+		add_spouse=71606
+	}
+	1177.9.1={
+		death="1177.9.1"
+	}
+}
+
+71611 = {
+	name="ÍßÂ×Î÷ÑÇ"
+	dynasty=10028
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71610
+	mother=71606
+	1171.1.1={
+		birth="1171.1.1"
+	}
+	1192.1.1={
+		death="1192.1.1"
+	}
+}
+
+71612 = {
+	name="Ï£ÃÀÄÉ"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210508
+	mother=210509
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+71613 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=210508
+	mother=40806
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1117.1.20={
+		death="1117.1.20"
+	}
+}
+
+71614 = {
+	name="ÒÁË¹ÌØ·¨ÄáÑÇ"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210508
+	mother=40806
+	1117.1.1={
+		birth="1117.1.1"
+	}
+	1173.1.1={
+		death="1173.1.1"
+	}
+}
+
+71615 = {
+	name="Âí°ÂËş"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210508
+	mother=40806
+	1118.1.1={
+		birth="1118.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+71616 = {
+	name="°¢¶ûÄªµÏË¹"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210508
+	mother=40806
+	1119.1.1={
+		birth="1119.1.1"
+	}
+	1175.3.14={
+		death="1175.3.14"
+	}
+}
+
+71617 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10010
+	religion="catholic"
+	culture="catalan"
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1135.1.1={
+		add_spouse=71615
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+71622 = {
+	name="²®¶÷Ë¹"
+	dynasty=8758
+	religion="catholic"
+	culture="catalan"
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1135.1.1={
+		add_spouse=71616
+	}
+	1155.11.19={
+		death="1155.11.19"
+	}
+}
+
+71623 = {
+	name="°¢¶û¼ÓÄ·±ÈÑÇ"
+	dynasty=8758
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71622
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+71624 = {
+	name="ÎÚ¸ê"
+	dynasty=8758
+	religion="catholic"
+	culture="catalan"
+	father=71622
+	mother=71616
+	1136.1.1={
+		birth="1136.1.1"
+	}
+	1167.1.1={
+		add_spouse=71632
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+71625 = {
+	name="²®¶÷Ë¹"
+	dynasty=8758
+	religion="catholic"
+	culture="catalan"
+	father=71622
+	mother=71616
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+71626 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=8758
+	religion="catholic"
+	culture="catalan"
+	father=71622
+	mother=71616
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1155.11.19={
+		death="1155.11.19"
+	}
+}
+
+71627 = {
+	name="¸ÇÑÇ"
+	dynasty=8758
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71622
+	mother=71616
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1189.1.1={
+		death="1189.1.1"
+	}
+}
+
+71628 = {
+	name="À­ÃÉ"
+	dynasty=8759
+	religion="catholic"
+	culture="catalan"
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1160.1.1={
+		add_spouse=71627
+	}
+	1196.1.1={
+		death="1196.1.1"
+	}
+}
+
+71629 = {
+	name="ÅåÀ×"
+	dynasty=8758
+	religion="catholic"
+	culture="catalan"
+	father=71625
+	1178.1.1={
+		birth="1178.1.1"
+	}
+	1260.2.18={
+		death="1260.2.18"
+	}
+}
+
+71630 = {
+	name="°¬¸ñÄáË¿"
+	dynasty=8758
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71629
+	1203.1.1={
+		birth="1203.1.1"
+	}
+	1265.1.1={
+		death="1265.1.1"
+	}
+}
+
+71638 = {
+	name="¶àÈø"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=40808
+	mother=221529
+	1163.1.1={
+		birth="1163.1.1"
+	}
+	1172.12.12={
+		death="1172.12.12"
+	}
+}
+
+71639 = {
+	name="ÅåÀ×"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=210506
+	mother=210507
+	1152.5.4={
+		birth="1152.5.4"
+	}
+	1157.1.1={
+		death="1157.1.1"
+	}
+}
+
+71641 = {
+	name="É£É¯"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210514
+	mother=210515
+	1187.1.1={
+		birth="1187.1.1"
+	}
+	1248.1.1={
+		death="1248.1.1"
+	}
+}
+
+71642 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=8761
+	religion="catholic"
+	culture="catalan"
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1205.1.1={
+		add_spouse=71641
+	}
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+
+71643 = {
+	name="À­ÃÉ ±´µÇÎ¬¶û"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	trait="detached_priest"
+	father=210506
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+71644 = {
+	name="À­ÃÉ ±´µÇÎ¬¶û"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=210500
+	mother=207504
+	1184.1.1={
+		birth="1184.1.1"
+	}
+	1188.1.1={
+		death="1188.1.1"
+	}
+}
+
+71645 = {
+	name="·Ñ¶ûÄÏ"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=210500
+	mother=207504
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1241.1.1={
+		death="1241.1.1"
+	}
+}
+
+71646 = {
+	name="¶àÈø"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=210500
+	mother=207504
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1246.1.1={
+		death="1246.1.1"
+	}
+}
+
+71650 = {
+	name="É£É¯"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210501
+	mother=205582
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+71651 = {
+	name="ÅåÀ×"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	add_trait="bastard"
+	add_trait="detached_priest"
+	father=210501
+	1196.1.1={
+		birth="1196.1.1"
+	}
+	1254.9.1={
+		death="1254.9.1"
+	}
+}
+
+71652 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210501
+	trait="bastard"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+71653 = {
+	name="ÂêÀûÑÇ"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210501
+	trait="bastard"
+	1204.1.1={
+		birth="1204.1.1"
+	}
+	1256.1.1={
+		death="1256.1.1"
+	}
+}
+
+71654 = {
+	name="ÎÚ¸ê-»ôµÏ¶û"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72248
+	mother=72250
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1220.1.1={
+		add_spouse=71653
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+71655 = {
+	name="ÄáÁĞÄ·-À­ÃÉ"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=71771
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1200.1.1={
+		add_spouse=72430
+	}
+	1202.1.1={
+		remove_spouse=72430
+	}
+	1216.1.1={
+		add_spouse=71652
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+
+71656 = {
+	name="ÅåÀ×"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=71655
+	mother=71652
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+
+71657 = {
+	name="ÅåÀ×"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=71656
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+71658 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=336
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71656
+	1236.1.1={
+		birth="1236.1.1"
+	}
+	1256.1.1={
+		death="1256.1.1"
+	}
+}
+
+71659 = {
+	name="Î÷±ÈÀ­"
+	dynasty=336
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71656
+	1237.1.1={
+		birth="1237.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+71660 = {
+	name="°¢ÎÚÂ×°İÎı"
+	dynasty=336
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71656
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1239.1.1={
+		death="1239.1.1"
+	}
+}
+
+71661 = {
+	name="°ÂÌØ"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=71657
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1297.1.1={
+		add_spouse=71666
+	}
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+
+71662 = {
+	name="ÄáÁĞÄ·-À­ÃÉ"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=71657
+	1274.1.1={
+		birth="1274.1.1"
+	}
+	1297.1.1 = {
+		add_spouse=31411
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+71663 = {
+	name="¶òÀïÕä´ï"
+	dynasty=336
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71657
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+
+71664 = {
+	name="°ÂÌØ"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=71661
+	mother=71666
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1334.1.1={
+		death="1334.1.1"
+	}
+}
+
+71665 = {
+	name="ÄáÁĞÄ·-À­ÃÉ"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=71664
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1371.1.1={
+		death="1371.1.1"
+	}
+}
+
+71666 = {
+	name="¼ÓË¹¸¥À³¶¡ÄÈ"
+	dynasty=7050
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71703
+	mother=71013
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+
+71667 = {
+	name="ÄáÁĞÄ·-À­ÃÉ"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=71662
+	mother=31411
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+
+71668 = {
+	name="ÂíĞŞ"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=71667
+	1316.1.1={
+		birth="1316.1.1"
+	}
+	1371.1.1={
+		death="1371.1.1"
+	}
+}
+
+71669={
+	name="°¢·½Ë¹"
+	dynasty=100204
+
+	religion=catholic
+	culture=catalan
+	father=460600
+	mother=460614
+
+	1228.2.1={
+		birth=yes
+	}
+	1260.3.23={
+		add_spouse=138163
+	}
+	1260.3.26={
+		death=yes
+	}
+}
+
+71670={
+	name="Äá¿ËÀ³Èø"
+	female=yes
+	dynasty=100204
+
+	father=460604
+	mother=200108
+
+	religion=catholic
+	culture=catalan
+
+	1311.1.1={
+		birth=yes
+	}
+	1368.1.1={
+		death=yes
+	}
+}
+
+71671 = {
+	name="Î¬°ÂÀ¼ÌØ"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=460604
+	trait="bastard"
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1372.1.1={
+		death="1372.1.1"
+	}
+}
+
+71672 = {
+	name="°¢Ë¹¿ÆÀ­´ïÂ×´ï"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=460604
+	trait="bastard"
+	1317.1.1={
+		birth="1317.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+
+71673 = {
+	name="ÉÛÀ­"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=460602
+	trait="bastard"
+	1294.1.1={
+		birth="1294.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+
+71674 = {
+	name="ÅåÀ×"
+	dynasty=8765
+	religion="catholic"
+	culture="catalan"
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1310.1.1={
+		add_spouse=71673
+	}
+	1312.2.2={
+		death="1312.2.2"
+	}
+}
+
+71675 = {
+	name="ÅåÀ×"
+	dynasty=8765
+	religion="catholic"
+	culture="catalan"
+	father=71674
+	mother=71673
+	1311.1.1={
+		birth="1311.1.1"
+	}
+	1335.1.1={
+		add_spouse=71676
+	}
+	1348.7.30={
+		death="1348.7.30"
+	}
+}
+
+71677 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=8765
+	religion="catholic"
+	culture="catalan"
+	father=71675
+	mother=71676
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1398.1.1={
+		death="1398.1.1"
+	}
+}
+
+71678 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=8767
+	religion="catholic"
+	culture="catalan"
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1319.11.11={
+		add_spouse=71673
+	}
+	1358.1.1={
+		death="1358.1.1"
+	}
+}
+
+71679 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=8767
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71678
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1362.8.30={
+		death="1362.8.30"
+	}
+}
+
+71680 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=8767
+	religion="catholic"
+	culture="catalan"
+	father=71678
+	mother=71673
+	1324.1.1={
+		birth="1324.1.1"
+	}
+	1376.1.1={
+		death="1376.1.1"
+	}
+}
+
+71681 = {
+	name="Î¬°ÂÀ¼ÌØ"
+	dynasty=8767
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71678
+	mother=71673
+	1326.1.1={
+		birth="1326.1.1"
+	}
+	1372.1.1={
+		death="1372.1.1"
+	}
+}
+
+71682 = {
+	name="ÒÁÉ¯±´¶û"
+	dynasty=8767
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71678
+	mother=71673
+	1328.1.1={
+		birth="1328.1.1"
+	}
+	1385.1.1={
+		death="1385.1.1"
+	}
+}
+
+71683 = {
+	name="É£É¯"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460605
+	trait="bastard"
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1320.1.1={
+		add_spouse=71687
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+71684 = {
+	name="·Ñ¶ûÄÏ"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460605
+	trait="bastard"
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+
+71685 = {
+	name="ÆÑ¸É"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460605
+	trait="bastard"
+	1301.1.1={
+		birth="1301.1.1"
+	}
+	1349.10.25={
+		death="1349.10.25"
+	}
+}
+
+71686 = {
+	name="°¢Ë¹¿ÆÀ­´ïÂ×´ï"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	trait="detached_priest"
+	father=460605
+	1304.1.1={
+		birth="1304.1.1"
+	}
+	1376.1.1={
+		death="1376.1.1"
+	}
+}
+
+71687 = {
+	name="ÀÍÀ­"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1358.1.1={
+		death="1358.1.1"
+	}
+}
+
+71688 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71683
+	mother=71687
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1407.1.1={
+		death="1407.1.1"
+	}
+}
+
+71689 = {
+	name="°¢Ë¹¿ÆÀ­´ïÂ×´ï"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71683
+	mother=71687
+	1324.1.1={
+		birth="1324.1.1"
+	}
+	1371.1.1={
+		death="1371.1.1"
+	}
+}
+
+71690 = {
+	name="Ô¼º²"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460620
+	trait="bastard"
+	1335.1.1={
+		birth="1335.1.1"
+	}
+	1374.1.1={
+		death="1374.1.1"
+	}
+}
+
+71691 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=460620
+	trait="bastard"
+	1337.1.1={
+		birth="1337.1.1"
+	}
+	1386.1.1={
+		death="1386.1.1"
+	}
+}
+
+71692 = {
+	name="·Ñ¶ûÄÏ"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460600
+	mother=98030
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+71693 = {
+	name="É£É¯"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=460600
+	mother=98030
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1251.1.1={
+		death="1251.1.1"
+	}
+}
+
+71694 = {
+	name="ÂêÀûÑÇ"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=460600
+	mother=98030
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1267.1.1={
+		death="1267.1.1"
+	}
+}
+
+71695 = {
+	name="É£É¯"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=460600
+	mother=98030
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1275.10.21={
+		death="1275.10.21"
+	}
+}
+
+71696 = {
+	name="°¢Àï°ºÅµ¶û"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=460600
+	mother=98030
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1259.1.1={
+		death="1259.1.1"
+	}
+}
+
+71698 = {
+	name="°¢·½Ë¹"
+	dynasty=7050
+	religion="catholic"
+	culture="catalan"
+	father=70234
+	mother=71702
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1330.1.1={
+		add_spouse=71699
+	}
+	1355.1.1={
+		death="1355.1.1"
+	}
+}
+
+71699 = {
+	name="ÂêÀûÑÇ"
+	dynasty=10029
+	female=yes
+	father=72332
+	mother=71722
+	religion="catholic"
+	culture="catalan"
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+71700={
+	name="Ô¼º²"
+	dynasty=8768
+
+	father=71698
+	trait=bastard
+
+	religion=catholic
+	culture=catalan
+
+	1330.1.1={
+		birth=yes
+	}
+	1369.1.1={
+		death=yes
+	}
+}
+
+71701 = {
+	name="ÌØÀöÉ¯"
+	dynasty=8762
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=70234
+	mother=71702
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+
+71704 = {
+	name="Âê¸ñÀöÌØ"
+	dynasty=7050
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71703
+	mother=71013
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1329.1.1={
+		death="1329.1.1"
+	}
+}
+
+71705 = {
+	name="ÂŞ½Ü"
+	dynasty=7050
+	religion="catholic"
+	culture="catalan"
+	father=71703
+	mother=71013
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+
+71706 = {
+	name="°²½ÜÀûÄÈ"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+71707 = {
+	name="²é¶ûË¹"
+	dynasty=7050
+	religion="catholic"
+	culture="catalan"
+	father=71703
+	mother=71706
+	1301.1.1={
+		birth="1301.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+71708 = {
+	name="°²½ÜÀûÄÈ"
+	dynasty=7050
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71703
+	mother=71706
+	1303.1.1={
+		birth="1303.1.1"
+	}
+	1356.1.1={
+		death="1356.1.1"
+	}
+}
+
+71709 = {
+	name="¸¥ÀÊÎ÷Ë¹" #AKA: ÂŞ½Ü (II) de Lauria
+	dynasty=7050
+	religion="catholic"
+	culture="catalan"
+	father=71703
+	mother=71706
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1313.1.1={
+		name="ÂŞ½Ü"
+	}
+	1358.1.1={
+		death="1358.1.1"
+	}
+}
+
+71710 = {
+	name="ÅåÀ×"
+	dynasty=8769
+	religion="catholic"
+	culture="catalan"
+	father=460600
+	mother=71697
+	trait="bastard"
+	1259.1.1={
+		birth="1259.1.1"
+	}
+	1276.7.27={
+		remove_trait="bastard"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+
+71711 = {
+	name="°ØÀ¼¿¨"
+	dynasty=8769
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71710
+	1304.1.1={
+		birth="1304.1.1"
+	}
+	1369.1.1={
+		death="1369.1.1"
+	}
+}
+
+71712 = {
+	name="ÅåÀ×"
+	dynasty=8769
+	religion="catholic"
+	culture="catalan"
+	father=71710
+	1306.1.1={
+		birth="1306.1.1"
+	}
+	1333.1.1={
+		add_spouse=71717
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+
+71713 = {
+	name="ÌØÀöÉ¯"
+	dynasty=8769
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71710
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+
+71714 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=8769
+	religion="catholic"
+	culture="catalan"
+	father=71710
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1355.1.1={
+		death="1355.1.1"
+	}
+}
+
+71715 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=8769
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71712
+	mother=71717
+	1334.1.1={
+		birth="1334.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+71716 = {
+	name="ÂêÀûÑÇ"
+	dynasty=8769
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71712
+	mother=71717
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1402.1.1={
+		death="1402.1.1"
+	}
+}
+
+71718 = {
+	name="ÄáÁĞÄ·"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=71662
+	mother=31411
+	1297.1.1={
+		birth="1297.1.1"
+	}
+	1324.1.1={
+		add_spouse=71713
+	}
+	1329.1.1={
+		death="1329.1.1"
+	}
+}
+
+71720 = {
+	name="·Ñ¶ûÄÏ"
+	dynasty=8771
+	religion="catholic"
+	culture="catalan"
+	father=460600
+	trait="bastard"
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+
+71721 = {
+	name="·ÆÀûÆÕ"
+	dynasty=8771
+	religion="catholic"
+	culture="catalan"
+	father=71720
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1285.1.1={
+		add_spouse=71722
+	}
+	1304.1.1={
+		death="1304.1.1"
+	}
+}
+
+71723 = {
+	name="·ÆÀûÆÕ"
+	dynasty=8771
+	religion="catholic"
+	culture="catalan"
+	father=71721
+	mother=71722
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1309.1.1={
+		add_spouse=71190
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+71724 = {
+	name="°¢Àï°ºÅµ¶û"
+	dynasty=8771
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71723
+	mother=71190
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1376.1.1={
+		death="1376.1.1"
+	}
+}
+
+71725 = {
+	name="·ÆÀûÆÕ"
+	dynasty=8771
+	religion="catholic"
+	culture="catalan"
+	father=71723
+	mother=71190
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1354.1.1={
+		death="1354.1.1"
+	}
+}
+
+71726 = {
+	name="À­ÃÉ"
+	dynasty=8772
+	religion="catholic"
+	culture="catalan"
+	father=72291
+	mother=72288
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1330.1.1={
+		add_spouse=71724
+	}
+	1355.1.1={
+		death="1355.1.1"
+	}
+}
+
+71727 = {
+	name="°¢µÂÂ×Èø"
+	dynasty=8771
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71721
+	mother=71722
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1326.1.1={
+		death="1326.1.1"
+	}
+}
+
+71728 = {
+	name="ÅåÀ×"
+	dynasty=8773
+	religion="catholic"
+	culture="catalan"
+	father=460600
+	trait="bastard"
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1268.1.1={
+		add_spouse=71729
+	}
+	1276.1.1={
+		add_spouse=71563
+	}
+	1297.1.1={
+		death="1297.1.1"
+	}
+}
+
+71729 = {
+	name="ÌØÀöÉ¯"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+
+71730 = {
+	name="ÅåÀ×"
+	dynasty=8773
+	religion="catholic"
+	culture="catalan"
+	father=71728
+	mother=71563
+	1277.1.1={
+		birth="1277.1.1"
+	}
+	1323.1.1={
+		death="1323.1.1"
+	}
+}
+
+71731 = {
+	name="°¢·½Ë¹"
+	dynasty=8773
+	religion="catholic"
+	culture="catalan"
+	father=71730
+	1302.1.1={
+		birth="1302.1.1"
+	}
+	1328.1.1={
+		add_spouse=71734
+	}
+	1329.1.1={
+		death="1329.1.1"
+	}
+}
+
+71732 = {
+	name="Âí¶ûÈ¸ÄÈ"
+	dynasty=8773
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71730
+	1304.1.1={
+		birth="1304.1.1"
+	}
+	1366.1.1={
+		death="1366.1.1"
+	}
+}
+
+71733 = {
+	name="ÅåÀ×"
+	dynasty=8773
+	religion="catholic"
+	culture="catalan"
+	father=71731
+	mother=71734
+	1329.1.1={
+		birth="1329.1.1"
+	}
+	1384.1.1={
+		death="1384.1.1"
+	}
+}
+
+71737 = {
+	name="ÅåÀ×"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460600
+	add_trait="bastard"
+	add_trait="detached_priest"
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+
+71738={
+	name="Õ²Ä·"
+	dynasty=100204
+
+	father=460600
+	trait=bastard
+
+	religion=catholic
+	culture=catalan
+
+	trait=detached_priest
+
+	1254.1.1={
+		birth=yes
+	}
+	1289.1.1={
+		death=yes
+	}
+}
+
+71739 = {
+	name="°¢·½Ë¹"
+	dynasty=100204
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="catalan"
+	trait="greedy"
+	trait="trusting"
+	trait="brilliant_strategist"
+	father=460590
+	mother=462515
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1290.8.15={
+		add_spouse=455764
+	}
+	1291.6.18={
+		death="1291.6.18"
+	}
+}
+
+71740={
+	name="ÅåÀ×"
+	dynasty=100204
+
+	father=460590
+	mother=462515
+
+	religion=catholic
+	culture=catalan
+
+	1275.1.1={
+		birth=yes
+	}
+	1291.8.21={
+		add_spouse=138169
+	}
+	1296.8.30={
+		death=yes
+	}
+}
+
+71741 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460590
+	trait="bastard"
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1285.5.22={
+		death="1285.5.22"
+	}
+}
+
+71742 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71741
+	1284.1.1={
+		birth="1284.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+71744 = {
+	name="·Ñ¶ûÄÏ"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460590
+	trait="bastard"
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1327.1.1={
+		death="1327.1.1"
+	}
+}
+
+71745 = {
+	name="ÅåÀ×"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460590
+	trait="bastard"
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+
+71746 = {
+	name="ÅåÀ×"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=71745
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+71747 = {
+	name="·Ñ¶ûÄÏ"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=71745
+	1307.1.1={
+		birth="1307.1.1"
+	}
+	1368.1.1={
+		death="1368.1.1"
+	}
+}
+
+71748 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71745
+	1309.1.1={
+		birth="1309.1.1"
+	}
+	1367.1.1={
+		death="1367.1.1"
+	}
+}
+
+71749 = {
+	name="ÌØÀöÉ¯"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71745
+	1311.1.1={
+		birth="1311.1.1"
+	}
+	1377.1.1={
+		death="1377.1.1"
+	}
+}
+
+71750 = {
+	name="É£É¯"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=460590
+	trait="bastard"
+	1274.1.1={
+		birth="1274.1.1"
+	}
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+
+71751 = {
+	name="ÌØÀöÉ¯"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=460590
+	trait="bastard"
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+
+71760 = {
+	name="Ô¼º²"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=460560
+	mother=461727
+	1304.1.1={
+		birth="1304.1.1"
+	}
+	1334.8.19={
+		death="1334.8.19"
+	}
+}
+
+71762 = {
+	name="ÇÇ°²ÄÈ"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=460580
+	mother=461715
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	1395.1.1={
+		death="1395.1.1"
+	}
+}
+
+71763 = {
+	name="°ØÀ¼¿¨"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=460580
+	mother=461715
+	1334.1.1={
+		birth="1334.1.1"
+	}
+	1400.1.1={
+		death="1400.1.1"
+	}
+}
+
+71764 = {
+	name="É£É¯"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460560
+	trait="bastard"
+	1289.1.1={
+		birth="1289.1.1"
+	}
+	1346.1.1={
+		death="1346.1.1"
+	}
+}
+
+71765 = {
+	name="Õ²Ä·Ë¹"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460560
+	trait="bastard"
+	1291.1.1={
+		birth="1291.1.1"
+	}
+	1351.1.1={
+		death="1351.1.1"
+	}
+}
+
+71766 = {
+	name="ÄÃ²¨ÀÕ"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460560
+	trait="bastard"
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+71767 = {
+	name="°¢·½Ë¹"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460510
+	mother=460511
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1317.1.1={
+		death="1317.1.1"
+	}
+}
+
+71768 = {
+	name="ÒÁÉ¯±´¶û"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=460510
+	mother=460511
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1327.1.1={
+		death="1327.1.1"
+	}
+}
+
+71769 = {
+	name="¸¥À×µÂÀï¿Ë"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460510
+	mother=460511
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+71770 = {
+	name="É£É¯"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460510
+	mother=460511
+	1327.10.28={
+		birth="1327.10.28"
+	}
+	1327.12.1={
+		death="1327.12.1"
+	}
+}
+
+71771 = {
+	name="À­ÃÉ"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=205544
+	1136.1.1={
+		birth="1136.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+71772 = {
+	name="À­ÃÉ"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=71771
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+71773 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=336
+	religion="catholic"
+	culture="catalan"
+	father=205544
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1154.1.1={
+		death="1154.1.1"
+	}
+}
+
+71774 = {
+	name="Ô¼º²"
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=460590
+	trait="bastard"
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+
+71775 = {
+	name="±È°¢ÌØÀöË¹"
+	dynasty=100204
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=460590
+	trait="bastard"
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+
+461500 = {
+	name="¸¥À×µÂÀï¿Ë"
+	# AKA: Federigo
+	dynasty=100204
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	trait="lustful"
+	trait="deceitful"
+	trait="tough_soldier"
+	father=460590
+	mother=462515
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1291.6.18={
+		name="·ÑµÂÀï¸ê"
+		culture="italian"
+	}
+	1296.1.15={
+		add_claim = k_trinacria
+	}
+	1302.8.1={
+		remove_claim = k_trinacria
+	}
+	1303.5.1={
+		add_spouse=455806
+	}
+	1337.6.25={
+		death="1337.6.25"
+	}
+}
+
+72055 = {
+	name="°¢¶ûÄªµÏË¹"
+	dynasty=10019
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=70166
+	1077.1.1={
+		birth="1077.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+72056 = {
+	name="¿ËÀï¿¨¶û´ï"
+	dynasty=10028
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=70281
+	mother=70282
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1099.1.1={
+		death="1099.1.1"
+	}
+}
+
+72057 = {
+	name="ÅåÀ×"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=70283
+	mother=70285
+	1067.1.1={
+		birth="1067.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+72058 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=70283
+	mother=70285
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1095.1.1={
+		add_spouse=72059
+	}
+	1131.1.1={
+		death="1131.1.1"
+	}
+}
+
+72059 = {
+	name="ÍĞ´ï"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1078.1.1={
+		birth="1078.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+72060 = {
+	name="¶àÈø"
+	dynasty=10028
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72058
+	mother=72059
+	1097.1.1={
+		birth="1097.1.1"
+	}
+	1119.1.1={
+		death="1119.1.1"
+	}
+}
+
+72061 = {
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=70283
+	mother=70285
+	1071.1.1={
+		birth="1071.1.1"
+	}
+	1095.1.1={
+		add_spouse=72055
+	}
+	1101.1.1={
+		add_spouse=72063
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+72062 = {
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=72061
+	mother=72055
+	1096.1.1={
+		birth="1096.1.1"
+	}
+	1145.1.1={
+		add_spouse=72143
+	}
+	1149.1.1={
+		remove_spouse=72143
+	}
+	1150.1.1={
+		add_spouse=72067
+	}
+	1177.9.15={
+		death="1177.9.15"
+	}
+}
+
+72063 = {
+	name="°¢µÂÀ³µÂ"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1138.1.1={
+		death="1138.1.1"
+	}
+}
+
+72064 = {
+	name="À­ÃÉ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=72061
+	mother=72063
+	1103.1.1={
+		birth="1103.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+72065 = {
+	name="À­ÃÉ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=72064
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1193.1.1={
+		death="1193.1.1"
+	}
+}
+
+72066 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=72061
+	mother=72063
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+72067 = {
+	name="°ÂÀïÑÇ"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1187.1.1={
+		death="1187.1.1"
+	}
+}
+
+72068 = {
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=72062
+	mother=72067
+	1156.1.1={
+		birth="1156.1.1"
+	}
+	1188.1.1={
+		death="1188.1.1"
+	}
+}
+
+72069 = {
+	name="À­ÃÉ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=70183
+	mother=70182
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+72070 = {
+	name="ÌØ°ÎÎÖ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=72069
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+72071 = {
+	name="ÌØµØ°ºÄÉ"
+	dynasty=10028
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=70183
+	mother=70182
+	1027.1.1={
+		birth="1027.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+72072 = {
+	name="»ùËşµÂ"
+	dynasty=12119
+	religion="catholic"
+	culture="catalan"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1048.1.1={
+		add_spouse=72071
+	}
+	1069.1.1={
+		death="1069.1.1"
+	}
+}
+
+72074 = {
+	name="°¢¶ûËşÎÚ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=70185
+	mother=72073
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1118.1.1={
+		add_spouse=72075
+	}
+	1167.1.1={
+		death="1167.1.1"
+	}
+}
+
+72075 = {
+	name="°¬¸ñÄáË¿"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+72076 = {
+	name="°¢¶ûËşÎÚ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=72074
+	mother=72075
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1145.1.1={
+		add_spouse=72081
+	}
+	1192.5.1={
+		death="1192.5.1"
+	}
+}
+
+72077 = {
+	name="°¬¸ñÄáË¿"
+	dynasty=10028
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72074
+	mother=72075
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+72078 = {
+	name="À­ÃÉ"
+	dynasty=12120
+	religion="catholic"
+	culture="catalan"
+	1116.1.1={
+		birth="1116.1.1"
+	}
+	1140.1.1={
+		add_spouse=72077
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+72079 = {
+	name="ÄáÁĞÄ·"
+	dynasty=12120
+	religion="catholic"
+	culture="catalan"
+	father=72078
+	mother=72077
+	1141.1.1={
+		birth="1141.1.1"
+	}
+	1166.1.1={
+		add_spouse=72083
+	}
+	1205.12.27={
+		death="1205.12.27"
+	}
+}
+
+72080 = {
+	name="¼ª¶÷Ò®Â³Âê"
+	dynasty=12120
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72079
+	mother=72083
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1205.12.27={
+		death="1205.12.27"
+	}
+}
+
+72081 = {
+	name="¼ª¶÷Ò®Â³Âê"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1129.1.1={
+		birth="1129.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+72082 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=10028
+	religion="catholic"
+	culture="catalan"
+	father=72076
+	mother=72081
+	1146.1.1={
+		birth="1146.1.1"
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+
+72083 = {
+	name="¼ª¶÷Ò®Â³Âê"
+	dynasty=10028
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72076
+	mother=72081
+	1148.1.1={
+		birth="1148.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+72084 = {
+	name="²®¶÷Ë¹"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=110581
+	mother=110564
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1110.1.1={
+		add_spouse=72085
+	}
+	1153.1.1={
+		death="1153.1.1"
+	}
+}
+
+72085 = {
+	name="²¼ÂŞÄáÉ­´ï"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1093.1.1={
+		birth="1093.1.1"
+	}
+	1149.1.1={
+		death="1149.1.1"
+	}
+}
+
+72086 = {
+	name="ÎÚ¸ê"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=72084
+	mother=72085
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1135.1.1={
+		add_spouse=72087
+	}
+	1173.1.1={
+		death="1173.1.1"
+	}
+}
+
+72087={
+	name="¼ªÅ·Ã×ÄÈ"
+	female=yes
+	dynasty=74
+
+	religion=catholic
+	culture=catalan
+
+	1118.1.1={
+		birth=yes
+	}
+	1178.1.1={
+		death=yes
+	}
+}
+
+72088={
+	name="²®¶÷Ë¹-ÎÚ¸ê"
+	dynasty=74
+
+	father=72086
+	mother=72087
+
+	religion=catholic
+	culture=catalan
+
+	1140.1.1={
+		birth=yes
+	}
+	1162.1.1={
+		add_spouse=72089
+	}
+	1175.1.1={
+		death=yes
+	}
+}
+
+72089 = {
+	name="Î÷±ÈÀ­"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1146.1.1={
+		birth="1146.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+72090={
+	name="¸ê¶÷°ÍÎÚ"
+	dynasty=74
+
+	father=72088
+	mother=72089
+
+	religion=catholic
+	culture=catalan
+
+	1163.1.1={
+		birth=yes
+	}
+	1205.1.1={
+		death=yes
+	}
+}
+
+72091={
+	name="±´µÇÎ¬¶û"
+	dynasty=74
+
+	father=72088
+	mother=72089
+
+	religion=catholic
+	culture=catalan
+
+	1165.1.1={
+		birth=yes
+	}
+	1221.1.1={
+		death=yes
+	}
+}
+
+72092={
+	name="¼ªÅ·Ã×ÄÈ"
+	female=yes
+	dynasty=74
+
+	father=72088
+	mother=72089
+
+	religion=catholic
+	culture=catalan
+
+	1167.1.1={
+		birth=yes
+	}
+	1230.1.1={
+		death=yes
+	}
+}
+
+72093 = {
+	name="°¢µÂÀ³µÂ"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+72094 = {
+	name="°£¶ûÃÅÉ­´ï"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1171.1.1={
+		birth="1171.1.1"
+	}
+	1224.1.1={
+		death="1224.1.1"
+	}
+}
+
+72095 = {
+	name="ÎÚ¸ê"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=210560
+	mother=72093
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1200.1.1={
+		add_spouse=72096
+	}
+	1230.4.1={
+		death="1230.4.1"
+	}
+}
+
+72096 = {
+	name="ÂêÀûÑÇ"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+
+72097 = {
+	name="²®¶÷Ë¹"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=72095
+	mother=72096
+	1201.1.1={
+		birth="1201.1.1"
+	}
+	1233.1.1={
+		add_spouse=72520
+	}
+	1242.10.27={
+		add_spouse=72521
+	}
+	1269.1.1={
+		death="1269.1.1"
+	}
+}
+
+72098 = {
+	name="¼ª¶÷Ò®Â³Âê"
+	dynasty=393
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72095
+	mother=72096
+	1203.1.1={
+		birth="1203.1.1"
+	}
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+
+72099 = {
+	name="ÎÚ¸ê"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=72097
+	mother=72521
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1265.1.1={
+		add_spouse=72106
+	}
+	1275.3.17={
+		death="1275.3.17"
+	}
+}
+
+72100 = {
+	name="²®¶÷Ë¹-ÎÚ¸ê"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=72097
+	mother=72521
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+72101 = {
+	name="Î÷±ÈÀ­"
+	dynasty=393
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72097
+	mother=72521
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+72102 = {
+	name="ÂíÀï°Â"
+	dynasty=393
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72097
+	mother=72521
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+72103={
+	name="À­ÃÉ-¸£¿Ë"
+	dynasty=10029
+
+	father=72312
+	mother=72324
+
+	religion=catholic
+	culture=catalan
+
+	1220.1.1={
+		birth=yes
+	}
+	1240.1.1={
+		add_spouse=138155
+	}
+	1264.1.1={
+		add_spouse=72101
+	}
+	1276.6.5={
+		death=yes
+	}
+}
+
+72104 = {
+	name="Î÷±ÈÀ­"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72103
+	mother=72101
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+72105 = {
+	name="ÎÚ¸ê"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=72103
+	mother=72101
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+72106 = {
+	name="Î÷±ÈÀ­"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1305.1.1={
+		death="1305.1.1"
+	}
+}
+
+72107 = {
+	name="²®¶÷Ë¹"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=72099
+	mother=72106
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1282.1.1={
+		add_spouse=72192
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+
+72108 = {
+	name="À­ÃÉ-¸£¿Ë"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=72099
+	mother=72106
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+72109 = {
+	name="ÎÚ¸ê"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=72099
+	mother=72106
+	1269.5.26={
+		birth="1269.5.26"
+	}
+	1296.1.1={
+		add_spouse=72112
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+
+72110 = {
+	name="ÎÚ¸ê"
+	dynasty=12121
+	religion="catholic"
+	culture="catalan"
+	father=72108
+	trait="bastard"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+
+72112 = {
+	name="Î¬°ÂÀ¼ÌØ"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+72113 = {
+	name="ÎÚ¸ê"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=72107
+	mother=72192
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1309.1.1={
+		death="1309.1.1"
+	}
+}
+
+72114 = {
+	name="²®¶÷Ë¹"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=72107
+	mother=72192
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1313.1.1={
+		add_spouse=461565
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+72115 = {
+	name="Âí¶ûÈ¸ÄÈ"
+	dynasty=393
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72114
+	mother=461565
+	1322.9.1={
+		birth="1322.9.1"
+	}
+	1327.1.1={
+		death="1327.1.1"
+	}
+}
+
+72116 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=110610
+	mother=110611
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1109.1.1={
+		death="1109.1.1"
+	}
+}
+
+72117 = {
+	name="ËÕÄù¶û"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=110610
+	mother=110611
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+72118 = {
+	name="°¢¶ûÉ­´ï"
+	dynasty=393
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=110610
+	mother=110611
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+72119 = {
+	name="°¬¸ñÄáË¿"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+72120={
+	name="¼ÓË¹¸¥À³µÂ"
+	dynasty=393
+
+	father=110612
+	mother=110613
+
+	religion=catholic
+	culture=catalan
+
+	1085.1.1={
+		birth=yes
+	}
+	1133.1.1={
+		add_spouse=200137
+	}
+	1163.2.24={
+		death=yes
+	}
+}
+
+72121={
+	name="½ÜÀ­µÂ"
+	dynasty=393
+
+	father=72120
+	mother=200137
+
+	religion=catholic
+	culture=catalan
+
+	1134.1.1={
+		birth=yes
+	}
+	1172.1.1={
+		death=yes
+	}
+}
+
+72122 = {
+	name="¼ªË¹À­±´¶ûÌØ"
+	dynasty=393
+	religion="catholic"
+	culture="catalan"
+	father=72120
+	trait=bastard
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+72125 = {
+	name="°¬¸ñÄáË¿"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1117.1.1={
+		birth="1117.1.1"
+	}
+	1168.12.1={
+		death="1168.12.1"
+	}
+}
+
+72130 = {
+	name="Î÷±ÈÀ­"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1139.1.1={
+		birth="1139.1.1"
+	}
+	1168.7.9={
+		death="1168.7.9"
+	}
+}
+
+72132 = {
+	name="ÌØÀöÉ¯"
+	dynasty=395
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210576
+	mother=107646
+	1098.1.1={
+		birth="1098.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+72139 = {
+	name="°¢ÎÚÂ×°İÎı"
+	dynasty=395
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210570
+	mother=207543
+	1196.1.1={
+		birth="1196.1.1"
+	}
+	1231.8.1={
+		death="1231.8.1"
+	}
+}
+
+72140 = {
+	name="Âí¶ûÈ¸ÄÈ"
+	dynasty=395
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210571
+	mother=205557
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+72141 = {
+	name="Ã×À­ÀûÑÇ"
+	dynasty=395
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210571
+	mother=205557
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1211.1.1={
+		death="1211.1.1"
+	}
+}
+
+72142 = {
+	name="ÒÁÉ¯±´¶û-Î÷±ÈÀ­"
+	female=yes
+	dynasty=395
+	religion="catholic"
+	culture="catalan"
+	father=210572
+	mother=210573
+	1127.1.1={
+		birth="1127.1.1"
+	}
+	1177.1.1={
+		death="1177.1.1"
+	}
+}
+
+72143 = {
+	name="ÒÁË¹ÌØ·¨ÄáÑÇ"
+	dynasty=395
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210572
+	mother=210573
+	1129.1.1={
+		birth="1129.1.1"
+	}
+	1154.1.1={
+		death="1154.1.1"
+	}
+}
+
+72144 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=12122
+	religion="catholic"
+	culture="catalan"
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1150.1.1={
+		add_spouse=72143
+	}
+	1156.1.1={
+		add_spouse=72150
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+72145 = {
+	name="°¢¶ûÉ­´ï"
+	dynasty=395
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210572
+	mother=210573
+	1131.1.1={
+		birth="1131.1.1"
+	}
+	1177.1.18={
+		death="1177.1.18"
+	}
+}
+
+72146 = {
+	name="ÄáÁĞÄ·"
+	dynasty=12123
+	religion="catholic"
+	culture="catalan"
+	1116.1.1={
+		birth="1116.1.1"
+	}
+	1150.1.1={
+		add_spouse=72145
+	}
+	1168.1.1={
+		death="1168.1.1"
+	}
+}
+
+72147 = {
+	name="ÄáÁĞÄ·"
+	dynasty=12123
+	religion="catholic"
+	culture="catalan"
+	father=72146
+	mother=72145
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+
+72148={
+	name="ÂŞµÂÀï¿Ë"
+	dynasty=395
+
+	father=210572
+	trait=bastard
+
+	religion=catholic
+	culture=catalan
+
+	1118.1.1={
+		birth=yes
+	}
+	1190.1.1={
+		death=yes
+	}
+}
+
+72149={
+	name="¼ÖÏ£À­"
+	dynasty=395
+
+	father=210572
+	trait=bastard
+
+	religion=catholic
+	culture=catalan
+
+	1120.1.1={
+		birth=yes
+	}
+	1184.8.11={
+		death=yes
+	}
+}
+
+72150 = {
+	name="ÂêÀûÑÇ"
+	dynasty=395
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=210572
+	trait=bastard
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+72151 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=12122
+	religion="catholic"
+	culture="catalan"
+	father=72144
+	mother=72150
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1212.5.29={
+		death="1212.5.29"
+	}
+}
+
+72152 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+72153 = {
+	name="²®¶÷Ë¹"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72152
+	1028.1.1={
+		birth="1028.1.1"
+	}
+	1050.1.1={
+		add_spouse=72154
+	}
+	1068.1.1={
+		add_spouse=72155
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+
+72154 = {
+	name="±È°¢ÌØÀöË¹"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+}
+
+72155 = {
+	name="À³ÌØ¼Ó´ï"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+72156 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72153
+	mother=72155
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1100.1.1={
+		add_spouse=72160
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+}
+
+72157 = {
+	name="²®¶÷Ë¹"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=72153
+	mother=72155
+	1072.1.1={
+		birth="1072.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+72158 = {
+	name="ÅåÀ×"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=72153
+	mother=72155
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+72159 = {
+	name="±È°¢ÌØÀöË¹"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72153
+	mother=72155
+	1076.1.1={
+		birth="1076.1.1"
+	}
+	1148.1.1={
+		death="1148.1.1"
+	}
+}
+
+72160 = {
+	name="ÒÁË¹ÌØ·¨ÄáÑÇ"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+
+72161 = {
+	name="²®¶÷Ë¹"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72156
+	mother=72160
+	1101.1.1={
+		birth="1101.1.1"
+	}
+	1127.1.1={
+		add_spouse=72167
+	}
+	1142.1.1={
+		add_spouse=72168
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+72162 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72156
+	mother=72160
+	1103.1.1={
+		birth="1103.1.1"
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+72163 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72156
+	mother=72160
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+72164 = {
+	name="Âí¶ûÈ¸ÄÈ"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72162
+	1129.1.1={
+		birth="1129.1.1"
+	}
+	1179.1.1={
+		death="1179.1.1"
+	}
+}
+
+72165 = {
+	name="ÅåÀ×"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72156
+	mother=72160
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+72166 = {
+	name="¸ê¶÷°ÍÎÚ"
+	dynasty=12126
+	religion="catholic"
+	culture="catalan"
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1145.1.1={
+		add_spouse=72164
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+72183 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72161
+	mother=72167
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1160.1.1={
+		add_spouse=72184
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+72184 = {
+	name="±´µÇÎ¬¶û"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+
+72185 = {
+	name="²®¶÷Ë¹"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72183
+	mother=72184
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	1194.1.1={
+		add_spouse=72140
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+
+72186 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72185
+	mother=72140
+	1196.1.1={
+		birth="1196.1.1"
+	}
+	1217.1.1={
+		add_spouse=72390
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+
+72187 = {
+	name="²®¶÷Ë¹"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72185
+	mother=72140
+	1198.1.1={
+		birth="1198.1.1"
+	}
+	1205.1.1={
+		death="1205.1.1"
+	}
+}
+
+72188 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72186
+	mother=72390
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1243.1.1={
+		add_spouse=72189
+	}
+	1252.1.1={
+		death="1252.1.1"
+	}
+}
+
+72190 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72188
+	mother=72189
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1265.1.1={
+		add_spouse=72191
+	}
+	1278.1.1={
+		death="1278.1.1"
+	}
+}
+
+72191 = {
+	name="É£É¯"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+
+72192 = {
+	name="Âí¶ûÈ¸ÄÈ"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72190
+	mother=72191
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+72193 = {
+	name="¸ñ¶ûÀ­ÎÚa"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72190
+	mother=72191
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1315.1.1={
+		death="1315.1.1"
+	}
+}
+
+72194 = {
+	name="Âê¸ñÀöÌØ"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72188
+	mother=72189
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+
+72195 = {
+	name="¸ñ¶ûÀ­ÎÚa"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72188
+	mother=72189
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+
+72196 = {
+	name="ÄáÁĞÄ·"
+	dynasty=12127
+	religion="catholic"
+	culture="catalan"
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1268.1.1={
+		add_spouse=72195
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+72197 = {
+	name="À­ÃÉ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72188
+	mother=72189
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1297.1.1={
+		add_spouse=72198
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+
+72198 = {
+	name="°¢À­Âü´ï"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+72199 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72197
+	mother=72198
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1316.1.1={
+		add_spouse=72202
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+
+72200 = {
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72197
+	mother=72198
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+72201 = {
+	name="À­ÃÉ ±´µÇÎ¬¶û"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72197
+	mother=72198
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1314.1.1={
+		add_spouse=72226
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+72203 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72199
+	mother=72202
+	1317.1.1={
+		birth="1317.1.1"
+	}
+	1334.1.1={
+		add_spouse=72204
+	}
+	1364.7.26={
+		death="1364.7.26"
+	}
+}
+
+72204 = {
+	name="µÙÄ·²©¶û"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1318.1.1={
+		birth="1318.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+
+72205 = {
+	name="²®¶÷Ë¹"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72203
+	mother=72204
+	1335.1.1={
+		birth="1335.1.1"
+	}
+	1349.1.1={
+		death="1349.1.1"
+	}
+}
+
+72206 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72203
+	mother=72204
+	1337.1.1={
+		birth="1337.1.1"
+	}
+	1368.10.1={
+		death="1368.10.1"
+	}
+}
+
+72207 = {
+	name="À­ÃÉÄÈ"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72199
+	mother=72202
+	1319.1.1={
+		birth="1319.1.1"
+	}
+	1372.1.1={
+		death="1372.1.1"
+	}
+}
+
+72208 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72199
+	mother=72202
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+72209 = {
+	name="²©Â×ÌØ"
+	dynasty=12128
+	religion="catholic"
+	culture="catalan"
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1336.1.1={
+		add_spouse=72207
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+72210 = {
+	name="°¢À­Âü´ï"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72186
+	mother=72390
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1266.1.1={
+		death="1266.1.1"
+	}
+}
+
+72131 = {
+	name="ÄáÁĞÄ·"
+	dynasty=12129
+	religion="catholic"
+	culture="catalan"
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1237.1.1={
+		add_spouse=72210
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+72218 = {
+	name="²®¶÷Ë¹"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72186
+	mother=72390
+	1216.1.1={
+		birth="1216.1.1"
+	}
+	1236.1.1={
+		add_spouse=73014
+	}
+	1243.10.1={
+		death="1243.10.1"
+	}
+}
+
+72219 = {
+	name="²®¶÷Ë¹"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72218
+	mother=73014
+	1237.1.1={
+		birth="1237.1.1"
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+
+72220 = {
+	name="°¬¶ûÃÅÓÉ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72218
+	mother=73014
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1243.1.1={
+		death="1243.1.1"
+	}
+}
+
+72221 = {
+	name="°¢Àï°ºÅµ¶û"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72218
+	mother=73014
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1289.1.1={
+		death="1289.1.1"
+	}
+}
+
+72222 = {
+	name="Âí¶ûÈ¸ÄÈ"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72218
+	mother=73014
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+72223={
+	name="°¢¶ûÍß"
+	dynasty=101701
+
+	father=72218
+	mother=73014
+
+	religion=catholic
+	culture=catalan
+
+	1239.1.1={
+		birth=yes
+	}
+	1253.1.1={
+		add_spouse=71658
+	}
+	1256.1.1={
+		add_spouse=200138
+	}
+	1267.3.1={
+		death=yes
+	}
+}
+
+72224 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=101701
+	religion="catholic"
+	culture="catalan"
+	father=72218
+	mother=73014
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1290.1.1={
+		add_spouse=71658
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+72225 = {
+	name="¿µË¹Ì¹Èø"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+
+72226 = {
+	name="ÒÁÉ¯±´¶û"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72224
+	mother=72225
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1324.1.1={
+		death="1324.1.1"
+	}
+}
+
+72227 = {
+	name="°¢Àï°ºÅµ¶û"
+	dynasty=101701
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72223
+	mother=71658
+	1256.1.1={
+		birth="1256.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+
+72228 = {
+	name="É£É¯"
+	dynasty=12130
+	religion="catholic"
+	culture="catalan"
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1274.1.1={
+		add_spouse=72227
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+
+72229 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=12130
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72228
+	mother=72227
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+72230={
+	name="¸ê¶÷°ÍÎÚ"
+	dynasty=74
+
+	father=200126
+
+	religion=catholic
+	culture=catalan
+
+	1250.1.1={
+		birth=yes
+	}
+	1295.1.1={
+		add_spouse=72229
+	}
+	1309.1.1={
+		death=yes
+	}
+}
+
+72231 = {
+	name="ÎÚÀ­²é"
+	dynasty=74
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72230
+	mother=72229
+	1302.1.1={
+		birth="1302.1.1"
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+
+72232={
+	name="°¬¶ûÃÅÓÉ"
+	dynasty=101701
+
+	father=72223
+	mother=200138
+
+	religion=catholic
+	culture=catalan
+
+	1260.1.1={
+		birth=yes
+	}
+	1276.1.1={
+		add_spouse=71659
+	}
+	1300.1.1={
+		add_spouse=72233
+	}
+	1314.7.1={
+		death=yes
+	}
+}
+
+72234={
+	name="ÈûÎ÷ÀòÑÇ"
+	female=yes
+	dynasty=101701
+
+	father=72223
+	mother=200138
+
+	religion=catholic
+	culture=catalan
+
+	1262.1.1={
+		birth=yes
+	}
+	1320.1.1={
+		death=yes
+	}
+}
+
+72235={
+	name="°¢¶ûÍß"
+	dynasty=101701
+
+	father=72223
+	mother=200138
+
+	religion=catholic
+	culture=catalan
+
+	1264.1.1={
+		birth=yes
+	}
+	1284.1.1={
+		add_spouse=72104
+	}
+	1299.1.1={
+		death=yes
+	}
+}
+
+72236 = {
+	name="ÍĞ´ï"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+72237 = {
+	name="±´µÇÎ¬¶ûÀ×ÄÉ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=110585
+	mother=72236
+	1081.1.1={
+		birth="1081.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+72238 = {
+	name="ºÕ¸¥À×"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=110585
+	mother=72236
+	1083.1.1={
+		birth="1083.1.1"
+	}
+	1100.1.1={
+		add_spouse=72244
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+72239 = {
+	name="°£¶ûÃÅÉ­´ï"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=110585
+	mother=72236
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1137.1.1={
+		death="1137.1.1"
+	}
+}
+
+72240 = {
+	name="ÄáÁĞÄ·"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=110585
+	mother=72236
+	1087.1.1={
+		birth="1087.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+72241 = {
+	name="ÍĞ´ï"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=110585
+	mother=72236
+	1089.1.1={
+		birth="1089.1.1"
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+
+72242 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=110585
+	mother=72236
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+72243 = {
+	name="ÅåÀ×"
+	dynasty=12131
+	religion="catholic"
+	culture="catalan"
+	1077.1.1={
+		birth="1077.1.1"
+	}
+	1110.1.1={
+		add_spouse=72241
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+
+72244 = {
+	name="°£¶ûÃÅÉ­´ï"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1144.1.1={
+		death="1144.1.1"
+	}
+}
+
+72245 = {
+	name="Ù¤Â³ÂéÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72238
+	mother=72244
+	1111.1.1={
+		birth="1111.1.1"
+	}
+	1130.1.1={
+		add_spouse=72247
+	}
+	1181.1.1={
+		death="1181.1.1"
+	}
+}
+
+72246 = {
+	name="°£¶ûÃÅÉ­´ï"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72238
+	mother=72244
+	1113.1.1={
+		birth="1113.1.1"
+	}
+	1184.1.1={
+		death="1184.1.1"
+	}
+}
+
+72247 = {
+	name="°¢Â³ÄÃÄÈ"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1113.1.1={
+		birth="1113.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+72248 = {
+	name="ºÕ¸¥À×"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72245
+	mother=72247
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1160.1.1={
+		add_spouse=72250
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+72249 = {
+	name="À­ÃÉ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	trait=detached_priest
+	father=72245
+	mother=72247
+	1136.1.1={
+		birth="1136.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+72250 = {
+	name="ÂêÀûÑÇ"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1141.1.1={
+		birth="1141.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+72251 = {
+	name="Ù¤Â³ÂéÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72248
+	mother=72250
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	1220.1.1={
+		add_spouse=72253
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+72252 = {
+	name="À­ÃÉ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=72245
+	mother=72247
+	1164.1.1={
+		birth="1164.1.1"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+
+72253 = {
+	name="°¢¶ûÉ­´ï"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1245.1.1={
+		death="1245.1.1"
+	}
+}
+
+72254 = {
+	name="ºÕ¸¥À×"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72251
+	mother=72253
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1238.1.1={
+		add_spouse=72260
+	}
+	1282.1.1={
+		death="1282.1.1"
+	}
+}
+
+72255 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72251
+	mother=72253
+	1223.1.1={
+		birth="1223.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+72256 = {
+	name="À×ÄÉ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72251
+	mother=72253
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1266.1.1={
+		death="1266.1.1"
+	}
+}
+
+72257 = {
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72251
+	mother=72253
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+72258 = {
+	name="±¾óÆ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	trait=detached_priest
+	father=72251
+	mother=72253
+	1226.1.1={
+		birth="1226.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+
+72259 = {
+	name="Î÷±ÈÀ­"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72251
+	mother=72253
+	1227.1.1={
+		birth="1227.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+72260 = {
+	name="¿µË¹Ì¹Èø"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1293.1.1={
+		death="1293.1.1"
+	}
+}
+
+72261 = {
+	name="Ù¤Â³ÂéÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72254
+	mother=72260
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1255.1.1={
+		add_spouse=72264
+	}
+	1261.1.1={
+		add_spouse=72272
+	}
+	1276.1.1={
+		add_spouse=72279
+	}
+	1304.1.1={
+		death="1304.1.1"
+	}
+}
+
+72262 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72254
+	mother=72260
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+72263 = {
+	name="ºÕ¸¥À×"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72254
+	mother=72260
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+
+72264 = {
+	name="°£¶ûÃÅÉ­´ï"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+72265 = {
+	name="ºÕ¸¥À×"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72261
+	mother=72264
+	1256.1.1={
+		birth="1256.1.1"
+	}
+	1280.1.1={
+		add_spouse=72234
+	}
+	1309.1.1={
+		death="1309.1.1"
+	}
+}
+
+72266 = {
+	name="ÅåÀ×"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=72261
+	mother=72264
+	1257.1.1={
+		birth="1257.1.1"
+	}
+	1324.1.1={
+		death="1324.1.1"
+	}
+}
+
+72267 = {
+	name="¼ÖÏ£À­"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72261
+	mother=72264
+	1258.1.1={
+		birth="1258.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+72268 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72261
+	mother=72264
+	1259.1.1={
+		birth="1259.1.1"
+	}
+	1285.1.1={
+		add_spouse=72270
+	}
+	1323.1.1={
+		death="1323.1.1"
+	}
+}
+
+72269 = {
+	name="°¢À­Âü´ï"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72261
+	mother=72264
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+72270 = {
+	name="ÉÛÀ­"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+72271 = {
+	name="¸ñ°»Ë¾±È¶ûÌØ"
+	dynasty=12132
+	religion="catholic"
+	culture="catalan"
+	1253.1.1={
+		birth="1253.1.1"
+	}
+	1280.1.1={
+		add_spouse=72269
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+72272 = {
+	name="°ØÀ¼¿¨"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+
+72273 = {
+	name="¶òÀïÕä´ï"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72261
+	mother=72272
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+72274 = {
+	name="±È°¢ÌØÀöË¹"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72261
+	mother=72272
+	1264.1.1={
+		birth="1264.1.1"
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+
+72275 = {
+	name="²®¶÷Ë¹"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72261
+	mother=72272
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1293.1.1={
+		add_spouse=72278
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+72276 = {
+	name="Ù¤Â³ÂéÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72261
+	mother=72272
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+
+72277 = {
+	name="À­ÃÉ"
+	dynasty=12133
+	religion="catholic"
+	culture="catalan"
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1280.1.1={
+		add_spouse=72273
+	}
+	1309.1.1={
+		death="1309.1.1"
+	}
+}
+
+72278 = {
+	name="Âê¸ñÀöÌØ"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+
+72279 = {
+	name="¼ª¶÷Ò®Â³Âê"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+
+72280 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=72261
+	mother=72279
+	1277.1.1={
+		birth="1277.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+72281 = {
+	name="Âí¶ûÈ¸ÄÈ"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=72261
+	mother=72279
+	1279.1.1={
+		birth="1279.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+72282 = {
+	name="ÄáÁĞÄ·"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=72261
+	mother=72279
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1315.1.1={
+		death="1315.1.1"
+	}
+}
+
+72283 = {
+	name="Ù¤Â³ÂéÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	trait="martial_cleric"
+	father=72261
+	mother=72279
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+
+72284 = {
+	name="Ù¤Â³ÂéÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72265
+	mother=72234
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1305.1.1={
+		add_spouse=72292
+	}
+	1324.1.1={
+		death="1324.1.1"
+	}
+}
+
+72285 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=72265
+	mother=72234
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+
+72286 = {
+	name="¸ñ¶ûÈüµ¤´ï"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=72265
+	mother=72234
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+72287 = {
+	name="°¢À­Âü´ï"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	trait="detached_priest"
+	father=72265
+	mother=72234
+	1287.1.1={
+		birth="1287.1.1"
+	}
+	1346.1.1={
+		death="1346.1.1"
+	}
+}
+
+72288 = {
+	name="¸ñ¶ûÀ­ÄÈ"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72265
+	mother=72234
+	1289.1.1={
+		birth="1289.1.1"
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+
+72289 = {
+	name="ºÕ¸¥À×"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	trait="martial_cleric" #Knight of Saint John of Jerusalem
+	father=72265
+	mother=72234
+	1291.1.1={
+		birth="1291.1.1"
+	}
+	1337.1.1={
+		employer=478502
+	}
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+
+72290 = {
+	name="±´¶ûÄÉÌØ-ÎÚ¸ê"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72265
+	mother=72234
+	1293.1.1={
+		birth="1293.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+
+72291 = {
+	name="ÄáÁĞÄ·"
+	dynasty=8772
+	religion="catholic"
+	culture="catalan"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1307.1.1={
+		add_spouse=72288
+	}
+	1319.1.1={
+		death="1319.1.1"
+	}
+}
+
+72292 = {
+	name="±È°¢ÌØÀöË¹"
+	dynasty=12134
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1351.1.1={
+		death="1351.1.1"
+	}
+}
+
+72293 = {
+	name="ºÕ¸¥À×"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72284
+	mother=72292
+	1306.1.1={
+		birth="1306.1.1"
+	}
+	1322.1.1={
+		add_spouse=72296
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+
+72294 = {
+	name="ÄáÁĞÄ·-¼ÖÏ£À­"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72284
+	mother=72292
+	1306.1.1={
+		birth="1306.1.1"
+	}
+	1324.1.1={
+		dynasty=12134
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+
+72295 = {
+	name="µÙÄ·²©¶û"
+	dynasty=392
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72284
+	mother=72292
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1390.1.1={
+		death="1390.1.1"
+	}
+}
+
+72296 = {
+	name="¶òÀïÕä´ï"
+	dynasty=336
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71661
+	mother=71666
+	1306.1.1={
+		birth="1306.1.1"
+	}
+	1358.1.1={
+		death="1358.1.1"
+	}
+}
+
+72297 = {
+	name="·ÆÀûÆÕ-Ù¤Â³ÂéÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72293
+	mother=72296
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1392.1.1={
+		death="1392.1.1"
+	}
+}
+
+72298 = {
+	name="±¾óÆ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72293
+	mother=72296
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1390.1.1={
+		death="1390.1.1"
+	}
+}
+
+72299 = {
+	name="Ô¼º²-¸ñ¶ûÀ­ÎÚ"
+	dynasty=392
+	religion="catholic"
+	culture="catalan"
+	father=72293
+	mother=72296
+	1327.1.1={
+		birth="1327.1.1"
+	}
+	1395.1.1={
+		death="1395.1.1"
+	}
+}
+
+72300 = {
+	name="À­ÃÉ-¸£¿Ë"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1065.1.1={
+		add_spouse=72301
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+
+72301 = {
+	name="°£¶ûÃÅÉ­´ï"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1088.1.1={
+		death="1088.1.1"
+	}
+}
+
+72302 = {
+	name="°£¶ûÃÅÉ­´ï"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72300
+	mother=72301
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+72303 = {
+	name="ÄáÎ÷À­"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72300
+	mother=72301
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+72304 = {
+	name="µÂ°Â´ï"
+	dynasty=12135
+	religion="catholic"
+	culture="catalan"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1084.1.1={
+		add_spouse=72302
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+72305 = {
+	name="ÄáÁĞÄ·"
+	dynasty=12135
+	religion="catholic"
+	culture="catalan"
+	father=72304
+	mother=72302
+	1087.1.1={
+		birth="1087.1.1"
+	}
+	1174.1.1={
+		death="1174.1.1"
+	}
+}
+
+72306 = {
+	name="ÅåÀ×"
+	dynasty=12135
+	religion="catholic"
+	culture="catalan"
+	father=72304
+	mother=72302
+	1089.1.1={
+		birth="1089.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+72307 = {
+	name="À­ÃÉ-¸£¿Ë"
+	dynasty=12135
+	religion="catholic"
+	culture="catalan"
+	father=72304
+	mother=72302
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1169.1.1={
+		death="1169.1.1"
+	}
+}
+
+72309 = {
+	name="¸ñ¶ûÀ­ÍŞ"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+72310 = {
+	name="Î÷±ÈÀ­"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71604
+	mother=72309
+	1177.1.1={
+		birth="1177.1.1"
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+72311 = {
+	name="¼ª¶÷Ò®Â³Âê"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71604
+	mother=72309
+	1178.1.1={
+		birth="1178.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+
+72312 = {
+	name="À­ÃÉ-¸£¿Ë"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71604
+	mother=72309
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1214.1.1={
+		add_spouse=72324
+	}
+	1241.8.23={
+		death="1241.8.23"
+	}
+}
+
+72313 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71604
+	mother=72309
+	1182.1.1={
+		birth="1182.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+72314 = {
+	name="¿¨ÌØÀïÄÈ"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=71604
+	mother=72309
+	1184.1.1={
+		birth="1184.1.1"
+	}
+	1254.1.1={
+		death="1254.1.1"
+	}
+}
+
+72315 = {
+	name="±´¶ûÄÉÌØ"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71604
+	mother=72309
+	1186.1.1={
+		birth="1186.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+72316 = {
+	name="ÄáÁĞÄ·"
+	dynasty=12136
+	religion="catholic"
+	culture="catalan"
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1196.1.1={
+		add_spouse=72310
+	}
+	1198.1.1={
+		death="1198.1.1"
+	}
+}
+
+72317 = {
+	name="ÎÚ¸ê"
+	dynasty=10027
+	religion="catholic"
+	culture="catalan"
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1200.1.1={
+		add_spouse=72311
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+
+72318 = {
+	name="°¢Â³ÄÃÎÚ"
+	dynasty=10027
+	religion="catholic"
+	culture="catalan"
+	father=72317
+	mother=72311
+
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+72319 = {
+	name="°¢¶ûËşÎÚ"
+	dynasty=10027
+	religion="catholic"
+	culture="catalan"
+	father=72318
+	1227.1.1={
+		birth="1227.1.1"
+	}
+	1281.1.1={
+		death="1281.1.1"
+	}
+}
+
+72320={
+	name="ÎÚ¸ê"
+	dynasty=10027
+
+	father=72319
+
+	religion=catholic
+	culture=catalan
+
+	1263.1.1={
+		birth=yes
+	}
+	1281.1.1={
+		add_spouse=200122
+	}
+	1315.1.1={
+		death=yes
+	}
+}
+
+72321 = {
+	name="°¬¸ñÄáË¿"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1198.1.1={
+		birth="1198.1.1"
+	}
+	1252.1.1={
+		death="1252.1.1"
+	}
+}
+
+72322 = {
+	name="À­ÃÉ-¸£¿Ë"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71604
+	trait=bastard
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+72323 = {
+	name="ÅåÀ×"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=71604
+	trait=bastard
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1278.1.1={
+		death="1278.1.1"
+	}
+}
+
+72324 = {
+	name="°¬¸ñÄáË¿"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1196.1.1={
+		birth="1196.1.1"
+	}
+	1263.1.1={
+		death="1263.1.1"
+	}
+}
+
+72325 = {
+	name="Î÷±ÈÀ­"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72312
+	mother=72324
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+72326 = {
+	name="¸ñ¶ûÀ­ÍŞ"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72312
+	mother=72324
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1243.1.1={
+		death="1243.1.1"
+	}
+}
+
+72327={
+	name="²¼ÂŞÄáÉ­´ï"
+	female=yes
+	dynasty=10029
+
+	father=72312
+	mother=72324
+
+	religion=catholic
+	culture=catalan
+
+	1216.1.1={
+		birth=yes
+	}
+	1293.3.22={
+		death=yes
+	}
+}
+
+72328 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=12137
+	religion="catholic"
+	culture="catalan"
+	1209.1.1={
+		birth="1209.1.1"
+	}
+	1233.1.1={
+		add_spouse=72325
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+
+72329={
+	name="±´¶ûÄÉÌØ"
+	dynasty=10029
+
+	father=72103
+	mother=138155
+
+	religion=catholic
+	culture=catalan
+
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1265.1.1={
+		add_spouse=72334
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+72330={
+	name="²¼ÂŞÄáÉ­´ï"
+	female=yes
+	dynasty=10029
+
+	father=72103
+	mother=138155
+
+	religion=catholic
+	culture=catalan
+
+	1247.1.1={
+		birth=yes
+	}
+	1308.1.1={
+		death=yes
+	}
+}
+
+72331={
+	name="ÄáÁĞÄ·"
+	dynasty=10029
+
+	father=72103
+	mother=138155
+
+	religion=catholic
+	culture=catalan
+
+	1252.1.1={
+		birth=yes
+	}
+	1309.1.1={
+		death=yes
+	}
+}
+
+72332={
+	name="À­ÃÉ-¸£¿Ë"
+	dynasty=10029
+
+	father=72103
+	mother=138155
+
+	religion=catholic
+	culture=catalan
+
+	1259.5.26={
+		birth=yes
+	}
+	1279.1.1={
+		add_spouse=72342
+	}
+	1304.1.1={
+		add_spouse=71722
+	}
+	1320.10.31={
+		death=yes
+	}
+}
+
+72333 = {
+	name="¸ñ¶ûÀ­ÎÚ"
+	dynasty=12129
+	religion="catholic"
+	culture="catalan"
+	father=72131
+	mother=72210
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1265.1.1={
+		add_spouse=72330
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+72334 = {
+	name="¿µË¹Ì¹Èø"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+72335 = {
+	name="Î÷±ÈÀ­"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72329
+	mother=72334
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+72336 = {
+	name="À­ÃÉ"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=72329
+	mother=72334
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1285.1.1={
+		add_spouse=71775
+	}
+	1334.1.1={
+		death="1334.1.1"
+	}
+}
+
+72337 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=10029
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	father=72329
+	mother=72334
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+72338 = {
+	name="¼ªË¹À­±´¶ûÌØ"
+	dynasty=12138
+	religion="catholic"
+	culture="catalan"
+	1261.1.1={
+		birth="1261.1.1"
+	}
+	1290.1.1={
+		add_spouse=72337
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+
+72339 = {
+	name="ÅåÀ×-°¢ÂêÌØ"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=72103
+	mother=72101
+	1269.1.1={
+		birth="1269.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+
+72340 = {
+	name="À­ÃÉ"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=72103
+	mother=72101
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+72341 = {
+	name="ÄáÁĞÄ·"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=72103
+	mother=72101
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1343.1.1={
+		death="1343.1.1"
+	}
+}
+
+72343 = {
+	name="À­ÃÉ-¸£¿Ë"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=72332
+	mother=71722
+	1305.3.28={
+		birth="1305.3.28"
+	}
+	1332.7.17={
+		death="1332.7.17"
+	}
+}
+
+72344 = {
+	name="ÎÚ¸ê"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=72332
+	mother=71722
+	1307.1.1={
+		birth="1307.1.1"
+	}
+	1327.1.1={
+		add_spouse=72353
+	}
+	1334.8.25={
+		death="1334.8.25"
+	}
+}
+
+72345 = {
+	name="¸¥Âå¶û"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+72346 = {
+	name="ÄáÁĞÄ·"
+	dynasty=12139
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	father=72332
+	mother=72345
+	1309.1.1={
+		birth="1309.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+72347 = {
+	name="±´µÇÎ¬¶û"
+	dynasty=12139
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	father=72332
+	mother=72345
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+
+72348 = {
+	name="¿µË¹Ì¹Èø"
+	dynasty=12139
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	father=72332
+	mother=72345
+	1311.1.1={
+		birth="1311.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+
+72349 = {
+	name="À­ÃÉ"
+	dynasty=12139
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	father=72332
+	mother=72345
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+72350 = {
+	name="Î÷±ÈÀ­"
+	dynasty=12139
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	father=72332
+	mother=72345
+	1313.1.1={
+		birth="1313.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+
+72351 = {
+	name="²¼ÂŞÄáÉ­´ï"
+	dynasty=12139
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	father=72332
+	mother=72345
+	1314.1.1={
+		birth="1314.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+72352 = {
+	name="ÅåÀ×"
+	dynasty=12139
+	religion="catholic"
+	culture="catalan"
+	trait="bastard"
+	father=72332
+	mother=72345
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+72353 = {
+	name="±È°¢ÌØÀöË¹"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+
+72354 = {
+	name="ÎÚ¸ê"
+	dynasty=10029
+	religion="catholic"
+	culture="catalan"
+	father=72344
+	mother=72353
+	1328.10.15={
+		birth="1328.10.15"
+	}
+	1400.8.2={
+		death="1400.8.2"
+	}
+}
+
+110636 = {
+	name="¿ËÀ³ÃÅ"
+	female = yes
+	dynasty=686
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="catalan"
+	trait="honest"
+	trait="just"
+	trait="flamboyant_schemer"
+	father=40188
+	1037.1.2={
+		birth="1037.1.2"
+	}
+	1065.1.2={
+		death="1065.1.2"
+	}
+}
+
+210573 = {
+	name="°¢¶ûÉ­´ï"
+	female = yes
+	dynasty=101701
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="catalan"
+	father=72156
+	mother=72160
+	trait="amateurish_plotter"
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+72430 = {
+	name="¼ª¶÷Ò®Â³Âê"
+	female=yes
+	religion="catholic"
+	culture="catalan"
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+72461 = {
+	name="¸ñ°»Ë¾±È¶ûÌØ"
+	dynasty = 12132
+	religion="catholic"
+	culture="catalan"
+	father=72462
+	mother=72463
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1326.1.1 = {
+		add_spouse=72455
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+72462 = {
+	name="ÄáÁĞÄ·"
+	dynasty = 12132
+	religion="catholic"
+	culture="catalan"
+	father=72271
+	mother=72269
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1310.1.1 = {
+		add_spouse=72463
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+
+72610 = {
+	name="À­ÃÉ"
+	dynasty = 12151
+	religion="catholic"
+	culture="catalan"
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1249.1.1 = {
+		employer=457621
+	}
+	1250.1.1 = {
+		add_spouse=72609
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+
+72678 = {
+	name="À­ÃÉ ±´µÇÎ¬¶û"
+	dynasty = 12154
+	religion="catholic"
+	culture="catalan"
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1212.1.1 = {
+		add_spouse=72677
+	}
+	1248.1.1={
+		death="1248.1.1"
+	}
+}
+
+110523 = {
+	name="°¬¸ñÄáË¿"
+	# Ines de Barcelona
+	female = yes
+	dynasty=100204
+	religion="catholic"
+	culture="catalan"
+	father=110520 #À­ÃÉ ±´µÇÎ¬¶û I de Barcelona
+	mother=325 #°¢¶ûÄªµÏË¹ de la Marche
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	#1070.5.10 married 40462 Guigues III d'Albon
+	1076.11.12={
+		death="1076.11.12"
+	}
+}
+
+72681={
+	name="É£¿¨"
+	female=yes
+	dynasty=12166
+
+	father=72909
+	mother=72908
+
+	religion=catholic
+	culture=catalan
+
+	1161.1.1={
+		birth=yes
+	}
+	1189.2.26={
+		death=yes
+	}
+}
+72909={
+	name="Åó¿Ë"
+	dynasty=12166
+
+	religion=catholic
+	culture=catalan
+
+	1130.1.1={
+		birth=yes
+	}
+	1155.1.1={
+		add_spouse=72908
+	}
+	1175.7.30={
+		death=yes
+	}
+}
+
+72910={
+	name="ÂêÀöÑÇ"
+	female=yes
+	dynasty=12166
+
+	father=72909
+	mother=72908
+
+	religion=catholic
+	culture=catalan
+
+	1157.1.1={
+		birth=yes
+	}
+	1183.1.1={
+		death=yes
+	}
+}
+
+72911={
+	name="À­Ã×¶û"
+	dynasty=12166
+
+	father=72909
+	mother=72908
+
+	religion=catholic
+	culture=castillan
+
+	1159.1.1 = {
+		birth=yes
+	}
+	1180.4.17 = {
+		death=yes
+	}
+}
+200117={
+	name="À­ÃÉ"
+	dynasty=12120
+
+	father=72079
+	mother=72083
+
+	religion=catholic
+	culture=catalan
+
+	1168.1.1={
+		birth=yes
+	}
+	1215.1.1={
+		death=yes
+	}
+}
+
+200118={
+	name="¼ª¶ûÄ·"
+	dynasty=12120
+
+	father=200117
+
+	religion=catholic
+	culture=catalan
+
+	1192.1.1={
+		birth=yes
+	}
+	1244.1.1={
+		death=yes
+	}
+}
+
+200119={
+	name="À­ÃÉ"
+	dynasty=12120
+
+	father=200118
+
+	religion=catholic
+	culture=catalan
+
+	1219.1.1={
+		birth=yes
+	}
+	1278.1.1={
+		death=yes
+	}
+}
+
+200120={
+	name="¼ª¶ûÄ·"
+	dynasty=12120
+
+	father=200119
+
+	religion=catholic
+	culture=catalan
+
+	1243.1.1={
+		birth=yes
+	}
+	1271.1.1={
+		add_spouse=200115
+	}
+	1304.1.1={
+		death=yes
+	}
+}
+
+200126={
+	name="±´ÄÉÌØ-¼ª¶ûÄ·"
+	dynasty=74
+
+	father=200125
+	mother=72092
+
+	religion=catholic
+	culture=catalan
+
+	1200.1.1={
+		birth=yes
+	}
+	1296.8.20={
+		death=yes
+	}
+}
+
+200127={
+	name="±´ÄÉÌØ-¼ª¶ûÄ·"
+	dynasty=74
+
+	father=200126
+
+	religion=catholic
+	culture=catalan
+
+	1246.1.1={
+		birth=yes
+	}
+	1304.9.12={
+		death=yes
+	}
+}
+
+200128={
+	name="Åôºú"
+	dynasty=74
+
+	father=200126
+
+	religion=catholic
+	culture=catalan
+
+	1248.1.1={
+		birth=yes
+	}
+	1276.1.1={
+		death=yes
+	}
+}
+
+200129={
+	name="¼ª¶ûÄ·"
+	dynasty=74
+
+	father=200126
+
+	religion=catholic
+	culture=catalan
+
+	1252.1.1={
+		birth=yes
+	}
+	1314.11.11={
+		death=yes
+	}
+}
+
+200130={
+	name="ÌØÀÙÉ¯"
+	female=yes
+	dynasty=74
+
+	father=200126
+
+	religion=catholic
+	culture=catalan
+
+	1254.1.1={
+		birth=yes
+	}
+	1316.1.1={
+		death=yes
+	}
+}
+
+200131={
+	name="Åôºú"
+	dynasty=74
+
+	father=72230
+	trait=bastard
+
+	religion=catholic
+	culture=catalan
+
+	1290.1.1={
+		birth=yes
+	}
+	1344.5.14={
+		death=yes
+	}
+}
+
+200132={
+	name="¼ª¶ûÄ·"
+	dynasty=74
+
+	father=72230
+	trait=bastard
+
+	religion=catholic
+	culture=catalan
+
+	1292.1.1={
+		birth=yes
+	}
+	1327.10.23={
+		death=yes
+	}
+}
+
+200133={
+	name="ÌØÀÙÉ¯" #Teresa
+	female=yes
+	dynasty=74
+
+	father=72230
+	trait=bastard
+
+	religion=catholic
+	culture=catalan
+
+	1294.1.1={
+		birth=yes
+	}
+	1327.10.23={
+		death=yes
+	}
+}
+
+200134={
+	name="±´ÄÉÌØ-¼ª¶ûÄ·"
+	dynasty=74
+
+	father=200131
+
+	religion=catholic
+	culture=catalan
+
+	1316.1.1={
+		birth=yes
+	}
+	1370.1.1={
+		death=yes
+	}
+}
+
+200135={
+	name="ÌØÀÙÉ¯" #Teresa
+	female=yes
+	dynasty=74
+
+	father=200131
+
+	religion=catholic
+	culture=catalan
+
+	1318.1.1={
+		birth=yes
+	}
+	1385.1.1={
+		death=yes
+	}
+}
+
+200136={
+	name="ÂüÄÚ" #Manel
+	dynasty=74
+
+	father=200129
+
+	religion=catholic
+	culture=catalan
+
+	1277.1.1={
+		birth=yes
+	}
+	1327.10.23={
+		death=yes
+	}
+}
+
+200157={
+	name="ÌØÀÙÉ¯" #Teresa
+	female=yes
+	dynasty=74
+
+	father=200136
+
+	religion=catholic
+	culture=catalan
+
+	1300.1.1={
+		birth=yes
+	}
+	1360.1.1={
+		death=yes
+	}
+}

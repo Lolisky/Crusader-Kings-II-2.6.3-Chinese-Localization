@@ -1,0 +1,1985 @@
+3500 = {
+	name="Masgut"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=41417
+	952.1.2={
+		birth="952.1.2"
+	}
+	1006.1.2={
+		death="1006.1.2"
+	}
+}
+
+3502 = {
+	name="Azgar"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=3500
+	978.1.2={
+		birth="978.1.2"
+	}
+	1061.1.2={
+		death="1061.1.2"
+	}
+}
+
+3504 = {
+	name="Akhad Moskha"
+	# AKA: Akhad Moskha
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=3502
+	1001.1.2={
+		birth="1001.1.2"
+	}
+	1071.1.2={
+		death="1071.1.2"
+	}
+}
+
+3506 = {
+	name="Selim Kolyn"
+	# AKA: Kol'n
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=3504
+	1039.1.2={
+		birth="1039.1.2"
+	}
+	1089.1.2={
+		death="1089.1.2"
+	}
+}
+
+6856 = {
+	name="Sarica"
+	female = yes
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029155
+	father=160150
+	842.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+6857 = {
+	name="Yavantey"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029152
+	father=160160
+	mother=160161
+	841.1.1={
+		birth=yes
+	}
+	861.1.1={
+		add_spouse=160156
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+6858 = {
+	name="Yeçtirek"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029159
+	father=160142
+	mother=160143
+	845.1.1={
+		birth=yes
+	}
+	861.1.1={
+		add_spouse=160152
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+20923 = {
+	name="Okhotur"
+	dynasty=100615
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="tengri_pagan"
+	culture=bolghar
+	trait="tough_soldier"
+	1030.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+194394 = {
+	name="Okors"
+	dynasty=100615
+	religion="tengri_pagan"
+	culture=bolghar
+	father=20923
+	1050.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+194395 = {
+	name="Sarä"
+	female=yes
+	dynasty=100615
+	religion="tengri_pagan"
+	culture=bolghar
+	father=20923
+	1052.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+
+34935 = {
+	name="Selim"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=125608
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1237.1.1={
+		death="1237.1.1"
+	}
+}
+
+34936 = {
+	name="Ilgam"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=34935
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1239.1.1={
+		death="1239.1.1"
+	}
+}
+
+34937 = {
+	name="Baiyan"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=34935
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1241.1.1={
+		death="1241.1.1"
+	}
+}
+
+34938 = {
+	name="Djiku"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=34935
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+
+34939 = {
+	name="Bulat Temur"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=34938
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1267.1.1={
+		death="1267.1.1"
+	}
+}
+
+34940 = {
+	name="Hasan"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=34938
+	1233.1.1={
+		birth="1233.1.1"
+	}
+	1276.1.1={
+		death="1276.1.1"
+	}
+}
+
+34941 = {
+	name="Saltan"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=34938
+	1234.1.1={
+		birth="1234.1.1"
+	}
+	1271.1.1={
+		death="1271.1.1"
+	}
+}
+
+34942 = {
+	name="Muhammad"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=34940
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1294.1.1={
+		death="1294.1.1"
+	}
+}
+
+34943 = {
+	name="Tetiak"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=34940
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+34944 = {
+	name="Bichur"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=34943
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+194418 = {
+	name="Tsog"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=34944
+	1318.1.1={
+		birth=yes
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+194419 = {
+	name="Mala"
+	female=yes
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=34944
+	1320.1.1={
+		birth=yes
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+
+41417 = {
+	name="Mohammed"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=125600
+	920.1.2={
+		birth="920.1.2"
+	}
+	976.1.2={
+		death="976.1.2"
+	}
+}
+
+41418 = {
+	name="Timar Mumin Badjanak"
+	# AKA: Timar Mumin Badjanak
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=41417
+	950.1.2={
+		birth="950.1.2"
+	}
+	1004.1.2={
+		death="1004.1.2"
+	}
+}
+
+41419 = {
+	name="Ashraf Baluq"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=41418
+	1000.1.2={
+		birth="1000.1.2"
+	}
+	1061.1.2={
+		death="1061.1.2"
+	}
+}
+
+41420 = {
+	name="Adam"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=41419
+	1050.1.2={
+		birth="1050.1.2"
+	}
+	1118.1.2={
+		death="1118.1.2"
+	}
+}
+
+70370 = {
+	name="Horca"
+	dynasty=8635
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="tengri_pagan"
+	culture="bolghar"
+	trait="honest"
+	trait="just"
+	trait="tough_soldier"
+	father=159141
+	910.1.1={
+		birth="910.1.1"
+	}
+	958.1.1={
+		death="958.1.1"
+	}
+}
+
+125600 = {
+	name="Almis"
+	# AKA: Almis Djafar
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159128
+	mother=6856
+	860.1.1={
+		birth="860.1.1"
+	}
+	920.1.1={
+		name="Almis Jafar"
+		religion="sunni"
+	}
+	925.1.2={
+		death="925.1.2"
+	}
+}
+
+125601 = {
+	name="Hasan"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=125600
+	890.1.2={
+		birth="890.1.2"
+	}
+	920.1.1={
+		religion=sunni
+	}
+	930.1.2={
+		death="930.1.2"
+	}
+}
+
+125602 = {
+	name="Mikail Yalkau"
+	# AKA: Mikail Yalkau
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=125600
+	900.1.2={
+		birth="900.1.2"
+	}
+	920.1.1={
+		religion=sunni
+	}
+	943.1.2={
+		death="943.1.2"
+	}
+}
+
+125603 = {
+	name="Talib Mumin"
+	# AKA: Talib Mumin
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=125601
+	920.1.2={
+		birth="920.1.2"
+	}
+	980.1.2={
+		death="980.1.2"
+	}
+}
+
+125604 = {
+	name="Ibrahim"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=41417
+	954.1.2={
+		birth="954.1.2"
+	}
+	1025.1.2={
+		death="1025.1.2"
+	}
+}
+
+125605 = {
+	name="Shamgun"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=41420
+	1080.1.2={
+		birth="1080.1.2"
+	}
+	1135.1.2={
+		death="1135.1.2"
+	}
+}
+
+125606 = {
+	name="Khisam Anbal"
+	# AKA: Khisam Anbal
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=3506
+	1088.1.2={
+		birth="1088.1.2"
+	}
+	1164.1.2={
+		death="1164.1.2"
+	}
+}
+
+125607 = {
+	name="Otyak"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=125605
+	1110.1.2={
+		birth="1110.1.2"
+	}
+	1185.1.2={
+		death="1185.1.2"
+	}
+}
+
+125608 = {
+	name="Abdullah Chebir"
+	# AKA: Abdullah Chebir
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=125607
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1236.1.2={
+		death="1236.1.2"
+	}
+}
+
+159128 = {
+	name="Shilki"
+	dynasty=591
+	religion="tengri_pagan"
+	culture=bolghar
+	father=159129
+	830.1.1={
+		birth="830.1.1"
+	}
+	858.1.1={
+		add_spouse=6856
+	}
+	
+	867.1.1 = {
+		# Boost the initial strength of the Bolghars
+		effect = {
+			spawn_unit = {
+				province = 610 # Bulgar
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					light_cavalry = { 127 127 }
+					horse_archers = { 48 48 }
+				}
+				attrition = 0.5
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 610 # Bulgar
+					owner = ROOT
+					#leader = ROOT
+					troops = {
+						light_cavalry = { 127 127 }
+						horse_archers = { 48 48 }
+					}
+					attrition = 0.5
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 27
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 610 # Bulgar
+					owner = ROOT
+					#leader = ROOT
+					troops = {
+						light_cavalry = { 127 127 }
+						horse_archers = { 48 48 }
+					}
+					attrition = 0.5
+				}
+			}
+		}
+	}
+	
+	
+	875.1.2={
+		death="875.1.2"
+		name="Shilki Abdullah"
+	}
+}
+
+159129 = {
+	name="Aydar" 
+	dynasty=591
+	religion="tengri_pagan"
+	culture=bolghar
+	father=159130
+	800.1.2={
+		birth="800.1.2"
+	}
+	865.1.2={
+		death="865.1.2"
+	}
+}
+
+159141 = {
+	name="Bayan" #placeholder name
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159128
+	mother=6856
+	865.1.2={
+		birth="865.1.2"
+	}
+	920.1.1={
+		name="Gyula"
+		dynasty=8635
+	}
+	935.1.2={
+		death="935.1.2"
+	}
+}
+
+159117 = {
+	name="Kubrat"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	600.1.2={
+		birth="600.1.2"
+	}
+	665.1.2={
+		death="665.1.2"
+	}
+}
+
+159118 = {
+	name="Asparukh"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159117
+	630.1.2={
+		birth="630.1.2"
+	}
+	701.1.2={
+		death="701.1.2"
+	}
+}
+
+159119 = {
+	name="Kotrag" # of Volga Bulgaria
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159117
+	631.1.2={
+		birth="631.1.2"
+	}
+	702.1.2={
+		death="702.1.2"
+	}
+}
+
+159120 = {
+	name="Tervel"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159118
+	665.1.2={
+		birth="665.1.2"
+	}
+	721.1.2={
+		death="721.1.2"
+	}
+}
+
+159121 = {
+	name="Telerig"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159120
+	trait="charitable"
+	trait="deceitful"
+	trait="envious"
+	trait="intricate_webweaver"
+	720.1.2={
+		birth="720.1.2"
+	}
+	777.1.1={
+		religion="iconoclast"
+	}
+	785.1.2={
+		death="785.1.2"
+	}
+}
+
+159122 = {
+	name="Kardam"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145938
+	trait="ambitious"
+	trait="diligent"
+	trait="just"
+	trait="skilled_tactician"
+	735.1.2={
+		birth="735.1.2"
+	}
+	802.1.2={
+		death="802.1.2"
+	}
+}
+
+
+159123 = {
+	name="Krum"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145939
+	trait="ambitious"
+	trait="diligent"
+	trait="brave"
+	trait="just"
+	trait="cruel"
+	trait="wroth"
+	trait="brilliant_strategist"
+
+	750.1.2={
+		birth="750.1.2"
+	}
+	814.1.2={
+		death="814.1.2"
+	}
+}
+
+159124 = {
+	name="Omortag"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159123
+	767.1.2={
+		birth="767.1.2"
+	}
+	831.1.2={
+		death="831.1.2"
+	}
+}
+
+159125 = {
+	name="Malamir"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159124
+	786.1.2={
+		birth="786.1.2"
+	}
+	836.1.2={
+		death="836.1.2"
+	}
+}
+
+159127 = {
+	name="Batbayan"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159117
+	625.1.5={
+		birth="625.1.5"
+	}
+	701.1.2={
+		death="701.1.2"
+	}
+}
+
+159130 = {
+	name="Tukiy" 
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159131
+	770.1.2={
+		birth="770.1.2"
+	}
+	835.1.2={
+		death="835.1.2"
+	}
+}
+
+159131 = {
+	name="Irkhan" 
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159132
+	740.1.2={
+		birth="740.1.2"
+	}
+	805.1.2={
+		death="805.1.2"
+	}
+}
+
+159132 = {
+	name="Toktu" #non-historical name
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159133
+	710.1.2={
+		birth="710.1.2"
+	}
+	775.1.2={
+		death="775.1.2"
+	}
+}
+
+159133 = {
+	name="Sevar" #non-historical name
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159134
+	680.1.2={
+		birth="680.1.2"
+	}
+	735.1.2={
+		death="735.1.2"
+	}
+}
+
+159134 = {
+	name="Kuber" #non-historical name
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159119
+	655.1.2={
+		birth="655.1.2"
+	}
+	715.1.2={
+		death="715.1.2"
+	}
+}
+
+159138 = {
+	name="Ügyek"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159131
+	773.2.2={
+		birth="773.2.2"
+	}
+	800.1.1={
+		add_spouse=159139
+	}
+	845.1.2={
+		death="845.1.2"
+	}
+}
+
+160142 = {
+	name="Araslan"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029159
+	father=160167
+	824.1.1={
+		birth=yes
+	}
+	840.1.1={
+		add_spouse=160143
+	}
+	866.1.1={
+		death=yes
+	}
+}
+160143 = {
+	name="Kätyarikka"
+	female=yes
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=591
+	father=159129
+	825.1.1={
+		birth="825.1.1"
+	}
+	840.1.1={
+		add_spouse=160142
+	}
+	865.1.1={
+		death=yes
+	}
+}
+160144 = {
+	name="Këlyamal"
+	female=yes
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=591
+	father=159129
+	826.1.1={
+		birth="826.1.1"
+	}
+	840.1.1={
+		add_spouse=160147
+	}
+	866.1.1={
+		death=yes
+	}
+}
+160145 = {
+	name="Mugel"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029159
+	father=160142
+	mother=160143
+	846.1.1={
+		birth=yes
+	}
+	866.1.1={
+		add_spouse=160166
+	}
+	899.1.1={
+		death=yes
+	}
+}
+160146 = {
+	name="Kordil"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029159
+	father=160142
+	mother=160143
+	847.1.1={
+		birth=yes
+	}
+	899.1.1={
+		death=yes
+	}
+}
+160147 = {
+	name="Baghatur"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029155
+	father=160151
+	820.1.1={
+		birth=yes
+	}
+	840.1.1={
+		add_spouse=160144
+	}
+	866.1.1={
+		death=yes
+	}
+}
+160148 = {
+	name="Paväl"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029155
+	father=160147
+	mother=160144
+	840.1.1={
+		birth=yes
+	}
+	861.1.1={
+		add_spouse=160165
+	}
+	896.1.1={
+		death=yes
+	}
+}
+160149 = {
+	name="Sartäç"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029155
+	father=160147
+	mother=160144
+	841.1.1={
+		birth=yes
+	}
+	898.1.1={
+		death=yes
+	}
+}
+160150 = {
+	name="Almis"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029155
+	father=160151
+	820.1.1={
+		birth=yes
+	}
+	866.1.1={
+		death=yes
+	}
+}
+160151 = {
+	name="Batir"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029155
+	790.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+160152 = {
+	name="Lärkka"
+	female = yes
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029155
+	father=160150
+	846.1.1={
+		birth=yes
+	}
+	861.1.1={
+		add_spouse=6858
+	}
+	890.1.1={
+		death=yes
+	}
+}
+160153 = {
+	name="Tähtaman"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029159
+	father=6858
+	mother=160152
+	861.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+160154 = {
+	name="Pakhtiyar"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029159
+	father=6858
+	mother=160152
+	862.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+160155 = {
+	name="Buzan"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029159
+	father=6858
+	mother=160152
+	863.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+160156 = {
+	name="Sarikel"
+	female = yes
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029155
+	father=160147
+	mother=160144
+	842.1.1={
+		birth=yes
+	}
+	861.1.1={
+		add_spouse=6857
+	}
+	898.1.1={
+		death=yes
+	}
+}
+160157 = {
+	name="Irkhan"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029152
+	father=6857
+	mother=160156
+	861.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+160158 = {
+	name="Aydar"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029152
+	father=6857
+	mother=160156
+	862.1.1={
+		birth=yes
+	}
+	925.1.1={
+		death=yes
+	}
+}
+160159 = {
+	name="Batir"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029152
+	father=6857
+	mother=160156
+	862.1.1={
+		birth=yes
+	}
+	923.1.1={
+		death=yes
+	}
+}
+160160 = {
+	name="Tiradin"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029152
+	father=188860
+	810.1.1={
+		birth=yes
+	}
+	865.1.1={
+		death=yes
+	}
+}
+160161 = {
+	name="Savtilek"
+	female=yes
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=591
+	father=159129
+	826.1.1={
+		birth="826.1.1"
+	}
+	840.1.1={
+		add_spouse=160160
+	}
+	866.1.1={
+		death=yes
+	}
+}
+160162 = {
+	name="Tukiy"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159128
+	mother=6856
+	861.1.1={
+		birth="861.1.1"
+	}
+	920.1.2={
+		death="920.1.2"
+	}
+}
+160163 = {
+	name="Irkhan"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159128
+	mother=6856
+	862.1.1={
+		birth="862.1.1"
+	}
+	920.10.2={
+		death="920.10.2"
+	}
+}
+160164 = {
+	name="Aydar"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159128
+	mother=6856
+	863.1.1={
+		birth="863.1.1"
+	}
+	921.9.2={
+		death="921.9.2"
+	}
+}
+160165 = {
+	name="Patiyer"
+	female = yes
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029152
+	father=160160
+	mother=160161
+	841.1.1={
+		birth=yes
+	}
+	861.1.1={
+		add_spouse=160148
+	}
+	895.1.1={
+		death=yes
+	}
+}
+160166 = {
+	name="Savintik"
+	female = yes
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029152
+	father=160160
+	mother=160161
+	847.1.1={
+		birth=yes
+	}
+	866.1.1={
+		add_spouse=160145
+	}
+	895.1.1={
+		death=yes
+	}
+}
+160167 = {
+	name="Kälaç"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029159
+	father=188790
+	790.1.1={
+		birth=yes
+	}
+	846.1.1={
+		death=yes
+	}
+}
+
+160168 = {
+	name="Timëreç"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029157
+	father=188802
+	800.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+160169 = {
+	name="Sibel"
+	female = yes
+	dynasty=591
+	religion="tengri_pagan"
+	culture=bolghar
+	father=159130
+	801.1.2={
+		birth="801.1.2"
+	}
+	865.1.2={
+		death="865.1.2"
+	}
+}
+160170 = {
+	name="Aydar"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029157
+	father=160168
+	mother=160169
+	821.1.2={
+		birth="821.1.2"
+	}
+	840.1.1={
+		add_spouse=160173
+	}
+	865.1.2={
+		death="865.1.2"
+	}
+}
+160171 = {
+	name="Isperikh"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029157
+	father=160170
+	mother=160173
+	841.1.2={
+		birth="841.1.2"
+	}
+	866.1.1={
+		add_spouse=160172
+	}
+	900.1.2={
+		death="900.1.2"
+	}
+}
+160172 = {
+	name="Sarantay"
+	female = yes
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029152
+	father=160160
+	mother=160161
+	842.1.1={
+		birth=yes
+	}
+	866.1.1={
+		add_spouse=160171
+	}
+	895.1.1={
+		death=yes
+	}
+}
+160173 = {
+	name="Çeçek"
+	female = yes
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029159
+	father=160167
+	824.1.1={
+		birth=yes
+	}
+	840.1.1={
+		add_spouse=160170
+	}
+	866.1.1={
+		death=yes
+	}
+}
+160174 = {
+	name="Yençepi"
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029157
+	father=160170
+	mother=160173
+	842.1.2={
+		birth="842.1.2"
+	}
+	900.1.2={
+		death="900.1.2"
+	}
+}
+160175 = {
+	name="Batir"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159128
+	mother=6856
+	859.1.1={
+		birth="859.1.1"
+	}
+	895.1.2={
+		death="895.1.2"
+		name="Batir-Mu'min"
+	}
+}
+194373 = {
+	name="Lärkka"
+	female = yes
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159128
+	mother=6856
+	858.1.1={
+		birth=yes
+	}
+	895.1.2={
+		death="895.1.2"
+	}
+}
+145934 = {
+	name="Ajjar"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159118
+	667.1.1={
+		birth="667.1.1"
+	}
+	722.1.1={
+		death="722.1.1"
+	}
+}
+
+
+145935 = {
+	name="Bozok"
+	dynasty=591
+	female=yes
+	religion="tengri_pagan"
+	culture="bolghar"
+	father = 145934
+	683.1.1={
+		birth="683.1.1"
+	}
+	750.1.1={
+		death="750.1.1"
+	}
+}
+
+145936 = {
+	name="Kormesiy"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=159120
+	682.1.1={
+		birth="682.1.1"
+	}
+	745.1.1={
+		death="745.1.1"
+	}
+}
+
+145937 = {
+	name="Sevar"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145936
+	699.1.1={
+		birth="699.1.1"
+	}
+	753.1.1={
+		death="753.1.1"
+	}
+}
+
+145938 = {
+	name="Kermek"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145937
+	716.1.1={
+		birth="716.1.1"
+	}
+	760.1.1={
+		death="760.1.1"
+	}
+}
+
+145939 = {
+	name="Toktu"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145938
+	733.1.1={
+		birth="733.1.1"
+	}
+	767.1.1={
+		death="767.1.1"
+	}
+}
+
+145940 = {
+	name="Uran"
+	dynasty=1029148
+	religion="tengri_pagan"
+	culture="bolghar"
+
+	675.1.1={
+		birth="675.1.1"
+	}
+	699.1.1={
+		add_spouse=145935
+	}
+	737.1.1={
+		death="737.1.1"
+	}
+}
+
+145941 = {
+	name="Kormisosh"
+	dynasty=1029148
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145940
+	mother=145935
+	700.1.1={
+		birth="700.1.1"
+	}
+	765.1.1={
+		death="765.1.1"
+	}
+}
+
+145942 = {
+	name="Zuhra"
+	dynasty=1029148
+	female=yes
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145940
+	mother=145935
+	702.1.1={
+		birth="702.1.1"
+	}
+	758.1.1={
+		death="758.1.1"
+	}
+}
+
+145943 = {
+	name="Dilek"
+	dynasty=1029148
+	female=yes
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145941
+	730.1.1={
+		birth="730.1.1"
+	}
+	785.1.1={
+		death="785.1.1"
+	}
+}
+
+145944 = {
+	name="Urus"
+	dynasty=1022331
+	religion="tengri_pagan"
+	culture="bolghar"
+
+	680.1.1={
+		birth="680.1.1"
+	}
+	718.1.1={
+		add_spouse=145942
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+
+145945 = {
+	name="Umor"
+	dynasty=1022331
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145944
+	708.1.1={
+		birth="708.1.1"
+	}
+	766.2.10={
+		death="766.2.10"
+	}
+}
+
+145946 = {
+	name="Vinekh"
+	dynasty=1022331
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145944
+	mother=145942
+	719.1.1={
+		birth="719.1.1"
+	}
+	762.1.1={
+		death="762.1.1"
+	}
+}
+
+145947 = {
+	name="Uturgur"
+	dynasty=1022331
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145945
+	728.1.1={
+		birth="728.1.1"
+	}
+	786.1.1={
+		death="786.1.1"
+	}
+}
+
+145948 = {
+	name="Sirma"
+	dynasty=1022331
+	female=yes
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145945
+	738.1.1={
+		birth="738.1.1"
+	}
+	794.1.1={
+		death="794.1.1"
+	}
+}
+
+145949 = {
+	name="Pagan"
+	dynasty=1022331
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145946
+	736.1.1={
+		birth="736.1.1"
+	}
+	768.1.1={
+		death="768.1.1"
+	}
+}
+
+145950 = {
+	name="Vakrim"
+	dynasty=1022331
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145949
+	753.1.1={
+		birth="753.1.1"
+	}
+	808.1.1={
+		death="808.1.1"
+	}
+}
+
+145951 = {
+	name="Telets"
+	dynasty=1029149
+	religion="tengri_pagan"
+	culture="bolghar"
+
+	730.1.1={
+		birth="730.1.1"
+	}
+	755.1.1={
+		add_spouse=145948
+	}
+	765.1.1={
+		death="765.1.1"
+	}
+}
+
+145952 = {
+	name="Dilyarek"
+	dynasty=1029149
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145951
+	mother=145948
+	756.1.1={
+		birth="756.1.1"
+	}
+	813.1.1={
+		death="813.1.1"
+	}
+}
+
+145953 = {
+	name="Kelbir"
+	dynasty=1022332
+	religion="tengri_pagan"
+	culture="bolghar"
+
+	700.1.1={
+		birth="700.1.1"
+	}
+	755.1.1={
+		death="755.1.1"
+	}
+}
+
+145954 = {
+	name="Sabin"
+	dynasty=1022332
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145953
+	727.1.1={
+		birth="727.1.1"
+	}
+	750.1.1={
+		add_spouse=145943
+	}
+	775.1.1={
+		death="775.1.1"
+	}
+}
+
+145955 = {
+	name="Dukum"
+	dynasty=1022332
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145954
+	mother=145943
+	752.1.1={
+		birth="752.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+145956 = {
+	name="Bayan"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=145938
+	734.1.1={
+		birth="734.1.1"
+	}
+	767.1.1={
+		death="767.1.1"
+	}
+}
+188789 = {
+	name="Taridin"
+	dynasty=1029159
+	religion="tengri_pagan"
+	culture="bolghar" # bashkiri
+	735.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188790 = {
+	name="Oshi"
+	dynasty=1029159
+	religion="tengri_pagan"
+	culture="bolghar" # bashkiri
+	father=188789
+	754.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+194357 = {
+	name="Ipek"
+	female = yes
+	dynasty=1029159
+	religion="tengri_pagan"
+	culture="bolghar" # bashkiri
+	father=188789
+	755.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+
+188801 = {
+	name="Khudbard"
+	dynasty=1029157
+	religion="tengri_pagan"
+	culture="bolghar"
+	733.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188802 = {
+	name="Omurtag" # fictitious
+	dynasty=1029157
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=188801
+	750.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+188858 = {
+	name="Islivan" # fictitious
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029152
+	735.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+188859 = {
+	name="Kormisosh" # fictitious
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029152
+	father=188858
+	754.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+
+188860 = {
+	name="Dizeng" # fictitious
+	religion="tengri_pagan"
+	culture=bolghar
+	dynasty=1029152
+	father=188859
+	785.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+
+194182 = {
+	name="Ilgam"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=125608
+	1187.1.1={
+		birth = yes
+	}
+	1233.1.1={
+		death = yes
+	}
+}
+
+194183 = {
+	name="Ilgam"
+	dynasty=591
+	religion="sunni"
+	culture="bolghar"
+	father=125608
+	1188.1.1={
+		birth = yes
+	}
+	1234.1.1={
+		death = yes
+	}
+}
+
+
+
+229002 = {
+	name="Bugra"
+	dynasty=100401
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="bolghar"
+	trait="thrifty_clerk"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+229007 = {
+	name="Savur"
+	dynasty=1053011
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture="bolghar"
+	trait="diligent"
+	trait="proud"
+	trait="temperate"
+	trait="amateurish_plotter"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+217339 = { # fictional
+	name = Praksa
+	dynasty = 1029158 # Balanjar
+	religion = sunni
+	culture = bolghar
+	
+	1193.10.5 = {
+		birth = yes
+	}
+	1240.5.16 = {
+		death = yes
+	}
+}
+217340 = { # fictional
+	name = Rugila
+	dynasty = 1029156 # Barsil
+	religion = sunni
+	culture = bolghar
+	
+	1197.5.12 = {
+		birth = yes
+	}
+	1245.7.4 = {
+		death = yes
+	}
+}

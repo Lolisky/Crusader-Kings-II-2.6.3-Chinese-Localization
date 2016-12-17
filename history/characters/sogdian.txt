@@ -1,0 +1,1453 @@
+188774 = {
+	name="Wakhushakk" # fictional Sogdian ruler
+	dynasty=1042188 # Sogdia
+	religion="zoroastrian"
+	culture="sogdian"
+	trait=sympathy_pagans
+	743.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+194319 = {
+	name="Wupoyan" # fictional Sogdian ruler
+	dynasty=1045074 # Kashgar
+	religion="zoroastrian"
+	culture="sogdian"
+	trait=sympathy_pagans
+	730.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+194320 = {
+	name="Lushan" # fictional Sogdian ruler
+	dynasty=1045076 # Charkliq
+	religion="manichean"
+	culture="sogdian"
+	trait=sympathy_pagans
+	740.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+194321 = {
+	name="Tarkhun" # fictional Sogdian ruler
+	dynasty=1045077 # Aksu
+	religion="manichean"
+	culture="sogdian"
+	trait=sympathy_pagans
+	843.1.1 = {
+		birth = yes
+	}
+	900.1.1 = {
+		death = yes
+	}
+}
+194322 = {
+	name="Mechun" # fictional Sogdian ruler
+	dynasty=1045078 # Cherchen
+	religion="manichean"
+	culture="sogdian"
+	trait=sympathy_pagans
+	743.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+194323 = {
+	name="Yechi" # fictional Sogdian ruler
+	dynasty=1045079 # Qiuzi
+	religion="manichean"
+	culture="sogdian"
+	trait=sympathy_pagans
+	740.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+194324 = {
+	name="Avyaman" # fictional Sogdian ruler
+	dynasty=1045075 # Kang
+	religion="manichean"
+	culture="sogdian"
+	trait=sympathy_pagans
+	740.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+217193 = {
+	name = Wakhushakk # fictional
+	dynasty = 1051113 # Varzakk
+	religion = manichean
+	culture = sogdian
+	805.10.14 = {
+		birth = yes
+	}
+	824.7.9 = {
+		add_spouse = 217194
+	}
+	849.7.3 = {
+		death = yes
+	}
+}
+217194 = {
+	name = Upach # fictional
+	religion = buddhist
+	culture = sogdian
+	female = yes
+	808.3.15 = {
+		birth = yes
+	}
+	865.2.8 = {
+		death = yes
+	}
+}
+217195 = {
+	name = Wupoyan # fictional
+	dynasty = 1051113 # Varzakk
+	religion = manichean
+	culture = sogdian
+	father = 217193
+	mother = 217194
+	832.4.12 = {
+		birth = yes
+	}
+	897.11.1 = {
+		death = yes
+	}
+}
+217196 = {
+	name = Asa # fictional
+	dynasty = 1051113 # Varzakk
+	religion = manichean
+	culture = sogdian
+	female = yes
+	father = 217193
+	mother = 217194
+	829.6.5 = {
+		birth = yes
+	}
+	899.4.7 = {
+		death = yes
+	}
+}
+217197 = {
+	name = Nanai-thvar # fictional
+	dynasty = 1051114 # Karzh
+	religion = manichean
+	culture = sogdian
+	804.4.18 = {
+		birth = yes
+	}
+	826.3.15 = {
+		add_spouse = 217198
+	}
+	856.4.2 = {
+		death = yes
+	}
+}
+217198 = {
+	name = Donya # fictional
+	religion = buddhist
+	culture = sogdian
+	female = yes
+	809.3.17 = {
+		birth = yes
+	}
+	859.1.5 = {
+		death = yes
+	}
+}
+217199 = {
+	name = Shafnoshak # fictional
+	dynasty = 1051114 # Karzh
+	religion = manichean
+	culture = sogdian
+	father = 217197
+	mother = 217198
+	831.8.19 = {
+		birth = yes
+	}
+	891.12.24 = {
+		death = yes
+	}
+}
+217200 = {
+	name = Furuzan # fictional
+	dynasty = 1051114 # Karzh
+	religion = manichean
+	culture = sogdian
+	female = yes
+	father = 217197
+	mother = 217198
+	830.4.9 = {
+		birth = yes
+	}
+	881.6.2 = {
+		death = yes
+	}
+}
+217201 = {
+	name = Axushfarn
+	dynasty = 1051115 # Khwatawch
+	religion = manichean
+	culture = sogdian
+	817.3.27 = {
+		birth = yes
+	}
+	833.4.12 = {
+		add_spouse = 217202
+	}
+	865.2.17 = {
+		death = yes
+	}
+}
+217202 = {
+	name = Golshan
+	religion = manichean
+	culture = sogdian
+	female = yes
+	812.8.14 = {
+		birth = yes
+	}
+	885.4.9 = {
+		death = yes
+	}
+}
+217203 = {
+	name = Divashtich
+	dynasty = 1051115 # Kwatawch
+	religion = manichean
+	culture = sogdian
+	father = 217201
+	mother = 217202
+	837.2.28 = {
+		birth = yes
+	}
+	897.4.30 = {
+		death = yes
+	}
+}
+217204 = {
+	name = Donya
+	dynasty = 1051115 # Kwatawch
+	religion = manichean
+	culture = sogdian
+	father = 217201
+	mother = 217202
+	female = yes
+	839.11.27 = {
+		birth = yes
+	}
+	904.4.7 = {
+		death = yes
+	}
+}
+217314 = {
+	name = Bindu
+	dynasty = 1051143 # Khuda
+	religion = zoroastrian
+	culture = sogdian
+	
+	645.7.21 = {
+		birth = yes
+	}
+	681.5.10 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+217315 = {
+	name = Tughshada
+	dynasty = 1051143 # Khuda
+	religion = zoroastrian
+	culture = sogdian
+	father = 217314
+	681.2.15 = {
+		birth = yes
+	}
+	739.6.4 = {
+		death = { 
+			death_reason = death_murder_unknown
+		}
+	}
+}
+217316 = {
+	name = Qutayba
+	dynasty = 1051143 # Khuda
+	religion = zoroastrian
+	culture = sogdian
+	father = 217315
+	722.7.17 = {
+		birth = yes
+	}
+	750.8.21 = {
+		death = { death_reason = death_murder_unknown }
+	}
+}
+217317 = {
+	name = Sukan
+	dynasty = 1051143 # Khuda
+	religion = zoroastrian
+	culture = sogdian
+	father = 217315
+	727.10.4 = { 
+		birth = yes
+	}
+	757.3.12 = {
+		death = { death_reason = death_murder_unknown }
+	}
+}
+217318 = {
+	name = Bunyat
+	dynasty = 1051143 # Khuda
+	religion = zoroastrian
+	culture = sogdian
+	father = 217315
+	730.5.4 = {
+		birth = yes
+	}
+	783.5.25 = {
+		death = { death_reason = death_murder_unknown }
+	}
+}
+217319 = {
+	name = Khunuk
+	dynasty = 1051144 # Bukhar
+	religion = zoroastrian
+	culture = sogdian
+	
+	679.5.14 = { birth = yes }
+	710.4.17 = {
+		death = { 
+			death_reason = death_execution
+			killer = 217320
+		}
+	}
+}
+217323 = {
+	name = Khaydhar
+	dynasty = 1051145
+	religion = manichean
+	culture = sogdian
+	trait = skilled_tactician
+	father = 217324
+	801.3.16 = { # unknown
+		birth = yes
+	}
+	820.10.2 = {
+		religion = sunni
+		trait = sympathy_zoroastrianism
+	}
+	841.5.15 = {
+		death = yes
+	}
+}
+217324 = {
+	name = Kawus
+	dynasty = 1051145
+	religion = manichean
+	culture = sogdian
+	father = 217325
+	782.6.15 = { # unknown
+		birth = yes
+	}
+	822.4.10 = {
+		religion = sunni
+		trait = sympathy_zoroastrianism
+	}
+	827.10.5 = { # unknown
+		death = yes
+	}
+	
+}
+217325 = {
+	name = Kharakhuruh
+	dynasty = 1051145
+	religion = manichean
+	culture = sogdian
+	751.12.27 = { # unknown
+		birth = yes
+	}
+	793.10.5 = { # unknown
+		death = yes
+	}
+}
+217326 = {
+	name = Fazl
+	dynasty = 1051145
+	religion = manichean
+	culture = sogdian
+	father = 217324
+	804.2.15 = { # unknown
+		birth = yes
+	}
+	830.5.20 = { # unknown
+		religion = sunni
+		trait = sympathy_zoroastrianism
+	}
+	854.1.24 = { # unknown
+		death = yes
+	}
+}
+217327 = {
+	name = Al-Kawus # fictional son of Fazl
+	dynasty = 1051145
+	religion = sunni
+	culture = sogdian
+	father = 217326
+	
+	832.6.17 = {
+		birth = yes
+	}
+	874.10.5 = {
+		death = yes
+	}
+}
+
+188681 = {
+	name="Hashim"
+	dynasty=1042148
+	religion="mazdaki" # Khurramite
+	culture="sogdian"
+	731.1.1={
+		birth=yes
+	}
+	783.1.1={
+		death=yes
+	}
+}
+217328 = {
+	name = Farn # fictional son of Bunyat
+	dynasty = 1051143
+	religion = zoroastrian
+	culture = sogdian
+	father = 217318
+	
+	776.4.15 = {
+		birth = yes
+	}
+	835.1.17 = {
+		death = yes
+	}
+}
+217329 = {
+	name = Aspandhat # fictional grandson of Bunyat
+	dynasty = 1051143
+	religion = zoroastrian
+	culture = sogdian
+	father = 217328
+	
+	817.7.3 = {
+		birth = yes
+	}
+	842.11.15 = {
+		death = yes
+	}
+}
+217330 = {
+	name = Kanakk # fictional grand-grandson of Bunyat
+	dynasty = 1051143
+	religion = zoroastrian
+	culture = sogdian
+	father = 217329
+	
+	835.10.17 = {
+		birth = yes
+	}
+	891.2.15 = {
+		death = yes
+	}
+}
+217331 = {
+	name = Darya # fictional grand-granddaughter of Bunyat
+	dynasty = 1051143
+	religion = zoroastrian
+	culture = sogdian
+	father = 217329
+	
+	841.10.19 = {
+		birth = yes
+	}
+	887.5.9 = {
+		death = yes
+	}
+}
+166632 = {
+	name="Kirti" #Vijaya Kirti I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	85.1.1={
+		birth=yes
+	}
+	130.1.1={
+		death=yes
+	}
+}
+166633 = {
+	name="Sangrama" #Vijaya Sangrama I "the Lion" (Fangqian)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166632
+	102.1.1={
+		birth=yes
+	}
+	127.1.1 = {
+		give_nickname=nick_the_lion
+	}
+	132.1.1={
+		death=yes
+	}
+}
+166634 = {
+	name="Dharma" #Vijaya Dharma I (Jian)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166633
+	122.1.1={
+		birth=yes
+	}
+	151.1.1={
+		death=yes
+	}
+}
+166635 = {
+	name="Jaya" #Vijaya Jaya I (Anguo)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166634
+	146.1.1={
+		birth=yes
+	}
+	182.1.1={
+		death=yes
+	}
+}
+166636 = {
+	name="Shima" #Vijaya Shima I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166635
+	161.1.1={
+		birth=yes
+	}
+	188.1.1={
+		death=yes
+	}
+}
+166637 = {
+	name="Saigrama" #Vijaya Saigrama I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166636
+	178.1.1={
+		birth=yes
+	}
+	208.1.1={
+		death=yes
+	}
+}
+166638 = {
+	name="Andara" #Vijaya Andara I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166637
+	195.1.1={
+		birth=yes
+	}
+	243.1.1={
+		death=yes
+	}
+}
+166639 = {
+	name="Vahana" #Vijaya Vahana I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166638
+	213.1.1={
+		birth=yes
+	}
+	251.1.1={
+		death=yes
+	}
+}
+166640 = {
+	name="Simha" #Vijaya Simha I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166639
+	240.1.1={
+		birth=yes
+	}
+	279.1.1={
+		death=yes
+	}
+}
+166641 = {
+	name="Sata" #Vijaya Sata I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166640
+	262.1.1={
+		birth=yes
+	}
+	306.1.1={
+		death=yes
+	}
+}
+166642 = {
+	name="Ananta" #Vijaya Ananta I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166641
+	287.1.1={
+		birth=yes
+	}
+	336.1.1={
+		death=yes
+	}
+}
+166643 = {
+	name="Saigrama" #Vijaya Saigrama II
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166642
+	310.1.1={
+		birth=yes
+	}
+	373.1.1={
+		death=yes
+	}
+}
+166644 = {
+	name="Dharma" #Vijaya Dharma II
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166643
+	333.1.1={
+		birth=yes
+	}
+	397.1.1={
+		death=yes
+	}
+}
+166645 = {
+	name="Sambhava" #Vijaya Sambhava I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166644
+	360.1.1={
+		birth=yes
+	}
+	436.1.1={
+		death=yes
+	}
+}
+166646 = {
+	name="Pala" #Vijaya Pala I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166645
+	386.1.1={
+		birth=yes
+	}
+	451.1.1={
+		death=yes
+	}
+}
+166647 = {
+	name="Amala" #Vijaya Amala I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166646
+	432.1.1={
+		birth=yes
+	}
+	496.1.1={
+		death=yes
+	}
+}
+166648 = {
+	name="Jaya" #Vijaya Jaya II
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166647
+	471.1.1={
+		birth=yes
+	}
+	512.1.1={
+		death=yes
+	}
+}
+166649 = {
+	name="Kirti" #Vijaya Kirti II
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166648
+	499.1.1={
+		birth=yes
+	}
+	531.1.1={
+		death=yes
+	}
+}
+166650 = {
+	name="Sangrama" #Vijaya Sangrama II
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166649
+	524.1.1={
+		birth=yes
+	}
+	578.1.1={
+		death=yes
+	}
+}
+166651 = {
+	name="Shima" #Vijaya Shima II
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166650
+	540.1.1={
+		birth=yes
+	}
+	596.1.1={
+		death=yes
+	}
+}
+166652 = {
+	name="Jaya" #Vijaya Jaya III
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166651
+	557.1.1={
+		birth=yes
+	}
+	612.1.1={
+		death=yes
+	}
+}
+166653 = {
+	name="Pala" #Vijaya Pala II
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166652
+	575.1.1={
+		birth=yes
+	}
+	628.1.1={
+		death=yes
+	}
+}
+166654 = {
+	name="Sangrama" #Vijaya Sangrama III
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166653
+	604.1.1={
+		birth=yes
+	}
+	649.1.1={
+		death=yes
+	}
+}
+166655 = {
+	name="Satra" #Vijaya Satra I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166654
+	620.1.1={
+		birth=yes
+	}
+	662.1.1={
+		death=yes
+	}
+}
+166656 = {
+	name="Kirti" #Vijaya Kirti III
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166655
+	636.1.1={
+		birth=yes
+	}
+	673.1.1={
+		death=yes
+	}
+}
+166657 = {
+	name="Sangrama" #Vijaya Sangrama IV (Fudu Xiong)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166656
+	652.1.1={
+		birth=yes
+	}
+	690.1.1={
+		death=yes
+	}
+}
+166658 = {
+	name="Khemeg" #Amala Khemeg - Regent of Khotan 680-692
+	dynasty=1040025
+	religion="buddhist"
+	culture="sogdian"
+	642.1.1={
+		birth=yes
+	}
+	709.1.1={
+		death=yes
+	}
+}
+166659 = {
+	name="Vikarma" #Vijaya Vikarma I (Fudu Jing)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166657
+	668.1.1={
+		birth=yes
+	}
+	719.1.1={
+		death=yes
+	}
+}
+166660 = {
+	name="Dharma" #Vijaya Dharma III (Yuchi Tiao)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166659
+	684.1.1={
+		birth=yes
+	}
+	725.1.1={
+		death=yes
+	} #Beheaded by the Chinese
+}
+166661 = {
+	name="Sambhava" #Vijaya Sambhava II (Yuchi Fushizhan)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166659
+	686.1.1={
+		birth=yes
+	}
+	736.1.1={
+		death=yes
+	}
+}
+166662 = {
+	name="Vahana" #Vijaya Vahana II "the Great" (Fudu Da)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166661
+	702.1.1={
+		birth=yes
+	}
+	736.1.1 = {
+		give_nickname=nick_the_great
+	}
+	740.1.1={
+		death=yes
+	}
+}
+166663 = {
+	name="Simha" #Vijaya Simha II (Yuchi Gui)
+	dynasty=1040024
+	religion="manichean"
+	culture="sogdian"
+	father=166662
+	717.1.1={
+		birth=yes
+	}
+	744.1.1={
+		religion="buddhist"
+	}
+	747.1.1={
+		death=yes
+	}
+}
+166664 = {
+	name="Dhondhros" #Vijaya Dhondhros I (Yuchi Sheng)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166663
+	733.1.1={
+		birth=yes
+	}
+	736.1.1={
+		effect = { add_friend = 166665 }
+	}
+	#747 - Married to a Chinese Princess
+	785.1.1={
+		death=yes
+	}
+}
+166665 = {
+	name="Sata" #Vijaya Sata II (Yuchi Shihu (Jabgu) Yao)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166663
+	736.1.1={
+		birth=yes
+	}
+	789.1.1={
+		death=yes
+	}
+}
+166666 = {
+	name="Ananta" #Vijaya Ananta II
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166665
+	750.1.1={
+		birth=yes
+	}
+	764.1.1={
+		add_spouse=166667
+	}
+	798.1.1={
+		death=yes
+	}
+}
+166667 = {
+	name="Dharma" #Vijaya Dharma
+	female=yes
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166664
+	749.1.1={
+		birth=yes
+	}
+	803.1.1={
+		death=yes
+	}
+}
+166668 = {
+	name="Sangrama" #Vijaya Sangrama V
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166666
+	mother=166667
+	765.1.1={
+		birth=yes
+	}
+	781.1.1={
+		add_spouse=166671
+	}
+	803.1.1={
+		add_spouse=166672
+	}
+	809.1.1={
+		death=yes
+	}
+}
+166669 = {
+	name="Bresaya" #Vijaya Bresaya
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166666
+	mother=166667
+	767.1.1={
+		birth=yes
+	}
+	782.1.1={
+		add_spouse=166670
+	}
+	805.1.1={
+		death=yes
+	}
+}
+166670 = {
+	name="Kasuma" #Asu Kasuma
+	female=yes
+	dynasty=1040026
+	religion="buddhist"
+	culture="sogdian"
+	766.1.1={
+		birth=yes
+		employer=166665
+	}
+	803.1.1={
+		death=yes
+	}
+}
+166671 = {
+	name="Silamata" #Silamata
+	female=yes
+	dynasty=1040027
+	religion="buddhist"
+	culture="sogdian"
+	764.1.1={
+		birth=yes
+		employer=166665
+	}
+	803.1.1={
+		death=yes
+	}
+}
+166672 = {
+	name="Gohusara" #Gohusara
+	female=yes
+	dynasty=1040028
+	religion="buddhist"
+	culture="sogdian"
+	778.1.1={
+		birth=yes
+		employer=166665
+	}
+	821.1.1={
+		death=yes
+	}
+}
+166673 = {
+	name="Nakshatra" #Vijaya Nakshatra I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166668
+	mother=166671
+	782.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+166674 = {
+	name="Visaphraba" #Vijaya Visaphraba
+	female=yes
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166673
+	804.1.1={
+		birth=yes
+	}
+	849.1.1={
+		death=yes
+	}
+}
+166675 = {
+	name="Kirti" #Vijaya Kirti IV
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166673
+	799.1.1={
+		birth=yes
+	}
+	841.1.1={
+		death=yes
+	}
+}
+166676 = {
+	name="Pala" #Vijaya Pala III
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166675
+	815.1.1={
+		birth=yes
+	}
+	856.1.1={
+		death=yes
+	}
+}
+166677 = {
+	name="Viteseci" #Vijaya Viteseci
+	female=yes
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166675
+	817.1.1={
+		birth=yes
+	}
+	848.1.1={
+		death=yes
+	}
+}
+166678 = {
+	name="Visadaya" #Vijaya Visadaya
+	female=yes
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166675
+	819.1.1={
+		birth=yes
+	}
+	861.1.1={
+		death=yes
+	}
+}
+166679 = {
+	name="Jaya" #Vijaya Jaya IV
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166676
+	831.1.1={
+		birth=yes
+	}
+	859.1.1={
+		death=yes
+	}
+}
+166680 = {
+	name="Sangrama" #Vijaya Sangrama VI
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166676
+	834.1.1={
+		birth=yes
+	}
+	863.1.1={
+		death=yes
+	}
+}
+166681 = {
+	name="Vikarma" #Vijaya Vikarma II
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166679
+	847.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse = 166682
+	}
+	877.1.1={
+		death=yes
+	}
+}
+166682 = {
+	name="Sutoka"
+	female=yes
+	dynasty=1040029
+	religion="buddhist"
+	culture="sogdian"
+	847.1.1={
+		birth=yes
+	}
+	899.1.1={
+		death=yes
+	}
+}
+166683 = {
+	name="Simha" #Vijaya Simha II
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166681
+	mother=166682
+	863.1.1={
+		birth=yes
+	}
+	878.1.1={
+		add_spouse = 166684
+	}
+	885.1.1={
+		death=yes
+	}
+}
+166684 = {
+	name="Alyohjah"
+	female=yes
+	dynasty=1040030
+	religion="buddhist"
+	culture="sogdian"
+	864.1.1={
+		birth=yes
+		employer=166681
+	}
+	915.1.1={
+		death=yes
+	}
+}
+166685 = {
+	name="Sangrama" #Vijaya Sangrama VI
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166681
+	mother=166682
+	865.1.1={
+		birth=yes
+	}
+	886.1.1={
+		add_spouse = 166684
+	}
+	912.1.1={
+		death=yes
+	}
+}
+166686 = {
+	name="Sambhava" #Vijaya Sambhava III "the Great" (Lishengtian)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166685
+	mother=166684
+	893.1.1={
+		birth=yes
+	}
+	912.1.1 = {
+		give_nickname=nick_the_great
+	}
+	966.1.1={
+		death=yes
+	}
+}
+166687 = {
+	name="Surapati" #Vijaya Surapati I (Zhongchang)
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166686
+	928.1.1={
+		birth=yes
+	}
+	977.1.1={
+		death=yes
+	}
+}
+166688 = {
+	name="Dharma" #Vijaya Dharma IV
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166687
+	945.1.1={
+		birth=yes
+	}
+	982.1.1={
+		death=yes
+	}
+}
+166689 = {
+	name="Kumara" #Vijaya Kumara I
+	dynasty=1040024
+	religion="buddhist"
+	culture="sogdian"
+	father=166687
+	945.1.1={
+		birth=yes
+	}
+	1006.1.1={
+		death=yes
+	}
+}
+#Kashgar
+166690 = {
+	name="Kartir"
+	dynasty=1040057
+	religion="buddhist"
+	culture="sogdian"
+	705.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+166691 = {
+	name="Chakar"
+	dynasty=1040057
+	religion="buddhist"
+	culture="sogdian"
+	father=166690
+	732.1.1={
+		birth=yes
+	}
+	798.1.1={
+		death=yes
+	}
+}
+166692 = {
+	name="Ranisa"
+	female=yes
+	dynasty=1040057
+	religion="buddhist"
+	culture="sogdian"
+	father=166690
+	740.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}
+166693 = {
+	name="Resan"
+	dynasty=1040057
+	religion="buddhist"
+	culture="sogdian"
+	father=166691
+	785.1.1={
+		birth=yes
+	}
+	846.1.1={
+		death=yes
+	}
+}
+166694 = {
+	name="Dharma"
+	dynasty=1040057
+	religion="buddhist"
+	culture="sogdian"
+	father=166693
+	840.1.1={
+		birth=yes
+	}
+	891.1.1={
+		death=yes
+	}
+}
+166695 = {
+	name="Yasaman"
+	female=yes
+	dynasty=1040057
+	religion="buddhist"
+	culture="sogdian"
+	father=166693
+	845.1.1={
+		birth=yes
+	}
+	898.1.1={
+		death=yes
+	}
+}
+#Yarkand
+166696 = {
+	name="Qishiq"
+	dynasty=1040058
+	religion="buddhist"
+	culture="sogdian"
+	711.1.1={
+		birth=yes
+	}
+	763.1.1={
+		death=yes
+	}
+}
+166697 = {
+	name="Shahrokh"
+	dynasty=1040058
+	religion="buddhist"
+	culture="sogdian"
+	father=166696
+	741.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+166698 = {
+	name="Shayn"
+	female=yes
+	dynasty=1040058
+	religion="buddhist"
+	culture="sogdian"
+	father=166696
+	745.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+166699 = {
+	name="Artivan"
+	dynasty=1040058
+	religion="buddhist"
+	culture="sogdian"
+	father=166697
+	787.1.1={
+		birth=yes
+	}
+	849.1.1={
+		death=yes
+	}
+}
+166700 = {
+	name="Devadasa"
+	dynasty=1040058
+	religion="buddhist"
+	culture="sogdian"
+	father=166699
+	838.1.1={
+		birth=yes
+	}
+	902.1.1={
+		death=yes
+	}
+}
+166701 = {
+	name="Yena"
+	female=yes
+	dynasty=1040058
+	religion="buddhist"
+	culture="sogdian"
+	father=166699
+	844.1.1={
+		birth=yes
+	}
+	896.1.1={
+		death=yes
+	}
+}

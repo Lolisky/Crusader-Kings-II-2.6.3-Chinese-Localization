@@ -1,0 +1,3 @@
+1321.12.31 = { # This is needed for the capital change command in province history since we need to ensure the ownership of the new capital.
+	holder = 155258
+}

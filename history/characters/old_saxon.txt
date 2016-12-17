@@ -1,0 +1,290 @@
+190455 = {
+	name="提奥德里克" #"Theoderic" #duke of Saxony
+	dynasty=1044105 #Theodericing
+	religion="norse_pagan"
+	culture="old_saxon"
+	720.1.1={
+		birth=yes
+	}
+	781.1.1={
+		death=yes
+	}
+}
+190456 = {
+	name="魏克曼" #"Wichimann" #count of Altmark
+	dynasty=1044105 #Theodericing
+	religion="norse_pagan"
+	culture="old_saxon"
+	father=190455
+	741.1.1={
+		birth=yes
+	}
+	781.1.1={
+		death=yes
+	}
+}
+190457 = {
+	name="布鲁诺" #"Bruno" #count of Brauschweig and Celle
+	dynasty=669 #Liudolfing
+	religion="norse_pagan"
+	culture="old_saxon"
+	750.1.1={
+		birth=yes
+	}
+	803.1.1={
+		death=yes
+	}
+}
+190458 = {
+	name="埃克伯特" #"Ekbert"
+	dynasty=669 #Liudolfing
+	religion="norse_pagan"
+	culture="old_saxon"
+	father=190457
+	769.1.1={
+		birth=yes
+	}
+	801.1.1={
+		add_spouse=190448
+	}
+	836.1.1={
+		death=yes
+	}
+}
+190459 = {
+	name="瓦林" #"Warin" 
+	dynasty=669 #Liudolfing
+	religion="catholic"
+	culture="old_saxon"
+	father=190458
+	mother=190448
+	791.1.1={
+		birth=yes
+	}
+	856.9.20={
+		death=yes
+	}
+}
+190460 = {
+	name="鲁道夫" #"Liudolf"
+	dynasty=669 #Liudolfing
+	religion="norse_pagan"
+	culture="old_saxon"
+	father=190457
+	789.1.1={
+		birth=yes
+	}
+	805.1.1={
+		add_spouse=190469
+	}
+	851.6.27={
+		death=yes
+	}
+}
+190461 = {
+	name="博沃" #"Bovo"
+	dynasty=669 #Liudolfing
+	religion="catholic"
+	culture="old_saxon"
+	father=190457
+	801.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+190462 = {
+	name="比隆格" #"Billung" #count of Osnabruck
+	dynasty=656 #Billung
+	religion="norse_pagan"
+	culture="old_saxon"
+	721.1.1={
+		birth=yes
+	}
+	771.1.1={
+		death=yes
+	}
+}
+190463 = {
+	name="阿梅隆" #"Amelung" #count of Gottingen
+	dynasty=656 #Billung
+	religion="norse_pagan"
+	culture="old_saxon"
+	father=190462
+	741.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+190464 = {
+	name="本尼特" #"Bennit"
+	dynasty=656 #Billung
+	religion="norse_pagan"
+	culture="old_saxon"
+	father=190463
+	759.1.1={
+		birth=yes
+	}
+	814.1.1={
+		death=yes
+	}
+}
+190465 = {
+	name="埃诺" #"Enno"
+	dynasty=656 #Billung
+	religion="norse_pagan"
+	culture="old_saxon"
+	father=190463
+	768.1.1={
+		birth=yes
+	}
+	828.1.1={
+		death=yes
+	}
+}
+190466 = {
+	name="洛塔尔" #"Lothar" #count of Oldenburg
+	dynasty=661 #Udonen
+	religion="norse_pagan"
+	culture="old_saxon"
+	742.1.1={
+		birth=yes
+	}
+	791.1.1={
+		death=yes
+	}
+}
+190467 = {
+	name="乌多" #"Udo" #count of Oldenburg
+	dynasty=661 #Udonen
+	religion="norse_pagan"
+	culture="old_saxon"
+	father=190466
+	768.1.1={
+		birth=yes
+	}
+	837.1.1={
+		death=yes
+	}
+}
+190468 = {
+	name="里希弗里德" #"Richfrid" #count of Bremen
+	dynasty=1044106 #Richfriding
+	religion="norse_pagan"
+	culture="old_saxon"
+	741.1.1={
+		birth=yes
+	}
+	797.1.1={
+		death=yes
+	}
+}
+190469 = {
+	name=里希埃特"" #"Richeit" #wife of Liudolf
+	female=yes
+	dynasty=1044106 #Richfriding
+	religion="norse_pagan"
+	culture="old_saxon"
+	father=190468
+	788.1.1={
+		birth=yes
+	}
+	829.1.1={
+		death=yes
+	}
+}
+190470 = {
+	name="艾博" #"Abo" #count of Lubeck
+	dynasty=1044107 #Abonid
+	religion="norse_pagan"
+	culture="old_saxon"
+	751.1.1={
+		birth=yes
+	}
+	811.1.1={
+		death=yes
+	}
+}
+190471 = {
+	name="斯梅迪格斯" #"Smeldigoz" #count of Weimar
+	dynasty=1044108 #Smeldiging
+	religion="norse_pagan"
+	culture="old_saxon"
+	753.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+190472 = {
+	name="翁万" #"Unwan" #count of Munster
+	dynasty=1044109 #Unwanid
+	religion="norse_pagan"
+	culture="old_saxon"
+	749.1.1={
+		birth=yes
+	}
+	769.1.1={
+		add_spouse=190476
+	}
+	789.1.1={
+		death=yes
+	}
+}
+190473 = {
+	name="伯纳德" #"Bernard"
+	dynasty=1044109 #Unwanid
+	religion="norse_pagan"
+	culture="old_saxon"
+	father=190472
+	mother=190476
+	769.1.1={
+		birth=yes
+	}
+	823.1.1={
+		death=yes
+	}
+}
+190474 = {
+	name="海索" #"Hesso" #count of Holstein
+	dynasty=1044110 #Hessing
+	religion="norse_pagan"
+	culture="old_saxon"
+	737.1.1={
+		birth=yes
+	}
+	804.1.1={
+		death=yes
+	}
+}
+190475 = {
+	name="海索" #"Hesso"
+	dynasty=1044110 #Hessing
+	religion="norse_pagan"
+	culture="old_saxon"
+	father=190474
+	768.1.1={
+		birth=yes
+	}
+	846.1.1={
+		death=yes
+	}
+}
+190476 = {
+	name="吉塞拉" #"Gisela"
+	female=yes
+	dynasty=1044110 #Hessing
+	religion="norse_pagan"
+	culture="old_saxon"
+	father=190474
+	753.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}

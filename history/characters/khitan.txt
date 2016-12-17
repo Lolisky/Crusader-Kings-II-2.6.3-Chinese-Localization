@@ -1,0 +1,518 @@
+188905 = {
+	name="Yelü-Dashi"
+	dynasty=214009 # Qarakhitai, possibly of the Liao dynasty or just a general
+	religion=buddhist
+	culture=khitan
+	trait=mahayana_buddhist
+	1087.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		add_spouse=188906
+	}
+	1143.1.1={
+		death=yes
+	}
+}
+
+188906 = {
+	name="Tabuyan"
+	female=yes
+	religion=buddhist
+	culture=khitan
+	trait=mahayana_buddhist
+	1110.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		death=yes
+	}
+}
+
+188907 = {
+	name="Yelü-Yilie" # or Renzong
+	dynasty=214009 # Qarakhitai
+	religion=buddhist
+	culture=khitan
+	father=188905
+	mother=188906
+	trait=mahayana_buddhist
+	1134.1.1={
+		birth=yes
+	}
+	1163.1.1={
+		death=yes
+	}
+}
+
+188908 = {
+	name="Pusuwan"
+	female=yes
+	dynasty=214009 # Qarakhitai
+	religion=buddhist
+	culture=khitan
+	father=188905
+	mother=188906
+	trait=mahayana_buddhist
+	1140.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		add_spouse = 188910
+	}
+	1177.1.1={
+		death=yes
+	}
+}
+
+188909 = {
+	name="Wolila"
+	dynasty=214010 
+	religion=buddhist
+	culture=khitan
+	trait=mahayana_buddhist
+	1120.1.1={
+		birth=yes
+	}
+	1185.1.1={
+		death=yes
+	}
+}
+
+188910 = {
+	name="Duolubu"
+	dynasty=214010 
+	religion=buddhist
+	culture=khitan
+	father=188909
+	trait=mahayana_buddhist
+	1139.1.1={
+		birth=yes
+	}
+	1190.1.1={
+		death=yes
+	}
+}
+
+188911 = {
+	name="Fuguzhi"
+	dynasty=214010 
+	religion=buddhist
+	culture=khitan
+	father=188909
+	trait=mahayana_buddhist
+	1142.1.1={
+		birth=yes
+	}
+	1177.1.1={
+		death=yes
+	}
+}
+
+188912 = {
+	name="Yelü-Zhilugu"
+	dynasty=214009
+	religion=buddhist
+	culture=khitan
+	father=188910
+	mother=188908
+	trait=mahayana_buddhist
+	1165.1.1={
+		birth=yes
+	}
+	1213.1.1={
+		death=yes
+	}
+}
+
+188913 = {
+	name="Sokhatai" # name made up
+	female=yes
+	dynasty=214009
+	religion=buddhist
+	culture=khitan
+	father=188912
+	trait=mahayana_buddhist
+	1190.1.1={
+		birth=yes
+	}
+	1218.1.1={
+		death=yes
+	}
+}
+194325 = {
+	name="Abaoji"  # Taizu
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	872.6.6 = {
+		birth = yes
+	}
+	926.9.6 = {
+		death = yes
+	}
+}
+194326 = {  # Taizong
+	name="Deguang"
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	father=194325
+	902.11.25 = {
+		birth = yes
+	}
+	947.5.15 = {
+		death = yes
+	}
+}
+194327 = {
+	name="Bei"
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	father=194325
+	899.6.6 = {
+		birth = yes
+	}
+	937.1.7 = {
+		death = yes
+	}
+}
+194328 = {
+	name="Ruan"  # Shizong
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	father=194327
+	919.1.29 = {
+		birth = yes
+	}
+	951.10.7 = {
+		death = yes
+	}
+}
+194329 = {
+	name="Jing"  # Muzong
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	father=194326
+	trait=drunkard
+	trait=lustful
+	trait=hedonist
+	931.9.19 = {
+		birth = yes
+	}
+	969.3.12 = {
+		death = yes
+	}
+}
+194330 = {
+	name="Xian"  # Jingzong
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	father=194328
+	948.9.1 = {
+		birth = yes
+	}
+	982.10.13 = {
+		death = yes
+	}
+}
+194331 = {
+	name="Longxu"  # Shengzong
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	father=194330
+	972.1.16 = {
+		birth = yes
+	}
+	1031.6.25 = {
+		death = yes
+	}
+}
+194332 = {
+	name="Zongzhen"  # Xingzong
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	father=194331
+	1016.4.3 = {
+		birth = yes
+	}
+	1055.8.28 = {
+		death = yes
+	}
+}
+194333 = {
+	name="Hongji"  # Daozong
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	father=194332
+	1032.9.14 = {
+		birth = yes
+	}
+	1101.2.12 = {
+		death = yes
+	}
+}
+194401 = {
+	name="Jun"
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	father=194333
+	mother=194402
+	1057.5.5 = {
+		birth = yes
+	}
+	1077.6.6 = {
+		death = yes
+	}
+}
+194402 = {
+	name="Xuan Yi"
+	female=yes
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	1040.5.5 = {
+		birth = yes
+	}
+	1075.6.6 = {
+		death = yes
+	}
+}
+194334 = {
+	name="Yanxi"  # Tianzuo
+	dynasty=1045082 # Liao Dynasty
+	religion="buddhist"
+	culture=khitan
+	father=194401
+	1075.6.5 = {
+		birth = yes
+	}
+	1128.6.6 = {
+		death = yes
+	}
+}
+217176 = {
+	name = "Dashi" # fictional
+	dynasty = 1051111 # Yuzhi
+	religion = buddhist
+	culture = khitan
+	1014.5.9 = {
+		birth = yes
+	}
+	1031.4.19 = {
+		add_spouse = 217177
+	}
+	1065.9.12 = {
+		death = yes
+	}
+}
+217177 = {
+	name = "Dianni" # fictional
+	religion = buddhist
+	culture = khitan
+	female = yes
+	1012.11.4 = {
+		birth = yes
+	}
+	1059.6.12 = {
+		death = yes
+	}
+}
+217178 = {
+	name = "Yilie" # fictional
+	dynasty = 1051111 # Yuzhi
+	religion = buddhist
+	culture = khitan
+	father = 217176
+	mother = 217177
+	1033.6.10 = {
+		birth = yes
+	}
+	1092.5.12 = {
+		death = yes
+	}
+}
+217179 = {
+	name = "Shulü-Ping" # fictional
+	dynasty = 1051111 # Yuzhi
+	religion = buddhist
+	culture = khitan
+	father = 217176
+	mother = 217177
+	female = yes
+	1038.3.3 = {
+		birth = yes
+	}
+	1099.8.26 = {
+		death = yes
+	}
+}
+217180 = {
+	name = "Zongzhen" # fictional
+	dynasty = 1051111 # Yuzhi
+	religion = buddhist
+	culture = khitan
+	father = 217176
+	mother = 217177
+	1042.12.22 = {
+		birth = yes
+	}
+	1120.2.9 = {
+		death = yes
+	}
+}
+217181 = {
+	name = "Wenshunu" # fictional
+	dynasty = 1051112 # Wanyan
+	religion = buddhist
+	culture = khitan
+	1006.5.24 = {
+		birth = yes
+	}
+	1031.6.10 = {
+		add_spouse = 217182
+	}
+	1052.10.7 = {
+		death = yes
+	}
+}
+217182 = {
+	name = "Pusuwan" # fictional
+	religion = buddhist
+	culture = khitan
+	female = yes
+	1014.5.16 = {
+		birth = yes
+	}
+	1079.3.19 = {
+		death = yes
+	}
+}
+217183 = {
+	name = "Cuiba" # fictional
+	dynasty = 1051112 # Wanyan
+	religion = buddhist
+	culture = khitan
+	female = yes
+	father = 217181
+	mother = 217182
+	1035.6.10 = {
+		birth = yes
+	}
+	1103.7.11 = {
+		death = yes
+	}
+}
+217184 = {
+	name = "Yingtian" # fictional
+	dynasty = 1051112 # Wanyan
+	religion = buddhist
+	culture = khitan
+	female = yes
+	father = 217181
+	mother = 217182
+	1041.11.27 = {
+		birth = yes
+	}
+	1109.10.14 = {
+		death = yes
+	}
+}
+217185 = {
+	name = "Gou'er" # fictional
+	dynasty = 1051112 # Wanyan
+	religion = buddhist
+	culture = khitan
+	father = 217181
+	mother = 217182
+	1039.2.12 = {
+		birth = yes
+	}
+	1093.2.17 = {
+		death = yes
+	}
+}
+166795 = {
+	name="Tiande"
+	dynasty=1045087
+	religion="buddhist"
+	culture="khitan"
+	730.1.1={
+		birth=yes
+	}
+	789.1.1={
+		death=yes
+	}
+}
+
+217335 = {
+	name = Dashi # fictional
+	dynasty = 1051111 # Yuzhi
+	religion = buddhist
+	culture = khitan
+	father = 217178
+	
+	1068.4.17 = {
+		birth = yes
+	}
+	
+	1110.6.5 = {
+		death = yes
+	}
+}
+
+217336 = {
+	name = Yanxi # fictional
+	dynasty = 1051111 # Yuzhi
+	religion = buddhist
+	culture = khitan
+	father = 217335
+	
+	1094.10.5 = {
+		birth = yes
+	}
+	
+	1131.4.16 = {
+		death = yes
+	}
+}
+
+217337 = {
+	name = "Duolubu" # fictional
+	dynasty = 1051112 # Wanyan
+	religion = buddhist
+	culture = khitan
+	father = 217185
+	
+	1062.2.4 = {
+		birth = yes
+	}
+	
+	1106.6.8 = {
+		death = yes
+	}
+}
+
+217338 = {
+	name = "Tiande" # fictional
+	dynasty = 1051112 # Wanyan
+	religion = buddhist
+	culture = khitan
+	father = 217337
+	
+	1089.11.17 = {
+		birth = yes
+	}
+	
+	1130.5.10 = {
+		death = yes
+	}
+}

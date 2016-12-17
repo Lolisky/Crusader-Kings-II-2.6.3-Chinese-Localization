@@ -1,0 +1,70 @@
+750.1.1 = {
+	liege="k_france"
+	holder = 91476 #Australdis, historical placeholder
+}
+853.1.1={
+	liege="d_anjou"
+	holder = 6440 #Robert le fort
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+866.7.2={
+	holder = 168041
+}
+989.1.1={
+	liege="d_normandy"
+	holder=260 #Robert le Danois
+}
+1037.1.1={
+	holder=20112 #Richard d'Évreux
+}
+1067.1.1={
+	holder=10016 #Guillaume d'Évreux
+}
+1118.1.1={
+	holder=41222 #Amaury III de Montfort
+}
+1137.1.1={
+	holder=91201 #Amaury IV
+}
+1140.1.1={
+	holder=205822 #Simon III de Montfort
+}
+1181.1.1={
+	holder=205821 #Amaury V de Montfort
+}
+1182.1.1={
+	holder=205820 #Amaury VI de Montfort
+}
+1195.1.1={
+	holder = 204514 #Jean I Sans Terre
+}
+1200.1.1={
+	liege="k_france"
+	holder=205506 # Philippe II Auguste
+}
+1204.1.1={
+	liege="d_normandy"
+}
+1212.1.1={
+	holder=91030 #Philippe Hurepel
+}
+1223.7.14={
+	holder = 455402 #Louis VIII le Lion
+}
+1226.11.8={
+	holder = 455404 #Louis IX (saint Louis)
+}
+1270.8.25={
+	holder = 455528 # Philippe III le Hardi
+}
+1285.10.5={
+	holder = 455526 # Philippe IV le Bel
+}
+1298.1.1={
+	holder=455811 #Louis de France
+}
+1319.5.19={
+	liege="k_navarra"
+	holder=455810 #Philippe d'Évreux
+}

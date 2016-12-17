@@ -1,0 +1,118 @@
+741.1.1={
+	holder = 189005
+}
+866.1.1=
+{
+	holder = 175010
+}
+
+# Chola conquest
+993.1.1={
+	holder = 189038
+	liege = k_tamilakam
+}
+1014.1.1={
+	holder = 189039
+}
+1044.1.1={
+	holder = 189040
+}
+1054.1.1={
+	holder = 189041
+}
+1063.1.1={
+	holder = 189042
+}
+1067.1.1={
+	holder = 189043
+}
+1070.1.1={
+	holder = 189108
+}
+
+# Sinhalese rebellion
+1070.6.6 = {
+	holder = 189029
+	liege = 0
+}
+1072.1.1 = {
+	liege = k_lanka
+}
+1110.1.1 = {
+	holder = 189031 # Jayabahu I
+}
+1111.1.1 = {
+	holder = 189030 # Vikramabahu I
+}
+1131.1.1 = {
+	holder = 217365 # Gajabahu II
+}
+1153.1.1 = {
+	holder = 217366 # Parakramabahu I 'The Great'
+}
+1186.1.1 = {
+	holder = 217375 # Vijayabahu II
+}
+1187.6.1 = {
+	holder = 217376 # Mahinda VI
+}
+1187.6.6 = {
+	holder = 217377 # Nissanka
+}
+1196.4.3 = {
+	holder = 217379 # Virabahu
+}
+1196.4.4 = {
+	holder = 217391 # Vikramabahu II
+}
+1196.7.1 = {
+	holder = 217380 # Chodaganga
+}
+1197.4.1 = {
+	holder = 217371 # Lilavati 1st time
+}
+1200.8.23 = {
+	holder = 217383 # Sahassamalla
+}
+1202.1.1 = {
+	holder = 217382 # Kalyanavati
+}
+1208.1.1 = {
+	holder = 217384 # Dharmasoka
+}
+1209.4.5 = {
+	holder = 217385 # Anikanga
+}
+1209.4.22 = {
+	holder = 217371 # Lilavati 2nd time
+}
+1210.1.1 = {
+	holder = 217390 # Lokissara
+}
+1210.10.1 = {
+	holder = 217371 # Lilavati 3rd time
+}
+# Pandyan conquest
+1212.1.1={
+	holder = 189128
+	liege = d_sinhala
+}
+# Kingdom of Jaffna
+1215.1.1={
+	holder = 189141
+}
+1236.1.1={
+	holder = 189142
+}
+1284.1.1={
+	holder = 189143
+}
+1292.1.1={
+	holder = 189144
+}
+1302.1.1={
+	holder = 189145
+}
+1325.1.1={
+	holder = 189146
+}

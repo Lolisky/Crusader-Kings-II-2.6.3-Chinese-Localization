@@ -1,0 +1,115 @@
+440.1.1={
+	holder=205026 # Hengist
+}
+460.1.1={
+	holder=205027 # Horsa
+}
+500.1.1={
+	holder=205028 # Oisc
+}
+516.1.1={
+	holder=205029 # Octa
+}
+540.1.1={
+	holder=205030 # Eormenric
+}
+590.1.1={
+	holder=205031 # Æthelberht I
+}
+616.2.24={
+	holder=205032 # Eadbald
+}
+640.1.28 = {
+	holder = 205036 # Eorcenberht
+}
+664.7.1={
+	holder=205039 # Ecgberht I
+}
+673.1.1={
+	holder=205040 # Hlothere
+}
+685.1.1={
+	holder=205041 # Eadric
+}
+686.8.1={
+	holder=205160 # Mul of Kent
+}
+687.1.1={ #693.1.1={
+	holder=205043 # Wihtraed
+}
+725.1.1={
+	holder=205045 # Eadberht I
+}
+748.1.1={
+	holder = 205044 # Aethelberht II
+}
+762.1.1={
+	holder=205047 # Eardwulf
+}
+763.1.1={
+	holder=205048 # Eadberht II
+}
+765.1.1={
+	holder=205049 # Ecgberht II
+}
+796.1.1={
+	holder=205050 # Eadberht III
+}
+
+865.1.1={
+	liege="k_england"
+	holder=33358 
+}
+
+1066.1.1={
+	liege="d_canterbury"
+}
+1066.1.5={
+	holder=130
+}
+1066.10.14={
+	liege="k_england"
+	holder=148
+}
+1088.7.1={
+	holder = 146
+}
+1100.8.3= {
+	holder = 202992
+} 
+1135.12.2={
+	holder = 31128
+}
+1155.1.1={
+	holder = 204500
+}
+1189.7.6={
+	holder = 204510
+}
+1199.4.6={
+	holder = 204514
+}
+1216.10.28={
+	holder = 144237
+}
+1227.1.1={
+	holder = 7458
+}
+1243.5.5={
+	holder = 454522
+}
+1272.11.16={
+	holder = 454520
+}
+1307.1.2 = {
+	holder = 454510
+}
+1321.7.28={
+   holder = 454511 # Edmund of Woodstock
+}
+1330.3.19={
+   holder = 183076 # Edmund, 2nd Earl of Kent
+}
+1331.10.2={
+   holder=454513 # John of Kent
+}

@@ -1,0 +1,64 @@
+711.1.1={
+	liege=0 # not fully conquered by Abbasids
+}
+
+762.1.1={
+	holder=188573 # Kaikanites
+}
+
+860.1.1={
+	liege = k_sindh
+	holder = 178018
+}
+
+## To be filled
+
+1182.1.1={
+	holder = 144142
+	liege=d_kabul
+}
+1186.1.1={
+	liege=k_sindh
+}
+1203.1.1={
+	liege=e_rajastan
+}
+1206.3.15=
+{
+	holder = 144143
+	liege=0
+}
+#Khwazerim
+#Kartids
+1212.1.1=
+{
+	liege="k_persia"
+	holder = 93153
+}
+
+
+1221.1.1={
+	liege="e_mongol_empire"
+}
+1227.12.2={
+	liege="e_il-khanate"
+}
+1245.1.1={
+	holder = 93154
+}
+1277.1.1={
+	holder = 93155
+}
+1295.1.1={
+	holder = 93156
+}
+1308.1.1={
+	holder = 93157
+}
+1330.1.1={
+	holder = 93158
+}
+1332.1.1={
+	liege=0
+	holder = 93159
+}

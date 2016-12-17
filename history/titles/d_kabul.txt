@@ -1,0 +1,92 @@
+687.1.1={
+	liege=0
+	holder = 188717 # Khorasan Tegin Shah
+}
+740.1.1={
+	holder = 188718 # Phrom Kesar Nandin of Kabul Shahi
+}
+745.1.1={
+	holder = 188565 # Bo-Fuzun Nandin of Kabul Shahi
+}
+
+866.1.1={
+	holder = 175060 # Kallar Shahi
+}
+
+961.1.1={
+	holder=170303 #Took Ghazna from Lawiks
+}
+975.1.1={
+	holder=170304
+}
+977.1.1 = {
+	liege=k_afghanistan
+	holder = 144123 # Sabuktigin Ghaznavid
+}
+997.1.1={
+	holder = 144124 # Ismail
+}
+998.1.1={
+	holder = 144125 # Mahmud
+}
+1030.1.1={
+	holder = 144126 # Muhammad
+}
+1031.1.1={
+	holder = 144127 # Musud
+}
+1041.1.1={
+	holder = 144128 # Mawdud
+}
+1050.1.1={
+	holder = 144129 # Masud
+}
+1050.6.1={
+	holder = 144130 # Ali
+}
+1050.9.1={
+	holder = 144131 # Abd al-Rashid
+}
+1053.1.1={
+	holder = 144132 # Farrukhzad
+}
+1059.1.1={
+	holder = 144133 # Ibrahim
+}
+1099.1.1={
+	holder = 144134 # Masud II
+}
+1115.1.1={
+	holder = 144135 # Shirzad
+}
+1115.6.1={
+	holder = 144136 # Arlsan Shah
+}
+1118.1.1={
+	liege=k_persia # Seljuk vassalage
+	holder = 144137 # Bahram Shah
+}
+1152.1.1={
+	holder = 144138 # Khusraw Shah
+}
+1157.5.8={
+	liege = 0 # end of the Seljuk Turks
+}
+1160.1.1={
+	holder = 144139 # Khusraw Malik
+}
+1173.1.1={
+	liege=k_afghanistan
+	holder=144142 # Mu'izz Ghurid
+}
+1203.1.1={
+	liege=e_rajastan
+}
+1206.3.15={
+	holder = 170302
+	liege=k_afghanistan
+}
+1216.2.15={
+	holder = 0
+	liege = 0
+}

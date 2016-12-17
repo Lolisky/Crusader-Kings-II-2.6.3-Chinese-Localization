@@ -1,0 +1,207 @@
+6855 = {
+	name="ÅÁÈø"
+	religion=finnish_pagan
+	culture=komi
+	dynasty=1042196
+	father=188864
+	840.1.1={
+		birth=yes
+	}
+	891.1.1={
+		death=yes
+	}
+}
+
+161725 = {
+	name="ÎÚÀ­¿¨"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161724
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+161726 = {
+	name="´º¸Â"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161725
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+161727 = {
+	name="ÍÁ¸É"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161726
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+161728 = {
+	name="ÄáÂŞ¸ñ"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161727
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+161729 = {
+	name="ÈøÒò"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161728
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+
+159734 = {
+	name="²¼¶ûÄªÌØ"
+	dynasty=1029125
+	religion="finnish_pagan"
+	culture="komi"
+	father=188806
+	841.1.1={
+		birth=yes
+	}
+	911.1.1={
+		death=yes
+	}
+}
+
+188803 = {
+	name="Å·Ä¦Ëş¸ñ" # fictitious
+	dynasty=1029125
+	religion="finnish_pagan"
+	culture="komi"
+	738.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188804 = {
+	name="Å·Ä¦Ëş¸ñ" # fictitious
+	dynasty=1029125
+	religion="finnish_pagan"
+	culture="komi"
+	father=188803
+	765.1.1={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+
+188805 = {
+	name="Å·Ä¦Ëş¸ñ" # fictitious
+	dynasty=1029125
+	religion="finnish_pagan"
+	culture="komi"
+	father=188804
+	790.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+
+188806 = {
+	name="Å·Ä¦Ëş¸ñ" # fictitious
+	dynasty=1029157
+	religion="tengri_pagan"
+	culture="bolghar"
+	father=188805
+	812.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+188861 = {
+	name="Å¬ÑïÔú" # fictitious
+	dynasty=1042196
+	religion=finnish_pagan
+	culture=komi
+	738.1.1={
+		birth=yes
+	}
+	798.1.1={
+		death=yes
+	}
+}
+
+188862 = {
+	name="³àÅÁÔú" # fictitious
+	dynasty=1042196
+	religion=finnish_pagan
+	culture=komi
+	father=188861
+	765.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+
+188863 = {
+	name="ÈüÌØÑÇ¿¨" # fictitious
+	dynasty=1042196
+	religion=finnish_pagan
+	culture=komi
+	father=188862
+	790.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+188864 = {
+	name="ÍßÂüÅÁÔú" # fictitious
+	dynasty=1042196
+	religion=finnish_pagan
+	culture=komi
+	father=188863
+	815.1.1={
+		birth=yes
+	}
+	862.1.1={
+		death=yes
+	}
+}

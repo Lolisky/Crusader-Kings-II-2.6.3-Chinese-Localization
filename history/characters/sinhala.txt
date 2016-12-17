@@ -1,0 +1,1333 @@
+175010 = {
+	name="Sena" # Sena II 
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189011
+	trait=kshatriya
+	trait=theravada_buddhist
+	830.1.1={
+		birth=yes
+	}
+	901.1.1={
+		death=yes
+	}
+}
+
+189000 = {
+	name="Manavanna" #
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	650.1.1={
+		birth="650.1.1"
+	}
+	726.1.1={
+		death="726.1.1"
+	}
+}
+
+189001 = {
+	name="Aggabodhi" #V
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189000
+	trait=kshatriya
+	trait=theravada_buddhist
+	670.1.1={
+		birth="670.1.1"
+	}
+	732.1.1={
+		death="732.1.1"
+	}
+}
+
+189002 = {
+	name="Kassapa" #III
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189000
+	trait=kshatriya
+	trait=theravada_buddhist
+	675.1.1={
+		birth="675.1.1"
+	}
+	738.1.1={
+		death="738.1.1"
+	}
+}
+
+189003 = {
+	name="Mahinda" #I
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189000
+	trait=kshatriya
+	trait=theravada_buddhist
+	680.1.1={
+		birth="680.1.1"
+	}
+	741.1.1={
+		death="741.1.1"
+	}
+}
+
+189004 = {
+	name="Aggabodhi" #VII
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189003
+	trait=kshatriya
+	trait=theravada_buddhist
+	710.1.1={
+		birth="710.1.1"
+	}
+	787.1.1={
+		death="787.1.1"
+	}
+}
+
+189005 = {
+	name="Aggabodhi" #VI
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189002
+	trait=kshatriya
+	trait=theravada_buddhist
+	705.1.1={
+		birth="705.1.1"
+	}
+	781.1.1={
+		death="781.1.1"
+	}
+}
+
+189006 = {
+	name="Mahinda" #II
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189005
+	trait=kshatriya
+	trait=theravada_buddhist
+	730.1.1={
+		birth="730.1.1"
+	}
+	807.1.1={
+		death="807.1.1"
+	}
+}
+
+189007 = {
+	name="Dappula" #II
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189006
+	trait=kshatriya
+	trait=theravada_buddhist
+	750.1.1={
+		birth="750.1.1"
+	}
+	812.1.1={
+		death="812.1.1"
+	}
+}
+
+189008 = {
+	name="Mahinda" #III
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189007
+	trait=kshatriya
+	trait=theravada_buddhist
+	770.1.1={
+		birth="770.1.1"
+	}
+	816.1.1={
+		death="816.1.1"
+	}
+}
+
+189009 = {
+	name="Aggabodhi" #VIII
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189007
+	trait=kshatriya
+	trait=theravada_buddhist
+	775.1.1={
+		birth="775.1.1"
+	}
+	827.1.1={
+		death="827.1.1"
+	}
+}
+
+189010 = {
+	name="Dappula" #III
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189007
+	trait=kshatriya
+	trait=theravada_buddhist
+	780.1.1={
+		birth="780.1.1"
+	}
+	843.1.1={
+		death="843.1.1"
+	}
+}
+
+189011 = {
+	name="Kassapa" #
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189007
+	trait=kshatriya
+	trait=theravada_buddhist
+	790.1.1={
+		birth="790.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+189012 = {
+	name="Aggabodhi" #IX
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189010
+	trait=kshatriya
+	trait=theravada_buddhist
+	800.1.1={
+		birth="800.1.1"
+	}
+	846.1.1={
+		death="846.1.1"
+	}
+}
+
+189013 = {
+	name="Sena" #I
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189010
+	trait=kshatriya
+	trait=theravada_buddhist
+	805.1.1={
+		birth="805.1.1"
+	}
+	866.1.1={
+		death="866.1.1"
+	}
+}
+
+189014 = {
+	name="Udaya" # I
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189011
+	trait=kshatriya
+	trait=theravada_buddhist
+	835.1.1={
+		birth="835.1.1"
+	}
+	912.1.1={
+		death="912.1.1"
+	}
+}
+189015 = {
+	name="Kassapa" # IV 
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=175010
+	trait=kshatriya
+	trait=theravada_buddhist
+	850.1.1={
+		birth="850.1.1"
+	}
+	929.1.1={
+		death="929.1.1"
+	}
+}
+
+189016 = {
+	name="Udaya" # II
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189014
+	trait=kshatriya
+	trait=theravada_buddhist
+	880.1.1={
+		birth="880.1.1"
+	}
+	955.1.1={
+		death="955.1.1"
+	}
+}
+189017 = {
+	name="Sena" # III
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189014
+	trait=kshatriya
+	trait=theravada_buddhist
+	885.1.1={
+		birth="885.1.1"
+	}
+	964.1.1={
+		death="964.1.1"
+	}
+}
+189018 = {
+	name="Sena" # III
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189014
+	trait=kshatriya
+	trait=theravada_buddhist
+	890.1.1={
+		birth="890.1.1"
+	}
+	972.1.1={
+		death="972.1.1"
+	}
+}
+189019 = {
+	name="Kassapa" # V
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189015
+	trait=kshatriya
+	trait=theravada_buddhist
+	866.1.1={
+		birth="866.1.1"
+	}
+	939.1.1={
+		death="939.1.1"
+	}
+}
+
+189020 = {
+	name="Dappula" # IV
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189019
+	trait=kshatriya
+	trait=theravada_buddhist
+	885.1.1={
+		birth="885.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+189021 = {
+	name="Dappula" # V
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189019
+	trait=kshatriya
+	trait=theravada_buddhist
+	890.1.1={
+		birth="890.1.1"
+	}
+	952.1.1={
+		death="952.1.1"
+	}
+}
+
+189022 = {
+	name="Sena" # IV
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189019
+	trait=kshatriya
+	trait=theravada_buddhist
+	900.1.1={
+		birth="900.1.1"
+	}
+	975.1.1={
+		death="975.1.1"
+	}
+}
+
+189023 = {
+	name="Mahinda" # IV
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189019
+	trait=kshatriya
+	trait=theravada_buddhist
+	910.1.1={
+		birth="910.1.1"
+	}
+	991.1.1={
+		death="991.1.1"
+	}
+}
+
+189024 = {
+	name="Sena" # V
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189023
+	trait=kshatriya
+	trait=theravada_buddhist
+	940.1.1={
+		birth="940.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+
+189025 = {
+	name="Mahinda" # V
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189023
+	trait=kshatriya
+	trait=theravada_buddhist
+	950.1.1={
+		birth="950.1.1"
+	}
+	1029.1.1={
+		death="1029.1.1"
+	}
+}
+
+189026 = {
+	name="Vikramabahu" # 
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189025
+	trait=kshatriya
+	trait=theravada_buddhist
+	980.1.1={
+		birth="980.1.1"
+	}
+	1035.1.1={
+		death="1035.1.1"
+		name="Kassapa" # VI
+	}
+}
+
+189027 = {
+	name="Moggallanna" # III
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	father=189026
+	trait=kshatriya
+	trait=theravada_buddhist
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+
+189028 = {
+	name="Kassapa" # VII
+	dynasty=1043001
+	religion="buddhist"
+	culture="sinhala"
+	father=189026
+	trait=kshatriya
+	trait=theravada_buddhist
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1056.1.1={
+		death="1056.1.1"
+	}
+}
+
+189029 = {
+	name="Kitti" # Kirti
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	father=189027
+	#mother=daughter of Jagatipala
+	trait=kshatriya
+	trait=theravada_buddhist
+	health = 6
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1056.1.1={
+		name="Vijayabahu"
+		trait="brilliant_strategist" 
+		trait="just" 
+		trait="zealous"
+		trait="ambitious"
+		trait="strong"
+	}
+	1066.1.1 = {
+		add_claim = c_kotthasara
+		add_claim = c_dakhina_desa
+		add_claim = c_phiti
+		add_claim = c_nagadipa
+		effect = {
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 21
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 27
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			spawn_unit = {
+				province = 1279 # Rohana
+				owner = ROOT
+				troops = {
+					light_infantry = { 1454 1454 }
+					heavy_infantry = { 637 637 }
+					archers = { 1012 1012 }
+					pikemen = { 389 389 }
+					war_elephants = { 47 47 }
+				}
+				disband_on_peace = yes
+			}
+			spawn_unit = {
+				province = 1279 # Rohana
+				owner = ROOT
+				troops = {
+					light_infantry = { 1454 1454 }
+					heavy_infantry = { 637 637 }
+					archers = { 1012 1012 }
+					pikemen = { 389 389 }
+					war_elephants = { 47 47 }
+				}
+				disband_on_peace = yes
+			}
+			spawn_unit = {
+				province = 1279 # Rohana
+				owner = ROOT
+				troops = {
+					light_infantry = { 1454 1454 }
+					heavy_infantry = { 637 637 }
+					archers = { 1012 1012 }
+					pikemen = { 389 389 }
+					war_elephants = { 47 47 }
+				}
+			}
+			spawn_unit = {
+				province = 1279 # Rohana
+				owner = ROOT
+				troops = {
+					light_infantry = { 1454 1454 }
+					heavy_infantry = { 637 637 }
+					archers = { 1012 1012 }
+					pikemen = { 389 389 }
+					war_elephants = { 47 47 }
+				}
+				disband_on_peace = yes
+			}
+			spawn_unit = {
+				province = 1279 # Rohana
+				owner = ROOT
+				troops = {
+					light_infantry = { 1454 1454 }
+					heavy_infantry = { 637 637 }
+					archers = { 1012 1012 }
+					pikemen = { 389 389 }
+					war_elephants = { 47 47 }
+				}
+				disband_on_peace = yes
+			}
+			spawn_unit = {
+				province = 1279 # Rohana
+				owner = ROOT
+				troops = {
+					light_infantry = { 1454 1454 }
+					heavy_infantry = { 637 637 }
+					archers = { 1012 1012 }
+					pikemen = { 389 389 }
+					war_elephants = { 47 47 }
+				}
+			}
+		}
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+189030 = {
+	name="Vikramabahu" # I
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	father=189029
+	trait=kshatriya
+	trait=theravada_buddhist
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+}
+
+189031 = {
+	name="Jayabahu" # II
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	father=189027
+	#mother=daughter of Jagatipala
+	trait=kshatriya
+	trait=theravada_buddhist
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+189032 = {
+	name="Atitta" #Aditya
+	dynasty=1043008
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=175080
+	850.1.1={
+		birth=yes
+	}
+	877.1.1={
+		add_spouse=74419
+	}
+	907.1.1={
+		death=yes
+	}
+}
+
+189151 = {
+	name="Dharmavantha" #
+	dynasty=1029192
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189156
+	830.1.1={
+		birth="830.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+189152 = {
+	name="Vijaya" #
+	dynasty=1029192
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189151
+	mother=175105
+	850.1.1={
+		birth="850.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+189166 = {
+	name="Aditya" #
+	dynasty=1029192
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189151
+	mother=175105
+	851.1.1={
+		birth="851.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+189165 = {
+	name="Ananda" #
+	dynasty=1029192
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189151
+	mother=175105
+	852.1.1={
+		birth="852.1.1"
+	}
+	915.1.1={
+		death="915.1.1"
+	}
+}
+189153 = {
+	name="Kitti" #
+	dynasty=1029192
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189151
+	mother=175105
+	853.1.1={
+		birth="853.1.1"
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+189154 = {
+	name="Aditya" #Sorudasaruna Aditya
+	dynasty=1029192
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	760.1.1={
+		birth="760.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+189155 = {
+	name="Dappula" #
+	dynasty=1029192
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189154
+	780.1.1={
+		birth="780.1.1"
+	}
+	833.1.1={
+		death="833.1.1"
+	}
+}
+189156 = {
+	name="Mahanaga" #
+	dynasty=1029192
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189155
+	800.1.1={
+		birth="800.1.1"
+	}
+	866.1.1={
+		death="866.1.1"
+	}
+}
+189157 = {
+	name="Mahasena" #
+	dynasty=1029192
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189153
+	900.1.1={
+		birth="900.1.1"
+	}
+	954.1.1={
+		death="954.1.1"
+	}
+}
+189158 = {
+	name="Dharmavantha" #
+	dynasty=1029192
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189157
+	940.1.1={
+		birth="940.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+189159 = {
+	name="Damanhar" #
+	dynasty=1029192
+	female=yes
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189158
+	964.1.1={
+		birth="964.1.1"
+	}
+	990.1.1={
+		add_spouse=189160
+	}
+	1023.1.1={
+		death="1023.1.1"
+	}
+}
+
+175105 = {
+	name="Sivali" # 
+	dynasty=1043015
+	female=yes
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	834.1.1={
+		birth="834.1.1"
+	}
+	883.1.1={
+		death="883.1.1"
+	}
+}
+
+189160 = {
+	name="Baladitya" #
+	dynasty=1029191
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	#father=Kalinga descent; Eastern Ganga dynasty?
+	960.1.1={
+		birth="960.1.1"
+	}
+	990.1.1={
+		add_spouse=189159
+	}
+	1021.1.1={
+		death="1021.1.1"
+	}
+}
+189161 = {
+	name="Lokabarana" #
+	dynasty=1029191
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189160
+	mother=189159
+	990.1.1={
+		birth="990.1.1"
+	}
+	1055.1.1={
+		death="1055.1.1"
+	}
+}
+189162 = {
+	name="Mahasandura" #
+	dynasty=1029191
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189161
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1084.1.1={
+		death="1084.1.1"
+	}
+}
+189163 = {
+	name="Ananda" # Bovana Ananda
+	dynasty=1029191
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189162
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+189164 = {
+	name="Koimala" #
+	dynasty=1029191
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=189163
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+
+217365 = {
+	name = Gajabahu
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	father=189030
+	trait=kshatriya
+	trait=theravada_buddhist
+	1090.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		death="1132.1.1"
+	}
+}
+217366 = {
+	name = Parakramabahu
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	father=217367
+	mother=217372
+	trait=kshatriya
+	trait=theravada_buddhist
+	trait = ambitious
+	trait = intricate_webweaver
+	trait = administrator
+	
+	martial = 8
+	stewardship = 7
+	intrigue = 7
+	
+	1123.1.1 = {
+		birth = yes
+	}
+	1186.1.1 = {
+		death = yes
+	}
+}
+217367 = {
+	name = Manabharana
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	mother = 217369
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1080.1.1 = { birth = yes }
+	1113.1.1 = { add_spouse = 217372 }
+	1125.1.1 = { death = yes }
+}
+217368 = {
+	name = Kittisrimegha
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	mother = 217369
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1083.1.1 = { birth = yes }
+	1140.1.1 = { death = yes }
+}
+217369 = {
+	name = Mitta
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	father = 189027
+	trait=kshatriya
+	trait=theravada_buddhist
+	female = yes
+	1040.1.1 = { birth = yes }
+	1090.1.1 = { death = yes }
+}
+217370 = {
+	name = Srivallabha
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	mother = 217369
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1085.1.1 = { birth = yes }
+	1138.1.1 = { death = yes }
+}
+217371 = {
+	name = Lilavati
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	father = 217370
+	trait=kshatriya
+	trait=theravada_buddhist
+	female = yes
+	
+	1126.1.1 = { birth = yes }
+	1215.1.1 = { death = yes }
+}
+217372 = {
+	name = Ratnavali
+	dynasty = 1029173
+	religion="buddhist"
+	culture="sinhala"
+	#father = 
+	trait=kshatriya
+	trait=theravada_buddhist
+	female = yes
+	
+	1096.1.1 = { birth = yes }
+	1156.1.1 = { death = yes }
+}
+217373 = {
+	name = Mitta
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	father=217367
+	mother=217372
+	trait=kshatriya
+	trait=theravada_buddhist
+	female = yes
+	1115.1.1 = { birth = yes }
+	1154.1.1 = { death = yes }
+}
+217374 = {
+	name = Manabharana
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	father = 217370
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1110.1.1 = { birth = yes }
+	1132.1.1 = { add_spouse = 217373 }
+	1162.1.1 = { death = yes }	
+}
+217375 = {
+	name = Vijayabahu
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	mother = 217373 # Unknown which sister of Parakramabahu
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1142.1.1 = { birth = yes }
+	1187.6.1 = { death = { death_reason = death_murder_unknown } }
+}
+217376 = {
+	name = Mahinda
+	dynasty= 1051149
+	religion="buddhist"
+	culture="sinhala"
+	#father=
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1135.1.1 = { birth = yes }
+	1187.6.6 = { death = { death_reason = death_execution killer = 217377 } }
+}
+217377 = {
+	name = Nissanka
+	dynasty = 1029195
+	religion="buddhist"
+	culture="sinhala"
+	father = 191209 # Presumed Kalinga father
+	mother = 217378
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1158.1.1 = { birth = yes }
+	1175.1.1 = { add_spouse = 217382 }
+	1196.1.1 = { death = yes }
+}
+217378 = {
+	name = Parvati
+	dynasty=1029172
+	religion="buddhist"
+	culture="sinhala"
+	father=217367
+	mother=217372
+	trait=kshatriya
+	trait=theravada_buddhist
+	female = yes
+	
+	1124.1.1 = { birth = yes }
+	1185.1.1 = { death = yes }
+}
+217379 = {
+	name = Virabahu
+	dynasty = 1029195
+	religion="buddhist"
+	culture="sinhala"
+	father = 217377
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1177.1.1 = { birth = yes }
+	1196.4.4 = { death = { death_reason = death_execution } }
+}
+217391 = {
+	name = Vikramabahu
+	dynasty = 1029195
+	religion="buddhist"
+	culture="sinhala"
+	father = 191209 # Presumed Kalinga father
+	mother = 217378
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1161.1.1 = { birth = yes }
+	1196.7.1 = { death = { death_reason = death_murder_unknown } }
+}
+217380 = {
+	name = Chodaganga
+	dynasty = 1029195
+	religion="buddhist"
+	culture="sinhala"
+	mother = 217381
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1177.1.1 = { birth = yes }
+	1197.4.1 = { add_trait = blinded }
+	1209.1.1 = { death = yes }
+}
+217381 = {
+	name = Kanatissa # fictional name
+	dynasty = 1029195
+	religion="buddhist"
+	culture="sinhala"
+	father = 191209 # Presumed Kalinga father
+	mother = 217378
+	trait=kshatriya
+	trait=theravada_buddhist
+	female = yes
+	
+	1159.1.1 = { birth = yes }
+	1193.1.1 = { death = yes }
+}
+217382 = {
+	name = Kalyanavati
+	dynasty = 1029171 # Fictitious dynasty assignment, Queen of Nissanka Malla
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	female = yes
+	1157.1.1 = { birth = yes }
+	1208.1.1 = { death = yes }
+}
+217383 = {
+	name = Sahassamalla
+	dynasty = 1029195
+	religion="buddhist"
+	culture="sinhala"
+	father = 191209 # Presumed Kalinga father
+	mother = 217378
+	trait=kshatriya
+	trait=theravada_buddhist
+	1164.1.1 = { birth = yes }
+	1202.1.1 = { death = yes }
+}
+217384 = {
+	name = Dharmasoka
+	dynasty = 1029194 # Fictitious dynasty assignment, son of Governor of Maya Rata
+	religion="buddhist"
+	culture="sinhala"
+	father = 217385
+	trait=kshatriya
+	trait=theravada_buddhist
+	1207.9.1 = { birth = yes }
+	1209.4.5 = { death = { death_reason = death_execution killer = 217385 } }
+}
+217385 = {
+	name = Anikanga
+	dynasty = 1029194 # Fictitious dynasty assignment, Governor of Maya Rata
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	1189.1.1 = { birth = yes }
+	1209.4.5 = { add_trait = kinslayer }
+	1209.4.22 = { death = yes }
+}
+217386 = {
+	name = Parakramabahu
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	father = 217387
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1218.1.1 = { birth = yes }
+	1269.1.1 = { death = yes }
+}
+217387 = {
+	name = Vijayabahu # III
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1197.1.1 = { birth = yes }
+	1224.1.1 = { death = yes }
+}
+217388 = {
+	name = Vijayabahu # IV
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	father = 217386
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1239.1.1 = { birth = yes }
+	1270.10.1 = { death = yes }
+}
+217389 = {
+	name = Bhuvanaikabahu
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	father = 217386
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1241.1.1 = { birth = yes }
+	1283.1.1 = { death = yes }
+}
+217392 = {
+	name = Parakkamabahu # III
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	father = 217388
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1262.1.1 = { birth = yes }
+	1310.1.1 = { death = yes }
+}
+217393 = {
+	name = Bhuvanaikabahu # II
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	father = 217389
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1276.1.1 = { birth = yes }
+	1325.1.1 = { death = yes }
+}
+217394 = {
+	name = Parakkamabahu # IV
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	father = 217393
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1298.1.1 = { birth = yes }
+	1329.1.1 = { death = yes }
+}
+217395 = {
+	name = Bhuvanaikabaahu # III
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	father = 217393 # Unknown relation
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1301.1.1 = { birth = yes }
+	1335.1.1 = { death = yes }
+}
+217396 = {
+	name = Vijayabahu # V
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	father = 217394 # Unknown relation
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1321.1.1 = { birth = yes }
+	1344.1.1 = { death = yes }
+}

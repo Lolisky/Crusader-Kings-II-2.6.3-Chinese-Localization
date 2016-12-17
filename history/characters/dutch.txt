@@ -1,0 +1,8111 @@
+10066 = {
+	name="玛蒂尔达"
+	female = yes
+	dynasty=7198
+	martial=2
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	father=41025
+	mother=7999
+	999.1.1={
+		birth="999.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+10068 = {
+	name="阿莱迪斯"
+	# AKA: Adele
+	female = yes
+	dynasty=432
+	martial=2
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	father=40712
+	mother=40709
+	984.1.1={
+		birth="984.1.1"
+	}
+	1046.1.1={
+		death="1046.1.1"
+	}
+}
+
+10074 = {
+	name="鲍德温" #count of Hainault
+	dynasty=724
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="tough_soldier"
+	father=106643
+	mother=106640
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1084.1.1={
+		add_spouse=94017
+	}
+	
+	1098.8.1={
+		death="1098.8.1"
+	}
+}
+
+10075 = {
+	name="艾格尼丝"
+	female = yes
+	dynasty=724
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="thrifty_clerk"
+	father=106643
+	mother=106640
+	1058.1.1={
+		birth="1058.1.1"
+	}
+	1071.1.1={
+		death="1071.1.1"
+	}
+}
+
+10076 = {
+	name="罗布雷赫特" #Robert II
+	dynasty=724
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=368
+	mother=106521
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1092.1.1={
+		add_spouse=293
+	}
+	1111.10.5={
+		death="1111.10.5"
+	}
+}
+
+106520 = {
+	name="德克" #Dirk V
+	dynasty=432
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="just"
+	trait="cynical"
+	trait="tough_soldier"
+	father=106522
+	mother=106521
+	1054.1.1={
+		birth="1054.1.1"
+	}
+	1083.1.1={
+		add_spouse=31091
+	}
+	1091.6.17={
+		death="1091.6.17"
+	}
+}
+
+106522 = {
+	name="弗洛里斯" #Floris I
+	dynasty=432
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="slothful"
+	trait="temperate"
+	trait="clubfooted"
+	trait="flamboyant_schemer"
+	father=40713
+	mother=30008
+	1017.1.1={
+		birth="1017.1.1"
+	}
+	1046.1.1={
+		add_spouse = 106521
+	}
+	1061.6.28={
+		death="1061.6.28"
+	}
+}
+
+106523 = {
+	name="德克" #Dirk IV
+	dynasty=432
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="slothful"
+	trait="temperate"
+	trait="clubfooted"
+	trait="flamboyant_schemer"
+	father=40713
+	mother=30008
+	1016.1.1={
+		birth="1016.1.1"
+	}
+	1049.1.13={
+		death="1049.1.13"
+	}
+}
+
+106524 = {
+	name="贝尔塔"
+	female = yes
+	dynasty=432
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="just"
+	trait="hunchback"
+	trait="stutter"
+	trait="thrifty_clerk"
+	father=106522
+	mother=106521
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+106529 = {
+	name="梅希蒂尔德"
+	# AKA: Mechtild
+	female = yes
+	dynasty=432
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	father=106522
+	mother=106521
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+106530 = {
+	name="威廉"
+	dynasty=427
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	father=30053
+	1030.1.2={
+		birth="1030.1.2"
+	}
+	1076.4.27={
+		death="1076.4.27"
+	}
+}
+
+106531 = {
+	name="艾蒂拉"
+	female = yes
+	dynasty=432
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="thrifty_clerk"
+	father=106522
+	mother=106521
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+
+106540 = {
+	name="迪德里克"
+	# AKA: Theodoricus
+	dynasty=427
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="honest"
+	trait="arbitrary"
+	trait="craven"
+	trait="flamboyant_schemer"
+	father=106542
+	mother=106541
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1054.1.2={
+		add_spouse=106543
+	}
+	1082.10.19={
+		death="1082.10.19"
+	}
+}
+
+106542 = {
+	name="杰拉德"
+	# AKA: Gerardus
+	dynasty=427
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="skilled_tactician"
+	father=30053
+	mother=30054
+	1012.1.2={
+		birth="1012.1.2"
+	}
+	1029.1.2={
+		add_spouse=106541
+	}
+	1053.1.7={
+		death="1053.1.7"
+	}
+}
+
+106544 = {
+	name="国泽温"
+	dynasty=427
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="tough_soldier"
+	father=106540
+	mother=106543
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1104.1.1={
+		death="1104.1.1"
+	}
+}
+
+106550 = {
+	name="德克" #Dirk II
+	dynasty=432
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="tough_soldier"
+	father = 106551
+	920.1.1={
+		birth="920.1.1"
+	}
+	952.1.1={
+		add_spouse=94000
+	}
+	988.5.6={
+		death="988.5.6"
+	}
+}
+
+106551 = {
+	name="德克" #Dirk I
+	dynasty=432
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="tough_soldier"
+	father=31060
+	867.1.1={
+		birth="867.1.1"
+	}
+	939.1.1={
+		death="939.1.1"
+	}
+}
+
+106555 = {
+	name="弗洛里斯" #Floris II
+	dynasty=432
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="slothful"
+	trait="temperate"
+	trait="clubfooted"
+	trait="flamboyant_schemer"
+	father=106520
+	mother=31091
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1113.1.1={
+		add_spouse = 106554
+	}
+	1121.3.2={
+		death="1121.3.2"
+	}
+}
+
+106558 = {
+	name="弗洛里斯" #Floris IV
+	dynasty=432
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="deceitful"
+	trait="diligent"
+	trait="elusive_shadow"
+	father=206843
+	mother=30026
+	1210.6.24={
+		birth="1210.6.24"
+	}
+	1224.12.6={
+		add_spouse = 106557
+	}
+	1234.7.19={
+		death="1234.7.19"
+	}
+}
+
+106570 = {
+	name="艾莫" #1044-1078
+	dynasty=424
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="honest"
+	trait="arbitrary"
+	trait="craven"
+	trait="tough_soldier"
+	father=106572
+	mother=106571
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1046.1.1={
+	add_spouse=31090
+	}
+	1078.1.17={
+		death="1078.1.17"
+	}
+}
+
+106572 = {
+	name="吉萨尔贝特" #1014-1044
+	dynasty=424
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="tough_soldier"
+	father=161296
+	985.1.1={
+		birth="985.1.1"
+	}
+	1017.1.1={
+	add_spouse = 106571
+	}
+	1044.1.1={
+		death="1044.1.1"
+	}
+}
+
+106574 = {
+	name="奥托"
+	dynasty=424
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="skilled_tactician"
+	father=106572
+	mother=106571
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+106590 = {
+	name="鲍德温"
+	dynasty=421
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="wroth"
+	trait="charitable"
+	trait="gluttonous"
+	trait="tough_soldier"
+	father=106592
+	mother=106591
+	1025.1.2={
+		birth="1025.1.2"
+	}
+	1053.1.2={
+		add_spouse = 106593
+	}
+	1075.1.2={
+		death="1075.1.2"
+	}
+}
+
+106592 = {
+	name="鲁道夫"
+	dynasty=421
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="fortune_builder"
+	father=32202
+	1000.1.2={
+		birth="1000.1.2"
+	}
+	1024.1.2={
+		add_spouse=106591
+	}
+	1058.1.10={
+		death="1058.1.10"
+	}
+}
+
+106593 = {
+	name="奥达"
+	female = yes
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="temperate"
+	trait="hunchback"
+	trait="martial_cleric"
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1085.1.2={
+		death="1085.1.2"
+	}
+}
+
+106594 = {
+	name="鲍德温"
+	dynasty=421
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="harelip"
+	trait="thrifty_clerk"
+	father=106590
+	mother=106593
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1105.1.2={
+		death="1105.1.2"
+	}
+}
+
+106595 = {
+	name="吉萨尔贝特"
+	dynasty=421
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="hunchback"
+	trait="martial_cleric"
+	father=106590
+	mother=106593
+	1057.1.2={
+		birth="1057.1.2"
+	}
+	1107.1.2={
+		death="1107.1.2"
+	}
+}
+
+106596 = {
+	name="恩格尔伯特"
+	dynasty=421
+	martial=8
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="cynical"
+	trait="tough_soldier"
+	father=106590
+	mother=106593
+	1059.1.2={
+		birth="1059.1.2"
+	}
+	1109.1.2={
+		death="1109.1.2"
+	}
+}
+
+106597 = {
+	name="柳特加尔德"
+	female=yes
+	dynasty=421
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="humble"
+	trait="martial_cleric"
+	father=106590
+	mother=106593
+	1060.1.2={
+		birth="1060.1.2"
+	}
+	1110.1.2={
+		death="1110.1.2"
+	}
+}
+
+106600 = {
+	name="亨德里克"
+	dynasty=7198
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="cynical"
+	trait="amateurish_plotter"
+	father=106602
+	mother=106601
+	1020.1.2={
+		birth="1020.1.2"
+	}
+	1040.1.2={
+		add_spouse = 106603
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+106602 = {
+	name="拉姆布雷希特"
+	dynasty=7198
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="flamboyant_schemer"
+	father=41025
+	mother = 7999
+	995.1.1={
+		birth="995.1.1"
+	}
+	1016.1.1={
+		add_spouse=106601
+	}
+	1054.6.19={
+		death="1054.6.19"
+	}
+}
+
+106603 = {
+	name="阿德尔海德"
+	female = yes
+	dynasty=101554
+	martial=8
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="charitable"
+	trait="scholarly_theologian"
+	father=161530
+	1027.1.1={
+		birth="1027.1.1"
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+
+106604 = {
+	name="戈德弗里德"
+	dynasty=7198
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="arbitrary"
+	trait="hunchback"
+	trait="thrifty_clerk"
+	father=106600
+	mother=106603
+	1063.1.1={
+		birth="1063.1.1"
+	}
+	1108.1.1={
+		add_spouse=33209
+	}
+	1139.1.25={
+		death="1139.1.25"
+	}
+}
+
+106605 = {
+	name="艾蒂拉"
+	female = yes
+	dynasty=7198
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="scholarly_theologian"
+	father=106602
+	mother=106601
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}
+
+106642 = {
+	name="雷基那尔"
+	# AKA: Renier
+	dynasty=7198 #Reginar
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="amateurish_plotter"
+	father=7998
+	mother=203
+	998.1.2={
+		birth="998.1.2"
+	}
+	1016.1.2={
+		add_spouse = 106641
+	}
+	1039.1.3={
+		death="1039.1.3"
+	}
+}
+
+106643 = {
+	name="鲍德温" #Boudewijn VI
+	dynasty=724
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="slothful"
+	trait="skilled_tactician"
+	father=364
+	mother=213
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1051.1.1={
+		add_spouse=106640 # Richilde, Countess of Hainaut
+	}
+	1070.7.17={
+		death="1070.7.17"
+	}
+}
+
+1200 = {
+	name="亨德里克"
+	dynasty=671
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="cynical"
+	trait="tough_soldier"
+	1028.1.2={
+		birth="1028.1.2"
+	}
+	1078.1.2={
+		death="1078.1.2"
+	}
+}
+
+1202 = {
+	name="亨德里克"
+	dynasty=671
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="cynical"
+	trait="skilled_tactician"
+	father=1200
+	1049.1.2={
+		birth="1049.1.2"
+	}
+	1099.1.2={
+		death="1099.1.2"
+	}
+}
+
+202960 = {
+	name="弗赖斯根"
+	dynasty=100040
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+205520 = {
+	name="鲍德温" #Boudewijn VIII
+	# AKA: Baudouin
+	dynasty=724
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="tough_soldier"
+	father=205521
+	mother=205945
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1169.1.1={
+		add_spouse = 212589
+	}
+	1195.12.17={
+		death="1195.12.17"
+	}
+}
+
+205521 = {
+	name="鲍德温"
+	# AKA: Baudouin
+	dynasty=724
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="tough_soldier"
+	father=94015
+	mother=30012
+	1108.1.1={
+		birth="1108.1.1"
+	}
+	1130.1.1={
+		add_spouse=205945
+	}
+	1171.11.8={
+		death="1171.11.8"
+	}
+}
+
+205523 = {
+	name="鲍德温" #Boudewijn IX + I
+	# AKA: Baudouin
+	dynasty=724
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=205520
+	mother=212589
+	1171.7.1={
+		birth="1171.7.1"
+	}
+	1186.1.1={
+		add_spouse=205965
+	}
+	1204.5.16={
+		name="鲍度因" 
+		add_claim = c_mesembria
+		add_claim = c_karvuna
+		add_claim = c_tyrnovo
+		add_claim = c_strymon
+		add_claim = d_thessalonika
+		add_claim = d_athens
+		add_claim = d_epirus
+		add_claim = d_achaia
+		add_claim = d_nikaea
+		add_claim = d_samos
+		
+		effect = {
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 6
+				}
+				trait = tough_soldier
+			}
+			new_character = {
+				spawn_unit = {
+					province = 496 # Constantinople
+					owner = PREV
+					troops = {
+						light_infantry = { 1200 1200 }
+						heavy_infantry = { 737 737 }
+						pikemen = { 237 237 }
+						archers = { 795 795 }
+						light_cavalry = { 331 331 }
+						knights = { 132 132 }
+					}
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 30
+				attributes = {
+					martial = 5
+				}
+				trait = tough_soldier
+			}
+			new_character = {
+				spawn_unit = {
+					province = 496 # Constantinople
+					owner = PREV
+					troops = {
+						light_infantry = { 1200 1200 }
+						heavy_infantry = { 737 737 }
+						pikemen = { 237 237 }
+						archers = { 795 795 }
+						light_cavalry = { 331 331 }
+						knights = { 132 132 }
+					}
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 27
+				attributes = {
+					martial = 5
+				}
+				trait = tough_soldier
+			}
+			new_character = {
+				spawn_unit = {
+					province = 496 # Constantinople
+					owner = PREV
+					troops = {
+						light_infantry = { 1200 1200 }
+						heavy_infantry = { 737 737 }
+						pikemen = { 237 237 }
+						archers = { 795 795 }
+						light_cavalry = { 331 331 }
+						knights = { 132 132 }
+					}
+				}
+			}
+		}
+	}	
+	1204.5.16={
+		culture="frankish"
+	}
+	1205.6.1={
+		death="1205.6.1"
+	}
+}
+
+205529 = {
+	name="艾格尼丝"
+	female = yes
+	dynasty=724
+	martial=3
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="midas_touched"
+	father=205521
+	mother=205945
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1173.1.18={
+		death="1173.1.18"
+	}
+}
+
+206800 = {
+	name="杰拉德" #1171-1191
+	dynasty=424
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="amateurish_plotter"
+	father=206801
+	mother=31548
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1179.1.1={
+	add_spouse=30021
+	}
+	1191.9.2={
+		death="1191.9.2"
+	}
+}
+
+206801 = {
+	name="路德维克" #1139-1171
+	dynasty=424
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="just"
+	trait="amateurish_plotter"
+	father=33063
+	mother=33064
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1143.1.1={
+	add_spouse=31548
+	}
+	1171.8.11={
+		death="1171.8.11"
+	}
+}
+
+206802 = {
+	name="路德维克" #1191-1218
+	dynasty=424
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="charitable"
+	trait="kind"
+	trait="tough_soldier"
+	father=206800
+	mother=30021
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1203.1.1={
+		add_spouse=31068
+	}
+	1203.1.1={
+		add_claim = d_holland
+	} 
+	1218.7.30={
+		death="1218.7.30"
+	}
+}
+
+206803 = {
+	name="亨德里克" #1218
+	dynasty=424
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	father=206800
+	mother=30021
+	1181.1.1={
+		birth="1181.1.1"
+	}
+	1218.8.2={
+		death="1218.8.2"
+	}
+}
+
+206804 = {
+	name="杰拉德"
+	dynasty=424
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=206800
+	mother=30021
+	1183.1.1={
+		birth="1183.1.1"
+	}
+	1216.10.24={
+		death="1216.10.24"
+	}
+}
+
+206805 = {
+	name="阿诺德" #1218-1221
+	dynasty=424
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="kind"
+	father=206800
+	mother=30021
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1207.1.1={
+		add_spouse=7473
+	}
+	1221.9.20={
+		death="1221.9.20"
+	}
+}
+
+206806 = {
+	name="伊玛吉娜"
+	female = yes
+	dynasty=424
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="lustful"
+	trait="scholarly_theologian"
+	father=206801
+	mother=31548
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1214.6.5={
+		death="1214.6.5"
+	}
+}
+
+206840 = {
+	name="弗洛里斯" #Floris III
+	dynasty=432
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="just"
+	trait="proud"
+	trait="brave"
+	trait="tough_soldier"
+	father=206841
+	mother=206845
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1162.9.28={
+		add_spouse = 203512
+	}
+	1187.1.1={
+		trait="crusader"
+	}
+	1190.8.1={
+		death="1190.8.1"
+	}
+}
+
+206841 = {
+	name="德克" #Dirk VI
+	dynasty=432
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="charitable"
+	trait="martial_cleric"
+	father = 106555
+	mother = 106554
+	1114.1.1={
+		birth="1114.1.1"
+	}
+	1137.1.1={
+		add_spouse=206845
+	}
+	1157.8.5={
+		death="1157.8.5"
+	}
+}
+
+206842 = {
+	name="德克" #Dirk VII
+	dynasty=432
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="proud"
+	trait="wroth"
+	trait="tough_soldier"
+	father=206840
+	mother=203512
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1186.1.1={
+		add_spouse = 212924
+	}
+	1203.11.4={
+		death="1203.11.4"
+	}
+}
+
+206843 = {
+	name="威廉" #Willem I
+	dynasty=432
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="deceitful"
+	trait="diligent"
+	trait="elusive_shadow"
+	father=206840
+	mother=203512
+	1167.1.1={
+		birth="1167.1.1"
+	}
+	1198.1.1={
+		add_spouse = 30026
+	}
+	1220.1.1={
+		add_spouse = 106556
+	}
+	1222.2.4={
+		death="1222.2.4"
+	}
+}
+
+206844 = {
+	name="爱达"
+	female = yes
+	dynasty=432
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="patient"
+	trait="charismatic_negotiator"
+	father=206840
+	mother=203512
+	1163.1.1={
+		birth="1163.1.1"
+	}
+	1205.1.1={
+		death="1205.1.1"
+	}
+}
+
+206847 = {
+	name="鲍德温" #bishop of Sticht
+	dynasty=432
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="humble"
+	trait="scholarly_theologian"
+	father=206841
+	mother=206845
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1178.5.27={
+	capital=c_sticht
+	}
+	1196.4.30={
+		death="1196.4.30"
+	}
+}
+
+206848 = {
+	name="德克" #bishop of Sticht
+	dynasty=432
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="kind"
+	trait="detached_priest"
+	father=206841
+	mother=206845
+	1147.1.1={
+		birth="1147.1.1"
+	}
+	
+	1197.1.1={
+	capital=c_sticht
+	}
+	1197.8.26={
+		death="1197.8.26"
+	}
+}
+
+206850 = {
+	name="戈德弗里德"
+	dynasty=7198
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="just"
+	trait="ill"
+	trait="thrifty_clerk"
+	father=206851
+	mother=206860
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1155.1.1={
+		add_spouse=206870
+	}
+	1173.1.1={
+		add_spouse=206806
+	}
+	1190.8.21={
+		death="1190.8.21"
+	}
+}
+
+206851 = {
+	name="戈德弗里德"
+	dynasty=7198
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="kind"
+	trait="flamboyant_schemer"
+	father=106604
+	mother=33209
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1140.1.1={
+		add_spouse=206860
+	}
+	1142.6.13={
+		death="1142.6.13"
+	}
+}
+
+206852 = {
+	name="亨德里克"
+	dynasty=7198
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="lustful"
+	trait="slothful"
+	trait="wroth"
+	trait="brave"
+	trait="fortune_builder"
+	father=206850
+	mother=206870
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1179.1.1={
+		add_spouse = 205854
+	}
+	1213.4.24={
+		add_spouse = 91028
+	}
+	1235.9.5={
+		death="1235.9.5"
+	}
+}
+
+206853 = {
+	name="爱达尔贝特"
+	dynasty=7198
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="kind"
+	trait="greedy"
+	trait="martial_cleric"
+	father=206850
+	mother=206870
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1192.11.24={
+		death="1192.11.24"
+	}
+}
+
+206854 = {
+	name="威廉"
+	dynasty=7198
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="hunchback"
+	trait="thrifty_clerk"
+	father=206850
+	mother=206806
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1224.8.1={
+		death="1224.8.1"
+	}
+}
+
+206855 = {
+	name="戈德弗里德"
+	dynasty=7198
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="slothful"
+	trait="gluttonous"
+	trait="tough_soldier"
+	father=206850
+	mother=206806
+	1174.1.1={
+		birth="1174.1.1"
+	}
+	1226.4.16={
+		death="1226.4.16"
+	}
+}
+
+206857 = {
+	name="阿德尔海德"
+	female = yes
+	dynasty=7198
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="lustful"
+	trait="arbitrary"
+	trait="flamboyant_schemer"
+	father=106604
+	mother=33209
+	1106.1.1={
+		birth="1106.1.1"
+	}
+	1151.1.22={
+		death="1151.1.22"
+	}
+}
+
+212921 = {
+	name="玛格丽特"
+	female = yes
+	dynasty=432 
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="scholarly_theologian"
+	father=206840
+	mother=203512
+	1164.1.1={
+		birth="1164.1.1"
+	}
+	1203.1.1={
+		death="1203.1.1"
+	}
+}
+
+231002 = {
+	name="库诺"
+	dynasty=100081
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="gluttonous"
+	trait="proud"
+	trait="tough_soldier"
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+231003 = {
+	name="曼弗里德"
+	dynasty=100081
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="just"
+	trait="proud"
+	trait="tough_soldier"
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+231004 = {
+	name="维哈德"
+	dynasty=100085
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="brave"
+	trait="just"
+	trait="gluttonous"
+	trait="martial_cleric"
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+30010 = {
+	name="玛格丽塔"
+	female = yes
+	dynasty=424
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=106572
+	mother=106571
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1062.1.1={
+		death="1062.1.1"
+	}
+}
+
+30011 = {
+	name="朱迪丝"
+	female = yes
+	dynasty=427
+	martial=3
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=41720
+	mother=30050
+	1079.1.2={
+		birth="1079.1.2"
+	}
+	1151.6.24={
+		death="1151.6.24"
+	}
+}
+
+30012 = {
+	name="尤兰达"
+	female = yes
+	dynasty=427
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=41720
+	mother=30050
+	
+	1089.1.2={
+		birth="1089.1.2"
+	}
+	
+	
+	1131.1.1={
+		death="1131.1.1"
+	}
+}
+
+30013 = {
+	name="杰拉德"
+	dynasty=427
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	father=41720
+	mother=30050
+	
+	1090.1.2={
+		birth="1090.1.2"
+	}
+	1115.1.1={
+		add_spouse=30014
+	}
+	
+	
+	1131.10.24={
+		death="1131.10.24"
+	}
+}
+
+30014 = {
+	name="艾姆嘉德"
+	female = yes
+	dynasty=101918
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	father=41722
+	
+	1091.1.2={
+		birth="1091.1.2"
+	}
+	
+	
+	1134.1.1={
+		death="1134.1.1"
+	}
+}
+
+30015 = {
+	name="亨德里克"
+	dynasty=427
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	father=30013
+	mother=30014
+	
+	1117.1.2={
+		birth="1117.1.2"
+	}
+	1137.1.2={
+		add_spouse=30051
+	}
+	
+	
+	1182.9.10={
+		death="1182.9.10"
+	}
+}
+
+30016 = {
+	name="阿德尔海德"
+	female = yes
+	dynasty=427
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=30013
+	mother=30014
+	1118.1.2={
+		birth="1118.1.2"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+30017 = {
+	name="莎乐美"
+	female = yes
+	dynasty=427
+	martial=3
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=30013
+	mother=30014
+	1121.1.2={
+		birth="1121.1.2"
+	}
+	1167.1.1={
+		death="1167.1.1"
+	}
+}
+
+30018 = {
+	name="杰拉德"
+	dynasty=427
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	father=30015
+	mother=30051
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1182.1.1={
+		death="1182.1.1"
+	}
+}
+
+30019 = {
+	name="奥托"
+	dynasty=427
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=30015
+	mother=30051
+	
+	
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1180.1.1={
+		add_spouse = 212955
+	}
+	
+	1207.10.22={
+		death="1207.10.22"
+	}
+}
+
+30020 = {
+	name="艾格尼丝"
+	female = yes
+	dynasty=427
+	martial=3
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	father=30015
+	mother=30051
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+30021 = {
+	name="阿德尔海德"
+	female = yes
+	dynasty=427
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	father=30015
+	mother=30051
+	1152.1.1={
+		birth="1152.1.1"
+	}
+	1213.1.1={
+		death="1213.1.1"
+	}
+}
+
+30022 = {
+	name="玛格丽塔"
+	female = yes
+	dynasty=427
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=30015
+	mother=30051
+	1154.1.1={
+		birth="1154.1.1"
+	}
+	1189.1.1={
+		death="1189.1.1"
+	}
+}
+
+30023 = {
+	name="杰拉德"
+	dynasty=427
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	father=30019
+	mother=212955
+	
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1206.1.1={
+		add_spouse = 94014
+	}
+	
+	
+	1229.10.22={
+		death="1229.10.22"
+	}
+}
+
+30024 = {
+	name="亨德里克"
+	dynasty=427
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	father=30019
+	mother=212955
+	1184.1.1={
+		birth="1184.1.1"
+	}
+	1198.1.1={
+		death="1198.1.1"
+	}
+}
+
+30025 = {
+	name="奥托" #bishop of Sticht 1212 - 1215
+	dynasty=427
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=30019
+	mother=212955
+	
+	1194.1.1={
+		birth="1194.1.1"
+	}
+	
+	1210.1.1 = { trait="martial_cleric" }
+	
+	1215.9.1={
+		death="1215.9.1"
+	}
+}
+
+30026 = {
+	name="艾蕾德" 
+	female = yes
+	dynasty=427
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=30019
+	mother=212955
+	
+	1182.1.1={
+		birth="1182.1.1"
+	}
+	1218.1.1={
+		death="1218.1.1"
+	}
+}
+
+30027 = {
+	name="梅赫蒂尔迪丝"  
+	female = yes
+	dynasty=427
+	martial=5
+	diplomacy=3
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=30019
+	mother=212955
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1247.1.1={
+		death="1247.1.1"
+	}
+}
+
+30028 = {
+	name="伊姆嘉德" 
+	female = yes
+	dynasty=427
+	martial=3
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=30019
+	mother=212955
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+30029 = {
+	name="玛格丽塔" 
+	female = yes
+	dynasty=427
+	martial=5
+	diplomacy=6
+	intrigue=3
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=30019
+	mother=212955
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+
+30030 = {
+	name="路德维克" 
+	dynasty=427
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=30019
+	mother=212955
+	1197.1.1={
+		birth="1197.1.1"
+	}
+	1217.6.21={
+		death="1217.6.21"
+	}
+}
+
+30031 = {
+	name="奥托"
+	dynasty=427
+	martial=3
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="clubfooted"
+	father=30023
+	#mother=
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1241.1.1={
+		add_spouse = 30052
+	}
+	1271.1.10={
+		death="1271.1.10"
+	}
+}
+
+30032 = {
+	name="亨德里克" #Bishop of Liege 1247 - 1274
+	dynasty=427
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	
+	father=30023
+	mother=94014
+	
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1233.1.1 = { trait="martial_cleric" }
+	
+	
+	1285.4.23={
+		death="1285.4.23"
+	}
+}
+
+30033 = {
+	name="玛格丽塔"
+	female = yes
+	dynasty=427
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=30023
+	mother=94014
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1251.1.1={
+		death="1251.1.1"
+	}
+}
+
+30034 = {
+	name="丽察蒂斯"
+	female = yes
+	dynasty=427
+	#martial=5
+	#diplomacy=5
+	#intrigue=5
+	#stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=30023
+	mother=94014
+	1221.1.1={
+		birth="1221.1.1"
+	}
+	1293.1.1={
+		death="1293.1.1"
+	}
+}
+
+30035 = {
+	name="雷诺德"
+	dynasty=427 
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	father=30031
+	mother=30052
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1277.1.1={
+		add_spouse=33152
+	}
+	1286.1.1={
+		add_spouse = 456554
+	}
+	1318.1.1={
+		trait="lunatic"
+	}
+	1326.10.9={
+		death="1326.10.9"
+	}
+}
+
+30036 = {
+	name="伊丽莎白"
+	female = yes
+	dynasty=427
+	martial=3
+	diplomacy=3
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	father=30031
+	mother=30052
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1313.3.31={
+		death="1313.3.31"
+	}
+}
+
+30037 = {
+	name="菲莉芭"
+	female = yes
+	dynasty=427
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	father=30031
+	mother=30052
+	1256.1.1={
+		birth="1256.1.1"
+	}
+	1294.1.1={
+		death="1294.1.1"
+	}
+}
+
+30038 = {
+	name="玛格丽塔"
+	female = yes
+	dynasty=427
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=30031
+	mother=30052
+	1257.1.1={
+		birth="1257.1.1"
+	}
+	1286.1.1={
+		death="1286.1.1"
+	}
+}
+
+30039 = {
+	name="雷诺德"
+	dynasty=427
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=30035
+	mother=456554
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1311.1.2={
+		add_spouse=456558
+	}
+	1330.1.2={
+		add_spouse=454505
+	}
+	1343.10.12={
+		death="1343.10.12"
+	}
+}
+
+30040 = {
+	name="胡韦德"
+	dynasty=427
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=30035
+	mother=456554
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1315.1.1={
+		death="1315.1.1"
+	}
+}
+
+30041 = {
+	name="玛格丽塔"
+	female = yes
+	dynasty=427
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=30035
+	mother=456554
+	
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+
+30042 = {
+	name="伊丽莎白"
+	female = yes
+	dynasty=427
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	
+	father=30035
+	mother=456554
+	
+	1299.1.1={
+		birth="1299.1.1"
+	}
+	1354.1.1={
+		death="1354.1.1"
+	}
+}
+
+30043 = {
+	name="菲莉芭"
+	female = yes
+	dynasty=427
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	father=30035
+	mother=456554
+	
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1352.8.23={
+		death="1352.8.23"
+	}
+}
+
+30044 = {
+	name="伊丽莎白"
+	female = yes
+	dynasty=427
+	martial=3
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=30039
+	mother=456558
+	
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1376.12.10={
+		death="1376.12.10"
+	}
+}
+
+30045 = {
+	name="玛格丽塔"
+	female = yes
+	dynasty=427
+	martial=3
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=30039
+	mother=456558
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1344.1.1={
+		death="1344.1.1"
+	}
+}
+
+30046 = {
+	name="梅赫蒂尔德"
+	female = yes
+	dynasty=427
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=30039
+	mother=456558
+	1324.1.1={
+		birth="1324.1.1"
+	}
+	1384.9.21={
+		death="1384.9.21"
+	}
+}
+
+30047 = {
+	name="玛丽亚"
+	female = yes
+	dynasty=427
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	father=30039
+	mother=456558
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1405.5.12={
+		death="1405.5.12"
+	}
+}
+
+30048 = {
+	name="雷诺德"
+	dynasty=427
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=30039
+	mother=454505
+	1333.5.13={
+		birth="1333.5.13"
+	}
+	1371.12.4={
+		death="1371.12.4"
+	}
+}
+
+30049 = {
+	name="埃杜瓦德"
+	dynasty=427
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	father=30039
+	mother=454505
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1371.8.22={
+		death="1371.8.22"
+	}
+}
+
+30050 = {
+	name="索菲娅"
+	female = yes
+	dynasty=78
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	1060.1.2={
+		birth="1060.1.2"
+	}
+	1090.2.19={
+		death="1090.2.19"
+	}
+}
+
+30053 = {
+	name="杰拉德"
+	dynasty=427
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="charitable"
+	trait="envious"
+	trait="amateurish_plotter"
+	father=30055
+	980.1.2={
+		birth="980.1.2"
+	}
+	1005.1.2={
+		add_spouse=30054
+	}
+	1033.1.1={
+		death="1033.1.1"
+	}
+}
+
+30054 = {
+	name="芭娃"
+	female=yes
+	dynasty=429
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="charitable"
+	trait="envious"
+	trait="amateurish_plotter"
+	982.1.2={
+		birth="982.1.2"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+
+30055 = {
+	name="鲁特赫"
+	dynasty=427
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	960.1.2={
+		birth="960.1.2"
+	}
+	983.1.1={
+		death="983.1.1"
+	}
+}
+
+30061 = {
+	name="吉萨尔贝特"
+	dynasty=6016
+	religion="catholic"
+	culture="dutch"
+	1198.1.1={
+		birth="1198.1.1"
+	}
+	1225.1.1={
+		add_spouse = 30062
+	}
+	1241.2.28={
+		death="1241.2.28"
+	}
+}
+
+30079 = {
+	name="阿德尔海德"
+	female = yes
+	dynasty=427 #von Wassenberg
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=41720
+	mother=30050
+	1090.1.2={
+		birth="1090.1.2"
+	}
+	1156.1.1={
+		death="1156.1.1"
+	}
+}
+
+30221 = {
+	name="迪德里克"
+	dynasty=101918
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	father=41722
+	mother=30220
+	1093.1.1={
+		birth="1093.1.1"
+	}
+	1127.2.28={
+		death="1127.2.28"
+	}
+}
+
+30309 = {
+	name="海斯伯特"
+	dynasty=6016
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	father=30061
+	mother=30062
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1306.11.18={
+		death="1306.11.18"
+	}
+}
+
+30363 = {
+	name="西塔德"
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=462171
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1397.1.1={
+		death="1397.1.1"
+	}
+}
+
+30364 = {
+	name="西塔德" #Count of Ostfriesland
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30365 #Enno
+	1259.1.1={
+		birth="1259.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+30365 = {
+	name="艾诺" #Count of Ostfriesland
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30366 #Sitat
+	1223.1.1={
+		birth="1223.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+30366 = {
+	name="西塔德" #Count of Ostfriesland
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	1199.1.1={
+		birth="1199.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+30367 = {
+	name="梅顿"
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30366 #Sitat
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+
+30368 = {
+	name="奥姆普塔特"
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30367 #Merten
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+
+30369 = {
+	name="梅顿"
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30368 #Omptat
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1367.1.1={
+		death="1367.1.1"
+	}
+}
+
+30370 = {
+	name="奥姆普塔特"
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30369 #Merten
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1378.1.1={
+		death="1378.1.1"
+	}
+}
+
+30371 = {
+	name="奥尔里克"
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30369 #Merten
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1373.1.1={
+		death="1373.1.1"
+	}
+}
+
+30372 = {
+	name="包邹"
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30369 #Merten
+	1326.1.1={
+		birth="1326.1.1"
+	}
+	1381.1.1={
+		death="1381.1.1"
+	}
+}
+
+30373 = {
+	name="蒂阿德克"
+	female=yes
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30369 #Merten
+	1332.1.1={
+		birth="1332.1.1"
+	}
+	1409.1.1={
+		death="1409.1.1"
+	}
+}
+
+30374 = {
+	name="伊德泽德"
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30365 #Enno
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1290.1.1={
+		add_spouse=30379 #Etta van Visquard
+	}
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+
+30375 = {
+	name="艾诺"
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30374 #Idzerd Cirksena
+	mother=30379 #Etta van Visquard
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1320.1.1={
+		add_spouse=30380 #Adda van Groothusen
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+30376 = {
+	name="西布朗德"
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30374 #Idzerd Cirksena
+	mother=30379 #Etta van Visquard
+	1297.1.1={
+		birth="1297.1.1"
+	}
+	1379.1.1={
+		death="1379.1.1"
+	}
+}
+
+30377 = {
+	name="艾塔"
+	female=yes
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30375 #Enno Cirksena
+	mother=30380 #Adda van Groothusen
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1400.1.1={
+		death="1400.1.1"
+	}
+}
+
+30378 = {
+	name="伊德泽德"
+	dynasty=7128 #Cirksena
+	religion="catholic"
+	culture="dutch"
+	father=30375 #Enno Cirksena
+	mother=30380 #Adda van Groothusen
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1404.1.1={
+		death="1404.1.1"
+	}
+}
+
+30379 = {
+	name="艾塔"
+	female=yes
+	dynasty=7129 #van Visquard
+	religion="catholic"
+	culture="dutch"
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+30380 = {
+	name="艾达"
+	female=yes
+	dynasty=7130 #van Groothusen
+	religion="catholic"
+	culture="dutch"
+	1299.1.1={
+		birth="1299.1.1"
+	}
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+
+30672 = {
+	name="歌德巴尔德"
+	dynasty=100082 #van Sticht
+	religion="catholic"
+	culture="dutch"
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1127.11.12={
+		death="1127.11.12"
+	}
+}
+
+30673 = {
+	name="安德里斯"
+	dynasty=7168 #van Cuijck
+	religion="catholic"
+	culture="dutch"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1138.1.1={
+		capital=c_sticht
+	}
+	1139.6.23={
+		death="1139.6.23"
+	}
+}
+
+30674 = {
+	name="哈特贝特"
+	dynasty=7169 #van Bierum
+	religion="catholic"
+	culture="dutch"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1139.6.23={
+		capital=c_sticht
+	}
+	1150.11.12={
+		death="1150.11.12"
+	}
+}
+
+30676 = {
+	name="戈德弗里德"
+	dynasty=7170 #van Rhenen
+	religion="catholic"
+	culture="dutch"
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1156.1.31={
+	capital=c_sticht
+	}
+	1178.5.27={
+		death="1178.5.27"
+	}
+}
+
+30677 = {
+	name="德克"
+	dynasty=7171 #van Are
+	religion="catholic"
+	culture="dutch"
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1203.1.1={
+		capital=c_sticht
+	}
+	1212.12.5={
+		death="1212.12.5"
+	}
+}
+
+30679 = {
+	name="国泽温" #bishop of Sticht
+	dynasty=7172 #van Randerath
+	religion="catholic"
+	culture="dutch"
+	1198.1.1={
+		birth="1198.1.1"
+	}
+	1233.7.26={
+		capital=c_sticht
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+30686 = {
+	name="杨"
+	dynasty=7174 #van Sierck
+	religion="catholic"
+	culture="dutch"
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1290.1.1={
+		capital=c_sticht
+	}
+	1305.1.1={
+		death="1305.1.1"
+	}
+}
+
+30687 = {
+	name="威廉"
+	dynasty=7175 #van Berthout
+	religion="catholic"
+	culture="dutch"
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1296.1.1={
+	capital=c_sticht
+	}
+	1301.2.4={
+		death="1301.2.4"
+	}
+}
+
+30688 = {
+	name="弗里德里克"
+	dynasty=7174 #van Sierck
+	religion="catholic"
+	culture="dutch"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1317.5.23={
+	capital=c_sticht
+	}
+	1322.7.20={
+		death="1322.7.20"
+	}
+}
+
+30689 = {
+	name="雅库布"
+	dynasty=7176 #van Oudshoorn
+	
+	religion="catholic"
+	culture="dutch"
+	
+	1269.1.1={
+		birth="1269.1.1"
+	}
+	1322.7.20={
+	capital=c_sticht
+	}
+	1322.9.18={
+		death="1322.9.18"
+	}
+}
+
+30727 = {
+	name="亨德里克"
+	dynasty=101918
+	religion="catholic"
+	culture="dutch"
+	father=41722
+	mother=30220
+	1092.1.1={
+		birth="1092.1.1"
+	}
+	1110.1.1={
+		add_spouse=30728
+	} 
+	1143.1.1={
+		death="1143.1.1"
+	}
+}
+
+30950 = {
+	name="伊达"
+	female = yes
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father = 106604
+	mother=33209
+	1108.1.1={
+		birth="1108.1.1"
+	}
+	1162.7.27={
+		death="1162.7.27"
+	}
+}
+
+31040 = {
+	name="胡果"
+	dynasty=7197 #van Voorne
+	religion="catholic"
+	culture="dutch"
+	1108.1.1={
+		birth="1108.1.1"
+	}
+	1129.1.1={
+		add_spouse=31063
+	}
+	1156.1.1={
+		death="1156.1.1"
+	}
+}
+
+31041 = {
+	name="弗洛里斯"
+	dynasty=7197 #van Voorne
+	religion="catholic"
+	culture="dutch"
+	father=31040
+	mother=31063
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1191.1.1={
+		death="1191.1.1"
+	}
+}
+
+31042 = {
+	name="德克"
+	dynasty=7197 #van Voorne
+	religion="catholic"
+	culture="dutch"
+	father=31040
+	mother=31063
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1168.1.1={
+		add_spouse=31123
+	}
+	1174.10.3={
+		death="1174.10.3"
+	}
+}
+
+31043 = {
+	name="胡果"
+	dynasty=7197 #van Voorne
+	religion="catholic"
+	culture="dutch"
+	father=31042
+	mother=31123
+	1173.1.1={
+		birth="1173.1.1"
+	}
+	1216.1.1={
+		death="1216.1.1"
+	}
+}
+
+31044 = {
+	name="德克"
+	dynasty=7197 #van Voorne
+	religion="catholic"
+	culture="dutch"
+	father=31042
+	mother=31123
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1228.5.1={
+		death="1228.5.1"
+	}
+}
+
+31045 = {
+	name="巴托罗缪"
+	dynasty=7197 #van Voorne
+	religion="catholic"
+	culture="dutch"
+	father=31042
+	mother=31123
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1214.3.1={
+		death="1214.3.1"
+	}
+}
+
+31046 = {
+	name="亨德里克"
+	dynasty=7197 #van Voorne
+	religion="catholic"
+	culture="dutch"
+	father=31044
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1240.1.1={
+		add_spouse=31124
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+
+31047 = {
+	name="胡果"
+	dynasty=7197 #van Voorne
+	
+	religion="catholic"
+	culture="dutch"
+	
+	father=31044
+	
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+31048 = {
+	name="德克"
+	dynasty=7197 #van Voorne
+	
+	religion="catholic"
+	culture="dutch"
+	
+	father=31044
+	
+	1196.1.1={
+		birth="1196.1.1"
+	}
+	
+	1275.4.1={
+		death="1275.4.1"
+	}
+}
+
+31049 = {
+	name="阿尔布雷希特"
+	# AKA: Albert
+	dynasty=7197 #van Voorne
+	
+	religion="catholic"
+	culture="dutch"
+	
+	father=31044
+	
+	1197.1.1={
+		birth="1197.1.1"
+	}
+	
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+31050 = {
+	name="阿尔布雷希特"
+	# AKA: Albert
+	dynasty=7197 #van Voorne
+	
+	religion="catholic"
+	culture="dutch"
+	
+	father=31046
+	mother=31124
+	
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	
+	1287.12.1={
+		death="1287.12.1"
+	}
+}
+
+31051 = {
+	name="杰拉德"
+	dynasty=7197 #van Voorne
+	
+	religion="catholic"
+	culture="dutch"
+	
+	father=31046
+	mother=31124
+	
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+31060 = {
+	name="吉鲁尔夫"
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=167701
+	835.1.1={
+		birth="835.1.1"
+	}
+	889.1.1={
+		death="889.1.1"
+	}
+}
+
+31061 = {
+	name="弗洛里斯" 
+	# AKA: Floris de Zwarte
+	dynasty=432
+	
+	religion="catholic"
+	culture="dutch"
+	
+	father = 106555
+	mother = 106554
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	
+	1132.10.26={
+		death="1132.10.26"
+	}
+}
+
+31062 = {
+	name="西蒙"
+	dynasty=432
+	
+	religion="catholic"
+	culture="dutch"
+	
+	father = 106555
+	mother = 106554
+	1118.1.1={
+		birth="1118.1.1"
+	}
+	
+	1147.1.1={
+		death="1147.1.1"
+	}
+}
+
+31063 = {
+	name="赫德维希"
+	female=yes 
+	dynasty=432
+	
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	father = 106555
+	
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+31064 = {
+	name="德克" 
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=206841
+	mother=206845
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	
+	1151.1.1={
+		death="1151.1.1"
+	}
+}
+
+31065 = {
+	name="罗布雷赫特" 
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	father=206841
+	
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+31066 = {
+	name="奥托" 
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	
+	father=206841
+	mother=206845
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	
+	1209.2.13={
+		death="1209.2.13"
+	}
+}
+
+31067 = {
+	name="阿莱迪斯"
+	female = yes
+	dynasty=432
+	
+	religion="catholic"
+	culture="dutch"
+	
+	father=206842
+	mother=212924
+	1187.1.1={
+		birth="1187.1.1"
+	}
+	1203.1.1={
+		death="1203.1.1"
+	}
+}
+
+31068 = {
+	name="爱达"
+	female = yes
+	dynasty=432
+	
+	religion="catholic"
+	culture="dutch"
+	
+	father=206842
+	mother=212924
+	1188.1.1={
+		birth="1188.1.1"
+	}
+	
+	#1203 marries Lodewijk van Loon
+	
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+
+31069 = {
+	name="弗洛里斯"
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=206840
+	mother=203512
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+31070 = {
+	name="鲍德温"
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=206840
+	mother=203512
+	1167.1.1={
+		birth="1167.1.1"
+	}
+	
+	1203.1.1={
+		death="1203.1.1"
+	}
+}
+
+31071 = {
+	name="伊丽莎白"
+	female=yes
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=206840
+	mother=203512
+	1168.1.1={
+		birth="1168.1.1"
+	}
+	
+	1205.1.1={
+		death="1205.1.1"
+	}
+}
+
+31072 = {
+	name="赫德维希"
+	female=yes
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=206840
+	mother=203512
+	1169.1.1={
+		birth="1169.1.1"
+	}
+	
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+
+31073 = {
+	name="艾格尼丝"
+	female=yes
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=206840
+	mother=203512
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	
+	1233.1.1={
+		death="1233.1.1"
+	}
+}
+
+31074 = {
+	name="威廉"#regent of Holland
+	# AKA: Willem
+	dynasty=432 #Gerulfing
+	
+	religion="catholic"
+	culture="dutch"
+	father=206843
+	mother=30026
+	
+	1214.1.1={
+		birth="1214.1.1"
+	}
+	
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+
+31075 = {
+	name="理查德"
+	female=yes
+	dynasty=432 #Gerulfing
+	
+	religion="catholic"
+	culture="dutch"
+	father=206843
+	mother=30026
+	
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+31076 = {
+	name="爱达"
+	female=yes
+	dynasty=432 #Gerulfing
+	
+	religion="catholic"
+	culture="dutch"
+	father=206843
+	mother=30026
+	
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	
+	1258.1.1={
+		death="1258.1.1"
+	}
+}
+
+31077 = {
+	name="弗洛里斯"
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=106558
+	mother=106557
+	1228.1.1={
+		birth="1228.1.1"
+	}
+	
+	
+	1258.1.1={
+		death="1258.1.1"
+	}
+}
+
+31078 = {
+	name="玛格丽塔"
+	female=yes
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=106558
+	mother=106557
+	1229.1.1={
+		birth="1229.1.1"
+	}
+	
+	
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+
+31079 = {
+	name="梅希蒂尔德"
+	female=yes
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=106558
+	mother=106557
+	1233.1.1={
+		birth="1233.1.1"
+	}
+	
+	
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+31080 = {
+	name="梅希蒂尔德" 
+	female=yes
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=94003
+	mother=31093
+	1256.1.1={
+		birth="1256.1.1"
+	}
+	1266.1.1={
+		death="1266.1.1"
+	}
+}
+
+31082 = {
+	name="维特"
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	father=94005
+	
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1321.12.26={
+		death="1321.12.26"
+	}
+}
+
+31083 = {
+	name="威廉"
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	father=94005
+	
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1354.1.1={
+		death="1354.1.1"
+	}
+}
+
+31084 = {
+	name="德克"
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	father=94005
+	
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+31089 = {
+	name="蓓蒂拉达"
+	female=yes
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=40713
+	mother=30008
+	1018.1.1={
+		birth="1018.1.1"
+	}
+	1056.1.1={
+		death="1056.1.1"
+	}
+}
+
+31090 = {
+	name="斯旺希尔蒂斯"
+	female=yes
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=40713
+	mother=30008
+	1019.1.1={
+		birth="1019.1.1"
+	}
+	1064.1.1={
+		death="1064.1.1"
+	}
+}
+
+31092 = {
+	name="玛蒂尔德"
+	female=yes
+	dynasty=432
+	
+	religion="catholic"
+	culture="dutch"
+	father=106520
+	mother=31091
+	1088.1.1={
+		birth="1088.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+31100 = {
+	name="玛丽"  
+	female=yes
+	dynasty=5060
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	father=94023
+	1291.1.1={
+		birth="1291.1.1"
+	}
+	1344.1.11={
+		death="1344.1.11"
+	}
+}
+
+31104 = {
+	name="杨" 
+	dynasty=5060
+	religion="catholic"
+	culture="dutch"
+	father=94008
+	mother=31118
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1302.7.11={
+		death="1302.7.11"
+	}
+}
+
+31106 = {
+	name="西蒙"
+	dynasty=5060
+	religion="catholic"
+	culture="dutch"
+	father=94008
+	mother=31118
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1304.1.1={
+		death="1304.1.1"
+	}
+}
+
+31108 = {
+	name="玛格丽塔" 
+	female=yes
+	dynasty=5060
+	religion="catholic"
+	culture="dutch"
+	father=94008
+	mother=31118
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1342.10.18={
+		death="1342.10.18"
+	}
+}
+
+31113 = {
+	name="玛蒂尔达" 
+	female=yes
+	dynasty=5060
+	religion="catholic"
+	culture="dutch"
+	father=94008
+	mother=31118
+	1284.1.1={
+		birth="1284.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+31120 = {
+	name="杨" 
+	dynasty=5060
+	trait="bastard"
+	religion="catholic"
+	culture="dutch"
+	father=462742
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1392.1.1={
+		death="1392.1.1"
+	}
+}
+
+31121 = {
+	name="威廉" 
+	dynasty=5060
+	trait="bastard"
+	religion="catholic"
+	culture="dutch"
+	father=462742
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+31122 = {
+	name="克莱斯" 
+	dynasty=5060
+	trait="bastard"
+	religion="catholic"
+	culture="dutch"
+	father=462742
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+
+31123 = {
+	name="赫丽特"
+	female=yes 
+	dynasty=7200 
+	religion="catholic"
+	culture="dutch"
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+31125 = {
+	name="鲍德温" #Boudewijn VII
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=10076
+	mother=293
+	1093.1.1={
+		birth="1093.1.1"
+	}
+	1119.6.17={
+		death="1119.6.17"
+	}
+}
+
+31126 = {
+	name="威廉"
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=10076
+	mother=293
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1119.1.11={
+		death="1119.1.11"
+	}
+}
+
+31127 = {
+	name="菲利普斯" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=368
+	mother=106521
+	1067.1.1={
+		birth="1067.1.1"
+	}
+	1127.1.1={
+		death="1127.1.1"
+	}
+}
+
+31128 = {
+	name="威廉" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	trait="legit_bastard"
+	father=31127
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1165.1.24={
+		death="1165.1.24"
+	}
+}
+
+31129 = {
+	name="格特鲁德" 
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=368
+	mother=106521
+	1078.1.1={
+		birth="1078.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+31130 = {
+	name="鲍德温" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=368
+	mother=106521
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+31131 = {
+	name="奥特希娃"  
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=368
+	mother=106521
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1127.1.1={
+		death="1127.1.1"
+	}
+}
+
+31132 = {
+	name="路德维克" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=10074
+	mother=94017
+	1089.1.1={
+		birth="1089.1.1"
+	}
+	
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+
+31133 = {
+	name="西蒙"
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=10074
+	mother=94017
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+31134 = {
+	name="亨德里克" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=10074
+	mother=94017
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	
+	1096.1.1={
+		death="1096.1.1"
+	}
+}
+
+31135 = {
+	name="威廉" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=10074
+	mother=94017
+	1092.1.1={
+		birth="1092.1.1"
+	}
+	
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+31136 = {
+	name="阿努尔夫" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=10074
+	mother=94017
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+
+31137 = {
+	name="伊达" 
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=10074
+	mother=94017
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+31138 = {
+	name="里希尔德" 
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=10074
+	mother=94017
+	1086.1.1={
+		birth="1086.1.1"
+	}
+	
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+31139 = {
+	name="艾莉蒂斯" 
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=10074
+	mother=94017
+	1098.1.1={
+		birth="1098.1.1"
+	}
+	
+	1153.1.1={
+		death="1153.1.1"
+	}
+}
+
+31140 = {
+	name="杰拉德" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=94015
+	mother=30012
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+31141 = {
+	name="格特鲁德" 
+	# AKA: Getrude
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=94015
+	mother=30012
+	1109.1.1={
+		birth="1109.1.1"
+	}
+	
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+31142 = {
+	name="里希尔德" 
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=94015
+	mother=30012
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+31143 = {
+	name="戈德弗里德" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=205521
+	mother=205945
+	1147.1.1={
+		birth="1147.1.1"
+	}
+	
+	1163.4.7={
+		death="1163.4.7"
+	}
+}
+
+31144 = {
+	name="亨德里克" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=205521
+	mother=205945
+	1159.1.1={
+		birth="1159.1.1"
+	}
+	
+	1207.1.1={
+		death="1207.1.1"
+	}
+}
+
+31145 = {
+	name="厄斯塔什" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	trait="ill"
+	father=205521
+	mother=205945
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+31146 = {
+	name="尤兰德" 
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=205521
+	mother=205945
+	1131.1.1={
+		birth="1131.1.1"
+	}
+	
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+31147 = {
+	name="洛莱特" 
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	trait="ill"
+	father=205521
+	mother=205945
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	
+	1181.9.6={
+		death="1181.9.6"
+	}
+}
+
+31148 = {
+	name="艾格尼丝" 
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=205521
+	mother=205945
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	
+	1168.1.1={
+		death="1168.1.1"
+	}
+}
+
+31149 = {
+	name="威廉" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	father=205521
+	
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	
+	1205.1.1={
+		death="1205.1.1"
+	}
+}
+
+31150 = {
+	name="杰拉德" 
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	father=205521
+	
+	1148.1.1={
+		birth="1148.1.1"
+	}
+	
+	1205.1.1={
+		death="1205.1.1"
+	}
+}
+
+31151 = {
+	name="戈德弗里德"
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	trait="ill"
+	father=205520
+	mother=212589
+	1182.1.1={
+		birth="1182.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+31153 = {
+	name="杰拉德"
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	father=205520
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1192.1.1={
+		death="1192.1.1"
+	}
+}
+
+358 = {
+	name="阿努尔夫" #Arnulf I
+	# AKA: Arnulf 'de Grote'
+	dynasty=724
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	father=90108
+	mother = 7629
+	890.1.1={
+		birth="890.1.1"
+	}
+	950.1.2={
+		add_spouse=359
+	}
+	964.3.28={
+		death="964.3.28"
+	}
+}
+
+360 = {
+	name="鲍德温" #Boudewijn III
+	dynasty=724
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="diligent"
+	trait="wroth"
+	trait="skilled_tactician"
+	father=358
+	mother=359
+	940.1.1={
+		birth="940.1.1"
+	}
+	960.1.1={
+		add_spouse = 1411
+	}
+	962.11.1={
+		death="962.11.1"
+	}
+}
+
+361 = {
+	name="阿努尔夫" #Arnulf II
+	dynasty=724
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="zealous"
+	trait="wroth"
+	trait="skilled_tactician"
+	father=360
+	mother=1411
+	961.1.1={
+		birth="961.1.1"
+	}
+	980.1.1={
+		add_spouse = 1111
+	}
+	987.3.10={
+		death="987.3.10"
+	}
+}
+
+362 = {
+	name="鲍德温" #Boudewijn IV
+	dynasty=724
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="craven"
+	trait="scholarly_theologian"
+	father=361
+	mother=1111
+	980.1.1={
+		birth="980.1.1"
+	}
+	1008.1.1={
+		add_spouse = 40710
+	}
+	1031.1.1={
+		add_spouse = 253
+	}
+	1035.5.30={
+		death="1035.5.30"
+	}
+}
+
+363 = {
+	name="朱迪丝"
+	female = yes
+	dynasty=724
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="flamboyant_schemer"
+	father=362
+	mother=253
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1094.3.5={
+		death="1094.3.5"
+	}
+}
+
+364 = {
+	name="鲍德温" #Boudewijn V
+	dynasty=724
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="tough_soldier"
+	father=362
+	mother=40710
+	1012.1.1={
+		birth="1012.1.1"
+	}
+	1028.1.2={
+		add_spouse=213 # Adele of France
+	}
+	1067.9.1={
+		death="1067.9.1"
+	}
+}
+
+366 = {
+	name="阿努尔夫" #Arnulf III
+	dynasty=724
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="honest"
+	trait="gluttonous"
+	trait="tough_soldier"
+	father=106643
+	mother=106640
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1071.2.22={
+		death="1071.2.22"
+	}
+}
+
+367 = {
+	name="玛蒂尔德"
+	female = yes
+	dynasty=724
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="dwarf"
+	trait="chaste"
+	trait="zealous"
+	trait="ambitious"
+	trait="fortune_builder"
+	father=364
+	mother=213
+	1032.1.1={
+		birth="1032.1.1"
+	}
+	1083.11.2={
+		death="1083.11.2"
+	}
+}
+
+368 = {
+	name="罗布雷赫特"
+	# AKA: Robert 'de Fries'
+	dynasty=724
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="tough_soldier"
+	father=364
+	mother=213
+	
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1063.1.1={
+		add_spouse=106521 # Gertrude of Saxony
+	}
+	1093.10.13={
+		death="1093.10.13"
+	}
+}
+
+369 = {
+	name="阿德尔海德"
+	female = yes
+	dynasty=724
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="temperate"
+	father=368
+	mother=106521
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+40712 = {
+	name="阿努尔夫" #Arnulf I
+	dynasty=432
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="tough_soldier"
+	father = 106550
+	mother = 94000
+	953.1.1={
+		birth="953.1.1"
+	}
+	980.5.1={
+		add_spouse=40709
+	}
+	993.9.18={
+		death="993.9.18"
+	}
+}
+
+40713 = {
+	name="德克" #Dirk III
+	# AKA: Dirk 'Hierosolymita'
+	dynasty=432
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	father=40712
+	mother=40709
+	982.1.1={
+		birth="982.1.1"
+	}
+	1014.1.1={
+		add_spouse=30008
+	}
+	
+	1039.5.27={
+		death="1039.5.27"
+	}
+}
+
+41010 = {
+	name="赫博尔德"
+	dynasty=747
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=9
+	religion="catholic"
+	culture="dutch"
+	trait="thrifty_clerk"
+	1022.1.2={
+		birth="1022.1.2"
+	}
+	1072.1.2={
+		death="1072.1.2"
+	}
+}
+
+41025 = {
+	name="拉姆布雷希特"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father = 7810
+	mother=161488
+	950.1.2={
+		birth="950.1.2"
+	}
+	994.1.1={
+		add_spouse = 7999
+	}
+	1015.1.1={
+		death="1015.1.1"
+	}
+}
+
+41718 = {
+	name="杰拉德"
+	dynasty=427
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="arbitrary"
+	trait="tough_soldier"
+	father=106542
+	mother=106541
+	1030.1.2={
+		birth="1030.1.2"
+	}
+	1054.1.2={
+		add_spouse=30010
+	}
+	1057.1.11={
+		death="1057.1.11"
+	}
+}
+
+41719 = {
+	name="亨德里克"
+	dynasty=427
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=41718
+	mother=30010
+	1056.1.2={
+		birth="1056.1.2"
+	}
+	1138.1.2={
+		death="1138.1.2"
+	}
+}
+
+41720 = {
+	name="杰拉德"
+	dynasty=427
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=41718
+	mother=30010
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1087.1.2={
+		add_spouse=30050
+	}
+	1129.10.16={
+		death="1129.10.16"
+	}
+}
+
+41722 = {
+	name="奥托"
+	dynasty=101918
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	trait="honest"
+	trait="midas_touched"
+	father=161367 
+	mother=41721
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1090.1.1={
+		add_spouse=30220
+	}
+	1113.1.2={
+		death="1113.1.2"
+	}
+}
+
+41723 = {
+	name="格布哈德"
+	dynasty=101918
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="thrifty_clerk"
+	father=161367
+	mother=41721
+	1057.1.2={
+		birth="1057.1.2"
+	}
+	1107.1.2={
+		death="1107.1.2"
+	}
+}
+
+41725 = {
+	name="阿诺德" #1078-1126
+	dynasty=424
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="thrifty_clerk"
+	father=106570
+	mother=31090
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1081.1.1={
+	add_spouse = 33062
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+
+41726 = {
+	name="亨德里克"
+	dynasty=7198
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="brave"
+	trait="tough_soldier"
+	father=106600
+	mother=106603
+	1058.1.1={
+		birth="1058.1.1"
+	}
+	1094.1.1={
+	add_spouse=31129
+	}
+	1095.3.1={
+		death="1095.3.1"
+	}
+}
+
+41727 = {
+	name="阿德尔贝特"
+	dynasty=7198
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	father=106600
+	mother=106603
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1128.1.1={
+		death="1128.1.1"
+	}
+}
+
+41728 = {
+	name="雷基那尔"
+	# AKA: Reginard
+	dynasty=7198
+	martial=6
+	diplomacy=4
+	intrigue=3
+	stewardship=3
+	religion="catholic"
+	culture="dutch"
+	trait="tough_soldier"
+	father=106602
+	mother=106601
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1077.1.1={
+		death="1077.1.1"
+	}
+}
+
+456558 = {
+	name="索菲娅"
+	# AKA: Sophia Berthout
+	female = yes
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=9
+	religion="catholic"
+	culture="dutch"
+	trait="amateurish_plotter"
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1329.1.2={
+		death="1329.1.2"
+	}
+}
+
+462006 = {
+	name="杨" #bishop of Sticht
+	dynasty=101898
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="patient"
+	trait="charitable"
+	trait="gluttonous"
+	trait="martial_cleric"
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1340.6.1={
+		death="1340.6.1"
+	}
+}
+
+462161 = {
+	name="玛蒂尔德"
+	female = yes
+	dynasty=424
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="diligent"
+	trait="charismatic_negotiator"
+	father=33089
+	1274.1.1={
+		birth="1274.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+
+462166 = {
+	name="卡特琳娜"
+	# AKA: Katharina von Voorne
+	female = yes
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="charitable"
+	trait="scholarly_theologian"
+	1301.1.1={
+		birth="1301.1.1"
+	}
+	1351.1.1={
+		death="1351.1.1"
+	}
+}
+
+462171 = {
+	name="艾诺" #Graf von Ostfriesland
+	dynasty=7128 #Cirksena
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="lustful"
+	trait="tough_soldier"
+	father=30364 #Sitat
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+462172 = {
+	name="艾达"
+	# AKA: Adda von Groothusen
+	female = yes
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="wroth"
+	trait="amateurish_plotter"
+	1302.1.1={
+		birth="1302.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+462173 = {
+	name="艾塔"
+	female = yes
+	dynasty=7128 #Cirksena
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="thrifty_clerk"
+	father=462171
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	1401.1.1={
+		death="1401.1.1"
+	}
+}
+
+462742 = {
+	name="威廉" #Willem III
+	# AKA: Guillaume
+	dynasty=5060
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	add_trait="cynical"
+	add_trait="skilled_tactician"
+	father=94008
+	mother=31118
+	1287.1.1={
+		birth="1287.1.1"
+	}
+	1305.5.19={
+		add_spouse=455501 # Joan of Valois, Countess of Hainaut
+	}
+	1337.6.7={
+		death="1337.6.7"
+	}
+}
+
+462931 = {
+	name="尤安娜"
+	female = yes
+	dynasty=5060
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="flamboyant_schemer"
+	father=462742
+	mother=455501 # Jeanne, Countess of Hainaut
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1374.1.1={
+		death="1374.1.1"
+	}
+}
+
+462941 = {
+	name="伊丽莎白"
+	# AKA: Elisabet
+	female = yes
+	dynasty=7198
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="patient"
+	trait="proud"
+	trait="flamboyant_schemer"
+	father=487058
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+
+479 = {
+	name="索菲娅"
+	female = yes
+	dynasty=424
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	father=106570
+	mother=31090
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+487011 = {
+	name="威廉" #Willem IV
+	# AKA: Guillaume
+	dynasty=5060
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="chaste"
+	trait="charismatic_negotiator"
+	father=462742
+	mother=455501 # Jeanne, Countess of Hainaut
+	1307.1.1={
+		birth="1307.1.1"
+	}
+	1324.1.2={
+		add_spouse=487012
+	}
+	1345.9.26={
+		death="1345.9.26"
+	}
+}
+
+487013 = {
+	name="伊莎贝拉"
+	# AKA: Isabelle
+	female = yes
+	dynasty=5060
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="thrifty_clerk"
+	father=462742
+	mother=455501 # Jeanne, Countess of Hainaut
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+
+90108 = {
+	name="鲍德温" #Boudewijn II
+	dynasty=724
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="dutch"
+	father=90109
+	mother=90110
+	865.1.1={
+		birth="865.1.1"
+	}
+	889.1.1={
+		add_spouse = 7629
+	}
+	918.9.10={
+		death="918.9.10"
+	}
+}
+
+90109 = {
+	name="鲍德温" #Boudewijn I
+	dynasty=724
+	trait="fortune_builder"
+	trait="deceitful"
+	religion="catholic"
+	culture="dutch"
+	father=168234
+	837.1.1={
+		birth="837.1.1"
+	}
+	862.12.13={
+		add_spouse=90110
+	}
+	879.1.1={
+		death="879.1.1"
+	}
+}
+
+94000 = {
+	name="依尔蒂嘉德"
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=358
+	mother=359
+	936.1.1={
+		birth="936.1.1"
+	}
+	990.4.10={
+		death="990.4.10"
+	}
+}
+
+94003 = {
+	name="威廉" #Willem II 
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	trait="proud"
+	trait="ambitious"
+	father=106558
+	mother=106557
+	1227.1.1={
+		birth="1227.1.1"
+	}
+	1252.1.1={
+		add_spouse=31093
+	}
+	
+	1256.1.28={
+		death="1256.1.28"
+	}
+}
+
+94005 = {
+	name="弗洛里斯" #Floris V
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	trait="just"
+	trait="kind"
+	trait="charitable"
+	father=94003
+	mother=31093
+	1254.6.24={
+		birth="1254.6.24"
+	}
+	1271.1.1={
+		add_spouse=94006
+	} 
+	1286.3.19={
+	add_claim = k_scotland
+	}
+	
+	1296.6.27={
+		death="1296.6.27"
+	}
+}
+
+94007 = {
+	name="杨" #Jan I
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	trait="ill"
+	trait="thrifty_clerk"
+	father=94005
+	mother=94006
+	1284.1.1={
+		birth="1284.1.1"
+	}
+	1297.1.7={
+		add_spouse=454516
+	} 
+	1299.11.10={
+		death="1299.11.10"
+	}
+}
+
+94008 = {
+	name="杨" #Jan II
+	dynasty=5060
+	religion="catholic"
+	culture="dutch"
+	father=94009
+	mother=94010
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1270.1.1={
+		add_spouse=31118
+	}
+	1304.8.22={
+		death="1304.8.22"
+	}
+}
+
+94010 = {
+	name="阿莱迪斯"
+	# AKA: Aleid
+	female=yes
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=106558
+	mother=106557
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	
+	#1246 marries Jan d'Avesnes
+	
+	1284.1.1={
+		death="1284.1.1"
+	}
+}
+
+94014 = {
+	name="玛格丽塔"
+	female = yes
+	dynasty=7198
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=206852
+	mother=205854
+	
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+
+94015 = {
+	name="鲍德温" #count of Hainault
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=10074
+	mother=94017
+	1088.1.1={
+		birth="1088.1.1"
+	}
+	1107.1.1={
+		add_spouse=30012
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+94017 = {
+	name="伊达"
+	female = yes
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=106600
+	mother=106603
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+
+94018 = {
+	name="雷基那尔"
+	# AKA: Reinier
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=41025
+	mother=7999
+	998.1.1={
+		birth="998.1.1"
+	}
+	1030.1.1={
+		death="1030.1.1"
+	}
+}
+
+94019 = {
+	name="赫尔曼"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=106642
+	mother=106641
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1040.1.1={
+		add_spouse = 106640
+	}
+	1051.1.1={
+		death="1051.1.1"
+	}
+}
+
+94021 = {
+	name="尤安娜"
+	female=yes
+	dynasty=724
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	father=205523
+	mother=205965
+	1194.1.1={
+		birth="1194.1.1"
+	}
+	1244.12.5={
+		death="1244.12.5"
+	}
+}
+
+94022 = {
+	name="奥托" #bishop of Sticht
+	dynasty=432 #Gerulfing
+	religion="catholic"
+	culture="dutch"
+	father=206843
+	mother=30026
+	1211.7.1={
+		birth="1211.7.1"
+	}
+	1227.8.1={
+		capital=c_sticht
+	}
+	1249.3.27={
+		death="1249.3.27"
+	}
+}
+
+94023 = {
+	name="胡韦德" #bishop of Sticht
+	dynasty=5060 #d'Avesnes
+	religion="catholic"
+	culture="dutch"
+	father=94009
+	mother=94010
+	1253.1.1={
+		birth="1253.1.1"
+	}
+	1317.5.23={
+		death="1317.5.23"
+	}
+}
+
+31350 = {
+	name="阿赫妮特露德"
+	female=yes
+	dynasty=100078 #van Brugge
+	religion="catholic"
+	culture="dutch"
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1123.1.1={
+		death="1123.1.1"
+	}
+}
+
+31377= {
+	name="伊玛吉娜"
+	female = yes
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206800
+	mother=30021
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1244.8.1={
+		death="1244.8.1"
+	}
+}
+
+31759 = {
+	name="海尔温格"
+	female=yes
+	dynasty=6016
+	religion="catholic"
+	culture="dutch"
+	father=31797
+	1265.1.2={
+		birth="1265.1.2"
+	}	
+	1324.1.1={
+		death="1324.1.1"
+	}
+}
+31797 = {
+	name="弗洛里斯"
+	dynasty=6016
+	religion="catholic"
+	culture="dutch"
+	father=30061
+	mother=30062
+	1222.1.1={
+		birth="1222.1.1"
+	}	
+	1290.1.2={
+		death="1290.1.2"
+	}
+}
+
+32153 = {
+	name="温妮玛"
+	dynasty=421
+	religion="catholic"
+	culture="dutch"
+	father=32200
+	1070.1.1={
+		birth="1070.1.1"
+	} 
+	1114.1.1={
+		add_spouse=32154
+	} 
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+32200 = {
+	name="兰伯特"
+	dynasty=421
+	religion="catholic"
+	culture="dutch"
+	father=32201
+	1028.1.1={
+		birth="1028.1.1"
+	} 
+	
+	1073.1.1={
+		death="1073.1.1"
+	}
+}
+32201 = {
+	name="佛克哈德"
+	dynasty=421
+	religion="catholic"
+	culture="dutch"
+	father=32202
+	1005.1.1={
+		birth="1005.1.1"
+	} 
+	
+	1064.1.1={
+		death="1064.1.1"
+	}
+}
+
+32202 = {
+	name="兰伯特"
+	dynasty=421
+	religion="catholic"
+	culture="dutch"
+	976.1.1={
+		birth="976.1.1"
+	} 
+	
+	1026.1.1={
+		death="1026.1.1"
+	}
+}
+
+32203 = {
+	name="沃尔特"
+	dynasty=434 #van Gent/de Gand
+	religion="catholic"
+	culture="dutch"
+	father=106595
+	1098.1.1={
+		birth="1098.1.1"
+	}
+	1118.1.1 = {
+		add_spouse=91276
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+
+32204 = {
+	name="罗布雷赫特" #chancellor of England
+	dynasty=421
+	trait="grey_eminence"
+	religion="catholic"
+	culture="dutch"
+	father=106595
+	1093.1.1={
+		birth="1093.1.1"
+	}
+	1135.12.2={
+		employer=205851 #Stephen de Blois
+	}
+	1153.1.1={
+		death="1153.1.1"
+	}
+}
+
+33188 = {
+	name="亨德里克"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	trait="imbecile" 
+	father=487056
+	mother=33189
+	1253.1.1 = {
+		birth="1253.1.1"
+	}
+	1272.1.21 = {
+		death="1272.1.21"
+	}
+}
+
+33190 = {
+	name="国泽林"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	father=106604
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+33191 = {
+	name="杨"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	father=487040
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1361.1.27 = {
+		death="1361.1.27"
+	}
+}
+
+#graven van Aarschot
+
+33192 = {
+	name="阿诺德"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	1010.1.1 = {
+		birth="1010.1.1"
+	}
+	1060.1.1 = {
+		death="1060.1.1"
+	}
+}
+
+33193 = {
+	name="阿诺德"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	father=33192
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+
+33194 = {
+	name="戈德弗里德"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	father=33193
+	1088.1.1 = {
+		birth="1088.1.1"
+	}
+	1139.1.1 = {
+		death="1139.1.1"
+	}
+}
+
+33195 = {
+	name="阿诺德"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	father=33193
+	1082.1.1 = {
+		birth="1082.1.1"
+	}
+	1136.1.1 = {
+		death="1136.1.1"
+	}
+}
+
+33196 = {
+	name="阿诺德"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	father=33195
+	1105.1.1 = {
+		birth="1105.1.1"
+	}
+	1152.1.1 = {
+		death="1152.1.1"
+	}
+}
+
+33197 = {
+	name="戈德弗里德"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	father=33196
+	1135.1.1 = {
+		birth="1135.1.1"
+	}
+	1174.1.1 = {
+		death="1174.1.1"
+	}
+}
+
+33198 = {
+	name="卡雷尔"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	father=33197
+	1155.1.1 = {
+		birth="1155.1.1"
+	}
+	1199.1.1 = {
+		death="1199.1.1"
+	}
+}
+
+33199 = {
+	name="卡雷尔"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	father=33198
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1245.1.1 = {
+		death="1245.1.1"
+	}
+}
+
+33200 = {
+	name="雷基那尔"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	father=33199
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1267.1.1 = {
+		death="1267.1.1"
+	}
+}
+
+33201 = {
+	name="卡雷尔"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	father=33200
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1272.1.1 = {
+		death="1272.1.1"
+	}
+}
+
+33202 = {
+	name="卡雷尔"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	father=33201
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1339.12.3 = {
+		death="1339.12.3"
+	}
+}
+
+33203 = {
+	name="卡雷尔"
+	dynasty=7280
+	religion="catholic"
+	culture="dutch"
+	father=33202
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1354.1.1 = {
+		death="1354.1.1"
+	}
+}
+
+33210 = {
+	name="亨德里克"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=106604
+	mother=33209
+	1109.1.1={
+		birth="1109.1.1"
+	}
+	1141.9.27={
+		death="1141.9.27"
+	}
+}
+
+33215 = {
+	name="奥托"
+	dynasty=427
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	father=33100
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1196.1.1 = {
+		death="1196.1.1"
+	}
+}
+
+33216 = {
+	name="阿尔布雷希特"
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.2.1 = {
+		death="1200.2.1"
+	}
+}
+
+33221 = {
+	name="威廉"
+	dynasty=7175
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1295.1.1 = {
+		death="1295.1.1"
+	}
+}
+
+33060 = {
+	name="迪德里克"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=106570
+	mother=31090
+	1061.1.1={
+		birth="1061.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+33061 = {
+	name="雷诺德"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=106570
+	mother=31090
+	1063.1.1={
+		birth="1063.1.1"
+	}
+	1131.1.1={
+		death="1131.1.1"
+	}
+}
+
+33063 = {
+	name="阿诺德" #1126-1139
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=41725
+	mother=33062
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1082.1.1={
+		add_spouse = 33064
+	}
+	1139.4.11={
+		death="1139.4.11"
+	}
+}
+
+33065 = {
+	name="贝娅翠克西"
+	female=yes
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=41725
+	mother=33062
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+}
+
+33066 = {
+	name="杰拉德"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33063
+	mother=33064
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1138.1.1={
+		death="1138.1.1"
+	}
+}
+
+33067 = {
+	name="歌德夏尔克"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33063
+	mother=33064
+	1114.1.1={
+		birth="1114.1.1"
+	}
+	1138.1.1={
+		death="1138.1.1"
+	}
+}
+
+33068 = {
+	name="伊玛吉娜"
+	female=yes
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33063
+	mother=33064
+	1116.1.1={
+		birth="1116.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+33069 = {
+	name="杨"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33063
+	mother=33064
+	1118.1.1={
+		birth="1118.1.1"
+	}
+	1180.6.23={
+		death="1180.6.23"
+	}
+}
+
+33070 = {
+	name="阿诺德"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206801
+	mother=31548
+	1144.1.1={
+		birth="1144.1.1"
+	}
+	1157.1.1={
+		death="1157.1.1"
+	}
+}
+
+33071 = {
+	name="胡果"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206801
+	mother=31548
+	1146.1.1={
+		birth="1146.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+33072 = {
+	name="洛莱特"
+	female=yes
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206801
+	mother=31548
+	1154.1.1={
+		birth="1154.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+33073 = {
+	name="迪德里克"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206800
+	mother=30021
+	1186.1.1={
+		birth="1186.1.1"
+	}
+	1207.1.1={
+		death="1207.1.1"
+	}
+}
+
+33074 = {
+	name="威廉"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206800
+	mother=30021
+	1187.1.1={
+		birth="1187.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+33075 = {
+	name="玛蒂尔德"
+	female=yes
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206800
+	mother=30021
+	1189.1.1={
+		birth="1189.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+
+33076 = {
+	name="路德维克" #1221-1227
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206804
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	
+	1236.8.11={
+		death="1236.8.11"
+	}
+}
+
+33077 = {
+	name="阿诺德" #1236-1272
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206804
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1272.11.24={
+		death="1272.11.24"
+	}
+}
+
+33078 = {
+	name="杰拉德"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206804
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1272.1.17={
+		death="1272.1.17"
+	}
+}
+
+33079 = {
+	name="贝托尔德"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206804
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1272.1.1={
+		death="1272.1.1"
+	}
+}
+
+33080 = {
+	name="伊玛吉娜"
+	female=yes
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206804
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1265.1.1={
+		death="1265.1.1"
+	}
+}
+
+33081 = {
+	name="杨" #1272-1278
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33077
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	
+	1278.1.19={
+		death="1278.1.19"
+	}
+}
+
+33082 = {
+	name="路德维克"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33077
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	
+	1299.9.16={
+		death="1299.9.16"
+	}
+}
+
+33083 = {
+	name="阿诺德"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33077
+	1234.1.1={
+		birth="1234.1.1"
+	}
+	
+	1273.7.30={
+		death="1273.7.30"
+	}
+}
+
+33084 = {
+	name="亨德里克"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33077
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+33085 = {
+	name="杰拉德"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33077
+	1237.1.1={
+		birth="1237.1.1"
+	}
+	
+	1287.1.1={
+		death="1287.1.1"
+	}
+}
+
+33086 = {
+	name="伊丽莎白"
+	female=yes
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33077
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	
+	1251.1.1={
+		death="1251.1.1"
+	}
+}
+
+
+33087 = {
+	name="阿德尔海德"
+	female=yes
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33077
+	1231.1.1={
+		birth="1231.1.1"
+	}
+	
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+
+33088 = {
+	name="玛格丽塔"
+	female=yes
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33077
+	1233.1.1={
+		birth="1233.1.1"
+	}
+	
+	1304.1.1={
+		death="1304.1.1"
+	}
+}
+
+33089 = {
+	name="阿诺德" #1279-1327
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33081
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	#married Mathilde von Julich
+	1327.8.22={
+		death="1327.8.22"
+	}
+}
+
+33090 = {
+	name="杨"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33081
+	1258.1.1={
+		birth="1258.1.1"
+	}
+	
+	1311.1.1={
+		death="1311.1.1"
+	}
+}
+
+33091 = {
+	name="雅各宾"
+	female=yes
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33081
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+33092 = {
+	name="路德维克" #1327-1336
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33089
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1336.4.22={
+		death="1336.4.22"
+	}
+}
+
+33093 = {
+	name="威廉"
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=33089
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	
+	1317.10.1={
+		death="1317.10.1"
+	}
+}
+
+33098 = {
+	name="国泽温"
+	dynasty=427
+	religion="catholic"
+	culture="dutch"
+	father=106544
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+33099 = {
+	name="杰拉德"
+	dynasty=427
+	religion="catholic"
+	culture="dutch"
+	father=106544
+	1078.1.1={
+		birth="1078.1.1"
+	}
+	1098.1.1={
+		add_spouse=168550
+	}
+	1128.4.1={
+		death="1128.4.1"
+	}
+}
+
+33100 = {
+	name="国泽温"
+	dynasty=427
+	religion="catholic"
+	culture="dutch"
+	father=33099
+	mother=16550
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1168.4.8={
+		death="1168.4.8"
+	}
+}
+
+33101 = {
+	name="国泽温"
+	dynasty=427
+	religion="catholic"
+	culture="dutch"
+	father=33100
+	1139.1.1={
+		birth="1139.1.1"
+	}
+	1179.4.11={
+		death="1179.4.11"
+	}
+}
+
+33102 = {
+	name="戈德弗里德"
+	dynasty=427
+	religion="catholic"
+	culture="dutch"
+	father=33100
+	1148.1.1={
+		birth="1148.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+33103 = {
+	name="阿德尔海德"
+	female=yes
+	dynasty=427
+	religion="catholic"
+	culture="dutch"
+	father=33102
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1217.2.12={
+		death="1217.2.12"
+	}
+}
+
+33104 = {
+	name="迪德里克"
+	dynasty=427
+	religion="catholic"
+	culture="dutch"
+	father=30954
+	mother=33103
+	1192.1.1 = {
+		birth="1192.1.1"
+	}
+	1228.1.1 = {
+		death="1228.1.1"
+	}
+}
+
+33105 = {
+	name="艾格尼丝"
+	female=yes
+	dynasty=427
+	religion="catholic"
+	culture="dutch"
+	father=33104
+	1214.1.1 = {
+		birth="1214.1.1"
+	}
+	1267.1.1 = {
+		death="1267.1.1"
+	}
+}
+
+33108 = {
+	name="伯恩"
+	female=yes
+	dynasty=424
+	religion="catholic"
+	culture="dutch"
+	father=206801
+	mother=31548
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+106556 = {
+	name="玛丽亚"
+	# AKA: Adelhed
+	female=yes
+	dynasty=7198
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="dutch"
+	trait="misguided_warrior"
+	father=206852
+	mother=205854
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1218.1.1 = {
+		death="1218.1.1"
+	}
+}
+
+7473 = {
+	name="阿德尔海德"
+	female=yes
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=206852
+	mother=205854
+	1191.1.1 = {
+		birth="1191.1.1"
+	}
+	1261.1.1 = {
+		death="1261.1.1"
+	}
+}
+
+106557 = {
+	name="玛蒂尔德"
+	# AKA: Mathilde
+	female=yes
+	dynasty=7198 
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="dutch"
+	trait="misguided_warrior"
+	father=206852
+	mother=205854
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1267.12.22 = {
+		death="1267.12.22"
+	}
+}
+
+455408 = {
+	name="玛蒂尔德"
+	# AKA: Matilda
+	female=yes
+	dynasty=7198
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	father=487057
+	mother=7651
+	1224.1.1 = {
+		birth="1224.1.1"
+	}
+	1288.1.1 = {
+		death="1288.1.1"
+	}
+}
+
+487046 = {
+	name="亨德里克"
+	dynasty=7198
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="thrifty_clerk"
+	father=487044
+	mother=487045
+	1328.1.1 = {
+		birth="1328.1.1"
+	}
+	1349.1.1 = {
+		death="1349.1.1"
+	}
+}
+
+487048 = {
+	name="戈德弗里德"
+	# AKA: Godfrey
+	dynasty=7198
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="thrifty_clerk"
+	father=487044
+	mother=487045
+	1329.1.1 = {
+		birth="1329.1.1"
+	}
+	1352.1.1 = {
+		death="1352.1.1"
+	}
+}
+
+487050 = {
+	name="玛格丽塔"
+	female=yes
+	dynasty=7198
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="envious"
+	trait="thrifty_clerk"
+	father=487044
+	mother=487045
+	1323.1.1 = {
+		birth="1323.1.1"
+	}
+	1368.1.1 = {
+		death="1368.1.1"
+	}
+}
+
+487051 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=7198
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="thrifty_clerk"
+	father=487044
+	mother=487045
+	1325.1.1 = {
+		birth="1325.1.1"
+	}
+	1399.1.1 = {
+		death="1399.1.1"
+	}
+}
+
+487052 = {
+	name="威廉"
+	dynasty=7198
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	trait="martial_cleric"
+	father=487044
+	mother=487045
+	1329.1.1 = {
+		birth="1329.1.1"
+	}
+	1354.1.1 = {
+		death="1354.1.1"
+	}
+}
+
+487053 = {
+	name="杨"
+	dynasty=7198
+	martial=8
+	diplomacy=2
+	intrigue=9
+	stewardship=3
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	trait="wroth"
+	trait="tough_soldier"
+	father=487044
+	mother=487045
+	1329.1.1 = {
+		birth="1329.1.1"
+	}
+	1354.1.1 = {
+		death="1354.1.1"
+	}
+}
+
+487054 = {
+	name="尤安娜"
+	female=yes
+	dynasty=7198
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="bastard"
+	trait="thrifty_clerk"
+	father=487044
+	1332.1.1 = {
+		birth="1332.1.1"
+	}
+	1411.1.1 = {
+		death="1411.1.1"
+	}
+}
+
+487055 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=7198
+	martial=6
+	diplomacy=3
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	father=487040
+	mother=487041
+	1279.1.1 = {
+		birth="1279.1.1"
+	}
+	1338.11.2 = {
+		death="1338.11.2"
+	}
+}
+
+487056 = {
+	name="亨德里克"
+	dynasty=7198
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="dutch"
+	trait="misguided_warrior"
+	father=487057
+	mother=7651
+	1231.1.1 = {
+		birth="1231.1.1"
+	}
+	1251.1.1 = {
+		add_spouse=33189
+	}
+	1261.2.28 = {
+		death="1261.2.28"
+	}
+}
+
+487057 = {
+	name="亨德里克"
+	dynasty=7198
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="dutch"
+	trait="skilled_tactician"
+	father=206852
+	mother=205854
+	1207.1.1 = {
+		birth="1207.1.1"
+	}
+	1223.1.1 = {
+		add_spouse=7651
+	}
+	1241.1.1 = {
+		add_spouse=33389
+	}
+	1248.2.1 = {
+		death="1248.2.1"
+	}
+}
+
+487058 = {
+	name="戈德弗里德"
+	# AKA: Godfrey
+	dynasty=7198
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="dutch"
+	trait="misguided_warrior"
+	father=487056
+	mother=33189
+	1256.1.1 = {
+		birth="1256.1.1"
+	}
+	1302.7.11 = {
+		death="1302.7.11"
+	}
+}
+
+106640 = {
+	name="里希尔德"
+	female=yes
+	dynasty=7198
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=94018
+	1021.1.1 = {
+		birth="1021.1.1"
+	}
+	1086.3.15 = {
+		death="1086.3.15"
+	}
+}
+
+455530 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=7198
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="dutch"
+	trait="amateurish_plotter"
+	father=487056
+	mother=33189
+	1256.1.1 = {
+		birth="1256.1.1"
+	}
+	1322.1.12 = {
+		death="1322.1.12"
+	}
+}
+
+487012 = {
+	name="尤安娜"
+	female=yes
+	dynasty=7198
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="thrifty_clerk"
+	father=487044
+	mother=487045
+	1322.6.24 = {
+		birth="1322.6.24"
+	}
+	1406.12.1 = {
+		death="1406.12.1"
+	}
+}
+
+487040 = {
+	name="杨"
+	dynasty=7198
+	martial=9
+	diplomacy=7
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="dutch"
+	trait="skilled_tactician"
+	father=487056
+	mother=33189
+	1254.1.1 = {
+		birth="1254.1.1"
+	}
+	1273.1.2 = {
+		add_spouse=487041
+	}
+	1294.5.3 = {
+		death="1294.5.3"
+	}
+}
+
+487042 = {
+	name="杨"
+	dynasty=7198
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="lustful"
+	trait="underhanded_rogue"
+	father=487040
+	mother=487041
+	1275.9.27 = {
+		birth="1275.9.27"
+	}
+	1290.7.8 = {
+		add_spouse=487043
+	}
+	1312.10.27 = {
+		death="1312.10.27"
+	}
+}
+
+487044 = {
+	name="杨"
+	dynasty=7198
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="dutch"
+	trait="lustful"
+	trait="underhanded_rogue"
+	father=487042
+	mother=487043
+	1300.10.20 = {
+		birth="1300.10.20"
+	}
+	1316.12.1 = {
+		add_spouse=487045
+	}
+	1355.12.5 = {
+		death="1355.12.5"
+	}
+}
+
+7810 = {
+	name="雷基那尔"
+	# AKA: Renier
+	dynasty=7198
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="amateurish_plotter"
+	father=7811
+	910.1.1 = {
+		birth="910.1.1"
+	}
+	946.1.1={
+		add_spouse = 161488
+	}
+	973.1.1 = {
+		death="973.1.1"
+	}
+}
+
+
+7811 = {
+	name="雷基那尔"
+	# AKA: Renier
+	dynasty=7198
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="amateurish_plotter"
+	father=7812
+	880.1.1 = {
+		birth="880.1.1"
+	}
+	932.1.1 = {
+		death="932.1.1"
+	}
+}
+
+7812 = {
+	name="雷基那尔"
+	# AKA: Renier
+	dynasty=7198
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="amateurish_plotter"
+	father=7815
+	mother=7814
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	915.1.1 = {
+		death="915.1.1"
+	}
+}
+
+7813 = {
+	name="吉萨尔贝特"
+	dynasty=7198
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="amateurish_plotter"
+	father=7812
+	879.1.1 = {
+		birth="879.1.1"
+	}
+	929.1.1 = {
+		add_spouse=1289
+	}
+	939.10.2 = {
+		death="939.10.2"
+	}
+}
+
+7815 = {
+	name="吉萨尔贝特"
+	dynasty=7198
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="amateurish_plotter"
+	821.1.1 = {
+		birth="821.1.1"
+	}
+	846.1.1 = {
+		add_spouse=7814
+	}
+	892.1.1 = {
+		death="892.1.1"
+	}
+}
+
+7998 = {
+	name="雷基那尔"
+	# AKA: Renier
+	dynasty=7198
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	trait="amateurish_plotter"
+	father=7810
+	mother=161488
+	947.1.1 = {
+		birth="947.1.1"
+	}
+	996.1.1 = {
+		add_spouse=203
+	}
+	1013.1.1 = {
+		death="1013.1.1"
+	}
+}
+
+455932 = {
+	name="布兰雪" #de Brabant
+	female = yes
+	dynasty=7198 #Reginar
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	learning=5
+	religion="catholic"
+	culture="dutch"
+	trait="amateurish_plotter"
+	father=487058 #Godefroy de Brabant 
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	#1306 maried Jean I de Thouars 455931
+	1337.1.29 = {
+		death="1337.1.29"
+	}
+}
+
+129001 = {
+	name="阿德尔海德" #Spouse of 394999
+	# AKA: Adelheide
+	dynasty=7198
+	female=yes
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="dutch"
+	father=41726
+	mother=31129
+	1095.1.1 = {
+		birth="1095.1.1"
+	}
+	1158.1.1 = {
+		death="1158.1.1"
+	}
+}
+
+33388 = {
+	name="贝娅翠克西"
+	female=yes
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=487057
+	mother=7651
+	1225.1.1 = {
+		birth="1225.1.1"
+	}
+	1288.11.11 = {
+		death="1288.11.11"
+	}
+}
+
+33595 = {
+	name="沃尔夫格"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	1131.1.1 = {
+		death="1131.1.1"
+	}
+}
+
+33596 = {
+	name="艾荷贝特"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33595
+	1105.1.1 = {
+		birth="1105.1.1"
+	}
+	1172.1.1 = {
+		death="1172.1.1"
+	}
+}
+
+33597 = {
+	name="海尔斯布雷切特"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33596
+	1145.1.1 = {
+		birth="1145.1.1"
+	}
+	1188.1.1 = {
+		death="1188.1.1"
+	}
+}
+
+33598 = {
+	name="亨德里克"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33596
+	1146.1.1 = {
+		birth="1146.1.1"
+	}
+	1172.1.1 = {
+		death="1172.1.1"
+	}
+}
+
+33599 = {
+	name="艾荷贝特"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33597
+	1161.1.1 = {
+		birth="1161.1.1"
+	}
+	1187.1.1 = {
+		death="1187.1.1"
+	}
+}
+
+33600 = {
+	name="海尔斯布雷切特"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33599
+	1176.1.1 = {
+		birth="1176.1.1"
+	}
+	1243.1.1 = {
+		death="1243.1.1"
+	}
+}
+
+33601 = {
+	name="海尔斯布雷切特"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33600
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1252.1.1 = {
+		death="1252.1.1"
+	}
+}
+
+33602 = {
+	name="阿伦特"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33600
+	1201.1.1 = {
+		birth="1201.1.1"
+	}
+	1251.1.1 = {
+		death="1251.1.1"
+	}
+}
+
+33603 = {
+	name="海尔斯布雷切特"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33601
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1303.1.1 = {
+		death="1303.1.1"
+	}
+}
+
+33604 = {
+	name="威廉"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33601
+	1232.1.1 = {
+		birth="1232.1.1"
+	}
+	1282.1.1 = {
+		death="1282.1.1"
+	}
+}
+
+33605 = {
+	name="阿诺德"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33601
+	1234.1.1 = {
+		birth="1234.1.1"
+	}
+	1291.5.12 = {
+		death="1291.5.12"
+	}
+}
+
+33606 = {
+	name="杨"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33603
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1345.1.1 = {
+		death="1345.1.1"
+	}
+}
+
+33607 = {
+	name="海尔斯布雷切特"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33605
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1342.1.1 = {
+		death="1342.1.1"
+	}
+}
+
+33608 = {
+	name="阿诺德"
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33607
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1308.1.1={
+		add_spouse=31100
+	} 
+	1364.1.1 = {
+		death="1364.1.1"
+	}
+}
+
+33609 = {
+	name="吉优塔"
+	female=yes
+	dynasty=6001
+	religion="catholic"
+	culture="dutch"
+	father=33608
+	mother=31100
+	1320.1.1 = {
+		birth="1320.1.1"
+	}
+	1374.1.1 = {
+		death="1374.1.1"
+	}
+}
+
+144993= {
+	name="奥托"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=144994
+	881.1.1 = {
+		birth="881.1.1"
+	}
+	944.1.1 = {
+		death="944.1.1"
+	}
+}
+
+144994 = {
+	name="雷赫文"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=7815
+	mother=7814
+	851.1.1 = {
+		birth="851.1.1"
+	}
+	923.11.15 = {
+		death="923.11.15"
+	}
+}
+
+144995 = {
+	name="奥托"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=144996
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+144996 = {
+	name="亨德里克"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=41025
+	mother = 7999
+	994.1.1={
+		birth="994.1.1"
+	}
+	1038.8.5={
+		death="1038.8.5"
+	}
+}
+
+
+163046 = {
+	name="弗里德里克"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=7812
+	881.1.1 = {
+		birth="881.1.1"
+	}
+	954.10.1 = {
+		death="954.10.1 "
+	}
+}
+
+161296 = {
+	name="鲁道夫"
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=7811
+	930.1.1 = {
+		birth="930.1.1"
+	}
+	990.1.1 = {
+		death="990.1.1"
+	}
+}
+
+161295 = {
+	name="罗希尔" #Roger Reginar
+	dynasty=7198 #Reginar
+	religion="catholic"
+	culture="dutch"
+	father=94019 #Herman Reginar
+	mother=106640 #Richilde Reginar
+	1041.1.1 = {
+		birth="1041.1.1"
+	}
+	1093.1.1 = {
+		death="1093.1.1"
+	}
+}
+
+161344 = {
+	name="埃尔斯特罗特"
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=358
+	mother=359
+	940.1.1={
+		birth="940.1.1"
+	}
+	966.1.1={
+		death="966.1.1"
+	}
+}
+
+161367 = {
+	name="戈德沙尔克"
+	dynasty=101918
+	religion="catholic"
+	culture="dutch"
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1048.1.1 = {
+		add_spouse=41721
+	}
+	1063.1.1 = {
+		death="1063.1.1"
+	}
+}
+
+161530 = {
+	name="埃弗哈德"
+	dynasty=101554
+	religion="catholic"
+	culture="dutch"
+	father=161529
+	990.1.1 = {
+		birth="990.1.1"
+	}
+	1033.1.1 = {
+		death="1033.1.1"
+	}
+}
+
+161558 = {
+	name="威廉"
+	dynasty=6016
+	religion="catholic"
+	culture="dutch"
+	father=30061
+	mother=30062
+	1226.1.1={
+		birth="1226.1.1"
+	}
+	
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+161559 = {
+	name="威廉"
+	dynasty=6016
+	religion="catholic"
+	culture="dutch"
+	father=161558
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+161560 = {
+	name="吉萨尔贝特"
+	dynasty=6016
+	religion="catholic"
+	culture="dutch"
+	father=161559
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+161561 = {
+	name="梅希蒂尔德"
+	female=yes
+	dynasty=6016
+	religion="catholic"
+	culture="dutch"
+	father=161560
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+161535 = {
+	name="阿尔贝拉达" #real name unknown
+	female=yes
+	dynasty=7198
+	religion="catholic"
+	culture="dutch"
+	father=7812
+	900.1.1 = {
+		birth="900.1.1"
+	}
+	940.1.1 = {
+		death="940.1.1 "
+	}
+}
+
+167006 = {
+	name="热尔博"
+	dynasty=9501
+	religion="catholic"
+	culture="dutch"
+	1020.1.1 = {
+		birth="1020.1.1"
+	}
+	1065.1.1 = {
+		death="1065.1.1"
+	}
+}
+
+
+
+167007 = {
+	name="热尔博"
+	dynasty=9501
+	religion="catholic"
+	culture="dutch"
+	father=167006
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1066.1.1 = {
+		add_spouse=167009
+		employer=140
+	}
+	1071.2.22 = {
+		death="1071.2.22"
+	}
+}
+
+
+
+
+167008 = {
+	name="弗里德里克"
+	dynasty=9501
+	religion="catholic"
+	culture="dutch"
+	father=167006
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+               1066.1.1 = {
+		employer=140
+	}
+
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+
+
+
+
+167009 = {
+	name="爱达"
+	female=yes
+	religion="catholic"
+	culture="dutch"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1072.1.1 = {
+		death="1072.1.1"
+	}
+}
+
+
+
+167010 = {
+	name="阿努尔夫"
+	dynasty=9501
+	religion="catholic"
+	culture="dutch"
+	father=167007
+	mother=167009
+	1067.1.1 = {
+		birth="1067.1.1"
+	}
+	
+	1117.1.1 = {
+		death="1117.1.1"
+	}
+}
+
+
+
+167011 = {
+	name="热尔博"
+	dynasty=9501
+	religion="catholic"
+	culture="dutch"
+	father=167007
+	mother=167009
+	1068.1.1 = {
+		birth="1068.1.1"
+	}
+	
+	1102.5.17 = {
+		death="1102.5.17"
+	}
+}
+
+
+167012 = {
+	name="阿尔布雷希特"
+	dynasty=9501
+	religion="catholic"
+	culture="dutch"
+	father=167007
+	mother=167009
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+163117 = {
+	name="林姆伯特"
+	religion="catholic"
+	culture="dutch"
+	830.1.1 = {
+		birth="830.1.1"
+	}
+	
+	888.6.11 = {
+		death="888.6.11"
+	}
+}
+
+167701 = {
+	name="吉鲁尔夫"
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=167702
+	800.1.1 = {
+		birth="800.1.1"
+	}
+	839.1.1 = {
+		death="839.1.1"
+	}
+}
+
+
+167703 = {
+	name="杰拉德"
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=167701
+	836.1.1={
+		birth="836.1.1"
+	}
+	886.1.1={
+		death="886.1.1"
+	}
+}
+
+167704 = {
+	name="贡特哈尔" 
+	dynasty=246
+	religion="catholic"
+	culture="dutch"
+	trait="martial_cleric"
+	father=168626
+	835.1.1={
+		birth="835.1.1"
+	}
+	873.1.1={
+		death="873.1.1"
+	}
+}
+
+167705 = {
+	name="瓦德赫尔"
+	dynasty=246
+	religion="catholic"
+	culture="dutch"
+	father=168628
+	mother=168629
+	865.1.1={
+		birth="865.1.1"
+	}
+	928.1.1={
+		death="928.1.1"
+	}
+}
+
+167706 = {
+	name="阿德博德"
+	#bishop of Sticht/Deventer
+	religion="catholic"
+	culture="dutch"
+	840.1.1={
+		birth="840.1.1"
+	}
+	898.1.1={
+		death="898.1.1"
+	}
+}
+
+167788 = {
+	name="安斯弗里德"
+	dynasty=417
+	religion="catholic"
+	culture="dutch"
+	820.1.1 = {
+		birth="820.1.1"
+	}
+	
+	868.1.1 = {
+		death="868.1.1"
+	}
+}
+
+
+
+167789 = {
+	name="希尔帝瓦德"
+	dynasty=417
+	religion="catholic"
+	culture="dutch"
+	father=167788
+	845.1.1 = {
+		birth="845.1.1"
+	}
+	
+	868.1.1 = {
+		death="868.1.1"
+	}
+}
+
+168212 = {
+	name="拉德鲍"
+	dynasty=246
+	religion="catholic"
+	culture="dutch"
+	father=167705
+	890.1.1={
+		birth="890.1.1"
+	}
+	944.7.17={
+		death="944.7.17"
+	}
+}
+
+
+
+168213 = {
+	name="兰伯特" 
+	dynasty=417
+	religion="catholic"
+	culture="dutch"
+	father=167789
+	866.1.1 = {
+		birth="866.1.1"
+	}
+	
+	916.1.1 = {
+		death="916.1.1"
+	}
+}
+
+168214 = {
+	name="希尔帝瓦德"
+	dynasty=417
+	religion="catholic"
+	culture="dutch"
+	father=168213
+	890.1.1 = {
+		birth="890.1.1"
+	}
+	
+	940.1.1 = {
+		death="940.1.1"
+	}
+}
+
+168215 = {
+	name="罗布雷赫特"
+	dynasty=417
+	religion="catholic"
+	culture="dutch"
+	father=168214
+	910.1.1 = {
+		birth="910.1.1"
+	}
+	
+	956.5.19 = {
+		death="956.5.19"
+	}
+}
+
+168216 = {
+	name="安斯弗里德"
+	dynasty=417
+	religion="catholic"
+	culture="dutch"
+	father=168214
+	915.1.1 = {
+		birth="915.1.1"
+	}
+	
+	969.1.1 = {
+		death="969.1.1"
+	}
+}
+
+168217 = {
+	name="兰伯特"
+	dynasty=417
+	religion="catholic"
+	culture="dutch"
+	father=168214
+	920.1.1 = {
+		birth="920.1.1"
+	}
+	
+	975.1.1 = {
+		death="975.1.1"
+	}
+}
+
+168218 = {
+	name="安斯弗里德"
+	dynasty=417
+	religion="catholic"
+	culture="dutch"
+	father=168217
+	945.1.1 = {
+		birth="945.1.1"
+	}
+	
+	1010.5.3 = {
+		death="1010.5.3"
+	}
+}
+
+168219 = {
+	name="本尼迪克塔"
+	female=yes
+	dynasty=417
+	religion="catholic"
+	culture="dutch"
+	father=168218
+	970.1.1 = {
+		birth="970.1.1"
+	}
+	
+	1020.1.1 = {
+		death="1020.1.1"
+	}
+}
+
+
+168234 = {
+	name="欧杜尔克"
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=168233
+	800.1.1={
+		birth="800.1.1"
+	}
+	
+	838.1.1={
+		death="838.1.1"
+	}
+}
+
+168235 = {
+	name="卡雷尔"
+	dynasty=724
+	trait="weak"
+	religion="catholic"
+	culture="dutch"
+	father=90109
+	mother=90110
+	864.1.1={
+		birth="864.1.1"
+	}
+	
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+168236 = {
+	name="鲁道夫"
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=90109
+	mother=90110
+	866.1.1={
+		birth="866.1.1"
+	}
+	
+	896.6.17={
+		death="896.6.17"
+	}
+}
+
+168237 = {
+	name="贡希尔德"
+	female=yes
+	dynasty=724
+	religion="catholic"
+	culture="dutch"
+	father=90109
+	mother=90110
+	867.1.1={
+		birth="867.1.1"
+	}
+	
+	904.2.19={
+		death="907.2.19"
+	}
+}
+
+168314 = {
+	name="瓦尔德拉达" #concubine of Lothaire II of Lotharingia/Burgundy
+	female=yes 
+	dynasty=246
+	religion="catholic"
+	culture="dutch"
+	trait=fair
+	trait=gregarious
+	trait=kind
+	trait=quick
+	trait=fortune_builder
+	father=168626
+	839.1.1={
+		birth="839.1.1"
+	}
+	854.1.1={
+		
+		employer = 144998 # Lothair II of Burgundy
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+
+
+168623 = {
+	name="康诺维拉" #real name unknown
+	female=yes
+	dynasty=246
+	religion="catholic"
+	culture="dutch"
+	father=168621
+	790.1.1 = {
+		birth=yes
+	}
+	808.1.1 = {
+		add_spouse=168625
+	}
+	840.1.1 = {
+		death=yes
+	}
+}
+
+
+168627 = {
+	name="瓦德赫尔"
+	dynasty=246
+	religion="catholic"
+	culture="dutch"
+	father=168626
+	830.1.1 = {
+		birth=yes
+	}
+	
+	865.1.1 = {
+		death=yes
+	}
+}
+
+168628 = {
+	name="拉德鲍"
+	dynasty=246
+	religion="catholic"
+	culture="dutch"
+	father=168627
+	849.1.1 = {
+		birth=yes
+	}
+	866.1.1 = {
+		add_spouse=168629
+	}
+	874.1.1 = {
+		death=yes
+	}
+}
+
+
+168629 = {
+	name="阿莱迪斯" #real name unknown
+	female=yes
+	dynasty=432
+	religion="catholic"
+	culture="dutch"
+	father=167701
+	838.1.1={
+		birth=yes
+	}
+	888.1.1={
+		death=yes
+	}
+}

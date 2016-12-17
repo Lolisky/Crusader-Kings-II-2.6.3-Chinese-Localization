@@ -1,0 +1,51 @@
+#Viscounty of Avranches
+
+#House of Goz
+1066.1.1={
+	liege="c_avranches"
+	holder=41250 #Richard I Goz
+}
+1078.1.1={
+	holder=41251 #Hugues le Loup
+}
+1101.1.1={
+	holder = 82085 #Richard II Goz
+}
+#House of Bayeux
+1120.1.1={
+	holder=204687 #Ranulph de Gernon
+}
+1153.1.1={
+	holder= 204685 #Hugues de Kevelic
+}
+1181.6.30={
+	holder=204680 #Ranulph de Blondeville
+}
+1232.10.26={
+	holder = 455404 
+}
+1270.8.25={
+	holder = 455528 
+}
+1285.10.5={
+	holder = 455526
+}
+1314.11.29={
+	holder = 455836 
+}
+1316.6.5={
+	holder= 70137 
+}
+1316.11.19={ 
+	holder= 455509 
+}
+1322.1.3={
+	holder = 455414 
+}
+1328.2.1={
+	holder=455500 
+}
+1336.3.14={
+	liege="k_navarra"
+	holder=0
+}

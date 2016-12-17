@@ -1,0 +1,246 @@
+131724 = {
+	name="蒂娅德斯凡" #Thiadsvind
+	female=yes
+	dynasty=246
+	religion="norse_pagan"
+	culture="frisian"
+	father=131725
+	677.1.1 = {
+		birth="677.1.1"
+	}
+	720.1.1 = {
+		death="720.1.1"
+	}
+}
+
+131725 = {
+	name="拉德邦" #Radboud # King of the Frisians
+	dynasty=246
+	religion="norse_pagan"
+	culture="frisian"
+	father=131727
+	655.1.1 = {
+		birth="655.1.1"
+	}
+	719.1.1 = {
+		death="719.1.1"
+	}
+}
+
+131726 = {
+	name="博庞" #Poppo # King of the Frisians
+	dynasty=246
+	religion="norse_pagan"
+	culture="frisian"
+	father=168618
+	680.1.1 = {
+		birth="680.1.1"
+	}
+	734.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 131721 # Charles Martel
+		}
+	}
+}
+
+131727 = {
+	name="阿尔德吉叟" #Aldgisl # King of the Frisians
+	dynasty=246
+	religion="catholic"
+	culture="frisian"
+	630.1.1 = {
+		birth="630.1.1"
+	}
+	680.1.1 = {
+		death="680.1.1"
+	}
+}
+
+131728 = {
+	name="阿尔德吉叟" #Aldgisl # the second, King of the Frisians
+	dynasty=246
+	religion="catholic"
+	culture="frisian"
+	father=131725
+	680.1.1 = {
+		birth="680.1.1"
+	}
+	741.1.1 = {
+		death="741.1.1"
+	}
+}
+
+131729 = {
+	name="刚特博德" # Gundebold # King of the Frisians
+	dynasty=246
+	religion="catholic"
+	culture="frisian"
+	father=131728
+	718.1.1 = {
+		birth="718.1.1"
+	}
+	748.1.1 = {
+		death="748.1.1"
+	}
+}
+
+131730 = {
+	name="拉德邦" # King of the Frisians
+	dynasty=246
+	religion="catholic"
+	culture="frisian"
+	father=131728
+	720.1.1 = {
+		birth="720.1.1"
+	}
+	760.1.1 = {
+		death="760.1.1"
+	}
+}
+167702 = {
+	name="德克" #Dirk
+	dynasty=432
+	religion="catholic"
+	culture="frisian"
+	father=168619
+	780.1.1 = {
+		birth="780.1.1"
+	}
+	813.1.1 = {
+		death="813.1.1"
+	}
+}
+168232 = {
+	name="黎特里克" #Liederik
+	dynasty=724
+	religion="catholic"
+	culture="frisian"
+	740.1.1={
+		birth="740.1.1"
+	}
+	
+	817.1.1={
+		death="817.1.1"
+	}
+}
+
+168233 = {
+	name="英杰拉姆" #Ingelram
+	dynasty=724
+	religion="catholic"
+	culture="frisian"
+	father=168232
+	770.1.1={
+		birth="770.1.1"
+	}
+	
+	825.1.1={
+		death="825.1.1"
+	}
+}
+168220 = {
+	name="埃尔夫巴德 #Alfbad
+	dynasty=246
+	religion="catholic"
+	culture="frisian"
+	father=131726
+	725.1.1 = {
+		birth="725.1.1"
+	}
+	786.1.1 = {
+		death="786.1.1"
+	}
+}
+
+168619 = {
+	name="诺达拉" #Nordalah
+	dynasty=246
+	religion="catholic"
+	culture="frisian"
+	father=168220
+	760.1.1 = {
+		birth=yes
+	}
+	806.1.1 = {
+		death=yes
+	}
+}
+
+
+168620 = {
+	name="阿尔德吉叟" # Aldgisl
+	dynasty=246
+	religion="catholic"
+	culture="frisian"
+	father=131730
+	742.1.1 = {
+		birth=yes
+	}
+	777.1.1 = {
+		death=yes
+	}
+}
+
+
+
+168621 = {
+	name="拉德邦" # Radboud
+	dynasty=246
+	religion="catholic"
+	culture="frisian"
+	father=168620
+	765.1.1 = {
+		birth=yes
+	}
+	809.1.1 = {
+		death=yes
+	}
+}
+
+
+
+168622 = {
+	name="奥卓拉德" # Odrade
+	female=yes 
+	dynasty=246
+	religion="catholic"
+	culture="frisian"
+	father=168620
+	775.1.1 = {
+		birth=yes
+	}
+	825.1.1 = {
+		death=yes
+	}
+}
+
+168618 = {
+	name="阿尔德吉叟" # Alfbad #real name unknown
+	dynasty=246
+	religion="catholic"
+	culture="frisian"
+	father=131727
+	657.1.1 = {
+		birth=yes
+	}
+	717.1.1 = {
+		death=yes
+	}
+}
+
+168626 = {
+	name="拉德邦" # Radboud 
+	dynasty=246
+	religion="catholic"
+	culture="frisian"
+	father=168625
+	mother=168623
+	810.1.1 = {
+		birth=yes
+	}
+	
+	850.1.1 = {
+		death=yes
+	}
+}

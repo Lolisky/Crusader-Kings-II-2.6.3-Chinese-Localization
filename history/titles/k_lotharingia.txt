@@ -1,0 +1,125 @@
+100.1.1={
+	pentarch = b_roma
+}
+#Merovingians
+481.1.1 = {
+	holder=168673 #Clovis Ier
+	de_jure_liege = e_france
+}
+511.11.27 = {
+	holder=168674 #Thierry Ier
+}
+534.1.1 = {
+	holder=168675 #Thibert Ier
+}
+548.1.1 = {
+	holder=168676 #Thibaut Ier
+}
+555.1.1 = {
+	holder=168681 #Clotaire Ier
+}
+561.11.29 = {
+	holder=168687 #Sigebert Ier
+}
+575.1.1 = {
+	holder=168691 #Childebert II
+}
+595.3.28 = {
+	holder=168692 #Thibert II
+}
+612.1.1 = {
+	holder=168694 #Sigebert II
+}
+613.7.1 = {
+	holder=168695 #Clotaire II
+}
+622.10.19 = {
+	holder=168696 #Dagobert Ier
+}
+634.1.1 = {
+	holder=168700 #Sigebert III
+}
+656.2.1 = {
+	holder=168699 #Clovis II, le Fainéant
+}
+657.10.31 = {
+	holder=168699 #Childéric II
+}
+675.1.1 = {
+	holder=168704 #Dagobert II
+}
+679.12.23 = {
+	holder=168703 #Thierry III
+}
+691.4.12 = {
+	holder=168709 #Clovis IV
+}
+695.1.1 = {
+	holder=168711 #Childebert IV
+}
+711.4.14 = {
+	holder=168712 #Dagobert III
+}
+715.12.31 = {
+	holder=168706 #Chilpéric II
+}
+717.1.1 = {
+	holder=168710 #Clotaire IV
+}
+719.1.1 = {
+	holder=168706 #Chilpéric II
+}
+721.2.13 = {
+	holder=168713 #Thierry IV
+}
+743.2.15 = {
+	holder=168707 #Childéric III
+}
+##
+768.9.24={
+	holder = 144999 #Carloman I
+	law = agnatic_succession
+}
+769.1.1 = {
+	de_jure_liege = e_france
+}
+771.12.4={
+	holder = 6392 #Charlemagne
+}
+817.1.1={
+	holder = 30227 #Lothair I
+	law = agnatic_succession
+}
+855.8.22={
+	holder = 144998 #Lothair II
+	name = LOTHARINGIA
+	adjective = LOTHARINGIA_ADJ
+	set_global_flag = middle_francia_renamed
+}
+867.1.1 = {
+	de_jure_liege = e_hre
+}
+869.8.8={
+	holder = 90104 #Charles I the Bald
+}
+877.6.10 ={ 
+	holder = 42019 #Louis I the Younger
+}
+882.1.20={
+	holder = 90105 #Charles II the Fat
+}
+888.1.1={
+	holder = 7945 #Arnulf of Carinthia
+}
+895.1.1={
+	holder = 144997 #Zwentibold
+}
+900.8.13={
+	holder = 7949 #Louis III the Child
+}
+911.9.20={
+	holder = 90111 #Charles III the Simple
+}
+923.1.1={
+	holder = 0
+}

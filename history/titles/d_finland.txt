@@ -1,0 +1,57 @@
+755.1.1={
+	holder=170306
+	effect = { set_coa = d_satakunta }
+}
+800.1.1={
+	holder=170307
+}
+835.1.1={
+	holder=170308
+}
+867.1.1={
+	holder=170131
+}
+901.1.1={
+	holder=170132
+}
+957.1.1={
+	holder=170133
+}
+978.1.1={
+	holder=170134
+}
+1020.1.1={
+	holder=170135
+}
+1066.1.1={
+	holder=28011
+}
+1120.1.1={
+	holder = 144641
+}
+1158.1.1={
+	holder=0
+}
+1284.1.1={
+	liege="k_sweden"
+	holder=33338 # Bengt Duke of Finland
+	effect = { reset_coa = THIS }
+}
+1291.5.25={
+	liege=0
+}
+1302.1.1={
+	liege="k_sweden"
+	holder=450607 # Valdemar Magnusson
+}
+1310.7.20={
+	# The Peace of Helsingborg - Sweden is divided
+	liege=0
+}
+1318.2.16={
+	liege="k_sweden" # Duke Valdemar dies at Nyköpingshus
+	holder=450504 # King Birger
+}
+1320.1.1={
+	holder=450760
+}

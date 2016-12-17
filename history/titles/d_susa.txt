@@ -1,0 +1,35 @@
+756.1.1={
+	liege=k_italy
+	name = DUCHY_IVREA
+	adjective = DUCHY_IVREA_ADJ
+}
+756.1.1={
+	holder = 190330 #Liutprand
+}
+791.1.1={
+	holder=0
+}
+867.1.1 = {
+	reset_name = yes
+	reset_adjective = yes
+}
+
+962.1.1={
+	liege="k_italy"
+}
+962.1.1={
+	holder=167957 
+}
+976.4.4={
+	holder=167961 
+}
+1000.1.1={
+	holder=10081
+}
+
+1034.10.29={
+	holder=1115
+}
+1046.1.1={
+	holder=0
+}

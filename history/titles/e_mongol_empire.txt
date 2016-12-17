@@ -1,0 +1,22 @@
+20.1.1={
+	active = no
+	historical_nomad = yes
+}
+1066.1.1={
+	law = agnatic_succession
+	law = succ_ultimogeniture
+}
+1206.1.1 = {
+	holder=125501
+	active = yes
+	set_global_flag = mongol_horde_rumors
+	set_global_flag = golden_horde_arrival
+	set_global_flag = il_khanate_arrival
+	set_global_flag = mongol_empire_arrival
+	set_global_flag = mongol_horde_united
+}
+1227.12.2=
+{
+	holder=0
+	active = no
+}

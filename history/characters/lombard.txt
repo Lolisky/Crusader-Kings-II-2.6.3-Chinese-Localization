@@ -1,0 +1,6847 @@
+190122 = {
+	name="°Â¶àÒò"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	519.1.1={
+		birth=yes
+	}
+	536.1.1={
+		add_spouse=190123
+	}
+	565.1.1={
+		death=yes
+	}
+}
+190123 = {
+	name="ÂŞµÂÁÕ´ï"
+	female=yes
+	dynasty=1044032 #Theoderingi
+	religion="catholic"
+	culture="lombard"
+	520.1.1={
+		birth=yes
+	}
+	574.1.1={
+		death=yes
+	}
+}
+190124 = {
+	name="°¢¶û²©Òò"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190122
+	mother=190123
+	539.1.1={
+		birth=yes
+	}
+	572.1.1={
+		death=yes
+	}
+}
+190125 = {
+	name="¸ñÀ­Ë÷·ò"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190122
+	mother=190123
+	542.1.1={
+		birth=yes
+	}
+	569.1.1={
+		death=yes
+	}
+}
+190126 = {
+	name="¼ªË÷·ò"#duke of Friuli
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190125
+	559.1.1={
+		birth=yes
+	}
+	591.1.1={
+		death=yes
+	}
+}
+190127 = {
+	name="×ôÍĞ" #duke of Benevento
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190125
+	560.1.1={
+		birth=yes
+	}
+	576.1.1={
+		add_spouse=190166
+	}
+	591.1.1={
+		death=yes
+	}
+}
+190128 = {
+	name="¼ªË÷·ò" #II duke of Friuli
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190126
+	578.1.1={
+		birth=yes
+	}
+	594.1.1={
+		add_spouse=190129
+	}
+	610.1.1={
+		death=yes
+	}
+}
+190244 = {
+	name="ËşË÷" #duke of Friuli
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190128
+	mother=190129
+	594.1.1={
+		birth=yes
+	}
+	625.1.1={
+		death=yes
+	}
+}
+190245 = {
+	name="¿¨¿Æ"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190128
+	mother=190129
+	595.1.1={
+		birth=yes
+	}
+	625.1.1={
+		death=yes
+	}
+}
+190130 = {
+	name="À­¶à°¢¶û¶à"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190128
+	mother=190129
+	596.1.1={
+		birth=yes
+	}
+	651.1.1={
+		death=yes
+	}
+}
+190131 = {
+	name="°¢ÅÁ" #wife of king of Alemanni
+	female=yes
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190128
+	mother=190129
+	598.1.1={
+		birth=yes
+	}
+	652.1.1={
+		death=yes
+	}
+}
+190132 = {
+	name="¼ªÀ­" #wife of ¼ÓÀï°Í¶ûµÏ II king of Bavaria
+	female=yes
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190128
+	mother=190129
+	603.1.1={
+		birth=yes
+	}
+	657.1.1={
+		death=yes
+	}
+}
+190133 = {
+	name="¸ñÀïÄª°¢¶û¶à" #king of lombards
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190128
+	mother=190129
+	609.1.1={
+		birth=yes
+	}
+	650.1.1={
+		add_spouse=190134
+	}
+	671.1.1={
+		death=yes
+	}
+}
+190134 = {
+	name="Èû°Â¶àËş" #daughter of °¢Àï±´ÌØ II king of Lombards
+	female=yes
+	dynasty=1044046 #Bavarae
+	religion="catholic"
+	culture="lombard"
+	father=190181
+	634.1.1={
+		birth=yes
+	}
+	675.1.1={
+		death=yes
+	}
+}
+190135 = {
+	name="ÂåÄ·°¢¶û¶à"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190133
+	mother=190134
+	653.1.1={
+		birth=yes
+	}
+	674.1.1={
+		add_spouse=190137
+	}
+	687.1.1={
+		death=yes
+	}
+}
+190136 = {
+	name="¼ÓÀï°Í¶ûµÏ"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190133
+	mother=190134
+	655.1.1={
+		birth=yes
+	}
+	688.1.1={
+		death=yes
+	}
+}
+190137 = {
+	name="Èû°ÂµÂÀ­´ï" #daughter of Â³ÆÕË¹ of Friuli
+	female=yes
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190248
+	653.1.1={
+		birth=yes
+	}
+	698.1.1={
+		death=yes
+	}
+}
+190138 = {
+	name="¸ñÀïÄª°¢¶û¶à"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190135
+	mother=190137
+	669.1.1={
+		birth=yes
+	}
+	655.1.1={
+		add_spouse=190187
+	}
+	689.1.1={
+		death=yes
+	}
+}
+190139 = {
+	name="¼ªË÷·ò"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190135
+	mother=190137
+	670.1.1={
+		birth=yes
+	}
+	695.1.1={
+		add_spouse=190140
+	}
+	706.1.1={
+		death=yes
+	}
+}
+190140 = {
+	name="ÎÖÒòÅå¶û¼Ó"
+	female=yes
+	dynasty=1044036 #Lampertingi
+	religion="catholic"
+	culture="lombard"
+	670.1.1={
+		birth=yes
+	}
+	712.1.1={
+		death=yes
+	}
+}
+190141 = {
+	name="ÂåÄ·°¢¶û¶à"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190139
+	mother=190140
+	686.1.1={
+		birth=yes
+	}
+	702.1.1={
+		add_spouse=190142
+	}
+	729.1.1={
+		remove_spouse=190142
+	}
+	730.1.1={
+		add_spouse=190143
+	}
+	732.1.1={
+		death=yes
+	}
+}
+190142 = {
+	name="¹ÅÄ·Åå¶û¼Ó" #daughter of °ÂÂŞÄÈ sister of King ÀûÎÚÌØÆÕÀ¼µÂ
+	female=yes
+	dynasty=1044037 #Giselbertling
+	religion="catholic"
+	culture="lombard"
+	684.1.1={
+		birth=yes
+	}
+	729.1.1={
+		death=yes
+	}
+}
+190143 = {
+	name="À­Äá¹±´ï" #daughter of Duke Gaiduld of Brescia
+	female=yes
+	dynasty=1044038 #Gaiduldling
+	religion="catholic"
+	culture="lombard"
+	709.1.1={
+		birth=yes
+	}
+	741.1.1={
+		death=yes
+	}
+}
+190144 = {
+	name="¼ªË÷·ò"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190141
+	mother=190142
+	702.1.1={
+		birth=yes
+	}
+	718.1.1={
+		add_spouse=190145
+	}
+	751.1.1={
+		death=yes
+	}
+}
+190145 = {
+	name="Ë¹¿¨ÎÚ¶÷ÄáÅå¶û¼Ó"
+	female=yes
+	dynasty=1044039 #Waldulfingi
+	religion="catholic"
+	culture="lombard"
+	701.1.1={
+		birth=yes
+	}
+	752.1.1={
+		death=yes
+	}
+}
+190146 = {
+	name="ÀûÎÚÌØÆÕÀ¼µÂ"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190144
+	mother=190145
+	719.1.1={
+		birth=yes
+	}
+	756.1.1={
+		death=yes
+	}
+}
+190147 = {
+	name="°¢À×ÆõË¹"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190146
+	735.1.1={
+		birth=yes
+	}
+	751.1.1={
+		add_spouse=190148
+	}
+	787.8.26={
+		death=yes
+	}
+}
+190148 = {
+	name="°¢µÂ¶ûÅå¶û¼Ó" #Daughter of µÂÎ÷µÂÁğË¹
+	female=yes
+	dynasty=1044053 #Alachisling
+	religion="catholic"
+	culture="lombard"
+	father=190347
+	mother=190340
+	735.1.1={
+		birth=yes
+	}
+	772.1.1={
+		death=yes
+	}
+}
+190149 = {
+	name="ÂŞÄª°¢¶û¶à"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190147
+	mother=190148
+	751.1.1={
+		birth=yes
+	}
+	787.8.26={
+		death=yes
+	}
+}
+190150 = {
+	name="¸ñÀïÄª°¢¶û¶à"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190147
+	mother=190148
+	752.1.1={
+		birth=yes
+	}
+	751.1.1={
+		add_spouse=190151
+	}
+	806.1.1={
+		death=yes
+	}
+}
+190151 = {
+	name="Ë¹¿¨ÎÚ¶÷ÄáÅå¶û¼Ó" #fictional
+	female=yes
+	dynasty=1044041 #ÂŞÄª°¢¶û¶àingi
+	religion="catholic"
+	culture="lombard"
+	750.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+190152 = {
+	name="ÒÁ¶ûµÒÀï¿Ë"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190150
+	mother=190151
+	768.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+190153 = {
+	name="°¢À×ÆõË¹" #duke of Benevento
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190126
+	581.1.1={
+		birth=yes
+	}
+	641.1.1={
+		death=yes
+	}
+}
+190154 = {
+	name="°¬ÎÚ¶û·ò"
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190153
+	601.1.1={
+		birth=yes
+	}
+	646.1.1={
+		death=yes
+	}
+}
+190246 = {
+	name="¸ñÀ­Ë÷·ò" #duke of Friuli
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190126
+	579.1.1={
+		birth=yes
+	}
+	641.1.1={
+		death=yes
+	}
+}
+190247 = {
+	name="°¢¸ê" #duke of Friuli
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190246
+	599.1.1={
+		birth=yes
+	}
+	663.1.1={
+		death=yes
+	}
+}
+190248 = {
+	name="Â³ÆÕË¹" #duke of Friuli
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190247
+	620.1.1={
+		birth=yes
+	}
+	666.1.1={
+		death=yes
+	}
+}
+190249 = {
+	name="°¢¶ûÄÎ¸¥ÀïÌØ" #duke of Friuli
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190248
+	638.1.1={
+		birth=yes
+	}
+	666.6.1={
+		death=yes
+	}
+}
+190250 = {
+	name="Î¬ºÕËş" #duke of Friuli
+	dynasty=1044059 #Wechtaringi
+	religion="catholic"
+	culture="lombard"
+	636.1.1={
+		birth=yes
+	}
+	678.1.1={
+		death=yes
+	}
+}
+190251 = {
+	name="À¼´ï¶û" #duke of Friuli
+	dynasty=1044059 #Wechtaringi
+	religion="catholic"
+	culture="lombard"
+	father=190250
+	652.1.1={
+		birth=yes
+	}
+	690.1.1={
+		death=yes
+	}
+}
+190252 = {
+	name="Âå¶à°¢¶û¶à" #duke of Friuli
+	dynasty=1044059 #Wechtaringi
+	religion="catholic"
+	culture="lombard"
+	father=190251
+	668.1.1={
+		birth=yes
+	}
+	694.1.1={
+		death=yes
+	}
+}
+190253 = {
+	name="À¼µÂ±´¶û¼Ó" #wife of Ansfrid of Friuli
+	female=yes
+	dynasty=1044059 #Wechtaringi
+	religion="catholic"
+	culture="lombard"
+	father=190251
+	669.1.1={
+		birth=yes
+	}
+	730.1.1={
+		death=yes
+	}
+}
+190254 = {
+	name="°¢¶à" #duke of Friuli
+	dynasty=1044059 #Wechtaringi
+	religion="catholic"
+	culture="lombard"
+	father=190251
+	678.1.1={
+		birth=yes
+	}
+	695.1.1={
+		death=yes
+	}
+}
+190255 = {
+	name="°²Ë¹¸¥ÀïµÂ" #duke of Friuli
+	dynasty=1044060 #Ansfridingi
+	religion="catholic"
+	culture="lombard"
+	656.1.1={
+		birth=yes
+	}
+	685.1.1={
+		add_spouse=190253
+	}
+	694.1.1={
+		death=yes
+	}
+}
+190256 = {
+	name="·Ñ¶û¶à¶û·ò" #duke of Friuli
+	dynasty=1044060 #Ansfridingi
+	religion="catholic"
+	culture="lombard"
+	father=190255
+	mother=190253
+	685.1.1={
+		birth=yes
+	}
+	705.1.1={
+		death=yes
+	}
+}
+190257 = {
+	name="¿â¶û¸¥Â³Ë¹" #duke of Friuli
+	dynasty=1044060 #Ansfridingi
+	religion="catholic"
+	culture="lombard"
+	father=190256
+	701.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+190258 = {
+	name="·Ñ¶û¶à¶û·ò"
+	dynasty=1044060 #Ansfridingi
+	religion="catholic"
+	culture="lombard"
+	father=190257
+	721.1.1={
+		birth=yes
+	}
+	773.1.1={
+		death=yes
+	}
+}
+190259 = {
+	name="Ä½ÄáÆõË¹"
+	dynasty=1044052 #Munichingi
+	religion="catholic"
+	culture="lombard"
+	701.1.1={
+		birth=yes
+	}
+	740.1.1={
+		death=yes
+	}
+}
+190260 = {
+	name="°²Èû¶ûÄ·" #duke of Friuli
+	dynasty=1044052 #Munichingi
+	religion="catholic"
+	culture="lombard"
+	father=190259
+	718.1.1={
+		birth=yes
+	}
+	806.1.1={
+		death=yes
+	}
+}
+190261 = {
+	name="Ä½ÄáÆõË¹"
+	dynasty=1044052 #Munichingi
+	religion="catholic"
+	culture="lombard"
+	father=190259
+	719.1.1={
+		birth=yes
+	}
+	748.1.1={
+		death=yes
+	}
+}
+190262 = {
+	name="±ËµÃ" #duke of friuli
+	dynasty=1044052 #Munichingi
+	religion="catholic"
+	culture="lombard"
+	father=190261
+	735.1.1={
+		birth=yes
+	}
+	774.1.1={
+		death=yes
+	}
+}
+190263 = {
+	name="ÎÚ¶ûË÷Ë¹" #count of Padua
+	dynasty=1044052 #Munichingi
+	religion="catholic"
+	culture="lombard"
+	father=190261
+	737.1.1={
+		birth=yes
+	}
+	774.1.1={
+		death=yes
+	}
+}
+190264 = {
+	name="ºÕÂŞµÂ¸ß"
+	dynasty=1044052 #Munichingi
+	religion="catholic"
+	culture="lombard"
+	father=190261
+	740.1.1={
+		birth=yes
+	}
+	776.1.1={
+		death=yes
+	}
+}
+190344 = {
+	name="¼ªÈøÌØÂ³´ï" #wife of °¬Ë¹Í¼¶û·ò king of Lombards
+	female=yes
+	dynasty=1044052 #Munichingi
+	religion="catholic"
+	culture="lombard"
+	father=190259
+	730.1.1={
+		birth=yes
+	}
+	781.1.1={
+		death=yes
+	}
+}
+190155 = {
+	name="·¨¶û¿Æ"
+	dynasty=1044042 #Falco
+	religion="catholic"
+	culture="lombard"
+	743.1.1={
+		birth=yes
+	}
+	764.1.1={
+		add_spouse=190156
+	}
+	799.1.1={
+		death=yes
+	}
+}
+190156 = {
+	name="Íß¶ûµÂÀ­´ï" #fictional
+	female=yes
+	dynasty=1044043 #Walbertingi
+	religion="catholic"
+	culture="lombard"
+	747.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+190157 = {
+	name="¸ñÀïÄª°¢¶û¶à" #duke of Benevento
+	dynasty=1044042 #Falco
+	religion="catholic"
+	culture="lombard"
+	father=190155
+	mother=190156
+	760.1.1={
+		birth=yes
+	}
+	817.1.1={
+		death=yes
+	}
+}
+190158 = {
+	name="Îı¿¨¶û" #fictional
+	dynasty=1044044 #Sicard
+	religion="catholic"
+	culture="lombard"
+	742.1.1={
+		birth=yes
+	}
+	758.1.1={
+		add_spouse=190159
+	}
+	799.1.1={
+		death=yes
+	}
+}
+190159 = {
+	name="ÀûÎÚÌØ±´¶û¼Ó" #fictional
+	female=yes
+	dynasty=1044085 #
+	religion="catholic"
+	culture="lombard"
+	740.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+190160 = {
+	name="Î÷¿É" #duke of Benevento
+	dynasty=1044044 #Sicard
+	religion="catholic"
+	culture="lombard"
+	father=190158
+	mother=190159
+	758.1.1={
+		birth=yes
+	}
+	832.1.1={
+		death=yes
+	}
+}
+190161 = {
+	name="Îı¿¨¶û" #duke of Benevento
+	dynasty=1044044 #Sicard
+	religion="catholic"
+	culture="lombard"
+	father=190160
+	779.1.1={
+		birth=yes
+	}
+	839.1.1={
+		death=yes
+	}
+}
+190162 = {
+	name="ÒÁËş" #marries Guy I of Spoletto
+	female=yes
+	dynasty=1044044 #Sicard
+	religion="catholic"
+	culture="lombard"
+	father=190160
+	783.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+190163 = {
+	name="Ï£¸ñÅµ¶û·ò" #duke of Salerno
+	dynasty=1044044 #Sicard
+	religion="catholic"
+	culture="lombard"
+	father=190160
+	789.1.1={
+		birth=yes
+	}
+	851.1.1={
+		death=yes
+	}
+}
+190164 = {
+	name="Î÷¿É" #duke of Salerno
+	dynasty=1044044 #Sicard
+	religion="catholic"
+	culture="lombard"
+	father=190160
+	813.1.1={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+190165 = {
+	name="ÂíÈøÄİ" #marries ¿ËÀ³·¨ king of Lombards
+	female=yes
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190122
+	mother=190123
+	540.1.1={
+		birth=yes
+	}
+	592.1.1={
+		death=yes
+	}
+}
+190166 = {
+	name="ÂŞµÂÁÕ´ï" #marries ×ôÍĞ of Benevento
+	female=yes
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190122
+	mother=190123
+	541.1.1={
+		birth=yes
+	}
+	590.1.1={
+		death=yes
+	}
+}
+190167 = {
+	name="±´À³°Â"
+	dynasty=1044045 #Beleo
+	religion="catholic"
+	culture="lombard"
+	507.1.1={
+		birth=yes
+	}
+	557.1.1={
+		death=yes
+	}
+}
+190168 = {
+	name="¿ËÀ³·¨"
+	dynasty=1044045 #Beleo
+	religion="catholic"
+	culture="lombard"
+	father=190167
+	523.1.1={
+		birth=yes
+	}
+	556.1.1={
+		add_spouse=190165
+	}
+	574.1.1={
+		death=yes
+	}
+}
+190169 = {
+	name="°ÂËşÀï"
+	dynasty=1044045 #Beleo
+	religion="catholic"
+	culture="lombard"
+	father=190168
+	556.1.1={
+		birth=yes
+	}
+	584.1.1={
+		add_spouse=190171
+	}
+	590.1.1={
+		remove_spouse=190171
+	}
+	590.1.1={
+		death=yes
+	}
+}
+190170 = {
+	name="°¢¼ªÂ¬¶û¸£"
+	dynasty=1044045 #Beleo
+	religion="catholic"
+	culture="lombard"
+	father=190168
+	559.1.1={
+		birth=yes
+	}
+	590.1.1={
+		add_spouse=190171
+	}
+	616.1.1={
+		death=yes
+	}
+}
+190172 = {
+	name="¹±µÂ±´¶û¼Ó" #wife of Arioald king of Lombards
+	female=yes
+	dynasty=1044045 #Beleo
+	religion="catholic"
+	culture="lombard"
+	father=190170
+	mother=190171
+	598.1.1={
+		birth=yes
+	}
+	658.1.1={
+		death=yes
+	}
+}
+190173 = {
+	name="°¢´ïÂå°¢¶û¶à"
+	dynasty=1044045 #Beleo
+	religion="catholic"
+	culture="lombard"
+	father=190170
+	mother=190171
+	602.1.1={
+		birth=yes
+	}
+	626.1.1={
+		death=yes
+	}
+}
+190174 = {
+	name="°¢Àï°Â°¢¶û¶à"
+	dynasty=1044047 #Arioaldling
+	religion="catholic"
+	culture="lombard"
+	578.1.1={
+		birth=yes
+	}
+	617.1.1={
+		add_spouse=190172
+	}
+	636.1.1={
+		death=yes
+	}
+}
+190175 = {
+	name="ÄÏ¶¡"
+	dynasty=1044048 #Harodingian
+	religion="catholic"
+	culture="lombard"
+	572.1.1={
+		birth=yes
+	}
+	626.1.1={
+		death=yes
+	}
+}
+190176 = {
+	name="ÂŞÈøÀï"
+	dynasty=1044048 #Harodingian
+	religion="catholic"
+	culture="lombard"
+	father=190175
+	599.1.1={
+		birth=yes
+	}
+	652.1.1={
+		death=yes
+	}
+}
+190177 = {
+	name="Âå¶à°¢¶û¶à"
+	dynasty=1044048 #Harodingian
+	religion="catholic"
+	culture="lombard"
+	father=190176
+	620.1.1={
+		birth=yes
+	}
+	653.1.1={
+		death=yes
+	}
+}
+190181 = {
+	name="°¢Àï±´ÌØ" #king of Lombards
+	dynasty=1044046 #Bavarae
+	religion="catholic"
+	culture="lombard"
+	father=190180
+	609.1.1={
+		birth=yes
+	}
+	661.1.1={
+		death=yes
+	}
+}
+190182 = {
+	name="¸èµÂ±´ÌØ" #king of Lombards
+	dynasty=1044046 #Bavarae
+	religion="catholic" #arian
+	culture="lombard"
+	father=190181
+	629.1.1={
+		birth=yes
+	}
+	662.1.1={
+		death=yes
+	}
+}
+190183 = {
+	name="À­¸ñÒò±´ÌØ" #king of Lombards
+	dynasty=1044046 #Bavarae
+	religion="catholic"
+	culture="lombard"
+	father=190182
+	653.1.1={
+		birth=yes
+	}
+	701.6.1={
+		death=yes
+	}
+}
+190184 = {
+	name="°¢Àï±´ÌØ" #king of Lombards
+	dynasty=1044046 #Bavarae
+	religion="catholic"
+	culture="lombard"
+	father=190183
+	672.1.1={
+		birth=yes
+	}
+	712.1.1={
+		death=yes
+	}
+}
+190185 = {
+	name="Åå¿ËËşÀïÌØ" #king of Lombards
+	dynasty=1044046 #Bavarae
+	religion="catholic"
+	culture="lombard"
+	father=190181
+	637.1.1={
+		birth=yes
+	}
+	688.1.1={
+		death=yes
+	}
+}
+190186 = {
+	name="ÂŞµÂÁÕ´ï"
+	female=yes
+	dynasty=1044049 #Pandulfingi
+	religion="catholic"
+	culture="lombard"
+	640.1.1={
+		birth=yes
+	}
+	691.1.1={
+		death=yes
+	}
+}
+190187 = {
+	name="Î¬¼ªÁÕ´ï" #marries duke of Benevento
+	female=yes
+	dynasty=1044046 #Bavarae
+	religion="catholic"
+	culture="lombard"
+	father=190185
+	mother=190186
+	656.1.1={
+		birth=yes
+	}
+	690.1.1={
+		death=yes
+	}
+}
+190188 = {
+	name="¿âÄá±´ÌØ" #king of Lombards
+	dynasty=1044046 #Bavarae
+	religion="catholic"
+	culture="lombard"
+	father=190185
+	mother=190186
+	659.1.1={
+		birth=yes
+	}
+	700.1.1={
+		death=yes
+	}
+}
+190189 = {
+	name="ÀûÎÚ±´ÌØ" #king of Lombards
+	dynasty=1044046 #Bavarae
+	religion="catholic"
+	culture="lombard"
+	father=190188
+	689.1.1={
+		birth=yes
+	}
+	702.1.1={
+		death=yes
+	}
+}
+190190 = {
+	name="À×¸ñÒòÌØÂ³µÂ" #marries Theodo II of Bavaria
+	female=yes
+	dynasty=1044046 #Bavarae
+	religion="catholic"
+	culture="lombard"
+	father=190182
+	657.1.1={
+		birth=yes
+	}
+	709.1.1={
+		death=yes
+	}
+}
+190191 = {
+	name="À­±´¸ñ" #marries ÅåÄª son of Billo
+	female=yes
+	dynasty=1044046 #Bavarae
+	religion="catholic"
+	culture="lombard"
+	father=190184 #Alipert II of Lombardy
+	700.1.1={
+		birth=yes
+	}
+	742.1.1={
+		death=yes
+	}
+}
+190193 = {
+	name="°²Ë¹ÆÕÀ¼µÂ"
+	dynasty=1044051 #Ansprandling
+	religion="catholic"
+	culture="lombard"
+	652.1.1={
+		birth=yes
+	}
+	668.1.1={
+		add_spouse=190192
+	}
+	712.1.1={
+		death=yes
+	}
+}
+190194 = {
+	name="Æë¸ñ±´ÌØ"
+	dynasty=1044051 #Ansprandling
+	religion="catholic"
+	culture="lombard"
+	father=190193
+	mother=190192
+	674.1.1={
+		birth=yes
+	}
+	712.1.1={
+		death=yes
+	}
+}
+190195 = {
+	name="°ÂÂŞÄÈ"
+	female=yes
+	dynasty=1044051 #Ansprandling
+	religion="catholic"
+	culture="lombard"
+	father=190193
+	mother=190192
+	668.1.1={
+		birth=yes
+	}
+	712.1.1={
+		death=yes
+	}
+}
+190196 = {
+	name="ÀûÎÚÌØÆÕÀ¼µÂ"
+	dynasty=1044051 #Ansprandling
+	religion="catholic"
+	culture="lombard"
+	father=190193
+	mother=190192
+	698.1.1={
+		birth=yes
+	}
+	714.1.1={
+		add_spouse=190197
+	}
+	744.1.1={
+		death=yes
+	}
+}
+190198 = {
+	name="Ï£¶ûµÂ²¼À¼µÂ"
+	dynasty=1044051 #Ansprandling
+	religion="catholic"
+	culture="lombard"
+	father=190194
+	710.1.1={
+		birth=yes
+	}
+	744.6.1={
+		death=yes
+	}
+}
+190199 = {
+	name="ËşÎ÷ÑÇ" #maries À­ÇĞË¹ king of Lombards
+	female=yes
+	dynasty=1044051 #Ansprandling
+	religion="catholic"
+	culture="lombard"
+	father=190194
+	711.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+190340 = {
+	name="°²Üçæ«" #maries µÂÎ÷µÂÁğË¹ king of Lombards
+	female=yes
+	dynasty=1044051 #Ansprandling
+	religion="catholic"
+	culture="lombard"
+	father=190194
+	712.1.1={
+		birth=yes
+	}
+	776.1.1={
+		death=yes
+	}
+}
+190341 = {
+	name="±ÈÂå"
+	dynasty=1044050 #Billoingi
+	religion="catholic"
+	culture="lombard"
+	658.1.1={
+		birth=yes
+	}
+	702.1.1={
+		death=yes
+	}
+}
+190342 = {
+	name="ÅåÄª"
+	dynasty=1044050 #Billoingi
+	religion="catholic"
+	culture="lombard"
+	father=190341
+	687.1.1={
+		birth=yes
+	}
+	716.1.1={
+		add_spouse=190191
+	}
+	739.1.1={
+		death=yes
+	}
+}
+190343 = {
+	name="À­ÇĞË¹" #king of Lombards
+	dynasty=1044050 #Billoingi
+	religion="catholic"
+	culture="lombard"
+	father=190342
+	mother=190191
+	716.1.1={
+		birth=yes
+	}
+	732.1.1={
+		add_spouse=190199
+	}
+	758.1.1={
+		death=yes
+	}
+}
+190331 = {
+	name="°¬Ë¹Í¼¶û·ò" #king of Lombards
+	dynasty=1044050 #Billoingi
+	religion="catholic"
+	culture="lombard"
+	father=190342
+	mother=190191
+	717.1.1={
+		birth=yes
+	}
+	749.1.1={
+		add_spouse=190344
+	}
+	756.1.1={
+		death=yes
+	}
+}
+190345 = {
+	name="°¢À­Ï£Ë¹"
+	dynasty=1044053 #Alachislings
+
+	religion=catholic
+	culture=lombard
+
+	685.1.1={
+		birth=yes
+	}
+
+	726.1.1={
+		death=yes
+	}
+}
+
+190346 = {
+	name="°¬Ã×Åµ¶û·ò"
+	dynasty=1044053 #Alachislings
+
+	father=190345
+
+	religion=catholic
+	culture=lombard
+
+	701.1.1={
+		birth=yes
+	}
+	756.1.1={
+		death=yes
+	}
+}
+
+190347 = {
+	name="µÂÎ÷µÂÁğË¹" #µÂÎ÷µÂÁğË¹, King of Lombards - Daufer
+	dynasty=1044053 #Alachislings
+
+	father=190346
+
+	religion=catholic
+	culture=lombard
+
+	717.1.1={
+		birth=yes
+	}
+	744.1.1={
+		add_spouse=190340
+	}
+	786.1.1={
+		death=yes
+	}
+}
+190348 = {
+	name="¸ñ¶û±´¸ñ" #marries Carloman of France
+	female=yes
+	dynasty=1044053 #Alachislings
+	religion="catholic"
+	culture="lombard"
+	father=190347
+	mother=190340
+	745.1.1={
+		birth=yes
+	}
+	794.1.1={
+		death=yes
+	}
+}
+190349 = {
+	name="µÀ¸»À­´ï" #marries Charlemagne
+	female=yes
+	dynasty=1044053 #Alachislings
+
+	father=190347
+	mother=190340
+
+	religion=catholic
+	culture=lombard
+
+	747.1.1={
+		birth=yes
+	}
+	796.1.1={
+		death=yes
+	}
+}
+190351 = {
+	name="Àû°ÂÅå¶û¼Ó" #marries Tassilo IV of Bavaria
+	female=yes
+	dynasty=1044053 #Alachislings
+	religion="catholic"
+	culture="lombard"
+	father=190347
+	mother=190340
+	750.1.1={
+		birth=yes
+	}
+	794.1.1={
+		death=yes
+	}
+}
+190352 = {
+	name="°²Ôó¶ûÅå¶û¼Ó"
+	female=yes
+	dynasty=1044053 #Alachislings
+	religion="catholic"
+	culture="lombard"
+	father=190347
+	mother=190340
+	744.1.1={
+		birth=yes
+	}
+	794.1.1={
+		death=yes
+	}
+}
+190353 = {
+	name="°¢´ú¶ûÆõË¹"
+	dynasty=1044053 #Alachislings
+	religion="catholic"
+	culture="lombard"
+	father=190347
+	mother=190340
+	759.1.1={
+		birth=yes
+	}
+	788.1.1={
+		death=yes
+	}
+}
+190354 = {
+	name="°¢À­Ï£Ë¹" #king of Lombards
+	dynasty=1044054 #Sicardling
+	religion="catholic"
+	culture="lombard"
+	654.1.1={
+		birth=yes
+	}
+	689.1.1={
+		death=yes
+	}
+}
+190265 = {
+	name="Èû°ÂµÒ¿ËË¹" #duke of Spoleto
+	dynasty=1044061 #Theodingi
+	religion="catholic"
+	culture="lombard"
+	727.1.1={
+		birth=yes
+	}
+	747.1.1={
+		add_spouse=190266
+	}
+	776.1.1={
+		death=yes
+	}
+}
+190266 = {
+	name="¼ªÔó±´¶û¼Ó" #wife of Èû°ÂµÒ¿ËË¹
+	female=yes
+	dynasty=1044062 #Giselbertingi
+	religion="catholic"
+	culture="lombard"
+	731.1.1={
+		birth=yes
+	}
+	780.6.1={
+		death=yes
+	}
+}
+190267 = {
+	name="Ï£¶ûµÂ²¼À¼µÂ" #duke of Spoleto
+	dynasty=1044061 #Theodingi
+	religion="catholic"
+	culture="lombard"
+	father=190265
+	mother=190266
+	750.1.1={
+		birth=yes
+	}
+	789.1.1={
+		death=yes
+	}
+}
+190268 = {
+	name="ÎÚ¶ûË÷Ë¹" #count of Bologna (Persiceta)
+	dynasty=1044063 #Ursingi
+	religion="catholic"
+	culture="lombard"
+	721.1.1={
+		birth=yes
+	}
+	772.1.1={
+		death=yes
+	}
+}
+190269 = {
+	name="Ô¼º²" #count of Bologna
+	dynasty=1044063 #Ursingi
+	religion="catholic"
+	culture="lombard"
+	father=190268
+	740.1.1={
+		birth=yes
+	}
+	776.1.1={
+		death=yes
+	}
+}
+190270 = {
+	name="ÎÚ¶ûË÷Ë¹" #count of Bologna
+	dynasty=1044063 #Ursingi
+	religion="catholic"
+	culture="lombard"
+	father=190269
+	760.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+190271 = {
+	name="°¢µÂÂíÂå" #count of Verona
+	dynasty=1044064 #Ademingi
+	religion="catholic"
+	culture="lombard"
+	701.1.1={
+		birth=yes
+	}
+	768.1.1={
+		death=yes
+	}
+}
+190272 = {
+	name="°¢µÂÂíÂå" #count of Verona
+	dynasty=1044064 #Ademingi
+	religion="catholic"
+	culture="lombard"
+	father=190271
+	742.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+190273 = {
+	name="²¼Â×Ï£¶û´ï" #wife of ÎÚ¶ûË÷Ë¹ of Bologna
+	female=yes
+	dynasty=1044064 #Ademingi
+	religion="catholic"
+	culture="lombard"
+	father=190269
+	743.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}
+190274 = {
+	name="°¢´ï¶û±´ÌØ" #count of Genoa
+	dynasty=1044065 #Adalbertingi
+	religion="catholic"
+	culture="lombard"
+	725.1.1={
+		birth=yes
+	}
+	762.1.1={
+		death=yes
+	}
+}
+190275 = {
+	name="°¢µÂÂíÂå" #count of Genoa
+	dynasty=1044065 #Adalbertingi
+	religion="catholic"
+	culture="lombard"
+	father=190274
+	742.1.1={
+		birth=yes
+	}
+	806.1.1={
+		death=yes
+	}
+}
+190276 = {
+	name="°¢´ï¶û±´¶û¼Ó" #wife of °¢¶ûÅå¶ûÍĞ of Tuscany
+	female=yes
+	dynasty=1044065 #Adalbertingi
+	religion="catholic"
+	culture="lombard"
+	father=190274
+	744.1.1={
+		birth=yes
+	}
+	816.1.1={
+		death=yes
+	}
+}
+190277 = {
+	name="±ËµÃ" #count of Corsica
+	dynasty=1044065 #Adalbertingi
+	religion="catholic"
+	culture="lombard"
+	father=190274
+	747.1.1={
+		birth=yes
+	}
+	806.1.1={
+		death=yes
+	}
+}
+190278 = {
+	name="Íß¶ûÅåÍĞ" #duke of Tuscany
+	dynasty=1044066 #Walpertingi
+	religion="catholic"
+	culture="lombard"
+	702.1.1={
+		birth=yes
+	}
+	754.1.1={
+		death=yes
+	}
+}
+190279 = {
+	name="°¢¶ûÅå¶ûÍĞ" #duke of Tuscany
+	dynasty=1044066 #Walpertingi
+	religion="catholic"
+	culture="lombard"
+	father=190278
+	722.1.1={
+		birth=yes
+	}
+	760.1.1={
+		add_spouse=190276
+	}
+	773.1.1={
+		death=yes
+	}
+}
+190280 = {
+	name="ËşÆõÅå¶ûÍĞ" #duke of Tuscany
+	dynasty=1044066 #Walpertingi
+	religion="catholic"
+	culture="lombard"
+	father=190278
+	743.1.1={
+		birth=yes
+	}
+	774.1.1={
+		death=yes
+	}
+}
+190281 = {
+	name="ËşÆõÅå¶û¼Ó" #wife of Teuderic count of Ravenna
+	female=yes
+	dynasty=1044066 #Walpertingi
+	religion="catholic"
+	culture="lombard"
+	father=190278
+	745.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+190282 = {
+	name="Â¬²¨" #count of Ferrara
+	dynasty=1044066 #Walpertingi
+	religion="catholic"
+	culture="lombard"
+	father=190278
+	727.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+190283 = {
+	name="ËşÆõÅå¶ûÍĞ" #count of Ancona and Urbino
+	dynasty=1044067 #Tachipertingi
+	religion="catholic"
+	culture="lombard"
+	721.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+190284 = {
+	name="Â¬²¨" #count of Ancona
+	dynasty=1044067 #Tachipertingi
+	religion="catholic"
+	culture="lombard"
+	father=190283
+	741.1.1={
+		birth=yes
+	}
+	778.1.1={
+		death=yes
+	}
+}
+190285 = {
+	name="¹şÂå" #count of Urbino
+	dynasty=1044067 #Tachipertingi
+	religion="catholic"
+	culture="lombard"
+	father=190283
+	747.1.1={
+		birth=yes
+	}
+	784.1.1={
+		death=yes
+	}
+}
+190286 = {
+	name="Ï£¶ûÆõÅå¶û¼Ó" #wife of Ï£¶ûµÂÀï¿Ë of Ravenna
+	female=yes
+	dynasty=1044067 #Tachipertingi
+	religion="catholic"
+	culture="lombard"
+	father=190283
+	753.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+190287 = {
+	name="µÒ°Â¶àÀï¿Ë" #count of Ravenna
+	dynasty=1044068 #Teudericingi
+	religion="catholic"
+	culture="lombard"
+	743.1.1={
+		birth=yes
+	}
+	761.1.1={
+		add_spouse=190281
+	}
+	776.1.1={
+		death=yes
+	}
+}
+190288 = {
+	name="Ï£¶ûµÂÀï¿Ë" #count of Ravenna
+	dynasty=1044068 #Teudericingi
+	religion="catholic"
+	culture="lombard"
+	father=190287
+	mother=190281
+	761.1.1={
+		birth=yes
+	}
+	779.1.1={
+		add_spouse=190286
+	}
+	800.1.1={
+		death=yes
+	}
+}
+190289 = {
+	name="´ï¸»¶û" #count of Salerno
+	dynasty=1044069 #Daufingi
+	religion="catholic"
+	culture="lombard"
+	743.1.1={
+		birth=yes
+	}
+	818.1.1={
+		death=yes
+	}
+}
+190290 = {
+	name="ÂŞ¸¥ÀïÌØ" #count of Salerno
+	dynasty=1044069 #Daufingi
+	religion="catholic"
+	culture="lombard"
+	father=190289
+	776.1.1={
+		birth=yes
+	}
+	836.1.1={
+		death=yes
+	}
+}
+190291 = {
+	name="°¢´ú¶ûÆõË¹" #count of Salerno
+	dynasty=1044069 #Daufingi
+	religion="catholic"
+	culture="lombard"
+	father=190290
+	796.1.1={
+		birth=yes
+	}
+	839.1.1={
+		death=yes
+	}
+}
+190292 = {
+	name="ÂŞ¸¥ÀÙ´ï" 
+	female=yes
+	dynasty=1044069 #Daufingi
+	religion="catholic"
+	culture="lombard"
+	father=190290
+	797.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+190293 = {
+	name="²¨Ì©¸¥ÀïÌØ"
+	dynasty=1044069 #Daufingi
+	religion="catholic"
+	culture="lombard"
+	father=190289
+	778.1.1={
+		birth=yes
+	}
+	818.1.1={
+		death=yes
+	}
+}
+190294 = {
+	name="²¨Ì©¸¥ÀÙ´ï" #wife of Landendolf II of Capua
+	female=yes
+	dynasty=1044069 #Daufingi
+	religion="catholic"
+	culture="lombard"
+	father=190293
+	804.1.1={
+		birth=yes
+	}
+	862.1.1={
+		death=yes
+	}
+}
+190295 = {
+	name="Âå¶à°¢¶û¶à" #count of Consenza
+	dynasty=1044070 #Rodoingi
+	religion="catholic"
+	culture="lombard"
+	723.1.1={
+		birth=yes
+	}
+	766.1.1={
+		death=yes
+	}
+}
+190296 = {
+	name="À­¶Å¶ûĞÁ" #count of Consenza
+	dynasty=1044070 #Rodoingi
+	religion="catholic"
+	culture="lombard"
+	father=190295
+	740.1.1={
+		birth=yes
+	}
+	788.1.1={
+		death=yes
+	}
+}
+190297 = {
+	name="°£Ä·Åå¶ûÌØ" #count of Constanza
+	dynasty=1044070 #Rodoingi
+	religion="catholic"
+	culture="lombard"
+	father=190295
+	743.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+190298 = {
+	name="Å··ÑÃ×ÑÇ" #wife of Roderissus of Taranto
+	female=yes
+	dynasty=1044070 #Rodoingi
+	religion="catholic"
+	culture="lombard"
+	father=190295
+	742.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+190299 = {
+	name="ÂŞµÂÀïË÷Ë¹" #count of Taranto
+	dynasty=1044086 #Roderissingi
+	religion="catholic"
+	culture="lombard"
+	745.1.1={
+		birth=yes
+	}
+	762.1.1={
+		add_spouse=190298
+	}
+	810.1.1={
+		death=yes
+	}
+}
+190300 = {
+	name="ÂŞµÂ¼Ó" #count of Taranto
+	dynasty=1044086 #Roderissingi
+	religion="catholic"
+	culture="lombard"
+	father=190299
+	mother=190298
+	763.1.1={
+		birth=yes
+	}
+	811.1.1={
+		death=yes
+	}
+}
+190301 = {
+	name="ÂŞµÂÀïË÷Ë¹" #count of Taranto
+	dynasty=1044086 #Roderissingi
+	religion="catholic"
+	culture="lombard"
+	father=190300
+	783.1.1={
+		birth=yes
+	}
+	814.1.1={
+		death=yes
+	}
+}
+190302 = {
+	name="¸¥À­Ã×¿âË¹"
+	dynasty=1044086 #Roderissingi
+	religion="catholic"
+	culture="lombard"
+	father=190299
+	mother=190298
+	765.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+190303 = {
+	name="¸Ê¶à·ò" #count of Bari
+	dynasty=1044071 #Gandulfingi
+	religion="catholic"
+	culture="lombard"
+	721.1.1={
+		birth=yes
+	}
+	766.1.1={
+		death=yes
+	}
+}
+190304 = {
+	name="´ï¸»¶û" #count of Bari
+	dynasty=1044071 #Gandulfingi
+	religion="catholic"
+	culture="lombard"
+	father=190303
+	763.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+190305 = {
+	name="ÂŞµÂ¼Ó" #count of Bari
+	dynasty=1044071 #Gandulfingi
+	religion="catholic"
+	culture="lombard"
+	father=190304
+	789.1.1={
+		birth=yes
+	}
+	834.1.1={
+		death=yes
+	}
+}
+190306 = {
+	name="°¢ÄÚ¼ªÉ¯" #wife of Maio of Aprutium
+	female=yes
+	dynasty=1044071 #Gandulfingi
+	religion="catholic"
+	culture="lombard"
+	father=190303
+	741.1.1={
+		birth=yes
+	}
+	811.1.1={
+		death=yes
+	}
+}
+190307 = {
+	name="À­µÂ¼ªÉ¯" #wife of Paldo of Apulia
+	female=yes
+	dynasty=1044071 #Gandulfingi
+	religion="catholic"
+	culture="lombard"
+	father=190303
+	743.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+190308 = {
+	name="ÂíÔ¼" #count of Aprutium
+	dynasty=1044072 #Maioingi
+	religion="catholic"
+	culture="lombard"
+	742.1.1={
+		birth=yes
+	}
+	762.1.1={
+		add_spouse=190306
+	}
+	813.1.1={
+		death=yes
+	}
+}
+190309 = {
+	name="ÂíÔ¼" #count of Aprutium
+	dynasty=1044072 #Maioingi
+	religion="catholic"
+	culture="lombard"
+	father=190308
+	mother=190306
+	766.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+190310 = {
+	name="ÅÁ¶û¶à" #count of Apulia
+	dynasty=1044073 #Paldingi
+	religion="catholic"
+	culture="lombard"
+	746.1.1={
+		birth=yes
+	}
+	762.1.1={
+		add_spouse=190307
+	}
+	807.1.1={
+		death=yes
+	}
+}
+190311 = {
+	name="Ë¹Ì©·¨Åµ" #count of Apulia
+	dynasty=1044073 #Paldingi
+	religion="catholic"
+	culture="lombard"
+	father=190310
+	mother=190307
+	766.1.1={
+		birth=yes
+	}
+	827.1.1={
+		death=yes
+	}
+}
+190312 = {
+	name="Íß¶û²®ÌØ" #count of Mantua
+	dynasty=1044074 #Varbertingi
+	religion="catholic"
+	culture="lombard"
+	736.1.1={
+		birth=yes
+	}
+	753.1.1={
+		add_spouse=190313
+	}
+	797.1.1={
+		death=yes
+	}
+}
+190313 = {
+	name="Àï»ùµÂË¹" #wife of Varbert of Mantua
+	female=yes
+	dynasty=1044074 #Varbertingi
+	religion="catholic"
+	culture="lombard"
+	735.1.1={
+		birth=yes
+	}
+	797.1.1={
+		death=yes
+	}
+}
+190314 = {
+	name="À¼±´ÌØ" #count of Parma
+	dynasty=1044074 #Varbertingi
+	religion="catholic"
+	culture="lombard"
+	father=190312
+	mother=190313
+	753.1.1={
+		birth=yes
+	}
+	817.1.1={
+		death=yes
+	}
+}
+190315 = {
+	name="¸ñÀïÂíÎÚµÂ"
+	dynasty=1044074 #Varbertingi
+	religion="catholic"
+	culture="lombard"
+	father=190312
+	mother=190313
+	755.1.1={
+		birth=yes
+	}
+	817.1.1={
+		death=yes
+	}
+}
+190316 = {
+	name="Íß¶û±´¶û¼Ó"
+	female=yes
+	dynasty=1044074 #Varbertingi
+	religion="catholic"
+	culture="lombard"
+	father=190312
+	mother=190313
+	757.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+190317 = {
+	name="±ÈÂå"
+	dynasty=1044074 #Varbertingi
+	religion="catholic"
+	culture="lombard"
+	father=190312
+	mother=190313
+	758.1.1={
+		birth=yes
+	}
+	818.1.1={
+		death=yes
+	}
+}
+190318 = {
+	name="µÂÂŞ¸ê"
+	dynasty=1044074 #Varbertingi
+	religion="catholic"
+	culture="lombard"
+	father=190312
+	mother=190313
+	759.1.1={
+		birth=yes
+	}
+	818.1.1={
+		death=yes
+	}
+}
+190319 = {
+	name="´ï¸»¶û"
+	dynasty=1044074 #Varbertingi
+	religion="catholic"
+	culture="lombard"
+	father=190312
+	mother=190313
+	763.1.1={
+		birth=yes
+	}
+	827.1.1={
+		death=yes
+	}
+}
+190320 = {
+	name="ÅÁ¶û¶à" #count of Milan
+	dynasty=1044075 #Paldoling
+	religion="catholic"
+	culture="lombard"
+	746.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+190321 = {
+	name="ËşÍĞ" #count of Trent
+	dynasty=1044076 #Tatingi
+	religion="catholic"
+	culture="lombard"
+	746.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}
+190322 = {
+	name="À¼±´ÌØ" #count of Modena
+	dynasty=1044077 #À¼±´ÌØingi
+	religion="catholic"
+	culture="lombard"
+	741.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+190323 = {
+	name="¶÷¸ñ¶û²®ÌØ" #count of Treviso
+	dynasty=1044078 #Engelbertingi
+	religion="catholic"
+	culture="lombard"
+	742.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+190324 = {
+	name="ÀûÎÚÌØ¸¥À×µÂ" #count of Montferrat
+	dynasty=1044079 #Liutfredingi
+	religion="catholic"
+	culture="lombard"
+	737.1.1={
+		birth=yes
+	}
+	778.1.1={
+		death=yes
+	}
+}
+190325 = {
+	name="¼ÓÒÁ¶à°¢¶û¶à" #count of Brescia
+	dynasty=1044080 #Gaidolaldingi
+	religion="catholic"
+	culture="lombard"
+	740.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+190326 = {
+	name="ËşË÷" #count of Sienna
+	dynasty=1044081 #Tasingi
+	religion="catholic"
+	culture="lombard"
+	746.1.1={
+		birth=yes
+	}
+	804.1.1={
+		death=yes
+	}
+}
+190328 = {
+	name="±ËµÃ" #count of Orvieto/Orbetello
+	dynasty=1044082 #Petringi
+	religion="catholic"
+	culture="lombard"
+	737.1.1={
+		birth=yes
+	}
+	804.1.1={
+		death=yes
+	}
+}
+190329 = {
+	name="·¨ÂŞ°¢¶û¶à" #count of Piombino
+	dynasty=1044083 #Faroaldingi
+	religion="catholic"
+	culture="lombard"
+	751.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+190330 = {
+	name="ÀûÎÚÌØÆÕÀ¼µÂ" #duke of Susa
+	dynasty=1044084 
+	religion="catholic"
+	culture="lombard"
+	740.1.1={
+        birth=yes
+	}
+	791.1.1={
+		death=yes
+	}
+}
+190332 = {
+	name="ÅË¶à" #count of Capua
+	dynasty=7184 #di Capua
+	religion="catholic"
+	culture="lombard"
+	740.1.1={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+30854={
+	name="½ÜÂê"
+	female=yes
+	dynasty=7184
+
+	father=73354
+
+	religion=catholic
+	culture=lombard
+
+	1018.1.1={
+		birth=yes
+	}
+	1070.12.1={
+		death=yes
+	}
+}
+
+73317={
+	name="ÅË¶à·ò"
+	dynasty=7184
+
+	father=73318
+	mother=73320
+
+	religion=catholic
+	culture=lombard
+
+	1040.1.1={
+		birth=yes
+	}
+	1068.1.1={
+		add_spouse=73319
+	}
+	1073.2.1={
+		death=yes
+	}
+}
+
+73318={
+	name="À¼¶à¶û·ò"
+	dynasty=7184
+
+	father=73321
+	mother=73322
+
+	religion=catholic
+	culture=lombard
+
+	1017.1.1={
+		birth=yes
+	}
+	1038.1.1={
+		add_spouse=73320
+	}
+	1077.12.18={
+		death=yes
+	}
+}
+
+73319={
+	name="°¢¶ûÌØÂ³´ï"
+	female=yes
+
+	religion=catholic
+	culture=lombard
+
+	1050.1.1={
+		birth=yes
+	}
+	1119.7.7={
+		death=yes
+	}
+}
+
+73320={
+	name="ÂêÀûÑÇ"
+	female=yes
+
+	religion=catholic
+	culture=lombard
+
+	1020.1.1={
+		birth=yes
+	}
+	1069.5.20={
+		death=yes
+	}
+}
+
+73321={
+	name="ÅË¶à·ò"
+	dynasty=7184
+
+	father=73323
+	mother=168453
+
+	religion=catholic
+	culture=lombard
+
+	995.1.1={
+		birth=yes
+	}
+	1016.1.1={
+		add_spouse=73322
+	}
+	1059.1.1={
+		death=yes
+	}
+}
+
+73322={
+	name="°¢¶ûÌØÂ³´ï"
+	female=yes
+
+	religion=catholic
+	culture=lombard
+
+	1000.1.1={
+		birth=yes
+	}
+	1069.5.20={
+		death=yes
+	}
+}
+
+73323={
+	name="À¼¶à¶û·ò"
+	dynasty=7184
+
+	father=73324
+
+	religion=catholic
+	culture=lombard
+
+	978.1.1={
+		birth=yes
+	}
+	994.1.1={
+		add_spouse=168453
+	}
+	1034.9.1={
+		death=yes
+	}
+}
+
+73324={
+	name="ÅË¶à·ò"
+	dynasty=7184
+
+	father=73325
+
+	religion=catholic
+	culture=lombard
+
+	953.1.1={
+		birth=yes
+	}
+	1014.8.1={
+		death=yes
+	}
+}
+
+73325={
+	name="À¼¶à¶û·ò"
+	dynasty=7184
+
+	father=73328
+
+	religion=catholic
+	culture=lombard
+
+	930.1.1={
+		birth=yes
+	}
+	968.1.1={
+		death=yes
+	}
+}
+
+73326={
+	name="À¼¶à¶û·ò"
+	dynasty=7184
+
+	father=73327
+
+	religion=catholic
+	culture=lombard
+
+	950.1.1={
+		birth=yes
+	}
+	982.7.13={
+		death=yes
+	}
+}
+
+73327={
+	name="ÅË¶à·ò"
+	dynasty=7184
+
+	father=73328
+
+	religion=catholic
+	culture=lombard
+
+	927.1.1={
+		birth=yes
+	}
+	981.3.1={
+		death=yes
+	}
+}
+
+73328={
+	name="À¼¶à¶û·ò"
+	dynasty=7184
+
+	father=73330
+
+	religion=catholic
+	culture=lombard
+
+	902.1.1={
+		birth=yes
+	}
+	961.1.1={
+		death=yes
+	}
+}
+
+73329={
+	name="°¢ÌØÅµ¶û·ò"
+	dynasty=7184
+
+	father=73330
+
+	religion=catholic
+	culture=lombard
+
+	900.1.1={
+		birth=yes
+	}
+	943.1.1={
+		death=yes
+	}
+}
+
+73330={
+	name="À¼¶à¶û·ò"
+	dynasty=7184
+
+	father=73331
+
+	religion=catholic
+	culture=lombard
+
+	872.1.1={
+		birth=yes
+	}
+	943.1.1={
+		death=yes
+	}
+}
+
+73331={
+	name="°¢ÌØÅµ¶û·ò¡°
+	dynasty=7184
+
+	religion=catholic
+	culture=lombard
+
+	father=163072
+
+	847.1.1={
+		birth=yes
+	}
+	912.1.1={
+		death=yes
+	}
+}
+
+73332={
+	name="°¢ÌØÅµ¶û·ò¡°
+	dynasty=7184
+
+	religion=catholic
+	culture=lombard
+
+	father=73331
+
+	874.1.1={
+		birth=yes
+	}
+	941.1.1={
+		death=yes
+	}
+}
+
+73333={
+	name="À¼µÇÅµ¶û·ò"
+	dynasty=7184
+
+	father=73327
+
+	religion=catholic
+	culture=lombard
+
+	956.1.1={
+		birth=yes
+	}
+	993.4.21={
+		death=yes
+	}
+}
+
+73334={
+	name="À³¶à·ò"
+	dynasty=7184
+
+	father=73327
+
+	religion=catholic
+	culture=lombard
+
+	957.1.1={
+		birth=yes
+	}
+	1015.1.1={
+		death=yes
+	}
+}
+
+73335={
+	name="°¢µÂÂí¶û"
+
+	religion=catholic
+	culture=lombard
+
+	956.1.1={
+		birth=yes
+	}
+	1009.3.1={
+		death=yes
+	}
+}
+
+73336={
+	name="À¼¶à¶û·ò"
+	dynasty=7184
+
+	father=73325
+
+	religion=catholic
+	culture=lombard
+
+	952.1.1={
+		birth=yes
+	}
+	1007.1.1={
+		death=yes
+	}
+}
+
+73337={
+	name="ÅË¶à·ò"
+	dynasty=7184
+
+	father=73336
+
+	religion=catholic
+	culture=lombard
+
+	976.1.1={
+		birth=yes
+	}
+	1022.1.1={
+		death=yes
+	}
+}
+
+73338={
+	name="ÅË¶à·ò"
+	dynasty=7184
+
+	father=73324
+
+	religion=catholic
+	culture=lombard
+
+	977.1.1={
+		birth=yes
+	}
+	1049.2.20={
+		death=yes
+	}
+}
+
+73339={
+	name="¼ªË÷·ò"
+	dynasty=7184
+
+	father=73327
+
+	religion=catholic
+	culture=lombard
+
+	959.1.1={
+		birth=yes
+	}
+	996.8.1={
+		death=yes
+	}
+}
+
+73340={
+	name="ÅË¶à·ò"
+	dynasty=7184
+
+	father=73339
+
+	religion=catholic
+	culture=lombard
+
+	982.1.1={
+		birth=yes
+	}
+	1026.1.1={
+		death=yes
+	}
+}
+
+73341={
+	name="Ô¼º²"
+	dynasty=7184
+
+	father=73340
+
+	religion=catholic
+	culture=lombard
+
+	1005.1.1={
+		birth=yes
+	}
+	1047.1.1={
+		death=yes
+	}
+}
+
+73342={
+	name="ÅË¶à·ò"
+	dynasty=7184
+
+	father=73338
+
+	religion=catholic
+	culture=lombard
+
+	1000.1.1={
+		birth=yes
+	}
+	1057.1.1={
+		death=yes
+	}
+}
+
+73343={
+	name="À¼¶à¶û·ò"
+	dynasty=7184
+
+	father=73342
+
+	religion=catholic
+	culture=lombard
+
+	1022.1.1={
+		birth=yes
+	}
+	1078.1.1={
+		death=yes
+	}
+}
+
+73344={
+	name="Üç¿­¸ÇËş"
+	female=yes
+	dynasty=7184
+
+	father=73343
+
+	religion=catholic
+	culture=lombard
+
+	1041.1.1={
+		birth=yes
+	}
+	1098.1.1={
+		death=yes
+	}
+}
+
+73345={
+	name="°¢µÂ¶û¸ñÀûÂê"
+	female=yes
+	dynasty=7184
+
+	father=73342
+
+	religion=catholic
+	culture=lombard
+
+	1023.1.1={
+		birth=yes
+	}
+	1105.1.1={
+		death=yes
+	}
+}
+
+73346={
+	name="À¼¶à"
+	dynasty=12243
+
+	religion=catholic
+	culture=lombard
+
+	1018.1.1={
+		birth=yes
+	}
+	1041.1.1={
+		add_spouse=73345
+	}
+	1065.1.1={
+		death=yes
+	}
+}
+
+73347={
+	name="°¢ÌØÅµ¶û·ò¡°
+	dynasty=12243
+
+	father=73346
+	mother=73345
+
+	religion=catholic
+	culture=lombard
+
+	1042.1.1={
+		birth=yes
+	}
+	1105.1.1={
+		death=yes
+	}
+}
+
+73348={
+	name="À¼¶à¶û·ò"
+	dynasty=12243
+
+	father=73346
+	mother=73345
+
+	religion=catholic
+	culture=lombard
+
+	1043.1.1={
+		birth=yes
+	}
+	1107.1.1={
+		death=yes
+	}
+}
+
+73349={
+	name="ÅË¶à·ò"
+	dynasty=12243
+
+	father=73346
+	mother=73345
+
+	religion=catholic
+	culture=lombard
+
+	1045.1.1={
+		birth=yes
+	}
+	1108.1.1={
+		death=yes
+	}
+}
+
+73350={
+	name="À¼¶à"
+	dynasty=12243
+
+	father=73346
+	mother=73345
+
+	religion=catholic
+	culture=lombard
+
+	1046.1.1={
+		birth=yes
+	}
+	1098.1.1={
+		death=yes
+	}
+}
+
+73351={
+	name="°¢ÌØÅµ¶û·ò¡°
+	dynasty=12243
+
+	father=73347
+
+	religion=catholic
+	culture=lombard
+
+	1066.1.1={
+		birth=yes
+	}
+	1118.1.1={
+		death=yes
+	}
+}
+
+73352={
+	name="Üç¿­¸ÇËş"
+	female=yes
+	dynasty=12243
+
+	father=73347
+
+	religion=catholic
+	culture=lombard
+
+	1068.1.1={
+		birth=yes
+	}
+	1125.1.1={
+		death=yes
+	}
+}
+
+73353={
+	name="ÅåÌØÂŞË¹"
+	dynasty=12243
+
+	father=73350
+
+	religion=catholic
+	culture=lombard
+
+	1070.1.1={
+		birth=yes
+	}
+	1127.1.1={
+		death=yes
+	}
+}
+
+73354={
+	name="À³¶à·ò"
+	dynasty=7184
+
+	father=73338
+
+	religion=catholic
+	culture=lombard
+
+	1002.1.1={
+		birth=yes
+	}
+	1046.2.1={
+		death=yes
+	}
+}
+
+73355={
+	name="ÅË¶à·ò"
+	dynasty=7184
+
+	father=73354
+
+	religion=catholic
+	culture=lombard
+
+	1022.1.1={
+		birth=yes
+	}
+	1052.8.1={
+		death=yes
+	}
+}
+
+2012={
+	name="´ï¸»¶û"
+	dynasty=7184
+
+	father=73323
+
+	religion=catholic
+	culture=lombard
+
+	trait=humble
+	trait=zealous
+	trait=scholarly_theologian
+
+	1026.1.1={
+		birth=yes
+	}
+	1085.5.25={
+		name="Victor"
+	}
+	1087.9.16={
+		death=yes
+	}
+}
+
+163072={
+	name="À¼µÇÅµ¶û·ò"
+	dynasty=7184
+
+	father=163075
+	mother=190292
+
+	religion=catholic
+	culture=lombard
+
+	810.1.1={
+		birth=yes
+	}
+	859.1.1={
+		death=yes
+	}
+}
+
+163073={
+	name="À¼µÇÅµ¶û·ò"
+	dynasty=7184
+
+	father=163072
+	mother=190294
+
+	religion=catholic
+	culture=lombard
+
+	846.1.1={
+		birth=yes
+	}
+	887.1.1={
+		death=yes
+	}
+}
+
+163074={
+	name="À¼¶à"
+	dynasty=7184
+
+	father=163072
+	mother=190294
+
+	religion=catholic
+	culture=lombard
+
+	845.1.1={
+		birth=yes
+	}
+	885.1.1={
+		death=yes
+	}
+}
+
+163075={
+	name="À¼¶à¶û·ò"
+	dynasty=7184
+
+	religion=catholic
+	culture=lombard
+
+	780.1.1={
+		birth=yes
+	}
+	798.1.1={
+		add_spouse=190292
+	}
+	843.1.1={
+		death=yes
+	}
+}
+
+163076={
+	name="À¼¶à"
+	dynasty=7184
+
+	father=163075
+	mother=190292
+
+	religion=catholic
+	culture=lombard
+
+	798.1.1={
+		birth=yes
+	}
+	861.1.1={
+		death=yes
+	}
+}
+
+163077={
+	name="ÅË¶à"
+	dynasty=7184
+
+	father=163075
+	mother=190292
+
+	religion=catholic
+	culture=lombard
+
+	799.1.1={
+		birth=yes
+	}
+	862.1.1={
+		death=yes
+	}
+}
+
+163078={
+	name="ÅËµÇÅµ¶û·ò"
+	dynasty=7184
+
+	father=163077
+
+	religion=catholic
+	culture=lombard
+
+	830.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+
+163079={
+	name="À¼¶à¶û·ò"
+	dynasty=7184
+
+	father=163075
+	mother=190292
+
+	religion=catholic
+	culture=lombard
+
+	801.1.1={
+		birth=yes
+	}
+	879.1.1={
+		death=yes
+	}
+}
+
+168496={
+	name="ÂêÀûÑÇ"
+	female=yes
+	dynasty=7184
+
+	father=73324
+
+	religion=catholic
+	culture=lombard
+
+	980.1.1={
+		birth=yes
+	}
+	1040.1.1={
+		death=yes
+	}
+}
+
+145206={
+	name="À¼¶à"
+	dynasty=7184
+
+	father=163076
+
+	religion=catholic
+	culture=lombard
+
+	820.1.1={
+		birth=yes
+	}
+	866.1.1={
+		death=yes
+	}
+}
+1116={
+	name="¸ÇÒÁÂê¶û"
+	dynasty=100336
+
+	father=30857
+
+	religion=catholic
+	culture=lombard
+
+	1010.1.1={
+		birth=yes
+	}
+	1026.1.1={
+		add_spouse=1117
+	}
+	1032.5.1={
+		add_spouse=30854
+	}
+	1052.6.3={
+		death=yes
+	}
+}
+
+1117={
+	name="ÆÕ¶ûÆÕÀ­"
+	female=yes
+
+	religion=catholic
+	culture=lombard
+
+	1010.1.1={
+		birth=yes
+	}
+	1032.1.1={
+		death=yes
+	}
+}
+
+1119={
+	name="¼ªË÷·ò"
+	dynasty=100336
+
+	father=1116
+	mother=30854
+
+	religion=catholic
+	culture=lombard
+
+	1035.1.1={
+		birth=yes
+	}
+	1091.1.2={
+		death=yes
+	}
+}
+
+1123={
+	name="Üç¿­¸ÇËş"
+	female=yes
+	dynasty=100336
+
+	father=1116
+	mother=30854
+
+	religion=catholic
+	culture=lombard
+
+	1040.1.1={
+		birth=yes
+	}
+	1090.7.27={
+		death=yes
+	}
+}
+
+1129={
+	name="¸ÇÌØ¶û¸ñÀûÂê"
+	female=yes
+	dynasty=100336
+
+	father=1116
+	mother=1117
+
+	religion=catholic
+	culture=lombard
+
+	1032.1.1={
+		birth=yes
+	}
+	1087.1.1={
+		death=yes
+	}
+}
+
+1137={
+	name="ÂêÀûÑÇ"
+	female=yes
+	dynasty=100336
+
+	father=30856
+
+	religion=catholic
+	culture=lombard
+
+	1034.1.1={
+		birth=yes
+	}
+	1085.1.1={
+		death=yes
+	}
+}
+
+30855={
+	name="¸ÇËş"
+	female=yes
+	dynasty=100336
+
+	father=1116
+	mother=30854
+
+	religion=catholic
+	culture=lombard
+
+	1050.1.1={
+		birth=yes
+	}
+	1108.12.9={
+		death=yes
+	}
+}
+
+30856={
+	name="Î¬¶à"
+	dynasty=100336
+
+	father=30857
+
+	religion=catholic
+	culture=lombard
+
+	1012.1.1={
+		birth=yes
+	}
+	1077.1.1={
+		death=yes
+	}
+}
+
+30857={
+	name="¸ÇÒÁÂê¶û"
+	dynasty=100336
+
+	religion=catholic
+	culture=lombard
+
+	970.1.1={
+		birth=yes
+	}
+	1027.2.1={
+		death=yes
+	}
+}
+
+30858={
+	name="À¼¶à¶û·ò"
+	dynasty=100336
+
+	father=1116
+	mother=30854
+
+	religion=catholic
+	culture=lombard
+
+	1036.1.1={
+		birth=yes
+	}
+	1075.1.1={
+		death=yes
+	}
+}
+
+30859={
+	name="Î¬¶à"
+	dynasty=100336
+
+	father=1116
+	mother=30854
+
+	religion=catholic
+	culture=lombard
+
+	1037.1.1={
+		birth=yes
+	}
+	1075.1.1={
+		death=yes
+	}
+}
+
+30860={
+	name="Ô¼º²"
+	dynasty=100336
+
+	father=1116
+	mother=30854
+
+	religion=catholic
+	culture=lombard
+
+	1038.1.1={
+		birth=yes
+	}
+	1095.1.1={
+		death=yes
+	}
+}
+
+30861={
+	name="¸ÇÒÁÂê¶û"
+	dynasty=100336
+
+	father=1116
+	mother=30854
+
+	religion=catholic
+	culture=lombard
+
+	1039.1.1={
+		birth=yes
+	}
+	1076.1.1={
+		death=yes
+	}
+}
+
+30863={
+	name="Üç¿­¸ÇËş"
+	female=yes
+	dynasty=7186
+
+	religion=catholic
+	culture=lombard
+
+	1044.1.1={
+		birth=yes
+	}
+	1101.9.1={
+		death=yes
+	}
+}
+
+163091={
+	name="¸ÇÒÁ·Æ¶û"
+	dynasty=1022178
+
+	father=145214
+
+	religion=catholic
+	culture=lombard
+
+	830.1.1={
+		birth=yes
+	}
+	881.1.1={
+		death=yes
+	}
+}
+
+145207={
+	name="Î÷¿É"
+	dynasty=805
+
+	religion=catholic
+	culture=lombard
+
+	758.1.1={
+		birth=yes
+	}
+	832.9.1={
+		death=yes
+	}
+}
+
+145208={
+	name="Îı¿¨¶û"
+	dynasty=805
+
+	father=145207
+
+	religion=catholic
+	culture=lombard
+
+	790.1.1={
+		birth=yes
+	}
+	839.8.1={
+		death=yes
+	}
+}
+
+145209={
+	name="Æë¿ÆÅµ¶û·ò"
+	dynasty=805
+
+	father=145207
+
+	religion=catholic
+	culture=lombard
+
+	792.1.1={
+		birth=yes
+	}
+	851.1.1={
+		death=yes
+	}
+}
+
+145210={
+	name="Î÷¿É"
+	dynasty=805
+
+	father=145209
+
+	religion=catholic
+	culture=lombard
+
+	837.1.1={
+		birth=yes
+	}
+	855.8.1={
+		death=yes
+	}
+}
+
+145211={
+	name="ÅåÌØÂŞË¹"
+	dynasty=1022143
+
+	religion=catholic
+	culture=lombard
+
+	800.1.1={
+		birth=yes
+	}
+	853.12.1={
+		death=yes
+	}
+}
+
+145212={
+	name="°¢µÂÂí¶û"
+	dynasty=1022143
+
+	father=145211
+
+	religion=catholic
+	culture=lombard
+
+	820.1.1={
+		birth=yes
+	}
+	861.8.1={
+		trait=blinded
+	}
+	870.1.1={
+		death=yes
+	}
+}
+
+145213={
+	name="´ï¸»¶û"
+	dynasty=1022178
+
+	religion=catholic
+	culture=lombard
+
+	780.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+145214={
+	name="´ï¸»¶û"
+	dynasty=1022178
+
+	father=145213
+
+	religion=catholic
+	culture=lombard
+
+	810.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+145215={
+	name="¸ÇÒÁÂê¶û"
+	dynasty=1022178
+
+	father=163091
+
+	religion=catholic
+	culture=lombard
+
+	855.1.1={
+		birth=yes
+	}
+	901.2.1={
+		death=yes
+	}
+}
+168416={
+	name=ÎÚ¶ûË÷Ë¹
+	dynasty=9593
+
+	religion=catholic
+	culture=lombard
+
+	800.1.1={
+		birth=yes
+	}	
+	850.1.1={
+		death=yes
+	}
+}
+
+168417={
+	name=Àû°Â
+	dynasty=9593
+
+	father=168416
+
+	religion=catholic
+	culture=lombard
+
+	830.1.1={
+		birth=yes
+	}	
+	880.1.1={
+		death=yes
+	}
+}
+
+168418={
+	name=ÂüË÷ #Mansone I
+	dynasty=9593
+
+	father=168417
+
+	religion=catholic
+	culture=lombard
+
+	850.1.1={
+		birth=yes
+	}	
+	914.1.1={
+		death=yes
+	}
+}
+
+168419={
+	name=ÂíË¹ËşÂå #Mastalo I
+	dynasty=9593
+
+	father=168418
+
+	religion=catholic
+	culture=lombard
+
+	880.1.1={
+		birth=yes
+	}	
+	954.6.29={
+		death=yes
+	}
+}
+
+168420={
+	name=¾ıÊ¿Ì¹ÌáÎÚË¹
+	dynasty=9593
+
+	father=168418
+
+	religion=catholic
+	culture=lombard
+
+	890.1.1={
+		birth=yes
+	}	
+	960.1.1={
+		death=yes
+	}
+}
+
+168421={
+	name=Àû°Â #Àû°Âne I
+	dynasty=9593
+
+	father=168419
+
+	religion=catholic
+	culture=lombard
+
+	900.1.1={
+		birth=yes
+	}	
+	931.6.25={
+		death=yes
+	}
+}
+
+168422={
+	name=Ô¼º² #Giovanni I
+	dynasty=9593
+
+	father=168419
+
+	religion=catholic
+	culture=lombard
+
+	902.1.1={
+		birth=yes
+	}	
+	947.7.26={
+		death=yes
+	}
+}
+
+168423={
+	name=ÂíË¹ËşÂå #Mastalo II
+	dynasty=9593
+
+	father=168422
+
+	religion=catholic
+	culture=lombard
+
+	935.1.1={
+		birth=yes
+	}	
+	958.1.1={
+		death=yes
+	}
+
+}
+
+168424={
+	name=ÂüË÷
+	dynasty=9593
+
+	father=168420
+
+	religion=catholic
+	culture=lombard
+
+	910.1.1={
+		birth=yes
+	}	
+	960.1.1={
+		death=yes
+	}
+}
+
+168425={
+	name=Àû°Â
+	dynasty=9593
+
+	father=168424
+
+	religion=catholic
+	culture=lombard
+
+	935.1.1={
+		birth=yes
+	}	
+	1010.1.1={
+		death=yes
+	}
+}
+
+168426={
+	name=¾ıÊ¿Ì¹ÌáÎÚË¹
+	dynasty=9593
+
+	father=168425
+
+	religion=catholic
+	culture=lombard
+
+	975.1.1={
+		birth=yes
+	}	
+	1035.1.1={
+		death=yes
+	}
+}
+
+168427={
+	name=ÂüË÷
+	dynasty=9593
+
+	father=168425
+
+	religion=catholic
+	culture=lombard
+
+	1005.1.1={
+		birth=yes
+	}
+	1035.1.1={
+		add_spouse=168429
+	}	
+	1075.1.1={
+		death=yes
+	}
+}
+
+168428={
+	name=ÂíË¹ËşÂå
+	dynasty=9593
+
+	father=168425
+
+	religion=catholic
+	culture=lombard
+
+	1010.1.1={
+		birth=yes
+	}	
+	1077.1.1={
+		death=yes
+	}
+}
+
+168429={
+	name=ÂêÀûÑÇ
+	female=yes
+
+	religion=catholic
+	culture=lombard
+
+	1015.1.1={
+		birth=yes
+	}	
+	1075.1.1={
+		death=yes
+	}
+}
+
+168430={
+	name=Àû°Â
+	dynasty=9593
+
+	father=168427
+	mother=168429
+
+	religion=catholic
+	culture=lombard
+
+	1040.1.1={		
+		birth=yes	
+	}		
+	1090.1.1={		
+		death=yes
+	}
+}
+
+168431={
+	name=ÂüË÷
+	dynasty=9593
+
+	father=168427
+	mother=168429
+
+	religion=catholic
+	culture=lombard
+
+	1042.1.1={		
+		birth=yes	
+	}		
+	1090.1.1={		
+		death=yes	
+	}
+}
+
+168432={
+	name=Ô¼º²
+	dynasty=9593
+
+	father=168427
+	mother=168429
+
+	religion=catholic
+	culture=lombard
+
+	1045.1.1={		
+		birth=yes	
+	}		
+	1095.1.1={		
+		death=yes	
+	}
+}
+
+168433={
+	name=ÎÚË÷ÀûÄáÎÚË¹
+	dynasty=9593
+
+	father=168431
+	trait=bastard
+
+	religion=catholic
+	culture=lombard
+
+	1060.1.1={		
+		birth=yes	
+	}		
+	1100.1.1={		
+		death=yes	
+	}
+}
+
+168434={
+	name=Èû¶û¼ªÎÚË¹
+	dynasty=9593
+
+	father=168416
+
+	religion=catholic
+	culture=lombard
+
+	835.1.1={		
+		birth=yes	
+	}	
+	885.1.1={		
+		death=yes	
+	}
+}
+
+168435={
+	name=°¢ÄÉË¹ËşĞŞË¹
+	dynasty=9593
+
+	father=168416
+
+	religion=catholic
+	culture=lombard
+
+	838.1.1={		
+		birth=yes	
+	}	
+	890.1.1={		
+		death=yes	
+	}
+}
+
+168436={
+	name=ÄÂË¹¿Æ
+	dynasty=9592
+
+	religion=catholic
+	culture=lombard
+
+	830.1.1={
+		birth=yes
+	}	
+	890.1.1={
+		death=yes
+	}
+}
+
+168437={
+	name=Èû¶û¼ªÎÚË¹
+	dynasty=9592
+
+	father=168436
+
+	religion=catholic
+	culture=lombard
+
+	848.1.1={
+		birth=yes
+	}	
+	910.1.1={
+		death=yes
+	}
+}
+
+168438={
+	name=ÄÂË¹¿Æ
+	dynasty=9592
+
+	father=168437
+
+	religion=catholic
+	culture=lombard
+
+	880.1.1={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+
+168439={
+	name=Èû¶û¼ªÎÚË¹ #Sergio II
+	dynasty=9592
+
+	father=168438
+
+	religion=catholic
+	culture=lombard
+
+	905.1.1={		
+		birth=yes	
+	}	
+	966.12.20={		
+		death=yes	
+	}
+}
+
+168440={
+	name=ÂüË÷ #Mansone I
+	dynasty=9592
+
+	father=168439
+
+	religion=catholic
+	culture=lombard
+
+	940.1.1={		
+		birth=yes	
+	}	
+	1004.1.1={		
+		death=yes	
+	}
+}
+
+168441={
+	name=Ô¼º²
+	dynasty=9592
+
+	father=168439
+
+	religion=catholic
+	culture=lombard
+
+	945.1.1={		
+		birth=yes	
+	}	
+	1007.4.27={		
+		death=yes	
+	}
+}
+
+168442={
+	name=°¢µÂ·Æ¶û #Adelferio I
+	dynasty=9592
+
+	father=168439
+
+	religion=catholic
+	culture=lombard
+
+	948.1.1={		
+		birth=yes	
+	}	
+	998.1.1={		
+		death=yes	
+	}
+}
+
+168443={
+	name=Èû¶û¼ªÎÚË¹
+	dynasty=9592
+
+	father=168442
+
+	religion=catholic
+	culture=lombard
+
+	975.1.1={		
+		birth=yes	
+	}	
+	1028.1.1={		
+		death=yes	
+	}
+}
+
+168444={
+	name=Ã«Â³Ë¹
+	dynasty=9592
+
+	father=168442
+
+	religion=catholic
+	culture=lombard
+
+	980.1.1={		
+		birth=yes	
+	}	
+	1012.1.1={		
+		death=yes	
+	}
+}
+
+168445={
+	name=°¢µÂÂí¶û
+	dynasty=9592
+
+	father=168442
+
+	religion=catholic
+	culture=lombard
+
+	982.1.1={		
+		birth=yes	
+	}	
+	1012.1.1={		
+		death=yes	
+	}
+}
+
+168446={
+	name=Àû°Â
+	dynasty=9592
+
+	father=168439
+
+	religion=catholic
+	culture=lombard
+
+	950.1.1={		
+		birth=yes	
+	}	
+	992.1.1={		
+		death=yes	
+	}
+}
+
+168447={
+	name=ÆÕ¶ûÆÕÀ­
+	female=yes
+	dynasty=9592
+
+	father=168446
+
+	religion=catholic
+	culture=lombard
+
+	975.1.1={		
+		birth=yes	
+	}	
+	1037.1.1={		
+		death=yes	
+	}
+}
+
+168448={
+	name=Ô¼º² #Giovanni II
+	dynasty=9592
+
+	father=168440
+
+	religion=catholic
+	culture=lombard
+
+	960.1.1={		
+		birth=yes	
+	}	
+	1006.6.1={		
+		death=yes	
+	}
+}
+
+168449={
+	name=ÂíÀûÅ¬Ë¹
+	dynasty=9592
+
+	father=168440
+
+	religion=catholic
+	culture=lombard
+
+	965.1.1={		
+		birth=yes	
+	}	
+	1011.1.1={		
+		death=yes	
+	}
+}
+
+168450={
+	name=Èû¶û¼ªÎÚË¹
+	dynasty=9592
+
+	father=168440
+
+	religion=catholic
+	culture=lombard
+
+	970.1.1={		
+		birth=yes	
+	}	
+	1008.11.1={		
+		death=yes	
+	}
+}
+
+168451={
+	name=ÂüË÷
+	dynasty=9592
+
+	father=168440
+
+	religion=catholic
+	culture=lombard
+
+	972.1.1={		
+		birth=yes	
+	}	
+	1021.1.1={		
+		death=yes	
+	}
+}
+
+168452={
+	name=À¼¶à¶û·ò
+	dynasty=9592
+
+	father=168440
+
+	religion=catholic
+	culture=lombard
+
+	973.1.1={		
+		birth=yes	
+	}	
+	1008.1.1={		
+		death=yes	
+	}
+}
+
+168453={
+	name=¿¨¶û´ï
+	female=yes
+	dynasty=9592
+
+	father=168440
+
+	religion=catholic
+	culture=lombard
+
+	975.1.1={		
+		birth=yes	
+	}	
+	1009.1.1={		
+		death=yes	
+	}
+}
+
+168454={
+	name=Èû¶û¼ªÎÚË¹ #Sergio III
+	dynasty=9592
+
+	father=168448
+
+	religion=catholic
+	culture=lombard
+
+	983.1.1={		
+		birth=yes	
+	}
+	1012.1.1={
+		add_spouse=168496
+	}	
+	1028.1.1={		
+		death=yes	
+	}
+}
+
+168455={
+	name=ÂíÀûÅ¬Ë¹
+	dynasty=9592
+
+	father=168448
+
+	religion=catholic
+	culture=lombard
+
+	988.1.1={		
+		birth=yes	
+	}	
+	1038.1.1={		
+		death=yes	
+	}
+}
+
+168456={
+	name=°¢À×ÆõË¹
+	dynasty=9592
+
+	father=168448
+
+	religion=catholic
+	culture=lombard
+
+	990.1.1={		
+		birth=yes	
+	}	
+	1040.1.1={		
+		death=yes	
+	}
+}
+
+168457={
+	name=Èû¶û¼ªÎÚË¹
+	dynasty=9592
+
+	father=168455
+
+	religion=catholic
+	culture=lombard
+
+	1015.1.1={		
+		birth=yes	
+	}	
+	1079.6.10={		
+		death=yes	
+	}
+}
+
+168458={
+	name=Èû¶û¼ªÎÚË¹
+	dynasty=9592
+
+	father=168457
+
+	religion=catholic
+	culture=lombard
+
+	1035.1.1={		
+		birth=yes	
+	}	
+	1079.6.10={		
+		death=yes	
+	}
+}
+
+168459={
+	name=Ô¼º²
+	dynasty=9592
+
+	father=168457
+
+	religion=catholic
+	culture=lombard
+
+	1037.1.1={		
+		birth=yes	
+	}	
+	1079.6.10={		
+		death=yes	
+	}
+}
+
+168460={
+	name=ÂüË÷
+	dynasty=9592
+
+	father=168456
+
+	religion=catholic
+	culture=lombard
+
+	1015.1.1={		
+		birth=yes	
+	}	
+	1078.1.1={		
+		death=yes	
+	}
+}
+
+168461={
+	name=°¢À×ÆõË¹
+	dynasty=9592
+
+	father=168460
+
+	religion=catholic
+	culture=lombard
+
+	1035.1.1={		
+		birth=yes	
+	}	
+	1078.1.1={		
+		death=yes	
+	}
+}
+
+168462={
+	name=Ô¼º²
+	dynasty=9592
+
+	father=168460
+
+	religion=catholic
+	culture=lombard
+
+	1036.1.1={		
+		birth=yes	
+	}	
+	1078.1.1={		
+		death=yes	
+	}
+}
+
+168463={
+	name=°¢ÂŞÀ­
+	female=yes
+	dynasty=9592
+
+	father=168460
+
+	religion=catholic
+	culture=lombard
+
+	1037.1.1={		
+		birth=yes	
+	}	
+	1078.1.1={		
+		death=yes	
+	}
+}
+
+168464={
+	name=Ë¹ÌØ·¨Äáæ«
+	female=yes
+	dynasty=9592
+
+	father=168460
+
+	religion=catholic
+	culture=lombard
+
+	1038.1.1={		
+		birth=yes	
+	}	
+	1078.1.1={		
+		death=yes	
+	}
+}
+
+168465={
+	name=ÀÙ¼ÎÀòÑÇ
+	female=yes
+	dynasty=9592
+
+	father=168460
+
+	religion=catholic
+	culture=lombard
+
+	1039.1.1={		
+		birth=yes	
+	}	
+	1078.1.1={		
+		death=yes	
+	}
+}
+
+168466={
+	name=Ô¼º² #Giovanni III
+	dynasty=9592
+
+	father=168454
+	mother=168496
+
+	religion=catholic
+	culture=lombard
+
+	1015.1.1={		
+		birth=yes	
+	}	
+	1069.1.1={		
+		death=yes	
+	}
+}
+
+168467={
+	name=ÂüË÷ #Mansone III
+	dynasty=9592
+
+	father=168454
+	mother=168496
+
+	religion=catholic
+	culture=lombard
+
+	1017.1.1={		
+		birth=yes	
+	}
+	1038.1.1={
+		trait=blinded
+		give_nickname=nick_the_blind
+	}	
+	1053.1.1={		
+		death=yes	
+	}
+}
+
+168468={
+	name=Âå¸¥ÀïÌØ
+	dynasty=9592
+
+	father=168454
+	mother=168496
+
+	religion=catholic
+	culture=lombard
+
+	1019.1.1={		
+		birth=yes	
+	}	
+	1058.1.1={		
+		death=yes	
+	}
+}
+
+168469={
+	name=°¢ÌØÅµ¶û·ò
+	dynasty=9592
+
+	father=168454
+	mother=168496
+
+	religion=catholic
+	culture=lombard
+
+	1020.1.1={		
+		birth=yes	
+	}	
+	1067.1.1={		
+		death=yes	
+	}
+}
+
+168470={
+	name=°¢¶û±´¿Ë
+	dynasty=9592
+
+	father=168454
+	mother=168496
+
+	religion=catholic
+	culture=lombard
+
+	1025.1.1={		
+		birth=yes	
+	}	
+	1094.1.1={		
+		death=yes	
+	}
+}
+
+168471={
+	name=ÀÙ¼ÎÀòÑÇ
+	female=yes
+	dynasty=9592
+
+	father=168454
+	mother=168496
+
+	religion=catholic
+	culture=lombard
+
+	1016.1.1={		
+		birth=yes	
+	}	
+	1076.1.1={		
+		death=yes	
+	}
+}
+
+168472={
+	name=ÅË¶à·ò
+	dynasty=9592
+
+	father=168469
+
+	religion=catholic
+	culture=lombard
+
+	1040.1.1={		
+		birth=yes	
+	}	
+	1090.1.1={		
+		death=yes	
+	}
+}
+
+168473={
+	name=ÀÙ¼ÎÀòÑÇ
+	female=yes
+	dynasty=9592
+
+	father=168472
+
+	religion=catholic
+	culture=lombard
+
+	1060.1.1={		
+		birth=yes	
+	}
+	
+	1100.1.1={		
+		death=yes	
+	}
+}
+
+168474={
+	name=¸ÇÒÁÂí¶û #Guamario II
+	dynasty=9592
+
+	father=168467
+
+	religion=catholic
+	culture=lombard
+
+	1035.1.1={		
+		birth=yes	
+	}	
+	1052.1.1={		
+		death=yes	
+	}
+}
+
+168475={
+	name=Èû¶û¼ªÎÚË¹ #Sergio IV
+	dynasty=9592
+
+	father=168466
+
+	religion=catholic
+	culture=lombard
+
+	1032.1.1={		
+		birth=yes	
+	}	
+	1072.1.1={		
+		death=yes	
+	}
+}
+
+168476={
+	name=Ô¼º² #Giovanni IV
+	dynasty=9592
+
+	father=168475
+
+	religion=catholic
+	culture=lombard
+
+	1050.1.1={		
+		birth=yes	
+	}	
+	1077.1.1={		
+		death=yes	
+	}
+}
+
+168477={
+	name=Ô¼º²
+	dynasty=9592
+
+	father=168436
+
+	religion=catholic
+	culture=lombard
+
+	849.1.1={		
+		birth=yes	
+	}	
+	899.1.1={
+		death=yes	
+	}
+}
+
+168478={
+	name=°¢µÂ·Æ¶û
+	dynasty=9592
+
+	father=168436
+
+	religion=catholic
+	culture=lombard
+
+	850.1.1={		
+		birth=yes	
+	}	
+	910.1.1={		
+		death=yes	
+	}
+}
+
+168479={
+	name=Ã«Â³Ë¹
+	dynasty=9594
+
+	religion=catholic
+	culture=lombard
+
+	800.1.1={		
+		birth=yes	
+	}	
+	850.1.1={		
+		death=yes	
+	}
+}
+
+168480={
+	name=Ã«Â³Ë¹
+	dynasty=9594
+
+	father=168479
+
+	religion=catholic
+	culture=lombard
+
+	820.1.1={		
+		birth=yes	
+	}	
+	866.1.1={		
+		death=yes	
+	}
+}
+
+168481={
+	name=Ë¾Ìá·´Å¬Ë¹
+	dynasty=9594
+
+	father=168480
+
+	religion=catholic
+	culture=lombard
+
+	840.1.1={		
+		birth=yes	
+	}	
+	900.1.1={		
+		death=yes	
+	}
+}
+
+168482={
+	name=Ã«Â³Ë¹
+	dynasty=9594
+
+	father=168481
+
+	religion=catholic
+	culture=lombard
+
+	875.1.1={		
+		birth=yes	
+	}	
+	935.1.1={		
+		death=yes	
+	}
+}
+
+168483={
+	name=Èû¶û¼ªÎÚË¹
+	dynasty=9594
+
+	father=168482
+
+	religion=catholic
+	culture=lombard
+
+	900.1.1={		
+		birth=yes	
+	}	
+	960.1.1={		
+		death=yes	
+	}
+}
+
+168484={
+	name=ÅË¶à·ò
+	dynasty=9594
+
+	father=168483
+
+	religion=catholic
+	culture=lombard
+
+	930.1.1={		
+		birth=yes	
+	}	
+	990.1.1={		
+		death=yes	
+	}
+}
+
+168485={
+	name=Ë¾Ìá·´Å¬Ë¹
+	dynasty=9594
+
+	father=168484
+
+	religion=catholic
+	culture=lombard
+
+	960.1.1={		
+		birth=yes	
+	}	
+	1020.1.1={		
+		death=yes	
+	}
+}
+
+168486={
+	name=Ã«Â³Ë¹
+	dynasty=9594
+
+	father=168485
+
+	religion=catholic
+	culture=lombard
+
+	990.1.1={		
+		birth=yes	
+	}	
+	1050.1.1={		
+		death=yes	
+	}
+}
+
+168487={
+	name=ÅË¶à·ò
+	dynasty=9594
+
+	father=168486
+
+	religion=catholic
+	culture=lombard
+
+	1020.1.1={		
+		birth=yes	
+	}
+	1038.1.1={
+		add_spouse=168488
+	}	
+	1080.1.1={		
+		death=yes	
+	}
+}
+
+168488={
+	name=¸ÇËş
+	female=yes
+
+	religion=catholic
+	culture=lombard
+
+	1020.1.1={		
+		birth=yes	
+	}	
+	1070.1.1={		
+		death=yes	
+	}
+}
+
+168489={
+	name=À¼¶à¶û·ò
+	dynasty=9594
+
+	father=168487
+	mother=168488
+
+	religion=catholic
+	culture=lombard
+
+	1040.1.1={		
+		birth=yes	
+	}		
+	1080.1.1={		
+		death=yes	
+	}
+}
+
+168490={
+	name=Ã«Â³Ë¹
+	dynasty=9594
+
+	father=168487
+	mother=168488
+
+	religion=catholic
+	culture=lombard
+
+	1042.1.1={	
+		birth=yes	
+	}		
+	1080.1.1={		
+		death=yes	
+	}
+}
+
+168491={
+	name=ÅË¶à
+	dynasty=9594
+
+	father=168487
+	mother=168488
+
+	religion=catholic
+	culture=lombard
+
+	1044.1.1={		
+		birth=yes	
+	}		
+	1080.1.1={		
+		death=yes	
+	}
+}
+
+168492={
+	name=½ÜÂê
+	female=yes
+	dynasty=9594
+
+	father=168487
+	mother=168488
+
+	religion=catholic
+	culture=lombard
+
+	1046.1.1={		
+		birth=yes	
+	}		
+	1080.1.1={		
+		death=yes
+	}
+}
+
+168493={
+	name=Î÷¿Æ
+	dynasty=9594
+
+	father=168479
+
+	religion=catholic
+	culture=lombard
+
+	825.1.1={	
+		birth=yes	
+	}	
+	875.1.1={		
+		death=yes	
+	}
+}
+
+168494={
+	name=°¢µÂ·Æ¶û
+	dynasty=9594
+
+	father=168493
+
+	religion=catholic
+	culture=lombard
+
+	847.1.1={		
+		birth=yes	
+	}	
+	890.1.1={		
+		death=yes	
+	}
+}
+
+168495={
+	name=ÂêÀ­´ï
+	female=yes
+	dynasty=9594
+
+	father=168493
+
+	religion=catholic
+	culture=lombard
+
+	849.1.1={		
+		birth=yes	
+	}	
+	900.1.1={		
+		death=yes	
+	}
+}
+
+168497={
+	name=Èû¶û¼ªÎÚË¹
+	dynasty=9592
+
+	father=168470
+
+	religion=catholic
+	culture=lombard
+
+	1045.1.1={		
+		birth=yes	
+	}	
+	1102.1.1={		
+		death=yes	
+	}
+}
+
+168498={
+	name=ÂêÀûÑÇ
+	female=yes
+	dynasty=9592
+
+	father=168470
+
+	religion=catholic
+	culture=lombard
+
+	1046.1.1={		
+		birth=yes
+	}
+	
+	1102.1.1={		
+		death=yes	
+	}
+}
+73472={
+	name="ÎÚ¶ûµÂÀûÌØ"
+
+	religion=catholic
+	culture=lombard
+
+	trait=detached_priest
+
+	1010.1.1={
+		birth=yes
+	}
+	1069.1.1={
+		death=yes
+	}
+}
+73474={
+	name="Âå¸¥ÀïÌØ"
+
+	religion=catholic
+	culture=lombard
+
+	trait=detached_priest
+
+	1034.1.1={
+		birth=yes
+	}
+	1107.1.1={
+		death=yes
+	}
+}
+
+73475={
+	name="À¼¶à¶û·ò"
+
+	religion=catholic
+	culture=lombard
+
+	trait=detached_priest
+
+	1066.1.1={
+		birth=yes
+	}
+	1119.1.1={
+		death=yes
+	}
+}
+
+73476={
+	name="Âå¸¥ÀïÌØ"
+
+	religion=catholic
+	culture=lombard
+
+	trait=detached_priest
+
+	1078.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+
+73477={
+	name="À¼¶à¶û·ò"
+
+	religion=catholic
+	culture=lombard
+
+	trait=detached_priest
+
+	1079.1.1={
+		birth=yes
+	}
+	1132.1.1={
+		death=yes
+	}
+}
+200298={
+	name=¸ÇÒÁÂí¶û
+	dynasty=1022178
+
+	father=145215
+
+	religion=catholic
+	culture=lombard
+
+	881.1.1={
+		birth=yes
+	}	
+	946.1.1={
+		death=yes
+	}
+}
+
+200299={
+	name=¼ªË÷·ò
+	dynasty=1022178
+
+	father=200298
+
+	religion=catholic
+	culture=lombard
+
+	930.1.1={
+		birth=yes
+	}	
+	977.11.1={
+		death=yes
+	}
+}
+
+200300={
+	name=´ïÎÚ¸£¶û
+	dynasty=1022178
+
+	father=163091
+
+	religion=catholic
+	culture=lombard
+
+	860.1.1={
+		birth=yes
+	}	
+	928.1.1={
+		death=yes
+	}
+}
+
+200301={
+	name=ÂíÔ¼
+	dynasty=1022178
+
+	father=200300
+
+	religion=catholic
+	culture=lombard
+
+	885.1.1={
+		birth=yes
+	}	
+	963.3.1={
+		death=yes
+	}
+}
+
+200302={
+	name=ÌØÂ³²®°¢¶û¶à
+	dynasty=1022178
+
+	father=200301
+
+	religion=catholic
+	culture=lombard
+
+	916.1.1={
+		birth=yes
+	}	
+	980.3.1={
+		death=yes
+	}
+}
+
+200303={
+	name=°¢¶û·½
+	dynasty=1022178
+
+	father=200302
+
+	religion=catholic
+	culture=lombard
+
+	951.1.1={
+		birth=yes
+	}	
+	1019.6.1={
+		death=yes
+	}
+}
+
+200304={
+	name=ÅåÌØÂ³Ë¹
+	dynasty=1022178
+
+	father=200303
+
+	religion=catholic
+	culture=lombard
+
+	990.1.1={
+		birth=yes
+	}	
+	1072.5.1={
+		death=yes
+	}
+}
+
+200305={
+	name=°¢¶û·½
+	dynasty=1022178
+
+	father=200304
+
+	religion=catholic
+	culture=lombard
+
+	1006.1.1={
+		birth=yes
+	}	
+	1079.8.1={
+		death=yes
+	}
+}
+
+200306={
+	name=ÅåÌØÂ³Ë¹
+	dynasty=1022178
+
+	father=200305
+
+	religion=catholic
+	culture=lombard
+
+	1032.1.1={
+		birth=yes
+	}	
+	1084.1.1={
+		death=yes
+	}
+}
+
+200307={
+	name=Î¬¶à
+	dynasty=1022178
+
+	father=145215
+
+	religion=catholic
+	culture=lombard
+
+	884.1.1={
+		birth=yes
+	}	
+	940.4.1={
+		death=yes
+	}
+}
+
+200308={
+	name=¸ÇÒÁÂí¶û
+	dynasty=1022178
+
+	father=200307
+
+	religion=catholic
+	culture=lombard
+
+	910.1.1={
+		birth=yes
+	}	
+	974.12.1={
+		death=yes
+	}
+}
+
+200309={
+	name=Î¬¶à
+	dynasty=1022178
+
+	father=200308
+
+	religion=catholic
+	culture=lombard
+
+	937.1.1={
+		birth=yes
+	}	
+	991.5.1={
+		death=yes
+	}
+}
+
+200310={
+	name=¼ªË÷·ò
+	dynasty=1022178
+
+	father=200309
+
+	religion=catholic
+	culture=lombard
+
+	966.1.1={
+		birth=yes
+	}	
+	1027.1.1={
+		death=yes
+	}
+}
+
+200311={
+	name=°¢Ê²ÍĞ¶û·ò
+	dynasty=1022178
+
+	father=200310
+
+	religion=catholic
+	culture=lombard
+
+	1000.1.1={
+		birth=yes
+	}	
+	1087.1.1={
+		death=yes
+	}
+}
+
+200312={
+	name=À¼¶à
+	dynasty=1022178
+
+	father=200310
+
+	religion=catholic
+	culture=lombard
+
+	1002.1.1={
+		birth=yes
+	}	
+	1078.1.1={
+		death=yes
+	}
+}
+
+200313={
+	name=Î¬¶à
+	dynasty=1022178
+
+	father=200312
+
+	religion=catholic
+	culture=lombard
+
+	1030.1.1={
+		birth=yes
+	}	
+	1087.1.1={
+		death=yes
+	}
+}
+
+200314={
+	name=¸ÇÒÁ·Æ¶û
+	dynasty=1022178
+
+	father=200310
+
+	religion=catholic
+	culture=lombard
+
+	1004.1.1={
+		birth=yes
+	}	
+	1078.2.1={
+		death=yes
+	}
+}
+
+200315={
+	name=Î¬¶à
+	dynasty=1022178
+
+	father=200314
+
+	religion=catholic
+	culture=lombard
+
+	1030.1.1={
+		birth=yes
+	}	
+	1078.2.1={
+		death=yes
+	}
+}
+
+200316={
+	name=ÑÇÀ¥ÌáÎÚË¹
+	dynasty=1022178
+
+	father=200315
+
+	religion=catholic
+	culture=lombard
+
+	1058.1.1={
+		birth=yes
+	}	
+	1097.8.1={
+		death=yes
+	}
+}
+
+200317={
+	name=¸ÇÒÁ·Æ¶û
+	dynasty=1022178
+
+	father=200307
+
+	religion=catholic
+	culture=lombard
+
+	914.1.1={
+		birth=yes
+	}	
+	981.5.1={
+		death=yes
+	}
+}
+
+200318={
+	name=¸ÇÒÁÂí¶û
+	dynasty=1022178
+
+	father=200317
+
+	religion=catholic
+	culture=lombard
+
+	931.1.1={
+		birth=yes
+	}	
+	991.10.1={
+		death=yes
+	}
+}
+
+200319={
+	name=¸ÇÒÁÂí¶û
+	dynasty=1022178
+
+	father=200318
+
+	religion=catholic
+	culture=lombard
+
+	961.1.1={
+		birth=yes
+	}	
+	1037.8.1={
+		death=yes
+	}
+}
+
+200320={
+	name=¸ÇÒÁÂí¶û
+	dynasty=1022178
+
+	father=200319
+
+	religion=catholic
+	culture=lombard
+
+	987.1.1={
+		birth=yes
+	}	
+	1044.5.1={
+		death=yes
+	}
+}
+
+200321={
+	name=¸ÇÒÁÂí¶û
+	dynasty=1022178
+
+	father=200320
+
+	religion=catholic
+	culture=lombard
+
+	1010.1.1={
+		birth=yes
+	}	
+	1068.4.1={
+		death=yes
+	}
+}
+
+200322={
+	name=ÅåÌØÂ³Ë¹
+	dynasty=1022178
+
+	father=200321
+
+	religion=catholic
+	culture=lombard
+
+	1035.1.1={
+		birth=yes
+	}	
+	1088.1.1={
+		death=yes
+	}
+}
+
+200323={
+	name=¸ÇÒÁ·Æ¶û
+	dynasty=1022178
+
+	father=200322
+
+	religion=catholic
+	culture=lombard
+
+	1038.1.1={
+		birth=yes
+	}	
+	1090.1.1={
+		death=yes
+	}
+}
+200324={
+	name=Ş±´ï
+	female=yes
+	dynasty=100336
+
+	father=30856
+
+	religion=catholic
+	culture=lombard
+
+	1031.1.1={
+		birth=yes
+	}	
+	1094.1.1={
+		death=yes
+	}
+}
+
+200325={
+	name=¸ÇÒÁÂí¶û
+	dynasty=100336
+
+	father=30856
+
+	religion=catholic
+	culture=lombard
+
+	1032.1.1={
+		birth=yes
+	}
+	1080.1.1={
+		add_spouse=200326
+	}	
+	1091.10.1={
+		death=yes
+	}
+}
+
+200326={
+	name=Sichelgarda
+	female=yes
+
+	religion=catholic
+	culture=lombard
+
+	1060.1.1={
+		birth=yes
+	}	
+	1118.1.1={
+		death=yes
+	}
+}
+
+200327={
+	name=Ô¼º²
+	dynasty=100336
+
+	father=200325
+
+	religion=catholic
+	culture=lombard
+
+	1057.1.1={
+		birth=yes
+	}	
+	1091.10.1={
+		death=yes
+	}
+}
+
+200328={
+	name=¸ÇÒÁÂí¶û
+	dynasty=100336
+
+	father=200325
+
+	religion=catholic
+	culture=lombard
+
+	1059.1.1={
+		birth=yes
+	}	
+	1114.3.1={
+		death=yes
+	}
+}
+
+200329={
+	name=Mabilia
+	female=yes
+	dynasty=100336
+
+	father=200325
+	mother=200326
+
+	religion=catholic
+	culture=lombard
+
+	1081.1.1={
+		birth=yes
+	}	
+	1143.2.1={
+		death=yes
+	}
+}
+
+200331={
+	name=ÅË¶à·ò
+	dynasty=100336
+
+	father=30856
+
+	religion=catholic
+	culture=lombard
+
+	1033.1.1={
+		birth=yes
+	}	
+	1091.1.1={
+		death=yes
+	}
+}
+
+200332={
+	name=À¼¶à¶û·ò
+	dynasty=100336
+
+	father=200331
+
+	religion=catholic
+	culture=lombard
+
+	1058.1.1={
+		birth=yes
+	}	
+	1124.1.1={
+		death=yes
+	}
+}
+
+200333={
+	name=ÅÁ¶à·ò
+	dynasty=100336
+
+	father=30857
+
+	religion=catholic
+	culture=lombard
+
+	1014.1.1={
+		birth=yes
+	}
+	1040.1.1={
+		add_spouse=200334
+	}	
+	1052.6.3={
+		death=yes
+	}
+}
+
+200335={
+	name=¸ÇÒÁÂí¶û
+	dynasty=100336
+
+	father=200333
+	mother=200334
+
+	religion=catholic
+	culture=lombard
+
+	1041.1.1={
+		birth=yes
+	}	
+	1059.1.1={
+		add_spouse=73344
+	}
+	1100.8.1={
+		death=yes
+	}
+}
+
+200336={
+	name=ÅË¶à·ò
+	dynasty=100336
+
+	father=200335
+	mother=73344
+
+	religion=catholic
+	culture=lombard
+
+	1060.1.1={
+		birth=yes
+	}	
+	1104.1.1={
+		death=yes
+	}
+}
+
+200337={
+	name=ÍşÁ®
+	dynasty=100336
+
+	father=200336
+
+	religion=catholic
+	culture=lombard
+
+	1084.1.1={
+		birth=yes
+	}	
+	1134.5.1={
+		death=yes
+	}
+}
+
+200338={
+	name=¼ªË÷·ò
+	dynasty=100336
+
+	father=200337
+
+	religion=catholic
+	culture=lombard
+
+	1110.1.1={
+		birth=yes
+	}	
+	1167.1.1={
+		death=yes
+	}
+}
+
+200339={
+	name=ÍşÁ®
+	dynasty=100336
+
+	father=200338
+
+	religion=catholic
+	culture=lombard
+
+	1133.1.1={
+		birth=yes
+	}	
+	1187.1.1={
+		death=yes
+	}
+}
+
+200340={
+	name=¼ªË÷·ò
+	dynasty=100336
+
+	father=200336
+
+	religion=catholic
+	culture=lombard
+
+	1086.1.1={
+		birth=yes
+	}	
+	1134.5.1={
+		death=yes
+	}
+}
+
+200341={
+	name=°¬Âê
+	female=yes
+	dynasty=100336
+
+	father=200336
+
+	religion=catholic
+	culture=lombard
+
+	1088.1.1={
+		birth=yes
+	}	
+	1167.1.1={
+		death=yes
+	}
+}
+
+200342={
+	name=¸ñÀï¸ßÀïÎÚË¹
+	dynasty=100336
+
+	father=200335
+	mother=73344
+
+	religion=catholic
+	culture=lombard
+
+	1062.1.1={
+		birth=yes
+	}	
+	1130.1.1={
+		death=yes
+	}
+}
+
+200343={
+	name=ºÕ¶ûÂü
+	dynasty=100336
+
+	father=200342
+
+	religion=catholic
+	culture=lombard
+
+	1084.1.1={
+		birth=yes
+	}	
+	1130.1.1={
+		death=yes
+	}
+}
+
+200344={
+	name=ÅË¶à·ò
+	dynasty=100336
+
+	father=200342
+
+	religion=catholic
+	culture=lombard
+
+	1086.1.1={
+		birth=yes
+	}	
+	1154.10.1={
+		death=yes
+	}
+}
+
+200345={
+	name=°¢±´À­µÂ
+	dynasty=100336
+
+	father=200342
+
+	religion=catholic
+	culture=lombard
+
+	1088.1.1={
+		birth=yes
+	}	
+	1154.10.1={
+		death=yes
+	}
+}
+
+200346={
+	name=½ÜÂê
+	female=yes
+	dynasty=100336
+
+	father=200342
+
+	religion=catholic
+	culture=lombard
+
+	1090.1.1={
+		birth=yes
+	}	
+	1138.1.1={
+		death=yes
+	}
+}
+
+200347={
+	name=¸ÇÒÁÂí¶û
+	dynasty=100336
+
+	father=200335
+#	mother=7344
+
+	religion=catholic
+	culture=lombard
+
+	1064.1.1={
+		birth=yes
+	}	
+	1137.12.5={
+		death=yes
+	}
+}
+
+200348={
+	name=¸ÇÒÁÂí¶û
+	dynasty=100336
+
+	father=200347
+
+	religion=catholic
+	culture=lombard
+
+	1090.1.1={
+		birth=yes
+	}	
+	1137.12.1={
+		death=yes
+	}
+}
+
+200349={
+	name=¼ªË÷·ò
+	dynasty=100336
+
+	father=200335
+	mother=73344
+
+	religion=catholic
+	culture=lombard
+
+	1066.1.1={
+		birth=yes
+	}	
+	1119.1.1={
+		death=yes
+	}
+}
+
+200351={
+	name=ÍĞµ×Å¬Ë¹
+	dynasty=100336
+
+	father=200335
+	mother=73344
+
+	religion=catholic
+	culture=lombard
+
+	1068.1.1={
+		birth=yes
+	}	
+	1130.1.1={
+		death=yes
+	}
+}
+
+200352={
+	name=¸ñÀï¸ßÀïÎÚË¹
+	dynasty=100336
+
+	father=200333
+	mother=200334
+
+	religion=catholic
+	culture=lombard
+
+	1043.1.1={
+		birth=yes
+	}	
+	1075.1.1={
+		add_spouse=200732
+	}
+	1119.1.1={
+		death=yes
+	}
+}
+
+200353={
+	name=ºÕ²®ÌØ
+	dynasty=100336
+
+	father=200352
+
+	religion=catholic
+	culture=lombard
+
+	1066.1.1={
+		birth=yes
+	}	
+	1096.1.1={
+		death=yes
+	}
+}
+
+200354={
+	name=Ô¼º²
+	dynasty=100336
+
+	father=200352
+
+	religion=catholic
+	culture=lombard
+
+	1068.1.1={
+		birth=yes
+	}	
+	1132.1.1={
+		death=yes
+	}
+}
+
+200355={
+	name=ÍşÁ®
+	dynasty=100336
+
+	father=200352
+	mother=200372
+
+	religion=catholic
+	culture=lombard
+
+	1076.1.1={
+		birth=yes
+	}	
+	1134.1.1={
+		death=yes
+	}
+}
+
+200356={
+	name=ÂŞ²®ÌØ
+	dynasty=100336
+
+	father=200355
+
+	religion=catholic
+	culture=lombard
+
+	1097.1.1={
+		birth=yes
+	}	
+	1119.1.1={
+		add_spouse=200357
+	}
+	1156.10.3={
+		death=yes
+	}
+}
+
+200357={
+	name=ÂŞÀÕ¸ñÀïÂê
+	female=yes
+
+	religion=catholic
+	culture=lombard
+
+	1100.1.1={
+		birth=yes
+	}	
+	1156.10.3={
+		death=yes
+	}
+}
+
+200358={
+	name=Î¬¶à
+	dynasty=100336
+
+	father=200356
+	mother=200357
+
+	religion=catholic
+	culture=lombard
+
+	1120.1.1={
+		birth=yes
+	}	
+	1170.1.1={
+		death=yes
+	}
+}
+
+200359={
+	name=Ë÷·ÆÑÇ
+	female=yes
+	dynasty=100336
+
+	father=200352
+	mother=200372
+
+	religion=catholic
+	culture=lombard
+
+	1078.1.1={
+		birth=yes
+	}	
+	1120.1.1={
+		death=yes
+	}
+}
+
+200360={
+	name=Ô¼º²
+	dynasty=100336
+
+	father=200333
+	mother=200334
+
+	religion=catholic
+	culture=lombard
+
+	1045.1.1={
+		birth=yes
+	}
+	1070.1.1={
+		add_spouse=200392
+	}	
+	1100.1.1={
+		death=yes
+	}
+}
+
+200361={
+	name=Ô¼µ¤
+	dynasty=100336
+
+	father=200360
+	mother=200392
+
+	religion=catholic
+	culture=lombard
+
+	1071.1.1={
+		birth=yes
+	}	
+	1137.1.1={
+		death=yes
+	}
+}
+
+200362={
+	name=°¬Âê
+	female=yes
+	dynasty=100336
+
+	father=200360
+	mother=200392
+
+	religion=catholic
+	culture=lombard
+
+	1073.1.1={
+		birth=yes
+	}	
+	1134.10.1={
+		death=yes
+	}
+}
+
+200363={
+	name=Î¬¶à
+	dynasty=100336
+
+	father=200333
+	mother=200334
+
+	religion=catholic
+	culture=lombard
+
+	1047.1.1={
+		birth=yes
+	}	
+	1068.7.1={
+		death=yes
+	}
+}
+
+200364={
+	name=Üç¿­¸ÇËş
+	female=yes
+	dynasty=100336
+
+	father=200333
+	mother=200334
+
+	religion=catholic
+	culture=lombard
+
+	1049.1.1={
+		birth=yes
+	}	
+	1086.5.1={
+		death=yes
+	}
+}
+
+200365={
+	name=µÒ°Â¶àÀ­
+	female=yes
+	dynasty=100336
+
+	father=200333
+	mother=200334
+
+	religion=catholic
+	culture=lombard
+
+	1051.1.1={
+		birth=yes
+	}	
+	1101.1.1={
+		death=yes
+	}
+}
+
+200367={
+	name=À¼¶à¶û·ò
+	dynasty=7184
+
+	father=73340
+
+	religion=catholic
+	culture=lombard
+
+	1007.1.1={
+		birth=yes
+	}	
+	1065.1.19={
+		death=yes
+	}
+}
+
+200368={
+	name=Ô¼º²
+	dynasty=7184
+
+	father=200367
+
+	religion=catholic
+	culture=lombard
+
+	1031.1.1={
+		birth=yes
+	}	
+	1086.7.1={
+		death=yes
+	}
+}
+
+200369={
+	name=ÅÁ¶û¶à
+	dynasty=7184
+
+	father=200368
+
+	religion=catholic
+	culture=lombard
+
+	1055.1.1={
+		birth=yes
+	}	
+	1123.6.1={
+		death=yes
+	}
+}
+
+200370={
+	name=°¢ÌØÅµ¶û·ò
+	dynasty=7184
+
+	father=200369
+
+	religion=catholic
+	culture=lombard
+
+	1090.1.1={
+		birth=yes
+	}	
+	1140.1.1={
+		death=yes
+	}
+}
+
+200371={
+	name=°¢¶ûÌØÂ³´ï
+	female=yes
+	dynasty=7184
+
+	father=200368
+
+	religion=catholic
+	culture=lombard
+
+	1057.1.1={
+		birth=yes
+	}	
+	1104.11.1={
+		death=yes
+	}
+}
+
+200372={
+	name=Üç¿­¸ÇËş
+	female=yes
+	dynasty=7184
+
+	father=200368
+
+	religion=catholic
+	culture=lombard
+
+	1059.1.1={
+		birth=yes
+	}	
+	1119.1.1={
+		death=yes
+	}
+}
+
+200373={
+	name=À¼¶à¶û·ò
+	dynasty=7184
+
+	father=200367
+
+	religion=catholic
+	culture=lombard
+
+	1050.1.1={
+		birth=yes
+	}	
+	1070.9.1={
+		death=yes
+	}
+}
+
+200374={
+	name=¼ªË÷·ò
+	dynasty=7184
+
+	father=73339
+
+	religion=catholic
+	culture=lombard
+
+	984.1.1={
+		birth=yes
+	}	
+	1011.1.1={
+		death=yes
+	}
+}
+
+200375={
+	name=Ô¼º²
+	dynasty=7184
+
+	father=200374
+
+	religion=catholic
+	culture=lombard
+
+	1006.1.1={
+		birth=yes
+	}	
+	1065.1.19={
+		death=yes
+	}
+}
+
+200376={
+	name=Æ¤ÌØÂ³Ë¹
+	dynasty=7184
+
+	father=200375
+
+	religion=catholic
+	culture=lombard
+
+	1031.1.1={
+		birth=yes
+	}	
+	1116.10.1={
+		death=yes
+	}
+}
+
+200377={
+	name=Ô¼º²
+	dynasty=7184
+
+	father=200376
+
+	religion=catholic
+	culture=lombard
+
+	1055.1.1={
+		birth=yes
+	}	
+	1116.10.1={
+		death=yes
+	}
+}
+
+200378={
+	name=À³µÀ·ò
+	dynasty=7184
+
+	father=200374
+
+	religion=catholic
+	culture=lombard
+
+	1007.1.1={
+		birth=yes
+	}	
+	1065.1.19={
+		death=yes
+	}
+}
+
+200379={
+	name=ÅË¶à·ò
+	dynasty=7184
+
+	father=200378
+
+	religion=catholic
+	culture=lombard
+
+	1030.1.1={
+		birth=yes
+	}	
+	1089.12.7={
+		death=yes
+	}
+}
+
+200380={
+	name=ÅË¶à·ò
+	dynasty=7184
+
+	father=200379
+
+	religion=catholic
+	culture=lombard
+
+	1054.1.1={
+		birth=yes
+	}	
+	1091.9.1={
+		death=yes
+	}
+}
+
+200381={
+	name=ºÕ¿ËÍĞ
+	dynasty=7184
+
+	father=200380
+
+	religion=catholic
+	culture=lombard
+
+	1077.1.1={
+		birth=yes
+	}	
+	1115.1.1={
+		death=yes
+	}
+}
+
+200382={
+	name=À³µÀ·ò
+	dynasty=7184
+
+	father=200380
+
+	religion=catholic
+	culture=lombard
+
+	1079.1.1={
+		birth=yes
+	}	
+	1108.9.1={
+		death=yes
+	}
+}
+
+200383={
+	name=ÅË¶à·ò
+	dynasty=7184
+
+	father=200380
+
+	religion=catholic
+	culture=lombard
+
+	1081.1.1={
+		birth=yes
+	}	
+	1115.1.1={
+		death=yes
+	}
+}
+
+200384={
+	name=¼ªË÷·ò
+	dynasty=7184
+
+	father=200380
+
+	religion=catholic
+	culture=lombard
+
+	1083.1.1={
+		birth=yes
+	}	
+	1115.1.1={
+		death=yes
+	}
+}
+
+200385={
+	name=À¼¶à¶û·ò
+	dynasty=7184
+
+	father=200379
+
+	religion=catholic
+	culture=lombard
+
+	1056.1.1={
+		birth=yes
+	}	
+	1101.8.1={
+		death=yes
+	}
+}
+
+200386={
+	name=À¼¶à¶û·ò
+	dynasty=7184
+
+	father=200385
+
+	religion=catholic
+	culture=lombard
+
+	1079.1.1={
+		birth=yes
+	}	
+	1097.9.1={
+		death=yes
+	}
+}
+
+200387={
+	name=À¼¶à¶û·ò
+	dynasty=7184
+
+	father=200385
+
+	religion=catholic
+	culture=lombard
+
+	1081.1.1={
+		birth=yes
+	}	
+	1097.1.1={
+		death=yes
+	}
+}
+
+200388={
+	name=À¼¶à¶û·ò
+	dynasty=7184
+
+	father=73332
+
+	religion=catholic
+	culture=lombard
+
+	935.1.1={
+		birth=yes
+	}	
+	1002.1.1={
+		death=yes
+	}
+}
+
+200389={
+	name=À¼¶à¶û·ò
+	dynasty=7184
+
+	father=200388
+
+	religion=catholic
+	culture=lombard
+
+	963.1.1={
+		birth=yes
+	}	
+	1003.3.1={
+		death=yes
+	}
+}
+
+200390={
+	name=À¼¶à¶û·ò
+	dynasty=7184
+
+	father=200389
+
+	religion=catholic
+	culture=lombard
+
+	987.1.1={
+		birth=yes
+	}	
+	1069.1.1={
+		death=yes
+	}
+}
+
+200391={
+	name=À¼¶à¶û·ò
+	dynasty=7184
+
+	father=200390
+
+	religion=catholic
+	culture=lombard
+
+	1018.1.1={
+		birth=yes
+	}	
+	1083.1.1={
+		death=yes
+	}
+}
+
+200392={
+	name=°¢¸Ç¶ûÌØÂ³´ï
+	female=yes
+	dynasty=7184
+
+	father=200391
+
+	religion=catholic
+	culture=lombard
+
+	1045.1.1={
+		birth=yes
+	}	
+	1100.1.1={
+		death=yes
+	}
+}
+
+200393={
+	name=À¼¶à
+	dynasty=7184
+
+	father=200390
+
+	religion=catholic
+	culture=lombard
+
+	1020.1.1={
+		birth=yes
+	}	
+	1069.1.1={
+		death=yes
+	}
+}
+
+200394={
+	name=°Â·¨
+	female=yes
+	dynasty=7184
+
+	father=200393
+
+	religion=catholic
+	culture=lombard
+
+	1050.1.1={
+		birth=yes
+	}	
+	1069.1.1={
+		death=yes
+	}
+}

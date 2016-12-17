@@ -1,0 +1,97 @@
+767.1.1={
+	holder=200154 # Roderic de Ruscino
+}
+769.1.1={
+	liege=d_toulouse
+}
+790.1.1={
+	holder=168130 # Guillaume Gellones
+}
+806.1.1={
+	holder=168079 # Beggo Chatenois
+}
+812.1.1={
+	holder=200152 # Gaucelm Gellones
+	liege=d_barcelona
+}
+832.1.1={
+	holder=163063 # Bernard I Gellones
+}
+844.5.1={
+	holder=200153 # Sunyer, Count of Ampurias
+}
+848.1.1={
+	holder=73784 # Guillaume I Gellones
+}
+850.1.1={
+	holder=200142 # Aleran Geroldonen
+}
+851.1.1={
+	holder=200144 # Isembard, Count of Barcelona
+}
+852.1.1={
+	holder=200145 # Odelric von Argengau
+}
+857.1.1={
+	holder=200148 # Hunifred Unruochinger
+}
+863.1.1={
+	holder=127019 # Bernard II Gellones
+}
+878.1.1={
+	holder=73996 # Miró de Barcelona
+}
+896.1.1={
+	holder=74101 # Sunyer d'Empuries
+}
+916.1.1={
+	holder=74103 # Gausbert d'Empuries
+}
+931.1.1={
+	holder=110600 # Gausfred I d'Empuries
+	law = agnatic_succession
+}
+991.1.1={
+	holder=110620 # Guislabert I d'Empuries
+}
+1013.1.1={
+	holder=110610 # Gausfred II d'Empuries
+}
+1074.1.1={
+	holder=110612 # Guislabert I d'Empuries
+}
+1102.1.1={
+	holder=110614 # Gerard I d'Empuries
+}
+1113.1.1={
+	holder=72120 # Gausfred III d'Empuries
+}
+1163.2.24={
+	holder=72121 # Gerard II d'Empuries
+}
+1164.1.1={
+	liege=k_aragon
+}
+1172.1.1={
+	holder=210500 # Alfons II de Barcelona
+}
+1185.1.1={
+	holder=210514 # Sanç Ramon de Barcelona
+}
+1223.1.1={
+	holder=210516 # Nunó Sanç de Barcelona
+}
+1242.1.1={
+	holder=460600 # Jaume I de Barcelona
+}
+1276.7.27={
+	holder=460602 # Jaume II de Barcelona-Mallorca
+	liege=d_mallorca
+	law = cognatic_succession
+}
+1311.5.29={
+	holder=460604 # Sanç Jaume de Barcelona-Mallorca
+}
+1324.9.4={
+	holder=460620 # Jaume III de Barcelona-Mallorca
+}

@@ -1,0 +1,85 @@
+530.1.1={
+	liege = d_stravani
+	holder=188320 #Jaisimha
+}
+550.1.1={
+	holder=188321 #Bahubal
+}
+570.1.1={
+	holder=188322 #Subahu
+}
+590.1.1={
+	holder=188323 #Rajh
+}
+610.1.1={
+	holder=188324 #Gaj
+}
+630.1.1={
+	holder=188325 #Salivahan I
+}
+650.1.1={
+	holder=188326 #Baland
+}
+670.1.1={
+	holder=188327 #Bhati
+}
+690.1.1={
+	holder=188328 #Mangal-Rao
+}
+710.1.1={
+	holder=188329 #Majam-Rao
+}
+731.1.1={
+	holder=188330 #Kehar I
+}
+806.1.1={
+	holder=188331 #Tano
+}
+815.1.1={
+	holder = 188303 # Mod Samma
+}
+840.1.1={
+	holder = 188304 # Saad
+}
+860.1.1={
+	holder = 188305 # Phool
+}
+1045.1.1={
+	holder = 191771 #Vijayaraja Dahiya
+	liege=k_gujarat
+}
+1084.1.1={
+	holder = 191731 #Vijayasimha Chahamana (kills Vijayaraja and takes Sanchor)
+	liege = d_maru
+}
+1110.1.1={
+	holder = 191763 #Padmasimha
+}
+1120.1.1={
+	holder = 191778 #Sobhita
+}
+1140.1.1={
+	holder = 191764 #Salha
+}
+1160.1.1={
+	holder = 191765 #Vikramasimha
+}
+1180.1.1={
+	holder = 191766 #Haripala
+}
+1220.1.1={
+	holder = 191767 #Sangramasimha
+}
+1250.1.1={
+	holder = 191769 #Pratapasimha
+}
+1280.1.1={
+	holder = 191770 #Vajranga
+}
+1296.1.1={
+	liege = 0
+}
+1321.1.1={
+	holder = 191772 #Malik Mir, killer of Vajranga
+	liege = e_rajastan
+}

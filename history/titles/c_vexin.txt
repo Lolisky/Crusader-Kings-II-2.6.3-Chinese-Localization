@@ -1,0 +1,95 @@
+687.1.1={
+	holder = 131720
+}
+714.1.17={
+	holder = 144988
+}
+762.1.1={
+	liege="k_france"
+	holder = 144987
+}
+786.1.1={
+	holder = 144986
+}
+796.1.1={
+	holder = 144985
+}
+827.1.1={
+	holder = 144984
+}
+879.1.1={
+	holder = 144981
+}
+893.1.28={
+	holder = 144980
+}
+915.1.1={	
+	holder = 40398 # Raoul I
+}
+926.1.1={	
+	holder = 40399 # Raoul II
+}
+943.1.1={	
+	holder = 40400 # Gautier I
+}
+992.1.1={
+	holder = 40402 # Gautier II
+}
+1024.1.1={
+	holder = 40416 # Dreux
+}
+1035.7.2 = {
+	holder = 40404 # Gautier III
+}
+1063.1.1={
+	holder = 40406 # Raoul
+}
+1074.1.1={
+	holder=90150 #Simon
+}
+
+1077.1.1={
+	holder=214 #Philippe I
+}
+1092.1.1={
+	holder = 205502 #Louis VI le Gros
+}
+1137.8.1={
+	holder = 205500 #Louis VII le Jeune
+}
+1180.9.18={
+	holder=205506 # Philippe II Auguste
+}
+1219.5.1={
+	holder=138000 #Alice d'Eu
+}
+1223.7.14={
+	holder = 455402 #Louis VIII le Lion
+}
+1226.11.8={
+	holder = 455404 #Louis IX (saint Louis)
+}
+1270.8.25={
+	holder = 455528 # Philippe III le Hardi
+}
+1285.10.5={
+	holder = 455526 # Philippe IV le Bel
+}
+1314.11.29={
+	holder = 455836 # Louis V le Hutin
+}
+1316.6.5={ #in fact 1316.11.5 as a posthumus heir, but ck2 can't handle interregnum
+	holder= 70137 # Jean Ier le Posthume
+}
+1316.11.19={ #corrected from 1316.6.5
+	holder= 455509 # Philippe V le Long, son of 455526.
+}
+1322.1.3={
+	holder = 455414 # Charles IV le Bel
+}
+
+#House of Valois
+
+1328.2.1={
+	holder=455500 # Philippe VI
+}

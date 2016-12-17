@@ -1,0 +1,731 @@
+#Aksu
+166702 = {
+	name="Anktsas"
+	dynasty=1040048
+	religion="buddhist"
+	culture="tocharian"
+	700.1.1={
+		birth=yes
+	}
+	762.1.1={
+		death=yes
+	}
+}
+166703 = {
+	name="Ksmate"
+	dynasty=1040048
+	religion="buddhist"
+	culture="tocharian"
+	father=166702
+	743.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+166704 = {
+	name="Tarma"
+	female=yes
+	dynasty=1040048
+	religion="buddhist"
+	culture="tocharian"
+	father=166702
+	745.1.1={
+		birth=yes
+	}
+	801.1.1={
+		death=yes
+	}
+}
+166705 = {
+	name="Ñatte"
+	dynasty=1040048
+	religion="buddhist"
+	culture="tocharian"
+	father=166703
+	788.1.1={
+		birth=yes
+	}
+	852.1.1={
+		death=yes
+	}
+}
+166706 = {
+	name="Dharmadase"
+	dynasty=1040048
+	religion="buddhist"
+	culture="tocharian"
+	father=166705
+	842.1.1={
+		birth=yes
+	}
+	893.1.1={
+		death=yes
+	}
+}
+166707 = {
+	name="Bhadra"
+	female=yes
+	dynasty=1040048
+	religion="buddhist"
+	culture="tocharian"
+	father=166705
+	845.1.1={
+		birth=yes
+	}
+	898.1.1={
+		death=yes
+	}
+}
+#Kuca
+166708 = {
+	name="Swarnabuspe"
+	dynasty=1040052
+	religion="buddhist"
+	culture="tocharian"
+	560.1.1={
+		birth=yes
+	}
+	624.1.1={
+		death=yes
+	}
+}
+166709 = {
+	name="Swarnatepe"
+	dynasty=1040052
+	religion="buddhist"
+	culture="tocharian"
+	father=166708
+	586.1.1={
+		birth=yes
+	}
+	646.1.1={
+		death=yes
+	}
+}
+166710 = {
+	name="Swañco"
+	dynasty=1040052
+	religion="buddhist"
+	culture="tocharian"
+	father=166709
+	620.1.1={
+		birth=yes
+	}
+	689.1.1={
+		death=yes
+	}
+}
+166711 = {
+	name="Kunacamttrakau"
+	dynasty=1040052
+	religion="buddhist"
+	culture="tocharian"
+	father=166710
+	667.1.1={
+		birth=yes
+	}
+	719.1.1={
+		death=yes
+	}
+}
+166712 = {
+	name="Jetavam"
+	dynasty=1040052
+	religion="buddhist"
+	culture="tocharian"
+	father=166711
+	703.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+166713 = {
+	name="Dharmawarme"
+	dynasty=1040052
+	religion="buddhist"
+	culture="tocharian"
+	father=166712
+	739.1.1={
+		birth=yes
+	}
+	792.1.1={
+		death=yes
+	}
+}
+166714 = {
+	name="Räknaska"
+	female=yes
+	dynasty=1040052
+	religion="buddhist"
+	culture="tocharian"
+	father=166712
+	750.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+166715 = {
+	name="Indratewe"
+	dynasty=1040052
+	religion="buddhist"
+	culture="tocharian"
+	father=166713
+	790.1.1={
+		birth=yes
+	}
+	865.1.1={
+		death=yes
+	}
+}
+166716 = {
+	name="Tenare"
+	dynasty=1040052
+	religion="buddhist"
+	culture="tocharian"
+	father=166715
+	835.1.1={
+		birth=yes
+	}
+	888.1.1={
+		death=yes
+	}
+}
+166717 = {
+	name="Sundari"
+	female=yes
+	dynasty=1040052
+	religion="buddhist"
+	culture="tocharian"
+	father=166715
+	847.1.1={
+		birth=yes
+	}
+	901.1.1={
+		death=yes
+	}
+}
+#Karashar
+166718 = {
+	name="Cakuraya"
+	dynasty=1040051
+	religion="buddhist"
+	culture="tocharian"
+	702.1.1={
+		birth=yes
+	}
+	763.1.1={
+		death=yes
+	}
+}
+166719 = {
+	name="Buddhatala"
+	dynasty=1040051
+	religion="buddhist"
+	culture="tocharian"
+	father=166718
+	745.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}
+166720 = {
+	name="Argiyotgisaae"
+	female=yes
+	dynasty=1040051
+	religion="buddhist"
+	culture="tocharian"
+	father=166718
+	749.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+166721 = {
+	name="Kanishka"
+	dynasty=1040051
+	religion="buddhist"
+	culture="tocharian"
+	father=166719
+	789.1.1={
+		birth=yes
+	}
+	865.1.1={
+		death=yes
+	}
+}
+166722 = {
+	name="Angi"
+	dynasty=1040051
+	religion="buddhist"
+	culture="tocharian"
+	father=166721
+	845.1.1={
+		birth=yes
+	}
+	898.1.1={
+		death=yes
+	}
+}
+166723 = {
+	name="Kuti"
+	female=yes
+	dynasty=1040051
+	religion="buddhist"
+	culture="tocharian"
+	father=166721
+	847.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+#Luntai
+166724 = {
+	name="Narasaka"
+	dynasty=1040053
+	religion="buddhist"
+	culture="tocharian"
+	715.1.1={
+		birth=yes
+	}
+	759.1.1={
+		death=yes
+	}
+}
+166725 = {
+	name="Upateyu"
+	dynasty=1040053
+	religion="buddhist"
+	culture="tocharian"
+	father=166724
+	739.1.1={
+		birth=yes
+	}
+	798.1.1={
+		death=yes
+	}
+}
+166726 = {
+	name="Camoae"
+	female=yes
+	dynasty=1040053
+	religion="buddhist"
+	culture="tocharian"
+	father=166724
+	746.1.1={
+		birth=yes
+	}
+	789.1.1={
+		death=yes
+	}
+}
+166727 = {
+	name="Apgaya"
+	dynasty=1040053
+	religion="buddhist"
+	culture="tocharian"
+	father=166725
+	784.1.1={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+166728 = {
+	name="Dharmapriya"
+	dynasty=1040053
+	religion="buddhist"
+	culture="tocharian"
+	father=166727
+	843.1.1={
+		birth=yes
+	}
+	894.1.1={
+		death=yes
+	}
+}
+166729 = {
+	name="Uppal"
+	female=yes
+	dynasty=1040053
+	religion="buddhist"
+	culture="tocharian"
+	father=166727
+	851.1.1={
+		birth=yes
+	}
+	903.1.1={
+		death=yes
+	}
+}
+#Turpan
+166730 = {
+	name="Pumnyabala"
+	dynasty=1040056
+	religion="buddhist"
+	culture="tocharian"
+	710.1.1={
+		birth=yes
+	}
+	761.1.1={
+		death=yes
+	}
+}
+166731 = {
+	name="Saru"
+	dynasty=1040056
+	religion="buddhist"
+	culture="tocharian"
+	father=166730
+	748.1.1={
+		birth=yes
+	}
+	803.1.1={
+		death=yes
+	}
+}
+166732 = {
+	name="Tamcina"
+	female=yes
+	dynasty=1040056
+	religion="buddhist"
+	culture="tocharian"
+	father=166730
+	745.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+166733 = {
+	name="Tsaroka"
+	dynasty=1040056
+	religion="buddhist"
+	culture="tocharian"
+	father=166731
+	780.1.1={
+		birth=yes
+	}
+	854.1.1={
+		death=yes
+	}
+}
+166734 = {
+	name="Ramastso"
+	dynasty=1040056
+	religion="buddhist"
+	culture="tocharian"
+	father=166733
+	839.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+166735 = {
+	name="Sarpina"
+	female=yes
+	dynasty=1040056
+	religion="buddhist"
+	culture="tocharian"
+	father=166733
+	844.1.1={
+		birth=yes
+	}
+	899.1.1={
+		death=yes
+	}
+}
+#Cherchen
+166736 = {
+	name="Ekasrinke"
+	dynasty=1040059
+	religion="buddhist"
+	culture="tocharian"
+	708.1.1={
+		birth=yes
+	}
+	758.1.1={
+		death=yes
+	}
+}
+166737 = {
+	name="Kalodaye"
+	dynasty=1040059
+	religion="buddhist"
+	culture="tocharian"
+	father=166736
+	747.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+166738 = {
+	name="Tarmawirñe"
+	female=yes
+	dynasty=1040059
+	religion="buddhist"
+	culture="tocharian"
+	father=166736
+	741.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+166739 = {
+	name="Tohkem"
+	dynasty=1040059
+	religion="buddhist"
+	culture="tocharian"
+	father=166737
+	775.1.1={
+		birth=yes
+	}
+	852.1.1={
+		death=yes
+	}
+}
+166740 = {
+	name="Yugaraje"
+	dynasty=1040059
+	religion="buddhist"
+	culture="tocharian"
+	father=166739
+	839.1.1={
+		birth=yes
+	}
+	889.1.1={
+		death=yes
+	}
+}
+166741 = {
+	name="Vitasake"
+	female=yes
+	dynasty=1040059
+	religion="buddhist"
+	culture="tocharian"
+	father=166739
+	846.1.1={
+		birth=yes
+	}
+	897.1.1={
+		death=yes
+	}
+}
+#Charklik
+166742 = {
+	name="Gayakasyape"
+	dynasty=1040060
+	religion="buddhist"
+	culture="tocharian"
+	707.1.1={
+		birth=yes
+	}
+	764.1.1={
+		death=yes
+	}
+}
+166743 = {
+	name="Issapake"
+	dynasty=1040060
+	religion="buddhist"
+	culture="tocharian"
+	father=166742
+	738.1.1={
+		birth=yes
+	}
+	796.1.1={
+		death=yes
+	}
+}
+166744 = {
+	name="Cukapae"
+	female=yes
+	dynasty=1040060
+	religion="buddhist"
+	culture="tocharian"
+	father=166742
+	744.1.1={
+		birth=yes
+	}
+	794.1.1={
+		death=yes
+	}
+}
+166745 = {
+	name="Ronaprema"
+	dynasty=1040060
+	religion="buddhist"
+	culture="tocharian"
+	father=166743
+	787.1.1={
+		birth=yes
+	}
+	853.1.1={
+		death=yes
+	}
+}
+166746 = {
+	name="Puñakame"
+	dynasty=1040060
+	religion="buddhist"
+	culture="tocharian"
+	father=166745
+	840.1.1={
+		birth=yes
+	}
+	891.1.1={
+		death=yes
+	}
+}
+166747 = {
+	name="Revati"
+	female=yes
+	dynasty=1040060
+	religion="buddhist"
+	culture="tocharian"
+	father=166745
+	849.1.1={
+		birth=yes
+	}
+	902.1.1={
+		death=yes
+	}
+}
+#Loulan/Kumul
+166748 = {
+	name="Sanlyudo" #Shanfutuo
+	dynasty=1040054
+	religion="buddhist"
+	culture="tocharian"
+	612.1.1={
+		birth=yes
+	}
+	673.1.1={
+		death=yes
+	}
+}
+166749 = {
+	name="Samghatrate"
+	dynasty=1040054
+	religion="buddhist"
+	culture="tocharian"
+	father=166748
+	635.1.1={
+		birth=yes
+	}
+	698.1.1={
+		death=yes
+	}
+}
+166750 = {
+	name="Ptompile"
+	dynasty=1040054
+	religion="buddhist"
+	culture="tocharian"
+	father=166749
+	669.1.1={
+		birth=yes
+	}
+	728.1.1={
+		death=yes
+	}
+}
+166751 = {
+	name="Cakravar"
+	dynasty=1040054
+	religion="buddhist"
+	culture="tocharian"
+	father=166750
+	701.1.1={
+		birth=yes
+	}
+	765.1.1={
+		death=yes
+	}
+}
+166752 = {
+	name="Siddharthe"
+	dynasty=1040054
+	religion="buddhist"
+	culture="tocharian"
+	father=166751
+	742.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+166753 = {
+	name="Maya"
+	female=yes
+	dynasty=1040054
+	religion="buddhist"
+	culture="tocharian"
+	father=166751
+	748.1.1={
+		birth=yes
+	}
+	797.1.1={
+		death=yes
+	}
+}
+166754 = {
+	name="Bimbasare"
+	dynasty=1040054
+	religion="buddhist"
+	culture="tocharian"
+	father=166752
+	782.1.1={
+		birth=yes
+	}
+	849.1.1={
+		death=yes
+	}
+}
+166755 = {
+	name="Silarakite"
+	dynasty=1040054
+	religion="buddhist"
+	culture="tocharian"
+	father=166754
+	841.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}
+166756 = {
+	name="Malika"
+	female=yes
+	dynasty=1040054
+	religion="buddhist"
+	culture="tocharian"
+	father=166754
+	848.1.1={
+		birth=yes
+	}
+	897.1.1={
+		death=yes
+	}
+}

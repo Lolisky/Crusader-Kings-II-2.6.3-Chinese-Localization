@@ -1,0 +1,4229 @@
+175005 = {
+	name="°¢ÀûÖ§°Ï" #"Archibald" # Made up ruler of Samatata
+	dynasty=1043011
+	religion="buddhist"
+	culture="bengali"
+	849.1.1={
+		birth="849.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+190025 = {
+	name="ÍÓÒÁ¶àÅşÊªÅ«" #"Dayitavishnu" 
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	682.1.1={
+		birth=yes
+	}
+	727.1.1={
+		death=yes
+	}
+}
+190026 = {
+	name="ÆÅÒ®¶à" #"Vapyata" 
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190025
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	701.1.1={
+		birth=yes
+	}
+	748.1.1={
+		death=yes
+	}
+}
+
+190027 = {
+	name="‘x²¨ÂŞ" #"Gopala" 
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190026
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	734.1.1={
+		birth=yes
+	}
+	750.1.1={
+		add_spouse=191301
+	}
+	769.1.1={
+		death=yes
+	}
+}
+190028 = {
+	name="´ïÄ¦²¨ÂŞ" #"Dharmapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190027
+	mother=191301
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	trait=brave
+	trait=proud
+	trait=ambitious
+	753.1.1={
+		birth=yes
+	}
+	769.1.1={
+		add_trait=brilliant_strategist
+	}
+	775.1.1={
+		add_spouse=191302
+	}
+	810.1.1={
+		death=yes
+	}
+}
+190004 = {
+	name="ÌáÆÅ²¨ÂŞ" #"Devapala" 
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190028
+	mother=191302
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	794.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+190005 = {
+	name="Ä¦ÒÄÍÓÂŞ²¨ÂŞ" #"Mahendrapala" 
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190004
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	820.1.1={
+		birth=yes
+	}
+	854.1.1={
+		death=yes
+	}
+}
+190006 = {
+	name="ÆÅÙ¤²¨ÂŞ" #"Vakapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190027
+	mother=191301
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	757.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+190007 = {
+	name="ÉİÒ®²¨ÂŞ" #"Jayapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190006
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	773.1.1={
+		birth=yes
+	}
+	819.1.1={
+		death=yes
+	}
+}
+190008 = {
+	name="Åş¾ãÂŞ²¨ÂŞ" #"Vigrahapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190007
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	801.1.1={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+190009 = {
+	name="ÄÇÂŞÑÜÄÇ²¨ÂŞ" #"Narayanapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190008
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	839.1.1={
+		birth=yes
+	}
+	908.1.1={
+		death=yes
+	}
+}
+190010 = {
+	name="ÂŞêÈÒ®²¨ÂŞ" #"Rajyapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190009
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	865.1.1={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+190011 = {
+	name="‘x²¨ÂŞ" #"Gopala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190010
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	882.1.1={
+		birth=yes
+	}
+	960.1.1={
+		death=yes
+	}
+}
+190012 = {
+	name="Åş¾ãÂŞ²¨ÂŞ" #"Vigrahapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190011
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	929.1.1={
+		birth=yes
+	}
+	988.1.1={
+		death=yes
+	}
+}
+190013 = {
+	name="Ä¦õ£²¨ÂŞ" #"Mahipala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190012
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	968.1.1={
+		birth=yes
+	}
+	1038.1.1={
+		death=yes
+	}
+}
+190014 = {
+	name="ÌáÂŞ²¨ÂŞ" #"Sthirapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190012
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	971.1.1={
+		birth=yes
+	}
+	1021.1.1={
+		death=yes
+	}
+}
+190015 = {
+	name="ÆÅÉ£¶à²¨ÂŞ" #"Vasantapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190012
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	975.1.1={
+		birth=yes
+	}
+	1028.1.1={
+		death=yes
+	}
+}
+
+190016 = {
+	name="ÄÇÒ®²¨ÂŞ" #"Nayapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190013
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1001.1.1={
+		birth=yes
+	}
+	1055.1.1={
+		death=yes
+	}
+}
+190017 = {
+	name="Åş¾ãÂŞ²¨ÂŞ" #"Vigrahapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190016
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1021.1.1={
+		birth=yes
+	}
+	1040.1.1={
+		add_spouse = 191087
+	}
+	1070.1.1={
+		death=yes
+	}
+}
+190018 = {
+	name="Ä¦õ£²¨ÂŞ" #"Mahipala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190017
+	mother=191087
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1042.1.1={
+		birth=yes
+	}
+	1075.1.1={
+		death=yes
+	}
+}
+190019 = {
+	name="ËÕÂŞ²¨ÂŞ" #"Surapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190017
+	mother=191087
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1046.1.1={
+		birth=yes
+	}
+	1077.1.1={
+		death=yes
+	}
+}
+190020 = {
+	name="ÂŞÄ¦²¨ÂŞ" #"Ramapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190017
+	mother=191087
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1047.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+190021 = {
+	name="¾ãÄ¦ÂŞ²¨ÂŞ" #"Kumarapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190020
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1082.1.1={
+		birth=yes
+	}
+	1125.1.1={
+		death=yes
+	}
+}
+190022 = {
+	name="‘x²¨ÂŞ" #"Gopala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190021
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1109.1.1={
+		birth=yes
+	}
+	1144.1.1={
+		death=yes
+	}
+}
+190023 = {
+	name="Ä¦Ì´ÄÇ²¨ÂŞ" #"Madanapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190020
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1100.1.1={
+		birth=yes
+	}
+	1161.1.1={
+		death=yes
+	}
+}
+190024 = {
+	name="‘x±öÍÓ²¨ÂŞ" #"Govindapala"
+	dynasty=1043000
+	religion="buddhist"
+	culture="bengali"
+	father=190023
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1122.1.1={
+		birth=yes
+	}
+	1174.1.1={
+		death=yes
+	}
+}
+190050 = {
+	name="Â¥¶¹Ù¤" #"Rudoka" #Placeholder name
+	dynasty=1044001
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"#chosen randomly
+	1009.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+190051 = {
+	name="ÌáÒ®" #"Divya" 
+	dynasty=1044001
+	religion="hindu"
+	culture="bengali"
+	father=190050
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1031.1.1={
+		birth=yes
+	}
+	1076.1.1={
+		death=yes
+	}
+}
+190052 = {
+	name="Â¥¶¹Ù¤" #"Rudoka" 
+	dynasty=1044001
+	religion="hindu"
+	culture="bengali"
+	father=190050
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1034.1.1={
+		birth=yes
+	}
+	1078.1.1={
+		death=yes
+	}
+}
+190053 = {
+	name="ÅşÄ¦" #"Bhima" 
+	dynasty=1044001
+	religion="hindu"
+	culture="bengali"
+	father=190052
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1056.1.1={
+		birth=yes
+	}
+	1115.1.1={
+		death=yes
+	}
+}
+190035 = {
+	name="¾ãÂŞ ÌáÅş" #"Kula Devi" #Wife of Brahmapala Bhauma
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaktist_hindu" 
+	886.1.1={
+		birth=yes
+	}
+	924.1.1={
+		death=yes
+	}
+}
+190036 = {
+	name="Í»ÂŞÆÅ" #"Durlabha" #wife of Ratnapala Bhauma
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaktist_hindu" 
+	902.1.1={
+		birth=yes
+	}
+	963.1.1={
+		death=yes
+	}
+}
+190037 = {
+	name="ÂŞêÈÒ® ÌáÅş" #"Rajya Devi" #wife of Indrapala Bhauma
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaktist_hindu" 
+	948.1.1={
+		birth=yes
+	}
+	989.1.1={
+		death=yes
+	}
+}
+190038 = {
+	name="ÄÇÑÜÄÇ" #"Nayana" #wife of Gopala Bhauma
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaktist_hindu" 
+	974.1.1={
+		birth=yes
+	}
+	1029.1.1={
+		death=yes
+	}
+}
+190029 = {
+	name="ÌáÃïÙ¤ÌáÆÅ" #"Timgyadeva" 
+	dynasty=1044002
+	religion="hindu"
+	culture="bengali"
+	father=190082
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	1075.1.1={
+		birth=yes
+	}
+	1126.1.1={
+		death=yes
+	}
+}
+190030 = {
+	name="ÅşÒ®ÌáÆÅ" #"Vaidyadeva" 
+	dynasty=1044002
+	religion="hindu"
+	culture="bengali"
+	father=190029
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	1097.1.1={
+		birth=yes
+	}
+	1144.1.1={
+		death=yes
+	}
+}
+190031 = {
+	name="ÂŞÒ®ÀûÌáÆÅ" #"Rayarideva" 
+	dynasty=1044002
+	religion="hindu"
+	culture="bengali"
+	father=190030
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	1117.1.1={
+		birth=yes
+	}
+	1152.1.1={
+		death=yes
+	}
+}
+190032 = {
+	name="ÓÅÍÓÒ®Ù¤ÀûÄÇ" #"Udayakarna" 
+	dynasty=1044002
+	religion="hindu"
+	culture="bengali"
+	father=190031
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	1138.1.1={
+		birth=yes
+	}
+	1176.1.1={
+		death=yes
+	}
+}
+190033 = {
+	name="ÆÅÂŞÆÅÌáÆÅ" #"Vallabhadeva" 
+	dynasty=1044002
+	religion="hindu"
+	culture="bengali"
+	father=190032
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	1158.1.1={
+		birth=yes
+	}
+	1195.1.1={
+		death=yes
+	}
+}
+190034 = {
+	name="ÅşÊªÆÅËÕÍÓÂŞÌáÆÅ" #"Vishvasundaradeva" 
+	dynasty=1044002
+	religion="hindu"
+	culture="bengali"
+	father=190033
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	1162.1.1={
+		birth=yes
+	}
+	1228.1.1={
+		death=yes
+	}
+}
+190067 = {
+	name="ËÕÆÅÀûÄÇì¹ÍÓÂŞ" #"Subarnachandra"
+	dynasty=1044006
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vajrayana_buddhist" #random
+	843.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+190068 = {
+	name="µÛÀû°¢ÒÁÂ¬Ù¤ì¹ÍÓÂŞ" #"Traillokyachandra"#goes independent
+	dynasty=1044006
+	religion="buddhist"
+	culture="bengali"
+	father=190067
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	866.1.1={
+		birth=yes
+	}
+	931.1.1={
+		death=yes
+	}
+}
+190069 = {
+	name="ÊÒÀûì¹ÍÓÂŞ" #"Srichandra"#conquers Samatata
+	dynasty=1044006
+	religion="buddhist"
+	culture="bengali"
+	father=190068
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	916.1.1={
+		birth=yes
+	}
+	975.1.1={
+		death=yes
+	}
+}
+190070 = {
+	name="Ù¤ÑÜÄÇì¹ÍÓÂŞ" #"Kalyanachandra"#expands vs Kamboja
+	dynasty=1044006
+	religion="buddhist"
+	culture="bengali"
+	father=190069
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	952.1.1={
+		birth=yes
+	}
+	998.1.1={
+		death=yes
+	}
+}
+190071 = {
+	name="ÂŞÍÓÚ­ì¹ÍÓÂŞ" #"Ladahachandra"#realm stable
+	dynasty=1044006
+	religion="buddhist"
+	culture="bengali"
+	father=190070
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	978.1.1={
+		birth=yes
+	}
+	1020.1.1={
+		death=yes
+	}
+}
+190072 = {
+	name="‘x±öÍÓì¹ÍÓÂŞ" #"Govindachandra"#overthrown by Varmans
+	dynasty=1044006
+	religion="buddhist"
+	culture="bengali"
+	father=190071
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	1007.1.1={
+		birth=yes
+	}
+	1052.1.1={
+		death=yes
+	}
+}
+190073 = {
+	name="ÉİÍÓ°ÏÄ¦" #"Jatavarman"
+	dynasty=1044007
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="smartist_hindu"
+	1013.1.1={
+		birth=yes
+	}
+	1067.1.1={
+		death=yes
+	}
+}
+190074 = {
+	name="Ú­Àû°ÏÄ¦" #"Harivarman"
+	dynasty=1044007
+	religion="hindu"
+	culture="bengali"
+	father=190073
+	trait="kshatriya"
+	trait="smartist_hindu"
+	1031.1.1={
+		birth=yes
+	}
+	1097.1.1={
+		death=yes
+	}
+}
+190049 = {
+	name="æ¶Ä¦ÂŞ°ÏÄ¦" #"Samalavarman"
+	dynasty=1044007
+	religion="hindu"
+	culture="bengali"
+	father=190074
+	trait="kshatriya"
+	trait="smartist_hindu"
+	1053.1.1={
+		birth=yes
+	}
+	1124.1.1={
+		death=yes
+	}
+}
+190083 = {
+	name="ÆĞÒ®°ÏÄ¦" #"Bhojavarman"
+	dynasty=1044007
+	religion="hindu"
+	culture="bengali"
+	father=190049
+	trait="kshatriya"
+	trait="smartist_hindu"
+	1097.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+190084 = {
+	name="Ê¤ÌáÌáÆÅ" #"Shantideva"
+	dynasty=1044008
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="smartist_hindu"
+	703.1.1={
+		birth=yes
+	}
+	750.1.1={
+		death=yes
+	}
+}
+190085 = {
+	name="ÅşÂŞÌáÆÅ" #"Viradeva"
+	dynasty=1044008
+	religion="hindu"
+	culture="bengali"
+	father=190084
+	trait="kshatriya"
+	trait="smartist_hindu"
+	743.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}
+190086 = {
+	name="°¢ÄÇÄÇÌáÆÅ" #"Ananadeva"
+	dynasty=1044008
+	religion="hindu"
+	culture="bengali"
+	father=190085
+	trait="kshatriya"
+	trait="smartist_hindu"
+	786.1.1={
+		birth=yes
+	}
+	841.1.1={
+		death=yes
+	}
+}
+190087 = {
+	name="ÆÅÆÅÌáÆÅ" #"Bhavadeva"
+	dynasty=1044008
+	religion="hindu"
+	culture="bengali"
+	father=190086
+	trait="kshatriya"
+	trait="smartist_hindu"
+	823.1.1={
+		birth=yes
+	}
+	870.1.1={
+		death=yes
+	}
+}
+190088 = {
+	name="½¨ÌáÌáÆÅ" #"Kantideva"
+	dynasty=1044009
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="smartist_hindu"
+	847.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+190089 = {
+	name="ÂŞÉİÒ®²¨ÂŞ" #"Rajyapala" 
+	dynasty=1044010
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	934.1.1={
+		birth=yes
+	}
+	960.1.1={
+		add_spouse = 191151
+	}
+	990.1.1={
+		death=yes
+	}
+}
+190090 = {
+	name="ÄÇÂŞÑÜÄÇ²¨ÂŞ" #"Narayanapala" 
+	dynasty=1044010
+	religion="hindu"
+	culture="bengali"
+	father=190089
+	mother=191151
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	970.1.1={
+		birth=yes
+	}
+	1002.1.1={
+		death=yes
+	}
+}
+190091 = {
+	name="ÄÇÒ®²¨ÂŞ" #"Nayapala"
+	dynasty=1044010
+	religion="hindu"
+	culture="bengali"
+	father=190089
+	mother=191151
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	972.1.1={
+		birth=yes
+	}
+	1054.1.1={
+		death=yes
+	}
+}
+190092 = {
+	name="ÇÇÍÓ²¨Ìá" #"Gaudapati" 
+	dynasty=1044010
+	religion="hindu"
+	culture="bengali"
+	father=190091
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1010.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+
+154000 = {
+    name="æ¶Âü¶à" #"Samanta"
+    dynasty=1026500
+    religion="hindu"
+    culture="bengali"
+    trait="kshatriya"
+    trait="shaivist_hindu"
+    1020.1.1={
+        birth=yes
+    }
+    1071.1.1={
+        death=yes
+    }
+}
+
+154001 = {
+    name="ÒÄÂü¶à" #"Hemanta"
+    dynasty=1026500
+    religion="hindu"
+    culture="bengali"
+    father=1534000
+    trait="kshatriya"
+    trait="shaivist_hindu"
+    1050.1.1={
+        birth=yes
+    }
+    1097.1.1={
+        death=yes
+    }
+}
+
+154002 = {
+    name="ÅşÉİ" #"Vijay"
+    dynasty=1026500
+    religion="hindu"
+    culture="bengali"
+    father=154001
+    trait="kshatriya"
+    trait="shaivist_hindu"
+    1080.1.1={
+        birth=yes
+    }
+    1100.1.1={
+        add_spouse=154003
+    }
+    1159.1.1={
+        death=yes
+    }
+}
+
+154003 = {
+    name="ÅşÂŞÌáÅş" #"Vilasdevi"
+    dynasty=1026501
+    female=yes
+    religion="hindu"
+    culture="bengali"
+    trait="kshatriya"
+    trait="shaivist_hindu"
+	father=191073
+    1082.1.1={
+        birth=yes
+    }
+    1150.1.1={
+        death=yes
+    }
+}
+191545 = {
+    name="Ä¦İËÎ÷ÄÇ" #"Madhusena"
+    dynasty=1026500	#Relation to real Senas questionable, see for instance religion
+    religion="buddhist"
+    culture="bengali"
+    father=154007
+    trait="kshatriya"
+    trait="mahayana_buddhist"
+    1210.1.1={
+        birth=yes
+    }
+    1285.1.1={
+        death=yes
+    }
+}
+154004 = {
+    name="ÆÅÂŞ" #"Valla"
+    dynasty=1026500
+    religion="hindu"
+    culture="bengali"
+    father=154002
+    mother=154003
+    trait="kshatriya"
+    trait="shaivist_hindu"
+    1100.1.1={
+        birth=yes
+    }
+    1116.1.1={
+        add_trait="poet"
+    }
+    1179.1.1={
+        death=yes
+    }
+}
+
+154005 = {
+    name="ÂäÄ¦ÄÇ" #"Laksmana"
+    dynasty=1026500
+    religion="hindu"
+    culture="bengali"
+    father=154004
+    trait="kshatriya"
+    trait="shaivist_hindu"
+    1130.1.1={
+        birth=yes
+    }
+    1206.1.1={
+        death=yes
+    }
+}
+
+154006 = {
+    name="ÅşÆÅÂ¥²¨" #"Visvarupa"
+    dynasty=1026500
+    religion="hindu"
+    culture="bengali"
+    father=154005
+    trait="kshatriya"
+    trait="shaivist_hindu"
+    1160.1.1={
+        birth=yes
+    }
+    1225.1.1={
+        death=yes
+    }
+}
+
+154007 = {
+    name="ÒÕæ¶ÆÅ" #"Kesava"
+    dynasty=1026500
+    religion="hindu"
+    culture="bengali"
+    father=154006
+    trait="kshatriya"
+    trait="shaivist_hindu"
+    1190.1.1={
+        birth=yes
+    }
+    1230.1.1={
+        death=yes
+    }
+}
+
+190095 = {
+	name="Ò®ÂŞÉ£ÍÓ" #"Jarasandha" #Random ruler of varendra
+	dynasty=1044011
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	840.1.1={
+		birth=yes
+	}
+	891.1.1={
+		death=yes
+	}
+}
+190096 = {
+	name="æ¶Ú­ÌáÆÅ" #"Sahadeva" #Son of Random ruler of varendra
+	dynasty=1044011
+	religion="hindu"
+	culture="bengali"
+	father=190095
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	862.1.1={
+		birth=yes
+	}
+	907.1.1={
+		death=yes
+	}
+}
+190097 = {
+	name="ÅşÆÅêÈ" #"Biswajit" #Father of Random ruler of nadia
+	dynasty=1044012
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="smartist_hindu"
+	807.1.1={
+		birth=yes
+	}
+	852.1.1={
+		death=yes
+	}
+}
+190098 = {
+	name="æ¶ì¹êÈ" #"Satyajit" #Random ruler of nadia
+	dynasty=1044012
+	religion="hindu"
+	culture="bengali"
+	father=190097
+	trait="kshatriya"
+	trait="smartist_hindu"
+	831.1.1={
+		birth=yes
+	}
+	879.1.1={
+		death=yes
+	}
+}
+190099 = {
+	name="´ïÄ¦" #"Dharma" #Brother of Random ruler of nadia
+	dynasty=1044012
+	religion="hindu"
+	culture="bengali"
+	father=190097
+	trait="kshatriya"
+	trait="smartist_hindu"
+	834.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+190100 = {
+	name="²¨ÂŞÙ¤" #"Palaka" #Random ruler of suhma
+	dynasty=1044013
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="smartist_hindu"
+	834.1.1={
+		birth=yes
+	}
+	887.1.1={
+		death=yes
+	}
+}
+190101 = {
+	name="°¢Ò®Ù¤" #"Ajaka" #Son of Random ruler of suhma
+	dynasty=1044013
+	religion="hindu"
+	culture="bengali"
+	father=190100
+	trait="kshatriya"
+	trait="smartist_hindu"
+	857.1.1={
+		birth=yes
+	}
+	902.1.1={
+		death=yes
+	}
+}
+190102 = {
+	name="²¨ÂŞè¤ÍÓ" #"Pradyota" #Son of Random ruler of suhma
+	dynasty=1044013
+	religion="hindu"
+	culture="bengali"
+	father=190100
+	trait="kshatriya"
+	trait="smartist_hindu"
+	859.1.1={
+		birth=yes
+	}
+	872.1.1={
+		death=yes
+	}
+}
+190103 = {
+	name="°¢Ò®ÍÓÉáâòÂ¥" #"Ajatashatru" #Random ruler of tirabhukti
+	dynasty=1044014
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="theravada_buddhist"
+	828.1.1={
+		birth=yes
+	}
+	870.1.1={
+		death=yes
+	}
+}
+190104 = {
+	name="ÓÅÍÓ" #"Udayin" #Son of Random ruler of tirabhukti
+	dynasty=1044014
+	religion="buddhist"
+	culture="bengali"
+	father=190103
+	trait="kshatriya"
+	trait="theravada_buddhist"
+	847.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+190105 = {
+	name="ÅşÃïÅşæ¶ÂŞ" #"Bimbisara" #Grandson of Random ruler of tirabhukti
+	dynasty=1044014
+	religion="buddhist"
+	culture="bengali"
+	father=190104
+	trait="kshatriya"
+	trait="theravada_buddhist"
+	866.1.1={
+		birth=yes
+	}
+	912.1.1={
+		death=yes
+	}
+}
+190106 = {
+	name="Î÷ÄÇêÈ" #"Senajit" #Random ruler of ratanpur
+	dynasty=1044015
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	834.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+190107 = {
+	name="Ù¤ÒÁ°Ï¶à" #"Kaivarta" #Random ruler of jharkand
+	dynasty=1044016
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	840.1.1={
+		birth=yes
+	}
+	887.1.1={
+		death=yes
+	}
+}
+190108 = {
+	name="ÆĞ¶à²¨ÂŞ" #"Bhutapala" #Son of Random ruler of jharkand
+	dynasty=1044016
+	religion="hindu"
+	culture="bengali"
+	father=190107
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	865.1.1={
+		birth=yes
+	}
+	918.1.1={
+		death=yes
+	}
+}
+190109 = {
+	name="ÂŞÍÓÚ­ì¹ÍÓÂŞ" #"Ladahachandra" #Random ruler of c jharkand and munda
+	dynasty=1044017
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	824.1.1={
+		birth=yes
+	}
+	879.1.1={
+		death=yes
+	}
+}
+190114 = {
+	name="ÌáÆÅ²¨ÂŞ" #"Divapala" #fictional ancestor ruler of kamarupangara
+	dynasty=1044000
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	842.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+190115 = {
+	name="‘xÉá" #"Ghosha" #Random ruler of para luhitya
+	dynasty=1044020
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="smartist_hindu"
+	837.1.1={
+		birth=yes
+	}
+	884.1.1={
+		death=yes
+	}
+}
+
+190119 = {
+	name="ÂŞê^ÆÅ¶à" #"Rajabhata" #fictional ruler of tamalipti
+	dynasty=1044024
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1032.1.1={
+		birth=yes
+	}
+	1091.1.1={
+		death=yes
+	}
+}
+190120 = {
+	name="¸ÉÍÓ" #"Skanda" #fictional ruler of srihatta
+	dynasty=1044025
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1031.1.1={
+		birth=yes
+	}
+	1076.1.1={
+		death=yes
+	}
+}
+190121 = {
+	name="ÅşÆÅÂ¥²¨" #"Visvarupa"#actual governor of gaya
+	dynasty=1044026
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1027.1.1={
+		birth=yes
+	}
+	1086.1.1={
+		death=yes
+	}
+}
+
+178007 = {
+	name="Ä¦ÒÄÍÓÂŞĞÁ¸ñ" #"Mahendrasingha" # Fictional
+	dynasty=1041107
+	religion="buddhist"
+	culture="bengali"
+	835.1.1={
+		birth=yes
+	}
+	892.1.1={
+		death=yes
+	}
+}
+191062 = {
+	name="ÄÑÒ®ÌáÆÅ" #"Nanyadeva"
+	dynasty=1044311	#Karnatas of Mithila
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1070.1.1={
+		birth=yes
+	}
+	1147.1.1={
+		death=yes
+	}
+}
+191063 = {
+	name="ºãÙ¤ÌáÆÅ" #"Gangadeva"
+	dynasty=1044311	#Karnatas of Mithila
+	religion="hindu"
+	culture="bengali"
+	father=191062
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1110.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+191064 = {
+	name="ÄÇÀûÚ­ÌáÆÅ" #"Narsinhadeva"
+	dynasty=1044311	#Karnatas of Mithila
+	religion="hindu"
+	culture="bengali"
+	father=191063
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1150.1.1={
+		birth=yes
+	}
+	1230.1.1={
+		death=yes
+	}
+}
+191065 = {
+	name="ÉáÙ¤ÂŞ´ÍÚ­ÌáÆÅ" #"Shakrasinhadeva"
+	dynasty=1044311	#Karnatas of Mithila
+	religion="hindu"
+	culture="bengali"
+	father=191064
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1190.1.1={
+		birth=yes
+	}
+	1280.1.1={
+		death=yes
+	}
+}
+191066 = {
+	name="Ú­Àû´ÍÚ­ÌáÆÅ" #"Harisinhadeva"
+	dynasty=1044311	#Karnatas of Mithila
+	religion="hindu"
+	culture="bengali"
+	father=191065
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1250.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+
+191067 = {
+	name="Ä¦Ì´ÄÇÌáÆÅ" #"Mathanadeva"
+	dynasty=1044310	#Rashtrakuta
+	religion="hindu"
+	culture="bengali"
+	father=191045
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1025.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+191403 = {
+	name="É£Ù¤ÂŞÌáÅş" #"Sankaradevi"
+	dynasty=1044310 # Rashtrakuta
+	female=yes
+	father=191067
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1045.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+191068 = {
+	name="Ù¤Å«ÂŞÌáÆÅ" #"Kahnuradeva"
+	dynasty=1044310	#Rashtrakuta
+	religion="hindu"
+	culture="bengali"
+	father=191067
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1041.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+191069 = {
+	name="ËÕ°Ï¶àÌáÆÅ" #"Suvartadeva"
+	dynasty=1044310	#Rashtrakuta
+	religion="hindu"
+	culture="bengali"
+	father=191067
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1042.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+
+191070 = {
+	name="ÆÅÂŞ°ÏÂŞê^" #"Vallabharaja"
+	dynasty=1044312	#Chikore
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1000.1.1={
+		birth=yes
+	}
+	1077.1.1={
+		death=yes
+	}
+}
+
+191071 = {
+	name="ÌáÆÅÂŞ´Í¶à" #"Devaraksita"
+	dynasty=1044312	#Chikore
+	religion="buddhist"
+	culture="bengali"
+	father=191070
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1050.1.1={
+		birth=yes
+	}
+	1070.1.1={
+		add_spouse=191403
+	}
+	1079.1.1={
+		death=yes
+	}
+}
+
+191404 = {
+	name="¾ãÄ¦ÂŞÌáÅş" #"Kumaradevi"
+	female=yes
+	dynasty=1044312	#Chikore
+	religion="buddhist"
+	culture="bengali"
+	father=191071
+	mother=191403
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1071.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		death=yes
+	}
+}
+
+191072 = {
+	name="ÅşÄ¦Ò®æ¶" #"Bhimayasa"
+	dynasty=1044313	#Pihiti
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1040.1.1={
+		birth=yes
+	}
+	1114.1.1={
+		death=yes
+	}
+}
+
+191073 = {
+	name="ÉİÒ®É®Ú­" #"Jayasimha"
+	dynasty=1044316	#Sura
+	father=191160
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1030.1.1={
+		birth=yes
+	}
+	1110.1.1={
+		death=yes
+	}
+}
+
+191074 = {
+	name="ÅşÂŞÄ¦ÂŞê^" #"Vikramaraja"
+	dynasty=1044315 #Bala-Vallabhi
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	1045.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+191075 = {
+	name="ÂŞÃïËÕÂŞ" #"Laksmsurra"
+	dynasty=1044316 #Aparamandara
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	1022.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+
+191076 = {
+	name="Â¥ÍÓÂŞ´ÍÙ¤ÂŞ" #"Rudrasikhara"
+	dynasty=1044317 #Tailakampa
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	1045.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+
+191077 = {
+	name="‘x°ÏÍÓÄÇ" #"Govardhana"
+	dynasty=1044318 #Kausambi
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1030.1.1={
+		birth=yes
+	}
+	1081.1.1={
+		death=yes
+	}
+}
+
+191078 = {
+	name="ÄÇÂŞÉ®Ú­ÀûêÈÖÜÄÇ" #"Narasimharjjuna"
+	dynasty=1044319 #Kayarigal
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	1022.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+
+191421 = {
+	name="²¨ÄÇ" #"Pasna"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	730.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191422 = {
+	name="Ù¤ÂŞÄ¦ÌáâòÒ®" #"Kramaditya"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191421
+	750.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191423 = {
+	name="ËÕÙ¤ÄÇ" #"Sugana"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191422
+	780.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+191424 = {
+	name="‘xÃï¶à" #"Komta"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191423
+	810.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+191425 = {
+	name="²¨ÄÇ" #"Pasna"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191424
+	860.1.1={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+
+191426 = {
+	name="ËÕÙ¤ÄÇ" #"Sugana"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191425
+	900.1.1={
+		birth=yes
+	}
+	980.1.1={
+		death=yes
+	}
+}
+
+191427 = {
+	name="ËÕÀûÒ®ÌáâòÒ®" #"Suryaditya"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191426
+	950.1.1={
+		birth=yes
+	}
+	1010.1.1={
+		death=yes
+	}
+}
+
+191428 = {
+	name="ÅşÙ¤ÂŞÄ¦ÌáâòÒ®" #"Vikramaditya"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191427
+	970.1.1={
+		birth=yes
+	}
+	1040.1.1={
+		death=yes
+	}
+}
+
+191429 = {
+	name="Ù¤ÂŞÄ¦ÌáâòÒ®" #"Kramaditya"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191428
+	1000.1.1={
+		birth=yes
+	}
+	1063.1.1={
+		death=yes
+	}
+}
+
+191080 = {
+	name="ËÕÙ¤ÄÇ" #"Sugana"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191428
+	1022.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+191081 = {
+	name="²¨ÄÇ" #"Pasna"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	father = 191080
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1080.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+
+191082 = {
+	name="‘xÃï¶à" #"Komta"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	father = 191081
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1120.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+
+191083 = {
+	name="ÅşÀûæ¶" #"Birsa"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	father = 191082
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1140.1.1={
+		birth=yes
+	}
+	1220.1.1={
+		death=yes
+	}
+}
+
+191084 = {
+	name="ÅşÀûæ¶" #"Birsa"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	father = 191083
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1190.1.1={
+		birth=yes
+	}
+	1260.1.1={
+		death=yes
+	}
+}
+
+191085 = {
+	name="‘xÃï¶à" #"Komta"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	father = 191084
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1240.1.1={
+		birth=yes
+	}
+	1300.1.1={
+		death=yes
+	}
+}
+
+191086 = {
+	name="ËÕÙ¤ÄÇ" #"Sugana"	#Fictional
+	dynasty=1044320 #Munda
+	religion="hindu"
+	culture="bengali"
+	father = 191084
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1260.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+
+191087 = {
+	name="½¨ì¹Äá" #"Kanchani"	#Fictional name, real person
+	female = yes
+	dynasty=1044310 #Rashtrakuta
+	religion="hindu"
+	culture="bengali"
+	father = 191045
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1021.1.1={
+		birth=yes
+	}
+	1105.1.1={
+		death=yes
+	}
+}
+
+191088 = {
+	name="¿üÄÇóÅ¶à" #"Krisnagupta"
+	dynasty=1044321 #(later) Gupta, years are guesses before Mahasenagupta
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	460.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+191089 = {
+	name="Ú­Àûæ¶óÅ¶à" #"Harsagupta"
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	father = 191088
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	480.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}
+
+191090 = {
+	name="êÈÆÅ¶àóÅ¶à" #"Jivatagupta"
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	father = 191089
+	trait="shaivist_hindu"
+	510.1.1={
+		birth=yes
+	}
+	546.1.1={
+		death=yes
+	}
+}
+
+191091 = {
+	name="¾ãÄ¦ÂŞóÅ¶à" #"Kumaragupta"
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	father = 191090
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	530.1.1={
+		birth=yes
+	}
+	580.1.1={
+		death=yes
+	}
+}
+
+191092 = {
+	name="ÍÓÎŞÍÓÂŞóÅ¶à" #"Damodaragupta"
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	father = 191091
+	trait="shaivist_hindu"
+	550.1.1={
+		birth=yes
+	}
+	605.1.1={
+		death=yes
+	}
+}
+
+191093 = {
+	name="Ä¦Ú­´ÍÄÇóÅ¶à" #"Mahasenagupta"
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	father = 191092
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	580.1.1={
+		birth=yes
+	}
+	630.1.1={
+		death=yes
+	}
+}
+
+191094 = {
+	name="¾ãÄ¦ÂŞóÅ¶à" #"Kumaragupta"
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	father = 191093
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	600.1.1={
+		birth=yes
+	}
+	650.1.1={
+		death=yes
+	}
+}
+
+191095 = {
+	name="Ä¦ÍÓÆÅóÅ¶à" #"Madhavagupta"
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	father = 191093
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	610.1.1={
+		birth=yes
+	}
+	672.1.1={
+		death=yes
+	}
+}
+
+191096 = {
+	name="°¢ÌáâòÒ®´ÍÄÇóÅ¶à" #"Adityasenagupta"
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	father = 191095
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	630.1.1={
+		birth=yes
+	}
+	685.1.1={
+		death=yes
+	}
+}
+
+191097 = {
+	name="ÌáÆÅóÅ¶à" #"Devagupta"
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	father = 191096
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	650.1.1={
+		birth=yes
+	}
+	690.1.1={
+		death=yes
+	}
+}
+
+191098 = {
+	name="ÅşÅ«óÅ¶à" #"Visnugupta"
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	father = 191097
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	670.1.1={
+		birth=yes
+	}
+	710.1.1={
+		death=yes
+	}
+}
+
+191099 = {
+	name="êÈÆÅ¶àóÅ¶à" #"Jivatagupta"	#II
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	father = 191098
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	690.1.1={
+		birth=yes
+	}
+	727.1.1={
+		death=yes
+	}
+}
+
+191303 = {
+	name="ÂŞÄ¦óÅ¶à" #"Ramagupta"	#last of the later Guptas, said to have taken control over northern Bihar after Jivatagupta was killed by Yashorvarman of Kannauj.
+	dynasty=1044321 #Gupta
+	religion="hindu"
+	culture="bengali"
+	father = 191099
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	720.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191100 = {
+	name="Ù¤‘xÒ®Ä¦" #"Khadgodyama"
+	dynasty=1044322 #Khadga
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	625.1.1={
+		birth=yes
+	}
+	675.1.1={
+		death=yes
+	}
+}
+
+191101 = {
+	name="Éİ¶àÙ¤Ù¤" #"Jatakhadga"
+	dynasty=1044322 #Khadga
+	religion="buddhist"
+	culture="bengali"
+	father = 191100
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	642.1.1={
+		birth=yes
+	}
+	700.1.1={
+		death=yes
+	}
+}
+
+191102 = {
+	name="ÌáÆÅÙ¤Ù¤" #"Devakhadga"
+	dynasty=1044322 #Khadga
+	religion="buddhist"
+	culture="bengali"
+	father = 191101
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	680.1.1={
+		birth=yes
+	}
+	730.1.1={
+		death=yes
+	}
+}
+
+191103 = {
+	name="ÂŞê^ÂŞÆÅ¶à" #"Rajarabhata"
+	dynasty=1044322 #Khadga
+	religion="buddhist"
+	culture="bengali"
+	father = 191102
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	700.1.1={
+		birth=yes
+	}
+	755.1.1={
+		death=yes
+	}
+}
+
+191104 = {
+	name="ÆÅÂŞÆÅ¶à" #"Balabhata"
+	dynasty=1044322 #Khadga
+	religion="buddhist"
+	culture="bengali"
+	father = 191103
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	720.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+191105 = {
+	name="Â¬Ù¤ÄÇ¶à" #"Lokhanata"
+	dynasty=1044323 #Visayapati
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	730.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191106 = {
+	name="°¢Ìá" #"Adi"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	630.1.1={
+		birth=yes
+	}
+	710.1.1={
+		death=yes
+	}
+}
+
+191107 = {
+	name="êÈ" #"Jai"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191106
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	650.1.1={
+		birth=yes
+	}
+	720.1.1={
+		death=yes
+	}
+}
+
+191108 = {
+	name="·ÍÅ«" #"Benu"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191106
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	655.1.1={
+		birth=yes
+	}
+	733.1.1={
+		death=yes
+	}
+}
+
+191109 = {
+	name="¼ªÅ«" #"Kinu"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191106
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	660.1.1={
+		birth=yes
+	}
+	742.1.1={
+		death=yes
+	}
+}
+
+191110 = {
+	name="ÒÁÍÓÂŞ" #"Indra"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191109
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	680.1.1={
+		birth=yes
+	}
+	757.1.1={
+		death=yes
+	}
+}
+
+191111 = {
+	name="Ù¤ÓÅ" #"Kau"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191109
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	681.1.1={
+		birth=yes
+	}
+	764.1.1={
+		death=yes
+	}
+}
+
+191112 = {
+	name="ÉİÓÅ" #"Jhau"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191111
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	720.1.1={
+		birth=yes
+	}
+	775.1.1={
+		death=yes
+	}
+}
+
+191113 = {
+	name="ÊäÀû" #"Shur"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191112
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	750.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+191114 = {
+	name="Ù¤ÄÇ" #"Kanak"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191112
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	751.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+
+191115 = {
+	name="½¨ÍÓÀû²¨" #"Kandarpa"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191114
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	771.1.1={
+		birth=yes
+	}
+	828.1.1={
+		death=yes
+	}
+}
+
+191116 = {
+	name="æ¶ÄÇÌ´" #"Sanatan"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191115
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	800.1.1={
+		birth=yes
+	}
+	841.1.1={
+		death=yes
+	}
+}
+
+191117 = {
+	name="Ù¤ÀûÙ¤" #"Kharga"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191115
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	801.1.1={
+		birth=yes
+	}
+	862.1.1={
+		death=yes
+	}
+}
+
+191118 = {
+	name="Í»Éİ" #"Durjay"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191117
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	830.1.1={
+		birth=yes
+	}
+	906.1.1={
+		death=yes
+	}
+}
+
+191119 = {
+	name="Ò®ÍÓÆÅ" #"Yadav"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191118
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	850.1.1={
+		birth=yes
+	}
+	919.1.1={
+		death=yes
+	}
+}
+
+191120 = {
+	name="ÉİÙ¤" #"Jagat"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191118
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	851.1.1={
+		birth=yes
+	}
+	931.1.1={
+		death=yes
+	}
+}
+
+191121 = {
+	name="ÅşÂŞ" #"Birat"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191120
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	900.1.1={
+		birth=yes
+	}
+	946.1.1={
+		death=yes
+	}
+}
+
+191122 = {
+	name="Ä¦Ú­ÌáÆÅ" #"Mahadev"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191121
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	925.1.1={
+		birth=yes
+	}
+	977.1.1={
+		death=yes
+	}
+}
+
+191123 = {
+	name="Í»Ù¤ÍÓ" #"Durgadas"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191122
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	950.1.1={
+		birth=yes
+	}
+	994.1.1={
+		death=yes
+	}
+}
+
+191124 = {
+	name="ÉİÙ¤" #"Jagat"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191122
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	960.1.1={
+		birth=yes
+	}
+	1007.1.1={
+		death=yes
+	}
+}
+
+191125 = {
+	name="°¢ÄÑ¶à" #"Ananta"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191124
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	980.1.1={
+		birth=yes
+	}
+	1015.1.1={
+		death=yes
+	}
+}
+
+191126 = {
+	name="Â¥" #"Rup"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191124
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	981.1.1={
+		birth=yes
+	}
+	1029.1.1={
+		death=yes
+	}
+}
+
+191127 = {
+	name="ËÕÍÓÀû" #"Sundar"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191126
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1001.1.1={
+		birth=yes
+	}
+	1053.1.1={
+		death=yes
+	}
+}
+
+191128 = {
+	name="¾ãÄ²" #"Kumud"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191127
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1030.1.1={
+		birth=yes
+	}
+	1074.1.1={
+		death=yes
+	}
+}
+
+191129 = {
+	name="¿üÊªÄÇ" #"Krishna"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191127
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1031.1.1={
+		birth=yes
+	}
+	1084.1.1={
+		death=yes
+	}
+}
+
+191130 = {
+	name="Â¥" #"Rup"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191129
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1050.1.1={
+		birth=yes
+	}
+	1097.1.1={
+		death=yes
+	}
+}
+
+191131 = {
+	name="²¨ÂŞÙ¤Êª" #"Prakash"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191130
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1070.1.1={
+		birth=yes
+	}
+	1102.1.1={
+		death=yes
+	}
+}
+
+191132 = {
+	name="²¨ÂŞ¶à" #"Pratap"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191130
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1071.1.1={
+		birth=yes
+	}
+	1113.1.1={
+		death=yes
+	}
+}
+
+191133 = {
+	name="´ÍÍ»" #"Sindur"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191130
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1072.1.1={
+		birth=yes
+	}
+	1129.1.1={
+		death=yes
+	}
+}
+
+191134 = {
+	name="Êä" #"Shuk"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191133
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1100.1.1={
+		birth=yes
+	}
+	1142.1.1={
+		death=yes
+	}
+}
+
+191135 = {
+	name="ÆÅÄÇÄ¦Àæ" #"Banamali"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191133
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1105.1.1={
+		birth=yes
+	}
+	1156.1.1={
+		death=yes
+	}
+}
+
+191136 = {
+	name="ÉİİË" #"Jadu"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191135
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1130.1.1={
+		birth=yes
+	}
+	1167.1.1={
+		death=yes
+	}
+}
+
+191137 = {
+	name="êÈ°ã" #"Jiban"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191136
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1150.1.1={
+		birth=yes
+	}
+	1185.1.1={
+		death=yes
+	}
+}
+
+191138 = {
+	name="À¼" #"Ram"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191136
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1152.1.1={
+		birth=yes
+	}
+	1209.1.1={
+		death=yes
+	}
+}
+
+191139 = {
+	name="‘x±öÍÓ" #"Gobinda"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191138
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1180.1.1={
+		birth=yes
+	}
+	1240.1.1={
+		death=yes
+	}
+}
+
+191140 = {
+	name="Åş" #"Bhim"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191139
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1200.1.1={
+		birth=yes
+	}
+	1263.1.1={
+		death=yes
+	}
+}
+
+191141 = {
+	name="Ù¤¶àÀû" #"Katar"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191140
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1220.1.1={
+		birth=yes
+	}
+	1295.1.1={
+		death=yes
+	}
+}
+
+191142 = {
+	name="ÀûÅş" #"Prithvi"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191141
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1240.1.1={
+		birth=yes
+	}
+	1319.1.1={
+		death=yes
+	}
+}
+
+191143 = {
+	name="¶àÆÅ" #"Tapa"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191142
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1260.1.1={
+		birth=yes
+	}
+	1334.1.1={
+		death=yes
+	}
+}
+
+191144 = {
+	name="ÌáÄÇ°ãİË" #"Dinabandhu"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191143
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1280.1.1={
+		birth=yes
+	}
+	1345.1.1={
+		death=yes
+	}
+}
+
+191145 = {
+	name="¼ªÅ«" #"Kinu"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191144
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1300.1.1={
+		birth=yes
+	}
+	1358.1.1={
+		death=yes
+	}
+}
+
+191146 = {
+	name="ÊäÀû" #"Shur"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191145
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1320.1.1={
+		birth=yes
+	}
+	1370.1.1={
+		death=yes
+	}
+}
+
+191147 = {
+	name="ÊªÆÅ ĞÁ¸ñ" #"Shiv Singh"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191146
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1340.1.1={
+		birth=yes
+	}
+	1407.1.1={
+		death=yes
+	}
+}
+
+191148 = {
+	name="Ä¦Ì´" #"Madan"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191147
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1360.1.1={
+		birth=yes
+	}
+	1420.1.1={
+		death=yes
+	}
+}
+
+191149 = {
+	name="Í»Éİ" #"Durjay"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191148
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1380.1.1={
+		birth=yes
+	}
+	1437.1.1={
+		death=yes
+	}
+}
+
+191150 = {
+	name="ÓÅÍÓ" #"Uday"
+	dynasty=1044324 #Malla
+	religion="hindu"
+	culture="bengali"
+	father = 191149
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1400.1.1={
+		birth=yes
+	}
+	1460.1.1={
+		death=yes
+	}
+}
+
+191151 = {
+	name="ÆÅÙ¤ÌáÅş" #"Bagyadevi"
+	female = yes
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	940.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+
+191152 = {
+	name="°¢ÄÇ¶à" #"Adnata"
+	dynasty=1044316 # Sura
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	730.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191153 = {
+	name="ÆĞËÕÂŞ" #"Bhusura"
+	dynasty=1044316 # Sura
+	father=191152
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	760.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+
+191154 = {
+	name="Ä¦ÍÓÆÅËÕÂŞ" #"Madhavasura"
+	dynasty=1044316 # Sura
+	father=191153
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	781.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+191155 = {
+	name="°¢ÌáâòÒ®ËÕÂŞ" #"Adityasura"
+	dynasty=1044316 # Sura
+	father=191154
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	820.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+191156 = {
+	name="Ò®ÃÖÄáËÕÂŞ" #"Yaminisura"
+	dynasty=1044316 # Sura
+	father=191155
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	860.1.1={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+
+191157 = {
+	name="ÆÅÀûÒÄÍÓÂŞËÕÂŞ" #"Varendrasura"
+	dynasty=1044316 # Sura
+	father=191156
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	890.1.1={
+		birth=yes
+	}
+	980.1.1={
+		death=yes
+	}
+}
+
+191158 = {
+	name="°¢Å«ËÕÂŞ" #"Anusura"
+	dynasty=1044316 # Sura
+	father=191157
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	950.1.1={
+		birth=yes
+	}
+	1020.1.1={
+		death=yes
+	}
+}
+
+191159 = {
+	name="ÆÅÅ«ËÕÂŞ" #"Bhanusura"
+	dynasty=1044316 # Sura
+	father=191158
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	980.1.1={
+		birth=yes
+	}
+	1040.1.1={
+		death=yes
+	}
+}
+
+191160 = {
+	name="ÂŞÄÇËÕÂŞ" #"Ranasura"
+	dynasty=1044316 # Sura
+	father=191159
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1000.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+
+191161 = {
+	name="°¢ÕÚÂŞÒ® ÌáÆÅÎ÷ÄÇ" #"Acaraya Devasena"
+	dynasty=1044330 # Sena of Pithi
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1100.1.1={
+		birth=yes
+	}
+	#Known to have ruled in 1157
+	1180.1.1={
+		death=yes
+	}
+}
+
+191162 = {
+	name="¸»ÍÓÎ÷ÄÇ" #"Buddhasena"
+	dynasty=1044330 # Sena of Pithi
+	father=191161
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1160.1.1={
+		birth=yes
+	}
+	#Known to have ruled in 1235
+	1250.1.1={
+		death=yes
+	}
+}
+
+191163 = {
+	name="ÉİÒ®Î÷ÄÇ" #"Jayasena"
+	dynasty=1044330 # Sena of Pithi
+	father=191162
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1225.1.1={
+		birth=yes
+	}
+	#Known to have ruled in 1283
+	1300.1.1={
+		death=yes
+	}
+}
+
+191510 = {
+	name="°ãÌá¶à" #"Pandita"	#Fictional
+	dynasty=1044331
+	religion="buddhist"
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	700.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191511 = {
+	name="ÂŞÄÇÙ¤" #"Ranaka"	#Fictional
+	dynasty=1044331
+	religion="buddhist"
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	father=191510
+	760.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191512 = {
+	name="ÂüÍÓÀæÙ¤" #"Mandalika"	#Fictional
+	dynasty=1044331
+	religion="buddhist"
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	father=191511
+	780.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+191513 = {
+	name="æ¶ÍÓÄáÙ¤" #"Sadhanika"	#Fictional
+	dynasty=1044331
+	religion="buddhist"
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	father=191512
+	800.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+191514 = {
+	name="°ãÌá¶à" #"Pandita"	#Fictional
+	dynasty=1044331
+	religion="buddhist"
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	father=191513
+	840.1.1={
+		birth=yes
+	}
+	930.1.1={
+		death=yes
+	}
+}
+
+191515 = {
+	name="ÂŞÄÇÙ¤" #"Ranaka"	#Fictional
+	dynasty=1044331
+	religion="buddhist"
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	father=191514
+	880.1.1={
+		birth=yes
+	}
+	970.1.1={
+		death=yes
+	}
+}
+
+191516 = {
+	name="æ¶ÍÓÄáÙ¤" #"Sadhanika"	#Fictional
+	dynasty=1044331
+	religion="buddhist"
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	father=191515
+	940.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+
+191517 = {
+	name="ÂüÍÓÀæÙ¤" #"Mandalika"	#Fictional
+	dynasty=1044331
+	religion="buddhist"
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	father=191516
+	960.1.1={
+		birth=yes
+	}
+	1040.1.1={
+		death=yes
+	}
+}
+
+191164 = {
+	name="æ¶ÍÓÄáÙ¤" #"Sadhanika"	#Fictional
+	dynasty=1044331
+	religion="buddhist"
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	father=191517
+	1035.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+
+191165 = {
+	name="ÂŞÄÇÙ¤" #"Ranaka"	#Fictional
+	dynasty=1044331
+	father=191164
+	religion="buddhist"
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	1110.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+
+191166 = {
+	name="ÂŞºîÂŞÊÒÀûÆÅÍÓÂŞ" #"Rahulasribhadra"	#Fictional
+	dynasty=1044331
+	father=191165
+	religion="buddhist"
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	1144.1.1={
+		birth=yes
+	}
+	1240.1.1={
+		death=yes
+	}
+}
+
+191167 = {
+	name="ÂüÍÓÀæÙ¤" #"Mandalika"	#Fictional
+	dynasty=1044331
+	religion="buddhist"
+	father=191166
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	1200.1.1={
+		birth=yes
+	}
+	1290.1.1={
+		death=yes
+	}
+}
+
+191168 = {
+	name="°ãÌá¶à" #"Pandita"	#Fictional
+	dynasty=1044331
+	religion="buddhist"
+	father=191167
+	culture="bengali"
+	trait="brahmin"
+	trait="mahayana_buddhist"
+	1260.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+
+191301 ={
+	name="ÌáÍÓÌáÅş" #"Dedadevi"
+	female = yes
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="mahayana_buddhist"
+	730.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191389 = {
+	name="Ù¤ÌáÂŞ²¨ÂŞ" #"Kadirapala"
+	dynasty=1044343 # Khayarwala
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1090.1.1={
+		birth=yes
+	}
+	1168.1.1={
+		death=yes
+	}
+}
+
+191390 = {
+	name="²¨ÂŞ¶à²¨ÍÓÆÅÂŞ" #"Pratapadhawala"
+	dynasty=1044343 # Khayarwala
+	father=191389
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1120.1.1={
+		birth=yes
+	}
+	1185.1.1={
+		death=yes
+	}
+}
+
+191391 = {
+	name="æ¶Ú­æ¶ÍÓÆÅÂŞ" #"Sahasadhawala"
+	dynasty=1044343 # Khayarwala
+	father=191390
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1140.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+
+191392 = {
+	name="ÒÁÍÓÂŞÍÓÆÅÂŞ" #"Indradhawala"
+	dynasty=1044343 # Khayarwala
+	father=191391
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1180.1.1={
+		birth=yes
+	}
+	1240.1.1={
+		death=yes
+	}
+}
+
+191397 = {
+	name="Ò®êÈÄÚæ¶óÅ¶à" #"Yajnesagupta"
+	dynasty=1044345 # Minor Guptas
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1050.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+
+191398 = {
+	name="ÍÓÎŞÍÓÀûóÅ¶à" #"Damodargupta"
+	dynasty=1044345 # Minor Guptas
+	father=191397
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1070.1.1={
+		birth=yes
+	}
+	1140.1.1={
+		death=yes
+	}
+}
+
+191399 = {
+	name="ÌáÆÅóÅ¶à" #"Devagupta"
+	dynasty=1044345 # Minor Guptas
+	father=191398
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1090.1.1={
+		birth=yes
+	}
+	1147.1.1={
+		death=yes
+	}
+}
+
+191400 = {
+	name="ÂŞê^ÌáâòÒ®óÅ¶à" #"Rajadityagupta"
+	dynasty=1044345 # Minor Guptas
+	father=191399
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1110.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		death=yes
+	}
+}
+
+191401 = {
+	name="ÊÒÀûÊªÄÇóÅ¶à" #"Krishnagupta"
+	dynasty=1044345 # Minor Guptas
+	father=191400
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1130.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+
+191402 = {
+	name="æ¶´åóÅ¶à" #"Samgramagupta"
+	dynasty=1044345 # Minor Guptas
+	father=191401
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1150.1.1={
+		birth=yes
+	}
+	1230.1.1={
+		death=yes
+	}
+}
+
+191405 = {
+	name="°ÏÄÇÄ¦ÄÇ" #"Varnamana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	740.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191406 = {
+	name="ÓÅÍÓÒ®Ä¦ÄÇ" #"Udayamana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191405
+	780.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+191407 = {
+	name="É®Ú­Ä¦ÄÇ" #"Simhamana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191406
+	820.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+191408 = {
+	name="Â¥ÍÓÂŞÄ¦ÄÇ" #"Rudramana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191407
+	860.1.1={
+		birth=yes
+	}
+	950.1.1={
+		death=yes
+	}
+}
+
+191409 = {
+	name="°ÏÄÇÄ¦ÄÇ" #"Varnamana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191408
+	930.1.1={
+		birth=yes
+	}
+	990.1.1={
+		death=yes
+	}
+}
+
+191410 = {
+	name="ÓÅÍÓÒ®Ä¦ÄÇ" #"Udayamana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191409
+	970.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+
+191411 = {
+	name="°ÏÄÇÄ¦ÄÇ" #"Varnamana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191410
+	990.1.1={
+		birth=yes
+	}
+	1054.1.1={
+		death=yes
+	}
+}
+
+191413 = {
+	name="Â¥ÍÓÂŞÄ¦ÄÇ" #"Rudramana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191411
+	1050.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+
+191414 = {
+	name="ÓÅÍÓÒ®Ä¦ÄÇ" #"Udayamana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191413
+	1090.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+
+191415 = {
+	name="Â¥ÍÓÂŞÄ¦ÄÇ" #"Rudramana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191414
+	1130.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+
+191416 = {
+	name="°ÏÄÇÄ¦ÄÇ" #"Varnamana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191415
+	1160.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+
+191417 = {
+	name="ÓÅÍÓÒ®Ä¦ÄÇ" #"Udayamana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191416
+	1180.1.1={
+		birth=yes
+	}
+	1240.1.1={
+		death=yes
+	}
+}
+
+191418 = {
+	name="°ÏÄÇÄ¦ÄÇ" #"Varnamana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191417
+	1220.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes
+	}
+}
+
+191419 = {
+	name="Â¥ÍÓÂŞÄ¦ÄÇ" #"Rudramana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191418
+	1250.1.1={
+		birth=yes
+	}
+	1310.1.1={
+		death=yes
+	}
+}
+
+191420 = {
+	name="°ÏÄÇÄ¦ÄÇ" #"Varnamana" #Fictional
+	dynasty=1044346 # Mana of Jharkand
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191419
+	1270.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+
+191522 = {
+	name="½¨ÍÓÌáÆÅ" #"Gandadeva" #Fictional
+	dynasty=1044354 #Sonhat
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	700.1.1={
+		birth=yes
+	}
+	719.1.1={
+		add_spouse = 191524
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191523 = {
+	name="°ÏÄÇÄ¦ÄÇ" #"Varnamana" #Fictional
+	dynasty=1044354 #Sonhat
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191522
+	mother=191524
+	720.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191524 = {
+	name="Ä¦õ£ÌáÅş" #"Mahidevi" #Fictional
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	702.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191525 = {
+	name="Ìá°ÏÊª" #"Devarshi" #Fictional
+	dynasty=1044355 #
+	religion="jain"
+	culture="bengali"
+	trait="brahmin"
+	trait="svetambara_jain"
+	720.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191526 = {
+	name="êÈÄÇÆÅ¶à" #"Jinabhata" #Fictional
+	dynasty=1044355 #
+	religion="jain"
+	culture="bengali"
+	trait="brahmin"
+	trait="svetambara_jain"
+	father=191525
+	760.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+
+191527 = {
+	name="Ìá°ÏÊª" #"Devarshi" #Fictional
+	dynasty=1044355 #
+	religion="jain"
+	culture="bengali"
+	trait="brahmin"
+	trait="svetambara_jain"
+	father=191526
+	830.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+191528 = {
+	name="êÈÄÇÆÅ¶à" #"Jinabhata" #Fictional
+	dynasty=1044355 #
+	religion="jain"
+	culture="bengali"
+	trait="brahmin"
+	trait="svetambara_jain"
+	father=191527
+	900.1.1={
+		birth=yes
+	}
+	990.1.1={
+		death=yes
+	}
+}
+
+191529 = {
+	name="Ìá°ÏÊª" #"Devarshi" #Fictional
+	dynasty=1044355 #
+	religion="jain"
+	culture="bengali"
+	trait="brahmin"
+	trait="svetambara_jain"
+	father=191528
+	970.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+
+191530 = {
+	name="êÈÄÇÆÅ¶à" #"Jinabhata" #Fictional
+	dynasty=1044355 #
+	religion="jain"
+	culture="bengali"
+	trait="brahmin"
+	trait="svetambara_jain"
+	father=191529
+	1040.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+
+191531 = {
+	name="Ìá°ÏÊª" #"Devarshi" #Fictional
+	dynasty=1044355 #
+	religion="jain"
+	culture="bengali"
+	trait="brahmin"
+	trait="svetambara_jain"
+	father=191530
+	1110.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+
+191532 = {
+	name="êÈÄÇÆÅ¶à" #"Jinabhata" #Fictional
+	dynasty=1044355 #
+	religion="jain"
+	culture="bengali"
+	trait="brahmin"
+	trait="svetambara_jain"
+	father=191531
+	1180.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes
+	}
+}
+
+191533 = {
+	name="Ìá°ÏÊª" #"Devarshi" #Fictional
+	dynasty=1044355 #
+	religion="jain"
+	culture="bengali"
+	trait="brahmin"
+	trait="svetambara_jain"
+	father=191532
+	1250.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+
+191534 = {
+	name="êÈÄÇÆÅ¶à" #"Jinabhata" #Fictional
+	dynasty=1044355 #
+	religion="jain"
+	culture="bengali"
+	trait="brahmin"
+	trait="svetambara_jain"
+	father=191533
+	1320.1.1={
+		birth=yes
+	}
+	1400.1.1={
+		death=yes
+	}
+}
+
+191535 = {
+	name="ÄÑÍÓ" #"Nanda"
+	dynasty=1044326 #Ranaka
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	1100.1.1={
+		birth=yes
+	}
+	1161.1.1={
+		death=yes
+	}
+}
+
+191536 = {
+	name="ËÕÄ²ÍÓÂŞÌáâòÒ®" #"Sumudraditya"
+	dynasty=1044326 #Ranaka
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191535
+	1120.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+
+191537 = {
+	name="ÊÒÀûÌáÆÅ" #"Srideva"
+	dynasty=1044326 #Ranaka
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191536
+	1140.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+
+191538 = {
+	name="Ò®²æ„x²¨ÂŞ" #"Yaksapala"
+	dynasty=1044326 #Ranaka
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191537
+	1160.1.1={
+		birth=yes
+	}
+	1203.10.1={
+		death=yes
+	}
+}
+
+191539 = {
+	name="¸»Â¥Êä¶àÄ¦" #"Purushottama"
+	dynasty=1044356 #Deva
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1120.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+
+191540 = {
+	name="Ä¦İËÄ¦ãËÄÇÌáÆÅ" #"Madhumathanadeva"
+	dynasty=1044356 #Deva
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191539
+	1180.1.1={
+		birth=yes
+	}
+	1231.1.1={
+		death=yes
+	}
+}
+
+191541 = {
+	name="ÆÅËÕÌáÆÅ" #"Vasudeva"
+	dynasty=1044356 #Deva
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191540
+	1200.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+
+191542 = {
+	name="ÍÓÎŞÍÓÂŞÌáÆÅ" #"Damodaradeva"
+	dynasty=1044356 #Deva
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191541
+	1220.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes
+	}
+}
+
+191543 = {
+	name="‘x¾ãÂŞÌáÆÅ" #"Gokuladeva"	#Fictional to fill in gap between genealogies
+	dynasty=1044356 #Deva
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191542
+	1240.1.1={
+		birth=yes
+	}
+	1285.1.1={
+		death=yes
+	}
+}
+
+191544 = {
+	name="ÍÓæ¶ÂŞãËÌáÆÅ" #"Dasarathadeva"
+	dynasty=1044356 #Deva
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191543
+	1260.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+
+191546 = {
+	name="Ú­ÀûÙ¤ÂŞÌáÆÅ" #"Harikaladeva Ranavankamalla"
+	dynasty=1044357 #Pattikara
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vajrayana_buddhist"
+	1180.1.1={
+		birth=yes
+	}
+	1231.1.1={
+		death=yes
+	}
+}
+
+191547 = {
+	name="Ù¤ÂŞÆÅÄÇ" #"Kharavana"
+	dynasty=1044358 #Minor Deva
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1180.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+
+191548 = {
+	name="‘x¾ãÂŞÌáÆÅ" #"Gokuladeva"
+	dynasty=1044358 #Minor Deva
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191547
+	1220.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes
+	}
+}
+
+191549 = {
+	name="ÄÇÂŞÑÜÄÇÌáÆÅ" #"Narayanadeva"
+	dynasty=1044358 #Minor Deva
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191548
+	1250.1.1={
+		birth=yes
+	}
+	1290.1.1={
+		death=yes
+	}
+}
+
+191550 = {
+	name="ÒÁæ¶ÄÇÌáÆÅ" #"Isanadeva"
+	dynasty=1044358 #Minor Deva
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	father=191549
+	1270.1.1={
+		birth=yes
+	}
+	1350.1.1={
+		death=yes
+	}
+}
+
+191551 = {
+	name="¶¹ÂüÄÇ²¨ÂŞ" #"Dommanapala"
+	dynasty=1044359 #Khadi
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	1150.1.1={
+		birth=yes
+	}
+	1206.10.1={
+		death=yes
+	}
+}

@@ -1,0 +1,10007 @@
+74031 = {
+	name="Kurush"
+	dynasty=12274
+
+	culture="turkish"
+	religion="zoroastrian"
+
+	820.1.1={
+		birth=yes
+	}
+	872.1.1={
+		death=yes
+	}
+}
+
+144011 = {
+	name="Malik Shah"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=41701
+	mother=34263
+	1086.1.1={
+		birth=yes
+	}
+	1116.1.1={
+		death=yes
+	}
+}
+
+144012 = {
+	name="Mahmud"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3042
+	1072.1.1={
+		birth=yes
+	}
+	1094.1.1={
+		death=yes
+	}
+}
+
+144013 = {
+	name="Barkiarok"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3042
+	1079.1.1={
+		birth=yes
+	}
+	1105.3.1={
+		death=yes
+	}
+}
+
+144014 = {
+	name="Mohammed"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3042
+	1081.1.1={
+		birth=yes
+	}
+	1118.4.18={
+		death=yes
+	}
+}
+
+144015 = {
+	name="Sanjar"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3042
+	1085.1.1={
+		birth=yes
+	}
+	1157.5.8={
+		death=yes
+	}
+}
+
+144020 = {
+	name = "Radwan"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=3044
+	1079.1.1={
+		birth=yes
+	}
+	1113.1.1={
+		death=yes
+	}
+}
+
+144021 = {
+	name = "Alp Arslan"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=144020
+	1096.1.1={
+		birth=yes
+	}
+	1114.1.1={
+		death=yes
+	}
+}
+
+144022 = {
+	name = "Sultan Shah"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=144020
+	1108.1.1={
+		birth=yes
+	}
+	1123.1.1={
+		death=yes
+	}
+}
+
+144023 = {
+	name = "Duqaq"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=3044
+	1080.1.1={
+		birth=yes
+	}
+	1104.6.1={
+		death=yes
+	}
+}
+
+144024 = {
+	name = "Tutush"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=144023
+	1103.1.1={
+		birth=yes
+	}
+	1105.1.1={
+		death=yes
+	}
+}
+
+144025 = {
+	name = "Kerman Shah"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=3041
+	1041.1.1={
+		birth=yes
+	}
+	1074.1.1={
+		death=yes
+	}
+}
+
+144026 = {
+	name = "Sultan Shah"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=3041
+	1042.1.1={
+		birth=yes
+	}
+	1075.1.1={
+		death=yes
+	}
+}
+
+144027 = {
+	name = "Turan Shah"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=3041
+	1037.1.1={
+		birth=yes
+	}
+	1097.1.1={
+		death=yes
+	}
+}
+
+144028 = {
+	name = "Iran Shah"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=144027
+	1067.1.1={
+		birth=yes
+	}
+	1101.1.1={
+		death=yes
+	}
+}
+
+144029 = {
+	name="Imad ad-Din Zengi"
+	dynasty=101687
+	religion="sunni"
+	culture="turkish"
+	father = 3079
+	1085.1.1={
+		birth=yes
+	}
+	1146.9.14={
+		death=yes
+	}
+}
+
+144030 = {
+	name="Saif ad-Din Ghazi"
+	dynasty=101687
+	religion="sunni"
+	culture="turkish"
+	father = 144029
+	1116.1.1={
+		birth=yes
+	}
+	1149.1.1={
+		death=yes
+	}
+}
+
+144031 = {
+	name="Nur ad-Din Zangi"
+	dynasty=101687
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	father = 144029
+	trait="skilled_tactician"
+	trait="ambitious"
+	trait="zealous"
+	trait="just"
+	1118.2.1={
+		birth=yes
+	}
+	1174.4.15={
+		death=yes
+	}
+}
+
+144032 = {
+	name="Qutb ad-Din Mawdud"
+	dynasty=101687
+	religion="sunni"
+	culture="turkish"
+	father = 144029
+	1120.1.1={
+		birth=yes
+	}
+	1170.9.16={
+		death=yes
+	}
+}
+
+144033 = {
+	name="As-Salih Ismail al-Malik"
+	dynasty=101687
+	religion="sunni"
+	culture="turkish"
+	father = 144031
+	1163.1.1={
+		birth=yes
+	}
+	1181.1.1={
+		death=yes
+	}
+}
+
+144034 = {
+	name = "Arslan Shah"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=144025
+	1072.1.1={
+		birth=yes
+	}
+	1142.1.1={
+		death=yes
+	}
+}
+
+144035 = {
+	name = "Mehmed"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=144034
+	1092.1.1={
+		birth=yes
+	}
+	1156.1.1={
+		death=yes
+	}
+}
+
+144036 = {
+	name = "Togrul Shah"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=144035
+	1120.1.1={
+		birth=yes
+	}
+	1169.1.1={
+		death=yes
+	}
+}
+
+144037 = {
+	name = "Bahram Shah"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=144036
+	1140.1.1={
+		birth=yes
+	}
+	1174.1.1={
+		death=yes
+	}
+}
+
+144038 = {
+	name = "Arslan Shah"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=144036
+	1141.1.1={
+		birth=yes
+	}
+	1176.1.1={
+		death=yes
+	}
+}
+
+144039 = {
+	name = "Turan Shah"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=144036
+	1142.1.1={
+		birth=yes
+	}
+	1183.1.1={
+		death=yes
+	}
+}
+
+144040 = {
+	name = "Muhammad Shah"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=144037
+	1160.1.1={
+		birth=yes
+	}
+	1220.1.1={
+		death=yes
+	}
+}
+
+144041 = {
+	name="Saif ad-Din Ghazi"
+	dynasty=101687
+	religion="sunni"
+	culture="turkish"
+	father = 144032
+	1150.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+
+144042 = {
+	name="Izz ad-Din Mas'ud"
+	dynasty=101687
+	religion="sunni"
+	culture="turkish"
+	father = 144032
+	1152.1.1={
+		birth="1152.1.1"
+	}
+	1193.1.1={
+		death="1193.1.1"
+	}
+}
+
+
+144043 = {
+	name="Mahmud"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=144014
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1131.1.1={
+		death="1131.1.1"
+	}
+}
+
+144044 = {
+	name="Saltuk"
+	dynasty=100702
+	religion="sunni"
+	culture="turkish"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+144045 = {
+	name="Ali"
+	dynasty=100702
+	religion="sunni"
+	culture="turkish"
+	father = 144044
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+}
+
+144046 = {
+	name="Ziyaeddin"
+	dynasty=100702
+	religion="sunni"
+	culture="turkish"
+	father = 144044
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+}
+
+144047 = {
+	name="Saltuk"
+	dynasty=100702
+	religion="sunni"
+	culture="turkish"
+	father = 144045
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1168.1.1={
+		death="1168.1.1"
+	}
+}
+
+144048 = {
+	name="Dawud"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=144043
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+}
+
+144049 = {
+	name="Mas'ud"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=144014
+	1108.1.1={
+		birth="1108.1.1"
+	}
+	1152.10.2={
+		death="1152.10.2"
+	}
+}
+
+144050 = {
+	name="Togrul"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=144014
+	1109.1.1={
+		birth="1109.1.1"
+	}
+	1137.1.1={
+		death="1137.1.1"
+	}
+}
+
+144051 = {
+	name="Shams al-Din Ildeniz"
+	dynasty=101876
+	religion="sunni"
+	culture="turkish"
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+
+144052 = {
+	name="Mohammed Jahan Pahlavan"
+	dynasty=101876
+	religion="sunni"
+	culture="turkish"
+	father = 144051
+	1126.1.1={
+		birth="1126.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+144053 = {
+	name="Malik Shah"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=144043
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1160.3.21={
+		death="1160.3.21"
+	}
+}
+
+144054 = {
+	name="Muhammed"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=144043
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1159.1.1={
+		death="1159.1.1"
+	}
+}
+
+144055 = {
+	name="Arslan Shah"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=144050
+	1136.1.1={
+		birth="1136.1.1"
+	}
+	1175.12.31={
+		death="1175.12.31"
+	}
+}
+
+144056 = {
+	name="Togrul"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=144055
+	1159.1.1={
+		birth="1159.1.1"
+	}
+	1194.3.1={
+		death="1194.3.1"
+	}
+}
+
+
+144065 = {
+	name="Ortok"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+144066 = {
+	name="Il-Ghazi"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144065
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1123.1.1={
+		death="1123.1.1"
+	}
+}
+
+144067 = {
+	name="Sokman"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144065
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+
+144068 = {
+	name="Barkam"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144065
+	1072.1.1={
+		birth="1072.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+
+144069 = {
+	name="Balek"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144068
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+144070 = {
+	name="Davud"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144067
+	1087.1.1={
+		birth="1087.1.1"
+	}
+	1144.1.1={
+		death="1144.1.1"
+	}
+}
+
+144071 = {
+	name="Kara Arslan"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144070
+	1103.1.1={
+		birth="1103.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+144072 = {
+	name="Nur ed-Din Mohammed"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144071
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+144073= {
+	name="Ghazi"
+	dynasty=100704
+	religion="sunni"
+	culture="turkish"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+144074= {
+	name="Ishak"
+	dynasty=100704
+	religion="sunni"
+	culture="turkish"
+	father = 144073
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+144075= {
+	name="Suleyman"
+	dynasty=100704
+	religion="sunni"
+	culture="turkish"
+	father = 144074
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+144099 = {
+	name="Qutb al-Din Muhammad"
+	dynasty=101866
+	religion="sunni"
+	culture="turkish"
+	father = 20713
+	1061.1.1={
+		birth="1061.1.1"
+	}
+	1127.1.1={
+		death="1127.1.1"
+	}
+}
+
+144100 = {
+	name="Atsiz"
+	dynasty=101866
+	religion="sunni"
+	culture="turkish"
+	father = 144099
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	1156.1.1={
+		death="1156.1.1"
+	}
+}
+
+144101 = {
+	name="Il-Arslan"
+	dynasty=101866
+	religion="sunni"
+	culture="turkish"
+	father = 144100
+	1121.1.1={
+		birth="1121.1.1"
+	}
+	1172.3.1={
+		death="1172.3.1"
+	}
+}
+
+144108 = {
+	name="Mahmud"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=3014
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1099.1.1={
+		death="1099.1.1"
+	}
+}
+
+144109 = {
+	name="Jibrail"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144106
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+144110 = {
+	name="Sulayman"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144108
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1097.6.1={
+		death="1097.6.1"
+	}
+}
+
+144111 = {
+	name="Muhammad"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144110
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1129.1.1={
+		death="1129.1.1"
+	}
+}
+
+144112 = {
+	name="Nasr"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144111
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1129.6.1={
+		death="1129.6.1"
+	}
+}
+
+144113 = {
+	name="Ahmad"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144111
+	1101.1.1={
+		birth="1101.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+144116 = {
+	name="Hasan"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144107
+	1101.1.1={
+		birth=yes
+	}
+	1132.1.1={
+		death=yes
+	}
+}
+
+144117 = {
+	name="Ibrahim"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144110
+	1081.1.1={
+		birth=yes
+	}
+	1132.6.1={
+		death=yes
+	}
+}
+
+144118 = {
+	name="Mahumud"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144111
+	1102.1.1={
+		birth=yes
+	}
+	1141.1.1={
+		death=yes
+	}
+}
+
+144119 = {
+	name="Ibrahim"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144111
+	1103.1.1={
+		birth=yes
+	}
+	1156.1.1={
+		death=yes
+	}
+}
+
+144120 = {
+	name="Ali"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144116
+	1121.1.1={
+		birth=yes
+	}
+	1161.1.1={
+		death=yes
+	}
+}
+
+144121 = {
+	name="Masud"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144116
+	1122.1.1={
+		birth=yes
+	}
+	1178.1.1={
+		death=yes
+	}
+}
+
+144122 = {
+	name="Ibrahim"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=93049
+	1141.1.1={
+		birth=yes
+	}
+	1204.1.1={
+		death=yes
+	}
+}
+
+144123 = {
+	name="Sabuktigin" # Founder of the Ghaznavids
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	
+	martial = 12
+	diplomacy = 8
+	stewardship = 9
+	intrigue = 9
+	learning = 6
+	
+	health = 6
+	fertility = 0.8
+	
+	trait = brilliant_strategist
+	trait = diligent
+	trait = ambitious
+	trait = proud
+	trait = quick
+	trait = adventurer
+	
+	942.1.1={
+		birth=yes
+	}
+	968.1.1={
+		add_spouse=170305
+	}
+	997.1.1={
+		death=yes
+	}
+}
+
+144124 = {
+	name="Ismail"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144123
+	mother = 170305
+	970.1.1={
+		birth=yes
+	}
+	998.1.1={
+		death=yes
+	}
+}
+
+144125 = {
+	name="Mahmud"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144123
+	mother = 170305
+	971.1.1={
+		birth=yes
+	}
+	1030.1.1={
+		death=yes
+	}
+}
+
+144126 = {
+	name="Muhammad"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144125
+	990.1.1={
+		birth=yes
+	}
+	1031.1.1={
+		death=yes
+	}
+}
+
+144127 = {
+	name="Musud"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144125
+	991.1.1={
+		birth=yes
+	}
+	1041.1.1={
+		death=yes
+	}
+}
+
+144128 = {
+	name="Mawdud"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144127
+	1011.1.1={
+		birth="1011.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+144129 = {
+	name="Masud"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144128
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1050.6.1={
+		death="1050.6.1"
+	}
+}
+
+144130 = {
+	name="Ali"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144127
+	1012.1.1={
+		birth="1012.1.1"
+	}
+	1050.9.1={
+		death="1050.9.1"
+	}
+}
+
+144131 = {
+	name="Abd al-Rashid"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144125
+	992.1.1={
+		birth="992.1.1"
+	}
+	1053.1.1={
+		death="1053.1.1"
+	}
+}
+
+144132 = {
+	name="Farrukhzad"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144127
+	1012.1.1={
+		birth="1012.1.1"
+	}
+	1059.1.1={
+		death="1059.1.1"
+	}
+}
+
+144133 = {
+	name="Ibrahim"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144127
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1099.1.1={
+		death="1099.1.1"
+	}
+}
+
+144134 = {
+	name="Masud"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144133
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+144135 = {
+	name="Shirzad"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144134
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1115.6.1={
+		death="1115.6.1"
+	}
+}
+
+144136 = {
+	name="Arlsan Shah"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144135
+	1084.1.1={
+		birth="1084.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+144137 = {
+	name="Bahram Shah"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144135
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1152.1.1={
+		death="1152.1.1"
+	}
+}
+
+144138 = {
+	name="Khusraw Shah"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144137
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+144139 = {
+	name="Khusraw Malik"
+	dynasty=790
+	religion="sunni"
+	culture="turkish"
+	father = 144138
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+20670 = {
+	name="Ali"
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20673 = {
+	name="Abdul-Jabbar"
+	# AKA: Abdul
+	dynasty=101040
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="just"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20676 = {
+	name="Isa"
+	dynasty=101035
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20677 = {
+	name="Adnan"
+	dynasty=101034
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="thrifty_clerk"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20678 = {
+	name="Abdul-Rahman"
+	# AKA: Abdul
+	dynasty=101033
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20690 = {
+	name="Kemaladdin"
+	dynasty=101027
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="craven"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20697 = {
+	name="Mahmud"
+	dynasty=101052
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20698 = {
+	name="Murtaza"
+	dynasty=101053
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="slothful"
+	trait="arbitrary"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20700 = {
+	name="Khaydar"
+	dynasty=101022
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20701 = {
+	name="Hussamaddin"
+	dynasty=101023
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="proud"
+	trait="gluttonous"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20702 = {
+	name="Khaleel"
+	dynasty=101021
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20710 = {
+	name="Walid"
+	dynasty=101049
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="slothful"
+	trait="patient"
+	trait="gluttonous"
+	trait="honest"
+	trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20711 = {
+	name="Hussamaddin"
+	dynasty=101039
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="kind"
+	trait="ill"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20712 = {
+	name="Adnan"
+	dynasty=101040
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="clubfooted"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20713 = {
+	name="Anushtigin"
+	dynasty=101866
+	martial=5
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="flamboyant_schemer"
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1096.1.1={
+		death="1096.1.1"
+	}
+}
+
+20732 = {
+	name="Sulayman"
+	dynasty=101056
+	martial=8
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="zealous"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+215041 = {
+	name="Ihsan"
+	dynasty=100598
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="charitable"
+	trait="honest"
+	trait="proud"
+	trait="underhanded_rogue"
+	1149.1.1={
+		birth="1149.1.1"
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+
+215043 = {
+	name="Sahinsah"
+	dynasty=100704
+	religion="sunni"
+	culture="turkish"
+	father = 144075
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1198.1.1={
+		death="1198.1.1"
+	}
+}
+
+225000 = {
+	name="Kilij Arslan"
+	dynasty=613
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="lustful"
+	trait="cynical"
+	trait="tough_soldier"
+	father = 7299
+	mother= 34210
+	1132.1.1={
+		birth="1132.1.1"
+	}
+	1192.1.1={
+		death="1192.1.1"
+	}
+}
+
+225001 = {
+	name="Korkut"
+	dynasty=100752
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="brave"
+	trait="clubfooted"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225002 = {
+	name="Kaykhusraw"
+	# AKA: Kay Kusrai
+	dynasty=613
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="wroth"
+	trait="lisp"
+	trait="martial_cleric"
+	father=225000
+	1171.1.1={
+		birth="1171.1.1"
+	}
+	1211.1.1={
+		death="1211.1.1"
+	}
+}
+
+225003 = {
+	name="Ayaz"
+	dynasty=100760
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="brave"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225004 = {
+	name="Suleyman"
+	dynasty=613
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="patient"
+	trait="cynical"
+	trait="martial_cleric"
+	father=225000
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1204.1.1={
+		death="1204.1.1"
+	}
+}
+
+225006 = {
+	name="Kutlug"
+	dynasty=100750
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="clubfooted"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225007 = {
+	name="Gündüz"
+	# AKA: GUndUz
+	dynasty=100751
+	martial=5
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="deceitful"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225008 = {
+	name="Kutlug"
+	dynasty=100705
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="envious"
+	trait="amateurish_plotter"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225009 = {
+	name="Tugtekin"
+	dynasty=100706
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="wroth"
+	trait="kind"
+	trait="charismatic_negotiator"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225010 = {
+	name="Sokman"
+	dynasty=100701
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="ill"
+	trait="skilled_tactician"
+	father = 144072
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+225011 = {
+	name="Imad ad-Din Zengi"
+	dynasty=101687
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="gluttonous"
+	trait="amateurish_plotter"
+	father = 144032
+	1148.1.1={
+		birth="1148.1.1"
+	}
+	1193.1.1={
+		death="1193.1.1"
+	}
+}
+
+225012 = {
+	name="Savur"
+	dynasty=100664
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="proud"
+	trait="harelip"
+	trait="thrifty_clerk"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225013 = {
+	name="Savtekin"
+	dynasty=100686
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="greedy"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225014 = {
+	name="Korkut"
+	dynasty=100696
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="zealous"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225015 = {
+	name="Qizil Arslan"
+	# AKA: Qizil
+	dynasty=101876
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="flamboyant_schemer"
+	father = 144052
+	1156.1.1={
+		birth="1156.1.1"
+	}
+	1191.1.1={
+		death="1191.1.1"
+	}
+}
+
+225016 = {
+	name="Arslan"
+	dynasty=100657
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="humble"
+	trait="scholarly_theologian"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225017 = {
+	name="Seljuk"
+	dynasty=100658
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="zealous"
+	trait="gluttonous"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225018 = {
+	name="Bugra"
+	dynasty=100666
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="patient"
+	trait="craven"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225019 = {
+	name="Inal"
+	dynasty=100668
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="honest"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225020 = {
+	name="Kilij"
+	dynasty=100669
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="amateurish_plotter"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225021 = {
+	name="Karboga"
+	dynasty=100670
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="underhanded_rogue"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225022 = {
+	name="Arslan"
+	dynasty=100671
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="ill"
+	trait="underhanded_rogue"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225023 = {
+	name="Inal"
+	dynasty=100672
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="underhanded_rogue"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225024 = {
+	name="Sökmen"
+	# AKA: SOkmen
+	dynasty=100673
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="lustful"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225025 = {
+	name="Nassiruddin Muhammed"
+	dynasty=100702
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="diligent"
+	trait="wroth"
+	trait="cynical"
+	trait="skilled_tactician"
+	father = 144047
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1191.1.1={
+		death="1191.1.1"
+	}
+}
+
+225026 = {
+	name="Kilij"
+	dynasty=100678
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="inbred"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225027 = {
+	name="Eagri"
+	dynasty=100681
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="slothful"
+	trait="craven"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225028 = {
+	name="Alkan"
+	dynasty=100682
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="envious"
+	trait="charismatic_negotiator"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+225029 = {
+	name="Seljuk"
+	dynasty=100703
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="envious"
+	trait="cynical"
+	trait="clubfooted"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+226005 = {
+	name="Muhammad"
+	dynasty=100707
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="patient"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+229000 = {
+	name="Porsuk"
+	dynasty=100611
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="zealous"
+	trait="craven"
+	trait="scholarly_theologian"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+229001 = {
+	name="Uluj"
+	dynasty=100400
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="lustful"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+229003 = {
+	name="Saltuk"
+	dynasty=1053008
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+229004 = {
+	name="Aydin"
+	dynasty=1053009
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="wroth"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+229005 = {
+	name="Kejrboga"
+	dynasty=1053012
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="clubfooted"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+229006 = {
+	name="Sebek"
+	dynasty=1053010
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+229008 = {
+	name="Porsuk"
+	dynasty=1053007
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="greedy"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+229009 = {
+	name="Yakut"
+	dynasty=100610
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+229010 = {
+	name="Bozan"
+	dynasty=100612
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="thrifty_clerk"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+229011 = {
+	name="Mengücek"
+	# AKA: MengUcek
+	dynasty=100613
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+230000 = {
+	name="Tukush Ala ed-Din"
+	# AKA: Aladdin Tekis
+	dynasty=101866
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="diligent"
+	trait="proud"
+	trait="honest"
+	trait="skilled_tactician"
+	father = 144101
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+232507 = {
+	name="Ioannes"
+	dynasty=20067
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="turkish"
+	trait="diligent"
+	trait="content"
+	trait="cynical"
+	trait="skilled_tactician"
+	1083.1.1={
+		birth="1083.1.1"
+	}
+	1146.1.1={
+		death="1146.1.1"
+	}
+}
+
+3012 = {
+	name="Muhammad"
+	dynasty=101864
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="martial_cleric"
+	father=3002
+	1000.1.2={
+		birth="1000.1.2"
+	}
+	1052.1.2={
+		death="1052.1.2"
+	}
+}
+
+3014 = {
+	name="Ibrahim"
+	# AKA: Ibrahim Tamghach
+	dynasty=101864
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="lustful"
+	trait="skilled_tactician"
+	father=3002
+	1017.1.2={
+		birth="1017.1.2"
+	}
+	1068.1.1={
+		death="1068.1.1"
+	}
+}
+
+3016 = {
+	name="Nasr"
+	# AKA: Nasir Shams
+	dynasty=101864
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="thrifty_clerk"
+	father=3014
+	1030.1.2={
+		birth="1030.1.2"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+3018 = {
+	name="Khidr Abu Shuja"
+	# AKA: Khidr Abu Shuja
+	dynasty=101864
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="honest"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	father=3014
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+
+3020 = {
+	name="Ahmad"
+	dynasty=101864
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="lustful"
+	trait="clubfooted"
+	trait="skilled_tactician"
+	father=3018
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+3022 = {
+	name="Yaqub"
+	dynasty=101864
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="harelip"
+	trait="tough_soldier"
+	father=144103
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+3024 = {
+	name="Masud"
+	dynasty=101864
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="chaste"
+	trait="humble"
+	trait="tough_soldier"
+	father=3016
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1097.1.2={
+		death="1097.1.2"
+	}
+}
+
+3030 = {
+	name="Seljuk"
+	dynasty=613
+	martial = 8
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 4
+	learning = 3
+	religion="sunni"
+	culture="turkish"
+	health = 7
+	fertility = 0.8
+	trait = brilliant_strategist
+	trait = wroth
+	trait = cruel
+	trait = proud
+	trait = zealous
+	trait = ambitious
+	960.1.1={
+		birth=yes
+	}
+	1021.1.1={
+		death=yes
+	}
+}
+
+3032 = {
+	name="Arslan"
+	dynasty=613
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="scholarly_theologian"
+	father=3030
+	985.1.2={
+		birth="985.1.2"
+	}
+	1037.1.2={
+		death="1037.1.2"
+	}
+}
+
+3033 = {
+	name="Qutalmish"
+	dynasty=613
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="scholarly_theologian"
+	father=3032
+	1002.1.2={
+		birth="1002.1.2"
+	}
+	1063.1.2={
+		death="1063.1.2"
+	}
+}
+
+3034 = {
+	name="Mikail"
+	dynasty=613
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="just"
+	trait="scholarly_theologian"
+	father=3030
+	990.1.2={
+		birth="990.1.2"
+	}
+	1039.1.2={
+		death="1039.1.2"
+	}
+}
+
+3036 = {
+	name="Chagri-Beg"
+	# AKA: Chagri
+	dynasty=613
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="chaste"
+	trait="martial_cleric"
+	father=3034
+	1006.1.2={
+		birth="1006.1.2"
+	}
+	1060.1.2={
+		death="1060.1.2"
+	}
+}
+
+3038 = {
+	name="Tughril-Beg"
+	# AKA: Tughril
+	dynasty=613
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="wroth"
+	trait="underhanded_rogue"
+	father=3034
+	1010.1.2={
+		birth="1010.1.2"
+	}
+	1063.9.4={
+		death="1063.9.4"
+	}
+}
+
+3040 = {
+	name="Alp Arslan"
+	dynasty=613
+	dna = bdgeivbbbam
+	properties = fg0aha000000
+	martial=10
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="just"
+	trait="diligent"
+	trait="brave"
+	trait="patient"
+	trait="strong"
+	trait="brilliant_strategist"
+	father=3036
+	1029.1.1={
+		birth=yes
+	}
+	1054.1.1={
+		add_spouse=3045
+	}
+	1060.1.1={
+		wealth=300
+		decadence = -25
+	}
+	1066.9.14 = {
+		raise_levies = {
+			location=667 # Tabriz
+			force_mult=1.0
+		}
+	}
+	1072.11.1={
+		death=yes
+	}
+}
+
+3041 = {
+	name="Qawurd"
+	dynasty=613
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="proud"
+	trait="temperate"
+	trait="tough_soldier"
+	father=3036
+	1022.1.2={
+		birth="1022.1.2"
+	}
+	1073.1.1={
+		death="1073.1.1"
+	}
+}
+
+3042 = {
+	name="Malik Shah"
+	# AKA: Malik Shah
+	dynasty=613
+	martial=10
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="patient"
+	trait="tough_soldier"
+	father=3040
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1092.11.1={
+		death="1092.11.1"
+	}
+}
+
+3044 = {
+	name="Tutush"
+	dynasty=613
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="envious"
+	trait="zealous"
+	trait="cynical"
+	trait="tough_soldier"
+	father=3040
+	1057.1.2={
+		birth="1057.1.2"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+3045 = {
+	name="Terkhen"
+	female=yes
+	martial=5
+	diplomacy=10
+	intrigue=5
+	stewardship=10
+	religion="sunni"
+	culture="turkish"
+	trait="fair"
+	trait="quick"
+	trait="grey_eminence"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+3046 = {
+	name="Suleyman"
+	dynasty=613
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="tough_soldier"
+	father=3033
+	1039.1.2={
+		birth="1039.1.2"
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+
+3079 = {
+	name="Qasim ad-Dawla Aq Sunqur al-Hajib"
+	# AKA: Kasim Aksungur
+	dynasty=101687
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="tough_soldier"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+41701 = {
+	name="Kilij Arslan"
+	# AKA: Kilij Arslan
+	dynasty=613
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="tough_soldier"
+	father=3046
+	1058.1.2={
+		birth="1058.1.2"
+	}
+	1085.1.1={
+		add_spouse=34263
+	} 
+	1107.1.1={
+		death="1107.1.1"
+	}
+}
+
+7299 = {
+	name="Masud"
+	dynasty=613
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="tough_soldier"
+	father=41701
+	1088.1.1={
+		birth="1088.1.1"
+	}
+	1130.1.1={
+		add_spouse=34210
+	} 
+	1155.4.1={
+		death="1155.4.1"
+	}
+}
+
+41704 = {
+	name="Ghazi"
+	dynasty=101730
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="brave"
+	trait="skilled_tactician"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1104.1.1={
+		death="1104.1.1"
+	}
+}
+
+427101 = {
+	name="Khachigun"
+	dynasty=100650
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="kind"
+	trait="temperate"
+	trait="skilled_tactician"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+427102 = {
+	name="Nayaga"
+	dynasty=100651
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="martial_cleric"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+427103 = {
+	name="Khuyildar"
+	dynasty=100652
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="just"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+427104 = {
+	name="Oronartai"
+	dynasty=100653
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="skilled_tactician"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+427105 = {
+	name="Temujin"
+	dynasty=100654
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="gluttonous"
+	trait="martial_cleric"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+476100 = {
+	name="Toruntay"
+	dynasty=100747
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="lustful"
+	trait="just"
+	trait="wroth"
+	trait="gluttonous"
+	trait="amateurish_plotter"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+476200 = {
+	name="Umur"
+	dynasty=12107
+	religion="sunni"
+	culture="turkish"
+	father=71889
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+476300 = {
+	name="Halil"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=71879
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1312.1.1={
+	add_claim = k_karaman
+	}
+	1333.1.1={
+	remove_claim = k_karaman
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+476350 = {
+	name="Suleyman"
+	dynasty=20089
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="deceitful"
+	trait="cynical"
+	father=476353
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+476351 = {
+	name="Ibrahim"
+	dynasty=20089
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="wroth"
+	trait="tough_soldier"
+	father=476350
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+
+476352 = {
+	name="Ali"
+	dynasty=20089
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="proud"
+	trait="wroth"
+	trait="misguided_warrior"
+	father=476350
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+476353 = {
+	name="Temur Yaman"
+	# AKA: Temur Yaman
+	dynasty=20089
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="brave"
+	trait="skilled_tactician"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1292.1.1={
+	add_claim = c_sinope
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+476354 = {
+	name="Zehra"
+	female = yes
+	dynasty=20089
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="thrifty_clerk"
+	father=476353
+	1284.1.1={
+		birth="1284.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+476355 = {
+	name="Adil"
+	# AKA: Adil Beg
+	dynasty=20089
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="charitable"
+	trait="cynical"
+	trait="intricate_webweaver"
+	father=71866
+	mother=476354
+	1309.1.1={
+		birth="1309.1.1"
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+
+476400 = {
+	name="Khadersinan"
+	dynasty=12109
+	religion="sunni"
+	culture="turkish"
+	father=71887
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1372.1.1={
+		death="1372.1.1"
+	}
+}
+
+476460 = {
+	name="Aydogdu"
+	dynasty=100705
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="charitable"
+	trait="wroth"
+	trait="honest"
+	trait="amateurish_plotter"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+476480 = {
+	name="Kiliç"
+	# AKA: Kilic
+	dynasty=100739
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+476500 = {
+	name="Orhan"
+	dynasty=7
+	dna = djeejhjcaaz
+	properties = ao0bfc000000
+	martial=9
+	diplomacy=3
+	intrigue=4
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="skilled_tactician"
+	father=476501
+	mother=71844
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1325.1.1={
+		add_spouse=71852
+	}
+	1332.1.1={
+		capital=c_prusa
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+
+476501 = {
+	name="Osman"
+	dynasty=7
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="gluttonous"
+	trait="skilled_tactician"
+	father=71840
+	mother=71843
+	1258.1.1={
+		birth="1258.1.1"
+	}
+	1277.1.1={
+	add_spouse=71844
+	}
+	1281.1.1={
+	capital=c_ankyra
+	}
+	1324.1.1={
+		death="1324.1.1"
+	}
+}
+
+476502 = {
+	name="Murad"
+	dynasty=7
+	martial=9
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="diligent"
+	trait="tough_soldier"
+	father=476500
+	mother=71852
+	1326.1.1={
+		birth="1326.1.1"
+	}
+	1389.6.15={
+		death="1389.6.15"
+	}
+}
+
+476510 = {
+	name="Bozan"
+	dynasty=100744
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="deceitful"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+478050 = {
+	name="Tolui"
+	dynasty=100628
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+478070 = {
+	name="Begter"
+	dynasty=100683
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+478080 = {
+	name="Torolchi"
+	dynasty=100633
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="envious"
+	trait="martial_cleric"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+478090 = {
+	name="Yegu"
+	dynasty=100669
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="honest"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+478100 = {
+	name="Okhotur"
+	dynasty=100662
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480010 = {
+	name="Horkhudagh"
+	dynasty=100609
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="honest"
+	trait="underhanded_rogue"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480020 = {
+	name="Toghtoga"
+	dynasty=100617
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="proud"
+	trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480040 = {
+	name="Altan"
+	dynasty=100612
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="greedy"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480080 = {
+	name="Koksegu"
+	dynasty=1053012
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="kind"
+	trait="honest"
+	trait="flamboyant_schemer"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480090 = {
+	name="Alchi"
+	dynasty=1053011
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480100 = {
+	name="Jurchedei"
+	dynasty=1053007
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="slothful"
+	trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480110 = {
+	name="Husun"
+	dynasty=101158
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="lustful"
+	trait="honest"
+	trait="amateurish_plotter"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480120 = {
+	name="Munglig"
+	dynasty=100593
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="slothful"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480130 = {
+	name="Chanai"
+	dynasty=100610
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="humble"
+	trait="stutter"
+	trait="martial_cleric"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480200 = {
+	name="Chagatai"
+	#dynasty=100602
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="humble"
+	trait="zealous"
+	trait="underhanded_rogue"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480220 = {
+	name="Taghai"
+	dynasty=100673
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="turkish"
+	trait="honest"
+	trait="kind"
+	trait="wroth"
+	trait="fortune_builder"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480230 = {
+	name="Chilagun"
+	dynasty=100674
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="patient"
+	trait="ill"
+	trait="flamboyant_schemer"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480240 = {
+	name="Utudai"
+	dynasty=100675
+	martial=8
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="sunni"
+	culture="turkish"
+	trait="ill"
+	trait="skilled_tactician"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480250 = {
+	name="Turgut"
+	dynasty=100611
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="martial_cleric"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480260 = {
+	name="Sencer"
+	dynasty=1053009
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="lustful"
+	trait="brave"
+	trait="flamboyant_schemer"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480270 = {
+	name="Ertan"
+	dynasty=1053010
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="cynical"
+	trait="martial_cleric"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+480280 = {
+	name="Yakut"
+	dynasty=100613
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="turkish"
+	trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+71840 = {
+	name="Ertugrul"
+	dynasty=7
+	religion="sunni"
+	culture="turkish"
+	1191.1.1={
+		birth="1191.1.1"
+	}
+	1256.1.1={
+		add_spouse=71843
+	}
+	1281.1.1={
+		death="1281.1.1"
+	}
+}
+
+71841 = {
+	name="Savdji"
+	dynasty=7
+	religion="sunni"
+	culture="turkish"
+	father=71840
+	mother=71843
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+
+71842 = {
+	name="Gunduz"
+	dynasty=7
+	religion="sunni"
+	culture="turkish"
+	father=71840
+	mother=71843
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+71843 = {
+	name="Khaima"
+	female=yes
+	
+	religion="sunni"
+	culture="turkish"
+	
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+71844 = {
+	name="Malhun"
+	female=yes
+	religion="sunni"
+	culture="turkish"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+71845 = {
+	name="Alaeddin"
+	dynasty=7
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="turkish"
+	trait="content"
+	trait="trusting"
+	trait="grey_eminence"
+	father=476501
+	mother=71844
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+
+71846 = {
+	name="Suleyman"
+	dynasty=7
+	religion="sunni"
+	culture="turkish"
+	father=476500
+	1316.1.1={
+		birth="1316.1.1"
+	}
+	1357.1.1={
+		death="1357.1.1"
+	}
+}
+
+71847 = {
+	name="Sultan"
+	dynasty=7
+	religion="sunni"
+	culture="turkish"
+	father=476500
+	1324.1.1={
+		birth="1324.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+71848 = {
+	name="Khadija"
+	dynasty=7
+	female=yes
+	religion="sunni"
+	culture="turkish"
+	father=476500
+	1318.1.1={
+		birth="1318.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+
+71849 = {
+	name="Suleyman"
+	dynasty=7
+	religion="sunni"
+	culture="turkish"
+	father=71841
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1335.1.1={
+		add_spouse=71848
+	}
+	1371.1.1={
+		death="1371.1.1"
+	}
+}
+
+71850 = {
+	name="Fatma"
+	dynasty=7
+	female=yes
+	religion="sunni"
+	culture="turkish"
+	father=476500
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1374.1.1={
+		death="1374.1.1"
+	}
+}
+
+71851 = {
+	name="Kasim"
+	dynasty=7
+	religion="sunni"
+	culture="turkish"
+	father=476500
+	mother=71852
+	1329.1.1={
+		birth="1329.1.1"
+	}
+	1346.1.1={
+		death="1346.1.1"
+	}
+}
+
+71852 = {
+	name="Nilufer"
+	female=yes
+	religion="sunni"
+	culture="turkish"
+	1307.1.1={
+		birth="1307.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+71853 = {
+	name="Bayezid"
+	dynasty=20089
+	religion="sunni"
+	culture="turkish"
+	father=476355
+	1331.1.1={
+		birth="1331.1.1"
+	}
+	1384.1.1={
+		death="1384.1.1"
+	}
+}
+
+71854 = {
+	name="Muhadhdhab"
+	dynasty=12101
+	religion="sunni"
+	culture="turkish"
+	1183.1.1={
+		birth="1183.1.1"
+	}
+	1245.1.1={
+		death="1245.1.1"
+	}
+}
+
+71855 = {
+	name="Suleyman"
+	dynasty=12101
+	religion="sunni"
+	culture="turkish"
+	father=71854
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1250.1.1={
+		add_spouse=71856
+	}
+	1277.8.2={
+		death="1277.8.2"
+	}
+}
+
+71857 = {
+	name="Mehmed"
+	dynasty=12101
+	religion="sunni"
+	culture="turkish"
+	father=71855
+	mother=71856
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1301.1.1={
+		death="1301.1.1"
+	}
+}
+
+71858 = {
+	name="Mesud"
+	dynasty=12101
+	religion="sunni"
+	culture="turkish"
+	father=71855
+	mother=71856
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+
+71859 = {
+	name="Chelebi"
+	dynasty=12101
+	religion="sunni"
+	culture="turkish"
+	father=71858
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+
+71860 = {
+	name="Çoban"
+	# AKA: Coban
+	dynasty=12102
+	religion="sunni"
+	culture="turkish"
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+
+71861 = {
+	name="Alp Yurek"
+	# AKA: Alp Yurek
+	dynasty=12102
+	religion="sunni"
+	culture="turkish"
+	father=71860
+	1199.1.1={
+		birth="1199.1.1"
+	}
+	1248.1.1={
+		death="1248.1.1"
+	}
+}
+
+71862 = {
+	name="Yavlak Arslan"
+	# AKA: Yavlak Arslan
+	dynasty=12102
+	religion="sunni"
+	culture="turkish"
+	father=71861
+	1226.1.1={
+		birth="1226.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+71863 = {
+	name="Mahmud"
+	dynasty=12102
+	religion="sunni"
+	culture="turkish"
+	father=71862
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+
+71864 = {
+	name="Eretna"
+	dynasty=12103
+	religion="sunni"
+	culture="turkish"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+71865 = {
+	name="Mehmed"
+	dynasty=12103
+	religion="sunni"
+	culture="turkish"
+	father=71864
+	1328.1.1=	{
+		birth="1328.1.1"
+	}
+	1366.1.1=	{
+		death="1366.1.1"
+	}
+}
+
+71866 = {
+	name="Mehmed"
+	religion="sunni"
+	culture="turkish"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1305.1.1={
+	add_spouse=476354
+	}
+	1323.1.1={
+		death="1323.1.1"
+	}
+}
+
+71867 = {
+	name="Yakub"
+	dynasty=12104
+	religion="sunni"
+	culture="turkish"
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1327.1.1={
+		death="1327.1.1"
+	}
+}
+
+71868 = {
+	name="Mehmed"
+	dynasty=12104
+	religion="sunni"
+	culture="turkish"
+	father=71867
+	1298.1.1=	{
+		birth="1298.1.1"
+	}
+	1363.1.1=	{
+		death="1363.1.1"
+	}
+}
+
+71869 = {
+	name="Suleyman"
+	dynasty=12104
+	religion="sunni"
+	culture="turkish"
+	father=71868
+	1326.1.1={
+		birth="1326.1.1"
+	}
+	1387.1.1={
+		death="1387.1.1"
+	}
+}
+
+71870 = {
+	name="Saruhan"
+	dynasty=12105
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="sunni"
+	culture="turkish"
+	trait="brave"
+	trait="trusting"
+	trait="brilliant_strategist"
+	father=71871
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+71871 = {
+	name="Alpagi"
+	dynasty=12105
+	religion="sunni"
+	culture="turkish"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+71872 = {
+	name="Ilyas"
+	dynasty=12105
+	religion="sunni"
+	culture="turkish"
+	father=71870
+	1313.1.1={
+		birth="1313.1.1"
+	}
+	1357.1.1={
+		death="1357.1.1"
+	}
+}
+
+71873 = {
+	name="Ishak"
+	dynasty=12105
+	religion="sunni"
+	culture="turkish"
+	father=71872
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1388.1.1={
+		death="1388.1.1"
+	}
+}
+
+71874 = {
+	name="Sufi"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1256.1.1={
+		death="1256.1.1"
+	}
+}
+
+71875 = {
+	name="Qaraman"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=71874
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+
+71876 = {
+	name="Mehmed"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=71875
+	trait = "grey_eminence"
+	trait = "scholar"
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+71877 = {
+	name="Guneri"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=71875
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+71878 = {
+	name="Mahmud"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=71877
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+71879 = {
+	name="Han"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=71877
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+
+71880 = {
+	name="Ibrahim"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=71879
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1333.1.1={
+		add_claim = k_karaman
+	}
+	1349.1.1={
+		death="1349.1.1"
+	}
+}
+
+71881 = {
+	name="Ahmed"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=71879
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+71882 = {
+	name="Semseddin"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=71879
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1351.1.1={
+		death="1351.1.1"
+	}
+}
+
+71883 = {
+	name="Musa"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=476300
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1356.1.1={
+		death="1356.1.1"
+	}
+}
+
+71884 = {
+	name="Suleyman"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=476300
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1357.1.1={
+		death="1357.1.1"
+	}
+}
+
+71885 = {
+	name="Alaeddin"
+	dynasty=12108
+	religion="sunni"
+	culture="turkish"
+	father=71882
+	1337.1.1={
+		birth="1337.1.1"
+	}
+	1398.1.1={
+		death="1398.1.1"
+	}
+}
+
+71886 = {
+	name="Yunus"
+	dynasty=12109
+	religion="sunni"
+	culture="turkish"
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1324.1.1={
+		death="1324.1.1"
+	}
+}
+
+71887 = {
+	name="Mahmud"
+	dynasty=12109
+	religion="sunni"
+	culture="turkish"
+	father=71886
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1327.1.1={
+		death="1327.1.1"
+	}
+}
+
+71888 = {
+	name="Mehmed"
+	dynasty=12109
+	religion="sunni"
+	culture="turkish"
+	father=71887
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1378.1.1={
+		death="1378.1.1"
+	}
+}
+
+71889 = {
+	name="Mehmed"
+	dynasty=12107
+	religion="sunni"
+	culture="turkish"
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1334.1.1={
+		death="1334.1.1"
+	}
+}
+
+71890 = {
+	name="Khader"
+	dynasty=12107
+	religion="sunni"
+	culture="turkish"
+	father=476200
+	1318.1.1={
+		birth="1318.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+71891 = {
+	name="Menteshe"
+	dynasty=12106
+	religion="sunni"
+	culture="turkish"
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+71892 = {
+	name="Mesud"
+	dynasty=12106
+	religion="sunni"
+	culture="turkish"
+	father=71891
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1319.1.1={
+		death="1319.1.1"
+	}
+}
+
+71893 = {
+	name="Ibrahim"
+	dynasty=12106
+	religion="sunni"
+	culture="turkish"
+	father=34155
+	1311.1.1={
+		birth="1311.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+71894 = {
+	name="Musa"
+	dynasty=12106
+	religion="sunni"
+	culture="turkish"
+	father=71893
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+
+32930 = {
+	name="Aybak" 
+	dynasty=7268
+	religion="sunni"
+	culture="turkish"
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1250.1.1={
+		add_spouse=32928
+	} 
+	1257.1.1={
+		death="1257.1.1"
+	}
+}
+
+32931 = {
+	name="al-Mansour Ali" 
+	dynasty=7268
+	religion="sunni"
+	culture="turkish"
+	father=32930
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1259.1.1={
+		death="1259.1.1"
+	}
+}
+
+32932 = {
+	name="Qutuz" 
+	dynasty=7269
+	religion="sunni"
+	culture="turkish"
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1260.10.24={
+		death="1260.10.24"
+	}
+}
+
+34155 = {
+	name="Urhan"
+	dynasty=12106
+	religion="sunni"
+	culture="turkish"
+	father=71892
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1337.2.1={
+		death="1337.2.1"
+	}
+}
+
+34178 = {
+	name="Melik"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225000
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+34179 = {
+	name="Mahmud"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225000
+	1157.1.1={
+		birth="1157.1.1"
+	}
+	1194.1.1={
+		death="1194.1.1"
+	}
+}
+
+34180 = {
+	name="Tugrul" #Erzerum
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225000
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+34181 = {
+	name="Kayser"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225000
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1208.1.1={
+		death="1208.1.1"
+	}
+}
+
+34182 = {
+	name="Masud"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225000
+	1159.1.1={
+		birth="1159.1.1"
+	}
+	1204.1.1={
+		death="1204.1.1"
+	}
+}
+
+34183 = {
+	name="Berkyaruk"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225000
+	1167.1.1={
+		birth="1167.1.1"
+	}
+	1217.1.1={
+		death="1217.1.1"
+	}
+}
+
+34184 = {
+	name="Argun"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225000
+	1168.1.1={
+		birth="1168.1.1"
+	}
+	1218.1.1={
+		death="1218.1.1"
+	}
+}
+
+34185 = {
+	name="Arslan"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225000
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+34186 = {
+	name="Sancar"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225000
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1222.1.1={
+		death="1222.1.1"
+	}
+}
+
+34187 = {
+	name="Kilij Arslan"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225004
+	1186.1.1={
+		birth="1186.1.1"
+	}
+	1205.1.1={
+		death="1205.1.1"
+	}
+}
+
+34188 = {
+	name="Kaykaus"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225002
+	1191.1.1={
+		birth="1191.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+34189 = {
+	name="Kayqubad"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=225002
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1237.1.1={
+		death="1237.1.1"
+	}
+}
+
+34190 = {
+	name="Kaykhusraw"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=34189
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1237.1.1={
+		add_spouse=71856
+	}
+	1246.1.1={
+		death="1246.1.1"
+	}
+}
+
+34191 = {
+	name="Kaykaus"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=34190
+	1237.1.1={
+		birth="1237.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+34192 = {
+	name="Kilij Arslan"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=34190
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1266.1.1={
+		death="1266.1.1"
+	}
+}
+
+34193 = {
+	name="Kayqubad"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=34190
+	mother=71856
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1257.1.1={
+		death="1257.1.1"
+	}
+}
+
+34194 = {
+	name="Kaykhusraw"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=34192
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1284.1.1={
+		death="1284.1.1"
+	}
+}
+
+34195 = {
+	name="Masud"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=34191
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+
+34196 = {
+	name="Kayqubad"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=34193
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+
+34197 = {
+	name="Ghazi"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=41704
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1134.1.1={
+		death="1134.1.1"
+	}
+}
+
+34198 = {
+	name="Mehmed"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34197
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+34199 = {
+	name="Yaghibasan"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34197
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1164.1.1={
+		death="1164.1.1"
+	}
+}
+
+34200 = {
+	name="Aynüddevle"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34197
+	1106.1.1={
+		birth="1106.1.1"
+	}
+	1151.1.1={
+		death="1151.1.1"
+	}
+}
+
+34201 = {
+	name="Ghazi"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34199
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1164.1.1={
+		death="1164.1.1"
+	}
+}
+
+34202 = {
+	name="Ismail"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=41704
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1128.1.1={
+		death="1128.1.1"
+	}
+}
+
+34203 = {
+	name="Gümüstekin"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=41704
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+34204 = {
+	name="Ibrahim"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=41704
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+34205 = {
+	name="Yaghisiyan"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=41704
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+34206 = {
+	name="Yagan"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34197
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1151.1.1={
+		death="1151.1.1"
+	}
+}
+
+34207 = {
+	name="Zünnün"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34198
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1174.1.1={
+		death="1174.1.1"
+	}
+}
+
+34208 = {
+	name="Ibrahim"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34198
+	1119.1.1={
+		birth="1119.1.1"
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+34209 = {
+	name="Yunus"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34198
+	1121.1.1={
+		birth="1121.1.1"
+	}
+	1144.1.1={
+		death="1144.1.1"
+	}
+}
+
+34210 = {
+	name="Fatma" #real name unknown
+	female=yes
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34198
+	1111.1.1={
+		birth="1111.1.1"
+	}
+	1155.4.1={
+		death="1155.4.1"
+	}
+}
+
+34211 = {
+	name="Alp Arslan"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=7299
+	1118.1.1={
+		birth="1118.1.1"
+	}
+	1154.1.1={
+		death="1154.1.1"
+	}
+}
+
+34212 = {
+	name="Shahanshah"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=7299
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1174.1.1={
+		death="1174.1.1"
+	}
+}
+
+34213 = {
+	name="Sancar"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=7299
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+34214 = {
+	name="Argun"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=34213
+	1153.1.1={
+		birth="1153.1.1"
+	}
+	1203.1.1={
+		death="1203.1.1"
+	}
+}
+
+34215 = {
+	name="Ismail"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34204
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1164.1.1={
+		death="1164.1.1"
+	}
+}
+
+34216 = {
+	name="Qarnayn"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34200
+	1126.1.1={
+		birth="1126.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+34217 = {
+	name="Mehmed"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34200
+	1127.1.1={
+		birth="1127.1.1"
+	}
+	1178.1.1={
+		death="1178.1.1"
+	}
+}
+
+34218 = {
+	name="Qasim"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34200
+	1128.1.1={
+		birth="1128.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+34219 = {
+	name="Afridun"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34200
+	1132.1.1={
+		birth="1132.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+
+34221 = {
+	name="Ismail"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34201
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34222 = {
+	name="Mahmud"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34199
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+34223 = {
+	name="Suhrab"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34222
+	1152.1.1={
+		birth="1152.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+34224 = {
+	name="Yagdi"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34223
+	1182.1.1={
+		birth="1182.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+34225 = {
+	name="Kalem"
+	dynasty=101730
+	religion="sunni"
+	culture="turkish"
+	father=34224
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1272.1.1={
+		death="1272.1.1"
+	}
+}
+
+34226 = {
+	name="Karesi"
+	dynasty=7300
+	religion="sunni"
+	culture="turkish"
+	father=34225
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+34227 = {
+	name="Aclan"
+	dynasty=7300
+	religion="sunni"
+	culture="turkish"
+	father=34226
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+34228 = {
+	name="Yahsi"
+	dynasty=7300
+	religion="sunni"
+	culture="turkish"
+	father=34227
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+34229 = {
+	name="Demir"
+	dynasty=7300
+	religion="sunni"
+	culture="turkish"
+	father=34227
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+34230 = {
+	name="Dursun"
+	dynasty=7300
+	religion="sunni"
+	culture="turkish"
+	father=34227
+	1314.1.1={
+		birth="1314.1.1"
+	}
+	1364.1.1={
+		death="1364.1.1"
+	}
+}
+
+34231 = {
+	name="Suleyman"
+	dynasty=7300
+	religion="sunni"
+	culture="turkish"
+	father=34228
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+34232 = {
+	name="Cuce"
+	dynasty=7300
+	religion="sunni"
+	culture="turkish"
+	father=34229
+	1332.1.1={
+		birth="1332.1.1"
+	}
+	1382.1.1={
+		death="1382.1.1"
+	}
+}
+
+34233 = {
+	name="Moghis" 
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=34180
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1219.1.1={
+		add_spouse=466518
+	}
+	1219.1.1={
+		religion="orthodox"
+	} 
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+34234 = {
+	name="Suleyman"
+	dynasty=100704
+	religion="sunni"
+	culture="turkish"
+	father = 215043
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+
+34235 = {
+	name="Achmed"
+	dynasty=100704
+	religion="sunni"
+	culture="turkish"
+	father = 34234
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1251.1.1={
+		death="1251.1.1"
+	}
+}
+
+34236 = {
+	name="Melik Salih"
+	dynasty=100704
+	religion="sunni"
+	culture="turkish"
+	father = 34235
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+
+34237 = {
+	name="Davud"
+	dynasty=100704
+	religion="sunni"
+	culture="turkish"
+	father = 144074
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+34238 = {
+	name="Suleyman"
+	dynasty=100704
+	religion="sunni"
+	culture="turkish"
+	father = 34237
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+34239 = {
+	name="Fahrettin"
+	dynasty=100704
+	religion="sunni"
+	culture="turkish"
+	father = 34238
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+34240 = {
+	name="Alaeddin"
+	dynasty=100704
+	religion="sunni"
+	culture="turkish"
+	father = 34239
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+
+34241 = {
+	name="Ibrahim"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144067
+	1086.1.1={
+		birth="1086.1.1"
+	}
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+
+34242 = {
+	name="Mahmud"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144072
+	1154.1.1={
+		birth="1154.1.1"
+	}
+	1204.1.1={
+		death="1204.1.1"
+	}
+}
+
+34243 = {
+	name="Mawdud"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144072
+	1174.1.1={
+		birth="1174.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+34244 = {
+	name="Abu-Bakr"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144071
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+34245 = {
+	name="Ibrahim"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34244
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+34246 = {
+	name="Ahmad"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34245
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+34247 = {
+	name="Ortok"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34246
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+
+34248 = {
+	name="Alp Yaruk"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144065
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+
+34249 = {
+	name="Timurtash"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144066
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+34250 = {
+	name="Alpi"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34249
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+34251 = {
+	name="Il-Ghazi"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34250
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+34252 = {
+	name="Yülük Arslan"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34251
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+34253 = {
+	name="Artuk Arslan"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34251
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1205.1.1={
+		death="1205.1.1"
+	}
+}
+
+34254 = {
+	name="Ghazi"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34252
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+34255 = {
+	name="Kara Arslan"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34254
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1245.1.1={
+		death="1245.1.1"
+	}
+}
+
+34256 = {
+	name="Ghazi"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34254
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+34257 = {
+	name="Alpi"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34256
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+34258 = {
+	name="Mahmud"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34256
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+34259 = {
+	name="Ahmad"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34258
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+34260 = {
+	name="Dawud"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34259
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+34261 = {
+	name="'Isa"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 34260
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+34262 = {
+	name="Chaka"
+	dynasty=7301
+	religion="sunni"
+	culture="turkish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1092.1.1={
+		death="1092.1.1"
+	}
+}
+
+34263 = {
+	name="Fatma"
+	female=yes
+	dynasty=7301
+	religion="sunni"
+	culture="turkish"
+	father=34262
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+
+34264 = {
+	name="Chaka"
+	dynasty=7301
+	religion="sunni"
+	culture="turkish"
+	father=34262
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+34395 = {
+	name="Mämäm Khätun"
+	female=yes
+	dynasty=100702
+	religion="sunni"
+	culture="turkish"
+	father = 144047
+	1152.1.1={
+		birth="1152.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+34396 = {
+	name="Alaeddin"
+	dynasty=100702
+	religion="sunni"
+	culture="turkish"
+	mother = 34395
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+34397 = {
+	name="Meliksah"
+	dynasty=100702
+	religion="sunni"
+	culture="turkish"
+	mother = 34395
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1202.7.1={
+		death="1202.7.1"
+	}
+}
+
+34398 = {
+	name="Ahmet"
+	#placeholder
+	dynasty=616
+	religion="sunni"
+	culture="turkish"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+34399 = {
+	name="Hasan"
+	#placeholder
+	dynasty=616
+	religion="sunni"
+	culture="turkish"
+	father=34398
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+34400 = {
+	name="Kasim"
+	#placeholder
+	dynasty=616
+	religion="sunni"
+	culture="turkish"
+	father=34399
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+34401 = {
+	name="Murad"
+	#placeholder
+	dynasty=616
+	religion="sunni"
+	culture="turkish"
+	father=34400
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+93049 = {
+	name="Hüseyin"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=144116
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1174.1.1={
+		death="1174.1.1"
+	}
+}
+
+93050 = {
+	name="Mahmud Soltan"
+	dynasty=101866
+	religion="sunni"
+	culture="turkish"
+	father = 144101
+	1153.1.1={
+		birth="1153.1.1"
+	}
+	1193.1.1={
+		death="1193.1.1"
+	}
+}
+
+93051 = {
+	name="Osman"
+	dynasty=101864
+	religion="sunni"
+	culture="turkish"
+	father=93049
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+93052 = {
+	name="Mohammed"  # Mohammed II Ala ed-Din of Khwarezmian Empire
+	dynasty=101866
+	dna = cgeeapcdeaf
+	properties = ag0bha000000
+	religion="sunni"
+	culture="turkish"
+	father = 230000
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1218.1.1={
+		trait="pneumonic"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+
+93053 = {
+	name="Mingburnu Jalal ad-Din"
+	dynasty=101866
+	religion="sunni"
+	culture="turkish"
+	father = 93052
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+
+93054 = {
+	name="Tiz Shah"
+	dynasty=101866
+	religion="sunni"
+	culture="turkish"
+	father = 93052
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+93087 = {
+	name="Qochar" 
+	dynasty=7328
+	religion="sunni"
+	culture="turkish"
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+
+93088 = {
+	name="Ekinchi" 
+	dynasty=7328
+	religion="sunni"
+	culture="turkish"
+	father=93087
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1097.1.1={
+		death="1097.1.1"
+	}
+}
+
+93089 = {
+	name="Abu'l-Fawaris"
+	dynasty=7327
+	religion="sunni"
+	culture="turkish"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1077.1.1={
+		death="1077.1.1"
+	}
+}
+
+93090 = {
+	name="Ismail"
+	dynasty=7327
+	religion="sunni"
+	culture="turkish"
+	father=93089
+	1048.1.1={
+		birth=yes
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+194393 = {
+	name="Gulsum"
+	female=yes
+	dynasty=7327
+	religion="sunni"
+	culture="turkish"
+	father=93089
+	1051.1.1={
+		birth=yes
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+93091 = {
+	name="Ismail"
+	#placeholder
+	dynasty=7327
+	religion="sunni"
+	culture="turkish"
+	father=93090
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+93092 = {
+	name="Hasan"
+	#placeholder
+	dynasty=7327
+	religion="sunni"
+	culture="turkish"
+	father=93091
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+93093 = {
+	name="Ibrahim"
+	dynasty=7327
+	religion="sunni"
+	culture="turkish"
+	father=93092
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+194410 = {
+	name="Iskender"
+	dynasty=7327
+	religion="sunni"
+	culture="turkish"
+	father=93093
+	1195.1.1={
+		birth=yes
+	}
+	1230.1.1={
+		death=yes
+	}
+}
+194411 = {
+	name="Savur"
+	dynasty=7327
+	religion="sunni"
+	culture="turkish"
+	father=93093
+	1200.1.1={
+		birth=yes
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+
+93106 = {
+	name="Umar"
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1059.1.1={
+		death="1059.1.1"
+	}
+}
+
+
+
+
+93107 = {
+	name="Abd-al-Aziz Burkhan"
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	father=93106
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+
+
+
+
+93108 = {
+	name="Burhan ad-Din"
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	father=93107
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+
+194396 = {
+	name="Zuhal"
+	female=yes
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	father=93107
+	1058.1.1={
+		birth=yes
+	}
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+
+93109 = {
+	name="Ahmad"
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	father=93108
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+93110 = {
+	name="Muhammad"
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	father=93108
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+93111 = {
+	name="Muhammad"
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	father=93110
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1178.1.1={
+		death="1178.1.1"
+	}
+}
+
+93112 = {
+	name="Abd-al-Aziz"
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	father=93111
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+93113 = {
+	name="Ahmad"
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	father=93111
+	1157.1.1={
+		birth="1157.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+93114 = {
+	name="Mas'ud"
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	father=93111
+	1159.1.1={
+		birth="1159.1.1"
+	}
+	1191.1.1={
+		death="1191.1.1"
+	}
+}
+
+93115 = {
+	name="Muhammad"
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	father=93114
+	1179.1.1={
+		birth="1179.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+93116 = {
+	name="Sandjar"
+	dynasty=7329
+	religion="sunni"
+	culture="turkish"
+	father=93114
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1207.1.1={
+		death="1207.1.1"
+	}
+}
+
+93117 = {
+	name="Muhammad" #Antioch
+	dynasty=613 #Seljuk
+	religion="sunni"
+	culture="turkish"
+	father=3040
+	1058.1.1={
+		birth="1058.1.1"
+	}
+	1092.1.1={
+		death="1092.1.1"
+	}
+}
+
+93118 = {
+	name="Yaghi Sian" #Antioch
+	dynasty=613 #Seljuk
+	religion="sunni"
+	culture="turkish"
+	father=93117
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1098.6.3={
+		death="1098.6.3"
+	}
+}
+
+93119 = {
+	name="Shams ed-Din" #Antioch
+	dynasty=613 #Seljuk
+	religion="sunni"
+	culture="turkish"
+	father=93118
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1098.6.3={
+		death="1098.6.3"
+	}
+}
+
+93120 = {
+	name="Buldagis" #Antioch
+	dynasty=613 #Seljuk
+	religion="sunni"
+	culture="turkish"
+	father=93118
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	1098.6.3={
+		death="1098.6.3"
+	}
+}
+
+93121 = {
+	name="Arslan Argun" #Merv
+	dynasty=613 #Seljuk
+	religion="sunni"
+	culture="turkish"
+	father=3040
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1097.1.1={
+		death="1097.1.1"
+	}
+}
+
+93122 = {
+	name="Uthman" #Merv
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3036
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1073.1.1={
+		death="1073.1.1"
+	}
+}
+
+93123 = {
+	name="Ilyas" 
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3036
+	1028.1.1={
+		birth="1028.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+93124 = {
+	name="Ismail" #Sistan
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3036
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+93125 = {
+	name="Ahmad" #Merv
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3042
+	1077.1.1={
+		birth="1077.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+
+93126 = {
+	name="Seljuk Shah" #Merv
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=144014
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1152.1.1={
+		death="1152.1.1"
+	}
+}
+
+93127 = {
+	name="Malik Shah" #Merv
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=93126
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+93128 = {
+	name="Toghan Shah"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3040
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+93129 = {
+	name="Arslan Shah"
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3040
+	1056.6.1={
+		birth="1056.6.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+93130 = {
+	name="Suleyman" #Merv
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3036
+	1027.1.1={
+		birth="1027.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+93160 = {
+	name="Yaquti" #Sistan
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=3036
+	1028.1.1={
+		birth="1028.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+93161 = {
+	name="Muhammad" #Merv
+	dynasty=613
+	religion="sunni"
+	culture="turkish"
+	father=93122
+	1047.1.1={
+		birth="1047.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+
+93209= {
+	name="Husam ad-Din Shuhla"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1174.1.1={
+		death="1174.1.1"
+	}
+}
+
+93210= {
+	name="Ayayr"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93209
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+ 
+93211= {
+	name="Surkhab"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93210
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1184.1.1={
+		death="1184.1.1"
+	}
+}
+
+93212= {
+	name="Shoja ad-Din" #really was a 100 years old
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93209
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1224.1.1={
+		death="1224.1.1"
+	}
+}
+
+93213= {
+	name="Saif ad-Din Rustam"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93212
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+93214= {
+	name="Sharaf ad-Din Abu Bakr"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93213
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+
+93215= {
+	name="Izz ad-Din Garshasp"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93214
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+
+93216= {
+	name="Badr ad-Din"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93215
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+93217= {
+	name="Husam ad-Din Khalil"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93216
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1243.1.1={
+		death="1243.1.1"
+	}
+}
+
+93218= {
+	name="Badr ad-Din Mas'ud"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93216
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1259.1.1={
+		death="1259.1.1"
+	}
+}
+
+93219= {
+	name="Hasi ad-Din"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93218
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+93220= {
+	name="Tadj ad-Din"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93218
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1278.1.1={
+		death="1278.1.1"
+	}
+}
+
+93221= {
+	name="Izz ad-Din Husayn"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93220
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1293.1.1={
+		death="1293.1.1"
+	}
+}
+
+93222= {
+	name="Djamal ad-Din Khidr"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93220
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	1294.1.1={
+		death="1294.1.1"
+	}
+}
+
+93223= {
+	name="Husam ad-Din Umar"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93220
+	1264.1.1={
+		birth="1264.1.1"
+	}
+	1295.1.1={
+		death="1295.1.1"
+	}
+}
+
+93224= {
+	name="Samsam ad-Din Mahmud"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93221
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+93225= {
+	name="Izz ad-Din Ahmad"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93221
+	1279.1.1={
+		birth="1279.1.1"
+	}
+	1316.1.1={
+		death="1316.1.1"
+	}
+}
+
+93226= {
+	name="Badr ad-Din Mas'ud"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93221
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1316.7.1={
+		death="1316.7.1"
+	}
+}
+
+93227= {
+	name="Izz ad-Din Husayn"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93226
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+93228= {
+	name="Shoja ad-Din Mahmud"
+	dynasty=7334
+	religion="sunni"
+	culture="turkish"
+	father=93227
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1349.1.1={
+		death="1349.1.1"
+	}
+}
+93241 = {
+	name="Boz-Aba" 
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1148.1.1={
+		death="1148.1.1"
+	}
+}
+
+93242 = {
+	name="Sunghur" 
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	father=93241
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+93243 = {
+	name="Muzaffar ad-Din Zangi" 
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	father=93242
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+
+93244 = {
+	name="Dakla" 
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	father=93243
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1193.1.1={
+		death="1193.1.1"
+	}
+}
+
+
+93245 = {
+	name="Toghril" 
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	father=93244
+	1178.1.1={
+		birth="1178.1.1"
+	}
+	1203.1.1={
+		death="1203.1.1"
+	}
+}
+
+
+
+93246 = {
+	name="Saad" 
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	father=93244
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+93247 = {
+	name="Abu-Bakr Qutlugh" 
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	father=93246
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+93248 = {
+	name="Saad" 
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	father=93247
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+
+93249 = {
+	name="Muhammad Adud ad-Din" 
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	father=93247
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+93250 = {
+	name="Muhammad" 
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	father=93249
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1263.1.1={
+		death="1263.1.1"
+	}
+}
+
+93251 = {
+	name="Seljuk" 
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	father=93249
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+
+93252 = {
+	name="Abisha Hadud" 
+	female=yes
+	dynasty=7335
+	religion="sunni"
+	culture="turkish"
+	father=93249
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1287.1.1={
+		death="1287.1.1"
+	}
+}
+
+93256 = {
+	name="Malik Dinar"
+	dynasty=7336
+	religion="sunni"
+	culture="turkish"
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+93257 = {
+	name="Farrukh Shah"
+	dynasty=7336
+	religion="sunni"
+	culture="turkish"
+	father=93256
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1196.1.1={
+		death="1196.1.1"
+	}
+}
+
+93283 = {
+	name="Ïnal-Tegin"
+	dynasty=101866
+	religion="sunni"
+	culture="turkish"
+	father = 144099
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+93304 = {
+	name="Nusrat ad-Din"
+	dynasty=7342
+	religion="sunni"
+	culture="turkish"
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+93305 = {
+	name="Pishkin"
+	dynasty=7342
+	religion="sunni"
+	culture="turkish"
+	father=93304
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+93306 = {
+	name="Mahmud"
+	dynasty=7342
+	religion="sunni"
+	culture="turkish"
+	father=93305
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+93311 = {
+	name="Nur ad-Din Arslan Shah"
+	dynasty=101687
+	religion="sunni"
+	culture="turkish"
+	father = 144042
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1211.1.1={
+		death="1211.1.1"
+	}
+}
+
+93312 = {
+	name="Izz ad-Din Mas'ud"
+	dynasty=101687
+	religion="sunni"
+	culture="turkish"
+	father = 93311
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1218.1.1={
+		death="1218.1.1"
+	}
+}
+
+93313 = {
+	name="Nur ad-Din Arslan Shah"
+	dynasty=101687
+	religion="sunni"
+	culture="turkish"
+	father = 93312
+	1206.1.1={
+		birth="1206.1.1"
+	}
+	1219.1.1={
+		death="1219.1.1"
+	}
+}
+
+93314 = {
+	name="Nasir ad-Din Mahmud"
+	dynasty=101687
+	religion="sunni"
+	culture="turkish"
+	father = 93311
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+
+93319 = {
+	name="Ertigin"
+	dynasty=7344
+	religion="sunni"
+	culture="turkish"
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1072.1.1={
+		death="1072.1.1"
+	}
+}
+
+93323 = {
+	name="Modjahid ad-Din"
+	dynasty=7347
+	religion="sunni"
+	culture="turkish"
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+93324 = {
+	name="Shihna Aqsongur"
+	dynasty=7348
+	religion="sunni"
+	culture="turkish"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+93325 = {
+	name="Bekabeh"
+	dynasty=7349
+	religion="sunni"
+	culture="turkish"
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+93402 = {
+	name="Kerbogha"
+	dynasty=7353
+	religion="sunni"
+	culture="turkish"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+93403 = {
+	name="Jekermysh"
+	dynasty=7354
+	religion="sunni"
+	culture="turkish"
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1107.1.1={
+		death="1107.1.1"
+	}
+}
+
+93404 = {
+	name="Javali"
+	dynasty=7355
+	religion="sunni"
+	culture="turkish"
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1109.1.1={
+		death="1109.1.1"
+	}
+}
+
+93405 = {
+	name="Mawdud"
+	dynasty=7354
+	religion="sunni"
+	culture="turkish"
+	father=93403
+	1071.1.1={
+		birth="1071.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+93406 = {
+	name="Sonqorja"
+	dynasty=7356
+	religion="sunni"
+	culture="turkish"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+93407 = {
+	name="Juyush"
+	dynasty=7357
+	religion="sunni"
+	culture="turkish"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1121.1.1={
+		death="1121.1.1"
+	}
+}
+
+93408 = {
+	name="Bursuqi"
+	dynasty=7358
+	religion="sunni"
+	culture="turkish"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1127.1.1={
+		death="1127.1.1"
+	}
+}
+
+93409 = {
+	name="Mas'ud"
+	dynasty=7358
+	religion="sunni"
+	culture="turkish"
+	father=93408
+	1086.1.1={
+		birth="1086.1.1"
+	}
+	1127.1.1={
+		death="1127.1.1"
+	}
+}
+
+93410 = {
+	name="Sökmen"
+	dynasty=7359
+	religion="sunni"
+	culture="turkish"
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+93411 = {
+	name="Ibrahim"
+	dynasty=7359
+	religion="sunni"
+	culture="turkish"
+	father=93410
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+
+93412 = {
+	name="Ahmad"
+	dynasty=7359
+	religion="sunni"
+	culture="turkish"
+	father=93410
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1128.1.1={
+		death="1128.1.1"
+	}
+}
+
+93413 = {
+	name="Sökmen"
+	dynasty=7359
+	religion="sunni"
+	culture="turkish"
+	father=93411
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+93414 = {
+	name="Seyfettin"
+	dynasty=7360
+	religion="sunni"
+	culture="turkish"
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1193.1.1={
+		death="1193.1.1"
+	}
+}
+
+93415 = {
+	name="Bedreddin"
+	dynasty=7361
+	religion="sunni"
+	culture="turkish"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1197.1.1={
+		death="1197.1.1"
+	}
+}
+
+93416 = {
+	name="Muhammad"
+	dynasty=7360
+	religion="sunni"
+	culture="turkish"
+	father=93414
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1207.7.1={
+		death="1207.7.1"
+	}
+}
+
+93417 = {
+	name="Zeyneddin"
+	dynasty=7362
+	religion="sunni"
+	culture="turkish"
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1353.1.1={
+		death="1353.1.1"
+	}
+}
+
+93418 = {
+	name="Garseddin"
+	dynasty=7362
+	religion="sunni"
+	culture="turkish"
+	father=93417
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1385.1.1={
+		death="1385.1.1"
+	}
+}
+
+93420 = {
+	name="Ibrahim"
+	dynasty=7363
+	religion="sunni"
+	culture="turkish"
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+
+93421 = {
+	name="Shams al-Malik Mahmud"
+	dynasty=7363
+	religion="sunni"
+	culture="turkish"
+	father=93420
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1183.1.1={
+		death="1183.1.1"
+	}
+}
+
+93422 = {
+	name="al-Muwahhid Abdallah Taqi al-Din"
+	dynasty=24000
+	religion="sunni"
+	culture="levantine_arabic"
+	father=32927
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1283.1.1={
+		death="1283.1.1"
+	}
+}
+
+93423 = {
+	name="al-Kamil Muhammad Abu-Bakr"
+	dynasty=24000
+	religion="sunni"
+	culture="levantine_arabic"
+	father=93422
+	1261.1.1={
+		birth="1261.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+93424 = {
+	name="al-Adil Muhammad Mujir ad-Din"
+	dynasty=24000
+	religion="sunni"
+	culture="levantine_arabic"
+	father=93423
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+93425 = {
+	name="al-Adil Ghazi Shihab ad-Din"
+	dynasty=24000
+	religion="sunni"
+	culture="levantine_arabic"
+	father=93424
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+93433 = {
+	name="Aziz"
+	dynasty=7368
+	religion="sunni"
+	culture="turkish"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+}
+
+93434 = {
+	name = "Baqtash"
+	dynasty = 613
+	religion="sunni"
+	culture="turkish"
+	father=3044
+	1081.1.1={
+		birth="1081.1.1"
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+
+93435 = {
+	name = "Zahir ad-Din Toghtekin"
+	dynasty = 7369
+	religion="sunni"
+	culture="turkish"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1128.2.12={
+		death="1128.2.12"
+	}
+}
+
+
+93436 = {
+	name = "Taj al-Muluk Buri"
+	dynasty = 7369
+	religion="sunni"
+	culture="turkish"
+	father=93435
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1132.6.6={
+		death="1132.6.6"
+	}
+}
+
+93437 = {
+	name = "Shams al-Muluk Isma'il"
+	dynasty = 7369
+	religion="sunni"
+	culture="turkish"
+	father=93436
+	1106.1.1={
+		birth="1106.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+93438 = {
+	name = "Shihab ad-Din Mahmud"
+	dynasty = 7369
+	religion="sunni"
+	culture="turkish"
+	father=93436
+	1107.1.1={
+		birth="1107.1.1"
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+
+93439 = {
+	name = "Jemal ad-Din Muhammad"
+	dynasty = 7369
+	religion="sunni"
+	culture="turkish"
+	father=93436
+	1108.1.1={
+		birth="1108.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+93440 = {
+	name = "Mujir ad-Din Abaq"
+	dynasty = 7369
+	religion="sunni"
+	culture="turkish"
+	father=93439
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1154.4.18={
+		death="1154.4.18"
+	}
+}
+
+93460 = {
+	name="Suleyman"
+	dynasty=100701
+	religion="sunni"
+	culture="turkish"
+	father = 144066
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	1121.1.1={
+		death="1121.1.1"
+	}
+}
+
+93461 = {
+	name="Masul"
+	dynasty=7358
+	religion="sunni"
+	culture="turkish"
+	father=93408
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1128.1.1={
+		death="1128.1.1"
+	}
+}
+
+93530 = {
+	name="Inanj Shuja ad-Din"
+	dynasty=7375
+	religion="sunni"
+	culture="turkish"
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1334.1.1={
+		death="1334.1.1"
+	}
+}
+
+93531 = {
+	name="Murad Arslan"
+	dynasty=7375
+	religion="sunni"
+	culture="turkish"
+	father=93530
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+93532 = {
+	name="Ishaq"
+	dynasty=7375
+	religion="sunni"
+	culture="turkish"
+	father=93531
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	1369.1.1={
+		death="1369.1.1"
+	}
+}
+
+74029 = {
+	name="Kiliç"
+	dynasty=12272
+
+	culture="turkish"
+	religion="tengri_pagan"
+	father=188775
+
+	837.1.1={
+		birth=yes
+	}
+	
+	867.1.1 = {
+		# Boost the initial strength of the Yabguids
+		effect = {
+			spawn_unit = {
+				province = 900 # Kyzylorda
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					light_cavalry = { 127 127 }
+					horse_archers = { 48 48 }
+				}
+				attrition = 0.5
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 900 # Kyzylorda
+					owner = ROOT
+					#leader = ROOT
+					troops = {
+						light_cavalry = { 127 127 }
+						horse_archers = { 48 48 }
+					}
+					attrition = 0.5
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 27
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 900 # Kyzylorda
+					owner = ROOT
+					#leader = ROOT
+					troops = {
+						light_cavalry = { 127 127 }
+						horse_archers = { 48 48 }
+					}
+					attrition = 0.5
+				}
+			}
+		}
+	}
+	
+	891.1.1={
+		death=yes
+	}
+}
+74032 = {
+	name="Aksonqor"
+	dynasty=12272
+	father=74029
+	culture="turkish"
+	religion="tengri_pagan"
+
+	859.1.1={
+		birth="859.1.1"
+	}
+	922.1.1={
+		death="922.1.1"
+	}
+}
+194379 = {
+	name="Irge"
+	female=yes
+	dynasty=12272
+	father=74029
+	culture="turkish"
+	religion="tengri_pagan"
+
+	857.1.1={
+		birth=yes
+	}
+	922.1.1={
+		death=yes
+	}
+}
+74034 = {
+	name="Shabaz"
+	dynasty=12274
+
+	father=74031
+
+	culture="turkish"
+	religion="zoroastrian"
+
+	846.1.1={
+		birth="846.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}
+194378 = {
+	name="Emine"
+	female=yes
+	dynasty=12274
+	father=74031
+	culture="turkish"
+	religion="zoroastrian"
+
+	848.1.1={
+		birth=yes
+	}
+	901.1.1={
+		death=yes
+	}
+}
+
+163131 = {
+	name="Bugha"
+	dynasty=7519
+
+	culture="turkish"
+	religion="sunni"
+
+	817.1.1={
+		birth="817.1.1"
+	}
+	868.7.1={
+		death="868.7.1"
+	}
+}
+
+163132 = {
+	name="Musi"
+	dynasty=7517
+
+	culture="turkish"
+	religion="sunni"
+
+	817.1.1={
+		birth="817.1.1"
+	}
+	877.1.1={
+		death="877.1.1"
+	}
+}
+
+163135 = {
+	name="Ali"
+	dynasty=7520
+
+	culture="turkish"
+	religion="sunni"
+
+	840.1.1={
+		birth="840.1.1"
+	}
+	897.1.1={
+		death="897.1.1"
+	}
+}
+
+163136 = {
+	name="Abu Ja'far"
+	dynasty=7521
+
+	culture="turkish"
+	religion="sunni"
+
+	839.1.1={
+		birth="839.1.1"
+	}
+	899.1.1={
+		death="899.1.1"
+	}
+}
+
+163137 = {
+	name="Abu Husayan"
+	dynasty=7521
+
+	culture="turkish"
+	religion="sunni"
+
+	837.1.1={
+		birth=yes
+	}
+	896.1.1={
+		death=yes
+	}
+}
+
+170190 = {
+	name="Qutb-ud-din Aibak"
+	dynasty=1040201
+	religion="sunni"
+	culture="turkish"
+	1153.1.1={
+		birth="1153.1.1"
+	}
+	1169.1.1={
+		trait = charitable
+		trait = scholar
+		trait = fortune_builder
+		employer=144141
+	}
+	1173.1.1={
+		employer=144142
+	}
+	1186.1.1={
+		employer=0
+	}
+	1210.11.4={
+		death="1210.11.4"
+	}
+}
+
+170191 = {
+	name="Aram"
+	dynasty=1040201
+	religion="sunni"
+	culture="turkish"
+	father=170190
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1211.6.1={
+		death="1211.6.1"
+	}
+}
+
+170192 = {
+	name="Turken"
+	dynasty=1040201
+	female=yes
+	religion="sunni"
+	culture="turkish"
+	father=170190
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+170193 = {
+	name="Iltutmish"
+	dynasty=1040202
+	dna = aefgiqfbeae
+	properties = ob00b0000000
+	religion="sunni"
+	culture="turkish"
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1192.1.1={
+		employer=170190
+	}
+	1195.1.1={
+		add_spouse=170192
+	}
+	1206.1.1={
+		employer=0
+	}
+	1210.1.1={
+		add_claim=k_delhi
+	}
+	1236.5.1={
+		death="1236.5.1"
+	}
+}
+
+170194 = {
+	name="Firuz" #Firuz Shah I
+	dynasty=1040202
+	religion="sunni"
+	culture="turkish"
+	father=170193
+	mother=170192
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1236.11.20={
+		death="1236.11.20"
+	}
+}
+
+170195 = {
+	name="Raziyya"
+	dynasty=1040202
+	female=yes
+	religion="sunni"
+	culture="turkish"
+	father=170193
+	mother=170192
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1239.10.1={
+		add_claim = k_delhi
+	}
+	1240.10.15={
+		death="1240.10.15"
+	}
+}
+
+170197 = {
+	name="Malik"
+	dynasty=1040203
+	religion="sunni"
+	culture="turkish"
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1240.1.1={
+		add_spouse=170195
+	}
+	1240.10.15={
+		death="1240.10.15"
+	}
+}
+
+170198 = {
+	name="Bahram"
+	dynasty=1040202
+	religion="sunni"
+	culture="turkish"
+	father=170193
+	mother=170192
+	1206.1.1={
+		birth="1206.1.1"
+	}
+	1242.5.15={
+		death="1242.5.15"
+	}
+}
+
+170199 = {
+	name="Masud"
+	dynasty=1040202
+	religion="sunni"
+	culture="turkish"
+	father=170194
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1246.6.11={
+		death="1246.6.11"
+	}
+}
+
+170200 = {
+	name="Mahmud"
+	dynasty=1040202
+	religion="sunni"
+	culture="turkish"
+	father=170193
+	mother=170192
+	1207.1.1={
+		birth="1207.1.1"
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+170201 = {
+	name="Mahmud"
+	dynasty=1040202
+	religion="sunni"
+	culture="turkish"
+	father=170200
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1241.1.1={
+		trait = charitable
+		trait = chaste
+		trait = zealous
+		trait = martial_cleric
+	}
+	1241.8.2={
+		add_spouse = 170205
+	}
+	1266.2.19={
+		death="1266.2.19"
+	}
+}
+
+170202 = {
+	name="Canan"
+	dynasty=1040202
+	female=yes
+	religion="sunni"
+	culture="turkish"
+	father=170201
+	mother=170205
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+
+170216 = {
+	name="Nagihan"
+	dynasty=1040202
+	female=yes
+	religion="sunni"
+	culture="turkish"
+	father=170193
+	mother=170192
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+# Balban dynasty
+
+170203 = {
+	name="Mahmud"
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170207
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+
+170204 = {
+	name="Balban" #Ghiyasuddin Balban
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170203
+	1206.1.1={
+		birth="1206.1.1"
+	}
+	1222.1.1={
+		trait = just
+		trait = cruel
+		trait = ambitious
+		trait = elusive_shadow
+		employer = 170193
+	}
+	1223.1.1={
+		add_spouse = 170216
+	}
+	1236.5.1={
+		employer = 170194
+	}
+	1236.11.20={
+		employer = 170195
+	}
+	1240.10.13={
+		employer = 170198
+	}
+	1242.5.15={
+		employer = 170201
+	}
+	1266.2.19={
+		employer = 0
+	}
+	1286.1.1={
+		death="1286.1.1"
+	}
+}
+
+170205 = {
+	name="Fatma"
+	dynasty=1040204
+	female=yes
+	religion="sunni"
+	culture="turkish"
+	father=170204
+	mother=170216
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+170206 = {
+	name="Kishlu"
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170203
+	1209.1.1={
+		birth="1209.1.1"
+	}
+	1247.1.1={
+		death="1247.1.1"
+	}
+}
+
+170207 = {
+	name="Balban"
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+170208 = {
+	name="Kishlu"
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170207
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1246.1.1={
+		death="1246.1.1"
+	}
+}
+
+170209 = {
+	name="Sher"
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170208
+	1213.1.1={
+		birth="1213.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+170210 = {
+	name="Muhammad" #Muhammad Khan
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170204
+	mother=170216
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1285.10.1={
+		death="1285.10.1"
+	}
+}
+
+170211 = {
+	name="Bughra" #Bughra Khan
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170204
+	mother=170216
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1258.1.1={
+		add_spouse = 170202
+	}
+	1291.1.1={
+		death="1291.1.1"
+	}
+}
+
+170212 = {
+	name="Kaikhasrau"
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170210
+	1269.1.1={
+		birth="1269.1.1"
+	}
+	1316.1.1={
+		death="1316.1.1"
+	}
+}
+
+170213 = {
+	name="Qaiqabad" #Muizz ud-din Qaiqabad
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170211
+	mother=170202
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1289.1.1={
+		trait = incapable
+	}
+	1290.10.1={
+		death="1290.10.1"
+	}
+}
+
+170214 = {
+	name="Kayumars"
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170213
+	1287.1.1={
+		birth="1287.1.1"
+	}
+	1291.1.1={
+		death="1291.1.1"
+	}
+}
+
+170215 = {
+	name="Rukunuddin" #Rukunuddin Kaikaus
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170211
+	mother=170202
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+170217 = {
+	name="Chhajju"
+	dynasty=1040204
+	religion="sunni"
+	culture="turkish"
+	father=170206
+	1231.1.1={
+		birth="1231.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+
+170300 = {
+	name="Qabajah" #Nasir-ud-din Qabajah
+	dynasty=1040220
+	religion="sunni"
+	culture="turkish"
+	1181.1.1={
+		birth="1181.1.1"
+	}
+	1202.1.1={
+		add_spouse=170301
+	}
+	1228.5.30={
+		death="1228.5.30"
+	}
+}
+
+170301 = {
+	name="Sarica"
+	dynasty=1040201
+	female=yes
+	religion="sunni"
+	culture="turkish"
+	father=170190
+	1177.1.1={
+		birth="1177.1.1"
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+
+170302 = {
+	name="Yildoz" #Tajuddin Yildoz
+	dynasty=1040221
+	religion="sunni"
+	culture="turkish"
+	1178.1.1={
+		birth="1178.1.1"
+	}
+	1206.3.15={
+		add_claim=e_rajastan
+	}
+	1216.2.15={
+		death="1216.2.15"
+	}
+}
+
+170303 = {
+	name="Alptigin"
+	dynasty=1040222
+	religion="sunni"
+	culture="turkish"
+	914.1.1={
+		birth="914.1.1"
+	}
+	975.1.1={
+		death="975.1.1"
+	}
+}
+
+170304 = {
+	name="Abu Ishaq" #Abu Ishaq Ibrahim
+	dynasty=1040222
+	religion="sunni"
+	culture="turkish"
+	father=170303
+	946.1.1={
+		birth="946.1.1"
+	}
+	978.1.1={
+		death="978.1.1"
+	}
+}
+
+170305 = {
+	name="Sibel"
+	dynasty=1040222
+	female=yes
+	religion="sunni"
+	culture="turkish"
+	father=170304
+	950.1.1={
+		birth="950.1.1"
+	}
+	1013.1.1={
+		death="1013.1.1"
+	}
+}
+
+170242 = {
+	name="Qaim" #Qaim Khan
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170252
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1227.1.1={
+		death="1237.1.1"
+	}
+}
+
+170243 = {
+	name="Firuz" #Jalal ud din Firuz Khilji
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170242
+	1216.1.1={
+		birth="1216.1.1"
+	}
+	1296.7.21={
+		death="1296.7.21"
+	}
+}
+
+170244 = {
+	name="Masud"
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170242
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1256.1.1={
+		death="1256.1.1"
+	}
+}
+
+170245 = {
+	name="Ibrahim"
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170243
+	1234.1.1={
+		birth="1234.1.1"
+	}
+	1296.11.1={
+		death="1296.11.1"
+	}
+}
+
+170246 = {
+	name="Muhammad" #Ala-ud-din Muhammad
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170244
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1316.1.3={
+		death="1316.1.3"
+	}
+}
+
+170247 = {
+	name="Umar"
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170246
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1316.4.1={
+		death="1316.4.1"
+	}
+}
+
+170248 = {
+	name="Mubarak"
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170246
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1320.6.1={
+		death="1320.6.1"
+	}
+}
+
+170249 = {
+	name="Hidr"
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170246
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1316.1.1={
+		death="1316.1.1"
+	}
+}
+
+170250 = {
+	name="Mahmud"
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170249
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1318.6.1={
+		death="1318.6.1"
+	}
+}
+
+
+170251 = {
+	name="Husraw"
+	dynasty=1040207
+	religion="sunni"
+	culture="turkish"
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1320.6.1={
+		employer = 0
+	}
+	1320.10.1={
+		death="1320.10.1"
+	}
+}
+
+170252 = {
+	name="Bakhtiyar" #Muhammad Bakhtiyar
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	1150.1.1={
+		birth=yes
+	}
+	1206.1.1={
+		death={
+			death_reason=death_murder
+			killer=170254
+		}
+	}
+}
+
+170253 = {
+	name="Shiran" #Muhammad Shiran
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170252
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1208.1.1={
+		death="1208.1.1"
+	}
+}
+
+170254 = {
+	name="Ali Mardan"
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170252
+	1167.1.1={
+		birth="1167.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+170255 = {
+	name="Ghiyasuddin" #Ghiyasuddin Iwaj
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170252
+	1168.1.1={
+		birth="1168.1.1"
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+
+170262 = {
+	name="Balkha" #Malik Balkha
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170255
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+170263 = {
+	name="Alauddin"
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170255
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+# Thugluq
+
+170256 = {
+	name="Thugluq"
+	dynasty=1040208
+	religion="sunni"
+	culture="turkish"
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+
+170257 = {
+	name="Thugluq" #Ghiyath al-Din Tughluq
+	dynasty=1040208
+	religion="sunni"
+	culture="turkish"
+	father=170256
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1325.2.1={
+		death="1325.2.1"
+	}
+}
+
+170258 = {
+	name="Muhammad"
+	dynasty=1040208
+	dna = bcheaobceag
+	properties = ac0bh0000000
+	religion="sunni"
+	culture="turkish"
+	father=170257
+	1297.1.1={
+		birth="1297.1.1"
+	}
+	1351.3.20={
+		death="1351.3.20"
+	}
+}
+
+170259 = {
+	name="Mahmud"
+	dynasty=1040208
+	religion="sunni"
+	culture="turkish"
+	father=170258
+	1331.1.1={
+		birth="1331.1.1"
+	}
+	1351.4.1={
+		death="1351.4.1"
+	}
+}
+
+170260 = {
+	name="Rajab"
+	dynasty=1040208
+	religion="sunni"
+	culture="turkish"
+	father=170256
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+170261 = {
+	name="Firuz"
+	dynasty=1040208
+	religion="sunni"
+	culture="turkish"
+	father=170260
+	1309.1.1={
+		birth="1309.1.1"
+	}
+	1388.9.20={
+		death="1388.9.20"
+	}
+}
+
+#Governors of Bengal
+
+170264 = {
+	name="Alauddin" #Alauddin Jani
+	dynasty=1040209
+	religion="sunni"
+	culture="turkish"
+	1177.1.1={
+		birth=yes
+	}
+	1233.1.1={
+		death=yes
+	}
+}
+
+170265 = {
+	name="Saifuddin" #Saifuddin Aibak
+	dynasty=1040210
+	religion="sunni"
+	culture="turkish"
+	1174.1.1={
+		birth="1174.1.1"
+	}
+	1236.1.1={
+		death="1236.1.1"
+	}
+}
+
+170266 = {
+	name="Awar" #Awar Khan Aibak
+	dynasty=1040211
+	religion="sunni"
+	culture="turkish"
+	1181.1.1={
+		birth=yes
+	}
+	1236.12.1={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+170267 = {
+	name="Tughan" #Tughral Tughan Khan
+	dynasty=1040212
+	religion="sunni"
+	culture="turkish"
+	1219.1.1={
+		birth=yes
+	}
+	1281.1.1={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+170268 = {
+	name="Tamar" #Tughlaq Tamar Khan
+	dynasty=1040213
+	religion="sunni"
+	culture="turkish"
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1247.1.1={
+		death="1247.1.1"
+	}
+}
+
+170269 = {
+	name="Masud" #Jalaluddin Masud Jani
+	dynasty=1040213
+	religion="sunni"
+	culture="turkish"
+	father=170268
+	1219.1.1={
+		birth="1219.1.1"
+	}
+	1251.1.1={
+		death="1251.1.1"
+	}
+}
+
+170270 = {
+	name="Ikhtiyaruddin" #Malik Ikhtiyaruddin Iuzbak
+	dynasty=1040214
+	religion="sunni"
+	culture="turkish"
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	1257.1.1={
+		death="1257.1.1"
+	}
+}
+
+170271 = {
+	name="Ijjauddin" #Ijjauddin Balban Iuzbaki
+	dynasty=1040214
+	religion="sunni"
+	culture="turkish"
+	father=170270
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1259.1.1={
+		death="1259.1.1"
+	}
+}
+
+170272 = {
+	name="Tatar" #Tatar Khan
+	dynasty=1040215
+	religion="sunni"
+	culture="turkish"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+
+170273 = {
+	name="Sher" #Sher Khan
+	dynasty=1040215
+	religion="sunni"
+	culture="turkish"
+	father=170272
+	1240.1.1={
+		birth = yes
+	}
+	1292.1.1={
+		death = yes
+	}
+}
+
+170274 = {
+	name="Amin" #Amin Khan
+	dynasty=1040215
+	religion="sunni"
+	culture="turkish"
+	father=170273
+	1260.1.1={
+		birth = yes
+	}
+	1298.12.1={
+		death = yes
+	}
+}
+
+170275 = {
+	name="Firuz" #Shamsuddin Firoz Shah
+	dynasty=1040216
+	religion="sunni"
+	culture="turkish"
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+170276 = {
+	name="Bughda" #Shihabuddin Bughda
+	dynasty=1040216
+	religion="sunni"
+	culture="turkish"
+	father=170275
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1319.1.1={
+		death="1319.1.1"
+	}
+}
+
+170277 = {
+	name="Mahmud" #Jalaluddin Mahmud
+	dynasty=1040216
+	religion="sunni"
+	culture="turkish"
+	father=170275
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+
+170278 = {
+	name="Bahadur" #Ghiyasuddin Bahadur
+	dynasty=1040216
+	religion="sunni"
+	culture="turkish"
+	father=170275
+	1268.1.1={
+		birth=yes
+	}
+	1328.6.1={
+		death={
+			death_reason=death_execution
+		}
+	}
+}
+
+170279 = {
+	name="Ibrahim" #Nasiruddin Ibrahim
+	dynasty=1040216
+	religion="sunni"
+	culture="turkish"
+	father=170275
+	1269.1.1={
+		birth="1269.1.1"
+	}
+	1334.1.1={
+		death="1334.1.1"
+	}
+}
+
+170280 = {
+	name="Hatim" #Hatim Khan
+	dynasty=1040216
+	religion="sunni"
+	culture="turkish"
+	father=170275
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1328.12.1={
+		death="1328.1.1"
+	}
+}
+
+170281 = {
+	name="Kutlu" #Kutlu Khan
+	dynasty=1040216
+	religion="sunni"
+	culture="turkish"
+	father=170275
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+
+170282 = {
+	name="Bahram" #Bahram Khan
+	dynasty=1040217
+	religion="sunni"
+	culture="turkish"
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+170283 = {
+	name="Qadar" #Qadar Khan
+	dynasty=1040218
+	religion="sunni"
+	culture="turkish"
+	1282.1.1={
+		birth="1282.1.1"
+	}
+	1336.1.1={
+		death="1336.1.1"
+	}
+}
+
+170284 = {
+	name="Mukhlis"
+	dynasty=1040218
+	religion="sunni"
+	culture="turkish"
+	father=170283
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+170285 = {
+	name="Azam" #Azam Khan
+	dynasty=1040219
+	religion="sunni"
+	culture="turkish"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+170286 = {
+	name="Yahya" #Izzuddin Yahya
+	dynasty=1040219
+	religion="sunni"
+	culture="turkish"
+	father=170285
+	1304.1.1={
+		birth="1304.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+170287 = {
+	name="Zafar" #Zafar Khan
+	religion="sunni"
+	culture="turkish"
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1278.1.1={
+		trait=skilled_tactician
+		employer=170204
+	}
+	1286.1.1={
+		employer=170213
+	}
+	1290.10.1={
+		employer=170243
+	}
+	1296.7.21={
+		employer=170245
+	}
+	1296.11.1={
+		employer=170246
+	}
+	1299.6.1={
+		death="1299.6.1"
+	}
+}
+
+170297 = {
+	name="Khizar" #Khizr or Khizar Khan
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170246
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1309.1.1={
+		add_spouse=188165
+	}
+	1316.2.1={
+		death="1316.2.1" #
+	}
+}
+
+170298 = {
+	name="Shadi" #Shadi Khan
+	dynasty=1040205
+	religion="sunni"
+	culture="turkish"
+	father=170246
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1316.2.1={
+		death="1316.2.1"
+	}
+}
+188694 = {
+	name="Dawud" # general that fought Ustadhsis
+	dynasty=1042153 # Kirazid
+	religion="sunni"
+	culture="turkish"
+	732.1.1={
+		birth=yes
+	}
+	775.1.1={
+		death=yes
+	}
+}
+188682 = {
+	# general who defeated al-Muqanna
+	name="Sa'id" 
+	dynasty=1042149
+	religion="sunni"
+	culture="turkish"
+	744.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+
+188684 = {
+	name="Arda" # fictitious
+	dynasty=1042151
+	religion="manichean"
+	culture="turkish"
+	736.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+191772 = {
+	name="Malik"	#Usurper of the kingdom of Satyapura, not much known
+	dynasty=1044378	#Mir
+	religion="sunni"
+	culture="turkish"
+	1260.1.1={
+		birth=yes
+	}
+	1350.1.1={
+		death=yes
+	}
+}
+
+191873 = {
+	name="Baha al-Din"
+	dynasty=1044381	#Toghril
+	religion="sunni"
+	culture="turkish"
+	1150.1.1={
+		birth=yes
+	}
+	1206.1.1={
+		death=yes
+	}
+}
+
+191822 = {
+	name="Arsalan Khan"
+	dynasty=1044381	#Toghril
+	religion="sunni"
+	culture="turkish"
+	father=191873
+	1170.1.1={
+		birth=yes
+	}
+	1210.1.1={
+		death=yes
+	}
+}
+
+191927 = {
+	name="Ain-ul-Mulk"
+	dynasty=1044389	#Multani
+	religion="sunni"
+	culture="turkish"
+	1280.1.1={
+		birth=yes
+	}
+	1360.1.1={
+		death=yes
+	}
+}
+188767 = {
+	name="Kapaghan"	# fictional
+	dynasty=12272
+	religion="tengri_pagan"
+	culture="turkish"
+	736.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188775 = {
+	name="Dogan"	# fictional
+	dynasty=12272
+	religion="tengri_pagan"
+	culture="turkish"
+	father=188776
+	810.1.1={
+		birth=yes
+	}
+	862.1.1={
+		death=yes
+	}
+}
+
+188776 = {
+	name="Aydogan"	# fictional
+	dynasty=12272
+	religion="tengri_pagan"
+	culture="turkish"
+	father=188777
+	775.1.1={
+		birth=yes
+	}
+	839.1.1={
+		death=yes
+	}
+}
+
+188777 = {
+	name="Dogan"	# fictional
+	dynasty=12272
+	religion="tengri_pagan"
+	culture="turkish"
+	father=188767
+	752.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+194363 = {
+	name="Songul"	# fictional
+	female=yes
+	dynasty=12272
+	religion="tengri_pagan"
+	culture="turkish"
+	father=188767
+	755.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+
+188824 = {
+	name="Osman" # fictional
+	dynasty=1042198
+	religion="tengri_pagan"
+	culture="turkish"
+	740.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188825 = {
+	name="Baytas" # fictional
+	dynasty=1042199
+	religion="tengri_pagan"
+	culture="turkish"
+	730.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+194348 = {
+	name="Tunga" # fictional
+	dynasty=1042199
+	father = 188825
+	religion="tengri_pagan"
+	culture="turkish"
+	750.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+194361 = {
+	name="Dilek" # fictional
+	female = yes
+	dynasty=1042199
+	father = 188825
+	religion="tengri_pagan"
+	culture="turkish"
+	752.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188826 = {
+	name="Mustafa" # fictional
+	dynasty=214000
+	religion="tengri_pagan"
+	culture="turkish"
+	738.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188827 = {
+	name="Murat" # fictional
+	dynasty=214001
+	religion="tengri_pagan"
+	culture="turkish"
+	736.1.1={
+		birth=yes
+	}
+	767.1.1={
+		add_spouse=188828
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188828 = {
+	name="Elsin" # fictional
+	female=yes
+	religion="tengri_pagan"
+	culture="turkish"
+	741.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188829 = {
+	name="Ertugrul" # fictional
+	dynasty=214002
+	religion="tengri_pagan"
+	culture="turkish"
+	732.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+194187 = {
+	name="Qabajah"
+	dynasty=1040220 # Qabajah
+	religion="sunni"
+	culture="turkish"
+	father = 170300
+	mother = 170301
+	1202.4.5={
+		birth = yes
+	}
+	1261.3.1={
+		death = yes
+	}
+}
+
+194188 = {
+	name="Bugra"
+	dynasty=1040220 # Qabajah
+	religion="sunni"
+	culture="turkish"
+	father = 170300
+	mother = 170301
+	1204.5.6={
+		birth = yes
+	}
+	1258.2.1={
+		death = yes
+	}
+}
+194285 = {
+	name="Mesud"
+	dynasty=1045059 # Ajmerid, fictional
+	religion="sunni"
+	culture=turkish
+	1195.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194286 = {
+	name="Ibrahim"
+	dynasty=1045060 # Kasid, fictional
+	religion="sunni"
+	culture=turkish
+	1170.1.1 = {
+		birth = yes
+	}
+	1219.1.1 = {
+		death = yes
+	}
+}
+194287 = {
+	name="Ibrahim"
+	dynasty=1045060 # Kasid, fictional
+	religion="sunni"
+	culture=turkish
+	father=194286
+	1195.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194288 = {
+	name="Tekin"
+	dynasty=1045060 # Kasid, fictional
+	religion="sunni"
+	culture=turkish
+	father=194286
+	1197.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194289 = {
+	name="Gulay"
+	dynasty=1045060 # Kasid, fictional
+	religion="sunni"
+	culture=turkish
+	father=194286
+	female=yes
+	1199.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194290 = {
+	name="Nergis"
+	dynasty=1045060 # Kasid, fictional
+	religion="sunni"
+	culture=turkish
+	father=194286
+	female=yes
+	1199.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+194291 = {
+	name="Bozan"
+	dynasty=1045061 # Magadhid, fictional
+	religion="sunni"
+	culture=turkish
+	1172.1.1 = {
+		birth = yes
+	}
+	1216.1.1 = {
+		death = yes
+	}
+}
+194292 = {
+	name="Dundar"
+	dynasty=1045061 # Magadhid, fictional
+	religion="sunni"
+	culture=turkish
+	father=194291
+	1196.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194293 = {
+	name="Mehmed"
+	dynasty=1045061 # Magadhid, fictional
+	religion="sunni"
+	culture=turkish
+	father=194291
+	1198.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194294 = {
+	name="Merve"
+	dynasty=1045061 # Magadhid, fictional
+	religion="sunni"
+	culture=turkish
+	father=194291
+	female=yes
+	1201.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194295 = {
+	name="Mutlu"
+	dynasty=1045061 # Magadhid, fictional
+	religion="sunni"
+	culture=turkish
+	father=194291
+	female=yes
+	1203.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194296 = {
+	name="Demir"
+	dynasty=1045062 # Maturid, fictional
+	religion="sunni"
+	culture=turkish
+	1196.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194297 = {
+	name="Afsin"
+	dynasty=1045063 # Lahurid, fictional
+	religion="sunni"
+	culture=turkish
+	1154.1.1 = {
+		birth = yes
+	}
+	1215.1.1 = {
+		death = yes
+	}
+}
+194298 = {
+	name="Baturay"
+	dynasty=1045063 # Lahurid, fictional
+	religion="sunni"
+	culture=turkish
+	father=194297
+	1194.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194299 = {
+	name="Ertekin"
+	dynasty=1045063 # Lahurid, fictional
+	religion="sunni"
+	culture=turkish
+	father=194297
+	1196.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194300 = {
+	name="Kaytun"
+	dynasty=1045064 # Bhadrid
+	religion="sunni"
+	culture=turkish
+	1193.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194301 = {
+	name="Tolun"
+	dynasty=1045065 # Maymanid
+	religion="sunni"
+	culture=turkish
+	1150.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		death = yes
+	}
+}
+194302 = {
+	name="Burak"
+	dynasty=1045065 # Maymanid
+	religion="sunni"
+	culture=turkish
+	father=194301
+	1192.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194303 = {
+	name="Ridvan"
+	dynasty=1045065 # Maymanid
+	religion="sunni"
+	culture=turkish
+	father=194301
+	1198.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194304 = {
+	name="Bayezid"
+	dynasty=1045066 # Kyzylid
+	religion="sunni"
+	culture=turkish
+	father=194301
+	1170.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194305 = {
+	name="Songul"
+	dynasty=1045066 # Kyzylid
+	religion="sunni"
+	culture=turkish
+	female=yes
+	father=194304
+	1200.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194306 = {
+	name="Sirma"
+	dynasty=1045066 # Kyzylid
+	religion="sunni"
+	culture=turkish
+	female=yes
+	father=194304
+	1205.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194307 = {
+	name="Rustem"
+	dynasty=1045066 # Kyzylid
+	religion="sunni"
+	culture=turkish
+	father=194304
+	1207.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194308 = {
+	name="Kutlug"
+	dynasty=100666
+	religion="sunni"
+	culture=turkish
+	father=194304
+	1190.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194309 = {
+	name="Mehmed"
+	dynasty=1045067
+	religion="sunni"
+	culture=turkish
+	1180.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194310 = {
+	name="Çilen"
+	dynasty=1045067
+	religion="sunni"
+	culture=turkish
+	female=yes
+	father=194309
+	1200.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194311 = {
+	name="Gulbahar"
+	dynasty=1045067
+	religion="sunni"
+	culture=turkish
+	female=yes
+	father=194309
+	1203.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194312 = {
+	name="Kutay"
+	dynasty=1045067
+	religion="sunni"
+	culture=turkish
+	father=194309
+	1205.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194318 = {
+	name="Gunduz"
+	dynasty=1045073
+	religion="sunni"
+	culture=turkish
+	1190.1.1 = {
+		birth = yes
+	}
+	1240.1.1 = {
+		death = yes
+	}
+}
+217150 = {
+	name = "Aepak" # fictional
+	dynasty = 1051105 # Sarigül
+	religion = tengri_pagan
+	culture = turkish
+	823.8.9 = {
+		birth = yes
+	}
+	844.4.12 = {
+		add_spouse = 217151
+	}
+	857.2.22 = {
+		death = yes
+	}
+}
+217151 = {
+	name = "Mutlu" # fictional
+	religion = tengri_pagan
+	culture = turkish
+	female = yes
+	825.7.14 = {
+		birth = yes
+	}
+	884.10.6 = {
+		death = yes
+	}
+}
+217152 = {
+	name = "Tugor" # fictional
+	dynasty = 1051105 # Sarigül
+	religion = tengri_pagan
+	culture = turkish
+	father = 217150
+	mother = 217151
+	847.12.3 = {
+		birth = yes
+	}
+	899.4.5 = {
+		death = yes
+	}
+}
+217153 = {
+	name = "Sati" # fictional
+	dynasty = 1051105 # Sarigül
+	religion = tengri_pagan
+	culture = turkish
+	father = 217150
+	mother = 217151
+	849.6.5 = {
+		birth = yes
+	}
+	903.4.5 = {
+		death = yes
+	}
+}
+217154 = {
+	name = "Kuntuvdi" # fictional
+	dynasty = 1051106 # Koray
+	religion = tengri_pagan
+	culture = turkish
+	807.5.2 = {
+		birth = yes
+	}
+	825.9.30 = {
+		add_spouse = 217155
+	}
+	843.7.29 = {
+		death = yes
+	}
+}
+217155 = {
+	name = "Ilkay" # fictional
+	religion = tengri_pagan
+	culture = turkish
+	female = yes
+	809.2.23 = {
+		birth = yes
+	}
+	854.8.10 = {
+		death = yes
+	}
+}
+217156 = {
+	name = "Kozel" # fictional
+	dynasty = 1051106 # Koray
+	religion = tengri_pagan
+	culture = turkish
+	father = 217154
+	mother = 217155
+	827.10.15 = {
+		birth = yes
+	}
+	881.5.11 = {
+		death = yes
+	}
+}
+217157 = {
+	name = "Dilek" # fictional
+	dynasty = 1051106 # Koray
+	religion = tengri_pagan
+	culture = turkish
+	father = 217154
+	mother = 217155
+	female = yes
+	829.4.16 = {
+		birth = yes
+	}
+	873.2.26 = {
+		death = yes
+	}
+}
+217158 = {
+	name = "Eldeçyuk" # fictional
+	dynasty = 1051106 # Koray
+	religion = tengri_pagan
+	culture = turkish
+	father = 217154
+	mother = 217155
+	female = yes
+	831.6.14 = {
+		birth = yes
+	}
+	897.3.5 = {
+		death = yes
+	}
+}
+217159 = {
+	name = "Uzluk" # fictional
+	dynasty = 1051107 # Korkmaz
+	religion = tengri_pagan
+	culture = turkish
+	811.6.17 = {
+		birth = yes
+	}
+	832.2.7 = {
+		add_spouse = 217160
+	}
+	859.3.15 = {
+		death = yes
+	}
+}
+217160 = {
+	name = "Çiçek" # fictional
+	religion = tengri_pagan
+	culture = turkish
+	female = yes
+	808.12.5 = {
+		birth = yes
+	}
+	851.4.12 = {
+		death = yes
+	}
+}
+217161 = {
+	name = "Tura" # fictional
+	religion = tengri_pagan
+	culture = turkish
+	father = 217159
+	mother = 217160
+	female = yes
+	837.9.6 = {
+		birth = yes
+	}
+	899.5.4 = {
+		death = yes
+	}
+}
+217162 = {
+	name = "Koza" # fictional
+	religion = tengri_pagan
+	culture = turkish
+	father = 217159
+	mother = 217160
+	839.3.2 = {
+		birth = yes
+	}
+	899.12.19 = {
+		death = yes
+	}
+}
+217163 = {
+	name = "Tugor" # fictional
+	religion = tengri_pagan
+	culture = turkish
+	father = 217159
+	mother = 217160
+	840.7.27 = {
+		birth = yes
+	}
+	903.12.9 = {
+		death = yes
+	}
+}
+217164 = {
+	name = "Gundes" # fictional
+	religion = tengri_pagan
+	culture = turkish
+	father = 217159
+	mother = 217160
+	female = yes
+	847.11.5 = {
+		birth = yes
+	}
+	923.6.8 = {
+		death = yes
+	}
+}
+

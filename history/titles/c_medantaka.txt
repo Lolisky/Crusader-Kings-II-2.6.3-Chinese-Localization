@@ -1,0 +1,180 @@
+550.1.1={
+	holder = 191605 #Harichandra
+	liege = d_maru
+}
+580.1.1={
+	holder = 191607 #Rajjila
+}
+600.1.1={
+	holder = 191608 #Narabbhata
+}
+625.1.1={
+	holder = 191609 #Nagabhata
+	liege = d_dadhipadra
+}
+650.1.1={
+	holder = 191612 #Bhoja
+}
+690.1.1={
+	holder = 188000 #Chanduka
+}
+730.1.1={
+	holder = 188001 #Nagabhata
+}
+765.1.1={
+	holder = 188003 # Kakustha
+}
+770.1.1={
+	holder = 188004 # Devasakti
+}
+780.1.1={
+	holder = 188005 # Vatsraja
+}
+800.1.1={
+	holder = 188006 # Nagabhata II
+	liege = k_malwa
+}
+815.1.1={
+	liege = k_kosala
+}
+833.1.1={
+	holder = 188007 # Ramabhadra
+}
+836.1.1={
+	holder = 188008 # Bhoja I
+}
+850.1.1={
+	holder = 191621
+	liege = d_maru
+}
+885.1.1={
+	holder = 188009 # Mahendrapala I
+	liege = k_kosala
+}
+910.1.1={
+	holder = 188010 # Bhoja II
+}
+912.1.1={
+	holder = 188011 # Mahipala
+}
+944.1.1={
+	holder = 188012 # Mahendrapala II
+}
+999.1.1={
+	liege=d_ajmer
+	holder = 188118 # Durlabharaja II
+}
+1012.1.1={
+	holder = 188119 # Govinda III
+}
+1020.1.1={
+	holder = 188120 # Vakapati II
+}
+1030.1.1={
+	holder = 188121 # Viryarama
+}
+1040.1.1={
+	holder = 188122 # Chamundaraja
+}
+1050.1.1={
+	holder = 188124 # Simghata
+}
+1055.1.1={
+	holder = 188123 # Durlabharaja III
+}
+1070.1.1={
+	holder = 188125 # Virasimha
+}
+1090.1.1={
+	holder = 188126 # Vigrharaja III
+}
+1105.1.1={
+	holder = 188127 # Prithviraja I
+}
+1110.1.1={
+	holder = 188129 # Ajairaja I
+}
+1125.1.1={
+	holder = 188131 # Arnoraja
+}
+1151.1.1={
+	holder = 188134 # Jagadeva
+}
+1151.6.1={
+	holder = 188136 # Vigrharaja IV
+}
+1163.1.1={
+	holder = 188139 # Amarangeya
+}
+1165.1.1={
+	holder = 188135 # Prithviraja II
+}
+1169.1.1={
+	holder = 188141 # Someshwara
+}
+1177.1.1={
+	holder = 188142 # Prithviraja III
+}
+# Liege change to Ghurids
+1192.1.1={
+	holder = 188145 # Govinda
+}
+1193.1.1={
+	holder = 188143 # Hariraja
+}
+1194.1.1={
+	holder = 170190
+}
+1210.1.1={
+	holder = 170191 #Aram
+}
+1215.1.1={
+	holder = 191957 #Jayatrasyasimha
+}
+1222.1.1={
+	holder = 170193 #Iltutmish
+}
+1236.5.1={
+	holder = 170194 #Firuz I
+}
+1236.11.20={
+	holder = 170195 #Raziyya
+}
+1239.10.1={
+	holder = 170198 #Bahram
+}
+1242.1.1={
+	holder= 191745 #Udayasimha
+	liege = d_maru
+}
+1259.1.1={
+	holder = 191748 #Chachigadeva
+}
+1282.1.1={
+	holder = 191751 #Samantasimha
+}
+1294.1.1={
+	holder = 170243 #Jalal ud din Firuz Khilji
+	liege = e_rajastan
+}
+1316.1.3={
+	holder = 170247 #Umar
+}
+1316.4.1={
+	holder = 170248 #Mubarak
+}
+1318.1.1={
+	holder = 170250 #Mahmud
+}
+1318.6.1={
+	holder = 170248 #Mubarak
+}
+1320.6.1={
+	holder = 170251 #Husraw Kushru
+}
+1320.10.1={
+	holder = 170257 #Ghiyath al-Din Tughluq
+}
+1325.2.1={
+	holder = 170258 #Muhammad
+}

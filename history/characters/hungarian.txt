@@ -1,0 +1,9835 @@
+1621 = {
+	name="马丁"
+	# AKA: Marton
+	dynasty=101570
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=4409
+	1027.1.1 = {
+		birth=yes
+	}
+	1049.1.1 = {
+		add_spouse=4411
+	}
+	1080.1.1 = {
+		death=yes
+	}
+}
+
+6847 = {
+	name="查克"
+	religion=tengri_pagan
+	culture=hungarian
+	840.1.1={
+		birth=yes
+	}
+	897.1.1={
+		death=yes
+	}
+}
+
+6848 = {
+	name="久拉"
+	religion=tengri_pagan
+	culture=hungarian
+	841.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+20356 = {
+	name="乔治"
+	dynasty=19010
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="just"
+	trait="tough_soldier"
+	1020.1.1 = {
+		birth="1020.1.1"
+	}
+	1045.1.1 = {
+		add_spouse=4434
+	}
+	1083.1.1 = {
+		death="1083.1.1"
+	}
+}
+
+20360 = {
+	name="奥多"
+	# AKA: Otto
+	dynasty=101568
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="brave"
+	trait="skilled_tactician"
+	1012.1.1 = {
+		birth="1012.1.1"
+	}
+	1038.1.1 = {
+		add_spouse=4389
+	}
+	1082.1.1 = {
+		death="1082.1.1"
+	}
+}
+
+20362 = {
+	name="古斯塔夫"
+	# AKA: Gut
+	dynasty=19052
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="amateurish_plotter"
+	father=20357
+	1005.1.1 = {
+		birth="1005.1.1"
+	}
+	1065.1.1 = {
+		death="1065.1.1"
+	}
+}
+
+20363 = {
+	name="凯莱迪"
+	dynasty=19052
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="wroth"
+	trait="deceitful"
+	trait="grey_eminence"
+	father=20357
+	1010.1.1 = {
+		birth="1010.1.1"
+	}
+	1033.1.2 = {
+		add_spouse=491
+	}
+	1068.1.1 = {
+		death="1068.1.1"
+	}
+}
+
+20364 = {
+	name="埃莱克"
+	dynasty=101566
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="kind"
+	trait="tough_soldier"
+	father=4379
+	1024.1.1 = {
+		birth="1024.1.1"
+	}
+	1050.1.1 = {
+		add_spouse=4384
+	}
+	1083.1.1 = {
+		death="1083.1.1"
+	}
+}
+
+20365 = {
+	name="马修"
+	# AKA: Mate
+	dynasty=101565
+	martial=8
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="clubfooted"
+	trait="scholarly_theologian"
+	1023.1.1 = {
+		birth="1023.1.1"
+	}
+	1040.1.1 = {
+		add_spouse=4365
+	}
+	1078.1.1 = {
+		death="1078.1.1"
+	}
+}
+
+20366 = {
+	name="彼得"
+	dynasty=19000
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="temperate"
+	trait="flamboyant_schemer"
+	father=20371
+	mother=499
+	1017.1.1 = {
+		birth="1017.1.1"
+	}
+	1040.1.1 = {
+		add_spouse=20375
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+20367 = {
+	name="因杰"
+	dynasty=101569
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="underhanded_rogue"
+	father=4399
+	1047.1.1 = {
+		birth="1047.1.1"
+	}
+	1095.1.1 = {
+		death="1095.1.1"
+	}
+}
+
+20368 = {
+	name="兰伯特"
+	dynasty=708
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="underhanded_rogue"
+	father=470
+	mother=763
+	1051.1.1 = {
+		birth="1051.1.1"
+	}
+	1095.1.1 = {
+		death="1095.1.1"
+	}
+}
+
+20369 = {
+	name="兰伯特"
+	dynasty=19053
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="stutter"
+	trait="tough_soldier"
+	father=4429
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	1132.1.1 = {
+		death="1132.1.1"
+	}
+}
+
+20370 = {
+	name="索菲亚"
+	# AKA: Zsofia
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="craven"
+	trait="charismatic_negotiator"
+	father=472
+	mother=479
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+20371 = {
+	name="塞缪尔"
+	# AKA: Samuel
+	dynasty=19000
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="greedy"
+	trait="tough_soldier"
+	990.1.2 = {
+		birth="990.1.2"
+	}
+	1010.1.1 = {
+		add_spouse=499
+	}
+	1044.7.1 = {
+		death="1044.7.1"
+	}
+}
+
+20372 = {
+	name="拜莱尼克"
+	dynasty=101563
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="underhanded_rogue"
+	1024.1.1 = {
+		birth="1024.1.1"
+	}
+	1048.1.1 = {
+		add_spouse=4444
+	}
+	1081.1.1 = {
+		death="1081.1.1"
+	}
+}
+
+20373 = {
+	name="迈克尔"
+	# AKA: Mihaly
+	dynasty=101564
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="wroth"
+	trait="charismatic_negotiator"
+	1039.1.1 = {
+		birth="1039.1.1"
+	}
+	1064.1.1 = {
+		add_spouse=4366
+	}
+	1066.1.1 = {
+	employer=20365
+	}
+	1087.1.1 = {
+		death="1087.1.1"
+	}
+}
+
+20374 = {
+	name="伊利亚"
+	dynasty=101573
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="tough_soldier"
+	1031.1.1 = {
+		birth="1031.1.1"
+	}
+	1066.1.1 = {
+	employer=476
+	}
+	1083.1.1 = {
+		death="1083.1.1"
+	}
+}
+
+20375 = {
+	name="埃迈谢"
+	female=yes
+	dynasty=180
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="detached_priest"
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1086.1.1 = {
+		death="1086.1.1"
+	}
+}
+
+20376 = {
+	name="迈克尔"
+	# AKA: Mihaly
+	dynasty=19000
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="charitable"
+	trait="tough_soldier"
+	father=20366
+	mother=20375
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	1102.1.1 = {
+		death="1102.1.1"
+	}
+}
+
+20377 = {
+	name="约翰"
+	# AKA: Janos
+	dynasty=19000
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="honest"
+	trait="diligent"
+	trait="martial_cleric"
+	father=20366
+	mother=20375
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1099.1.1 = {
+		death="1099.1.1"
+	}
+}
+
+20378 = {
+	name="凯莱迪"
+	dynasty=19052
+	martial=9
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="cynical"
+	trait="misguided_warrior"
+	father=20363
+	mother=491
+	1034.1.1 = {
+		birth="1034.1.1"
+	}
+	1056.1.2 = {
+		add_spouse=4363
+	}
+	1086.1.1 = {
+		death="1086.1.1"
+	}
+}
+
+20379 = {
+	name="贝尼"
+	# AKA: Beny
+	dynasty=19052
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="underhanded_rogue"
+	father=20363
+	mother=491
+	1036.1.1 = {
+		birth="1036.1.1"
+	}
+	1096.1.1 = {
+		death="1096.1.1"
+	}
+}
+
+219001 = {
+	name="奥尔莫什"
+	dynasty=100442
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="skilled_tactician"
+	1150.1.1 = {
+		birth=yes
+	}
+	1200.1.1 = {
+		death=yes
+	}
+}
+
+219003 = {
+	name="托马斯"
+	dynasty=100444
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219004 = {
+	name="多纳特"
+	# AKA: Donat
+	dynasty=100445
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="temperate"
+	trait="scholarly_theologian"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219005 = {
+	name="盖勒特"
+	# AKA: Gellert
+	dynasty=100450
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=93654
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219006 = {
+	name="科尔内利"
+	# AKA: Kornel
+	dynasty=100451
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="just"
+	trait="proud"
+	trait="skilled_tactician"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219007 = {
+	name="贝尔纳特"
+	# AKA: Bernat
+	dynasty=100452
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="amateurish_plotter"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219008 = {
+	name="拉兹洛"
+	# AKA: Laszlo
+	dynasty=100453
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="underhanded_rogue"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219009 = {
+	name="莫里斯"
+	# AKA: Moric
+	dynasty=100454
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="cynical"
+	trait="temperate"
+	trait="amateurish_plotter"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219010 = {
+	name="阿达尔"
+	# AKA: adarn
+	dynasty=100460
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219011 = {
+	name="马丁"
+	# AKA: Marton
+	#dynasty=100462
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="deceitful"
+	trait="proud"
+	trait="honest"
+	trait="scholarly_theologian"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219013 = {
+	name="约翰"
+	# AKA: Janos
+	dynasty=100517
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="martial_cleric"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219014 = {
+	name="加布里埃尔"
+	# AKA: Gabriel
+	dynasty=100518
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="thrifty_clerk"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219015 = {
+	name="伊姆雷"
+	dynasty=100519
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="greedy"
+	trait="tough_soldier"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219016 = {
+	name="马蒂亚斯"
+	# AKA: Matyas
+	dynasty=100520
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="zealous"
+	trait="brave"
+	trait="tough_soldier"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219017 = {
+	name="莫里斯"
+	# AKA: Moric
+	dynasty=100521
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219018 = {
+	name="奥古斯丁"
+	# AKA: agoston
+	dynasty=100523
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="craven"
+	trait="martial_cleric"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219019 = {
+	name="埃莱梅尔"
+	# AKA: Elemer
+	dynasty=100524
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="flamboyant_schemer"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219020 = {
+	name="巴塞洛缪"
+	dynasty=100525
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="humble"
+	trait="cynical"
+	trait="amateurish_plotter"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219021 = {
+	name="加斯帕尔"
+	# AKA: Gaspar
+	dynasty=100533
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="flamboyant_schemer"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219022 = {
+	name="加博尔"
+	dynasty=100537
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="wroth"
+	trait="fortune_builder"
+	father=93638
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219023 = {
+	name="埃莱克"
+	dynasty=100538
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="greedy"
+	trait="flamboyant_schemer"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219024 = {
+	name="康拉德"
+	# AKA: Konrad
+	dynasty=100539
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="slothful"
+	trait="gluttonous"
+	trait="tough_soldier"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219025 = {
+	name="阿提拉"
+	dynasty=100540
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="greedy"
+	trait="craven"
+	trait="martial_cleric"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+219500 = {
+	name="贝拉"
+	dynasty=708
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="thrifty_clerk"
+	father=219510
+	mother=222573
+	1148.1.1 = {
+		birth="1148.1.1"
+	}
+	1163.1.2 = {
+		add_spouse=213528
+	}
+	1163.6.19= {
+		add_claim = k_hungary
+		add_claim = k_croatia
+	}	
+	1169.1.2 = {
+		remove_spouse=213528
+	}
+	1172.1.2 = {
+		add_spouse=223593
+	}
+	1172.3.4= {
+		remove_claim = k_hungary
+		remove_claim = k_croatia
+	}
+	1186.1.2 = {
+		add_spouse=205515
+	}
+	1196.4.23 = {
+		death="1196.4.23"
+	}
+}
+
+219501 = {
+	name="伊姆雷"
+	dynasty=708
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=219500
+	mother=223593
+	1174.1.2 = {
+		birth="1174.1.2"
+	}
+	1198.1.2 = {
+		add_spouse=210503
+	}
+	1204.11.30 = {
+		death="1204.11.30"
+	}
+}
+
+219502 = {
+	name="安德鲁"
+	# AKA: Andras
+	dynasty=708
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="wroth"
+	trait="honest"
+	trait="tough_soldier"
+	father=219500
+	mother=223593
+	1176.1.2 = {
+		birth="1176.1.2"
+	}
+	1202.1.2 = {
+		add_spouse=212946
+	}
+	1215.2.2 = {
+		add_spouse=98024
+	}
+	1234.5.14 = {
+		add_spouse=98025
+	}
+	1235.9.21 = {
+		death="1235.9.21"
+	}
+}
+
+219503 = {
+	name="康斯坦茨"
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="cynical"
+	trait="martial_cleric"
+	father=219500
+	mother=223593
+	1180.1.2 = {
+		birth="1180.1.2"
+	}
+	1240.12.6 = {
+		death="1240.12.6"
+	}
+}
+
+219504 = {
+	name="伊丽莎白"
+	female=yes
+	dynasty=708
+	martial=8
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="martial_cleric"
+	father=219500
+	mother=223593
+	1178.1.2 = {
+		birth="1178.1.2"
+	}
+	1228.1.2 = {
+		death="1228.1.2"
+	}
+}
+
+219505 = {
+	name="伊丽莎白"
+	female=yes
+	dynasty=708
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="temperate"
+	trait="flamboyant_schemer"
+	father=219530
+	mother=218511
+	1128.1.2 = {
+		birth="1128.1.2"
+	}
+	1154.7.21 = {
+		death="1154.7.21"
+	}
+}
+
+219510 = {
+	name="格扎"
+	# AKA: Geza
+	dynasty=708
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="kind"
+	trait="brave"
+	trait="underhanded_rogue"
+	father=219530
+	mother=218511
+	1130.1.2 = {
+		birth="1130.1.2"
+	}
+	1141.2.13 = {
+	capital=k_hungary
+	}
+	#1146.1.2 = {
+	#	add_spouse=222573
+	#}
+	1162.5.31 = {
+		death="1162.5.31"
+	}
+}
+
+219511 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=708
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="craven"
+	trait="martial_cleric"
+	father=219510
+	mother=222573
+	1147.7.2 = {
+		birth="1147.7.2"
+	}
+	1167.1.2 = {
+		add_spouse=98022
+	}
+	1168.1.2 = {
+	remove_spouse=98022
+	}
+	1168.5.2 = {
+		add_spouse=212542
+	}
+	1172.3.4 = {
+		death="1172.3.4"
+	}
+}
+
+219512 = {
+	name="伊丽莎白"
+	female=yes
+	dynasty=708
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="deceitful"
+	trait="flamboyant_schemer"
+	father=219510
+	mother=222573
+	1144.1.2 = {
+		birth="1144.1.2"
+	}
+	1194.1.2 = {
+		death="1194.1.2"
+	}
+}
+
+219515 = {
+	name="玛格丽特"
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="arbitrary"
+	trait="harelip"
+	trait="martial_cleric"
+	father=219500
+	mother=223593
+	1175.1.2 = {
+		birth="1175.1.2"
+	}
+	1229.3.29 = {
+		death="1229.3.29"
+	}
+}
+
+219517 = {
+	name="格扎"
+	dynasty=708
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="inbred"
+	trait="flamboyant_schemer"
+	father=219510
+	mother=222573
+	1150.1.2 = {
+		birth="1150.1.2"
+	}
+	1200.1.2 = {
+		death="1200.1.2"
+	}
+}
+
+219518 = {
+	name="海伦"
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="temperate"
+	trait="martial_cleric"
+	father=219510
+	mother=222573
+	1158.1.2 = {
+		birth="1158.1.2"
+	}
+	1208.1.2 = {
+		death="1208.1.2"
+	}
+}
+
+219519 = {
+	name="玛格丽特"
+	female=yes
+	dynasty=708
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="gluttonous"
+	trait="cynical"
+	trait="scholarly_theologian"
+	father=219510
+	mother=222573
+	1162.1.2 = {
+		birth="1162.1.2"
+	}
+	1212.1.2 = {
+		death="1212.1.2"
+	}
+}
+
+219525 = {
+	name="伊丽莎白"
+	female=yes
+	dynasty=708
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="deceitful"
+	trait="cynical"
+	trait="underhanded_rogue"
+	father=480
+	mother=98008
+	1094.1.2 = {
+		birth="1094.1.2"
+	}
+	1153.1.2 = {
+		death="1153.1.2"
+	}
+}
+
+219530 = {
+	name="贝拉"
+	# AKA: Bela
+	dynasty=708
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="deceitful"
+	trait="cynical"
+	trait="maimed"
+	trait="scholarly_theologian"
+	father=219531
+	mother=219532
+	1109.1.2 = {
+		birth="1109.1.2"
+	}
+	1127.4.28 = {
+		add_spouse=218511
+	}
+	1131.4.2 = {
+	capital=k_hungary
+	}
+	1141.2.13 = {
+		death="1141.2.13"
+	}
+}
+
+219531 = {
+	name="奥尔莫什"
+	dynasty=708
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="envious"
+	trait="wroth"
+	trait="charismatic_negotiator"
+	father=472
+	mother=479
+	1074.1.2 = {
+		birth="1074.1.2"
+	}
+	1104.8.21 = {
+		add_spouse=219532
+	}
+	1129.1.3 = {
+		death="1129.1.3"
+	}
+}
+
+219533 = {
+	name="阿德莱德"
+	female=yes
+	dynasty=708
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="scholarly_theologian"
+	father=219531
+	mother=219532
+	1105.1.2 = {
+		birth="1105.1.2"
+	}
+	1141.1.14 = {
+		death="1141.1.14"
+	}
+}
+
+219550 = {
+	name="安德拉什"
+	dynasty=180
+	martial=8
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="wroth"
+	trait="martial_cleric"
+	1154.1.2 = {
+		birth="1154.1.2"
+	}
+	1204.1.2 = {
+		death="1204.1.2"
+	}
+}
+
+231060 = {
+	name="伊莲娜"
+	female=yes
+	dynasty=708
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="zealous"
+	trait="humble"
+	trait="scholarly_theologian"
+	father=474
+	mother=1399
+	1088.1.2 = {
+		birth="1088.1.2"
+	}
+	1134.1.14 = {
+		death="1134.1.14"
+	}
+}
+
+231065 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=708
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="just"
+	trait="proud"
+	trait="skilled_tactician"
+	father=480
+	mother=98008
+	1101.1.2 = {
+		birth="1101.1.2"
+	}
+	1116.2.3 = {
+		capital=k_hungary
+	}
+	1120.1.2 = {
+		add_spouse=98013
+	}
+	1131.4.2 = {
+		death="1131.4.2"
+	}
+}
+
+232553 = {
+	name="鲍里斯-康拉德"
+	# AKA: Borisz
+	dynasty=708
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="bastard"
+	trait="gregarious"
+	trait="greedy"
+	trait="misguided_warrior"
+	father=480
+	mother=98018
+	1113.1.2 = {
+		birth="1113.1.2"
+	}
+	1130.1.2 = {
+		add_spouse=232554
+	}
+	1156.1.2 = {
+		death="1156.1.2"
+	}
+}
+
+41200 = {
+	name="玛丽"
+	# AKA: Maria
+	female=yes
+	dynasty=708
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="thrifty_clerk"
+	father=470
+	mother=763
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1066.1.1 = {
+	employer=474
+	}
+	1103.1.1 = {
+		death="1103.1.1"
+	}
+}
+
+41201 = {
+	name="兰考伊"
+	female=yes
+	dynasty=708
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="flamboyant_schemer"
+	father=470
+	mother=763
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1095.6.18 = {
+		death="1095.6.18"
+	}
+}
+
+4358 = {
+	name="奥尔莫什"
+	# AKA: Almos
+	dynasty=101563
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="just"
+	trait="fortune_builder"
+	father=20372
+	mother=4444
+	1049.1.1 = {
+		birth="1049.1.1"
+	}
+	1114.1.1 = {
+		death="1114.1.1"
+	}
+}
+
+4362 = {
+	name="阿玛莉亚"
+	# AKA: Amalia
+	female=yes
+	dynasty=19030
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="elusive_shadow"
+	1039.1.1 = {
+		birth="1039.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+4363 = {
+	name="索菲亚"
+	# AKA: Zsofia
+	female=yes
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="charismatic_negotiator"
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1095.1.1 = {
+		death="1095.1.1"
+	}
+}
+
+4365 = {
+	name="约兰"
+	# AKA: Jolan
+	female=yes
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="thrifty_clerk"
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1078.1.1 = {
+		death="1078.1.1"
+	}
+}
+
+4366 = {
+	name="玛丽"
+	# AKA: Maria
+	female=yes
+	dynasty=101565
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="temperate"
+	trait="thrifty_clerk"
+	father=20365
+	mother=4365
+	1049.1.1 = {
+		birth="1049.1.1"
+	}
+	1109.1.1 = {
+		death="1109.1.1"
+	}
+}
+
+4371 = {
+	name="多莫斯洛伊"
+	# AKA: Domoszlo
+	dynasty=19000
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="honest"
+	trait="tough_soldier"
+	father=20371
+	mother=499
+	1022.1.1 = {
+		birth="1022.1.1"
+	}
+	1050.1.1 = {
+		add_spouse=4443
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+
+4373 = {
+	name="乌苏拉"
+	female=yes
+	dynasty=19000
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="thrifty_clerk"
+	father=4371
+	mother=4443
+	1051.1.1 = {
+		birth="1051.1.1"
+	}
+	1109.1.1 = {
+		death="1109.1.1"
+	}
+}
+
+4374 = {
+	name="埃尔涅"
+	dynasty=101572
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="ambitious"
+	trait="mastermind_theologian"
+	1021.1.1 = {
+		birth="1021.1.1"
+	}
+	1063.12.1 = {
+		effect = {
+			give_job_title=job_spiritual
+		}
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+4375 = {
+	name="维德"
+	dynasty=19052
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="martial_cleric"
+	father=20378
+	mother=4363
+	1059.1.1 = {
+		birth="1059.1.1"
+	}
+	1093.1.1 = {
+		death="1093.1.1"
+	}
+}
+
+4376 = {
+	name="马丁"
+	# AKA: Marton
+	dynasty=19052
+	martial=5
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=20378
+	mother=4363
+	1062.1.1 = {
+		birth="1062.1.1"
+	}
+	1125.1.1 = {
+		death="1125.1.1"
+	}
+}
+
+4377 = {
+	name="洛萨"
+	dynasty=19052
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="bastard"
+	father=20378
+	mother=4363
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+
+4378 = {
+	name="多博考伊"
+	dynasty=101566
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="gluttonous"
+	trait="brave"
+	trait="tough_soldier"
+	959.1.1 = {
+		birth="959.1.1"
+	}
+	1012.1.1 = {
+		death="1012.1.1"
+	}
+}
+
+4379 = {
+	name="乔纳迪"
+	dynasty=101566
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="brave"
+	trait="chaste"
+	trait="skilled_tactician"
+	father=4378
+	988.1.1 = {
+		birth="988.1.1"
+	}
+	1031.1.1 = {
+		death="1031.1.1"
+	}
+}
+
+4383 = {
+	name="彻默尔"
+	dynasty=101566
+	martial=5
+	diplomacy=6
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="cynical"
+	trait="scholarly_theologian"
+	father=4379
+	1019.1.1 = {
+		birth="1019.1.1"
+	}
+	1057.1.1 = {
+		death="1057.1.1"
+	}
+}
+
+4384 = {
+	name="伊丽莎白"
+	female=yes
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="amateurish_plotter"
+	1031.1.1 = {
+		birth="1031.1.1"
+	}
+	1094.1.1 = {
+		death="1094.1.1"
+	}
+}
+
+4385 = {
+	name="伊姆雷"
+	dynasty=101566
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="slothful"
+	trait="indulgent_wastrel"
+	father=4383
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	1098.1.1 = {
+		death="1098.1.1"
+	}
+}
+
+4386 = {
+	name="蓬格拉茨"
+	dynasty=101566
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=2
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=20364
+	mother=4384
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	1098.1.1 = {
+		death="1098.1.1"
+	}
+}
+
+4387 = {
+	name="久拉"
+	dynasty=101566
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="martial_cleric"
+	father=20364
+	mother=4384
+	1056.1.1 = {
+		birth="1056.1.1"
+	}
+	1117.1.1 = {
+		death="1117.1.1"
+	}
+}
+
+4388 = {
+	name="玛格丽特"
+	female=yes
+	dynasty=19052
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="humble"
+	trait="flamboyant_schemer"
+	father=20363
+	mother=491
+	1037.1.1 = {
+		birth="1037.1.1"
+	}
+	1075.1.1 = {
+		death="1075.1.1"
+	}
+}
+
+4389 = {
+	name="吉赛尔"
+	dynasty=19019
+	female=yes
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="flamboyant_schemer"
+	1017.1.1 = {
+		birth="1017.1.1"
+	}
+	1063.1.1 = {
+		death="1063.1.1"
+	}
+}
+
+4397 = {
+	name="伊姆雷"
+	dynasty=101568
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="kind"
+	trait="naive_appeaser"
+	father=20360
+	mother=4389
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1102.1.1 = {
+		death="1102.1.1"
+	}
+}
+
+4398 = {
+	name="朱迪思"
+	female=yes
+	dynasty=101568
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="charitable"
+	trait="thrifty_clerk"
+	father=20360
+	mother=4389
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1105.1.1 = {
+		death="1105.1.1"
+	}
+}
+
+4400 = {
+	name="托马斯"
+	dynasty=101569
+	martial=3
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="martial_cleric"
+	father=4399
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+4401 = {
+	name="伊波伊"
+	dynasty=19052
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="wroth"
+	trait="tough_soldier"
+	father=20362
+	1033.1.1 = {
+		birth="1033.1.1"
+	}
+	1057.1.1 = {
+		add_spouse=4404
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+4402 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19052
+	martial=3
+	diplomacy=6
+	intrigue=7
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="arbitrary"
+	trait="martial_cleric"
+	father=20362
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1108.1.1 = {
+		death="1108.1.1"
+	}
+}
+
+4404 = {
+	name="伊洛娜"
+	female=yes
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="grey_eminence"
+	1036.1.1 = {
+		birth="1036.1.1"
+	}
+	1085.1.1 = {
+		death="1085.1.1"
+	}
+}
+
+4405 = {
+	name="格特鲁德"
+	# AKA: Gertrud
+	female=yes
+	dynasty=19052
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="flamboyant_schemer"
+	father=4406
+	mother=4362
+	1059.1.1 = {
+		birth="1059.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+4406 = {
+	name="贝尼"
+	# AKA: Beny
+	dynasty=19052
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="envious"
+	trait="arbitrary"
+	trait="fortune_builder"
+	father=20362
+	1039.1.1 = {
+		birth="1039.1.1"
+	}
+	1055.1.1 = {
+		add_spouse=4362
+	}
+	1087.1.1 = {
+		death="1087.1.1"
+	}
+}
+
+4409 = {
+	name="米斯卡"
+	dynasty=101570
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="tough_soldier"
+	father=4408
+	1001.1.1 = {
+		birth="1001.1.1"
+	}
+	1053.1.1 = {
+		death="1053.1.1"
+	}
+}
+
+4410 = {
+	name="库巴"
+	# AKA: Kupan
+	dynasty=101570
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="flamboyant_schemer"
+	trait="proud"
+	father=4409
+	1034.1.1 = {
+		birth="1034.1.1"
+	}
+	1057.1.1 = {
+		add_spouse=4415
+	}
+	1084.1.2 = {
+		death="1084.1.2"
+	}
+}
+
+4411 = {
+	name="凯瑟琳"
+	female=yes
+	dynasty=12003
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="underhanded_rogue"
+	1028.1.1 = {
+		birth="1028.1.1"
+	}
+	1089.1.1 = {
+		death="1089.1.1"
+	}
+}
+
+4412 = {
+	name="巴托尔 欧布斯"
+	# AKA: Bator Obus
+	dynasty=101570
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="brave"
+	trait="tough_soldier"
+	father=1621
+	mother=4411
+	1046.1.1 = {
+		birth="1046.1.1"
+	}
+	1095.1.1 = {
+		death="1095.1.1"
+	}
+}
+
+4413 = {
+	name="安娜"
+	female=yes
+	dynasty=101570
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="charismatic_negotiator"
+	father=1621
+	mother=4411
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1109.1.1 = {
+		death="1109.1.1"
+	}
+}
+
+4414 = {
+	name="玛格丽特"
+	female=yes
+	dynasty=101570
+	martial=2
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="slothful"
+	trait="indulgent_wastrel"
+	father=1621
+	mother=4411
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1111.1.1 = {
+		death="1111.1.1"
+	}
+}
+
+4425 = {
+	name="凯瑟琳"
+	female=yes
+	dynasty=101570
+	martial=4
+	diplomacy=4
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="thrifty_clerk"
+	father=4410
+	mother=4415
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1118.1.1 = {
+		death="1118.1.1"
+	}
+}
+
+4431 = {
+	name="哈特维克"
+	dynasty=19061
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="charitable"
+	trait="zealous"
+	trait="scholarly_theologian"
+	1033.1.1 = {
+		birth="1033.1.1"
+	}
+	1063.12.1 = {
+		effect = {
+			give_job_title=job_spiritual
+		}
+	}
+	1111.1.1 = {
+		death="1111.1.1"
+	}
+}
+
+4432 = {
+	name="埃勒德"
+	dynasty=19010
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="fortune_builder"
+	father=20356
+	mother=4434
+	1046.1.1 = {
+		birth="1046.1.1"
+	}
+	1098.1.1 = {
+		death="1098.1.1"
+	}
+}
+
+4433 = {
+	name="索博尔奇"
+	dynasty=19010
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="envious"
+	trait="underhanded_rogue"
+	father=20356
+	mother=4434
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1105.1.1 = {
+		death="1105.1.1"
+	}
+}
+
+4434 = {
+	name="安娜"
+	female=yes
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="cynical"
+	trait="martial_cleric"
+	1024.1.1 = {
+		birth="1024.1.1"
+	}
+	1078.1.1 = {
+		death="1078.1.1"
+	}
+}
+
+4435 = {
+	name="安条尔"
+	dynasty=101571
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="greedy"
+	trait="misguided_warrior"
+	father=4437
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	1065.1.1 = {
+		add_spouse=4436
+	}
+	1087.1.1 = {
+		death="1087.1.1"
+	}
+}
+
+4436 = {
+	name="芭芭拉"
+	dynasty=19010
+	female=yes
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="honest"
+	trait="naive_appeaser"
+	father=20356
+	mother=4434
+	1047.1.1 = {
+		birth="1047.1.1"
+	}
+	1107.1.1 = {
+		death="1107.1.1"
+	}
+}
+
+4437 = {
+	name="埃泰"
+	dynasty=101571
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="underhanded_rogue"
+	1018.1.1 = {
+		birth="1018.1.1"
+	}
+	1061.1.1 = {
+		death="1061.1.1"
+	}
+}
+
+4438 = {
+	name="格雷戈里"
+	dynasty=101571
+	martial=8
+	diplomacy=4
+	intrigue=3
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="wroth"
+	trait="amateurish_plotter"
+	father=4437
+	1049.1.1 = {
+		birth="1049.1.1"
+	}
+	1065.1.2 = {
+		add_spouse=4439
+	}
+	1122.1.1 = {
+		death="1122.1.1"
+	}
+}
+
+4439 = {
+	name="伊尔迪科"
+	# AKA: Ildiko
+	female=yes
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="deceitful"
+	trait="flamboyant_schemer"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1111.1.1 = {
+		death="1111.1.1"
+	}
+}
+
+4440 = {
+	name="彼得"
+	dynasty=101571
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=4435
+	mother=4436
+	1066.1.1 = {
+		birth="1066.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+
+4441 = {
+	name="舒加卡"
+	# AKA: Sugarka
+	female=yes
+	dynasty=101565
+	martial=4
+	diplomacy=3
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="arbitrary"
+	trait="temperate"
+	trait="thrifty_clerk"
+	father=20365
+	mother=4365
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	1099.1.1 = {
+		death="1099.1.1"
+	}
+}
+
+4442 = {
+	name="齐洛伊"
+	dynasty=101565
+	female=yes
+	martial=5
+	diplomacy=9
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="detached_priest"
+	father=20365
+	mother=4365
+	1044.1.1 = {
+		birth="1044.1.1"
+	}
+	1106.1.1 = {
+		death="1106.1.1"
+	}
+}
+
+4443 = {
+	name="斯科拉司提卡"
+	female=yes
+	dynasty=19001
+	martial=5
+	diplomacy=3
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="zealous"
+	trait="thrifty_clerk"
+	1031.1.1 = {
+		birth="1031.1.1"
+	}
+	1089.1.1 = {
+		death="1089.1.1"
+	}
+}
+
+4444 = {
+	name="伊泰"
+	female=yes
+	dynasty=19003
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="greedy"
+	trait="cynical"
+	trait="amateurish_plotter"
+	1031.1.1 = {
+		birth="1031.1.1"
+	}
+	1095.1.1 = {
+		death="1095.1.1"
+	}
+}
+
+460 = {
+	name="陶克绍尼"
+	dynasty=708
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="tengri_pagan"
+	culture="hungarian"
+	trait="proud"
+	trait="underhanded_rogue"
+	father=159135
+	931.1.1 = {
+		birth="931.1.1"
+	}
+	947.1.1 = {
+		add_spouse=483
+	}
+	972.1.1 = {
+		death="972.1.1"
+	}
+}
+
+461711 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=708
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="flamboyant_schemer"
+	father=98004
+	mother=98042
+	1257.1.2 = {
+		birth="1257.1.2"
+	}
+	1323.1.26 = {
+		death="1323.1.26"
+	}
+}
+
+462 = {
+	name="迈克尔"
+	# AKA: Mihaly
+	dynasty=708
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="tengri_pagan"
+	culture="hungarian"
+	trait="envious"
+	trait="skilled_tactician"
+	father=460
+	mother=483
+	948.1.1 = {
+		birth="948.1.1"
+	}
+	970.1.1 = {
+		add_spouse=759
+	}
+	978.1.1 = {
+		death="978.1.1"
+	}
+}
+
+463 = {
+	name="朱迪思"
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="flamboyant_schemer"
+	father=464
+	mother=753
+	969.1.1 = {
+		birth="969.1.1"
+	}
+	987.1.1 = {
+		death="987.1.1"
+	}
+}
+
+464 = {
+	name="格扎"
+	# AKA: Geza
+	dynasty=708
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="cynical"
+	trait="tough_soldier"
+	father=460
+	mother=483
+	945.1.1 = {
+		birth="945.1.1"
+	}
+	967.1.1 = {
+		add_spouse=753
+	}
+	975.1.1 = {
+	remove_spouse=753
+	}
+	985.1.1 = {
+		add_spouse=759
+	}
+	997.2.1 = {
+		death="997.2.1"
+	}
+}
+
+466 = {
+	name="瓦索伊"
+	# AKA: Vaszoly
+	dynasty=708
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="tengri_pagan"
+	culture="hungarian"
+	trait="wroth"
+	trait="tough_soldier"
+	father=462
+	mother=759
+	976.1.1 = {
+		birth="976.1.1"
+	}
+	1037.1.1 = {
+		death="1037.1.1"
+	}
+}
+
+468 = {
+	name="安德鲁"
+	# AKA: Andras
+	dynasty=708
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="patient"
+	trait="charismatic_negotiator"
+	father=466
+	mother=484
+	1014.1.1 = {
+		birth="1014.1.1"
+	}
+	1039.1.1 = {
+		add_spouse=637
+	}
+	1060.10.1 = {
+		death="1060.10.1"
+	}
+}
+
+469 = {
+	name="索菲亚"
+	# AKA: Zsofia
+	female=yes
+	dynasty=708
+	martial=3
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	trait="bastard"
+	religion="catholic"
+	culture="hungarian"
+	father=470
+	1062.1.1 = {
+		birth="1062.1.1"
+	}
+	1066.1.1 = {
+	employer=472
+	}
+	1116.1.1 = {
+		death="1116.1.1"
+	}
+}
+
+470 = {
+	name="贝拉"
+	# AKA: Bela
+	dynasty=708
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="diligent"
+	trait="brave"
+	trait="skilled_tactician"
+	father=466
+	mother=484
+	1016.1.1 = {
+		birth="1016.1.1"
+	}
+	1039.1.1 = {
+		add_spouse=763
+	}
+	1063.12.1 = {
+		death="1063.12.1"
+	}
+}
+
+470030 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19063
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="proud"
+	trait="tough_soldier"
+	father=470031
+	1310.1.1 = {
+		birth="1310.1.1"
+	}
+	1335.1.2 = {
+		add_spouse=470032
+	}
+	1360.1.1 = {
+		death="1360.1.1"
+	}
+}
+
+470031 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=19063
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="charitable"
+	trait="tough_soldier"
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1315.1.1 = {
+		death="1315.1.1"
+	}
+}
+
+470032 = {
+	name="卡塔琳娜"
+	female=yes
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="charitable"
+	trait="humble"
+	trait="naive_appeaser"
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1365.1.1 = {
+		death="1365.1.1"
+	}
+}
+
+470040 = {
+	name="托马斯"
+	dynasty=19043
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=9
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="charitable"
+	trait="tough_soldier"
+	father=470049
+	1285.1.2 = {
+		birth="1285.1.2"
+	}
+	1317.1.2 = {
+		add_spouse=470041
+	}
+	1328.1.2 = {
+		add_spouse=470042
+	}
+	1344.1.1 = {
+		death="1344.1.1"
+	}
+}
+
+470041 = {
+	name="伊丽莎白" 
+	#AKA Erzsebet Visontai
+	female=yes
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="flamboyant_schemer"
+	1299.1.2 = {
+		birth="1299.1.2"
+	}
+	1327.1.2 = {
+		death="1327.1.2"
+	}
+}
+
+470043 = {
+	name="科尼亚"
+	# AKA: Konya
+	dynasty=19043
+	martial=5
+	diplomacy=4
+	intrigue=2
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="brave"
+	trait="proud"
+	trait="tough_soldier"
+	father=470040
+	mother=470041
+	1318.1.2 = {
+		birth="1318.1.2"
+	}
+	1368.1.2 = {
+		death="1368.1.2"
+	}
+}
+
+470044 = {
+	name="迈克尔"
+	# AKA: Mihaly
+	dynasty=19043
+	martial=5
+	diplomacy=6
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="zealous"
+	trait="mastermind_theologian"
+	father=470040
+	mother=470041
+	1319.1.2 = {
+		birth="1319.1.2"
+	}
+	1369.1.2 = {
+		death="1369.1.2"
+	}
+}
+
+470045 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=19043
+	martial=3
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="deceitful"
+	trait="tough_soldier"
+	father=470040
+	mother=470041
+	1321.1.2 = {
+		birth="1321.1.2"
+	}
+	1371.1.2 = {
+		death="1371.1.2"
+	}
+}
+
+470046 = {
+	name="加斯帕尔"
+	# AKA: Gaspar
+	dynasty=19043
+	martial=3
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=470040
+	mother=470042
+	1329.1.2 = {
+		birth="1329.1.2"
+	}
+	1379.1.2 = {
+		death="1379.1.2"
+	}
+}
+
+470047 = {
+	name="安娜"
+	female=yes
+	dynasty=19043
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="thrifty_clerk"
+	father=470040
+	mother=470042
+	1332.1.2 = {
+		birth="1332.1.2"
+	}
+	1382.1.2 = {
+		death="1382.1.2"
+	}
+}
+
+470048 = {
+	name="拉兹洛"
+	# AKA: Laszlo
+	dynasty=19043
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	father=470040
+	mother=470042
+	1335.1.2 = {
+		birth="1335.1.2"
+	}
+	1385.1.2 = {
+		death="1385.1.2"
+	}
+}
+
+470049 = {
+	name="法尔卡斯"
+	dynasty=19043
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=10
+	religion="catholic"
+	culture="hungarian"
+	trait="envious"
+	trait="charitable"
+	trait="flamboyant_schemer"
+	1257.1.2 = {
+		birth="1257.1.2"
+	}
+	1305.1.2 = {
+		death="1305.1.2"
+	}
+}
+
+470050 = {
+	name="彼得"
+	dynasty=19043
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="envious"
+	trait="humble"
+	trait="tough_soldier"
+	father=470049
+	1292.1.2 = {
+		birth="1292.1.2"
+	}
+	1342.1.2 = {
+		death="1342.1.2"
+	}
+}
+
+470051 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=19043
+	martial=2
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="proud"
+	trait="thrifty_clerk"
+	father=470050
+	1316.1.2 = {
+		birth="1316.1.2"
+	}
+	1366.1.2 = {
+		death="1366.1.2"
+	}
+}
+
+470052 = {
+	name="托马斯"
+	dynasty=19043
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="deceitful"
+	trait="tough_soldier"
+	father=470050
+	1318.1.2 = {
+		birth="1318.1.2"
+	}
+	1368.1.2 = {
+		death="1368.1.2"
+	}
+}
+
+470053 = {
+	name="法尔卡斯"
+	dynasty=19043
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="temperate"
+	trait="slothful"
+	trait="tough_soldier"
+	father=470050
+	1320.1.2 = {
+		birth="1320.1.2"
+	}
+	1370.1.2 = {
+		death="1370.1.2"
+	}
+}
+
+470060 = {
+	name="拉兹洛"
+	# AKA: Laszlo
+	dynasty=19056
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="slothful"
+	trait="tough_soldier"
+	1260.1.2 = {
+		birth="1260.1.2"
+	}
+	1286.1.2 = {
+		add_spouse=470061
+	}
+	1320.1.2 = {
+		death="1320.1.2"
+	}
+}
+
+470061 = {
+	name="玛格丽特"
+	# AKA: Margit Pelejtei
+	female=yes
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="charitable"
+	trait="flamboyant_schemer"
+	1270.1.2 = {
+		birth="1270.1.2"
+	}
+	1333.1.2 = {
+		death="1333.1.2"
+	}
+}
+
+470062 = {
+	name="约翰"
+	# AKA: Janos
+	dynasty=19056
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="patient"
+	trait="tough_soldier"
+	father=470060
+	mother=470061
+	1308.1.2 = {
+		birth="1308.1.2"
+	}
+	1330.1.2 = {
+		add_spouse=470063
+	}
+	1358.1.2 = {
+		death="1358.1.2"
+	}
+}
+
+470063 = {
+	name="凯瑟琳"
+	female=yes
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="harelip"
+	trait="thrifty_clerk"
+	1311.1.2 = {
+		birth="1311.1.2"
+	}
+	1361.1.2 = {
+		death="1361.1.2"
+	}
+}
+
+470064 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19056
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	father=470062
+	mother=470063
+	1333.1.2 = {
+		birth="1333.1.2"
+	}
+	1383.1.2 = {
+		death="1383.1.2"
+	}
+}
+
+470065 = {
+	name="多莫科什"
+	dynasty=19056
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	father=470062
+	mother=470063
+	1336.1.2 = {
+		birth="1336.1.2"
+	}
+	1386.1.2 = {
+		death="1386.1.2"
+	}
+}
+
+470070 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=19057
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="just"
+	trait="tough_soldier"
+	father=470071
+	mother=470073
+	1299.1.2 = {
+		birth="1299.1.2"
+	}
+	1321.1.2 = {
+		add_spouse=470074
+	}
+	1349.1.2 = {
+		death="1349.1.2"
+	}
+}
+
+470071 = {
+	name="尼古拉斯"
+	dynasty=19057
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="just"
+	trait="tough_soldier"
+	father=93755
+	1258.1.1 = {
+		birth="1258.1.1"
+	}
+	1288.1.1 = {
+		add_spouse=470072
+	}
+	1297.1.1 = {
+		add_spouse=470073
+	}
+	1320.1.1 = {
+		death="1320.1.1"
+	}
+}
+
+470072 = {
+	name="伊丽莎白" 
+	#AKA Erzsebet de Daro
+	female=yes
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="thrifty_clerk"
+	1272.1.2 = {
+		birth="1272.1.2"
+	}
+	1296.1.2 = {
+		death="1296.1.2"
+	}
+}
+
+470073 = {
+	name="伊丽莎白" 
+	#AKA Erzsebet Kaplyon
+	female=yes
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="arbitrary"
+	trait="charitable"
+	trait="naive_appeaser"
+	1280.1.2 = {
+		birth="1280.1.2"
+	}
+	1330.1.2 = {
+		death="1330.1.2"
+	}
+}
+
+470074 = {
+	name="安娜"
+	female=yes
+	dynasty=19051
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="just"
+	trait="lustful"
+	trait="flamboyant_schemer"
+	1302.1.2 = {
+		birth="1302.1.2"
+	}
+	1352.1.2 = {
+		death="1352.1.2"
+	}
+}
+
+470075 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=19057
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="martial_cleric"
+	father=470070
+	mother=470074
+	1323.1.2 = {
+		birth="1323.1.2"
+	}
+	1373.1.2 = {
+		death="1373.1.2"
+	}
+}
+
+470076 = {
+	name="莫里茨"
+	# AKA: Moricz
+	dynasty=19057
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="slothful"
+	trait="thrifty_clerk"
+	father=470071
+	mother=470072
+	1295.1.2 = {
+		birth="1295.1.2"
+	}
+	1326.1.2 = {
+		add_spouse=470078
+	}
+	1345.1.2 = {
+		death="1345.1.2"
+	}
+}
+
+470077 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19057
+	martial=2
+	diplomacy=2
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="patient"
+	trait="elusive_shadow"
+	father=470071
+	mother=470073
+	1300.1.2 = {
+		birth="1300.1.2"
+	}
+	1350.1.2 = {
+		death="1350.1.2"
+	}
+}
+
+470078 = {
+	name="斯科拉司提卡 奧提尼"
+	# AKA: Skolasztika Atyinai
+	female=yes
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="just"
+	trait="gluttonous"
+	trait="midas_touched"
+	1300.1.2 = {
+		birth="1300.1.2"
+	}
+	1350.1.2 = {
+		death="1350.1.2"
+	}
+}
+
+470079 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19057
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=470076
+	mother=470078
+	1332.1.2 = {
+		birth="1332.1.2"
+	}
+	1382.1.2 = {
+		death="1382.1.2"
+	}
+}
+
+470080 = {
+	name="安娜"
+	female=yes
+	dynasty=19057
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	father=470076
+	mother=470078
+	1335.1.2 = {
+		birth="1335.1.2"
+	}
+	1385.1.2 = {
+		death="1385.1.2"
+	}
+}
+
+470090 = {
+	name="奥斯利"
+	dynasty=19058
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1230.1.1 = {
+		death="1230.1.1"
+	}
+}
+
+470091 = {
+	name="贝莱德"
+	dynasty=19058
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="flamboyant_schemer"
+	father=470090
+	1210.1.2 = {
+		birth="1210.1.2"
+	}
+	1272.1.2 = {
+		death="1272.1.2"
+	}
+}
+
+470092 = {
+	name="奥斯利"
+	dynasty=19058
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="flamboyant_schemer"
+	father=470090
+	1211.1.1 = {
+		birth="1211.1.1"
+	}
+	1266.1.1 = {
+		death="1266.1.1"
+	}
+}
+
+470093 = {
+	name="塔马斯 乔尔瑙伊" 
+	#AKA Tamas Csornai
+	dynasty=19058
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=470090
+	1213.1.2 = {
+		birth="1213.1.2"
+	}
+	1272.1.2 = {
+		death="1272.1.2"
+	}
+}
+
+470094 = {
+	name="贝莱德"
+	# AKA: Beled Viczay
+	dynasty=19059
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="intricate_webweaver"
+	father=93651
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1291.1.1 = {
+		death="1291.1.1"
+	}
+}
+
+470095 = {
+	name="尼古拉斯"
+	dynasty=19059
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="intricate_webweaver"
+	father=470094
+	1254.1.1 = {
+		birth="1254.1.1"
+	}
+	1309.1.1 = {
+		death="1309.1.1"
+	}
+}
+
+470096 = {
+	name="伊姆雷"
+	dynasty=19059
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="flamboyant_schemer"
+	father=470094
+	1257.1.1 = {
+		birth="1257.1.1"
+	}
+	1309.1.1 = {
+		death="1309.1.1"
+	}
+}
+
+470097 = {
+	name="约翰"
+	dynasty=19059
+	martial=6
+	diplomacy=4
+	intrigue=2
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="thrifty_clerk"
+	father=470094
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+
+470098 = {
+	name="贝莱德"
+	dynasty=19059
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="just"
+	trait="stutter"
+	trait="brave"
+	trait="tough_soldier"
+	father=470094
+	1266.1.1 = {
+		birth="1266.1.1"
+	}
+	1336.1.1 = {
+		death="1336.1.1"
+	}
+}
+
+470099 = {
+	name="约翰"
+	dynasty=19059
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=470095
+	1284.1.1 = {
+		birth="1284.1.1"
+	}
+	1347.1.1 = {
+		death="1347.1.1"
+	}
+}
+
+470100 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19059
+	martial=1
+	diplomacy=2
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="harelip"
+	trait="arbitrary"
+	trait="detached_priest"
+	father=470099
+	1304.1.1 = {
+		birth="1304.1.1"
+	}
+	1347.1.1 = {
+		death="1347.1.1"
+	}
+}
+
+470101 = {
+	name="托马斯"
+	dynasty=19059
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="charitable"
+	trait="gluttonous"
+	trait="tough_soldier"
+	father=470099
+	1306.1.1 = {
+		birth="1306.1.1"
+	}
+	1360.1.1 = {
+		death="1360.1.1"
+	}
+}
+
+470102 = {
+	name="安娜"
+	female=yes
+	dynasty=19059
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="gluttonous"
+	trait="flamboyant_schemer"
+	father=470099
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1360.1.1 = {
+		death="1360.1.1"
+	}
+}
+
+470103 = {
+	name="彼得"
+	dynasty=19059
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="craven"
+	trait="flamboyant_schemer"
+	father=470096
+	1305.1.2 = {
+		birth="1305.1.2"
+	}
+	1355.1.2 = {
+		death="1355.1.2"
+	}
+}
+
+470104 = {
+	name="伊洛娜"
+	female=yes
+	dynasty=19059
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="lustful"
+	trait="naive_appeaser"
+	father=470096
+	1309.1.2 = {
+		birth="1309.1.2"
+	}
+	1359.1.2 = {
+		death="1359.1.2"
+	}
+}
+
+470105 = {
+	name="彼得"
+	dynasty=19059
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="brave"
+	trait="misguided_warrior"
+	father=470097
+	1305.1.1 = {
+		birth="1305.1.1"
+	}
+	1355.1.1 = {
+		death="1355.1.1"
+	}
+}
+
+470106 = {
+	name="约翰"
+	# AKA: Janos
+	dynasty=19059
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="just"
+	trait="charitable"
+	trait="tough_soldier"
+	father=470098
+	1306.1.2 = {
+		birth="1306.1.2"
+	}
+	1356.1.2 = {
+		death="1356.1.2"
+	}
+}
+
+470107 = {
+	name="奥斯利"
+	dynasty=19059
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=470106
+	1325.1.2 = {
+		birth="1325.1.2"
+	}
+	1375.1.2 = {
+		death="1375.1.2"
+	}
+}
+
+470108 = {
+	name="奥斯利"
+	dynasty=19058
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=470092
+	1241.1.2 = {
+		birth="1241.1.2"
+	}
+	1270.1.2 = {
+		add_spouse=470109
+	}
+	1310.1.2 = {
+		death="1310.1.2"
+	}
+}
+
+470109 = {
+	name="伊丽莎白" 
+	#AKA Erzsebet Nagymartoni
+	female=yes
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="detached_priest"
+	1261.1.2 = {
+		birth="1261.1.2"
+	}
+	1332.1.2 = {
+		death="1332.1.2"
+	}
+}
+
+470110 = {
+	name="彼得"
+	dynasty=19058
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="bastard"
+	trait="detached_priest"
+	father=470108
+	1288.1.2 = {
+		birth="1288.1.2"
+	}
+	1338.1.2 = {
+		death="1338.1.2"
+	}
+}
+
+470111 = {
+	name="约翰"
+	# AKA: Janos
+	dynasty=19058
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="patient"
+	trait="thrifty_clerk"
+	father=470108
+	mother=470109
+	1290.1.2 = {
+		birth="1290.1.2"
+	}
+	1340.1.2 = {
+		death="1340.1.2"
+	}
+}
+
+470112 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19058
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="ill"
+	trait="temperate"
+	trait="tough_soldier"
+	father=470108
+	mother=470109
+	1291.1.2 = {
+		birth="1291.1.2"
+	}
+	1330.1.2 = {
+		add_spouse=470129
+	}
+	1341.1.2 = {
+		death="1341.1.2"
+	}
+}
+
+470113 = {
+	name="多莫科什"
+	dynasty=19058
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="just"
+	trait="tough_soldier"
+	father=470108
+	mother=470109
+	1285.1.2 = {
+		birth="1285.1.2"
+	}
+	1335.1.2 = {
+		death="1335.1.2"
+	}
+}
+
+470114 = {
+	name="德米特"
+	# AKA: Demeter Bresztolci
+	dynasty=19058
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="brave"
+	trait="tough_soldier"
+	father=470113
+	1320.1.2 = {
+		birth="1320.1.2"
+	}
+	1370.1.2 = {
+		death="1370.1.2"
+	}
+}
+
+470115 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19058
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=470113
+	1329.1.2 = {
+		birth="1329.1.2"
+	}
+	1379.1.2 = {
+		death="1379.1.2"
+	}
+}
+
+470116 = {
+	name="约翰"
+	# AKA: Janos
+	dynasty=19058
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	father=470113
+	1333.1.2 = {
+		birth="1333.1.2"
+	}
+	1383.1.2 = {
+		death="1383.1.2"
+	}
+}
+
+470117 = {
+	name="伊姆雷"
+	dynasty=19054
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="misguided_warrior"
+	father=470093
+	1238.1.2 = {
+		birth="1238.1.2"
+	}
+	1305.1.2 = {
+		death="1305.1.2"
+	}
+}
+
+470118 = {
+	name="劳伦斯"
+	# AKA: Lorinc
+	dynasty=19054
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="brave"
+	trait="tough_soldier"
+	father=470117
+	1270.1.2 = {
+		birth="1270.1.2"
+	}
+	1310.1.2 = {
+		add_spouse=470121
+	}
+	1330.1.10 = {
+		death="1330.1.10"
+	}
+}
+
+470119 = {
+	name="迈克尔"
+	# AKA: Mihaly
+	dynasty=19054
+	martial=2
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="brave"
+	trait="tough_soldier"
+	father=470117
+	1298.1.2 = {
+		birth="1298.1.2"
+	}
+	1348.1.2 = {
+		death="1348.1.2"
+	}
+}
+
+470120 = {
+	name="伊姆雷"
+	dynasty=19054
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="wroth"
+	trait="proud"
+	trait="tough_soldier"
+	father=470117
+	1301.1.2 = {
+		birth="1301.1.2"
+	}
+	1351.1.2 = {
+		death="1351.1.2"
+	}
+}
+
+470121 = {
+	name="凯瑟琳"
+	# AKA: Katalin Nagyamartoni
+	female=yes
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="gluttonous"
+	trait="naive_appeaser"
+	1295.1.2 = {
+		birth="1295.1.2"
+	}
+	1345.1.2 = {
+		death="1345.1.2"
+	}
+}
+
+470122 = {
+	name="约翰"
+	# AKA: Janos
+	dynasty=19054
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="just"
+	trait="tough_soldier"
+	father=470118
+	mother=470121
+	1310.1.2 = {
+		birth="1310.1.2"
+	}
+	1360.1.2 = {
+		death="1360.1.2"
+	}
+}
+
+470123 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=19054
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="just"
+	trait="tough_soldier"
+	father=470118
+	mother=470121
+	1312.1.2 = {
+		birth="1312.1.2"
+	}
+	1362.1.2 = {
+		death="1362.1.2"
+	}
+}
+
+470124 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19054
+	martial=2
+	diplomacy=3
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="zealous"
+	trait="just"
+	trait="detached_priest"
+	father=470118
+	mother=470121
+	1315.1.2 = {
+		birth="1315.1.2"
+	}
+	1365.1.2 = {
+		death="1365.1.2"
+	}
+}
+
+470125 = {
+	name="劳伦斯"
+	# AKA: Lorinc
+	dynasty=19054
+	martial=7
+	diplomacy=1
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="envious"
+	trait="ill"
+	trait="tough_soldier"
+	father=470118
+	mother=470121
+	1317.1.2 = {
+		birth="1317.1.2"
+	}
+	1367.1.2 = {
+		death="1367.1.2"
+	}
+}
+
+470126 = {
+	name="培尼狄克"
+	dynasty=19054
+	martial=2
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="arbitrary"
+	trait="thrifty_clerk"
+	father=470118
+	mother=470121
+	1320.1.2 = {
+		birth="1320.1.2"
+	}
+	1370.1.2 = {
+		death="1370.1.2"
+	}
+}
+
+470127 = {
+	name="约翰"
+	# AKA: Janos
+	dynasty=19054
+	martial=8
+	diplomacy=8
+	intrigue=2
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=470120
+	1331.1.2 = {
+		birth="1331.1.2"
+	}
+	1381.1.2 = {
+		death="1381.1.2"
+	}
+}
+
+470128 = {
+	name="安娜"
+	female=yes
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="charitable"
+	trait="gluttonous"
+	trait="flamboyant_schemer"
+	1307.1.2 = {
+		birth="1307.1.2"
+	}
+	1357.1.2 = {
+		death="1357.1.2"
+	}
+}
+
+470129 = {
+	name="伊丽莎白"
+	female=yes
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="temperate"
+	trait="naive_appeaser"
+	1309.1.2 = {
+		birth="1309.1.2"
+	}
+	1359.1.2 = {
+		death="1359.1.2"
+	}
+}
+
+470130 = {
+	name="托马斯"
+	dynasty=19045
+	martial=5
+	diplomacy=5
+	intrigue=2
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=93662
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1299.1.1 = {
+		death="1299.1.1"
+	}
+}
+
+470131 = {
+	name="劳伦斯"
+	dynasty=19045
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=470130
+	1280.1.2 = {
+		birth="1280.1.2"
+	}
+	1315.1.10 = {
+		death="1315.1.10"
+	}
+}
+
+470132 = {
+	name="尼古拉斯"
+	dynasty=19045
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="tough_soldier"
+	father=470130
+	1289.1.2 = {
+		birth="1289.1.2"
+	}
+	1330.1.10 = {
+		death="1330.1.10"
+	}
+}
+
+470133 = {
+	name="乔纳迪"
+	dynasty=19045
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="zealous"
+	trait="temperate"
+	trait="mastermind_theologian"
+	father=470130
+	1293.1.2 = {
+		birth="1293.1.2"
+	}
+	1343.1.2 = {
+		death="1343.1.2"
+	}
+}
+
+470134 = {
+	name="蓬格拉茨"
+	dynasty=19045
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="tough_soldier"
+	father=470130
+	1295.1.2 = {
+		birth="1295.1.2"
+	}
+	1330.1.10 = {
+		death="1330.1.10"
+	}
+}
+
+470135 = {
+	name="约翰"
+	dynasty=19045
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="slothful"
+	trait="tough_soldier"
+	father=470131
+	1305.1.2 = {
+		birth="1305.1.2"
+	}
+	1355.1.2 = {
+		death="1355.1.2"
+	}
+}
+
+470136 = {
+	name="托马斯"
+	dynasty=19045
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="wroth"
+	trait="proud"
+	trait="charismatic_negotiator"
+	father=470131
+	1309.1.2 = {
+		birth="1309.1.2"
+	}
+	1359.1.2 = {
+		death="1359.1.2"
+	}
+}
+
+470137 = {
+	name="斯蒂芬"
+	dynasty=19045
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="detached_priest"
+	father=470132
+	1315.1.2 = {
+		birth="1315.1.2"
+	}
+	1365.1.2 = {
+		death="1365.1.2"
+	}
+}
+
+470138 = {
+	name="德米特"
+	dynasty=19045
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="ill"
+	trait="proud"
+	trait="tough_soldier"
+	father=470132
+	1318.1.2 = {
+		birth="1318.1.2"
+	}
+	1368.1.2 = {
+		death="1368.1.2"
+	}
+}
+
+470139 = {
+	name="乔治"
+	dynasty=19045
+	martial=2
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="diligent"
+	trait="flamboyant_schemer"
+	father=470132
+	1320.1.2 = {
+		birth="1320.1.2"
+	}
+	1370.1.2 = {
+		death="1370.1.2"
+	}
+}
+
+470140 = {
+	name="尼古拉斯"
+	dynasty=19045
+	martial=2
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="diligent"
+	trait="thrifty_clerk"
+	father=470132
+	1322.1.2 = {
+		birth="1322.1.2"
+	}
+	1372.1.2 = {
+		death="1372.1.2"
+	}
+}
+
+470141 = {
+	name="托马斯"
+	dynasty=19045
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="zealous"
+	trait="martial_cleric"
+	father=470134
+	1318.1.2 = {
+		birth="1318.1.2"
+	}
+	1368.1.2 = {
+		death="1368.1.2"
+	}
+}
+
+470142 = {
+	name="多萝西"
+	female=yes
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="honest"
+	trait="thrifty_clerk"
+	1309.1.2 = {
+		birth="1309.1.2"
+	}
+	1359.1.2 = {
+		death="1359.1.2"
+	}
+}
+
+470150 = {
+	name="亨利克"
+	dynasty=19032
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="tough_soldier"
+	father=93768
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1309.1.1 = {
+		death="1309.1.1"
+	}
+}
+
+470151 = {
+	name="彼得"
+	dynasty=19032
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="humble"
+	trait="tough_soldier"
+	father=470150
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1326.1.1 = {
+		add_spouse=470152
+	}
+	1351.1.1 = {
+		death="1351.1.1"
+	}
+}
+
+470152 = {
+	name="安娜"
+	female = yes
+	dynasty=19007 #Blagai
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=2
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="envious"
+	trait="charismatic_negotiator"
+	father=32645
+	1310.1.1 = {
+		birth="1310.1.1"
+	}
+	1360.1.1 = {
+		death="1360.1.1"
+	}
+}
+
+470160 = {
+	name="斯蒂芬"
+	# AKA: Istvan Cseh
+	dynasty=19010
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="zealous"
+	trait="brave"
+	trait="charitable"
+	trait="tough_soldier"
+	father=470161
+	mother=470162
+	1301.1.2 = {
+		birth="1301.1.2"
+	}
+	1333.1.2 = {
+		add_spouse=470164
+	}
+	1351.1.2 = {
+		death="1351.1.2"
+	}
+}
+
+470162 = {
+	name="安娜"
+	female=yes
+	dynasty=19010
+	martial=2
+	diplomacy=6
+	intrigue=2
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="thrifty_clerk"
+	father=470163
+	1275.1.2 = {
+		birth="1275.1.2"
+	}
+	1325.1.2 = {
+		death="1325.1.2"
+	}
+}
+
+470163 = {
+	name="彼得"
+	dynasty=19010
+	martial=5
+	diplomacy=4
+	intrigue=2
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="envious"
+	trait="tough_soldier"
+	father=93683
+	1236.1.1 = {
+		birth="1236.1.1"
+	}
+	1278.1.1 = {
+		death="1278.1.1"
+	}
+}
+
+470164 = {
+	name="安娜"
+	female=yes
+	martial=2
+	diplomacy=2
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="zealous"
+	trait="greedy"
+	trait="flamboyant_schemer"
+	1309.1.2 = {
+		birth="1309.1.2"
+	}
+	1359.1.2 = {
+		death="1359.1.2"
+	}
+}
+
+470180 = {
+	name="多莫科什"
+	dynasty=19060
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="envious"
+	trait="tough_soldier"
+	father=93718
+	1237.1.1 = {
+		birth="1237.1.1"
+	}
+	1280.1.1 = {
+		death="1280.1.1"
+	}
+}
+
+470181 = {
+	name="东切"
+	dynasty=19060
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="patient"
+	trait="lustful"
+	trait="tough_soldier"
+	father=470180
+	1275.1.1 = {
+		birth="1275.1.1"
+	}
+	1296.1.1 = {
+		add_spouse=470182
+	}
+	1345.7.22 = {
+		death="1345.7.22"
+	}
+}
+
+470182 = {
+	name="克拉拉"
+	# AKA: Klara
+	female=yes
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="charitable"
+	trait="flamboyant_schemer"
+	1280.1.2 = {
+		birth="1280.1.2"
+	}
+	1330.1.2 = {
+		death="1330.1.2"
+	}
+}
+
+470183 = {
+	name="拉兹洛"
+	# AKA: Laszlo
+	dynasty=19060
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="zealous"
+	trait="chaste"
+	trait="tough_soldier"
+	father=470181
+	mother=470182
+	1307.1.2 = {
+		birth="1307.1.2"
+	}
+	1357.1.2 = {
+		death="1357.1.2"
+	}
+}
+
+470184 = {
+	name="约翰"
+	# AKA: Janos
+	dynasty=19060
+	martial=6
+	diplomacy=2
+	intrigue=2
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="brave"
+	trait="misguided_warrior"
+	father=470181
+	mother=470182
+	1310.1.2 = {
+		birth="1310.1.2"
+	}
+	1360.1.2 = {
+		death="1360.1.2"
+	}
+}
+
+470185 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=19060
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="chaste"
+	trait="scholarly_theologian"
+	father=470181
+	mother=470182
+	1311.1.2 = {
+		birth="1311.1.2"
+	}
+	1361.1.2 = {
+		death="1361.1.2"
+	}
+}
+
+470186 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19060
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="zealous"
+	trait="lustful"
+	trait="tough_soldier"
+	father=470181
+	mother=470182
+	1313.1.2 = {
+		birth="1313.1.2"
+	}
+	1363.1.2 = {
+		death="1363.1.2"
+	}
+}
+
+470187 = {
+	name="克拉拉"
+	# AKA: Klara
+	female=yes
+	dynasty=19060
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="lustful"
+	trait="naive_appeaser"
+	father=470181
+	mother=470182
+	1311.1.2 = {
+		birth="1311.1.2"
+	}
+	1361.1.2 = {
+		death="1361.1.2"
+	}
+}
+
+470190 = {
+	name="亚伯拉罕"
+	# AKA: abraham
+	dynasty=19061
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="lustful"
+	trait="tough_soldier"
+	father=93635
+	1246.1.1 = {
+		birth="1246.1.1"
+	}
+	1307.1.1 = {
+		death="1307.1.1"
+	}
+}
+
+470191 = {
+	name="彼得"
+	dynasty=19061
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="craven"
+	trait="temperate"
+	trait="elusive_shadow"
+	father=470190
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1327.1.1 = {
+		add_spouse=470194
+	}
+	1347.1.1 = {
+		death="1347.1.1"
+	}
+}
+
+470192 = {
+	name="谢拜什"
+	dynasty=19061
+	martial=7
+	diplomacy=7
+	intrigue=3
+	stewardship=2
+	religion="catholic"
+	culture="hungarian"
+	trait="charitable"
+	trait="proud"
+	trait="tough_soldier"
+	father=470190
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1330.1.1 = {
+		add_spouse=470187
+	}
+	1348.1.1 = {
+		death="1348.1.1"
+	}
+}
+
+470193 = {
+	name="乔治"
+	dynasty=19061
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	father=470192
+	mother=470187
+	1336.1.2 = {
+		birth="1336.1.2"
+	}
+	1386.1.2 = {
+		death="1386.1.2"
+	}
+}
+
+470194 = {
+	name="波瑙"
+	female=yes
+	martial=4
+	diplomacy=4
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="honest"
+	trait="naive_appeaser"
+	1306.1.2 = {
+		birth="1306.1.2"
+	}
+	1360.1.2 = {
+		death="1360.1.2"
+	}
+}
+
+470200 = {
+	name="拜赖茨克"
+	dynasty=19062
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="martial_cleric"
+	father=93642
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1320.1.1 = {
+		death="1320.1.1"
+	}
+}
+
+470201 = {
+	name="安德鲁"
+	# AKA: Andras
+	dynasty=19062
+	martial=2
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="scholarly_theologian"
+	father=470200
+	1295.1.2 = {
+		birth="1295.1.2"
+	}
+	1345.1.2 = {
+		death="1345.1.2"
+	}
+}
+
+470202 = {
+	name="约翰"
+	# AKA: Janos
+	dynasty=19062
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="deceitful"
+	trait="lustful"
+	trait="brave"
+	trait="tough_soldier"
+	father=470200
+	1301.1.2 = {
+		birth="1301.1.2"
+	}
+	1351.1.2 = {
+		death="1351.1.2"
+	}
+}
+
+470203 = {
+	name="勒克什"
+	# AKA: Lokos
+	dynasty=19062
+	martial=4
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="charitable"
+	trait="tough_soldier"
+	father=470200
+	1303.1.2 = {
+		birth="1303.1.2"
+	}
+	1330.1.10 = {
+		death="1330.1.10"
+	}
+}
+
+470204 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19062
+	martial=4
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="humble"
+	trait="charitable"
+	trait="tough_soldier"
+	father=470200
+	1305.1.2 = {
+		birth="1305.1.2"
+	}
+	1355.1.2 = {
+		death="1355.1.2"
+	}
+}
+
+470205 = {
+	name="培尼狄克"
+	dynasty=19062
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="charitable"
+	trait="tough_soldier"
+	father=470203
+	1322.1.2 = {
+		birth="1322.1.2"
+	}
+	1372.1.2 = {
+		death="1372.1.2"
+	}
+}
+
+470206 = {
+	name="彼得"
+	dynasty=19062
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="tough_soldier"
+	father=470203
+	1325.1.2 = {
+		birth="1325.1.2"
+	}
+	1375.1.2 = {
+		death="1375.1.2"
+	}
+}
+
+470210 = {
+	name="培尼狄克"
+	dynasty=19014
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="brave"
+	trait="tough_soldier"
+	1279.1.2 = {
+		birth="1279.1.2"
+	}
+	1322.1.10 = {
+		death="1322.1.10"
+	}
+}
+
+470212 = {
+	name="詹姆斯"
+	dynasty=19014
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="brave"
+	trait="tough_soldier"
+	father=470210
+	1299.1.2 = {
+		birth="1299.1.2"
+	}
+	1349.1.2 = {
+		death="1349.1.2"
+	}
+}
+
+470213 = {
+	name="尼古拉斯"
+	# AKA: Miklos
+	dynasty=19014
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="cynical"
+	trait="slothful"
+	trait="pneumonic"
+	trait="tough_soldier"
+	father=470210
+	1300.1.2 = {
+		birth="1300.1.2"
+	}
+	1350.1.2 = {
+		death="1350.1.2"
+	}
+}
+
+470214 = {
+	name="拉芬"
+	dynasty=19014
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="greedy"
+	trait="brave"
+	trait="tough_soldier"
+	father=470210
+	1302.1.2 = {
+		birth="1302.1.2"
+	}
+	1352.1.2 = {
+		death="1352.1.2"
+	}
+}
+
+470215 = {
+	name="安德鲁"
+	# AKA: Andras
+	dynasty=19014
+	martial=5
+	diplomacy=1
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="arbitrary"
+	trait="misguided_warrior"
+	father=470210
+	1308.1.2 = {
+		birth="1308.1.2"
+	}
+	1358.1.2 = {
+		death="1358.1.2"
+	}
+}
+
+470216 = {
+	name="保罗"
+	# AKA: Pal
+	dynasty=19014
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="proud"
+	trait="honest"
+	trait="tough_soldier"
+	father=470210
+	1313.1.2 = {
+		birth="1313.1.2"
+	}
+	1363.1.2 = {
+		death="1363.1.2"
+	}
+}
+
+470217 = {
+	name="多饶"
+	# AKA: Dozsa
+	dynasty=19014
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="slothful"
+	trait="proud"
+	trait="scholarly_theologian"
+	father=470210
+	1319.1.2 = {
+		birth="1319.1.2"
+	}
+	1369.1.2 = {
+		death="1369.1.2"
+	}
+}
+
+470218 = {
+	name="克拉拉"
+	# AKA: Klara
+	female=yes
+	dynasty=19014
+	martial=2
+	diplomacy=5
+	intrigue=3
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="proud"
+	trait="charitable"
+	trait="thrifty_clerk"
+	father=470210
+	1310.1.2 = {
+		birth="1310.1.2"
+	}
+	1360.1.2 = {
+		death="1360.1.2"
+	}
+}
+
+471 = {
+	name="索菲亚"
+	# AKA: Zsofia
+	female=yes
+	dynasty=708
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="diligent"
+	father=470
+	mother=763
+	1046.1.1 = {
+		birth="1046.1.1"
+	}
+	1095.6.18 = {
+		death="1095.6.18"
+	}
+}
+
+472 = {
+	name="格扎"
+	# AKA: Geza
+	dynasty=708
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="kind"
+	trait="chaste"
+	trait="honest"
+	trait="charismatic_negotiator"
+	father=470
+	mother=763
+	1044.1.1 = {
+		birth="1044.1.1"
+	}
+	1062.1.1 = {
+		add_spouse=479
+	}
+	1077.4.25 = {
+		death="1077.4.25"
+	}
+}
+
+473 = {
+	name="欧费米娅"
+	# AKA: Eufemia
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="honest"
+	trait="thrifty_clerk"
+	father=470
+	mother=763
+	1049.1.1 = {
+		birth="1049.1.1"
+	}
+	1066.1.1 = {
+	employer=472
+	}
+	1111.4.2 = {
+		death="1111.4.2"
+	}
+}
+
+474 = {
+	name="拉兹洛"
+	# AKA: Laszlo
+	dynasty=708
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="diligent"
+	trait="just"
+	trait="proud"
+	trait="gluttonous"
+	trait="honest"
+	trait="brilliant_strategist"
+	father=470
+	mother=763
+	1047.1.1 = {
+		birth="1047.1.1"
+	}
+	1077.1.1 = {
+		add_spouse=1399
+	}
+	1095.7.29 = {
+		death="1095.7.29"
+	}
+}
+
+475 = {
+	name="伊洛娜"
+	female=yes
+	dynasty=708
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="gluttonous"
+	trait="elusive_shadow"
+	father=470
+	mother=763
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1091.1.1 = {
+		death="1091.1.1"
+	}
+}
+
+476 = {
+	name="所罗门"
+	dynasty=708
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="cynical"
+	trait="tough_soldier"
+	father=468
+	mother=637
+	1053.1.1 = {
+		birth="1053.1.1"
+	}
+	1063.1.1 = {
+		add_spouse=1476
+	}
+	1087.1.1 = {
+		death="1087.1.1"
+	}
+}
+
+477 = {
+	name="阿德莱德"
+	female=yes
+	dynasty=708
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="gluttonous"
+	trait="scholarly_theologian"
+	father=468
+	mother=637
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1062.1.27 = {
+		death="1062.1.27"
+	}
+}
+
+478 = {
+	name="大卫"
+	# AKA: David
+	dynasty=708
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="arbitrary"
+	trait="tough_soldier"
+	father=468
+	mother=637
+	1054.1.1 = {
+		birth="1054.1.1"
+	}
+	1066.1.1 = {
+	employer=476
+	}
+	1094.1.1 = {
+		death="1094.1.1"
+	}
+}
+
+480 = {
+	name="卡尔曼"
+	# AKA: Kalman
+	dynasty=708
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="hunchback"
+	trait="scholarly_theologian"
+	father=472
+	mother=479
+	1065.1.1 = {
+		birth="1065.1.1"
+	}
+	1097.1.2 = {
+	capital=k_hungary
+	}
+	1097.1.2 = {
+		add_spouse=98008
+	}
+	1104.1.2 = {
+		add_spouse=98018
+	}
+	1112.1.2 = {
+	remove_spouse=98018
+	}
+	1116.2.3 = {
+		death="1116.2.3"
+	}
+}
+
+482 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=708
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="just"
+	trait="patient"
+	trait="diligent"
+	trait="martial_cleric"
+	father=464
+	mother=753
+	975.1.1 = {
+		birth="975.1.1"
+	}
+	996.1.1 = {
+		add_spouse=1297
+	}
+	1038.8.15 = {
+		death="1038.8.15"
+	}
+}
+
+484 = {
+	name="塔托妮"
+	# AKA: Tatony
+	dynasty=180
+	female=yes
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="tengri_pagan"
+	culture="hungarian"
+	trait="honest"
+	trait="fortune_builder"
+	995.1.1 = {
+		birth="995.1.1"
+	}
+	1052.1.1 = {
+		death="1052.1.1"
+	}
+}
+
+485 = {
+	name="列文特"
+	dynasty=708
+	martial=7
+	diplomacy=6
+	intrigue=3
+	stewardship=4
+	religion="tengri_pagan"
+	culture="hungarian"
+	trait="charitable"
+	trait="cynical"
+	trait="tough_soldier"
+	father=466
+	mother=484
+	1018.1.1 = {
+		birth="1018.1.1"
+	}
+	1047.1.1 = {
+		death="1047.1.1"
+	}
+}
+
+486 = {
+	name="乔治"
+	dynasty=708
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="bastard"
+	trait="diligent"
+	trait="thrifty_clerk"
+	father=468
+	1037.1.1 = {
+		birth="1037.1.1"
+	}
+	1066.1.1 = {
+	employer=984
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+487 = {
+	name="拉兹洛"
+	# AKA: Laszlo
+	dynasty=708
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="tengri_pagan"
+	culture="hungarian"
+	trait="wroth"
+	trait="misguided_warrior"
+	father=462
+	mother=759
+	975.1.1 = {
+		birth="975.1.1"
+	}
+	1029.1.1 = {
+		death="1029.1.1"
+	}
+}
+
+488 = {
+	name="奥多"
+	# AKA: Otto
+	dynasty=708
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="thrifty_clerk"
+	father=482
+	mother=1297
+	1002.1.1 = {
+		birth="1002.1.1"
+	}
+	1010.1.1 = {
+		death="1010.1.1"
+	}
+}
+
+489 = {
+	name="伊姆雷"
+	dynasty=708
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="honest"
+	trait="kind"
+	trait="martial_cleric"
+	father=482
+	mother=1297
+	1007.1.1 = {
+		birth="1007.1.1"
+	}
+	1031.11.2 = {
+		death="1031.11.2"
+	}
+}
+
+490 = {
+	name="奥多拉"
+	dynasty=708
+	female=yes
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="arbitrary"
+	trait="naive_appeaser"
+	father=464
+	mother=753
+	971.1.1 = {
+		birth="971.1.1"
+	}
+	1023.1.1 = {
+		death="1023.1.1"
+	}
+}
+
+491 = {
+	name="萨拉"
+	# AKA: Sara
+	female=yes
+	dynasty=19053
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="kind"
+	trait="wroth"
+	trait="amateurish_plotter"
+	father=4427
+	1016.1.1 = {
+		birth="1016.1.1"
+	}
+	1066.1.1 = {
+	employer=20369
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+
+492 = {
+	name="伊洛娜"
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=7
+	intrigue=3
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="ill"
+	trait="diligent"
+	trait="scholarly_theologian"
+	father=464
+	mother=753
+	973.1.1 = {
+		birth="973.1.1"
+	}
+	1000.1.1 = {
+		death="1000.1.1"
+	}
+}
+
+495 = {
+	name="玛丽"
+	# AKA: Maria
+	female=yes
+	dynasty=708
+	martial=2
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="patient"
+	trait="thrifty_clerk"
+	father=464
+	mother=759
+	989.1.1 = {
+		birth="989.1.1"
+	}
+	1026.1.1 = {
+		death="1026.1.1"
+	}
+}
+
+497 = {
+	name="彼得"
+	# AKA: Pietro Oddone
+	dynasty=101562
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="envious"
+	trait="craven"
+	trait="underhanded_rogue"
+	father=496
+	mother=495
+	1011.1.1 = {
+		birth="1011.1.1"
+	}
+	1050.1.1= { 
+		add_spouse=30213
+	}
+	1055.1.1= { 
+	remove_spouse=30213
+	}
+	1060.8.30 = {
+		death="1060.8.30"
+	}
+}
+
+499 = {
+	name="夏洛特"
+	dynasty=708
+	female=yes
+	martial=3
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="temperate"
+	trait="intricate_webweaver"
+	father=464
+	mother=759
+	987.1.1 = {
+		birth="987.1.1"
+	}
+	1053.1.1 = {
+		death="1053.1.1"
+	}
+}
+
+599 = {
+	name="普莱切拉瓦"
+	# AKA: Predeslava
+	female=yes
+	religion="pagan"
+	culture="hungarian"
+	942.1.2 = {
+		birth="942.1.2"
+	}
+	980.1.2 = {
+		death="980.1.2"
+	}
+}
+
+98000 = {
+	name="拉兹洛"
+	# AKA: Laszlo
+	dynasty=708
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="envious"
+	trait="impaler"
+	trait="proud"
+	trait="intricate_webweaver"
+	father=219530
+	mother=218511
+	1131.1.2 = {
+		birth="1131.1.2"
+	}
+	1136.1.2 = {
+		add_spouse=221513
+	}
+	1147.6.1 = {
+	remove_spouse=221513
+	}
+	1163.1.14 = {
+		death="1163.1.14"
+	}
+}
+
+98001 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=708
+	martial=2
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="slothful"
+	trait="proud"
+	trait="naive_appeaser"
+	father=219530
+	mother=218511
+	1133.1.2 = {
+		birth="1133.1.2"
+	}
+	1156.1.2 = {
+		add_spouse=223021
+	}
+	1165.4.11 = {
+		death="1165.4.11"
+	}
+}
+
+98002 = {
+	name="拉兹洛"
+	# AKA: Laszlo
+	dynasty=708
+	martial=2
+	diplomacy=1
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="ill"
+	trait="amateurish_plotter"
+	father=219501
+	mother=210503
+	1199.1.2 = {
+		birth="1199.1.2"
+	}
+	#1146.1.2 = {
+	#add_spouse=222573
+	#}
+	1205.5.7 = {
+		death="1205.5.7"
+	}
+}
+
+98003 = {
+	name="贝拉"
+	dynasty=708
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	trait="temperate"
+	trait="brave"
+	trait="skilled_tactician"
+	father=219502
+	mother=212946
+	1206.11.29 = {
+		birth="1206.11.29"
+	}
+	1218.1.2 = {
+		add_spouse=98033
+	}
+	1270.5.3 = {
+		death="1270.5.3"
+	}
+}
+
+98004 = {
+	name="斯蒂芬"
+	dynasty=708
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=2
+	religion="catholic"
+	culture="hungarian"
+	trait="greedy"
+	trait="envious"
+	trait="deceitful"
+	trait="tough_soldier"
+	father=98003
+	mother=98033
+	1239.11.1 = {
+		birth="1239.11.1"
+	}
+	1253.1.2 = {
+		add_spouse=98042
+	}
+	1272.8.6 = {
+		death="1272.8.6"
+	}
+}
+
+98005 = {
+	name="拉兹洛"
+	# AKA: Laszlo
+	dynasty=708
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="lustful"
+	trait="hedonist"
+	trait="indulgent_wastrel"
+	father=98004
+	1262.8.5 = {
+	birth="1262.8.5"
+	}
+	1278.1.1 = {
+		add_spouse=32789 #Elizabeth d'Anjou
+	} 
+	1290.7.10 = {
+	death="1290.7.10"
+	}
+}
+
+98006 = {
+	name="斯蒂芬"
+	# AKA: Istvan
+	dynasty=708
+	martial=2
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="duelist"
+	trait="gregarious"
+	trait="intricate_webweaver"
+	father=219502
+	mother=98025
+	1236.1.1 = {
+		birth="1236.1.1"
+	}
+	1264.1.2 = {
+		add_spouse=182018 #Tomasini Morosini
+	}
+	1271.1.1 = {
+		death="1271.1.1"
+	}
+}
+
+98007 = {
+	name="安德鲁"
+	# AKA: Andras
+	dynasty=708
+	martial=1
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="slow"
+	trait="craven"
+	trait="underhanded_rogue"
+	father=98006
+	mother=182018 #Tomasini Morosini
+	1265.1.2 = {
+		birth="1265.1.2"
+	}
+	1301.1.14 = {
+		death="1301.1.14"
+	}
+}
+
+98011 = {
+	name="伊丽莎白"
+	female=yes
+	dynasty=708
+	martial=1
+	diplomacy=3
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="trusting"
+	trait="zealous"
+	trait="grey_eminence"
+	father=98003
+	mother=98033
+	1236.1.1 = {
+		birth="1236.1.1"
+	}
+	1271.10.24 = {
+		death="1271.10.24"
+	}
+}
+
+98012 = {
+	name="安娜"
+	female=yes
+	dynasty=708
+	martial=2
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="content"
+	trait="gregarious"
+	trait="underhanded_rogue"
+	father=98003
+	mother=98033
+	1227.1.1 = {
+		birth="1227.1.1"
+	}
+	1270.1.2 = {
+		death="1270.1.2"
+	}
+}
+
+98017 = {
+	name="阿德尔海德"
+	female=yes
+	dynasty=708
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	father=470
+	mother=763
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1104.1.2 = {
+		death="1104.1.2"
+	}
+}
+
+98019 = {
+	name="海德薇"
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	father=219531
+	mother=219532
+	1111.1.2 = {
+		birth="1111.1.2"
+	}
+	1140.1.2 = {
+		death="1140.1.2"
+	}
+}
+
+98020 = {
+	name="玛丽亚"
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	father=98000
+	mother=221513
+	1147.1.2 = {
+		birth="1147.1.2"
+	}
+	1183.1.2 = {
+		death="1183.1.2"
+	}
+}
+
+98021 = {
+	name="奥多拉"
+	female=yes
+	dynasty=708
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	father=219510
+	mother=222573
+	1156.1.2 = {
+		birth="1156.1.2"
+	}
+	1199.1.2 = {
+		death="1199.1.2"
+	}
+}
+
+98023 = {
+	name="贝拉"
+	# AKA: Bela
+	dynasty=708
+	martial=1
+	diplomacy=2
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	father=219511
+	mother=212542
+	1167.1.2 = {
+		birth="1167.1.2"
+	}
+	1167.3.5 = {
+		death="1167.3.5"
+	}
+}
+
+98026 = {
+	name="安娜 玛丽"
+	# AKA: Maria
+	female=yes
+	dynasty=708
+	martial=2
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	father=219502
+	mother=212946
+	1204.1.1 = {
+		birth="1204.1.1"
+	}
+	1238.1.1 = {
+		death="1238.1.1"
+	}
+}
+
+98027 = {
+	name="伊丽莎白"
+	female=yes
+	dynasty=708
+	martial=6
+	diplomacy=8
+	intrigue=2
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	father=219502
+	mother=212946
+	1207.7.7 = {
+		birth="1207.7.7"
+	}
+	1231.11.17 = {
+		death="1231.11.17"
+	}
+}
+
+98028 = {
+	name="卡尔曼"
+	# AKA: Kalman
+	dynasty=708
+	martial=8
+	diplomacy=5
+	intrigue=3
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	father=219502
+	mother=212946
+	1208.1.1 = {
+		birth="1208.1.1"
+	}
+    1241.1.1 = {
+		add_spouse=125981
+    }
+	1241.4.11 = {
+		death="1241.4.11"
+	}
+}
+
+98029 = {
+	name="安德鲁"
+	# AKA: Andras
+	dynasty=708
+	martial=8
+	diplomacy=5
+	intrigue=3
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	father=219502
+	mother=212946
+	1211.1.2 = {
+		birth="1211.1.2"
+	}
+	1227.1.2 = {
+		add_spouse=125148
+	}
+	1234.1.1 = {
+		death="1234.1.1"
+	}
+}
+
+98030 = {
+	name="约兰德"
+	# AKA: Jolan
+	female=yes
+	dynasty=708
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	father=219502
+	mother=98024
+	1215.11.2 = {
+		birth="1215.11.2"
+	}
+	1251.10.9 = {
+		death="1251.10.9"
+	}
+}
+
+98049 = {
+	name="凯瑟琳"
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=8
+	intrigue=2
+	stewardship=6
+	religion="catholic"
+	culture="hungarian"
+	father=474
+	mother=1399
+	1072.1.2 = {
+		birth="1072.1.2"
+	}
+	1107.1.2 = {
+		death="1107.1.2"
+	}
+}
+
+98031 = {
+	name="格扎"
+	dynasty=708
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="hungarian"
+	trait="charismatic_negotiator"
+	father=219517
+	1190.1.2 = {
+		birth="1190.1.2"
+	}
+	1212.1.2 = {
+		death="1212.1.2"
+	}
+}
+
+98032 = {
+	name="斯蒂芬"
+	dynasty=708
+	martial=3
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	trait="thrifty_clerk"
+	father=219517
+	1192.1.2 = {
+		birth="1192.1.2"
+	}
+	1215.1.2 = {
+		death="1215.1.2"
+	}
+}
+
+98034 = {
+	name="库尼贡达"
+	female=yes
+	dynasty=708
+	martial=2
+	diplomacy=5
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="zealous"
+	trait="mastermind_theologian"
+	father=98003
+	mother=98033
+	1224.1.1 = {
+		birth="1224.1.1"
+	}
+	1292.7.24 = {
+		death="1292.7.24"
+	}
+}
+
+98035 = {
+	name="玛格丽特"
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=6
+	intrigue=2
+	stewardship=7
+	religion="catholic"
+	culture="hungarian"
+	trait="fortune_builder"
+	father=98003
+	mother=98033
+	1221.1.1 = {
+		birth="1221.1.1"
+	}
+	1242.4.20 = {
+		death="1242.4.20"
+	}
+}
+
+98036 = {
+	name="凯瑟琳"
+	female=yes
+	dynasty=708
+	martial=3
+	diplomacy=4
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="hungarian"
+	trait="fortune_builder"
+	father=98003
+	mother=98033
+	1229.1.1 = {
+		birth="1229.1.1"
+	}
+	1242.1.2 = {
+		death="1242.1.2"
+	}
+}
+
+98037 = {
+	name="康斯坦茨"
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=8
+	intrigue=2
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="fortune_builder"
+	father=98003
+	mother=98033
+	1237.1.1 = {
+		birth="1237.1.1"
+	}
+	1298.1.2 = {
+		death="1298.1.2"
+	}
+}
+
+98038 = {
+	name="约兰"
+	female=yes
+	dynasty=708
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=1
+	religion="catholic"
+	culture="hungarian"
+	father=98003
+	mother=98033
+	1244.1.1 = {
+		birth="1244.1.1"
+	}
+	1298.3.6 = {
+		death="1298.3.6"
+	}
+}
+
+98039 = {
+	name="玛格丽特"
+	female=yes
+	dynasty=708
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=1
+	religion="catholic"
+	culture="hungarian"
+	trait="mastermind_theologian"
+	father=98003
+	mother=98033
+	1242.5.1 = {
+		birth="1242.5.1"
+	}
+	1270.1.18 = {
+		death="1270.1.18"
+	}
+}
+
+98040 = {
+	name="贝拉"
+	dynasty=708
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	trait="mastermind_theologian"
+	father=98003
+	mother=98033
+	1243.1.1 = {
+		birth="1243.1.1"
+	}
+	1264.10.25 = {
+		add_spouse=98041
+	}
+	1269.1.1 = {
+		death="1269.1.1"
+	}
+}
+
+98043 = {
+	name="凯瑟琳"
+	female=yes
+	dynasty=708
+	martial=5
+	diplomacy=3
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	father=98004
+	mother=98042
+	1256.1.2 = {
+		birth="1256.1.2"
+	}
+	1314.1.2 = {
+		death="1314.1.2"
+	}
+}
+
+98044 = {
+	name="伊丽莎白"
+	female=yes
+	dynasty=708
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="hungarian"
+	father=98004
+	mother=98042
+	1255.1.2 = {
+		birth="1255.1.2"
+	}
+	1326.1.2 = {
+		death="1326.1.2"
+	}
+}
+
+98045 = {
+	name="艾格尼丝"
+	female=yes
+	dynasty=708
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=2
+	religion="catholic"
+	culture="hungarian"
+	father=98004
+	mother=98042
+	1260.1.2 = {
+		birth="1260.1.2"
+	}
+	1281.1.2 = {
+		death="1281.1.2"
+	}
+}
+
+98046 = {
+	name="安德鲁"
+	dynasty=708
+	martial=7
+	diplomacy=2
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	father=98004
+	mother=98042
+	1268.1.2 = {
+		birth="1268.1.2"
+	}
+	1278.1.2 = {
+		death="1278.1.2"
+	}
+}
+
+98047 = {
+	name="安娜"
+	female=yes
+	dynasty=708
+	martial=7
+	diplomacy=2
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="hungarian"
+	father=98004
+	mother=98042
+	1258.1.1 = {
+		birth="1258.1.1"
+	}
+	1285.1.1 = {
+		death="1285.1.1"
+	}
+}
+
+32637 = {
+	name="鲍博涅格" 
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1255.1.1 = {
+		death="1255.1.1"
+	}
+}
+
+32638 = {
+	name="鲍博涅格" 
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32637
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1280.1.1 = {
+		death="1280.1.1"
+	}
+}
+
+32639 = {
+	name="斯蒂芬" #ban of Slavonia 1310-1316
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32638
+	1255.1.1 = {
+		birth="1255.1.1"
+	}
+	1316.1.1 = {
+		death="1316.1.1"
+	}
+}
+
+32640 = {
+	name="斯蒂芬" 
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32637
+	1232.1.1 = {
+		birth="1232.1.1"
+	}
+	1282.1.1 = {
+		death="1282.1.1"
+	}
+}
+
+32641 = {
+	name="斯蒂芬" #Ban of Slavonia 1278-1300
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32640
+	1255.1.1 = {
+		birth="1255.1.1"
+	}
+	1300.1.1 = {
+		death="1300.1.1"
+	}
+}
+
+32642 = {
+	name="拉多斯諾"
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32640
+	1256.1.1 = {
+		birth="1256.1.1"
+	}
+	1299.1.1 = {
+		death="1299.1.1"
+	}
+}
+
+32643 = {
+	name="斯蒂芬" 
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32641
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+32644 = {
+	name="拉兹洛" 
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32641
+	1288.1.1 = {
+		birth="1288.1.1"
+	}
+	1338.1.1 = {
+		death="1338.1.1"
+	}
+}
+
+32645 = {
+	name="约翰" #ban of Slavonia 
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32638
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1334.1.1 = {
+		death="1334.1.1"
+	}
+}
+
+32646 = {
+	name="奥多"
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32638
+	1262.1.1 = {
+		birth="1262.1.1"
+	}
+	1300.1.1 = {
+		death="1300.1.1"
+	}
+}
+
+32647 = {
+	name="拉多斯勒"
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32638
+	1264.1.1 = {
+		birth="1264.1.1"
+	}
+	1314.1.1 = {
+		death="1314.1.1"
+	}
+}
+
+32648 = {
+	name="尼古拉斯"
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32647
+	1286.1.1 = {
+		birth="1286.1.1"
+	}
+	1330.1.1 = {
+		death="1330.1.1"
+	}
+}
+
+32649 = {
+	name="蒂姆"
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32647
+	1292.1.1 = {
+		birth="1292.1.1"
+	}
+	1369.1.1 = {
+		death="1369.1.1"
+	}
+}
+
+32650 = {
+	name="乔治"
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32639
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1336.1.1 = {
+		death="1336.1.1"
+	}
+}
+
+32651 = {
+	name="约翰"
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32639
+	1297.1.1 = {
+		birth="1297.1.1"
+	}
+	1328.1.1 = {
+		death="1328.1.1"
+	}
+}
+
+32652 = {
+	name="丹尼斯"
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32639
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1370.1.1 = {
+		death="1370.1.1"
+	}
+}
+
+32653 = {
+	name="保罗"
+	dynasty=19007
+	religion="catholic"
+	culture="hungarian"
+	father=32639
+	1305.1.1 = {
+		birth="1305.1.1"
+	}
+	1380.1.1 = {
+		death="1380.1.1"
+	}
+}
+
+32654 = {
+	name="凯瑟琳"
+	female=yes
+	dynasty=19007 #Blagai
+	religion="catholic"
+	culture="hungarian"
+	father=32639
+	1305.1.1 = {
+		birth="1305.1.1"
+	}
+	1380.1.1 = {
+		death="1380.1.1"
+	}
+}
+
+93551 = {
+	name="洪特"
+	dynasty=19053
+	religion="catholic"
+	culture="hungarian"
+	father=20369
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+
+93552 = {
+	name="马丁"
+	dynasty=19053
+	religion="catholic"
+	culture="hungarian"
+	father=93551
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1203.1.1={
+		death="1203.1.1"
+	}
+}
+
+93624 = {
+	name="马丁"
+	#placeholder
+	dynasty=101570
+	religion="catholic"
+	culture="hungarian"
+	father=4412
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+93625 = {
+	name="马丁"
+	#placeholder
+	dynasty=101570
+	religion="catholic"
+	culture="hungarian"
+	father=93624
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+93626 = {
+	name="米斯卡"
+	#placeholder
+	dynasty=101570
+	religion="catholic"
+	culture="hungarian"
+	father=93625
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+93627 = {
+	name="库巴"
+	#placeholder
+	dynasty=101570
+	religion="catholic"
+	culture="hungarian"
+	father=93626
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+93628 = {
+	name="奥多"
+	#placeholder
+	dynasty=101568
+	religion="catholic"
+	culture="hungarian"
+	father=4397
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+
+93629 = {
+	name="托马斯"
+	#placeholder
+	dynasty=101568
+	religion="catholic"
+	culture="hungarian"
+	father=93628
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+93630 = {
+	name="伊波伊"
+	#placeholder
+	dynasty=101568
+	religion="catholic"
+	culture="hungarian"
+	father=93629
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+93631 = {
+	name="伊姆雷"
+	#placeholder
+	dynasty=101568
+	religion="catholic"
+	culture="hungarian"
+	father=93630
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+93632 = {
+	name="尼古拉斯"
+	#placeholder
+	dynasty=101568
+	religion="catholic"
+	culture="hungarian"
+	father=93631
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+93633 = {
+	name="贝尼"
+	#placeholder
+	dynasty=101568
+	religion="catholic"
+	culture="hungarian"
+	father=93632
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+93634 = {
+	name="谢拜什"
+	dynasty=19061
+	religion="catholic"
+	culture="hungarian"
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1239.1.1 = {
+		death="1239.1.1"
+	}
+}
+
+93635 = {
+	name="亚伯拉罕"
+	dynasty=19061
+	religion="catholic"
+	culture="hungarian"
+	father=93634
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1255.1.1 = {
+		death="1255.1.1"
+	}
+}
+
+93636 = {
+	name="托马斯"
+	dynasty=19061
+	religion="catholic"
+	culture="hungarian"
+	father=93635
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1287.1.1 = {
+		death="1287.1.1"
+	}
+}
+
+93637 = {
+	name="托马斯"
+	dynasty=19061
+	religion="catholic"
+	culture="hungarian"
+	father=470190
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1316.1.1 = {
+		death="1316.1.1"
+	}
+}
+
+93638 = {
+	name="伊姆雷"
+	# Placeholder
+	dynasty=100537
+	religion="catholic"
+	culture="hungarian"
+	1112.1.1 = {
+		birth="1112.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+93639 = {
+	name="尼古拉斯"
+	dynasty=19062
+	religion="catholic"
+	culture="hungarian"
+	1206.1.1 = {
+		birth="1206.1.1"
+	}
+	1260.1.1 = {
+		death="1260.1.1"
+	}
+}
+
+93640 = {
+	name="尼古拉斯"
+	dynasty=19062
+	religion="catholic"
+	culture="hungarian"
+	father=93639
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1291.1.1 = {
+		death="1291.1.1"
+	}
+}
+
+93641 = {
+	name="斯蒂芬"
+	dynasty=19062
+	religion="catholic"
+	culture="hungarian"
+	father=93639
+	1235.1.1 = {
+		birth="1235.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+
+93642 = {
+	name="安德鲁"
+	dynasty=19062
+	religion="catholic"
+	culture="hungarian"
+	father=93639
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+
+93643 = {
+	name="乔治"
+	dynasty=19062
+	religion="catholic"
+	culture="hungarian"
+	father=93642
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1307.1.1 = {
+		death="1307.1.1"
+	}
+}
+
+93644 = {
+	name="培尼狄克"
+	dynasty=19062
+	religion="catholic"
+	culture="hungarian"
+	father=93642
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1321.1.1 = {
+		death="1321.1.1"
+	}
+}
+
+93645 = {
+	name="培尼狄克"
+	# placeholder
+	dynasty=101563
+	religion="catholic"
+	culture="hungarian"
+	father=4358
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+93646 = {
+	name="乔治"
+	# placeholder
+	dynasty=101563
+	religion="catholic"
+	culture="hungarian"
+	father=93645
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+93647 = {
+	name="拜莱尼克"
+	# placeholder
+	dynasty=101563
+	religion="catholic"
+	culture="hungarian"
+	father=93646
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+93648 = {
+	name="伊姆雷"
+	# placeholder
+	dynasty=101563
+	religion="catholic"
+	culture="hungarian"
+	father=93647
+	1190.1.1 = {
+		birth="1190.1.1"
+	}
+	1250.1.1 = {
+		death="1250.1.1"
+	}
+}
+
+93649 = {
+	name="兰伯特"
+	# placeholder
+	dynasty=101563
+	religion="catholic"
+	culture="hungarian"
+	father=93647
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1250.1.1 = {
+		death="1250.1.1"
+	}
+}
+
+93650 = {
+	name="约翰"
+	dynasty=19059
+	religion="catholic"
+	culture="hungarian"
+	father=470101
+	1326.1.1 = {
+		birth="1326.1.1"
+	}
+	1394.1.1 = {
+		death="1394.1.1"
+	}
+}
+
+93651 = {
+	name="贝莱德"
+	dynasty=19058
+	religion="catholic"
+	culture="hungarian"
+	father=470090
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1236.1.1 = {
+		death="1236.1.1"
+	}
+}
+
+93652 = {
+	name="卡尔曼"
+	# placeholder
+	dynasty=100450
+	religion="catholic"
+	culture="hungarian"
+	1077.1.1 = {
+		birth="1077.1.1"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+93653 = {
+	name="大卫"
+	# placeholder
+	dynasty=100450
+	religion="catholic"
+	culture="hungarian"
+	father=93652
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+
+93654 = {
+	name="拉兹洛"
+	# placeholder
+	dynasty=100450
+	religion="catholic"
+	culture="hungarian"
+	father=93653
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+93655 = {
+	name="埃莱克" #real name unknown
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=4386
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+93656 = {
+	name="伊姆雷" #real name unknown
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93655
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+
+93657 = {
+	name="菲勒普" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93656
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1190.1.1 = {
+		death="1190.1.1"
+	}
+}
+
+93658 = {
+	name="培尼狄克" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93656
+	1135.1.1 = {
+		birth="1135.1.1"
+	}
+	1195.1.1 = {
+		death="1195.1.1"
+	}
+}
+
+93659 = {
+	name="博焦斯洛伊"
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93656
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+93660 = {
+	name="克莱门特" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93658
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1218.1.1 = {
+		death="1218.1.1"
+	}
+}
+
+93661 = {
+	name="瓦法" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93658
+	1163.1.1 = {
+		birth="1163.1.1"
+	}
+	1238.1.1 = {
+		death="1238.1.1"
+	}
+}
+
+93662 = {
+	name="蓬格拉茨"
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93660
+	1185.1.1 = {
+		birth="1185.1.1"
+	}
+	1256.1.1 = {
+		death="1256.1.1"
+	}
+}
+
+93663 = {
+	name="以撒"
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93660
+	1187.1.1 = {
+		birth="1187.1.1"
+	}
+	1256.1.1 = {
+		death="1256.1.1"
+	}
+}
+
+93664 = {
+	name="埃莱克"
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93660
+	1189.1.1 = {
+		birth="1189.1.1"
+	}
+	1256.1.1 = {
+		death="1256.1.1"
+	}
+}
+
+93665 = {
+	name="彻默尔"
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93660
+	1191.1.1 = {
+		birth="1191.1.1"
+	}
+	1256.1.1 = {
+		death="1256.1.1"
+	}
+}
+
+93666 = {
+	name="拉兹洛"
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93662
+	1235.1.1 = {
+		birth="1235.1.1"
+	}
+	1282.1.1 = {
+		death="1282.1.1"
+	}
+}
+
+93667 = {
+	name="毛科"
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93663
+	1217.1.1 = {
+		birth="1217.1.1"
+	}
+	1285.1.1 = {
+		death="1285.1.1"
+	}
+}
+
+93668 = {
+	name="乔纳迪" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93661
+	1193.1.1 = {
+		birth="1193.1.1"
+	}
+	1256.1.1 = {
+		death="1256.1.1"
+	}
+}
+
+93669 = {
+	name="丹尼斯" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93668
+	1223.1.1 = {
+		birth="1223.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+
+93670 = {
+	name="格雷戈里" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93668
+	1228.1.1 = {
+		birth="1228.1.1"
+	}
+	1299.1.1 = {
+		death="1299.1.1"
+	}
+}
+
+93671 = {
+	name="斯蒂芬" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93669
+	1253.1.1 = {
+		birth="1253.1.1"
+	}
+	1299.1.1 = {
+		death="1299.1.1"
+	}
+}
+
+93672 = {
+	name="保罗" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93669
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1332.1.1 = {
+		death="1332.1.1"
+	}
+}
+
+93673 = {
+	name="丹尼斯" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93669
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+93674 = {
+	name="保罗" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93671
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+93675 = {
+	name="彼得" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93671
+	1292.1.1 = {
+		birth="1292.1.1"
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+93676 = {
+	name="丹尼斯" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93674
+	1323.1.1 = {
+		birth="1323.1.1"
+	}
+	1373.1.1 = {
+		death="1373.1.1"
+	}
+}
+
+93677 = {
+	name="保罗" 
+	dynasty=101566
+	religion="catholic"
+	culture="hungarian"
+	father=93674
+	1325.1.1 = {
+		birth="1325.1.1"
+	}
+	1375.1.1 = {
+		death="1375.1.1"
+	}
+}
+
+93678 = {
+	name="索博尔奇" #real name unknown
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	mother=4436
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1150.1.1 = {
+		death="1150.1.1"
+	}
+}
+
+93679 = {
+	name="斯蒂芬" #real name unknown
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93678
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+93680 = {
+	name="马修" #real name unknown
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93679
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+93681 = {
+	name="乌格林" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93680
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1204.1.1 = {
+		death="1204.1.1"
+	}
+}
+
+93682 = {
+	name="尼古拉斯" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93680
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1239.1.1 = {
+		death="1239.1.1"
+	}
+}
+
+93683 = {
+	name="马修" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93680
+	1185.1.1 = {
+		birth="1185.1.1"
+	}
+	1249.1.1 = {
+		death="1249.1.1"
+	}
+}
+
+93684 = {
+	name="以撒" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93682
+	1196.1.1 = {
+		birth="1196.1.1"
+	}
+	1240.1.1 = {
+		death="1240.1.1"
+	}
+}
+
+93685 = {
+	name="俄罗林茨" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93682
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1278.1.1 = {
+		death="1278.1.1"
+	}
+}
+
+93686 = {
+	name="俄罗林茨" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93685
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+
+93687 = {
+	name="约翰" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93686
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1358.1.1 = {
+		death="1358.1.1"
+	}
+}
+
+93688 = {
+	name="约翰" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93682
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1278.1.1 = {
+		death="1278.1.1"
+	}
+}
+
+93689 = {
+	name="多莫科什" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93688
+	1245.1.1 = {
+		birth="1245.1.1"
+	}
+	1305.1.1 = {
+		death="1305.1.1"
+	}
+}
+
+93690 = {
+	name="乌格林" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93688
+	1247.1.1 = {
+		birth="1247.1.1"
+	}
+	1305.1.1 = {
+		death="1305.1.1"
+	}
+}
+
+93691 = {
+	name="约翰" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93688
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1305.1.1 = {
+		death="1305.1.1"
+	}
+}
+
+93692 = {
+	name="埃耶德" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93689
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1317.1.1 = {
+		death="1317.1.1"
+	}
+}
+
+93693 = {
+	name="约翰" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93689
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1317.1.1 = {
+		death="1317.1.1"
+	}
+}
+
+93694 = {
+	name="保罗" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93690
+	1277.1.1 = {
+		birth="1277.1.1"
+	}
+	1358.1.1 = {
+		death="1358.1.1"
+	}
+}
+
+93695 = {
+	name="斯蒂芬" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93694
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1363.1.1 = {
+		death="1363.1.1"
+	}
+}
+
+93696 = {
+	name="尼古拉斯" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93694
+	1302.1.1 = {
+		birth="1302.1.1"
+	}
+	1363.1.1 = {
+		death="1363.1.1"
+	}
+}
+
+93697 = {
+	name="约翰" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93694
+	1304.1.1 = {
+		birth="1304.1.1"
+	}
+	1363.1.1 = {
+		death="1363.1.1"
+	}
+}
+
+93698 = {
+	name="彼得" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93697
+	1334.1.1 = {
+		birth="1334.1.1"
+	}
+	1405.1.1 = {
+		death="1405.1.1"
+	}
+}
+
+93699 = {
+	name="马克" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93683
+	1205.1.1 = {
+		birth="1205.1.1"
+	}
+	1259.1.1 = {
+		death="1259.1.1"
+	}
+}
+
+93700 = {
+	name="斯蒂芬" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93683
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1288.1.1 = {
+		death="1288.1.1"
+	}
+}
+
+93701 = {
+	name="马修" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93683
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1284.1.1 = {
+		death="1284.1.1"
+	}
+}
+
+93702 = {
+	name="斯蒂芬" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93699
+	1235.1.1 = {
+		birth="1235.1.1"
+	}
+	1307.1.1 = {
+		death="1307.1.1"
+	}
+}
+
+93703 = {
+	name="彼得" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93699
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+
+93704 = {
+	name="彼得" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93702
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1337.1.1 = {
+		death="1337.1.1"
+	}
+}
+
+93705 = {
+	name="马克" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93702
+	1267.1.1 = {
+		birth="1267.1.1"
+	}
+	1309.1.1 = {
+		death="1309.1.1"
+	}
+}
+
+93706 = {
+	name="斯蒂芬" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93702
+	1269.1.1 = {
+		birth="1269.1.1"
+	}
+	1329.1.1 = {
+		death="1329.1.1"
+	}
+}
+
+93707 = {
+	name="多莫科什" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93704
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1359.1.1 = {
+		death="1359.1.1"
+	}
+}
+
+93708 = {
+	name="拉兹洛" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93704
+	1297.1.1 = {
+		birth="1297.1.1"
+	}
+	1332.1.1 = {
+		death="1332.1.1"
+	}
+}
+
+93709 = {
+	name="彼得" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93704
+	1299.1.1 = {
+		birth="1299.1.1"
+	}
+	1332.1.1 = {
+		death="1332.1.1"
+	}
+}
+
+93710 = {
+	name="拉兹洛" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93707
+	1325.1.1 = {
+		birth="1325.1.1"
+	}
+	1398.1.1 = {
+		death="1398.1.1"
+	}
+}
+
+93711 = {
+	name="马修" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=470163
+	1252.1.1 = {
+		birth="1252.1.1"
+	}
+	1321.3.18 = {
+		death="1321.3.18"
+	}
+}
+
+93712 = {
+	name="马修" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93711
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1321.1.1 = {
+		death="1321.1.1"
+	}
+}
+
+93713 = {
+	name="马修" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93712
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1356.1.1 = {
+		death="1356.1.1"
+	}
+}
+
+93714 = {
+	name="詹姆斯" 
+	dynasty=19010
+	religion="catholic"
+	culture="hungarian"
+	father=93712
+	1318.1.1 = {
+		birth="1318.1.1"
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+93715 = {
+	name="西克"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+93716 = {
+	name="德特雷"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93715
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1236.1.1 = {
+		death="1236.1.1"
+	}
+}
+
+93717 = {
+	name="米科"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93716
+	1198.1.1 = {
+		birth="1198.1.1"
+	}
+	1270.1.2 = {
+		death="1270.1.2"
+	}
+}
+
+93718 = {
+	name="尼古拉斯"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93716
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1246.1.1 = {
+		death="1246.1.1"
+	}
+}
+
+93719 = {
+	name="德特雷"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93716
+	1202.1.1 = {
+		birth="1202.1.1"
+	}
+	1254.1.1 = {
+		death="1254.1.1"
+	}
+}
+
+93720 = {
+	name="布雷兹札克"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93717
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1297.1.1 = {
+		death="1297.1.1"
+	}
+}
+
+93721 = {
+	name="约翰"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93717
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1300.1.1 = {
+		death="1300.1.1"
+	}
+}
+
+93722 = {
+	name="尼古拉斯"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93717
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1299.1.1 = {
+		death="1299.1.1"
+	}
+}
+
+93723 = {
+	name="彼得"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93717
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1335.1.1 = {
+		death="1335.1.1"
+	}
+}
+
+93724 = {
+	name="迈克尔"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93717
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1300.1.1 = {
+		death="1300.1.1"
+	}
+}
+
+93725 = {
+	name="乔治"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93722
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1323.1.1 = {
+		death="1323.1.1"
+	}
+}
+
+93726 = {
+	name="尼古拉斯"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93723
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1358.1.1 = {
+		death="1358.1.1"
+	}
+}
+
+93727 = {
+	name="约翰"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93723
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1349.1.1 = {
+		death="1349.1.1"
+	}
+}
+
+93728 = {
+	name="乔治"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93723
+	1305.1.1 = {
+		birth="1305.1.1"
+	}
+	1385.1.1 = {
+		death="1385.1.1"
+	}
+}
+
+
+93729 = {
+	name="奥尼奇"
+	female=yes
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93723
+	1306.1.1 = {
+		birth="1306.1.1"
+	}
+	1335.1.1 = {
+		death="1335.1.1"
+	}
+}
+
+93730 = {
+	name="拉兹洛"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93726
+	1320.1.1 = {
+		birth="1320.1.1"
+	}
+	1365.1.1 = {
+		death="1365.1.1"
+	}
+}
+
+93731 = {
+	name="鲍拉什"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93726
+	1325.1.1 = {
+		birth="1325.1.1"
+	}
+	1388.1.1 = {
+		death="1388.1.1"
+	}
+}
+
+93732 = {
+	name="约翰"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93726
+	1330.1.1 = {
+		birth="1330.1.1"
+	}
+	1390.8.22 = {
+		death="1390.8.22"
+	}
+}
+
+93733 = {
+	name="米科"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93726
+	1335.1.1 = {
+		birth="1335.1.1"
+	}
+	1364.1.1 = {
+		death="1364.1.1"
+	}
+}
+
+93734 = {
+	name="彼得"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93718
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1307.1.1 = {
+		death="1307.1.1"
+	}
+}
+
+93735 = {
+	name="德米特"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93718
+	1232.1.1 = {
+		birth="1232.1.1"
+	}
+	1312.6.15 = {
+		death="1312.6.15"
+	}
+}
+
+93736 = {
+	name="约翰"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93734
+	1255.1.1 = {
+		birth="1255.1.1"
+	}
+	1305.1.1 = {
+		death="1305.1.1"
+	}
+}
+
+93737 = {
+	name="东切"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93734
+	1256.1.1 = {
+		birth="1256.1.1"
+	}
+	1306.1.1 = {
+		death="1306.1.1"
+	}
+}
+
+93738 = {
+	name="德特里克"
+	dynasty=19060
+	religion="catholic"
+	culture="hungarian"
+	father=93734
+	1257.1.1 = {
+		birth="1257.1.1"
+	}
+	1307.1.1 = {
+		death="1307.1.1"
+	}
+}
+
+93747 = {
+	name="克拉拉"
+	female=yes
+	dynasty=12002
+	religion="catholic"
+	culture="hungarian"
+	father=93741
+	1308.1.1 = {
+		birth="1308.1.1"
+	}
+	1351.1.1 = {
+		death="1351.1.1"
+	}
+}
+
+93748 = {
+	name="约翰"
+	dynasty=12002
+	religion="catholic"
+	culture="hungarian"
+	father=93745
+	1328.1.1 = {
+		birth="1328.1.1"
+	}
+	1374.1.1 = {
+		death="1374.1.1"
+	}
+}
+
+93749 = {
+	name="拉兹洛"
+	dynasty=12002
+	religion="catholic"
+	culture="hungarian"
+	father=93745
+	1330.1.1 = {
+		birth="1330.1.1"
+	}
+	1371.1.1 = {
+		death="1371.1.1"
+	}
+}
+
+93750 = {
+	name="谢拜什真"
+	dynasty=12002
+	religion="catholic"
+	culture="hungarian"
+	father=93746
+	1330.1.1 = {
+		birth="1330.1.1"
+	}
+	1361.1.1 = {
+		death="1361.1.1"
+	}
+}
+
+93751 = {
+	name="久拉"
+	dynasty=7378
+	religion="catholic"
+	culture="hungarian"
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1226.1.1 = {
+		death="1226.1.1"
+	}
+}
+
+93752 = {
+	name="拉兹洛"
+	dynasty=7378
+	religion="catholic"
+	culture="hungarian"
+	father=93751
+	1205.1.1 = {
+		birth="1205.1.1"
+	}
+	1276.1.1 = {
+		death="1276.1.1"
+	}
+}
+
+93753 = {
+	name="久拉"
+	dynasty=7378
+	religion="catholic"
+	culture="hungarian"
+	father=93751
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1233.1.1 = {
+		death="1233.1.1"
+	}
+}
+
+93754 = {
+	name="拉兹洛"
+	dynasty=7378
+	religion="catholic"
+	culture="hungarian"
+	father=93752
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1315.1.1 = {
+		death="1315.1.1"
+	}
+}
+
+93755 = {
+	name="莫里茨"
+	dynasty=19057
+	religion="catholic"
+	culture="hungarian"
+	father=93756
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1269.1.1 = {
+		death="1269.1.1"
+	}
+}
+
+93756 = {
+	name="莫里茨"
+	dynasty=19057
+	religion="catholic"
+	culture="hungarian"
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1250.1.1 = {
+		death="1250.1.1"
+	}
+}
+
+93757 = {
+	name="塞缪尔"
+	# placeholder
+	dynasty=19000
+	religion="catholic"
+	culture="hungarian"
+	father=20376
+	1085.1.1 = {
+		birth="1085.1.1"
+	}
+	1145.1.1 = {
+		death="1145.1.1"
+	}
+}
+
+93758 = {
+	name="约翰"
+	# placeholder
+	dynasty=19000
+	religion="catholic"
+	culture="hungarian"
+	father=93757
+	1115.1.1 = {
+		birth="1115.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+93759 = {
+	name="多莫斯洛伊"
+	# placeholder
+	dynasty=19000
+	religion="catholic"
+	culture="hungarian"
+	father=93758
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+93760 = {
+	name="格扎"
+	# placeholder
+	dynasty=19000
+	religion="catholic"
+	culture="hungarian"
+	father=93759
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1240.1.1 = {
+		death="1240.1.1"
+	}
+}
+
+93761 = {
+	name="大卫"
+	dynasty=19000
+	religion="catholic"
+	culture="hungarian"
+	father=93760
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1260.1.1 = {
+		death="1260.1.1"
+	}
+}
+
+93762 = {
+	name="奥毛代"
+	dynasty=19000
+	religion="catholic"
+	culture="hungarian"
+	father=93761
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1311.9.5 = {
+		death="1311.9.5"
+	}
+}
+
+93763 = {
+	name="芬陶"
+	dynasty=19000
+	religion="catholic"
+	culture="hungarian"
+	father=93761
+	1245.1.1 = {
+		birth="1245.1.1"
+	}
+	1311.9.5 = {
+		death="1311.9.5"
+	}
+}
+
+93765 = {
+	name="亨茨"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93764
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1196.1.1 = {
+		death="1196.1.1"
+	}
+}
+
+93766 = {
+	name="迈克尔"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93765
+	1165.1.1 = {
+		birth="1165.1.1"
+	}
+	1212.1.1 = {
+		death="1212.1.1"
+	}
+}
+
+93767 = {
+	name="亨利克"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93765
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1237.1.1 = {
+		death="1237.1.1"
+	}
+}
+
+93768 = {
+	name="亨利克"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93767
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1274.1.1 = {
+		death="1274.1.1"
+	}
+}
+
+93769 = {
+	name="尼古拉斯"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93768
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1299.1.1 = {
+		death="1299.1.1"
+	}
+}
+
+93770 = {
+	name="约翰"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93768
+	1245.1.1 = {
+		birth="1245.1.1"
+	}
+	1308.5.4 = {
+		death="1308.5.4"
+	}
+}
+
+93771 = {
+	name="彼得"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93768
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1289.1.1 = {
+		death="1289.1.1"
+	}
+}
+
+93772 = {
+	name="尼古拉斯"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93769
+	1275.1.1 = {
+		birth="1275.1.1"
+	}
+	1332.1.1 = {
+		death="1332.1.1"
+	}
+}
+
+93773 = {
+	name="约翰"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93769
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1330.1.1 = {
+		death="1330.1.1"
+	}
+}
+
+93774 = {
+	name="约翰"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93772
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+93775 = {
+	name="拉兹洛"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93772
+	1302.1.1 = {
+		birth="1302.1.1"
+	}
+	1336.1.1 = {
+		death="1336.1.1"
+	}
+}
+
+93776 = {
+	name="亨利克"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93772
+	1310.1.1 = {
+		birth="1310.1.1"
+	}
+	1376.1.1 = {
+		death="1376.1.1"
+	}
+}
+
+93777 = {
+	name="尼古拉斯"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93776
+	1330.1.1 = {
+		birth="1330.1.1"
+	}
+	1360.1.1 = {
+		death="1360.1.1"
+	}
+}
+
+93778 = {
+	name="安德鲁"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93776
+	1335.1.1 = {
+		birth="1335.1.1"
+	}
+	1423.1.1 = {
+		death="1423.1.1"
+	}
+}
+
+93779 = {
+	name="约翰"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=470150
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1327.1.1 = {
+		death="1327.1.1"
+	}
+}
+
+93780 = {
+	name="尼古拉斯"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93779
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1358.1.1 = {
+		death="1358.1.1"
+	}
+}
+
+93781 = {
+	name="彼得"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93779
+	1317.1.1 = {
+		birth="1317.1.1"
+	}
+	1358.1.1 = {
+		death="1358.1.1"
+	}
+}
+
+93782 = {
+	name="亨利克"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93779
+	1319.1.1 = {
+		birth="1319.1.1"
+	}
+	1358.1.1 = {
+		death="1358.1.1"
+	}
+}
+
+93783 = {
+	name="尼古拉斯"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=470150
+	1302.1.1 = {
+		birth="1302.1.1"
+	}
+	1336.1.1 = {
+		death="1336.1.1"
+	}
+}
+
+93784 = {
+	name="彼得"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=470151
+	mother=470152
+	1330.1.1 = {
+		birth="1330.1.1"
+	}
+	1405.1.1 = {
+		death="1405.1.1"
+	}
+}
+
+93785 = {
+	name="格雷戈里"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93770
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1297.1.1 = {
+		death="1297.1.1"
+	}
+}
+
+93786 = {
+	name="约翰"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93770
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1333.1.1 = {
+		death="1333.1.1"
+	}
+}
+
+93787 = {
+	name="尼古拉斯"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93785
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1314.1.1 = {
+		death="1314.1.1"
+	}
+}
+
+93788 = {
+	name="安德鲁"
+	dynasty=19032
+	religion="catholic"
+	culture="hungarian"
+	father=93785
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+93789 = {
+	name="托马斯" #real name unknown
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	1190.1.1 = {
+		birth="1190.1.1"
+	}
+	1240.1.1 = {
+		death="1240.1.1"
+	}
+}
+
+93790 = {
+	name="巴拿巴"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93789
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1279.1.1 = {
+		death="1279.1.1"
+	}
+}
+
+93791 = {
+	name="乔治"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93789
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1265.1.1 = {
+		death="1265.1.1"
+	}
+}
+
+93792 = {
+	name="托马斯"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93790
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1295.1.1 = {
+		death="1295.1.1"
+	}
+}
+
+93793 = {
+	name="约翰"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93790
+	1232.1.1 = {
+		birth="1232.1.1"
+	}
+	1279.1.1 = {
+		death="1279.1.1"
+	}
+}
+
+93794 = {
+	name="洛纳德"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93792
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1301.1.1 = {
+		death="1301.1.1"
+	}
+}
+
+93795 = {
+	name="斯蒂芬"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93792
+	1255.1.1 = {
+		birth="1255.1.1"
+	}
+	1294.1.1 = {
+		death="1294.1.1"
+	}
+}
+
+93796 = {
+	name="詹姆斯"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93792
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1325.1.1 = {
+		death="1325.1.1"
+	}
+}
+
+93797 = {
+	name="拉兹洛"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93792
+	1262.1.1 = {
+		birth="1262.1.1"
+	}
+	1307.1.1 = {
+		death="1307.1.1"
+	}
+}
+
+93798 = {
+	name="贝凯"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93792
+	1264.1.1 = {
+		birth="1264.1.1"
+	}
+	1326.1.1 = {
+		death="1326.1.1"
+	}
+}
+
+93799 = {
+	name="约翰"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93792
+	1266.1.1 = {
+		birth="1266.1.1"
+	}
+	1304.1.1 = {
+		death="1304.1.1"
+	}
+}
+
+93800 = {
+	name="斯蒂芬"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93794
+	1275.1.1 = {
+		birth="1275.1.1"
+	}
+	1337.1.1 = {
+		death="1337.1.1"
+	}
+}
+
+93801 = {
+	name="约翰"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93794
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1337.1.1 = {
+		death="1337.1.1"
+	}
+}
+
+93802 = {
+	name="拉兹洛"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93794
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1357.1.1 = {
+		death="1357.1.1"
+	}
+}
+
+93803 = {
+	name="斯蒂芬"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93795
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1334.1.1 = {
+		death="1334.1.1"
+	}
+}
+
+93804 = {
+	name="斯蒂芬"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93795
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1334.1.1 = {
+		death="1334.1.1"
+	}
+}
+
+93805 = {
+	name="贝凯"
+	dynasty=19009
+	religion="catholic"
+	culture="hungarian"
+	father=93796
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1319.1.1 = {
+		death="1319.1.1"
+	}
+}
+
+159135 = {
+	name="佐尔坦"
+	dynasty=708
+	religion="tengri_pagan"
+	culture="hungarian"
+	father=159136
+	880.1.2={
+		birth="880.1.2"
+	}
+	955.1.2={
+		death="955.1.2"
+	}
+}
+
+159136 = {
+	name="阿帕德"
+	dynasty=708
+	religion="tengri_pagan"
+	culture="hungarian"
+	father=159137
+	martial=8
+	trait=ambitious
+	trait=strong
+	trait=just
+	trait=diligent
+	trait=brilliant_strategist
+	trait=flanker
+	845.1.1={
+		birth=yes
+	}
+	907.1.1={
+		death=yes
+	}
+}
+
+159137 = {
+	name="奥尔莫什" # Ruler of the Magyars in 845
+	dynasty=708
+	religion="tengri_pagan"
+	culture="hungarian"
+	father=159138
+	mother=159139
+	martial=8
+	diplomacy=7
+	trait=ambitious
+	trait=gregarious
+	trait=just
+	trait=patient
+	trait=brilliant_strategist
+	trait=inspiring_leader
+	
+	810.1.1 = {
+		birth = yes
+	}
+	
+	867.1.1 = {
+		# Boost the initial strength of the Magyars
+		effect = {
+			spawn_unit = {
+				province = 544 # Korsun
+				owner = ROOT
+				leader = ROOT
+				troops = {
+					light_infantry = { 1626 1626 }
+					heavy_infantry = { 75 75 }
+					archers = { 325 325 }
+				}
+				attrition = 0.5
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 544 # Korsun
+					owner = ROOT
+					leader = THIS
+					troops = {
+						light_infantry = { 1626 1626 }
+						heavy_infantry = { 75 75 }
+						archers = { 325 325 }
+					}
+					attrition = 0.5
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 27
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 544 # Korsun
+					owner = ROOT
+					leader = THIS
+					troops = {
+						light_infantry = { 1626 1626 }
+						heavy_infantry = { 75 75 }
+						archers = { 325 325 }
+					}
+					attrition = 0.5
+				}
+			}
+		}
+	}
+	
+	895.1.1={
+		death = yes
+	}
+}
+
+163168 = {
+	name="林女提卡"
+	dynasty=708
+	religion="tengri_pagan"
+	culture="hungarian"
+	father=159136
+	861.1.1={
+		birth="861.1.1"
+	}
+	906.1.1={
+		death="906.1.1"
+	}
+}
+
+163169 = {
+	name="塔卡祖斯"
+	dynasty=708
+	religion="tengri_pagan"
+	culture="hungarian"
+	father=159136
+	864.1.1={
+		birth="864.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+146214 = {
+	name="尤金"
+	dynasty=1022386
+	culture="hungarian"
+	religion="tengri_pagan"
+
+	741.1.1={
+		birth=yes
+	}
+	803.1.1={
+		death=yes
+	}
+}
+
+146215 = {
+	name="德泽索"
+	dynasty=1022386
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146214
+	758.1.1={
+		birth=yes
+	}
+	819.1.1={
+		death=yes
+	}
+}
+
+146216 = {
+	name="克尔"
+	dynasty=1022387
+	culture="hungarian"
+	religion="tengri_pagan"
+
+	742.1.1={
+		birth=yes
+	}
+	804.1.1={
+		death=yes
+	}
+}
+
+146217 = {
+	name="埃列克"
+	dynasty=1022387
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146216
+	759.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+146218 = {
+	name="凯西"
+	dynasty=1022388
+	culture="hungarian"
+	religion="tengri_pagan"
+
+	743.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+
+146219 = {
+	name="德米特里"
+	dynasty=1022388
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146218
+	760.1.1={
+		birth=yes
+	}
+	821.1.1={
+		death=yes
+	}
+}
+
+146220 = {
+	name="屈特"
+	dynasty=1022389
+	culture="hungarian"
+	religion="tengri_pagan"
+
+	744.1.1={
+		birth=yes
+	}
+	806.1.1={
+		death=yes
+	}
+}
+
+146221 = {
+	name="盖尔盖伊"
+	dynasty=1022389
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146220
+	761.1.1={
+		birth=yes
+	}
+	822.1.1={
+		death=yes
+	}
+}
+
+146222 = {
+	name="焦尔毛特"
+	dynasty=1022390
+	culture="hungarian"
+	religion="tengri_pagan"
+
+	745.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+
+146223 = {
+	name="阿提拉"
+	dynasty=1022390
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146222
+	762.1.1={
+		birth=yes
+	}
+	823.1.1={
+		death=yes
+	}
+}
+
+146224 = {
+	name="迈杰尔"
+	dynasty=1022391
+	culture="hungarian"
+	religion="tengri_pagan"
+
+	746.1.1={
+		birth=yes
+	}
+	808.1.1={
+		death=yes
+	}
+}
+
+146225 = {
+	name="蒂瓦达尔"
+	dynasty=1022391
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146224
+	763.1.1={
+		birth=yes
+	}
+	824.1.1={
+		death=yes
+	}
+}
+
+146226 = {
+	name="内耶克"
+	dynasty=1022392
+	culture="hungarian"
+	religion="tengri_pagan"
+
+	747.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+
+146227 = {
+	name="若尔特"
+	dynasty=1022392
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146226
+	764.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+
+146228 = {
+	name="陶尔扬"
+	dynasty=1022393
+	culture="hungarian"
+	religion="tengri_pagan"
+
+	748.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+
+146229 = {
+	name="蒂博尔"
+	dynasty=1022393
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146228
+	765.1.1={
+		birth=yes
+	}
+	826.1.1={
+		death=yes
+	}
+}
+
+146230 = {
+	name="特德尼"
+	dynasty=1022386
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146215
+	783.1.1={
+		birth=yes
+	}
+	845.1.1={
+		death=yes
+	}
+}
+
+146231 = {
+	name="特霍托姆"
+	dynasty=1022386
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146230
+	809.1.1={
+		birth=yes
+	}
+	873.1.1={
+		death=yes
+	}
+}

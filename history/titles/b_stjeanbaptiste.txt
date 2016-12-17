@@ -1,0 +1,93 @@
+1066.1.1={
+	holder = 138411 #ArchBishop Geoffroy de Vergy
+}
+1070.1.1={
+	holder = 138407 #ArchBishop Humbert (I?)
+}
+1076.1.1={
+	holder = 138413 #ArchBishop Gébuin/Saint Jubin
+}
+1082.1.1={
+	holder = 138409 #ArchBishop Hugues de Die/Bourgogne
+}
+1106.10.7={
+	holder = 138415 #ArchBishop Josserand
+}
+1118.1.1={
+	holder = 138416 #ArchBishop Humbaud
+}
+1125.1.1={
+	holder = 138419 #ArchBishop Renaud de Semur
+}
+1129.1.1={
+	holder = 138420 #ArchBishop Pierre I
+}
+1139.1.1={
+	holder = 138421 #ArchBishop Foulque
+}
+1142.1.1={
+	holder = 138422 #ArchBishop Amédée I
+}
+1148.1.1={
+	holder = 138423 #ArchBishop Humbert (II?) Baugé
+}
+1153.1.1={
+	holder = 138424 #ArchBishop Héracle de Montboissier
+}
+1163.1.1={
+	holder = 138435 #ArchBishop Drogon de Beauvoir
+}
+1164.1.1={
+	holder = 138436 #ArchBishop Guichard de Pontigny
+}
+1180.1.1={
+	holder = 138426 #ArchBishop Jean Belles-Mains/Bishop of Poitiers
+}
+1193.1.1={
+	holder = 205685 #Archbishop Renaud d'Albon
+}
+#1202.11.27 = { # This is needed for the capital change command in province history since we need to ensure the ownership of the new capital.
+#	holder = 205685 #Not needed since new holder of county already holds the new capital at capital switch
+#}
+1226.10.21={
+	holder = 138427 #ArchBishop Robert d'Auvergne
+}
+1234.1.1={
+	holder = 138425 #ArchBishop Raoul I de La Roche-Aymon
+}
+1236.1.1={
+	holder = 138437 #Bishop Aimery de Rives
+}
+1245.1.1={
+	holder= 70913 #ArchBishop Philippe I de Savoie
+}
+1267.1.1={
+	holder = 138438	#Bishop Guy II
+}
+1268.1.1={
+	holder = 71827 #ArchBishop Pierre II de Tarentaise/future Pope Innocent IV
+}
+1273.1.1={
+	holder = 138439	#ArchBishop Aymar de Roussillon
+}
+1283.1.1={
+	holder = 138453 #ArchBishop Raoul II de la Tourette
+}
+1288.1.1={
+	holder= 138404 #ArchBishop Bérard de Got brother of Pope Clement V
+}
+1294.1.1={
+	holder= 138440 #ArchBishop Henri I de Villars
+}
+1301.1.1={
+	holder= 138441	#ArchBishop Louis de Villars
+}
+1308.1.1={
+	holder = 70926 #ArchBishop Pierre de Savoie
+}
+1312.4.10={
+	liege="k_france"
+}
+1332.11.1={
+	holder = 138442 #ArchBishop Guillaume I de Sure
+}

@@ -1,0 +1,5756 @@
+6896 = {
+	name="ÄÂº±Ä¬µÂ" # Fantasy
+	dynasty=855
+	religion=sunni
+	culture="persian"
+	845.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+6897 = {
+	name="·¨Â³¿Æ" # Fantasy
+	dynasty=856
+	religion=sunni
+	culture="persian"
+	840.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+6898 = {
+	name="°¢²¨¹şÉ£" # Fantasy
+	dynasty=857
+	religion=sunni
+	culture="persian"
+	842.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+144140 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93139
+	1113.1.1={
+		birth=yes
+	}
+	1163.1.1={
+		death=yes
+	}
+}
+
+144141 = {
+	name="¼ªÑÇË¹"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father = 144140
+	1130.1.1={
+		birth=yes
+	}
+	1203.1.1={
+		death=yes
+	}
+}
+
+144142 = {
+	name="ÄÂÒÇ×È"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father = 144140
+	1132.1.1={
+		birth="1132.1.1"
+	}
+	1206.3.15={
+		death="1206.3.15"
+	}
+}
+
+144143 = {
+	name="Âí¹şÃ¯µÂ"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father = 144141
+	1147.1.1={
+		birth="1147.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+144144 = {
+	name="¼ªÀ¼-É³ºÕ"
+	# AKA: Unsur al
+	dynasty=101689
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="shiite"
+	culture="persian"
+	father = 20703
+	1061.1.1={
+		birth="1061.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+144225 = {
+	name="¹şÉ£"
+	religion="shiite"
+	culture="persian"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+}
+
+144226 = {
+	name="¼ªÑÇ ²¼Ôó ÎÚÃ×µÂ"
+	religion="shiite"
+	culture="persian"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1138.1.1={
+		death="1138.1.1"
+	}
+}
+
+144227 = {
+	name="ÄÂº±Ä¬µÂ"
+	religion="shiite"
+	culture="persian"
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+144228 = {
+	name="Å¬¶û ¶¡ ÄÂº±Ä¬µÂ"
+	religion="shiite"
+	culture="persian"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+144229 = {
+	name="ÑÇÀ­¶û ¶¡ ¹şÉ£"
+	religion="shiite"
+	culture="persian"
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+
+144230 = {
+	name="°¢À­ ¶¡ ÄÂº±Ä¬µÂ"
+	religion="shiite"
+	culture="persian"
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+144231 = {
+	name="Â³¿â ¶¡ Ôı¶û¹Å±È"
+	religion="shiite"
+	culture="persian"
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1256.1.1={
+		death="1256.1.1"
+	}
+}
+
+144567 = {
+	name="·¨ÀïÍ¼¶÷"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father = 20734
+	1058.1.1={
+		birth="1058.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+144568 = {
+	name="°¢¿ËÎ÷Ë¹Ì¹"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	trait="ambitious"
+	trait="deceitful"
+	trait="envious"
+	trait="diligent"
+	father=232753
+	mother=232750
+	1128.1.1={
+		birth="1128.1.1"
+	}
+	1197.1.1={
+		death="1197.1.1"
+	}
+}
+
+144569 = {
+	name="·¨Â³¿ËÔúµÂ"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=232753
+	mother=232750
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1204.8.1={
+		death="1204.8.1"
+	}
+}
+
+144570 = {
+	name="¿ÆÉ³ÆÕ"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father = 144569
+	1171.1.1={
+		birth="1171.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+144571 = {
+	name="·¨Àï²¼×È"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father = 144570
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1243.1.1={
+		death="1243.1.1"
+	}
+}
+
+144572 = {
+	name="°¢¿ËÎ÷Ë¹Ì¹"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father = 144571
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+144573 = {
+	name="·¨Â³¿ËÔúµÂ"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father = 144572
+	1229.1.1={
+		birth="1229.1.1"
+	}
+	1282.1.1={
+		death="1282.1.1"
+	}
+}
+
+144574 = {
+	name="¿­-¿â°ÍµÂ"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father = 144573
+	1279.1.1={
+		birth="1279.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+
+
+20688 = {
+	name="Âí¶û"
+	dynasty=101004
+	martial=8
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="sunni"
+	culture="persian"
+	trait="charitable"
+	trait="kind"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20703 = {
+	name="°²ËØ¶û ÂíÀï"
+	# AKA: Unsur al
+	dynasty=101689
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="shiite"
+	culture="persian"
+	trait="thrifty_clerk"
+	trait="scholar"
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+20704 = {
+	name="¿¨ÁÖ"
+	dynasty=7331
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="shiite"
+	culture="persian"
+	trait="tough_soldier"
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1074.1.1={
+		death="1074.1.1"
+	}
+}
+
+20705 = {
+	name="ÒÁÈø"
+	dynasty=101008
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="sunni"
+	culture="persian"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20707 = {
+	name="ÄÉÈü¶û"
+	dynasty=101863
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="sunni"
+	culture="persian"
+	trait="deceitful"
+	trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20716 = {
+	name="ÄÂÈø·Æ¶û"
+	dynasty=101870
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="persian"
+	trait="patient"
+	trait="skilled_tactician"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+20734 = {
+	name="·¨Àï²¼×È"
+	dynasty=101873
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="persian"
+	trait="underhanded_rogue"
+	father=146101
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1096.1.1={
+		death="1096.1.1"
+	}
+}
+227012 = {
+	name="ÈøÒÁÄÏ"
+	dynasty=100765
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="shiite"
+	culture="persian"
+	trait="diligent"
+	trait="zealous"
+	trait="skilled_tactician"
+	1129.1.1={
+		birth="1129.1.1"
+	}
+	1192.1.1={
+		death="1192.1.1"
+	}
+}
+
+3050 = {
+	name="ÄáÔúÄ·"
+	dynasty=611
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=9
+	religion="sunni"
+	culture="persian"
+	trait="patient"
+	trait="genius"
+	trait="scholar"
+	trait="ambitious"
+	trait="just"
+	trait="grey_eminence"
+	1018.4.10={
+		birth="1018.4.10"
+	}
+	1063.1.1={
+		employer=3040
+		effect = {
+			give_job_title=job_chancellor
+		}
+	}
+	1092.10.14={
+		death="1092.10.14"
+	}
+}
+
+41606 = {
+	name="É³ÀïÑÇ¶û"
+	# AKA: Husam ud
+	dynasty=7331
+	martial=3
+	diplomacy=2
+	intrigue=7
+	stewardship=4
+	religion="shiite"
+	culture="persian"
+	trait="thrifty_clerk"
+	father=20704
+	1057.1.1={
+		birth="1057.1.1"
+	}
+	1114.1.1={
+		death="1114.1.1"
+	}
+}
+
+41607 = {
+	name="ÅÁÌØÂ³¶÷"
+		dynasty=1029026
+	martial=8
+	diplomacy=3
+	intrigue=2
+	stewardship=7
+	religion="sunni"
+	culture="persian"
+	trait="tough_soldier"
+	1028.1.1={
+		birth="1028.1.1"
+	}
+	1088.1.1={
+		death="1088.1.1"
+	}
+}
+
+41608 = {
+	name="³¹º¹"
+	dynasty=1029026
+	martial=9
+	diplomacy=4
+	intrigue=2
+	stewardship=8
+	religion="sunni"
+	culture="persian"
+	trait="tough_soldier"
+	father=41607
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+
+41702 = {
+	name="¹şÉ£"
+	dynasty=101728
+	martial=6
+	diplomacy=6
+	intrigue=10
+	stewardship=7
+	religion="sunni"
+	culture="persian"
+	trait="zealous"
+	trait="elusive_shadow"
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1085.1.2={
+		death="1085.1.2"
+	}
+}
+
+41703 = {
+	name="°ÂÂí¶û"
+	dynasty=101729
+	martial=3
+	diplomacy=10
+	intrigue=6
+	stewardship=5
+	religion="sunni"
+	culture="persian"
+	trait="lustful"
+	trait="charismatic_negotiator"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1098.1.2={
+		death="1098.1.2"
+	}
+}
+
+478020 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=100657
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="persian"
+	trait="ambitious"
+	trait="charismatic_negotiator"
+	trait="charitable"
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1365.1.1={
+		death="1365.1.1"
+	}
+}
+
+478021 = {
+	name="ÓÈËØ¸£"
+	dynasty=100648
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="sunni"
+	culture="persian"
+	trait="ambitious"
+	trait="tough_soldier"
+	trait="kind"
+	trait="just"
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1346.1.1={
+		death="1346.1.1"
+	}
+}
+
+478022 = {
+	name="ÄÂ°ÍÀû×È ¶¡"
+	dynasty=101915
+	martial=10
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="persian"
+	trait="ambitious"
+	trait="skilled_tactician"
+	trait="envious"
+	father=93268
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1358.1.1={
+		death="1358.1.1"
+	}
+}
+
+478023 = {
+	name="¿âÌØ ¶¡"
+	dynasty=101915
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="sunni"
+	culture="persian"
+	trait="tough_soldier"
+	trait="proud"
+	father=478022
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+
+478024 = {
+	name="°¢±È¶û ·¨ÍßÀûË¹ ¼ÖÂí¶û ¶¡"
+	# AKA: Abul Fawaris
+	dynasty=101915
+	martial=6
+	diplomacy=6
+	intrigue=3
+	stewardship=7
+	religion="sunni"
+	culture="persian"
+	trait="underhanded_rogue"
+	trait="wroth"
+	father=478022
+	1317.1.1={
+		birth="1317.1.1"
+	}
+	1364.1.1={
+		death="1364.1.1"
+	}
+}
+
+478027 = {
+	name="°¢Àï"
+	dynasty=100632
+	martial=3
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="sunni"
+	culture="persian"
+	trait="thrifty_clerk"
+	trait="greedy"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+478028 = {
+	name="°¢²·¶ÅÀ­"
+	dynasty=100635
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="sunni"
+	culture="persian"
+	trait="misguided_warrior"
+	trait="wroth"
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1355.1.1={
+		death="1355.1.1"
+	}
+}
+
+
+45100 = {
+	name="°¢±È´ï¶û-À­Ôú¿Ë"
+	dynasty=7507
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="shiite"
+	culture="persian"
+	trait="just"
+	trait="wroth"
+	trait="stressed"
+	trait="skilled_tactician"
+	father=45102
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+
+45101 = {
+	name="ÂíËÕµÂ"
+	dynasty=7507
+	martial=3
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="shiite"
+	culture="persian"
+	trait="craven"
+	trait="content"
+	trait="wroth"
+	trait="charismatic_negotiator"
+	father=45102
+	1301.1.1={
+		birth="1301.1.1"
+	}
+	1343.1.1={
+		death="1343.1.1"
+	}
+}
+
+45102 = {
+	name="·¨×ÈÂ¬À­"
+	dynasty=7507
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="shiite"
+	culture="persian"
+	trait="detached_priest"
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+
+45105 = { 
+	name="ÂŞË¹Ì¹Ä·" # Rostam II (was likely Muslim already in real history - his father Karen appears to have converted)
+	dynasty=7331 # Bavandid
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="zoroastrian"
+	culture="persian"
+	trait=diligent
+	trait=just
+	trait="skilled_tactician"
+	father=160294
+	845.1.1={
+		birth="845.1.1"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+
+45106 = { 
+	name="·¨À­×È" # Fantasy Zoroastrian ruler near Bukhara
+	dynasty=7510 # Faravid
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="zoroastrian"
+	culture="persian"
+	trait=tough_soldier
+	849.1.1={
+		birth=yes
+	}
+	899.1.1={
+		death=yes
+	}
+}
+
+45107 = { 
+	name="Íò´ïµÂ" # Fictional leader of the House of Karen at the time
+	dynasty=7511 # Karen
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion=zoroastrian
+	culture=persian
+	trait=tough_soldier
+	father = 45110
+	830.1.1={
+		birth=yes
+	}
+	
+	867.1.1 = {
+		# The last hope of the Zoroastrians
+		effect = {
+			spawn_unit = {
+				province = 633 # Gurgan
+				owner = ROOT
+				leader = ROOT
+				troops = {
+					light_infantry = { 625 625 }
+					heavy_infantry = { 479 479 }
+					pikemen = { 30 30 }
+					archers = { 254 254 }
+					light_cavalry = { 132 132 }
+					knights = { 4 4 }
+					horse_archers = { 12 12 }
+				}
+				attrition = 0.5
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 633 # Gurgan
+					owner = ROOT
+					leader = THIS
+					troops = {
+						light_infantry = { 625 625 }
+						heavy_infantry = { 479 479 }
+						pikemen = { 30 30 }
+						archers = { 254 254 }
+						light_cavalry = { 132 132 }
+						knights = { 4 4 }
+						horse_archers = { 12 12 }
+					}
+					attrition = 0.5
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 27
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 633 # Gurgan
+					owner = ROOT
+					leader = THIS
+					troops = {
+						light_infantry = { 625 625 }
+						heavy_infantry = { 479 479 }
+						pikemen = { 30 30 }
+						archers = { 254 254 }
+						light_cavalry = { 132 132 }
+						knights = { 4 4 }
+						horse_archers = { 12 12 }
+					}
+					attrition = 0.5
+				}
+			}
+		}
+	}
+	
+	890.1.1={
+		death=yes
+	}
+}
+
+45109 = { 
+	name="·¨À­ºÕ" # Fictional
+	female = yes
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father = 45110
+	835.1.1={
+		birth="835.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+45110 = { 
+	name="ÂíÆë°¢¶û" # Historical. Died in revolt against the Caliph
+	dynasty=7511
+	martial=7
+	religion="zoroastrian"
+	culture="persian"
+	trait="skilled_tactician"
+	father=160296
+	800.1.1={
+		birth="800.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+93010= {
+	name="¹şÏ£Ä·" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	835.1.1={
+		birth="835.1.1"
+	}
+		
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+93011= {
+	name="°¢Âí¶û" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93010
+	855.1.1={
+		birth="855.1.1"
+	}
+		
+	886.1.1={
+		death="886.1.1"
+	}
+}
+
+93012= {
+	name="ÄÂº±Ä¬µÂ" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93011
+	871.1.1={
+		birth="871.1.1"
+	}
+		
+	915.1.1={
+		death="915.1.1"
+	}
+}
+
+93013= {
+	name="°¢²·¶Å¶û ÂíÀï¿Ë" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93012
+	890.1.1={
+		birth="890.1.1"
+	}
+		
+	939.1.1={
+		death="939.1.1"
+	}
+}
+
+93014= {
+	name="°¢ºÕÂíµÂ" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93013
+	910.1.1={
+		birth="910.1.1"
+	}
+		
+	976.1.1={
+		death="976.1.1"
+	}
+}
+
+93015= {
+	name="ÂíÒÁÄÂ¶÷" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93014
+	940.1.1={
+		birth="940.1.1"
+	}
+		
+	997.1.1={
+		death="997.1.1"
+	}
+}
+
+93016= {
+	name="ÄÂº±Ä¬µÂ" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93014
+	942.1.1={
+		birth="942.1.1"
+	}
+		
+	998.1.1={
+		death="998.1.1"
+	}
+}
+
+93017= {
+	name="À­Ê²¿¨Àï" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93014
+	946.1.1={
+		birth="946.1.1"
+	}
+		
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+
+93018= {
+	name="ÂüËÕ¶û" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93017
+	970.1.1={
+		birth="970.1.1"
+	}
+		
+	1034.1.1={
+		death="1034.1.1"
+	}
+}
+
+93019= {
+	name="°¢²·¶Å¶û ÂíÀï¿Ë" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93018
+	990.1.1={
+		birth="990.1.1"
+	}
+	1035.12.1={
+		add_spouse=146102
+	} 
+	1043.1.1={
+		death="1043.1.1"
+	}
+}
+
+93020= {
+	name="ÂüËÕ¶û" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93019
+	1010.1.1={
+		birth="1010.1.1"
+	}
+		
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+93021= {
+	name="À­Ê²¿¨Àï" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93019
+	1015.1.1={
+		birth="1015.1.1"
+	}
+		
+	1055.1.1={
+		death="1055.1.1"
+	}
+}
+
+93022= {
+	name="°¢²·¶Å¶û ÂíÀï¿Ë" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93020
+	1030.1.1={
+		birth="1030.1.1"
+	}
+		
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+93023= {
+	name="ÂíÒÁÄÂ¶÷" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93022
+	1050.1.1={
+		birth="1050.1.1"
+	}
+		
+	1077.1.1={
+		death="1077.1.1"
+	}
+}
+
+93024= {
+	name="¹şÀï·¢" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93023
+	1070.1.1={
+		birth="1070.1.1"
+	}
+		
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+93025= {
+	name="ÄÂº±Ä¬µÂ" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93024
+	1095.1.1={
+		birth="1095.1.1"
+	}
+		
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+93026= {
+	name="ÄÂÔı·¨" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93025
+	1115.1.1={
+		birth="1115.1.1"
+	}
+		
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+93027= {
+	name="±´¸ñ°Í¶ûË¹" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93026
+	1135.1.1={
+		birth="1135.1.1"
+	}
+		
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+93028= {
+	name="°¢²·¶Å¶û ÂíÀï¿Ë" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93027
+	1155.1.1={
+		birth="1155.1.1"
+	}
+		
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+93029= {
+	name="À­Ï£µÂ" 
+	dynasty=7326
+	religion="sunni"
+	culture="persian"
+	father=93028
+	1180.1.1={
+		birth="1180.1.1"
+	}
+		
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+93131 = {
+	name="ÄÂº±Ä¬µÂ ÑÅÌØÄÂ¶û"
+	dynasty=7507
+	religion="shiite"
+	culture="persian"
+	father=45101
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1346.1.1={
+		death="1346.1.1"
+	}
+}
+
+93132 = {
+	name="Ê²°²Èö°ÍÄá"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	930.1.1={
+		birth="930.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+93133 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93132
+	960.1.1={
+		birth="960.1.1"
+	}
+	1011.1.1={
+		death="1011.1.1"
+	}
+}
+
+93134 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93133
+	980.1.1={
+		birth="980.1.1"
+	}
+	1030.1.1={
+		death="1030.1.1"
+	}
+}
+
+93135 = {
+	name="Ğ»ËÕ"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93133
+	982.1.1={
+		birth="982.1.1"
+	}
+	1029.1.1={
+		death="1029.1.1"
+	}
+}
+
+93136 = {
+	name="°¢°ÎË¹"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93135
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1059.1.1={
+		death="1059.1.1"
+	}
+}
+
+93137 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93136
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+93138 = {
+	name="¹şÉ£"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93137
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+93139 = {
+	name="ºúÈüÒò"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93138
+	1084.1.1={
+		birth="1084.1.1"
+	}
+	1146.1.1={
+		death="1146.1.1"
+	}
+}
+
+93140 = {
+	name="ÈûÒå¸£"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93139
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1149.1.1={
+		death="1149.1.1"
+	}
+}
+
+93141 = {
+	name="ºú°İ¶û"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93139
+	1111.1.1={
+		birth="1111.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+
+93143 = {
+	name="ºúÈüÒò"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93139
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+93144 = {
+	name="ºú°İ¶û"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=144143
+	1167.1.1={
+		birth="1167.1.1"
+	}
+	1213.1.1={
+		death="1213.1.1"
+	}
+}
+
+93145 = {
+	name="ÑÇÆë×È"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93143
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1214.1.1={
+		death="1214.1.1"
+	}
+}
+
+93146 = {
+	name="ÂíËÕµÂ"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93139
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1163.1.1={
+		death="1163.1.1"
+	}
+}
+
+93147 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93146
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1192.1.1={
+		death="1192.1.1"
+	}
+}
+
+93148 = {
+	name="ºú°İ¶û"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93147
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+93149 = {
+	name="¼ÖÀ­Â³ ¶¡ °¢Àï"
+	dynasty=791
+	religion="sunni"
+	culture="persian"
+	father=93148
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+
+93150 = {
+	name="ÂíĞ»Äá"
+	dynasty=7330
+	religion="sunni"
+	culture="persian"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+93151 = {
+	name="ËşÊæµÂ ¶¡ ÎÚË¹Âü"
+	dynasty=7330
+	religion="sunni"
+	culture="persian"
+	father=93150
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+93152 = {
+	name="ÒÁËÕµÂ ¶¡ °ÂÂí¶û"
+	dynasty=7330
+	religion="sunni"
+	culture="persian"
+	father=93150
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+93153 = {
+	name="Â³¿âµÂ ¶¡ °¢±È-°Í¿¨¶û"
+	dynasty=7330
+	religion="sunni"
+	culture="persian"
+	father=93151
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1245.1.1={
+		death="1245.1.1"
+	}
+}
+
+93154 = {
+	name="Õ¼Ë¼ ¶¡"
+	dynasty=7330
+	religion="sunni"
+	culture="persian"
+	father=93153
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+
+93155 = {
+	name="Õ¼Ë¼ ¶¡"
+	dynasty=7330
+	religion="sunni"
+	culture="persian"
+	father=93154
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1295.1.1={
+		death="1295.1.1"
+	}
+}
+
+93156 = {
+	name="·¨ºÕ¶û ¶¡"
+	dynasty=7330
+	religion="sunni"
+	culture="persian"
+	father=93155
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+93157 = {
+	name="Õ¼Ë¼ ¶¡"
+	dynasty=7330
+	religion="sunni"
+	culture="persian"
+	father=93156
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+93158 = {
+	name="¹ş·Æ×È"
+	dynasty=7330
+	religion="sunni"
+	culture="persian"
+	father=93157
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+
+93159 = {
+	name="ÄÂÒÁ×È ¶¡"
+	dynasty=7330
+	religion="sunni"
+	culture="persian"
+	father=93158
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+93162 = {
+	name="¿¨ÁÖ"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=41606
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+
+
+93163 = {
+	name="Â³Ë¹ËşÄ·"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=41606
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+
+
+93164 = {
+	name="°¢Àï"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93163
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+
+
+
+93165 = {
+	name="¼Ö×È Â³Ë¹ËşÄ·"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93164
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+
+
+
+93166 = {
+	name="¹şÉ£"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93165
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1173.1.1={
+		death="1173.1.1"
+	}
+}
+
+
+
+
+93167 = {
+	name="°¢´ïÏ£¶û"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93166
+	1156.1.1={
+		birth="1156.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+
+
+
+93168 = {
+	name="¼Ö×È Â³Ë¹ËşÄ·"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93167
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+
+
+
+93169 = {
+	name="°¢´ïÏ£¶û"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93168
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+
+
+93170 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93169
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1267.1.1={
+		death="1267.1.1"
+	}
+}
+
+
+
+93171 = {
+	name="°¢Àï"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93170
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1271.1.1={
+		death="1271.1.1"
+	}
+}
+
+
+
+
+93172 = {
+	name="Ò®×ÈµÒ¸ñµÂ"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93171
+	1258.1.1={
+		birth="1258.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+
+
+
+93173 = {
+	name="É³ÀïÑÇ¶û"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93172
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+
+
+
+93174 = {
+	name="¿­-¿âÊ²À­ÎÚ"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93173
+	1294.1.1={
+		birth="1294.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+
+
+
+93175 = {
+	name="É³À­·ò"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93173
+	1299.1.1={
+		birth="1299.1.1"
+	}
+	1334.1.1={
+		death="1334.1.1"
+	}
+}
+
+
+
+93176 = {
+	name="¹şÉ£"
+	dynasty=7331
+	religion="shiite"
+	culture="persian"
+	father=93173
+	1301.1.1={
+		birth="1301.1.1"
+	}
+	1349.1.1={
+		death="1349.1.1"
+	}
+}
+
+
+
+93177 = {
+	name="°¢´ïÏ£¶û"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1047.1.1={
+		death="1047.1.1"
+	}
+}
+
+
+93178 = {
+	name="ÄÉÄ·Íß¶û"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93177
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+93179 = {
+	name="É³À­·ò"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93178
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1109.1.1={
+		death="1109.1.1"
+	}
+}
+
+93180 = {
+	name="É³ÀïÍßÊ²"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93179
+	1093.1.1={
+		birth="1093.1.1"
+	}
+	1168.1.1={
+		death="1168.1.1"
+	}
+}
+
+93181 = {
+	name="¿­-¿¨ÎÚË¹"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93180
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1184.1.1={
+		death="1184.1.1"
+	}
+}
+
+93182 = {
+	name="¹şÔúÀ­Ë¹ÆÕ"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93181
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+93183 = {
+	name="ÔúÁÖ-¿­Ä©¶û"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93182
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1213.1.1={
+		death="1213.1.1"
+	}
+}
+
+93184 = {
+	name="±ÈËØÍ¼¶÷"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93182
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1223.1.1={
+		death="1223.1.1"
+	}
+}
+
+93185 = {
+	name="ÄÉÄ·Íß¶û"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93184
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+93186 = {
+	name="°¢´ïÏ£¶û"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93184
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1236.1.1={
+		death="1236.1.1"
+	}
+}
+
+93187 = {
+	name="À­Ï£Ä· ¼ÓÎÚ°ÍÀ­"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93186
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1272.1.1={
+		death="1272.1.1"
+	}
+}
+
+93188 = {
+	name="ÄÉÄ·Íß¶û"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93187
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+
+93189 = {
+	name="¿­-¿âÊ²À­ÎÚ"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93188
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+
+93190 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93189
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+
+93191 = {
+	name="É³ÀïÑÇ¶û"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93190
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+
+93192= {
+	name="Æë¼Ö¶û"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93190
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1334.1.1={
+		death="1334.1.1"
+	}
+}
+
+93193= {
+	name="ÒÁË¹¿²´ï¶û"
+	dynasty=7332
+	religion="shiite"
+	culture="persian"
+	father=93192
+	1318.1.1={
+		birth="1318.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+93194= {
+	name="ËÕ¶û¸ù Î÷À­"
+	dynasty=101912
+	religion="tengri_pagan"
+	culture="mongol"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+93195= {
+	name="ËÕ¶û¸ù Î÷À­"
+	dynasty=101912
+	religion="tengri_pagan"
+	culture="mongol"
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+
+93258 = {
+	name="°ÍÀ­¿Ë ¹ş¼ª²¼"
+	dynasty=7337
+	religion="sunni"
+	culture="persian"
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1235.1.1={
+		death="1235.1.1"
+	}
+}
+
+
+93259 = {
+	name="¿âÌØ ¶¡ ÄÂº±Ä¬µÂ"
+	dynasty=7337
+	religion="sunni"
+	culture="persian"
+	father=93258
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1257.1.1={
+		death="1257.1.1"
+	}
+}
+
+
+93260 = {
+	name="Â³¿â ¶¡ ºîÑÇ ¹ş¿Ë"
+	dynasty=7337
+	religion="sunni"
+	culture="persian"
+	father=93258
+	1201.1.1={
+		birth="1201.1.1"
+	}
+	1252.1.1={
+		death="1252.1.1"
+	}
+}
+
+
+
+93261 = {
+	name="ÄÂÔú·¨¶û ¶¡"
+	dynasty=7337
+	religion="sunni"
+	culture="persian"
+	father=93259
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1279.1.1={
+		death="1279.1.1"
+	}
+}
+
+93262 = {
+	name="Í¼¿² ¹şÍ¼¶÷"
+	female=yes
+	dynasty=7337
+	religion="sunni"
+	culture="persian"
+	father=93261
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1282.1.1={
+		death="1282.1.1"
+	}
+}
+
+
+93263 = {
+	name="¼ÖÀ­¶û ¶¡ °¢±È-ÄÂÔú·¨¶û"
+	dynasty=7337
+	religion="sunni"
+	culture="persian"
+	father=93261
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+
+93264 = {
+	name="Èö¸»ÍßÌØ ¶¡ ÅÁµÏÉ³ ¹şÍ¼¶÷"
+	female=yes
+	dynasty=7337
+	religion="sunni"
+	culture="persian"
+	father=93261
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1295.1.1={
+		death="1295.1.1"
+	}
+}
+
+93265 = {
+	name="ÓñÂ³¿Ë É³ºÕ"
+	dynasty=7337
+	religion="sunni"
+	culture="persian"
+	father=93263
+	1282.1.1={
+		birth="1282.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+
+93266 = {
+	name="ÄÂÔú·¨¶û ¶¡"
+	dynasty=7337
+	religion="sunni"
+	culture="persian"
+	father=93263
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1301.1.1={
+		death="1301.1.1"
+	}
+}
+
+
+93267 = {
+	name="¿âÌØ ¶¡"
+	dynasty=7337
+	religion="sunni"
+	culture="persian"
+	father=93263
+	1284.1.1={
+		birth="1284.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+
+
+
+93268 = {
+	name="É³À­·ò ¶¡ ÄÂÔú·¨¶û"
+	dynasty=101915
+	religion="sunni"
+	culture="persian"
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+93269 = {
+	name="ËşºÕ ¶¡"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1073.1.1={
+		death="1073.1.1"
+	}
+}
+
+
+93270 = {
+	name="°Í¹şÎÚµÂ-´ïÎÚÀ­ ËşÏ£¶û"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93269
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1088.1.1={
+		death="1088.1.1"
+	}
+}
+
+
+
+93271 = {
+	name="°İµÏÂ×µÂ-´ïÎÚÀ­ °¢±È °¢°ÎË¹"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93270
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+
+
+93272 = {
+	name="°Í¹şµÂ-´ïÎÚÀ­ ¿¨À­¸£"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93270
+	1053.1.1={
+		birth="1053.1.1"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+
+
+93273 = {
+	name="ËşºÕ ¶¡"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93272
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1164.1.1={
+		death="1164.1.1"
+	}
+}
+
+
+93274 = {
+	name="É³Ä·Ë¹ ¶¡ °¢ºÕÂóµÂ"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93273
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1167.1.1={
+		death="1167.1.1"
+	}
+}
+
+
+
+93275 = {
+	name="ÒÁ×È ¶¡ ÄÂº±Ä¬µÂ"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93274
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1168.1.1={
+		death="1168.1.1"
+	}
+}
+
+
+
+93276 = {
+	name="ËşºÕ ¶¡"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93275
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+
+
+
+
+93277 = {
+	name="ÑÇÃô ¶¡ °ÍºÕÀ­Ä·"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93276
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+
+93278 = {
+	name="ËşºÕ ¶¡"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93277
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+93279 = {
+	name="Ğ»¹ş²¼ ¶¡"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93277
+	1201.1.1={
+		birth="1201.1.1"
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+93280 = {
+	name="Â³¿â ¶¡"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93277
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+93281 = {
+	name="°¢À­ ¶¡"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93277
+	1203.1.1={
+		birth="1203.1.1"
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+93282 = {
+	name="ÄÉÎ÷¶û ¶¡"
+	dynasty=7338
+	religion="sunni"
+	culture="persian"
+	father=93277
+	1204.1.1={
+		birth="1204.1.1"
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+93284 = {
+	name="ÂíËÕµÂ"
+	dynasty=7339
+	religion="sunni"
+	culture="persian"
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+93285 = {
+	name="É³Ä·Ë¹ ¶¡"
+	dynasty=7339
+	religion="sunni"
+	culture="persian"
+	father=93284
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+93286 = {
+	name="ÄÂ°ÍÀû×È ¶¡"
+	dynasty=7339
+	religion="sunni"
+	culture="persian"
+	father=93284
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+93287 = {
+	name="ÄÉÎ÷¶û ¶¡"
+	dynasty=7339
+	religion="sunni"
+	culture="persian"
+	father=93286
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+
+93288 = {
+	name="Å¬Ë¹À­ÌØ ¶¡"
+	dynasty=7339
+	religion="sunni"
+	culture="persian"
+	father=93287
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+
+93289 = {
+	name="Â³¿â ¶¡"
+	dynasty=7339
+	religion="sunni"
+	culture="persian"
+	father=93287
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+93290 = {
+	name="¿âÌØ ¶¡"
+	dynasty=7339
+	religion="sunni"
+	culture="persian"
+	father=93289
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1346.1.1={
+		death="1346.1.1"
+	}
+}
+
+93291 = {
+	name="Ëş¼Ö¶û ¶¡"
+	dynasty=7339
+	religion="sunni"
+	culture="persian"
+	father=93290
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1351.1.1={
+		death="1351.1.1"
+	}
+}
+
+93292 = {
+	name="¼ÖÀ­¶û-¶¡"
+	dynasty=7339
+	religion="sunni"
+	culture="persian"
+	father=93289
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+93293 = {
+	name="ÒÁ×È ¶¡"
+	dynasty=7339
+	religion="sunni"
+	culture="persian"
+	father=93289
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1382.9.29={
+		death="1382.9.29"
+	}
+}
+
+93294 = {
+	name="¿âÌØ ¶¡"
+	dynasty=7339
+	religion="sunni"
+	culture="persian"
+	father=93293
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	1386.1.1={
+		death="1386.1.1"
+	}
+}
+
+93295 = {
+	name="¿âÌØÂ³ ÒÁÄÏ"
+	dynasty=101876
+	religion="sunni"
+	culture="persian"
+	father=144052
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+93296 = {
+	name="Å¬Ë¹À­ÌØ ¶¡ °¢±È-°Í¿¨¶û"
+	dynasty=101876
+	religion="sunni"
+	culture="persian"
+	father=93295
+	1178.1.1={
+		birth="1178.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+93297 = {
+	name="ÄÂÔú·¨¶û ¶¡ °Â×È±´¸ñ"
+	dynasty=101876
+	religion="sunni"
+	culture="persian"
+	father=93295
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+93298 = {
+	name="Æë×È ÑÇË¹À¼"
+	dynasty=101876
+	religion="sunni"
+	culture="persian"
+	father=93295
+	1182.1.1={
+		birth="1182.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+93299 = {
+	name="Å¬Ë¹À­ÌØ ¶¡"
+	dynasty=101876
+	religion="sunni"
+	culture="persian"
+	father=93295
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+93300 = {
+	name="ÈøÒå¸£ ¶¡ ÒÁË¹¹ş¿Ë"
+	dynasty=7340
+	religion="shiite"
+	culture="persian"
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1304.1.1={
+		add_spouse=93302
+	} 
+	1334.1.1={
+		death="1334.1.1"
+	}
+}
+
+93301 = {
+	name="Ëş¼Ö ¶¡ Ò×²·À­ĞÀ"
+	#AKA Zahed Gilani
+	dynasty=7341
+	religion="shiite"
+	culture="persian"
+	1216.1.1={
+		birth="1216.1.1"
+	}
+	1301.1.1={
+		death="1301.1.1"
+	}
+}
+
+93302 = {
+	name="±Ï±È ·¨ÌØÃ·"
+	female=yes
+	dynasty=7341
+	religion="shiite"
+	culture="persian"
+	father=93301
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+
+93303 = {
+	name="ÈøµÂ¶û ¶¡ ÄÂÈø"
+	dynasty=7340
+	religion="shiite"
+	culture="persian"
+	father=93300
+	mother=93302
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1391.1.1={
+		death="1391.1.1"
+	}
+}
+
+163099 = {
+	name="ÄÉË¹¶û"
+	dynasty=810
+	religion="sunni"
+	culture="persian"
+	father = 163154
+	830.1.1={
+		birth=yes
+	}
+	
+	867.1.1={
+		effect = {
+			decadence = -25
+			spawn_unit = {
+				province = 902 # Dashhowuz
+				owner = ROOT
+				leader = ROOT
+				troops = {
+					light_infantry = { 277 277 }
+					heavy_infantry = { 244 244 }
+					archers = { 122 122 }
+					light_cavalry = { 54 54 }
+				}
+				attrition = 1.0
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 902 # Dashhowuz
+					owner = ROOT
+					leader = THIS
+					troops = {
+						light_infantry = { 277 277 }
+						heavy_infantry = { 244 244 }
+						archers = { 122 122 }
+						light_cavalry = { 54 54 }
+					}
+					attrition = 1.0
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 27
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 902 # Dashhowuz
+					owner = ROOT
+					leader = THIS
+					troops = {
+						light_infantry = { 277 277 }
+						heavy_infantry = { 244 244 }
+						archers = { 122 122 }
+						light_cavalry = { 54 54 }
+					}
+					attrition = 1.0
+				}
+			}
+		}
+	}
+	
+	892.1.1={
+		death=yes
+	}
+}
+
+163100 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=811
+	religion="sunni"
+	culture="persian"
+	father = 163159
+	840.1.1={
+		birth="840.1.1"
+	}
+	873.1.1={
+		death="873.1.1"
+	}
+}
+
+163101 = {
+	name="°¢¹Å°Ø"
+	dynasty=812
+	martial = 8
+	religion="sunni"
+	culture="persian"
+	father = 163163
+	trait = brave
+	trait = wroth
+	trait = charitable
+	trait = ambitious
+	trait = brilliant_strategist
+	840.1.1={
+		birth=yes
+	}
+	867.1.1 = {
+		add_claim = d_kabul
+		add_claim = d_bhakkar
+		add_claim = d_sauvira
+		effect = {
+			decadence = -25
+			spawn_unit = {
+				province = 906 # Birjand
+				owner = ROOT
+				leader = ROOT
+				troops = {
+						light_infantry = { 1992 1992 }
+						heavy_infantry = { 1664 1664 }
+						pikemen = { 397 397 }
+						archers = { 969 969 }
+						light_cavalry = { 755 755 }
+						knights = { 46 46 }
+						horse_archers = { 90 90 }
+					}
+				attrition = 1.0
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 906 # Birjand
+					owner = ROOT
+					leader = THIS
+					troops = {
+					light_infantry = { 1992 1992 }
+					heavy_infantry = { 1664 1664 }
+					pikemen = { 397 397 }
+					archers = { 969 969 }
+					light_cavalry = { 755 755 }
+					knights = { 46 46 }
+					horse_archers = { 90 90 }
+				}
+					attrition = 1.0
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 27
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 906 # Birjand
+					owner = ROOT
+					leader = THIS
+					troops = {
+						light_infantry = { 1992 1992 }
+						heavy_infantry = { 1664 1664 }
+						pikemen = { 397 397 }
+						archers = { 969 969 }
+						light_cavalry = { 755 755 }
+						knights = { 46 46 }
+						horse_archers = { 90 90 }
+					}
+					attrition = 1.0
+				}
+			}
+		}
+	}
+	879.6.5={
+		death="879.6.5"
+	}
+}
+
+74030 = {
+	name="´óÁ÷Ê¿"
+	dynasty=12273
+
+	culture="persian"
+	religion="zoroastrian"
+
+	835.1.1={
+		birth="835.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+74033 = {
+	name="ÒÁË¹¿²µÂ¶û"
+	dynasty=12273
+
+	father=74030
+
+	culture="persian"
+	religion="zoroastrian"
+
+	862.1.1={
+		birth="862.1.1"
+	}
+	928.1.1={
+		death="928.1.1"
+	}
+}
+74034 = {
+	name="É³°Í×È"
+	dynasty=12274
+
+	father=74031
+
+	culture="persian"
+	religion="zoroastrian"
+
+	846.1.1={
+		birth="846.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}
+159579 = { 
+	name="°ÍÀ­Ê²" # VI of Parthia
+	dynasty=100685
+	religion="zoroastrian"
+	culture="persian"
+	father=159550
+	180.11.1={
+		birth="180.11.1"
+	}
+	230.8.29={
+		death="230.8.29"
+	}
+}
+159599 = { 
+	name="ÈøÉ£" # II
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	130.11.1={
+		birth="130.11.1"
+	}
+	200.1.1={
+		death="200.1.1"
+	}
+}
+159600 = { 
+	name="°Í°Í¿Ë" # II
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=159599
+	150.11.1={
+		birth="150.11.1"
+	}
+	222.1.1={
+		death="222.1.1"
+	}
+}
+159601 = { 
+	name="°¢¶ûµÂÏ£¶û" # I
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=159600
+	180.11.1={
+		birth="180.11.1"
+	}
+	241.1.1={
+		death="241.1.1"
+	}
+}
+159602 = { 
+	name="É³ÆÕ¶û" # I
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=159601
+	215.11.1={
+		birth="215.11.1"
+	}
+	272.1.1={
+		death="272.1.1"
+	}
+}
+
+163153 = {
+	name="°¢ÈøµÂ"
+	dynasty=810
+	religion="sunni"
+	culture="persian"
+	father=188637
+	756.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+
+163154 = {
+	name="°¬¹şÂõµÂ"
+	dynasty=810
+	religion="sunni"
+	culture="persian"
+	father = 163153
+	790.1.1={
+		birth=yes
+	}
+	864.1.1={
+		death=yes
+	}
+}
+
+163155 = {
+	name="ÒÁÀûÑÇË¹"
+	dynasty=810
+	religion="sunni"
+	culture="persian"
+	father = 163153
+	788.1.1={
+		birth=yes
+	}
+	856.1.1={
+		death=yes
+	}
+}
+
+163156 = {
+	name="Ò×²·À­ĞÀ"
+	dynasty=810
+	religion="sunni"
+	culture="persian"
+	father = 163155
+	810.1.1={
+		birth=yes
+	}
+	868.1.1={
+		death=yes
+	}
+}
+
+163157 = {
+	name="ÒÁË¹Ã·¶û"
+	dynasty=810
+	religion="sunni"
+	culture="persian"
+	father = 163154
+	820.1.1={
+		birth="820.1.1"
+	}
+	907.1.1={
+		death="907.1.1"
+	}
+}
+
+163158 = {
+	name="°¢µÂ°ÍÀ­"
+	dynasty=811
+	religion="sunni"
+	culture="persian"
+	father=188686
+	798.1.1={
+		birth="798.1.1"
+	}
+	845.1.1={
+		death="845.1.1"
+	}
+}
+
+163159 = {
+	name="ËşÏ£¶û"
+	dynasty=811
+	religion="sunni"
+	culture="persian"
+	father = 163158
+	815.1.1={
+		birth="815.1.1"
+	}
+	862.1.1={
+		death="862.1.1"
+	}
+}
+
+163160 = {
+	name="ÎÚ±«´ïÀ­"
+	dynasty=811
+	religion="sunni"
+	culture="persian"
+	father = 163158
+	822.1.1={
+		birth="822.1.1"
+	}
+	881.1.1={
+		death="881.1.1"
+	}
+}
+
+163161 = {
+	name="ËÕÀ³Âü"
+	dynasty=811
+	religion="sunni"
+	culture="persian"
+	father = 163158
+	824.1.1={
+		birth="824.1.1"
+	}
+	879.1.1={
+		death="879.1.1"
+	}
+}
+
+163162 = {
+	name="ÄÂº±ÄÂµÂ"
+	dynasty=811
+	religion="sunni"
+	culture="persian"
+	father = 163158
+	820.1.1={
+		birth="820.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+163163 = {
+	name="À³Ë¼"
+	dynasty=812
+	religion="sunni"
+	culture="persian"
+	810.1.1={
+		birth="810.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+163164 = {
+	name="°¢ÄÂ¶û"
+	dynasty=812
+	religion="sunni"
+	culture="persian"
+	father = 163163
+	841.1.1={
+		birth="841.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}
+
+163165 = {
+	name="°¢Àï"
+	dynasty=812
+	religion="sunni"
+	culture="persian"
+		father = 163163
+	842.1.1={
+		birth="842.1.1"
+	}
+	882.1.1={
+		death="882.1.1"
+	}
+}
+
+180602 = {
+	name="É³ÆÕ¶û"
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=159600
+	177.1.1={
+		birth="177.1.1"
+	}
+	208.1.1={
+		death="208.1.1"
+	}
+}
+180603 = {
+	name="Àµ´ïÏ£¶û"
+	dynasty=1029100
+	religion="manichean"
+	culture="persian"
+	father=159600
+	182.1.1={
+		birth="182.1.1"
+	}
+	245.1.1={
+		death="245.1.1"
+	}
+}
+180605 = {
+	name="É³ÆÕ¶û"
+	# Shapur I, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=159601
+	215.1.1={
+		birth="215.1.1"
+	}
+	272.1.1={
+		death="272.1.1"
+	}
+}
+180606 = {
+	name="»ô¶ûÂí×ÈµÂ"
+	# Hormazd I, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180605
+	246.1.1={
+		birth="246.1.1"
+	}
+	273.1.1={
+		death="273.1.1"
+	}
+}
+180607 = {
+	name="°ÍºÕÀ­Ä·"
+	# Bahram I, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180605
+	240.1.1={
+		birth="240.1.1"
+	}
+	276.1.1={
+		death="276.1.1"
+	}
+}
+180608 = {
+	name="°ÍºÕÀ­Ä·"
+	# Bahram II, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180607
+	260.1.1={
+		birth="260.1.1"
+	}
+	293.1.1={
+		death="293.1.1"
+	}
+}
+180609 = {
+	name="°ÍºÕÀ­Ä·"
+	# Bahram III, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180608
+	285.1.1={
+		birth="285.1.1"
+	}
+	293.4.1={
+		death="293.4.1"
+	}
+}
+180610 = {
+	name="ÄÉ¶ûÈû"
+	# Narseh, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180605
+	244.1.1={
+		birth="244.1.1"
+	}
+	305.1.1={
+		death="305.1.1"
+	}
+}
+180611 = {
+	name="»ô¶ûÂí×ÈµÂ"
+	# Hormazd II, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180610
+	268.1.1={
+		birth="268.1.1"
+	}
+	309.1.1={
+		death="309.1.1"
+	}
+}
+180612 = {
+	name="»ô¶ûÂí×ÈµÂ"
+	dynasty=1029100
+	religion="orthodox"
+	culture="persian"
+	father=180611
+	299.1.1={
+		birth="299.1.1"
+	}
+	368.1.1={
+		death="368.1.1"
+	}
+}
+180613 = {
+	name="»ô¶ûÂí×ÈµÂ"
+	# Byzantine proconsul
+	dynasty=1029100
+	religion="orthodox"
+	culture="greek"
+	father=180612
+	325.1.1={
+		birth="325.1.1"
+	}
+	375.1.1={
+		death="375.1.1"
+	}
+}
+180614 = {
+	name="°¢¶ûµÂÏ£¶û"
+	# Ardeshir II, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180611
+	307.1.1={
+		birth="307.1.1"
+	}
+	383.1.1={
+		death="383.1.1"
+	}
+}
+180615 = {
+	name="×ÈÂ³°²¶ÅË¹ÌØ"
+	# wife of Khosrov IV of Armenia
+	female=yes
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180614
+	330.1.1={
+		birth="330.1.1"
+	}
+	380.1.1={
+		death="380.1.1"
+	}
+}
+180616 = {
+	name="É³ÆÕ¶û"
+	# Shapur III, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180614
+	333.1.1={
+		birth="333.1.1"
+	}
+	388.1.1={
+		death="388.1.1"
+	}
+}
+180617 = {
+	name="É³ÆÕ¶û"
+	# Shapur II, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180611
+	309.1.1={
+		birth="309.1.1"
+	}
+	379.1.1={
+		death="379.1.1"
+	}
+}
+180618 = {
+	name="°ÍºÕÀ­Ä·"
+	# Bahram IV, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180617
+	339.1.1={
+		birth="339.1.1"
+	}
+	399.1.1={
+		death="399.1.1"
+	}
+}
+180619 = {
+	name="ÒÁËÃ°£"
+	# Yazdegerd I, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180616
+	369.1.1={
+		birth="369.1.1"
+	}
+	421.1.1={
+		death="421.1.1"
+	}
+}
+180620 = {
+	name="°ÍºÕÀ­Ä·"
+	# Bahram V, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180619
+	393.1.1={
+		birth="393.1.1"
+	}
+	438.1.1={
+		death="438.1.1"
+	}
+}
+180621 = {
+	name="ÒÁËÃ°£"
+	# Yazdegerd II, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180620
+	417.1.1={
+		birth="417.1.1"
+	}
+	457.1.1={
+		death="457.1.1"
+	}
+}
+180622 = {
+	name="»ô¶ûÂí×ÈµÂ"
+	# Hormazd III, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180621
+	436.1.1={
+		birth="436.1.1"
+	}
+	459.1.1={
+		death="459.1.1"
+	}
+}
+180623 = {
+	name="°ÍÀ­Ê²"
+	# Balash, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180621
+	440.1.1={
+		birth="440.1.1"
+	}
+	488.1.1={
+		death="488.1.1"
+	}
+}
+180624 = {
+	name="ÙÂÂ·Ë¹"
+	# Peroz I, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180621
+	438.1.1={
+		birth="438.1.1"
+	}
+	484.6.1={
+		death="484.6.1"
+	}
+}
+180625 = {
+	name="ÔúÂíË¹ÆÕ"
+	# Djamasp, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180624
+	470.1.1={
+		birth="470.1.1"
+	}
+	510.1.1={
+		death="510.1.1"
+	}
+}
+180626 = {
+	name="ÔúÀ×ºÕ"
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180624
+	466.1.1={
+		birth="466.1.1"
+	}
+	485.1.1={
+		death="485.1.1"
+	}
+}
+180627 = {
+	name="¿¨ÍßµÂ"
+	# Kavadh I, Emperor of Persia
+	dynasty=1029100
+	religion="mazdaki"
+	culture="persian"
+	father=180624
+	469.1.1={
+		birth=yes
+	}
+	531.9.1={
+		death=yes
+	}
+}
+180628 = {
+	name="»ôË¹ÀÍ"
+	# Khosrau I, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180627
+	505.1.1={
+		birth=yes
+	}
+	579.1.1={
+		death=yes
+	}
+}
+180629 = {
+	name="±ÈË¹Ì¹Ä·"
+	# pretender to throne of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180628
+	532.1.1={
+		birth="532.1.1"
+	}
+	596.1.1={
+		death="596.1.1"
+	}
+}
+180630 = {
+	name="»ô¶ûÂí×ÈµÂ"
+	# Hormazd IV, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180628
+	528.1.1={
+		birth="528.1.1"
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+180631 = {
+	name="»ôË¹ÀÍ"
+	# Khosrau II, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180630
+	560.1.1={
+		birth="560.1.1"
+	}
+	589.1.1={
+		add_spouse=180646
+	} 
+	628.2.28={
+		death="628.2.28"
+	}
+}
+180632 = {
+	name="¿¨ÍßµÂ"
+	# Kavadh II, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180631
+	590.1.1={
+		birth="590.1.1"
+	}
+	628.6.1={
+		death="628.6.1"
+	}
+}
+180633 = {
+	name="°¢¶ûµÂÏ£¶û"
+	# Ardeshir III, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180632
+	621.1.1={
+		birth="621.1.1"
+	}
+	630.4.27={
+		death="630.4.27"
+	}
+}
+180634 = {
+	name="²¨À¼¶ÅºÕÌØ"
+	# Purandokht, Empress of Persia
+	female=yes
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180631
+	592.1.1={
+		birth="592.1.1"
+	}
+	631.5.1={
+		death="631.5.1"
+	}
+}
+180635 = {
+	name="°¢Ôú¶ûÃ×¶àºÕÌØ"
+	# Azarmidokht, Empress of Persia
+	female=yes
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180631
+	593.1.1={
+		birth="593.1.1"
+	}
+	631.9.1={
+		death="631.9.1"
+	}
+}
+180636 = {
+	name="É³ºÕÀïÑÇ¶û"
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180631
+	mother=180646
+	595.1.1={
+		birth="595.1.1"
+	}
+	628.5.1={
+		death="628.5.1"
+	}
+}
+180637 = {
+	name="ÒÁËÃ°£"
+	# Yazdegerd III, Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180636
+	617.1.1={
+		birth="617.1.1"
+	}
+	651.1.1={
+		death="651.1.1"
+	}
+}
+180638 = {
+	name="É³ºÕ°ÍÅ¬"
+	# possible wife of Husayn ibn Ali
+	female=yes
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180637
+	643.1.1={
+		birth="643.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+180639 = {
+	name="ÒÁ×È¶ÅÄÏµÂ"
+	# wife of Bustanai ben Haninai
+	female=yes
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180637
+	648.1.1={
+		birth="648.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+180640 = {
+	name="ÙÂÂ·Ë¹"
+	# Peroz II, would-be Emperor of Persia
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180637
+	645.1.1={
+		birth="645.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+180641 = {
+	name="ÄÉ¶ûÎ÷Ò®"
+	dynasty=1029100
+	religion="zoroastrian"
+	culture="persian"
+	father=180640
+	675.1.1={
+		birth="675.1.1"
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+180645 = {
+	name="°ÍºÕÀ­Ä·"
+	# Bahram VI, Emperor of Persia
+	dynasty=1042070
+	religion="zoroastrian"
+	culture="persian"
+	553.1.1={
+		birth="553.1.1"
+	}
+	592.1.1={
+		death="592.1.1"
+	}
+}
+183243 = {
+	name="¸êÀÕÉĞ"
+	female = yes
+
+	religion="zoroastrian"
+	culture="persian"
+	847.1.1={
+		birth="847.1.1"
+	}
+	915.1.1={
+		death="915.1.1"
+	}
+}
+
+188242 = {
+	name="²é²ìÅÁ"
+	dynasty=1042083 # Hunas
+	religion="hindu"
+	culture="persian"
+	trait="shaivist_hindu"
+	father=191922
+	825.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+188656 = {
+	name="·¨Å¬¶û" # fictitious holder of Kermanshah
+	dynasty=1042128 # Kermanibid
+	religion="sunni"
+	culture="kurdish"
+	748.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+
+188657 = {
+	name="Ã×Ë¹ÌØ·¨" # fictitious holder of Kurdistan
+	dynasty=1042129 
+	religion="sunni"
+	culture="kurdish"
+	745.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188658 = {
+	name="Àè·²ÌØ" # fictitious holder of Oromeih
+	dynasty=1042130 
+	religion="sunni"
+	culture="kurdish"
+	740.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188659 = {
+	name="ÆÕÂŞ´Ä" # fictitious holder of Kirkuk
+	dynasty=1042131 
+	religion="sunni"
+	culture="kurdish"
+	731.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+188580 = {
+	name="°¢¸¥Àï¸ñ"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	280.9.4={
+		birth=yes
+	}
+	350.1.1={
+		death=yes
+	}
+}
+
+188581 = {
+	name="°Í¸ñÀ­"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188580
+	312.1.28={
+		birth=yes
+	}
+	380.1.1={
+		death=yes
+	}
+}
+
+188582 = {
+	name="Èø¹şÉ£¿Ë"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188581
+	337.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+
+188583 = {
+	name="°¢¿¨ÔúÄÂ¿Ë"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188582
+	365.1.1={
+		birth=yes
+	}
+	440.1.1={
+		death=yes
+	}
+}
+
+188584 = {
+	name="°¢¿¨ÔúÍß"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188583
+	400.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+188585 = {
+	name="É³ºÕ¶û"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188584
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+188586 = {
+	name="É³Å·Ê²"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188585
+	460.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}
+
+188587 = {
+	name="¹şÄ·¸ñÀï"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188586
+	490.1.1={
+		birth=yes
+	}
+	560.1.1={
+		death=yes
+	}
+}
+
+188588 = {
+	name="²¼´Ä¸ñ¶û"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188587
+	520.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+
+188589 = {
+	name="°¢ÀïÉ³ÄÂºÕ"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188588
+	560.1.1={
+		birth=yes
+	}
+	625.1.1={
+		death=yes
+	}
+}
+
+188590 = {
+	name="É³ºÕ¶û"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188589
+	600.1.1={
+		birth=yes
+	}
+	665.1.1={
+		death=yes
+	}
+}
+
+188591 = {
+	name="É³±ËÀû"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188590
+	635.1.1={
+		birth=yes
+	}
+	690.1.1={
+		death=yes
+	}
+}
+
+188592 = {
+	name="°¢Ë¹¿¨ÔúÍß"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188591
+	665.1.1={
+		birth=yes
+	}
+	712.1.1={
+		death=yes
+	}
+}
+
+188593 = {
+	name="°¢Ë¹¿¨ÔúÄÂ¿Ë"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188592
+	690.1.1={
+		birth=yes
+	}
+	740.1.1={
+		death=yes
+	}
+}
+
+188594 = {
+	name="É³Íß·²"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188593
+	715.1.1={
+		birth=yes
+	}
+	765.1.1={
+		death=yes
+	}
+}
+
+188595 = {
+	name="ÍĞ¿¨Ë¹°Í´ï¶û"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188594
+	740.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188596 = {
+	name="°¢²¼´ïÀ­ºÕ"
+	dynasty=1042112 # Afrighid
+	religion="zoroastrian"
+	culture="persian"
+	father=188595
+	765.1.1={
+		birth=yes
+	}
+	790.1.1={
+		religion=sunni
+	}
+	815.1.1={
+		death=yes
+	}
+}
+
+188597 = {
+	name="ÂüËÕ¶û"
+	dynasty=1042112 # Afrighid
+	religion="sunni"
+	culture="persian"
+	father=188596
+	795.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+
+188598 = {
+	name="¶íÀ­¿Ë"
+	dynasty=1042112 # Afrighid
+	religion="sunni"
+	culture="persian"
+	father=188597
+	825.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+188599 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=1042112 # Afrighid
+	religion="sunni"
+	culture="persian"
+	father=188598
+	865.1.1={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+
+188600 = {
+	name="°¢²¼ Èø°¬µÂ"
+	dynasty=1042112 # Afrighid
+	religion="sunni"
+	culture="persian"
+	father=188599
+	900.1.1={
+		birth=yes
+	}
+	970.1.1={
+		death=yes
+	}
+}
+
+188601 = {
+	name="°¢²¼ °¢²¼´ïÀ­ºÕ"
+	dynasty=1042112 # Afrighid
+	religion="sunni"
+	culture="persian"
+	father=188600
+	925.1.1={
+		birth=yes
+	}
+	995.1.1={
+		death=yes
+	}
+}
+188629 = {
+	name="¿¨¿âÔúÑÅÂí¹ş" 
+	dynasty=1042122 # Banu Tamim
+	religion="sunni"
+	culture="persian"
+	695.1.1={
+		birth=yes
+	}
+	750.1.1={
+		death=yes
+	}
+}
+188630 = {
+	# Important Abbasid revolutionary, governor of Khorasan at times
+	name="¿¨¹ş×ÈÄ·"
+	dynasty=1042122 # Banu Tamim
+	religion="sunni"
+	culture="persian"
+	father=188629
+	trait=brilliant_strategist
+	720.1.1={
+		birth=yes
+	}
+	771.1.1={
+		death=yes
+	}
+}
+188631 = {
+	name="¿¨¿âÔúÑÅÂí¹ş"  # or Kuzayma
+	dynasty=1042122 # Banu Tamim
+	religion="sunni"
+	culture="persian"
+	father=188630
+	trait=skilled_tactician
+	742.1.1={
+		birth=yes
+	}
+	819.1.1={
+		death=yes
+	}
+}
+188664 = {
+	name="ºÕÔúÀïÏ£" # fictitious holder of Hormuz
+	dynasty=1042138
+	religion="zoroastrian"
+	culture="persian"
+	748.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+188660 = {
+	name="°¢Àï-ºú´ïÑÇ" # Kharijite rebel in Sistan
+	dynasty=1042132 # of Uq 
+	religion="ibadi"
+	culture="persian"
+	726.1.1={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+188632 = {
+	name="°¢²¼-¿¨¹şÀïµÂ" 
+	dynasty=1042123 # Marwarrudhid
+	religion="sunni"
+	culture="persian"
+	725.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188633 = {
+	name="ÄÂº±Ä¬µÂ" 
+	dynasty=1042123 # Marwarrudhid
+	religion="sunni"
+	culture="persian"
+	father=188632
+	756.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+188650 = {
+	name="°¢²¼ °¢¶û-Ã×Àû¿Ë"  # Abu Awn Abd al-Malik ibn Yazid
+	dynasty=1042126 # Azdid
+	religion="sunni"
+	culture="persian"
+	trait=brilliant_strategist
+	723.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+188686 = {
+	name="ËşÏ£¶û"
+	dynasty=811 # Tahirid
+	religion="sunni"
+	culture="persian"
+	father=188687
+	775.1.1={
+		birth=yes
+	}
+	822.1.1={
+		death=yes
+	}
+}
+
+188687 = {
+	name="ºúÉ£"
+	dynasty=811 # Tahirid
+	religion="sunni"
+	culture="persian"
+	father=188688
+	745.1.1={
+		birth=yes
+	}
+	806.1.1={
+		death=yes
+	}
+}
+
+188688 = {
+	name="Â¬Ôú"
+	dynasty=811 # Tahirid
+	religion="zoroastrian"
+	culture="persian"
+	720.1.1={
+		birth=yes
+	}
+	745.1.1={
+		religion="sunni"
+	}
+	782.1.1={
+		death=yes
+	}
+}
+
+188689 = {
+	name="Ëş¹ş"
+	dynasty=811 # Tahirid
+	religion="sunni"
+	culture="persian"
+	father=188686
+	797.1.1={
+		birth=yes
+	}
+	828.1.1={
+		death=yes
+	}
+}
+
+
+188695 = {
+	name="°¢²¼ °¢¶û-ÄÉ½ÜÄ·" # general that fought Ustadhsis
+	dynasty=1042154 # Sijistanid
+	religion="sunni"
+	culture="persian"
+	738.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+232753 = {
+	name="ÂüÅ«³¹ºÕ¶û"
+	dynasty=101873
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="persian"
+	trait="gluttonous"
+	trait="just"
+	trait="tough_soldier"
+	father=144567
+	1099.1.1={
+		birth="1099.1.1"
+	}
+	1116.1.1={
+		add_spouse=232750
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+188642 = {
+	name="°ÍÂí¿Æ" 
+	dynasty=1042125 # Barmakid
+	religion="buddhist"
+	culture="persian"
+	670.1.1={
+		birth=yes
+	}
+	730.1.1={
+		religion="sunni"
+	}
+	740.1.1={
+		death=yes
+	}
+}
+
+188643 = {
+	name="¿¨¹şÀïµÂ" 
+	dynasty=1042125 # Barmakid
+	religion="buddhist"
+	culture="persian"
+	father=188642
+	705.1.1={
+		birth=yes
+	}
+	730.1.1={
+		religion="sunni"
+	}
+	782.1.1={
+		death=yes
+	}
+}
+
+188644 = {
+	name="ÑÅ¹şÑÇ" 
+	dynasty=1042125 # Barmakid
+	religion="sunni"
+	culture="persian"
+	father=188643
+	740.1.1={
+		birth=yes
+	}
+	806.1.1={
+		death=yes
+	}
+}
+
+188645 = {
+	name="·¨µÂ¶û" 
+	dynasty=1042125 # Barmakid
+	religion="sunni"
+	culture="persian"
+	father=188644
+	766.2.1={
+		birth=yes
+	}
+	808.11.1={
+		death=yes
+	}
+}
+
+188646 = {
+	name="Ôú·¨¶û" 
+	dynasty=1042125 # Barmakid
+	religion="sunni"
+	culture="persian"
+	father=188644
+	767.1.1={
+		birth=yes
+	}
+	803.1.1={
+		death=yes
+	}
+}
+
+188647 = {
+	name="ÄÂÈø" 
+	dynasty=1042125 # Barmakid
+	religion="sunni"
+	culture="persian"
+	father=188644
+	768.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+188651 = {
+	name="°¢²¼´ïÀ­" 
+	dynasty=1042122 # Banu Tamim
+	religion="sunni"
+	culture="persian"
+	father=188630
+	trait=skilled_tactician
+	750.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+188652 = {
+	name="°¬°ÍºÕÄ·" 
+	dynasty=1042122 # Banu Tamim
+	religion="sunni"
+	culture="persian"
+	father=188630
+	trait=skilled_tactician
+	754.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+146042 = {
+	name="É³À­·ò"
+	dynasty=1022361 # Al-Marwazi or Marwazid
+	religion="sunni"
+	culture="persian"
+
+	731.1.1={
+		birth=yes
+	}
+	788.1.1={
+		death=yes
+	}
+}
+
+146043 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=1022361
+	religion="sunni"
+	culture="persian"
+	father=146042
+	750.1.1={
+		birth=yes
+	}
+	817.1.1={
+		death=yes
+	}
+}
+
+146044 = {
+	name="°¢²¼ Èø°¬µÂ"
+	dynasty=1022361
+	religion="sunni"
+	culture="persian"
+	father=146043
+	800.1.1={
+		birth=yes
+	}
+	851.1.1={
+		death=yes
+	}
+}
+
+146045 = {
+	name="ÓÈËÕ·ò"
+	dynasty=1022361
+	religion="sunni"
+	culture="persian"
+	father=146044
+	820.1.1={
+		birth=yes
+	}
+	852.3.1={
+		death=yes
+	}
+}
+
+146093 = {
+	name="ÑÇ´ÄµÂ"
+	dynasty=1029124 # Yazidid
+	religion="sunni"
+	culture="persian"
+	father=146090
+	962.1.1={
+		birth=yes
+	}
+	991.6.1={
+		dynasty=101873
+	}
+	1027.11.1={
+		death=yes
+	}
+}
+
+146094 = {
+	name="ÂíÅ¬³¹ºÕ¶û"
+	dynasty=1029124
+	religion="sunni"
+	culture="persian"
+	father=146093
+	976.1.1={
+		birth=yes
+	}
+	991.6.1={
+		dynasty=101873
+	}
+	1034.1.1={
+		death=yes
+	}
+}
+
+146095 = {
+	name="ºÉ¶ûÄÂ´ÄµÂ"
+	dynasty=101873 # Kesranid or Kasranid
+	religion="sunni"
+	culture="persian"
+	father=146094
+	1010.1.1={
+		birth=yes
+	}
+	1065.4.9={
+		death=yes
+	}
+}
+
+146096 = {
+	name="°¡Å«Ë¹ÂêµÂ"
+	dynasty=1029124
+	religion="sunni"
+	culture="persian"
+	father=146093
+	978.1.1={
+		birth=yes
+	}
+	991.6.1={
+		dynasty=101873
+	}
+	999.1.1={
+		death=yes
+	}
+}
+
+146097 = {
+	name="°¢Àï"
+	dynasty=1029124
+	religion="sunni"
+	culture="persian"
+	father=146093
+	984.1.1={
+		birth=yes
+	}
+	991.6.1={
+		dynasty=101873
+	}
+	1043.1.1={
+		death=yes
+	}
+}
+
+146098 = {
+	name="¿â°ÍµÂ"
+	dynasty=1029124
+	religion="sunni"
+	culture="persian"
+	father=146093
+	990.1.1={
+		birth=yes
+	}
+	991.6.1={
+		dynasty=101873
+	}
+	1049.7.28={
+		death=yes
+	}
+}
+
+146099 = {
+	name="°¢¹şÂõµÂ"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=146093
+	996.1.1={
+		birth=yes
+	}
+	1044.1.1={
+		death=yes
+	}
+}
+
+146100 = {
+	name="°¢Àï"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=146099
+	1016.1.1={
+		birth=yes
+	}
+	1050.3.1={
+		death=yes
+	}
+}
+
+146101 = {
+	name="É³À­¶û"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=146093
+	1002.1.1={
+		birth=yes
+	}
+	1063.2.20={
+		death=yes
+	}
+}
+
+146102 = {
+	name="É³Ã×¿âÑÇ"
+	dynasty=101873
+	female=yes
+	religion="sunni"
+	culture="persian"
+	father=146093
+	1008.1.1={
+		birth=yes
+	}
+	1065.1.1={
+		death=yes
+	}
+}
+
+146103 = {
+	name="ÄÉÄ·À¼"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=146093
+	1014.1.1={
+		birth=yes
+	}
+	1067.2.24={
+		death=yes
+	}
+}
+
+146104 = {
+	name="ÂíÅ¬³¹ºÕ¶û"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=20734
+	1050.1.1={
+		birth=yes
+	}
+	1106.1.1={
+		death=yes
+	}
+}
+
+146105 = {
+	name="°¢¸¥À×¶Ù"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=232753
+	mother=232750
+	1134.1.1={
+		birth=yes
+	}
+	1160.6.1={
+		death=yes
+	}
+}
+
+146106 = {
+	name="°¢¶û³à²é¿Ë"
+	dynasty=101873
+	female=yes
+	religion="sunni"
+	culture="persian"
+	father=232753
+	mother=232750
+	1130.1.1={
+		birth=yes
+	}
+	1137.1.1={
+		death=yes
+	}
+}
+
+146107 = {
+	name="·¨Àï²¼´Ä"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=232753
+	mother=232750
+	1136.1.1={
+		birth=yes
+	}
+	1138.1.1={
+		death=yes
+	}
+}
+
+146108 = {
+	name="°¢²¼¶û ·¨¸¥"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=144568
+	1162.1.1={
+		birth=yes
+	}
+	1176.1.1={
+		death=yes
+	}
+}
+
+146109 = {
+	name="¸¥Â³ÔŞ"
+	dynasty=101873
+	female=yes
+	religion="sunni"
+	culture="persian"
+	father=144568
+	1174.1.1={
+		birth=yes
+	}
+	1192.1.1={
+		death=yes
+	}
+}
+
+146110 = {
+	name="ÂíÅ¬³¹ºÕ¶û"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=144568
+	1176.1.1={
+		birth=yes
+	}
+	1192.1.1={
+		death=yes
+	}
+}
+
+146111 = {
+	name="°¢¶û¹ş·²"
+	dynasty=101873
+	female=yes
+	religion="sunni"
+	culture="persian"
+	father=144568
+	1178.1.1={
+		birth=yes
+	}
+	1192.1.1={
+		death=yes
+	}
+}
+
+146112 = {
+	name="ÄÉ×È¸ñ¶û"
+	dynasty=101873
+	female=yes
+	religion="sunni"
+	culture="persian"
+	father=144568
+	1180.1.1={
+		birth=yes
+	}
+	1192.1.1={
+		death=yes
+	}
+}
+
+146113 = {
+	name="Èø¹şÉº"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=232753
+	mother=232750
+	1132.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+
+146114 = {
+	name="·¨Àï²¼´Ä"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=146105
+	1152.1.1={
+		birth=yes
+	}
+	1204.1.1={
+		death=yes
+	}
+}
+
+146115 = {
+	name="À×ÈøµÂ"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=144569
+	1173.1.1={
+		birth=yes
+	}
+	1222.1.1={
+		death=yes
+	}
+}
+
+146116 = {
+	name="ÔúÀ­À­µä"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=144570
+	1194.1.1={
+		birth=yes
+	}
+	1255.1.1={
+		death=yes
+	}
+}
+
+146117 = {
+	name="°¢¸¥À×¶Ù"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=144571
+	1212.1.1={
+		birth=yes
+	}
+	1256.1.1={
+		death=yes
+	}
+}
+
+146118 = {
+	name="°¢¿¨ºÕ×ÈÌ¹"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=144573
+	1258.1.1={
+		birth=yes
+	}
+	1294.1.1={
+		death=yes
+	}
+}
+
+146119 = {
+	name="ÈøÄ¬¿Ë"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=146118
+	1273.1.1={
+		birth=yes
+	}
+	1290.1.1={
+		death=yes
+	}
+}
+
+146120 = {
+	name="¼ª¿¨¿âË¹"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=146118
+	1275.1.1={
+		birth=yes
+	}
+	1317.1.1={
+		death=yes
+	}
+}
+
+146121 = {
+	name="¿¨·²Ë¹"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=144574
+	1307.1.1={
+		birth=yes
+	}
+	1372.1.1={
+		death=yes
+	}
+}
+
+146122 = {
+	name="ÄÂº±Ä¬µÂ"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=144574
+	1309.1.1={
+		birth=yes
+	}
+	1367.1.1={
+		death=yes
+	}
+}
+
+146123 = {
+	name="ÅµµÂ¶û"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=146121
+	1325.1.1={
+		birth=yes
+	}
+	1370.1.1={
+		death=yes
+	}
+}
+
+146124 = {
+	name="ºúÉĞ"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=146121
+	1327.1.1={
+		birth=yes
+	}
+	1382.1.1={
+		death=yes
+	}
+}
+
+146125 = {
+	name="°¬²®À­ºÕÄ·"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	father=146122
+	1351.1.1={
+		birth=yes
+	}
+	1417.9.15={
+		death=yes
+	}
+}
+
+146128 = {
+	name="¹Å×È´ï¹şÄ·"
+	dynasty=101873
+	religion="sunni"
+	culture="persian"
+	trait="ambitious"
+	trait="deceitful"
+	father=146101
+	1033.1.1={
+		birth=yes
+	}
+	1072.1.1={
+		death=yes
+	}
+}
+188634 = {
+	name="ÅµÏÄµÂ" 
+	dynasty=1042070 # Samanid
+	religion="zoroastrian"
+	culture="persian"
+	father=180645
+	590.1.1={
+		birth=yes
+	}
+	650.1.1={
+		death=yes
+	}
+}
+
+188635 = {
+	name="ÍØ¸ñÂí¸¥" 
+	dynasty=1042070 # Samanid
+	religion="zoroastrian"
+	culture="persian"
+	father=188634
+	635.1.1={
+		birth=yes
+	}
+	690.1.1={
+		death=yes
+	}
+}
+
+188636 = {
+	name="×ôÌØÂü" 
+	dynasty=1042070 # Samanid
+	religion="zoroastrian"
+	culture="persian"
+	father=188635
+	680.1.1={
+		birth=yes
+	}
+	740.1.1={
+		death=yes
+	}
+}
+
+188637 = {
+	name="ÈøÂü-¿¨¿â´ï" 
+	dynasty=810 # Samanid
+	religion="zoroastrian"
+	culture="persian"
+	father=188636
+	720.1.1={
+		birth=yes
+	}
+	737.1.1={
+		religion="sunni"
+	}
+	785.1.1={
+		death=yes
+	}
+}
+
+188638 = {
+	name="Å¬ºÕ" 
+	dynasty=810 # Samanid
+	religion="sunni"
+	culture="persian"
+	father=163153
+	785.1.1={
+		birth=yes
+	}
+	841.1.1={
+		death=yes
+	}
+}
+
+188639 = {
+	name="ÑÇ¹ş" 
+	dynasty=810 # Samanid
+	religion="sunni"
+	culture="persian"
+	father=163153
+	792.1.1={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+
+188681 = {
+	name="¹şË¹ÄÂ"
+	dynasty=1042148
+	religion="mazdaki" # Khurramite
+	culture="persian"
+	731.1.1={
+		birth=yes
+	}
+	783.1.1={
+		death=yes
+	}
+}188666 = {
+	name="¿¨Ä·À¼" # fictitious count of Khozistan
+	dynasty=1042141
+	religion="mazdaki"
+	culture="persian"
+	740.1.1={
+		birth=yes
+	}
+	785.1.1={
+		death=yes
+	}
+}
+188676 = {
+	name="ÑÅ´ÄµÂ¸ñÌØ" # fictitious holder of Sirjan
+	dynasty=1042143
+	religion="zoroastrian"
+	culture="persian"
+	748.1.1={
+		birth=yes
+	}
+	808.1.1={
+		death=yes
+	}
+}
+
+188677 = {
+	name="ÂíÅ¬´ÄºÕ¶û" # fictitious holder of Ladistan
+	dynasty=1042144
+	religion="zoroastrian"
+	culture="persian"
+	735.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188678 = {
+	name="¸êºÉÀ­Ä·" # fictitious holder of Shiraz
+	dynasty=1042145
+	religion="zoroastrian"
+	culture="persian"
+	730.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+191920 = {
+	name="ÍĞÀ­ÂíÄÉ"	#Fictional predecessors of Jajjapa of Hunamandala
+	dynasty=1042083 # Hunas
+	religion="hindu"
+	culture="persian"
+	trait="shaivist_hindu" 
+	740.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191922 = {
+	name="Ã×Ï£À­¿âÀ­"	#Fictional predecessors of Jajjapa of Hunamandala
+	dynasty=1042083 # Hunas
+	religion="hindu"
+	culture="persian"
+	trait="shaivist_hindu"
+	father=191920
+	768.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+191923 = {
+	name="²éÔúÅÁ"	#II Fictional successor of Jajjapa of Hunamandala
+	dynasty=1042083 # Hunas
+	religion="hindu"
+	culture="persian"
+	trait="shaivist_hindu"
+	father=188242
+	860.1.1={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+188727 = {
+	name="ÈøÂü" # fictitious holder of Luristan
+	dynasty=1042160
+	religion="sunni"
+	culture="persian"
+	729.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188728 = {
+	name="Ôúºº´ï" # fictitious holder of Qwivir
+	dynasty=1042161
+	religion="zoroastrian"
+	culture="persian"
+	738.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188729 = {
+	name="°²Å¬Ë¹·²" # fictitious holder of Esfahan
+	dynasty=1042162
+	religion="mazdaki"
+	culture="persian"
+	732.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188730 = {
+	name="ÔúººÉ³" # fictitious holder of Yazd
+	dynasty=1042163
+	religion="zoroastrian"
+	culture="persian"
+	741.1.1={
+		birth=yes
+	}
+	798.1.1={
+		death=yes
+	}
+}
+160283 = {
+	name="¿¨ÎÚË¹" 
+	dynasty=1029100 #Sassanid
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="mazdaki"
+	culture="persian"
+	father=180627
+	504.1.1={
+		birth=yes
+	}
+	571.9.1={
+		death=yes
+	}
+}
+160284 = {
+	name="¿¨Íß´ï"  # name made up
+	dynasty=7331 # Bavandid 
+	religion="zoroastrian"
+	culture="persian"
+	father=160283
+	545.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+160285 = {
+	name="°ÍÎÚ" 
+	dynasty=7331 # Bavandid 
+	religion="zoroastrian"
+	culture="persian"
+	father=160284
+	590.1.1={
+		birth=yes
+	}
+	665.1.1={
+		death=yes
+	}
+}
+
+160288 = {
+	name="Ë÷À­¿¨±È" 
+	dynasty=7331 # Bavandid 
+	religion="zoroastrian"
+	culture="persian"
+	father=160285 # debatable
+	635.1.1={
+		birth=yes
+	}
+	717.1.1={
+		death=yes
+	}
+}
+160289 = {
+	name="ÃÉºÕ Âíµ¤" 
+	dynasty=7331 # Bavandid 
+	religion="zoroastrian"
+	culture="persian"
+	father=160288
+	670.1.1={
+		birth=yes
+	}
+	755.1.1={
+		death=yes
+	}
+}
+160290 = {
+	name="Ë÷¿Æ¹ş±È" 
+	dynasty=7331 # Bavandid 
+	religion="zoroastrian"
+	culture="persian"
+	father=160289
+	700.1.1={
+		birth=yes
+	}
+	772.1.1={
+		death=yes
+	}
+}
+160291 = {
+	name="Ğ»¶ûÎÄ" 
+	dynasty=7331 # Bavandid 
+	religion="zoroastrian"
+	culture="persian"
+	father=160290
+	735.1.1={
+		birth=yes
+	}
+	817.1.1={
+		death=yes
+	}
+}
+160292 = {
+	name="É³ºÕÑÇ" 
+	dynasty=7331 # Bavandid 
+	religion="zoroastrian"
+	culture="persian"
+	father=160291
+	755.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+160293 = {
+	name="É³ÆÕ¶û" 
+	dynasty=7331 # Bavandid 
+	religion="zoroastrian"
+	culture="persian"
+	father=160292
+	790.1.1={
+		birth=yes
+	}
+	839.1.1={
+		death=yes
+	}
+}
+160294 = {
+	name="¿­Â×" 
+	dynasty=7331 # Bavandid 
+	religion="zoroastrian"
+	culture="persian"
+	father=160292
+	795.1.1={
+		birth=yes
+	}
+	867.1.1={
+		death=yes
+	}
+}
+160295 = {
+	name="Ğ»¶ûÎÄ" 
+	dynasty=7331 # Bavandid 
+	religion="zoroastrian"
+	culture="persian"
+	father=45105
+	865.1.1={
+		birth=yes
+	}
+	930.1.1={
+		death=yes
+	}
+}
+160286 = {
+	name="Ë÷¿Æ¹ş±È" 
+	dynasty=7331 # Bavandid 
+	religion="zoroastrian"
+	culture="persian"
+	father=160294
+	846.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+
+160296 = {
+	name="¿­Â×" 
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160297
+	780.1.1={
+		birth=yes
+	}
+	816.1.1={
+		death=yes
+	}
+}
+160297 = {
+	name="·²´ïµÃ »ô¶ûÄ¾×ÈµÂ" 
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160298
+	740.1.1={
+		birth=yes
+	}
+	815.1.1={
+		death=yes
+	}
+}
+188731 = {
+	name="Âí¼ªÑÇ¶û" #unhistorical
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160298
+	700.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+160298 = {
+	name="¿­Â×" #unhistorical
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160299
+	660.1.1={
+		birth=yes
+	}
+	737.1.1={
+		death=yes
+	}
+}
+160299 = {
+	name="·²´ïµÃ" #unhistorical
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160300
+	635.1.1={
+		birth=yes
+	}
+	700.1.1={
+		death=yes
+	}
+}
+160300 = {
+	name="°ÍÀ­Ë¹" 
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160301
+	600.1.1={
+		birth=yes
+	}
+	673.1.1={
+		death=yes
+	}
+}
+160301 = {
+	name="ÑÇÀ¼´ï" 
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160302
+	560.1.1={
+		birth=yes
+	}
+	635.1.1={
+		death=yes
+	}
+}
+160302 = {
+	name="¿­Â×" 
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160303
+	520.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+160303 = {
+	name="ËÕºÕÀ­" 
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160304
+	480.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death=yes
+	}
+}
+160304 = {
+	name="Ôú¶ûÃ×ºÕ" #unhistorical
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160305
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+160305 = {
+	name="ÑÇÀ¼´ï" #unhistorical
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160306
+	410.1.1={
+		birth=yes
+	}
+	490.1.1={
+		death=yes
+	}
+}
+160306 = {
+	name="ËÕºÕÀ­" #unhistorical
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160307
+	370.1.1={
+		birth=yes
+	}
+	450.1.1={
+		death=yes
+	}
+}
+160307 = {
+	name="°ÍÀ­Ë¹" #unhistorical
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160308
+	335.1.1={
+		birth=yes
+	}
+	400.1.1={
+		death=yes
+	}
+}
+160308 = {
+	name="Ôú¶ûÃ×ºÕ" #unhistorical
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=160309
+	300.1.1={
+		birth=yes
+	}
+	375.1.1={
+		death=yes
+	}
+}
+160309 = {
+	name="¿­Â×" #unhistorical
+	dynasty=7511
+	religion="zoroastrian"
+	culture="persian"
+	father=159557 #Karen-Pahlav lineage
+	245.1.1={
+		birth=yes
+	}
+	330.1.1={
+		death=yes
+	}
+}
+188774 = {
+	name="ÍßºúÈø¿¨" # fictional Sogdian ruler
+	dynasty=1042188 # Sogdia
+	religion="zoroastrian"
+	culture="persian"
+	trait=sympathy_pagans
+	743.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}

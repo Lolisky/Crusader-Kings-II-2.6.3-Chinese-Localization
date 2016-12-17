@@ -1,0 +1,105 @@
+706.1.1 = {
+	liege="d_tripoli"
+	holder=146014
+}
+735.1.1 = {
+	holder=146015
+}
+754.1.1 = {
+	holder=146016
+}
+783.1.1 = {
+	holder=146019
+}
+794.1.1 = {
+	holder=146021
+}
+860.1.1 = {
+	holder=159737
+}
+1066.1.1=
+{
+	holder=20769
+}
+1070.1.1=
+{
+	holder = 144232
+}
+1072.1.1=
+{
+	holder = 144233
+}
+1099.1.1={
+	holder = 144234
+}
+1109.7.12=
+{
+	liege="d_tripoli"
+}
+1109.7.12=
+{
+	holder=223671 #Bertrand
+}
+1112.1.1=
+{
+	holder=223670 #Pons
+}
+1137.3.1=
+{
+	holder=223660 #Raymond II
+}
+1152.1.1=
+{
+	holder=223650 #Raymond III
+}
+1187.9.1=
+{
+	holder=223651 #Raymond IV
+}
+1198.6.1=
+{
+	holder=223755 #Bohemond I
+}
+1233.3.1=
+{
+	holder=31024 #Bohemond II
+}
+1252.1.1=
+{
+	holder=31031 #Bohemond III
+}
+1275.1.1=
+{
+	holder=31034 #Bohemond IV
+}
+1287.10.19=
+{
+	holder=31036 #Lucia I
+}
+1289.3.1=
+{
+	holder=93447 #K_Egypt
+}
+#Tortosa still has d_tripoli after c_tripoli falls
+1289.3.1=
+{
+	liege="k_egypt"
+}
+
+1291.8.14=
+{
+	liege="d_tripoli"
+}
+1292.1.1=
+{
+	holder=93448
+}
+1310.1.1=
+{
+	holder=93449
+}
+1330.1.1=
+{
+	holder=93450
+}
+

@@ -1,0 +1,7976 @@
+106000 = {
+	name="É£ÇÇ" # AKA: Antso IV 'Peñalengoa'
+	dynasty=442
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="amateurish_plotter"
+	father=106010
+	mother=1079
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1068.1.1={
+		add_spouse=71535
+	}
+	1076.6.4={
+		death="1076.6.4"
+	}
+}
+
+106010 = {
+	name="¼ÓÎ÷ÑÇ" # AKA: Gartzia III 'Naiarakoa'
+	dynasty=442
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="diligent"
+	trait="zealous"
+	trait="skilled_tactician"
+	father=106030
+	mother=107650
+	1013.1.1={
+		birth="1013.1.1"
+	}
+	1038.1.1={
+		add_spouse=1079
+	}
+	1054.9.1={
+		death="1054.9.1"
+	}
+}
+
+106012 = {
+	name="ì³µÏÄÏ"
+	dynasty=442
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="basque"
+	trait="zealous"
+	trait="stutter"
+	trait="lisp"
+	trait="underhanded_rogue"
+	father=106010
+	mother=1079
+	1043.1.1 = {
+		birth="1043.1.1"
+	}
+	1066.1.1 = {
+		employer=106000
+	}
+	1068.1.1 = {
+		death="1068.1.1"
+	}
+}
+
+106013 = {
+	name="°¢Àï°ºË¹"
+	dynasty=442
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="chaste"
+	trait="cynical"
+	trait="flamboyant_schemer"
+	father=106010
+	mother=1079
+	1044.1.1 = {
+		birth="1044.1.1"
+	}
+	1066.1.1 = {
+		employer=106000
+	}
+	1079.1.1 = {
+		death="1079.1.1"
+	}
+}
+
+106014 = {
+	name="°¬ÀöÂêÎ÷ÄÈ"
+	female = yes
+	dynasty=442
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="flamboyant_schemer"
+	father=106010
+	mother=1079
+	1041.1.1 = {
+		birth="1041.1.1"
+	}
+	1066.1.1 = {
+		employer=106000
+	}
+	1110.7.1 = {
+		death="1110.7.1"
+	}
+}
+
+106015 = {
+	name="ÂêÅ·¶û"
+	female=yes
+	dynasty=442
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="diligent"
+	trait="patient"
+	trait="flamboyant_schemer"
+	father=106010
+	mother=1079
+	1046.1.1 = {
+		birth="1046.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+
+106016 = {
+	name="ÎÚÄÈ¿¨"
+	female = yes
+	dynasty=442
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="wroth"
+	trait="charismatic_negotiator"
+	father=106010
+	mother=1079
+	
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1066.1.1 = {
+		employer=106000
+	}
+	1095.2.1 = {
+		death="1095.2.1"
+	}
+}
+
+106017 = {
+	name="Î÷Ã×À­"
+	female = yes
+	dynasty=442
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="lustful"
+	trait="gluttonous"
+	trait="detached_priest"
+	father=106010
+	mother=1079
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1066.1.1 = {
+		employer=106000
+	}
+	1085.5.27 = {
+		death="1085.5.27"
+	}
+}
+
+106018 = {
+	name="É£ÇÇ"
+	dynasty=277
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="lustful"
+	trait="bastard"
+	trait="flamboyant_schemer"
+	father=106010
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1054.1.1 = {
+		add_spouse=106019
+	}
+	1057.12.7 = {
+		add_spouse=106019
+	}
+	1066.1.1 = {
+		employer=106011
+	}
+	1074.11.29 = {
+		death="1074.11.29"
+	}
+}
+
+106019 = {
+	name="¿µË¿Ì¹Ìáæ«"
+	female = yes
+	dynasty=100152
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="gluttonous"
+	trait="brave"
+	trait="amateurish_plotter"
+	father=70136
+	mother=1079
+	1036.1.1 = {
+		birth="1036.1.1"
+	}
+	1068.1.1 = {
+		death="1068.1.1"
+	}
+}
+
+106021 = {
+	name="À­Ã×ÂÞ"
+	dynasty=277
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="gluttonous"
+	trait="tough_soldier"
+	father=106018
+	mother=106019
+	1057.1.1 = {
+		birth="1057.1.1"
+	}
+	1098.1.1 = {
+		add_spouse=71542
+	}
+	1116.1.1 = {
+		death="1116.1.1"
+	}
+}
+
+106022 = {
+	name="É£ÇÇ"
+	dynasty=277
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="diligent"
+	trait="bastard"
+	trait="misguided_warrior"
+	father=106018
+	mother=106020
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+106023 = {
+	name="Ã×ÈüÑÇ"
+	female=yes
+	dynasty=442
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="bastard"
+	trait="indulgent_wastrel"
+	father=106010
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1066.1.1 = {
+		employer=106011
+	}
+	1073.1.1 = {
+		death="1073.1.1"
+	}
+}
+
+106030 = {
+	name="É£ÇÇ" # AKA: Antso III 'Nagusia'
+	dynasty=442
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="chaste"
+	trait="humble"
+	trait="flamboyant_schemer"
+	father=106040
+	mother=106041
+	992.1.1={
+		birth="992.1.1"
+	}
+	1011.6.27={
+		add_spouse=107650
+	}
+	1027.1.1={
+			give_nickname = nick_the_great
+	}
+	1035.10.18={
+		death="1035.10.18"
+	}
+}
+
+106040 = {
+	name="¼ÓÎ÷ÑÇ"  # AKA: Gartzia 'Dardatia'
+	dynasty=442
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="amateurish_plotter"
+	father=70124
+	mother=107682
+	964.1.1={
+		birth="964.1.1"
+	}
+	981.1.1={
+		add_spouse=106041
+	}
+	999.12.8={
+		death="999.12.8"
+	}
+}
+
+106041 = {
+	name="Î÷Ã×À­"
+	female=yes
+
+	religion=catholic
+	culture=basque
+	
+	966.1.1={
+		birth=yes
+	}
+	1035.1.1={
+		death=yes
+	}
+}
+
+106042 = {
+	name="ÎÚÄÈ¿¨"
+	female = yes
+	dynasty=442
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="lustful"
+	trait="slothful"
+	trait="fortune_builder"
+	father=106040
+	mother=106041
+	993.1.1 = {
+		birth="993.1.1"
+	}
+	1031.8.6 = {
+		death="1031.8.6"
+	}
+}
+
+107520 = {
+	name="°£ÄÚ¿Æ"
+	dynasty=778
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="just"
+	trait="lisp"
+	trait="stutter"
+	trait="amateurish_plotter"
+	father=107530
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1058.1.1 = {
+		add_spouse=107521
+	}
+	1077.1.1 = {
+		death="1077.1.1"
+	}
+}
+
+107521 = {
+	name="ÍÐæ§"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1040.1.1={
+		birth=yes
+	}
+	1085.1.1={
+		death=yes
+	}
+}
+
+107523 = {
+	name="ÅµÆÕ"
+	dynasty=778
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="basque"
+	trait="thrifty_clerk"
+	father=107520
+	mother=107521
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1079.3.4 = {
+		add_spouse=71925
+	}
+	1094.1.1 = {
+		death="1094.1.1"
+	}
+}
+
+107530 = {
+	name="ÅµÆÕ"
+	dynasty=778
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="tough_soldier"
+	1000.1.1 = {
+		birth="1000.1.1"
+	}
+	1057.1.1 = {
+		death="1057.1.1"
+	}
+}
+
+107550 = {
+	name="ÅµÆÕ"
+	dynasty=778
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="lustful"
+	trait="flamboyant_schemer"
+	father=70220
+	1065.1.1 = {
+		birth="1065.1.1"
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+206500 = {
+	name="É£ÇÇ" #AKA: Antso VI 'Jakintsua'
+	dynasty=277
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="humble"
+	trait="patient"
+	trait="intricate_webweaver"
+	father=206510
+	mother=206509
+	1132.1.1={
+		birth="1132.1.1"
+	}
+	1153.7.20={
+		add_spouse=207502
+	}
+	1158.8.31={
+		give_nickname = nick_the_wise
+	}
+	1194.6.27={
+		death="1194.6.27"
+	}
+}
+
+206502 = {
+	name="É£ÇÇ" #AKA: Antso VII 'Indartsua'
+	dynasty=277
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="diligent"
+	trait="tough_soldier"
+	father=206500
+	mother=207502
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1194.6.27={
+		give_nickname = nick_the_strong
+	}
+	1195.1.1={
+		add_spouse=127003
+	}
+	1200.1.1={
+		remove_spouse=127003
+	}
+	1234.4.7={
+		death="1234.4.7"
+	}
+}
+
+206510 = {
+	name="¼ÓÎ÷ÑÇ" #AKA: Gartzia VI 'Berrezarlea'
+	dynasty=277
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="basque"
+	trait="craven"
+	trait="skilled_tactician"
+	father=106021
+	mother=71542
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1130.1.1={
+		add_spouse=206509
+	}
+	1134.9.27={
+		give_nickname = nick_the_restorer
+	}
+	1144.6.24={
+		add_spouse = 207501
+	}
+	1150.11.25={
+		death="1150.11.25"
+	}
+}
+
+206511 = {
+	name="°¢ËþÉ¯"
+	female=yes
+	dynasty=277
+	religion="catholic"
+	culture="basque"
+	father=206510 #Garcia IV Ramirez
+	mother=207501 #Urraca Alfonsez de Castilla
+	1148.1.1 = {
+		birth="1148.1.1"
+	}
+	#1166 maried Gaston V de Béarn
+	1176.3.7 = {
+		death="1176.3.7"
+	}
+}
+
+206512 = {
+	name="Âê¸ñÀöËþ"
+	female=yes
+	dynasty=277
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="basque"
+	trait="craven"
+	trait="underhanded_rogue"
+	father=206510
+	mother=206509
+	1139.1.1 = {
+		birth="1139.1.1"
+	}
+	1182.1.1 = {
+		death="1182.1.1"
+	}
+}
+
+206513 = {
+	name="²¼À¼¿¨"
+	female=yes
+	dynasty=277
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="just"
+	trait="charismatic_negotiator"
+	father=206510
+	mother=206509
+	
+	1137.1.1 = {
+		birth=yes
+	}
+	1156.8.12 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+
+457582 = {
+	name="ÅµÆÕ"
+	dynasty=778
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	father=457581
+	mother=457610
+	1337.1.1 = {
+		birth="1337.1.1"
+	}
+	1348.1.1 = {
+		death="1348.1.1"
+	}
+}
+
+457610 = {
+	name="ÂêÀûÑÇ"
+	female=yes
+	dynasty=778
+
+	father=457611
+	mother=459524
+
+	religion=catholic
+	culture=basque
+
+	1316.1.1={
+		birth=yes
+	}
+	1349.1.1={
+		death=yes
+	}
+}
+
+457611 = {
+	name="ÇÇ°²ÄÝË¿"
+	dynasty=778
+
+	father=457561
+	mother=71506
+
+	religion=catholic
+	culture=basque
+
+	1293.1.1={
+		birth=yes
+	}
+	1315.1.1={
+		add_spouse=459524
+	}
+	1326.12.2={
+		death=yes
+	}
+}
+
+475551 = {
+	name="°²ÄÈ"
+	female = yes
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="orthodox"
+	culture="basque"
+	trait="flamboyant_schemer"
+	1284.1.2 = {
+		birth="1284.1.2"
+	}
+	1334.1.2 = {
+		death="1334.1.2"
+	}
+}
+
+70005 = {
+	name="ÄÂÄáæ«"
+	female=yes
+	dynasty=8750
+
+	father=200061
+	mother=200060
+
+	religion=catholic
+	culture=basque
+
+	746.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+70056 = {
+	name="°¢ËþÉ¯"
+	female=yes
+
+	religion=catholic
+	culture=basque
+	
+	1040.1.1={
+		birth=yes
+	}
+	1105.1.1 = {
+		death=yes
+	}
+}
+
+70069 = {
+	name="°¢¶ûÍß"
+
+	dynasty=8613
+	martial=6
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="envious"
+	trait="gregarious"
+	trait="tough_soldier"
+	father=71923
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1060.1.1 = {
+		add_spouse=106062
+	}
+	1108.1.1 = {
+		death="1108.1.1"
+	}
+}
+
+70070 = {
+	name="Æ¤ÑÇÀ×Ë¹"
+
+	dynasty=8613
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="scholar"
+	trait="diligent"
+	trait="misguided_warrior"
+	father=70069
+	mother=106062
+	1061.1.1 = {
+		birth="1061.1.1"
+	}
+	1085.1.1 = {
+		add_spouse=71342
+	}
+	1113.1.1 = {
+		death="1113.1.1"
+	}
+}
+
+70071 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty=8613
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="falconer"
+	trait="homosexual"
+	trait="underhanded_rogue"
+	father=70069
+	mother=106062
+	
+	1063.1.1 = {
+		birth="1063.1.1"
+	}
+	1108.5.30 = {
+		death="1108.5.30"
+	}
+}
+
+70072 = {
+	name="°Â¶à"
+
+	dynasty=8613
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="basque"
+	trait="gluttonous"
+	trait="hunter"
+	trait="flamboyant_schemer"
+	father=70069
+	mother=106062
+	
+	1065.1.1 = {
+		birth="1065.1.1"
+	}
+	1109.1.1 = {
+		death="1109.1.1"
+	}
+}
+
+70073 = {
+	name="É£ÇÇ"
+
+	dynasty=8614
+	martial=8
+	diplomacy=3
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="zealous"
+	trait="wroth"
+	trait="tough_soldier"
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1060.1.1 = {
+		add_spouse=106064
+	}
+	1127.1.1 = {
+		death="1127.1.1"
+	}
+}
+70074 = {
+	name="ÂêÀûÑÇ"
+
+	female=yes
+	dynasty=8614
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="shy"
+	trait="mystic"
+	trait="amateurish_plotter"
+	father=70073
+	mother=106064
+	1063.1.1 = {
+		birth="1063.1.1"
+	}
+	1125.1.1 = {
+		death="1125.1.1"
+	}
+}
+
+70120 = {
+	name="Ï£Ã·Åµ"
+
+	dynasty=442
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="brave"
+	trait="gregarious"
+	trait="tough_soldier"
+	791.1.1 = {
+		birth="791.1.1"
+	}
+	851.1.1 = {
+		death="851.1.1"
+	}
+}
+
+70121 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty=442
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="falconer"
+	trait="envious"
+	trait="tough_soldier"
+	father=70120
+	837.1.1 = {
+		birth="837.1.1"
+	}
+	885.1.1 = {
+		death="885.1.1"
+	}
+}
+
+70122 = {
+	name="É£ÇÇ"
+
+	dynasty=442
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="wroth"
+	trait="brave"
+	trait="brilliant_strategist"
+	father=70121
+	880.1.1 = {
+		birth="880.1.1"
+	}
+	915.1.1 = {
+		add_spouse=70297
+	}
+	925.12.11 = {
+		death="925.12.11"
+	}
+}
+
+70123 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty=442
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="slow"
+	trait="content"
+	trait="naive_appeaser"
+	father=70122
+	mother=70297
+	919.1.1 = {
+		birth="919.1.1"
+	}
+	933.3.9 = {
+		add_spouse=70275
+	}
+	940.1.1 = {
+		remove_spouse=70275
+	}
+	970.2.22 = {
+		death="970.2.22"
+	}
+}
+
+70124 = {
+	name="É£ÇÇ" # AKA: Antso 'Abarka'
+	dynasty=442
+	martial=5
+	diplomacy=6
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="quick"
+	trait="patient"
+	trait="underhanded_rogue"
+	father=70123
+	mother=70275
+	935.1.1 = {
+		birth="935.1.1"
+	}
+	962.1.1 = {
+		add_spouse=107682
+	}
+	994.12.1 = {
+		death="994.12.1"
+	}
+}
+
+70125 = {
+	name="°¬´ï" # AKA: Abda 'la Vascona'
+	female=yes
+	dynasty=442
+
+	father=70124
+	trait=bastard
+
+	religion=catholic
+	culture=basque
+
+	965.1.1={
+		birth=yes
+	}
+	981.1.1={
+		religion=sunni
+		name="Abda"
+	}
+	1015.1.1={
+		death=yes
+	}
+}
+
+70126 = {
+	name="Oneka"
+	female=yes
+	dynasty=442
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="gregarious"
+	trait="proud"
+	trait="flamboyant_schemer"
+	father=70122
+	911.1.1 = {
+		birth="911.1.1"
+	}
+	931.6.1 = {
+		death="931.6.1"
+	}
+}
+
+70127 = {
+	name="ÎÚÄÈ¿¨"
+
+	female=yes
+	dynasty=442
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="gardener"
+	trait="kind"
+	trait="underhanded_rogue"
+	father=70122
+	913.1.1 = {
+		birth="913.1.1"
+	}
+	956.6.23 = {
+		death="956.6.23"
+	}
+}
+
+70128 = {
+	name="Ï£Ã·Åµ"
+
+	dynasty=442
+	martial=3
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="envious"
+	trait="greedy"
+	trait="misguided_warrior"
+	father=70121
+	882.1.1 = {
+		birth="882.1.1"
+	}
+	915.1.1 = {
+		add_spouse=70298
+	}
+	931.5.29 = {
+		death="931.5.29"
+	}
+}
+
+70129 = {
+	name="¸¥À³¶Ù"
+
+	dynasty=8615
+	martial=5
+	diplomacy=5
+	intrigue=3
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="ambitious"
+	trait="lustful"
+	trait="misguided_warrior"
+	1005.1.1 = {
+		birth="1005.1.1"
+	}
+	1044.1.1 = {
+		add_spouse=106023
+	}
+	1057.1.1 = {
+		death="1057.1.1"
+	}
+}
+
+70130 = {
+	name="°¢Ë¹ÄÉ¶û"
+
+	dynasty=8615
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="brave"
+	trait="hunter"
+	trait="tough_soldier"
+	father=70129
+	mother=106023
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1103.1.1 = {
+		death="1103.1.1"
+	}
+}
+
+70131 = {
+	name="°£ÄÚ¿Æ"
+
+	dynasty=8615
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="falconer"
+	trait="patient"
+	trait="flamboyant_schemer"
+	father=70129
+	mother=106023
+	
+	1047.1.1 = {
+		birth="1047.1.1"
+	}
+	1092.1.1 = {
+		death="1092.1.1"
+	}
+}
+
+70132 = {
+	name="É£ÇÇ"
+
+	dynasty=8615
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="humble"
+	trait="brave"
+	trait="amateurish_plotter"
+	father=70129
+	mother=106023
+	
+	1049.1.1 = {
+		birth="1049.1.1"
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+70133 = {
+	name="ÅµÆÕ"
+
+	dynasty=8615
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="ugly"
+	trait="thrifty_clerk"
+	father=70129
+	mother=106023
+	1051.1.1 = {
+		birth="1051.1.1"
+	}
+	1113.1.1 = {
+		death="1113.1.1"
+	}
+}
+
+70134 = {
+	name="Ï£Ã·Åµ"
+
+	dynasty=8615
+	martial=3
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="shy"
+	trait="infirm"
+	trait="grey_eminence"
+	father=70129
+	mother=106023
+	1053.1.1 = {
+		birth="1053.1.1"
+	}
+	1106.1.1 = {
+		death="1106.1.1"
+	}
+}
+
+70135 = {
+	name="°£Ë¹ÌØ·¨Äáæ«"
+
+	female=yes
+	dynasty=277
+	martial=4
+	diplomacy=7
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="kind"
+	trait="shy"
+	trait="thrifty_clerk"
+	father=106018
+	mother=106019
+	1053.1.1 = {
+		birth="1053.1.1"
+	}
+	1129.4.19 = {
+		death="1129.4.19"
+	}
+}
+
+70220 = {
+	name="É£ÇÇ"
+
+	dynasty=778
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="cynical"
+	trait="ugly"
+	trait="thrifty_clerk"
+	father=107530
+	1037.1.1 = {
+		birth="1037.1.1"
+	}
+	1066.1.1 = {
+	employer=107520
+	}
+	1087.1.1 = {
+		death="1087.1.1"
+	}
+}
+
+70221 = {
+	name="°£ÄÚ¿Æ"
+
+	dynasty=778
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="greedy"
+	trait="proud"
+	trait="misguided_warrior"
+	father=70220
+	1061.1.1 = {
+		birth="1061.1.1"
+	}
+	1091.1.1 = {
+		death="1091.1.1"
+	}
+}
+
+70222 = {
+	name="µü¸ê"
+
+	dynasty=778
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="patient"
+	trait="indulgent_wastrel"
+	father=70220
+	1063.1.1 = {
+		birth="1063.1.1"
+	}
+	1108.1.1 = {
+		death="1108.1.1"
+	}
+}
+
+70223 = {
+	name="¸¥À³¶Ù"
+
+	dynasty=778
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="basque"
+	trait="chaste"
+	trait="brave"
+	trait="tough_soldier"
+	father=107530
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1066.1.1 = {
+	employer=107520
+	}
+	1085.1.1 = {
+		death="1085.1.1"
+	}
+}
+
+70224 = {
+	name="¼ÓÁÖ¶à"
+
+	dynasty=778
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="drunkard"
+	trait="gluttonous"
+	trait="underhanded_rogue"
+	father=107530
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	1066.1.1 = {
+	employer=107520
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+70225 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty=778
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="wroth"
+	trait="stressed"
+	trait="flamboyant_schemer"
+	father=107530
+	1044.1.1 = {
+		birth="1044.1.1"
+	}
+	1066.1.1 = {
+	employer=107520
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+70226 = {
+	name="Ã×ÈüÑÇ"
+
+	female=yes
+	dynasty=778
+	martial=4
+	diplomacy=8
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="patient"
+	trait="quick"
+	trait="fortune_builder"
+	father=107530
+	1046.1.1 = {
+		birth="1046.1.1"
+	}
+	1066.1.1 = {
+		employer=107520
+	}
+	1096.1.1 = {
+		death="1096.1.1"
+	}
+}
+
+70227 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty=778
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="ill"
+	trait="ugly"
+	trait="tough_soldier"
+	father=107520
+	mother=107521
+	1062.1.1 = {
+		birth="1062.1.1"
+	}
+	1084.1.1 = {
+		death="1084.1.1"
+	}
+}
+
+70228 = {
+	name="¼ÓÁÖ¶à"
+
+	dynasty=778
+	martial=4
+	diplomacy=6
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="ill"
+	trait="temperate"
+	trait="midas_touched"
+	father=107520
+	mother=107521
+	
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1087.1.1 = {
+		death="1087.1.1"
+	}
+}
+
+70229 = {
+	name="É£ÇÇ"
+
+	dynasty=778
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="incapable"
+	trait="gardener"
+	trait="intricate_webweaver"
+	father=107520
+	mother=107521
+	1066.1.1 = {
+		birth="1066.1.1"
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+
+70290 = {
+	name="°£ÄÚ¿Æ"
+
+	dynasty=8617
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="duelist"
+	trait="wroth"
+	trait="tough_soldier"
+	father=168105
+	765.1.1 = {
+		birth="765.1.1"
+	}
+	787.1.1 = {
+		add_spouse=73811
+	}
+	796.1.1 = {
+		death="796.1.1"
+	}
+}
+
+70291 = {
+	name="°£ÄÚ¿Æ" # AKA: Eneko 'Aritza'
+	dynasty=8617
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="honest"
+	trait="diligent"
+	trait="intricate_webweaver"
+	father=70290
+	mother=73811
+	788.1.1 = {
+		birth="788.1.1"
+	}
+	852.6.22 = {
+		death="852.6.22"
+	}
+}
+
+70292 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty=8617
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="temperate"
+	trait="deceitful"
+	trait="misguided_warrior"
+	father=70291
+	810.1.1 = {
+		birth="810.1.1"
+	}
+	866.1.1 = {
+		add_spouse=73754
+	}
+	882.1.1 = {
+		death="882.1.1"
+	}
+}
+
+70293 = {
+	name="¸¥À³¶Ù" # AKA: Fortun 'Begibakarra'
+	dynasty=8617
+	martial=6
+	diplomacy=5
+	intrigue=3
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="maimed"
+	trait="mystic"
+	trait="thrifty_clerk"
+	father=70292
+	830.1.1 = {
+		birth="830.1.1"
+	}
+	849.1.1 = {
+		add_spouse=73783
+	}
+	906.1.1 = {
+		death="906.1.1"
+	}
+}
+
+70294 = {
+	name="ÄÝ¿¨"
+
+	female=yes
+	dynasty=8617
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="proud"
+	trait="gardener"
+	trait="underhanded_rogue"
+	father=70293
+	mother=73783
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	900.1.1 = {
+		death="900.1.1"
+	}
+}
+
+70295 = {
+	name="É£ÇÇ"
+
+	dynasty=8617
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="wroth"
+	trait="brave"
+	trait="tough_soldier"
+	father=70292
+	832.1.1 = {
+		birth="832.1.1"
+	}
+	880.1.1 = {
+		death="880.1.1"
+	}
+}
+
+70296 = {
+	name="°¢Ë¹ÄÉ¶û"
+
+	dynasty=8617
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="ambitious"
+	trait="arbitrary"
+	trait="fortune_builder"
+	father=70295
+	861.1.1 = {
+		birth="861.1.1"
+	}
+	880.1.1 = {
+		add_spouse=70294
+	}
+	904.1.1 = {
+		death="904.1.1"
+	}
+}
+
+70297 = {
+	name="ÍÐæ§"
+
+	female=yes
+	dynasty=8617
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="patient"
+	trait="gregarious"
+	trait="grey_eminence"
+	father=70296
+	mother=70294
+	885.1.1 = {
+		birth="885.1.1"
+	}
+	970.1.1 = {
+		death="970.1.1"
+	}
+}
+
+70298 = {
+	name="ÎÚÄÈ¿¨"
+
+	female=yes
+	dynasty=8617
+	martial=3
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="just"
+	trait="content"
+	trait="naive_appeaser"
+	father=70296
+	mother=70294
+	887.1.1 = {
+		birth="887.1.1"
+	}
+	945.1.1 = {
+		death="945.1.1"
+	}
+}
+
+70299 = {
+	name="ÄÝ¿¨"
+
+	female=yes
+	dynasty=8617
+	martial=3
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="cynical"
+	trait="envious"
+	trait="underhanded_rogue"
+	father=70292
+	844.1.1 = {
+		birth="844.1.1"
+	}
+	912.6.1 = {
+		death="912.6.1"
+	}
+}
+
+71335 = {
+	name="Æ¤ÑÇÀ×Ë¹"
+
+	dynasty=8742
+	religion="catholic"
+	culture="basque"
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1086.1.1 = {
+		add_spouse=71334
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+
+71336 = {
+	name="°ÂÂÞ"
+
+
+	female=yes
+	dynasty=8742
+
+	father=71335
+	mother=71334
+
+	religion=catholic
+	culture=basque
+
+	1088.1.1={
+		birth=yes
+	}
+	1146.1.1={
+		death=yes
+	}
+}
+
+71337 = {
+	name="ÄÂÄáÅ·"
+
+	dynasty=8742
+	religion="catholic"
+	culture="basque"
+	father=71335
+	mother=71334
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1153.1.1 = {
+		death="1153.1.1"
+	}
+}
+
+71340 = {
+	name="°£¼ªµÏ°Â"
+
+	dynasty=8614
+	religion="catholic"
+	culture="basque"
+	father=70073
+	trait="bastard"
+	1073.1.1 = {
+		birth="1073.1.1"
+	}
+	1128.1.1 = {
+		death="1128.1.1"
+	}
+}
+
+71343 = {
+	name="ÂÞµÂÀï¸ê"
+
+	dynasty=8613
+	religion="catholic"
+	culture="basque"
+	father=70070
+	mother=71342
+	1086.1.1 = {
+		birth="1086.1.1"
+	}
+	1142.1.1 = {
+		death="1142.1.1"
+	}
+}
+
+71344 = {
+	name="°¢¶ûÍß"
+
+	dynasty=8613
+	religion="catholic"
+	culture="basque"
+	father=70070
+	mother=71342
+	1088.1.1 = {
+		birth="1088.1.1"
+	}
+	1138.1.1 = {
+		death="1138.1.1"
+	}
+}
+
+71345 = {
+	name="ÇÇ°²ÄÝË¿"
+
+	dynasty=8613
+	religion="catholic"
+	culture="basque"
+	father=70070
+	mother=71342
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1150.1.1 = {
+		death="1150.1.1"
+	}
+}
+
+71346 = {
+	name="°¬¶ûÌØÉ¯"
+
+	dynasty=8613
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=70070
+	mother=71342
+	1092.1.1 = {
+		birth="1092.1.1"
+	}
+	1147.1.1 = {
+		death="1147.1.1"
+	}
+}
+
+71347 = {
+	name="ÎÂÌØÂÞæ§"
+
+	dynasty=8613
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=70070
+	mother=71342
+	1094.1.1 = {
+		birth="1094.1.1"
+	}
+	1156.1.1 = {
+		death="1156.1.1"
+	}
+}
+
+71348 = {
+	name="ÄÂÄáæ«"
+
+	dynasty=8613
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=70070
+	mother=71342
+	1095.1.1 = {
+		birth="1095.1.1"
+	}
+	1155.1.1 = {
+		death="1155.1.1"
+	}
+}
+
+71349 = {
+	name="·¨»ùÂÜ"
+
+	dynasty=8613
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=70070
+	mother=71342
+	1096.1.1 = {
+		birth="1096.1.1"
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+
+71350 = {
+	name="ÂêÀûÑÇ"
+
+	dynasty=8613
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=70072
+	1088.1.1 = {
+		birth="1088.1.1"
+	}
+	1141.1.1 = {
+		death="1141.1.1"
+	}
+}
+
+71351 = {
+	name="ËÕ°£ÂÞ"
+
+	dynasty=8613
+	religion="catholic"
+	culture="basque"
+	father=70072
+	1101.1.1 = {
+		birth="1101.1.1"
+	}
+	1128.1.1 = {
+		add_spouse=71354
+	}
+	1157.1.1 = {
+		death="1157.1.1"
+	}
+}
+
+71352 = {
+	name="ÎÚÄÈ¿¨"
+
+	dynasty=8613
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=70072
+	1103.1.1 = {
+		birth="1103.1.1"
+	}
+	1168.1.1 = {
+		death="1168.1.1"
+	}
+}
+
+71353 = {
+	name="Î÷Ã×À­"
+
+	dynasty=8613
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=70072
+	1105.1.1 = {
+		birth="1105.1.1"
+	}
+	1165.1.1 = {
+		death="1165.1.1"
+	}
+}
+
+71356 = {
+	name="°²µÂÀÙÄÈ"
+
+	dynasty=8613
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=70069
+	mother=106062
+	1074.1.1 = {
+		birth="1074.1.1"
+	}
+	1122.1.1 = {
+		death="1122.1.1"
+	}
+}
+
+71411 = {
+	name="ÌØÀÙÉ¯"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=207560
+	mother=207657
+	1191.1.1 = {
+		birth="1191.1.1"
+	}
+	1248.1.1 = {
+		death="1248.1.1"
+	}
+}
+
+71419 = {
+	name="ÅµÆÕ"
+
+	dynasty=681
+	religion="catholic"
+	culture="basque"
+	father=71410
+	mother=71411
+	1208.1.1 = {
+		birth="1208.1.1"
+	}
+	1235.1.1 = {
+		death="1235.1.1"
+	}
+}
+
+71420 = {
+	name="°£ÄÚ¿Æ"
+
+	dynasty=8748
+	religion="catholic"
+	culture="basque"
+	1222.1.1 = {
+		birth="1222.1.1"
+	}
+	1283.1.1 = {
+		death="1283.1.1"
+	}
+}
+
+71491 = {
+	name="ÒÁÀöÉ¯°×"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=457581
+	mother=457610
+	1335.1.1 = {
+		birth="1335.1.1"
+	}
+	1361.1.1 = {
+		death="1361.1.1"
+	}
+}
+
+71506 = {
+	name="ÂêÀûÑÇ"
+
+	dynasty=778
+	female=yes
+	father=72027
+	mother=71431
+	religion="catholic"
+	culture="basque"
+	1274.1.1 = {
+		birth="1274.1.1"
+	}
+	1342.11.3 = {
+		death="1342.11.3"
+	}
+}
+
+71507 = {
+	name="ÅµÆÕ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=457561
+	mother=71506
+	1288.1.1 = {
+		birth="1288.1.1"
+	}
+	1295.1.1 = {
+		death="1295.1.1"
+	}
+}
+
+71508 = {
+	name="ÂêÀûÑÇ"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=457561
+	mother=71506
+	1292.1.1 = {
+		birth="1292.1.1"
+	}
+	1299.1.1 = {
+		death="1299.1.1"
+	}
+}
+
+71531 = {
+	name="ÇÇ°²ÄÈ"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=457581
+	mother=457610
+	1333.1.1 = {
+		birth="1333.1.1"
+	}
+	1359.3.1 = {
+		death="1359.3.1"
+	}
+}
+
+71533 = {
+	name="°¢·½Ë÷"
+
+	dynasty=277
+	religion="catholic"
+	culture="basque"
+	father=106021
+	mother=71542
+	1107.1.1 = {
+		birth="1107.1.1"
+	}
+	1164.1.1 = {
+		death="1164.1.1"
+	}
+}
+
+71534 = {
+	name="°£¶û±ÈÀ­"
+
+	dynasty=277
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=106021
+	mother=71542
+	1109.1.1 = {
+		birth="1109.1.1"
+	}
+	1163.1.1 = {
+		death="1163.1.1"
+	}
+}
+
+71535 = {
+	name="²¼ÄÈÑÇ"
+
+	female=yes
+	religion="catholic"
+	culture="basque"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1088.4.14 = {
+		death="1088.4.14"
+	}
+}
+
+71536 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty=442
+	religion="catholic"
+	culture="basque"
+	father=106000
+	trait=bastard
+	1059.1.1 = {
+		birth="1059.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+
+71537 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty=442
+	religion="catholic"
+	culture="basque"
+	father=106000
+	trait=bastard
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1109.1.1 = {
+		death="1109.1.1"
+	}
+}
+
+71538 = {
+	name="°¢Àï°ºË¹"
+
+	dynasty=442
+	religion="catholic"
+	culture="basque"
+	father=106000
+	trait="bastard"
+	1061.1.1 = {
+		birth="1061.1.1"
+	}
+	1120.8.1 = {
+		death="1120.8.1"
+	}
+}
+
+71539 = {
+	name="ÎÚÄÈ¿¨"
+
+	dynasty=442
+	female=yes
+	religion="catholic"
+	culture="basque"
+	trait="bastard"
+	trait="detached_priest"
+	father=106000
+	1063.1.1 = {
+		birth="1063.1.1"
+	}
+	1132.1.1 = {
+		death="1132.1.1"
+	}
+}
+
+71540 = {
+	name="°¢ËþÉ¯"
+
+	dynasty=442
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=106010
+	mother=1079
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1065.1.1 = {
+		death="1065.1.1"
+	}
+}
+
+71551={
+	name="À­µÂÂ¡" #Ladron
+	dynasty=8779
+	
+	father=200164
+	mother=200165
+
+	religion=catholic
+	culture=basque
+
+	1075.1.1={
+		birth=yes
+	}
+	1125.1.1={
+		add_spouse=71534
+	}
+	1137.1.1={
+		death=yes
+	}
+}
+
+71552 = {
+	name="¸¥À³¶Ù"
+
+	dynasty=8751
+	religion="catholic"
+	culture="basque"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1076.1.1 = {
+		add_spouse=106014
+	}
+	1110.7.1 = {
+		death="1110.7.1"
+	}
+}
+
+71553 = {
+	name="Â¶ÄÈ"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=107520
+	mother=107521
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1098.1.1 = {
+		death="1098.1.1"
+	}
+}
+
+71554 = {
+	name="ÂÞµÂÀï¸ê"
+
+	dynasty=277
+	religion="catholic"
+	culture="basque"
+	father=206510
+	trait="bastard"
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1166.5.7 = {
+		employer=211500
+	}
+	1172.1.1 = {
+		death="1172.1.1"
+	}
+}
+
+71555 = {
+	name="¼ªÂ×"
+
+	dynasty=277
+	religion="catholic"
+	culture="basque"
+	father=206502
+	trait="bastard"
+	1198.1.1 = {
+		birth="1198.1.1"
+	}
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}
+
+71556 = {
+	name="ÂÞµÂÀï¸ê"
+
+	dynasty=277
+	religion="catholic"
+	culture="basque"
+	father=206502
+	trait="bastard"
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1235.1.1 = {
+		death="1235.1.1"
+	}
+}
+
+71557 = {
+	name="À­Ã×ÂÞ"
+
+	dynasty=277
+	religion="catholic"
+	culture="basque"
+	trait="bastard"
+	trait="scholarly_theologian"
+	father=206502
+	1202.1.1 = {
+		birth="1202.1.1"
+	}
+	1228.2.22 = {
+		death="1228.2.22"
+	}
+}
+
+71573 = {
+	name="°¢¶ûÍß"
+
+	dynasty=7001
+	religion="catholic"
+	culture="basque"
+	father=72039
+	mother=72040
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1243.7.15 = {
+		add_spouse=71570
+	}
+	1276.1.1 = {
+		death="1276.1.1"
+	}
+}
+
+71574 = {
+	name="ÌØÀÙÉ¯"
+	dynasty=7001
+
+	female=yes
+	dynasty=7001
+
+	father=71573
+	mother=71570
+
+	religion=catholic
+	culture=basque
+
+	1244.1.1={
+		birth=yes
+	}
+	1300.2.1={
+		death=yes
+	}
+}
+
+71575 = {
+	name="ÒÁÀ³Ôú"
+
+
+	female=yes
+	dynasty=7001
+
+	father=71573
+	mother=71570
+
+	religion=catholic
+	culture=basque
+
+	1246.1.1={
+		birth=yes
+	}
+	1311.1.1={
+		death=yes
+	}
+}
+
+71584 = {
+	name="ÌØÀÙÉ¯"
+
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1080.1.1={
+		birth=yes
+	}
+	1136.1.1 = {
+		death=yes
+	}
+}
+
+71697 = {
+	name="ÌØÀÙÉ¯"
+
+	dynasty=785
+	female=yes
+	religion="catholic"
+	culture="basque"
+	trait="detached_priest"
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1285.7.15 = {
+		death="1285.7.15"
+	}
+}
+
+71722 = {
+	name="ÂêÀûÑÇ"
+
+	female=yes
+	dynasty=12111
+
+	father=71976
+	mother=142326
+
+	religion=catholic
+	culture=basque
+
+	1268.11.1={
+		birth=yes
+	}
+	1320.1.1={
+		death=yes
+	}
+}
+
+71920 = {
+	name="¸¥À³¶Ù"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=107520
+	mother=107521
+	1067.1.1 = {
+		birth="1067.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+71921 = {
+	name="Å¬ÄÈ"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=107520
+	mother=107521
+	1068.1.1 = {
+		birth="1068.1.1"
+	}
+	1131.1.1 = {
+		death="1131.1.1"
+	}
+}
+
+71922 = {
+	name="±´À­Ë¿Ìá"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=107520
+	mother=107521
+	1069.1.1 = {
+		birth="1069.1.1"
+	}
+	1113.1.1 = {
+		death="1113.1.1"
+	}
+}
+
+71923 = {
+	name="µü¸ê"
+
+	dynasty=8613
+	religion="catholic"
+	culture="basque"
+	1015.1.1 = {
+		birth="1015.1.1"
+	}
+	1099.12.1 = {
+		death="1099.12.1"
+	}
+}
+
+71924 = {
+	name="Î÷ÃÉ"
+
+	dynasty=8613
+	religion="catholic"
+	culture="basque"
+	father=71923
+	1052.1.1 = {
+		birth="1052.1.1"
+	}
+	1074.7.8 = {
+		death="1074.7.8"
+	}
+}
+
+71925 = {
+	name="ÌØ¿¨À³"
+
+	dynasty=8613
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71923
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1104.1.1 = {
+		death="1104.1.1"
+	}
+}
+
+71926 = {
+	name="É£ÇÇ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=207600
+	mother=207610
+	1122.1.1 = {
+		birth="1122.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+71927 = {
+	name="ÍÐæ§"
+
+	female=yes
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=107523
+	mother=71925
+	1082.1.1 = {
+		birth="1082.1.1"
+	}
+	1121.12.1 = {
+		death="1121.12.1"
+	}
+}
+
+71928 = {
+	name="ÅµÆÕ"
+
+	dynasty=12113
+	religion="catholic"
+	culture="basque"
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1100.1.1 = {
+		add_spouse=71927
+	}
+	1121.1.1 = {
+		death="1121.1.1"
+	}
+}
+
+71929 = {
+	name="É£ÇÇ"
+
+	dynasty=12113
+	religion="catholic"
+	culture="basque"
+	father=71928
+	mother=71927
+	1101.1.1 = {
+		birth="1101.1.1"
+	}
+	1106.1.1 = {
+		death="1106.1.1"
+	}
+}
+
+71930 = {
+	name="ÂêÀûÑÇ"
+
+	dynasty=12113
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71928
+	mother=71927
+	1107.1.1 = {
+		birth="1107.1.1"
+	}
+	1122.1.1 = {
+		death="1122.1.1"
+	}
+}
+
+71931 = {
+	name="°¢ËþÉ¯"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=107523
+	mother=71925
+	1084.1.1 = {
+		birth="1084.1.1"
+	}
+	1104.1.1 = {
+		death="1104.1.1"
+	}
+}
+
+71932 = {
+	name="ÌØÀÙÉ¯"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=107523
+	mother=71925
+	1086.1.1 = {
+		birth="1086.1.1"
+	}
+	1126.1.1 = {
+		death="1126.1.1"
+	}
+}
+
+71933 = {
+	name="É£ÇÇ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=107523
+	mother=71925
+	1088.1.1 = {
+		birth="1088.1.1"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+71934 = {
+	name="¸¥À³¶Ù"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=207600
+	mother=207610
+	1124.1.1 = {
+		birth="1124.1.1"
+	}
+	1169.1.1 = {
+		death="1169.1.1"
+	}
+}
+
+71935 = {
+	name="°£¼ªµÏ°Â"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=207600
+	mother=207610
+	1126.1.1 = {
+		birth="1126.1.1"
+	}
+	1157.1.1 = {
+		death="1157.1.1"
+	}
+}
+
+71936 = {
+	name="Â¶ÄÈ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	trait="bastard"
+	father=207600
+	1123.1.1 = {
+		birth="1123.1.1"
+	}
+	1175.1.1 = {
+		death="1175.1.1"
+	}
+}
+
+71937 = {
+	name="°¢ËþÉ¯"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	trait="bastard"
+	father=207600
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1179.1.1={
+		death="1179.1.1"
+	}
+}
+
+71948 = {
+	name="ÇÇ°²ÄÝË¿"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=71947
+	1196.1.1 = {
+		birth="1196.1.1"
+	}
+	1243.1.1 = {
+		death="1243.1.1"
+	}
+}
+
+71950 = {
+	name="ÂÞµÂÀï¸ê"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=207570
+	mother=207571
+	1154.1.1 = {
+		birth="1154.1.1"
+	}
+	1187.1.1 = {
+		death="1187.1.1"
+	}
+}
+
+71951 = {
+	name="Æ¤ÑÇÀ×Ë¹"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=207570
+	mother=207571
+	1155.1.1 = {
+		birth="1155.1.1"
+	}
+	1207.1.1 = {
+		death="1207.1.1"
+	}
+}
+
+71952 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=207570
+	mother=207571
+	1156.1.1 = {
+		birth="1156.1.1"
+	}
+	1194.1.1 = {
+		death="1194.1.1"
+	}
+}
+
+71953 = {
+	name="°¢ËþÉ¯"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=207570
+	mother=207571
+	1157.1.1 = {
+		birth="1157.1.1"
+	}
+	1174.9.1 = {
+		death="1174.9.1"
+	}
+}
+
+71954 = {
+	name="°¬¶ûÌØÉ¯"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=207570
+	mother=207571
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1192.1.1 = {
+		death="1192.1.1"
+	}
+}
+
+71955 = {
+	name="°£¶û±ÈÀ­"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=207570
+	mother=207571
+	1161.1.1 = {
+		birth="1161.1.1"
+	}
+	1174.9.1 = {
+		death="1174.9.1"
+	}
+}
+
+71956 = {
+	name="°£Ë¹ÌØ·¨Äáæ«"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=207570
+	mother=207571
+	1162.1.1 = {
+		birth="1162.1.1"
+	}
+	1204.1.1 = {
+		death="1204.1.1"
+	}
+}
+
+71957 = {
+	name="ÍÐæ§"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=207570
+	mother=207571
+	1163.1.1 = {
+		birth="1163.1.1"
+	}
+	1200.3.28 = {
+		death="1200.3.28"
+	}
+}
+
+71958 = {
+	name="ÂêÀûÑÇ"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=207570
+	mother=207571
+	1164.1.1 = {
+		birth="1164.1.1"
+	}
+	1174.9.1 = {
+		death="1174.9.1"
+	}
+}
+
+71959 = {
+	name="ÅµÆÕ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	trait="detached_priest"
+	father=207570
+	mother=207571
+	1165.1.1 = {
+		birth="1165.1.1"
+	}
+	1230.1.1 = {
+		death="1230.1.1"
+	}
+}
+
+71960 = {
+	name="É£ÇÇ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	trait="detached_priest"
+	trait="bastard"
+	father=207570
+	1146.1.1 = {
+		birth="1146.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+71961 = {
+	name="Âí¶¡"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=207570
+	trait="bastard"
+	1148.1.1 = {
+		birth="1148.1.1"
+	}
+	1194.1.1 = {
+		death="1194.1.1"
+	}
+}
+
+71962 = {
+	name="°¢·½Ë÷"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=207570
+	trait="bastard"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1208.1.1 = {
+		death="1208.1.1"
+	}
+}
+
+71963 = {
+	name="ÅµÆÕ"
+
+	dynasty=778
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="deceitful"
+	trait="trusting"
+	trait="skilled_tactician"
+	father=207560
+	mother=207657
+	1192.1.1 = {
+		birth="1192.1.1"
+	}
+	1218.12.25 = {
+		add_spouse=71441
+	}
+	1236.10.18 = {
+		death="1236.10.18"
+	}
+}
+
+71964 = {
+	name="Æ¤ÑÇÀ×Ë¹"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=207560
+	mother=72050
+	1194.1.1 = {
+		birth="1194.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+71965 = {
+	name="ÂêÀûÑÇ"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=207560
+	mother=72050
+	1196.1.1 = {
+		birth="1196.1.1"
+	}
+	1222.1.1 = {
+		death="1222.1.1"
+	}
+}
+
+71966 = {
+	name="Ã×ÈüÑÇ"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=207560
+	mother=72050
+	1198.1.1={
+		birth="1198.1.1"
+	}
+	1246.1.1={
+		death="1246.1.1"
+	}
+}
+
+71967 = {
+	name="ÎÚÄÈ¿¨"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=207560
+	mother=72050
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1251.1.1 = {
+		death="1251.1.1"
+	}
+}
+
+71968 = {
+	name="°¬¶ûÌØÉ¯"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=207560
+	mother=72050
+	1202.1.1 = {
+		birth="1202.1.1"
+	}
+	1221.1.8 = {
+		death="1221.1.8"
+	}
+}
+
+71969 = {
+	name="µü¸ê"
+
+	dynasty=778
+
+	father=71963
+	mother=71441
+
+	religion=catholic
+	culture=basque
+
+	1220.1.1={
+		birth=yes
+	}
+	1243.1.1={
+		add_spouse=200109
+	}
+	1254.10.4={
+		death=yes
+	}
+}
+
+71970 = {
+	name="ÌØÀÙÉ¯"
+
+	female=yes
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=71963
+	mother=71441
+	1222.1.1 = {
+		birth="1222.1.1"
+	}
+	1244.1.1 = {
+		death="1244.1.1"
+	}
+}
+
+71971 = {
+	name="°¢¶ûÍß"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=71963
+	mother=71441
+	1223.1.1 = {
+		birth="1223.1.1"
+	}
+	1236.1.1 = {
+		death="1236.1.1"
+	}
+}
+
+71972 = {
+	name="Ã×ÈüÑÇ"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71963
+	mother=71441
+	1224.1.1 = {
+		birth="1224.1.1"
+	}
+	1270.1.1 = {
+		death="1270.1.1"
+	}
+}
+
+71973 = {
+	name="±´Â×¼ÓÀöæ«"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71963
+	mother=71441
+	1225.1.1 = {
+		birth="1225.1.1"
+	}
+	1277.1.1 = {
+		death="1277.1.1"
+	}
+}
+
+71974 = {
+	name="É£ÇÇ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=71963
+	mother=71441
+	1226.1.1 = {
+		birth="1226.1.1"
+	}
+	1250.1.1 = {
+		death="1250.1.1"
+	}
+}
+
+71975 = {
+	name="°¢·½Ë÷"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=71963
+	mother=71441
+	1227.1.1 = {
+		birth="1227.1.1"
+	}
+	1242.4.1 = {
+		add_spouse=71985
+	}
+	1268.2.1 = {
+		death="1268.2.1"
+	}
+}
+
+71976 = {
+	name="ÇÇ°²ÄÝË¿"
+
+	dynasty=12111
+
+	father=71975
+	mother=71985
+
+	religion=catholic
+	culture=basque
+
+	1248.9.5={
+		birth=yes
+	}
+	1268.2.8={
+		add_spouse=142326
+	}
+	1312.3.7={
+		death=yes
+	}
+}
+
+71977 = {
+	name="ÇÇ°²ÄÝË¿"
+
+	dynasty=12111
+
+	father=71976
+	mother=142326
+
+	religion=catholic
+	culture=basque
+
+	1271.1.1={
+		birth=yes
+	}
+	1317.1.1={
+		add_spouse=71978
+	}
+	1333.1.1={
+		death=yes
+	}
+}
+
+71979 = {
+	name="°¢¶ûÍß"
+
+	dynasty=12111
+
+	father=71976
+	mother=142326
+
+	religion=catholic
+	culture=basque
+
+	1273.1.1={
+		birth=yes
+	}
+	1300.1.1={
+		add_spouse=71980
+	}
+	1336.1.1={
+		death=yes
+	}
+}
+
+71981 = {
+	name="°¬Ë¿"
+
+	dynasty=12111
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71979
+	mother=71980
+	1301.1.1 = {
+		birth="1301.1.1"
+	}
+	1369.1.1 = {
+		death="1369.1.1"
+	}
+}
+
+71982 = {
+	name="°¢·½Ë÷"
+
+	dynasty=12111
+	religion="catholic"
+	culture="basque"
+	father=71979
+	mother=71980
+	1303.1.1 = {
+		birth="1303.1.1"
+	}
+	1335.1.1 = {
+		add_spouse=71983
+	}
+	1364.1.1 = {
+		death="1364.1.1"
+	}
+}
+
+71984 = {
+	name="ÇÇ°²ÄÝË¿"
+
+	dynasty=12111
+	religion="catholic"
+	culture="basque"
+	father=71982
+	mother=71983
+	1336.1.1 = {
+		birth="1336.1.1"
+	}
+	1369.1.1 = {
+		death="1369.1.1"
+	}
+}
+
+71985 = {
+	name="ÂêÀûÑÇ"
+
+	dynasty=12111
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71986
+	mother=71966
+	1222.1.1 = {
+		birth="1222.1.1"
+	}
+	1288.9.5 = {
+		death="1288.9.5"
+	}
+}
+
+71986 = {
+	name="°¢¶ûÍß"
+
+	dynasty=12111
+	religion="catholic"
+	culture="basque"
+	father=71987
+	mother=71988
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1220.1.1 = {
+		add_spouse=71966
+	}
+	1225.1.1 = {
+		death="1225.1.1"
+	}
+}
+
+71987 = {
+	name="µü¸ê"
+
+	dynasty=12111
+	religion="catholic"
+	culture="basque"
+	father=71992
+	mother=71993
+	1132.1.1 = {
+		birth="1132.1.1"
+	}
+	1165.1.1 = {
+		add_spouse=71988
+	}
+	1184.10.9 = {
+		death="1184.10.9"
+	}
+}
+
+71989 = {
+	name="ÂÞµÂÀï¸ê"
+
+	dynasty=12111
+	religion="catholic"
+	culture="basque"
+	father=71987
+	mother=71988
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1218.1.1 = {
+		add_spouse=71968
+	}
+	1221.1.1 = {
+		death="1221.1.1"
+	}
+}
+
+71990 = {
+	name="Ï£Ã·Åµ"
+
+	dynasty=12111
+
+	father=71989
+	mother=71968
+
+	religion=catholic
+	culture=basque
+
+	1219.1.1={
+		birth=yes
+	}
+	1276.1.1={
+		add_spouse=71457
+	}
+	1277.1.1={
+		death=yes
+	}
+}
+
+71991 = {
+	name="°£¶û±ÈÀ­"
+
+	dynasty=12111
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71989
+	mother=71968
+	1221.1.1 = {
+		birth="1221.1.1"
+	}
+	1280.1.1 = {
+		death="1280.1.1"
+	}
+}
+
+71992 = {
+	name="Ï£Ã·Åµ"
+
+	dynasty=12111
+	religion="catholic"
+	culture="basque"
+	father=72005
+	mother=72423
+	1105.1.1 = {
+		birth="1105.1.1"
+	}
+	1130.1.1 = {
+		add_spouse=71993
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+71993 = {
+	name="°¬¶Å¶ûË¿æ«"
+
+	female=yes
+	religion="catholic"
+	culture="basque"
+	1112.1.1 = {
+		birth="1112.1.1"
+	}
+	1182.1.1 = {
+		death="1182.1.1"
+	}
+}
+
+71994 = {
+	name="Æ¤ÑÇÀ×Ë¹"
+
+	dynasty=12111
+	religion="catholic"
+	culture="basque"
+	father=71992
+	mother=71993
+	1135.1.1 = {
+		birth="1135.1.1"
+	}
+	1176.1.1 = {
+		death="1176.1.1"
+	}
+}
+
+71995 = {
+	name="ÌØÀÙÉ¯"
+
+	dynasty=12111
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71992
+	mother=71993
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1195.1.1 = {
+		death="1195.1.1"
+	}
+}
+
+71996 = {
+	name="ÅµÆÕ"
+
+	dynasty=101909
+	religion="catholic"
+	culture="basque"
+	father=72051
+	1139.1.1 = {
+		birth="1139.1.1"
+	}
+	1156.1.1 = {
+		add_spouse=71995
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+71997 = {
+	name="°£ÄÚ¿Æ"
+
+	dynasty=101909
+	religion="catholic"
+	culture="basque"
+	father=71996
+	mother=71995
+	1157.1.1 = {
+		birth="1157.1.1"
+	}
+	1180.1.1 = {
+		add_spouse=71999
+	}
+	1187.1.1 = {
+		death="1187.1.1"
+	}
+}
+
+71998 = {
+	name="ÅµÆÕ"
+
+	dynasty=101909
+	religion="catholic"
+	culture="basque"
+	father=71996
+	mother=71995
+	1158.1.1 = {
+		birth="1158.1.1"
+	}
+	1208.1.1 = {
+		death="1208.1.1"
+	}
+}
+
+72000 = {
+	name="°¬Ã×Àö"
+
+	dynasty=101909
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71997
+	mother=71999
+	1181.1.1 = {
+		birth="1181.1.1"
+	}
+	1240.1.1 = {
+		death="1240.1.1"
+	}
+}
+
+72001 = {
+	name="°¬Ë¿"
+
+	dynasty=101909
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71997
+	mother=71999
+	1183.1.1 = {
+		birth="1183.1.1"
+	}
+	1238.1.1 = {
+		death="1238.1.1"
+	}
+}
+
+72002 = {
+	name="°¬Ã×Àö"
+
+	female=yes
+	religion="catholic"
+	culture="basque"
+	1204.1.1 = {
+		birth="1204.1.1"
+	}
+	1222.1.1 = {
+		death="1222.1.1"
+	}
+}
+
+72003 = {
+	name="°£ÄÚ¿Æ"
+
+	dynasty=101909
+	religion="catholic"
+	culture="basque"
+	father=71998
+	1185.1.1 = {
+		birth="1185.1.1"
+	}
+	1220.1.1 = {
+		add_spouse=72002
+	}
+	1234.1.1 = {
+		death="1234.1.1"
+	}
+}
+
+72004 = {
+	name="°¬Ë¿"
+
+	dynasty=101909
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=72003
+	mother=72002
+	1222.1.1 = {
+		birth="1222.1.1"
+	}
+	1269.1.1 = {
+		death="1269.1.1"
+	}
+}
+
+72005 = {
+	name="°£ÄÚ¿Æ"
+
+	dynasty=12111
+	religion="catholic"
+	culture="basque"
+	1077.1.1 = {
+		birth="1077.1.1"
+	}
+	1105.1.1={
+	add_spouse=72423
+	}
+	1145.1.1 = {
+		death="1145.1.1"
+	}
+}
+
+72006 = {
+	name="ÅµÆÕ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=71963
+	mother=71441
+	1228.1.1 = {
+		birth="1228.1.1"
+	}
+	1246.1.1 = {
+		add_spouse=72007
+	}
+	1278.1.1 = {
+		death="1278.1.1"
+	}
+}
+
+72008 = {
+	name="µü¸ê"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=72006
+	mother=72007
+	1247.1.1 = {
+		birth="1247.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+
+72009 = {
+	name="ÅµÆÕ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=72006
+	mother=72007
+	1248.1.1 = {
+		birth="1248.1.1"
+	}
+	1266.1.1 = {
+		add_spouse=72010
+	}
+	1308.1.1 = {
+		death="1308.1.1"
+	}
+}
+
+72010 = {
+	name="ÂêÅ·¶û"
+
+	female=yes
+	religion="catholic"
+	culture="basque"
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1321.1.1 = {
+		death="1321.1.1"
+	}
+}
+
+72011 = {
+	name="µü¸ê"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=72009
+	mother=72010
+	1267.1.1 = {
+		birth="1267.1.1"
+	}
+	1295.1.1 = {
+		add_spouse=72013
+	}
+	1325.1.1 = {
+		death="1325.1.1"
+	}
+}
+
+72012 = {
+	name="±´Â×¼ÓÀöæ«"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=72009
+	mother=72010
+	1269.1.1 = {
+		birth="1269.1.1"
+	}
+	1277.2.6 = {
+		death="1277.2.6"
+	}
+}
+
+72014 = {
+	name="ÂÞµÂÀï¸ê"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=72006
+	mother=72007
+	1249.1.1 = {
+		birth="1249.1.1"
+	}
+	1266.1.1 = {
+		add_spouse=72015
+	}
+	1300.1.1 = {
+		death="1300.1.1"
+	}
+}
+
+72015 = {
+	name="°¢ËþÉ¯"
+
+	female=yes
+	religion="catholic"
+	culture="basque"
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1312.1.1 = {
+		death="1312.1.1"
+	}
+}
+
+72016 = {
+	name="ÇÇ°²ÄÈ"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=72014
+	mother=72015
+	1267.1.1 = {
+		birth="1267.1.1"
+	}
+	1320.1.1 = {
+		death="1320.1.1"
+	}
+}
+
+72017 = {
+	name="ÂêÀûÑÇ"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=72006
+	mother=72007
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1312.1.1 = {
+		death="1312.1.1"
+	}
+}
+
+72018 = {
+	name="±´Â×¼ÓÀöæ«"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	trait="detached_priest"
+	father=72006
+	mother=72007
+	1251.1.1 = {
+		birth="1251.1.1"
+	}
+	1329.1.1 = {
+		death="1329.1.1"
+	}
+}
+
+72019 = {
+	name="ÂüÀï¿Ë"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=71963
+	mother=71441
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1236.1.1 = {
+		death="1236.1.1"
+	}
+}
+
+72020 = {
+	name="ì³µÏÄÏ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=71963
+	mother=71441
+	1231.1.1 = {
+		birth="1231.1.1"
+	}
+	1233.1.1 = {
+		death="1233.1.1"
+	}
+}
+
+72021 = {
+	name="°¢·½Ë÷"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	trait="bastard"
+	trait="martial_cleric"
+	father=71963
+
+	1225.1.1 = {
+		birth="1225.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+
+72022 = {
+	name="µü¸ê"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=71963
+	trait=bastard
+	1227.1.1 = {
+		birth="1227.1.1"
+	}
+	1255.1.1={
+		add_spouse=72518
+	}
+	1285.1.1 = {
+		death="1285.1.1"
+	}
+}
+
+72023 = {
+	name="ÂêÀûÑÇ"
+
+	female=yes
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=72022
+	mother=72518
+	1256.1.1 = {
+		birth="1256.1.1"
+	}
+	1325.1.1 = {
+		death="1325.1.1"
+	}
+}
+
+72024 = {
+	name="É£ÇÇ"
+
+	dynasty=7036
+	religion="catholic"
+	culture="basque"
+	father=71963
+	trait=bastard
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1300.1.1 = {
+		death="1300.1.1"
+	}
+}
+
+72025 = {
+	name="ÅµÆÕ"
+
+	dynasty=7036
+	religion="catholic"
+	culture="basque"
+	father=72024
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1330.1.1 = {
+		death="1330.1.1"
+	}
+}
+
+72026 = {
+	name="É£ÇÇ"
+
+	dynasty=7036
+	religion="catholic"
+	culture="basque"
+	father=72025
+	1305.1.1 = {
+		birth="1305.1.1"
+	}
+	1365.1.1 = {
+		death="1365.1.1"
+	}
+}
+
+72027 = {
+	name="ÅµÆÕ"
+
+	dynasty=778
+
+	father=71969
+	mother=200109
+
+	religion=catholic
+	culture=basque
+
+	1245.1.1={
+		birth=yes
+	}
+	1269.1.1={
+		add_spouse=71431
+	}
+	1288.7.1={
+		death=yes
+	}
+}
+
+72028 = {
+	name="µü¸ê"
+
+	dynasty=778
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="slothful"
+	trait="zealous"
+	trait="misguided_warrior"
+	father=72027
+	mother=71431
+	1271.1.1 = {
+		birth="1271.1.1"
+	}
+	1292.1.1 = {
+		death="1292.1.1"
+	}
+}
+
+72029 = {
+	name="µü¸ê"
+
+	dynasty=778
+
+	father=71969
+	mother=200109
+
+	religion=catholic
+	culture=basque
+
+	1250.1.1={
+		birth=yes
+	}
+	1282.1.1={
+		add_spouse=71513
+	}
+	1310.1.1={
+		death=yes
+	}
+}
+
+72030 = {
+	name="ÎÚÄÈ¿¨"
+
+	female=yes
+	dynasty=778
+
+	father=71969
+	mother=200109
+
+	religion=catholic
+	culture=basque
+
+	1252.1.1={
+		birth=yes
+	}
+	1284.1.1={
+		death=yes
+	}
+}
+
+72031 = {
+	name="ÌØÀÙÉ¯"
+	female=yes
+	dynasty=778
+
+	father=71969
+	mother=200109
+
+	religion=catholic
+	culture=basque
+
+	1255.1.1={
+		birth=yes
+	}
+	1286.1.1={
+		death=yes
+	}
+}
+
+72032 = {
+	name="°¢ËþÉ¯"
+	female=yes
+	dynasty=778
+
+	father=71969
+	mother=200109
+
+	religion=catholic
+	culture=basque
+
+	1254.1.1={
+		birth=yes
+	}
+	1287.4.22={
+		death=yes
+	}
+}
+
+72033 = {
+	name="ÅµÆÕ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=72029
+	mother=71513
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1301.1.1={
+		add_spouse=72615
+	}
+	1322.10.1 = {
+		death="1322.10.1"
+	}
+}
+
+72034 = {
+	name="ì³µÏÄÏ"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=72029
+	mother=71513
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1315.1.1 = {
+		add_spouse=459525
+	}
+	1348.1.1 = {
+		death="1348.1.1"
+	}
+}
+
+72035 = {
+	name="µü¸ê"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=72034
+	mother=459525
+	1316.1.1 = {
+		birth="1316.1.1"
+	}
+	1368.1.1 = {
+		death="1368.1.1"
+	}
+}
+
+72036 = {
+	name="Æ¤ÑÇÀ×Ë¹"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=72034
+	mother=459525
+	1317.1.1 = {
+		birth="1317.1.1"
+	}
+	1321.1.1 = {
+		death="1321.1.1"
+	}
+}
+
+72037 = {
+	name="Æ¤ÑÇÀ×Ë¹"
+
+	dynasty=778
+	religion="catholic"
+	culture="basque"
+	father=72029
+	mother=71513
+	1292.1.1 = {
+		birth="1292.1.1"
+	}
+	1297.1.1 = {
+		death="1297.1.1"
+	}
+}
+
+72038 = {
+	name="ÂêÀûÑÇ"
+
+	dynasty=778
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=72029
+	mother=71513
+	1294.1.1 = {
+		birth="1294.1.1"
+	}
+	1320.9.1 = {
+		death="1320.9.1"
+	}
+}
+
+72039 = {
+	name="Æ¤ÑÇÀ×Ë¹"
+
+	dynasty=7001
+	religion="catholic"
+	culture="basque"
+	father=72044
+	mother=72045
+	1192.1.1 = {
+		birth="1192.1.1"
+	}
+	1219.1.1 = {
+		add_spouse=72040
+	}
+	1241.1.1 = {
+		death="1241.1.1"
+	}
+}
+
+72040 = {
+	name="ÒÁÀ³Ôú"
+
+	female=yes
+	religion="catholic"
+	culture="basque"
+	1203.1.1 = {
+		birth="1203.1.1"
+	}
+	1260.1.1 = {
+		death="1260.1.1"
+	}
+}
+
+72041 = {
+	name="Æ¤ÑÇÀ×Ë¹"
+
+	dynasty=7001
+	religion="catholic"
+	culture="basque"
+	father=72039
+	mother=72040
+	1222.1.1 = {
+		birth="1222.1.1"
+	}
+	1238.3.1 = {
+		death="1238.3.1"
+	}
+}
+
+72042 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty=7001
+	religion="catholic"
+	culture="basque"
+	father=72039
+	mother=72040
+	1224.1.1 = {
+		birth="1224.1.1"
+	}
+	1238.3.1 = {
+		death="1238.3.1"
+	}
+}
+
+72043 = {
+	name="°¢ËþÉ¯"
+
+	dynasty=7001
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=72039
+	mother=72040
+	1226.1.1 = {
+		birth="1226.1.1"
+	}
+	1242.7.1 = {
+		death="1242.7.1"
+	}
+}
+
+72044 = {
+	name="ì³µÏÄÏ"
+
+	dynasty=7001
+	religion="catholic"
+	culture="basque"
+	father=72046
+	mother=72047
+	1155.1.1 = {
+		birth="1155.1.1"
+	}
+	1190.1.1 = {
+		add_spouse=72045
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+72045 = {
+	name="ÌØÀÙÉ¯"
+
+	female=yes
+	dynasty=1046008
+
+	father=200182
+	mother=200183
+
+	religion=catholic
+	culture=basque
+
+	1170.1.1={
+		birth=yes
+	}
+	1224.1.1={
+		death=yes
+	}
+}
+
+72046 = {
+	name="ÂÞµÂÀï¸ê"
+	dynasty=7001
+
+	religion=catholic
+	culture=basque
+
+	1103.1.1={
+		birth=yes
+	}
+	1152.1.1={
+		add_spouse=72047
+	}
+	1155.11.12={
+		death=yes
+	}
+}
+
+72047 = {
+	name="ÍÐæ§"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1138.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+
+72048 = {
+	name="Æ¤ÑÇÀ×Ë¹"
+
+	dynasty=7001
+	religion="catholic"
+	culture="basque"
+	father=72046
+	mother=72047
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1176.1.1 = {
+		add_spouse=72049
+	}
+	1198.1.1 = {
+		death="1198.1.1"
+	}
+}
+
+72049 = {
+	name="ÍÐæ§"
+
+	female=yes
+	religion="catholic"
+	culture="basque"
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1221.1.1 = {
+		death="1221.1.1"
+	}
+}
+
+72050 = {
+	name="ÍÐæ§"
+
+	female=yes
+	dynasty=7001
+	religion="catholic"
+	culture="basque"
+	father=72048
+	mother=72049
+	1177.1.1 = {
+		birth="1177.1.1"
+	}
+	1216.1.16 = {
+		death="1216.1.16"
+	}
+}
+
+207560 = {
+	name="µü¸ê"
+
+	dynasty=778
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="basque"
+	trait="just"
+	trait="zealous"
+	trait="wroth"
+	father=207570
+	mother=207571
+	1152.1.1 = {
+		birth="1152.1.1"
+	}
+	1190.1.1={
+		add_spouse=207657
+	}
+	1192.1.1={
+		remove_spouse=207657
+	}
+	1193.1.1 = {
+		add_spouse=72050
+	}
+	1214.9.16 = {
+		death="1214.9.16"
+	}
+}
+
+207561 = {
+	name="ÅµÆÕ"
+
+	dynasty=778
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="envious"
+	father=207570
+	mother=207571
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1172.1.1 = {
+		add_spouse=210575
+	}
+	1178.1.1 = {
+		death="1178.1.1"
+	}
+}
+
+207562 = {
+	name="ÎÚÄÈ¿¨"
+
+	female = yes
+	dynasty=778
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="cynical"
+	father=207570
+	mother=207571
+	1159.1.1 = {
+		birth="1159.1.1"
+	}
+	1223.1.1 = {
+		death="1223.1.1"
+	}
+}
+
+207600 = {
+	name="µü¸ê"
+
+	dynasty=778
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="cynical"
+	trait="tough_soldier"
+	father=107523
+	mother=71925
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1116.1.1 = {
+		add_spouse=207610
+	}
+	1126.3.1 = {
+		death="1126.3.1"
+	}
+}
+
+207610 = {
+	name="ÂêÀûÑÇ"
+
+	female = yes
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	1095.1.1 = {
+		birth="1095.1.1"
+	}
+	1147.1.1 = {
+		death="1147.1.1"
+	}
+}
+
+71384 = {
+	name="µü¸ê"
+
+	dynasty=101909
+	religion="catholic"
+	culture="basque"
+	father=72051
+	1138.1.1 = {
+		birth="1138.1.1"
+	}
+	1162.1.1 = {
+		add_spouse=71383
+	}
+	1188.1.1 = {
+		death="1188.1.1"
+	}
+}
+
+207563 = {
+	name="Ã×ÈüÑÇ"
+
+	female = yes
+	dynasty=778
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	father=207570
+	mother=207571
+	1158.1.1 = {
+		birth="1158.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+207570 = {
+	name="ÅµÆÕ"
+
+	dynasty=778
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="skilled_tactician"
+	father=207600
+	mother=207610
+	1120.1.2 = {
+		birth="1120.1.2"
+	}
+	1145.1.1 = {
+		add_spouse=71938
+	}
+	1151.1.1 = {
+		add_spouse = 207571
+	}
+	1170.5.6 = {
+		death="1170.5.6"
+	}
+}
+
+72051 = {
+	name="ÅµÆÕ"
+
+	dynasty=101909
+	religion="catholic"
+	culture="basque"
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1156.1.1={
+		death="1156.1.1"
+	}
+}
+
+72342 = {
+	name="ÍÐæ§"
+
+	female=yes
+	religion="catholic"
+	culture="basque"
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+
+72650 = {
+	name="ì³µÏÄÏ"
+
+	dynasty = 8614
+	religion="catholic"
+	culture="basque"
+	father=70073
+	trait="bastard"
+	1103.1.1={
+		birth="1103.1.1"
+	}
+	1168.1.1={
+		death="1168.1.1"
+	}
+}
+
+72651 = {
+	name="¸¥À³¶Ù"
+
+	dynasty = 8614
+	religion="catholic"
+	culture="basque"
+	father=70073
+	trait="bastard"
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+
+72652 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty = 8614
+	religion="catholic"
+	culture="basque"
+	father=70073
+	trait="bastard"
+	1106.1.1={
+		birth="1106.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+72653 = {
+	name="°²µÄÀ³¶à"
+
+	dynasty = 8614
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=70073
+	trait="bastard"
+	1107.1.1={
+		birth="1107.1.1"
+	}
+	1179.1.1={
+		death="1179.1.1"
+	}
+}
+
+72654 = {
+	name="°¢ËþÉ¯"
+
+	dynasty = 8614
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=70073
+	trait="bastard"
+	1109.1.1={
+		birth="1109.1.1"
+	}
+	1181.1.1={
+		death="1181.1.1"
+	}
+}
+
+72655 = {
+	name="°¢ËþÉ¯"
+
+	dynasty = 8614
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=70073
+	trait="bastard"
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+72656 = {
+	name="É£ÇÇ"
+
+	dynasty = 8614
+	religion="catholic"
+	culture="basque"
+	father=72651
+	1134.1.1={
+		birth="1134.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+72657 = {
+	name="É£ÇÇ"
+
+	dynasty = 8614
+	religion="catholic"
+	culture="basque"
+	father=72652
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+
+70136 = {
+	name="É£ÇÇ"
+
+	dynasty=7026
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=3
+	religion="catholic"
+	culture="basque"
+	trait="impaler"
+	trait="slothful"
+	trait="indulgent_wastrel"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1030.1.1={
+		add_spouse=1079
+	}
+	1036.1.1={
+		death="1036.1.1"
+	}
+}
+
+71333 = {
+	name="ÅåÀ­Ô¼"
+
+	dynasty=8741
+
+	father=200095
+
+	religion=catholic
+	culture=basque
+
+	1045.1.1={
+		birth=yes
+	}
+	1067.1.1={
+		add_spouse=70049
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+71334 = {
+	name="¸¥¶ûÃ×ÀòµÂ"
+
+	dynasty=8741
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71333
+	mother=70049
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1128.1.1={
+		death="1128.1.1"
+	}
+}
+
+71338 = {
+	name="Î÷Ã×À­"
+
+	dynasty=8741
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=71333
+	mother=70049
+	1072.1.1={
+		birth="1072.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+71341 = {
+	name="À­Ã×ÂÞ"
+
+	dynasty=8614
+	religion="catholic"
+	culture="basque"
+	father=70073
+	trait="bastard"
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+
+107681 = {
+	name="°¢ËþÉ¯"
+
+	female = yes
+	dynasty=442
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="temperate"
+	trait="thrifty_clerk"
+	father=70122
+	915.1.1={
+		birth="915.1.1"
+	}
+	952.6.9={
+		death="952.6.9"
+	}
+}
+
+107683 = {
+	name="ÎÚÄÈ¿¨"
+	female=yes
+	dynasty=442
+
+	father=70123
+
+	religion=catholic
+	culture=basque
+
+	936.1.1={
+		birth=yes
+	}
+	1009.4.3={
+		death=yes
+	}
+}
+
+206501 = {
+	name="±´Â×¼ÓÀöæ«"
+
+	female=yes
+	dynasty=277
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="brave"
+	trait="underhanded_rogue"
+	father=206500
+	mother=207502
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+206503 = {
+	name="²¼À¼¿¨"
+
+	female=yes
+	dynasty=277
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="naive_appeaser"
+	father=206500
+	mother=207502
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1229.3.14={
+		death="1229.3.14"
+	}
+}
+
+206504 = {
+	name="ì³µÏÄÏ"
+
+	dynasty=277
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="wroth"
+	trait="tough_soldier"
+	father=206500
+	mother=207502
+	1177.1.1={
+		birth="1177.1.1"
+	}
+	1207.12.16={
+		death="1207.12.16"
+	}
+}
+
+206506 = {
+	name="¿µË¿Ì¹Ìáæ«"
+
+	female=yes
+	dynasty=277
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="basque"
+	trait="lustful"
+	trait="cynical"
+	trait="thrifty_clerk"
+	father=206500
+	mother=207502
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+42023 = {
+	name="Î÷ÃÉ"
+
+	dynasty=442
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="basque"
+	trait="wroth"
+	trait="naive_appeaser"
+	father=106030
+	mother=107650
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1045.6.26={
+		death="1045.6.26"
+	}
+}
+
+73150={
+	name="¼ÓÎ÷ÑÇ"
+	dynasty = 100196
+
+
+	religion=catholic
+	culture=basque
+
+	1105.1.1={
+		birth=yes
+	}
+	1169.1.1={
+		death=yes
+	}
+}
+
+73770 = {
+	name="°¢ËþÉ¯"
+
+	female=yes
+	dynasty=442
+
+	religion="catholic"
+	culture="basque"
+
+	father=70121
+
+	878.1.1 = {
+		birth="878.1.1"
+	}
+	932.1.1 = {
+		death="932.1.1"
+	}
+}
+
+73771 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	dynasty=788
+
+	religion="catholic"
+	culture="basque"
+
+	father=70276
+	mother=70299
+
+	867.1.1 = {
+		birth="867.1.1"
+	}
+	883.1.1 = {
+		death="883.1.1"
+	}
+}
+
+73772 = {
+	name="Î÷Ã×À­"
+
+	female=yes
+	dynasty=8617
+
+	religion="catholic"
+	culture="basque"
+
+	father=70292
+
+	848.1.1 = {
+		birth="848.1.1"
+	}
+	912.6.1 = {
+		death="912.6.1"
+	}
+}
+
+73776 = {
+	name="°¢É£ÄÈ"
+
+	female=yes
+	dynasty=8617
+
+	religion="catholic"
+	culture="basque"
+
+	father=70291
+
+	814.1.1 = {
+		birth="814.1.1"
+	}
+	875.1.1 = {
+		death="875.1.1"
+	}
+}
+
+73777 = {
+	name="Å¬ÀòÀ­"
+
+	female=yes
+	dynasty=8617
+
+	religion="catholic"
+	culture="basque"
+
+	father=70291
+
+	809.1.1 = {
+		birth="809.1.1"
+	}
+	868.1.1 = {
+		death="868.1.1"
+	}
+}
+
+73778 = {
+	name="±´À­Ë¹µÙËþ"
+
+	female=yes
+	dynasty=8617
+
+	religion="catholic"
+	culture="basque"
+
+	father=70295
+
+	854.1.1 = {
+		birth="854.1.1"
+	}
+	900.1.1 = {
+		death="900.1.1"
+	}
+}
+
+73779 = {
+	name="°£ÄÚ¿Æ"
+
+	dynasty=8617
+
+	father=70293
+	mother=73783
+
+	religion=catholic
+	culture=basque
+
+	852.1.1={
+		birth=yes
+	}
+	894.1.1={
+		add_spouse=73770
+	}
+	905.1.1={
+		death=yes
+	}
+}
+
+73780 = {
+	name="°¢Ë¹ÄÉ¶û"
+
+	dynasty=8617
+
+	religion="catholic"
+	culture="basque"
+
+	father=70293
+	mother=73783
+
+	854.1.1 = {
+		birth="854.1.1"
+	}
+	900.1.1 = {
+		death="900.1.1"
+	}
+}
+
+73781 = {
+	name="±´À­Ë¹¿Æ"
+
+	dynasty=8617
+
+	religion="catholic"
+	culture="basque"
+
+	father=70293
+	mother=73783
+
+	856.1.1 = {
+		birth="856.1.1"
+	}
+	912.1.1 = {
+		death="912.1.1"
+	}
+}
+
+73782 = {
+	name="ÅµÆÕ"
+
+	dynasty=8617
+
+	religion="catholic"
+	culture="basque"
+
+	father=70293
+	mother=73783
+
+	858.1.1 = {
+		birth="858.1.1"
+	}
+	873.1.1 = {
+		death="873.1.1"
+	}
+}
+
+73783 = {
+	name="Å·ÈðÑÇ"
+
+	female=yes
+
+	religion="catholic"
+	culture="basque"
+
+	833.1.1 = {
+		birth="833.1.1"
+	}
+	910.1.1 = {
+		death="910.1.1"
+	}
+}
+
+73811 = {
+	name="ÄÝ¿¨"
+
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	776.1.1={
+		birth=yes
+	}
+	833.1.1={
+		death=yes
+	}
+}
+
+73835 = {
+	name="¼ÓÎ÷ÑÇ"
+
+	religion=catholic
+	culture=basque
+
+	836.1.1={
+		birth=yes
+	}
+	858.1.1={
+		add_matrilineal_spouse=73834
+	}
+	859.1.1={
+		death="859.1.1"
+	}
+}
+
+70273 = {
+	name="ÍÐæ§"
+
+	female=yes
+	dynasty=788
+	martial=5
+	diplomacy=9
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="charitable"
+	trait="just"
+	trait="flamboyant_schemer"
+	father=70274
+	mother=54001
+	
+	905.1.1 = {
+		birth="905.1.1"
+	}
+	958.1.1 = {
+		death="958.1.1"
+	}
+}
+
+70274 = {
+	name="¼ÓÁÖ¶à"
+
+	dynasty=788
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="ambitious"
+	trait="diligent"
+	trait="intricate_webweaver"
+	father=70276
+	mother=70299
+	
+	865.1.1 = {
+		birth="865.1.1"
+	}
+	900.1.1 = {
+		add_spouse=54001
+	}
+	905.1.1 = {
+		add_spouse=73770
+	}
+	922.1.1 = {
+		death="922.1.1"
+	}
+}
+
+70275 = {
+	name="°²µÄÀ³¶à"
+
+	female=yes
+	dynasty=788
+
+	father=70274
+
+	religion=catholic
+	culture=basque
+	
+	917.1.1={
+		birth=yes
+	}
+	972.1.1={
+		death=yes
+	}
+}
+
+70276 = {
+	name="°¢Ë¹ÄÉ¶û"
+
+	dynasty=788
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="wroth"
+	trait="brave"
+	trait="misguided_warrior"
+	father=70277
+	
+	838.1.1 = {
+		birth="838.1.1"
+	}
+	863.1.1 = {
+		add_spouse=70299
+	}
+	893.1.1 = {
+		death="893.1.1"
+	}
+}
+
+70277 = {
+	name="¼ÓÁÖ¶à"
+
+	dynasty=788
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="craven"
+	trait="content"
+	trait="indulgent_wastrel"
+	father=70300
+	807.1.1 = {
+		birth="807.1.1"
+	}
+	867.1.1 = {
+		death="867.1.1"
+	}
+}
+
+70300 = {
+	name="°¢Ë¹ÄÉ¶û"
+
+	dynasty=788
+	martial=5
+	diplomacy=6
+	intrigue=3
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="poet"
+	trait="charitable"
+	trait="tough_soldier"
+	father=168106
+	785.1.1 = {
+		birth="785.1.1"
+	}
+	839.1.1 = {
+		death="839.1.1"
+	}
+}
+
+70301 = {
+	name="Âí¶àÄÈ"
+
+	female=yes
+	dynasty=788
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="mystic"
+	trait="depressed"
+	trait="indulgent_wastrel"
+	father=70300
+	
+	802.1.1 = {
+		birth="802.1.1"
+	}
+	870.1.1 = {
+		death="870.1.1"
+	}
+}
+
+70302 = {
+	name="¼ÓÎ÷ÑÇ" # AKA: García I 'el Malo'
+	dynasty=12285
+
+	father=200193
+
+	religion=catholic
+	culture=basque
+
+	785.1.1={
+		birth=yes
+	}
+	818.1.1={
+		add_spouse=70301
+	}
+	820.1.1={
+		remove_spouse=70301
+	}
+	825.1.1={
+		add_spouse=73777
+	}
+	833.1.1={
+		death=yes
+	}
+}
+
+70303 = {
+	name="¼ÓÁÖ¶à"
+
+	dynasty=12285
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="kind"
+	trait="ill"
+	trait="misguided_warrior"
+	father=70302
+	mother=70301
+	
+	819.1.1 = {
+		birth="819.1.1"
+	}
+	844.1.1 = {
+		death="844.1.1"
+	}
+}
+
+7562 = {
+	name="É£ÇÇ" #Sancho IV de Gascogne
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=7563
+	890.1.1 = {
+		birth="890.1.1"
+	}
+	955.1.1 = {
+		death="955.1.1" 
+	}
+}
+
+7563 = {
+	name="¼ÓÎ÷ÑÇ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father = 163060
+	mother = 168126
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	920.1.1 = {
+		death="920.1.1"
+	}
+}
+
+40011 = {
+	name="ÍÐ´ï-°¢´ïÀ³Ë¹" #de Gascogne
+	female=yes
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=127049 #Guillaume Sache de Gascogne
+	#mother Urraca de Pampelune
+	985.1.1 = {
+		birth="985.1.1"
+	}
+	#1002 married Géraud I Trencaleon d'Armagnac
+	#1011.7.29 married Arnaud II de Lomagne
+	1040.1.1 = {
+		death="1040.1.1"
+	}
+}
+
+54000 = {
+	name="¸ðÉ­´ï"
+
+	dynasty=388
+	female=yes
+	
+	religion="catholic"
+	culture="basque"
+	father=127049
+	
+	926.1.1 = {
+		birth="926.1.1"
+	}
+	1030.1.1 = {
+		death="1030.1.1"
+	}
+}
+
+54001 = {
+	name="°¢×È±´À­"
+
+	dynasty=388
+	female=yes
+	
+	religion="catholic"
+	culture="basque"
+	father=7563
+	883.1.1 = {
+		birth="883.1.1"
+	}
+	905.1.1 = {
+		death="905.1.1"
+	}
+}
+
+127017 = {
+	name="²¼ÈðË¹¿¨"
+
+	dynasty=388
+	female=yes
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	father=127049
+	#mother=
+	980.1.1 = {
+		birth="980.1.1"
+	}
+	1018.1.1 = {
+		death="1018.1.1"
+	}
+}
+
+127049 = {
+	name="¼ªÂ×" #Guillaume-Sanche de Gascogne
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=7562
+	925.1.1 = {
+		birth="925.1.1"
+	}
+	996.12.23 = {
+		death="996.12.23"
+	}
+}
+
+127050 = {
+	name="±´ÄÈÌØ" #Bernard-Guillaume de Gascogne
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=127049
+	974.1.1 = {
+		birth="974.1.1"
+	}
+	1009.12.25 = {
+		death="1009.12.25"
+	}
+}
+
+127051 = {
+	name="É£ÇÇ" #Sanche-Guillaume de Gascogne
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=127049
+	978.1.1 = {
+		birth="978.1.1"
+	}
+	1032.10.4 = {
+		death="1032.10.4"
+	}
+}
+
+127053 = {
+	name="°¢´ïÀ³Ë¹"
+
+	dynasty=388
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=127049
+	980.1.1 = {
+		birth="980.1.1"
+	}
+	1035.1.1 = {
+		death="1035.1.1"
+	}
+}
+
+127054 = {
+	name="°¬Â¶Î÷ÑÇ" #de Gascogne
+	dynasty=388
+	female=yes
+	religion="catholic"
+	culture="basque"
+	father=127051
+	1003.1.1 = {
+		birth="1003.1.1"
+	}
+	#1020 married Audoin II d'angouleme
+	1058.1.1 = {
+		death="1058.1.1"
+	}
+}
+
+127056 = {
+	name="±´ÄÈÌØ"
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	mother=127053
+	1010.1.1 = {
+		birth="1010.1.1"
+	}
+	1089.1.1 = {
+		death="1089.1.1"
+	}
+}
+
+138162 = {
+	name="ÅµÆÕ" #Centulle Loup I de Béarn
+	dynasty=337
+	religion="catholic"
+	culture="basque"
+	father=168123
+	850.1.1 = {
+		birth="850.1.1" #unknown
+	}
+	905.1.1 = {
+		death="905.1.1"
+	}	
+}
+
+138188 = {
+	name="°¢Ë¹ÄÉ¶û" #Aznar III de Comminges
+	dynasty=386 
+	religion="catholic"
+	culture="basque"
+	father=168120
+	890.1.1 = {
+		birth="890.1.1"
+	}
+	940.1.1 = {
+		death="940.1.1"
+	}
+}
+
+163060 = {
+	name="É£ÇÇ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168111
+	820.1.1 = {
+		birth="820.1.1"
+	}
+	848.1.1 = {
+		add_spouse=168126
+	}
+	893.1.1 = {
+		death="893.1.1"
+	}
+}
+
+163061 = {
+	name="É£ÇÇ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=7562
+	924.1.1 = {
+		birth="924.1.1"
+	}
+	961.1.1 = {
+		death="961.1.1"
+	}
+}
+
+168104 = {
+	name="ÅµÆÕ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	trait = ambitious
+	720.1.1 = {
+		birth="720.1.1"
+	}
+	769.1.1 = {
+		effect = {
+			liege = {
+				reverse_opinion = {
+					who = PREV
+					modifier = opinion_hate
+					months = 120
+				}
+			}
+			k_lotharingia = {
+				holder_scope = {
+					reverse_opinion = {
+						who = PREVPREV
+						modifier = opinion_hate
+						months = 120
+					}
+				}
+			}
+		}
+	}
+	778.1.1 = {
+		death="778.1.1"
+	}
+}
+
+168105 = {
+	name="Ï£Ã·Åµ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168104
+	740.1.1 = {
+		birth="740.1.1"
+	}
+	816.1.1 = {
+		death="816.1.1"
+	}
+}
+
+168106 = {
+	name="É£ÇÇ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168104
+	755.1.1 = {
+		birth="755.1.1"
+	}
+	812.1.1 = {
+		death="812.1.1"
+	}
+}
+
+168107 = {
+	name="ÕæÍÁÂÞ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168104
+	760.1.1 = {
+		birth="760.1.1"
+	}
+	812.1.1 = {
+		death="812.1.1"
+	}
+}
+
+168108 = {
+	name="¶àÄÉ¶à" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168104
+	765.1.1 = {
+		birth="765.1.1"
+	}
+	830.1.1 = {
+		death="830.1.1"
+	}
+}
+
+168109 = {
+	name="¼ÓÎ÷ÑÇ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168105
+	760.1.1 = {
+		birth="760.1.1"
+	}
+	818.1.1 = {
+		death="818.1.1"
+	}
+}
+
+
+168110 = {
+	name="°£ÄÚ¿Æ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168109
+	785.1.1 = {
+		birth="785.1.1"
+	}
+	850.1.1 = {
+		death="850.1.1"
+	}
+}
+
+
+
+168111 = {
+	name="Ï£Ã·Åµ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168109
+	790.1.1 = {
+		birth="790.1.1"
+	}
+	855.1.1 = {
+		death="855.1.1"
+	}
+}
+
+
+168112 = {
+	name="¼ÓÎ÷ÑÇ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168111
+	815.1.1 = {
+		birth="815.1.1"
+	}
+	860.1.1 = {
+		death="860.1.1"
+	}
+}
+
+
+
+168113 = {
+	name="ÍáÀ­" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168111
+	821.1.1 = {
+		birth="821.1.1"
+	}
+	871.1.1 = {
+		death="871.1.1"
+	}
+}
+
+168114 = {
+	name="ÂÞµÂÀï¸ê" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168111
+	822.1.1 = {
+		birth="822.1.1"
+	}
+	872.1.1 = {
+		death="872.1.1"
+	}
+}
+
+
+168115 = {
+	name="½Ü¿âÑÇ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168114
+	845.1.1 = {
+		birth="845.1.1"
+	}
+	895.1.1 = {
+		death="895.1.1"
+	}
+}
+
+
+
+
+
+168117 = {
+	name="°¢ËþÉ¯" 
+
+	female=yes
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168106
+	790.1.1 = {
+		birth="790.1.1"
+	}
+	852.1.1 = {
+		death="852.1.1"
+	}
+}
+
+168118 = {
+	name="¼ÓÎ÷ÑÇ" 
+
+	dynasty=386
+	religion="catholic"
+	culture="basque"
+	father=70300
+	805.1.1 = {
+		birth="805.1.1"
+	}
+	870.1.1 = {
+		death="870.1.1"
+	}
+}
+
+168119 = {
+	name="°¢Ë¹ÄÉ¶û" 
+
+	dynasty=386
+	religion="catholic"
+	culture="basque"
+	father=168118
+	830.1.1 = {
+		birth="830.1.1"
+	}
+	905.1.1 = {
+		death="905.1.1"
+	}
+}
+
+168120 = {
+	name="ÅµÆÕ" 
+
+	dynasty=386
+	religion="catholic"
+	culture="basque"
+	father=168119
+	860.1.1 = {
+		birth="860.1.1"
+	}
+	935.1.1 = {
+		death="935.1.1"
+	}
+}
+
+
+168121 = {
+	name="ÅµÆÕ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168107
+	780.1.1 = {
+		birth="780.1.1"
+	}
+	820.1.1 = {
+		death="820.1.1"
+	}
+}
+
+168122 = {
+	name="ÅµÆÕ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168121
+	805.1.1 = {
+		birth="805.1.1"
+	}
+	855.1.1 = {
+		death="855.1.1"
+	}
+}
+
+168123 = {
+	name="ÕæÍÁÂÞ" 
+
+	dynasty=337
+	religion="catholic"
+	culture="basque"
+	father=168121
+	810.1.1 = {
+		birth="810.1.1"
+	}
+	866.1.1 = {
+		death="866.1.1"
+	}
+}
+
+168124 = {
+	name="¶àÄÉ¶à" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168108
+	790.1.1 = {
+		birth="790.1.1"
+	}
+	850.1.1 = {
+		death="850.1.1"
+	}
+}
+
+168125 = {
+	name="¼ÓÎ÷ÑÇ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168124
+	810.1.1 = {
+		birth="810.1.1"
+	}
+	870.1.1 = {
+		death="870.1.1"
+	}
+}
+
+168126 = {
+	name="¼°Ë¹Âå"
+
+	female=yes 
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168124
+	830.1.1 = {
+		birth="830.1.1"
+	}
+	880.1.1 = {
+		death="880.1.1"
+	}
+}
+
+168143 = {
+	name="É£ÇÇ" 
+
+	dynasty=388
+	religion="catholic"
+	culture="basque"
+	father=168106
+	788.1.1 = {
+		birth="788.1.1"
+	}
+	855.1.1 = {
+		death="855.1.1"
+	}
+}
+
+106011 = {
+	name="À­Ã×ÂÞ"
+
+	dynasty=442
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="basque"
+	trait="flamboyant_schemer"
+	father=106010
+	mother=1079
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	1083.1.6 = {
+		death="1083.1.6"
+	}
+}
+
+71543 = {
+	name="·ÑÄÏ¶à"
+
+	dynasty=442
+	religion="catholic"
+	culture="basque"
+	father=106000
+	trait="bastard"
+	1062.1.1 = {
+		birth="1062.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+
+73774={
+	name="¼ÓÁÖ¶à" #Galindo
+	dynasty=12315
+
+	father=70291
+
+	religion=catholic
+	culture=basque
+
+	812.1.1={
+		birth=yes
+	}
+	840.1.1={
+		religion=sunni
+	}
+	843.1.1={
+		death=yes
+	}
+}
+
+73775={
+	name="ÄÂÔú" #Muza
+	dynasty=12315
+
+	father=73774
+
+	religion=sunni
+	culture=basque
+
+	843.1.1={
+		birth=yes
+	}
+	862.9.26={
+		employer=73800
+	}
+	871.8.4={
+		death=yes
+	}
+}
+73808={
+	name="¿¨Î÷°Â" #Kasio
+	dynasty=12293
+
+	religion=catholic
+	culture=basque
+
+	670.1.1={
+		birth=yes
+	}
+	714.1.1={
+		religion=sunni
+	}
+	723.1.1={
+		death=yes
+	}
+}
+
+73809={
+	name="¸£ÌÚ" #Fortun
+	dynasty=12293
+
+	father=73808
+
+	religion=sunni
+	culture=basque
+
+	710.1.1={
+		birth=yes
+	}
+	731.1.1={
+		add_spouse=200202
+	}
+	768.1.1={
+		death=yes
+	}
+}
+
+73810={
+	name="ÄÂÔú" #Muza
+	dynasty=12293
+
+	father=73809
+	mother=200202
+
+	religion=sunni
+	culture=basque
+
+	745.1.1={
+		birth=yes
+	}
+	768.1.1={
+		add_spouse=200204
+	}
+	797.1.1={
+		add_spouse=73811
+	}
+	802.12.1={
+		death=yes
+	}
+}
+
+73812={
+	name="ÄÂÔú" #Muza
+	dynasty=12293
+
+	father=73810
+	mother=73811
+
+	religion=sunni
+	culture=basque
+
+	800.1.1={
+		birth=yes
+	}
+	830.1.1={
+		add_spouse=73776
+	}
+	862.9.26={
+		death=yes
+	}
+}
+
+73813={
+	name="ÂåÅå" Lope
+	dynasty=12293
+
+	father=73812
+	mother=73776
+
+	religion=sunni
+	culture=basque
+
+	831.1.1={
+		birth=yes
+	}
+	860.1.1={
+		add_spouse=73814
+	}
+	875.4.27={
+		death=yes
+	}
+}
+73815={
+	name="ÄÂº±Ä¬µÂ" #Mohamed
+	dynasty=12293
+
+	father=73813
+	mother=73814
+
+	religion=sunni
+	culture=basque
+
+	862.1.1={
+		birth=yes
+	}
+	898.10.2={
+		death=yes
+	}
+}
+
+73816={
+	name="ÒÔÈö" #Isa
+	dynasty=12293
+
+	father=73813
+	mother=73814
+
+	religion=sunni
+	culture=basque
+
+	864.1.1 = {
+		birth=yes
+	}
+	920.1.1 = {
+		death=yes
+	}
+}
+
+73817 = {
+	name="ÄÂËþÀï²·" #Motarrif
+	dynasty=12293
+
+	father=73813
+	mother=73814
+
+	religion=sunni
+	culture=basque
+
+	866.1.1={
+		birth=yes
+	}
+	922.1.1={
+		death=yes
+	}
+}
+
+73818={
+	name="ÒÁË¹Ã·¶û" #Ismail
+	dynasty=12293
+
+	father=73812
+	mother=73776
+
+	religion=sunni
+	culture=basque
+
+	833.1.1={
+		birth=yes
+	}
+	889.5.6={
+		add_spouse=73819
+	}
+	889.10.10={
+		death=yes
+	}
+}
+73820={
+	name="ÄÂÔú" #Muza
+	dynasty=12293
+
+	father=73818
+
+	religion=sunni
+	culture=basque
+
+	858.1.1={
+		birth=yes
+	}
+	889.5.6={
+		death=yes
+	}
+}
+
+73821={
+	name="ÄÂËþÀï²·" #Motarrif
+	dynasty=12293
+
+	father=73818
+
+	religion=sunni
+	culture=basque
+
+	861.1.1={
+		birth=yes
+	}
+	891.1.1={
+		death=yes
+	}
+}
+
+73822={
+	name="ÈøµÂ" #Saad
+	dynasty=12293
+
+	father=73818
+
+	religion=sunni
+	culture=basque
+
+	863.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+73823={
+	name="ÄÂº±Ä¬µÂ" #Mohamed
+	dynasty=12293
+
+	father=73818
+	mother=73819
+
+	religion=sunni
+	culture=basque
+
+	890.1.1={
+		birth=yes
+	}
+	907.1.1={
+		death=yes
+	}
+}
+
+73824={
+	name="ÄÂËþÀï²·" #Motarrif
+	dynasty=12293
+
+	father=73812
+	mother=73776
+
+	religion=sunni
+	culture=basque
+
+	835.1.1={
+		birth=yes
+	}
+	870.1.1={
+		add_spouse=73778
+	}
+	906.1.1={
+		death=yes
+	}
+}
+
+73825={
+	name="ÄÂº±Ä¬µÂ" #Mohamed
+	dynasty=12293
+
+	father=73824
+
+	religion=sunni
+	culture=basque
+
+	860.1.1={
+		birth=yes
+	}
+	873.9.5={
+		death=yes
+	}
+}
+
+73826={
+	name="ÄÂÔú" #Muza
+	dynasty=12293
+
+	father=73824
+
+	religion=sunni
+	culture=basque
+
+	862.1.1={
+		birth=yes
+	}
+	873.9.5={
+		death=yes
+	}
+}
+
+73827={
+	name="ÂåÅå" #Lope
+	dynasty=12293
+
+	father=73824
+
+	religion=sunni
+	culture=basque
+
+	864.1.1={
+		birth=yes
+	}
+	873.9.5={
+		death=yes
+	}
+}
+
+73828={
+	name="°¢²¼´ïÀ­" #Abdala
+	dynasty=12293
+
+	father=73824
+
+	religion=sunni
+	culture=basque
+
+	866.1.1={
+		birth=yes
+	}
+	930.1.1={
+		death=yes
+	}
+}
+
+73829={
+	name="¸£ÌÚ" #Fortun
+	dynasty=12293
+
+	father=73812
+	mother=73776
+
+	religion=sunni
+	culture=basque
+
+	840.1.1={
+		birth=yes
+	}
+	874.3.23={
+		death=yes
+	}
+}
+
+73830={
+	name="ÒÁË¹Ã·¶û" #Ismail
+	dynasty=12293
+
+	father=73829
+
+	religion=sunni
+	culture=basque
+
+	862.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+
+73831={
+	name="ÄÂÔú" #Muza
+	dynasty=12293
+
+	father=73829
+
+	religion=sunni
+	culture=basque
+
+	863.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+
+73832={
+	name="ÄÂº±Ä¬µÂ" #Mohamed
+	dynasty=12293
+
+	father=73829
+
+	religion=sunni
+	culture=basque
+
+	865.1.1={
+		birth=yes
+	}
+	882.1.1 = {
+		death=yes
+	}
+}
+
+73833={
+	name="ÂåÅå" #Lope
+	dynasty=12293
+
+	father=73829
+
+	religion=sunni
+	culture=basque
+
+	866.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+
+73834={
+	name="°ÂÀûæ«" #Awriya
+	female=yes
+	dynasty=12293
+
+	father=73812
+	mother=73776
+
+	religion=sunni
+	culture=basque
+
+	842.1.1={
+		birth=yes
+	}
+	907.1.1={
+		death=yes
+	}
+}
+
+73836={
+	name="ÄÂÔú" #Muza
+	dynasty=12293
+
+	father=73835
+	mother=73834
+
+	religion=sunni
+	culture=basque
+
+	859.1.1={
+		birth=yes
+	}
+	915.1.1={
+		death=yes
+	}
+}
+
+73837={
+	name="ÄÂÄÝæ«" #Munia
+	female=yes
+	dynasty=12293
+
+	father=73812
+	mother=73776
+
+	religion=sunni
+	culture=basque
+
+	840.1.1={
+		birth=yes
+	}
+	903.1.1={
+		death=yes
+	}
+}
+71947={
+	name="°¢ÃÅ¸ê" #Armengol
+	dynasty=778
+
+	father=207561
+	mother=210575
+
+	religion=catholic
+	culture=basque
+
+	1174.1.1={
+		birth=yes
+	}
+	1217.1.1={
+		death=yes
+	}
+}
+70033={
+	name="°ÂÄù¼Ó" #Oneka
+	female=yes
+	dynasty=8779
+
+	father=73034
+	mother=73044
+
+	religion=catholic
+	culture=basque
+
+	1042.1.1={
+		birth=yes
+	}
+	1082.1.1={
+		death=yes
+	}
+}
+70076={
+	name="Å¬Äá°Â" #Nuno
+	dynasty=7000
+
+	father=108570
+	trait=bastard
+
+	religion=catholic
+	culture=basque
+
+	1025.1.1={
+		birth=yes
+	}
+	1046.1.1={
+		add_spouse=70077
+	}
+	1066.1.1={
+		employer=108500
+	}
+	1075.1.1={
+		death=yes
+	}
+}
+70078={
+	name="Ximena"
+	female=yes
+	dynasty=7000
+
+	father=70076
+	mother=70077
+
+	religion=catholic
+	culture=basque
+	
+	1048.1.1={
+		birth=yes
+	}
+	1098.1.1 = {
+		death=yes
+	}
+}
+
+70079={
+	name="ÌØÀÙÉ¯" #Teresa
+	female=yes
+	dynasty=7000
+
+	father=70076
+	mother=70077
+
+	religion=catholic
+	culture=basque
+	
+	1050.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+70211={
+	name="Ximena"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1040.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+70269={
+	name="Erramun"
+	dynasty=10024
+
+	father=70271
+	mother=70273
+
+	religion=catholic
+	culture=basque
+
+	921.1.1={
+		birth=yes
+	}
+	948.1.1={
+		add_spouse=54000
+	}
+	970.1.1={
+		death=yes
+	}
+}
+70271={
+	name="Bernart"
+	dynasty=10024
+
+	father=70272
+
+	religion=catholic
+	culture=basque
+	
+	905.1.1={
+		birth=yes
+	}
+	921.1.1={
+		add_spouse=70273
+	}
+	956.1.1={
+		death=yes
+	}
+}
+
+70272={
+	name="Erramun"
+	dynasty=10024
+
+	religion=catholic
+	culture=basque
+	
+	886.1.1={
+		birth=yes
+	}
+	936.1.1={
+		death=yes
+	}
+}
+71580={
+	name="Beatritz"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1044.1.1={
+		birth=yes
+	}
+	1069.1.1={
+		death=yes
+	}
+}
+71938={
+	name="Mentzia"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1129.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+72487={
+	name="ÌØÀÙÉ¯" #Teresa
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1253.1.1={
+		birth=yes
+	}
+	1313.1.1={
+		death=yes
+	}
+}
+73896={
+	name="Bermudo"
+	dynasty=8779
+
+	father=200163
+
+	religion=catholic
+	culture=basque
+
+	908.1.1={
+		birth=yes
+	}
+	955.8.1={
+		death=yes
+	}
+}
+
+73897={
+	name="±´À­" #Vela
+	dynasty=8779
+
+	father=200163
+
+	religion=catholic
+	culture=basque
+
+	900.1.1={
+		birth=yes
+	}
+	950.5.25={
+		death=yes
+	}
+}
+
+73898={
+	name="±´À­" #Vela
+	dynasty=8779
+
+	father=73896
+
+	religion=catholic
+	culture=basque
+
+	931.1.1={
+		birth=yes
+	}
+	976.3.27={
+		death=yes
+	}
+}
+200026={
+	name="ÂåÅå" #Lope
+	dynasty=12293
+
+	father=73815
+
+	religion=sunni
+	culture=basque
+
+	880.1.1={
+		birth=yes
+	}
+	907.9.30={
+		death=yes
+	}
+}
+
+200027={
+	name="°¢²¼´ïÀ­" #Abdala
+	dynasty=12293
+
+	father=73815
+
+	religion=sunni
+	culture=basque
+
+	882.1.1={
+		birth=yes
+	}
+	915.11.1={
+		death=yes
+	}
+}
+
+200028={
+	name="ÄÂËþÀï²·" #Motarrif
+	dynasty=12293
+
+	father=73815
+
+	religion=sunni
+	culture=basque
+
+	884.1.1={
+		birth=yes
+	}
+	916.3.31={
+		death=yes
+	}
+}
+
+200029={
+	name="ÄÂº±Ä¬µÂ" #Mohamed
+	dynasty=12293
+
+	father=200027
+
+	religion=sunni
+	culture=basque
+
+	905.1.1={
+		birth=yes
+	}
+	923.1.1={
+		death=yes
+	}
+}
+
+200030={
+	name="ÄÂº±Ä¬µÂ" #Mohamed
+	dynasty=12293
+
+	father=200026
+
+	religion=sunni
+	culture=basque
+
+	902.1.1={
+		birth=yes
+	}
+	929.7.1={
+		death=yes
+	}
+}
+
+200061={
+	name="Å·±´¿Ë" #Obeko
+	dynasty=8750
+
+	religion=catholic
+	culture=basque
+
+	720.1.1={
+		birth=yes
+	}
+	745.1.1={
+		add_spouse=200060
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+200090={
+	name="°¢¶ûÍß" #Alvar
+	dynasty=8741
+
+	father=200092
+
+	religion=catholic
+	culture=basque
+
+	958.1.1={
+		birth=yes
+	}
+	1015.2.20={
+		death=yes
+	}
+}
+
+200091={
+	name="¼ÓÎ÷ÑÇ" #Gartzia
+	dynasty=8741
+
+	father=200090
+
+	religion=catholic
+	culture=basque
+
+	980.1.1={
+		birth=yes
+	}
+	1033.1.21={
+		death=yes
+	}
+}
+
+200092={
+	name="ºÕÀ­Ã·¶û" #Herramel
+	dynasty=8741
+
+	father=200093
+	mother=107681
+
+	religion=catholic
+	culture=basque
+
+	931.1.1={
+		birth=yes
+	}
+	988.12.24={
+		death=yes
+	}
+}
+
+200093={
+	name="°¢¶ûÍß" #Alvar
+	dynasty=8741
+
+	father=200094
+
+	religion=catholic
+	culture=basque
+
+	883.1.1={
+		birth=yes
+	}
+	930.1.1={
+		add_spouse=107681
+	}
+	931.1.1={
+		death=yes
+	}
+}
+
+200094={
+	name="ºÕÀ­Ã·¶û" #Herramel
+	dynasty=8741
+
+	religion=catholic
+	culture=basque
+
+	860.1.1={
+		birth=yes
+	}
+	912.1.1={
+		death=yes
+	}
+}
+
+200095={
+	name="ºÕÀ­Ã·¶û" #Herramel
+	dynasty=8741
+
+	father=200091
+
+	religion=catholic
+	culture=basque
+
+	1008.1.1={
+		birth=yes
+	}
+	1064.1.1={
+		death=yes
+	}
+}
+
+200158={
+	name="ÂåÅå" #Lope
+	dynasty=1046010
+
+	religion=catholic
+	culture=basque
+
+	730.1.1={
+		birth=yes
+	}
+	764.1.1={
+		add_spouse=200060
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+200159={
+	name="¼ÓÎ÷ÑÇ" #Gartzia
+	dynasty=1046010
+
+	father=200158
+	mother=200060
+
+	religion=catholic
+	culture=basque
+
+	765.1.1={
+		birth=yes
+	}
+	816.1.1={
+		death=yes
+	}
+}
+
+200160={
+	name="ÄÂÄá°Â" #Munio
+	dynasty=8779
+
+	father=200161
+	mother=200162
+
+	religion=catholic
+	culture=basque
+
+	870.1.1={
+		birth=yes
+	}
+	922.1.1={
+		death=yes
+	}
+}
+
+200161={
+	name="±´À­" #Vela
+	dynasty=8779
+
+	father=70120
+
+	religion=catholic
+	culture=basque
+
+	846.1.1={
+		birth=yes
+	}
+	867.1.1={
+		add_spouse=200162
+	}
+	883.1.1={
+		death=yes
+	}
+}
+
+200162={
+	name="±´À­Ë¹»ùËþ" #Belaskita
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	850.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+200163={
+	name="Å¬Äá°Â" #Nuno
+	dynasty=8779
+
+	father=200161
+	mother=200162
+
+	religion=catholic
+	culture=basque
+
+	874.1.1={
+		birth=yes
+	}
+	948.1.1={
+		death=yes
+	}
+}
+
+200164={
+	name="±´À­" #Vela
+	dynasty=8779
+
+	father=200166
+
+	religion=catholic
+	culture=basque
+
+	1029.1.1={
+		birth=yes
+	}
+	1073.1.1={
+		add_spouse=200165
+	}
+	1080.1.1={
+		death=yes
+	}
+}
+
+200165={
+	name="ÂíÔ¼¶û" #Maior
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1057.1.1={
+		birth=yes
+	}
+	1111.1.1={
+		death=yes
+	}
+}
+
+200166={
+	name="°¢Ë¹ÄÉ¶û" #Aznar
+	dynasty=8779
+
+	father=200168
+
+	religion=catholic
+	culture=basque
+
+	1000.1.1={
+		birth=yes
+	}
+	1051.1.1={
+		death=yes
+	}
+}
+
+200167={
+	name="¸£ÌÚ" #Fortun
+	dynasty=8779
+
+	father=200166
+
+	religion=catholic
+	culture=basque
+
+	1027.1.1={
+		birth=yes
+	}
+	1067.1.1={
+		death=yes
+	}
+}
+
+200168={
+	name="¼ÓÎ÷ÑÇ" #Gartzia
+	dynasty=8779
+
+	father=200169
+
+	religion=catholic
+	culture=basque
+
+	977.1.1={
+		birth=yes
+	}
+	1048.1.1={
+		death=yes
+	}
+}
+
+200169={
+	name="°¢Ë¹ÄÉ¶û" #Aznar
+	dynasty=8779
+
+	father=73896
+
+	religion=catholic
+	culture=basque
+
+	943.1.1={
+		birth=yes
+	}
+	1002.1.1={
+		death=yes
+	}
+}
+
+200170={
+	name="¿µË¹Ì¹Ìáæ«" #Konstantzia
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1058.1.1={
+		birth=yes
+	}
+	1115.1.1={
+		death=yes
+	}
+}
+
+200171={
+	name="°£Äá¿É" #Eneko
+	dynasty=8779
+
+	father=200164
+	mother=200165
+
+	religion=catholic
+	culture=basque
+
+	1077.1.1={
+		birth=yes
+	}
+	1098.1.1={
+		add_spouse=200172
+	}
+	1129.4.23={
+		death=yes
+	}
+}
+
+200172={
+	name="°ÂÀïÑÇ" #Oria
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1080.1.1={
+		birth=yes
+	}
+	1140.1.1={
+		death=yes
+	}
+}
+
+200173={
+	name="ÂåÅå" #Lope
+	dynasty=8779
+
+	father=200164
+	mother=200165
+
+	religion=catholic
+	culture=basque
+
+	1079.1.1={
+		birth=yes
+	}
+	1080.1.1={
+		death=yes
+	}
+}
+
+200174={
+	name="À­µÂÂ¡" #Ladron
+	dynasty=1046008
+
+	father=200171
+	mother=200172
+
+	religion=catholic
+	culture=basque
+
+	1099.1.1={
+		birth=yes
+	}
+	1117.1.1={
+		add_spouse=200175
+	}
+	1155.1.1={
+		death=yes
+	}
+}
+
+200175={
+	name="ÌØÀÙÉ¯" #Teresa
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1100.1.1={
+		birth=yes
+	}
+	1156.1.1={
+		death=yes
+	}
+}
+
+200176={
+	name="ÂåÅå" #Lope
+	dynasty=8779
+
+	father=200171
+
+	religion=catholic
+	culture=basque
+
+	1101.1.1={
+		birth=yes
+	}
+	1126.1.1={
+		add_spouse=200177
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+
+200177={
+	name="ÄÂÄáæ«" #Munia
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1107.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		death=yes
+	}
+}
+
+200178={
+	name="ÍÐ´ï" #Toda
+	female=yes
+	dynasty=8779
+
+	father=200171
+	mother=200172
+
+	religion=catholic
+	culture=basque
+
+	1103.1.1={
+		birth=yes
+	}
+	1134.1.1={
+		death=yes
+	}
+}
+
+200179={
+	name="°£Äá¿É" #Eneko
+	dynasty=8779
+
+	father=200176
+	mother=200177
+
+	religion=catholic
+	culture=basque
+
+	1128.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+
+200180={
+	name="±´À­" #Vela
+	dynasty=1046008
+
+	father=200174
+	mother=200175
+
+	religion=catholic
+	culture=basque
+
+	1119.1.1={
+		birth=yes
+	}
+	1142.1.1={
+		add_spouse=200181
+	}
+	1174.1.1={
+		death=yes
+	}
+}
+
+200181={
+	name="±´À­Ë¹»ùËþ" #Belaskita
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1125.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+
+200182={
+	name="Ô¼°²ÄÝË¿" #Joanes
+	dynasty=1046008
+
+	father=200180
+	mother=200181
+
+	religion=catholic
+	culture=basque
+
+	1143.1.1={
+		birth=yes
+	}
+	1169.1.1={
+		add_spouse=200183
+	}
+	1181.3.21={
+		death=yes
+	}
+}
+
+200183={
+	name="ÃÅÎ÷ÑÇ" #Mentzia
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1150.1.1={
+		birth=yes
+	}
+	1206.1.1={
+		death=yes
+	}
+}
+
+200184={
+	name="Æ¤ÑÇÀ×Ë¹" #Piarres
+	dynasty=1046008
+
+	father=200180
+	mother=200181
+
+	religion=catholic
+	culture=basque
+
+	1145.1.1={
+		birth=yes
+	}
+	1164.1.1={
+		add_spouse=200185
+	}
+	1194.1.1={
+		death=yes
+	}
+}
+
+200185={
+	name="ÍÐ´ï" #Toda
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1147.1.1={
+		birth=yes
+	}
+	1212.1.1={
+		death=yes
+	}
+}
+
+200186={
+	name="À­µÂÂ¡" #Ladron
+	dynasty=1046008
+
+	father=200184
+	mother=200185
+
+	religion=catholic
+	culture=basque
+
+	1165.1.1={
+		birth=yes
+	}
+	1217.1.1={
+		death=yes
+	}
+}
+
+200189={
+	name="¼ÓÎ÷ÑÇ" #Gartzia
+	dynasty=1046009
+
+	religion=catholic
+	culture=basque
+
+	776.1.1={
+		birth=yes
+	}
+	822.1.1={
+		death=yes
+	}
+}
+
+200190={
+	name="±´À­Ë¹¿Æ" #Belasko
+	dynasty=12285
+
+	father=200191
+	mother=200192
+
+	religion=catholic
+	culture=basque
+
+	753.1.1={
+		birth=yes
+	}
+	817.1.1={
+		death=yes
+	}
+}
+
+200191={
+	name="±´À­Ë¹¿Æ" #Belasko
+	dynasty=12285
+
+	religion=catholic
+	culture=basque
+
+	724.1.1={
+		birth=yes
+	}
+	750.1.1={
+		add_spouse=200192
+	}
+	779.1.1={
+		death=yes
+	}
+}
+
+200192={
+	name="°²Ëþ" #Antsa
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	731.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+200193={
+	name="¼ÓÁÖ¶à"  #Galindo
+	dynasty=12285
+
+	father=200191
+	mother=200192
+
+	religion=catholic
+	culture=basque
+
+	751.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+200194={
+	name="ÄÂº±Ä¬µÂ" #Mohamed
+	dynasty=12293
+
+	father=73808
+
+	religion=sunni
+	culture=basque
+
+	712.1.1={
+		birth=yes
+	}
+	740.1.1={
+		add_spouse=200198
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+200195={
+	name="ÄÂËþÀï²·" #Motarrif
+	dynasty=12293
+
+	father=73808
+
+	religion=sunni
+	culture=basque
+
+	714.1.1={
+		birth=yes
+	}
+	741.1.1={
+		add_spouse=200199
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+200196={
+	name="ÓÈÅ¬Ë¹" #Yunus
+	dynasty=12293
+
+	father=73808
+
+	religion=sunni
+	culture=basque
+
+	716.1.1={
+		birth=yes
+	}
+	773.11.1={
+		death=yes
+	}
+}
+
+200197={
+	name="Ò¶º£ÑÇ" #Yahya
+	dynasty=12293
+
+	father=73808
+
+	religion=sunni
+	culture=basque
+
+	718.1.1={
+		birth=yes
+	}
+	774.11.1={
+		death=yes
+	}
+}
+
+200200={
+	name="ÌÒÎÝ" #Taur
+	dynasty=12293
+
+	father=200194
+	mother=200198
+
+	religion=sunni
+	culture=basque
+
+	741.1.1={
+		birth=yes
+	}
+	799.11.1={
+		death=yes
+	}
+}
+
+200201={
+	name="ÈøÀ­Âí" #Salama
+	dynasty=12293
+
+	father=200195
+	mother=200199
+
+	religion=sunni
+	culture=basque
+
+	744.1.1={
+		birth=yes
+	}
+	800.11.1={
+		death=yes
+	}
+}
+
+200203={
+	name="²éÏ£¶û" #Zahir
+	dynasty=12293
+
+	father=73809
+	mother=200202
+
+	religion=sunni
+	culture=basque
+
+	747.1.1={
+		birth=yes
+	}
+	805.11.1={
+		death=yes
+	}
+}
+
+200205={
+	name="ÄÂËþÀï²·" #Motarrif
+	dynasty=12293
+
+	father=73810
+	mother=200204
+
+	religion=sunni
+	culture=basque
+
+	769.1.1={
+		birth=yes
+	}
+	799.11.1={
+		death=yes
+	}
+}
+
+107671={
+	name="Ava"
+	female=yes
+	dynasty=10024
+	father=70269
+	mother=54000
+	religion=catholic
+	culture=basque
+	944.1.1={
+		birth=yes
+	}
+	995.1.1={
+		death=yes
+	}
+}

@@ -1,0 +1,188 @@
+159735 = {
+	name="¶àÄÂ" # fictional
+	#name="Torum"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1029126
+	father=188794
+	839.1.1={
+		birth=yes
+	}
+	909.1.1={
+		death=yes
+	}
+}
+161720 = {
+	name="²¼°£À­"
+	#name="Pyera"
+	#placeholder
+	religion="finnish_pagan"
+	culture=khanty
+	1050.1.1={
+		birth=yes
+	}
+	1110.1.1={
+		death=yes
+	}
+}
+
+
+161721 = {
+	name="°¢²á¿Ë"	#placeholder
+	#name="Azeg"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1042193
+	father=161720
+	1080.1.1={
+		birth=yes
+	}
+	1140.1.1={
+		death=yes
+	}
+}
+
+161722 = {
+	name="°¢¶ûç¾"	#placeholder
+	#name="Arti"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1042193
+	father=161721
+	1110.1.1={
+		birth=yes
+	}
+	1170.1.1={
+		death=yes
+	}
+}
+
+161723 = {
+	name="Ôú¶ûÄá" #placeholder
+	#name="Zarny"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1042193
+	father=161722
+	1140.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+
+161724 = {
+	name="°ÍÂ³Ê²" #placeholder
+	#name="Parush"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1042193
+	father=161723
+	1170.1.1={
+		birth=yes
+	}
+	1230.1.1={
+		death=yes
+	}
+}
+188791 = {
+	name="ÄÇ¶û¿¨" # fictional
+	#name="Nalka"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1029126
+	730.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+188792 = {
+	name="ÈüÌØ°¢Ä¾¿¨" # fictional
+	#name="Setyamka" 
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1029126
+	father=188791
+	752.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+
+188793 = {
+	name="ÄÇ¶û¿¨" # fictional
+	#name="Nalka"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1029126
+	father=188792
+	787.1.1={
+		birth=yes
+	}
+	837.1.1={
+		death=yes
+	}
+}
+
+188794 = {
+	name="Î¬¶ûÂó¿¨" # fictional
+	#name="Velmayka"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1029126
+	father=188793
+	809.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+188795 = {
+	name="Âó¶û´Ä°£¿¨" # fictional
+	#name="Meltsayka"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1042191
+	740.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188796 = {
+	name="Äá¶à¸ñ" # fictional
+	#name="Nydog"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1042192
+	735.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+188797 = {
+	name="×ÈÀï°²" # fictional
+	#name="Zyryan"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1042194
+	751.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}

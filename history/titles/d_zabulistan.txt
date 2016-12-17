@@ -1,0 +1,149 @@
+680.1.1={
+	liege=0
+	holder = 188701 # Zunbil founder
+}
+687.1.1={
+	holder = 188702 
+}
+725.1.1={
+	holder = 188703
+}
+738.1.1={
+	holder = 188628
+}
+770.1.1={
+	holder = 188705
+}
+780.1.1={
+	holder = 188707
+}
+815.1.1={
+	holder = 188708
+}
+850.1.1={
+	holder = 188711 # Kabak Zunbil
+}
+865.1.1={
+	liege = k_baluchistan
+	holder = 163101 #Saffarid
+}
+
+977.1.1 = {
+	liege=k_afghanistan
+	holder = 144123 # Sabuktigin Ghaznavid
+}
+997.1.1={
+	holder = 144124 # Ismail
+}
+998.1.1={
+	holder = 144125 # Mahmud
+}
+1030.1.1={
+	holder = 144126 # Muhammad
+}
+1031.1.1={
+	holder = 144127 # Musud
+}
+1041.1.1={
+	holder = 144128 # Mawdud
+}
+1050.1.1={
+	holder = 144129 # Masud
+}
+1050.6.1={
+	holder = 144130 # Ali
+}
+1050.9.1={
+	holder = 144131 # Abd al-Rashid
+}
+1053.1.1={
+	holder = 144132 # Farrukhzad
+}
+1059.1.1={
+	holder = 144133 # Ibrahim
+}
+1099.1.1={
+	holder = 144134 # Masud II
+}
+1115.1.1={
+	holder = 144135 # Shirzad
+}
+1115.6.1={
+	holder = 144136 # Arlsan Shah
+}
+1118.1.1={
+	liege=k_persia # Seljuk vassalage
+	holder = 144137 # Bahram Shah
+}
+1152.1.1={
+	holder = 144138 # Khusraw Shah
+}
+1157.5.8={
+	liege = 0 # end of the Seljuk Turks
+}
+1160.1.1={
+	holder = 144139 # Khusraw Malik
+}
+1170.1.1={
+	liege=0
+	holder = 144141 # Ghiyath Ghurid
+}
+1173.1.1={
+	liege=k_afghanistan
+}
+1186.1.1={
+	liege=k_sindh
+}
+1203.1.1={
+	holder = 144142
+	liege=e_rajastan
+}
+1206.3.15=
+{
+	holder = 144143
+	liege=0
+}
+#Khwazerim
+#Kartids
+1212.1.1=
+{
+	liege="k_persia"
+	holder = 93153
+}
+
+
+1221.1.1=
+{
+	liege="e_mongol_empire"
+}
+1227.12.2={
+	liege="e_il-khanate"
+}
+1245.1.1=
+{
+	holder = 93154
+
+}
+1277.1.1=
+{
+	holder = 93155
+}
+1295.1.1=
+{
+	holder = 93156
+}
+1308.1.1=
+{
+	holder = 93157
+}
+1330.1.1=
+{
+	holder = 93158
+}
+1332.1.1=
+{
+	liege=0
+	holder = 93159
+}
+
+

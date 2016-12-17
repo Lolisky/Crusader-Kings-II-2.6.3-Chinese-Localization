@@ -1,0 +1,127 @@
+330.1.1={
+	liege="e_byzantium"
+	vice_royalty = yes
+}
+681.1.1={
+	liege="k_bulgaria"
+	vice_royalty = no
+	holder=159118
+}
+700.1.1={
+	holder=145944
+}
+740.1.1={
+	holder=145945
+}
+766.1.1={
+	holder=145947
+}
+786.1.1={
+	holder=145952
+}
+860.1.1={
+	holder=70383
+}
+893.1.1={
+	holder=0
+	liege=0
+}
+
+1066.1.1=
+{
+liege="e_byzantium"
+vice_royalty = yes
+}
+1066.1.1=
+{
+holder=1736
+}
+1071.8.26=
+{
+holder=34463
+}
+1071.8.26=
+{
+liege="k_bulgaria"
+vice_royalty = no
+}
+1073.1.1=
+{
+liege="e_byzantium"
+vice_royalty = yes
+holder=41537
+}
+1094.3.12=
+{
+holder=34466
+}
+1107.1.1=
+{
+holder=34467
+}
+1140.1.1=
+{
+holder=34470
+}
+1147.1.1=
+{
+holder=34445
+}
+1156.1.1=
+{
+holder=34281
+}
+1185.1.1=
+{
+liege="k_bulgaria"
+vice_royalty = no
+holder=217502 #Kaloyan
+}
+1196.1.1=
+{
+holder=217505 #Boril
+}
+1218.1.2=
+{
+holder=31160 #Ivan II
+}
+1241.6.24=
+{
+holder=31165 #Koloman I
+}
+1246.8.1=
+{
+holder=31166 #Mihail I
+}
+1256.1.1=
+{
+holder=31170 #Koloman II
+}
+1257.1.1=
+{
+holder=31185 #Micho
+}
+1258.1.1=
+{
+holder=31187 #Konstandin
+}
+1277.9.1=
+{
+liege=0
+}
+1277.9.1=
+{
+holder=467508 #Shishman
+}
+1311.1.2=
+{
+holder=467520 #Mihail
+}
+1322.8.1=
+{
+liege="k_bulgaria"
+}
+1330.7.28=
+{
+holder=467524 #Liudovik
+}

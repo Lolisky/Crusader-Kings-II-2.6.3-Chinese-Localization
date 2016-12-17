@@ -1,0 +1,78 @@
+535.1.1={
+	holder = 205000 # Wehha
+}
+571.1.1={
+	holder = 205001 # Wuffa
+}
+578.1.1={
+	holder = 205002 # Tytila
+}
+616.1.1={
+	holder = 205003 # Raedwald
+}
+627.1.1={
+	holder = 205004 # Eorpwald
+}
+630.1.1={
+	holder = 0 # minor characters
+}
+641.1.1={
+	holder = 205007 # Anna
+}
+654.1.1={
+	holder = 205008 # Ethelhere
+}
+655.1.1={
+	holder = 205009 # Ethelwold
+}
+664.1.1={
+	holder = 205011 # Ealdwulf
+}
+713.1.1={
+	holder = 205012 # Ealdwald
+}
+749.1.1={
+	holder = 205013 # Beonna
+}
+760.1.1={
+	holder = 205015
+	set_tribute_suzerain = { who = d_hereford percentage = 0.40 }
+}
+779.1.1={
+	holder = 205016
+}
+794.1.1={
+	holder=0 # interregnum
+}
+796.1.1={
+	holder=205018 # Ealdwald
+}
+800.1.1={
+	holder=0 # interregnum
+}
+827.1.1={
+	holder = 205021 # Ethelstan
+	clear_tribute_suzerain = d_hereford
+}
+845.1.1={
+	holder = 205020 # Ethelweard
+}
+854.1.1={
+	holder = 163064 # Eadmund
+}
+
+879.1.1={
+	holder = 168650
+}
+
+1066.1.1={
+	liege="k_england"
+	#law = agnatic_succession
+	#law = succ_primogeniture
+}
+1066.1.1={
+	holder=132 #Gyrth Godwinsson
+}
+1066.10.14={
+	holder=0
+}

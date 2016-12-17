@@ -1,0 +1,118 @@
+713.1.1={
+	liege=k_italy
+}
+713.1.1={
+	holder = 190278 #Walperto
+}
+754.1.1={
+	holder = 190279 #Alperto
+}
+773.1.1={
+	holder = 190280 #Tachiperto
+}
+812.1.1={
+	liege="k_italy"
+}
+
+812.1.1=
+{
+	holder=167896
+}
+823.10.5=
+{
+	holder=167897
+}
+838.1.1=
+{
+	holder=163070
+}
+886.1.1=
+{
+	holder=167902
+}
+915.9.10=
+{
+	holder=167905
+}
+930.1.1=
+{
+	holder=167906
+}
+931.1.1={
+	liege=k_germany
+	#law = cognatic_succession
+	#law = succ_primogeniture
+}
+931.1.1={
+	holder=7980
+}
+936.1.1={
+	holder=7924
+}
+967.9.15={
+	holder=7925
+}
+1001.12.21 = {
+	holder = 0 #Wikipedia shows no holder of the Margravate of Tuscany from 1001 to 1004 and also from 1011 to 1014.
+}
+1004.1.1={
+	holder=167987
+}	
+1011.1.1={
+	holder = 0
+}
+1014.1.1={
+	holder=180251
+}
+1024.7.13={
+	liege = e_hre
+}
+1027.1.1={
+	holder=7756
+}
+1052.5.6={
+	holder=7758
+}
+1055.7.1={
+	holder=7757
+}
+1115.7.24={
+	holder=7901
+	law = succ_feudal_elective
+}
+1120.1.1={
+	holder=33466
+}
+1127.1.1={
+	holder=30219
+}
+1135.1.1={
+	holder=212996
+}
+1137.1.1={
+	holder=212602
+}
+1139.10.20={
+	holder=73405
+}
+1152.1.1={
+	holder=7595
+}
+1160.1.1={
+	holder=7596
+}
+1167.9.12={
+	holder=7595
+}
+1173.1.1={
+	holder=212501
+}
+1190.6.10={
+	holder=212507
+}
+1195.1.1={
+	holder=212506
+}
+1197.9.28={
+	holder=0
+}

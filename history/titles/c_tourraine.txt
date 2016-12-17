@@ -1,0 +1,104 @@
+768.1.1={
+	holder = 190510 #Abbon
+}
+768.1.1={
+	liege=d_aquitaine
+}
+820.1.1={
+	liege=k_france
+	holder = 161483
+}
+837.10.27={
+	holder = 163055
+}
+859.1.1={
+	holder = 6440
+}
+866.7.2={
+	holder = 168246 #Hugo 'the Abbot' Welf
+}
+886.5.12={
+	holder = 6442
+}
+922.1.1={
+	holder = 382
+}
+975.1.17={
+	holder = 384
+}
+996.1.2={
+	holder = 388
+}
+1004.1.2={
+	holder = 390
+}
+#county of Tours
+1037.11.15 = {
+	holder=394 #Thibaut I de Blois
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+1041.1.1={
+	liege="d_anjou"
+	holder = 376 #Geoffroy II Martel
+}
+
+#Plantagenêts
+1060.1.1={
+	holder = 378 #Geoffroy III le Barbu
+}
+1066.1.1={
+	holder = 380 #Foulque IV le Réchin
+}
+1109.4.14={
+	holder = 223525 #Foulque V le Jeune
+}
+1129.1.1={
+	holder = 204506 #Geoffroy V le Bel
+}
+1151.9.7={
+	holder=204500 #Henri I Courtmanteau
+}
+1183.1.1={
+	holder = 204510 #Richard I Cœur-de-Lion
+}
+1199.4.6={
+	holder = 204514 #Jean I Sans Terre
+}
+
+1204.1.1={
+	holder=205506 # Philippe II Auguste
+}
+1217.1.1 = {
+	holder = 161414
+}
+1223.7.14={
+	holder = 455402 #Louis VIII le Lion
+}
+1226.11.8={
+	holder = 455404 #Louis IX (saint Louis)
+}
+1270.8.25={
+	holder = 455528 # Philippe III le Hardi
+}
+1285.10.5={
+	holder = 455526 # Philippe IV le Bel
+}
+1314.11.29={
+	holder = 455836 # Louis V le Hutin
+}
+1316.6.5={ 
+	holder= 70137 # Jean Ier le Posthume
+}
+1316.11.19={ #corrected from 1316.6.5
+	holder= 455509 # Philippe V le Long, son of 455526.
+}
+1322.1.3={
+	holder = 455414 # Charles IV le Bel
+}
+
+#House of Valois
+
+1328.2.1={
+	holder=455502 #Jean II
+}

@@ -1,0 +1,119 @@
+431.1.1={
+	holder = 159935 #Dingad ap Tudwal
+}
+481.1.1={
+	holder = 159936 #Senyllt ap Dingad
+}
+501.1.1={
+	holder = 159937 #Neithon ap Senyllt
+}
+549.1.1={
+	holder = 159938 #Rhun ap Neithon
+}
+577.1.1={
+	holder = 159939 #Tudwal ap Rhun
+}
+598.1.1={
+	holder = 159940 #Anllech ap Tudwal
+}
+634.1.1={
+	holder = 159941 #Cynin ap Anllech
+}
+650.1.1={
+	holder = 159942 #Merfyn ap Cynin
+}
+681.1.1={
+	holder = 159943 #Anarawd Gwalchcrwn ap Merfyn
+}
+691.1.1={
+	holder = 159934 #Tudwal ap Anarawd
+}
+720.1.1={
+	holder = 159029 #Sandde ap Algwyn
+}
+730.1.1={
+	holder = 159028 #Elidyr ap Sandde
+}
+#750.1.1={
+#	de_jure_liege="d_gwynedd"
+#}
+800.1.1={
+	holder = 159026 #Gwriad ap Elidyr, King of Manaw
+}
+825.1.1={
+	holder = 159027 #Merfyn ap Gwriad, father of Rhodri Mawr
+}
+#839.1.1={
+#	de_jure_liege="d_western_isles"
+#}
+855.1.1={
+	liege="d_western_isles"
+	holder = 168610
+}
+1066.1.1={
+	holder=131524
+}
+1074.1.1={
+	holder = 131526
+}
+
+1079.1.1={
+	holder = 5788
+}
+1099.1.1={
+	holder = 202511
+}
+1103.1.25={
+	holder = 7395
+}
+1110.1.1={
+	holder = 220023
+}
+1153.1.1={
+	holder = 220021
+}
+1164.1.1={
+	liege=0
+}
+1187.11.23={
+	holder = 220022
+}
+1229.1.1={
+	holder = 220046
+}
+1237.1.1={
+	holder = 7394
+}
+1248.1.1={
+	holder = 7393
+}
+1249.1.1={
+	holder = 7392
+}
+1266.1.1 = {
+	liege="k_scotland"
+	holder = 6902
+}
+1286.3.19={
+	liege="k_england"
+	holder = 454520
+}
+1293.1.1={
+	liege="k_scotland"
+	holder = 230524
+}
+1296.1.1={
+	liege="k_england"
+	holder = 454520
+}
+1307.1.2 = {
+	holder = 454510
+}
+1317.1.1={
+	liege="k_scotland"
+	holder=453501
+}
+1329.6.7={
+	liege="k_england"
+	holder=420021
+}

@@ -1,0 +1,2089 @@
+41600 = {
+	name="Šawur" #Ebu'l-Eswar 
+	# AKA: Abu'l
+	dynasty=1029029
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="sunni"
+	culture="kurdish"
+	trait="intricate_webweaver"
+	father=159163
+	993.1.1={
+		birth="993.1.1"
+	}
+	1039.1.1={
+	add_spouse = 41518
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+}
+
+41601 = {
+	name="Fezl" #Fadl
+	dynasty=1029029
+	martial=4
+	diplomacy=5
+	intrigue=9
+	stewardship=7
+	religion="sunni"
+	culture="kurdish"
+	trait="flamboyant_schemer"
+	father=41600
+	mother=41518
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1073.1.1={
+		death="1073.1.1"
+	}
+}
+
+41602 = {
+	name="Fezl" #Fadl
+	dynasty=1029029
+	martial=3
+	diplomacy=6
+	intrigue=10
+	stewardship=7
+	religion="sunni"
+	culture="kurdish"
+	father=41601
+	1058.1.1={
+		birth="1058.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+41603 = {
+	name="Menûçihr" #Manuchihr
+	dynasty=1029029
+	martial=2
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="kurdish"
+	trait="thrifty_clerk"
+	father=41600
+	mother=41518
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+41604 = {
+	name="Šawur" #Ebû'l-Eswar 
+	# AKA: Abu'l-Asvar Shavur
+	dynasty=1029029
+	martial=3
+	diplomacy=5
+	intrigue=3
+	stewardship=6
+	religion="sunni"
+	culture="kurdish"
+	trait="thrifty_clerk"
+	father=41603
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+}
+
+41605 = {
+	name="Wahsudan"
+	dynasty=7513 # Justanid
+	martial=7
+	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
+	culture="kurdish"
+	father=180752
+	trait="skilled_tactician"
+	835.1.1={
+		birth=yes
+	}
+	859.1.1={
+		add_spouse=180763
+	}
+	867.1.1={
+		# A little something to hold out
+		effect = {
+			spawn_unit = {
+				province = 666 # Gilan
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					light_infantry = { 481 481 }
+					heavy_infantry = { 496 496 }
+					pikemen = { 133 133 }
+					archers = { 174 174 }
+					light_cavalry = { 320 320 }
+					knights = { 19 19 }
+					horse_archers = { 48 48 }
+				}
+				attrition = 0.5
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 666 # Gurgan
+					owner = ROOT
+					#leader = THIS
+					troops = {
+						light_infantry = { 481 481 }
+						heavy_infantry = { 496 496 }
+						pikemen = { 133 133 }
+						archers = { 174 174 }
+						light_cavalry = { 320 320 }
+						knights = { 19 19 }
+						horse_archers = { 48 48 }
+					}
+					attrition = 0.5
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = random
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 27
+				attributes = {
+					martial = 6
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = 666 # Gurgan
+					owner = ROOT
+					#leader = THIS
+					troops = {
+						light_infantry = { 481 481 }
+						heavy_infantry = { 496 496 }
+						pikemen = { 133 133 }
+						archers = { 174 174 }
+						light_cavalry = { 320 320 }
+						knights = { 19 19 }
+						horse_archers = { 48 48 }
+					}
+					attrition = 0.5
+				}
+			}
+		}
+	}
+	905.1.1={
+		death=yes
+	}
+}
+
+93521 = {
+	name="Mehmûd" #Mahmud
+	dynasty=1029029
+	religion="sunni"
+	culture="kurdish"
+	father=41604
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1131.1.1={
+		death="1131.1.1"
+	}
+}
+
+20722 = {
+	name="Mamlan"
+	dynasty=101868
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="sunni"
+	culture="kurdish"
+	trait="brave"
+	trait="martial_cleric"
+	father=159153
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1071.1.1={
+		death="1071.1.1"
+	}
+}
+
+144057 = {
+	name="Ebu-Memsûr" #Abu-Mamsur
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	father = 20691
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+144058 = {
+	name="Surxap" #Surkhab
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	father = 93198
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+93196 = {
+	name="Muhalhil"
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	father=159197
+	980.1.1={
+		birth="980.1.1"
+	}
+	1055.1.1={
+		death="1055.1.1"
+	}
+}
+
+93197 = {
+	name="Badr"
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	father=93196
+	1032.1.1={
+		birth=yes
+	}
+	1102.1.1={
+		death=yes
+	}
+}
+
+93198 = {
+	name="Annaz"
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	father=144057
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1148.1.1={
+		death="1148.1.1"
+	}
+}
+
+3854 = {
+	name="Ebu-Abbas"
+	# AKA: Abu Abbas
+	dynasty=101690
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="kurdish"
+	trait="naive_appeaser"
+	1037.1.1={
+		birth="1037.1.1"
+	}
+	1069.1.1={
+		death="1069.1.1"
+	}
+}
+
+
+93229 = {
+	name="Mehmûd Nîzamedîn"
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=3854
+	1053.1.1={
+		birth="1053.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+93230 = {
+	name="Hezarhesp Mubaraz ad-Din"
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=93229
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+93231 = {
+	name="Hasanuya"
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=93230
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+93232 = {
+	name="Mubaraz"
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=93231
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+93233 = {
+	name="Mihemed" #real name unknown
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=93232
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+
+93234 = {
+	name="Mihemed Muzaffar ad-Din" 
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=93233
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+93235 = {
+	name="Mubaraz Qutb ad-Din" 
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=93234
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+
+93236 = {
+	name="Hasanuya" 
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=93235
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+
+93237 = {
+	name="Ebrahim" 
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=93235
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1266.1.1={
+		death="1266.1.1"
+	}
+}
+
+93238 = {
+	name="Îsmaîl" 
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=93235
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1289.1.1={
+		death="1289.1.1"
+	}
+}
+
+93239 = {
+	name="Nîzamedîn" 
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=93238
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+93240 = {
+	name="Erdešîr Malik" #Ardashir Malik
+	dynasty=101690
+	religion="sunni"
+	culture="kurdish"
+	father=93239
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1355.1.1={
+		death="1355.1.1"
+	}
+}
+
+93199 = {
+	name="Mihemed" #Muhammad
+	dynasty=7333
+	religion="sunni"
+	culture="kurdish"
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+93200 = {
+	name="Ebu-Tehir" #Abu-Tahir
+	dynasty=7333
+	religion="sunni"
+	culture="kurdish"
+	father=93199
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+93201 = {
+	name="Nesreddin Hezarhesp" #Nasr-ad-Din Hazarasp
+	dynasty=7333
+	religion="sunni"
+	culture="kurdish"
+	father=93200
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+93202 = {
+	name="Tekele"
+	dynasty=7333
+	religion="sunni"
+	culture="kurdish"
+	father=93201
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1259.1.1={
+		death="1259.1.1"
+	}
+}
+
+93203 = {
+	name="Elp-Ergun"
+	dynasty=7333
+	religion="sunni"
+	culture="kurdish"
+	father=93202
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1274.1.1={
+		death="1274.1.1"
+	}
+}
+
+93204 = {
+	name="Yusuf Šah"
+	dynasty=7333
+	religion="sunni"
+	culture="kurdish"
+	father=93203
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+
+93205 = {
+	name="Efrasiyab"
+	dynasty=7333
+	religion="sunni"
+	culture="kurdish"
+	father=93204
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+93206 = {
+	name="Nesreddin Ehmed"
+	dynasty=7333
+	religion="sunni"
+	culture="kurdish"
+	father=93205
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+
+93207 = {
+	name="Yusuf Šah"
+	dynasty=7333
+	religion="sunni"
+	culture="kurdish"
+	father=93206
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+93208 = {
+	name="Efrasiyab"
+	dynasty=7333
+	religion="sunni"
+	culture="kurdish"
+	father=93207
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1355.1.1={
+		death="1355.1.1"
+	}
+}
+
+226053 = {
+	name="Eyyub Necmedîn" #Emir of Baalbek
+	# AKA: Ibn Jin'ai Al
+	dynasty=24000
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="sunni"
+	culture="kurdish"
+	trait="tough_soldier"
+	father=32911
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1173.8.9={
+		death="1173.8.9"
+	}
+}
+
+20738 = {
+	name="Nesr Ebûlqasim Nîzamedîn"
+	dynasty=101686
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="shiite"
+	culture="kurdish"
+	father=159147
+	trait="just"
+	trait="scholarly_theologian"
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1065.1.1={
+		religion="sunni"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+}
+
+93419 = {
+	name="Mensûr Nesr-ed-dewle"
+	dynasty=101686
+	religion="sunni"
+	culture="kurdish"
+	father=20738
+	1061.1.1={
+		birth="1061.1.1"
+	}
+	1096.1.1={
+		death="1096.1.1"
+	}
+}
+
+32911 = {
+	name="Šadi" 
+	dynasty=24000
+	religion="sunni"
+	culture="kurdish"
+	father=159156
+	mother=159157
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+32912 = {
+	name="Šîrkûh Esededîn" #Shirkuh Asan-ad-Din
+	dynasty=24000
+	religion="sunni"
+	culture="kurdish"
+	father=32911
+	1109.1.1={
+		birth="1109.1.1"
+	}
+	1169.1.1={
+		death="1169.1.1"
+	}
+}
+
+32913 = {
+	name="Šahenšah Nûredîn" #Baalbek
+	dynasty=24000
+	religion="sunni"
+	culture="kurdish"
+	father=226053
+	1128.1.1={
+		birth="1128.1.1"
+	}
+	1148.1.1={
+		death="1148.1.1"
+	}
+}
+
+20691 = {
+	name="Surxap"
+	dynasty=101688
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="sunni"
+	culture="kurdish"
+	trait="martial_cleric"
+	father=93197
+	1048.1.1={
+		birth="1048.1.1"
+	}
+	1107.1.1={
+		death="1107.1.1"
+	}
+}
+
+159142 = { 
+	name="Dostik"
+	dynasty=1029006
+	religion="shiite"
+	culture="kurdish"
+	910.1.1={
+		birth="910.1.1"
+	}
+	968.1.1={
+		death="968.1.1"
+	}
+}
+159143 = { 
+	name="Baz"
+	dynasty=1029006
+	religion="shiite"
+	culture="kurdish"
+	father=159142
+	938.1.1={
+		birth="938.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+159144 = { 
+	name="Merwan"
+	dynasty=101686
+	religion="shiite"
+	culture="kurdish"
+	father=159142
+	945.1.1={
+		birth="945.1.1"
+	}
+	989.1.1={
+		death="989.1.1"
+	}
+}
+159145 = { 
+	name="Hesen Ebû Elî"
+	dynasty=101686
+	religion="shiite"
+	culture="kurdish"
+	father=159144
+	970.1.1={
+		birth="970.1.1"
+	}
+	997.1.1={
+		death="997.1.1"
+	}
+}
+159146 = { 
+	name="Seîd Ebû Elî Mumehidê Dewle"
+	dynasty=101686
+	religion="shiite"
+	culture="kurdish"
+	father=159144
+	975.1.1={
+		birth="975.1.1"
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+159147 = { 
+	name="Ehmed Ebû Nesr Nesrê Dewle"
+	dynasty=101686
+	religion="shiite"
+	culture="kurdish"
+	father=159144
+	982.1.1={
+		birth="982.1.1"
+	}
+	1061.1.1={
+		death="1061.1.1"
+	}
+}
+159148 = { 
+	name="Hisên"
+	dynasty=101868
+	religion="sunni"
+	culture="kurdish"
+	father=159169
+	850.1.1={
+		birth="850.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+159149 = { 
+	name="Mihemed"
+	dynasty=101868
+	religion="sunni"
+	culture="kurdish"
+	father=159148
+	890.1.1={
+		birth="890.1.1"
+	}
+	955.1.1={
+		death="955.1.1"
+	}
+}
+159150 = { 
+	name="Hisên"
+	dynasty=101868
+	religion="sunni"
+	culture="kurdish"
+	father=159149
+	920.1.1={
+		birth="920.1.1"
+	}
+	988.1.1={
+		death="988.1.1"
+	}
+}
+159151 = { 
+	name="Mamlan"
+	dynasty=101868
+	religion="sunni"
+	culture="kurdish"
+	father=159150
+	950.1.1={
+		birth="950.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+159152 = { 
+	name="Hisên"
+	dynasty=101868
+	religion="sunni"
+	culture="kurdish"
+	father=159151
+	982.1.1={
+		birth="982.1.1"
+	}
+	1019.1.1={
+		death="1019.1.1"
+	}
+}
+159153 = { 
+	name="Vahusdan"
+	dynasty=101868
+	religion="sunni"
+	culture="kurdish"
+	father=159151
+	998.1.1={
+		birth="998.1.1"
+	}
+	1054.1.1={
+		death="1054.1.1"
+	}
+}
+159154 = { 
+	name="Ebrahim"
+	dynasty=101868
+	religion="sunni"
+	culture="kurdish"
+	father=159153
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1081.1.1={
+		death="1081.1.1"
+	}
+}
+159155 = { 
+	name="Ahmadil"
+	dynasty=101868
+	religion="sunni"
+	culture="kurdish"
+	father=159154
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+159156 = { 
+	name="Merwan"
+	dynasty=101868
+	religion="sunni"
+	culture="kurdish"
+	father=159158
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1066.1.1={
+		add_spouse = 159157
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+159157 = { 
+	name="Mara"
+	female=yes
+	dynasty=1029029
+	religion="sunni"
+	culture="kurdish"
+	father=41600
+	mother=41518
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1066.1.1={
+		add_spouse = 159156
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+159158 = { 
+	name="Hisên"
+	dynasty=101868
+	religion="sunni"
+	culture="kurdish"
+	father=159159
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1055.1.1={
+		death="1055.1.1"
+	}
+}
+159159 = { 
+	name="Mihemed"
+	dynasty=101868
+	religion="sunni"
+	culture="kurdish"
+	father=159151
+	999.1.1={
+		birth="999.1.1"
+	}
+	1021.1.1={
+		death="1021.1.1"
+	}
+}
+159160 = { 
+	name="Šedad"
+	dynasty=1029029
+	religion="sunni"
+	culture="kurdish"
+	father=159169
+	870.1.1={
+		birth="870.1.1"
+	}
+	931.1.1={
+		death="931.1.1"
+	}
+}
+159161 = { 
+	name="Mihemed"
+	dynasty=1029029
+	religion="sunni"
+	culture="kurdish"
+	father=159160
+	900.1.1={
+		birth="900.1.1"
+	}
+	971.1.1={
+		death="971.1.1"
+	}
+}
+159162 = { 
+	name="Elî Leškerî"
+	dynasty=1029029
+	religion="sunni"
+	culture="kurdish"
+	father=159161
+	925.1.1={
+		birth="925.1.1"
+	}
+	971.1.1={
+		death="971.1.1"
+	}
+}
+159163 = { 
+	name="Fezl"
+	dynasty=1029029
+	religion="sunni"
+	culture="kurdish"
+	father=159161
+	950.1.1={
+		birth=yes
+	}
+	1031.1.1={
+		death=yes
+	}
+}
+159164 = { 
+	name="Mûsa" #Ebu'l-Feth
+	dynasty=1029029
+	religion="sunni"
+	culture="kurdish"
+	father=159163
+	970.1.1={
+		birth="970.1.1"
+	}
+	1034.1.1={
+		death="1034.1.1"
+	}
+}
+159165 = { 
+	name="Elî Leškerî"
+	dynasty=1029029
+	religion="sunni"
+	culture="kurdish"
+	father=159164
+	990.1.1={
+		birth="990.1.1"
+	}
+	1048.1.1={
+		death="1048.1.1"
+	}
+}
+159166 = { 
+	name="Enûširwan"
+	dynasty=1029029
+	religion="sunni"
+	culture="kurdish"
+	father=159165
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1049.1.1={
+		death="1049.1.1"
+	}
+}
+159167 = { 
+	name="Ešot"
+	dynasty=1029029
+	religion="sunni"
+	culture="kurdish"
+	father=41600
+	mother=41518
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+}
+159168 = { 
+	name="Merzuban"
+	dynasty=1029029
+	religion="sunni"
+	culture="kurdish"
+	father=159161
+	920.1.1={
+		birth="920.1.1"
+	}
+	986.1.1={
+		death="986.1.1"
+	}
+}
+159169 = { 
+	name="Bilal Hecebani"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	820.1.1={
+		birth="820.1.1"
+	}
+	886.1.1={
+		death="886.1.1"
+	}
+}
+159170 = { 
+	name="Mihemed"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159169
+	860.1.1={
+		birth="860.1.1"
+	}
+	943.1.1={
+		death="943.1.1"
+	}
+}
+159171 = { 
+	name="Çakkoya"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159169
+	865.1.1={
+		birth="865.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+159172 = { 
+	name="Cefer"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159171
+	900.1.1={
+		birth="900.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+159173 = { 
+	name="Çako"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159171
+	920.1.1={
+		birth="920.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+159174 = { 
+	name="Musk Ebû-Hija"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159173
+	960.1.1={
+		birth="960.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+159175 = { 
+	name="Rebîb ed-Dewle"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159173
+	965.1.1={
+		birth="965.1.1"
+	}
+	1030.1.1={
+		death="1030.1.1"
+	}
+}
+159176 = { 
+	name="Ebû-Hija"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159175
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+159177 = { 
+	name="Šeref ed-Dîn"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159174
+	990.1.1={
+		birth="990.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+159178 = { 
+	name="Musa"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159173
+	960.1.1={
+		birth="960.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+159179 = { 
+	name="Salar"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159178
+	990.1.1={
+		birth="990.1.1"
+	}
+	1046.1.1={
+		death="1046.1.1"
+	}
+}
+159180 = { 
+	name="Elî Ebûl-Hesên"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159174
+	991.1.1={
+		birth="991.1.1"
+	}
+	1048.1.1={
+		death="1048.1.1"
+	}
+}
+159181 = { 
+	name="Ebû-Elî Hesên"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159174
+	992.1.1={
+		birth="992.1.1"
+	}
+	1063.1.1={
+		death="1063.1.1"
+	}
+}
+159182 = { 
+	name="Ebû-Hija"
+	dynasty=1029007
+	religion="sunni"
+	culture="kurdish"
+	father=159181
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+159196 = { 
+	name="Annaz"
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	930.1.1={
+		birth="930.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+159197 = { 
+	name="Ebûl-Fath Mihemed"
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	father=159196
+	950.1.1={
+		birth="950.1.1"
+	}
+	1011.1.1={
+		death="1011.1.1"
+	}
+}
+159198 = { 
+	name="Hosam-ed-Dewle Ebul-Šawk Faris"
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	father=159197
+	970.1.1={
+		birth="970.1.1"
+	}
+	1046.1.1={
+		death="1046.1.1"
+	}
+}
+
+159199 = { 
+	name="Seyyîdi"
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	father=159198
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1055.1.1={
+		death="1055.1.1"
+	}
+}
+
+159200 = { 
+	name="Faris"
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	father=159199
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+159201 = { 
+	name="Ebûl-Fath Ebûl-Šawk"
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	father=159198
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1042.1.1={
+		death="1042.1.1"
+	}
+}
+159202 = { 
+	name="Mihemed"
+	dynasty=101688
+	religion="sunni"
+	culture="kurdish"
+	father=159201
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+159547 = {
+	name="Vonones" # II
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	2.1.1={
+		birth=yes # probably BC
+	}
+	51.6.1={
+		death=yes
+	}
+}
+159548 = {
+	name="Mehrdad" #Mithridates IV
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159547 # different opinions
+	52.1.1={
+		birth=yes
+	}
+	140.8.29={
+		death=yes
+	}
+}
+159549 = {
+	name="Balaxš" #Vagharsh
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159548
+	100.11.1={
+		birth="100.11.1"
+	}
+	191.1.29={
+		death="191.1.29"
+	}
+}
+159550 = {
+	name="Balaxš" # Vologases V
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159549
+	130.11.1={
+		birth="130.11.1"
+	}
+	208.1.29={
+		death="208.1.29"
+	}
+}
+159551 = {
+	name="Erdewan" #Ardavan
+	dynasty=1029098
+	religion="zoroastrian"
+	culture="kurdish"
+	# father=159547 no source
+	70.11.1={
+		birth="70.11.1"
+	}
+	140.8.29={
+		death="140.8.29"
+	}
+}
+159552 = {
+	name="Karen"
+	dynasty=1029098
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159551
+	90.11.1={
+		birth="90.11.1"
+	}
+	140.8.29={
+		death="140.8.29"
+	}
+}
+159553 = {
+	name="Erdewan"
+	dynasty=1029098
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159552
+	110.11.1={
+		birth="110.11.1"
+	}
+	170.8.29={
+		death="170.8.29"
+	}
+}
+159554 = {
+	name="Perozamat" 
+	dynasty=1029098
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159553
+	130.11.1={
+		birth="130.11.1"
+	}
+	190.8.29={
+		death="190.8.29"
+	}
+}
+159555 = {
+	name="Erdewan" 
+	dynasty=1029098
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159554
+	160.11.1={
+		birth="160.11.1"
+	}
+	210.8.29={
+		death="210.8.29"
+	}
+}
+159556 = {
+	name="Vehsachan" 
+	dynasty=1029098
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159555
+	190.11.1={
+		birth="190.11.1"
+	}
+	245.8.29={
+		death="245.8.29"
+	}
+}
+159557 = {
+	name="Perozamat" 
+	dynasty=1029098
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159556
+	220.11.1={
+		birth="220.11.1"
+	}
+	290.8.29={
+		death="290.8.29"
+	}
+}
+
+180750 = {
+	name="Justan"
+	# Justan I of Gilan
+	dynasty=7513
+	religion="zoroastrian"
+	culture="kurdish"
+	745.1.1={
+		birth="745.1.1"
+	}
+	805.1.1={
+		death="805.1.1"
+	}
+}
+180751 = {
+	name="Merzuban"
+	# ruler of Gilan
+	dynasty=7513
+	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
+	culture="kurdish"
+	father=180750
+	775.1.1={
+		birth="775.1.1"
+	}
+	835.1.1={
+		death="835.1.1"
+	}
+}
+180752 = {
+	name="Justan"
+	# Justan II of Gilan
+	dynasty=7513
+	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
+	culture="kurdish"
+	father=180751
+	805.1.1={
+		birth="805.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+180753 = {
+	name="Zerya"	# fictional
+	# wife of Musafir Sallarid
+	female=yes
+	dynasty=7513
+	religion="zoroastrian"
+	culture="kurdish"
+	father=180752
+	839.1.1={
+		birth="839.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}
+180755 = {
+	name="Justan"
+	# Justan III of Gilan
+	dynasty=7513
+	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
+	culture="kurdish"
+	father=41605
+	mother=180763
+	860.1.1={
+		birth="860.1.1"
+	}
+	916.1.1={
+		death="916.1.1"
+	}
+}
+180756 = {
+	name="Nazenîn"
+	# wife of Muhammad ibn Musafir
+	female=yes
+	dynasty=7513
+	religion="shiite"
+	culture="kurdish"
+	father=180755
+	880.1.1={
+		birth="880.1.1"
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+180757 = {
+	name="Ali"
+	# Abbasid governor of Rayy 
+	dynasty=7513
+	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
+	culture="kurdish"
+	father=41605
+	mother=180763
+	862.1.1={
+		birth="862.1.1"
+	}
+	916.1.1={
+		trait="kinslayer"
+	}
+	919.1.1={
+		death="919.1.1"
+	}
+}
+180758 = {
+	name="Khosrow Firuz"
+	# ruler of Gilan
+	dynasty=7513
+	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
+	culture="kurdish"
+	father=41605
+	mother=180763
+	864.1.1={
+		birth="864.1.1"
+	}
+	921.1.1={
+		death="921.1.1"
+	}
+}
+180759 = {
+	name="Mahdi"
+	# ruler of Gilan
+	dynasty=7513
+	religion="shiite"
+	culture="kurdish"
+	father=180758
+	886.1.1={
+		birth="886.1.1"
+	}
+	928.1.1={
+		death="928.1.1"
+	}
+}
+180760 = {
+	name="Justan"
+	# Justan IV
+	dynasty=7513
+	religion="shiite"
+	culture="kurdish"
+	father=180759
+	917.1.1={
+		birth="917.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+180761 = {
+	name="Manadhar"
+	dynasty=7513
+	religion="shiite"
+	culture="kurdish"
+	father=180760
+	938.1.1={
+		birth="938.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+180762 = {
+	name="Khosrow"
+	dynasty=7513
+	religion="shiite"
+	culture="kurdish"
+	father=180761
+	960.1.1={
+		birth="960.1.1"
+	}
+	1004.1.1={
+		death="1004.1.1"
+	}
+}
+180763 = {
+	name="Rojhelat"	# fictional
+	# wife of Wahsudan of Gilan
+	female=yes
+	religion="zoroastrian"
+	culture="kurdish"
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+180764 = {
+	name="Musafir"
+	dynasty=1042062
+	religion="zoroastrian"
+	culture="kurdish"
+	841.1.1={
+		birth="841.1.1"
+	}
+	865.1.1={
+		add_spouse=180753
+	}
+	903.1.1={
+		death="903.1.1"
+	}
+}
+180765 = {
+	name="Mihemed"
+	dynasty=1042062
+	religion="shiite"
+	culture="kurdish"
+	father=180764
+	mother=180753
+	872.1.1={
+		birth="872.1.1"
+	}
+	898.1.1={
+		add_spouse=180756
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+180766 = {
+	name="Merzuban"
+	# Sallarid ruler at Aradbil
+	dynasty=1042062
+	religion="shiite"
+	culture="kurdish"
+	father=180765
+	mother=180756
+	899.1.1={
+		birth="899.1.1"
+	}
+	957.1.1={
+		death="957.1.1"
+	}
+}
+180767 = {
+	name="Wahsudan"
+	# governor in Tarum
+	dynasty=1042062
+	religion="shiite"
+	culture="kurdish"
+	father=180765
+	mother=180756
+	901.1.1={
+		birth="901.1.1"
+	}
+	966.1.1={
+		death="966.1.1"
+	}
+}
+
+146051 = {
+	name="Khuraym"
+	dynasty=1022363 # Al-Murri or Murrid
+	religion="sunni"
+	culture="kurdish"
+
+	700.1.1={
+		birth=yes
+	}
+	759.1.1={
+		death=yes
+	}
+}
+
+146052 = {
+	name="Umara"
+	dynasty=1022363
+	religion="sunni"
+	culture="kurdish"
+	father=146051
+	720.1.1={
+		birth=yes
+	}
+	774.1.1={
+		death=yes
+	}
+}
+
+146053 = {
+	name="Uthman"
+	dynasty=1022363
+	religion="sunni"
+	culture="kurdish"
+	father=146052
+	742.1.1={
+		birth=yes
+	}
+	806.1.1={
+		death=yes
+	}
+}
+188726 = {
+	name="Fezl" # fictitious holder of Kermanshah
+	dynasty=1042159
+	religion="sunni"
+	culture="kurdish"
+	738.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+188656 = {
+	name="Ferîd" # fictitious holder of Kermanshah
+	dynasty=1042128 # Kermanibid
+	religion="sunni"
+	culture="kurdish"
+	748.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+
+188657 = {
+	name="Mistefa" # fictitious holder of Kurdistan
+	dynasty=1042129 
+	religion="sunni"
+	culture="kurdish"
+	745.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188658 = {
+	name="Revend" # fictitious holder of Oromeih
+	dynasty=1042130 
+	religion="sunni"
+	culture="kurdish"
+	740.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188659 = {
+	name="Pîroz" # fictitious holder of Kirkuk
+	dynasty=1042131 
+	religion="sunni"
+	culture="kurdish"
+	731.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+166942 = {
+   name="Absh" #wife of Hyaxemet, son of Hulagu
+   female=yes
+   dynasty=7333
+   religion="sunni"
+   culture="kurdish"
+   father=93203
+   1238.1.1={
+     birth=yes
+   }
+   1287.1.1={
+     death=yes
+   }
+}
+
+214051 = {
+	name="Pacorus" # II
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159547
+	35.1.1={
+		birth=yes
+	}
+	105.1.1={
+		death=yes
+	}
+}
+
+214052 = {
+	name="Axidares"
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=214051
+	60.1.1={
+		birth=yes
+	}
+	113.1.1={
+		death=yes
+	}
+}
+
+214053 = {
+	name="Parthamasiris"
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=214051
+	65.1.1={
+		birth=yes
+	}
+	114.1.1={
+		death=yes
+	}
+}
+
+214054 = {
+	name="Meredates"
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=214051
+	70.1.1={
+		birth=yes
+	}
+	151.1.1={
+		death=yes
+	}
+}
+
+214055 = {
+	name="Balaxš" # Vologases I
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159547
+	20.1.1={
+		birth=yes
+	}
+	78.1.1={
+		death=yes
+	}
+}
+
+214056 = {
+	name="Vardanes" # II
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=214055
+	40.1.1={
+		birth=yes
+	}
+	65.1.1={
+		death=yes
+	}
+}
+
+214057 = {
+	name="Balaxš" # Vologases II
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=214055
+	39.1.1={
+		birth=yes
+	}
+	80.1.1={
+		death=yes
+	}
+}
+
+214058 = {
+	name="Osroes" # I
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159547
+	45.1.1={
+		birth=yes
+	}
+	130.1.1={
+		death=yes
+	}
+}
+
+214059 = {
+	name="Tiridates" # I
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159547
+	32.1.1={
+		birth=yes
+	}
+	88.1.1={
+		death=yes
+	}
+}
+
+214060 = {
+	name="Balaxš" # Vologases III
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=214057
+	80.1.1={
+		birth=yes
+	}
+	148.1.1={
+		death=yes
+	}
+}
+
+214061 = {
+	name="Xusrew" # Khosrov I
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159550
+	165.1.1={
+		birth=yes
+	}
+	217.1.1={
+		death=yes
+	}
+}
+
+159579 = { 
+	name="Balaxš" # Vologases VI
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159550
+	180.11.1={
+		birth=yes
+	}
+	230.8.29={
+		death=yes
+	}
+}
+
+214062 = {
+	name="Erdewan" #Artabanus V
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=159550
+	175.1.1={
+		birth=yes
+	}
+	224.4.28={
+		death=yes
+	}
+}
+
+214063 = {
+	name="Sura"
+	female=yes
+	dynasty=100685
+	religion="zoroastrian"
+	culture="kurdish"
+	father=214062
+	213.1.1={
+		birth=yes
+	}
+	270.1.1={
+		death=yes
+	}
+}

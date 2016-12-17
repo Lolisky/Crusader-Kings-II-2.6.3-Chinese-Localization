@@ -1,0 +1,320 @@
+41707 = {
+	name="ÒÁÈø¿Ë" #Ishaq
+	dynasty=11000
+	martial=5
+	diplomacy=7
+	intrigue=2
+	stewardship=5
+	religion="jewish"
+	culture="sephardi"
+	trait="wroth"
+	trait="honest"
+	trait="naive_appeaser"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+41709 = {
+	name="°ÍÂ³¿Ë" #Barak
+	dynasty=11001
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="jewish"
+	culture="sephardi"
+	trait="thrifty_clerk"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1065.1.2={
+	add_spouse=41710
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+41711 = {
+	name="ÓÅËØ¸£" #Yusuf
+	dynasty=11001
+	martial=4
+	diplomacy=9
+	intrigue=4
+	stewardship=4
+	religion="jewish"
+	culture="sephardi"
+	trait="diligent"
+	trait="patient"
+	trait="thrifty_clerk"
+	1061.1.1={
+		birth="1061.1.1"
+	}
+	1065.1.2={
+	add_spouse=41712
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+41713 = {
+	name="ÑÇµ±"
+	dynasty=11001
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="jewish"
+	culture="sephardi"
+	trait="thrifty_clerk"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1065.1.2={
+	add_spouse=41714
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+41715 = {
+	name="ÑÇ²®À­º±" #Ibrahim
+	dynasty=11002
+	martial=3
+	diplomacy=10
+	intrigue=7
+	stewardship=4
+	religion="jewish"
+	culture="sephardi"
+	trait="patient"
+	trait="kind"
+	trait="just"
+	trait="charismatic_negotiator"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1037.1.1={
+		add_spouse=41716
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+41714 = {
+	name="É³Î¬¿¨"
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="jewish"
+	culture="sephardi"
+	trait="thrifty_clerk"
+	1021.1.1 = {
+		birth="1021.1.1"
+	}
+	1071.1.1 = {
+		death="1071.1.1"
+	}
+}
+
+41716 = {
+	name="´÷ÀûÑÇ"
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="jewish"
+	culture="sephardi"
+	trait="thrifty_clerk"
+	1021.1.1 = {
+		birth="1021.1.1"
+	}
+	1071.1.1 = {
+		death="1071.1.1"
+	}
+}
+
+41717 = {
+	name="ÈûÇÇÌØ"
+	dynasty=11003
+	martial=3
+	diplomacy=10
+	intrigue=7
+	stewardship=4
+	religion="jewish"
+	culture="sephardi"
+	trait="patient"
+	trait="kind"
+	trait="just"
+	trait="thrifty_clerk"
+	1031.1.1 = {
+		birth="1031.1.1"
+	}
+	1081.1.1 = {
+		death="1081.1.1"
+	}
+}
+
+3220 = {
+	name="Ê²ÄÂ°£¶û"
+	dynasty=101606
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="jewish"
+	culture="sephardi"
+	trait="fortune_builder"
+	trait="kind"
+	trait="mastermind_theologian"
+	trait="humble"
+	trait="grey_eminence"
+	993.1.2={
+		birth="993.1.2"
+	}
+	1055.1.2={
+		death="1055.1.2"
+	}
+}
+
+3221 = {
+	name="ÓÅËØ¸£"
+	dynasty=101606
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="jewish"
+	culture="sephardi"
+	trait="proud"
+	trait="kind"
+	trait="thrifty_clerk"
+	trait="cynical"
+	trait="flamboyant_schemer"
+	father=3220
+	1025.1.2={
+		birth="1025.1.2"
+	}
+	1066.1.31={
+		death="1066.1.31"
+	}
+}
+
+
+41708 = {
+	name="°¢µÏÄÈ"
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="jewish"
+	culture="sephardi"
+	trait="thrifty_clerk"
+	1051.1.1={
+		birth="1051.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+41710 = {
+	name="°¬¹ş·ğ"
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="jewish"
+	culture="sephardi"
+	trait="thrifty_clerk"
+	1051.1.1={
+		birth="1051.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+90131 = {
+	name="°¢²¼ - ·¨µÂÀÕ"
+	# AKA: Abu al
+	dynasty=20076
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="jewish"
+	culture="sephardi"
+	trait="cynical"
+	trait="grey_eminence"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}
+
+90132 = {
+	name="ÒÁÈø¿Ë"
+	dynasty=20077
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="jewish"
+	culture="sephardi"
+	trait="underhanded_rogue"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}
+
+90133 = {
+	name="ÓÅËØ¸£"
+	dynasty=20078
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="jewish"
+	culture="sephardi"
+	trait="flamboyant_schemer"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}
+
+90134 = {
+	name="ÑÇ²®À­º±" 
+	dynasty=20078
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="jewish"
+	culture="sephardi"
+	trait="fortune_builder"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}

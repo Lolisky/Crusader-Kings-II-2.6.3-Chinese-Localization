@@ -1,0 +1,2295 @@
+#161000 - 161999
+#1030000-1030999
+ 
+
+161000 = {
+	name="°ÔÎ÷" #Bassi
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=184019
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1062.1.1={
+		death="1062.1.1"
+	}
+}
+
+161001 = {
+	name="¶¬¿¨ ÃÅÄş" #Tunka Menin
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=161000
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1068.1.1={
+		death="1068.1.1"
+	}
+}
+
+161002 = {
+	name="¸Ô±ÈÄÚ µÙ°¢À×Ë÷" #Kambine Diaresso
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=161001
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+161003 = {
+	name="ËÕÀ³Âü" #Sulayman
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=161002
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+161004 = {
+	name="°ãÅ« ²¼²¼" #Bannu Bubu
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=161002
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+161005 = {
+	name="Âé½« ÍßÙ¤¶¼" #Majan Wagadu
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=161004
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+161006 = {
+	name="¸ÂÄÚ" #Gane
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=161004
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+161007 = {
+	name="ÄÂÈø" #Musa
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=161004
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+161008 = {
+	name="±ÈÀ­Âí" #Birama
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=161007
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+161009 = {
+	name="µÏ°¢À­" #Diara
+	dynasty=1030001
+	religion="sunni"
+	culture="manden"
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+161010 = {
+	name="ËÕÃ¯Âå" #Soumaoro
+	dynasty=1030001
+	religion="sunni"
+	culture="manden"
+	father=161009
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+
+161011 = {
+	name="À­Ï£À­Í¼ÀÕ ¿¨À­±È" #Lahilatoul Kalabi
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+161012 = {
+	name="¿¨À­±È ±½°Í" #Kalabi Bomba
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161011
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+161013 = {
+	name="ÂíÂíµÏ ¿¨Äá" #Mamadi Kani
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161012
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+161014 = {
+	name="°ÍÂíÀï Ëş¸êÅµ¸ß¿ÆÁÖ" #Bamari Tagnogokelin
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161013
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+161015 = {
+	name="Ä·°ÍÀï ÄÎÄÚ" #M'Bali Nene
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161014
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+161016 = {
+	name="±´Âå" #Bello
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161015
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+161017 = {
+	name="±´Âå °Í¿×" #Bello Bakon
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161016
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+161018 = {
+	name="Âêº± ¿× ·¨Ëş" #Maghan Kon Fatta
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161015
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1176.1.1={
+		add_spouse=161019
+	}
+	1206.1.1={
+		add_spouse=161021
+	}
+	1211.1.1={
+		add_spouse=161024
+	}
+	1218.1.1={
+		death="1218.1.1"
+	}
+}
+
+161019 = {
+	name="ÈøËÕÂê" #Sassouma
+	female=yes
+	dynasty=1030003
+	religion="sunni"
+	culture="manden"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1218.1.1={
+		death="1218.1.1"
+	}
+}
+
+161020 = {
+	name="µ¤¿¨À¼ Í¼Âü" #Dankaran Touman
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	trait="cruel"
+	father=161018
+	mother=161019
+	1177.1.1={
+		birth="1177.1.1"
+	}
+	
+	1219.1.1={
+		death="1219.1.1"
+	}
+}
+
+161021 = {
+	name="Ë÷¸êÂ¡" #Sogolon
+	female=yes
+	dynasty=1030004
+	religion="sunni"
+	culture="manden"
+	trait="hunchback"
+	trait="ugly"
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+161022 = {
+	name="ÂíÀï-¼ÖËş" #Mari-Djata
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	trait="clubfooted"
+	trait="brave"
+	trait="skilled_tactician"
+	father=161018
+	mother=161021
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+161023 = {
+	name="ËÕÂí°Í" #Soumaba
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=161008
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+161024 = {
+	name="ÄÇÂü¼Ñ"  #Namandj¨¦
+	female=yes
+	religion="sunni"
+	culture="manden"
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1245.1.1={
+		death="1245.1.1"
+	}
+}
+
+
+161025 = {
+	name="°¢²¼°Í¿¨Àï" #Abubakari
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161018
+	mother=161024
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+161026 = {
+	name="ÍßÀï" #Ouali
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161022
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+161027 = {
+	name="ÍßµÏ" #Ouati
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	trait="legit_bastard" #adopted son
+	father=161022
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1274.1.1={
+		death="1274.1.1"
+	}
+}
+
+161028 = {
+	name="¹şÀï·¢" #Khalifa
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	trait="legit_bastard" #adopted son
+	father=161022
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+
+161029 = {
+	name="É³¹ÅÀ­" #Sakoura
+	dynasty=1030005
+	religion="sunni"
+	culture="manden"
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+161030 = {
+	name="çæçç¿²" #Kolonkan
+	female=yes
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161018
+	mother=161021
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+
+161031 = {
+	name="¸ß" #Gao
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	mother=161030
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1305.1.1={
+		death="1305.1.1"
+	}
+}
+
+161032 = {
+	name="Âí¹şÃ¯µÂ" #Mahamoud
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161031
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+161033 = {
+	name="·¨¸Â-À­Ò®" #Faga-Laye
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161025
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+161034 = {
+	name="°¢²¼°Í¿¨Àï" #Abubakari
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161033
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+
+161035 = {
+	name="ÄÂÈø" #Musa
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161033
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	
+	1337.1.1={
+		death="1337.1.1"
+	}
+}
+
+161036 = {
+	name="Âêº±" #Maghan
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161035
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+
+161037 = {
+	name="ËÕÀ³Âü" #Sulayman
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161033
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+161038 = {
+	name="¿¨Èø" #Kassa
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161037
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+
+161039 = {
+	name="ÂíÀï-¼ÖËş" #Mari-Djata
+	dynasty=1030002
+	religion="sunni"
+	culture="manden"
+	father=161036
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	
+	1374.1.1={
+		death="1374.1.1"
+	}
+}
+
+161040 = {
+	name="°¢À³Âü" #Alayaman
+	dynasty=1030006
+	religion="west_african_pagan"
+	culture="manden"
+	700.1.1={
+		birth="700.1.1"
+	}
+	
+	750.1.1={
+		death="750.1.1"
+	}
+}
+
+161041 = {
+	name="Ôú¿ÆÒÇ" #Zakoi
+	dynasty=1030006
+	religion="west_african_pagan"
+	culture="manden"
+	father=161040
+	720.1.1={
+		birth="720.1.1"
+	}
+	
+	770.1.1={
+		death="770.1.1"
+	}
+}
+
+161042 = {
+	name="Ëş¿ÆÒÇ" #Takoi
+	dynasty=1030006
+	religion="west_african_pagan"
+	culture="manden"
+	father=161041
+	740.1.1={
+		birth="740.1.1"
+	}
+	
+	790.1.1={
+		death="790.1.1"
+	}
+}
+
+161043 = {
+	name="°¢¿ÆÒÇ" #Akoi
+	dynasty=1030006
+	religion="west_african_pagan"
+	culture="manden"
+	father=161042
+	760.1.1={
+		birth="760.1.1"
+	}
+	
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+161044 = {
+	name="Çü" #K¨¹
+	dynasty=1030006
+	religion=west_african_pagan
+	culture=manden
+	father=161043
+	780.1.1={
+		birth="780.1.1"
+	}
+	
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+161045 = {
+	name="°¢Àï-·ÑÒÁ" #Ali-Fay
+	dynasty=1030006
+	religion=west_african_pagan
+	culture=manden
+	father=161044
+	800.1.1={
+		birth="800.1.1"
+	}
+	
+	850.1.1={
+		death="850.1.1"
+	}
+}
+
+161046 = {
+	name="±ÌÓğ ¿âÄªÒÁ" #Biyu Kumoy
+	dynasty=1030006
+	religion=west_african_pagan
+	culture=manden
+	father=161045
+	820.1.1={
+		birth="820.1.1"
+	}
+	
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+161047 = {
+	name="Ôú ¿âÂŞÒÁ" #Za Kuroy
+	dynasty=1030006
+	religion=west_african_pagan
+	culture=manden
+	father=161046
+	840.1.1={
+		birth="840.1.1"
+	}
+	
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+161048 = {
+	name="ÑÇÂí ¿¨À­Î¤" #Yama Karaway
+	dynasty=1030006
+	religion=west_african_pagan
+	culture="manden"
+	father=161047
+	860.1.1={
+		birth="860.1.1"
+	}
+	
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+161049 = {
+	name="ÑÇÂí" #Yama
+	dynasty=1030006
+	religion=west_african_pagan
+	culture="manden"
+	father=161048
+	880.1.1={
+		birth="880.1.1"
+	}
+	
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+161050 = {
+	name="ÑÇÂí µ¤¿¨ ¿¨°Í¶òÎÚ" #Yama Danka Kiba'u
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161049
+	900.1.1={
+		birth="900.1.1"
+	}
+	
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+161051 = {
+	name="¿â¿âÀ­ÒÀ" #Kukuray
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161050
+	920.1.1={
+		birth="920.1.1"
+	}
+	
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+161052 = {
+	name="½ğ½ò" #Kinkin
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161051
+	940.1.1={
+		birth="940.1.1"
+	}
+	
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+161053 = {
+	name="¿âËùÒÁ ÄÂË¹ÁÖ µ¤Ä·" #Kusoy Muslim Dam
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161052
+	960.1.1={
+		birth="960.1.1"
+	}
+	
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+161054 = {
+	name="ºº ¿â×È Íò¿â µ¤Ä·" #Han Kuz Wanku Dam
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161053
+	980.1.1={
+		birth="980.1.1"
+	}
+	
+	1030.1.1={
+		death="1030.1.1"
+	}
+}
+
+161055 = {
+	name="±ÌÓğ »ù »ùÂê" #Biyu Ki Kima
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161054
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+161056 = {
+	name="ÄşËşÉ£ÄÉÒÁ" #Nintasanay
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161055
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+161057 = {
+	name="±ÌÓğ ¿­ÄÉ ½ô°Í" #Biyu Kayna Kinba
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161056
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+161058 = {
+	name="¿­ÄÉ É½ÔÆ²¼" #Kayna Shanyunbu
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161057
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+161059 = {
+	name="µÙ²¼" #Tib
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161058
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+
+161060 = {
+	name="ÑÅóºµû" #Yama Däd
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161058
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+161061 = {
+	name="·Ñ´ï×æ" #Fädazu
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161060
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+161062 = {
+	name="°¢Àï ¿âÂ³" #Ali Kuru
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161061
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+161063 = {
+	name="±È¶û ¸£Â»¹È" #Bir Fuluku
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161062
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+161064 = {
+	name="ÑÇÎ÷²®ÒÁ" #Yasiboy
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161063
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+161065 = {
+	name="¶ÅÂ³" #Düru
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161064
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+161066 = {
+	name="ÔŞ¿â °×Å¬" #Zenku Bäru
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161065
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+161067 = {
+	name="±ØÎ÷ °×Å¬" #Bisi Bäru
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161065
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	
+	1265.1.1={
+		death="1265.1.1"
+	}
+}
+
+161068 = {
+	name="°Í´÷" #Bad?
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161066
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+161069 = {
+	name="±ØÎ÷ °ÍÂå ±´¶û" #Bisi Baro Ber
+	dynasty=1030006
+	religion="sunni"
+	culture="manden"
+	father=161066
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+
+161070 = {
+	name="°¢Àï ¹ÅÁú" #Ali Kolon
+	dynasty=1030007
+	religion="sunni"
+	culture="manden"
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+161071 = {
+	name="ÈøÀÕÂü ÄÇÀï" #Salman Nari
+	dynasty=1030007
+	religion="sunni"
+	culture="manden"
+	father=161070
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+161072 = {
+	name="Ò×²·À­ĞÀ ¿¨°ÍÔ¼" #Ibrahim Kabayo
+	dynasty=1030007
+	religion="sunni"
+	culture="manden"
+	father=161070
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+161073 = {
+	name="°ÂË¹Âü »ù·ğ ¿¦ÄÉ·¨" #Uthman Gifo Kanafa
+	dynasty=1030007
+	religion="sunni"
+	culture="manden"
+	father=161072
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+
+161074 = {
+	name="°İ¶ú ¿­ÄÉ °²¿¨±Ì" #Bär Kayna Ankabi
+	dynasty=1030007
+	religion="sunni"
+	culture="manden"
+	father=161073
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+161075 = {
+	name="ÄÂÈø" #Musa
+	dynasty=1030007
+	religion="sunni"
+	culture="manden"
+	father=161074
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+
+161076 = {
+	name="¿¨°ÍÔ¼" #Kabayo
+	#placeholder
+	dynasty=1030009
+	religion="sunni"
+	culture="manden"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161077 = {
+	name="ÆëÉª" #Cisse
+	#placeholder
+	dynasty=1030009
+	religion="sunni"
+	culture="manden"
+	father=161076
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+161078 = {
+	name="µÇ°Í" #Demba
+	#placeholder
+	dynasty=1030009
+	religion="sunni"
+	culture="manden"
+	father=161077
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+161079 = {
+	name="´ïÎÚµÂ" #Daoud
+	#placeholder
+	dynasty=1030009
+	religion="sunni"
+	culture="manden"
+	father=161078
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+161080 = {
+	name="ÒÁË¹¹ş¸ñ" #Ishaq
+	#placeholder
+	dynasty=1030009
+	religion="sunni"
+	culture="manden"
+	father=161079
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+161081 = {
+	name="À×ÒÁ¼Ö" #Reidja
+	#placeholder
+	dynasty=1030009
+	religion="sunni"
+	culture="manden"
+	father=161080
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+161082 = {
+	name="É£´ï»ù" #Sandaki
+	#placeholder
+	dynasty=1030009
+	religion="sunni"
+	culture="manden"
+	father=161081
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+161083 = {
+	name="°Í´ï" #Bada
+	#placeholder
+	dynasty=1030009
+	religion="sunni"
+	culture="manden"
+	father=161082
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+161084 = {
+	name="±ÈÀ­Âí" #Birama
+	#placeholder
+	dynasty=1030009
+	religion="sunni"
+	culture="manden"
+	father=161083
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+
+
+161085 = {
+	name="¿­ÄÉ" #Kayna
+	#placeholder
+	dynasty=1030010
+	religion="sunni"
+	culture="manden"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161086 = {
+	name="°î¼Ó" #Bonga
+	#placeholder
+	dynasty=1030010
+	religion="sunni"
+	culture="manden"
+	father=161085
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+161087 = {
+	name="ÂíÕ±" #Majan
+	#placeholder
+	dynasty=1030010
+	religion="sunni"
+	culture="manden"
+	father=161086
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+161088 = {
+	name="ÂíÂíµÏ" #Mamadi
+	#placeholder
+	dynasty=1030010
+	religion="sunni"
+	culture="manden"
+	father=161087
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+161089 = {
+	name="ÄÂÈø" #Musa
+	#placeholder
+	dynasty=1030010
+	religion="sunni"
+	culture="manden"
+	father=161088
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+161090 = {
+	name="µÏÑÇÀ­" #Diara
+	#placeholder
+	dynasty=1030010
+	religion="sunni"
+	culture="manden"
+	father=161089
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+161091 = {
+	name="ËÕÀ³Âü" #Sulayman
+	#placeholder
+	dynasty=1030010
+	religion="sunni"
+	culture="manden"
+	father=161090
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+161092 = {
+	name="°¢À³Âü" #Alayaman
+	#placeholder
+	dynasty=1030010
+	religion="sunni"
+	culture="manden"
+	father=161091
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+161093 = {
+	name="±ÌÓğ" #Biyu
+	#placeholder
+	dynasty=1030010
+	religion="sunni"
+	culture="manden"
+	father=161092
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+
+
+161094 = {
+	name="¸£Â»¹È" #Fuluku
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="manden"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161095 = {
+	name="ÂíÂíµÏ" #Mamadi
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="manden"
+	father=161094
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+161096 = {
+	name="ÂíÄÂµÂ" #Mamoudou
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="manden"
+	father=161095
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+161097 = {
+	name="ÄşËşÈøÄÍ" #Nintasanay
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="manden"
+	father=161096
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+161098 = {
+	name="°¢Àï" #Ali
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="manden"
+	father=161097
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+161099 = {
+	name="ÈøÀÕÂü" #Salman
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="manden"
+	father=161098
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+161100 = {
+	name="¿¨À­±È" #Kalabi
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="manden"
+	father=161099
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+161101 = {
+	name="µ¤¿¨À¼" #Dankaran
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="manden"
+	father=161100
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+161102 = {
+	name="°àÅ¬" #Bannu
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="manden"
+	father=161101
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+
+
+161103 = {
+	name="¿¨Èø" #Kassa
+	#placeholder
+	dynasty=1030012
+	religion="sunni"
+	culture="manden"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161104 = {
+	name="Ëş¿ÆÒÇ" #Takoi
+	#placeholder
+	dynasty=1030012
+	religion="sunni"
+	culture="manden"
+	father=161103
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+161105 = {
+	name="¿¦ÄÉ·¨" #Kanafa
+	#placeholder
+	dynasty=1030012
+	religion="sunni"
+	culture="manden"
+	father=161104
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+161106 = {
+	name="·¨Ëş" #Fatta
+	#placeholder
+	dynasty=1030012
+	religion="sunni"
+	culture="manden"
+	father=161105
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+161107 = {
+	name="ÍßÀï" #Ouali
+	#placeholder
+	dynasty=1030012
+	religion="sunni"
+	culture="manden"
+	father=161106
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+161108 = {
+	name="·Ñ´ï×æ" #Fädazu
+	#placeholder
+	dynasty=1030012
+	religion="sunni"
+	culture="manden"
+	father=161107
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+161109 = {
+	name="¿¨ÑÇ" #Kaya
+	#placeholder
+	dynasty=1030012
+	religion="sunni"
+	culture="manden"
+	father=161108
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+161110 = {
+	name="À­Ï£ÀÕÍ¼ÀÕ" #Lahiltoul
+	#placeholder
+	dynasty=1030012
+	religion="sunni"
+	culture="manden"
+	father=161109
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+161111 = {
+	name="°¢¿ÆÒÇ" #Akoi
+	#placeholder
+	dynasty=1030012
+	religion="sunni"
+	culture="manden"
+	father=161110
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+161131 = {
+	name="°Í¸ß´ï" #Bagauda
+	dynasty=1030017
+	religion="west_african_pagan"
+	culture="manden"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	
+	1063.1.1={
+		death="1063.1.1"
+	}
+}
+
+161132 = {
+	name="ÍßÀïÎ÷" #Warisi
+	dynasty=1030017
+	religion="west_african_pagan"
+	culture="manden"
+	father=161131
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+161133 = {
+	name="Ù¤½ÜÂíËÕ" #Gajemasu
+	dynasty=1030017
+	religion="west_african_pagan"
+	culture="manden"
+	father=161132
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	
+	1134.1.1={
+		death="1134.1.1"
+	}
+}
+
+161134 = {
+	name="ÄÉÍßËş" #Nawata
+	dynasty=1030017
+	religion="west_african_pagan"
+	culture="manden"
+	father=161133
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+
+161135 = {
+	name="ÓÈÈø" #Yusa
+	dynasty=1030017
+	religion="west_african_pagan"
+	culture="manden"
+	father=161134
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	
+	1194.1.1={
+		death="1194.1.1"
+	}
+}
+
+161136 = {
+	name="ÄÉ¹Å¼ª" #Naguji
+	dynasty=1030017
+	religion="west_african_pagan"
+	culture="manden"
+	father=161135
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	
+	1247.1.1={
+		death="1247.1.1"
+	}
+}
+
+161137 = {
+	name="¹Å¸ñÍß" #Gugwa
+	dynasty=1030017
+	religion="west_african_pagan"
+	culture="manden"
+	father=161136
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+161138 = {
+	name="Éá¿¨ÀÍ" #Shekarau
+	dynasty=1030017
+	religion="west_african_pagan"
+	culture="manden"
+	father=161137
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+
+161139 = {
+	name="àêÃ×ÑÇ" #Tsamiya
+	dynasty=1030017
+	religion="west_african_pagan"
+	culture="manden"
+	father=161138
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	
+	1343.1.1={
+		death="1343.1.1"
+	}
+}
+
+161140 = {
+	name="°ÂË¹Âü ÔúÄ¾¸ÁÍß" #Usman Zamnagawa
+	dynasty=1030017
+	religion="sunni"
+	culture="manden"
+	father=161139
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	
+	1349.1.1={
+		death="1349.1.1"
+	}
+}
+
+161141 = {
+	name="µÒÑÇ°Í Â×ÆÂ" #Diaba Lompo
+	dynasty=1030013
+	religion="west_african_pagan"
+	culture="manden"
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	
+	1248.1.1={
+		death="1248.1.1"
+	}
+}
+
+161142 = {
+	name="Ìİ´ï¶û²¨" #Tidarpo
+	dynasty=1030013
+	religion="west_african_pagan"
+	culture="manden"
+	father=161141
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+161143 = {
+	name="ÎÂËşÄá" #Untani
+	dynasty=1030013
+	religion="west_african_pagan"
+	culture="manden"
+	father=161142
+	1274.1.1={
+		birth="1274.1.1"
+	}
+	
+	1336.1.1={
+		death="1336.1.1"
+	}
+}
+
+161144 = {
+	name="°ÍÄá¶à°Í" #Banydoba
+	dynasty=1030013
+	religion="west_african_pagan"
+	culture="manden"
+	father=161143
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+161145 = {
+	name="Ñà´ï²»Á¢" #Yendabri
+	#placeholder
+	dynasty=1030014
+	religion="west_african_pagan"
+	culture="manden"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	
+	1096.1.1={
+		death="1096.1.1"
+	}
+}
+
+161146 = {
+	name="Ñà±ÈÀûÂí" #Yembirima
+	#placeholder
+	dynasty=1030014
+	religion="west_african_pagan"
+	culture="manden"
+	father=161145
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+
+161147 = {
+	name="°Í¹şÂí" #Baghama
+	#placeholder
+	dynasty=1030014
+	religion="west_african_pagan"
+	culture="manden"
+	father=161146
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+161148  = {
+	name="Ñà»ù¶ûÂí" #Yenkirma
+	#placeholder
+	dynasty=1030014
+	religion="west_african_pagan"
+	culture="manden"
+	father=161147
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+
+
+161149  = {
+	name="ÑàÌáÑÇ²¼Àï" #Yentiabri
+	#placeholder
+	dynasty=1030014
+	religion="west_african_pagan"
+	culture="manden"
+	father=161148
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	
+	1204.1.1={
+		death="1204.1.1"
+	}
+}
+
+161150  = {
+	name="ÑàÅÁ²¼" #Yempabu
+	#placeholder
+	dynasty=1030014
+	religion="west_african_pagan"
+	culture="manden"
+	father=161149
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	
+	1256.1.1={
+		death="1256.1.1"
+	}
+}
+
+184010 = {
+	name="µÂÀ­ÂíÄÚ" #Dramane
+	dynasty=1030000
+	religion="west_african_pagan"
+	culture="manden"
+	695.1.1={
+		birth="695.1.1"
+	}
+	745.1.1={
+		death="740.1.1"
+	}
+}
+
+184011 = {
+	name="ÈüÒå¶Å" #Seydou
+	dynasty=1030000
+	religion="west_african_pagan"
+	culture="manden"
+	father=184010
+	725.1.1={
+		birth="725.1.1"
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+
+184012 = {
+	name="µÂÀïÈø" #Drissa
+	dynasty=1030000
+	religion="west_african_pagan"
+	culture="manden"
+	father=184010
+	730.1.1={
+		birth="730.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+184013 = { 
+	name="ÂíÑô µÏÑÇ±´" #Mayan Dyabe #First historical contact with islam
+	dynasty=1030000
+	religion=west_african_pagan
+	culture=manden
+	father=184012
+	770.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+184014 = {
+	name="¿×ÄÇÌ©" #Konat¨¦
+	dynasty=1030000
+	religion=west_african_pagan
+	culture=manden
+	father=184013
+	805.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+184015 = {
+	name="×æÂêÄÇ" #Zoumana
+	dynasty=1030000
+	religion=west_african_pagan
+	culture=manden
+	father=184014
+	830.1.1={
+		birth=yes
+	}
+	898.1.1={
+		death=yes
+	}
+}
+
+184016 = {
+	name="ÑÅÎ÷ÄÚ" #Iasine
+	dynasty=1030000
+	religion=west_african_pagan
+	culture=manden
+	father=184015
+	875.1.1={
+		birth="875.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+184017 = {
+	name="¼ª²¼ÀïÀÕ" #Djibril
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=184016
+	905.1.1={
+		birth="905.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+184018 = {
+	name="ÑÇµ±" #Adama
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=184017
+	925.1.1={
+		birth="925.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+184019 = {
+	name="°ÂË¹Âü" #Ousmane
+	dynasty=1030000
+	religion="sunni"
+	culture="manden"
+	father=184018
+	970.1.1={
+		birth="970.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+183501 = {
+	name="¹ş¶û¸ÂÄá" #Hargani
+	dynasty=1042631
+	religion="west_african_pagan"
+	culture="manden"
+	825.1.1={
+		birth="825.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+183502 = {
+	name="ËÕÃ¯Âå" #Soumaoro
+	dynasty=1042632
+	religion="west_african_pagan"
+	culture="manden"
+	841.1.1={
+		birth="841.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+183503 = {
+	name="ÂõÒÁÂ³Ä··¨" #Maÿroumfa
+	dynasty=1042633
+	religion="west_african_pagan"
+	culture="manden"
+	838.1.1={
+		birth="838.1.1"
+	}
+	882.1.1={
+		death="882.1.1"
+	}
+}
+
+183504 = {
+	name="°¢À³ÑÇÂü" #Alayaman
+	dynasty=1042634
+	religion="west_african_pagan"
+	culture="manden"
+	829.1.1={
+		birth="829.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+183505 = {
+	name="Ã×Î÷-ÒÁÔ×" #Missi-Iz¨¦
+	dynasty=1042635
+	religion="west_african_pagan"
+	culture="manden"
+	845.1.1={
+		birth="845.1.1"
+	}
+	895.1.1={
+		death="895.1.1"
+	}
+}
+188750 = {
+	name="Ã×Î÷-ÒÁÔ×" #Missi-Iz¨¦ # fictitious holder of Zarma
+	dynasty=1042171
+	religion="west_african_pagan"
+	culture="manden"
+	740.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188751 = {
+	name="ÂíÀ­" #Malla # fictitious holder of Gurma
+	dynasty=1042172
+	religion="west_african_pagan"
+	culture="manden"
+	735.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188752 = {
+	name="µ«¿¨À¼" #Dankaran # fictitious holder of Djenne
+	dynasty=1042173
+	religion="west_african_pagan"
+	culture="manden"
+	730.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+188753 = {
+	name="¿Æ´ïÂê" #Kodama # fictitious holder of Bambuk
+	dynasty=1042174
+	religion="west_african_pagan"
+	culture="manden"
+	750.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+188754 = {
+	name="µÇ°Í" #Demba # fictitious holder of Aoudaghost
+	dynasty=1042175
+	religion="west_african_pagan"
+	culture="manden"
+	745.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+
+188755 = {
+	name="¿Æ´ïÂê" #Kodama # fictitious holder of Oualata
+	dynasty=1042176
+	religion="west_african_pagan"
+	culture="manden"
+	742.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}

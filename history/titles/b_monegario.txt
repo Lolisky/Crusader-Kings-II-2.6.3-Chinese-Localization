@@ -1,0 +1,15 @@
+740.1.1={
+	holding_dynasty = 1022326 # Monegario - makes this a FAMILY_PALACE type Holding
+	liege="d_venice"
+	holder=145916
+}
+772.1.1={
+	holder=145917
+}
+801.1.1={
+	holder=145918
+}
+811.1.1={
+	holder = 0
+	liege = 0
+}

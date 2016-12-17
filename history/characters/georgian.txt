@@ -1,0 +1,3201 @@
+144009 = {
+	name="瓦赫丹格" #Vakhtang
+	dynasty=507
+	religion="orthodox"
+	culture="georgian"
+	father=466519
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+144010 = {
+	name="大卫" #Davit
+	dynasty=507
+	religion="orthodox"
+	culture="georgian"
+	father=216516
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+
+144565 = {
+	name="阿赫萨尔坦" #Aghsartan
+	dynasty=507
+	religion="orthodox"
+	culture="georgian"
+	father=216517
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+
+
+216510 = {
+	name="露苏丹" #Rusudan
+	female = yes
+	dynasty=507
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="georgian"
+	trait="stutter"
+	trait="thrifty_clerk"
+	father=216515
+	mother=216540
+	1156.1.2={
+		birth="1156.1.2"
+	}
+	1185.1.31={
+		death="1185.1.31"
+	}
+}
+
+216515 = {
+	name="格奥尔基" #Giorgi
+	dynasty=507
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	religion="orthodox"
+	culture="georgian"
+	trait="gluttonous"
+	trait="stutter"
+	trait="martial_cleric"
+	father=216516
+	1123.1.2={
+		birth="1123.1.2"
+	}
+	1155.1.2={
+		add_spouse=216540
+	}
+	1184.4.6={
+		death="1184.4.6"
+	}
+}
+
+216516 = {
+	name="德米特里" #Demetre
+	dynasty=507
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="orthodox"
+	culture="georgian"
+	trait="tough_soldier"
+	father=216517
+	1093.1.2={
+		birth="1093.1.2"
+	}
+	1156.1.1={
+		death="1156.1.1"
+	}
+}
+
+216517 = {
+	name="大卫" #Davit
+	# AKA: Davit 'Aghmashenebeli'
+	dynasty=507
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=10
+	religion="orthodox"
+	culture="georgian"
+	trait="cynical"
+	trait="diligent"
+	trait="midas_touched"
+	father=9954
+	1073.1.2={
+		birth="1073.1.2"
+	}
+	1125.1.24={
+		death="1125.1.24"
+	}
+}
+
+216524 = {
+	name="贾达隆" #Djadaron
+	dynasty=507
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="orthodox"
+	culture="alan"
+	trait="tough_soldier"
+	father=41550
+	mother=232751
+	1117.1.1={
+		birth="1117.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+228068 = {
+	name="阿赫萨尔坦" #Aghsarthan
+	dynasty=101873
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="sunni"
+	culture="persian"
+	trait="amateurish_plotter"
+	father=232753
+	mother=232750
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1160.1.1={
+		religion="orthodox"
+		culture="georgian"
+		dynasty=101752
+	}
+	1198.1.1={
+		death="1198.1.1"
+	}
+}
+
+228069 = {
+	name="欧塔苟" #Otago
+	dynasty=101752
+	martial=8
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="deceitful"
+	trait="humble"
+	trait="amateurish_plotter"
+	father=228068
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+232750 = {
+	name="塔马尔" #Thamar
+	female = yes
+	dynasty=507
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="chaste"
+	trait="detached_priest"
+	father=216517
+	1098.1.2={
+		birth="1098.1.2"
+	}
+	1154.1.2={
+		death="1154.1.2"
+	}
+}
+
+232751 = {
+	name="露苏丹" #Rusudan
+	female=yes
+	dynasty=507
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="alan"
+	father=216517
+	1101.1.1={
+		birth="1101.1.1"
+	}
+	1133.1.1={
+		death="1133.1.1"
+	}
+}
+
+232752 = {
+	name="露苏丹" #Rusudan
+	female = yes
+	dynasty=507
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="chaste"
+	trait="patient"
+	trait="charismatic_negotiator"
+	father=216516
+	1124.1.2={
+		birth="1124.1.2"
+	}
+	1174.1.2={
+		death="1174.1.2"
+	}
+}
+
+232754 = {
+	name="绍塔" #Shota
+	dynasty=101746
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="humble"
+	trait="zealous"
+	trait="scholarly_theologian"
+	1165.1.2={
+		birth="1165.1.2"
+	}
+	1215.1.2={
+		death="1215.1.2"
+	}
+}
+
+232755 = {
+	name="米迦勒" #Mikeli
+	dynasty=200055
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="celibate"
+	trait="cynical"
+	trait="proud"
+	trait="mastermind_theologian"
+	1136.1.2={
+		birth="1136.1.2"
+	}
+	1186.1.2={
+		death="1186.1.2"
+	}
+}
+
+232756 = {
+	name="加穆雷克尔" #Gamrekel
+	dynasty=200056
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="wroth"
+	trait="patient"
+	trait="brave"
+	trait="skilled_tactician"
+	1133.1.2={
+		birth="1133.1.2"
+	}
+	1183.1.2={
+		death="1183.1.2"
+	}
+}
+
+232757 = {
+	name="阿顿" #Aton
+	dynasty=200057
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="patient"
+	trait="just"
+	trait="temperate"
+	trait="midas_touched"
+	1144.1.2={
+		birth="1144.1.2"
+	}
+	1194.1.2={
+		death="1194.1.2"
+	}
+}
+
+232762 = {
+	name="卡哈贝尔" #Kakhaber
+	dynasty=101748
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="temperate"
+	trait="patient"
+	trait="fortune_builder"
+	father=93523
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1184.1.1={
+		death="1184.1.1"
+	}
+}
+
+232763 = {
+	name="阿顿" #Aton
+	dynasty=200058
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="celibate"
+	trait="honest"
+	trait="scholarly_theologian"
+	1143.1.2={
+		birth="1143.1.2"
+	}
+	1193.1.2={
+		death="1193.1.2"
+	}
+}
+
+232764 = {
+	name="瓦尔丹" #Vardan
+	dynasty=101753
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="deceitful"
+	trait="ambitious"
+	trait="wroth"
+	trait="greedy"
+	trait="skilled_tactician"
+	1154.1.2={
+		birth="1154.1.2"
+	}
+	1204.1.2={
+		death="1204.1.2"
+	}
+}
+
+232765 = {
+	name="谢吉尔-约翰" #Shergil-Johan
+	# AKA: Shergil
+	dynasty=101753
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="thrifty_clerk"
+	father=232764
+	1176.1.2={
+		birth="1176.1.2"
+	}
+	1226.1.2={
+		death="1226.1.2"
+	}
+}
+
+232766 = {
+	name="扎卡里亚" #Zakaria
+	dynasty=101753
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="tough_soldier"
+	father=232764
+	1179.1.2={
+		birth="1179.1.2"
+	}
+	1229.1.2={
+		death="1229.1.2"
+	}
+}
+
+232767 = {
+	name="萨尔吉斯" #Sargis
+	dynasty=101753
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="martial_cleric"
+	father=232764
+	1181.1.2={
+		birth="1181.1.2"
+	}
+	1231.1.2={
+		death="1231.1.2"
+	}
+}
+
+232769 = {
+	name="克瓦尔克瓦尔" #Qvarqvare
+	dynasty=42
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="thrifty_clerk"
+	father=232768
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+232770 = {
+	name="古赞"
+	dynasty=200059
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="diligent"
+	trait="proud"
+	trait="cynical"
+	trait="charismatic_negotiator"
+	1153.1.2={
+		birth="1153.1.2"
+	}
+	1203.1.2={
+		death="1203.1.2"
+	}
+}
+
+41334 = {
+	name="卡塔" #Kata
+	female = yes
+	dynasty=507
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="intricate_webweaver"
+	father=9950
+	mother=9951
+	1027.1.1={
+		birth="1027.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+41335 = {
+	name="佐拉切尔特尔" #Zoracertel
+	female = yes
+	dynasty=25201
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="chaste"
+	trait="thrifty_clerk"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+41515 = {
+	name="阿格萨坦" #Agsartan
+	dynasty=507
+	martial=7
+	diplomacy=9
+	intrigue=1
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="cynical"
+	trait="underhanded_rogue"
+	father=41514
+	mother=41335
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1084.1.1={
+		death="1084.1.1"
+	}
+}
+
+41516 = {
+	name="克维里克" #Kvirike
+	dynasty=507
+	martial=5
+	diplomacy=7
+	intrigue=3
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	father=41515
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+41552 = {
+	name="玛莎" #Martha
+	# AKA: Mariam
+	female = yes
+	dynasty=507
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="orthodox"
+	culture="georgian"
+	trait="honest"
+	trait="diligent"
+	trait="flamboyant_schemer"
+	father=9952
+	mother=9953
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+41553 = {
+	name="歌兰杜赫特" #Gorandukht
+	dynasty=507
+	female=yes
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="humble"
+	trait="charismatic_negotiator"
+	father=9950
+	mother=9951
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+41582 = {
+	name="歌兰杜赫特" #Gurandukht
+	dynasty=101737
+	female=yes
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	father=70465
+	946.1.1={
+		birth="946.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+
+461922 = {
+	name="苏丹娜" #Sultana
+	female = yes
+	dynasty=507
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="flamboyant_schemer"
+	father=466500
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1370.1.2={
+		death="1370.1.2"
+	}
+}
+
+466500 = {
+	name="格奥尔基" #Giorgi
+	# AKA: Giorgi 'Brtskinvale'
+	dynasty=507
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="deceitful"
+	trait="diligent"
+	trait="brave"
+	trait="intricate_webweaver"
+	trait="chaste"
+	father=466501
+	mother=466502
+	1287.1.2={
+		birth="1287.1.2"
+	}
+	1337.1.2={
+		death="1337.1.2"
+	}
+}
+
+466501 = {
+    name="德米特里" #Demetre
+    # AKA: Demetre 'Tavdadebuli'
+    dynasty=507
+    martial=7
+    diplomacy=5
+    intrigue=4
+    stewardship=5
+    religion="orthodox"
+    culture="georgian"
+    trait="lustful"
+    trait="wroth"
+    trait="zealous"
+	trait="underhanded_rogue"
+    trait="hunchback"
+    trait="flamboyant_schemer"
+    father=466514
+    1247.1.2={
+	birth="1247.1.2"
+    }
+    1272.1.2={
+		add_spouse=145080
+    }
+    1280.1.2={
+	add_spouse=466502
+    }
+    1289.3.12={
+	 death="1289.3.12"
+    }
+}
+
+466502 = {
+	 name="娜特拉" #Natela
+	 female = yes
+	 dynasty=42
+	 martial=6
+	 diplomacy=6
+	 intrigue=4
+	 stewardship=5
+	 religion="orthodox"
+	 culture="georgian"
+	 trait="greedy"
+	 trait="martial_cleric"
+	 father=466750
+	 1262.1.2={
+		  birth="1262.1.2"
+	 }
+	 1315.1.2={
+		  death="1315.1.2"
+	 }
+}
+
+466503 = {
+	name="大卫" #Davit
+	dynasty=507
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="orthodox"
+	culture="georgian"
+	trait="tough_soldier"
+	father=466500
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1380.1.2={
+		death="1380.1.2"
+	}
+}
+
+466510 = {
+	name="安德罗尼克" #Andronik
+	dynasty=507
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="proud"
+	trait="flamboyant_schemer"
+	father=466511
+	mother=477515
+	1293.1.2={
+		birth="1293.1.2"
+	}
+	1343.1.2={
+		death="1343.1.2"
+	}
+}
+
+466511 = {
+	  name="大卫" #Davit
+	  dynasty=507
+	  martial=8
+	  diplomacy=8
+	  intrigue=7
+	  stewardship=5
+	  religion="orthodox"
+	  culture="georgian"
+	  trait="lustful"
+	  trait="honest"
+	  trait="underhanded_rogue"
+	  father=466501
+	  mother=145080
+	  1273.1.2={
+		    birth="1273.1.2"
+	  }
+	  1290.1.2={
+	  add_spouse = 477515
+	  }
+	  1311.1.1={
+		    death="1311.1.1"
+	  }
+}
+
+466512 = {
+	name="格奥尔基" #Giorgi
+	# AKA: Giorgi 'Mtsire'
+	dynasty=507
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="honest"
+	trait="thrifty_clerk"
+	father=466511
+	1308.1.2={
+		birth="1308.1.2"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+
+466513 = {
+	name="格奥尔基 迪迪" #Giorgi Didi
+	# AKA: Giorgi Didi
+	dynasty=507
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="slothful"
+	trait="humble"
+	trait="stutter"
+	trait="tough_soldier"
+	father=466510
+	1325.1.2={
+		birth="1325.1.2"
+	}
+	1375.1.2={
+		death="1375.1.2"
+	}
+}
+
+466514 = {
+	name="大卫" #Davit
+	# AKA: Davit Ulu
+	dynasty=507
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="bastard"
+	trait="tough_soldier"
+	father=466515
+	1210.1.2={
+		birth="1210.1.2"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+466515 = {
+	name="格奥尔基" #Giorgi
+	# AKA: Giorgi Lasha
+	dynasty=507
+	martial=9
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="chaste"
+	trait="cynical"
+	trait="maimed"
+	trait="skilled_tactician"
+	father=466516
+	mother=466517
+	1192.1.2={
+		birth="1192.1.2"
+	}
+	1223.1.1={
+		death="1223.1.1"
+	}
+}
+
+466517 = {
+	name="塔玛丽" #Tamari
+	female = yes
+	dynasty=507
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="georgian"
+	trait="charitable"
+	trait="diligent"
+	trait="patient"
+	trait="lustful"
+	trait="zealous"
+	trait="grey_eminence"
+	father=216515
+	mother=216540
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1187.1.1 = {
+		give_nickname=nick_the_great
+	}
+	1212.1.8={
+		death="1212.1.8"
+	}
+}
+
+466518 = {
+	name="露苏丹" #Rusudan
+	female = yes
+	dynasty=507
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="cynical"
+	trait="thrifty_clerk"
+	father=466516
+	mother=466517
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1247.1.1={
+		death="1247.1.1"
+	}
+}
+
+466519 = {
+	name="大卫" #Davit
+	# AKA: Davit Narin
+	dynasty=507
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="diligent"
+	trait="honest"
+	trait="flamboyant_schemer"
+	trait="thrifty_clerk"
+	father=34233
+	mother=466518
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1293.1.15={
+		death="1293.1.15"
+	}
+}
+
+466520 = {
+	name="巴格拉特" #Bagrat
+	# AKA: Bagrat 'Mtsire'
+	dynasty=507
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="thrifty_clerk"
+	trait="lustful"
+	father=466521
+	1326.1.2={
+		birth="1326.1.2"
+	}
+	1376.1.2={
+		death="1376.1.2"
+	}
+}
+
+466521 = {
+	name="米迦勒" #Mikeli
+	dynasty=507
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="orthodox"
+	culture="georgian"
+	trait="ambitious"
+	trait="tough_soldier"
+	father=466519
+	1269.1.2={
+		birth="1269.1.2"
+	}
+	1329.1.2={
+		death="1329.1.2"
+	}
+}
+
+466750 = {
+	name="贝卡" #Beka
+	dynasty=42
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="gregarious"
+	trait="proud"
+	trait="fortune_builder"
+	father=232769
+	1236.1.1={
+		birth="1236.1.1"
+	}
+	1306.1.1={
+		death="1306.1.1"
+	}
+}
+
+466751 = {
+	name="姬雅佳克" #Djiadjak
+	female = yes
+	dynasty=42
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="lustful"
+	father=466750
+	1283.1.2={
+		birth="1283.1.2"
+	}
+	1321.1.2={
+		death="1321.1.2"
+	}
+}
+
+466752 = {
+	name="萨尔吉斯" #Sargis
+	dynasty=42
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="deceitful"
+	trait="ambitious"
+	trait="naive_appeaser"
+	father=466750
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1334.1.2={
+		death="1334.1.2"
+	}
+}
+
+466753 = {
+	name="克瓦尔克瓦尔" #Qvarqvare
+	dynasty=42
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="cynical"
+	trait="wroth"
+	trait="martial_cleric"
+	father=466752
+	1302.1.2={
+		birth="1302.1.2"
+	}
+	1352.1.2={
+		death="1352.1.2"
+	}
+}
+
+466754 = {
+	name="辛杜赫塔尔" #Sindukhtar
+	dynasty=42
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="thrifty_clerk"
+	father=466753
+	1329.1.2={
+		birth="1329.1.2"
+	}
+	1379.1.2={
+		death="1379.1.2"
+	}
+}
+
+466755 = {
+	name="贝卡" #Beka
+	dynasty=42
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="tough_soldier"
+	father=466753
+	1331.1.2={
+		birth="1331.1.2"
+	}
+	1381.1.2={
+		death="1381.1.2"
+	}
+}
+
+466756 = {
+	name="古尔坎" #Gulkan
+	dynasty=42
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="martial_cleric"
+	father=466753
+	1334.1.2={
+		birth="1334.1.2"
+	}
+	1384.1.2={
+		death="1384.1.2"
+	}
+}
+
+466757 = {
+	name="利帕里特" #Liparit
+	dynasty=101742
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="amateurish_plotter"
+	1256.1.2={
+		birth="1256.1.2"
+	}
+	1285.1.2={
+	add_spouse=466758
+	}
+	1314.1.2={
+		death="1314.1.2"
+	}
+}
+
+466758 = {
+	name="安娜" #Ana
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="scholarly_theologian"
+	1264.1.2={
+		birth="1264.1.2"
+	}
+	1321.1.2={
+		death="1321.1.2"
+	}
+}
+
+466759 = {
+	name="切萨尔" #Chesar
+	dynasty=101742
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="chaste"
+	trait="charitable"
+	trait="tough_soldier"
+	father=466757
+	mother=466758
+	1291.1.2={
+		birth="1291.1.2"
+	}
+	1312.1.2={
+	add_spouse = 466760
+	}
+	1341.1.2={
+		death="1341.1.2"
+	}
+}
+
+466760 = {
+	name="赫丽莎" #Khorishah
+	# AKA: Khorishah Senikariman
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="arbitrary"
+	trait="kind"
+	trait="flamboyant_schemer"
+	1296.1.2={
+		birth="1296.1.2"
+	}
+	1346.1.2={
+		death="1346.1.2"
+	}
+}
+
+466761 = {
+	name="萨尔吉斯" #Sargis
+	dynasty=101742
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="gluttonous"
+	trait="proud"
+	trait="cynical"
+	trait="charismatic_negotiator"
+	father=466759
+	mother=466760
+	1313.1.2={
+		birth="1313.1.2"
+	}
+	1363.1.2={
+		death="1363.1.2"
+	}
+}
+
+466762 = {
+	name="霍夫汉内斯" #Hovhannes
+	dynasty=101742
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="celibate"
+	trait="temperate"
+	trait="detached_priest"
+	father=466759
+	mother=466760
+	1317.1.2={
+		birth="1317.1.2"
+	}
+	1367.1.2={
+		death="1367.1.2"
+	}
+}
+
+466763 = {
+	name="布尔特尔" #Burtel
+	dynasty=101742
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="diligent"
+	trait="just"
+	trait="fortune_builder"
+	father=466757
+	mother=466758
+	1295.1.2={
+		birth="1295.1.2"
+	}
+	1345.1.2={
+		death="1345.1.2"
+	}
+}
+
+70460 = {
+	name="阿达尔纳瑟" #Adarnase
+	dynasty=507
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="mystic"
+	trait="zealous"
+	trait="flamboyant_schemer"
+	father=41540
+	
+	814.1.1={
+		birth="814.1.1"
+	}
+	872.1.1={
+		death="872.1.1"
+	}
+}
+
+70465 = {
+	name="列万" #Levan
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="zealous"
+	trait="lustful"
+	trait="misguided_warrior"
+	father=70468
+	
+	910.1.1={
+		birth="910.1.1"
+	}
+	969.1.1={
+		death="969.1.1"
+	}
+}
+
+70466 = {
+	name="德米特里" #Demetre
+	dynasty=101737
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="just"
+	trait="craven"
+	trait="thrifty_clerk"
+	father=70465
+	
+	933.1.1={
+		birth="933.1.1"
+	}
+	976.1.1={
+		death="976.1.1"
+	}
+}
+
+70467 = {
+	name="提奥多斯" #Teodos
+	dynasty=101737
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="deceitful"
+	trait="zealous"
+	trait="tough_soldier"
+	father=70465
+	
+	934.1.1={
+		birth="934.1.1"
+	}
+	978.1.1={
+		death="978.1.1"
+	}
+}
+
+70468 = {
+	name="格奥尔基" #Giorgi
+	dynasty=101737
+	martial=4
+	diplomacy=3
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="humble"
+	trait="kind"
+	trait="underhanded_rogue"
+	father=70469
+	
+	888.1.1={
+		birth="888.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+70469 = {
+	name="康斯坦丁" #Konstantin
+	dynasty=101737
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="proud"
+	trait="ambitious"
+	trait="skilled_tactician"
+	father=70470
+	
+	854.1.1={
+		birth="854.1.1"
+	}
+	917.1.1={
+		death="917.1.1"
+	}
+}
+
+70470 = {
+	name="巴格拉特" #Bagrat
+	dynasty=101737
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="orthodox"
+	culture="georgian"
+	trait="craven"
+	trait="slothful"
+	trait="flamboyant_schemer"
+	father=70471
+	
+	830.1.1={
+		birth="830.1.1"
+	}
+	899.1.1={
+		death="899.1.1"
+	}
+}
+
+70471 = {
+	name="德米特里" #Demetre
+	dynasty=101737
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=3
+	religion="orthodox"
+	culture="georgian"
+	trait="harelip"
+	trait="scholar"
+	trait="charismatic_negotiator"
+	father=70472
+	
+	805.1.1={
+		birth="805.1.1"
+	}
+	873.1.1={
+		death="873.1.1"
+	}
+}
+
+70472 = {
+	name="列万" #Levan
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="iconoclast"
+	culture="georgian"
+	trait="lustful"
+	trait="fair"
+	trait="tough_soldier"
+	father=160031
+	mother=145999
+	750.1.1={
+		birth="750.1.1"
+	}
+	786.1.1={
+		religion="orthodox"
+	}
+	812.1.1={
+		death="812.1.1"
+	}
+}
+
+70473 = {
+	name="提奥多斯" #Teodos
+	dynasty=101737
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="iconoclast"
+	culture="georgian"
+	trait="ambitious"
+	trait="proud"
+	trait="amateurish_plotter"
+	father=70472
+	768.1.1={
+		birth="768.1.1"
+	}
+	786.1.1={
+		religion="orthodox"
+	}
+	838.1.1={
+		death="838.1.1"
+	}
+}
+
+70474 = {
+	name="约翰" #Ioane
+	dynasty=101737
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="arbitrary"
+	trait="deceitful"
+	trait="brilliant_strategist"
+	father=70476
+	
+	832.1.1={
+		birth="832.1.1"
+	}
+	882.1.1={
+		death="882.1.1"
+	}
+}
+
+70475 = {
+	name="阿达尔纳瑟" #Adarnase
+	dynasty=101737
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="proud"
+	trait="brave"
+	trait="tough_soldier"
+	father=70474
+	
+	857.1.1={
+		birth="857.1.1"
+	}
+	888.1.1={
+		death="888.1.1"
+	}
+}
+
+70476 = {
+	name="格奥尔基" #Giorgi
+	dynasty=101737
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=3
+	religion="orthodox"
+	culture="georgian"
+	trait="quick"
+	trait="paranoid"
+	trait="thrifty_clerk"
+	father=70472
+	
+	807.1.1={
+		birth="807.1.1"
+	}
+	879.1.1={
+		death="879.1.1"
+	}
+}
+
+85012 = {
+	name="约翰" #Ioane
+	dynasty=20021
+	martial=5
+	diplomacy=6
+	intrigue=9
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="thrifty_clerk"
+	trait="deceitful"
+	trait="proud"
+	father=90086
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+90086 = {
+	name="利帕里特" #Liparit
+	# AKA: Liparit Magistros
+	dynasty=20021
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="georgian"
+	trait="diligent"
+	trait="brave"
+	trait="patient"
+	trait="brilliant_strategist"
+	999.1.1={
+		birth="999.1.1"
+	}
+	1064.1.1={
+		death="1064.1.1"
+	}
+}
+
+90151 = {
+	name="尼娅尼娅" #Niania
+	female = yes
+	dynasty=200052
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="martial_cleric"
+	trait="gluttonous"
+	trait="wroth"
+	1036.1.2={
+		birth="1036.1.2"
+	}
+	1086.1.2={
+		death="1086.1.2"
+	}
+}
+
+90152 = {
+	name="瓦尔丹 马鲁什泽" #Vardan Marushidze
+	# AKA: Vardan Marushidze
+	dynasty=101741
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="intricate_webweaver"
+	trait="lustful"
+	trait="wroth"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1094.1.2={
+		death="1094.1.2"
+	}
+}
+
+90153 = {
+	name="格奥尔基" #Giorgi
+	dynasty=200053
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="cynical"
+	trait="patient"
+	trait="martial_cleric"
+	1053.1.2={
+		birth="1053.1.2"
+	}
+	1103.1.2={
+		death="1103.1.2"
+	}
+}
+
+9950 = {
+	name="格奥尔基" #Giorgi
+	dynasty=507
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="orthodox"
+	culture="georgian"
+	trait="just"
+	trait="proud"
+	trait="brave"
+	trait="skilled_tactician"
+	father=41547
+	995.1.1={
+		birth="995.1.1"
+	}
+	1017.1.1={
+		add_spouse=9951
+	}
+	1024.1.1={
+		add_spouse=9956
+	}
+	1027.8.16={
+		death="1027.8.16"
+	}
+}
+
+9952 = {
+	name="巴格拉特" #Bagrat
+	dynasty=507
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="honest"
+	trait="just"
+	trait="kind"
+	trait="diligent"
+	trait="brave"
+	trait="tough_soldier"
+	father=9950
+	mother=9951
+	1018.1.1={
+		birth="1018.1.1"
+	}
+	1032.1.1={
+	add_spouse=41311
+	}
+	1040.1.1={
+	add_spouse=9953
+	}
+	1072.11.24={
+		death="1072.11.24"
+	}
+}
+
+9954 = {
+	name="格奥尔基" #Giorgi
+	# AKA: Giorgi 'Sevatosi'
+	dynasty=507
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=9
+	religion="orthodox"
+	culture="georgian"
+	trait="cynical"
+	trait="brave"
+	trait="wroth"
+	trait="underhanded_rogue"
+	father=9952
+	mother=9953
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1066.1.1={
+	add_spouse=9955
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+9960 = {
+	name="加布里埃尔" #Gabriel
+	dynasty=101698
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="georgian"
+	trait="chaste"
+	trait="patient"
+	trait="mastermind_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1066.1.1={
+		employer=9952
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+71856 = {
+	name="塔玛儿" #Tamar
+	# AKA: Gurcu Hatun
+	dynasty=613
+	female=yes
+	religion="orthodox"
+	culture="georgian"
+	father=34233
+	mother=466518
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1237.1.1={
+		name="古儿出" #Gurcu
+		# AKA: Gurcu Hatun
+		religion="sunni"
+		culture="turkish"
+	}
+	1286.1.1={
+		death="1286.1.1"
+	}
+}
+
+93522 = {
+	name="达加托" #Dagato
+	dynasty=101748
+	religion="orthodox"
+	culture="georgian"
+	father=232762
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1213.1.1={
+		death="1213.1.1"
+	}
+}
+
+93523 = {
+	name="达加托" #Dagato
+	dynasty=101748
+	religion="orthodox"
+	culture="georgian"
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+93524 = {
+	name="达尔丹" #Dardan
+	dynasty=101748
+	religion="orthodox"
+	culture="georgian"
+	father=93522
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1243.1.1={
+		death="1243.1.1"
+	}
+}
+
+145078 = {
+	name="露苏丹" #Rusudan
+	female = yes
+	dynasty=507
+	religion="orthodox"
+	culture="georgian"
+	father=466514
+	1227.1.2={
+		birth="1227.1.2"
+	}
+	1253.1.2={
+		death="1253.1.2"
+	}
+}
+
+145081 = {
+	name="瓦赫丹格" #Vakhtang
+	dynasty=507
+	religion="orthodox"
+	culture="georgian"
+	trait="tough_soldier"
+	father=466501
+	mother=145080
+	1276.1.2={
+		birth="1276.1.2"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+159207 = { 
+	name="阿瓦格" #Avag #
+	dynasty=101747
+	religion="orthodox"
+	culture="georgian"
+	father=232760
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+159208 = { 
+	name="塔穆塔" #T'amt'a #
+	dynasty=101747
+	female=yes
+	religion="orthodox"
+	culture="georgian"
+	father=232760
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+159909 = {
+	name="波斯曼" #Parsman #
+	dynasty=23001
+	religion="zoroastrian"
+	culture="georgian"
+	2.1.1={
+		birth="2.1.1"
+	}
+	58.1.1={
+		death="58.1.1"
+	}
+}
+
+159910 = {
+	name="米赫达特" #Mihrdat #
+	dynasty=23001
+	religion="zoroastrian"
+	culture="georgian"
+	father=159909
+	42.1.1={
+		birth="42.1.1"
+	}
+	106.1.1={
+		death="106.1.1"
+	}
+}
+
+159911 = {
+	name="阿玛扎斯普" #Amazasp #
+	dynasty=23001
+	religion="zoroastrian"
+	culture="georgian"
+	father=159910
+	62.1.1={
+		birth="62.1.1"
+	}
+	117.1.1={
+		death="117.1.1"
+	}
+}
+
+159912 = {
+	name="波斯曼" #Parsman #
+	dynasty=23001
+	religion="zoroastrian"
+	culture="georgian"
+	father=159911
+	82.1.1={
+		birth="82.1.1"
+	}
+	135.1.1={
+		death="135.1.1"
+		give_nickname = nick_the_good
+	}
+}
+
+159913 = {
+	name="合拉丹" #Hradam #
+	dynasty=23001
+	religion="zoroastrian"
+	culture="georgian"
+	father=159912
+	102.1.1={
+		birth="102.1.1"
+	}
+	138.1.1={
+		death="138.1.1"
+	}
+}
+159914 = {
+	name="波斯曼" #Parsman # #
+	dynasty=23001
+	religion="zoroastrian"
+	culture="georgian"
+	father=159913
+	130.1.1={
+		birth="130.1.1"
+	}
+	185.1.1={
+		death="185.1.1"
+	}
+}
+159915 = {
+	name="阿玛扎斯普" #Amazasp #
+	dynasty=23001
+	religion="zoroastrian"
+	culture="georgian"
+	father=159914
+	154.1.1={
+		birth="154.1.1"
+	}
+	189.1.1={
+		death="189.1.1"
+	}
+}
+159916 = {
+	name="哈达娜" #Ghadana #
+	female = yes
+	dynasty=23001
+	religion="zoroastrian"
+	culture="georgian"
+	father=159914
+	155.1.1={
+		birth="155.1.1"
+	}
+	220.1.1={
+		death="220.1.1"
+	}
+}
+159603 = { 
+	name="胡斯洛" #Khosro  #
+	dynasty=100680
+	religion="zoroastrian"
+	culture="georgian"
+	father=159602
+	235.11.1={
+		birth="235.11.1"
+	}
+	301.1.1={
+		death="301.1.1"
+	}
+}
+159604 = { 
+	name="米利安" #Mirian #III of Kartli/Iberia
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159603
+	265.11.1={
+		birth="265.11.1"
+	}
+	285.11.1={
+		add_spouse = 159598
+	}
+	361.1.1={
+		death="361.1.1"
+	}
+}
+159605 = { 
+	name="瓦拉兹-巴库尔" #Varaz-Bakur  #
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159604
+	mother=159598
+	292.1.1={
+		birth="292.1.1"
+	}
+	365.1.1={
+		death="365.1.1"
+	}
+}
+159607 = { 
+	name="米赫达特" #Mihrdat #  #
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159605
+	320.1.1={
+		birth="320.1.1"
+	}
+	380.1.1={
+		death="380.1.1"
+	}
+}
+159608 = { 
+	name="瓦剌兹-巴库尔" #Varaz-Bakur #
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159607
+	340.1.1={
+		birth="340.1.1"
+	}
+	394.1.1={
+		death="394.1.1"
+	}
+}
+159609 = { 
+	name="胡尔思" #Khours  #
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159608
+	370.1.1={
+		birth="370.1.1"
+	}
+	430.1.1={
+		death="430.1.1"
+	}
+}
+159610 = { 
+	name="巴尔扎波德" #Barzabod  #
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159609
+	390.1.1={
+		birth="390.1.1"
+	}
+	410.11.1={
+		add_spouse = 159592
+	}
+	444.1.1={
+		death="444.1.1"
+	}
+}
+159593 = { 
+	name="雷夫" #Rev # I of Iberia
+	dynasty=100685
+	religion="zoroastrian"
+	culture="georgian"
+	father=159550
+	mother=159916
+	170.11.1={
+		birth="170.11.1"
+	}
+	216.8.29={
+		death="216.8.29"
+	}
+}
+159594 = { 
+	name="瓦赫" #Vache  # I of Iberia
+	dynasty=100685
+	religion="zoroastrian"
+	culture="georgian"
+	father=159593
+	190.11.1={
+		birth="190.11.1"
+	}
+	234.8.29={
+		death="234.8.29"
+	}
+}
+159595 = { 
+	name="巴库尔" #Bakur  # I of Iberia
+	dynasty=100685
+	religion="zoroastrian"
+	culture="georgian"
+	father=159594
+	210.11.1={
+		birth="210.11.1"
+	}
+	249.8.29={
+		death="249.8.29"
+	}
+}
+159596 = { 
+	name="米赫达特" #Mihrdat  # # II of Iberia
+	dynasty=100685
+	religion="zoroastrian"
+	culture="georgian"
+	father=159595
+	230.11.1={
+		birth="230.11.1"
+	}
+	265.8.29={
+		death="265.8.29"
+	}
+}
+159597 = { 
+	name="瓦剌兹-巴库尔" #Varaz-Bakur #
+	dynasty=100685
+	religion="zoroastrian"
+	culture="georgian"
+	father=159596
+	250.11.1={
+		birth="250.11.1"
+	}
+	284.8.29={
+		death="284.8.29"
+	}
+}
+159598 = { 
+	name="阿贝舒拉" #Abeshura #
+	female=yes
+	dynasty=100685
+	religion="miaphysite"
+	culture="georgian"
+	father=159597
+	270.11.1={
+		birth="270.11.1"
+	}
+	292.8.29={
+		death="292.8.29"
+	}
+}
+
+159606 = { 
+	name="雷夫"  #Rev # II
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159604
+	300.1.1={
+		birth="300.1.1"
+	}
+	361.1.1={
+		death="361.1.1"
+	}
+}
+159758 = { 
+	name="绍尔玛格"  #Saurmag # II
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159606
+	320.1.1={
+		birth="320.1.1"
+	}
+	378.1.1={
+		death="378.1.1"
+	}
+}
+159759 = { 
+	name="瓦剌兹-巴库尔" #Varaz-Bakur# II
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159604
+	305.1.1={
+		birth="305.1.1"
+	}
+	365.1.1={
+		death="365.1.1"
+	}
+}
+159760 = { 
+	name="米赫达特" #Mihrdat  # # III
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159759
+	325.1.1={
+		birth="325.1.1"
+	}
+	378.1.1={
+		death="378.1.1"
+	}
+}
+159770 = { 
+	name="瓦剌兹-巴库尔" #Varaz-Bakur# III
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159759
+	345.1.1={
+		birth="345.1.1"
+	}
+	394.1.1={
+		death="394.1.1"
+	}
+}
+159761 = { 
+	name="特里达梯"  #Trdati # II
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159606
+	325.1.1={
+		birth="325.1.1"
+	}
+	406.1.1={
+		death="406.1.1"
+	}
+}
+159762 = { 
+	name="波斯曼" #Parsman  # # IV
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159759
+	335.1.1={
+		birth="335.1.1"
+	}
+	409.1.1={
+		death="409.1.1"
+	}
+}
+159763 = { 
+	name="米赫达特" #Mihrdat  # # IV
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159759
+	340.1.1={
+		birth="340.1.1"
+	}
+	411.1.1={
+		death="411.1.1"
+	}
+}
+159764 = { 
+	name="阿尔奇利"  #Archili # I
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159763
+	370.1.1={
+		birth="370.1.1"
+	}
+	435.1.1={
+		death="435.1.1"
+	}
+}
+159765 = { 
+	name="米赫达特" #Mihrdat  # # V
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159764
+	390.1.1={
+		birth="390.1.1"
+	}
+	447.1.1={
+		death="447.1.1"
+	}
+}
+159766 = { 
+	name="瓦赫丹格" #Vakhtang # I Gorgasali
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159765
+	439.1.1={
+		birth="439.1.1"
+	}
+	522.1.1={
+		death="522.1.1"
+	}
+}
+159767 = { 
+	name="达尔奇利"  #Darchili # I 
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159766
+	460.1.1={
+		birth="460.1.1"
+	}
+	534.1.1={
+		death="534.1.1"
+	}
+}
+159768 = { 
+	name="巴库尔" #Bakur # II
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159767
+	500.1.1={
+		birth="500.1.1"
+	}
+	547.1.1={
+		death="547.1.1"
+	}
+}
+159769 = { 
+	name="波斯曼" #Parsman  # # V
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159768
+	530.1.1={
+		birth="530.1.1"
+	}
+	561.1.1={
+		death="561.1.1"
+	}
+}
+159771 = { 
+	name="达尔奇利"  #Darchili #name unknown
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159767
+	505.1.1={
+		birth="505.1.1"
+	}
+	540.1.1={
+		death="540.1.1"
+	}
+}
+159772 = { 
+	name="波斯曼" #Parsman  # # VI
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159771
+	525.1.1={
+		birth="525.1.1"
+	}
+	570.1.1={
+		death="570.1.1"
+	}
+}
+159773 = { 
+	name="巴库尔" #Bakur # III
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159772
+	555.1.1={
+		birth="555.1.1"
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+159774 = { 
+	name="波斯曼度赫特" #Parsmandukht
+	female=yes
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159772
+	565.1.1={
+		birth="565.1.1"
+	}
+	580.1.1={
+		add_spouse = 159919
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+
+159775 = { 
+	name="列万" #Levan # 
+	dynasty=100680
+	religion="miaphysite"
+	culture="georgian"
+	father=159766
+	470.1.1={
+		birth="470.1.1"
+	}
+	535.1.1={
+		death="535.1.1"
+	}
+}
+159776 = { 
+	name="瓜拉姆" #Guaram # 
+	dynasty=1029127
+	religion="orthodox"
+	culture="georgian"
+	father=159775
+	510.1.1={
+		birth="510.1.1"
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+159777 = { 
+	name="斯特潘诺兹" #Stepanoz # 
+	dynasty=1029127
+	religion="orthodox"
+	culture="georgian"
+	father=159776
+	540.1.1={
+		birth="540.1.1"
+	}
+	627.1.1={
+		death="627.1.1"
+	}
+}
+
+159778 = { 
+	name="阿达尔纳瑟" # #Adarnase # I
+	dynasty=100680
+	religion="orthodox"
+	culture="georgian"
+	father=159773
+	580.1.1={
+		birth="580.1.1"
+	}
+	642.1.1={
+		death="642.1.1"
+	}
+}
+159779 = { 
+	name="斯特潘诺兹" #Stepanoz # II 
+	dynasty=100680
+	religion="orthodox"
+	culture="georgian"
+	father=159778
+	600.1.1={
+		birth="600.1.1"
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+159780 = { 
+	name="阿达尔纳瑟" # #Adarnase # II
+	dynasty=100680
+	religion="orthodox"
+	culture="georgian"
+	father=159778
+	620.1.1={
+		birth="620.1.1"
+	}
+	684.1.1={
+		death="684.1.1"
+	}
+}
+
+159781 = { 
+	name="德米特里" #Demetre # 
+	dynasty=1029127
+	religion="orthodox"
+	culture="georgian"
+	father=159776
+	545.1.1={
+		birth="545.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+	}
+}
+159782 = { 
+	name="列万" #Levan # name unknown
+	dynasty=1029127
+	religion="orthodox"
+	culture="georgian"
+	father=159777
+	570.1.1={
+		birth="570.1.1"
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+159783 = { 
+	name="瓜拉姆" #Guaram # II
+	dynasty=1029127
+	religion="orthodox"
+	culture="georgian"
+	father=159782
+	600.1.1={
+		birth="600.1.1"
+	}
+	693.1.1={
+		death="693.1.1"
+	}
+}
+159784 = { 
+	name="斯特潘诺兹" #Stepanoz name unknown
+	dynasty=1029127
+	religion="orthodox"
+	culture="georgian"
+	father=159783
+	630.1.1={
+		birth="630.1.1"
+	}
+	690.1.1={
+		death="690.1.1"
+	}
+}
+159785 = { 
+	name="瓜拉姆" #Guaram # III
+	dynasty=1029127
+	religion="orthodox"
+	culture="georgian"
+	father=159784
+	680.1.1={
+		birth="680.1.1"
+	}
+	700.1.1={
+		add_spouse=159789
+	}
+	748.1.1={
+		death="748.1.1"
+	}
+}
+159786 = { 
+	name="斯特潘诺兹" #Stepanoz # III
+	dynasty=1029127
+	religion="orthodox"
+	culture="georgian"
+	father=159785
+	mother=159789
+	710.1.1={
+		birth="710.1.1"
+	}
+	786.1.1={
+		death="786.1.1"
+	}
+}
+159787 = { 
+	name="阿达尔纳瑟" #Adarnase # III
+	dynasty=1029128
+	religion="orthodox"
+	culture="georgian"
+	father=159780
+	660.1.1={
+		birth="660.1.1"
+	}
+	760.1.1={
+		death="760.1.1"
+	}
+}
+159788 = { 
+	name="内尔塞" # # I
+	dynasty=1029128
+	religion="orthodox"
+	culture="georgian"
+	father=159787
+	700.1.1={
+		birth="700.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+159789 = { 
+	name="塔玛丽" #Tamari # unknown
+	female = yes
+	dynasty=1029128
+	religion="orthodox"
+	culture="georgian"
+	father=159787
+	680.1.1={
+		birth="680.1.1"
+	}
+	760.1.1={
+		death="760.1.1"
+	}
+}
+159790 = { 
+	name="塔玛丽" #Tamari # unknown
+	female=yes
+	dynasty=1029127
+	religion="orthodox"
+	culture="georgian"
+	father=159785
+	mother=159789
+	740.1.1={
+		birth="740.1.1"
+	}
+	765.1.1={
+		add_spouse = 41539
+	}
+	786.1.1={
+		death="786.1.1"
+	}
+}
+
+160021 = {
+	name="阿诺斯" #Anos
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	460.1.1={
+		birth="460.1.1"
+	}
+	530.1.1={
+		death="530.1.1"
+	}
+}
+160022 = {
+	name="赫扎尔" #Ghozar
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	father=160021
+	490.1.1={
+		birth="490.1.1"
+	}
+	550.1.1={
+		death="550.1.1"
+	}
+}
+160023 = {
+	name="查士丁尼" #Istvine
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	father=160022
+	510.1.1={
+		birth="510.1.1"
+	}
+	580.1.1={
+		death="580.1.1"
+	}
+}
+160024 = {
+	name="费尼克提欧" #Phiniktios
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	father=160023
+	540.1.1={
+		birth="540.1.1"
+	}
+	610.1.1={
+		death="610.1.1"
+	}
+}
+160025 = {
+	name="巴尔努克" #Barnuk
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	father=160024
+	570.1.1={
+		birth="570.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+160026 = {
+	name="德米特里" #Demetre
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	father=160025
+	600.1.1={
+		birth="600.1.1"
+	}
+	660.1.1={
+		death="660.1.1"
+	}
+}
+160027 = {
+	name="提奥多斯" #Teodos
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	father=160026
+	630.1.1={
+		birth="630.1.1"
+	}
+	680.1.1={
+		death="680.1.1"
+	}
+}
+160028 = {
+	name="康斯坦帝" #Konstanti
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	father=160027
+	660.1.1={
+		birth="660.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+160029 = {
+	name="迪奥多尔" #Teodor
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	father=160028
+	680.1.1={
+		birth="680.1.1"
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+
+160030 = {
+	name="康斯坦帝" #Konstanti
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	father=160029
+	697.1.1={
+		birth="697.1.1"
+	}
+	730.1.1={
+		religion="iconoclast"
+	}
+	745.1.1={
+		death="745.1.1"
+	}
+}
+
+160031 = {
+	name="列万" #Levan
+	dynasty=101737
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	father=160030
+	715.1.1={
+		birth="715.1.1"
+	}
+	730.1.1={
+		religion="iconoclast"
+	}
+	749.1.1={
+		add_spouse = 145999
+	}
+	767.1.1={
+		death="767.1.1"
+	}
+}
+
+160032 = {
+	name="瓜拉姆" #GuaramMampali
+	dynasty=507
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="just"
+	trait="brave"
+	trait="brilliant_strategist"
+	father=70460
+	
+	830.1.1={
+		birth="830.1.1"
+	}
+	882.1.1={
+		death="882.1.1"
+	}
+}
+160033 = {
+	name="纳斯拉" #Nasra
+	dynasty=507
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="orthodox"
+	culture="georgian"
+	trait="coward"
+	trait="ambitious"
+	trait="envious"
+	trait="amateurish_plotter"
+	father=160032
+	
+	850.1.1={
+		birth="850.1.1"
+	}
+	882.1.1={
+		death="882.1.1"
+	}
+}
+160034 = {
+	name="阿达尔纳瑟" #Adarnase
+	dynasty=507
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="misguided_warrior"
+	father=70461
+	
+	852.1.1={
+		birth="852.1.1"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+160035 = {
+	name="阿硕特" #Ashot
+	dynasty=507
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="tough_soldier"
+	father=70461
+	
+	855.1.1={
+		birth="855.1.1"
+	}
+	918.1.1={
+		death="918.1.1"
+	}
+}
+
+70461 = {
+	name="古尔根" #Gurgen
+	dynasty=507
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="arbitrary"
+	trait="brave"
+	trait="tough_soldier"
+	father=70460
+	
+	836.1.1={
+		birth="836.1.1"
+	}
+	891.1.1={
+		death="891.1.1"
+	}
+}
+
+41542 = {
+	name="大卫" #Davit
+	dynasty=507
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="humble"
+	trait="just"
+	trait="tough_soldier"
+	father=41541
+	mother=41528
+	854.1.1={
+		birth="854.1.1"
+	}
+	875.1.1={
+	add_spouse=41561
+	}
+	881.1.1={
+		death="881.1.1"
+	}
+}
+
+41543 = {
+	name="阿达纳尔瑟" #Adanarse
+	dynasty=507
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="georgian"
+	trait="proud"
+	trait="wroth"
+	trait="slothful"
+	trait="flamboyant_schemer"
+	father=41542
+	mother=41561
+	877.1.1={
+		birth="877.1.1"
+	}
+	923.1.1={
+		death="923.1.1"
+	}
+}
+
+41544 = {
+	name="松巴特" #Sumbat
+	dynasty=507
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="orthodox"
+	culture="georgian"
+	trait="tough_soldier"
+	father=41543
+	902.1.1={
+		birth="902.1.1"
+	}
+	958.1.1={
+		death="958.1.1"
+	}
+}
+
+41545 = {
+	name="巴格拉特" #Bagrat
+	dynasty=507
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="orthodox"
+	culture="georgian"
+	trait="kind"
+	trait="fortune_builder"
+	father=41544
+	931.1.1={
+		birth="931.1.1"
+	}
+	994.1.1={
+		death="994.1.1"
+	}
+}
+
+41546 = {
+	name="古尔根" #Gurgen
+	dynasty=507
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="orthodox"
+	culture="georgian"
+	trait="brave"
+	trait="gluttonous"
+	trait="tough_soldier"
+	father=41545
+	947.1.1={
+		birth="947.1.1"
+	}
+	960.1.1={
+		add_spouse=41582
+	}
+	1008.1.1={
+		death="1008.1.1"
+	}
+}
+
+41547 = {
+	name="巴格拉特" #Bagrat
+	dynasty=507
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="orthodox"
+	culture="georgian"
+	trait="patient"
+	trait="just"
+	trait="diligent"
+	trait="greedy"
+	trait="grey_eminence"
+	trait="kinslayer"
+	father=41546
+	mother=41582
+	961.1.1={
+		birth="961.1.1"
+	}
+	1014.5.7={
+		death="1014.5.7"
+	}
+}
+
+161200 = {
+	name="大卫" #Davit #Davit II
+	dynasty=507
+	religion="orthodox"
+	culture="georgian"
+	father=41543
+	897.1.1={
+		birth="897.1.1"
+	}
+	937.1.1={
+		death="937.1.1"
+	}
+}
+
+161201 = {
+	name="巴格拉特" #Bagrat
+	dynasty=507
+	religion="orthodox"
+	culture="georgian"
+	father=41543
+	900.1.1={
+		birth="900.1.1"
+	}
+	945.1.1={
+		death="945.1.1"
+	}
+}
+
+161202 = {
+	name="阿达纳尔瑟" #Adanarse
+	dynasty=507
+	religion="orthodox"
+	culture="georgian"
+	father=161201
+	920.1.1={
+		birth="920.1.1"
+	}
+	961.1.1={
+		death="961.1.1"
+	}
+}
+
+161203 = {
+	name="大卫" #Davit #Davit III
+	dynasty=507
+	religion="orthodox"
+	culture="georgian"
+	father=161202
+	940.1.1={
+		birth="940.1.1"
+	}
+	986.1.1 = {
+		give_nickname=nick_the_great
+	}	
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+41541 = {
+	name="巴格拉特" #Bagrat
+	dynasty=507
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="orthodox"
+	culture="georgian"
+	trait="honest"
+	trait="slothful"
+	trait="flamboyant_schemer"
+	father=41540
+	815.1.1={
+		birth="815.1.1"
+	}
+	850.1.1={
+		add_spouse=41528
+	}
+	876.1.1={
+		death="876.1.1"
+	}
+}

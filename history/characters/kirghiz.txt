@@ -1,0 +1,457 @@
+34873 = {
+	#placeholder
+	name=Bönek
+	dynasty=854 # Kirghiz
+	religion=tengri_pagan
+	culture=kirghiz
+	father=194192
+	830.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+194192 = {
+	name = "Bonyak"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	800.1.1 = {
+		birth = yes
+	}
+	860.1.1 = {
+		death = yes
+	}
+}
+194193 = {
+	name = "Kutan"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 34873
+	850.1.1 = {
+		birth = yes
+	}
+	920.1.1 = {
+		death = yes
+	}
+}
+194194 = {
+	name = "Könçek"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194193
+	880.1.1 = {
+		birth = yes
+	}
+	930.1.1 = {
+		death = yes
+	}
+}
+194195 = {
+	name = "Kozel"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194194
+	890.1.1 = {
+		birth = yes
+	}
+	950.1.1 = {
+		death = yes
+	}
+}
+194196 = {
+	name = "Sotan"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194195
+	920.1.1 = {
+		birth = yes
+	}
+	980.1.1 = {
+		death = yes
+	}
+}
+194197 = {
+	name = "Törtogul"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194196
+	960.1.1 = {
+		birth = yes
+	}
+	1030.1.1 = {
+		death = yes
+	}
+}
+194198 = {
+	name = "Uzluk"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194197
+	990.1.1 = {
+		birth = yes
+	}
+	1060.1.1 = {
+		death = yes
+	}
+}
+194199 = {
+	name = "Kotyan"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194198
+	1025.1.1 = {
+		birth = yes
+	}
+	1080.1.1 = {
+		death = yes
+	}
+}
+194200 = {
+	name = "Koza"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194199
+	1045.1.1 = {
+		birth = yes
+	}
+	1110.1.1 = {
+		death = yes
+	}
+}
+194201 = {
+	name = "Begluk"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194200
+	1080.1.1 = {
+		birth = yes
+	}
+	1150.1.1 = {
+		death = yes
+	}
+}
+194202 = {
+	name = "Könçek"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194201
+	1112.1.1 = {
+		birth = yes
+	}
+	1180.1.1 = {
+		death = yes
+	}
+}
+194203 = {
+	name = "Togli"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194202
+	1140.1.1 = {
+		birth = yes
+	}
+	1200.1.1 = {
+		death = yes
+	}
+}
+194204 = {
+	name = "Könçek"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194203
+	1180.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194220 = {
+	name = "Saru"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194204
+	1205.1.1 = {
+		birth = yes
+	}
+	1280.1.1 = {
+		death = yes
+	}
+}
+194412 = {
+	name = "Sati"
+	female=yes
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194204
+	1200.1.1 = {
+		birth = yes
+	}
+	1280.1.1 = {
+		death = yes
+	}
+}
+194221 = {
+	name = "Könçek"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194220
+	1250.1.1 = {
+		birth = yes
+	}
+	1310.1.1 = {
+		death = yes
+	}
+}
+194222 = {
+	name = "Etrek"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194221
+	1290.1.1 = {
+		birth = yes
+	}
+	1350.1.1 = {
+		death = yes
+	}
+}
+194422 = {
+	name = "Tardush"
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194222
+	1310.1.1 = {
+		birth = yes
+	}
+	1350.1.1 = {
+		death = yes
+	}
+}
+194423 = {
+	name = "Asli"
+	female=yes
+	dynasty=854 # Kirghiz
+	religion=manichean
+	culture=kirghiz
+	father = 194222
+	1313.1.1 = {
+		birth = yes
+	}
+	1350.1.1 = {
+		death = yes
+	}
+}
+217165 = {
+	name = "Karacik" # fictional
+	dynasty = 854 # Kirghiz
+	religion = manichean
+	culture = kirghiz
+	father = 34873
+	female = yes
+	848.3.12 = {
+		birth = yes
+	}
+	920.6.10 = {
+		death = yes
+	}
+}
+217166 = {
+	name = "Könçek" # fictional
+	dynasty = 1051108 # Günaydin
+	religion = manichean
+	culture = kirghiz
+	815.4.17 = {
+		birth = yes
+	}
+	833.6.23 = {
+		add_spouse = 217167
+	}
+	862.12.22 = {
+		death = yes
+	}
+}
+217167 = {
+	name = "Özgul" # fictional
+	religion = manichean
+	culture = kirghiz
+	female = yes
+	813.2.13 = {
+		birth = yes
+	}
+	861.9.19 = {
+		death = yes
+	}
+}
+217168 = {
+	name = "Kuntuvdi" # fictional
+	dynasty = 1051108 # Günaydin
+	religion = manichean
+	culture = kirghiz
+	father = 217166
+	mother = 217167
+	837.8.30 = {
+		birth = yes
+	}
+	901.3.17 = {
+		death = yes
+	}
+}
+217169 = {
+	name = "Sevenç" # fictional
+	dynasty = 1051108 # Günaydin
+	religion = manichean
+	culture = kirghiz
+	father = 217166
+	mother = 217167
+	837.8.30 = {
+		birth = yes
+	}
+	901.3.17 = {
+		death = yes
+	}
+}
+217170 = {
+	name = "Usunbike" # fictional
+	dynasty = 1051108 # Günaydin
+	religion = manichean
+	culture = kirghiz
+	father = 217166
+	mother = 217167
+	female = yes
+	842.2.15 = {
+		birth = yes
+	}
+	901.7.9 = {
+		death = yes
+	}
+}
+217171 = {
+	name = "Asep" # fictional
+	dynasty = 1051109 # Kiliçli
+	religion = manichean
+	culture = kirghiz
+	804.5.12 = {
+		birth = yes
+	}
+	823.4.15 = {
+		add_spouse = 217172
+	}
+	862.12.4 = {
+		death = yes
+	}
+}
+217172 = {
+	name = "Karacik" # fictional
+	religion = manichean
+	culture = kirghiz
+	female = yes
+	805.6.9 = {
+		birth = yes
+	}
+	871.3.17 = {
+		death = yes
+	}
+}
+217173 = {
+	name = "Eldeçyuk" # fictional
+	dynasty = 1051109 # Kiliçli
+	religion = manichean
+	culture = kirghiz
+	father = 217171
+	mother = 217172
+	825.10.14 = {
+		birth = yes
+	}
+	874.4.6 = {
+		death = yes
+	}
+}
+217174 = {
+	name = "Ayasun" # fictional
+	dynasty = 1051109 # Kiliçli
+	religion = manichean
+	culture = kirghiz
+	father = 217171
+	mother = 217172
+	female = yes
+	827.1.27 = {
+		birth = yes
+	}
+	879.8.12 = {
+		death = yes
+	}
+}
+217175 = {
+	name = "Umay" # fictional
+	dynasty = 1051109 # Kiliçli
+	religion = manichean
+	culture = kirghiz
+	female = yes
+	father = 217171
+	mother = 217172
+	829.11.6 = {
+		birth = yes
+	}
+	869.2.15 = {
+		death = yes
+	}
+}
+217310 = {
+	name = Seitek # fictional
+	dynasty = 1051141 # Tiele
+	religion = manichean
+	culture = kirghiz
+	
+	732.4.15 = { birth = yes }
+	751.10.7 = { add_spouse = 217311 }
+	775.5.12 = { death = yes }
+}
+217311 = {
+	name = Sirma # fictional
+	religion = buddhist
+	culture = kirghiz
+	female = yes
+	
+	734.5.9 = { birth = yes }
+	774.2.16 = { death = yes }
+}
+217312 = {
+	name = Dilek
+	dynasty = 1051141 # Tiele
+	religion = manichean
+	culture = kirghiz
+	female = yes
+	father = 217310
+	mother = 217311
+	755.4.16 = { birth = yes }
+	793.5.12 = { death = yes }
+}
+217313 = {
+	name = Sotan
+	dynasty = 1051141 # Tiele
+	religion = manichean
+	culture = kirghiz
+	father = 217310
+	mother = 217311
+	752.3.24 = { birth = yes }
+	784.5.11 = { death = yes }
+}

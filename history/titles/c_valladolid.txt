@@ -1,0 +1,111 @@
+769.1.1={
+	holder=200020 # Suleyman b. Abd al-Rahman Umayyad
+	liege=d_toledo
+}
+800.1.1={
+	holder=73681 # al-Hakam Umayyad
+	liege=k_andalusia
+}
+822.5.21={
+	holder=73682 # Abd ar-Rahman II Umayyad
+}
+852.9.22={
+	holder=73683 # Muhammad I Ummayyad
+}
+867.1.1={
+	holder=73928 # al-Hakam Umayyad
+	liege=d_toledo
+}
+890.1.1={
+	holder=70019 # Alfonso III de Cantabria
+        liege=k_asturias
+}
+900.1.1={
+	holder=70020 # García I de Cantabria
+	liege=d_leon
+}
+910.12.20={
+	liege=k_leon
+}
+914.1.19={
+	holder=70021 # Ordoño II de León
+}
+924.1.1={
+	holder=70030 # Fruela II de Cantabria
+}
+925.7.1={
+	holder=70023 # Alfonso IV de León
+}
+931.1.1={
+	holder=107680 # Fernán González de Lara
+	liege=d_castilla
+}
+944.1.1={
+	holder=72550 # Ansur Fernández Ansúrez
+}
+945.1.1={
+	holder=107680 # Fernán González de Lara
+}
+970.6.1={
+	holder=107670 # García Fernández de Lara
+}
+995.1.1={
+	holder=107660 # Sancho García de Lara
+}
+1017.2.5={
+	holder=70286 # García Sánchez de Lara
+}
+1029.5.13={
+	holder=107510 # Fernando Sánchez Jimena
+}
+1037.9.4={
+	liege=k_castille
+}
+1065.12.27={
+	holder=107640 # Pedro Ansúrez
+	liege=k_leon
+	law = true_cognatic_succession
+}
+1072.10.7={
+	liege=k_castille
+}
+1093.12.8={
+	holder=107644 # Mayor Pérez
+}
+1148.4.23={
+	holder=71390 # Eylo Álvarez
+}
+1153.7.23={
+	holder=71397 # Fernando Rodríguez de Castro I
+	law = cognatic_succession
+}
+1185.8.16={
+	holder=71399 # Pedro Fernández de Castro I
+}
+1214.8.18={
+	holder=72389 # Álvar Pérez de Castro
+}
+1240.3.1={
+	holder=72390 # Eylo Pérez de Castro
+}
+1243.2.10={
+	holder=72211 # Rodrigo Giráldez de Castro
+}
+1259.1.1={
+	holder=72214 # Fernando Rodríguez de Castro II
+}
+1280.1.1={
+	holder=72215 # Pedro Fernández de Castro II
+}
+1287.1.1={
+	holder=72333 # Giraldo Guillén
+}
+1296.1.1={
+	holder=72449 # Sancho Pérez de Borgoña
+}
+1312.1.1={
+	holder=457531 # Pedro Sánchez de Borgoña
+}
+1319.7.25={
+	holder=457532 # Blanca Pérez de Borgoña
+}

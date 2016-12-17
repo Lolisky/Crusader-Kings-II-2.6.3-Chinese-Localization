@@ -1,0 +1,5272 @@
+101545 = {
+	name="ÍÐ¶û¹±ÄÉ"
+	female = yes
+	dynasty=100304
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="scholarly_theologian"
+	father=101543
+	mother=101544
+	1030.1.2={
+		birth=yes
+	}
+	1085.1.2={
+		death=yes
+	}
+}
+
+102506 = {
+	name="Î÷¸ñÀöµÂ"
+	female = yes
+	dynasty=475
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="charitable"
+	trait="temperate"
+	trait="martial_cleric"
+	father=102504
+	mother=102503
+	1024.1.2={
+		birth=yes
+	}
+	1087.1.2={
+		death=yes
+	}
+}
+
+102523 = {
+	name="ºÕÂ×"
+	dynasty=100273
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="diligent"
+	trait="brave"
+	trait="tough_soldier"
+	father=102522
+	1026.1.2={
+		birth=yes
+	}
+	1062.1.2= {
+		add_spouse = 102530
+	}
+	1081.1.2={
+		death=yes
+	}
+}
+
+102524 = {
+	name="ÀÊÏ£¶ûµÂ"
+	female = yes
+	dynasty=100273
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="humble"
+	trait="martial_cleric"
+	father=102523
+	mother=102530
+	1056.1.2={
+		birth=yes
+	}
+	1106.1.2={
+		death=yes
+	}
+}
+
+102525 = {
+	name="É£ÄáÍß"
+	female = yes
+	dynasty=100273
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="diligent"
+	trait="martial_cleric"
+	father=102523
+	mother=102530
+	1060.1.2={
+		birth=yes
+	}
+	1110.1.2={
+		death=yes
+	}
+}
+
+102528 = {
+	name="ÎÚ¶û·òÏ£¶ûµÂ"
+	female = yes
+	dynasty=499
+	martial=8
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="humble"
+	trait="hunchback"
+	trait="fortune_builder"
+	father=102527
+	mother=100512
+	1023.1.2={
+		birth=yes
+	}
+	1071.5.24={
+		death=yes
+	}
+}
+
+102530 = {
+	name="ÀÊÏ£¶ûµÂ"
+	female = yes
+	dynasty=499
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="just"
+	trait="flamboyant_schemer"
+	father=102529
+	1040.1.2={
+		birth=yes
+	}
+	1090.1.2={
+		death=yes
+	}
+}
+
+102531 = {
+	name="¹þÀ­¶û" # 'Hårdråde'
+	dynasty=499
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion=catholic
+	culture=norwegian
+	trait=just
+	trait=zealous
+	trait=envious
+	trait=brave
+	trait=skilled_tactician
+	trait=varangian
+	father=102500
+	mother=102501
+	1015.1.2={
+		birth=yes
+	}
+	1044.1.2={
+		add_spouse=633
+	}
+	1066.1.5={
+		add_claim = k_england
+		give_nickname = nick_haardraade
+	}
+
+	1066.9.14 = {
+		wealth = 250
+		
+		effect = {
+			spawn_unit = {
+				province = 57 # York
+				owner = ROOT
+				leader = ROOT
+				troops = {
+					light_infantry = { 1334 1334 }
+					heavy_infantry = { 1381 1381 }
+					pikemen = { 219 219 }
+					light_cavalry = { 421 421 }
+					archers = { 572 572 }
+				}
+				attrition = 1.0
+			}
+			spawn_unit = {
+				province = 57 # York
+				owner = ROOT
+				leader = 124 # Tostig
+				troops = {
+					light_infantry = { 1334 1334 }
+					heavy_infantry = { 1381 1381 }
+					pikemen = { 219 219 }
+					light_cavalry = { 421 421 }
+					archers = { 572 572 }
+				}
+				attrition = 1.0
+			}
+			spawn_unit = {
+				province = 57 # York
+				owner = ROOT
+				leader = 102534 # °ÂÀ­·ò Kyrre
+				troops = {
+					light_infantry = { 1334 1334 }
+					heavy_infantry = { 1381 1381 }
+					pikemen = { 219 219 }
+					light_cavalry = { 421 421 }
+					archers = { 572 572 }
+				}
+				attrition = 1.0
+			}
+		}
+	}
+	1066.9.26 = {
+		death = {
+			death_reason = death_battle
+			killer = 122
+		}
+	}
+}
+
+102532 = {
+	name="Âê¸ñÅ¬Ë¹"
+	dynasty=499
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="greedy"
+	trait="honest"
+	trait="humble"
+	trait="ill"
+	trait="legit_bastard"
+	trait="thrifty_clerk"
+	father=102531
+	mother=102551
+	1048.1.2={
+		birth=yes
+	}
+	1069.4.28={
+		death=yes
+	}
+}
+
+102533 = {
+	name="ÂêÀöÑÇ"
+	female = yes
+	dynasty=499
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="thrifty_clerk"
+	father=102531
+	mother=633
+	1047.1.2={
+		birth=yes
+	}
+	1066.9.26={
+		death=yes
+	}
+}
+
+102534 = {
+	name="°ÂÀ­·ò" # 'Kyrre'
+	dynasty=499
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="charitable"
+	trait="kind"
+	trait="patient"
+	trait="legit_bastard"
+	trait="fortune_builder"
+	father=102531
+	mother=102551
+	1050.1.1={
+		birth=yes
+	}
+	1068.1.1={
+		add_spouse=101516
+	}
+	1093.1.1={
+		death=yes
+	}
+}
+
+102535 = {
+	name="Ó¢¶ò¶û¸ñ"
+	female = yes
+	dynasty=499
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	father=102531
+	mother=633
+	1046.1.2={
+		birth=yes
+	}
+	1120.1.2={
+		death=yes
+	}
+}
+
+102536 = {
+	name="ÀÊÏ£¶ûµÂ"
+	# AKA: ÀÊÏ£¶ûµÂ
+	female = yes
+	dynasty=499
+	martial=4
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="just"
+	trait="craven"
+	trait="underhanded_rogue"
+	father=102531
+	mother=633
+	1045.1.4={
+		birth=yes
+	}
+	1100.1.4={
+		death=yes
+	}
+}
+
+102538 = {
+	name="ÅÁ¶û"
+	dynasty=461
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="zealous"
+	trait="hunchback"
+	trait="twin"
+	trait="tough_soldier"
+	father=102537
+	mother=102505
+	1043.1.1={
+		birth=yes
+	}
+	1076.1.1={
+		add_spouse=220035
+	}
+	1098.1.1={
+		death=yes
+	}
+}
+
+102539 = {
+	name="¶òÀ¶"
+	dynasty=461
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="lisp"
+	trait="twin"
+	trait="martial_cleric"
+	father=102537
+	mother=102505
+	1043.1.1={
+		birth=yes
+	}
+	1058.1.1={
+		add_spouse=161327
+	}
+	1099.1.1={
+		death=yes
+	}
+}
+
+102540 = {
+	name="ÍÐÇ‰"
+	female = yes
+	dynasty=460
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="scholarly_theologian"
+	1038.1.2={
+		birth=yes
+	}
+	1088.1.2={
+		death=yes
+	}
+}
+
+102547 = {
+	name="°ÂÈðÄá"
+	dynasty=455
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="norse"
+	trait="charitable"
+	trait="temperate"
+	trait="clubfooted"
+	trait="flamboyant_schemer"
+	father=102546
+	mother=102513
+	1019.1.2={
+		birth=yes
+	}
+	1040.1.1={
+		add_spouse=102506
+	}
+	1055.1.2={
+		death=yes
+	}
+}
+
+102551 = {
+	name="ÍÐÇ‰"
+	female = yes
+	dynasty=453
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="envious"
+	trait="fortune_builder"
+	father=102550
+	mother=102566
+	1017.1.2={
+		birth=yes
+	}
+	1067.1.2={
+		death=yes
+	}
+}
+
+102553 = {
+	name="Ê²¿Æ·òÌØ"
+	dynasty=453
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="patient"
+	trait="temperate"
+	trait="martial_cleric"
+	father=102552
+	1040.1.2={
+		birth=yes
+	}
+	1060.1.27={
+		add_spouse = 102557
+	}
+	1103.1.2={
+		death=yes
+	}
+}
+
+102557 = {
+	name="¹Å×¨¶û"
+	female = yes
+	dynasty=448
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="wroth"
+	trait="underhanded_rogue"
+	father=102556
+	mother=102555
+	1029.1.27={
+		birth=yes
+	}
+	1079.1.27={
+		death=yes
+	}
+}
+
+102558 = {
+	name="ÍÐÇ‰"
+	female = yes
+	dynasty=453
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="flamboyant_schemer"
+	father=102553
+	mother=102557
+	1064.1.2={
+		birth=yes
+	}
+	1114.1.2={
+		death=yes
+	}
+}
+
+102562 = {
+	name="Èð°²·Æ¸ï"
+	female = yes
+	dynasty=447
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="chaste"
+	trait="honest"
+	trait="scholarly_theologian"
+	father=102561
+	1026.1.2={
+		birth=yes
+	}
+	1076.1.2={
+		death=yes
+	}
+}
+
+102563 = {
+	name="²¼Àµ¾Þ·ò"
+	dynasty=447
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="craven"
+	trait="skilled_tactician"
+	father=102560
+	1021.1.2={
+		birth=yes
+	}
+	1081.1.1={
+		death=yes
+	}
+}
+
+102564 = {
+	name="Ë¹Î¤¶÷"
+	dynasty=447
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="diligent"
+	trait="envious"
+	trait="tough_soldier"
+	father=102563
+	1055.1.1={
+		birth=yes
+	}
+	1093.1.1={
+		add_spouse=101516
+	}
+	1105.1.2={
+		death=yes
+	}
+}
+
+102568 = {
+	name="Ë¹Î¤¶÷"
+	dynasty=446
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="martial_cleric"
+	father=102567
+	mother=102515
+	1025.1.2={
+		birth=yes
+	}
+	1061.1.2={
+		add_spouse = 101522
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+
+102569 = {
+	name="°¢¶û·ðÒÁÌØ"
+	female = yes
+	dynasty=446
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="just"
+	trait="temperate"
+	trait="harelip"
+	trait="underhanded_rogue"
+	father=102567
+	mother=102515
+	1030.1.2={
+		birth=yes
+	}
+	1080.1.2={
+		death=yes
+	}
+}
+
+102570 = {
+	name="ÒÁ¼Ò½Ü¸ï"
+	# AKA: Ingebjorg
+	female = yes
+	dynasty=446
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="scholarly_theologian"
+	father=102567
+	mother=102515
+	1034.1.2={
+		birth=yes
+	}
+	1084.1.2={
+		death=yes
+	}
+}
+
+102571 = {
+	name="¿âÌØ"
+	dynasty=446
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	father=102568
+	mother=101522
+	1065.1.2={
+		birth=yes
+	}
+	1115.1.2={
+		death=yes
+	}
+}
+
+102574 = {
+	name="Àµ·û¶û"
+	dynasty=445
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="just"
+	trait="amateurish_plotter"
+	father=102573
+	1017.1.2={
+		birth=yes
+	}
+	1067.1.1={
+		death=yes
+	}
+}
+
+102575 = {
+	name="°ÂË¹ÌØÄªµÂ"
+	dynasty=444
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="patient"
+	trait="flamboyant_schemer"
+	1020.1.2={
+		birth=yes
+	}
+	1070.1.2={
+		death=yes
+	}
+}
+
+102576 = {
+	name="¸çµÃ·¨´Ä"
+	dynasty=444
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="cynical"
+	trait="lisp"
+	trait="tough_soldier"
+	father=102575
+	1052.1.2={
+		birth=yes
+	}
+	1102.1.2={
+		death=yes
+	}
+}
+
+102577 = {
+	name="¹þ¿µ"
+	# AKA: Haakon
+	dynasty=499
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="ill"
+	trait="thrifty_clerk"
+	father=102532 # Âê¸ñÅ¬Ë¹ ¹þÀ­¶ûson
+	1069.1.1={
+		birth=yes
+	}
+	1094.6.6={
+		death=yes
+	}
+}
+
+144248 = {
+	name="°Â¸ñÃÉ"
+	dynasty=455
+	religion="catholic"
+	culture="norwegian"
+	father=102547
+	mother=102506
+	1050.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+
+144250 = {
+	name="ÇÇ¶÷"
+	dynasty=101706
+	religion="catholic"
+	culture="norwegian"
+	father=202021
+	1215.1.1={
+		birth=yes
+	}
+	1274.1.1={
+		death=yes
+	}
+}
+
+144632 = {
+	name="ÌØ¶ûÍÐ"
+	dynasty=101891
+	religion="catholic"
+	culture="norwegian"
+	father = 20579
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+144633 = {
+	name="¹þÂ³¶û"
+	dynasty=101891
+	religion="catholic"
+	culture="norwegian"
+	father = 144632
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+144647 = {
+	name="¼ÀËÕ¶ù"
+	dynasty=101891
+	religion="catholic"
+	culture="norwegian"
+	father=202012
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	1268.1.12={
+		death="1268.1.12"
+	}
+}
+
+200003 = {
+	name="Ë¾÷ìÓÑ"
+	# AKA: Styrbjorn
+	dynasty=100282
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="diligent"
+	trait="tough_soldier"
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+
+20016 = {
+	name="ÂÞ¶¨"
+	dynasty=100268
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="zealous"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20017 = {
+	name="ÇÇ¶÷"
+	dynasty=100270
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20018 = {
+	name="ÍÐ½Ü¶ù"
+	dynasty=100034
+	martial=8
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20019 = {
+	name="·Ò¶÷"
+	dynasty=100284
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="zealous"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+200601 = {
+	name="ÎÚ¶û·òÏ£¶ûµÂ"
+	female = yes
+	martial=7
+	diplomacy=2
+	intrigue=10
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="deceitful"
+	trait="greedy"
+	trait="intricate_webweaver"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1148.1.1={
+		death="1148.1.1"
+	}
+}
+
+202001 = {
+	name="Âê¸ñÅ¬Ë¹"
+	dynasty=100268
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+202002 = {
+	name="¹Å×¨¶û"
+	dynasty=100269
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="slothful"
+	trait="honest"
+	trait="envious"
+	trait="ill"
+	trait="charismatic_negotiator"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+202003 = {
+	name="°Â¶Ù"
+	dynasty=100270
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="brave"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+202004 = {
+	name="¹þ¿Ø"
+	dynasty=100271
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="temperate"
+	trait="amateurish_plotter"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+202005 = {
+	name="ÇÇ¶÷"
+	dynasty=499
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="zealous"
+	trait="cynical"
+	trait="diligent"
+	trait="martial_cleric"
+	trait="ambitious"
+	father=202512
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+202006 = {
+	name="¿ËÀû"
+	dynasty=468
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+202007 = {
+	name="ÒÁÀûÄÈ"
+	dynasty=100275
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="arbitrary"
+	trait="cynical"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+202008 = {
+	name="ÍÐ¶ûË¹Ì¹"
+	dynasty=100276
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+202010 = {
+	name="±ÈÔ¼¶÷"
+	dynasty=100278
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="brave"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+202011 = {
+	name="¼ÀËÕ¶ù"
+	dynasty=101891
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="deceitful"
+	trait="underhanded_rogue"
+	father = 144633
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1206.6.27={
+		death="1206.6.27"
+	}
+}
+
+202012 = {
+	name="·ð¶ûèó¶Ù"
+	dynasty=101891
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="charitable"
+	trait="patient"
+	trait="martial_cleric"
+	father=202011
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1235.9.1={
+		death="1235.9.1"
+	}
+}
+
+202013 = {
+	name="¹þ¿Ë½Ü¶û"
+	dynasty=100033
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="envious"
+	trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+202014 = {
+	name="Ë¹ÅµÀû"
+	dynasty=100001
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="diligent"
+	trait="thrifty_clerk"
+	1179.1.1={
+		birth="1179.1.1"
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+202017 = {
+	name="·©Â¬¶ù"
+	# AKA: Thorhallur
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="scholarly_theologian"
+	1101.1.1={
+		birth="1101.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+
+202018 = {
+	name="·ð¶ûÂ¬¶ù"
+	# AKA: Thorlakur
+	dynasty=101908
+	martial=6
+	diplomacy=6
+	intrigue=9
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="chaste"
+	trait="proud"
+	trait="zealous"
+	trait="detached_priest"
+	father=202017
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1183.1.1={
+		death="1183.1.1"
+	}
+}
+
+202019 = {
+	name="À×º£¶û"
+	female = yes
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="gluttonous"
+	trait="charismatic_negotiator"
+	father=202017
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1205.1.1={
+		death="1205.1.1"
+	}
+}
+
+202020 = {
+	name="°¢Ë¹±È¶÷"
+	# AKA: Asbjorn
+	dynasty=101706
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="envious"
+	trait="skilled_tactician"
+	1129.1.2={
+		birth="1129.1.2"
+	}
+	1164.1.2={
+		add_spouse=202023
+	}
+	1184.1.2={
+		death="1184.1.2"
+	}
+}
+
+202021 = {
+	name="±¾Ë¹±È"
+	# AKA: Gunnbjorn
+	dynasty=101706
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="humble"
+	trait="tough_soldier"
+	father=202020
+	mother=202023
+	1167.1.2={
+		birth="1167.1.2"
+	}
+	1247.1.1={
+		death="1247.1.1"
+	}
+}
+
+202022 = {
+	name="ÇÇ¶÷"
+	dynasty=101706
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="deceitful"
+	trait="tough_soldier"
+	father=202020
+	mother=202023
+	1179.1.2={
+		birth="1179.1.2"
+	}
+	1229.1.2={
+		death="1229.1.2"
+	}
+}
+
+202023 = {
+	name="Î÷¸ñÀöµÂ"
+	female = yes
+	dynasty=101892
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="amateurish_plotter"
+	father=202024
+	mother=202025
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1183.1.1={
+		death="1183.1.1"
+	}
+}
+
+202024 = {
+	name="ÇÇ¶÷"
+	# AKA: Jon
+	dynasty=101892
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="patient"
+	trait="just"
+	trait="wroth"
+	trait="martial_cleric"
+	father=202026
+	mother=202027
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1146.1.1={
+		add_spouse = 202025
+	}
+	1171.1.1={
+		add_spouse = 202019
+	}
+	1197.1.1={
+		death="1197.1.1"
+	}
+}
+
+202025 = {
+	name="¹þ¶àÀ²"
+	female = yes
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="amateurish_plotter"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+202026 = {
+	name="ÂåÌØ"
+	dynasty=101892
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="scholarly_theologian"
+	father = 20581
+	1076.1.1={
+		birth="1076.1.1"
+	}
+	1120.1.1={
+		add_spouse=202027
+	}
+	1133.1.1={
+		death="1133.1.1"
+	}
+}
+
+202027 = {
+	name="ÍÐÀ­"
+	female = yes
+	dynasty=499
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="legit_bastard"
+	trait="amateurish_plotter"
+	father=202511
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1167.1.1={
+		death="1167.1.1"
+	}
+}
+
+202028 = {
+	name="Ê¥µÃ"
+	# AKA: Saemund
+	dynasty=101892
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="humble"
+	trait="honest"
+	trait="patient"
+	trait="scholarly_theologian"
+	father=202024
+	mother=202025
+	1154.1.1={
+		birth="1154.1.1"
+	}
+	1222.11.7={
+		death="1222.11.7"
+	}
+}
+
+202029 = {
+	name="±¤¶÷"
+	# AKA: Pall
+	dynasty=101892
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="bastard"
+	trait="honest"
+	trait="chaste"
+	trait="mastermind_theologian"
+	father=202024
+	mother=202019
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+202030 = {
+	name="°Í¶ûµÃ"
+	# AKA: Baard
+	dynasty=2033
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="humble"
+	trait="tough_soldier"
+	father=202040
+	mother=202042
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1184.1.1={
+		add_spouse=202506
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+202031 = {
+	name="ÓÈ»ù¶÷"
+	female = yes
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="amateurish_plotter"
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1183.1.1={
+		death="1183.1.1"
+	}
+}
+
+202032 = {
+	name="Ó¢¸ñ"
+	dynasty=2033
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	father=202030
+	mother=202506
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1217.4.23={
+		death="1217.4.23"
+	}
+}
+
+202033 = {
+	name="Èð¸ñÀÝ"
+	female = yes
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="temperate"
+	trait="humble"
+	trait="honest"
+	trait="charismatic_negotiator"
+	1163.1.1={
+		birth="1163.1.1"
+	}
+	1213.1.1={
+		death="1213.1.1"
+	}
+}
+
+202034 = {
+	name="Ë¾¹ÅÀÕ"
+	# AKA: Skule Baardsson
+	dynasty=2033
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="charismatic_negotiator"
+	father=202030 # Bård Guttormsson
+	mother=202506
+	1189.1.1={
+		birth="1189.1.1"
+	}
+	1240.5.24={
+		death="1240.5.24"
+	}
+}
+
+202035 = {
+	name="Âê¸ñÀöÌØ" #Âê¸ñÀöÌØe Skulesdotter
+	# AKA: Margareta Skulesdotter
+	female=yes
+	dynasty=2033
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="charismatic_negotiator"
+	father=202034 # Skule Bårdsson
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+202040 = {
+	name="¹ÅÍÐÄ·"
+	dynasty=2033
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="honest"
+	trait="tough_soldier"
+	father=161124
+	mother=102558
+	1101.1.1={
+		birth="1101.1.1"
+	}
+	1140.1.2={
+		add_spouse=202041
+	}
+	1149.1.24={
+		add_spouse = 202042
+	}
+	1163.1.1={
+		death="1163.1.1"
+	}
+}
+
+202041 = {
+	name="¶ò¶ûÌØ"
+	female = yes
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="charismatic_negotiator"
+	1119.1.1={
+		birth="1119.1.1"
+	}
+	1148.1.24={
+		death="1148.1.24"
+	}
+}
+
+202042 = {
+	name="Î÷¸ñÀöµÂ"
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="amateurish_plotter"
+	1128.1.1={
+		birth="1128.1.1"
+	}
+	1150.1.24={
+		death="1150.1.24"
+	}
+}
+
+202043 = {
+	name="Ó¢¸ñÌØ"
+	female = yes
+	dynasty=2033
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="amateurish_plotter"
+	father=202040
+	mother=202041
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1165.5.5={
+		death="1165.5.5"
+	}
+}
+
+202050 = {
+	name="°£¶ûÁÖ" # Skakke
+	dynasty=1030031
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="clubfooted"
+	trait="tough_soldier"
+	father=183911
+	mother=183913
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1145.1.1={
+		add_spouse=222596
+	}
+	1150.1.1={
+		trait="crusader"
+	}
+	1179.6.18={
+		death="1179.6.18"
+	}
+}
+
+202051 = {
+	name="Âê¸ñÅ¬Ë¹"
+	dynasty=1030031
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="diligent"
+	trait="tough_soldier"
+	father=202050 # °£¶ûÁÖ Skakke
+	mother=222596
+	1156.1.1={
+		birth="1156.1.1"
+	}
+	1172.1.1={
+		add_spouse=161128
+	}
+	1184.1.16={
+		death="1184.1.16"
+	}
+}
+
+202052 = {
+	name="Î÷¾Ó¶û"
+	dynasty=1030031
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="proud"
+	trait="tough_soldier"
+	trait="legit_bastard"
+	father=202051
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1194.4.3={
+		death="1194.4.3"
+	}
+}
+
+202060 = {
+	name="Äá¿ÉÀ­Ë¹"
+	dynasty=100272
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="proud"
+	trait="diligent"
+	trait="martial_cleric"
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+
+202500 = {
+	name="Ë¹Î¤À×"
+	dynasty=499
+	martial=9
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="diligent"
+	trait="cynical"
+	trait="just"
+	trait="martial_cleric"
+	father=202501
+	1152.1.1={
+		birth="1152.1.1"
+	}
+	1170.1.2={
+		add_spouse = 202515
+	}
+	1185.6.1={
+		add_spouse=200506 #Margaret of Sweden
+	}
+	1202.3.9={
+		death="1202.3.9"
+	}
+}
+
+202501 = {
+	name="Î÷¾Ó¶û" # 'Munn'
+	dynasty=499
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="legit_bastard"
+	trait="gluttonous"
+	trait="flamboyant_schemer"
+	father=202510
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1155.6.10={
+		death="1155.6.10"
+	}
+}
+
+202502 = {
+	name="¹þ¿µ"
+	# AKA: Haakon
+	dynasty=499
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="tough_soldier"
+	father=202500
+	mother=202515
+	1177.1.1={
+		birth="1177.1.1"
+	}
+	1204.1.1={
+		death="1204.1.1"
+	}
+}
+
+202503 = {
+	name="Î÷¾Ó¶û" # Lavard
+	dynasty=499
+	martial=5
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="chaste"
+	trait="greedy"
+	trait="martial_cleric"
+	father=202500
+	mother=202515
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1200.6.6={
+		death="1200.6.6"
+	}
+}
+
+202504 = {
+	name="Ó¢¶ò±¤"
+	female = yes
+	dynasty=499
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="envious"
+	trait="gluttonous"
+	trait="inbred"
+	trait="martial_cleric"
+	father=202500
+	mother=202515
+	1181.1.2={
+		birth="1181.1.2"
+	}
+	1231.1.2={
+		death="1231.1.2"
+	}
+}
+
+202505 = {
+	name="ÈûÎ÷ÀòÑÇ"
+	female = yes
+	dynasty=499
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="humble"
+	father=202500
+	mother=202515
+	1183.1.2={
+		birth="1183.1.2"
+	}
+	1233.1.2={
+		death="1233.1.2"
+	}
+}
+
+202506 = {
+	name="ÈûÎ÷ÀòÑÇ"
+	female = yes
+	dynasty=499
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="proud"
+	trait="lustful"
+	trait="charismatic_negotiator"
+	father=202501
+	1155.1.2={
+		birth="1155.1.2"
+	}
+	1189.11.29={
+		death="1189.11.29"
+	}
+}
+
+202507 = {
+	name="¹þ¿µ"
+	# AKA: Haakon Herdebrei
+	dynasty=499
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="gregarious"
+	trait="tough_soldier"
+	father=202501
+	1147.1.1={
+		birth="1147.1.1"
+	}
+	1162.7.7={
+		death="1162.7.7"
+	}
+}
+
+202508 = {
+	name="¹ÅÍÐÄ·"
+	# AKA: Guttorm Sigurdsson
+	dynasty=499
+	martial=5
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	father=202503
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1204.8.11={
+		death="1204.8.11"
+	}
+}
+
+202509 = {
+	name="¹þ¿µ"
+	# AKA: Haakon Haakonson
+	dynasty=499
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="charismatic_negotiator"
+	father=202502
+	1204.1.1={
+		birth="1204.1.1"
+	}
+	1230.1.1={
+		add_spouse=202035 # Margareta Skulesdotter
+	}
+	1263.12.15={
+		death="1263.12.15"
+	}
+}
+
+202510 = {
+	name="¹þÀ­¶û" # Gille
+	dynasty=499
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="gluttonous"
+	trait="legit_bastard"
+	trait="tough_soldier"
+	father=202511
+	1103.1.1={
+		birth="1103.1.1"
+	}
+    1134.1.1={
+		add_spouse=100554 #Ingrid ÀÊÍß¶ûµÂsdotter
+	}
+	1136.12.14={
+		death="1136.12.14"
+	}
+}
+
+202511 = {
+	name="Âê¸ñÅ¬Ë¹" # 'Barfot'
+	dynasty=499
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="diligent"
+	trait="legit_bastard"
+	trait="tough_soldier"
+	father=102534 # Olaf Kyrre
+	1073.1.1={
+		birth="1073.1.1"
+	}
+	1101.1.1={
+		add_spouse=200494 # Margareta Ó¢¶òsdotter
+	}
+	
+	1103.1.25={
+		death="1103.1.25"
+	}
+}
+
+202512 = {
+	name="Ó¢¸ñ" # Krokrygg
+	dynasty=499
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="hunchback"
+	trait="tough_soldier"
+	father=202510
+	mother=100554 #Ingrid ÀÊÍß¶ûµÂsdotter
+	1135.1.2={
+		birth="1135.1.2"
+	}
+	1157.8.21={
+		give_nickname=nick_the_hunchback
+	}
+	1161.1.5={
+		death="1161.1.5"
+	}
+}
+
+202513 = {
+	name="±È¶û¼ª´ï"
+	female = yes
+	dynasty=499
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="harelip"
+	trait="lustful"
+	trait="legit_bastard"
+	trait="flamboyant_schemer"
+	father=202510
+	1136.1.2={
+		birth="1136.1.2"
+	}
+	1186.1.2={
+		death="1186.1.2"
+	}
+}
+
+202514 = {
+	name="°£Ë¹Ì©Òò"
+	# AKA: Oystein ¹þÀ­¶ûsson
+	dynasty=499
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="legit_bastard"
+	trait="tough_soldier"
+	father=202510
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1157.8.21={
+		death="1157.8.21"
+	}
+}
+
+202515 = {
+	name="°¢Ë¹ÌØÀö"
+	female = yes
+	dynasty=375
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="ill"
+	trait="flamboyant_schemer"
+	father=202516
+	1152.1.2={
+		birth="1152.1.2"
+	}
+	1185.1.29={
+		death="1185.1.29"
+	}
+}
+
+202516 = {
+	name="ÂÞÌØ"
+	dynasty=100033
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="zealous"
+	trait="wroth"
+	trait="martial_cleric"
+	1132.1.2={
+		birth="1132.1.2"
+	}
+	1182.1.2={
+		death="1182.1.2"
+	}
+}
+
+203077 = {
+	name="ÒÁ¼§¶û"
+	# AKA: ±ÈÔ¼¾Ó
+	female = yes
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="just"
+	trait="proud"
+	trait="lustful"
+	trait="charitable"
+	trait="elusive_shadow"
+	1156.1.2={
+		birth="1156.1.2"
+	}
+	1183.1.2={
+		death="1183.1.2"
+	}
+}
+
+203080 = {
+	name="Âê¸ñÅ¬Ë¹"
+	dynasty=20083
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="temperate"
+	trait="diligent"
+	trait="tough_soldier"
+	father=203007
+	mother=203077
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1239.7.1={
+		death="1239.7.1"
+	}
+}
+
+20579 = {
+	name="°£¶ûË¹·ð"
+	dynasty=101891
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="diligent"
+	trait="flamboyant_schemer"
+	1006.1.1={
+		birth="1006.1.1"
+	}
+	1080.6.5={
+		death="1080.6.5"
+	}
+}
+
+20580 = {
+	name="Ë¾¸ñ·ÖË¾"
+	dynasty=101892
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="greedy"
+	trait="arbitrary"
+	trait="patient"
+	trait="honest"
+	trait="martial_cleric"
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1088.1.1={
+		death="1088.1.1"
+	}
+}
+
+20581 = {
+	name="É½Ä·¶à¶û"
+	dynasty=101892
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="martial_cleric"
+	father=20580
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+214001 = {
+	name="°Â·Æ¿Ë"
+	female = yes
+	dynasty=556
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="norwegian"
+	trait="temperate"
+	trait="lustful"
+	trait="charismatic_negotiator"
+	father=220021
+	mother=220045
+	1164.1.1={
+		birth="1164.1.1"
+	}
+	1214.1.1={
+		death="1214.1.1"
+	}
+}
+
+220020 = {
+	name="¹þÀ­¶û"
+	# AKA: ¹þÀ­¶û Maddadarson
+	dynasty=100044
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="just"
+	trait="grey_eminence"
+	father = 7390
+	mother=220037
+	1134.1.1={
+		birth="1134.1.1"
+	}
+	1150.1.1={
+		add_spouse=220039
+	}
+	1175.1.1={
+		add_spouse = 220038
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+220021 = {
+	name="¹Å×ó¶û"
+	# AKA: Gudrod 'Svarte' Olafsson
+	dynasty=556
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="greedy"
+	trait="zealous"
+	trait="cynical"
+	trait="martial_cleric"
+	trait="ill"
+	father=220023
+	mother=220024
+	1135.1.11={
+		birth="1135.1.11"
+	}
+	1155.1.1={
+		add_spouse=220045
+	}
+	1187.11.23={
+		death="1187.11.23"
+	}
+}
+
+220022 = {
+	name="ÀÊÍß¶ûµÂ"
+	# AKA: ÀÊÍß¶ûµÂ Gudrodsson
+	dynasty=556
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="greedy"
+	trait="proud"
+	trait="tough_soldier"
+	father=220021
+	mother=220045
+	1164.1.1={
+		birth="1164.1.1"
+	}
+	1185.1.1={
+		add_spouse=220047
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+220023 = {
+	name="°ÂÀ­·ò"
+	# AKA: Olaf 'Raude' Gudrodsson
+	dynasty=556
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=5788
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1135.1.1={
+		add_spouse=220024
+	}
+	1153.1.1={
+		death="1153.1.1"
+	}
+}
+
+220025 = {
+	name="Ó¢¸ñ"
+	female = yes
+	dynasty=461
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=220036
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1119.1.1={
+		death="1119.1.1"
+	}
+}
+
+220026 = {
+	name="ÀÊÏ£¶ûµÂ"
+	female = yes
+	dynasty=556
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=220023
+	mother=220025
+	1117.1.11={
+		birth="1117.1.11"
+	}
+	1166.1.11={
+		death="1166.1.11"
+	}
+}
+
+220035 = {
+	name="ÀÊÏ£¶ûµÂ"
+	female = yes
+	dynasty=466
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="humble"
+	trait="martial_cleric"
+	1056.1.2={
+		birth="1056.1.2"
+	}
+	1097.1.2={
+		death="1097.1.2"
+	}
+}
+
+220036 = {
+	name="¹þ¿µ"
+	# AKA: Haakon Paulsson
+	dynasty=461
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	father=102538
+	mother=220035
+	1080.1.2={
+		birth="1080.1.2"
+	}
+	1146.1.2={
+		death="1146.1.2"
+	}
+}
+
+220037 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes
+	dynasty=461
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	father=220036
+	1097.1.2={
+		birth="1097.1.2"
+	}
+	1113.1.1={
+			add_spouse = 7390
+	}
+	1149.1.2={
+		death="1149.1.2"
+	}
+}
+
+220040 = {
+	name="ºàÀû¿Ë"
+	dynasty=100044
+	martial=2
+	diplomacy=4
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="norwegian"
+	trait="cynical"
+	trait="amateurish_plotter"
+	father=220020
+	mother=220039
+	1157.1.1={
+		birth="1157.1.1"
+	}
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+
+220041 = {
+	name="·ð¶û·Ò"
+	dynasty=100044
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="wroth"
+	trait="tough_soldier"
+	father=220020
+	mother=220038
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1216.1.1={
+		death="1216.1.1"
+	}
+}
+
+220046 = {
+	name="°ÂÀ­·ò"
+	# AKA: Olaf 'Svarte' Gudrodsson
+	dynasty=556
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="wroth"
+	trait="thrifty_clerk"
+	father=220021
+	mother=220045
+	1173.1.1={
+		birth="1173.1.1"
+	}
+	1237.1.1={
+		death="1237.1.1"
+	}
+}
+
+220048 = {
+	name="¹Å×óÌØ"
+	# AKA: Gudrod ÀÊÍß¶ûµÂsson
+	dynasty=556
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=220022
+	mother=220047
+	1186.1.1={
+		birth="1186.1.1"
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+
+222595 = {
+	name="Î÷¾Ó¶û"
+	# AKA: Sigurd Âê¸ñÅ¬Ë¹son
+	dynasty=499
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="lunatic"
+	trait="brave"
+	trait="zealous"
+	trait="legit_bastard"
+	trait="tough_soldier"
+	father=202511
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1110.1.1={
+		trait="crusader"
+		give_nickname=nick_the_crusader
+	}
+	1118.1.2={
+		add_spouse=222594
+	}
+	1128.1.2={
+		remove_spouse=222594
+	}
+	1130.3.26={
+		death="1130.3.26"
+	}
+}
+
+222596 = {
+	name="¿¨ËþÁÕÄÈ"
+	# AKA: Katarina Sigurdsdotter
+	female = yes
+	dynasty=499
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="zealous"
+	trait="amateurish_plotter"
+	father=222595
+	mother=222594
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1179.1.1={
+		death="1179.1.1"
+	}
+}
+
+222597 = {
+	name="°£Ë¹Ì©Òò"
+	# AKA: Oystein Âê¸ñÅ¬Ë¹son
+	dynasty=499
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="brave"
+	trait="legit_bastard"
+	trait="tough_soldier"
+	father=202511 # Âê¸ñÅ¬Ë¹ Barfot
+	1089.1.1={
+		birth="1089.1.1"
+	}
+	1123.8.29={
+		death="1123.8.29"
+	}
+}
+
+222598 = {
+	name="°ÂÀ­·ò"
+	# AKA: Olaf Âê¸ñÅ¬Ë¹son
+	dynasty=499
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="legit_bastard"
+	trait="thrifty_clerk"
+	father=202511 # Âê¸ñÅ¬Ë¹ Barfot
+	1099.1.1={
+		birth="1099.1.1"
+	}
+	1115.12.22={
+		death="1115.12.22"
+	}
+}
+
+222599 = {
+	name="Âê¸ñÅ¬Ë¹" # Âê¸ñÅ¬Ë¹ The Blind IV of Norway 
+	# AKA: Âê¸ñÅ¬Ë¹ Sigurdsson
+	dynasty=499
+	religion="catholic"
+	culture="norwegian"
+	trait="legit_bastard"
+	trait="amateurish_plotter"
+	father=222595
+	1115.1.1={
+		birth="1115.1.1"
+	}
+	1135.1.7={
+		trait="blinded"
+		trait="maimed"
+		give_nickname=nick_the_blind
+	}
+	1139.11.12={
+		death="1139.11.12"
+	}
+}
+
+232686 = {
+	name="¶ûË¹ÅÁ¿Ë"
+	dynasty=25046
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="brave"
+	trait="tough_soldier"
+	father=232683
+	1174.1.1={
+		birth="1174.1.1"
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+40610 = {
+	name="¹¢ÄÈ"
+	dynasty=108
+	martial=6
+	diplomacy=9
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="diligent"
+	trait="charismatic_negotiator"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1041.1.1={
+		add_spouse = 40611
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+40611 = {
+	name="Î¤µÏ"
+	# AKA: Vigdis
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="flamboyant_schemer"
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1071.1.1={
+		death="1071.1.1"
+	}
+}
+
+40612 = {
+	name="°²²©µä"
+	# AKA: Ulfhedinn
+	dynasty=108
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="tough_soldier"
+	father=40610
+	mother=40611
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+40613 = {
+	name="ÔóÀï¶û"
+	dynasty=108
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="honest"
+	trait="tough_soldier"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1064.1.2={
+		add_spouse=40614
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+40614 = {
+	name="ÔóµÂ¶û"
+	# AKA: Isgerdur
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="temperate"
+	trait="amateurish_plotter"
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1099.1.1={
+		death="1099.1.1"
+	}
+}
+
+40615 = {
+	name="Èø¶ûèó¶à"
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+450660 = {
+	name="ÇÇ¶÷"
+	# AKA: Jon Haftorsson
+	dynasty=145
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="martial_cleric"
+	father=450661
+	mother=450662
+	1312.1.2={
+		birth="1312.1.2"
+	}
+	1362.1.2={
+		death="1362.1.2"
+	}
+}
+
+450661 = {
+	name="¹þ·ðÍÓ"
+	# AKA: Haftore Jonsson
+	dynasty=145
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="humble"
+	trait="skilled_tactician"
+	1275.1.2={
+		birth="1275.1.2"
+	}
+	1302.1.2={
+		add_spouse=450662
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+450662 = {
+	name="°¬¸ñË¹"
+	# AKA: Agnes Hakonsdotter
+	female = yes
+	dynasty=499
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="legit_bastard"
+	trait="martial_cleric"
+	father=452510
+	1288.1.2={
+		birth="1288.1.2"
+	}
+	1319.1.2={
+		death="1319.1.2"
+	}
+}
+
+450670 = {
+	name="Ë¾¸ñ"
+	# AKA: Sigurd Haftorsson
+	dynasty=145
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="envious"
+	trait="proud"
+	trait="patient"
+	trait="martial_cleric"
+	father=450661
+	mother=450662
+	1315.1.2={
+		birth="1315.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+450730 = {
+	name="·Ò¶÷"
+	# AKA: ·Ò¶÷ °Â¸ñÃÉsson
+	dynasty=135
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="slothful"
+	trait="tough_soldier"
+	father=450731
+	mother=450732
+	1292.1.2={
+		birth="1292.1.2"
+	}
+	1301.1.2={
+		add_spouse = 450750
+	}
+	1342.1.2={
+		death="1342.1.2"
+	}
+}
+
+450731 = {
+	name="°Â¸ñÃÉ"
+	# AKA: °Â¸ñÃÉ Sigurdsson
+	dynasty=135
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="skilled_tactician"
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1280.1.2={
+		add_spouse=450732
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+450732 = {
+	name="ÒÁÍÞ"
+	# AKA: Eyvor Gautesdotter
+	female = yes
+	dynasty=135
+	martial=5
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="martial_cleric"
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+450733 = {
+	name="°Â¸ñÃÉ"
+	# AKA: °Â¸ñÃÉ ·Ò¶÷sson
+	dynasty=135
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="honest"
+	trait="amateurish_plotter"
+	father=450730
+	mother=450750
+	1315.1.2={
+		birth="1315.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+450740 = {
+	name="ÒÁÍß¶û"
+	# AKA: ÒÁÍß¶û °Â¸ñÃÉsson
+	dynasty=134
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="patient"
+	trait="hunchback"
+	trait="tough_soldier"
+	father=450731
+	mother=450732
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1306.1.2={
+		add_spouse = 450741
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+450741 = {
+	name="¿ËÀïË¹Í¢"
+	# AKA: Kristin Toresdotter
+	female = yes
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="flamboyant_schemer"
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+450742 = {
+	name="Î÷Èû¶û"
+	# AKA: Sissel ÒÁÍß¶ûsdotter
+	female = yes
+	dynasty=134
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="envious"
+	trait="thrifty_clerk"
+	father=450740
+	mother=450741
+	1310.1.2={
+		birth="1310.1.2"
+	}
+	1360.1.2={
+		death="1360.1.2"
+	}
+}
+
+450750 = {
+	name="¹Å¶Ü¶ù"
+	# AKA: Gudrun Saebjornsdotter
+	female = yes
+	dynasty=133
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="chaste"
+	trait="envious"
+	trait="thrifty_clerk"
+	father=450751
+	mother=450752
+	1285.1.2={
+		birth="1285.1.2"
+	}
+	1335.1.2={
+		death="1335.1.2"
+	}
+}
+
+450751 = {
+	name="É³¶ûË¹°î"
+	# AKA: Saebjorn Helgesson
+	dynasty=133
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="honest"
+	trait="envious"
+	trait="flamboyant_schemer"
+	1255.1.2={
+		birth="1255.1.2"
+	}
+	1280.1.2={
+		add_spouse=450752
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+450752 = {
+	name="ÀÊÏ£¶ûµÂ"
+	# AKA: ÀÊÏ£¶ûµÂ Jonsdotter
+	female = yes
+	dynasty=132
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="just"
+	trait="inbred"
+	trait="underhanded_rogue"
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1325.1.2={
+		death="1325.1.2"
+	}
+}
+
+450780 = {
+	name="°£¶ûÁÖ"
+	# AKA: °£¶ûÁÖ Vidkunsson
+	dynasty=129
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="flamboyant_schemer"
+	father=450781
+	mother=450782
+	1292.1.2={
+		birth="1292.1.2"
+	}
+	1313.1.2={
+		add_spouse = 450783
+	}
+	1342.1.2={
+		death="1342.1.2"
+	}
+}
+
+450781 = {
+	name="Î¬µÂ¿×"
+	# AKA: Vidkun °£¶ûÁÖsson
+	dynasty=129
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="humble"
+	trait="amateurish_plotter"
+	1247.1.2={
+		birth="1247.1.2"
+	}
+	1287.1.2={
+		add_spouse=450782
+	}
+	1302.1.2={
+		death="1302.1.2"
+	}
+}
+
+450782 = {
+	name="¸ñÌØÂ³µÂ"
+	female = yes
+	dynasty=129
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="diligent"
+	trait="scholarly_theologian"
+	1267.1.2={
+		birth="1267.1.2"
+	}
+	1325.1.2={
+		death="1325.1.2"
+	}
+}
+
+450783 = {
+	name="°¬ÁÕ"
+	# AKA: Elin Toresdotter
+	female = yes
+	dynasty=128
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="amateurish_plotter"
+	father=450784
+	mother=450785
+	1297.1.2={
+		birth="1297.1.2"
+	}
+	1347.1.2={
+		death="1347.1.2"
+	}
+}
+
+450784 = {
+	name="ÍÐÀ×"
+	# AKA: Tore Hakonsson
+	dynasty=128
+	martial=8
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="just"
+	trait="humble"
+	trait="thrifty_clerk"
+	1267.1.2={
+		birth="1267.1.2"
+	}
+	1291.1.2={
+		add_spouse = 450785
+	}
+	1317.1.2={
+		death="1317.1.2"
+	}
+}
+
+450785 = {
+	name="Ó¢¶ò±¤"
+	# AKA: Ó¢¶ò±¤ °£¶ûÁÖsdotter
+	female = yes
+	dynasty=128
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="proud"
+	trait="flamboyant_schemer"
+	1275.1.2={
+		birth="1275.1.2"
+	}
+	1330.1.2={
+		death="1330.1.2"
+	}
+}
+
+450787 = {
+	name="±ÈÑÇÄÚ"
+	# AKA: Bjarne °£¶ûÁÖsson
+	dynasty=129
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="tough_soldier"
+	father=450780
+	mother=450783
+	1323.1.2={
+		birth="1323.1.2"
+	}
+	1373.1.2={
+		death="1373.1.2"
+	}
+}
+
+450788 = {
+	name="¸ñÌØÂ³µÂ"
+	# AKA: Gjertrud °£¶ûÁÖsdotter
+	female = yes
+	dynasty=129
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	father=450780
+	mother=450783
+	1335.1.2={
+		birth="1335.1.2"
+	}
+	1385.1.2={
+		death="1385.1.2"
+	}
+}
+
+450790 = {
+	name="Ó¢¶ò±ÈÔ¼¾Ó"
+	# AKA: Ó¢¶ò±ÈÔ¼¾Ó °£¶ûÁÖsdatter
+	female = yes
+	dynasty=129
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="amateurish_plotter"
+	father=450780
+	mother=450783
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1370.1.2={
+		death="1370.1.2"
+	}
+}
+
+450800 = {
+	name="ºÕ¶ûË¹¶Ù"
+	# AKA: Hallsten Torleifsson
+	dynasty=127
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="patient"
+	trait="cynical"
+	trait="martial_cleric"
+	father=450801
+	mother=450802
+	1272.1.2={
+		birth="1272.1.2"
+	}
+	1297.1.2={
+		add_spouse = 450812
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+
+450801 = {
+	name="ÍÐÀ³·ò"
+	# AKA: Torleif ¹þÀ­¶ûsson
+	dynasty=127
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="charismatic_negotiator"
+	1228.1.2={
+		birth="1228.1.2"
+	}
+	1270.1.2={
+		add_spouse=450802
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+450802 = {
+	name="Âí¸ñÏ£¶ûÌØ"
+	# AKA: Magnhild Olfsdotter
+	female = yes
+	dynasty=126
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="flamboyant_schemer"
+	1248.1.2={
+		birth="1248.1.2"
+	}
+	1293.1.2={
+		death="1293.1.2"
+	}
+}
+
+450803 = {
+	name="ÍÐµÂ"
+	# AKA: ÍÐµÂ Hallstensson
+	dynasty=127
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="envious"
+	trait="tough_soldier"
+	father=450800
+	mother=450812
+	1302.1.2={
+		birth="1302.1.2"
+	}
+	1352.1.2={
+		death="1352.1.2"
+	}
+}
+
+450804 = {
+	name="¾ôº²"
+	# AKA: Johan Hallstensson
+	dynasty=127
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="humble"
+	trait="tough_soldier"
+	father=450800
+	mother=450812
+	1304.1.2={
+		birth="1304.1.2"
+	}
+	1354.1.2={
+		death="1354.1.2"
+	}
+}
+
+450805 = {
+	name="ÄáÅ·Ë¾"
+	# AKA: Nils Torleifsson
+	dynasty=127
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="cynical"
+	trait="scholarly_theologian"
+	father=450800
+	mother=450812
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1316.1.2={
+		add_spouse = 450806
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+450806 = {
+	name="¿ËÀïË¹µÙÄÈ"
+	# AKA: ¿ËÀïË¹µÙÄÈ Hallvardsdotter
+	female = yes
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="amateurish_plotter"
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+450807 = {
+	name="Æ¤ÌØ"
+	# AKA: Peter Nilsson
+	dynasty=127
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="charitable"
+	trait="tough_soldier"
+	father=450805
+	mother=450806
+	1325.1.2={
+		birth="1325.1.2"
+	}
+	1375.1.2={
+		death="1375.1.2"
+	}
+}
+
+450808 = {
+	name="¹ÅÌØ²¼À¼ÌØ"
+	# AKA: Gudbrand Nilsson
+	dynasty=127
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="martial_cleric"
+	father=450805
+	mother=450806
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1380.1.2={
+		death="1380.1.2"
+	}
+}
+
+450810 = {
+	name="¹þ¿µ"
+	# AKA: Hakon °Â¸ñÃÉsson
+	dynasty=125
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="patient"
+	trait="amateurish_plotter"
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1279.1.2={
+		add_spouse=450811
+	}
+	1310.1.2={
+		death="1310.1.2"
+	}
+}
+
+450811 = {
+	name="¶ûÁÖ"
+	# AKA: Elin Lauritzdotter
+	female = yes
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="deceitful"
+	trait="wroth"
+	trait="brave"
+	trait="flamboyant_schemer"
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1310.1.2={
+		death="1310.1.2"
+	}
+}
+
+450812 = {
+	name="Î÷¸ñÀöµÂ"
+	# AKA: Î÷¸ñÀöµÂ Hakonsdotter
+	female = yes
+	dynasty=125
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="craven"
+	trait="martial_cleric"
+	father=450810
+	mother=450811
+	1281.1.2={
+		birth="1281.1.2"
+	}
+	1331.1.2={
+		death="1331.1.2"
+	}
+}
+
+452505 = {
+	name="Ó¢¶ò±¤"
+	# AKA: Ó¢¶ò±¤ Hakonsdotter
+	female = yes
+	dynasty=499
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="humble"
+	trait="wroth"
+	trait="cynical"
+	trait="martial_cleric"
+	father=452510
+	mother=452511
+	1301.1.2={
+		birth="1301.1.2"
+	}
+	1361.6.17={
+		death="1361.6.17"
+	}
+}
+
+452510 = {
+	name="¹þ¿µ" # Âê¸ñÅ¬Ë¹son
+	# AKA: Hakon
+	dynasty=499
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="clubfooted"
+	trait="martial_cleric"
+	father=6905 # Âê¸ñÅ¬Ë¹ Lagaböter
+	mother=6904
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1302.1.2={
+		add_spouse = 452511
+	}
+	1319.5.8={
+		death="1319.5.8"
+	}
+}
+
+452600 = {
+	name="¿Â¶ûÌØ"
+	# AKA: Ketill Thorlaksson
+	dynasty=109
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="envious"
+	trait="martial_cleric"
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1298.1.2={
+		add_spouse = 452601
+	}
+	1330.1.2={
+		death="1330.1.2"
+	}
+}
+
+452601 = {
+	name="ÓÚÄÈ"
+	# AKA: Una Guttormsdottir 
+	female = yes
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="patient"
+	trait="zealous"
+	trait="underhanded_rogue"
+	1282.1.2={
+		birth="1282.1.2"
+	}
+	1332.1.2={
+		death="1332.1.2"
+	}
+}
+
+452602 = {
+	name="°Â¶Ù"
+	# AKA: Oddur Ketilsson
+	dynasty=109
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="flamboyant_schemer"
+	1304.1.2={
+		birth="1304.1.2"
+	}
+	1354.1.2={
+		death="1354.1.2"
+	}
+}
+
+452603 = {
+	name="ÇÇ¶÷"
+	# AKA: Jon Ketilsson
+	dynasty=109
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="amateurish_plotter"
+	father=452600
+	mother=452601
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+452604 = {
+	name="Äá¿ËÀ³Ë¹"
+	# AKA: Nikolas Ketilsson
+	dynasty=109
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="scholarly_theologian"
+	father=452600
+	mother=452601
+	1302.1.2={
+		birth="1302.1.2"
+	}
+	1352.1.2={
+		death="1352.1.2"
+	}
+}
+
+452605 = {
+	name="¶òÅµÀö"
+	# AKA: Oddny Ketilsdottir
+	female = yes
+	dynasty=109
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="scholarly_theologian"
+	father=452600
+	mother=452601
+	1306.1.2={
+		birth="1306.1.2"
+	}
+	1356.1.2={
+		death="1356.1.2"
+	}
+}
+
+452606 = {
+	name="Ë¹ÅµÀû"
+	# AKA: Snorri Ketilsson
+	dynasty=109
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="scholarly_theologian"
+	father=452600
+	mother=452601
+	1308.1.2={
+		birth="1308.1.2"
+	}
+	1358.1.2={
+		death="1358.1.2"
+	}
+}
+
+452607 = {
+	name="ÄÈèó"
+	# AKA: Narfi Ketilsson
+	dynasty=109
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="slothful"
+	trait="martial_cleric"
+	father=452600
+	mother=452601
+	1312.1.2={
+		birth="1312.1.2"
+	}
+	1362.1.2={
+		death="1362.1.2"
+	}
+}
+
+452608 = {
+	name="°ÂÈðÄá"
+	# AKA: °ÂÄ·ur Ketilsson
+	dynasty=109
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="kind"
+	trait="proud"
+	trait="skilled_tactician"
+	father=452600
+	mother=452601
+	1314.1.2={
+		birth="1314.1.2"
+	}
+	1364.1.2={
+		death="1364.1.2"
+	}
+}
+
+452610 = {
+	name="°£À­¼Ö¶û"
+	# AKA: Eirikur Ë¹Î¤¶÷bjarnarson
+	dynasty=108
+	martial=5
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="wroth"
+	trait="thrifty_clerk"
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1290.1.2={
+		add_spouse=452611
+	}
+	1310.1.2={
+		death="1310.1.2"
+	}
+}
+
+452611 = {
+	name="èó²¨¸ñ"
+	# AKA: Vilborg Sigurdardottir
+	female = yes
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="proud"
+	trait="lisp"
+	trait="flamboyant_schemer"
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1310.1.2={
+		death="1310.1.2"
+	}
+}
+
+452612 = {
+	name="¶òÄÈ"
+	# AKA: Einar Eiriksson
+	dynasty=108
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="patient"
+	trait="thrifty_clerk"
+	father=452610
+	mother=452611
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1337.1.2={
+		add_spouse=452613
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+452613 = {
+	name="ºÕ¶ûåÈ"
+	# AKA: Helga Bjornsdottir
+	female = yes
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="charitable"
+	trait="proud"
+	trait="scholarly_theologian"
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1370.1.2={
+		death="1370.1.2"
+	}
+}
+
+452620 = {
+	name="·ðÂÞÎ÷"
+	# AKA: Flosi Jonsson
+	dynasty=109
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="charismatic_negotiator"
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1324.1.2={
+		add_spouse=452605
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+452621 = {
+	name="Ï£¶ûÂíÉ­"
+	# AKA: ÍÐµÂur Flosason
+	dynasty=109
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="martial_cleric"
+	father=452620
+	mother=452605
+	1325.1.2={
+		birth="1325.1.2"
+	}
+	1375.1.2={
+		death="1375.1.2"
+	}
+}
+
+487073 = {
+	name="·ð¶û±¾"
+	# AKA: Thorbjorn
+	dynasty=100033
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="just"
+	trait="honest"
+	trait="clubfooted"
+	trait="charismatic_negotiator"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+487074 = {
+	name="·ð¶ûº£¶û"
+	dynasty=100034
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="patient"
+	trait="greedy"
+	trait="brave"
+	trait="martial_cleric"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+5787 = {
+	name="¹þ¼Ñ"
+	# AKA: Helga 'Fairhair'
+	female = yes
+	dynasty=556
+	martial=6
+	diplomacy=9
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="flamboyant_schemer"
+	father=5793
+	1051.1.2={
+		birth="1051.1.2"
+	}
+	1101.1.2={
+		death="1101.1.2"
+	}
+}
+
+5788 = {
+	name="¹Å¶à"
+	# AKA: Gudrod 'Mearanach'
+	properties="ca0cad00000"	
+	dna="nviemerbzif"
+	dynasty=556
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="underhanded_rogue"
+	father=5793
+	1049.1.2={
+		birth="1049.1.2"
+	}
+	1062.1.2={
+		add_spouse=102536
+	}
+	1099.1.2={
+		death="1099.1.2"
+	}
+}
+
+6905 = {
+	name="Âê¸ñÅ¬Ë¹" # Lagaböter
+	dynasty=499
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="clubfooted"
+	trait="martial_cleric"
+	father=202509 # ¹þ¿µ ¹þ¿µsson
+	mother=202035 # Margareta Skulesdotter
+	1238.5.1={
+		birth="1238.5.1"
+	}
+	1263.1.1={
+		add_spouse=6904
+	}
+	1280.5.9={
+		death="1280.5.9"
+	}
+}
+
+6906 = {
+	name="°£Àï¿Ë"# Prthatare
+	dynasty=499
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="brave"
+	trait="tough_soldier"
+	father=6905 # Âê¸ñÅ¬Ë¹ Lagaböter
+	mother=6904
+	1268.1.2={
+		birth="1268.1.2"
+	}
+	1281.7.25={
+		add_spouse=6903
+	}
+	1293.1.1={
+		add_spouse=453061 #Isabel Bruce
+	}
+	1299.7.15={
+		death="1299.7.15"
+	}
+}
+
+6907 = {
+	name="Âê¸ñÀöÌØ"
+	female = yes 
+	dynasty=499
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	trait="clubfooted"
+	trait="martial_cleric"
+	father = 6906
+	mother = 6903
+	1283.4.1={
+		birth="1283.4.1"
+	}
+	1290.9.1={
+		death="1290.9.1"
+	}
+}
+
+
+7349 = {
+	name="¶ûÀ¼ÌØ"
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=7351
+	1114.1.1={
+		birth="1114.1.1"
+	}
+	1154.1.1={
+		death="1154.1.1"
+	}
+}
+
+7350 = {
+	name="ÅÁ¶û" #Pal
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=220036
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1137.1.1={
+		death="1137.1.1"
+	}
+}
+
+7351 = {
+	name="¹þÀ­¶û"
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=220036
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1127.1.1={
+		death="1127.1.1"
+	}
+}
+
+7352 = {
+	name="Âê¸ñÅ¬Ë¹"
+	#AKA Saint Âê¸ñÅ¬Ë¹
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="lisp"
+	trait="martial_cleric"
+	father=102539
+	mother=161327
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1117.4.16={
+		death="1117.4.16"
+	}
+}
+
+7392 = {
+	name="Âê¸ñÅ¬Ë¹"
+	dynasty=556
+	religion="catholic"
+	culture="norwegian"
+	father=220046
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1265.1.1={
+		death="1265.1.1"
+	}
+}
+
+7393 = {
+	name="À­¸ñÄÉ¶û"
+	dynasty=556
+	religion="catholic"
+	culture="norwegian"
+	father=220046
+	1194.1.1={
+		birth="1194.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+
+7394 = {
+	name="¹þÀ­¶û"
+	dynasty=556
+	religion="catholic"
+	culture="norwegian"
+	father=220046
+	1193.1.1={
+		birth="1193.1.1"
+	}
+	1248.1.1={
+		death="1248.1.1"
+	}
+}
+
+7395 = {
+	name="À­¸ñÂü"
+	dynasty=556
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=5788
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+83240 = {
+	name="ÍÐÒÁ¶û" 
+	dynasty=9213
+	martial=3
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	father=83244
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1141.7.1={
+		death="1141.7.1"
+	}
+}
+
+83241 = {
+	name="ÀÊÍß¶ûµÂ" 
+	dynasty=9213
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	father=83240
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1146.7.1={
+		death="1146.7.1"
+	}
+}
+
+83242 = {
+	name="²¼Â×Ôó¶û" #Replace with modern Norwegian
+	dynasty=9213
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	father=83240
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1160.7.1={
+		death="1160.7.1"
+	}
+}
+
+83243 = {
+	name="°¢Ë¹À«" 
+	dynasty=9213
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	father=83241
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1171.5.16={
+		death="1171.5.16"
+	}
+}
+
+83244 = {
+	name="ÀÊÍß¶ûµÂ" 
+	dynasty=9213
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1110.7.1={
+		death="1110.7.1"
+	}
+}
+
+83245 = {
+	name="°ÂËþ¶û" 
+	dynasty=9213
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	father=83244
+	1072.1.1={
+		birth="1072.1.1"
+	}
+	1115.7.1={
+		death="1115.7.1"
+	}
+}
+
+83246 = {
+	name="°ÂËþ¶û" 
+	dynasty=9213
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=83245
+	1093.1.1={
+		birth="1093.1.1"
+	}
+	1133.7.1={
+		death="1133.7.1"
+	}
+}
+
+83247 = {
+	name="°ÂËþ¶û" 
+	dynasty=9213
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=83246
+	1114.1.1={
+		birth="1114.1.1"
+	}
+	1148.7.1={
+		death="1148.7.1"
+	}
+}
+
+83248 = {
+	name="ÍÐ·Ò" 
+	dynasty=9213
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=83246
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1170.7.1={
+		death="1170.7.1"
+	}
+}
+
+83249 = {
+	name="ÀÊÍß¶ûµÂ" 
+	dynasty=9213
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=83241 
+	1131.1.1={
+		birth="1131.1.1"
+	}
+	1170.7.1={
+		death="1170.7.1"
+	}
+}
+
+151013 = {
+	name="Ë¹ÎÄ" #Nordmand
+	religion="catholic"
+	culture="norwegian"
+	trait="quick"
+	trait="martial_cleric"
+	1038.1.1 = {
+		birth="1038.1.1" 
+	}
+	1088.1.1 = {
+		death="1088.1.1"
+	}
+}
+
+83370 = {
+	name="ÀÊÍß¶ûµÂ"
+	dynasty=9214
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	father=83366
+	mother=83369
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1090.7.1={
+		death="1090.7.1"
+	}
+}
+
+83371 = {
+	name="°ÂÀ­·ò"
+	dynasty=9214
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=83370
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1130.7.1={
+		death="1130.7.1"
+	}
+}
+
+83372 = {
+	name="ÒÁÍß¶û"
+	dynasty=9214
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	father=83371
+	1097.1.1={
+		birth="1097.1.1"
+	}
+	1155.7.1={
+		death="1155.7.1"
+	}
+}
+
+83373 = {
+	name="ÀÊÍß¶ûµÂ"
+	dynasty=9214
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=83372
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1185.7.1={
+		death="1185.7.1"
+	}
+}
+
+143129 = {
+	name="°ÂË¹ÌØÄªµÂ"
+	dynasty=444
+	religion="catholic"
+	culture="norwegian"
+	father = 102575
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+143130 = {
+	name="°ÂË¹ÌØÄªµÂ"
+	dynasty=444
+	religion="catholic"
+	culture="norwegian"
+	father = 143129
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1178.1.1={
+		death="1178.1.1"
+	}
+}
+
+161125 = {
+	name="Ó¢¸ñ"
+	dynasty=1030031
+	religion="catholic"
+	culture="norwegian"
+	trait="legit_bastard"
+	father=202051
+	1174.1.1={
+		birth="1174.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+161126 = {
+	name="°£¶ûÁÖ"
+	dynasty=1030031
+	religion="catholic"
+	culture="norwegian"
+	trait="legit_bastard"
+	father=202051
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1207.1.1={
+		death="1207.1.1"
+	}
+}
+
+161127 = {
+	name="ÀÊÏ£¶ûµÂ"
+	female=yes
+	dynasty=2033
+	religion="catholic"
+	culture="norwegian"
+	father=202040
+	mother=202041
+	1141.1.1={
+		birth="1141.1.1"
+	}
+	1191.1.1={
+		death="1191.1.1"
+	}
+}
+
+161128 = {
+	name="ÀÊÀöµÂ"
+	female=yes
+	dynasty=2033
+	religion="catholic"
+	culture="norwegian"
+	mother=161127
+	1157.1.1={
+		birth="1157.1.1"
+	}
+	1207.1.1={
+		death="1207.1.1"
+	}
+}
+
+
+161129 = {
+	name="Ó¢¶ò±ÈÔ¼¾Ó"
+	female=yes
+	dynasty=1030031
+	religion="catholic"
+	culture="norwegian"
+	father=202051
+	mother=161128
+	1173.1.1={
+		birth="1173.1.1"
+	}
+	1213.1.1={
+		death="1213.1.1"
+	}
+}
+
+161130 = {
+	name="Âê¸ñÀöÌØ"
+	female=yes
+	dynasty=1030031
+	religion="catholic"
+	culture="norwegian"
+	father=202051
+	mother=161128
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+161124 = {
+	name="°ÂÐð¶û"
+	dynasty=2033
+	religion="catholic"
+	culture="norwegian"
+	father=125
+	1075.1.1={
+		birth="1075.1.1"
+	}
+    1090.1.1={
+            add_spouse=102558
+    }
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+161297 = {
+	name="°£¶ûÁÖ"
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=102539
+	mother=161327
+	1059.1.1={
+		birth="1059.1.1"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+
+161298 = {
+	name="¹±Ï£¶û"
+	female=yes
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=102539
+	mother=161327
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+161299 = {
+	name="ÈûÎ÷ÀòÑÇ"
+	female=yes
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=102539
+	mother=161327
+	1072.1.1={
+		birth="1072.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+
+161300 = {
+	name="ÑÅµÂÎÖ¶û"
+	female=yes
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	trait="bastard"
+	father=102539
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+161327 = {
+	name="ÍÐÇ‰"
+	female=yes
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=161326
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+167013 = {
+	name="ÀÊÏ£¶ûµÂ"
+	female = yes
+	dynasty=499
+	religion="catholic"
+	culture="norwegian"
+	trait="legit_bastard"
+	father=202511
+	1089.1.2={
+		birth="1089.1.2"
+	}
+	1139.1.2={
+		death="1139.1.2"
+	}
+}
+
+170019 = {
+	name="¿ËÀïË¹µÙÄÈ" #Ë¹Î¤ÀÕsdotter
+	female = yes
+	dynasty=499
+	religion="catholic"
+	culture="norwegian"
+	father=202500
+	mother=200506 #Margaret of Sweden
+	1190.1.2={
+		birth="1190.1.2"
+	}
+	1213.1.2={
+		death="1213.1.2"
+	}
+}
+
+132000 = {
+	name="¿ËÀïË¹µÙÄÈ" #Christina of Norway
+	female = yes
+	dynasty=499
+	religion="catholic"
+	culture="norwegian"
+	father=202509 # ¹þ¿µ ¹þ¿µsson
+	mother=202035 # Margareta Skulesdotter
+	1234.1.1={
+		birth="1234.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+170007 = {
+	name="¹þ¿µ" # ¹þ¿µ the Young 
+	dynasty=499
+	religion="catholic"
+	culture="norwegian"
+	father=202509 # ¹þ¿µ ¹þ¿µsson
+	mother=202035 # Margareta Skulesdotter
+	1232.11.10={
+		birth="1232.11.10"
+	}
+	1240.4.1={
+		give_nickname=nick_the_young
+	}
+	1251.1.1={
+		add_spouse=30605
+	}
+	1257.5.5={
+		death="1257.5.5"
+	}
+}
+
+170008 = {
+	name="Ë¹Î¤À×" # Son of ¹þ¿µ the Young 
+	dynasty=499
+	religion="catholic"
+	culture="norwegian"
+	father=170007 # ¹þ¿µ the Young
+	mother=30605 # Rikissa Birgersdotter
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+
+170009 = {
+	name="Ó¢¶ò±¤" #Ó¢¶ò±¤ Eriksdottir
+	female = yes
+	dynasty=499
+	religion="catholic"
+	culture="norwegian"
+	father=6906 # Erik Prästhatare
+	mother=453061 # Isabel Bruce
+	1297.1.1={
+		birth="1297.1.1"
+	}
+	1357.1.1={
+		death="1357.1.1"
+	}
+}
+
+166050 = {
+	name="±ÈÔ¼À¼"
+	dynasty=1040005
+	religion="catholic"
+	culture="norwegian"
+	father=166047
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1068.1.1={
+		death="1068.1.1"
+	}
+}
+
+183902 = {
+	name="°Â¸ñÃÉ"
+	dynasty=453
+	religion="catholic"
+	culture="norwegian"
+	father=102553
+	mother=102557
+	1061.1.2={
+		birth="1061.1.2"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+
+183903 = {
+	name="·Ò¶÷"
+	dynasty=453
+	religion="catholic"
+	culture="norwegian"
+	father=102553
+	mother=102557
+	1062.1.2={
+		birth="1062.1.2"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+
+183904 = {
+	name="ÍÐµÂ"
+	dynasty=453
+	religion="catholic"
+	culture="norwegian"
+	father=102553
+	mother=102557
+	1063.1.2={
+		birth="1063.1.2"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+
+183905 = {
+	name="ÀÊÄÈ"
+        female=yes
+	dynasty=455
+	religion="catholic"
+	culture="norwegian"
+	father=102547
+	mother=102506
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1102.1.2={
+		death="1102.1.2"
+	}
+}
+
+183906 = {
+	name="ÄÂÄÏ"
+	dynasty=455
+	religion="catholic"
+	culture="norwegian"
+	father=144248
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1137.1.1={
+		death="1137.1.1"
+	}
+}
+
+183907 = {
+	name="°¢Ë¹ÌØÀö"
+        female=yes
+	dynasty=455
+	religion="catholic"
+	culture="norwegian"
+	father=144248
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1152.1.1={
+		death="1152.1.1"
+	}
+}
+
+183908 = {
+	name="ÀÊÏ£¶ûµÂ"
+        female=yes
+	dynasty=756
+	religion="catholic"
+	culture="norwegian"
+	father=125
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+183909 = {
+	name="Î÷¸ñÀöµÂ"
+        female=yes
+	dynasty=2033
+	religion="catholic"
+	culture="norwegian"
+	father=161124
+        mother=102558
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1154.1.1={
+		death="1154.1.1"
+	}
+}
+
+183910 = {
+	name="Ë¹Î¤¶÷"
+	dynasty=1030031
+	religion="catholic"
+	culture="norwegian"
+	1048.1.1={
+		birth="1048.1.1"
+	}
+	1068.1.1={
+		add_spouse=183905 #ÀÊÄÈ Hagalín
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+
+183911 = {
+	name="°ÂÄ·"
+	dynasty=1030031
+	religion="catholic"
+	culture="norwegian"
+	father=183910
+	mother=183905
+	1078.1.1={
+		birth="1078.1.1"
+	}
+	1092.1.1={
+		add_spouse=183908 #ÀÊÏ£¶ûµÂ Rein
+	}
+	1114.1.1={
+		add_spouse=183913 #ÀÊÏ£¶ûµÂ
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+183912 = {
+	name="°Â¸ñÃÉ"
+	dynasty=1030031
+	religion="catholic"
+	culture="norwegian"
+	father=183911
+	mother=183908
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+
+183913 = {
+	name="ÀÊÏ£¶ûµÂ"
+	female=yes
+	religion="catholic"
+	culture="norwegian"
+	1088.1.1={
+		birth="1088.1.1"
+	}
+	1138.1.1={
+		death="1138.1.1"
+	}
+}
+
+194313 = {
+	name="Arnvid"
+	dynasty=1045068 # av Rogen
+	religion=catholic
+	culture=norwegian
+	1191.1.1 = {
+			birth = yes
+	}
+	1260.1.1 = {
+			death = yes
+	}
+}
+194314 = {
+	name="Haldor"
+	dynasty=1045069 # av Bergen
+	religion=catholic
+	culture=norwegian
+	1198.1.1 = {
+			birth = yes
+	}
+	1260.1.1 = {
+			death = yes
+	}
+}
+194315 = {
+	name="Haldor"
+	dynasty=1045070 # av Eidsborg
+	religion=catholic
+	culture=norwegian
+	1198.1.1 = {
+			birth = yes
+	}
+	1260.1.1 = {
+			death = yes
+	}
+}
+194316 = {
+	name="Torgil"
+	dynasty=1045071 # av Finnmark
+	religion=catholic
+	culture=norwegian
+	1196.1.1 = {
+			birth = yes
+	}
+	1260.1.1 = {
+			death = yes
+	}
+}
+194317 = {
+	name="Ragnar"
+	dynasty=1045072 # av Røst
+	religion=catholic
+	culture=norwegian
+	1196.1.1 = {
+			birth = yes
+	}
+	1260.1.1 = {
+			death = yes
+	}
+}
+
+188876 = {
+	name="Godred"
+	dynasty=556 # Crovan
+	religion="catholic"
+	culture="norwegian"
+	father=7392
+	trait=legit_bastard
+	1241.1.1={
+		birth=yes
+	}
+	1279.1.1={
+		death=yes
+	}
+}
+
+214083 = {
+	name = "Mar"
+	dynasty = 1043504
+	religion = catholic
+	culture = norse
+	father=214082
+	1005.1.1 = {
+		birth = yes
+	}
+	1070.1.1 = {
+		death = yes
+	}
+}
+
+214084 = {
+	name = "Thormod"
+	dynasty = 1043504
+	religion = catholic
+	culture = norse
+	father=214082
+	1008.1.1 = {
+		birth = yes
+	}
+	1067.1.1 = {
+		death = yes
+	}
+}
+
+214085 = {
+	name = "Torfi"
+	dynasty = 1043504
+	religion = catholic
+	culture = norse
+	father=214082
+	1011.1.1 = {
+		birth = yes
+	}
+	1060.1.1 = {
+		death = yes
+	}
+}
+
+214086 = {
+	name = "Sigurd"
+	dynasty = 1043504
+	religion = catholic
+	culture = norse
+	father=214083
+	1035.1.1 = {
+		birth = yes
+	}
+	1085.1.1 = {
+		death = yes
+	}
+}
+
+214087 = {
+	name = "Hamal"
+	dynasty = 1043504
+	religion = catholic
+	culture = norse
+	father=214083
+	1040.1.1 = {
+		birth = yes
+	}
+	1095.1.1 = {
+		death = yes
+	}
+}
+
+214088 = {
+	name = "Gudmund"
+	dynasty = 1043504
+	religion = catholic
+	culture = norse
+	father=214087
+	1065.1.1 = {
+		birth = yes
+	}
+	1110.1.1 = {
+		death = yes
+	}
+}
+
+214089 = {
+	name = "Thormod"
+	dynasty = 1043504
+	religion = catholic
+	culture = norse
+	father=214088
+	1090.1.1 = {
+		birth = yes
+	}
+	1145.1.1 = {
+		death = yes
+	}
+}

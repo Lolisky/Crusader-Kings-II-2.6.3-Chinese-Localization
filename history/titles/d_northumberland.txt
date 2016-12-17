@@ -1,0 +1,69 @@
+#718.1.1={
+#	holder =  # Osric
+#}
+729.5.29={
+	holder = 205222 # Ceolwulf
+}
+737.1.1={
+	holder = 205224 # Eadberht
+}
+758.1.1={
+	holder = 205225 # Oswulf
+}
+759.7.24={
+	holder = 205243 # Æthelwald Moll
+}
+765.1.1 = {
+	holder = 205237 # Ealhred
+}
+774.1.1={
+	holder = 205244 # Æthelred I
+}
+779.1.1={
+	holder = 194104 # Ælfwald
+}
+788.9.23={
+	holder = 205238 # Osred
+}
+790.1.1={
+	holder = 205244 # Æthelred I
+}
+796.5.14={
+	holder = 205246 # Eardwulf
+}
+#806.1.1={
+#	holder = Ælfwald II
+#}
+810.1.1={
+	holder = 205247 # Eanred
+}
+841.1.1={
+	holder = 205255 # Æthelred II
+}
+#844.1.1={
+#	holder = Raedwulf
+#}
+848.1.1={
+	holder = 205253 # Osberht
+}
+862.1.1={
+	holder = 163103 # Ælle II
+}
+875.1.1 = {
+	holder = 0
+}
+
+1055.1.1={
+	holder=124 #Tostig Godwinson
+}
+1066.1.1={
+	liege="k_england"
+	#law = agnatic_succession
+	#law = succ_primogeniture
+}
+1066.1.1={
+	holder=5660 #Morcar of Hwicce
+}
+1072.1.1={
+	holder=0
+}

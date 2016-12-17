@@ -1,0 +1,9264 @@
+131700 = {
+	name="布莱杜德"
+	dynasty=20172
+	martial=3
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="mastermind_theologian"
+	trait="just"
+	1020.1.2={
+		birth="1020.1.2"
+	}
+	1070.1.2={
+		death="1070.1.2"
+	}
+}
+
+131701 = {
+	name="埃利斯坦" # 格洛德吕德
+	# AKA: 埃利斯坦 格洛德吕德
+	dynasty=200067
+	martial=9
+	diplomacy=2
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+  father=184125 #Cuhelyn
+	950.1.1={
+		birth="950.1.1"
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+
+131702 = {
+	name="马多格" #ap 伊德纳斯
+	dynasty=200067 #Maelienydd
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=8187 #Idnerth ap Madog
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+131703 = {
+	name="卡德瓦隆"
+	dynasty=200067 #Maelienydd
+	religion="catholic"
+	culture="welsh"
+	father=131702
+	1118.1.1={
+		birth="1118.1.1"
+	}
+	1171.1.1={
+		add_spouse=138445 #Efa Mathrafal
+	}
+	1179.1.1={
+		death="1179.1.1"
+	}
+}
+
+131704 = {
+	name="布莱登"
+	dynasty=1042817
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=159312
+	mother=159374
+	trait="cynical"
+	trait="underhanded_rogue"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}
+
+204051 = {
+	name="安科蕾特"
+	female = yes
+	dynasty=101905
+	religion="catholic"
+	culture="welsh"
+	father=204056 # Gerald de Windsor
+	mother=204057  # Nest ferch Rhys
+	1126.1.1={
+		birth="1126.1.1"
+	}
+	1176.1.1={
+		death="1176.1.1"
+	}
+}
+
+204057 = {
+	name="尼斯特" #ferch 里斯
+	female = yes
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	trait="bastard"
+	father=81816 #Rhys ap Tewdr
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+
+205830 = {
+	name="安德烈夫"
+	dynasty=310
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=205831
+	mother=205840
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1183.1.2={
+	add_spouse=205785
+	}
+	1200.1.2={
+		death="1200.1.2"
+	}
+}
+
+205831 = {
+	name="罗南"
+	dynasty=310
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="scholarly_theologian"
+	1118.1.2={
+		birth="1118.1.2"
+	}
+	1148.1.2={
+	add_spouse=205840
+	}
+	1173.1.31={
+		death="1173.1.31"
+	}
+}
+
+214700 = {
+	name="戴维兹"
+	# AKA: Dafydd ab Owain
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	trait="kinslayer"
+	father=214710 #Owain ap Gruffydd
+	mother=214808 #Crisiant ferch Gronw
+	1134.1.1={
+		birth="1134.1.1"
+	}
+	1173.1.1={
+		add_spouse=204499 #Emma d'Anjou
+	}
+	1203.1.1={
+		death="1203.1.1"
+	}
+}
+
+214701 = {
+	name="欧文"
+	# AKA: 欧文 ap 戴维兹
+	dynasty=101920
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="welsh"
+	trait="deceitful"
+	trait="humble"
+	trait="tough_soldier"
+	father=214700
+	mother=204499
+	1174.1.2={
+		birth="1174.1.2"
+	}
+	1224.1.2={
+		death="1224.1.2"
+	}
+}
+
+214702 = {
+	name="吉尼维尔"
+	# AKA: 吉尼维尔 ferch 戴维兹
+	female = yes
+	dynasty=101920
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="welsh"
+	trait="craven"
+	trait="thrifty_clerk"
+	father=214700
+	mother=204499
+	1175.1.2={
+		birth="1175.1.2"
+	}
+	1225.1.2={
+		death="1225.1.2"
+	}
+}
+
+214703 = {
+	name="格温利安"
+	# AKA: 格温利安 ferch 戴维兹
+	female = yes
+	dynasty=101920
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="welsh"
+	trait="chaste"
+	trait="arbitrary"
+	trait="thrifty_clerk"
+	father=214700
+	mother=204499
+	1176.1.2={
+		birth="1176.1.2"
+	}
+	1226.1.2={
+		death="1226.1.2"
+	}
+}
+
+214704 = {
+	name="艾尼恩"
+	# AKA: 艾尼恩 ap 戴维兹
+	dynasty=101920
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="brave"
+	trait="tough_soldier"
+	father=214700
+	mother=204499
+	1177.1.2={
+		birth="1177.1.2"
+	}
+	1227.1.2={
+		death="1227.1.2"
+	}
+}
+
+214710 = {
+	name="欧文"
+	# AKA: 欧文 ap 格鲁菲兹
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81031 #格鲁菲德 ap 卡南
+	mother=214814 #安科蕾特 ferch 欧文
+	trait="lustful"
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1130.1.1={
+		add_spouse=214711 #Gwladys Aberffraw
+	}
+	1135.1.1={
+		remove_spouse=214711
+	}
+	1136.1.1={
+		add_spouse=214808 #克里西安 ferch Gronw
+	}
+	1169.11.1={
+		death="1169.11.1"
+	}
+}
+
+214711 = {
+	name="格拉德斯" #ferch 瑟维阿奇
+	# AKA: Gwladys
+	dynasty=101920 #Aberffraw
+	female=yes
+	religion="catholic"
+	culture="welsh"
+	father=138478 # 瑟维阿奇 ap 特拉哈伊尔恩
+	1100.1.1={
+		birth="1100.1.1" #unknown
+	}
+	#married 欧文 ap 格鲁菲兹 of 格温edd
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+214712 = {
+	name="约沃思 德伦温顿" #flatnose
+	# AKA: 约沃思 ap 欧文
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=214710 #欧文 ap 格鲁菲兹
+	mother=214711 #Gwladys Aberffraw
+	trait="ugly"
+	1132.1.1={
+		birth="1132.1.1"
+	}
+	1167.1.1={
+		add_spouse=214717 #马拉雷德 of Powys
+	}
+	1174.1.1={
+		death="1174.1.1"
+	}
+}
+
+214714 = {
+	name="瑟维林 瓦奥尔"
+	# AKA: 瑟维林 ab 约沃思
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=214712 #约沃思 ap 欧文
+	mother=214717 #马拉雷德 of Powys
+	give_nickname=nick_the_great
+	1173.1.1={
+		birth="1173.1.1"
+	}
+	1205.4.16={
+		add_spouse=138451 # Joan of England
+	}
+	1237.1.1={
+		trait="incapable"
+	}
+	1240.4.11={
+		death="1240.4.11"
+	}
+}
+
+214715 = {
+	name="卢恩"
+	# AKA: 卢恩 ab 欧文
+	dynasty=101920
+	martial=9
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="welsh"
+	trait="brave"
+	trait="diligent"
+	trait="just"
+	trait="patient"
+	father=214710
+	mother=214713
+	1130.1.2={
+		birth="1130.1.2"
+	}
+	1146.1.8={
+		death="1146.1.8"
+	}
+}
+
+214716 = {
+	name="伊韦尔"
+	# AKA: 伊韦尔 ab 欧文
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=214710 #欧文 ap 格鲁菲兹
+	mother=214713
+	trait="bastard"
+	1131.1.1={
+		birth="1131.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+214717 = {
+	name="马拉雷德" 
+	# AKA: 马拉雷德 ferch 马多格
+	female = yes
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=214718 #马多格 ap 马勒杜斯
+	#mother 苏珊 of 格温edd
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	#married 约沃思 德伦温顿
+	1207.1.1={
+		death="1207.1.1"
+	}
+}
+
+214718 = {
+	name="马多格"
+	# AKA: 马多格 ap 马勒杜斯
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6360 #马勒杜斯 ap 布莱登
+	1070.1.1={
+		birth="1070.1.1" #unknown
+	}
+	1126.1.1={
+		add_spouse=138449 #苏珊 ferch 格鲁菲兹 of 格温edd
+	} 
+	1159.1.1={
+		death="1159.1.1"
+	}
+}
+
+214720 = {
+	name="欧文 赛菲里奥格" #ap 格鲁菲兹
+	# AKA: 欧文 Cyfelloig
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=214722 #格鲁菲德 ap 马勒杜斯
+	#mother Gwerfyl daughter of Gwrgeno ap 伊韦尔
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1156.1.1={
+		add_spouse = 214721 #格温利安 of 格温edd
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+214721 = {
+	name="格温利安" #of 格温edd
+	# AKA: 格温利安 ferch 欧文 ap 格鲁菲兹
+	female = yes
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=214710 # 欧文 ap 格鲁菲兹
+	trait="bastard"
+	1140.1.1={
+		birth="1140.1.1" #unknown
+	}
+	1180.1.1={
+		death="1180.1.1" #unknown
+	}
+}
+
+214722 = {
+	name="格鲁菲兹" #格鲁菲德 ap 马勒杜斯
+	# AKA: 格鲁菲兹 ap 马多格 can't be as he died in 1191
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6360 #马勒杜斯 ap 布莱登
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	#married Gwerfyl daughter of Gwrgeno ap 伊韦尔
+	1128.1.1={
+		death="1128.1.1"
+	}
+}
+
+214724 = {
+	name="马多格"
+	# AKA: 古恩温德
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=81854 #格鲁菲兹 梅尔勒 ap 马多格
+	#mother 安科蕾特 of 格温edd
+	1175.1.1={
+		birth="1175.1.1" #unknown
+	}
+	1236.1.1={
+		death="1236.1.1"
+	}
+}
+
+214800 = {
+	name="里斯"
+	# AKA: 里斯 ap 格鲁菲兹
+	dynasty=101919 #Dinefwr
+	religion="catholic"
+	culture="welsh"
+	father=214810 #格鲁菲兹 ap 里斯
+	mother=214811 #格温利安 ferch 格鲁菲兹
+	1132.1.2={
+		birth="1132.1.2"
+	}
+	1153.1.1={
+		add_spouse = 214801 #格温利安 ferch 欧文 of Powys
+	}
+	1197.4.28={
+		death="1197.4.28"
+	}
+}
+
+214801 = {
+	name="格温利安" #格温利安 ferch 马多格
+	# AKA: 格温利安 ferch 欧文 - wrong
+	female = yes
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=214718 #马多格 ap 马勒杜斯
+	mother=138449 #苏珊 ferch 格鲁菲兹 
+	1136.1.1={
+		birth="1136.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+214802 = {
+	name="格温利安"
+	# AKA: 格温利安 ferch 里斯
+	female = yes
+	dynasty=101919 #Dinefwr
+	religion="catholic"
+	culture="welsh"
+	father=214800 #里斯 ap 格鲁菲兹
+	mother=214801 #格温利安 ferch 欧文
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	#married Ednyfed ap Cynwrig
+	1236.1.1={
+		death="1236.1.1"
+	}
+}
+
+214803 = {
+	name="格鲁菲兹"
+	# AKA: 格鲁菲兹 ap 里斯
+	dynasty=101919 #Dinefwr
+	religion="catholic"
+	culture="welsh"
+	father=214800 #里斯 ap 格鲁菲兹
+	mother=214801 #格温利安 ferch 欧文
+	1164.1.1={
+		birth="1164.1.1"
+	}
+	1189.1.1={
+		add_spouse=204010 #Matilda de Briouse
+	}
+	1201.8.1={
+		death="1201.8.1"
+	}
+}
+
+214804 = {
+	name="里斯" #the Hoarse
+	# AKA: 里斯 'Gryg' ap 里斯
+	dynasty=101919 #Dinefwr
+	religion="catholic"
+	culture="welsh"
+	father=214800
+	mother=214801
+	1166.1.2={
+		birth="1166.1.2"
+	}
+	#1219 married Mathilda de Clare
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+
+214805 = {
+	name="内丝特"
+	# AKA: nest ferch 里斯
+	female = yes
+	dynasty=101919 #Dinefwr
+	religion="catholic"
+	culture="welsh"
+	father=214800 #里斯 ap 格鲁菲兹
+	mother=214801 #格温利安 ferch 欧文
+	1167.1.1={
+		birth="1167.1.1"
+	}
+	1217.1.1={
+		death="1217.1.1"
+	}
+}
+
+214806 = {
+	name="卡特里" 
+	# AKA: 卡特里 ferch 里斯
+	female = yes
+	dynasty=101919 #Dinefwr
+	religion="catholic"
+	culture="welsh"
+	trait="bastard"
+	father=214800 #里斯 ap 格鲁菲兹
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1222.1.1={
+		death="1222.1.1"
+	}
+}
+
+214807 = {
+	name="安科蕾特"
+	# AKA: Anghared ferch 里斯
+	female = yes
+	dynasty=101919 #Dinefwr
+	religion="catholic"
+	culture="welsh"
+	father=214800 #里斯 ap 格鲁菲兹
+	mother=214801 #格温利安 ferch 欧文
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	#married William de Martin
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+
+214808 = {
+	name="克里西安" #ferch Gronw
+	# AKA: Cristen ferch 戈伦韦
+	female = yes
+	dynasty=101680 #Tegaingl
+	religion="catholic"
+	culture="welsh"
+	father=214809 #Gronw ap 欧文
+	1118.1.1={
+		birth="1118.1.1"
+	}
+	1161.1.2={
+		death="1161.1.2"
+	}
+}
+
+214809 = {
+	name="戈伦韦" #Gronw ab 欧文
+	# AKA: 戈伦韦 ab 欧文
+	dynasty=101680 #Tegaingl
+	religion="catholic"
+	culture="welsh"
+	father=214815 #欧文 ap 埃德温
+	1063.1.1={
+		birth="1063.1.1" #unknown
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+}
+
+214810 = {
+	name="格鲁菲兹"
+	# AKA: 格鲁菲兹 ap 里斯
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=81816 #里斯 ap Tewdr
+	mother=40506 #Gwladys ap 里瓦伦
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1120.1.1={
+		add_spouse=214811 #格温利安 ferch 格鲁菲兹
+	}
+	1137.1.1={
+		death="1137.1.1"
+	}
+}
+
+214811 = {
+	name="格温利安"
+	# AKA: 格温利安 ferch 格鲁菲兹
+	female = yes
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81031 #格鲁菲德 ap 卡南
+	mother=214814 #安科蕾特 ferch 欧文
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	#1116 married 格鲁菲德 ap 里斯 of Dyfed
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+
+214814 = {
+	name="安科蕾特"
+	# AKA: 安科蕾特 ferch 欧文
+	female = yes
+	dynasty=101680 #Tegaingl
+	religion="catholic"
+	culture="welsh"
+	father=214815 #欧文 ap 埃德温
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	#1095 married 格鲁菲兹 ap 卡南 81031
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+214815 = {
+	name="欧文" #ap 埃德温
+	dynasty=101680 #Tegaingl
+	religion="catholic"
+	culture="welsh"
+	father=40508 #埃德温 ap 戈伦韦
+	mother=40505 #伊伟热德 ap 西芬
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.1={
+		trait="pneumonic"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+232002 = {
+	name="罗德里"
+	# AKA: 罗德里 ab 欧文
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	trait="kinslayer"
+	father=214710 #欧文 ap 格鲁菲兹
+	mother=214808 #克里西安 ferch Gronw
+	1136.1.1={
+		birth="1136.1.1"
+	}
+	1179.1.1={
+		add_spouse=214805 #nest of Deheubarth
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+232003 = {
+	name="托马斯"
+	# AKA: 托马斯 ap 罗德里
+	dynasty=101920
+	religion="catholic"
+	culture="welsh"
+	father=232002 #罗德里 ab 欧文
+	1179.1.1={
+		birth="1179.1.1"
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+232004 = {
+	name="格鲁菲德"
+	# AKA: 格鲁菲德 ap 罗德里
+	dynasty=101920
+	religion="catholic"
+	culture="welsh"
+	father=232002 #罗德里 ab 欧文
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+232005 = {
+	name="艾尼恩"
+	# AKA: 艾尼恩 ap 罗德里
+	dynasty=101920
+	religion="catholic"
+	culture="welsh"
+	father=232002 #罗德里 ab 欧文
+	1181.1.1={
+		birth="1181.1.1"
+	}
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+
+332039 = {
+	name="米尔古溫"
+	# AKA: 米尔古溫 ap 里斯
+	dynasty=101919
+	religion="catholic"
+	culture="welsh"
+	father=214800 #里斯 ap 格鲁菲兹
+	mother=214801 #格温利安 ferch 欧文
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+
+40500 = {
+	name="瑟维林" #ap 塞希瑟 of 格温edd
+	dynasty=14278 # Seisyll
+	religion="catholic"
+	culture="welsh"
+	father=81820 #Seisyll of Gwynedd
+	mother=159042 # Prawst ferch Elisedd ap Anarawd
+	978.1.1={
+		birth="978.1.1" #after 980
+	}
+	994.1.1={
+		add_spouse = 40501 #Angharad of Gwynedd
+	}
+	1023.1.1={
+		death="1023.1.1"
+	}
+}
+
+40501 = {
+	name="安科蕾特" #of 格温edd
+	female = yes
+	dynasty=101919 #Dinefwr
+	religion="catholic"
+	culture="welsh"
+	father=81821 #马勒杜斯 ab 欧文 (Deheubarth)
+	978.1.1={
+		birth="978.1.1" #982
+	}
+	#994 married 瑟维林 ap 塞希瑟 of 格温edd 40500
+	#1023 married 西芬 ap 格韦尔斯坦 of Powys
+	1025.7.4={
+		death="1025.7.4" #?
+	}
+}
+
+40502 = {
+	name="格鲁菲兹" #ap 瑟维林
+	dynasty=14278 # Seisyll
+	religion="catholic"
+	culture="welsh"
+	father=40500 #Llywelyn ap Seisyll of Gwynedd
+	mother=40501 # Angharad Dinefwr
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1053.1.2={
+		add_spouse = 123 #Ealdgyth of Mercia
+	}
+	1063.1.1={
+		death={
+			death_reason=death_battle
+			killer=122
+		}
+	}
+}
+
+
+40503 = {
+	name="西芬" #ap 格韦尔斯坦
+	#dynasty=100065 #格鲁菲德 of Powys
+	dynasty=548
+	religion="catholic"
+	culture="welsh"
+	father=138444 #格韦尔斯坦
+	978.1.1={
+		birth="978.1.1" #unknown
+	}
+	1023.1.1={
+		add_spouse = 40501 #安科蕾特 of 格温edd
+	}
+	1025.1.1={
+		death="1025.1.1"
+	}
+}
+
+40504 = {
+	name="里瓦伦" #ap 西芬
+	dynasty=548 #Mathrafal
+	religion="catholic"
+	culture="welsh"
+	father=40503 #西芬 ap 格韦尔斯坦
+	mother=40501 #安科蕾特 of 格温edd
+	trait="tough_soldier"
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1068.1.1={
+		death="1068.1.1"
+	}
+}
+
+40505 = {
+	name="伊伟热德" #ap 西芬
+	# AKA: 埃夫rydd
+	female = yes
+	dynasty=548 #Mathrafal
+	religion="catholic"
+	culture="welsh"
+	father=40503 #西芬 ap 格韦尔斯坦
+	mother=40501 #安科蕾特 of 格温edd
+	1023.1.1={
+		birth="1023.1.1"
+	}
+	#married 埃德温 ap Gronw
+	1073.1.1={
+		death="1073.1.1"
+	}
+}
+
+40506 = {
+	name="格拉德斯" #verch 里瓦伦
+	# AKA: Gwladys
+	female = yes
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=40504 #里瓦伦 ap 西芬
+	1049.1.1={
+		birth="1049.1.1" #unknown
+	}
+	#1080 married 里斯 ap Twedr 81816
+	1099.1.1={
+		death="1099.1.1" #unknown
+	}
+}
+
+40507 = {
+	name="黑尔" #ferch Cillin
+	female = yes
+	dynasty=20146 #Efionydd
+	religion="catholic"
+	culture="welsh"
+	#father Cillin ap Yplaidd
+	1030.1.1={
+		birth="1030.1.1" #unknown 
+	}
+	1065.1.1={
+		death="1065.1.1" #unknown 
+	}
+}
+
+40508 = {
+	name="埃德温" #ap 戈伦韦
+	dynasty=101680 #Tegaingl
+	religion="catholic"
+	culture="welsh"
+	father=138482 #戈伦韦 ap 艾尼恩
+	1014.1.1={
+		birth="1014.1.1" #unknown
+	}
+	1040.1.1={
+		add_spouse = 40505 #伊伟热德 ap 西芬
+	}
+	1073.1.1={
+		death="1073.1.1" #unknown
+	}
+}
+
+40510 = {
+	name="欧文"
+	dynasty=547
+	martial=3
+	diplomacy=8
+	intrigue=6
+	stewardship=9
+	religion="catholic"
+	culture="welsh"
+	father=159107
+  trait="tough_soldier"
+	950.1.2={
+		birth="950.1.2"
+	}
+	1001.1.2={
+		death="1001.1.2"
+	}
+}
+
+40511 = {
+	name="里斯"
+	dynasty=547
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=40510
+	968.1.2={
+		birth="968.1.2"
+	}
+	1035.1.2={
+		death="1035.1.2"
+	}
+}
+
+40512 = {
+	name="伊韦尔"
+	dynasty=547
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=40510
+	969.1.2={
+		birth="969.1.2"
+	}
+	1043.1.2={
+		death="1043.1.2"
+	}
+}
+
+40513 = {
+	name="默里格" #ap 伊韦尔
+	dynasty=547 #摩尔根
+	religion="catholic"
+	culture="welsh"
+	father=40512
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+40514 = {
+	name="艾思尔 杜"
+	# AKA: 艾思尔 杜
+	dynasty=547
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=40510
+	970.1.2={
+		birth="970.1.2"
+	}
+	1041.1.2={
+		death="1041.1.2"
+	}
+}
+
+40515 = {
+	name="古尔甘特" #ap 艾思尔 杜
+	dynasty=547 #摩尔根
+	religion="catholic"
+	culture="welsh"
+	father=40514 #艾思尔 杜 ap 欧文
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+40516 = {
+	name="安科蕾特"
+	female = yes
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="naive_appeaser"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1066.1.2={
+		death="1066.1.2"
+	}
+}
+
+40517 = {
+	name="卡拉多格"
+	dynasty=547
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="thrifty_clerk"
+	father=6376
+	mother=40516
+	1061.1.2={
+		birth="1061.1.2"
+	}
+	1111.1.2={
+		death="1111.1.2"
+	}
+}
+
+40518 = {
+	name="马多格"
+	dynasty=547
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=6376
+	mother=40516
+	1062.1.2={
+		birth="1062.1.2"
+	}
+	1112.1.2={
+		death="1112.1.2"
+	}
+}
+
+40519 = {
+	name="里斯"
+	dynasty=547
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=6376
+	mother=40516
+	1063.1.2={
+		birth="1063.1.2"
+	}
+	1113.1.2={
+		death="1113.1.2"
+	}
+}
+
+40520 = {
+	name="摩尔根"
+	dynasty=547
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=6376
+	mother=40516
+	1064.1.2={
+		birth="1064.1.2"
+	}
+	1114.1.2={
+		death="1114.1.2"
+	}
+}
+
+40521 = {
+	name="内丝特"
+	female = yes
+	dynasty=547
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=6376
+	mother=40516
+	1065.1.2={
+		birth="1065.1.2"
+	}
+	1115.1.2={
+		death="1115.1.2"
+	}
+}
+
+40522 = {
+	name="埃夫"
+	# AKA: 埃夫t
+	female = yes
+	dynasty=547
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="amateurish_plotter"
+	father=40515
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1097.1.2={
+		death="1097.1.2"
+	}
+}
+
+40523 = {
+	name="内丝特"
+	female = yes
+	dynasty=547
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="naive_appeaser"
+	father=40515
+	1049.1.2={
+		birth="1049.1.2"
+	}
+	1099.1.2={
+		death="1099.1.2"
+	}
+}
+
+420000 = {
+	name="格鲁菲兹" #ap 瑟维林
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=214714 #瑟维林 ab 约沃思
+	trait="bastard"
+	1204.1.1={
+		birth="1204.1.1"
+	}
+	1244.3.1={
+		death="1244.3.1" 
+	}
+}
+
+420001  = {
+	name="瑟维林" #ap 格鲁菲兹
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=420000 #格鲁菲兹 ap 瑟维林
+	1234.1.1={
+		birth="1234.1.1"
+	}
+	1278.10.13={
+		add_spouse=144182 #Eleanor de Montfort
+	}
+	1282.12.10={
+		death="1282.12.10" 
+	}
+}
+
+420002 = {
+	name="戴维兹" #ap 格鲁菲兹
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=420000 #格鲁菲兹 ap 瑟维林
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	#married Elizabeth Ferrers
+	1283.9.29={
+		death="1283.9.29" 
+	}
+}
+
+420003 = {
+	name="欧文 戈克" #ap 格鲁菲德
+	# AKA: 欧文 戈克
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=420000 #格鲁菲兹 ap 瑟维林
+	1221.1.1={
+		birth="1221.1.1"
+	}
+	1282.1.1={
+		death="1282.1.1"
+	}
+}
+
+
+420004 = {
+	name="罗德里" #ap 格鲁菲德
+	# AKA: 罗德里 ap 瑟维林
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=420000 #格鲁菲兹 ap 瑟维林
+	1231.1.1={
+		birth="1231.1.1"
+	}
+	1315.1.1={
+		death="1315.1.1"
+	}
+}
+
+420005 = {
+	name="托马斯" 
+	# AKA: 托马斯 ap 罗德里
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=420004 #罗德里 ap 格鲁菲德
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1363.1.1={
+		death="1363.1.1"
+	}
+}
+
+420006 = {
+	name="欧文"
+	# AKA: 欧文 Law戈克
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=420005 #托马斯 ap 格鲁菲德
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+420007 = {
+	name="古恩温德"
+	# AKA: 古恩温德 ab 欧文 Cyfelloig
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=214720 #欧文 Cyfelloig ap 格鲁菲兹 
+	mother=214721 #格温利安 ferch 欧文 ap 格鲁菲兹
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	#married Mary Corbet
+	1216.1.1={
+		death="1216.1.1"
+	}
+}
+
+420008 = {
+	name="格鲁菲兹"
+	# AKA: 格鲁菲德 ap 古恩温德
+	dynasty=200069 #de la Pole
+	religion="catholic"
+	culture="welsh"
+	father=420007 #古恩温德 ab 欧文
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	#1242.2.24 married 哈维丝 daughter of John III of Knockin
+	1286.1.1={
+		death="1286.1.1"
+	}
+}
+
+420009 = {
+	name="欧文" 
+	# AKA: 欧文 ap 格鲁菲兹
+	dynasty=200069 #de la Pole
+	religion="catholic"
+	culture="welsh"
+	father=420008 #格鲁菲兹 ap 古恩温德
+	1257.1.1={
+		birth="1257.1.1"
+	}
+	#married Johanna Corbet
+	1293.9.1={
+		death="1293.9.1"
+	}
+}
+
+420010 = {
+	name="格鲁菲兹"
+# AKA: Gruffydd ap Owain
+	dynasty=200069
+	religion="catholic"
+	culture="welsh"
+	father=420009 #Owain ap Gruffydd
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1307.1.1 = {
+		add_spouse = 161690 #Ela d'Audley
+	}
+	1309.6.1={
+		death="1309.6.1"
+	}
+}
+
+454211 = {
+	name="哈维丝"
+	# AKA: Hawis ferch Owain
+	female = yes
+	dynasty=200069
+	religion="catholic"
+	culture="welsh"
+	father=420009 #Owain ap Gruffydd
+	1290.7.25={
+		birth="1290.7.25"
+	}
+	#1309.7.26 married John de Cherleton
+	1353.1.1={
+		death="1353.1.1"
+	}
+}
+
+6358 = {
+	name="布莱登" #ap 西芬
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=40503 #西芬 ap 格韦尔斯坦
+	mother=40501 #安科蕾特 of 格温edd
+	trait="kind"
+	trait="lustful"
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1041.1.1={
+		add_spouse = 81849 #Brandwen Nwrcelyn 1st spouse
+	}
+	1043.1.1={
+		remove_spouse = 81849
+	}
+	#unknown second spouse. was 81853
+	1044.1.1={
+		add_spouse = 40507 #黑尔 Efionydd 3rd spouse
+	}
+	1050.1.1={
+		remove_spouse = 40507 #date unknown
+	}
+	1052.1.1={
+		add_spouse = 81856 #莫连 Maelienydd 4th spouse
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+6360 = {
+	name="马勒杜斯" #ap 布莱登
+	dynasty=548 #Mathrafal
+	religion="catholic"
+	culture="welsh"
+	father=6358 #布莱登 ap 西芬
+	mother=40507 #黑尔 Efionydd
+	trait="skilled_tactician"
+	1047.1.1={
+		birth="1047.1.1"
+	}
+	#married Hunedd ferch Einudd
+	#mistress Cristin ferch Bledrus
+	1111.1.1={
+		employer=138452 #欧文 ap 卡杜根
+	}
+	1132.2.9={
+		death="1132.2.9"
+	}
+}
+
+6362 = {
+	name="卡杜根" #ap 默里格
+	dynasty=547 #摩尔根
+	religion="catholic"
+	culture="welsh"
+	father=40513 #默里格 ap 伊韦尔
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1074.1.1={
+		death="1074.1.1"
+	}
+}
+
+6368 = {
+	name="泰拉赫埃斯 迪夫纳尔特"
+	# AKA: 泰拉赫埃斯 迪夫纳尔特
+	dynasty=20158
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="slothful"
+	trait="greedy"
+	trait="patient"
+	trait="charismatic_negotiator"
+	father=8189
+	1036.1.2={
+		birth="1036.1.2"
+	}
+	1086.1.2={
+		death="1086.1.2"
+	}
+}
+
+6376 = {
+	name="叶斯廷" #ap 古尔甘特
+	dynasty=547 #摩尔根
+	religion="catholic"
+	culture="welsh"
+	father=40515 #古尔甘特 ap 艾思尔 杜 
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1061.1.1={
+		add_spouse=40516 #安科蕾特 ?
+	}
+	1093.1.1={
+		death="1093.1.1"
+	}
+}
+
+6378 = {
+	name="卡杜根" #ap 布莱登
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6358 #布莱登 ap 西芬
+	mother=81849 #Brandwen Nwrcelyn
+	trait="skilled_tactician"
+	trait="lustful"
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	#married Sanan 4th spouse
+	#married Ellyw daughter of Cedivor ap Collwyn 5th spouse
+	1098.1.1={
+		add_spouse=81853 #格温利安 ferch 格鲁菲兹 6th spouse
+	}
+	#married Euron daughter of Hoedlyw ap 卡杜根 7th spouse
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+6382 = {
+	name="里斯"
+  dynasty=547
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="welsh"
+	father=40513 #Meurig ap Hywel
+	trait="diligent"
+	trait="zealous"
+	trait="martial_cleric"
+	1053.1.2={
+		birth="1053.1.2"
+	}
+	1103.1.2={
+		death="1103.1.2"
+	}
+}
+
+6384 = {
+	name="里斯"
+	dynasty=101724
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	997.1.1={
+		birth="997.1.1"
+	}
+	1047.1.2={
+		death="1047.1.2"
+	}
+}
+
+81030 = {
+	name="卡南" #ap 雅格
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81825 #雅格 ap 伊德沃尔
+	1014.1.1={
+		birth="1014.1.1"
+	}
+	1038.1.1={
+		add_spouse = 1029 #Ragnhild dghtr of Olav King of Dublin
+	}
+	1063.1.1={
+		death="1063.1.1"
+	}
+}
+
+81031 = {
+	name="格鲁菲兹" #ap 卡南
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81030 # Cynan ap Iago
+	mother=1029 #Ragnhild erv Olav
+	1055.1.1={
+		birth="1055.1.1"
+		add_claim = d_gwynedd
+		add_claim = c_dublin
+	}
+	1095.1.1={
+		add_spouse=214814 #Angharad ferch Owain
+	}	
+	1137.1.1={
+		death="1137.1.1"
+	}
+}
+
+81811 = {
+	name="苏黎恩 美斯戈布"
+	# AKA: Sulien
+	dynasty=20181
+	martial=3
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="mastermind_theologian"
+	trait="scholar"
+	trait="just"
+	1020.1.2={
+		birth="1020.1.2"
+	}
+	1070.1.2={
+		death="1070.1.2"
+	}
+}
+
+81812 = {
+	name="里吉法尔西"
+		dynasty=20181
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="diligent"
+	trait="patient"
+	trait="honest"
+	trait="scholarly_theologian"
+	father=81811
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1095.1.2={
+		death="1095.1.2"
+	}
+	}
+	
+81813 = {
+	name="叶延"
+	dynasty=20181
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="diligent"
+	trait="honest"
+	trait="scholarly_theologian"
+	father=81811
+	1050.1.2={
+		birth="1050.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+81814 = {
+	name="马勒杜斯" #ap 格鲁菲兹
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=214810 #格鲁菲兹 ap 里斯
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1157.1.1={
+		death="1157.1.1"
+	}
+}
+
+81815 = {
+	name="里斯" #ap 欧文 
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=138494 #欧文 ap 埃德温
+	1011.1.1={
+		birth="1011.1.1" #unknown
+	}
+	1076.1.1={
+		death="1076.1.1" 
+	}
+}
+
+81816 = {
+	name="里斯" # ap 图德
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	trait="charitable"
+	father=138488 #图德 ap 卡代
+	997.1.1={
+		birth="997.1.1" #unknown
+	}
+	1080.1.1={
+		add_spouse=40506 #Gwladys ap 里瓦伦
+	} 
+	1093.4.1={
+		death="1093.4.1"
+	}
+}
+
+81817 = {
+	name="里利德" #ap 欧文
+	dynasty=101680 #Tegaingl
+	religion="catholic"
+	culture="welsh"
+	father=214815 #欧文 ap 埃德温 ap 戈伦韦
+	1064.1.1={
+		birth="1064.1.1" #unknown
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+}
+
+81818 = {
+	name="图德" #ap 埃德温
+	dynasty=101680 #Tegaingl
+	religion="catholic"
+	culture="welsh"
+	father=40508 #埃德温 ap 戈伦韦
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+81819 = {
+	name="埃德温" #ap 伊韦尔
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=81823 #Hywel Dda
+	mother=159355 #Elen of Dyfed
+	906.1.1={
+		birth="906.1.1"
+	}
+	954.1.1={
+		death="954.1.1" 
+	}
+}
+
+81820 = {
+	name="塞希瑟" #塞希瑟 of 格温edd
+	dynasty=14278 #Seisyll
+	religion="catholic"
+	culture="welsh"
+	father=159055 #艾登瓦 ap 儒勒
+	940.1.1={
+		birth="940.1.1" #unknown
+	}
+	970.1.2={
+		add_spouse=159042 #married Praust of 格温edd daughter of 厄利瑟德 ap Anarawd
+	}
+	1010.1.1={
+		death="1010.1.1" #unknown
+	}
+}
+
+81821 = {
+	name="马勒杜斯" #ap 欧文 of Deheubarth
+	dynasty=101919 #Dinefwr
+	religion="catholic"
+	culture="welsh"
+	father=81822 #欧文 of Deheubarth
+	920.1.1={
+		birth="920.1.1"
+	}
+	999.1.1={
+		death="999.1.1"
+	}
+}
+
+81822 = {
+	name="欧文" #ap 伊韦尔
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=81823 #Hywel Dda
+	mother=159355 #Elen of Dyfed
+	905.1.1={
+		birth="905.1.1"
+	}
+	987.1.1={
+		death="987.1.1"
+	}
+}
+
+81823 = {
+	name="伊韦尔 达" #the Black ap 卡代 King of 格温edd
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	trait="just"
+	give_nickname=nick_the_good
+	father=81824 #Cadell ap Rhodri
+	880.1.1={
+		birth="880.1.1"
+	}
+	904.1.1={
+		add_spouse=159355 #Elen of Dyfed
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+
+81824 = {
+	name="卡代" #ap 罗德里 King of 塞希瑟wg
+	dynasty=101920
+	religion="catholic"
+	culture="welsh"
+	father=81831 #Rhodri Mawr
+	mother=159802
+	853.1.1={
+		birth="853.1.1"	#unknown
+	}
+	880.1.1={
+		dynasty = 101919 #Dinefrw
+	}
+	935.1.1={
+		death="935.1.1"
+	}
+}
+
+81825 = {
+	name="雅格" #ap 伊德沃尔
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81826 #伊德沃尔 ap 莫里克
+	970.1.1={
+		birth="970.1.1"	#unknown
+	}
+	1039.1.1={
+		death="1039.1.1"
+	}
+}
+
+81826 = {
+	name="伊德沃尔" # ap 莫里克
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81827 # 莫里克 ap 伊德沃尔
+	940.1.1={
+		birth="940.1.1"	#unknown
+	}
+	996.1.1={
+		death="996.1.1"
+	}
+}
+
+81827 = {
+	name="莫里克" #ap 伊德沃尔
+	# AKA: 默里格
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=138466 #伊德沃尔 ap 罗德里
+	920.1.1={
+		birth="920.1.1"	#unknown
+	}
+	986.1.1={
+		death="986.1.1"
+	}
+}
+
+81828 = {
+	name="叶亚夫" # ap 伊德沃尔
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81829 #伊德沃尔 Foel
+	921.1.1={
+		birth="921.1.1"
+	}
+	969.1.1={
+		death="969.1.1"
+	}
+}
+
+81829 = {
+	name="伊德沃尔 Foel" #the Bald ap 安纳沃德
+	# AKA: Idwal Foel
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81830 #Anarawd ap Rhodri
+	885.1.1={
+		birth="885.1.1"	#unknown
+	}
+	942.1.1={
+		death="942.1.1"
+	}
+}
+
+81830 = {
+	name="安纳沃德" #ap 罗德里
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81831 #Rhodri Mawr
+	mother=159802
+	trait="skilled_tactician"
+	850.1.1={
+		birth="850.1.1"	#unknown
+	}
+	915.1.1={
+		death="915.1.1"
+	}
+}
+
+81831 = {
+	name="罗德里" #马瓦 ap 墨福因
+	# AKA: Rhodri Mawr
+	dynasty=101920 #Aberffraw for tree appearance
+	#was dynasty=101922 #Manaw
+	religion="catholic"
+	culture="welsh"
+	give_nickname="nick_the_great"
+	father=159027
+	mother=159088
+	820.1.1={
+		birth="820.1.1"
+		remove_claim = d_the_isles
+	}
+	840.1.1={
+		add_spouse=159802
+	}
+	878.1.1={
+		death="878.1.1"
+	}
+}
+
+81841 = {
+	name="马勒杜斯"
+	dynasty=14278
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="cynical"
+	trait="thrifty_clerk"
+	father=40502
+	mother=123
+	1053.1.2={
+		birth="1053.1.2"
+	}
+	1103.1.2={
+		death="1103.1.2"
+	}
+}
+
+81842 = {
+	name="伊德沃尔"
+	dynasty=14278
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=40502
+	mother=123
+	1054.1.2={
+		birth="1054.1.2"
+	}
+	1104.1.2={
+		death="1104.1.2"
+	}
+}
+
+81843 = {
+	name="内丝特"
+	female = yes
+	dynasty=14278
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="patient"
+	trait="martial_cleric"
+	father=40502
+	mother=123
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1105.1.2={
+		death="1105.1.2"
+	}
+}
+
+81846 = {
+	name="卡拉多格" #ap 格鲁菲兹
+	dynasty=1029004 #格温n
+	religion="catholic"
+	culture="welsh"
+	father=81862 #格鲁菲兹 ap 赖泽赫
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1081.1.1={
+		death="1081.1.1"
+	}
+}
+
+81847 = {
+	name="马多格" #ap 布莱登
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6358 #布莱登 ap 西芬
+	1043.1.1={
+		birth="1043.1.1" #unknown
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+81848 = {
+	name="里利德" #里利德ap 布莱登
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6358 #布莱登 ap 西芬
+	1043.1.1={
+		birth="1043.1.1" #unknown
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+81849 = {
+	name="布兰温" #? Nwrcelyn
+	female = yes
+	dynasty=20138 #Nwrcelyn
+	religion="catholic"
+	culture="welsh"
+	#father Brockwell ap Moelyn of Nwrcelyn
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1052.1.1={
+		death="1052.1.1"
+	}
+}
+
+81850 = {
+	name="胡尼杜斯" #ap 布莱登
+  female = yes
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6358 #布列丹 ap Cynfyn
+	mother=81849 #Brandwen Nwrcelyn
+	1042.1.1={
+		birth="1042.1.1" #unknown
+	}
+	1100.1.1={
+		death="1100.1.1" #unknown
+	}
+}
+
+81851 = {
+	name="瑟维林" #ap 马多格
+	# AKA: 瑟维阿奇
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=214718 #马多格 ap 马勒杜斯
+	#mother 苏珊 of 格温edd
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+81853 = {
+	name="格温利安" #格温利安 ferch 格鲁菲兹
+	female = yes
+	religion="catholic"
+	culture="welsh"
+	#father 格鲁菲兹 ap 卡南
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	#1098 married 卡杜根 ap 布莱登
+	#1116 married 格鲁菲德 ap 里斯
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+
+81854 = {
+	name="格鲁菲兹 梅尔勒" #ap 马多格
+	# AKA: Maelog
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=214718 #马多格 ap 马勒杜斯
+	#mother 苏珊 of 格温edd
+	1154.1.1={
+		birth="1154.1.1"
+	}
+	#married 安科蕾特 of 格温edd verch 欧文 格温edd
+	1191.1.1={
+		death="1191.1.1"
+	}
+}
+
+81855 = {
+	name="里尔热德" #ap 约沃思
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=81857 #约沃思 ap 布莱登
+	1100.1.1={
+		birth="1100.1.1" #unknown
+	}
+	1175.1.1={
+		death="1175.1.1" #unknown
+	}
+}
+
+81856 = {
+	name="莫连" #ferch ?
+	female = yes
+	dynasty=200067 #Maelienydd
+	religion="catholic"
+	culture="welsh"
+	father=8187
+	1036.1.1={
+		birth="1036.1.1" #unknown
+	}
+	1088.1.1={
+		death="1088.1.1" #unknown
+	}
+}
+
+81857 = {
+	name="约沃思" #ap 布莱登
+	dynasty=548 #Mathrafal
+	religion="catholic"
+	culture="welsh"
+	father=6358 #布莱登 ap 西芬
+	mother=81856 #莫连 Maelienydd
+	1053.1.1={
+		birth="1053.1.1"
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+
+81859 = {
+	name="梅里斯" #ap 里瓦伦
+	# AKA: Meilyr
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=40504 #里瓦伦 ap 西芬
+	1047.1.1={
+		birth="1047.1.1" #unknown
+	}
+	1081.1.1={
+		death="1081.1.1" #unknown
+	}
+}
+
+81860 = {
+	name="西翁德" #verch 里瓦伦
+	female = yes
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=40504 #里瓦伦 ap 西芬
+	1048.1.1={
+		birth="1048.1.1" #unknown
+	}
+	#married Ednyfed
+	1098.1.1={
+		death="1098.1.1" #unknown
+	}
+}
+
+81861 = {
+	name="欧文"
+	dynasty=1029004
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=81846
+	1066.1.2={
+		birth="1066.1.2"
+	}
+	1106.1.2={
+		death="1106.1.2"
+	}
+}
+
+81862 = {
+	name="格鲁菲兹"
+	dynasty=547
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="humble"
+	father=81863
+	1030.1.2={
+		birth="1030.1.2"
+	}
+	1055.1.2={
+		death="1055.1.2"
+	}
+}
+
+81863 = {
+	name="赖泽赫"
+dynasty=547 # 摩根
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="humble"
+	father = 159003
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1033.1.1={
+		death="1033.1.1"
+	}
+}
+
+81864 = {
+	name="赖泽赫 叶亚夫"
+	# AKA: 赖泽赫 叶亚夫
+	dynasty=547
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=81863
+	1020.1.2={
+		birth="1020.1.2"
+	}
+	1070.1.2={
+		death="1070.1.2"
+	}
+}
+
+81865 = {
+	name="伊韦尔"
+	dynasty=547
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="welsh"
+	trait="patient"
+	trait="temperate"
+	father=81863
+	1022.1.2={
+		birth="1022.1.2"
+	}
+	1072.1.2={
+		death="1072.1.2"
+	}
+}
+
+81866 = {
+	name="里斯"
+	dynasty=547
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="welsh"
+	trait="arbitrary"
+	trait="flamboyant_schemer"
+	father=81863
+	1023.1.2={
+		birth="1023.1.2"
+	}
+	1073.1.2={
+		death="1073.1.2"
+	}
+}
+
+81867 = {
+	name="梅尔基翁"
+	dynasty=547
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="thrifty_clerk"
+	father=81866
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1105.1.2={
+		death="1105.1.2"
+	}
+}
+
+81868 = {
+	name="卡拉多格"
+	dynasty=547
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="welsh"
+	trait="honest"
+	trait="tough_soldier"
+	father=81863
+	1024.1.2={
+		birth="1024.1.2"
+	}
+	1074.1.2={
+		death="1074.1.2"
+	}
+}
+
+81869 = {
+	name="赖泽赫"
+	dynasty=547
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="welsh"
+	trait="lustful"
+	trait="tough_soldier"
+	father=81868
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1094.1.2={
+		death="1094.1.2"
+	}
+}
+
+8187 = {
+	name="伊德纳斯" #ap 马多格
+	dynasty=200067 #Maelienydd
+  father=184126 #Cadwgon ap Elystan
+	religion="catholic"
+	culture="welsh"
+	1017.1.1={
+		birth="1017.1.1"
+	}
+	1056.2.1={
+		death="1056.2.1"
+	}
+}
+
+81871 = {
+	name="奈因阿德"
+	dynasty=20148
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1066.1.2={
+	add_spouse=40522
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}
+
+81872 = {
+	name="艾德诺文"
+	# AKA: Edn欧文 Bendew
+	dynasty=20148
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="welsh"
+	father=81871
+	mother=40522
+	1064.1.2={
+		birth="1064.1.2"
+	}
+	1114.1.2={
+		death="1114.1.2"
+	}
+}
+
+8189 = {
+	name="艾德菲兹" #ap 塞希瑟
+	dynasty=14278 #Seisyll
+	religion="catholic"
+	culture="welsh"
+	trait="bastard"
+	father=81820 #Seisyll of 格温edd
+	985.1.1={
+		birth="985.1.1"
+	}
+	1038.1.1={
+		death="1038.1.1"
+	}
+}
+
+81911 = {
+	name="赫里沃德"
+	dynasty=20191 #Llancarfan
+	religion="catholic"
+	culture="welsh"
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+81912 = {
+	name="利夫里斯"
+	dynasty=20191
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="welsh"
+	trait="patient"
+	trait="scholarly_theologian"
+	father=81911
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1095.1.2={
+		death="1095.1.2"
+	}
+}
+
+81913 = {
+	name="斯特芬"
+	dynasty=20191
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	trait="diligent"
+	trait="scholarly_theologian"
+	father=81911
+	1050.1.2={
+		birth="1050.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+138443 = {
+	name="格温利安" 
+	female=yes
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6358 #布莱登 ap 西芬
+	mother=81849 #Brandwen Nwrcelyn
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	#married 卡拉多格 ap 格鲁菲德 ap 里斯
+	1090.1.1={
+		death="1090.1.1"
+	}	
+}
+
+138444 = {
+	name="格韦尔斯坦" #ap 格韦尔斯坦
+dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=159076
+	954.1.1={
+		birth="954.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}	
+}
+
+138445 = {
+	name="格温利安" 
+	female=yes
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=214718 #马多格 ap 马勒杜斯
+	#mother 苏珊 of 格温edd
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	#married 里斯 ap 格鲁菲德 of Deheubarth
+	1198.1.1={
+		death="1198.1.1"
+	}	
+}
+
+138446 = {
+	name="马多格" #ap 里利德
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=81848 #Rhirid ap Bleddyn	
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1111.1.1={
+		trait="kinslayer" #killed Iorwerth & Cadwgan ap Bleddyn
+	}
+	1113.1.1={
+		give_nickname=nick_the_blind
+		trait="blinded"
+	}
+	1114.1.1={
+		death="1114.1.1"
+	}
+}
+
+138448 = {
+	name="艾思尔" #ap 里利德
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=81848 #里利德ap 布莱登
+	1076.1.1={
+		birth="1076.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+
+138449 = {
+	name="苏珊" #ferch 格鲁菲兹 
+	dynasty=101920 #Aberffraw
+	female=yes
+	religion="catholic"
+	culture="welsh"
+	father=81031 #格鲁菲德 ap 卡南
+	mother=214814 #安科蕾特 ferch 欧文
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	#married 马多格 ap 马勒杜斯 of Powys 214718
+	1161.1.1={
+		death="1161.1.1"
+	}	
+}
+
+138450 = {
+	name="瑟维林" #ap 卡杜根
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6378 #卡杜根 ap 布莱登
+	1057.1.1={
+		birth="1057.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+
+138452 = {
+	name="欧文" #ap 卡杜根
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6378 #卡杜根 ap 布莱登
+	trait="ambitious"
+	trait="grey_eminence"
+	trait="cruel"
+	trait="tough_soldier"
+	1076.1.1={
+		birth="1076.1.1"
+	}
+	#1115 knighted
+	1116.1.1={
+		death="1116.1.1" #1113
+	}
+}
+
+138454 = {
+	name="埃诺" #ap 卡杜根
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6378 #卡杜根 ap 布莱登
+	#mother Sanan
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1121.1.1={
+		death="1121.1.1"
+	}
+}
+
+138456 = {
+	name="马多格" #ap 卡杜根
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6378 #卡杜根 ap 布莱登
+	mother=81853 #格温利安 ferch 格鲁菲兹
+	1098.1.1={
+		birth="1098.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+138458 = {
+	name="马勒杜斯" #ap 卡杜根
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6378 #卡杜根 ap 布莱登
+	#Euron daughter of Hoedlyw ap 卡杜根
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+
+138460 = {
+	name="摩尔根" #ap 卡杜根
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=6378 #卡杜根 ap 布莱登
+	#Euron daughter of Hoedlyw ap 卡杜根
+	1106.1.1={
+		birth="1106.1.1"
+	}
+	1122.1.1={
+		trait="kinslayer"
+		trait="crusader"
+	}
+	1125.12.1={
+		death="1125.12.1"
+	}
+}
+
+138462 = {
+	name="格鲁菲兹 梅尔勒" #格鲁菲兹 梅尔勒 II
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=214724 #马多格 ap 格鲁菲兹 梅尔勒 ap 马多格
+	#mother 安科蕾特 of 格温edd
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	#married Emma de Audley
+	1269.1.1={
+		death="1269.1.1"
+	}
+}
+
+138464 = {
+	name="伊德沃尔 菲查" #the small ap 伊德沃尔
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81829 #伊德沃尔 Foel
+	920.1.1={
+		birth="920.1.1"
+	}
+	942.1.1={
+		add_claim = c_格温edd
+	}
+	950.1.1={
+		remove_claim = c_格温edd
+	}	
+	979.1.1={
+		death="979.1.1"
+	}
+}
+
+138466 = {
+	name="伊德沃尔" # ap 罗德里
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81831 #罗德里 马瓦
+	trait="bastard"
+	865.1.1={
+		birth="865.1.1"
+	}
+	943.1.1={
+		death="943.1.1"
+	}
+}
+
+138468 = {
+	name="卡德瓦隆" # ap 格鲁菲兹
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81031 #格鲁菲兹 ap 卡南
+	trait="bastard"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+}
+
+138470 = {
+	name="卡德瓦拉德" # ap 格鲁菲兹
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81031 #格鲁菲德 ap 卡南
+	mother=214814 #安科蕾特 ferch 欧文
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	#married Alice de Clare
+	1172.3.1={
+		death="1172.3.1"
+	}		
+}
+
+138472 = {
+	name="格鲁菲兹" #ap 雅格
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81825 #Iago ap Idwal
+	1014.1.1={
+		birth="1014.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+138474 = {
+	name="卡拉多格" #ap 格鲁菲兹
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=138472 #格鲁菲兹 ap 雅格
+	1033.1.1={
+		birth="1033.1.1"
+    add_claim = d_gwynedd
+	}
+	1074.1.1={
+		death="1074.1.1"
+	}
+}
+
+138476 = {
+	name="特拉哈伊尔恩" #ap 卡拉多格
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=138474 #Caradog ap Gruffydd
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1074.1.1={
+		add_claim = d_gwynedd
+	}
+	1081.1.1={
+		death="1081.1.1"
+	}	
+}
+
+138478 = {
+	name="瑟维阿奇" #ap 特拉哈伊尔恩
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=138476 # 特拉哈伊尔恩 ap 卡拉多格
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1107.1.1={
+		death="1107.1.1"
+	}	
+}
+
+138482 = {
+	name="戈伦韦" #ap 艾尼恩 King of Deheubarth
+	dynasty=101680 #Tegaingl
+	religion="catholic"
+	culture="welsh"
+	father=138484 #艾尼恩 ap 欧文
+	975.1.1={
+		birth="975.1.1"
+	}
+	1030.1.1={
+		death="1030.1.1"
+	}
+}
+
+138484 = {
+	name="艾尼恩" #ap 欧文
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=81822 #欧文 ap 伊韦尔
+	930.1.1={
+		birth="930.1.1" #unknown
+	}
+	983.1.1={
+		death="983.1.1" 
+	}
+}
+
+138486 = {
+	name="戴维兹" #ap 瑟维林
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=214714 #Llywelyn ab Iorwerth
+	mother=138451 #Joan of England
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	#1230 married Isabel de Briouse
+	1230.1.1={
+		add_spouse=161621 
+	}
+	1237.1.1={
+		employer=214714 #Llywelyn ab Iorwerth
+	}
+	1240.4.11={
+		employer=0 #Becomes duke of Gwynedd
+	}
+	1246.1.1={
+		death="1246.1.1" 
+	}
+}
+
+138487 = {
+	name="海伦" #ferch 瑟维林
+	female=yes
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=214714 #瑟维林 ab 约沃思
+	mother=138451 #Joan of England
+	1206.1.1={
+		birth="1206.1.1"
+	}	
+	#1222 married John the Scot of Huntingdon
+	#married 1237 Robert de Quincy
+	1253.10.24={
+		death="1253.10.24" 
+	}
+}
+
+138490 = {
+	name="卡代" #ap 艾尼恩
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=138484 #艾尼恩 ap 欧文
+	953.1.1={
+		birth="953.1.1"
+	}
+	1018.1.1={
+		death="1018.1.1"
+	}
+}
+	
+138488 = {
+	name="图德 马瓦" #ap 卡代 King of Deheubarth
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=138490 #卡代 ap 艾尼恩
+	give_nickname="nick_the_great"
+	975.1.1={
+		birth="975.1.1" #unknown
+	}
+	1014.1.1={
+		death="1014.1.1" #unknown
+	}
+}
+
+138492 = {
+	name="埃德温" #ap 艾尼恩
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=138484 #艾尼恩 ap 欧文
+	954.1.1={
+		birth="954.1.1" #unknown
+	}
+	993.1.1={
+		death="993.1.1" #unknown
+	}
+}
+
+138494 = {
+	name="欧文" # ap 埃德温
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=138484 #艾尼恩 ap 欧文
+	974.1.1={
+		birth="974.1.1" #unknown
+	}
+	1032.1.1={
+		death="1032.1.1" #unknown
+	}
+}
+
+138496 = {
+	name="马勒杜斯" #ap 欧文 
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=138494 #欧文 ap 埃德温
+	1010.1.1={
+		birth="1010.1.1" #unknown
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}	
+}
+
+138498 = {
+	name="安纳沃德" #ap 格鲁菲德
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=214810 #格鲁菲兹 ap 里斯
+	trait="bastard"
+	1110.1.1={
+		birth="1110.1.1" #unknown	
+	}
+	#married daughter of 卡德瓦拉德 ap 格鲁菲兹
+	1143.1.1={
+		death="1143.1.1"
+	}
+}
+
+138500 = {
+	name="卡代" #ap 格鲁菲德
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=214810 #格鲁菲兹 ap 里斯
+	trait="bastard"
+	1112.1.1={
+		birth="1112.1.1" #unknown	
+	}
+	#1153 abdicated
+	1174.1.1={
+		trait="ill"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+
+159000 = {
+	name="海威尔" # ap 埃古
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=159004 # 埃古 ap 伊德沃尔
+	938.1.1={
+		birth="938.1.1"	#unknown
+	}
+	997.1.1={
+		death="997.1.1"
+	}
+}
+
+159001 = {
+	name="苏南" # ap 海威尔
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=159000 # 海威尔 ap 埃古
+	955.1.1={
+		birth="955.1.1"	#unknown
+	}
+	1015.1.1={
+		death="1015.1.1"
+	}
+}
+
+159002 = {
+	name="安德顿 巴列古韦德"
+	dynasty=20154 #placeholder
+	religion="catholic"
+	culture="welsh"
+	945.1.1={
+		birth="945.1.1"	#unknown
+	}
+	1005.1.1={
+		give_nickname = nick_the_usurper
+	}
+	1018.1.1={
+		death="1018.1.1"
+	}
+}
+
+159003 = {
+	name="伊斯图恩" # ap 欧文 ap 摩根 Hen
+	dynasty=547 #摩根
+	religion="catholic"
+	culture="welsh"
+	father=40510 # 欧文 ap 摩根 Hen
+	975.1.1={
+		birth="975.1.1"	#unknown
+	}
+	1023.1.1={
+		death="1023.1.1" #unknown
+	}
+}
+159004 = {
+	name="埃古" # ap 伊德沃尔 Foel
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81829 # 伊德沃尔 Foel
+	920.1.1={
+		birth="920.1.1"	#unknown
+	}
+	979.1.1={
+		death="979.1.1"
+	}
+}
+159005 = {
+	name="海威尔" # ap 伊德沃尔 Ieuaf ap 伊德沃尔 Foel
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81828 #伊德沃尔 Ieuaf
+	940.1.1={
+		birth="940.1.1"
+	}
+	985.1.1={
+		death="985.1.1"
+	}
+}
+159006 = {
+	name="凯德沃伦" # ap 伊德沃尔 Ieuaf ap 伊德沃尔 Foel
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81828 #伊德沃尔 Ieuaf
+	941.1.1={
+		birth="941.1.1"
+	}
+	987.1.1={
+		death="987.1.1"
+	}
+}
+159007 = {
+	name="特吉德" # 
+	dynasty=1029039 # Goddoddin
+	religion="catholic"
+	culture="welsh"
+	240.1.1={
+		birth="240.1.1"
+	}
+	300.1.1={
+		death="300.1.1"
+	}
+}
+159008 = {
+	name="巴丹·比苏德" # 
+	dynasty=1029039 # Goddoddin
+	religion="catholic"
+	culture="welsh"
+	father=159007
+	270.1.1={
+		birth="270.1.1"
+	}
+	340.1.1={
+		death="340.1.1"
+	}
+}
+159009 = {
+	name="艾顿" #
+	dynasty=1029039 # Goddoddin
+	religion="catholic"
+	culture="welsh"
+	father=159008
+	310.1.1={
+		birth="310.1.1"
+	}
+	390.1.1={
+		death="390.1.1"
+	}
+}
+159010 = {
+	name="楚尼达" # ap Edern
+	dynasty=100064 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159009
+	350.1.1={
+		birth="350.1.1"
+	}
+	390.1.2={
+	add_spouse=159039
+	}
+	445.1.1={
+		death="445.1.1"
+	}
+}
+159011 = {
+	name="艾尼恩" # ap Cunedda
+	dynasty=100064 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159010
+	mother=159039
+	390.1.1={
+		birth="390.1.1"
+	}
+	470.1.1={
+		death="470.1.1"
+	}
+}
+159012 = {
+	name="凯德沃伦" # ap 艾尼恩
+	dynasty=100064 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159011
+	440.1.1={
+		birth="440.1.1"
+	}
+	517.1.1={
+		death="517.1.1"
+	}
+}
+159013 = {
+	name="马厄维恩" # ap 凯德沃伦
+	dynasty=100064 #格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159012 # 凯德沃伦
+	481.1.1={
+		birth="481.1.1"
+	}
+	547.1.1={
+		death="547.1.1"
+	}
+}
+159014 = {
+	name="鲁恩" # ap 马厄维恩
+	dynasty=100064 #格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159013 # 凯德沃伦
+	510.1.1={
+		birth="510.1.1"
+	}
+	580.1.1={
+		death="580.1.1"
+	}
+}
+159015 = {
+	name="毕利" # ap 鲁恩
+	dynasty=100064 #格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159014 # 鲁恩
+	527.1.1={
+		birth="527.1.1"
+	}
+	599.1.1={
+		death="599.1.1"
+	}
+}
+159016 = {
+	name="埃古" # ap 毕利
+	dynasty=100064 #格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159015 # 毕利
+	560.1.1={
+		birth="560.1.1"
+	}
+	616.1.1={
+		death="616.1.1"
+	}
+}
+159017 = {
+	name="卡德范" # ap 埃古
+	dynasty=100064 #格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159016 # 埃古
+	580.1.1={
+		birth="580.1.1"
+	}
+	625.1.1={
+		death="625.1.1"
+	}
+}
+159018 = {
+	name="凯德沃伦" # ap 卡德范
+	dynasty=100064 #格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159017 # 卡德范
+	600.1.1={
+		birth="600.1.1"
+	}
+	634.1.1={
+		death="634.1.1"
+	}
+}
+159019 = {
+	name="瑟瓦拉德尔" # ap 凯德沃伦
+	dynasty=100064 #格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159018 # 凯德沃伦
+	630.1.1={
+		birth="630.1.1"
+	}
+	664.1.1={
+		death="664.1.1"
+	}
+}
+159020 = {
+	name="伊德沃尔" # ap 瑟瓦拉德尔
+	dynasty=100064 #Gwynedd
+	religion="catholic"
+	culture="welsh"
+	father=159019 # Cadwaladr
+	670.1.1={
+		birth="670.1.1"
+	}
+	700.1.1={
+		add_spouse=160047
+	}
+	720.1.1={
+		death="720.1.1"
+	}
+}
+159021 = {
+	name="洛蒂" # ap 伊德沃尔
+	dynasty=100064 #Gwynedd
+	religion="catholic"
+	culture="welsh"
+	father=159020 # Idwal
+	mother=160047 #Agatha of Brittany
+	700.1.1={
+		birth="700.1.1"
+	}
+	754.1.1={
+		death="754.1.1"
+	}
+}
+
+159022 = {
+	name="萨拉伍格" # ap 梅利茨
+	dynasty=14284 #Rhos
+	father=160046
+	religion="catholic"
+	culture="welsh"
+	730.1.1={
+		birth="730.1.1"
+	}
+	798.1.1={
+		death="798.1.1"
+	}
+}
+159023 = {
+	name="苏南" # ap 洛蒂
+	dynasty=100064 #格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159021 # 洛蒂
+  trait="ambitious"
+	740.1.1={
+		birth="740.1.1"
+	}
+	816.1.1={
+		death="816.1.1"
+	}
+}
+159024 = {
+	name="海威尔" # ap 洛蒂
+	dynasty=100064 #格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159021 # 洛蒂
+	750.1.1={
+		birth="750.1.1"
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+159025 = {
+	name="爱瑟特" # ferch 苏南
+	dynasty=100064 #格温edd
+	female=yes
+	religion="catholic"
+	culture="welsh"
+	father=159023 # 苏南
+	770.1.1={
+		birth="770.1.1"
+	}
+	790.1.2={
+	add_spouse=159026
+	}
+	834.1.1={
+		death="834.1.1"
+	}
+}
+
+159026 = {
+	name="季伟德" # 
+	dynasty=101922 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159028 # 厄利都
+	760.1.1={
+		birth="760.1.1"
+	}
+	790.1.2={
+	add_spouse=159025
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+
+159027 = {
+	name="墨福因" # 
+	dynasty=101922 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159026 # 季伟德
+	mother=159025 # 爱瑟特
+	790.1.1={
+		birth="790.1.1"
+	}
+	819.1.2={
+	add_spouse=159088
+	}
+	844.1.1={
+		death="844.1.1"
+	}
+}
+
+159028 = {
+	name="厄利都" # 
+	dynasty=101922 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159029 # Sandde
+	mother=159933 # Celeinion
+
+	730.1.1={
+		birth="730.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+159029 = {
+	name="桑德" # 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159030 # Alcwn
+	680.1.1={
+		birth="680.1.1"
+	}
+	720.1.1={
+		add_spouse = 159933
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+159030 = {
+	name="艾格伍恩" # aka Alcwn
+	dynasty=1029000 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159031 # Tegid
+	640.1.1={
+		birth="640.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+159031 = {
+	name="特吉德" # 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159032 # 卢沃奇 Hen
+	600.1.1={
+		birth="600.1.1"
+	}
+	680.1.1={
+		death="680.1.1"
+	}
+}
+159032 = {
+	name="高文" # 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159033 # 卢沃奇 Hen
+	560.1.1={
+		birth="560.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+159033 = {
+	name="卢沃奇" # 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159034 # 厄利都 Llydanwyn
+	525.1.1={
+		birth="525.1.1"
+	}
+	612.1.1={
+		give_nickname = nick_the_old
+	}
+	613.1.1={
+		death="613.1.1"
+	}
+}
+159034 = {
+	name="厄利都" # the Handsome
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159035 # 梅利茨 Gul
+	500.1.1={
+		birth="500.1.1"
+	}
+	525.1.1={
+		give_nickname = nick_the_handsome
+	}
+	560.1.1={
+		death="560.1.1"
+	}
+}
+159035 = {
+	name="梅利茨" # Gul
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159036 # Gwrast the Ragged
+	430.1.1={
+		birth="430.1.1"
+	}
+	525.1.1={
+		death="525.1.1"
+	}
+}
+159036 = {
+	name="格拉斯特" # the Ragged
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159037 # Ceneu
+	410.1.1={
+		birth="410.1.1"
+	}
+	490.1.1={
+		death="490.1.1"
+	}
+}
+
+159037 = {
+	name="肯尼思" # 
+	dynasty=1029002 #Ebrauc
+	religion="catholic"
+	culture="welsh"
+	father=159038 # Coel
+	mother=159951 #Ystradwel of Dumnonia
+	390.1.1={
+		birth="390.1.1"
+	}
+	460.1.1={
+		death="460.1.1"
+	}
+}
+159038 = {
+	name="科埃" # 
+	dynasty=1029002 #Ebrauc
+	religion="catholic"
+	culture="welsh"
+	340.1.1={
+		birth="340.1.1"
+	}
+	390.1.1={
+		add_spouse = 159951
+	}
+	420.1.1={
+		give_nickname= nick_the_old
+	}
+	420.1.1={
+		death="420.1.1"
+	}
+}
+159039 = {
+	name="格瓦威尔" # 
+	female=yes
+	dynasty=1029002 #Ebrauc
+	religion="catholic"
+	culture="welsh"
+	father=159038 # Coel
+	mother=159951 #Ystradwel of Dumnonia
+	355.1.1={
+		birth="355.1.1"
+	}
+	390.1.2={
+	add_spouse=159010
+	}
+	430.1.1={
+		death="430.1.1"
+	}
+}
+159040 = {
+	name="伊夫威尔" # ap 瑟瓦拉德尔
+	dynasty=100064 #格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159019 # 瑟瓦拉德尔
+	660.1.1={
+		birth="660.1.1"
+	}
+	684.1.1={
+		death="684.1.1"
+	}
+}
+
+159041 = {
+	name="厄利瑟德" # ap 伊德沃尔
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81829 # 瑟瓦拉德尔
+	906.1.1={
+		birth="906.1.1"
+	}
+	942.1.1={
+		death="942.1.1"
+	}
+}
+
+159042 = {
+	name="普拉维斯特" # ferch 厄利瑟德
+	female=yes
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=159041 # 厄利瑟德
+	942.1.1={
+		birth="942.1.1"
+	}
+	970.1.2={
+		add_spouse=81820
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+159043 = {
+	name="里尔" # ap 艾尼恩
+	dynasty=1047019 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159011
+	450.1.1={
+		birth="450.1.1"
+	}
+	520.1.1={
+		death="520.1.1"
+	}
+}
+159044 = {
+	name="萨拉伍格" # ap 里尔
+	dynasty=1047019 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159043
+	480.1.1={
+		birth="480.1.1"
+	}
+	550.1.1={
+		death="550.1.1"
+	}
+}
+159045 = {
+	name="格果" # ap 萨拉伍格
+	dynasty=1047019  # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159044
+	520.1.1={
+		birth="520.1.1"
+	}
+	580.1.1={
+		death="580.1.1"
+	}
+}
+159046 = {
+	name="葛朗恩" # ap 格果
+	dynasty=1047019  # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159045
+	560.1.1={
+		birth="560.1.1"
+	}
+	615.1.1={
+		death="615.1.1"
+	}
+}
+159047 = {
+	name="何琳" # ap 葛朗恩
+	dynasty=1047019  # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159046
+	600.1.1={
+		birth="600.1.1"
+	}
+	670.1.1={
+		death="670.1.1"
+	}
+}
+159048 = {
+	name="路什维" # ap 何琳
+	dynasty=1047019 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159047
+	640.1.1={
+		birth="640.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+159049 = {
+	name="苏瓦斯" # ap 路什维
+	dynasty=1047019 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159048
+	680.1.1={
+		birth="680.1.1"
+	}
+	760.1.1={
+		death="760.1.1"
+	}
+}
+159050 = {
+	name="格拉恩格" # ap 苏瓦斯
+	dynasty=1047019 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159049
+	720.1.1={
+		birth="720.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+159051 = {
+	name="杰伦特" # ap 格拉恩格
+	dynasty=1047019 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159050
+	760.1.1={
+		birth="760.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+159052 = {
+	name="葛武德诺" # ap 杰伦特
+	dynasty=1047019  # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159051
+	800.1.1={
+		birth="800.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+159053 = {
+	name="桑德" # ap 葛武德诺
+	dynasty=1047019 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159052
+	840.1.1={
+		birth="840.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+159054 = {
+	name="儒勒" # ap 桑德
+	dynasty=1047019 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159053
+	880.1.1={
+		birth="880.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+159055 = {
+	name="艾登瓦" # ap 儒勒
+	dynasty=1047019 # 格温edd
+	religion="catholic"
+	culture="welsh"
+	father=159054
+	920.1.1={
+		birth="920.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+159056 = {
+	name="格威特伦" # Vortigern
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159945
+	350.1.1={
+		birth="350.1.1"
+	}
+	375.1.1={
+		add_spouse=159810
+	}
+	441.1.1={
+		death="441.1.1"
+	}
+}
+159057 = {
+	name="卡德伦" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159056
+	mother=159810
+	375.1.1={
+		birth="375.1.1"
+	}
+	460.1.1={
+		give_nickname= nick_the_blessed
+	}
+	471.1.1={
+		death="471.1.1"
+	}
+}
+159058 = {
+	name="卡德尔" #
+	dynasty=1029133 #Powys
+	religion="catholic"
+	culture="welsh"
+	father=159948
+	400.1.1={
+		birth="400.1.1"
+	}
+	470.1.1={
+		death="470.1.1"
+	}
+}
+159059 = {
+	name="潘根" #
+	dynasty=1029133 #Powys
+	religion="catholic"
+	culture="welsh"
+	father=159058
+	425.1.1={
+		birth="425.1.1"
+	}
+	450.1.1={
+		add_spouse = 159950
+	}
+	501.1.1={
+		death="501.1.1"
+	}
+}
+159060 = {
+	name="马翁" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159059
+  mother=159950
+	450.1.1={
+		birth="450.1.1"
+	}
+	521.1.1={
+		death="521.1.1"
+	}
+}
+159061 = {
+	name="凯圣纳" # Wledig
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159057
+	421.1.1={
+		birth="421.1.1"
+	}
+	500.1.1={
+		death="500.1.1"
+	}
+}
+159062 = {
+	name="伊拉莉" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159061
+	470.1.1={
+		birth="470.1.1"
+	}
+	550.1.1={
+		death="550.1.1"
+	}
+}
+159063 = {
+	name="鲁恩" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159062
+	510.1.1={
+		birth="510.1.1"
+	}
+	580.1.1={
+		death="580.1.1"
+	}
+}
+159064 = {
+	name="布威登" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159063
+	550.1.1={
+		birth="550.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+159065 = {
+	name="布威尔·卢" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159064
+	600.1.1={
+		birth="600.1.1"
+	}
+	690.1.1={
+		death="690.1.1"
+	}
+}
+159066 = {
+	name="格内乌·登法恩德伍德" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159065
+	630.1.1={
+		birth="630.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+159067 = {
+	name="特恩" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159066
+	670.1.1={
+		birth="670.1.1"
+	}
+	746.1.1={
+		death="746.1.1"
+	}
+}
+159068 = {
+	name="特古恩" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159067
+	700.1.1={
+		birth="700.1.1"
+	}
+	769.1.1={
+		death="769.1.1"
+	}
+}
+159069 = {
+	name="卡恩格" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159068
+	740.1.1={
+		birth="740.1.1"
+	}
+	803.1.1={
+		death="803.1.1"
+	}
+}
+159070 = {
+	name="索夫" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159069
+	760.1.1={
+		birth="760.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+159071 = {
+	name="瑟迪奥" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159070
+	783.1.1={
+		birth="783.1.1"
+	}
+	867.1.1={
+		death="867.1.1"
+	}
+}
+159072 = {
+	name="雷斯·拉瓦德" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159071
+	810.1.1={
+		birth="810.1.1"
+	}
+	888.1.1={
+		death="888.1.1"
+	}
+}
+159073 = {
+	name="萨拉伍格" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159072
+	842.1.1={
+		birth="842.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}
+159074 = {
+	name="布列丹" # 
+	dynasty=1047018 #Gruffyd of Powys
+	religion="catholic"
+	culture="welsh"
+	father=159073
+	873.1.1={
+		birth="873.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+159075 = {
+	name="葛武德" # 
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159074
+	894.1.1={
+		birth="894.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+159076 = {
+	name="格瓦特弗德" # 
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=159075
+	924.1.1={
+		birth="924.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+159077 = {
+	name="苏根" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159060
+	470.1.1={
+		birth="470.1.1"
+	}
+	520.1.1={
+		death="520.1.1"
+	}
+}
+159078 = {
+	name="布罗茨法尔" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159077
+	500.1.1={
+		birth="500.1.1"
+	}
+	571.1.1={
+		death="571.1.1"
+	}
+}
+159079 = {
+	name="苏南" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159078
+	530.1.1={
+		birth="530.1.1"
+	}
+	610.1.1={
+		death="610.1.1"
+	}
+}
+159080 = {
+	name="瑟鲁夫" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159079
+	575.1.1={
+		birth="575.1.1"
+	}
+	613.1.1={
+		death="613.1.1"
+	}
+}
+
+159081 = {
+	name="曼维甘" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159080
+	610.1.1={
+		birth="610.1.1"
+	}
+	655.1.1={
+		death="655.1.1"
+	}
+}
+
+159082 = {
+	name="毕利" # ap Eliudd
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159081
+	635.1.1={
+		birth="635.1.1"
+	}
+	680.1.1={
+		death="680.1.1"
+	}
+}
+
+159083 = {
+	name="格伍拉格" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159082
+	660.1.1={
+		birth="660.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+159084 = {
+	name="厄利瑟德" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159083
+	695.1.1={
+		birth="695.1.1"
+	}
+	755.1.1={
+		death="755.1.1"
+	}
+}
+159085 = {
+	name="布罗茨法尔" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159084
+	720.1.1={
+		birth="720.1.1"
+	}
+	773.1.1={
+		death="773.1.1"
+	}
+}
+159086 = {
+	name="卡德尔" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159084
+	750.1.1={
+		birth="750.1.1"
+	}
+	808.1.1={
+		death="808.1.1"
+	}
+}
+159087 = {
+	name="苏根" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159086
+	770.1.1={
+		birth="770.1.1"
+	}
+	854.1.1={
+		death="854.1.1"
+	}
+}
+159088 = {
+	name="内丝特" #
+	female=yes
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159086
+	790.1.1={
+		birth="790.1.1"
+	}
+	819.1.2={
+	add_spouse=159027
+	}
+	854.1.1={
+		death="854.1.1"
+	}
+}
+159089 = {
+	name="潘根" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159077
+	490.1.1={
+		birth = yes
+	}
+	541.1.1={
+		death="541.1.1"
+	}
+}
+159090 = {
+	name="摩根" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159089
+	500.1.1={
+		birth="500.1.1"
+	}
+	570.1.1={
+		death="570.1.1"
+	}
+}
+159091 = {
+	name="阿德丹" # ap 苏根
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159087
+	790.1.1={
+		birth="790.1.1"
+    add_claim = c_powys
+	}
+	878.1.1={
+		death="878.1.1"
+	}
+}
+159092 = {
+	name="布罗茨法尔" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159091
+	820.1.1={
+		birth="820.1.1"
+		add_claim = c_powys
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+159093 = {
+	name="瑟鲁夫" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159092
+	850.1.1={
+		birth="850.1.1"
+		add_claim = c_powys
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+159094 = {
+	name="阿德丹" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159093
+	880.1.1={
+		birth="880.1.1"
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+159095 = {
+	name="布罗茨法尔" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159094
+	910.1.1={
+		birth="910.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+159096 = {
+	name="瑟鲁夫" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159095
+	945.1.1={
+		birth="945.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+159097 = {
+	name="阿德丹" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159096
+	975.1.1={
+		birth="975.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+159098 = {
+	name="布罗茨法尔" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159097
+	995.1.1={
+		birth="995.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+159099 = {
+	name="瑟鲁夫" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159098
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+159100 = {
+	name="毕利" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159096
+	980.1.1={
+		birth="980.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+159101 = {
+	name="格鲁菲德" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159100
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+159102 = {
+	name="格温" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159101
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+159103 = {
+	name="阿德丹" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159099
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+159104 = {
+	name="毕利" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159099
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+159105 = {
+	name="潘根" #
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159102
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+159106 = {
+	name="坦格维热" #
+	female=yes
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159102
+	1080.10.1={
+		birth="1080.10.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+159107 = {
+	name="摩根" #
+	dynasty=547 # Morgan
+	religion="catholic"
+	culture="welsh"
+	father=159108
+	mother=159375
+	874.1.1={
+		birth="874.1.1"
+	}
+	974.1.1={
+		give_nickname= nick_the_old
+	}
+	974.1.2={
+		death="974.1.2"
+	}
+}
+
+159108 = {
+	name="欧文" #
+	dynasty=547 # Morgan
+	religion="catholic"
+	culture="welsh"
+	father=159109
+	850.1.1={
+		birth="850.1.1"
+	}
+	875.1.1={
+		add_spouse = 159375
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+159109 = {
+	name="海威尔" #
+	dynasty=547 # 摩根
+	religion="catholic"
+	culture="welsh"
+	father=159110
+	830.1.1={
+		birth="830.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+159110 = {
+	name="里斯" #
+	dynasty=547 # 摩根
+	religion="catholic"
+	culture="welsh"
+	father=159111
+	785.1.1={
+		birth="785.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+159111 = {
+	name="艾特法尔" #
+	dynasty=547 # 摩根
+	religion="catholic"
+	culture="welsh"
+	father=159112
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+159112 = {
+	name="季伟德" #
+	dynasty=547 # 摩根
+	religion="catholic"
+	culture="welsh"
+	father=159113
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+159113 = {
+	name="布罗茨法尔" #
+	dynasty=547 # 摩根
+	religion="catholic"
+	culture="welsh"
+	father=159114
+	730.1.1={
+		birth="730.1.1"
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+
+159114 = {
+	name="里斯" #
+	dynasty=547 # 摩根
+	religion="catholic"
+	culture="welsh"
+	father=159115
+	709.1.1={
+		birth="709.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+159115 = {
+	name="伊特厄尔" #
+	dynasty=547 # 摩根
+	religion="catholic"
+	culture="welsh"
+	father=159116
+	675.1.1={
+		birth="675.1.1"
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+
+159116 = {
+	name="摩根" #
+	dynasty=547 # Morgan
+	religion="catholic"
+	culture="welsh"
+	father=159835
+	634.1.1={
+		birth="634.1.1"
+	}
+	710.1.2={
+		death="710.1.2"
+		give_nickname = nick_the_great
+	}
+}
+
+161615 = {
+	name="格拉德斯" #ferch Llywelyn
+	female=yes
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	trait="bastard"
+	father=214714 #Llywelyn ab Iorwerth
+	1210.1.1={
+		birth="1210.1.1"
+	}	
+	1251.1.1={
+		death="1251.1.1" 
+	}
+}
+
+159290 = {
+	name="内丝特" # ferch Tewdwr
+	dynasty=101919 #Dinefrw
+	female=yes
+	religion="catholic"
+	culture="welsh"
+	trait="charitable"
+	father=138488 #Tewdwr ap Cadell
+	1014.1.1={
+		birth="1014.1.1" #unknown
+	}
+	1093.4.1={
+		death="1093.4.1"
+	}
+}
+
+159292 = {
+	name="艾蒂奥" # ap Swtrig
+	dynasty=1029097 # Llywel
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=159291
+	mother=159290
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1066.1.1={
+		add_spouse = 159520
+	}
+	1094.1.5={
+		death="1094.1.5"
+	}
+}
+
+159293 = {
+	name="古拉格" # ab Eidio
+	dynasty=1029097 # Llywel
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=159292
+	mother=159520
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1134.1.5={
+		death="1134.1.5"
+	}
+}
+
+159294 = {
+	name="马多格" # ap Golwg
+	dynasty=1029097 # Llywel
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=159293
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1160.1.5={
+		death="1160.1.5"
+	}
+}
+
+159295 = {
+	name="耶斯普斯" # ap Golwg
+	dynasty=1029097 # Llywel
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=159293
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1165.1.5={
+		death="1165.1.5"
+	}
+}
+
+159296 = {
+	name="马伯龙" # ap Golwg
+	dynasty=1029097 # Llywel
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=159293
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1170.1.5={
+		death="1170.1.5"
+	}
+}
+
+159297 = {
+	name="拉尔 梅里尼" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159035
+	505.1.1={
+		birth="505.1.1"
+	}
+	575.1.2={
+		death="575.1.2"
+	}
+}
+159298 = {
+	name="喀拉多克" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159297
+	530.1.1={
+		birth="530.1.1"
+	}
+	600.1.2={
+		death="600.1.2"
+	}
+}
+
+159299 = {
+	name="卡尔多夫" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159298
+	560.1.1={
+		birth="560.1.1"
+	}
+	640.1.2={
+		death="640.1.2"
+	}
+}
+
+159300 = {
+	name="考" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159299
+	590.1.1={
+		birth="590.1.1"
+	}
+	670.1.2={
+		death="670.1.2"
+	}
+}
+
+159301 = {
+	name="格洛伊" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159300
+	620.1.1={
+		birth="620.1.1"
+	}
+	700.1.2={
+		death="700.1.2"
+	}
+}
+
+159302 = {
+	name="侯乌" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159301
+	650.1.1={
+		birth="650.1.1"
+	}
+	730.1.2={
+		death="730.1.2"
+	}
+}
+
+159303 = {
+	name="桑富尔什" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159302
+	680.1.1={
+		birth="680.1.1"
+	}
+	760.1.2={
+		death="760.1.2"
+	}
+}
+
+159304 = {
+	name="松达格" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159303
+	710.1.1={
+		birth="710.1.1"
+	}
+	790.1.2={
+		death="790.1.2"
+	}
+}
+
+159305 = {
+	name="塔塔尔卡" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159304
+	750.1.1={
+		birth="750.1.1"
+	}
+	820.1.2={
+		death="820.1.2"
+	}
+}
+
+159306 = {
+	name="图古德" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159305
+	790.1.1={
+		birth="790.1.1"
+	}
+	860.1.2={
+		death="860.1.2"
+	}
+}
+
+159307 = {
+	name="阿纳拉特" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159306
+	830.1.1={
+		birth="830.1.1"
+	}
+	890.1.2={
+		death="890.1.2"
+	}
+}
+
+159308 = {
+	name="格温达" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159307
+	860.1.1={
+		birth="860.1.1"
+	}
+	920.1.2={
+		death="920.1.2"
+	}
+}
+
+159309 = {
+	name="格文格韦" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159308
+	900.1.1={
+		birth="900.1.1"
+	}
+	970.1.2={
+		death="970.1.2"
+	}
+}
+
+159310 = {
+	name="汗甘" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159309
+	930.1.1={
+		birth="930.1.1"
+	}
+	1000.1.2={
+		death="1000.1.2"
+	}
+}
+
+159311 = {
+	name="德拉普龙" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159310
+	960.1.1={
+		birth="960.1.1"
+	}
+	980.1.1={
+		add_spouse = 159313
+	}
+	1030.1.2={
+		death="1030.1.2"
+	}
+}
+
+159312 = {
+	name="莫纳尔基" # of Brycheiniog
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="welsh"
+	father=159311
+	mother=159313
+	998.1.1={
+		birth="998.1.1"
+	}
+	1035.1.1={
+		add_spouse = 159374 
+	}
+	1060.1.2={
+		death="1060.1.2"
+	}
+}
+
+159313 = {
+	name="克鲁切利" #
+	dynasty=101920 #Aberffraw
+	female=yes
+	religion="catholic"
+	culture="welsh"
+	father=81826
+	960.1.1={
+		birth="960.1.1"
+	}
+	980.1.1={
+		add_spouse = 159311
+	}
+	1030.1.2={
+		death="1030.1.2"
+	}
+}
+
+159314 = {
+	name="布莱泽德" # of Brycheiniog
+	dynasty=1042817 #Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=131704
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1130.1.2={
+		death="1130.1.2"
+	}
+}
+
+159315 = {
+	name="加贡" # of Brycheiniog
+	dynasty=1042817 #Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=159314
+	1086.1.1={
+		birth="1086.1.1"
+	}
+	1150.1.2={
+		death="1150.1.2"
+	}
+}
+
+159231 = { 
+	name="赖泽赫"
+	dynasty=101919
+	religion="catholic"
+	culture="welsh"
+	father=138488
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1070.1.1={
+		add_spouse=81850 #married Hunydd ferch Bleddyn
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+159232 = { 
+	name="梅雷迪思"
+	dynasty=101919
+	religion="catholic"
+	culture="welsh"
+	father=159231
+	mother=81850 #Hunydd ferch Bleddyn
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+159233 = { 
+	name="欧文"
+	dynasty=101919
+	religion="catholic"
+	culture="welsh"
+	father=159231
+	mother=81850 #Hunydd ferch Bleddyn
+	1071.1.1={
+		birth="1071.1.1"
+	}
+	1151.1.1={
+		death="1151.1.1"
+	}
+}
+
+159234 = {
+	name="丹尼斯" #ferch Bleddyn
+	dynasty=548 #Mathrafal
+	female=yes
+	religion="catholic"
+	culture="welsh"
+	father=6358 #Bleddyn ap Cynfyn
+	mother=40507 #Haer Efionydd
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+163104 = {
+	name="哈特吉尔" 
+	dynasty=816 
+	martial=6
+	diplomacy=3
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=166444
+	804.1.1={
+		birth="804.1.1"
+	}
+	872.1.1={
+		death="872.1.1"
+	}
+}
+
+159323 = {
+	name="普罗昌"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=159320
+	mother=159815
+	415.1.1={
+		birth="415.1.1"
+	}
+	435.1.1={
+		add_spouse = 159932
+	}
+	490.1.1={
+		death="490.1.1"
+	}
+}
+159324 = {
+	name="吉维尔斯费"
+	dynasty=1029030 #Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159322
+	455.1.1={
+		birth="455.1.1"
+	}
+	540.1.1={
+		death="540.1.1"
+	}
+}
+159325 = {
+	name="拉赫 德拉马尔"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=159323
+  mother=159932
+	435.1.1={
+		birth="435.1.1"
+	}
+	510.1.1={
+		death="510.1.1"
+	}
+}
+
+159326 = {
+	name="赖盖瑙"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=159325
+	460.1.1={
+		birth="460.1.1"
+	}
+	540.1.1={
+		death="540.1.1"
+	}
+}
+159327 = {
+	name="勒尔希"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=159326
+	500.1.1={
+		birth="500.1.1"
+	}
+	580.1.1={
+		death="580.1.1"
+	}
+}
+159328 = {
+	name="乌达伦"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=159327
+	540.1.1={
+		birth="540.1.1"
+	}
+	620.1.1={
+		death="620.1.1"
+	}
+}
+159329 = {
+	name="罗阿伦"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=159328
+	570.1.1={
+		birth="570.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+159330 = {
+	name="芬德里赫"
+	female = yes
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=159329
+	600.1.1={
+		birth="600.1.1"
+	}
+	625.1.1={
+		add_spouse=159344 #Cloten of Dyfed
+	}
+	670.1.1={
+		death="670.1.1"
+	}
+}
+159340 = {
+	name="詹加尔"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159324
+	500.1.1={
+		birth="500.1.1"
+	}
+	570.1.1={
+		death="570.1.1"
+	}
+}
+159341 = {
+	name="帕德尔"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159340
+	530.1.1={
+		birth="530.1.1"
+	}
+	595.1.1={
+		death="595.1.1"
+	}
+}
+159342 = {
+	name="亚瑟"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159341
+	550.1.1={
+		birth="550.1.1"
+	}
+	620.1.1={
+		death="620.1.1"
+	}
+}
+159343 = {
+	name="诺维" # I 
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159342
+	565.1.1={
+		birth="565.1.1"
+	}
+	650.1.1={
+		give_nickname = nick_the_old
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+159344 = {
+	name="格拉丁" #Cloten
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159343
+	590.1.1={
+		birth="590.1.1"
+	}
+	625.1.1={
+		add_spouse=159330 #Ceindrych of Brycheiniog
+	}
+	670.1.1={
+		death="670.1.1"
+	}
+}
+159345 = {
+	name="科森"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159344
+	mother=159330
+	625.1.1={
+		birth="625.1.1"
+	}
+	690.1.1={
+		death="690.1.1"
+	}
+}
+159346 = {
+	name="卡杜根 迪尔德利"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159345
+	650.1.1={
+		birth="650.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+159347 = {
+	name="罗翰"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159346
+	670.1.1={
+		birth="670.1.1"
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+159348 = {
+	name="蒂杜斯"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159347
+	700.1.1={
+		birth="700.1.1"
+	}
+	760.1.1={
+		death="760.1.1"
+	}
+}
+159349 = {
+	name="梅雷迪思"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159348
+	730.1.1={
+		birth="730.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+159350 = {
+	name="欧文"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159349
+	760.1.1={
+		birth="760.1.1"
+	}
+	811.1.1={
+		death="811.1.1"
+	}
+}
+159351 = {
+	name="廷斯达尔"
+	female = yes
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159350
+	790.1.1={
+		birth="790.1.1"
+	}
+	850.1.1={
+		death="850.1.1"
+	}
+}
+159352 = {
+	name="博列德鲁格"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+father=159697
+	790.1.1={
+		birth="790.1.1"
+	}
+	850.1.1={
+		death="850.1.1"
+	}
+}
+159353 = {
+	name="哈法德"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159352
+	mother=159351
+	810.1.1={
+		birth="810.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+159354 = {
+	name="勒尔希"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159353
+	850.1.1={
+		birth="850.1.1"
+	}
+	904.1.1={
+		death="904.1.1"
+	}
+}
+159355 = {
+	name="埃伦"
+	female = yes
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159354
+	880.1.1={
+		birth="880.1.1"
+	}
+	904.1.1={
+		add_spouse=81823
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+159356 = {
+	name="罗翰"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159349
+	755.1.1={
+		birth="755.1.1"
+	}
+	808.1.1={
+		death="808.1.1"
+	}
+}
+159357 = {
+	name="特里芬"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159356
+	770.1.1={
+		birth="770.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+159358 = {
+	name="奥斯特"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159346
+	680.1.1={
+		birth="680.1.1"
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+159359 = {
+	name="阿尔斯达尔"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159358
+	710.1.1={
+		birth="710.1.1"
+	}
+	750.1.1={
+		death="750.1.1"
+	}
+}
+159360 = {
+	name="图德"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159347
+	701.1.1={
+		birth="701.1.1"
+	}
+	750.1.1={
+		death="750.1.1"
+	}
+}
+159361 = {
+	name="罗德里"
+	dynasty=1029030 # Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159353
+	851.1.1={
+		birth="851.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+159362 = {
+	name="罗德里" #ap Hywel
+	dynasty=101919 #Dinefrw
+	religion="catholic"
+	culture="welsh"
+	father=81823 #Hywel Dda
+	mother=159355 #Elen of Dyfed
+	905.1.1={
+		birth="905.1.1"
+	}
+	954.1.1={
+		death="954.1.1"
+	}
+}
+159363 = {
+	name="诺维"
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159360
+	721.1.1={
+		birth="721.1.1"
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+159364 = {
+	name="格鲁菲兹" 
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159363
+	750.1.1={
+		birth="750.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+159365 = {
+	name="图德" 
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159364
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+159366 = {
+	name="埃利赛特" 
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159365
+	810.1.1={
+		birth="810.1.1"
+    add_claim = c_gwent
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+159367 = {
+	name="格鲁菲兹" 
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159366
+	850.1.1={
+		birth="850.1.1"
+    add_claim = c_gwent
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+159368 = {
+	name="图德" 
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159367
+	870.1.1={
+		birth="870.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+159369 = {
+	name="格拉格" 
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159368
+	900.1.1={
+		birth="900.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+159370 = {
+	name="埃利赛特" 
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159369
+	930.1.1={
+		birth="930.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+159371 = {
+	name="格鲁菲兹" 
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159370
+	960.1.1={
+		birth="960.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+159372 = {
+	name="塞利夫" 
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159371
+	980.1.1={
+		birth="980.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+159373 = {
+	name="艾尼恩" 
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159372
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+159374 = {
+	name="埃莉诺" #
+	female = yes
+	dynasty=200068
+	religion="catholic"
+	culture="welsh"
+	father=159373
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1035.1.1={
+		add_spouse = 159312 
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+159375 = {
+	name="埃伦" #ferch Rhodri Mawr
+	female = yes
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81831 #Rhodri Mawr
+	855.1.1={
+		birth="855.1.1"	#unknown
+	}
+	935.1.1={
+		death="935.1.1"
+	}
+}
+159519 = {
+	name="德鲁本"
+	dynasty=1042817
+	martial=8
+	diplomacy=3
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=159312
+	mother=159374
+	trait="zealous"
+	trait="tough_soldier"
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}
+159520 = {
+	name="埃莉诺" #ferch Drymbenog
+	female=yes
+	dynasty=1042817
+	religion="catholic"
+	culture="welsh"
+	father=159519
+	1050.1.1={
+		birth="1050.1.1"	#unknown
+	}
+	1066.1.1={
+		add_spouse=159292
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+159424 = {
+	name="卡拉多格"
+	religion="catholic"
+	culture="welsh"
+	dynasty=545 #Caradoc
+	240.1.1={
+		birth="240.1.1"
+	}
+	305.1.1={
+		death="305.1.1"
+	}
+}
+159425 = {
+	name="梅里格"
+	religion="catholic"
+	culture="welsh"
+	dynasty=545 #Caradoc
+	father=159424
+	260.1.1={
+		birth="260.1.1"
+	}
+	315.1.1={
+		death="315.1.1"
+	}
+}
+159426 = {
+	name="迪诺德"
+	religion="catholic"
+	culture="welsh"
+	dynasty=545 #Caradoc
+	father=159424
+	281.1.1={
+		birth="281.1.1"
+	}
+	330.1.1={
+		death="330.1.1"
+	}
+}
+159427 = {
+	name="乌苏拉"
+	female = yes
+	religion="catholic"
+	culture="welsh"
+	dynasty=545 #Caradoc
+	father=159426
+	286.1.1={
+		birth="286.1.1"
+	}
+	370.1.1={
+		death="370.1.1"
+	}
+}
+159428 = {
+	name="爱努德"
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029001 #Prydain
+	221.1.1={
+		birth="221.1.1"
+	}
+	300.1.1={
+		death="300.1.1"
+	}
+}
+159429 = {
+	name="爱达弗" #Hen
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029001 #Prydain
+	father=159428
+	261.1.1={
+		birth="261.1.1"
+	}
+	360.1.1={
+		death="360.1.1"
+	}
+}
+159430 = {
+	name="埃伦"
+	female = yes
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029001 #Prydain
+	father=159429
+	340.1.1={
+		birth="340.1.1"
+	}
+	360.1.1={
+		add_spouse=159807
+	}
+	400.1.1={
+		death="400.1.1"
+	}
+}
+159431 = {
+	name="基男 梅里亚多格"
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159472
+	290.1.1={
+		birth="290.1.1"
+	}
+	387.1.1={
+		death="387.1.1"
+	}
+}
+159432 = {
+	name="卡德凡"
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159431
+	mother=159427
+	310.1.1={
+		birth="310.1.1"
+	}
+	390.1.1={
+		death="390.1.1"
+	}
+}
+159472 = {
+	name="格莱恩" 
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029001 #Prydain
+	father=159428
+	265.1.1={
+		birth="265.1.1"
+	}
+	340.1.1={
+		death="340.1.1"
+	}
+}
+159435 = {
+	name="古尔沃尔"
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159432
+	330.1.1={
+		birth="330.1.1"
+	}
+	400.1.1={
+		death="400.1.1"
+	}
+}
+159436 = {
+	name="蒂达尔"
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159435
+	360.1.1={
+		birth="360.1.1"
+	}
+	380.1.1={
+		add_spouse=159811
+	}
+	410.1.1={
+		death="410.1.1"
+	}
+}
+
+159437 = {
+	name="昆沃尔"
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159436
+	mother=159811
+	380.1.1={
+		birth="380.1.1"
+	}
+	435.1.1={
+		death="435.1.1"
+	}
+}
+
+159438 = {
+	name="库斯滕因" #Constantine of Cornwall
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159437
+	410.1.1={
+		birth="410.1.1"
+	}
+	443.1.1={
+		death="443.1.1"
+	}
+}
+159439 = {
+	name="厄宾" 
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159438
+	430.1.1={
+		birth="430.1.1"
+	}
+	480.1.1={
+		death="480.1.1"
+	}
+}
+159440 = {
+	name="格莱恩" #Llyngesic
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159439
+	450.1.1={
+		birth="450.1.1"
+	}
+	468.1.1={
+		add_spouse= 159753
+	}
+	508.1.1={
+		death="508.1.1"
+	}
+}
+159441 = {
+	name="卡杜伊" 
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159440
+	mother= 159753
+	475.1.1={
+		birth="475.1.1"
+	}
+	530.1.1={
+		death="530.1.1"
+	}
+}
+159442 = {
+	name="库斯滕因" 
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159441
+	500.1.1={
+		birth="500.1.1"
+	}
+	560.1.1={
+		death="560.1.1"
+		give_nickname=nick_the_saint
+		dynasty=1029041 #Devnent
+	}
+}
+159443 = {
+	name="格莱恩" 
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159442
+	530.1.1={
+		birth="530.1.1"
+	}
+	577.1.1={
+		name="格勒恩" 
+		culture="breton"
+		dynasty=1029041 #Devnent
+	}
+	598.1.1={
+		death="598.1.1"
+	}
+}
+159444 = {
+	name="布雷垂"
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159442
+	535.1.1={
+		birth="531.1.1"
+	}
+	577.1.1={
+		name="布雷德里克" 
+		culture="breton"
+		dynasty=1029041 #Devnent
+	}
+	613.1.1={
+		death="613.1.1"
+	}
+}
+
+159751 = {
+	name="努琳娜" 
+	female=yes
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159442
+	540.1.1={
+		birth="540.1.1"
+	}
+	577.1.1={
+		name="努伦娜"
+		culture="breton"
+		dynasty=1029041 #Devnent
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+159752 = {
+	name="迪维尔" 
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159442
+	543.1.1={
+		birth="543.1.1"
+	}
+	577.1.1={
+		name="多穆尔" 
+		culture="breton"
+		dynasty=1029041 #Devnent
+	}
+	605.1.1={
+		death="605.1.1"
+	}
+}
+159753 = {
+	name="埃尼德"
+	female=yes
+	religion="catholic"
+	culture="welsh"
+	dynasty=0 #
+	453.1.1={
+		birth="453.1.1"
+	}
+	500.1.1={
+		death="500.1.1"
+	}
+}
+159754 = {
+	name="厄明德" 
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159439
+	452.1.1={
+		birth="452.1.1"
+	}
+	505.1.1={
+		death="505.1.1"
+	}
+}
+159755 = {
+	name="迪维尔" 
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159439
+	454.1.1={
+		birth="454.1.1"
+	}
+	505.1.1={
+		death="505.1.1"
+	}
+}
+159697 = {
+	name="伊顿"
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029030 # Dyfed
+	father=159349
+	760.1.1={
+		birth="760.1.1"
+	}
+	827.1.1={
+		death="827.1.1"
+	}
+}
+
+159807 = {
+	name="马森" # Wledig
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	339.1.1={
+		birth="339.1.1"
+	}
+	360.1.1={
+		add_spouse=159430
+	}
+	380.1.1={
+		death="380.1.1"
+	}
+}
+159810 = {
+	name="瑟维拉" # 
+	female = yes
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159807
+	mother=159430
+	360.1.1={
+		birth="360.1.1"
+	}
+	375.1.1={
+		add_spouse=159056
+	}
+	428.1.1={
+		death="428.1.1"
+	}
+}
+159811 = {
+	name="格拉提亚娜" # 
+	female = yes
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159807
+	mother=159430
+	361.1.1={
+		birth="361.1.1"
+	}
+	380.1.1={
+		add_spouse=159436
+	}
+	428.1.1={
+		death="428.1.1"
+	}
+}
+
+159808 = {
+	name="安侬 迪诺德" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159807
+	mother=159430
+	345.1.1={
+		birth="345.1.1"
+	}
+	428.1.1={
+		death="428.1.1"
+	}
+}
+159813 = {
+	name="蒂达尔" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159808
+	361.1.1={
+		birth="361.1.1"
+	}
+	431.1.1={
+		death="431.1.1"
+	}
+}
+159814 = {
+	name="蒂尤德里格" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159813
+	377.1.1={
+		birth="377.1.1"
+	}
+	451.1.1={
+		death="451.1.1"
+	}
+}
+159815 = {
+	name="马切尔" # 
+	female = yes
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159814
+	393.1.1={
+		birth="393.1.1"
+	}
+	415.1.1={
+		add_spouse=159320
+	}
+	451.1.1={
+		death="451.1.1"
+	}
+}
+159816 = {
+	name="埃德尼弗" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159808
+	373.1.1={
+		birth="373.1.1"
+	}
+	431.1.1={
+		death="431.1.1"
+	}
+}
+159817 = {
+	name="格罗特古因" # 
+	dynasty=1029134 #Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159816
+	389.1.1={
+		birth="389.1.1"
+	}
+	451.1.1={
+		death="451.1.1"
+	}
+}
+159818 = {
+	name="克洛迪" # 
+	dynasty=1029134 #Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159817
+	405.1.1={
+		birth="405.1.1"
+	}
+	475.1.1={
+		death="475.1.1"
+	}
+}
+159819 = {
+	name="麦尔格威" # 
+	dynasty=1029134 #Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159818
+	422.1.1={
+		birth="422.1.1"
+	}
+	475.1.1={
+		death="475.1.1"
+	}
+}
+159820 = {
+	name="格勒德尔" # 
+	female = yes
+	dynasty=1029134 #Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159818
+	421.1.1={
+		birth="421.1.1"
+	}
+	475.1.1={
+		death="475.1.1"
+	}
+}
+159821 = {
+	name="杜芬瓦尔" # Donald
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159816
+	388.1.1={
+		birth="388.1.1"
+	}
+	450.1.1={
+		death="450.1.1"
+	}
+}
+159822 = {
+	name="伊尼尔" # Honorius
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159821
+	430.1.1={
+		birth="430.1.1"
+	}
+	470.1.1={
+		add_spouse=159837
+	}
+	500.1.1={
+		death="500.1.1"
+	}
+}
+159823 = {
+	name="卡拉多格" # Freichfras
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159822
+	mother=159837
+	470.1.1={
+		birth="470.1.1"
+	}
+	492.1.1={
+		add_spouse=159960
+	}
+	530.1.1={
+		death="530.1.1"
+	}
+}
+159824 = {
+	name="梅里格" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159823
+	mother=159960
+	492.1.1={
+		birth="492.1.1"
+	}
+	508.1.1={
+		add_spouse=159829
+	}
+	550.1.1={
+		death="550.1.1"
+	}
+}
+159825 = {
+	name="厄比克" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159824
+	mother=159829
+	508.1.1={
+		birth="508.1.1"
+	}
+	570.1.1={
+		death="570.1.1"
+	}
+}
+159809 = {
+	name="欧瓦因" # 
+	dynasty=1029130 #Cernyw
+	religion="catholic"
+	culture="welsh"
+	father=159807
+	357.1.1={
+		birth="357.1.1"
+	}
+	428.1.1={
+		death="428.1.1"
+	}
+}
+159826 = {
+	name="摩尔" # 
+	dynasty=1029130 #Cernyw
+	religion="catholic"
+	culture="welsh"
+	father=159809
+	378.1.1={
+		birth="378.1.1"
+	}
+	448.1.1={
+		death="448.1.1"
+	}
+}
+159827 = {
+	name="梭罗尔" # 
+	dynasty=1029130 #Cernyw
+	religion="catholic"
+	culture="welsh"
+	father=159826
+	398.1.1={
+		birth="398.1.1"
+	}
+	470.1.1={
+		death="470.1.1"
+	}
+}
+159828 = {
+	name="格里威斯" # 
+	dynasty=1029130 #Cernyw
+	religion="catholic"
+	culture="welsh"
+	father=159827
+	435.1.1={
+		birth="435.1.1"
+	}
+	498.1.1={
+		death="498.1.1"
+	}
+}
+159829 = {
+	name="杜芬" # 
+	female = yes
+	dynasty=1029130 #Cernyw
+	religion="catholic"
+	culture="welsh"
+	father=159828
+	486.1.1={
+		birth="486.1.1"
+	}
+	508.1.1={
+		add_spouse=159824
+	}
+	548.1.1={
+		death="548.1.1"
+	}
+}
+159830 = {
+	name="厄比" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159825
+	524.1.1={
+		birth="524.1.1"
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+159831 = {
+	name="宁尼阿" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159830
+	540.1.1={
+		birth="540.1.1"
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+159832 = {
+	name="蒂尤德里格" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159834
+	576.1.1={
+		birth="576.1.1"
+	}
+	645.1.1={
+		death="645.1.1"
+		give_nickname=nick_the_saint
+	}
+}
+159833 = {
+	name="梅里格" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159832
+	596.1.1={
+		birth="596.1.1"
+	}
+	620.1.1={
+		add_spouse=159964
+	}
+	665.1.1={
+		death="665.1.1"
+	}
+}
+159834 = {
+	name="李瓦赫" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159831
+	560.1.1={
+		birth="560.1.1"
+	}
+	605.1.1={
+		death="605.1.1"
+	}
+}
+159835 = {
+	name="阿特惠斯" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159833
+	mother=159964
+	620.1.1={
+		birth="620.1.1"
+	}
+	680.1.1={
+		death="680.1.1"
+	}
+}
+159836 = {
+	name="格尔特弗" # Vortimer
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159056
+	mother=159810
+	376.1.1={
+		birth="376.1.1"
+	}
+	453.1.1={
+		death="453.1.1"
+		give_nickname= nick_the_blessed
+	}
+}
+159837 = {
+	name="马德伦" #
+	female = yes
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159836
+	430.1.1={
+		birth="430.1.1"
+	}
+	470.1.1={
+		add_spouse=159822
+	}
+	490.1.1={
+		give_nickname= nick_the_saint
+	}
+	500.1.1={
+		death="500.1.1"
+	}
+}
+159812 = {
+	name="库斯滕因" # 
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159807
+	mother=159430
+	361.1.1={
+		birth="361.1.1"
+	}
+	411.1.1={
+		death="411.1.1"
+	}
+}
+
+159932 = {
+	name="普劳斯特"
+	female = yes
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159436
+	mother=159811
+	406.1.1={
+		birth="406.1.1"
+	}
+	435.1.1={
+		add_spouse = 159323
+	}
+	500.1.1={
+		death="500.1.1"
+	}
+}
+
+159933 = {
+	name="凯莱尼温" # 
+	female = yes
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159934
+	685.1.1={
+		birth="685.1.1"
+	}
+	720.1.1={
+		add_spouse = 159029
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+159934 = {
+	name="蒂达尔" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159943
+	654.1.1={
+		birth="654.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+159935 = {
+	name="丁贾" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159813
+	401.1.1={
+		birth="401.1.1"
+	}
+	481.1.1={
+		death="481.1.1"
+	}
+}
+159936 = {
+	name="塞林特" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159935
+	441.1.1={
+		birth="441.1.1"
+	}
+	501.1.1={
+		death="501.1.1"
+	}
+}
+159937 = {
+	name="内孙" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159936
+	480.1.1={
+		birth="480.1.1"
+	}
+	549.1.1={
+		death="549.1.1"
+	}
+}
+159938 = {
+	name="林" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159937
+	512.1.1={
+		birth="512.1.1"
+	}
+	577.1.1={
+		death="577.1.1"
+	}
+}
+159939 = {
+	name="蒂达尔" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159938
+	537.1.1={
+		birth="537.1.1"
+	}
+	598.1.1={
+		death="598.1.1"
+	}
+}
+159940 = {
+	name="安勒奇" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159939
+	562.1.1={
+		birth="562.1.1"
+	}
+	634.1.1={
+		death="634.1.1"
+	}
+}
+159941 = {
+	name="基宁" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159940
+	587.1.1={
+		birth="587.1.1"
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+159942 = {
+	name="莫芬" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159941
+	610.1.1={
+		birth="610.1.1"
+	}
+	681.1.1={
+		death="681.1.1"
+	}
+}
+159943 = {
+	name="安娜拉温" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="welsh"
+	father=159942
+	632.1.1={
+		birth="632.1.1"
+	}
+	691.1.1={
+		death="691.1.1"
+	}
+}
+159944 = {
+	name="格罗伊" # 
+	dynasty=1029132 #Caerloyw
+	religion="catholic"
+	culture="welsh"
+	270.1.1={
+		birth="270.1.1"
+	}
+	321.1.1={
+		death="321.1.1"
+	}
+}
+159945 = {
+	name="威多林" # 
+	dynasty=1029132 #Caerloyw
+	religion="catholic"
+	culture="welsh"
+	father=159944
+	305.1.1={
+		birth="305.1.1"
+	}
+	351.1.1={
+		death="351.1.1"
+	}
+}
+159946 = {
+	name="威多" # 
+	dynasty=1029132 #Caerloyw
+	religion="catholic"
+	culture="welsh"
+	father=159945
+	321.1.1={
+		birth="321.1.1"
+	}
+	395.1.1={
+		death="395.1.1"
+	}
+}
+159947 = {
+	name="帕斯根" # 
+	dynasty=1029132 #Caerloyw
+	religion="catholic"
+	culture="welsh"
+	father=159946
+	340.1.1={
+		birth="340.1.1"
+	}
+	391.1.1={
+		death="391.1.1"
+	}
+}
+159948 = {
+	name="卡德恩" # 
+	dynasty=1029133 #Powys
+	religion="catholic"
+	culture="welsh"
+	father=159947
+	360.1.1={
+		birth="360.1.1"
+	}
+	421.1.1={
+		death="421.1.1"
+	}
+}
+159949 = {
+	name="布里德" # 
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159056
+	mother=159810
+	390.1.1={
+		birth="390.1.1"
+	}
+	450.1.1={
+		death="450.1.1"
+	}
+}
+159950 = {
+	name="安楠" #
+	female=yes
+	dynasty=1029003 # Gwerthrynion
+	religion="catholic"
+	culture="welsh"
+	father=159949
+	430.1.1={
+		birth="430.1.1"
+	}
+	490.1.1={
+		death="490.1.1"
+	}
+}
+
+159951 = {
+	name="伊斯特拉德"
+	female=yes
+	religion="catholic"
+	culture="welsh"
+	dynasty=1029040 #Dyfnaint
+	father=159432
+	345.1.1={
+		birth="345.1.1"
+	}
+	390.1.1={
+		add_spouse = 159038
+	}
+	400.1.1={
+		death="400.1.1"
+	}
+}
+
+159952 = {
+	name="昆法奇" #Oer
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159035 # Meirchion Gul
+	460.1.1={
+		birth="460.1.1"
+	}
+	476.1.1={
+		add_spouse= 159957
+	}
+	560.1.1={
+		death="560.1.1"
+	}
+}
+159953 = {
+	name="乌莲" 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159952 # Cynfarch
+	mother=159957
+	490.1.1={
+		birth="490.1.1"
+	}
+	597.1.1={
+		death="597.1.1"
+	}
+}
+159954 = {
+	name="林" 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159953 # Urien
+	530.1.1={
+		birth="530.1.1"
+	}
+	610.1.1={
+		death="610.1.1"
+	}
+}
+159955 = {
+	name="罗伊德" 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159954 # Urien
+	580.1.1={
+		birth="580.1.1"
+	}
+	645.1.1={
+		death="645.1.1"
+	}
+}
+
+159956 = {
+	name="布里汉"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=159323
+	mother=159932
+	430.1.1={
+		birth="430.1.1"
+	}
+	510.1.1={
+		death="510.1.1"
+	}
+}
+159957 = {
+	name="尼法因"
+	female=yes
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=159956
+	460.1.1={
+		birth="460.1.1"
+	}
+	476.1.1={
+		add_spouse= 159952
+	}
+	530.1.1={
+		death="530.1.1"
+	}
+}
+159958 = {
+	name="欧瓦因" 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159953 # Urien
+	510.1.1={
+		birth="510.1.1"
+	}
+	597.1.1={
+		death="597.1.1"
+	}
+}
+159959 = {
+	name="厄尔芬 "
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159958 # Owain
+	540.1.1={
+		birth="540.1.1"
+	}
+	616.1.1={
+		death="616.1.1"
+	}
+}
+159960 = {
+	name="尼法因" 
+	female=yes
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="welsh"
+	father=159952 # Cynfarch
+	mother=159957
+	476.1.1={
+		birth="476.1.1"
+	}
+	492.1.1={
+		add_spouse=159823
+	}
+	530.1.1={
+		death="530.1.1"
+	}
+}
+
+159961 = {
+	name="佩比奥" # Clafrog
+	dynasty=20037 #Ergyng
+	religion="catholic"
+	culture="welsh"
+	father=159830
+	545.1.1={
+		birth="545.1.1"
+	}
+	610.1.1={
+		death="610.1.1"
+	}
+}
+159962 = {
+	name="昆芬" # 
+	dynasty=20037 #Ergyng
+	religion="catholic"
+	culture="welsh"
+	father=159961
+	566.1.1={
+		birth="566.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+	}
+}
+159963 = {
+	name="格尔甘特" # 
+	dynasty=20037 #Ergyng
+	religion="catholic"
+	culture="welsh"
+	father=159962
+	586.1.1={
+		birth="586.1.1"
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+159964 = {
+	name="昂不劳斯特" # 
+	female=yes
+	dynasty=20037 #Ergyng
+	religion="catholic"
+	culture="welsh"
+	father=159963
+	603.1.1={
+		birth="603.1.1"
+	}
+	620.1.1={
+		add_spouse=159833
+	}
+	690.1.1={
+		death="690.1.1"
+	}
+}
+159322 = {
+	name="埃尔古尔" #Aircol
+	dynasty=1029030 #Dyfed
+	religion="catholic"
+	culture="welsh"
+	father=159321
+	mother=159820
+	437.1.1={
+		birth="437.1.1"
+	}
+	495.1.1={
+		death="495.1.1"
+	}
+}
+
+159791 = {
+	name="凯勒迪" # ap Cunedda
+	dynasty=14250 # Ceredigion
+	religion="catholic"
+	culture="welsh"
+	father=159010
+	mother=159039
+	395.1.1={
+		birth="395.1.1"
+	}
+	453.1.1={
+		death="453.1.1"
+	}
+}
+159792 = {
+	name="乌塞" # ap Ceredig
+	dynasty=14250 # Ceredigion
+	religion="catholic"
+	culture="welsh"
+	father=159791
+	420.1.1={
+		birth="420.1.1"
+	}
+	490.1.1={
+		death="490.1.1"
+	}
+}
+159793 = {
+	name="塞维尔" # ab Usai
+	dynasty=14250 # Ceredigion
+	religion="catholic"
+	culture="welsh"
+	father=159792
+	450.1.1={
+		birth="450.1.1"
+	}
+	525.1.1={
+		death="525.1.1"
+	}
+}
+159794 = {
+	name="波杜" # ap Serwyl
+	dynasty=14250 # Ceredigion
+	religion="catholic"
+	culture="welsh"
+	father=159793
+	480.1.1={
+		birth="480.1.1"
+	}
+	560.1.1={
+		death="560.1.1"
+	}
+}
+159795 = {
+	name="阿尔特弗德" # ap Bodw
+	dynasty=14250 # Ceredigion
+	religion="catholic"
+	culture="welsh"
+	father=159794
+	520.1.1={
+		birth="520.1.1"
+	}
+	595.1.1={
+		death="595.1.1"
+	}
+}
+159796 = {
+	name="阿尔特伦斯" # ab Arthfoddw
+	dynasty=14250 # Ceredigion
+	religion="catholic"
+	culture="welsh"
+	father=159795
+	550.1.1={
+		birth="550.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+	}
+}
+159797 = {
+	name="克里多格" # ab Arthlwys
+	dynasty=14250 # Ceredigion
+	religion="catholic"
+	culture="welsh"
+	father=159796
+	590.1.1={
+		birth="590.1.1"
+	}
+	670.1.1={
+		death="670.1.1"
+	}
+}
+159798 = {
+	name="塞希尔" # ap Clydog
+	dynasty=14255 # Seisyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159797
+	660.1.1={
+		birth="660.1.1"
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+159799 = {
+	name="阿尔特威尔" # ap Seisyll
+	dynasty=14255 # Seisyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159798
+	690.1.1={
+		birth="690.1.1"
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+159800 = {
+	name="梅里格" # ap Dyfnwal
+	dynasty=14255 # Seisyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159806
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+159801 = {
+	name="格甘" # ap Meurig
+	dynasty=14255 # Seisyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159800
+	825.1.1={
+		birth="825.1.1"
+	}
+	872.1.1={
+		death="872.1.1"
+	}
+}
+
+159802 = {
+	name="安格哈拉德" # ferch Meurig
+	female = yes
+	dynasty=14255 # Seisyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159800
+	822.1.1={
+		birth="822.1.1"
+	}
+	840.1.1={
+		add_spouse=81831
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+159803 = {
+	name="内斯特" # ferch Rhodri
+	female = yes
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81831 #Rhodri Mawr
+	mother=159802
+	854.1.1={
+		birth="854.1.1"
+	}
+	911.1.1={
+		death="911.1.1"
+	}
+}
+159804 = {
+	name="蒂达尔" # ap Rhodri
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81831 #Rhodri Mawr
+	mother=159802
+	859.1.1={
+		birth="859.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+159805 = {
+	name="莫芬" # ap Rhodri
+	dynasty=101920 #Aberffraw
+	religion="catholic"
+	culture="welsh"
+	father=81831 #Rhodri Mawr
+	mother=159802
+	852.1.1={
+		birth="852.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+
+159806 = {
+	name="杜芬瓦尔" # ab Arthwyr
+	dynasty=14255 # Seisyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159799
+	740.1.1={
+		birth="740.1.1"
+	}
+	818.1.1={
+		death="818.1.1"
+	}
+}
+
+160038 = {
+	name="欧瓦因" # ap Einion
+	dynasty=14284 # Rhos
+	religion="catholic"
+	culture="welsh"
+	father=159011
+	455.1.1={
+		birth="455.1.1"
+	}
+	525.1.1={
+		death="525.1.1"
+	}
+}
+160039 = {
+	name="昆拉斯" # Goch
+	dynasty=14284 # Rhos
+	religion="catholic"
+	culture="welsh"
+	father=160038
+	480.1.1={
+		birth="480.1.1"
+	}
+	540.1.1={
+		death="540.1.1"
+	}
+}
+160040 = {
+	name="埃尼温" #ap Cynlas
+	dynasty=14284 # Rhos
+	religion="catholic"
+	culture="welsh"
+	father=160039
+	500.1.1={
+		birth="500.1.1"
+	}
+	550.1.1={
+		death="550.1.1"
+		give_nickname=nick_the_saint
+	}
+}
+160041 = {
+	name="卡达尔" 
+	dynasty=14284 # Rhos
+	religion="catholic"
+	culture="welsh"
+	father=160040
+	535.1.1={
+		birth="535.1.1"
+	}
+	575.1.1={
+		death="575.1.1"
+	}
+}
+160042 = {
+	name="李弗杜芬" 
+	dynasty=14284 # Rhos
+	religion="catholic"
+	culture="welsh"
+	father=160041
+	570.1.1={
+		birth="570.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+	}
+}
+160043 = {
+	name="埃尼温" 
+	dynasty=14284 # Rhos
+	religion="catholic"
+	culture="welsh"
+	father=160042
+	600.1.1={
+		birth="600.1.1"
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+160044 = {
+	name="里旺" 
+	dynasty=14284 # Rhos
+	religion="catholic"
+	culture="welsh"
+	father=160043
+	630.1.1={
+		birth="630.1.1"
+	}
+	695.1.1={
+		death="695.1.1"
+	}
+}
+160045 = {
+	name="希威" 
+	dynasty=14284 # Rhos
+	religion="catholic"
+	culture="welsh"
+	father=160044
+	660.1.1={
+		birth="660.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+160046 = {
+	name="梅奇温" 
+	dynasty=14284 # Rhos
+	religion="catholic"
+	culture="welsh"
+	father=160045
+	690.1.1={
+		birth="690.1.1"
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+160048 = {
+	name="里莫" # ferch Maelgwn
+	dynasty=100064 #Gwynedd
+	female = yes
+	religion="catholic"
+	culture="welsh"
+	father=159013 # 
+	502.1.1={
+		birth="502.1.1"
+	}
+	520.1.1={
+		add_spouse=159662
+	}
+	580.1.1={
+		death="580.1.1"
+	}
+}
+
+166435 = {  	
+	name="阿迪埃娜"
+	# AKA: daughter of Amdarch, raped by Cuil閚 mac Iduilb
+	female=yes
+	dynasty=100047
+	martial=3
+	diplomacy=4
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166436
+	957.1.1={
+		birth="957.1.1"
+	}
+	1015.1.1={
+		death="1015.1.1"
+	}
+}
+
+166436 = {  	
+	name="里德尔赫"
+	# AKA: Amdarch
+	dynasty=100047
+	martial=7
+	diplomacy=2
+	intrigue=8
+	stewardship=2
+	religion="catholic"
+	culture="welsh"
+	father=166437
+	940.1.1={
+		birth="940.1.1"
+	}
+	972.1.1={
+		death="972.1.1"
+	}
+}
+
+166437 = {  	
+	name="杜芬瓦尔"
+	# AKA: Dyfnwal map Ywain
+	dynasty=100047
+	martial=7
+	diplomacy=2
+	intrigue=8
+	stewardship=2
+	religion="catholic"
+	culture="welsh"
+	father=166438
+	919.1.1={
+		birth="919.1.1"
+	}
+	975.1.1={
+		death="975.1.1"
+	}
+}
+
+166438 = {  	
+	name="欧瓦因"
+	# AKA: Ywain map Dyfnwal
+	dynasty=100047
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166439
+	895.1.1={
+		birth="895.1.1"
+	}
+	937.1.1={
+		death="937.1.1"
+	}
+}
+
+166439 = {  	
+	name="杜芬瓦尔"
+	# AKA: Dyfnwal map Dyfnwal
+	dynasty=100047
+	martial=5
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166440
+	878.1.1={
+		birth="878.1.1"
+	}
+	941.1.1={
+		death="941.1.1"
+	}
+}
+
+166440 = {  	
+	name="杜芬瓦尔"
+	# AKA: Dyfnwal map Eochaid
+	dynasty=100047
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="welsh"
+	father=166441
+	861.1.1={
+		birth="861.1.1"
+	}
+	916.1.1={
+		death="916.1.1"
+	}
+}
+
+166441 = {  	
+	name="欧基德"
+	# AKA: Eochaid map Run
+	dynasty=816
+	martial=5
+	diplomacy=3
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166442
+	mother=166443
+	844.1.1={
+		birth="844.1.1"
+	}
+	889.1.1={
+		death="889.1.1"
+	}
+}
+
+166444 = {  	
+	name="杜纳贾尔"
+	# AKA: Dumnagual IV of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=3
+	intrigue=3
+	stewardship=6
+	religion="catholic"
+	culture="welsh"
+	father=166445
+	785.1.1={
+		birth="785.1.1"
+	}
+	851.1.1={
+		death="851.1.1"
+	}
+}
+
+166445 = {  	
+	name="里德尔赫"
+	# AKA: Riderch II of Alt Clut
+	dynasty=816
+	martial=7
+	diplomacy=4
+	intrigue=2
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166446
+	768.1.1={
+		birth="768.1.1"
+	}
+	835.1.1={
+		death="835.1.1"
+	}
+}
+
+166447 = {  	
+	name="杜纳贾尔"
+	# AKA: Dumnagual III of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166448
+	728.1.1={
+		birth="728.1.1"
+	}
+	760.1.1={
+		death="760.1.1"
+	}
+}
+
+166448 = {  	
+	name="蒂德波"
+	# AKA: 蒂德波 map Beli of Alt Clut
+	dynasty=816
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166449
+	704.1.1={
+		birth="704.1.1"
+	}
+	752.1.1={
+		death="752.1.1"
+	}
+}
+
+166449 = {  	
+	name="贝利"
+	# AKA: Beli II  map Elfin of Alt Clut
+	dynasty=816
+	martial=6
+	diplomacy=4
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166451
+	678.1.1={
+		birth="678.1.1"
+	}
+	722.1.1={
+		death="722.1.1"
+	}
+}
+
+166450 = {  	
+	name="杜纳贾尔"
+	# AKA: Dumnagual II  map Eugein of Alt Clut
+	dynasty=816
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166453
+	640.1.1={
+		birth="640.1.1"
+	}
+	694.1.1={
+		death="694.1.1"
+	}
+}
+
+166451 = {  	
+	name="埃尔芬"
+	# AKA: Elfin map Eugein of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=4
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166453
+	638.1.1={
+		birth="638.1.1"
+	}
+	686.1.1={
+		death="686.1.1"
+	}
+}
+
+166452 = {  	
+	name="古雷特"
+	# AKA: Guret map Eugein of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166453
+	635.1.1={
+		birth="635.1.1"
+	}
+	658.1.1={
+		death="658.1.1"
+	}
+}
+
+166454 = {  	
+	name="贝利"
+	# AKA: Beli I map Neithon of Alt Clut
+	dynasty=816
+	martial=6
+	diplomacy=4
+	intrigue=2
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166455
+	593.1.1={
+		birth="593.1.1"
+	}
+	627.1.1={
+		death="627.1.1"
+	}
+}
+
+166455 = {  	
+	name="内孙"
+	# AKA: Neithon map Guipno map Dumnagual Hen of Alt Clut
+	dynasty=816
+	martial=8
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166460
+	555.1.1={
+		birth="555.1.1"
+	}
+	620.1.1={
+		death="620.1.1"
+	}
+}
+
+166456 = {  	
+	name="库斯滕因"
+	# AKA: St. Constantine map Riderch I Hael of Alt Clut
+	dynasty=816
+	martial=4
+	diplomacy=8
+	intrigue=2
+	stewardship=6
+	religion="catholic"
+	culture="welsh"
+	father=166457
+	568.1.1={
+		birth="568.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+		give_nickname=nick_the_saint
+	}
+}
+
+166457 = {  	
+	name="里德尔赫"
+	# AKA: Riderch I Hael map Tutagual of Alt Clut
+	dynasty=816
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="welsh"
+	father=166458
+	529.1.1={
+		birth="529.1.1"
+	}
+	614.1.1={
+		death="614.1.1"
+		give_nickname=nick_the_old
+	}
+}
+
+166458 = {  	
+	name="蒂塔古尔"
+	# AKA: 蒂塔古尔 map Clinoch of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=3
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166459
+	492.1.1={
+		birth="492.1.1"
+	}
+	562.1.1={
+		death="562.1.1"
+	}
+}
+
+166459 = {  	
+	name="克林诺奇"
+	# AKA: Clinoch map Dumnagual Hen of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166461
+	464.1.1={
+		birth="464.1.1"
+	}
+	535.1.1={
+		death="535.1.1"
+	}
+}
+
+166460 = {  	
+	name="吉普诺"
+	# AKA: Guipno map Dumnagual Hen of Alt Clut
+	dynasty=816
+	martial=8
+	diplomacy=3
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="welsh"
+	father=166461
+	506.1.1={
+		birth="506.1.1"
+	}
+	565.1.1={
+		death="565.1.1"
+	}
+}
+
+166461 = {  	
+	name="杜纳贾尔"
+	# AKA: Dumnagual I Hen map Cinuit of Alt Clut
+	dynasty=816
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="welsh"
+	father=166462
+	440.1.1={
+		birth="440.1.1"
+	}
+	525.1.1={
+		death="525.1.1"
+		give_nickname=nick_the_old
+	}
+}
+
+166462 = {  	
+	name="基努特"
+	# AKA: Cinuit map Ceretic Guletic of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=3
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166463
+	422.1.1={
+		birth="422.1.1"
+	}
+	501.1.1={
+		death="501.1.1"
+	}
+}
+
+166463 = {  	
+	name="凯勒提克 古勒提克"
+	# AKA: "Coroticus" Ceretic Guletic map Cynloyp of Alt Clut
+	dynasty=816
+	martial=8
+	diplomacy=3
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=166464
+	400.1.1={
+		birth="400.1.1"
+	}
+	488.1.1={
+		death="488.1.1"
+	}
+}
+
+166464 = {  	
+	name="昆洛普"
+	# AKA: Cynloyp map Cinhil
+	dynasty=816
+	religion="catholic"
+	culture="welsh"
+	father=166465
+	383.1.1={
+		birth="383.1.1"
+	}
+	436.1.1={
+		death="436.1.1"
+	}
+}
+
+166465 = {  	
+	name="昆希尔"
+	# AKA: Cinhil map Cluim
+	dynasty=816
+	religion="catholic"
+	culture="welsh"
+	father=166466
+	360.1.1={
+		birth="360.1.1"
+	}
+	412.1.1={
+		death="412.1.1"
+	}
+}
+
+166466 = {  	
+	name="克鲁因"
+	# AKA: Cluim
+	dynasty=816
+	religion="catholic"
+	culture="welsh"
+	333.1.1={
+		birth="333.1.1"
+	}
+	384.1.1={
+		death="384.1.1"
+	}
+}
+
+184119 = {
+	name="伊沃威斯"
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=159068 #Tegonwy Gruffyd of Powys
+	740.1.1={
+		birth="740.1.1"
+	}
+	759.1.1={
+		add_spouse=184135
+	}
+	815.1.1={
+    dynasty=200067 #Maelienydd
+		death="815.1.1"
+	}
+}
+184120 = {
+	name="伊德内斯"
+	dynasty=1047018 #Ternyllwg
+	religion="catholic"
+	culture="welsh"
+	father=184119
+	mother=184135
+	760.1.1={
+		birth="760.1.1"
+	}
+  815.1.1={
+		dynasty=200067 #Maelienydd
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+184121 = {
+	name="卡德尔"
+	dynasty=200067 #Maelienydd
+	religion="catholic"
+	culture="welsh"
+	father=184120
+	800.1.1={
+		birth="800.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+184122 = {
+	name="卡德尔"
+	dynasty=200067 #Maelienydd
+	religion="catholic"
+	culture="welsh"
+	father=184121
+	830.1.1={
+		birth="830.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+184123 = {
+	name="瑟菲鲁斯"
+	dynasty=200067 #Maelienydd
+	religion="catholic"
+	culture="welsh"
+	father=184122
+	860.1.1={
+		birth="860.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+184124 = {
+	name="伊弗"
+	dynasty=200067 #Maelienydd
+	religion="catholic"
+	culture="welsh"
+	father=184123
+	890.1.1={
+		birth="890.1.1"
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+184125 = {
+	name="基赫林"
+	dynasty=200067 #Maelienydd
+	religion="catholic"
+	culture="welsh"
+	father=184123
+	920.1.1={
+		birth="920.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+184126 = {
+	name="卡德贡" #ap Elystan
+	dynasty=200067 #Maelienydd
+	father=131701
+	religion="catholic"
+	culture="welsh"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+184127 = {
+	name="麦尔格威" #ap Cadwgon
+	dynasty=200067 #Maelienydd
+	father=131703
+#	mother=138445
+	religion="catholic"
+	culture="welsh"
+	1153.1.1={
+		birth="1153.1.1"
+	}
+	1188.1.1={
+		trait="crusader"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+184128 = {
+	name="马勒杜德" #ap Maelgwn
+	dynasty=200067 #Maelienydd
+	father=184127
+	religion="catholic"
+	culture="welsh"
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1281.1.1={
+		death="1281.1.1"
+	}
+}
+184129 = {
+	name="马杜" #ap Maredudd
+	dynasty=200067 #Maelienydd
+	father=184128
+	religion="catholic"
+	culture="welsh"
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+184130 = {
+	name="马勒杜德"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	trait=bastard
+	father=159328 #Idwallon
+	580.1.1={
+		birth="580.1.1"
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+184131 = {
+	name="基男"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=184130
+	610.1.1={
+		birth="610.1.1"
+	}
+	680.1.1={
+		death="680.1.1"
+	}
+}
+184132 = {
+	name="麦尔格威"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=184131
+	640.1.1={
+		birth="640.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+184133 = {
+	name="伊德瓦"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=184132
+	670.1.1={
+		birth="670.1.1"
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+184134 = {
+	name="布里汉"
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=184133
+	710.1.1={
+		birth="710.1.1"
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+184135 = {
+	name="阿利安温"
+	dynasty=1029032 #1st Brycheiniog
+	female=yes
+	religion="catholic"
+	culture="welsh"
+	father=184134
+	740.1.1={
+		birth="740.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+
+184083 = {
+	name="马杜" #Madog II
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=138462 #Gruffydd Maelor II
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	#married Emma de Audley
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+184084 = {
+	name="格鲁菲德 菲汉"
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=138462 #Gruffydd Maelor II
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1289.1.1={
+		death="1289.1.1"
+	}
+}
+184085 = {
+	name="马杜 克里普"
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=184084 #Gruffydd Fychan
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1304.1.1={
+		death="1304.1.1"
+	}
+}
+184086 = {
+	name="格鲁菲德" #of Rhuddallt
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=184085 #Madog Crypl
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1343.1.1={
+		death="1343.1.1"
+	}
+}
+184087 = {
+	name="格鲁菲德 菲汉" #II
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=184086 #Gruffydd of Rhuddalt
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1369.1.1={
+		death="1369.1.1"
+	}
+}
+184089 = {
+	name="莫芬" #ap Rhodri
+	dynasty=101920 #Aberffraw for tree appearance
+	religion="catholic"
+	culture="welsh"
+	father=81831 #Rhodri Mawr
+	865.1.1={
+		birth="865.1.1"	#unknown
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+184090 = {
+	name="柳林"
+	dynasty=101920 #Aberffraw for tree appearance
+	religion="catholic"
+	culture="welsh"
+	father=184089
+	890.1.1={
+		birth="890.1.1"	#unknown
+	}
+	942.1.1={
+		death="942.1.1"
+	}
+}
+184091 = {
+	name="欧瓦因" #ap Madog
+	# AKA: Owain Brogyntyn
+	dynasty=1042815 
+	religion="catholic"
+	culture="welsh"
+	father=214718 #Madog ap Maredudd
+	#mother Susann of Gwynedd
+	trait=bastard
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	#married Marred ferch Einion ap Seisyllt
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+184092 = {
+	name="伊沃威斯" #ap Owain
+	dynasty=1042815 
+	religion="catholic"
+	culture="welsh"
+	father=184091 #Owain ap Madog
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1234.1.1={
+		add_spouse=184094
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+184093 = {
+	name="马杜"
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=420007 #Gwenwynwyn ab Owain
+	1201.1.1={
+		birth="1201.1.1"
+	}
+	1286.1.1={
+		death="1286.1.1"
+	}
+}
+184094 = {
+	name="埃法"
+	female=yes
+	dynasty=548 #Mathrafal (Powys)
+	religion="catholic"
+	culture="welsh"
+	father=184093 #Madog
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1286.1.1={
+		death="1286.1.1"
+	}
+}
+184095 = {
+	name="格鲁弗德" #ap Iorwerth
+	dynasty=1042815 
+	religion="catholic"
+	culture="welsh"
+	father=184092
+	mother=184094
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+184096 = {
+	name="马杜" #ap Gruffudd
+	dynasty=1042815 
+	religion="catholic"
+	culture="welsh"
+	father=184095
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+
+183161 = {
+	name="埃德尼弗"
+	# AKA: Ednyfed Fychan ap Cynwrig
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="quick"
+	trait="diligent"
+	trait="poet"
+	trait="midas_touched"
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1195.1.1={
+		add_spouse=214802 #Gwenllian ferch Rhys
+	}
+	1215.1.1 = {
+		employer=214714 #Llywelyn ab Iorwerth
+		effect = {
+			give_job_title=job_chancellor
+		}
+	}
+	1235.1.1 = {
+		trait="crusader"
+	}
+	1240.4.11 = {
+		employer=138486 #Dafydd ab Llywelyn
+		effect = {
+			give_job_title=job_chancellor
+		}
+	}
+	1246.1.1 = {
+		death="1246.1.1"
+	}
+}
+
+183162 = {
+	name="高洛威"
+	# AKA: Goronwy ab Ednyfed Fychan
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="kind"
+	trait="just"
+	trait="charismatic_negotiator"
+	father=183161
+	mother=214802
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1246.1.1 = {
+		employer=420001 #Llywelyn ap Gruffydd
+		effect = {
+			give_job_title=job_chancellor
+		}
+	}
+	1268.10.17 = {
+		death="1268.10.17"
+	}
+}
+
+183163 = {
+	name="蒂德尔"
+	# AKA: Tewdwr Hen ap Goronwy
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="strong"
+	trait="brave"
+	trait="tough_soldier"
+	father=183162
+	1245.1.1 = {
+		birth="1245.1.1"
+	}
+	1311.10.11 = {
+		death="1311.10.11"
+	}
+}
+
+183164 = {
+	name="高洛威"
+	# AKA: Goronwy ap Tewdwr Hen
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="honest"
+	trait="brave"
+	trait="tough_soldier"
+	father=183163
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1331.12.11 = {
+		death="1331.12.11"
+	}
+}
+
+183165 = {
+	name="希威"
+	# AKA: Hywel ap Goronwy
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="shy"
+	trait="trusting"
+	trait="detached_priest"
+	father=183164
+	1305.1.1 = {
+		birth="1305.1.1"
+	}
+	1366.1.1 = {
+		death="1366.1.1"
+	}
+}
+
+183166 = {
+	name="蒂德尔"
+	# AKA: Tewdwr Fychan ap Goronwy
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="wroth"
+	trait="cynical"
+	trait="tough_soldier"
+	father=183164
+	1310.1.1 = {
+		birth="1310.1.1"
+	}
+	1367.9.19 = {
+		death="1367.9.19"
+	}
+}
+
+183167 = {
+	name="格鲁菲德"
+	# AKA: Gruffydd ab Ednyfed Fychan
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="cynical"
+	trait="envious"
+	trait="underhanded_rogue"
+	father=183161
+	mother=214802
+	1195.1.1 = {
+		birth="1195.1.1"
+	}
+	1271.1.1 = {
+		death="1271.1.1"
+	}
+}
+
+183168 = {
+	name="格拉杜斯"
+	# AKA: Gwladus ferch Ednyfed Fychan
+	female=yes
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="fair"
+	trait="twin"
+	trait="naive_appeaser"
+	father=183161
+	mother=214802
+	1208.1.1 = {
+		birth="1208.1.1"
+	}
+	1271.1.1 = {
+		death="1271.1.1"
+	}
+}
+
+183169 = {
+	name="古温莲"
+	# AKA: Gwenllian ferch Ednyfed Fychan
+	female=yes
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="fair"
+	trait="twin"
+	trait="amateurish_plotter"
+	father=183161
+	mother=214802
+	1208.1.1 = {
+		birth="1208.1.1"
+	}
+	1254.1.1 = {
+		death="1254.1.1"
+	}
+}
+
+183170 = {
+	name="蒂德尔 Gwilltyn"
+	# AKA: Tewdwr Gwilltyn ab Ednyfed Fychan
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="envious"
+	trait="bastard"
+	trait="flamboyant_schemer"
+	father=183161
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1312.1.1 = {
+		death="1312.1.1"
+	}
+}
+
+183171 = {
+	name="伊沃威斯"
+	# AKA: Iorwerth ab Ednyfed Fychan
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="leper"
+	trait="detached_priest"
+	father=183161
+	1213.1.1 = {
+		birth="1213.1.1"
+	}
+	1256.1.1 = {
+		death="1256.1.1"
+	}
+}
+
+183172 = {
+	name="昆里格"
+	# AKA: Cynwrig ab Ednyfed Fychan
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="craven"
+	trait="misguided_warrior"
+	father=183161
+	1211.1.1 = {
+		birth="1211.1.1"
+	}
+	1267.1.1 = {
+		death="1267.1.1"
+	}
+}
+
+183173 = {
+	name="里斯"
+	# AKA: Rhys ab Ednyfed Fychan
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="diligent"
+	trait="thrifty_clerk"
+	father=183161
+	1206.1.1 = {
+		birth="1206.1.1"
+	}
+	1259.1.1 = {
+		death="1259.1.1"
+	}
+}
+
+183174 = {
+	name="希威"
+	# AKA: Hywel ab Ednyfed Fychan
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="zealous"
+	trait="scholarly_theologian"
+	father=183161
+	1198.1.1 = {
+		birth="1198.1.1"
+	}
+	1247.1.1 = {
+		death="1247.1.1"
+	}
+}
+
+183175 = {
+	name="柳林"
+	# AKA: Llywelyn ab Ednyfed Fychan
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="brave"
+	trait="misguided_warrior"
+	father=183161
+	1207.1.1 = {
+		birth="1207.1.1"
+	}
+	1234.1.1 = {
+		death="1234.1.1"
+	}
+}
+
+183176 = {
+	name="蒂德尔"
+	# AKA: Tewdwr ab Ednyfed Fychan
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="quick"
+	trait="charismatic_negotiator"
+	father=183161
+	1204.1.1 = {
+		birth="1204.1.1"
+	}
+	1278.1.1 = {
+		death="1278.1.1"
+	}
+}
+
+183177 = {
+	name="格威林"
+	# AKA: Gwilym ab Ednyfed Fychan
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="honest"
+	trait="tough_soldier"
+	father=183162
+	1251.1.1 = {
+		birth="1251.1.1"
+	}
+	1307.1.1 = {
+		death="1307.1.1"
+	}
+}
+
+183178 = {
+	name="高洛威"
+	# AKA: Goronwy Fychan ab Goronwy
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="just"
+	trait="thrifty_clerk"
+	father=183162
+	1255.1.1 = {
+		birth="1255.1.1"
+	}
+	1322.1.1 = {
+		death="1322.1.1"
+	}
+}
+
+183179 = {
+	name="希威"
+	# AKA: Hywel ab Goronwy
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="cynical"
+	trait="indulgent_wastrel"
+	father=183162
+	1257.1.1 = {
+		birth="1257.1.1"
+	}
+	1291.1.1 = {
+		death="1291.1.1"
+	}
+}
+
+183180 = {
+	name="阿德勒斯"
+	# AKA: Adles ferch Goronwy
+	female=yes
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="kind"
+	trait="misguided_warrior"
+	father=183162
+	1261.1.1 = {
+		birth="1261.1.1"
+	}
+	1309.1.1 = {
+		death="1309.1.1"
+	}
+}
+
+183181 = {
+	name="格鲁菲德"
+	# AKA: Gruffydd ab Goronwy
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="cruel"
+	trait="greedy"
+	trait="naive_appeaser"
+	father=183164
+	1312.1.1 = {
+		birth="1312.1.1"
+	}
+	1339.1.1 = {
+		death="1339.1.1"
+	}
+}
+
+183182 = {
+	name="古尔菲"
+	# AKA: Gwerfyl ferch Goronwy
+	female=yes
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="ill"
+	trait="indulgent_wastrel"
+	father=183164
+	1314.1.1 = {
+		birth="1314.1.1"
+	}
+	1358.1.1 = {
+		death="1358.1.1"
+	}
+}
+
+183183 = {
+	name="古温莲"
+	# AKA: Gwenllian ferch Goronwy
+	female=yes
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="ugly"
+	trait="naive_appeaser"
+	father=183164
+	1319.1.1 = {
+		birth="1319.1.1"
+	}
+	1386.1.1 = {
+		death="1386.1.1"
+	}
+}
+
+183184 = {
+	name="古温莲"
+	# AKA: Gwenllian ferch Goronwy
+	female=yes
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="craven"
+	trait="amateurish_plotter"
+	father=183164
+	1323.1.1 = {
+		birth="1323.1.1"
+	}
+	1367.1.1 = {
+		death="1367.1.1"
+	}
+}
+
+183185 = {
+	name="希威"
+	# AKA: Hywel ap Tewdwr Hen
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="cruel"
+	trait="strong"
+	trait="tough_soldier"
+	father=183163
+	1282.1.1 = {
+		birth="1282.1.1"
+	}
+	1338.1.1 = {
+		death="1338.1.1"
+	}
+}
+
+183186 = {
+	name="蒂德尔"
+	# AKA: Tewdwr Fychan ap Tewdwr Hen
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="wroth"
+	trait="proud"
+	trait="tough_soldier"
+	father=183163
+	1286.1.1 = {
+		birth="1286.1.1"
+	}
+	1351.1.1 = {
+		death="1351.1.1"
+	}
+}
+
+183187 = {
+	name="莫菲德"
+	# AKA: Morfydd ferch Tewdwr Hen
+	female=yes
+	dynasty=14259
+	religion="catholic"
+	culture="welsh"
+	trait="lisp"
+	trait="shy"
+	trait="detached_priest"
+	father=183163
+	1289.1.1 = {
+		birth="1289.1.1"
+	}
+	1334.1.1 = {
+		death="1334.1.1"
+	}
+}
+
+183190 = {
+	name="柳林"
+	# AKA: Llywelyn ap Gruffydd
+	dynasty=200069
+	religion="catholic"
+	culture="welsh"
+	father=420008 #Gruffydd ap Gwenwynwyn
+	1258.1.1={
+		birth="1258.1.1"
+	}
+	1291.1.1={
+		death="1291.1.1"
+	}
+}
+
+183191 = {
+	name="玛格雷德"
+	# AKA: Margred ferch Gruffydd
+	female = yes
+	dynasty=200069
+	religion="catholic"
+	culture="welsh"
+	father=420008 #Gruffydd ap Gwenwynwyn
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1336.5.11={
+		death="1336.5.11"
+	}
+}
+
+183192 = {
+	name="伊弯"
+	# AKA: Ieuan ap Gruffydd
+	dynasty=200069
+	religion="catholic"
+	culture="welsh"
+	father=420008 #Gruffydd ap Gwenwynwyn
+	1261.1.1={
+		birth="1261.1.1"
+	}
+	1278.1.1={
+		death="1278.1.1"
+	}
+}
+
+183193 = {
+	name="格威林"
+	# AKA: Gwilym ap Gruffydd
+	dynasty=200069
+	religion="catholic"
+	culture="welsh"
+	father=420008 #Gruffydd ap Gwenwynwyn
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	1317.1.1={
+		death="1317.1.1"
+	}
+}
+
+183194 = {
+	name="格鲁菲德"
+	# AKA: Gruffydd ap Gruffydd
+	dynasty=200069
+	religion="catholic"
+	culture="welsh"
+	father=420008 #Gruffydd ap Gwenwynwyn
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1324.1.1={
+		death="1324.1.1"
+	}
+}
+
+183195 = {
+	name="达弗德"
+	# AKA: Dafydd ap Gruffydd
+	dynasty=200069
+	religion="catholic"
+	culture="welsh"
+	father=420008 #Gruffydd ap Gwenwynwyn
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+
+183196 = {
+	name="埃法"
+	# AKA: Efa ferch Llywelyn
+	female = yes
+	dynasty=200069
+	religion="catholic"
+	culture="welsh"
+	father=183190 #Llywelyn ap Gruffydd
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+183197 = {
+	name="格鲁菲德"
+	# AKA: Gruffydd ap Gwilym
+	dynasty=200069
+	religion="catholic"
+	culture="welsh"
+	father=183193 #Gwilym ap Gruffydd
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1356.1.1={
+		death="1356.1.1"
+	}
+}
+
+183198 = {
+	name="格威林"
+	# AKA: Gwilym ap Gruffydd
+	dynasty=200069
+	religion="catholic"
+	culture="welsh"
+	father=183197 #Gruffydd ap Gwilym
+	1332.1.1={
+		birth="1332.1.1"
+	}
+	1376.1.1={
+		death="1376.1.1"
+	}
+}
+
+160255 = {
+	name="阿尔特法尔" # ap Hywel
+	dynasty=547 # Morgan
+	religion="catholic"
+	culture="welsh"
+	father=159109
+	849.1.1={
+		birth="849.1.1"
+	}
+	916.1.1={
+		death="916.1.1"
+	}
+}
+160256 = {
+	name="里斯" # ap Hywel
+	dynasty=547 # Morgan
+	religion="catholic"
+	culture="welsh"
+	father=159109
+	851.1.1={
+		birth="851.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+160257 = {
+	name="阿尔特法尔" # ap Rhys
+	dynasty=547 # Morgan
+	religion="catholic"
+	culture="welsh"
+	father=159110
+	835.1.1={
+		birth="835.1.1"
+	}
+	895.1.1={
+		death="895.1.1"
+	}
+}
+160258 = {
+	name="梅里格" # ap Arthfael
+	dynasty=547 # Morgan
+	religion="catholic"
+	culture="welsh"
+	father=159111
+	781.1.1={
+		birth="781.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+160259 = {
+	name="布洛赫法尔" # ap Meurig
+	dynasty=547 # Morgan
+	religion="catholic"
+	culture="welsh"
+	father=160258
+	835.1.1={
+		birth="835.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+160260 = {
+	name="弗芬法尔" # ap Meurig
+	dynasty=547 # Morgan
+	religion="catholic"
+	culture="welsh"
+	father=160258
+	837.1.1={
+		birth="837.1.1"
+	}
+	892.1.1={
+		death="892.1.1"
+	}
+}
+166442 = {  	
+	name="瑞恩"
+	# AKA: Run of Alt Clut
+	dynasty=816
+	martial=3
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="welsh"
+	father=163104
+	827.1.1={
+		birth="827.1.1"
+	}
+	843.1.1={
+		add_spouse=166443 #Daughter of Cin醗d mac Ailp韓
+	}
+	878.1.1={
+		death="878.1.1"
+	}
+}
+
+166446 = {  	
+	name="欧文"
+	# AKA: Eugein II of Alt Clut
+	dynasty=816
+	martial=6
+	diplomacy=3
+	intrigue=5
+	stewardship=2
+	religion="catholic"
+	culture="welsh"
+	father=166447
+	750.1.1={
+		birth="750.1.1"
+	}
+	804.1.1={
+		death="804.1.1"
+	}
+}
+
+166453 = {  	
+	name="欧文"
+	# AKA: Eugein I map Beli of Alt Clut
+	dynasty=816
+	martial=4
+	diplomacy=6
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166454
+	611.1.1={
+		birth="611.1.1"
+	}
+	652.1.1={
+		death="652.1.1"
+	}
+}
+205140 = {
+	name="哈韦尔" # ap Caradog
+	dynasty=14284 #Rhos
+	father=160046
+	religion="catholic"
+	culture="welsh"
+	750.1.1={
+		birth="750.1.1"
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+205137 = {
+	name="安加拉德" # 
+	female = yes
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159831
+	561.1.1={
+		birth="561.1.1"
+	}
+	605.1.1={
+		death="605.1.1"
+	}
+}
+205138 = {
+	name="Ceindrych"
+	female = yes
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=184130
+	611.1.1={
+		birth="611.1.1"
+	}
+	680.1.1={
+		death="680.1.1"
+	}
+}

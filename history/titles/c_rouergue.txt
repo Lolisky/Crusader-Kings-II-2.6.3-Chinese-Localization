@@ -1,0 +1,70 @@
+769.1.1={
+	holder = 190514 #Guillaume
+}
+769.1.1={
+	liege=k_lotharingia
+}
+815.1.1={
+	holder = 190556 #Bernard
+}
+844.1.1={
+	holder = 190557 #Bernard
+}
+865.4.16 = {
+	liege="d_toulouse"
+}
+865.4.16 = {
+	holder = 127007 #Bernard de Toulouse
+}
+1066.1.1=
+{
+	holder = 336 #Guillaume IV de Toulouse
+}
+1080.1.1 = {	
+	holder = 338 #Raymond IV de Toulouse
+}
+1096.10.1 = {
+	holder = 223671 #Bertrand de Toulouse
+}
+1112.4.21 = {
+	holder = 223673 #Alphonse Jourdain de Toulouse
+}
+1148.4.16 = {
+	holder = 205530 #Raymond V de Toulouse
+}
+1194.12.1 = {
+	holder = 205532 #Raymond VI de Toulouse
+}
+1222.8.2 = {
+	holder = 127002 #Raymond VII de Toulouse
+}
+1249.9.27 = {
+	holder = 127001 #Jeanne de Toulouse
+}
+1251.5.23 = {
+	holder = 127000 #Alphonse de Poitiers
+}
+1271.8.21 = {
+	holder = 455528 # Philippe III le Hardi
+}
+1285.10.5={
+	holder = 455526 # Philippe IV le Bel
+}
+1314.11.29={
+	holder = 455836 # Louis V le Hutin
+}
+1316.6.5={ #in fact 1316.11.5 as a posthumus heir, but ck2 can't handle interregnum
+	holder= 70137 # Jean Ier le Posthume
+}
+1316.11.19={ #corrected from 1316.6.5
+	holder= 455509 # Philippe V le Long, son of 455526.
+}
+1322.1.3={
+	holder = 455414 # Charles IV le Bel
+}
+
+#House of Valois
+
+1328.2.1={
+	holder=455640
+}

@@ -1,0 +1,2793 @@
+70518 = {
+	name="马尔基安"
+	# Flavius Marcianus Augustus
+	dynasty=1022190
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="roman"
+	trait="zealous"
+	trait="greedy"
+	trait="indulgent_wastrel"
+	391.1.1={
+		birth="391.1.1"
+	}
+	450.8.25={
+		add_spouse=70531
+	}
+	457.1.27={
+		death="457.1.27"
+	}
+}
+
+70519 = {
+	name="阿卡狄奥斯"
+	# Flavius Arcadius Augustus
+	dynasty=1022191
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="roman"
+	trait="humble"
+	trait="shy"
+	trait="indulgent_wastrel"
+	father=70534
+	
+	377.12.1={
+		birth="377.12.1"
+	}
+	408.5.1={
+		death="408.5.1"
+	}
+}
+
+70520 = {
+	name="君士坦丁"
+	# Caesar Flavius Claudius Constantinus Augustus
+	dynasty=1022195
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="roman"
+	trait="envious"
+	trait="wroth"
+	trait="amateurish_plotter"
+	father=70523
+	
+	316.2.1={
+		birth="316.2.1"
+	}
+	340.4.1={
+		death="340.4.1"
+	}
+}
+
+70521 = {
+	name="君士坦提乌斯"
+	# Caesar Flavius Iulius Constantius Augustus
+	dynasty=1022195
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="orthodox"
+	culture="roman"
+	trait="honest"
+	trait="patient"
+	trait="fortune_builder"
+	father=70523
+	
+	317.8.7={
+		birth="317.8.7"
+	}
+	361.11.3={
+		death="361.11.3"
+	}
+}
+
+70522 = {
+	name="君士坦斯"
+	# Caesar Flavius Iulius Constans Augustus
+	dynasty=1022195
+	martial=6
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="orthodox"
+	culture="roman"
+	trait="homosexual"
+	trait="deceitful"
+	trait="tough_soldier"
+	father=70523
+	
+	322.1.1={
+		birth="322.1.1"
+	}
+	350.2.1={
+		death="350.2.1"
+	}
+}
+
+70523 = {
+	name="君士坦丁"
+	# Caesar Flavius Constantinus Valerius Augustus 'The Great'
+	dynasty=1022195
+	martial=8
+	diplomacy=8
+	intrigue=9
+	stewardship=7
+	religion="catholic"
+	culture="roman"
+	trait="zealous"
+	trait="genius"
+	trait="elusive_shadow"
+	father=70524
+	
+	272.2.27={
+		birth="272.2.27"
+	}
+	337.5.22={
+		death="337.5.22"
+	}
+}
+
+70524 = {
+	name="君士坦提乌斯"
+	# Caesar Gaius Flavius Valerius Constantius Augustus
+	dynasty=1022195
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="honest"
+	trait="trusting"
+	trait="tough_soldier"
+	
+	250.3.31={
+		birth="250.3.31"
+	}
+	306.7.25={
+		death="306.7.25"
+	}
+}
+
+70525 = {
+	name="菲利普"
+	# Marcus Iulius Severus Philippus
+	dynasty=1022210
+	religion="hellenic_pagan"
+	culture="roman"
+	father=70526
+	
+	237.1.1={
+		birth="237.1.1"
+	}
+	249.9.1={
+		death="249.9.1"
+	}
+}
+
+70526 = {
+	name="菲利普"
+	# Caesar Marcus Iulius Philippus Augustus
+	dynasty=1022210
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="hedonist"
+	trait="ambitious"
+	trait="flamboyant_schemer"
+	
+	204.1.1={
+		birth="204.1.1"
+	}
+	249.9.1={
+		death="249.9.1"
+	}
+}
+
+70531 = {
+	name="普尔彻利亚"
+	# Aelia Pulcheria Augusta
+	dynasty=1022191
+	female=yes
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="orthodox"
+	culture="roman"
+	trait="celibate"
+	trait="slothful"
+	trait="proud"
+	trait="intricate_webweaver"
+	father=70519
+	399.1.19={
+		birth="399.1.19"
+	}
+	453.7.1={
+		death="453.7.1"
+	}
+}
+
+70533 = {
+	name="狄奥多西"
+	# Flavius Theodosius Augustus
+	dynasty=1022191
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="orthodox"
+	culture="roman"
+	trait="honest"
+	trait="gregarious"
+	trait="indulgent_wastrel"
+	father=70519
+	
+	401.4.10={
+		birth="401.4.10"
+	}
+	450.7.28={
+		death="450.7.28"
+	}
+}
+
+70534 = {
+	name="狄奥多西"
+	# Flavius Theodosius Augustus 'The Great'
+	dynasty=1022191
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="orthodox"
+	culture="roman"
+	trait="mystic"
+	trait="arbitrary"
+	trait="gregarious"
+	trait="skilled_tactician"
+	347.1.11={
+		birth="347.1.11"
+	}
+	395.1.17={
+		death="395.1.17"
+	}
+}
+
+145075 = {
+	name="提比略"
+	# Tiberius Iulius Caesar Augustus
+	dynasty=1022232
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="cruel"
+	trait="lustful"
+	trait="proud"
+	trait="brave"
+	trait="just"
+	trait="skilled_tactician"
+
+	2.11.16={
+		birth="2.11.16"
+	}
+	37.3.16={
+		death="37.3.16"
+	}
+}
+
+145227 = {
+	name="霍诺里乌斯"
+	# Flavius Honorius Augustus
+	dynasty=1022191
+	religion="catholic"
+	culture="roman"
+	trait="arbitrary"
+	trait="slothful"
+	trait="indulgent_wastrel"
+	father=70534
+	384.9.9={
+		birth="384.9.9"
+	}
+	423.8.25={
+		death="423.8.25"
+	}
+}
+
+145228 = {
+	name="君士坦提乌斯"
+	# Flavius Constantius Augustus
+	dynasty=1022192
+	religion="catholic"
+	culture="roman"
+	trait="honest"
+	trait="humble"
+	trait="skilled_tactician"
+	375.1.1={
+		birth="375.1.1"
+	}
+	421.9.2={
+		death="421.9.2"
+	}
+}
+
+145229 = {
+	name="瓦伦丁尼安"
+	# Flavius Placidius Valentinianus
+	dynasty=1022192
+	religion="catholic"
+	culture="roman"
+	trait="slothful"
+	trait="craven"
+	trait="indulgent_wastrel"
+	father=145228
+	419.7.2={
+		birth="419.7.2"
+	}
+	455.3.16={
+		death="455.3.16"
+	}
+}
+
+145230 = {
+	name="格拉提安"
+	# Gratianus the Elder
+	dynasty=1022193
+	religion="catholic"
+	culture="roman"
+	trait="skilled_tactician"
+	285.1.1={
+		birth="285.1.1"
+	}
+	350.1.1={
+		death="350.1.1"
+	}
+}
+
+145231 = {
+	name="瓦伦丁尼安"
+	# Flavius Valentinianus Augustus
+	dynasty=1022193
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="brave"
+	trait="skilled_tactician"
+	father=145230
+	321.1.1={
+		birth="321.1.1"
+	}
+	375.11.17={
+		death="375.11.17"
+	}
+}
+
+145232 = {
+	name="瓦伦斯"
+	# Flavius Iulius Valens Augustus
+	dynasty=1022193
+	religion="orthodox" # Arian
+	culture="roman"
+	trait="paranoid"
+	trait="misguided_warrior"
+	father=145230
+	328.1.1={
+		birth="328.1.1"
+	}
+	378.8.9={
+		death="378.8.9"
+	}
+}
+
+145233 = {
+	name="格拉蒂安"
+	# Flavius Gratianus Augustus
+	dynasty=1022193
+	religion="catholic"
+	culture="roman"
+	trait="tough_soldier"
+	father=145231
+	359.4.18={
+		birth="359.4.18"
+	}
+	383.8.25={
+		death="383.8.25"
+	}
+}
+
+145234 = {
+	name="瓦伦丁尼安"
+	# Flavius Valentinianus Invictus Augustus
+	dynasty=1022193
+	religion="catholic" # Arian
+	culture="roman"
+	trait="trusting"
+	trait="indulgent_wastrel"
+	father=145231
+	371.7.2={
+		birth="371.7.2"
+	}
+	392.5.15={
+		death="392.5.15"
+	}
+}
+
+145235 = {
+	name="约维安"
+	# Caesar Flavius Iovianus Augustus
+	dynasty=1022194
+	religion="catholic"
+	culture="roman"
+	trait="tough_soldier"
+	331.1.1={
+		birth="331.1.1"
+	}
+	364.2.17={
+		death="364.2.17"
+	}
+}
+
+145236 = {
+	name="康斯坦丁幽斯"
+	# Iulius Constantius
+	dynasty=1022195
+	religion="catholic"
+	culture="roman"
+	trait="charismatic_negotiator"
+	father=70524
+	295.1.1={
+		birth="295.1.1"
+	}
+	337.7.1={
+		death="337.7.1"
+	}
+}
+
+145237 = {
+	name="尤利安"
+	# Caesar Flavius Claudius Iulianus Augustus
+	dynasty=1022195
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="mystic"
+	trait="scholar"
+	trait="quick"
+	trait="skilled_tactician"
+	father=145236
+	332.5.1={
+		birth="332.5.1"
+	}
+	363.6.26={
+		death="363.6.26"
+	}
+}
+
+145238 = {
+	name="李锡尼"
+	# Caesar Gaius Valerius Licinianus Licinius Augustus
+	dynasty=1022196
+	religion="hellenic_pagan"
+	culture="roman"
+	add_trait="just"
+	add_trait="diligent"
+	add_trait="cynical"
+	add_trait="envious"
+	add_trait="charismatic_negotiator"
+	263.1.1={
+		birth="263.1.1"
+	}
+	325.4.1={
+		death="325.4.1"
+	}
+}
+
+145239 = {
+	name="马克西米努斯"
+	# Caesar Galerius Valerius Maximinus Augustus
+	dynasty=1022197
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="drunkard"
+	trait="lustful"
+	trait="tough_soldier"
+	270.11.20={
+		birth="270.11.20"
+	}
+	313.8.1={
+		death="313.8.1"
+	}
+}
+
+145240 = {
+	name="伽列里乌斯"
+	# Caesar Galerius Valerius Maximianus Augustus
+	dynasty=1022198
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="cynical"
+	trait="tough_soldier"
+	260.1.1={
+		birth="260.1.1"
+	}
+	311.5.5={
+		death="311.5.5"
+	}
+}
+
+145241 = {
+	name="戴克里先"
+	# Caesar Gaius Aurelius Valerius Diocletianus Augustus
+	dynasty=1022199
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="brave"
+	trait="diligent"
+	trait="proud"
+	trait="just"
+	trait="zealous"
+	trait="gregarious"
+	trait="midas_touched"
+	244.12.22={
+		birth="244.12.22"
+	}
+	311.12.3={
+		death="311.12.3"
+	}
+}
+
+145242 = {
+	name="卡鲁斯"
+	# Caesar Marcus Aurelius Carus Augustus
+	dynasty=1022200
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="charismatic_negotiator"
+	224.1.1={
+		birth="224.1.1"
+	}
+	283.8.1={
+		death="283.8.1"
+	}
+}
+
+145243 = {
+	name="努梅里安"
+	# Caesar Marcus Aurelius Numerius Numerianus Augustus
+	dynasty=1022200
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="tough_soldier"
+	father=145242
+	255.1.1={
+		birth="255.1.1"
+	}
+	284.11.1={
+		death="284.11.1"
+	}
+}
+
+145244 = {
+	name="卡里努斯"
+	# Caesar Marcus Aurelius Carinus Augustus
+	dynasty=1022200
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="lustful"
+	trait="naive_appeaser"
+	father=145242
+	250.1.1={
+		birth="250.1.1"
+	}
+	285.7.1={
+		death="285.7.1"
+	}
+}
+
+145245 = {
+	name="普罗布斯"
+	# Caesar Marcus Aurelius Probus Augustus
+	dynasty=1022201
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="naive_appeaser"
+	232.8.19={
+		birth="232.8.19"
+	}
+	282.10.1={
+		death="282.10.1"
+	}
+}
+
+145246 = {
+	name="克劳迪娅"
+	dynasty=1022202
+	female=yes
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="underhanded_rogue"
+	182.8.19={
+		birth="182.8.19"
+	}
+	242.10.1={
+		death="242.10.1"
+	}
+}
+
+145247 = {
+	name="塔西佗"
+	# Caesar Marcus Claudius Tacitus Augustus
+	dynasty=1022202
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="flamboyant_schemer"
+	father=145246
+	210.1.1={
+		birth="210.1.1"
+	}
+	276.6.1={
+		death="276.6.1"
+	}
+}
+
+145248 = {
+	name="弗洛里安努斯"
+	# Caesar Marcus Annius Florianus Augustus
+	dynasty=1022202
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="underhanded_rogue"
+	mother=145246
+	215.1.1={
+		birth="215.1.1"
+	}
+	276.9.1={
+		death="276.9.1"
+	}
+}
+
+145249 = {
+	name="塞弗丽娜"
+	# Ulpia Severina Augusta
+	dynasty=1022203
+	female=yes
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="charismatic_negotiator"
+	235.1.2={
+		birth="235.1.2"
+	}
+	290.1.1={
+		death="290.1.1"
+	}
+}
+
+145250 = {
+	name="奥勒良"
+	# Caesar Lucius Domitius Aurelianus Augustus
+	dynasty=1022204
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="quick"
+	trait="diligent"
+	trait="skilled_tactician"
+	214.9.9={
+		birth="214.9.9"
+	}
+	255.1.1={
+		add_spouse=145249
+	}
+	275.7.1={
+		death="275.7.1"
+	}
+}
+
+145251 = {
+	name="瓦莱丽幽斯"
+	dynasty=1022205
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="tough_soldier"
+	190.1.1={
+		birth="190.1.1"
+	}
+	240.1.1={
+		death="240.1.1"
+	}
+}
+
+145252 = {
+	name="克劳狄乌斯"
+	# Caesar Marcus Aurelius Claudius Augustus
+	dynasty=1022205
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="skilled_tactician"
+	father = 145251
+	213.5.10={
+		birth="213.5.10"
+	}
+	270.1.15={
+		death="270.1.15"
+	}
+}
+
+145253 = {
+	name="昆提卢斯"
+	# Caesar Marcus Aurelius Claudius Quintillus Augustus
+	dynasty=1022205
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="fortune_builder"
+	father = 145251
+	215.1.1={
+		birth="215.1.1"
+	}
+	270.5.1={
+		death="270.5.1"
+	}
+}
+
+145254 = {
+	name="瓦莱里安"
+	# Caesar Publius Licinius Valerianus Augustus
+	dynasty=1022206
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="tough_soldier"
+	198.1.1={
+		birth="198.1.1"
+	}
+	264.1.1={
+		death="264.1.1"
+	}
+}
+
+145255 = {
+	name="加里恩努斯"
+	# Caesar Publius Licinius Egnatius Gallienus Augustus
+	dynasty=1022206
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="tough_soldier"
+	father = 145254
+	218.1.1={
+		birth="218.1.1"
+	}
+	268.8.1={
+		death="268.8.1"
+	}
+}
+
+145256 = {
+	name="埃米利安努斯"
+	# Caesar Marcus Aemilius Aemilianus Augustus
+	dynasty=1022207
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="tough_soldier"
+	218.1.1={
+		birth="218.1.1"
+	}
+	253.8.1={
+		death="253.8.1"
+	}
+}
+
+145257 = {
+	name="加卢斯"
+	# Caesar Gaius Vibius Trebonianus Gallus Augustus
+	dynasty=1022208
+	religion="hellenic_pagan"
+	culture="roman"
+	add_trait="strong"
+	add_trait="tough_soldier"
+	206.1.1={
+		birth="206.1.1"
+	}
+	253.7.1={
+		death="253.7.1"
+	}
+}
+
+145258 = {
+	name="德基乌斯"
+	# Caesar Gaius Messius Quintus Traianus Decius Augustus
+	dynasty=1022209
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	201.1.1={
+		birth="201.1.1"
+	}
+	251.6.1={
+		death="251.6.1"
+	}
+}
+
+145259 = {
+	name="戈尔迪安"
+	# Caesar Marcus Antonius Gordianus Sempronianus Africanus Augustus
+	dynasty=1022211
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="fortune_builder"
+	159.1.1={
+		birth="159.1.1"
+	}
+	238.4.12={
+		death="238.4.12"
+	}
+}
+
+145260 = {
+	name="戈尔迪安"
+	# Caesar Marcus Antonius Gordianus Sempronianus Romanus Africanus Augustus
+	dynasty=1022211
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="thrifty_clerk"
+	father = 145259
+	192.1.1={
+		birth="192.1.1"
+	}
+	238.4.12={
+		death="238.4.12"
+	}
+}
+
+145261 = {
+	name="乔蒂安娜"
+	# Antonia Gordiana
+	dynasty=1022211
+	female=yes
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="intricate_webweaver"
+	father = 145259
+	201.1.1={
+		birth="201.1.1"
+	}
+	245.1.1={
+		death="245.1.1"
+	}
+}
+
+145262 = {
+	name="戈尔迪安"
+	# Caesar Marcus Antonius Gordianus Augustus
+	dynasty=1022211
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="kind"
+	trait="thrifty_clerk"
+	mother = 145261
+	225.1.20={
+		birth="225.1.20"
+	}
+	244.2.11={
+		death="244.2.11"
+	}
+}
+
+145263 = {
+	name="巴尔比努斯"
+	# Caesar Decimus Caelius Calvinus Balbinus Pius Augustus
+	dynasty=1022212
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="fortune_builder"
+	165.1.1={
+		birth="165.1.1"
+	}
+	238.7.29={
+		death="238.7.29"
+	}
+}
+
+145264 = {
+	name="普皮恩努斯"
+	# Caesar Marcus Clodius Pupienus Maximus Augustus
+	dynasty=1022213
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="tough_soldier"
+	170.1.1={
+		birth="170.1.1"
+	}
+	238.7.29={
+		death="238.7.29"
+	}
+}
+
+145265 = {
+	name="马克西米努斯"
+	# Caesar Gaius Julius Verus Maximinus Augustus
+	dynasty=1022214
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="strong"
+	trait="cruel"
+	trait="zealous"
+	trait="tough_soldier"
+	170.1.1={
+		birth="170.1.1"
+	}
+	238.7.29={
+		death="238.7.29"
+	}
+}
+
+145266 = {
+	name="亚历山大"
+	# Caesar Marcus Aurelius Severus Alexander Augustus
+	dynasty=1022215
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="honest"
+	trait="humble"
+	trait="kind"
+	trait="fortune_builder"
+	208.10.1={
+		birth="208.10.1"
+	}
+	235.3.19={
+		death="235.3.19"
+	}
+}
+
+145267 = {
+	name="埃拉加巴路斯"
+	# Marcus Aurelius Antoninus Augustus
+	dynasty=1022216
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="homosexual"
+	trait="hedonist"
+	trait="lustful"
+	trait="drunkard"
+	trait="slothful"
+	trait="zealous"
+	trait="detached_priest"
+	203.1.1={
+		birth="203.1.1"
+	}
+	222.3.11={
+		death="222.3.11"
+	}
+}
+
+145268 = {
+	name="马克里努斯"
+	# Marcus Opellius Severus Macrinus Augustus Pius Felix
+	dynasty=1022217
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="honest"
+	trait="underhanded_rogue"
+	165.1.1={
+		birth="165.1.1"
+	}
+	218.6.8={
+		death="218.6.8"
+	}
+}
+
+145269 = {
+	name="赛普提米乌斯"
+	# Caesar Lucius Septimius Severus Pertinax Augustus
+	dynasty=1022218
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="charitable"
+	trait="diligent"
+	trait="zealous"
+	trait="skilled_tactician"
+	145.4.11={
+		birth="145.4.11"
+	}
+	211.2.4={
+		death="211.2.4"
+	}
+}
+
+145270 = {
+	name="卡拉卡拉"
+	# Caesar Marcus Aurelius Severus Antoninus Pius Augustus
+	dynasty=1022218
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="diligent"
+	trait="cruel"
+	trait="envious"
+	trait="paranoid"
+	trait="tough_soldier"
+	father = 145269
+	188.4.4={
+		birth="188.4.4"
+	}
+	211.12.19={
+		 trait="kinslayer"
+	 }
+	217.4.8={
+		death="217.4.8"
+	}
+}
+
+145271 = {
+	name="盖塔"
+	# Caesar Publius Septimius Geta Augustus
+	dynasty=1022218
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="trusting"
+	trait="underhanded_rogue"
+	father = 145269
+	189.3.7={
+		birth="189.3.7"
+	}
+	211.12.19={
+		death="211.12.19"
+	}
+}
+
+145272 = {
+	name="尤利安"
+	# Caesar Marcus Didius Severus Iulianus Augustus
+	dynasty=1022219
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="envious"
+	trait="ambitious"
+	trait="deceitful"
+	trait="intricate_webweaver"
+	133.1.30={
+		birth="133.1.30"
+	}
+	193.6.1={
+		death="193.6.1"
+	}
+}
+
+145273 = {
+	name="佩蒂纳克斯"
+	# Caesar Publius Helvius Pertinax Augustus
+	dynasty=1022220
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="honest"
+	trait="temperate"
+	trait="fortune_builder"
+	126.8.1={
+		birth="126.8.1"
+	}
+	193.3.28={
+		death="193.3.28"
+	}
+}
+
+145274 = {
+	name="马库斯"
+	# Caesar Marcus Aurelius Antoninus Augustus
+	dynasty=1022221
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="scholar"
+	trait="honest"
+	trait="temperate"
+	trait="charitable"
+	trait="diligent"
+	trait="zealous"
+	trait="grey_eminence"
+	121.4.26={
+		birth="121.4.26"
+	}
+	180.3.17={
+		death="180.3.17"
+	}
+}
+
+145275 = {
+	name="康茂德"
+	# Caesar Marcus Aurelius Commodus Antoninus Augustus
+	dynasty=1022221
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="fair"
+	trait="lustful"
+	trait="craven"
+	trait="arbitrary"
+	trait="cruel"
+	trait="impaler"
+	trait="flamboyant_schemer"
+	father=145274
+	161.8.31={
+		birth="161.8.31"
+	}
+	192.12.31={
+		death="192.12.31"
+	}
+}
+
+145276 = {
+	name="卢西乌斯"
+	# Caesar Lucius Aurelius Verus Augustus
+	dynasty=1022222
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="scholar"
+	trait="poet"
+	trait="diligent"
+	trait="gregarious"
+	trait="lustful"
+	trait="midas_touched"
+	130.12.15={
+		birth="130.12.15"
+	}
+	169.2.1={
+		death="169.2.1"
+	}
+}
+
+145277 = {
+	name="安敦尼"
+	# Caesar Titus Aelius Hadrianus Antoninus Augustus Pius
+	dynasty=1022223
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="kind"
+	trait="temperate"
+	trait="gregarious"
+	trait="charitable"
+	trait="diligent"
+	trait="quick"
+	trait="grey_eminence"
+	86.9.19={
+		birth="86.9.19"
+	}
+	161.3.7={
+		death="161.3.7"
+	}
+}
+
+145278 = {
+	name="哈德良"
+	# Caesar Publius Aelius Traianus Hadrianus Augustus
+	dynasty=1022224
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="scholar"
+	trait="poet"
+	trait="honest"
+	trait="gregarious"
+	trait="charitable"
+	trait="content"
+	trait="diligent"
+	trait="skilled_tactician"
+	76.1.24={
+		birth="76.1.24"
+	}
+	138.7.10={
+		death="138.7.10"
+	}
+}
+
+145279 = {
+	name="图拉真"
+	# Caesar Marcus Ulpius Nerva Traianus Augustus
+	dynasty=1022225
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="honest"
+	trait="brave"
+	trait="temperate"
+	trait="charitable"
+	trait="just"
+	trait="diligent"
+	trait="genius"
+	trait="brilliant_strategist"
+	53.9.18={
+		birth="53.9.18"
+	}
+	117.8.9={
+		death="117.8.9"
+	}
+}
+
+145280 = {
+	name="涅尔瓦"
+	# Marcus Cocceius Nerva Caesar Augustus
+	dynasty=1022226
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="honest"
+	trait="temperate"
+	trait="charitable"
+	trait="just"
+	trait="fortune_builder"
+	30.11.8={
+		birth="30.11.8"
+	}
+	98.1.27={
+		death="98.1.27"
+	}
+}
+
+145281 = {
+	name="韦帕芗"
+	# Titus Flavius Caesar Vespasianus Augustus
+	dynasty=1022227
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="honest"
+	trait="charitable"
+	trait="just"
+	trait="kind"
+	trait="skilled_tactician"
+	9.11.17={
+		birth="9.11.17"
+	}
+	79.6.23={
+		death="79.6.23"
+	}
+}
+
+145282 = {
+	name="提图斯"
+	# Titus Flavius Caesar Vespasianus Augustus
+	dynasty=1022227
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="charitable"
+	trait="lustful"
+	trait="just"
+	trait="zealous"
+	trait="skilled_tactician"
+	father = 145281
+	39.12.30={
+		birth="39.12.30"
+	}
+	81.9.13={
+		death="81.9.13"
+	}
+}
+
+145283 = {
+	name="图密善"
+	# Titus Flavius Caesar Domitianus Augustus
+	dynasty=1022227
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="lustful"
+	trait="cruel"
+	trait="zealous"
+	trait="deceitful"
+	trait="diligent"
+	trait="intricate_webweaver"
+	father = 145281
+	51.10.24={
+		birth="51.10.24"
+	}
+	96.9.18={
+		death="96.9.18"
+	}
+}
+
+145284 = {
+	name="维特里乌斯"
+	# Aulus Vitellius Germanicus Augustus
+	dynasty=1022228
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="lustful"
+	trait="gluttonous"
+	trait="slothful"
+	trait="charitable"
+	trait="kind"
+	trait="thrifty_clerk"
+	15.9.24={
+		birth="15.9.24"
+	}
+	69.12.20={
+		death="69.12.20"
+	}
+}
+
+145285 = {
+	name="奥索"
+	# Marcus Salvius Otho Caesar Augustus
+	dynasty=1022229
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="homosexual"
+	trait="craven"
+	trait="charitable"
+	trait="deceitful"
+	trait="ambitious"
+	trait="indulgent_wastrel"
+	32.4.28={
+		birth="32.4.28"
+	}
+	69.4.16={
+		death="69.4.16"
+	}
+}
+
+145286 = {
+	name="加尔巴"
+	# Servius Sulpicius Galba Caesar Augustus
+	dynasty=1022230
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="greedy"
+	trait="honest"
+	trait="temperate"
+	trait="arbitrary"
+	trait="cruel"
+	trait="fortune_builder"
+	3.12.24={
+		birth="3.12.24"
+	}
+	69.1.15={
+		death="69.1.15"
+	}
+}
+
+145287 = {
+	name="尼禄"
+	# Nero Claudius Caesar Augustus Germanicus
+	dynasty=1022232
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="homosexual"
+	trait="poet"
+	trait="cruel"
+	trait="arbitrary"
+	trait="zealous"
+	trait="impaler"
+	trait="indulgent_wastrel"
+	father = 145288
+	37.12.15={
+		birth="37.12.15"
+	}
+	59.3.23={
+		 trait="kinslayer"
+	}
+	68.6.9={
+		death="68.6.9"
+	}
+}
+
+145288 = {
+	name="克劳狄乌斯"
+	# Tiberius Claudius Caesar Augustus Germanicus
+	dynasty=1022232
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="scholar"
+	trait="clubfooted"
+	trait="stutter"
+	trait="wroth"
+	trait="diligent"
+	trait="naive_appeaser"
+	3.8.1={
+		birth="3.8.1"
+	}
+	54.10.13={
+		death="54.10.13"
+	}
+}
+
+145289 = {
+	name="卡里古拉"
+	# Gaius Iulius Caesar Augustus Germanicus
+	dynasty=1022232
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="hedonist"
+	trait="lustful"
+	trait="drunkard"
+	trait="cruel"
+	trait="impaler"
+	trait="lunatic"
+	trait="indulgent_wastrel"
+	12.8.31={
+		birth="12.8.31"
+	}
+	41.1.24={
+		death="41.1.24"
+	}
+}
+
+145290 = {
+	name="奥古斯都"
+	# Gaius Iulius Caesar Octavianus Divi Filius Augustus
+	# death date moved 10 years later in order not to be portrayed as a child
+	dynasty=8648
+	religion="hellenic_pagan"
+	culture="roman"
+	trait="just"
+	trait="brave"
+	trait="ambitious"
+	trait="gregarious"
+	trait="diligent"
+	trait="genius"
+	trait="augustus"
+	trait="grey_eminence"
+	3.1.1={
+		birth="3.1.1"
+	}
+	24.8.19={
+		death="24.8.19"
+	}
+}
+
+7600 = {
+	name="彭谦"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	170.1.1 = {
+		birth="170.1.1"
+	}
+	230.1.1 = {
+	name="彭谦"
+	# AKA: Pontianus
+	}
+	235.9.29 = {
+		death="235.9.29"
+	}
+}
+
+7601 = {
+	name="塞维鲁"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	170.1.1 = {
+		birth="170.1.1"
+	}
+	222.10.14 = {
+	name="乌尔班"
+	# AKA: Severus
+	}
+	230.1.1 = {
+		death="230.1.1"
+	}
+}
+
+7602 = {
+	name="加理多"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	160.1.1 = {
+		birth="160.1.1"
+	}
+	217.12.20 = {
+	name="加理多"
+	# AKA: Callistus
+	}
+	222.10.14 = {
+		death="222.10.14"
+	}
+}
+
+7603 = {
+	name="逻各斯"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	150.1.1 = {
+		birth="150.1.1"
+	}
+	199.1.1 = {
+	name="则斐琳"
+	# AKA: Logos
+	}
+	217.12.20 = {
+		death="217.12.20"
+	}
+}
+
+7604 = {
+	name="哲罗米"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	140.1.1 = {
+		birth="140.1.1"
+	}
+	189.1.1 = {
+	name="维笃"
+	# AKA: Jerome
+	}
+	199.1.1 = {
+		death="199.1.1"
+	}
+}
+
+7759 = {
+	name="戈登"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	480.1.1 = {
+		birth="480.1.1"
+	}
+	535.5.8 = {
+	name="亚加比多"
+	# AKA: Gordianus
+	}
+	536.6.8 = {
+		death="536.6.8"
+	}
+}
+
+7760 = {
+	name="墨丘利"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	470.1.1 = {
+		birth="470.1.1"
+	}
+	532.1.1 = {
+	name="若望"
+	# AKA: Mercurius
+	}
+	535.5.8 = {
+		death="535.5.8"
+	}
+}
+
+7762 = {
+	name="卡斯都里"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	470.1.1 = {
+		birth="470.1.1"
+	}
+	526.5.18 = {
+	name="斐理斯"
+	# AKA: Castorius
+	}
+	530.1.1 = {
+		death="530.1.1"
+	}
+}
+
+7763 = {
+	name="卡斯都里"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	470.1.1 = {
+		birth="470.1.1"
+	}
+	523.8.6 = {
+	name="若望"
+	# AKA: Castorius
+	}
+	526.5.18 = {
+		death="526.5.18"
+	}
+}
+
+7764 = {
+	name="戈登"
+	# AKA: Gordainus
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	father=7765
+	500.1.1 = {
+		birth="500.1.1"
+	}
+	536.4.22 = {
+	name="西尔勿略"
+	# AKA: Gordainus
+	}
+	536.6.8 = {
+		death="536.6.8"
+	}
+}
+
+7765 = {
+	name="若望"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	450.1.1 = {
+		birth="450.1.1"
+	}
+	514.7.19 = {
+	name="何弥"
+	# AKA: Johannes
+	}
+	523.8.6 = {
+		death="523.8.6"
+	}
+}
+
+7766 = {
+	name="福图纳特"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	450.1.1 = {
+		birth="450.1.1"
+	}
+	498.11.19 = {
+	name="西玛克"
+	# AKA: Fortunatus
+	}
+	514.7.19 = {
+		death="514.7.19"
+	}
+}
+
+7767 = {
+	name="阿卡修"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	450.1.1 = {
+		birth="450.1.1"
+	}
+	496.11.21 = {
+	name="阿纳斯塔修斯"
+	# AKA: Acacius
+	}
+	498.11.19 = {
+		death="498.11.19"
+	}
+}
+
+7768 = {
+	name="阿卡修"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	420.1.1 = {
+		birth="420.1.1"
+	}
+	492.1.1 = {
+	name="哲拉修"
+	# AKA: Acacius
+	}
+	496.11.21 = {
+		death="496.11.21"
+	}
+}
+
+7769 = {
+	name="阿卡修"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	420.1.1 = {
+		birth="420.1.1"
+	}
+	483.3.10 = {
+	name="斐理斯"
+	# AKA: Acacius
+	}
+	492.1.1 = {
+		death="492.1.1"
+	}
+}
+
+7770 = {
+	name="卡斯丁"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	420.1.1 = {
+		birth="420.1.1"
+	}
+	468.2.28 = {
+	name="辛普利修"
+	# AKA: Castinus
+	}
+	483.3.10 = {
+		death="483.3.10"
+	}
+}
+
+7771 = {
+	name="依拉略"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	400.1.1 = {
+		birth="400.1.1"
+	}
+	461.11.10 = {
+	name="依拉略"
+	# AKA: Hilary
+	}
+	468.2.28 = {
+		death="468.2.28"
+	}
+}
+
+7772 = {
+	name="依拉略"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	400.1.1 = {
+		birth="400.1.1"
+	}
+	440.8.18 = {
+	name="利诺"
+	# AKA: Hilary
+	}
+	461.11.10 = {
+		death="461.11.10"
+	}
+}
+
+7773 = {
+	name="依拉略"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	380.1.1 = {
+		birth="380.1.1"
+	}
+	432.4.6 = {
+	name="思道斯"
+	# AKA: Hilary
+	}
+	440.8.18 = {
+		death="440.8.18"
+	}
+}
+
+7774 = {
+	name="普利斯古"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	380.1.1 = {
+		birth="380.1.1"
+	}
+	422.9.4 = {
+	name="策肋定"
+	# AKA: Priscus
+	}
+	432.4.6 = {
+		death="432.4.6"
+	}
+}
+
+7775 = {
+	name="欧拉利"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	360.1.1 = {
+		birth="360.1.1"
+	}
+	418.12.26 = {
+	name="波尼法爵"
+	# AKA: Eulalius
+	}
+	422.9.4 = {
+		death="422.9.4"
+	}
+}
+
+7776 = {
+	name="欧拉利"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	360.1.1 = {
+		birth="360.1.1"
+	}
+	417.3.12 = {
+	name="佐西"
+	# AKA: Eulalius
+	}
+	418.12.26 = {
+		death="418.12.26"
+	}
+}
+
+7777 = {
+	name="马克西穆"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	father=7778
+	360.1.1 = {
+		birth="360.1.1"
+	}
+	401.11.27 = {
+	name="依诺增爵"
+	# AKA: Maximus
+	}
+	417.3.12 = {
+		death="417.3.12"
+	}
+}
+
+7778 = {
+	name="马克西穆"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	330.1.1 = {
+		birth="330.1.1"
+	}
+	399.11.26 = {
+	name="阿纳斯塔修斯"
+	# AKA: Maximus
+	}
+	401.11.27 = {
+		death="401.11.27"
+	}
+}
+
+7779 = {
+	name="马克西穆"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	330.1.1 = {
+		birth="330.1.1"
+	}
+	384.12.11 = {
+	name="西里修"
+	# AKA: Maximus
+	}
+	399.11.26 = {
+		death="399.11.26"
+	}
+}
+
+7780 = {
+	name="马克西穆"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	305.1.1 = {
+		birth="305.1.1"
+	}
+	366.9.24 = {
+	name="达玛稣"
+	# AKA: Maximus
+	}
+	384.12.11 = {
+		death="384.12.11"
+	}
+}
+
+7781 = {
+	name="马克西穆"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	305.1.1 = {
+		birth="305.1.1"
+	}
+	352.4.12 = {
+	name="利伯略"
+	# AKA: Maximus
+	}
+	366.9.24 = {
+		death="366.9.24"
+	}
+}
+
+7782 = {
+	name="马克西穆"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	280.1.1 = {
+		birth="280.1.1"
+	}
+	336.10.7 = {
+	name="儒略"
+	# AKA: Maximus
+	}
+	352.4.12 = {
+		death="352.4.12"
+	}
+}
+
+7783 = {
+	name="马尔谷"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	280.1.1 = {
+		birth="280.1.1"
+	}
+	335.12.31 = {
+	name="马尔谷"
+	# AKA: Marcus
+	}
+	336.10.7 = {
+		death="336.10.7"
+	}
+}
+
+7784 = {
+	name="马尔谷"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	270.1.1 = {
+		birth="270.1.1"
+	}
+	314.1.10 = {
+	name="思维特"
+	# AKA: Marcus
+	}
+	335.12.31 = {
+		death="335.12.31"
+	}
+}
+
+7785 = {
+	name="马尔谷"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	250.1.1 = {
+		birth="250.1.1"
+	}
+	310.8.17 = {
+	name="美基德"
+	# AKA: Marcus
+	}
+	314.1.10 = {
+		death="314.1.10"
+	}
+}
+
+7787 = {
+	name="马尔谷"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	250.1.1 = {
+		birth="250.1.1"
+	}
+	304.4.1 = {
+	name="玛策禄"
+	# AKA: Marcus
+	}
+	309.1.16 = {
+		death="309.1.16"
+	}
+}
+
+7789 = {
+	name="马尔谷"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	240.1.1 = {
+		birth="240.1.1"
+	}
+	296.4.22 = {
+	name="玛策林"
+	# AKA: Marcus
+	}
+	304.4.1 = {
+		death="304.4.1"
+	}
+}
+
+7790 = {
+	name="盖乌斯"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	240.1.1 = {
+		birth="240.1.1"
+	}
+	283.7.12 = {
+	name="加犹"
+	# AKA: Gaius
+	}
+	296.4.22 = {
+		death="296.4.22"
+	}
+}
+
+7791 = {
+	name="盖乌斯"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	220.1.1 = {
+		birth="220.1.1"
+	}
+	274.12.30 = {
+	name="欧提齐盎"
+	# AKA: Gaius
+	}
+	283.7.12 = {
+		death="283.7.12"
+	}
+}
+
+7792 = {
+	name="盖幽斯"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	220.1.1 = {
+		birth="220.1.1"
+	}
+	268.12.26 = {
+	name="斐理斯"
+	# AKA: Gaius
+	}
+	274.12.30 = {
+		death="274.12.30"
+	}
+}
+
+7795 = {
+	name="斯德望"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	210.1.1 = {
+		birth="210.1.1"
+	}
+	254.3.5 = {
+	name="斯德望"
+	# AKA: Stephanus
+	}
+	257.8.2 = {
+		death="257.8.2"
+	}
+}
+
+7796 = {
+	name="波尔佩里安"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	210.1.1 = {
+		birth="210.1.1"
+	}
+	253.6.1 = {
+	name="路基约"
+	# AKA: Porphyrianus
+	}
+	254.3.5 = {
+		death="254.3.5"
+	}
+}
+
+7797 = {
+	name="德基"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	210.1.1 = {
+		birth="210.1.1"
+	}
+	250.1.20 = {
+	name="科尔乃略"
+	# AKA: Decius
+	}
+	253.6.1 = {
+		death="253.6.1"
+	}
+}
+
+7798 = {
+	name="法比盎"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	200.1.1 = {
+		birth="200.1.1"
+	}
+	236.1.3 = {
+	name="法比盎"
+	}
+	250.1.20 = {
+		death="250.1.20"
+
+	}
+}
+
+7868 = {
+	name="匝加利亚"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	669.1.1 = {
+		birth="669.1.1"
+	}
+	715.4.9 = {
+	name="额我略"
+	# AKA: Zacharias
+	}
+	731.2.11 = {
+		death="731.2.11"
+	}
+}
+
+7876 = {
+	name="柏拉图"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	635.1.1 = {
+		birth="635.1.1"
+	}
+	683.6.28 = {
+	name="本笃"
+	# AKA: Plato
+	}
+	685.5.8 = {
+		death="685.5.8"
+	}
+}
+
+7877 = {
+	name="保罗"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	611.1.1 = {
+		birth="611.1.1"
+	}
+	681.1.10 = {
+	name="利诺"
+	# AKA: Paulus
+	}
+	683.6.28 = {
+		death="683.6.28"
+	}
+}
+
+7880 = {
+	name="墨丘利"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	577.1.1 = {
+		birth="577.1.1"
+	}
+	672.1.27 = {
+	name="狄达笃"
+	# AKA: Mauricius
+	}
+	676.6.17 = {
+		death="676.6.17"
+	}
+}
+
+7881 = {
+	name="阿纳斯塔修斯"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	577.1.1 = {
+		birth="577.1.1"
+	}
+	657.6.1 = {
+	name="魏德连"
+	# AKA: Anastasius
+	}
+	672.1.27 = {
+		death="672.1.27"
+	}
+}
+
+7882 = {
+	name="鲁菲尼安"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	577.1.1 = {
+		birth="577.1.1"
+	}
+	653.7.17 = {
+	name="安日纳"
+	# AKA: Rufinianus
+	}
+	657.6.1 = {
+		death="657.6.1"
+	}
+}
+
+7883 = {
+	name="鲁菲尼安"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	577.1.1 = {
+		birth="577.1.1"
+	}
+	649.5.14 = {
+	name="马丁"
+	# AKA: Rufinianus
+	}
+	653.7.17 = {
+		death="653.7.17"
+	}
+}
+
+7885 = {
+	name="韦南特"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	577.1.1 = {
+		birth="577.1.1"
+	}
+	640.8.2 = {
+	name="若望"
+	# AKA: Venantius
+	}
+	642.10.12 = {
+		death="642.10.12"
+	}
+}
+
+7886 = {
+	name="阿维恩"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	577.1.1 = {
+		birth="577.1.1"
+	}
+	638.10.12 = {
+	name="塞维利"
+	# AKA: Avienus
+	}
+	640.8.2 = {
+		death="640.8.2"
+	}
+}
+
+7887 = {
+	name="伯多隆"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	560.1.1 = {
+		birth="560.1.1"
+	}
+	625.10.25 = {
+	name="和诺理"
+	# AKA: Petronius
+	}
+	638.10.12 = {
+		death="638.10.12"
+	}
+}
+
+7888 = {
+	name="伯多隆"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	560.1.1 = {
+		birth="560.1.1"
+	}
+	618.11.8 = {
+	name="波尼法斯"
+	# AKA: Petronius
+	}
+	625.10.25 = {
+		death="625.10.25"
+	}
+}
+
+7889 = {
+	name="狄达笃"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	550.1.1 = {
+		birth="550.1.1"
+	}
+	615.5.25 = {
+	name="狄达笃"
+	# AKA: Deodatus
+	}
+	618.11.8 = {
+		death="618.11.8"
+	}
+}
+
+7890 = {
+	name="若望"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	550.1.1 = {
+		birth="550.1.1"
+	}
+	607.11.12 = {
+	name="波尼法爵"
+	# AKA: Johannes
+	}
+	615.5.25 = {
+		death="615.5.25"
+	}
+}
+
+7892 = {
+	name="若望"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	530.1.1 = {
+		birth="530.1.1"
+	}
+	604.3.15 = {
+	name="沙比尼盎"
+	# AKA: John
+	}
+	606.2.22 = {
+		death="606.2.22"
+	}
+}
+
+7893 = {
+	name="戈登"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	540.1.1 = {
+		birth="540.1.1"
+	}
+	590.1.1 = {
+	name="额我略"
+	# AKA: Gordanius
+	}
+	604.3.15 = {
+		death="604.3.15"
+	}
+}
+
+7896 = {
+	name="戈登"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	520.1.1 = {
+		birth="520.1.1"
+	}
+	579.7.20 = {
+	name="柏拉奇"
+	# AKA: Gordanius
+	}
+	590.1.1 = {
+		death="590.1.1"
+	}
+}
+
+7897 = {
+	name="波尼法爵"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	520.1.1 = {
+		birth="520.1.1"
+	}
+	574.7.13 = {
+	name="本笃"
+	# AKA: Bonifacius
+	}
+	579.7.20 = {
+		death="579.7.20"
+	}
+}
+
+7898 = {
+	name="卡蒂林"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	520.1.1 = {
+		birth="520.1.1"
+	}
+	561.3.4 = {
+	name="若望"
+	# AKA: Catelinus
+	}
+	574.7.13 = {
+		death="574.7.13"
+	}
+}
+
+7899 = {
+	name="本笃"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	510.1.1 = {
+		birth="510.1.1"
+	}
+	555.6.7 = {
+	name="柏拉奇"
+	# AKA: Benedictus
+	}
+	561.3.4 = {
+		death="561.3.4"
+	}
+}
+
+7900 = {
+	name="若望"
+	religion="catholic"
+	culture="roman"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	500.1.1 = {
+		birth="500.1.1"
+	}
+	536.6.8 = {
+	name="维吉吕"
+	# AKA: Johannes
+	}
+	555.6.7 = {
+		death="555.6.7"
+	}
+}
+
+145293 = {
+	name="马克西米安"
+	# Caesar Gaius Aurelius Valerius Maximianus Herculius Augustus
+	dynasty=1022233
+	religion="hellenic_pagan"
+	culture="roman"
+	add_trait="skilled_tactician"
+	250.1.1={
+		birth="250.1.1"
+	}
+	310.7.1={
+		death="310.7.1"
+	}
+}
+
+145294 = {
+	name="马克森提乌斯"
+	# Marcus Aurelius Valerius Maxentius Augustus
+	dynasty=1022233
+	religion="hellenic_pagan"
+	culture="roman"
+	add_trait="arbitrary"
+	add_trait="flamboyant_schemer"
+	father=145293
+	278.1.1={
+		birth="278.1.1"
+	}
+	312.10.28={
+		death="312.10.28"
+	}
+}
+
+70512 = {
+	name="查士丁尼"
+	# AKA: Ioustinianos 'the Great'
+	dynasty=1022186
+	martial=8
+	diplomacy=9
+	intrigue=7
+	stewardship=9
+	religion="orthodox"
+	culture="roman"
+	add_trait="just"
+	add_trait="mystic"
+	add_trait="genius"
+	add_trait="midas_touched"
+	mother=70528
+ 	482.5.11={
+		birth="482.5.11"
+	}
+	565.11.14={
+		death="565.11.14"
+	}
+}
+
+70513 = {
+	name="查士丁"
+	# AKA: Ioustinos
+	dynasty=1022186
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="orthodox"
+	culture="roman"
+	add_trait="quick"
+	add_trait="ambitious"
+	add_trait="tough_soldier"
+	father=70529
+ 	452.1.1={
+		birth="452.1.1"
+	}
+	527.8.1={
+		death="527.8.1"
+	}
+}
+
+70527 = {
+	name="Vigilantia"
+	dynasty=1022186
+	female=yes
+	martial=3
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="orthodox"
+	culture="roman"
+	add_trait="ambitious"
+	add_trait="scholar"
+	add_trait="intricate_webweaver"
+	mother=70528
+	485.1.1={
+		birth="485.1.1"
+	}
+	570.1.1={
+		death="570.1.1"
+	}
+}
+
+70528 = {
+	name="维吉兰迪亚"
+	dynasty=1022186
+	female=yes
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="orthodox"
+	culture="roman"
+	add_trait="temperate"
+	add_trait="honest"
+	add_trait="naive_appeaser"
+	father=70529
+ 	460.1.1={
+		birth="460.1.1"
+	}
+	535.1.1={
+		death="535.1.1"
+	}
+}
+
+70529 = {
+	name="查士丁尼"
+	dynasty=1022186
+	martial=6
+	diplomacy=3
+	intrigue=4
+	stewardship=3
+	religion="orthodox"
+	culture="roman"
+	add_trait="proud"
+	add_trait="brave"
+	add_trait="tough_soldier"
+	430.1.1={
+		birth="430.1.1"
+	}
+	485.1.1={
+		death="485.1.1"
+	}
+}
+168799 = {
+	name="尤多西娅"
+	#Eudoxia
+	female=yes
+	dynasty=1022192
+	religion="catholic"
+	culture="roman"
+	father=145229
+	438.1.1={
+		birth=yes
+	}
+	488.1.1={
+		death=yes
+	}
+}

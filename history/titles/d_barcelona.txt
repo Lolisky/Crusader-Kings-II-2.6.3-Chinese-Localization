@@ -1,0 +1,94 @@
+711.1.1={
+	de_jure_liege=k_aquitaine
+}
+801.1.1={
+	holder=70140 # Bera, Count of Barcelona
+	liege=k_aquitaine
+	de_jure_liege=k_aquitaine
+}
+820.1.1={
+	holder=200141 # Rampon, Count of Barcelona
+}
+826.1.1={
+	holder=163063 # Bernard I Gellones
+}
+832.1.1={
+	holder=167791 # Berengar Unruochinger
+}
+835.1.1={
+	holder=163063 # Bernard I Gellones
+}
+844.5.1={
+	holder=73785 # Sunifred de Barcelona
+}
+848.1.1={
+	holder=73784 # Guillaume I Gellones
+}
+850.1.1={
+	holder=200142 # Aleran Geroldonen
+}
+851.1.1={
+	holder=200144 # Isembard, Count of Barcelona
+}
+852.1.1={
+	holder=200145 # Odelric von Argengau
+}
+857.1.1={
+	holder=200148 # Hunifred Unruochinger
+}
+865.1.1={
+	holder=127019 # Bernard II Gellones
+} 
+878.1.1={
+	holder=70150 # Guifré I de Barcelona
+}
+884.12.12={
+	liege=k_france
+}
+888.1.13={
+	liege = 0
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+898.8.11={
+	holder=70152 # Guifré II de Barcelona
+}
+911.1.1={
+	holder=110536 # Sunyer de Barcelona
+}
+954.10.15={
+	holder=110538 # Borrell II de Barcelona
+}
+993.9.30={
+	holder=110540 # Ramon Borrell de Barcelona
+}
+1017.2.25={
+	holder=110530 # Berenguer Ramón I de Barcelona
+}
+1035.5.26={
+	holder=110520 # Ramon Berenguer I de Barcelona
+}	
+1035.10.18={
+	de_jure_liege=k_aragon
+}
+1076.5.26={
+	holder=110522 # Ramon Berenguer II de Barcelona
+}
+1082.12.6={
+	holder=110525 # Berenguer Ramon II de Barcelona
+}
+1097.6.20={
+	holder=210508 # Ramon Berenguer III de Barcelona
+}
+1131.7.19={
+	holder=210506 # Ramon Berenguer IV de Barcelona
+}
+1137.8.11={
+	liege=k_aragon
+}
+1162.8.6={
+	holder=210500 # Ramon Berenguer V de Barcelona (Alfons II de Barcelona)
+}
+1164.1.1={
+	holder=0
+}

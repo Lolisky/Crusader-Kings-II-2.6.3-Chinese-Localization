@@ -1,0 +1,76 @@
+711.1.1={
+	de_jure_liege=k_andalusia
+}
+1010.1.1={
+	holder=85008 # Muyahid Amirid
+	liege=0
+}
+1045.1.1={
+	holder=20869 # Ali Amirid
+}
+1076.1.1={
+	holder=33053 # Abdallah Aglabid
+}
+1093.1.1={
+	holder=33054 # Mubashir Aglabid
+}
+1115.1.1={
+	holder=33055 # Suleyman Lubbunid
+}
+1116.1.1={
+	holder=0
+}
+1147.1.1={
+	holder=32973 # Muhammad I Massufid
+	liege=0
+}
+1155.1.1={
+	holder=32974 # Ishaq Massufid
+}
+1183.1.1={
+	holder=32975 # Muhammad II Massufid
+}
+1184.1.1={
+	holder=32976 # Ali Massufid
+}
+1185.1.1={
+	holder=32975 # Muhammad II Massufid
+}
+1186.1.1={
+	holder=73230 # Tashfin Massufid
+}
+1187.1.1={
+	holder=73231 # Abdallah Massufid
+}
+1188.1.1={
+	holder=32977 # Yahya Massufid
+}
+1203.1.1={
+	holder=0
+}
+1212.7.16={
+	de_jure_liege=k_aragon
+}
+1230.1.1={
+	holder=460600 # Jaume I de Barcelona
+	liege=k_aragon
+	law=agnatic_succession
+	law=succ_primogeniture
+}
+1276.7.27={
+	holder=460602 # Jaume II de Barcelona
+	liege=0
+	law=cognatic_succession
+}
+1285.1.1={
+	liege=k_aragon
+}
+1295.1.1={
+	liege=0
+}
+1311.5.29={
+	holder=460604 # Sanç Jaume de Barcelona
+}
+1324.9.4={
+	holder=460620 # Jaume III de Barcelona
+}

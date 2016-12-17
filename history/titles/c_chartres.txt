@@ -1,0 +1,58 @@
+740.1.1={
+	liege="k_lotharingia"
+	holder = 91480 #DROGO, historical placeholder
+}
+834.1.1={
+	liege = "d_anjou"
+	holder = 6440 #Robert le fort
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+866.7.2={
+	holder = 6448 #Eudes
+}
+1037.11.15 = {
+	liege="d_champagne"
+	holder=394 #Thibaut I de Blois
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+1089.9.30 = {
+	holder=205897 #Étienne-Henri I de Blois
+}
+1102.5.19={
+	holder=91331 #Guillaume de Blois
+}
+
+1107.1.1 = {
+	holder = 205891 #Thibaut III le Grand
+}
+1152.1.10 ={
+	holder = 205892 # Thibaut IV le Bon
+}
+1191.1.20 = {
+	holder = 205895 #Louis I
+}
+1205.4.14 ={
+	holder = 91040 #Thibaut VI
+}
+
+1218.1.1 = {
+	holder = 205889 #Isabelle I 
+}
+#Blois-Châtillon
+1248.1.1 = {
+	holder = 91119 #Jean I de Blois-Châtillon
+}
+1280.1.1 = {
+	holder = 91136 #Jeanne de Blois-Châtillon
+}
+1286.1.1 = {
+	holder = 455526 # Philippe I le Bel
+}
+1293.1.1 = {
+	holder = 455512 # Charles I de Valois
+}
+1325.12.16 = {
+	holder = 455513 # Charles II le Magnanime
+}

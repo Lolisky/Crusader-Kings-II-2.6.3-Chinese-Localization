@@ -1,0 +1,49 @@
+760.1.1={
+	liege=k_lotharingia
+}
+760.1.1={
+	holder = 190562 #Hugh I
+}
+798.1.1={
+	holder = 190563 #Hugh II
+}
+855.1.1={ #duchy of Transjura/kingdom of Upper-Burgundy
+	liege = "k_burgundy"
+	holder = 7977
+}
+
+864.1.1={
+	holder = 144998
+}
+866.1.1={
+	holder = 7989
+}
+876.1.1={
+	holder = 7984
+}
+911.10.25=
+{
+holder=1144
+}
+937.12.1=
+{
+holder=1146
+}
+993.10.19=
+{
+holder=1148
+}
+1032.9.5=
+{
+holder=0
+}
+1220.1.1 = {
+	liege = e_hre
+	holder = 32768
+}
+1241.1.1 = {
+	holder = 32769
+}
+1257.3.14 = {
+	holder = 0
+}

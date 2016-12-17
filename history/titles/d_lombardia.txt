@@ -1,0 +1,80 @@
+860.1.1={
+	liege = "k_italy"
+}
+860.1.1={
+	holder=163068 
+}
+961.1.1={
+	holder=70632
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+996.1.1={
+	holder=70633
+}
+998.1.1={
+	holder=70629
+}
+1013.1.1={
+	holder=70628
+}
+1014.1.1={
+	liege=k_germany
+}
+1024.7.13={
+	liege = e_hre
+}
+1029.1.1={
+	holder=1118
+}
+1097.4.13={
+	holder=20299
+}
+1128.12.15={
+	holder=223597
+}
+1193.12.25={
+	holder=0
+}
+1220.1.1 = {
+	holder = 70752 # della Torre
+}
+1240.1.1={
+	holder=70753
+	liege=0
+	law = succ_feudal_elective
+}
+1247.1.1={
+	holder=70762
+}
+1257.1.1={
+	holder=70765
+}
+1259.1.1={
+	holder=70744
+}
+1264.1.1={
+	holder=70766
+}
+1265.1.1={
+	holder=70755
+}
+1277.1.1={
+	holder=70770
+}
+1295.8.1={
+	holder=463145
+}
+1302.1.1={
+	holder=70759
+}
+1311.8.1={
+	holder=463145
+	law = succ_primogeniture
+}
+1322.6.28={
+	holder=463141
+}
+1327.7.5={
+	holder=463140
+}

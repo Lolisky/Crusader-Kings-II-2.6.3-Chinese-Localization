@@ -1,0 +1,3793 @@
+100553 = {
+	name="马格努斯" #Magnus # son of the Danish Prince Henrik Skadel錼
+	dynasty=487
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="lustful"
+	trait="tough_soldier"
+	father=101532
+    mother=100554 #Ingrid Ragnvaldsdotter
+	1122.1.15={
+		birth="1122.1.15"
+	}
+	1161.6.6={
+		death="1161.6.6"
+	}
+}
+
+101515 = {
+	name="斯温" #Svend# Estridsson
+	dynasty=487
+	martial=2
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="lustful"
+	trait="wroth"
+	trait="zealous"
+	trait="midas_touched"
+	father=101535 # Ulf Torgilsson
+	mother=101509 # Estrid
+	1019.1.1={
+		birth="1019.1.1"
+		add_claim = k_england
+	}
+	1046.1.1={
+		add_spouse=100513 # Gyda Anundsdottor
+	}
+	1048.1.1={
+		add_spouse=102516 # Gunhild Sveinsdatter
+	}
+	1051.1.1={
+		remove_spouse=102516 # Gunhild Sveinsdatter
+	}
+	1069.1.1={
+		add_spouse=102551 # Thora Torbergsdatter (Arnung)
+	}
+	1076.4.28={
+		death="1076.4.28"
+	}
+}
+
+101516 = {
+	name="英格丽德" #Ingrid
+	female=yes
+	dynasty=487
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="arbitrary"
+	trait="legit_bastard"
+	trait="thrifty_clerk"
+	father=101515 #Svend Estridsson
+	mother=102562 #Rannveig Tordsdatter
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1099.1.1={
+		death="1099.1.1"
+	}
+}
+
+101517 = {
+	name="哈拉尔" #Harald #Harald
+	# Hein
+	dynasty=487
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	trait="kind"
+	trait="content"
+	trait="amateurish_plotter"
+	father=101515 #Svend Estridsson
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1057.1.1={
+		add_spouse=101518 #Margrete Asbj鴕nsdatter
+	}
+	1080.4.17={
+		death="1080.4.17"
+	}
+}
+
+101518 = {
+	name="玛格丽特" #Margrete #Asbj鴕nsdatter
+	female = yes
+	dynasty=502
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="chaste"
+	trait="greedy"
+	trait="scholarly_theologian"
+	father=101536 # Asbj鴕n Jarl Ulfson
+	1041.1.2={
+		birth="1041.1.2"
+	}
+	1091.1.2={
+		death="1091.1.2"
+	}
+}
+
+101519 = {
+	name="克努特" #Knud # den helige
+	dynasty=487
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="ambitious"
+	trait="zealous"
+	trait="legit_bastard"
+	trait="tough_soldier"
+	father=101515 #Svend Estridsson
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1082.1.1={
+		add_spouse=369 # Adele of Flandres
+	}
+	1085.5.1={
+		give_nickname=nick_the_holy
+	}
+	1086.7.10={
+		death="1086.7.10"
+	}
+}
+
+101520 = {
+	name="奥拉夫" #Olaf # Hunger
+	dynasty=487
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	trait="cynical"
+	trait="amateurish_plotter"
+	father=101515 # Svend Estridsson
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1071.1.1={
+		add_spouse=102535 # Ingegerd Haraldsdotter
+	}
+	1095.8.18={
+		death="1095.8.18"
+	}
+}
+
+101521 = {
+	name="埃里克" #Erik # 'Ejegod'
+	dynasty=487
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="gregarious"
+	trait="strong"
+	trait="just"
+	trait="charitable"
+	trait="legit_bastard"
+	trait="charismatic_negotiator"
+	father=101515 #Svend Estridsson
+	mother=102562 #Rannveig Tordsdatter
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1072.1.1={
+		add_spouse=101548 # Bodil Thrugotsdatter
+	}
+	1075.1.1={
+		give_nickname=nick_the_good	
+	}
+	1103.7.10={
+		death="1103.7.10"
+	}
+}
+
+101522 = {
+	name="拉根希尔德" #Ragnhild
+	female=yes
+	dynasty=487
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	trait="martial_cleric"
+	father=101515 #Svend Estridsson
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1092.1.2={
+		death="1092.1.2"
+	}
+}
+
+101523 = {
+	name="本尼迪克特" #Benedikt
+	dynasty=487
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	trait="flamboyant_schemer"
+	father=101515 #Svend Estridsson
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1086.7.10={
+		death="1086.7.10"
+	}
+}
+
+101524 = {
+	name="戈恩茜尔德" #Gunhild
+	female=yes
+	dynasty=487
+	martial=4
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	trait="flamboyant_schemer"
+	father=101515 #Svend Estridsson
+	1050.1.1={	
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+101525 = {
+	name="比熊" #Bj鴕n
+	# AKA: Bjorn
+	dynasty=487
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	father=101515 #Svend Estridsson
+	1062.1.1={
+		birth="1062.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+101526 = {
+	name="斯温" #Svend# 'Tronkr鎣er'
+	dynasty=487
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="patient"
+	trait="legit_bastard"
+	trait="thrifty_clerk"
+	father=101515 #Svend Estridsson
+	1056.1.2={
+		birth="1056.1.2"
+	}
+	1103.7.10={
+		trait="ill"
+	}
+	1103.7.10={
+		give_nickname=nick_the_usurper
+	}
+	1104.6.2={
+		death="1104.6.2"
+	}
+}
+
+101527 = {
+	name="希格莉德" #Sigrid
+	female=yes
+	dynasty=487
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	trait="humble"
+	trait="charismatic_negotiator"
+	father=101515 # Svend Estridsson
+	1048.9.1={
+		birth="1048.9.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+101528 = {
+	name="克努特 马格努斯" #Knud Magnus
+	# AKA: Knud Magnus
+	dynasty=487
+	martial=8
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="honest"
+	trait="legit_bastard"
+	trait="tough_soldier"
+	father=101515 # Svend Estridsson
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1058.1.1={
+		death="1058.1.1"
+	}
+}
+
+101529 = {
+	name="索尔吉尔斯" #Thorgils
+	dynasty=487
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="clubfooted"
+	trait="legit_bastard"
+	trait="tough_soldier"
+	father=101515 #Svend Estridsson
+	1060.1.2={
+		birth="1060.1.2"
+	}
+	1110.1.2={
+		death="1110.1.2"
+	}
+}
+
+101530 = {
+	name="尼尔斯" #Niels
+	dynasty=487
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	trait="thrifty_clerk"
+	father=101515 #Svend Estridsson
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1105.1.1={
+		add_spouse=200494 # Margareta Ingesdotter
+	}
+	1130.1.1={
+		add_spouse=200601 # Ulvhild Haakonardottir
+	} 
+	1134.6.25={
+		death="1134.6.25"
+	}
+}
+
+101531 = {
+	name="马格努斯" #Magnus # Den Starke
+	dynasty=487
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="strong"
+	trait="wroth"
+	trait="ambitious"
+	trait="misguided_warrior"
+	father=101530 # Niels Svendsson
+	mother=200494 # Margareta Ingesdotter
+	1107.1.1={
+		birth="1107.1.1"
+	}
+	1127.1.1={
+		add_spouse=221511 # Ryksa Boleslaw體na
+		give_nickname=nick_the_strong
+	}
+	1131.1.7={
+		trait="kinslayer"
+	}
+	1134.6.4={
+		death="1134.6.4"
+	}
+}
+
+101532 = {
+	name="亨利克" #Henrik # 'Skadel錼'
+	# AKA: Henrik Skadelaar
+	dynasty=487
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="envious"
+	trait="wroth"
+	trait="maimed"
+	trait="flamboyant_schemer"
+	father=101526 # Svend 'Tronkr鎣er'
+	1090.1.2={
+		birth="1090.1.2"
+	}
+	1125.1.1={
+		add_spouse=100554 # Ingrid Ragnvaldsdotter
+	}
+	1134.6.4={
+		death="1134.6.4"
+	}
+}
+
+101534 = {
+	name="格达" #Gyda
+	female = yes
+	dynasty=502
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="scholarly_theologian"
+	father=101533 # Thorgil Sprakalegg
+	997.1.1={
+		birth="997.1.1"
+	}
+	1066.1.1={
+		employer=122 # Harold Godwinson
+	}
+	1066.10.14={
+		employer=101515 # Svend Estridsen
+	}
+	1073.1.1={
+		death="1073.1.1"
+	}
+}
+
+101536 = {
+	name="阿斯比熊" #Asbj鴕n
+	# AKA: Asbjorn
+	dynasty=502
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="greedy"
+	trait="skilled_tactician"
+	father=101535 # Ulf
+	mother=101509 # Estrid
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+
+101537 = {
+	name="希格内" #Signe
+	female = yes
+	dynasty=502
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="temperate"
+	trait="thrifty_clerk"
+	father=101536 #Asbj鴕n Ulfs鴑
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+
+101539 = {
+	name="奥登" #Auden
+	dynasty=482
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="greedy"
+	trait="martial_cleric"
+	father=101538
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}
+
+101542 = {
+	name="丝露格特" #Thrugot #Fagerskind Ulfss鴑
+	dynasty=1025000
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="honest"
+	trait="fair"
+	trait="tough_soldier"
+	father=101541 # Ulf
+	mother=102519 # Bodil
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1049.1.1={
+		add_spouse=101545 #Thorgunna Vagnsdatter
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}
+
+101546 = {
+	name="拉格纳" #Ragnar
+	dynasty=477
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="greedy"
+	trait="flamboyant_schemer"
+	1026.1.2={
+		birth="1026.1.2"
+	}
+	1076.1.2={
+		death="1076.1.2"
+	}
+}
+
+101547 = {
+	name="埃吉尔" #Egil
+	dynasty=477
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	father=101546 # Ragnar
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1105.1.2={
+		death="1105.1.2"
+	}
+}
+
+101548 = {
+	name="波迪" #Bodil
+	female = yes
+	dynasty=1025000 #Thrugot
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="fair"
+	trait="kind"
+	trait="naive_appeaser"
+	father=101542 # Thrugot Fagerskind Ulfss鴑
+	mother=101545 # Thorgunna Vagnsdatter
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1104.1.1={
+		death="1104.1.1"
+	}
+}
+
+101550 = {
+	name="英格丽德" #Ingrid
+	# AKA: Ingegerd Knudsdatter
+	female=yes
+	dynasty=487
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="thrifty_clerk"
+	father=101519 	# Knud the Holy of Denmark
+	mother=369	# Adele of Flandres
+	1083.1.1={
+		birth="1083.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+101551 = {
+	name="塞西莉亚" #Ceciia
+	# AKA: Cecilia Knudsdatter
+	female=yes
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	trait="thrifty_clerk"
+	father=101519 	# Knud the Holy of Denmark
+	mother=369	# Adele of Flandres
+	1087.1.1={
+		birth="1087.1.1"
+	}
+	1131.1.1={
+		death="1131.1.1"
+	}
+}
+
+200491 = {
+	name="克里斯蒂娜" #Kristina
+	female = yes
+	dynasty=487
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	father=200492
+	mother=200493
+	1121.1.1={
+		birth="1121.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+200492 = {
+	name="比熊" #Bj鴕n
+	# AKA: Bjorn Ironside
+	dynasty=487
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	father=201516
+    mother=167013
+	1106.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		add_spouse=200493 # Katarina Ingesdotter
+	}
+	1134.1.1={
+		death=yes
+	}
+}
+
+200605 = {
+	name="本妮迪克塔" #Benedicta
+	female = yes
+	dynasty=482
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="gluttonous"
+	trait="amateurish_plotter"
+	father=201537 #Ebbe Sunes鴑
+	mother=201544
+	1170.1.1={
+		birth=yes
+	}
+	1199.6.1={
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+
+201005 = {
+	name"赫明" #Hemming
+	dynasty=100267
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="patient"
+	trait="amateurish_plotter"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+201500 = {
+	name="克努特" #Knud # VI
+	dynasty=487
+	martial=6
+	diplomacy=3
+	intrigue=3
+	stewardship=3
+	religion="catholic"
+	culture="danish"
+	trait="chaste"
+	trait="wroth"
+	trait="brave"
+	trait="fortune_builder"
+	father=201510 # Valdemar the Great
+	mother=222797
+	1163.1.1={
+		birth="1163.1.1"
+	}
+	1187.1.2={
+		add_spouse=212571
+	}
+	1202.11.12={
+		death="1202.11.12"
+	}
+}
+
+201501 = {
+	name="瓦尔德马尔" #Valdemar # Sejr
+	dynasty=487
+	martial=8
+	diplomacy=7
+	intrigue=3
+	stewardship=11
+	religion="catholic"
+	culture="danish"
+	trait="lustful"
+	trait="diligent"
+	trait="charitable"
+	trait="wroth"
+	trait="cynical"
+	trait="skilled_tactician"
+	father=201510 # Valdemar the Great
+	mother=222797
+	1170.6.28={
+		birth="1170.6.28"
+	}
+	1205.1.1 = {
+		add_spouse=96037 #Marketa Premyslid
+	}
+	1214.5.18 = {
+		add_spouse=91102 #Berengarie de Bourgogne
+	}
+	1220.5.12 = {
+		give_nickname=nick_the_conqueror
+	}
+	1241.3.28={
+		death="1241.3.28"
+	}
+}
+
+201502 = {
+	name="玛格丽塔" #Margareta
+	female = yes
+	dynasty=487
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="fortune_builder"
+	father=201510
+	mother=222797
+	1167.1.2={
+		birth="1167.1.2"
+	}
+	1217.1.2={
+		death="1217.1.2"
+	}
+}
+
+201503 = {
+	name="索菲" #Sophie
+	female = yes
+	dynasty=487
+	martial=4
+	diplomacy=4
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="amateurish_plotter"
+	father=201510
+	mother=222797
+	1159.1.2={
+		birth="1159.1.2"
+	}
+	1209.1.2={
+		death="1209.1.2"
+	}
+}
+
+201504 = {
+	name="玛利亚" #Maria
+	female = yes
+	dynasty=487
+	martial=4
+	diplomacy=4
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="scholarly_theologian"
+	father=201510
+	mother=222797
+	1167.1.2={
+		birth="1167.1.2"
+	}
+	1217.1.2={
+		death="1217.1.2"
+	}
+}
+
+201505 = {
+	name="英博格" #Ingeborg
+	female = yes
+	dynasty=487
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="thrifty_clerk"
+	father=201510
+	mother=222797
+	1175.1.2={
+		birth="1175.1.2"
+	}
+	1225.1.2={
+		death="1225.1.2"
+	}
+}
+
+201506 = {
+	name="里基莎" #Rikissa
+	female = yes
+	dynasty=487
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="thrifty_clerk"
+	father=201510 # Valdemar the Great of Denmark
+	mother=222797
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1230.1.2={
+		death="1230.1.2"
+	}
+}
+
+201507 = {
+	name="海伦妮" #Helene
+	female = yes
+	dynasty=487
+	martial=6
+	diplomacy=7
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="wroth"
+	trait="thrifty_clerk"
+	father=201510
+	mother=222797
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1233.11.22={
+		death="1233.11.22"
+	}
+}
+
+201508 = {
+	name="克努特" #Knud # V
+	dynasty=487
+	martial=6
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="chaste"
+	trait="brave"
+	trait="fortune_builder"
+	father=101531 # Magnus den Starke
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1156.1.1={
+		add_spouse=161986
+	}
+	1157.8.9={
+		death="1157.8.9"
+	}
+}
+
+201510 = {
+	name="瓦尔德马尔" #Valdemar # Den Store (The Great)
+	dynasty=487
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="brave"
+	trait="proud"
+	trait="zealous"
+	trait="skilled_tactician"
+	father=201513 # Knud Lavard
+	mother=222593
+	1131.1.14={
+		birth="1131.1.14"
+	}
+	1157.1.1={
+		add_spouse=222797
+	}
+	1157.1.1 = {
+		give_nickname=nick_the_great
+	}
+	1182.5.12={
+		death="1182.5.12"
+	}
+}
+
+201511 = {
+	name="拉根希尔德" #Ragnhild
+	female=yes
+	dynasty=487
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="flamboyant_schemer"
+	father=101521
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1149.1.1={
+		death="1149.1.1"
+	}
+}
+
+201512 = {
+	name="希尔德加德" #Hildegard
+	female = yes
+	dynasty=487
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="martial_cleric"
+	father=201508
+	1157.1.1={
+		birth="1157.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+201513 = {
+	name="克努特" #Knud
+	# AKA: Knut Lavard
+	dynasty=487
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="diligent"
+	trait="proud"
+	trait="skilled_tactician"
+	father=101521
+	1096.1.15={
+		birth="1096.1.15"
+	}
+	1127.1.1={
+		add_spouse=222593
+	}
+	1131.1.13={
+		death="1131.1.13"
+	}
+}
+
+201514 = {
+	name="埃里克" #Erik # Lamm
+	# AKA: Erik Lamm
+	dynasty=487
+	martial=3
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="slothful"
+	trait="underhanded_rogue"
+	father=167019
+	mother=201511 # Ragnhild, daughter of Erik Ejegod
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1146.8.27={
+		death="1146.8.27"
+	}
+}
+
+201516 = {
+	name="哈拉尔德" #Harald
+	# AKA: Harald Kesja
+	dynasty=487
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	trait="proud"
+	trait="tough_soldier"
+	father=101521
+	1080.1.15={
+		birth="1080.1.15"
+	}
+    1105.1.1={
+        add_spouse=167013 #Ragnhild Magnusdatter
+    }
+	1135.1.13={
+		death="1135.1.13"
+	}
+}
+
+201517 = {
+	name="埃里克" #Erik # Emune
+	dynasty=487
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	trait="tough_soldier"
+	father=101521
+	1090.1.11={
+		birth="1090.1.11"
+	}
+    1130.1.1={
+        add_spouse=222594
+    }
+	1137.7.18={
+		death="1137.7.18"
+	}
+}
+
+201518 = {
+	name="斯温" #Svend# Grathe
+	dynasty=487
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	trait="tough_soldier"
+	father=201517 # Erik Emune
+	mother=222594
+	1131.1.14={
+		birth="1131.1.14"
+	}
+	1149.1.1={
+		add_spouse = 212056
+	}
+	1157.10.23={
+		death="1157.10.23"
+	}
+}
+
+201519 = {
+	name="露特嘉德" #Luitgard
+	female = yes
+	dynasty=487
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="lustful"
+	trait="temperate"
+	trait="charismatic_negotiator"
+	father=201518
+	mother=212056
+	1157.1.15={
+		birth="1157.1.15"
+	}
+	1207.1.15={
+		death="1207.1.15"
+	}
+}
+
+201520 = {
+	name="押沙隆" #Absalon
+	dynasty=482
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="just"
+	trait="genius"
+	trait="brave"
+	trait="zealous"
+	trait="celibate"
+	trait="mastermind_theologian"
+	father=201523
+	mother=201524
+	1128.1.2={
+		birth="1128.1.2"
+	}
+	1160.1.1={
+		trait = "crusader"
+	}
+	1201.3.21={
+		death="1201.3.21"
+	}
+}
+
+201521 = {
+	name="埃斯伯恩" #Esbern
+	dynasty=482
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="zealous"
+	trait="hunchback"
+	trait="brave"
+	trait="tough_soldier"
+	father=201523
+	mother=201524
+	1127.1.2={
+		birth="1127.1.2"
+	}
+	1178.1.1={
+		add_spouse = 202045
+	}
+	1204.1.2={
+		death="1204.1.2"
+	}
+}
+
+201522 = {
+	name="英格弗雷德" #Ingefred
+	female = yes
+	dynasty=482
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="wroth"
+	trait="gluttonous"
+	trait="amateurish_plotter"
+	father=201523
+	mother=201524
+	1132.1.2={
+		birth="1132.1.2"
+	}
+	1182.1.2={
+		death="1182.1.2"
+	}
+}
+
+201523 = {
+	name="阿塞" #Asser
+	dynasty=482
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="chaste"
+	trait="charitable"
+	trait="honest"
+	trait="ill"
+	trait="flamboyant_schemer"
+	father=201530
+	1107.1.2={
+		birth="1107.1.2"
+	}
+	1127.1.2={
+		add_spouse=201524
+	}
+	1167.1.26={
+		death="1167.1.26"
+	}
+}
+
+201524 = {
+	name="英格" #Inge
+	female = yes
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="honest"
+	trait="temperate"
+	trait="flamboyant_schemer"
+	1109.1.2={
+		birth="1109.1.2"
+	}
+	1170.1.2={
+		death="1170.1.2"
+	}
+}
+
+201525 = {
+	name="英博格" #Ingeborg #Esbernsdatter
+	female = yes
+	dynasty=482
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="thrifty_clerk"
+	father=201521 # Esbern Snare
+	mother=202045 # Helena Guttormsdatter
+	1183.1.1={
+		birth="1183.1.1"
+	}
+	1267.1.1={
+		death="1267.1.1"
+	}
+}
+
+201530 = {
+	name="肖莱姆" #Skjalm
+	dynasty=482 #Hvide
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="underhanded_rogue"
+	father=101538
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1066.1.1={
+		add_spouse=101537 #Signe Asbj鴕nsdatter
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+201532 = {
+	name="埃伯" #Ebbe
+	dynasty=482 #Hvide
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="proud"
+	trait="flamboyant_schemer"
+	father=201530 #Skjalm
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1150.1.26={
+		death="1150.1.26"
+	}
+}
+
+201534 = {
+	name="苏恩" #Sune #Ebbesen
+	dynasty=482
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="lustful"
+	trait="thrifty_clerk"
+	father=201532 #Ebbe Skjalmsen
+	1130.1.2={
+		birth="1130.1.2"
+	}
+	1150.1.2={
+		add_spouse = 201535
+	}
+	1186.1.26={
+		death="1186.1.26"
+	}
+}
+
+201535 = {
+	name="赛希莉" #C鎐ilie
+	# AKA: Caecilie
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="lustful"
+	trait="humble"
+	trait="gluttonous"
+	trait="kind"
+	trait="flamboyant_schemer"
+	1132.1.2={
+		birth="1132.1.2"
+	}
+	1182.1.2={
+		death="1182.1.2"
+	}
+}
+
+201536 = {
+	name="玛格丽特" #Margrete 
+	female = yes
+	dynasty=482
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="kind"
+	trait="patient"
+	trait="scholarly_theologian"
+	father=201534 #Sune Ebbesen
+	mother=201535
+	1157.1.2={
+		birth="1157.1.2"
+	}
+	1176.10.25={
+		death="1176.10.25"
+	}
+}
+
+201537 = {
+	name="埃伯" #Ebbe #Sunes鴑
+	dynasty=482
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="proud"
+	trait="diligent"
+	trait="charitable"
+	trait="wroth"
+	trait="brave"
+	trait="tough_soldier"
+	father=201534 #Sune Ebbesen
+	mother=201535
+	1153.1.2={
+		birth="1153.1.2"
+	}
+	1170.1.2={
+		add_spouse=201544
+	}
+	1203.1.2={
+		death="1203.1.2"
+	}
+}
+
+201538 = {
+	name="佩得" #Peder
+	dynasty=482 #Hvide
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="honest"
+	trait="zealous"
+	trait="scholarly_theologian"
+	father=201534 #Sune Ebbesen
+	mother=201535 #C鎐ilie
+	1161.1.2={
+		birth="1161.1.2"
+	}
+	1214.10.29={
+		death="1214.10.29"
+	}
+}
+
+201539 = {
+	name="托尔伯尔恩" #Thorbern
+	dynasty=482
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="wroth"
+	trait="zealous"
+	trait="tough_soldier"
+	father=201534 #Sune Ebbesen
+	mother=201535
+	1162.1.2={
+		birth="1162.1.2"
+	}
+	1212.1.2={
+		death="1212.1.2"
+	}
+}
+
+201540 = {
+	name="劳伦斯" #Laurens
+	dynasty=482
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="proud"
+	trait="tough_soldier"
+	father=201534 #Sune Ebbesen
+	mother=201535
+	1164.1.2={
+		birth="1164.1.2"
+	}
+	1214.1.2={
+		death="1214.1.2"
+	}
+}
+
+201541 = {
+	name="安德尔" #Anders #Sunesen
+	dynasty=482
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="diligent"
+	trait="zealous"
+	trait="mastermind_theologian"
+	father=201534 #Sune Ebbesen
+	mother=201535
+	1167.1.1={
+		birth="1167.1.1"
+	}
+	1223.1.1={
+		trait="ill"
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+
+201542 = {
+	name="雅各布" #Jacob #Sunesen
+	dynasty=482
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="gluttonous"
+	trait="lustful"
+	trait="charismatic_negotiator"
+	father=201534 #Sune Ebbesen
+	mother=201535
+	1170.1.2={
+		birth="1170.1.2"
+	}
+	1220.1.2={
+		death="1220.1.2"
+	}
+}
+
+201543 = {
+	name="约翰尼斯" #Johannes #Sunesen
+	dynasty=482
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=3
+	religion="catholic"
+	culture="danish"
+	trait="gluttonous"
+	trait="just"
+	trait="zealous"
+	trait="naive_appeaser"
+	father=201534 #Sune Ebbesen
+	mother=201535
+	1171.1.2={
+		birth="1171.1.2"
+	}
+	1221.1.2={
+		death="1221.1.2"
+	}
+}
+
+201544 = {
+	name="玛格丽特" #Margrete
+	female = yes
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="chaste"
+	trait="zealous"
+	trait="naive_appeaser"
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1200.1.2={
+		death="1200.1.2"
+	}
+}
+
+201545 = {
+	name="佩得" #Peder #Ebbesen
+	dynasty=482
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="gluttonous"
+	trait="tough_soldier"
+	father=201537 #Ebbe Sunesen
+	mother=201544
+	1169.1.2={
+		birth="1169.1.2"
+	}
+	1219.1.2={
+		death="1219.1.2"
+	}
+}
+
+201546 = {
+	name="约翰尼斯" #Johannes #Ebbesen
+	dynasty=482
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="gluttonous"
+	trait="thrifty_clerk"
+	father=201537 #Ebbe Sunesen
+	mother=201544
+	1174.1.2={
+		birth="1174.1.2"
+	}
+	1224.1.2={
+		death="1224.1.2"
+	}
+}
+
+201547 = {
+	name="赛希莉" #C鎐ilie 
+	# AKA: Caecilie
+	female = yes
+	dynasty=482 #Hvide
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="zealous"
+	trait="thrifty_clerk"
+	father=201537 #Ebbe Sunesen
+	mother=201544
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1230.1.2={
+		death="1230.1.2"
+	}
+}
+
+201548 = {
+	name="瓦尔德马尔" #Valdemar
+	dynasty=487
+	
+	religion="catholic"
+	culture="danish"
+	
+	trait="martial_cleric"
+	
+	father = 201508
+	
+	1157.1.1={
+		birth="1157.1.1"
+	}
+	
+	#Excommunicated by Pope Innocent III
+	1208.1.1={
+	trait="excommunicated"
+	}
+	
+	1220.1.1={
+	remove_trait="excommunicated"
+	}
+	1236.4.28={
+		death="1236.4.28"
+	}
+}
+
+30313 = {
+	name="延斯" #Jens
+	dynasty=7112 #Grand
+	religion="catholic"
+	culture="danish"
+	trait="greedy"
+	trait="proud"
+	trait="scholarly_theologian"
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1327.5.30={
+		death="1327.5.30"
+	}
+}
+
+30488 = {
+	name="玛格丽塔" #Margareta
+	female = yes
+	dynasty=496 #af Sverker
+	religion="catholic"
+	culture="swedish"
+	father=200604 #Sverker the Younger
+	mother=200605 #Benedicta Hvide
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1232.3.5={
+		death="1232.3.5"
+	}
+}
+
+30549 = {
+	name="克里斯蒂娜" #Kristina  
+	female=yes
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=201513 # Knud Lavard
+	mother=222593
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+30553 = {
+	name="克努特" #Knud #Rostock
+	dynasty=101893 #Niklotid
+	religion="catholic"
+	culture="danish"
+	father=30551
+	mother=30549
+	1143.1.1={
+		birth="1143.1.1"
+	}
+	1183.11.6={
+		death="1183.11.6"
+	}
+}
+
+30554 = {
+	name="瓦尔德马尔" #Valdemar 
+	dynasty=101893 #Niklotid
+	religion="catholic"
+	culture="danish"
+	father=30551
+	mother=30549
+	1146.1.1={
+		birth="1146.1.1"
+	}
+	1182.1.1={
+		death="1182.1.1"
+	}
+}
+
+31158 = {
+	name="卡尔" #Karl #duke of Flanders 1119-1127
+	# AKA: Karl Knudsson
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=101519 	# Knud the Holy of Denmark
+	mother=369	# Adele of Flandres
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1127.3.2={
+		death="1127.3.2"
+	}
+}
+
+450770 = {
+	name="西格瓦尔德" #Sigvard
+	dynasty=130
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="scholarly_theologian"
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+451500 = {
+	name="瓦尔德马尔" #Valdemar # 'Atterdag'
+	dynasty=487
+	martial=8
+	diplomacy=9
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="diligent"
+	trait="martial_cleric"
+	father=451520 # Christoffer II
+	mother=451521
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1375.10.24={
+		death="1375.10.24"
+	}
+}
+
+451501 = {
+	name="黑尔维希" #Helvig
+	# AKA: Helvig Eriksdotter
+	female = yes
+	dynasty=120
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="cynical"
+	trait="clubfooted"
+	trait="harelip"
+	trait="scholarly_theologian"
+	father=451502
+	mother=451503
+	1315.1.2={
+		birth="1315.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+451502 = {
+	name="埃里克" #Erik
+	# AKA: Erik Valdemarsen
+	dynasty=120
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="scholarly_theologian"
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1310.1.2={
+		add_spouse=451503
+	}
+	1325.1.13={
+		death="1325.1.13"
+	}
+}
+
+451503 = {
+	name="阿德尔海德" #Adelheid
+	female = yes
+	dynasty=154
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="greedy"
+	trait="brave"
+	trait="inbred"
+	trait="charismatic_negotiator"
+	1295.1.2={
+		birth="1295.1.2"
+	}
+	1336.1.2={
+		death="1336.1.2"
+	}
+}
+
+451504 = {
+	name="瓦尔德马尔" #Valdemar
+	# AKA: Valdemar Eriksson
+	dynasty=120
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="slothful"
+	trait="humble"
+	trait="tough_soldier"
+	father=451502
+	mother=451503
+	1323.1.2={
+		birth="1323.1.2"
+	}
+	1373.1.2={
+		death="1373.1.2"
+	}
+}
+
+451510 = {
+	name="埃里克" #Erik # Plogpenning
+	dynasty=487
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="danish"
+	trait="brave"
+	trait="flamboyant_schemer"
+	father=201501 # Valdemar Sejr
+	mother=91102
+	1216.1.1={
+		birth="1216.1.1"
+	}
+	1239.1.1 = {
+		add_spouse=161739
+	}
+	1250.8.9={
+		death="1250.8.9"
+	}
+}
+
+451511 = {
+	name="苏菲" #Sofie
+	female = yes
+	dynasty=487
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="amateurish_plotter"
+	father=451510
+	mother=161739
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1286.1.1={
+		death="1286.1.1"
+	}
+}
+
+451513 = {
+	name="克里斯托弗"  #Christoffer # I
+	dynasty=487
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="envious"
+	trait="amateurish_plotter"
+	father=201501
+	mother=91102
+	1219.1.1={
+		birth="1219.1.1"
+	}
+	1248.1.1={
+		add_spouse=451519 #Margareta Subislawic
+	}
+	1259.5.29={
+		death="1259.5.29"
+	}
+}
+
+451514 = {
+	name="埃里克" #Erik # 'Klipping'
+	dynasty=487
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="tough_soldier"
+	father=451513 # Christoffer I
+	mother=451519
+	1249.1.1={
+		birth="1249.1.1"
+	}
+	1273.11.11 = {
+		add_spouse = 451517 #Agnes of Brandenburg
+	}
+	1286.11.22={
+		death="1286.11.22"
+	}
+}
+
+451515 = {
+	name="埃里克" #Erik  # 'Menved'
+	dynasty=487
+	martial=8
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	father=451514
+	mother=451517
+	1274.1.2={
+		birth="1274.1.2"
+	}
+	1294.1.1={
+		trait="excommunicated"
+	}
+	1296.6.1={
+		add_spouse=450505
+	}
+	1302.1.1={
+		remove_trait="excommunicated"
+		trait="humble"
+	}
+	1319.11.13={
+		death="1319.11.13"
+	}
+}
+
+451516 = {
+	name="玛尔塔"  #M鋜ta
+	# AKA: Marta
+	female = yes
+	dynasty=487
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="ambitious"
+	trait="gluttonous"
+	trait="thrifty_clerk"
+	father=451514
+	mother=451517
+	1278.1.30={
+		birth="1278.1.30"
+	}
+	1330.1.1={
+		employer=451500
+		trait="celibate"
+		remove_trait="ambitious"
+	}
+	1341.3.2={
+		death="1341.3.2"
+	}
+}
+
+451518 = {
+	name="莉吉特撒"  #Rigitza
+	female = yes
+	dynasty=487
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="hunchback"
+	trait="amateurish_plotter"
+	father=451514
+	mother=451517
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+451520 = {
+	name="克里斯托弗"  #Christoffer # II
+	dynasty=487
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="zealous"
+	trait="clubfooted"
+	trait="skilled_tactician"
+	father=451514
+	mother=451517
+	1276.9.29={
+		birth="1276.9.29"
+	}
+	1301.1.2={
+		add_spouse = 451521
+	}
+	1332.8.2={
+		death="1332.8.2"
+	}
+}
+
+451522 = {
+	name="玛格丽特" #Margrete
+	female = yes
+	dynasty=487
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="lustful"
+	trait="brave"
+	trait="scholarly_theologian"
+	father=451520
+	mother=451521
+	1308.1.2={
+		birth="1308.1.2"
+	}
+	1358.1.2={
+		death="1358.1.2"
+	}
+}
+
+451523 = {
+	name="奥托"  #Otto
+	dynasty=487
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="diligent"
+	trait="cynical"
+	trait="tough_soldier"
+	father=451520
+	mother=451521
+	1312.1.2={
+		birth="1312.1.2"
+	}
+	1362.1.2={
+		death="1362.1.2"
+	}
+}
+
+451524 = {
+	name="艾贝尔"  #Abel
+	dynasty=487
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="amateurish_plotter"
+	father=201501
+	mother=91102
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1237.1.1={	
+		add_spouse=31765
+	}
+	1252.6.29={
+		death="1252.6.29"
+	}
+}
+
+451526 = {
+	name="苏菲" #Sofie
+	female = yes
+	dynasty=487
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="amateurish_plotter"
+	father=451524
+	1240.1.2={
+		birth="1240.1.2"
+	}
+	1283.1.2={
+		death="1283.1.2"
+	}
+}
+
+451527 = {
+	name="埃里克" #Erik #duke of Slesvig
+	dynasty=487
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	father=451524
+	mother=31765
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1263.1.1={
+		add_spouse=30495
+	}	
+	1272.1.1={
+		death="1272.1.1"
+	}
+}
+
+451528 = {
+	name="瓦尔德马尔" #Valdemar #duke of Slesvig
+	dynasty=487
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	add_claim = k_denmark
+	father=451527
+	mother=30495
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	1287.1.1={
+		add_spouse=170012 #Elisabeth of Saxony
+	}
+	1306.1.1={
+		add_spouse=451974
+	}	
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+
+451529 = {
+	name="埃里克" #Erik
+	dynasty=487
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	add_claim = k_denmark	
+	father=451528
+	mother=170012 #Elisabeth of Saxony
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1311.1.1={
+		add_spouse = 451946
+	}
+	1325.3.25={
+		death="1325.3.25"
+	}
+}
+
+451530 = {
+	name="瓦尔德马尔" #Valdemar
+	dynasty=487
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="brave"
+	trait="wroth"
+	trait="proud"
+	trait="misguided_warrior"
+	add_claim = k_denmark
+	father=451529
+	mother=451946
+	1314.1.1={
+		birth="1314.1.1"
+	}
+	1332.1.1={
+		add_spouse = 33290
+	}
+	1364.1.1={
+		death="1364.1.1"
+	}
+}
+
+451531 = {
+	name="黑尔维希" #Helvig
+	female = yes
+	dynasty=487
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="arbitrary"
+	trait="lustful"
+	trait="thrifty_clerk"
+	father=451529
+	mother=451946
+	1323.1.2={
+		birth="1323.1.2"
+	}
+	1374.1.2={
+		death="1374.1.2"
+	}
+}
+
+451600 = {
+	name="佩得" #Peder #Jensen
+	dynasty=760 #Galen
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="martial_cleric"
+	father=151011 # Jens Nielsen
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1355.4.16={
+		death="1355.4.16"
+	}
+}
+
+451800 = {
+	name="克努特" #Knud
+	# AKA: Knud Knudsson
+	dynasty=118
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="danish"
+	trait="thrifty_clerk"
+	father=451801
+	mother=452505
+	1328.1.2={
+		birth="1328.1.2"
+	}
+	1378.1.2={
+		death="1378.1.2"
+	}
+}
+
+451801 = {
+	name="克努特" #Knud
+	dynasty=118 # Porse
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="slothful"
+	trait="greedy"
+	trait="honest"
+	trait="patient"
+	trait="tough_soldier"
+	father=451804
+	1295.1.2={
+		birth="1295.1.2"
+	employer=451514 # Erik Menved, King of Denmark
+	}
+	1319.7.9={
+	employer=450500 # Magnus Eriksson, King of Sweden
+	}
+	1327.1.22={
+		add_spouse=452505 # Ingeborg Hakonsdottir
+	}
+	1330.5.30={
+		death="1330.5.30"
+	}
+}
+
+451802 = {
+	name="比吉特"  #Birgitte
+	# AKA: Birgitte Knudsdotter
+	female = yes
+	dynasty=118
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="envious"
+	trait="humble"
+	trait="martial_cleric"
+	father=451801
+	mother=452505
+	1329.1.2={
+		birth="1329.1.2"
+	}
+	1379.1.2={
+		death="1379.1.2"
+	}
+}
+
+451803 = {
+	name="霍坎"  #H錵an
+	# AKA: Hakan Knudsson
+	dynasty=118
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="temperate"
+	trait="inbred"
+	trait="tough_soldier"
+	father=451801
+	mother=452505
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1380.1.2={
+		death="1380.1.2"
+	}
+}
+
+451804 = {
+	name="尼尔斯" #Niels
+	# AKA: Niels Knudsson
+	dynasty=118
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	1279.1.2={
+		birth="1279.1.2"
+	}
+	1305.1.2={
+		death="1305.1.2"
+	}
+}
+
+6904 = {
+	name="英博格" #Ingeborg
+	female = yes
+	dynasty=487
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="amateurish_plotter"
+	father=451510
+	mother=161739
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1287.3.24={
+		death="1287.3.24"
+	}
+}
+
+7687 = {
+	name="索菲" #Sophie 
+	female = yes
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=201501 # Valdemar Sejr
+	mother=91102
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1247.1.2={
+		death="1247.1.2"
+	}
+}
+
+90144 = {
+	name="西蒙"  #Simon
+	dynasty=100547
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="orthodox"
+	culture="danish"
+	trait="thrifty_clerk"
+	trait="charitable"
+	trait="zealous"
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1085.1.2={
+		death="1085.1.2"
+	}
+}
+
+31779 = {
+	name="玛格丽特" #Margrete 
+	female=yes
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=451513 # Christoffer I
+	mother=451519
+	1259.1.1={
+		birth="1259.1.1"
+	}
+	1306.2.2={
+		death="1306.2.2"
+	}
+}
+31783 = {
+	name="埃里克" #Erik
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=451520
+	mother=451521
+	1307.1.2={
+		birth="1307.1.2"
+	}
+	1330.1.1={
+		add_spouse=31781
+	}
+	1332.1.2={
+		death="1332.1.2"
+	}
+}
+
+33272 = {
+	name="瓦尔德马尔" #Valdemar #duke of Slesvig
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=451524
+	mother=31765
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1257.1.1={
+		death="1257.1.1"
+	}
+}
+
+33273 = {
+	name="亚伯"  #Abel 
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=451524
+	mother=31765
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1279.4.2={
+		death="1279.4.2"
+	}
+}
+
+33274 = {
+	name="埃里克" #Erik 
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=451527
+	mother=30495
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+
+33275 = {
+	name="玛格丽特" #Margrete 
+	female=yes
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=451527
+	mother=30495
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1313.8.14={
+		death="1313.8.14"
+	}
+}
+
+33291 = {
+	name="亨利克" #Henrik
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=451530
+	mother=33290
+	1333.1.1={
+		birth="1333.1.1"
+	}
+	1375.7.7={
+		death="1375.7.7"
+	}
+}
+33292 = {
+	name="瓦尔德马尔" #Valdemar
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=451530
+	mother=33290
+	1335.1.1={
+		birth="1335.1.1"
+	}
+	1365.1.1={
+		death="1365.1.1"
+	}
+}
+
+101553 = {
+	name="斯温" #Svend #Korsfarer
+	dynasty=487
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	trait="zealous"
+	trait="brave"
+	trait="tough_soldier"
+	father=101515 #Svend Estridsson
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1095.1.1={
+		add_spouse=91008 #Florine de Bourgogne
+	}
+	1096.1.1={
+		trait="crusader"
+		give_nickname=nick_the_crusader
+	}
+	1097.1.1={
+		death="1097.1.1"
+	}
+}
+
+34158 = {
+	name="阿塞" #Asser
+	dynasty=1025000
+	religion="catholic"
+	culture="danish"
+	trait="detached_priest"
+	trait="temperate"
+	trait="trusting"
+	father=151000 # Svend Thrugots鴑
+	1066.1.1 = {
+		birth="1066.1.1" 
+	}
+	1137.5.5 = {
+		death="1137.5.5"
+	}
+}
+
+34159 = {
+	name="埃斯基耳"  #Eskil
+	dynasty=1025000
+	religion="catholic"
+	culture="danish"
+	trait="scholarly_theologian"
+	trait="quick"
+	trait="celibate"
+	trait="content"
+	father=151002 # Christiern
+	1100.1.1 = {
+		birth="1100.1.1" 
+	}
+	1181.1.1 = {
+		death="1181.1.1"
+	}
+}
+
+34161 = {
+	name="佩得" #Peder #Saxesen
+	religion="catholic"
+	culture="danish"
+	trait="scholarly_theologian"
+	trait="just"
+	1178.1.1 = {
+		birth="1178.1.1" 
+	}
+	1228.7.10 = {
+		death="1228.7.10"
+	}
+}
+
+34162 = {
+	name="乌费" #Uffe #Thrugotsen
+	dynasty=1025000
+	religion="catholic"
+	culture="danish"
+	trait="martial_cleric"
+	trait="celibate"
+	trait="ambitious"
+	trait="charitable"
+	1202.1.1 = {
+		birth="1202.1.1" 
+	}
+	1252.12.15 = {
+		death="1252.12.15"
+	}
+}
+
+34163 = {
+	name="雅各布" #Jacob #Erlandsen
+	dynasty=760
+	religion="catholic"
+	culture="danish"
+	trait="martial_cleric"
+	trait="just"
+	trait="ambitious"
+	trait="trusting"
+	father=151005 # Erland Galen
+	mother=151004 # C鎐ilie Herlufsdatter
+	1212.10.1 = {
+		birth="1212.10.1" 
+	}
+	1274.2.18 = {
+		death="1274.2.18"
+	}
+}
+
+34164 = {
+	name="丝露格特" #Thrugot
+	dynasty=1025001
+	religion="catholic"
+	culture="danish"
+	trait="martial_cleric"
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1280.5.2={
+		death="1280.5.2"
+	}
+}
+
+34165 = {
+	name="约翰尼斯" #Johannes #Dros
+	#AKA Jens Dros
+	religion="catholic"
+	culture="danish"
+	trait="detached_priest"
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1289.1.29={
+		death="1289.1.29"
+	}
+}
+
+34166 = {
+	name="艾斯格" #Esger
+	dynasty=1025002 #Juul
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="deceitful"
+	trait="martial_cleric"
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1332.8.2={
+		death="1332.8.2"
+	}
+}
+
+34167 = {
+	name="卡尔" #Karl
+	dynasty=760 #Galen
+	religion="catholic"
+	culture="danish"
+	trait="martial_cleric"
+	father=151008 # Erik Jensen
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1334.5.16={
+		death="1334.5.16"
+	}
+}
+
+34168 = {
+	name="哈拉尔德" #Harald
+	dynasty=7298
+	religion="catholic"
+	culture="danish"
+	1170.6.5={
+		birth="1170.6.5"
+	}
+	1225.5.11={
+		death="1225.5.11"
+	}
+}
+
+34169 = {
+	name="哈拉尔德" #Harald
+	dynasty=7298
+	religion="catholic"
+	culture="danish"
+	father=34168
+	1192.9.7={
+		birth="1192.9.7"
+	}
+	1251.10.6={
+		death="1251.10.6"
+	}
+}
+
+34170 = {
+	name="哈拉尔德" #Harald
+	dynasty=7298
+	religion="catholic"
+	culture="danish"
+	father=34169
+	1210.9.11={
+		birth="1210.9.11"
+	}
+	1280.10.5={
+		death="1280.10.5"
+	}
+}
+
+34171 = {
+	name="弗雷德里克" #Fredrik
+	dynasty=7298
+	religion="catholic"
+	culture="danish"
+	father=34170
+	1232.2.4={
+		birth="1232.2.4"
+	}
+	1291.3.8={
+		death="1291.3.8"
+	}
+}
+
+34172 = {
+	name="埃里克" #Erik
+	dynasty=7298
+	religion="catholic"
+	culture="danish"
+	father=34171
+	1251.9.5={
+		birth="1251.9.5"
+	}
+	1319.7.7={
+		death="1319.7.7"
+	}
+}
+
+34173 = {
+	name="马格努斯" #Magnus
+	dynasty=7298
+	religion="catholic"
+	culture="danish"
+	father=34171
+	1252.4.22={
+		birth="1252.4.22"
+	}
+	1313.5.6={
+		death="1313.5.6"
+	}
+}
+
+34174 = {
+	name="伊丽莎白" #Elisabeth
+	female=yes
+	dynasty=7298
+	religion="catholic"
+	culture="danish"
+	father=34171
+	1271.1.17={
+		birth="1271.1.17"
+	}
+	1360.4.19={
+		death="1360.4.19"
+	}
+}
+
+34175 = {
+	name="玛利亚" #Maria
+	female=yes
+	dynasty=7298
+	religion="catholic"
+	culture="danish"
+	father=34171
+	1279.3.10={
+		birth="1279.3.10"
+	}
+	1322.4.11={
+		death="1322.4.11"
+	}
+}
+
+34176 = {
+	name="霍考恩" #H錵on
+	dynasty=7298
+	religion="catholic"
+	culture="danish"
+	father=34172
+	1278.1.5={
+		birth="1278.1.5"
+	}
+	1329.7.6={
+		death="1329.7.6"
+	}
+}
+
+34177 = {
+	name="埃里克" #Erik
+	dynasty=7298
+	religion="catholic"
+	culture="danish"
+	father=34176
+	1302.10.2={
+		birth="1302.10.2"
+	}
+	1374.5.7={
+		death="1374.5.7"
+	}
+}
+
+151000 = {
+	name="斯温" #Svend#Thrugots鴑
+	dynasty=1025000
+	religion="catholic"
+	culture="danish"
+	trait="fortune_builder"
+	father=101542 # Thrugot Fagerskind Ulfss鴑
+	mother=101545 # Thorgunna Vagnsdatter
+	1050.1.1 = {
+		birth="1050.1.1" 
+	}
+	1086.1.1 = {
+		death="1086.1.1"
+	}
+}
+
+151001 = {
+	name="斯温" #Svend
+	dynasty=1025000
+	religion="catholic"
+	culture="danish"
+	trait="martial_cleric"
+	trait="zealous"
+	father=151000 # Svend Thrugots鴑
+	1076.1.1 = {
+		birth="1076.1.1" 
+	}
+	1153.3.30 = {
+		death="1153.3.30"
+	}
+}
+
+151002 = {
+	name="克里斯腾" #Christiern
+	dynasty=1025000
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	trait="wroth"
+	father=151000 # Svend Thrugots鴑
+	1070.1.1 = {
+		birth="1070.1.1" 
+	}
+	1140.5.20 = {
+		death="1140.5.20"
+	}
+}
+
+151004 = {
+	name="赛希莉" #C鎐ilie #Herlufsdatter
+	female=yes
+	dynasty=482 #Hvide
+	religion="catholic"
+	culture="danish"
+	father=151003 # Herlug
+	mother=201536 # Margrethe
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1236.1.1={
+		death="1236.1.1"
+	}
+}	
+
+151005 = {
+	name="艾兰" #Erland  
+	dynasty=760 #Galen
+	religion="catholic"
+	culture="danish"
+	1172.1.1 = {
+		birth="1172.1.1" 
+	}
+	1196.1.1 = {
+		add_spouse=151004 #C鎐ilie Herlufsdatter
+	}
+	1236.9.22 = {
+		death="1236.9.22"
+	}
+}
+
+151006 = {
+	name="延斯" #Jens #Erlandsen
+	dynasty=760 #Galen
+	religion="catholic"
+	culture="danish"
+	trait="thrifty_clerk"
+	father=151005 # Erland Galen
+	mother=151004 # C鎐ilie Herlufsdatter
+	1212.1.1 = {
+		birth="1212.1.1" 
+	}
+	1272.12.25 = {
+		death="1272.12.25"
+	}
+}
+
+151007 = {
+	name = "英格尔" #Inger
+	female = yes
+	religion = "catholic"
+	culture = "danish"
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1295.1.1 = {
+		death="1295.1.1"
+	}
+}
+
+151008 = {
+	name="埃里克" #Erik #Jensen
+	dynasty=760 #Galen
+	religion = "catholic"
+	culture = "danish"
+	father=151006 # Jens Erlandsen
+	mother=151007 # Inger
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1334.1.1 = {
+		death="1334.1.1"
+	}
+}
+
+151009 = {
+	name="尼尔斯" #Niels #Erlandsen
+	dynasty=760 #Galen
+	religion="catholic"
+	culture="danish"
+	trait="fortune_builder"
+	trait="just"
+	trait="honest"
+	father=151005 # Erland Galen
+	mother=151004 # C鎐ilie Herlufsdatter
+	1220.1.1 = {
+		birth="1220.1.1" 
+	}
+	1240.1.1 = {
+		add_spouse=151010 #Elisabeth Pedersdatter
+	}
+	1285.1.1 = {
+		death="1285.1.1"
+	}
+}
+
+151010 = {
+	name="伊丽莎白" #Elisabeth #Pedersdatter
+	female=yes
+	dynasty=1025003 #Ulfeldt
+	religion="catholic"
+	culture="danish"
+	father=170022 # Peder Strangesen
+	mother=201525 # Ingeborg Esbernsdatter
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1280.1.1 = {
+		death="1280.1.1"
+	}
+}
+
+151011 = {
+	name="延斯" #Jens #Nielsen
+	dynasty=760 #Galen
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	father=151009 # Niels Erlandsen
+	mother=151010 # Elisabeth Pedersdatter
+	1260.1.1 = {
+		birth="1260.1.1" 
+	}
+	1320.1.1 = {
+		death="1320.1.1"
+	}
+}
+
+151003 = {
+	name="赫卢格" #Herlug
+	religion="catholic"
+	culture="danish"
+	trait="misguided_warrior"
+	1153.1.1 = {
+		birth="1153.1.1" 
+	}
+	1173.1.1 = {
+		add_spouse=201536 #Margarethe - this should be a matrilineal marrige
+	}
+	1176.10.25={
+		trait="kinslayer"
+	}
+	1203.1.1 = {
+		death="1203.1.1"
+	}
+}
+
+151015 = {
+	name="佩得" #Peder
+	religion="catholic"
+	culture="danish"
+	trait="scholarly_theologian"
+	1084.1.1 = {
+		birth="1084.1.1" 
+	}
+	1134.6.4 = {
+		death="1134.6.4"
+	}
+}
+
+151016 = {
+	name="里克" #Rike
+	religion="catholic"
+	culture="danish"
+	trait="wroth"
+	trait="martial_cleric"
+	1102.1.1 = {
+		birth="1102.1.1"
+	}
+	1142.10.18 = {
+		death="1142.10.18"
+	}
+}
+
+151017 = {
+	name="阿塞" #Asser
+	religion="catholic"
+	culture="danish"
+	trait="zealous"
+	trait="craven"
+	trait="martial_cleric"
+	1108.1.1 = {
+		birth="1108.1.1"
+	}
+	1147.1.1 = {
+		trait="crusader"
+	}
+	1158.4.18 = {
+		death="1158.4.18"
+	}
+}
+
+151018 = {
+	name="佩得" #Peder #Jacobsen
+	dynasty=482 #Hvide
+	religion="catholic"
+	culture="danish"
+	trait="zealous"
+	trait="scholarly_theologian"
+	father=201542 #Jacob Sunesen
+	1185.1.1 = {
+		birth="1185.1.1"
+	}
+	1225.5.19 = {
+		death="1225.5.19"
+	}
+}
+
+151019 = {
+	name="托克" #Toke #Ebbesen
+	dynasty=482 #Hvide
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	father=201532 #Ebbe Skjalmsen
+	1108.1.1 = {
+		birth="1108.1.1"
+	}
+	1158.1.1 = {
+		death="1158.1.1"
+	}
+}
+
+151020 = {
+	name="斯蒂格" #Stig#Tokesen
+	dynasty=482 #Hvide
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	father=151019 #Toke Ebbesen
+	1128.1.1 = {
+		birth="1128.1.1"
+	}
+	1144.1.1 = {
+		add_spouse=151021 #Margrethe Knudsdatter
+	}
+	1151.1.1 = {
+		death="1151.1.1"
+	}
+}
+
+151021 = {
+	name="玛格丽特" #Margrete #Knudsdatter
+	female=yes
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=201513 #Knud Lavard
+	1129.1.1 = {
+		birth="1129.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+151022 = {
+	name="尼尔斯" #Niels #Stigsen
+	dynasty=482 #Hvide
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="ambitious"
+	trait="martial_cleric"
+	father=151020 #Stig Tokesen
+	mother=151021 #Margrethe Knudsdatter
+	1151.1.1 = {
+		birth="1151.1.1"
+	}
+	1249.9.24 = {
+		death="1249.9.24"
+	}
+}
+
+151023 = {
+	name="托克" #Toke #Skjalmsen
+	dynasty=482 #Hvide
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="fortune_builder"
+	father=201530 #Skjalm Hvide
+	mother=101537 #Signe Asbj鴕nsdatter
+	1086.1.1 = {
+		birth="1086.1.1"
+	}
+	1161.1.1 = {
+		death="1161.1.1"
+	}
+}
+	
+151024 = {
+	name="肖莱姆" #Skjalm #Bang
+	dynasty=1025004 #Bang
+	religion="catholic"
+	culture="danish"
+	trait="tough_soldier"
+	father=151023 #Toke Skjalmsen
+	1146.1.1 = {
+		birth="1146.1.1"
+	}
+	1216.1.1 = {
+		death="1216.1.1"
+	}
+}	
+
+151025 = {
+	name="佩得" #Peder #Bang
+	dynasty=1025004 #Bang
+	religion="catholic"
+	culture="danish"
+	trait="wroth"
+	trait="martial_cleric"
+	father=151024 #Skjalm Bang
+	1207.1.1 = {
+		birth="1207.1.1"
+	}
+	1277.6.23 = {
+		death="1277.6.23"
+	}
+}
+
+151026 = {
+	name="斯蒂格" #Stig
+	religion="catholic"
+	culture="danish"
+	trait="detached_priest"
+	1247.1.1 = {
+		birth="1247.1.1"
+	}
+	1280.1.1 = {
+		death="1280.1.1"
+	}
+}
+
+151027 = {
+	name="英格瓦尔" #Ingvar 
+	religion="catholic"
+	culture="danish"
+	trait="detached_priest"
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+
+151028 = {
+	name="约翰尼斯" #Johannes #Krag
+	#AKA Jens/Johan Krag
+	religion="catholic"
+	culture="danish"
+	trait="charitable"
+	trait="martial_cleric"
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1300.1.1 = {
+		death="1300.1.1"
+	}
+}
+
+151029 = {
+	name="奥拉夫" #Olaf 
+	religion="catholic"
+	culture="danish"
+	trait="martial_cleric"
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1320.3.10 = {
+		death="1320.3.10"
+	}
+}
+
+151030 = {
+	name="延斯" #Jens #Hind	
+	#AKA Johan Hind
+	religion="catholic"
+	culture="danish"
+	trait="trusting"
+	trait="martial_cleric"
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1330.3.24 = {
+		death="1330.3.24"
+	}
+}
+
+151031 = {
+	name="延斯" #Jens
+	#AKA Jens Nyborg
+	religion="catholic"
+	culture="danish"
+	trait="kind"
+	trait="scholarly_theologian"
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1344.1.23 = {
+		death="1344.1.23"
+	}
+}
+
+200603 = {
+	name="克莉丝汀" #Christine #Stigsdatter
+	dynasty=482 #Hvide
+	female = yes
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="danish"
+	trait="charismatic_negotiator"
+	father=151020 #Stig Tokesen
+	mother=151021 #Margrethe Knudsdatter
+	1145.1.2={
+		birth="1145.1.2"
+	}
+	1195.1.2={
+		death="1195.1.2"
+	}
+}
+
+93533 = {
+	name="克努特" #Knud
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	father=201501
+	mother=202045
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1228.1.1={
+		add_spouse=93534
+	}
+	1260.10.5={
+		death="1260.10.5"
+	}
+}
+
+93535 = {
+	name="埃里克" #Erik
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=93533
+	mother=93534
+	1229.1.1={
+		birth="1229.1.1"
+	}
+	1304.1.1={
+		death="1304.1.1"
+	}
+}
+
+93537 = {
+	name="巴努姆" #Barnum
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=93535
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1329.1.1={
+		death="1329.1.1"
+	}
+}
+
+93538 = {
+	name="埃里克" #Erik
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=93537
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1369.1.1={
+		death="1369.1.1"
+	}
+}
+
+450654 = {
+	name="斯万特波尔克" #Svantepolk
+	# AKA: Svantepolk Knudsen
+	dynasty=487
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="danish"
+	trait="martial_cleric"
+	father=93533
+	mother=93534
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1255.1.1={
+		add_spouse=450655
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+161736 = {
+	name="瓦尔德马尔" #Valdemar
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=201501
+	mother=96037
+	1209.1.1={
+		birth="1209.1.1"
+	}
+	1225.1.1={
+		give_nickname=nick_the_young
+	}
+	1229.6.24 = {
+		add_spouse=142051 #Leonor de Bourgogne
+	}
+	1231.11.28={
+		death="1231.11.28"
+	}
+}
+
+161737 = {
+	name="尼尔斯" #Niels
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	trait="legit_bastard"
+	father=201501
+	1201.1.1={
+		birth="1201.1.1"
+	}
+	1217.1.1={
+		add_spouse=33268
+	}
+	1219.1.1={
+		death="1219.1.1"
+	}
+}
+
+161738 = {
+	name="尼尔斯" #Niels
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=161737
+	mother=33268
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1251.1.1={
+		death="1251.1.1"
+	}
+}
+
+161740 = {
+	name="尤塔" #Jutta
+	female = yes
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=451510
+	mother=161739
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+161741 = {
+	name="爱格妮思" #Agnes
+	female = yes
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=451510
+	mother=161739
+	1249.1.1={
+		birth="1249.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+167019 = {
+	name="哈肯" #Hakon #Sunnivasson Jyde
+	dynasty=100273 # Stibolt
+	religion="catholic"
+	culture="danish"
+	mother=102525 #Sunniva Ragnhildsdatter
+	1100.1.1={ #utter guesswork
+		birth="1100.1.1" }
+	1116.1.1 = {
+		add_spouse=201511 # Ragnhild Eriksdatter
+	}
+	1150.1.1={ #utter guesswork
+		death="1150.1.1"
+	}
+}
+
+170015 = {
+	name="拉根瓦尔德" #Ragnvald # son of the Danish Prince Henrik Skadel錼
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=101532
+	mother=100554 #Ingrid Ragnvaldsdotter
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1162.6.6={
+		death="1162.1.1"
+	}
+}
+
+170016 = {
+	name="克努特" #Knud # son of the Danish Prince Henrik Skadel錼
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=101532
+	mother=100554 #Ingrid Ragnvaldsdotter
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1163.1.1={
+		death="1163.1.1"
+	}
+}
+
+170017 = {
+	name="布里斯" #Buris # son of the Danish Prince Henrik Skadel錼
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=101532
+	mother=100554 #Ingrid Ragnvaldsdotter
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1168.1.1={
+		death="1168.1.1"
+	}
+}
+
+170018 = {
+	name="杨" #Jan # son of the Danish Prince Henrik Skadel錼
+	dynasty=487
+	religion="catholic"
+	culture="danish"
+	father=101532
+	mother=100554 #Ingrid Ragnvaldsdotter
+	1131.1.1={
+		birth="1131.1.1"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+170022 = {
+	name="佩得" #Peder #Peder Strangesen
+	dynasty=1025003 #Ulfeldt
+	religion="catholic"
+	culture="danish"
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1210.1.1={
+		add_spouse = 201525 # Ingeborg Esbernsdatter
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+
+170023 = {
+	name="海伦娜" # Helena Pedersdatter
+	female=yes
+	dynasty=1025003 #Ulfeldt
+	religion="catholic"
+	culture="danish"
+	father=170022 # Peder Strangesen
+	mother=201525 # Ingeborg Esbernsdatter
+	1220.1.1 = {
+		birth="1215.1.1"
+	}
+	1280.1.1 = {
+		death="1256.1.1"
+	}
+}
+
+168642 = {
+	name="哈拉尔德" #Harald
+	dynasty=9552
+	religion="catholic"
+	culture="danish"
+	father=168641
+	1000.1.1 = {
+		birth=yes
+	}	
+	1042.1.1 = {
+		death=yes
+	}
+}
+
+168643 = {
+	name="托尔吉尔斯" #Torgils
+	dynasty=9552
+	religion="catholic"
+	culture="danish"
+	father=168642
+	1032.1.1 = {
+		birth=yes
+	}	
+	1069.1.1 = {
+		death=yes
+	}
+}
+
+168644 = {
+	name"赫明" #Hemming
+	dynasty=9552
+	religion="catholic"
+	culture="danish"
+	father=168642
+	1034.1.1 = {
+		birth=yes
+	}
+	1062.1.1 = {
+		death=yes
+	}
+}

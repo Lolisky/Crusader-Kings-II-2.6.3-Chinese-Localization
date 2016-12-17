@@ -1,0 +1,3737 @@
+175120 = {
+	name="Santikaradeva" # I
+	dynasty=1043013
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191172
+	782.1.1={
+		birth=yes
+	}
+	801.1.1={
+		add_spouse = 191173
+	}
+	836.1.1={
+		death=yes
+	}
+}
+175130 = {
+	name="Vikramaditya" 
+	dynasty=1043014
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191297
+	844.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+189167 = {
+	name="Rajendravarman"
+	father=191204
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	778.1.1={
+		birth=yes
+	}
+	847.1.1={
+		death=yes
+	}
+}
+
+189168 = {
+	name="Anantavarman"
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189167
+	800.1.1={
+		birth=yes
+	}
+	870.1.1={
+		death=yes
+	}
+}
+
+189169 = {
+	name="Bhupendravarma"
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191205
+	830.1.1={
+		birth=yes
+	}
+	889.1.1={
+		death=yes
+	}
+}
+
+189170 = {
+	name="Devendravarman" #
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189168
+	831.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+189171 = {
+	name="Gunamaharnava" #
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189168
+	832.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+189172 = {
+	name="Vajrahasta"
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189171
+	870.1.1={
+		birth=yes
+	}
+	939.1.1={
+		death=yes
+	}
+}
+189173 = {
+	name="Vajrahasta"
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189176
+	930.1.1={
+		birth=yes
+	}
+	980.1.1={
+		death=yes
+	}
+}
+189174 = {
+	name="Gundama"
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189171
+	875.1.1={
+		birth=yes
+	}
+	942.1.1={
+		death=yes
+	}
+}
+189175 = {
+	name="Kamarnava" #
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189174
+	910.1.1={
+		birth="910.1.1"
+	}
+	977.1.1={
+		death="977.1.1"
+	}
+}
+189176 = {
+	name="Vinayaditya" #
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189174
+	910.1.1={
+		birth="910.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+189177 = {
+	name="Bhanudeva"
+	dynasty=1029195
+	father=191217
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1350.1.1={
+		birth=yes
+	}
+	1434.1.1={
+		death=yes
+	}
+}
+
+189178 = {
+	name="Anangabhima"
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191209
+	1140.1.1={
+		birth=yes
+	}
+	1195.1.1={
+		death=yes
+	}
+}
+189179 = {
+	name="Kamarnava"
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189173
+	970.1.1={
+		birth=yes
+	}
+	1016.1.1={
+		death=yes
+	}
+}
+
+189180 = {
+	name="Gundama"
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189173
+	971.1.1={
+		birth=yes
+	}
+	1040.1.1={
+		death=yes
+	}
+}
+189181 = {
+	name="Vajrahasta" #
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189180
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+189182 = {
+	name="Rajaraja" #
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189180
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+189183 = {
+	name="Chodaganga"
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189182
+	1066.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+
+189184 = {
+	name="Subhakaradeva" #II
+	dynasty=1043013
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=175120
+	mother=191173
+	801.1.1={
+		birth=yes
+	}
+	839.1.1={
+		death=yes
+	}
+}
+
+189185 = {
+	name="Subhakaradeva" #III
+	dynasty=1043013
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=175120
+	mother=191173
+	802.1.1={
+		birth=yes
+	}
+	846.1.1={
+		death=yes
+	}
+}
+189186 = {
+	name="Santikaradeva" #II
+	dynasty=1043013
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=175120
+	mother=191173
+	830.1.1={
+		birth=yes
+	}
+	881.1.1={
+		death=yes
+	}
+}
+189187 = {
+	name="Subhakaradeva" #IV
+	dynasty=1043013
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189186
+	850.1.1={
+		birth=yes
+	}
+	868.1.1={
+		add_spouse=191175
+	}
+	885.1.1={
+		death=yes
+	}
+}
+
+
+#Changes for Somavamsi Characters:
+189188 = {
+	name="Janmejaya" #first of the later Somavamsis
+	dynasty=1029196
+	father=191231
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	830.1.1={
+		birth=yes
+	}
+	922.1.1={
+		death=yes
+	}
+}
+189189 = {
+	name="Yayati" #
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189188
+	890.1.1={
+		birth="890.1.1"
+	}
+	955.1.1={
+		death="955.1.1"
+	}
+}
+189190 = {
+	name="Bhimaratha" #
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189189
+	921.1.1={
+		birth="921.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+189191 = {
+	name="Dharmaratha" #
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189190
+	953.1.1={
+		birth="953.1.1"
+	}
+	1005.1.1={
+		death="1005.1.1"
+	}
+}
+189192 = {
+	name="Nahusa" #
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189191
+	970.1.1={
+		birth="970.1.1"
+	}
+	1021.1.1={
+		death="1021.1.1"
+	}
+}
+189193 = {
+	name="Indranatha" #
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189191
+	971.1.1={
+		birth="971.1.1"
+	}
+	1025.1.1={
+		death="1025.1.1"
+	}
+}
+189194 = {
+	name="Yayati" #
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189193
+	990.1.1={
+		birth="990.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+189195 = {
+	name="Udyotakesari" #
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189194
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+189196 = {
+	name="Janmejaya" #
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189195
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1085.1.1={
+		death="1085.1.1" # Extended lifespan from 1080.1.1 to cover ruling of titles until Janmejaya's rule in 1085.1.1.
+	}
+}
+189197 = {
+	name="Puranjaya" #
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189196
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+189198 = {
+	name="Janemajaya" #
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189196
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+189199 = {
+	name="Karnadeva" #
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189197
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+189200 = {
+	name="Jayananda" #
+	dynasty=1029200
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	800.1.1={
+		birth="800.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+189201 = {
+	name="Paramananda" #
+	dynasty=1029200
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189200
+	830.1.1={
+		birth="830.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+189202 = {
+	name="Sivananda" #
+	dynasty=1029200
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189200
+	831.1.1={
+		birth="831.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+189203 = {
+	name="Devananda" #
+	dynasty=1029200
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189201
+	860.1.1={
+		birth="860.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+189204 = {
+	name="Devananda" #
+	dynasty=1029200
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189202
+	865.1.1={
+		birth="865.1.1"
+	}
+	929.1.1={
+		death="929.1.1"
+	}
+}
+
+189205 = {
+	name="Rangabhanja"
+	dynasty=1029197
+	father=191183
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	810.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+189206 = {
+	name="Nettabhanja" #
+	dynasty=1029197
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189205
+	849.1.1={
+		birth="849.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+189207 = {
+	name="Silabhanja" #
+	dynasty=1029197
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189206
+	865.1.1={
+		birth="865.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+189208 = {
+	name="Kottabhanja" #
+	dynasty=1029197
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189205
+	850.1.1={
+		birth="850.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+189209 = {
+	name="Durjaya" #
+	dynasty=1029197
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189208
+	866.1.1={
+		birth="866.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+189210 = {
+	name="Ranastambha"
+	dynasty=1029198
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191242
+	770.1.1={
+		birth=yes
+	}
+	845.1.1={
+		death=yes
+	}
+}
+189211 = {
+	name="Jayastambha"
+	dynasty=1029198
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189210
+	790.1.1={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+189212 = {
+	name="Kulastambha" #II
+	dynasty=1029198
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189211
+	810.1.1={
+		birth=yes
+	}
+	864.1.1={
+		death=yes
+	}
+}
+189213 = {
+	name="Khadaga"
+	dynasty=1029199
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191238
+	810.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+189214 = {
+	name="Vinita"
+	dynasty=1029199
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189213
+	830.1.1={
+		birth=yes
+	}
+	905.1.1={
+		death=yes
+	}
+}
+189215 = {
+	name="Solana"
+	dynasty=1029199
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189214
+	850.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+189216 = {
+	name="Gayada"
+	dynasty=1029199
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189215
+	880.1.1={
+		birth=yes
+	}
+	950.1.1={
+		death=yes
+	}
+}
+
+
+#Svetaka Gangas:
+189217 = {
+	name="Mahendravarman"
+	dynasty=1029205
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191236
+	782.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+189218 = {
+	name="Prithivarman"
+	dynasty=1029205
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189217
+	800.1.1={
+		birth=yes
+	}
+	868.1.1={
+		death=yes
+	}
+}
+189219 = {
+	name="Anantavarman"
+	dynasty=1029205
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189218
+	823.1.1={
+		birth=yes
+	}
+	878.1.1={
+		death=yes
+	}
+}
+189220 = {
+	name="Bhupendravarman"
+	dynasty=1029205
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189218
+	822.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+189221 = {
+	name="Indravarman"
+	dynasty=1029205
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189218
+	821.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+189222 = {
+	name="Indravarman" #II
+	dynasty=1029205
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189218
+	820.1.1={
+		birth=yes
+	}
+	909.1.1={
+		death=yes
+	}
+}
+#Additional Banas
+191295 = {
+	name="Nandivarman"
+	dynasty=1043014
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	740.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+
+191296 = {
+	name="Vijayaditya" #Fictional
+	dynasty=1043014
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191295
+	770.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+191297 = {
+	name="Malladeva" #Fictional
+	dynasty=1043014
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191296
+	810.1.1={
+		birth=yes
+	}
+	870.1.1={
+		death=yes
+	}
+}
+
+#Nagavamsis of Cakrakota:
+191243 = {
+	name="Vallabharaja"
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	740.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191244 = {
+	name="Rajamalla"
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191243
+	760.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+
+191245 = {
+	name="Vankhaditya"
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191244
+	830.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+191246 = {
+	name="Naladeva" #Fictional
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191245
+	850.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+191247 = {
+	name="Rajalla" #Fictional
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191246
+	890.1.1={
+		birth=yes
+	}
+	970.1.1={
+		death=yes
+	}
+}
+
+191248 = {
+	name="Sankhapala"
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191247
+	930.1.1={
+		birth=yes
+	}
+	1021.1.1={
+		death=yes
+	}
+}
+
+191249 = {
+	name="Nrapatibhusana"
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191248
+	970.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+
+191250 = {
+	name="Jagadekabhusana"
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191249
+	1020.1.1={
+		birth=yes
+	}
+	1065.1.1={
+		death=yes
+	}
+}
+
+191251 = {
+	name="Madhurantaka"
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191249
+	1021.1.1={
+		birth=yes
+	}
+	1069.1.1={
+		death = {
+              death_reason = death_battle
+              killer = 191252
+         }
+	}
+}
+
+191252 = {
+	name="Somesvara"
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191250
+	1040.1.1={
+		birth=yes
+	}
+	1108.1.1={
+		death=yes
+	}
+}
+
+191253 = {
+	name="Somesvara" #II
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191252
+	1060.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+
+191254 = {
+	name="Kanharadeva"
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191252
+	1080.1.1={
+		birth=yes
+	}
+	1147.1.1={
+		death=yes
+	}
+}
+
+191255 = {
+	name="Jagakedabhusana" #II
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191254
+	1120.1.1={
+		birth=yes
+	}
+	1218.1.1={
+		death=yes
+	}
+}
+
+191256 = {
+	name="Kirtipala" #Fictional
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191255
+	1150.1.1={
+		birth=yes
+	}
+	1230.1.1={
+		death=yes
+	}
+}
+
+191257 = {
+	name="Janhu" #Fictional
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191256
+	1190.1.1={
+		birth=yes
+	}
+	1280.1.1={
+		death=yes
+	}
+}
+
+191258 = {
+	name="Harischandradeva"
+	dynasty=1044332
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191257
+	1230.1.1={
+		birth=yes
+	}
+	1324.1.1={
+		death=yes
+	}
+}
+
+191259 = {
+	name="Annam Dev"
+	dynasty=1044334
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1291.1.1={
+		birth=yes
+	}
+	1369.1.1={
+		death=yes
+	}
+}
+
+191260 = {
+	name="Hamir Dev"
+	dynasty=1044334
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1315.1.1={
+		birth=yes
+	}
+	1410.1.1={
+		death=yes
+	}
+}
+
+191261 = {
+	name="Bhatai Dev"
+	dynasty=1044334
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1370.1.1={
+		birth=yes
+	}
+	1468.1.1={
+		death=yes
+	}
+}
+
+191294 = {
+	name="Ramachandra"
+	dynasty=1044333	#Nagas of Kawardha
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	700.1.1={
+		birth=yes
+	}
+	730.1.1={
+		add_spouse=191262
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191263 = {
+	name="Ahiraja"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191294
+	mother=191262
+	750.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191264 = {
+	name="Rajalla"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191263
+	770.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+191265 = {
+	name="Dharnidhara"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191264
+	840.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+191266 = {
+	name="Mahimadeva"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191265
+	870.1.1={
+		birth=yes
+	}
+	960.1.1={
+		death=yes
+	}
+}
+
+191267 = {
+	name="Sarvavandana"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191266
+	940.1.1={
+		birth=yes
+	}
+	1030.1.1={
+		death=yes
+	}
+}
+
+191268 = {
+	name="Gopaladeva"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191267
+	1000.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+
+191269 = {
+	name="Naladeva"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191268
+	1016.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+191270 = {
+	name="Bhuvanapala"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191269
+	1036.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+
+191271 = {
+	name="Kirtipala"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191270
+	1056.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+
+191272 = {
+	name="Jayatrapala"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191270
+	1057.1.1={
+		birth=yes
+	}
+	1140.1.1={
+		death=yes
+	}
+}
+
+191273 = {
+	name="Mahipala"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191272
+	1077.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+
+191274 = {
+	name="Visamapala"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191273
+	1095.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		death=yes
+	}
+}
+
+191275 = {
+	name="Janhu"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191274
+	1113.1.1={
+		birth=yes
+	}
+	1170.1.1={
+		death=yes
+	}
+}
+
+191276 = {
+	name="Janapala"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191275
+	1131.1.1={
+		birth=yes
+	}
+	1175.1.1={
+		death=yes
+	}
+}
+
+191277 = {
+	name="Yasoraja"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191276
+	1149.1.1={
+		birth=yes
+	}
+	1210.1.1={
+		death=yes
+	}
+}
+
+191278 = {
+	name="Kanhadadeva"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191277
+	1167.1.1={
+		birth=yes
+	}
+	1220.1.1={
+		death=yes
+	}
+}
+
+191279 = {
+	name="Laksmavarma"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191277
+	1168.1.1={
+		birth=yes
+	}
+	1240.1.1={
+		death=yes
+	}
+}
+
+191280 = {
+	name="Khadgadeva"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191278
+	1186.1.1={
+		birth=yes
+	}
+	1260.1.1={
+		death=yes
+	}
+}
+
+191281 = {
+	name="Bhuvanaikamalla"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191280
+	1204.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes
+	}
+}
+
+191282 = {
+	name="Arjuna"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191281
+	1222.1.1={
+		birth=yes
+	}
+	1280.1.1={
+		death=yes
+	}
+}
+
+191283 = {
+	name="Bhima"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191282
+	1240.1.1={
+		birth=yes
+	}
+	1290.1.1={
+		death=yes
+	}
+}
+
+191284 = {
+	name="Bhoja"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191283
+	1258.1.1={
+		birth=yes
+	}
+	1300.1.1={
+		death=yes
+	}
+}
+
+191285 = {
+	name="Chandana"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191279
+	1187.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+
+191286 = {
+	name="Cijjana"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191285
+	1210.1.1={
+		birth=yes
+	}
+	1280.1.1={
+		death=yes
+	}
+}
+
+191287 = {
+	name="Malugideva"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191286
+	1250.1.1={
+		birth=yes
+	}
+	1300.1.1={
+		death=yes
+	}
+}
+
+191288 = {
+	name="Laksmana"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191287
+	1268.1.1={
+		birth=yes
+	}
+	1320.1.1={
+		death=yes
+	}
+}
+
+191289 = {
+	name="Ramachandra"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191288
+	1284.1.1={
+		birth=yes
+	}
+	1330.1.1={
+		death=yes
+	}
+}
+
+191290 = {
+	name="Ramachandra"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191289
+	1302.1.1={
+		birth=yes
+	}
+	1345.1.1={
+		death=yes
+	}
+}
+
+191291 = {
+	name="Jaya"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191290
+	1322.1.1={
+		birth=yes
+	}
+	1380.1.1={
+		death=yes
+	}
+}
+
+191292 = {
+	name="Arjuna"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191291
+	1340.1.1={
+		birth=yes
+	}
+	1400.1.1={
+		death=yes
+	}
+}
+
+191293 = {
+	name="Haripala"
+	dynasty=1044333	#Nagas of Kawardha	
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191291
+	1341.1.1={
+		birth=yes
+	}
+	1405.1.1={
+		death=yes
+	}
+}
+
+191304 = {
+	name="Sailodbhava"
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	640.1.1={
+		birth=yes
+	}
+	680.1.1={
+		death=yes
+	}
+}
+
+191305 = {
+	name="Ranabhita"
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191304
+	680.1.1={
+		birth=yes
+	}
+	750.1.1={
+		death=yes
+	}
+}
+
+191306 = {
+	name="Sainyabhita"
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191305
+	720.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+191307 = {
+	name="Yasobhita"
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191306
+	770.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+
+191308 = {
+	name="Sainyabhita" #II
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191307
+	830.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+191309 = {
+	name="Yasobhita" #II
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191308
+	850.1.1={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+
+191310 = {
+	name="Madhyamaraja"
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191309
+	900.1.1={
+		birth=yes
+	}
+	980.1.1={
+		death=yes
+	}
+}
+
+191311 = {
+	name="Dharmaraja Manabhita"
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191310
+	960.1.1={
+		birth=yes
+	}
+	1020.1.1={
+		death=yes
+	}
+}
+
+191312 = {
+	name="Madhyamaraja" #II
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191311
+	980.1.1={
+		birth=yes
+	}
+	1040.1.1={
+		death=yes
+	}
+}
+
+191313 = {
+	name="Ranaksobha"
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191312
+	1000.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+
+191314 = {
+	name="Petavyalloparaja"
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191312
+	1000.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+
+191315 = {
+	name="Yuvaraja"
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191314
+	1020.1.1={
+		birth=yes
+	}
+	1070.1.1={
+		death=yes
+	}
+}
+
+191316 = {
+	name="Madhyamaraja"	#III
+	dynasty=1044314	#Sailodbhavas
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191315
+	1050.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+
+#New for Oriya.txt:
+
+191169 = {
+	name="Ksemankaradeva"
+	dynasty=1043013
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	700.1.1={
+		birth=yes
+	}
+	756.1.1={
+		death=yes
+	}
+}
+
+191170 = {
+	name="Sivakaradeva"	#I
+	dynasty=1043013
+	religion="buddhist"
+	culture="oriya"
+	trait=kshatriya
+	trait=mahayana_buddhist
+	father=191169
+	730.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+191171 = {
+	name="Subhakaradeva"	#I
+	dynasty=1043013
+	religion="buddhist"
+	culture="oriya"
+	trait=mahayana_buddhist
+	father=191170
+	750.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+
+191172 = {
+	name="Sivakaradeva" #II
+	dynasty=1043013
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191171
+	766.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191173 = {
+	name="Tribhuvana Mahadevi" #I
+	female = yes
+	dynasty=1043013 #Not really, but rules as head of this dynasty
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	785.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+191174 = {
+	name="Sivakaradeva" #III
+	religion="hindu"
+	dynasty=1043013
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189187
+	mother=191175
+	868.1.1={
+		birth=yes
+	}
+	894.1.1={
+		death=yes
+	}
+}
+
+191175 = {
+	name="Tribhuvana Mahadevi" #II
+	female=yes 
+	father=189188
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	850.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+191176 = {
+	name="Santikaradeva" #III
+	religion="hindu"
+	dynasty=1043013
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189187
+	mother=191175
+	869.1.1={
+		birth=yes
+	}
+	905.1.1={
+		death=yes
+	}
+}
+
+191177 = {
+	name="Subhakaradeva" #V
+	religion="hindu"
+	dynasty=1043013
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191176
+	890.1.1={
+		birth=yes
+	}
+	910.1.1={
+		add_spouse = 191178
+	}
+	918.1.1={
+		add_spouse = 191180
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+191178 = {
+	name="Gauri" 
+	female = yes
+	dynasty=1029197	#Bhanja
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	880.1.1={
+		birth=yes
+	}
+	923.1.1={
+		death=yes
+	}
+}
+
+191179 = {
+	name="Dandi Mahadevi"
+	female = yes
+	dynasty=1029197
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191177
+	mother=191178
+	910.1.1={
+		birth=yes
+	}
+	930.1.1={
+		death=yes
+	}
+}
+
+191180 = {
+	name="Vakula Mahadevi"
+	female = yes
+	dynasty=1029197
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	900.1.1={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+
+191181 = {
+	name="Dharma Mahadevi" 
+	female = yes
+	dynasty=1029197
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	880.1.1={
+		birth=yes
+	}
+	955.1.1={
+		death=yes
+	}
+}
+
+191182 = {
+	name="Silabhanja" 
+	dynasty=1029197
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	720.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+191183 = {
+	name="Satrubhanja" 
+	dynasty=1029197
+	father=191182
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	740.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+
+191184 = {
+	name="Vidhyadharabhanja" 
+	dynasty=1029197
+	father=189207
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	900.1.1={
+		birth=yes
+	}
+	933.1.1={
+		death=yes
+	}
+}
+
+191185 = {
+	name="Nettabhanja"
+	dynasty=1029197
+	father=189207
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	901.1.1={
+		birth=yes
+	}
+	934.1.1={
+		death=yes
+	}
+}
+
+191186 = {
+	name="Satrubhanja"
+	father=189207
+	dynasty=1029197
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	903.1.1={
+		birth=yes
+	}
+	949.1.1={
+		death=yes
+	}
+}
+
+191187 = {
+	name="Bettabhanja" 
+	dynasty=1029197
+	father=191186
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	920.1.1={
+		birth=yes
+	}
+	960.1.1={
+		death=yes
+	}
+}
+
+191219 = {
+	name="Dibhanja" 
+	dynasty=1029197
+	father=189208
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	890.1.1={
+		birth=yes
+	}
+	924.1.1={
+		death=yes
+	}
+}
+
+191220 = {
+	name="Ranabhanja" 
+	dynasty=1029197
+	father=191219
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	910.1.1={
+		birth=yes
+	}
+	936.1.1={
+		death=yes
+	}
+}
+
+191221 = {
+	name="Prithvibhanja" 
+	dynasty=1029197
+	father=191219
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	911.1.1={
+		birth=yes
+	}
+	950.1.1={
+		death=yes
+	}
+}
+
+191222 = {
+	name="Rajabhanja" 
+	dynasty=1029197
+	father=191221
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	930.1.1={
+		birth=yes
+	}
+	960.1.1={
+		death=yes
+	}
+}
+
+#Eastern Gangas:
+
+191188 = {
+	name="Indravarma" 
+	dynasty=1029195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	460.1.1={
+		birth=yes
+	}
+	534.1.1={
+		death=yes
+	}
+}
+
+191189 = {
+	name="Maharajendravarma" 
+	dynasty=1029195
+	father=191188
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	480.1.1={
+		birth=yes
+	}
+	560.1.1={
+		death=yes
+	}
+}
+
+191190 = {
+	name="Mahasmantavarma" 
+	dynasty=1029195
+	father=191189
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	500.1.1={
+		birth=yes
+	}
+	575.1.1={
+		death=yes
+	}
+}
+
+191191 = {
+	name="Hastivarma" 
+	dynasty=1029195
+	father=191190
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	520.1.1={
+		birth=yes
+	}
+	587.1.1={
+		death=yes
+	}
+}
+
+191192 = {
+	name="Indravarma" 
+	dynasty=1029195
+	father=191191
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	540.1.1={
+		birth=yes
+	}
+	587.1.1={
+		death=yes
+	}
+}
+
+191193 = {
+	name="Mitravarma" 
+	dynasty=1029195
+	father=191192
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	560.1.1={
+		birth=yes
+	}
+	624.1.1={
+		death=yes
+	}
+}
+
+191194 = {
+	name="Indravarma" 
+	dynasty=1029195
+	father=191193
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	580.1.1={
+		birth=yes
+	}
+	633.1.1={
+		death=yes
+	}
+}
+
+191195 = {
+	name="Danavarna" 
+	dynasty=1029195
+	father=191192
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	561.1.1={
+		birth=yes
+	}
+	630.1.1={
+		death=yes
+	}
+}
+
+191196 = {
+	name="Indravarma" 
+	dynasty=1029195
+	father=191195
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	582.1.1={
+		birth=yes
+	}
+	650.1.1={
+		death=yes
+	}
+}
+
+191197 = {
+	name="Gunavarma" 
+	dynasty=1029195
+	father=191196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	600.1.1={
+		birth=yes
+	}
+	679.1.1={
+		death=yes
+	}
+}
+
+191198 = {
+	name="Devendravarma" 
+	dynasty=1029195
+	father=191197
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	620.1.1={
+		birth=yes
+	}
+	700.1.1={
+		death=yes
+	}
+}
+
+191199 = {
+	name="Anantavarma" 
+	dynasty=1029195
+	father=191198
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	640.1.1={
+		birth=yes
+	}
+	717.1.1={
+		death=yes
+	}
+}
+
+191200 = {
+	name="Nandavarma" 
+	dynasty=1029195
+	father=191199
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	680.1.1={
+		birth=yes
+	}
+	747.1.1={
+		death=yes
+	}
+}
+
+191201 = {
+	name="Devendravarma" 
+	dynasty=1029195
+	father=191200
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	700.1.1={
+		birth=yes
+	}
+	752.1.1={
+		death=yes
+	}
+}
+
+191202 = {
+	name="Rajendravarma" 
+	dynasty=1029195
+	father=191201
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	720.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191203 = {
+	name="Anantavarma" 
+	dynasty=1029195
+	father=191202
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	740.1.1={
+		birth=yes
+	}
+	804.1.1={
+		death=yes
+	}
+}
+
+191204 = {
+	name="Devandravarma" 
+	dynasty=1029195
+	father=191202
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	760.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+
+191205 = {
+	name="Satyavarma" 
+	dynasty=1029195
+	father=189167
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	800.1.1={
+		birth=yes
+	}
+	854.1.1={
+		death=yes
+	}
+}
+
+191206 = {
+	name="Madhukamavarna" 
+	dynasty=1029195
+	father=189173
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	960.1.1={
+		birth=yes
+	}
+	1038.1.1={
+		death=yes
+	}
+}
+
+191207 = {
+	name="Kamarnava" 
+	dynasty=1029195
+	father=189183
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1082.1.1={
+		birth=yes
+	}
+	1157.1.1={
+		death=yes
+	}
+}
+191208 = {
+	name="Raghava" 
+	dynasty=1029195
+	father=191207
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1100.1.1={
+		birth=yes
+	}
+	1171.1.1={
+		death=yes
+	}
+}
+191209 = {
+	name="Ragaraja" 
+	dynasty=1029195
+	father=191208
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1120.1.1={
+		birth=yes
+	}
+	1150.1.1 = {
+		add_spouse = 217378 # Presumed marriage to the sister of Parakramabahu I
+	}
+	1192.1.1={
+		death=yes
+	}
+}
+191210 = {
+	name="Rajaraja" 
+	dynasty=1029195
+	father=189178
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1160.1.1={
+		birth=yes
+	}
+	1216.1.1={
+		death=yes
+	}
+}
+191211 = {
+	name="Anangabhima" 
+	dynasty=1029195
+	father=191210
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1190.1.1={
+		birth=yes
+	}
+	1238.1.1={
+		death=yes
+	}
+}
+191212 = {
+	name="Narasimha" 
+	dynasty=1029195
+	father=191211
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1210.1.1={
+		birth=yes
+	}
+	1264.1.1={
+		death=yes
+	}
+}
+191213 = {
+	name="Bhanudeva" 
+	dynasty=1029195
+	father=191212
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1230.1.1={
+		birth=yes
+	}
+	1279.1.1={
+		death=yes
+	}
+}
+191214 = {
+	name="Narasimha" 
+	dynasty=1029195
+	father=191213
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1250.1.1={
+		birth=yes
+	}
+	1306.1.1={
+		death=yes
+	}
+}
+191215 = {
+	name="Bhanudeva" 
+	dynasty=1029195
+	father=191214
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1270.1.1={
+		birth=yes
+	}
+	1328.1.1={
+		death=yes
+	}
+}
+191216 = {
+	name="Narasimha" 
+	dynasty=1029195
+	father=191215
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1290.1.1={
+		birth=yes
+	}
+	1352.1.1={
+		death=yes
+	}
+}
+191217 = {
+	name="Narasimha" 
+	dynasty=1029195
+	father=191216
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1310.1.1={
+		birth=yes
+	}
+	1378.1.1={
+		death=yes
+	}
+}
+191218 = {
+	name="Narasimha" 
+	dynasty=1029195
+	father=191217
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1330.1.1={
+		birth=yes
+	}
+	1414.1.1={
+		death=yes
+	}
+}
+
+#Early Somavamsis:
+
+191223 = {
+	name="Udayana" 
+	dynasty=1029196
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	630.1.1={
+		birth=yes
+	}
+	720.1.1={
+		death=yes
+	}
+}
+
+191224 = {
+	name="Judrabala" 
+	dynasty=1029196
+	father=191223
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	660.1.1={
+		birth=yes
+	}
+	750.1.1={
+		death=yes
+	}
+}
+
+191225 = {
+	name="Nannadeva" 
+	dynasty=1029196
+	father=191224
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	690.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191226 = {
+	name="Isanadeva" 
+	dynasty=1029196
+	father=191225
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	720.1.1={
+		birth=yes
+	}
+	775.1.1={
+		death=yes
+	}
+}
+
+191227 = {
+	name="Bhavadeva" 
+	dynasty=1029196
+	father=191226
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	760.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+
+191228 = {
+	name="Chandragupta" 
+	dynasty=1029196
+	father=191225
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	730.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191229 = {
+	name="Tivaraja" 
+	dynasty=1029196
+	father=191225
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	732.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}
+
+191230 = {
+	name="Haragupta" 
+	dynasty=1029196
+	father=191228
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	780.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+
+191231 = {
+	name="Balarjuna Sivagupta" 
+	dynasty=1029196
+	father=191230
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	805.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+
+191232 = {
+	name="Ranakesari" 
+	dynasty=1029196
+	father=191230
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	806.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+191233 = {
+	name="Jayavarmadeva" 
+	dynasty=1029205
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	690.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+191234 = {
+	name="Anantavarman" 
+	dynasty=1029205
+	father=191233
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	720.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+191235 = {
+	name="Gangakavilasa" 
+	dynasty=1029205
+	father=191234
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	740.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+
+191236 = {
+	name="Bhupendravarman" 
+	dynasty=1029205
+	father=191235
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	765.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+
+191237 = {
+	name="Samantavarman" 
+	dynasty=1029205
+	father=189222
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	850.1.1={
+		birth=yes
+	}
+	921.1.1={
+		death=yes
+	}
+}
+
+191238 = {
+	name="Jayasimha" 
+	dynasty=1029199
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	790.1.1={
+		birth=yes
+	}
+	878.1.1={
+		death=yes
+	}
+}
+
+191239 = {
+	name="Apsaradeva" 
+	dynasty=1029199
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189216
+	900.1.1={
+		birth=yes
+	}
+	960.1.1={
+		death=yes
+	}
+}
+
+191240 = {
+	name="Kanchanastambha" 
+	dynasty=1029198
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	710.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191241 = {
+	name="Kalahastambha" 
+	dynasty=1029198
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191240
+	730.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+
+191242 = {
+	name="Kulastambha" 
+	dynasty=1029198
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191241
+	748.1.1={
+		birth=yes
+	}
+	839.1.1={
+		death=yes
+	}
+}
+
+#Matsyas
+191432 = {
+	name="Satyamartanda" #Mythical founder of kingdom
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	460.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death=yes
+	}
+}
+
+191433 = {
+	name="Naranga" #Fictional intermediary ruler
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191432
+	520.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+
+191434 = {
+	name="Ganga" #Fictional intermediary ruler
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191433
+	570.1.1={
+		birth=yes
+	}
+	630.1.1={
+		death=yes
+	}
+}
+
+191435 = {
+	name="Atavi Durjaya"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191434
+	600.1.1={
+		birth=yes
+	}
+	650.1.1={
+		death=yes
+	}
+}
+
+191436 = {
+	name="Gudda" #Fictional intermediary ruler
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191435
+	620.1.1={
+		birth=yes
+	}
+	680.1.1={
+		death=yes
+	}
+}
+
+191437 = {
+	name="Kadni" #Fictional intermediary ruler
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191436
+	650.1.1={
+		birth=yes
+	}
+	700.1.1={
+		death=yes
+	}
+}
+
+191438 = {
+	name="Bhima"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191437
+	680.1.1={
+		birth=yes
+	}
+	740.1.1={
+		death=yes
+	}
+}
+
+191439 = {
+	name="Ganga"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191437
+	681.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+191440 = {
+	name="Vallabha"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191439
+	700.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+
+191441 = {
+	name="Yudhamalla"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191440
+	720.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+191442 = {
+	name="Gonanga"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191441
+	760.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+191443 = {
+	name="Bhima"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191442
+	820.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+191444 = {
+	name="Revana"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191443
+	840.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+191445 = {
+	name="Kokkila"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191444
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+191446 = {
+	name="Gudda"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191445
+	880.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+191447 = {
+	name="Kandi"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191446
+	900.1.1={
+		birth=yes
+	}
+	950.1.1={
+		death=yes
+	}
+}
+
+191448 = {
+	name="Gonanga"	#II
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191447
+	920.1.1={
+		birth=yes
+	}
+	980.1.1={
+		death=yes
+	}
+}
+
+191449 = {
+	name="Gudda"	#II
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191447
+	921.1.1={
+		birth=yes
+	}
+	1020.1.1={
+		death=yes
+	}
+}
+
+191450 = {
+	name="Kandi"	#II
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191449
+	970.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+
+191451 = {
+	name="Arya"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191450
+	990.1.1={
+		birth=yes
+	}
+	1050.1.1={
+		death=yes
+	}
+}
+
+191452 = {
+	name="Paraganda"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191451
+	1010.1.1={
+		birth=yes
+	}
+	1080.1.1={
+		death=yes
+	}
+}
+
+191453 = {
+	name="Gudda"	#III
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191452
+	1040.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+191454 = {
+	name="Bhima"	#III
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191452
+	1041.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+
+191455 = {
+	name="Naranga"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191454
+	1070.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+
+191456 = {
+	name="Mankaditya"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191455
+	1120.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+
+191457 = {
+	name="Bhima"	#Oldest son but does not succeed
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191456
+	1160.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+
+191458 = {
+	name="Jayantaraju"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191456
+	1162.1.1={
+		birth=yes
+	}
+	1190.1.1={
+		add_spouse=191459
+	}
+	1252.1.1={
+		death=yes
+	}
+}
+
+191459 = {
+	name="Chingamambe"
+	female=yes
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1170.1.1={
+		birth=yes
+	}
+	1240.1.1={
+		death=yes
+	}
+}
+
+191460 = {
+	name="Arjuna"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191458
+	mother=191459
+	1194.1.1={
+		birth=yes
+	}
+	1292.6.1={
+		death=yes
+	}
+}
+
+191461 = {
+	name="Annamaraju"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191458
+	mother=191459
+	1195.1.1={
+		birth=yes
+	}
+	1292.1.1={
+		death=yes
+	}
+}
+
+191462 = {
+	name="Srirangavardhana"
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191458
+	mother=191459
+	1196.1.1={
+		birth=yes
+	}
+	1294.1.1={
+		death=yes
+	}
+}
+
+191463 = {
+	name="Jayantikaraju"	#Was joint ruler with Jayanta II
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191462
+	1270.1.1={
+		birth=yes
+	}
+	1360.1.1={
+		death=yes
+	}
+}
+
+191464 = {
+	name="Jayanta"	#II - Was joint ruler with Jayantikaraju
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191460
+	1275.1.1={
+		birth=yes
+	}
+	1300.1.1={
+		add_spouse=191465
+	}
+	1356.1.1={
+		death=yes
+	}
+}
+
+191465 = {
+	name="Chingamadevi"
+	female=yes
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1280.1.1={
+		birth=yes
+	}
+	1340.1.1={
+		death=yes
+	}
+}
+
+191466 = {
+	name="Arjuna"	#II
+	dynasty=1044348	#Matsya
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=191463
+	1301.1.1={
+		birth=yes
+	}
+	1325.1.1={
+		add_spouse=191467
+	}
+	1399.1.1={
+		death=yes
+	}
+}
+
+191467 = {
+	name="Kamaladevi"
+	female=yes
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	1305.1.1={
+		birth=yes
+	}
+	1370.1.1={
+		death=yes
+	}
+}

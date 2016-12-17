@@ -1,0 +1,8012 @@
+100514 = {
+	name="英格丽德"
+	female=yes
+	dynasty=502
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="gluttonous"
+  trait="legit_bastard"
+	trait="fortune_builder"
+	father=100509 # Emund Slemme
+	1029.1.2={
+		birth="1029.1.2"
+	}
+	1079.1.2={
+		death="1079.1.2"
+	}
+}
+
+100522 = {
+	name="斯滕希尔"
+	dynasty=498
+	dna="jimecdpjcmg"
+	properties="0b00k0"
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="lustful"
+	trait="wroth"
+	trait="charitable"
+	trait="tough_soldier"
+	father=100521
+	mother=100510
+	
+	1027.1.1={
+		birth=yes
+	}
+	1045.1.1={
+		add_spouse=100514 # Maria af Muns?
+	}
+	
+	1066.1.1={
+		trait="pneumonic"
+	}
+	
+	1066.9.25={
+		death=yes
+	}
+}
+
+100523 = {
+	name="哈尔斯滕"
+	dynasty=498
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="underhanded_rogue"
+	father=100522
+	mother=100514
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1110.12.1={
+		death="1110.12.1"
+	}
+}
+
+100524 = {
+	name="英格" # the Older
+	dynasty=498
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="kind"
+	trait="zealous"
+	trait="underhanded_rogue"
+	father=100522
+	mother=100514
+	1050.1.8={
+		birth="1050.1.8"
+	}
+	1100.1.8={
+		death="1100.1.8"
+	}
+}
+
+100525 = {
+	name="埃里克"
+	dynasty=498
+	martial=7
+	diplomacy=3
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="tough_soldier"
+	father=100522 # Stenkil - Speculation
+	mother=100514 # Speculation
+	1046.1.4={
+		birth="1046.1.4"
+	}
+	1067.12.20={
+		death="1067.12.20" # Died in a civil war against 100546 - Erik "Hedningen" ("The Heathen")
+	}
+}
+
+100526 = {
+	name="哈康" # "R鰀e" (Possibly the same person as "Blot-Sven")
+	# AKA: Haakon
+	dynasty=498 # Speculation
+	martial=6
+	diplomacy=3
+	intrigue=5
+	stewardship=4
+	religion="catholic" # Possibly Norse Pagan
+	culture="swedish"
+	trait="cynical"
+	trait="legit_bastard"
+	trait="intricate_webweaver"
+	father=100522 # Stenkil - Speculation
+	# mother=100514 # Presumed to have been a Bastard of Stenkil's	
+	1048.6.2={
+		birth="1048.6.2"
+	}
+	1080.12.1={
+		death="1080.12.1"
+	}
+}
+
+100527 = {
+	name="伯恩"
+	# AKA: Bjorn
+	dynasty=497
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="norse_pagan"
+	culture="swedish"
+	trait="lustful"
+	trait="honest"
+	trait="brave"
+	trait="skilled_tactician"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1098.1.2={
+		death="1098.1.2"
+	}
+}
+
+100528 = {
+	name="卡特琳娜"
+	female = yes
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="zealous"
+	trait="amateurish_plotter"
+	1049.1.2={
+		birth="1049.1.2"
+	}
+	1099.1.2={
+		death="1099.1.2"
+	}
+}
+
+100529 = {
+	name="科尔"
+	dynasty=496
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="norse_pagan"
+	culture="swedish"
+	trait="cynical"
+	trait="amateurish_plotter"
+	1030.1.2={
+		birth="1030.1.2"
+	}
+	1067.1.4={
+		death="1067.1.4"
+	}
+}
+
+100530 = {
+	name="希文"
+	dynasty=496
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="just"
+	trait="tough_soldier"
+	father = 100529
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+
+100535 = {
+	name="伊休艾德"
+	female=yes
+	dynasty=495
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="hunchback"
+	trait="underhanded_rogue"
+	father=100532
+	mother=100543
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+100536 = {
+	name="博茨泰因"
+	dynasty=495
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="martial_cleric"
+	father=100538
+	mother=100535
+	1047.1.1={
+		birth="1047.1.1"
+	}
+	1065.1.1={
+		add_spouse=167630
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+100537 = {
+	name="哈利加利尔"
+	dynasty=495
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="martial_cleric"
+	father=100538
+	mother=100535
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+100538 = {
+	name="艾于德瓦德"
+	#dynasty=495
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="flamboyant_schemer"
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1045.1.1={
+		add_spouse=100535
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+100540 = {
+	name="奥拉夫"
+	dynasty=494
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="cynical"
+	trait="flamboyant_schemer"
+	father=100539
+	mother=100534
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+100541 = {
+	name="阿斯特丽德"
+	female = yes
+	dynasty=493
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="envious"
+	trait="flamboyant_schemer"
+	1024.1.1={
+		birth="1024.1.1"
+	}
+	1074.1.1={
+		death="1074.1.1"
+	}
+}
+
+100542 = {
+	name="波泰德"
+	dynasty=495	
+  martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="martial_cleric"
+	father=100533
+	mother=100541
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+100544 = {
+	name="托里尔"
+	dynasty=491
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=4
+	religion="norse_pagan"
+	culture="swedish"
+	trait="kind"
+	trait="scholarly_theologian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1064.1.2={
+		add_spouse=100545
+	}
+	1090.1.2={
+		death="1090.1.2"
+	}
+}
+
+100545 = {
+	name="赫裘迪丝"
+	# AKA: Hjordis
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="greedy"
+	trait="humble"
+	trait="flamboyant_schemer"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1095.1.2={
+		death="1095.1.2"
+	}
+}
+
+100546 = {
+	name="埃里克" # Hedningen
+	# AKA: Erik Hedningen
+	dna="ccdggcmieol"
+	properties="0000j0"
+	dynasty=502
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="norse_pagan"
+	culture="swedish"
+	trait="envious"
+	trait="tough_soldier"
+	trait="legit_bastard"
+	father=100509 # Emund the Old, speculative
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1060.8.2={
+		add_claim = k_sweden
+		give_nickname = nick_the_heathen
+	}
+	1061.6.6={
+		add_spouse=100547
+	}
+	1067.12.20={
+		death="1067.12.20" # Died in a civil war against 100525 - Erik Stenkilsson
+	}
+}
+
+100547 = {
+	name="希格丽德"
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="honest"
+	trait="greedy"
+	trait="flamboyant_schemer"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1096.1.2={
+		death="1096.1.2"
+	}
+}
+
+100550 = {
+	name="腓力"
+	dynasty=498
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="diligent"
+	trait="underhanded_rogue"
+	father=100523
+	
+	1075.1.2={
+		birth="1075.1.2"
+	}
+	1096.1.1={
+		add_spouse=102535 # Ingeberd of Norway
+	}
+	1118.6.6={
+		death="1118.6.6"
+	}
+}
+
+100551 = {
+	name="英格"
+	# AKA: Inge the Younger
+	dynasty=498
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="kind"
+	trait="tough_soldier"
+	father=100523
+	1078.1.2={
+		birth="1078.1.2"
+	}
+	1110.1.1={
+		add_spouse=200601
+	}
+	1125.6.6={
+		death="1125.6.6"
+	}
+}
+
+100552 = {
+	name="朗瓦尔德" # Knaph鰒de
+	# AKA: Ragnvald 'Knaphovde'
+	dynasty=498
+	martial=3
+	diplomacy=4
+	intrigue=3
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="trusting"
+	trait="thrifty_clerk"
+	father=100524 # Possibly
+	
+	1075.1.8={
+		birth="1075.1.8"
+	}
+	1126.6.6={
+		death="1126.6.6"
+	}
+}
+
+144648 = {
+	name="腓力"
+	dynasty=381
+	religion="catholic"
+	culture="swedish"
+	father=200490
+	mother=200491
+	1159.1.1={
+		birth="1159.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+144649 = {
+	name="霍姆格"
+	dynasty=381
+	religion="catholic"
+	culture="swedish"
+	father=144648
+	1179.1.1={
+		birth="1179.1.1"
+	}
+	1207.1.1={
+		death="1207.1.1"
+	}
+}
+
+144670  = {
+	name="卡尔"
+	dynasty=136
+	religion="catholic"
+	culture="swedish"
+	father = 200541
+	1216.1.1={
+		birth="1216.1.1"
+	}
+	1253.1.1={
+		death="1253.1.1"
+	}
+}
+
+200001 = {
+	name="艾恩法斯特"
+	dynasty=100280
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="norse_pagan"
+	culture="swedish"
+	trait="charitable"
+	trait="envious"
+	trait="cynical"
+	trait="underhanded_rogue"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+200002 = {
+	name="托尔格特"
+	# AKA: Torgot
+	dynasty=100281
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=4
+	religion="norse_pagan"
+	culture="swedish"
+	trait="scholarly_theologian"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+
+200004 = {
+	name="本格特"
+	dynasty=100283
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="scholarly_theologian"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200005 = {
+	name="埃德瓦"
+	dynasty=100284
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="lustful"
+	trait="wroth"
+	trait="inbred"
+	trait="amateurish_plotter"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200006 = {
+	name="鲁里克"
+	# AKA: Rorek
+	dynasty=100285
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200007 = {
+	name="博图尔夫"
+	# AKA: Botolf
+	dynasty=100286
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="chaste"
+	trait="slothful"
+	trait="wroth"
+	trait="brave"
+	trait="scholarly_theologian"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200008 = {
+	name="本格特"
+	dynasty=100287
+	martial=5
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="gluttonous"
+	trait="charismatic_negotiator"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200009 = {
+	name="福克维德"
+	dynasty=100288
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="deceitful"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1180.1.2={
+		add_spouse=202506
+	}
+	1184.1.1 = {
+	remove_spouse =202506
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200010 = {
+	name="哈尔斯滕"
+	dynasty=100295
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="humble"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200011 = {
+	name="埃蒙德"
+	dynasty=100298
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="clubfooted"
+	trait="amateurish_plotter"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200012 = {
+	name="埃斯基德"
+	dynasty=100299
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="temperate"
+	trait="honest"
+	trait="ill"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200013 = {
+	name="伯迪"
+	dynasty=100300
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="gluttonous"
+	trait="thrifty_clerk"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200014 = {
+	name="埃伯恩"
+	# AKA: Arnborn
+	dynasty=100006
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200015 = {
+	name="托尔比约恩"
+	# AKA: Torbjorn
+	dynasty=100301
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	1147.1.1={
+		birth="1147.1.1"
+	}
+	1197.1.1={
+		death="1197.1.1"
+	}
+}
+
+200016 = {
+	name="约翰尼斯"
+	dynasty=100290
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="brave"
+	trait="martial_cleric"
+	1149.1.1={
+		birth="1149.1.1"
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+
+200017 = {
+	name="哈勒"
+	dynasty=100291
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="tough_soldier"
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200018 = {
+	name="乔汉"
+	dynasty=100289
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="diligent"
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200019 = {
+	name="哈康"
+	dynasty=100288
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="tough_soldier"
+	father=200009
+	mother=202506
+	1183.1.1={
+		birth="1183.1.1"
+	}
+	1233.1.1={
+		death="1233.1.1"
+	}
+}
+
+20005 = {
+	name="居德蒙德"
+	dynasty=100287
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="norse_pagan"
+	culture="swedish"
+	trait="harelip"
+	trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20006 = {
+	name="奥拉夫"
+	dynasty=100291
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="norse_pagan"
+	culture="swedish"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20007 = {
+	name="泰克"
+	dynasty=100300
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="humble"
+	trait="ill"
+	trait="fortune_builder"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20008 = {
+	name="法斯特"
+	dynasty=100295
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20009 = {
+	name="芬恩"
+	dynasty=100294
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20010 = {
+	name="克蒂尔"
+	dynasty=100298
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="lustful"
+	trait="patient"
+	trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20011 = {
+	name="阿尔戈特"
+	dynasty=100006
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20012 = {
+	name="西格瓦德"
+	dynasty=100299
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20013 = {
+	name="科尔伯恩"
+	# AKA: Kolbjorn
+	dynasty=100283
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="norse_pagan"
+	culture="swedish"
+	trait="patient"
+	trait="craven"
+	trait="underhanded_rogue"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+20014 = {
+	name="托尔德"
+	dynasty=100281
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="norse_pagan"
+	culture="swedish"
+	trait="patient"
+	trait="underhanded_rogue"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+20015 = {
+	name="博图尔夫"
+	dynasty=100280
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="norse_pagan"
+	culture="swedish"
+	trait="patient"
+	trait="kind"
+	trait="proud"
+	trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+20020 = {
+	name="托克"
+	dynasty=827 # V鋜ending
+	religion="norse_pagan"
+	culture="swedish"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+200490 = {
+	name="埃里克" # Den Helige - The Holy
+	dynasty=381
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="just"
+	trait="martial_cleric"
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1145.1.1={
+		add_spouse=200491 # Kristina Bj鰎nsdotter
+	}
+	1150.1.1={
+		trait="crusader"
+	}
+	1160.6.6={
+		death="1160.6.6"
+	}
+}
+
+200493 = {
+	name="卡特琳娜"
+	female = yes
+	dynasty=498
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	father=100524
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1145.1.2={
+		death="1145.1.2"
+	}
+}
+
+200494 = {
+	name="玛格丽塔" # Fredkulla
+	female = yes
+	dynasty=498
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	father=100524
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+200500 = {
+	name="克努特"
+	dynasty=381
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="gluttonous"
+	trait="naive_appeaser"
+	father=200490
+	mother=200491
+	1146.1.1={
+		birth="1146.1.1"
+	}
+	1166.1.1={
+		add_spouse=200520
+	}
+	1195.1.2={
+		death="1195.1.2"
+	}
+}
+
+200501 = {
+	name="乔恩"
+	dynasty=381
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="just"
+	trait="skilled_tactician"
+	father=200500
+	mother=200520
+	1171.1.2={
+		birth="1171.1.2"
+	}
+	1205.1.11={
+		death="1205.1.11" #Battle of 膌gar錽
+	}
+}
+
+200502 = {
+	name="克努特"
+	dynasty=381
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="deceitful"
+	trait="thrifty_clerk"
+	father=200500
+	mother=200520
+	1173.1.2={
+		birth="1173.1.2"
+	}
+	1205.1.11={
+		death="1205.1.11" #Battle of 膌gar錽
+	}
+}
+
+200503 = {
+	name="约阿"
+	dynasty=381
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="tough_soldier"
+	father=200500
+	mother=200520
+	1175.1.2={
+		birth="1175.1.2"
+	}
+	1205.1.11={
+		death="1205.1.11" #Battle of 膌gar錽
+	}
+}
+
+200504 = {
+	name="埃里克" #Knutsson
+	dynasty=381
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="humble"
+	trait="tough_soldier"
+	father=200500 # Knut, King of Sweden
+	mother=200520
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1210.1.1={
+		add_spouse=201506 # Rikissa of Denmark
+	}
+	1216.4.10={
+		death="1216.4.10"
+	}
+}
+
+200505 = {
+	name="希格丽德"
+	female = yes
+	dynasty=381
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="diligent"
+	trait="cynical"
+	trait="charismatic_negotiator"
+	father=200500
+	mother=200520
+	1169.1.2={
+		birth="1169.1.2"
+	}
+	1219.1.2={
+		death="1219.1.2"
+	}
+}
+
+200506 = {
+	name="玛格丽塔"
+	female = yes
+	dynasty=381
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="just"
+	trait="kind"
+	trait="charismatic_negotiator"
+	father=200490
+	1158.1.2={
+		birth="1158.1.2"
+	}
+	1208.1.2={
+		death="1208.1.2"
+	}
+}
+
+200507 = {
+	name="埃里克" # 'den L鋝pe och Halte'
+	dynasty=381
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="chaste"
+	trait="lisp"
+	trait="clubfooted"
+	trait="thrifty_clerk"
+	father=200504 # Erik Knutsson
+	mother=201506
+	1216.1.2={
+		birth="1216.1.2"
+	}
+	1234.1.2 = {
+		give_nickname = nick_the_lisp_and_lame
+	}
+	1243.1.1 = {
+		add_spouse = 170021 # Katarina Sunadotter
+	}
+	1250.2.2={
+		death="1250.2.2"
+	}
+}
+
+200508 = {
+	name="克努特" # Holmgersson
+	# AKA: Knut Holmgersson
+	dynasty=381
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="temperate"
+	trait="charismatic_negotiator"
+	father=144649
+	1206.1.1={
+		birth="1206.1.1"
+	}
+	1225.1.1={
+		add_spouse=170023 # Helena Pedersdatter
+	}
+	1234.6.6={
+		death="1234.6.6"
+	}
+}
+
+200519 = {
+	name="英格瓦尔德" # Possibly the son of the legendary Folke Filbyter
+	dynasty=155
+	martial=3
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait=quick
+	trait=diligent
+	trait=just
+	trait=strong
+	trait="fortune_builder"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1061.1.1={
+		employer = 100522 # King Stenkil
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+200520 = {
+	name="塞西莉亚" # Johansdotter, name uncertain
+	female = yes
+	dynasty=493
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="scholarly_theologian"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+200521 = {
+	name="本格特" # 'Snivil'
+	dynasty=155
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="deceitful"
+	trait="wroth"
+	trait="underhanded_rogue"
+	father=200535 # Folke the Fat
+	mother=101550 # Ingegerd Knudsdatter
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1149.1.1={
+		add_spouse=200522
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+200522 = {
+	name="希格丽德"
+	female = yes
+	dynasty=379
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="just"
+	trait="hunchback"
+	trait="thrifty_clerk"
+	1127.1.2={
+		birth="1127.1.2"
+	}
+	1177.1.2={
+		death="1177.1.2"
+	}
+}
+
+200523 = {
+	name="伯格" # 'Brosa' - Jarl of Sweden
+	# AKA: Birger Brosa
+	dynasty=155
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=9
+	religion="catholic"
+	culture="swedish"
+	trait="diligent"
+	trait="patient"
+	trait="charismatic_negotiator"
+	father=200521
+	mother=200522
+	1141.1.2={
+		birth="1141.1.2"
+	}
+	1165.1.1={
+		add_spouse = 202513
+	}
+	1202.1.9={
+		death="1202.1.9"
+	}
+}
+
+200524 = {
+	name="腓力"
+	dynasty=155
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="charitable"
+	trait="proud"
+	trait="diligent"
+	trait="tough_soldier"
+	father=200523
+	mother=202513
+	1163.1.2={
+		birth="1163.1.2"
+	}
+	1213.1.2={
+		death="1213.1.2"
+	}
+}
+
+200525 = {
+	name="克努特"
+	dynasty=155
+	martial=8
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="deceitful"
+	trait="hunchback"
+	trait="tough_soldier"
+	father=200523
+	mother=202513
+	1162.1.2={
+		birth="1162.1.2"
+	}
+	1186.1.2={
+		add_spouse = 200505
+	}
+	1212.1.2={
+		death="1212.1.2"
+	}
+}
+
+200526 = {
+	name="福尔克" # Jarl
+	dynasty=155
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="temperate"
+	trait="skilled_tactician"
+	father=200523
+	mother=202513
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1210.7.17={
+		death="1210.7.17"
+	}
+}
+
+200527 = {
+	name="玛格努斯"
+	dynasty=155
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="greedy"
+	trait="stutter"
+	trait="tough_soldier"
+	father=200523
+	mother=202513
+	1168.1.2={
+		birth="1168.1.2"
+	}
+	1218.1.2={
+		death="1218.1.2"
+	}
+}
+
+200528 = {
+	name="英格嘉德"
+	# AKA: Ingegard
+	female = yes
+	dynasty=155
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="temperate"
+	trait="naive_appeaser"
+	father=200523 # Birger Brosa
+	mother=202513
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1230.4.7={
+		death="1230.4.7"
+	}
+}
+
+200529 = {
+	name="克里斯蒂娜"
+	female = yes
+	dynasty=155
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="thrifty_clerk"
+	father=200523
+	mother=202513
+	1172.1.2={
+		birth="1172.1.2"
+	}
+	1222.1.2={
+		death="1222.1.2"
+	}
+}
+
+200530 = {
+	name="玛格丽塔"
+	female = yes
+	dynasty=155
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="cynical"
+	trait="harelip"
+	trait="thrifty_clerk"
+	father=200523
+	mother=202513
+	1174.1.2={
+		birth="1174.1.2"
+	}
+	1224.1.2={
+		death="1224.1.2"
+	}
+}
+
+200531 = {
+	name="埃斯基耳"
+	dynasty=155
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="just"
+	trait="cynical"
+	trait="tough_soldier"
+	father=200540
+	mother=200542
+	1175.10.1={
+		birth="1175.10.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+200532 = {
+	name="克里斯蒂娜"
+	female = yes
+	dynasty=155
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="slothful"
+	trait="thrifty_clerk"
+	father=200540
+	mother=200542
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1230.1.2={
+		death="1230.1.2"
+	}
+}
+
+200533 = {
+	name="伊洛夫"
+	dynasty=155
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	father=200540
+	mother=200542
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1253.1.1={
+		death="1253.1.1"
+	}
+}
+
+200534 = {
+	name="苏恩" # Folkesson
+	# AKA: Sune Folkesson
+	dynasty=155
+	martial=7
+	diplomacy=3
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="brave"
+	trait="tough_soldier"
+	father=200526
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1210.1.1={
+		add_spouse=200610
+	}
+	1247.1.1={
+		death="1247.1.1"
+	}
+}
+
+200535 = {
+	name="福尔克" # 'the Fat'
+	# AKA: Folke the Fat
+	dynasty=155
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="gluttonous"
+	trait="fortune_builder"
+	father=200519 # Ingevald
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1109.1.1={
+		add_spouse=101550 # Ingegerd Knudsdatter
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+200540 = {
+	name="玛格努斯" # 'Minnesk鰈d'
+	dynasty=155
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="lustful"
+	trait="brave"
+	trait="gluttonous"
+	trait="tough_soldier"
+	father=200521
+	mother=200522
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1175.1.1={
+		add_spouse=200542
+	}
+	1195.1.1={
+		add_spouse=200607 # Ingrid Ylva
+	}
+	1210.7.17={
+		death="1210.7.17"
+	}
+}
+
+200541 = {
+	name="卡尔" # 'D鰒e' - Jarl of Sweden
+	dynasty=155
+	martial=5
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="diligent"
+	trait="zealous"
+	trait="martial_cleric"
+	father=200521
+	mother=200522
+	1165.1.2={
+		birth="1165.1.2"
+	}
+	1220.8.8={
+		death="1220.8.8"
+	}
+}
+
+200542 = {
+	name="克里斯蒂娜"
+	female = yes
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="chaste"
+	trait="ill"
+	trait="amateurish_plotter"
+	1148.1.1={
+		birth="1148.1.1"
+	}
+	1194.1.1={
+		death="1194.1.1"
+	}
+}
+
+200543 = {
+	name="克努特"
+	dynasty=155
+	martial=7
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="tough_soldier"
+	father=200525
+	mother=200505
+	1185.1.2={
+		birth="1185.1.2"
+	}
+	1235.1.2={
+		death="1235.1.2"
+	}
+}
+
+200550 = {
+	name="科尔"
+	dynasty=100293
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="chaste"
+	trait="zealous"
+	trait="scholarly_theologian"
+	1147.1.2={
+		birth="1147.1.2"
+	}
+	1197.1.2={
+		death="1197.1.2"
+	}
+}
+
+200600 = {
+	name="斯维克" # the Older
+	dynasty=496
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="clubfooted"
+	trait="zealous"
+	trait="martial_cleric"
+	father = 100530
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1134.6.25={
+		add_spouse=200601	
+	}
+	1149.1.1={
+		add_spouse=221511 #Ryksa of Poland
+	}
+	1156.12.25={
+		death="1156.12.25"
+	}
+}
+
+200602 = {
+	name="卡尔"
+	dynasty=496
+	martial=4
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	father=200600
+	mother=200601
+	1136.1.1={
+		birth="1136.1.1"
+	}
+	1162.1.2={
+		add_spouse = 200603
+	}
+	1167.4.12={
+		death="1167.4.12"
+	}
+}
+
+200604 = {
+	name="斯维克" # the Younger
+	dynasty=496
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="diligent"
+	trait="wroth"
+	trait="tough_soldier"
+	father=200602
+	mother=200603
+	1164.1.1={
+		birth=yes
+	}
+	1184.1.1={
+		add_spouse=200605 #Benedicta Ebbesdotter
+	}
+	1200.1.1={
+		add_spouse=200528 #Ingeg鋜d Birgersdotter
+	}
+	1208.1.31={
+		death=yes
+	}
+}
+
+200606 = {
+	name="苏恩"
+	dynasty=496
+	martial=5
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="diligent"
+	trait="tough_soldier"
+	father=200600
+	mother=221511
+	1154.1.2={
+		birth="1154.1.2"
+	}
+	1205.1.2={
+		death="1205.1.2"
+	}
+}
+
+200607 = {
+	name="英格丽德 于尔娃"
+	# AKA: Ingrid Ylva
+	female = yes
+	dynasty=496
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="diligent"
+	trait="thrifty_clerk"
+	father=200606
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1251.11.1={
+		death="1251.11.1"
+	}
+}
+
+200608 = {
+	name="科尔"
+	dynasty=496
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="content"
+	trait="legit_bastard"
+	trait="tough_soldier"
+	father=200600
+	1135.1.2={
+		birth="1135.1.2"
+	}
+	
+	1173.1.1={
+		death="1173.1.1"
+	}
+}
+
+200609 = {
+	name="乔汉"
+	dynasty=496
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="chaste"
+	trait="thrifty_clerk"
+	father=200604 # Sverker den Yngre
+mother=200528 # Ingeg鋜d Birgersdotter
+	1201.1.1={
+		birth="1201.1.1"
+	}
+	1222.3.10={
+		death="1222.3.10"
+	}
+}
+
+200610 = {
+	name="海伦娜" # Abbess
+	# AKA: Helena Sverkersdotter
+	female=yes
+	dynasty=496
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="scholarly_theologian"
+	father=200604 # Sverker den Yngre
+	mother=200605 # Benedicta Ebbesdotter
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1247.1.1={
+		death="1247.1.1"
+	}
+}
+
+222575 = {
+	name="克里斯蒂娜"
+	# AKA: Christina Ingesdottir
+	female = yes
+	dynasty=498
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="orthodox"
+	culture="swedish"
+	trait="slothful"
+	trait="arbitrary"
+	trait="fortune_builder"
+	father=100524
+	1080.1.2={
+		birth="1080.1.2"
+	}
+	1122.1.3={
+		death="1122.1.3"
+	}
+}
+
+30546 = {
+	name="玛丽娜"
+	female = yes
+	dynasty=381
+	religion="catholic"
+	culture="swedish"	
+	father=200504 # Erik Knutsson, king of Sweden
+	mother=201506
+	1211.1.1={
+		birth="1211.1.1"
+	}
+	1252.6.27={
+		death="1252.6.27"
+	}
+}
+
+30547 = {
+	name="索菲亚"
+	female = yes
+	dynasty=381
+	religion="catholic"
+	culture="swedish"
+	father=200504 # Erik Knutsson, king of Sweden
+	mother=201506
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1241.4.24={
+		death="1241.4.24"
+	}
+}
+
+30605 = {
+	name="里基萨"
+	female = yes
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	trait="amateurish_plotter"
+	father=450510
+	mother=450511
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1288.12.13={
+		death="1288.12.13"
+	}
+}
+
+450500 = {
+	name="玛格努斯"
+	# AKA: Magnus Eriksson
+	dynasty=155
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="charitable"
+	trait="cynical"
+	trait="brave"
+	trait="harelip"
+	trait="naive_appeaser"
+	father=450501 # Duke Erik Magnusson
+	mother=452505
+	1316.4.20={
+		birth="1316.4.20"
+	}
+	1335.1.2={
+		add_spouse=455942
+	}
+	1374.12.1={
+		death="1374.12.1"
+	}
+}
+
+450501 = {
+	name="埃里克" # Duke of S鰀ermanland
+	# AKA: Erik Magnusson
+	dynasty=155
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="charitable"
+	trait="martial_cleric"
+	father=450502
+	mother=450503
+	1282.1.1={
+		birth="1282.1.1"
+	}
+	1302.1.1={
+	add_claim = k_sweden
+	add_claim = d_finland
+	}
+	1312.1.1={
+		add_spouse=452505
+	}
+	1318.2.16={
+		death="1318.2.16"
+	}
+}
+
+450502 = {
+	name="玛格努斯" # 'Ladul錽'
+	# AKA: Magnus Birgersson
+	dynasty=155
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="honest"
+	trait="skilled_tactician"
+	father=450510
+	mother=450511
+	1240.1.2={
+		birth="1240.1.2"
+	}
+	1276.11.11={
+		add_spouse=450503 # Helvig
+	}
+	1290.12.18={
+		death="1290.12.18"
+	}
+}
+
+450504 = {
+	name="伯格"
+	# AKA: Birger Magnusson
+	dynasty=155
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="chaste"
+	trait="wroth"
+	trait="martial_cleric"
+	father=450502
+	mother=450503
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1298.11.25={
+		add_spouse=451516 # Margrethe Eriksdatter
+	}
+	1302.1.1={
+		add_claim = d_ostergotland
+		add_claim = d_finland
+	}
+	1319.7.8={
+		employer=451515
+	}
+	1319.11.13={
+		employer=451520
+	}
+	1321.5.31={
+		death="1321.5.31"
+	}
+}
+
+450505 = {
+	name="英吉比约格"
+	# AKA: Ingeborg Magnusdotter
+	female = yes
+	dynasty=155
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="content"
+	trait="martial_cleric"
+	father=450502
+	mother=450503
+	1277.1.2={
+		birth="1277.1.2"
+	}
+	1319.1.1={
+		trait="celibate"
+	}
+	1319.4.5={
+		death="1319.4.5"
+	}
+}
+
+450506 = {
+	name="瓦尔德马尔"
+	# AKA: Valdemar Birgersson
+	dynasty=155
+	martial=8
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="underhanded_rogue"
+	father=450510
+	mother=450511
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1261.1.1={
+		add_spouse=451511
+	}
+	1277.1.1={
+		remove_spouse=451511
+	}
+	1302.12.26={
+		death="1302.12.26"
+	}
+}
+
+450507 = {
+	name="英吉比约格"
+	# AKA: Ingeborg Valdemarsdotter
+	female = yes
+	dynasty=155
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	father=450506
+	mother=451511
+	1263.1.2={
+		birth="1263.1.2"
+	}
+	1290.1.2={
+		death="1290.1.2"
+	}
+}
+
+450508 = {
+	name="欧菲米娅"
+	# AKA: Eufemia Eriksdotter
+	female = yes
+	dynasty=155
+	martial=8
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="zealous"
+	trait="flamboyant_schemer"
+	father=450501
+	mother=452505
+	1317.1.2={
+		birth="1317.1.2"
+	}
+	1370.6.16={
+		death="1370.6.16"
+	}
+}
+
+450509 = {
+	name="卡特琳娜"
+	# AKA: Katharina Birgersdotter
+	female = yes
+	dynasty=155
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="amateurish_plotter"
+	father=450510
+	mother=450511
+	1242.1.2={
+		birth="1242.1.2"
+	}
+	1305.1.27={
+		death="1305.1.27"
+	}
+}
+
+450510 = {
+	name="伯格" # Birger Jarl
+	# AKA: Birger Magnusson
+	dynasty=155
+	martial=7
+	diplomacy=5
+	intrigue=8
+	stewardship=10
+	religion="catholic"
+	culture="swedish"
+	trait="kind"
+	trait="humble"
+	trait="patient"
+	trait="brave"
+	trait="grey_eminence"
+	father=200540 # Magnus Minnisk鰈d
+	mother=200607 # Ingrid Ylva
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1235.1.1={
+		add_spouse=450511
+	}
+	1261.1.1={	
+		add_spouse=31765
+	}
+	1266.10.21={
+		death="1266.10.21"
+	}
+}
+
+450511 = {
+	name="英吉比约格"
+	# AKA: Ingeborg Erlingsdotter
+	female = yes
+	dynasty=381
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="temperate"
+	trait="amateurish_plotter"
+	father=200504 # Erik Knutsson, king of Sweden
+	mother=201506
+	1214.1.1={
+		birth=yes
+	}
+	1254.6.17={
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+
+450512 = {
+	name="本格特" # Magnusson, Bishop of Link鰌ing 1220 to 1236
+	# AKA: Bengt Magnusson
+	dynasty=155
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	learning=7
+	religion="catholic"
+	culture="swedish"
+	trait="humble"
+	trait="patient"
+	trait="brave"
+	trait="scholarly_theologian"
+	father=200540 # Magnus Minnisk鰈d
+	mother=200607 # Ingrid Ylva
+	1198.1.1={
+		birth="1198.1.1"
+	}
+	1237.1.1={
+		death="1237.1.1"
+	}
+}
+
+450513 = {
+	name="玛格努斯" # Bengtsson, Fogde of Kalmar castle
+	# AKA: Magnus Bengtsson
+	dynasty=155
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	learning=5
+	religion="catholic"
+	culture="swedish"
+	trait="thrifty_clerk"
+	father=450512 # Bengt Magnusson
+	1221.1.1={
+		birth="1221.1.1"
+	}
+	1263.1.1={
+		death="1263.1.1"
+	}
+}
+
+450514 = {
+	name="本格特" # Lagman in 謘terg鰐land, riksr錮
+	# AKA: Bengt Magnusson
+	dynasty=155
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	learning=7
+	religion="catholic"
+	culture="swedish"
+	trait="fortune_builder"
+	father=450513 # Magnus Bengtsson
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1294.1.1={
+		death="1294.1.1"
+	}
+}
+
+450520 = {
+	name="埃伦吉塞"
+	# AKA: Erengisle Sunesson
+	dynasty=131
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="greedy"
+	trait="diligent"
+	trait="lustful"
+	trait="elusive_shadow"
+	father = 450760
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1396.12.26={
+		death="1396.12.26"
+	}
+}
+
+450600 = {
+	name="古斯塔夫"
+	# AKA: Gustaf Nilsson
+	dynasty=153
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="skilled_tactician"
+	father=450601
+	mother=450602
+	1294.1.2={
+		birth="1294.1.2"
+	}
+	1320.1.2={
+		add_spouse = 450603
+	}
+	1344.1.2={
+		death="1344.1.2"
+	}
+}
+
+450601 = {
+	name="尼尔斯"
+	# AKA: Nils Kettilsson
+	dynasty=153
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="proud"
+	trait="cynical"
+	trait="skilled_tactician"
+	father=450604
+	#mother=450605
+	1269.1.2={
+		birth="1269.1.2"
+	}
+	1289.1.2={
+		add_spouse=450602
+	}
+	1319.1.2={
+		death="1319.1.2"
+	}
+}
+
+450602 = {
+	name="本塔"
+	female = yes
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="scholarly_theologian"
+	1274.1.2={
+		birth="1274.1.2"
+	}
+	1329.1.2={
+		death="1329.1.2"
+	}
+}
+
+450603 = {
+	name="塞西莉亚"
+	# AKA: Cecilia Glysingsdotter
+	female = yes
+	dynasty=152
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="arbitrary"
+	trait="scholarly_theologian"
+	1304.1.2={
+		birth="1304.1.2"
+	}
+	1354.1.2={
+		death="1354.1.2"
+	}
+}
+
+450604 = {
+	name="克蒂尔"
+	# AKA: Kettil Bengtsson
+	dynasty=153
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="scholarly_theologian"
+	1244.1.2={
+		birth="1244.1.2"
+	}
+	1294.1.2={
+		death="1294.1.2"
+	}
+}
+
+450605 = {
+	name="英吉比约格"
+	female = yes
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="humble"
+	trait="thrifty_clerk"
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+450606 = {
+	name="英格嘉德"
+	# AKA: Ingegard Gustafsdotter
+	female = yes
+	dynasty=153
+	martial=4
+	diplomacy=4
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="stutter"
+	trait="thrifty_clerk"
+	father=450600
+	mother=450603
+	1329.1.2={
+		birth="1329.1.2"
+	}
+	1379.1.2={
+		death="1379.1.2"
+	}
+}
+
+450607 = {
+	name="瓦尔德马尔" 
+	# AKA: Valdemar Magnusson
+	dynasty=155
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="chaste"
+	trait="wroth"
+	trait="martial_cleric"
+	father=450502 # Magnus Ladul錽
+	mother=450503
+	1284.6.6={
+		birth="1284.6.6"
+	}
+	1302.1.1={
+	add_claim = k_sweden
+	add_claim = d_ostergotland
+	}
+	1312.1.1={
+		add_spouse=170009 # Ingeborg Eriksdottir
+	}
+	1318.2.16={
+		death="1318.2.16"
+	}
+}
+
+450610 = {
+	name="本格特"
+	dynasty=153
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="martial_cleric"
+	father=450611
+	mother=450612
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1358.1.1={
+		death="1358.1.1"
+	}
+}
+
+450611 = {
+	name="蒂勒"
+	# AKA: Ture Kettilsson
+	dynasty=153
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="brave"
+	trait="flamboyant_schemer"
+	father=450604
+	#mother=450605
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1285.1.2={
+		add_spouse = 450612
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+450612 = {
+	name="希格丽德"
+	female = yes
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="amateurish_plotter"
+	1269.1.2={
+		birth="1269.1.2"
+	}
+	1327.1.2={
+		death="1327.1.2"
+	}
+}
+
+450613 = {
+	name="埃里克"
+	# AKA: Erik Turesson
+	dynasty=153
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="slothful"
+	trait="craven"
+	trait="thrifty_clerk"
+	father=450611
+	mother=450612
+	1292.1.2={
+		birth="1292.1.2"
+	}
+	1311.1.2={
+		add_spouse = 450614
+	}
+	1328.1.2={
+		death="1328.1.2"
+	}
+}
+
+450614 = {
+	name="玛格丽塔"
+	# AKA: Margareta Bengtsdotter
+	female = yes
+	dynasty=155
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="zealous"
+	trait="flamboyant_schemer"
+	father=161122
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+
+450615 = {
+	name="玛格丽塔"
+	# AKA: Margareta Eriksdotter
+	female = yes
+	dynasty=153
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="amateurish_plotter"
+	father=450613
+	mother=450614
+	1316.1.2={
+		birth="1316.1.2"
+	}
+	1366.1.2={
+		death="1366.1.2"
+	}
+}
+
+450620 = {
+	name="尼尔斯"
+	# AKA: Nils Turesson
+	dynasty=153
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="slothful"
+	trait="amateurish_plotter"
+	father=450611
+	mother=450612
+	1301.1.2={
+		birth="1301.1.2"
+	}
+	1351.1.2={
+		death="1351.1.2"
+	}
+}
+
+450630 = {
+	name="克努特"
+	# AKA: Knut Magnusson
+	dynasty=150
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="inbred"
+	trait="flamboyant_schemer"
+	father=450631
+	mother=450632
+	1289.1.2={
+		birth="1289.1.2"
+	}
+	1305.1.2={
+		add_spouse = 450633
+	}
+	1339.1.2={
+		death="1339.1.2"
+	}
+}
+
+450631 = {
+	name="玛格努斯"
+	# AKA: Magnus Knutsson
+	dynasty=150
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="envious"
+	trait="flamboyant_schemer"
+	1250.1.2={
+		birth="1250.1.2"
+	}
+	1285.1.2={
+		add_spouse=450632
+	}
+	1305.1.2={
+		death="1305.1.2"
+	}
+}
+
+450632 = {
+	name="比吉特"
+	female = yes
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="charismatic_negotiator"
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+450633 = {
+	name="塞西莉亚"
+	# AKA: Cecilia Ruriksdotter
+	female = yes
+	dynasty=149
+	martial=8
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="diligent"
+	trait="wroth"
+	trait="amateurish_plotter"
+	father=450634
+	mother=450635
+	1280.1.2={
+		birth="1280.1.2"
+	}
+	1330.1.2={
+		death="1330.1.2"
+	}
+}
+
+450634 = {
+	name="留里克"
+	# AKA: Rurik Algotsson
+	dynasty=149
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="diligent"
+	trait="brave"
+	trait="flamboyant_schemer"
+	1245.1.2={
+		birth="1245.1.2"
+	}
+	1295.1.2={
+		death="1295.1.2"
+	}
+}
+
+450635 = {
+	name="比尔基塔"
+	# AKA: Birgitta Filipsdotter
+	female = yes
+	dynasty=149
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="honest"
+	trait="fortune_builder"
+	1255.1.2={
+		birth="1255.1.2"
+	}
+	1310.1.2={
+		death="1310.1.2"
+	}
+}
+
+450640 = {
+	name="比吉特"
+	# AKA: Birgitte Knutsdotter
+	female = yes
+	dynasty=150
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="deceitful"
+	trait="just"
+	trait="thrifty_clerk"
+	father=450630
+	mother=450633
+	1316.1.2={
+		birth="1316.1.2"
+	}
+	1366.1.2={
+		death="1366.1.2"
+	}
+}
+
+450647 = {
+	name="波"
+	# AKA: Bo Nilsson
+	dynasty=148
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="charismatic_negotiator"
+	1281.1.2={
+		birth="1281.1.2"
+	}
+	1312.1.2={
+		add_spouse = 450659
+	}
+	1322.1.2={
+		death="1322.1.2"
+	}
+}
+
+450648 = {
+	name="英吉比约格"
+	# AKA: Ingeborg Bosdotter
+	female = yes
+	dynasty=148
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="kind"
+	trait="amateurish_plotter"
+	father=450647
+	mother=450659
+	1309.1.2={
+		birth="1309.1.2"
+	}
+	1357.1.2={
+		death="1357.1.2"
+	}
+}
+
+450649 = {
+	name="波"
+	# AKA: Bo Bosson
+	dynasty=148
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="craven"
+	trait="tough_soldier"
+	father=450647
+	mother=450659
+	1313.1.2={
+		birth="1313.1.2"
+	}
+	1363.1.2={
+		death="1363.1.2"
+	}
+}
+
+450650 = {
+	name="克努特"
+	# AKA: Knut Jonsson
+	dynasty=147
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="tough_soldier"
+	father=450651
+	mother=450652
+	1272.1.2={
+		birth="1272.1.2"
+	}
+	1280.1.2={
+		add_spouse = 450653
+	}
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+
+450651 = {
+	name="乔汉"
+	# AKA: Johan Filipsson
+	dynasty=147
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="honest"
+	trait="scholarly_theologian"
+	1212.1.2={
+		birth="1212.1.2"
+	}
+	1271.1.2={
+		add_spouse=450652
+	}
+	1280.1.21={
+		death="1280.1.21"
+	}
+}
+
+450652 = {
+	name="英吉比约格"
+	# AKA: Ingeborg Svantepolksdotter
+	female = yes
+	dynasty=487
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="fortune_builder"
+	father=450654
+	mother=450655
+	1257.1.1={
+		birth="1257.1.1"
+	}
+	1307.2.1={
+		death="1307.2.1"
+	}
+}
+
+450653 = {
+	name="卡特琳娜"
+	# AKA: Katarina Bengtsdotter
+	female = yes
+	dynasty=155
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="envious"
+	trait="temperate"
+	trait="martial_cleric"
+	father=450514 # Bengt Magnusson
+	1274.1.1={
+		birth="1274.1.1"
+	}
+	1350.6.1={
+		death="1350.6.1"
+	}
+}
+
+450655 = {
+	name="本塔" # 'Benedicta' as a Nun
+	# AKA: Bengta Sunadotter
+	female = yes
+	dynasty=155
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="scholarly_theologian"
+	father=200534 # Sune Folkesson
+	mother=200610 # Helena Sverkersdotter
+	1213.1.1={
+		birth="1213.1.1"
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+
+450656 = {
+	name="伯格"
+	# AKA: Birger Knutsson
+	dynasty=147
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="scholarly_theologian"
+	father=450650
+	mother=450653
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+450657 = {
+	name="玛格努斯"
+	# AKA: Magnus Knutsson
+	dynasty=147
+	martial=8
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="envious"
+	trait="amateurish_plotter"
+	father=450650
+	mother=450653
+	1291.1.2={
+		birth="1291.1.2"
+	}
+	1341.1.2={
+		death="1341.1.2"
+	}
+}
+
+450658 = {
+	name="乔恩"
+	# AKA: Jon Knutsson
+	dynasty=147
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="charismatic_negotiator"
+	father=450650
+	mother=450653
+	1294.1.2={
+		birth="1294.1.2"
+	}
+	1344.1.2={
+		death="1344.1.2"
+	}
+}
+
+450659 = {
+	name="塞西莉亚"
+	# AKA: Cecilia Knutsdotter
+	female = yes
+	dynasty=147
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="amateurish_plotter"
+	father=450650
+	mother=450653
+	1294.1.2={
+		birth="1294.1.2"
+	}
+	1346.1.2={
+		death="1346.1.2"
+	}
+}
+
+450680 = {
+	name="古斯塔夫"
+	# AKA: Gustav Tunesson
+	dynasty=144
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="diligent"
+	trait="wroth"
+	trait="arbitrary"
+	trait="humble"
+	trait="tough_soldier"
+	father=450681
+	mother=450652
+	1302.1.2={
+		birth="1302.1.2"
+	}
+	1352.1.2={
+		death="1352.1.2"
+	}
+}
+
+450681 = {
+	name="图内"
+	# AKA: Tune Anundsson
+	dynasty=144
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="honest"
+	trait="tough_soldier"
+	1268.1.2={
+		birth="1268.1.2"
+	}
+	1287.1.2={
+		add_spouse = 450652
+	}
+	1313.1.2={
+		death="1313.1.2"
+	}
+}
+
+450682 = {
+	name="阿农德 斯图雷"
+	# AKA: Anund Sture Tunesson
+	dynasty=144
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="charitable"
+	trait="amateurish_plotter"
+	father=450681
+	mother=450652
+	1307.1.2={
+		birth="1307.1.2"
+	}
+	1332.1.2={
+		add_spouse = 450615
+	}
+	1360.1.2={
+		death="1360.1.2"
+	}
+}
+
+450683 = {
+	name="英吉比约格"
+	# AKA: Ingeborg Anundsdotter
+	female = yes
+	dynasty=144
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	father=450682
+	mother=450615
+	1336.1.2={
+		birth="1336.1.2"
+	}
+	1386.1.2={
+		death="1386.1.2"
+	}
+}
+
+450690 = {
+	name="乌尔夫"
+	# AKA: Ulf Gudmarsson
+	dynasty=143
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="tough_soldier"
+	father=450691
+	mother=450833
+	1298.1.2={
+		birth="1298.1.2"
+	}
+	1316.1.2={
+		add_spouse=450716
+	}
+	1348.1.2={
+		death="1348.1.2"
+	}
+}
+
+450691 = {
+	name="古德马"
+	# AKA: Gudmar Magnusson
+	dynasty=143
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1291.1.1={
+		add_spouse=450833
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+
+450692 = {
+	name="英吉比约格"
+	# AKA: Ingeborg Magnusdotter
+	female = yes
+	dynasty=143
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="greedy"
+	trait="honest"
+	trait="martial_cleric"
+	father=450693
+	mother=450717
+	1327.1.2={
+		birth="1327.1.2"
+	}
+	1377.1.2={
+		death="1377.1.2"
+	}
+}
+
+450693 = {
+	name="玛格努斯"
+	# AKA: Magnus Gudmarsson
+	dynasty=143
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="flamboyant_schemer"
+	father=450691
+	mother=450833
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1316.1.1={
+		add_spouse = 450717
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+
+450694 = {
+	name="塞西莉亚"
+	# AKA: Cecilia Ulfsdotter
+	female = yes
+	dynasty=143
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	father=450690
+	mother=450716
+	1337.1.2={
+		birth="1337.1.2"
+	}
+	1387.1.2={
+		death="1387.1.2"
+	}
+}
+
+450695 = {
+	name="卡尔"
+	# AKA: Karl Ulfsson
+	dynasty=143
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="thrifty_clerk"
+	father=450690
+	mother=450716
+	1327.1.2={
+		birth="1327.1.2"
+	}
+	1377.1.2={
+		death="1377.1.2"
+	}
+}
+
+450696 = {
+	name="英吉比约格"
+	# AKA: Ingeborg Ulfsdotter
+	female = yes
+	dynasty=143
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="temperate"
+	trait="thrifty_clerk"
+	father=450690
+	mother=450716
+	1329.1.2={
+		birth="1329.1.2"
+	}
+	1379.1.2={
+		death="1379.1.2"
+	}
+}
+
+450697 = {
+	name="卡特琳娜"
+	# AKA: Katarina Ulfsdotter
+	female = yes
+	dynasty=143
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="martial_cleric"
+	father=450690
+	mother=450716
+	1331.1.2={
+		birth="1331.1.2"
+	}
+	1381.1.2={
+		death="1381.1.2"
+	}
+}
+
+450698 = {
+	name="伯格"
+	# AKA: Birger Ulfsson
+	dynasty=143
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	father=450690
+	mother=450716
+	1333.1.2={
+		birth="1333.1.2"
+	}
+	1383.1.2={
+		death="1383.1.2"
+	}
+}
+
+450699 = {
+	name="本格特"
+	# AKA: Bengt Ulfsson
+	dynasty=143
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	father=450690
+	mother=450716
+	1335.1.2={
+		birth="1335.1.2"
+	}
+	1385.1.2={
+		death="1385.1.2"
+	}
+}
+
+450700 = {
+	name="乔汉"
+	# AKA: Johan Magnusson
+	dynasty=142
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="humble"
+	trait="brave"
+	trait="flamboyant_schemer"
+	father=450701
+	mother=450702
+	1295.1.2={
+		birth="1295.1.2"
+	}
+	1320.1.2={
+		add_spouse=450703
+	}
+	1345.1.2={
+		death="1345.1.2"
+	}
+}
+
+450701 = {
+	name="玛格努斯"
+	# AKA: Magnus Gregersson
+	dynasty=142
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="lustful"
+	trait="kind"
+	trait="zealous"
+	trait="skilled_tactician"
+	1257.1.2={
+		birth="1257.1.2"
+	}
+	1282.1.2={
+		add_spouse = 450702
+	}
+	1326.1.2={
+		death="1326.1.2"
+	}
+}
+
+450702 = {
+	name="英格嘉德"
+	# AKA: Ingegard Filipsdotter
+	female = yes
+	dynasty=141
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="proud"
+	trait="scholarly_theologian"
+	1266.1.2={
+		birth="1266.1.2"
+	}
+	1328.1.2={
+		death="1328.1.2"
+	}
+}
+
+450703 = {
+	name="英格嘉德"
+	# AKA: Ingegard
+	female = yes
+	dynasty=142
+	martial=5
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="thrifty_clerk"
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1325.1.2={
+		death="1325.1.2"
+	}
+}
+
+450704 = {
+	name="英格嘉德"
+	# AKA: Ingegard Johansdotter
+	female = yes
+	dynasty=142
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="deceitful"
+	trait="humble"
+	trait="martial_cleric"
+	father=450700
+	mother=450703
+	1325.1.2={
+		birth="1325.1.2"
+	}
+	1375.1.2={
+		death="1375.1.2"
+	}
+}
+
+450705 = {
+	name="海伦娜"
+	# AKA: Helena Magnusdotter
+	female = yes
+	dynasty=142
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="underhanded_rogue"
+	father=450701
+	mother=450702
+	1287.1.2={
+		birth="1287.1.2"
+	}
+	1337.1.2={
+		death="1337.1.2"
+	}
+}
+
+450710 = {
+	name="伊斯雷尔"
+	# AKA: Israel Birgersson
+	dynasty=100290
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="underhanded_rogue"
+	father=450711
+	mother=450712
+	1305.1.2={
+		birth="1305.1.2"
+	}
+	1326.1.2={
+		add_spouse = 450713
+	}
+	1355.1.2={
+		death="1355.1.2"
+	}
+}
+
+450711 = {
+	name="伯格" # Petersson
+	# AKA: Birger Persson
+	dynasty=100290
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="arbitrary"
+	trait="wroth"
+	trait="charismatic_negotiator"
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1298.1.1={
+		add_spouse=450712
+	}
+	1327.1.1={
+		death="1327.1.1"
+	}
+}
+
+450712 = {
+	name="英吉比约格"
+	# AKA: Ingeborg Bengtsdotter
+	female = yes
+	dynasty=155
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="amateurish_plotter"
+	father=450514 # Bengt Magnusson
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+
+450713 = {
+	name="本塔"
+	# AKA: Bengta Karlsdotter
+	female = yes
+	dynasty=138
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="deceitful"
+	trait="lisp"
+	trait="scholarly_theologian"
+	father=450718
+	mother=450705
+	1310.1.2={
+		birth="1310.1.2"
+	}
+	1360.1.2={
+		death="1360.1.2"
+	}
+}
+
+450714 = {
+	name="海伦娜"
+	# AKA: Helena Israelsdotter
+	female = yes
+	dynasty=100290
+	martial=8
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="thrifty_clerk"
+	father=450710
+	mother=450713
+	1325.1.2={
+		birth="1325.1.2"
+	}
+	1375.1.2={
+		death="1375.1.2"
+	}
+}
+
+450715 = {
+	name="拉姆伯格"
+	# AKA: Ramborg Israelsdotter
+	female = yes
+	dynasty=100290
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="thrifty_clerk"
+	father=450710
+	mother=450713
+	1328.1.2={
+		birth="1328.1.2"
+	}
+	1378.1.2={
+		death="1378.1.2"
+	}
+}
+
+450716 = {
+	name="比尔基塔" # Heliga Birgitta (Saint)
+	# AKA: Birgitta Birgersdotter
+	female = yes
+	dynasty=100290
+	martial=3
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="chaste"
+	trait="deceitful"
+	trait="proud"
+	trait="zealous"
+	trait="flamboyant_schemer"
+	father=450711
+	mother=450712
+	1303.1.1={
+		birth="1303.1.1"
+	}
+	1353.7.23={
+		death="1353.7.23" # In Rome
+	}
+}
+
+450717 = {
+	name="卡特琳娜"
+	# AKA: Katarina Birgersdotter
+	female = yes
+	dynasty=100290
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="flamboyant_schemer"
+	father=450711
+	mother=450712
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+450718 = {
+	name="卡尔"
+	# AKA: Karl Astadsson
+	dynasty=138
+	martial=5
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="arbitrary"
+	trait="tough_soldier"
+	1284.1.2={
+		birth="1284.1.2"
+	}
+	1303.1.2={
+		add_spouse = 450705
+	}
+	1335.1.2={
+		death="1335.1.2"
+	}
+}
+
+450720 = {
+	name="尼尔斯"
+	# AKA: Nils Abjornsson
+	dynasty=137
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="martial_cleric"
+	father=450721
+	mother=450722
+	1278.1.2={
+		birth="1278.1.2"
+	}
+	1306.1.2={
+		add_spouse = 450723
+	}
+	1329.1.2={
+		death="1329.1.2"
+	}
+}
+
+450721 = {
+	name="阿比约恩"
+	# AKA: Abjorn Sixtensson
+	dynasty=137
+	martial=6
+	diplomacy=6
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="skilled_tactician"
+	1240.1.2={
+		birth="1240.1.2"
+	}
+	1270.1.2={
+		add_spouse=450722
+	}
+	1310.1.2={
+		death="1310.1.2"
+	}
+}
+
+450722 = {
+	name="英吉比约格"
+	# AKA: Ingeborg Ulfsdotter
+	female = yes
+	dynasty=136
+	martial=8
+	diplomacy=4
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="martial_cleric"
+	father=450830
+	mother=450832
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1307.1.2={
+		death="1307.1.2"
+	}
+}
+
+450723 = {
+	name="本塔"
+	# AKA: Bengta Abrahamsdotter
+	female = yes
+	dynasty=137
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="wroth"
+	trait="amateurish_plotter"
+	father=450724
+	mother=450725
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+450724 = {
+	name="亚伯拉罕"
+	dynasty=137
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="tough_soldier"
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1286.1.2={
+		add_spouse = 450725
+	}
+	1315.1.2={
+		death="1315.1.2"
+	}
+}
+
+450725 = {
+	name="英格丽德"
+	female = yes
+	dynasty=137
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="just"
+	trait="scholarly_theologian"
+	1270.1.2={
+		birth="1270.1.2"
+	}
+	1330.1.2={
+		death="1330.1.2"
+	}
+}
+
+450726 = {
+	name="英吉比约格"
+	# AKA: Ingeborg Nilsdotter
+	female = yes
+	dynasty=137
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="flamboyant_schemer"
+	father=450720
+	mother=450723
+	1315.1.2={
+		birth="1315.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+450727 = {
+	name="腓力"
+	# AKA: Filip Nilsson
+	dynasty=137
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="flamboyant_schemer"
+	father=450720
+	mother=450723
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1370.1.2={
+		death="1370.1.2"
+	}
+}
+
+450728 = {
+	name="英格丽德"
+	# AKA: Ingrid Nilsdotter
+	female = yes
+	dynasty=137
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="martial_cleric"
+	father=450720
+	mother=450723
+	1327.1.2={
+		birth="1327.1.2"
+	}
+	1377.1.2={
+		death="1377.1.2"
+	}
+}
+
+450729 = {
+	name="本格特"
+	# AKA: Bengt Nilsson
+	dynasty=137
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="tough_soldier"
+	father=450720
+	mother=450723
+	1329.1.2={
+		birth="1329.1.2"
+	}
+	1379.1.2={
+		death="1379.1.2"
+	}
+}
+
+450760 = {
+	name="苏恩"
+	dynasty=131
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="envious"
+	trait="skilled_tactician"
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+450771 = {
+	name="玛尔塔"
+	# AKA: Marta Ulfsdotter
+	female = yes
+	dynasty=143
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="tough_soldier"
+	father=450690
+	mother=450716
+	1319.1.2={
+		birth="1319.1.2"
+	}
+	1369.1.2={
+		death="1369.1.2"
+	}
+}
+
+450830 = {
+	name="乌尔夫"
+	# AKA: Ulf Karlsson
+	dynasty=136
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="slothful"
+	trait="amateurish_plotter"
+	father = 144670
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	1281.1.1={
+		death="1281.1.1"
+	}
+}
+
+450831 = {
+	name="玛格丽塔"
+	female = yes
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="humble"
+	trait="thrifty_clerk"
+	1253.1.2={
+		birth="1253.1.2"
+	}
+	1308.1.2={
+		death="1308.1.2"
+	}
+}
+
+450832 = {
+	name="英吉比约格"
+	female = yes
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="proud"
+	trait="temperate"
+	trait="martial_cleric"
+	1230.1.2={
+		birth="1230.1.2"
+	}
+	1250.1.3={
+		death="1250.1.3"
+	}
+}
+
+450833 = {
+	name="玛格丽塔"
+	# AKA: Margareta Ulfsdotter
+	female = yes
+	dynasty=136
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="flamboyant_schemer"
+	father=450830
+	mother=450831
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1323.1.1={
+		death="1323.1.1"
+	}
+}
+
+450840 = {
+	name="波"
+	# AKA: Bo Jonsson
+	dynasty=121
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="swedish"
+	trait="martial_cleric"
+	father=450841
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1380.1.2={
+		death="1380.1.2"
+	}
+}
+
+450841 = {
+	name="扬"
+	# AKA: Jan Tomasson
+	dynasty=121
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="envious"
+	trait="amateurish_plotter"
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1334.1.2={
+		death="1334.1.2"
+	}
+}
+
+450850 = {
+	name="本格特"
+	# AKA: Bengt Gregersson
+	dynasty=761
+	martial=5
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="swedish"
+	trait="patient"
+	trait="amateurish_plotter"
+	1275.1.2={
+		birth="1275.1.2"
+	}
+	1325.1.2={
+		death="1325.1.2"
+	}
+}
+
+450860 = {
+	name="彼得"
+	# AKA: Peter Filipsson
+	dynasty=141
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="clubfooted"
+	trait="charismatic_negotiator"
+	1270.1.2={
+		birth="1270.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+487070 = {
+	name="玛格努斯"
+	dynasty=100280
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="charitable"
+	trait="martial_cleric"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+487071 = {
+	name="本格特"
+	dynasty=100281
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="greedy"
+	trait="zealous"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+487072 = {
+	name="本格特"
+	dynasty=100283
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="brave"
+	trait="cynical"
+	trait="charitable"
+	trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+126001 = {
+	name="里基萨"
+	female=yes
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	father=450506
+	mother=451511
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1292.1.1 = {
+		death="1292.1.1"
+	}
+}
+
+33337 = {
+	name="埃里克" #duke of Smaland
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	father=450510
+	mother=450511
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1275.12.17={
+		death="1275.12.17"
+	}
+}
+
+33338 = {
+	name="本格特" #duke of Finland
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	trait="celibate"
+	trait="scholarly_theologian"
+	father=450510
+	mother=450511
+	1254.1.1={
+		birth="1254.1.1"
+	}
+	1291.5.25={
+		death="1291.5.25"
+	}
+}
+
+33339 = {
+	name="英吉比约格" 
+	female=yes
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	father=450510
+	mother=450511
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1302.6.30={
+		death="1302.6.30"
+	}
+}
+
+33340 = {
+	name="格瑞格斯" 
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	trait="legit_bastard"
+	father=450510
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1276.1.1={
+		death="1276.1.1"
+	}
+}
+
+126002 = {
+	name="特吉尔"
+	dna="dfpknhcpfcp"
+	properties="fckjhj"
+	dynasty=1055
+	religion="norse_pagan"
+	culture="swedish"
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	learning=5
+	trait="brilliant_strategist"
+	trait="cruel"
+	trait="temperate"
+	trait="envious"
+	trait="deceitful"
+	trait="ambitious"
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1050.1.1={
+		give_nickname = nick_the_liberator
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+126003 = {
+	name="乔西"
+	dna="poaanmhlbai"
+	properties="cehich"
+	dynasty=1056
+	religion="norse_pagan"
+	culture="swedish"
+	martial=3
+	diplomacy=5
+	intrigue=7
+	stewardship=3
+	learning=6
+	trait="elusive_shadow"
+	trait="deceitful"
+	trait="gluttonous"
+	trait="craven"
+	1022.1.1 = {
+		birth="1022.1.1"
+	}
+	1050.1.1={
+		employer = 126002
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+101503 = {
+	name="于丽德" #Olavsdottir
+	female = yes
+	dynasty=502
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="norse_pagan"
+	culture="swedish"
+	trait="just"
+	trait="envious"
+	trait="patient"
+	trait="scholarly_theologian"
+	father=100502 #Olof
+	960.1.1={
+		birth="960.1.1"
+	}
+	979.1.1={
+		religion="catholic"
+	}
+	1002.11.13={
+		death="1002.11.13"
+	}
+}
+
+100554 = {
+	name="英格丽德" #Ragnvaldsdotter
+	female = yes
+	dynasty=498
+	martial=4 
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="swedish"
+	trait="proud"
+	trait="deceitful"
+	trait="intricate_webweaver"
+	father=100552 # Ragnvald
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+143136 = {
+	name="奥拉夫"
+	dynasty=100291
+	religion="norse_pagan"
+	culture="swedish"
+	father = 20006
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+
+143137 = {
+	name="奥拉夫"
+	dynasty=100291
+	religion="norse_pagan"
+	culture="swedish"
+	father = 143136
+	1119.1.1={
+		birth="1119.1.1"
+	}
+	1158.1.1={
+		death="1158.1.1"
+	}
+}
+
+143138 = {
+	name="法斯特"
+	dynasty=100295
+	religion="catholic"
+	culture="swedish"
+	father = 20008
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+
+143139 = {
+	name="法斯特"
+	dynasty=100295
+	religion="catholic"
+	culture="swedish"
+	father = 143138
+	1119.1.1={
+		birth="1119.1.1"
+	}
+	1187.1.1={
+		death="1187.1.1"
+	}
+}
+
+143140 = {
+	name="托尔德"
+	dynasty=100281
+	religion="norse_pagan"
+	culture="swedish"
+	father = 20014
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+143141 = {
+	name="托尔德"
+	dynasty=100281
+	religion="norse_pagan"
+	culture="swedish"
+	father = 143140
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1187.1.1={
+		death="1187.1.1"
+	}
+}
+
+143142 = {
+	name="博图尔夫"
+	dynasty=100280
+	religion="norse_pagan"
+	culture="swedish"
+	father = 20015
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+143143 = {
+	name="博图尔夫"
+	dynasty=100280
+	religion="norse_pagan"
+	culture="swedish"
+	father = 143142
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1187.1.1={
+		death="1187.1.1"
+	}
+}
+
+143144 = {
+	name="艾恩法斯特"
+	dynasty=100280
+	religion="norse_pagan"
+	culture="swedish"
+	father = 200001
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+143145 = {
+	name="艾恩法斯特"
+	dynasty=100280
+	religion="norse_pagan"
+	culture="swedish"
+	father = 143144
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+161123 = {
+	name="西格"
+	dynasty=1030030
+	religion="catholic"
+	culture="swedish"
+	father=202044
+	mother=202043
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+
+161122 = {
+	name="本格特"
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	father=200533
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+
+202044 = {
+	name="古特尔"
+	dynasty=1030030
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="tough_soldier"
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1150.1.1={
+		trait="crusader"
+	}
+	1152.1.1={
+		add_spouse = 202043
+	}
+	1174.1.1={
+		death="1174.1.1"
+	}
+}
+
+202045 = {
+	name="海琳"
+	female = yes
+	dynasty=1030030
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="swedish"
+	trait="lustful"
+	trait="humble"
+	trait="arbitrary"
+	trait="amateurish_plotter"
+	father=202044
+	mother=202043
+	1162.1.1={
+		birth="1162.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+#af Stenkyrka
+
+167300 = {
+	name="阿德费尔特"
+	#placeholder 
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=100536
+	mother=167630
+	1066.1.1 = {
+		birth="1066.1.1"
+	}
+	1088.1.1={
+		add_spouse=167631
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+167301 = {
+	name="利卡尔"
+	#placeholder 
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=100536
+	mother=167630
+	1068.1.1 = {
+		birth="1068.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+
+
+167302 = {
+	name="勒多"
+	#placeholder 
+	female=yes
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167301
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1140.1.1 = {
+		death="1140.1.1"
+	}
+}
+
+167303 = {
+	name="艾斯比伦"
+	#placeholder 
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167300
+	mother=167631
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1108.1.1={
+		add_spouse=167632
+	}
+	1148.1.1 = {
+		death="1148.1.1"
+	}
+}
+
+
+
+167304 = {
+	name="玛格努斯"
+	#placeholder 
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167303
+	mother=167632
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1138.1.1={
+		add_spouse=167633
+	}
+	1176.1.1 = {
+		death="1176.1.1"
+	}
+}
+
+
+
+167305 = {
+	name="吉拉"
+	#placeholder 
+	female=yes
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167303
+	mother=167632
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+
+
+167306 = {
+	name="布林尤尔夫"
+	#placeholder 
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167304
+	mother=167633
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1158.1.1={
+		add_spouse=167634
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+
+
+167307 = {
+	name="阿德费尔特"
+	#placeholder 
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167304
+	mother=167633
+	1142.1.1 = {
+		birth="1142.1.1"
+	}
+	1205.1.1 = {
+		death="1205.1.1"
+	}
+}
+
+
+
+167308 = {
+	name="奥拉夫"
+	#placeholder 
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167304
+	mother=167633
+	1144.1.1 = {
+		birth="1144.1.1"
+	}
+	1199.1.1 = {
+		death="1199.1.1"
+	}
+}
+
+
+
+167309 = {
+	name="英佳"
+	#placeholder
+	female=yes 
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167304
+	mother=167633
+	1146.1.1 = {
+		birth="1146.1.1"
+	}
+	1206.1.1 = {
+		death="1206.1.1"
+	}
+}
+
+
+
+167310 = {
+	name="玛格努斯"
+	#placeholder 
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167306
+	mother=167634
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1187.1.1={
+		add_spouse=167635
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+
+
+167311 = {
+	name="托里尔"
+	#placeholder 
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167306
+	mother=167634
+	1161.1.1 = {
+		birth="1161.1.1"
+	}
+	1211.1.1 = {
+		death="1211.1.1"
+	}
+}
+
+
+
+
+167312 = {
+	name="里基萨"
+	#placeholder 
+	female=yes
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167307
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1212.1.1 = {
+		death="1212.1.1"
+	}
+}
+
+
+
+167313 = {
+	name="阿勒塔"
+	#placeholder 
+	female=yes
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167307
+	1161.1.1 = {
+		birth="1161.1.1"
+	}
+	1214.1.1 = {
+		death="1214.1.1"
+	}
+}
+
+
+
+
+167314 = {
+	name="英格瓦尔"
+	#placeholder 
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167308
+	1164.1.1 = {
+		birth="1164.1.1"
+	}
+	1214.1.1 = {
+		death="1214.1.1"
+	}
+}
+
+# Guldsmed
+
+167315 = {
+	name="居德蒙德"
+	#placeholder 
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	1000.1.1 = {
+		birth="1000.1.1"
+	}
+	1024.1.1={
+		add_spouse=167636
+	}
+	1050.1.1 = {
+		death="1050.1.1"
+	}
+}
+
+167316 = {
+	name="克蒂尔"
+	#placeholder 
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167315
+	mother=167636
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1048.1.1={
+		add_spouse=167637
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+167317 = {
+	name="罗格希尔德"
+	#placeholder 
+	female=yes
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167315
+	mother=167636
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+167318 = {
+	name="居德蒙德"
+	#placeholder 
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167316
+	mother=167637
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1116.1.1 = {
+		death="1116.1.1"
+	}
+}
+
+
+
+167319 = {
+	name="尼克拉斯"
+	#placeholder 
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167316
+	mother=167637
+	1052.1.1 = {
+		birth="1052.1.1"
+	}
+	1074.1.1={
+		add_spouse=167638
+	}
+	1104.1.1 = {
+		death="1104.1.1"
+	}
+}
+
+
+167320 = {
+	name="霍尔姆弗里德"
+	#placeholder 
+	female=yes
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167319
+	mother=167638
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+
+
+
+167321 = {
+	name="梅尔"
+	#placeholder 
+	female=yes
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167319
+	mother=167638
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1133.1.1 = {
+		death="1133.1.1"
+	}
+}
+
+
+
+
+167322 = {
+	name="埃德瓦"
+	#placeholder 
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167319
+	mother=167638
+	1084.1.1 = {
+		birth="1084.1.1"
+	}
+	1110.1.1 = {
+		add_spouse=167302
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+
+
+167323 = {
+	name="居德蒙德"
+	#placeholder 
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167322
+	mother=167302
+	1112.1.1 = {
+		birth="1112.1.1"
+	}
+	1138.1.1 = {
+		add_spouse=167639
+	}
+	
+	1175.1.1 = {
+		death="1175.1.1"
+	}
+}
+
+
+
+
+167324 = {
+	name="埃德瓦"
+	#placeholder 
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167323
+	mother=167639
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1159.1.1 = {
+		add_spouse=167640
+	}
+	1199.1.1 = {
+		death="1199.1.1"
+	}
+}
+
+
+
+
+167325 = {
+	name="尼克拉斯"
+	#placeholder 
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167324
+	mother=167640
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1187.1.1 = {
+		add_spouse=167312
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+
+
+
+167326 = {
+	name="居德蒙德"
+	#placeholder 
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167324
+	mother=167640
+	1162.1.1 = {
+		birth="1162.1.1"
+	}
+	
+	1212.1.1 = {
+		death="1212.1.1"
+	}
+}
+
+
+
+
+167327 = {
+	name="哈尔斯滕"
+	#placeholder 
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167323
+	1145.1.1 = {
+		birth="1145.1.1"
+	}
+	
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+
+
+167328 = {
+	name="阿勒塔"
+	#placeholder 
+	female=yes
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167327
+	1165.1.1 = {
+		birth="1165.1.1"
+	}
+	
+	1215.1.1 = {
+		death="1215.1.1"
+	}
+}
+
+
+
+167329 = {
+	name="尼克拉斯"
+	#placeholder 
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167327
+	1166.1.1 = {
+		birth="1166.1.1"
+	}
+	
+	1216.1.1 = {
+		death="1216.1.1"
+	}
+}
+
+
+# Hejnum
+
+
+
+167330 = {
+	name="法斯特"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	1010.1.1 = {
+		birth="1010.1.1"
+	}
+	1028.1.1 = {
+		add_spouse=167641
+	}
+	1060.1.1 = {
+		death="1060.1.1"
+	}
+}
+
+
+
+167331 = {
+	name="托里尔"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167330
+	mother=167641
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1048.1.1 = {
+		add_spouse=167317
+	}
+	1098.1.1 = {
+		death="1098.1.1"
+	}
+}
+
+
+
+167332 = {
+	name="道格"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167330
+	mother=167641
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+
+
+
+167333 = {
+	name="奥拉夫"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167330
+	mother=167641
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	
+	1092.1.1 = {
+		death="1092.1.1"
+	}
+}
+
+
+
+167334 = {
+	name="艾恩法斯特"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167331
+	mother=167317
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1066.1.1 = {
+		add_spouse=167642
+	}
+	1107.1.1 = {
+		death="1107.1.1"
+	}
+}
+
+
+
+
+167335 = {
+	name="居德蒙德"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167331
+	mother=167317
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+
+
+167336 = {
+	name="西格特吕格"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	trait="legit_bastard"
+	father=167332
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	
+	1098.1.1 = {
+		death="1098.1.1"
+	}
+}
+
+
+
+167337 = {
+	name="埃蒙德"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167334
+	mother=167642
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1098.1.1 = {
+		add_spouse=167643
+	}
+	1128.1.1 = {
+		death="1128.1.1"
+	}
+}
+
+
+167338 = {
+	name="法斯特"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167337
+	mother=167643
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	
+	1155.1.1 = {
+		death="1155.1.1"
+	}
+}
+
+
+
+167339 = {
+	name="艾恩法斯特"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167338
+	1125.1.1 = {
+		birth="1125.1.1"
+	}
+	1142.1.1 = {
+		add_spouse=167305
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+
+
+
+167340 = {
+	name="斯维克"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167339
+	mother=167305
+	1145.1.1 = {
+		birth="1145.1.1"
+	}
+	1164.1.1 = {
+		add_spouse=167644
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+
+
+
+
+167341 = {
+	name="法斯特"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167339
+	mother=167305
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+
+167378 = {
+	name="道格"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167340
+	mother=167644
+	1165.1.1 = {
+		birth="1165.1.1"
+	}
+	
+	1215.1.1 = {
+		death="1215.1.1"
+	}
+}
+
+
+
+
+167379 = {
+	name="托里尔"
+	#placeholder 
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167340
+	mother=167644
+	1168.1.1 = {
+		birth="1168.1.1"
+	}
+	
+	1218.1.1 = {
+		death="1218.1.1"
+	}
+}
+
+# Gildehusen
+
+
+
+167342 = {
+	name="汗克"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	1005.1.1 = {
+		birth="1005.1.1"
+	}
+	1028.1.1 = {
+		add_spouse=167649
+	}
+	1055.1.1 = {
+		death="1055.1.1"
+	}
+}
+
+
+167343 = {
+	name="鲁拉克"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167342
+	mother=167649
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1050.1.1 = {
+		add_spouse=167650
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+
+
+
+
+167344 = {
+	name="西古德"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167342
+	mother=167649
+	1032.1.1 = {
+		birth="1032.1.1"
+	}
+	1050.1.1 = {
+		add_spouse=167651
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+
+
+
+167345 = {
+	name="汗克"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167344
+	mother=167651
+	1052.1.1 = {
+		birth="1052.1.1"
+	}
+	1070.1.1 = {	
+		add_spouse=167364
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+
+
+
+167346 = {
+	name="斯文"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167344
+	mother=167651
+	1056.1.1 = {
+		birth="1056.1.1"
+	}
+	1079.1.1 = {	
+		add_spouse=167653
+	}
+	1104.1.1 = {
+		death="1104.1.1"
+	}
+}
+
+
+
+
+167347 = {
+	name="埃斯泰因"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167344
+	mother=167651
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	
+	1118.1.1 = {
+		death="1118.1.1"
+	}
+}
+
+
+
+
+167348 = {
+	name="西古德"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167345
+	mother=167364
+	1072.1.1 = {
+		birth="1072.1.1"
+	}
+	1095.1.1 = {	
+		add_spouse=167652
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+
+
+167349 = {
+	name="艾斯比贾"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167346
+	mother=167653
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1099.1.1 = {	
+		add_spouse=167654
+	}
+	1135.1.1 = {
+		death="1135.1.1"
+	}
+}
+
+
+
+
+167350 = {
+	name="英吉比约格"
+	#placeholder 
+	female=yes
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167347
+	1085.1.1 = {
+		birth="1085.1.1"
+	}
+	
+	1135.1.1 = {
+		death="1135.1.1"
+	}
+}
+
+
+
+
+167351 = {
+	name="汗克"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167349
+	mother=167654
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1124.1.1 = {	
+		add_spouse=167655
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+
+
+
+167352 = {
+	name="本格特"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167351
+	mother=167655
+	1125.1.1 = {
+		birth="1125.1.1"
+	}
+	1149.1.1 = {	
+		add_spouse=167656
+	}
+	1178.1.1 = {
+		death="1178.1.1"
+	}
+}
+
+
+
+167353 = {
+	name="西古德"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167351
+	mother=167655
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+
+
+167354 = {
+	name="鲁拉克"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167352
+	mother=167656
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+
+
+167355 = {
+	name="希穆德"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167352
+	mother=167656
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1169.1.1 = {	
+		add_spouse=167657
+	}
+	1203.1.1 = {
+		death="1203.1.1"
+	}
+}
+
+
+
+167390 = {
+	name="布丽吉塔"
+	#placeholder 
+	female=yes
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167355
+	mother=167657
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}	
+
+
+
+167356 = {
+	name="汗克"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167355
+	mother=167657
+	1171.1.1 = {
+		birth="1171.1.1"
+	}
+	1187.1.1= {
+		add_spouse=167313
+	}
+	1221.1.1 = {
+		death="1221.1.1"
+	}
+}
+
+
+
+167357 = {
+	name="布鲁尔"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	trait="legit_bastard"
+	father=167353
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1166.1.1= {
+		add_spouse=167658
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+
+
+
+167358 = {
+	name="西古德"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167357
+	mother=167658
+	1168.1.1 = {
+		birth="1168.1.1"
+	}
+	
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}
+
+
+
+167359 = {
+	name="西格特吕格"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167357
+	mother=167658
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}
+
+
+
+167360 = {
+	name="席格贾厄"
+	#placeholder 
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167357
+	mother=167658
+	1171.1.1 = {
+		birth="1171.1.1"
+	}
+	
+	1222.1.1 = {
+		death="1222.1.1"
+	}
+}
+
+
+# Str?ben
+
+167361 = {
+	name="克努特"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	1020.1.1 = {
+		birth="1020.1.1"
+	}
+	1044.1.1 = {
+		add_spouse=167645
+	}
+	1077.1.1 = {
+		death="1077.1.1"
+	}
+}
+
+
+167362 = {
+	name="戴尔"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167361
+	mother=167645
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1063.1.1 = {
+		add_spouse=167646
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+
+
+167363 = {
+	name="福尔克"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167361
+	mother=167645
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	
+	1105.1.1 = {
+		death="1105.1.1"
+	}
+}
+
+
+
+167364 = {
+	name="英佳"
+	#placeholder 
+	female=yes
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167361
+	mother=167645
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	
+	1105.1.1 = {
+		death="1105.1.1"
+	}
+}	
+	
+167365 = {
+	name="克努特"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167362
+	mother=167646
+	1065.1.1 = {
+		birth="1065.1.1"
+	}
+	1084.1.1 = {
+		add_spouse=167647
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+
+
+
+
+167366 = {
+	name="埃里克"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167363
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+
+
+
+
+167367 = {
+	name="乌尔夫"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167363
+	1072.1.1 = {
+		birth="1072.1.1"
+	}
+	
+	1125.1.1 = {
+		death="1125.1.1"
+	}
+}	
+
+
+167368 = {
+	name="弗杰恩"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167365
+	mother=167647
+	1085.1.1 = {
+		birth="1085.1.1"
+	}
+	1109.1.1 = {
+		add_spouse=167648
+	}
+	1145.1.1 = {
+		death="1145.1.1"
+	}
+}
+
+
+
+167369 = {
+	name="乔汉"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167365
+	mother=167647
+	1089.1.1 = {
+		birth="1089.1.1"
+	}
+	
+	1140.1.1 = {
+		death="1140.1.1"
+	}
+}
+
+
+167370 = {
+	name="克努特"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167368
+	mother=167648
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+
+
+
+167371 = {
+	name="福尔克"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167368
+	mother=167648
+	1115.1.1 = {
+		birth="1115.1.1"
+	}
+	
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+	
+
+
+167372 = {
+	name="朗瓦尔德"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167368
+	mother=167648
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1158.1.1 = {
+		add_spouse=167377
+	}
+	1193.1.1 = {
+		death="1193.1.1"
+	}
+}
+
+
+167373 = {
+	name="克努特"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167372
+	mother=167377
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}		
+	
+
+
+167374 = {
+	name="福尔克"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167372
+	mother=167377
+	1161.1.1 = {
+		birth="1161.1.1"
+	}
+	
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+
+
+167375 = {
+	name="弗杰恩"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	trait="twin"
+	father=167372
+	mother=167377
+	1162.1.1 = {
+		birth="1162.1.1"
+	}
+	
+	1212.1.1 = {
+		death="1212.1.1"
+	}
+}
+
+
+
+167376 = {
+	name="乔汉"
+	#placeholder 
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	trait="twin"
+	father=167372
+	mother=167377
+	1162.1.1 = {
+		birth="1162.1.1"
+	}
+	
+	1215.1.1 = {
+		death="1215.1.1"
+	}
+}
+
+
+
+
+167377 = {
+	name="希格丽德"
+	#placeholder 
+	female=yes
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167323
+	1142.1.1 = {
+		birth="1142.1.1"
+	}
+	
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+102542 = {
+	name="乌尔夫"
+	dynasty=500
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="norse_pagan"
+	culture="swedish"
+	trait="just"
+	trait="charismatic_negotiator"
+    father=100521
+    mother=102545
+	1001.1.2={
+		birth="1001.1.2"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+170036 = {
+	name="乔汉"
+	dynasty=496
+	religion="catholic"
+	culture="swedish"
+        trait="cruel"
+	father=200600
+	mother=200601
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1154.1.1={
+		death="1154.1.1"
+	}
+}
+
+170037 = {
+	name="鲍里斯拉夫"
+	dynasty=496
+	religion="catholic"
+	culture="swedish"
+	father=200600
+	mother=221511
+	1152.1.1={
+		birth="1152.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+170038 = {
+	name="海伦娜"
+	female = yes
+	dynasty=496
+	religion="catholic"
+	culture="swedish"
+	father=200600
+	mother=200601
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+170039 = {
+	name="艾格古德"
+	female = yes
+	dynasty=496
+	religion="catholic"
+	culture="swedish"
+	father=200600
+	mother=200601
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1204.1.1={
+		death="1204.1.1"
+	}
+}
+
+170020 = {
+	name="卡尔"
+	dynasty=496
+	religion="catholic"
+	culture="swedish"
+	father=200604 # Sverker den Yngre
+	mother=200605 # Benedicta Ebbesdotter
+	1186.1.3={
+		birth="1186.1.3"
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+
+170021 = {
+	name="卡特琳娜" # Katarina Sunadotter
+	female = yes
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	trait="scholarly_theologian"
+	father=200534 # Sune Folkesson
+	mother=200610 # Helena Sverkersdotter
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1253.1.1={
+		death="1253.1.1"
+	}
+}
+
+170024 = {
+	name="霍姆格" # Holmger Knutsson
+	dynasty=381
+	religion="catholic"
+	culture="swedish"
+	father=200508 # Knut Holmgersson
+	mother=170023 # Helena Pedersdatter
+	1226.1.1={
+		birth="1206.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+
+170025 = {
+	name="腓力" # Filip Knutsson
+	dynasty=381
+	religion="catholic"
+	culture="swedish"
+	father=200508 # Knut Holmgersson
+	mother=170023 # Helena Pedersdatter
+	1226.1.1={
+		birth="1207.1.1"
+	}
+	1252.1.1={
+		death="1252.1.1"
+	}
+}
+
+170000 = {
+	name="卡尔" #Bishop of Link?ping
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	trait="brave"
+	trait="scholarly_theologian"
+	father=200540 # Magnus Minnisk?ld
+	mother=200607 # Ingrid Ylva
+	1196.1.1={
+		birth="1196.1.1"
+	}
+	1220.8.8={
+		death="1220.8.8" # battle of Lihuna
+	}
+}
+
+170001 = {
+	name="克里斯蒂娜"
+	female = yes
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	father=450510 #Birger Jarl
+	mother=450511
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1288.2.28={
+		death="1288.2.28"
+	}
+}
+
+170002 = {
+	name="玛格努斯"
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	father=450504
+	mother=451516
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1319.7.8={
+		add_claim=k_sweden
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+170003 = {
+	name="艾瑞克"
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	father=450504
+	mother=451516
+	1300.1.1={
+		birth="1301.1.1"
+	}
+	1319.1.1={
+		death="1319.1.1"
+	}
+}
+
+170004 = {
+	name="爱格妮思"
+	female=yes
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	father=450504
+	mother=451516
+	1300.1.1={
+		birth="1302.1.1"
+	}
+	1344.1.1={
+		death="1344.1.1"
+	}
+}
+
+170005 = {
+	name="卡特琳娜"
+	female=yes
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	father=450504
+	mother=451516
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+
+170006 = {
+	name="埃里克"
+	dynasty=155
+	religion="catholic"
+	culture="swedish"
+	father=450506
+	mother=451511
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+167630 = {
+	name="于尔娃"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1098.1.1 = {
+		death="1098.1.1"
+	}
+}
+
+167631 = {
+	name="莎拉"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1065.1.1 = {
+		birth="1065.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+
+
+167632 = {
+	name="英佳"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1092.1.1 = {
+		birth="1092.1.1"
+	}
+	1142.1.1 = {
+		death="1142.1.1"
+	}
+}
+
+
+
+167633 = {
+	name="博迪尔德"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+
+
+167634 = {
+	name="霍尔姆弗里德"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+
+
+167635 = {
+	name="阿勒塔"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+
+
+167636 = {
+	name="阿萨"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1005.1.1 = {
+		birth="1005.1.1"
+	}
+	1055.1.1 = {
+		death="1055.1.1"
+	}
+}
+
+
+
+167637 = {
+	name="贡希尔妲"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+
+167638 = {
+	name="克里斯蒂娜"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+
+
+167639 = {
+	name="里基萨"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1172.1.1 = {
+		death="1172.1.1"
+	}
+}
+
+
+
+167640 = {
+	name="朗诺弗里德"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+
+167641 = {
+	name="乌尔芙希尔德"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1010.1.1 = {
+		birth="1010.1.1"
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+
+
+
+
+167642 = {
+	name="英格厄德"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+
+
+167643 = {
+	name="贝塔"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1140.1.1 = {
+		death="1140.1.1"
+	}
+}
+
+
+
+167644 = {
+	name="海伦娜"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1145.1.1 = {
+		birth="1145.1.1"
+	}
+	1195.1.1 = {
+		death="1195.1.1"
+	}
+}
+
+
+
+167645 = {
+	name="比尔基塔"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+
+
+167646 = {
+	name="阿尔芙希尔德"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1095.1.1 = {
+		death="1095.1.1"
+	}
+}
+
+
+
+167647 = {
+	name="伊丽莎白"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1066.1.1 = {
+		birth="1066.1.1"
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+
+
+167648 = {
+	name="哈弗莉"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1150.1.1 = {
+		death="1150.1.1"
+	}
+}
+
+167650 = {
+	name="古尔丽"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1020.1.1 = {
+		birth="1020.1.1"
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+
+
+
+167651 = {
+	name="于尔娃"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1085.1.1 = {
+		death="1085.1.1"
+	}
+}
+
+
+167652 = {
+	name="阿斯特丽"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	1125.1.1 = {
+		death="1125.1.1"
+	}
+}
+
+
+
+167653= {
+	name="卡琳"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+
+
+167654= {
+	name="阿尔芙里德"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1140.1.1 = {
+		death="1140.1.1"
+	}
+}
+
+
+
+167655= {
+	name="索菲亚"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1105.1.1 = {
+		birth="1105.1.1"
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+
+
+
+167656= {
+	name="卡特琳娜"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1125.1.1 = {
+		birth="1125.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+
+
+167657= {
+	name="琳达"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+
+167658= {
+	name="英佳"
+	#placeholder 
+	female=yes
+	religion="catholic"
+	culture="swedish"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+183000 = {
+	name="霍尔姆弗里德"
+	female = yes
+	dynasty=502
+	martial=3
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="swedish"
+	trait="legit_bastard"
+	trait="underhanded_rogue"
+	father=100506
+	mother=100507
+	1009.1.2={
+		birth="1009.1.2"
+	}
+	1071.1.2={
+		death="1071.1.2"
+	}
+}
+
+194223 = {
+	name=Lars
+	dynasty=121 # Grip
+	religion=catholic
+	culture=swedish
+	1150.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		death = yes
+	}
+}
+194224 = {
+	name=Anders
+	dynasty=121 # Grip
+	religion=catholic
+	culture=swedish
+	father=194223
+	1180.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194225 = {
+	name=Anders
+	dynasty=121 # Grip
+	religion=catholic
+	culture=swedish
+	father=194224
+	1215.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+194226 = {
+	name=Magnus
+	dynasty=121 # Grip
+	religion=catholic
+	culture=swedish
+	father=194225
+	1250.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		death = yes
+	}
+}
+194227 = {
+	name=Kristina
+	dynasty=121 # Grip
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194224
+	1200.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194228 = {
+	name=Ingrid
+	dynasty=121 # Grip
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194224
+	1205.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194229 = {
+	name=Dag
+	dynasty=497 # Horn
+	religion=catholic
+	culture=swedish
+	1150.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		death = yes
+	}
+}
+194230 = {
+	name=Erik
+	dynasty=497 # Horn
+	religion=catholic
+	culture=swedish
+	father=194229
+	1180.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194231 = {
+	name=Torsten
+	dynasty=497 # Horn
+	religion=catholic
+	culture=swedish
+	father=194230
+	1215.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+194232 = {
+	name=Magnus
+	dynasty=497 # Horn
+	religion=catholic
+	culture=swedish
+	father=194231
+	1250.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		death = yes
+	}
+}
+194233 = {
+	name=Margareta
+	dynasty=497 # Horn
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194230
+	1202.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194234 = {
+	name=Sara
+	dynasty=497 # Horn
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194230
+	1207.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194235 = {
+	name=Knut
+	dynasty=3811 # Bonde
+	religion=catholic
+	culture=swedish
+	1150.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		death = yes
+	}
+}
+194236 = {
+	name=Erik
+	dynasty=3811 # Bonde
+	religion=catholic
+	culture=swedish
+	father=194241
+	1179.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194237 = {
+	name=Knut
+	dynasty=3811 # Bonde
+	religion=catholic
+	culture=swedish
+	father=194242
+	1214.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+194238 = {
+	name=Eskild
+	dynasty=3811 # Bonde
+	religion=catholic
+	culture=swedish
+	father=194243
+	1250.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		death = yes
+	}
+}
+194239 = {
+	name=Anna
+	dynasty=3811 # Bonde
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194242
+	1201.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194240 = {
+	name=Sofia
+	dynasty=3811 # Bonde
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194242
+	1208.1.1 = {
+		birth = yes
+	}
+	1260.1.1 = {
+		death = yes
+	}
+}
+194241 = {
+	name=Klas
+	dynasty=137 # Sparre
+	religion=catholic
+	culture=swedish
+	1150.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		death = yes
+	}
+}
+194242 = {
+	name=Knut
+	dynasty=137 # Sparre
+	religion=catholic
+	culture=swedish
+	father=194241
+	1180.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194243 = {
+	name=Hans
+	dynasty=137 # Sparre
+	religion=catholic
+	culture=swedish
+	father=194242
+	1215.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+194244 = {
+	name=Folke
+	dynasty=137 # Sparre
+	religion=catholic
+	culture=swedish
+	father=194243
+	1250.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		death = yes
+	}
+}
+194245 = {
+	name=Sigrid
+	dynasty=137 # Sparre
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194242
+	1201.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194246 = {
+	name=舠a
+	dynasty=137 # Sparre
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194242
+	1208.1.1 = {
+		birth = yes
+	}
+	1260.1.1 = {
+		death = yes
+	}
+}
+194247 = {
+	name=Johan
+	dynasty=100297 # Lillieh鲻k
+	religion=catholic
+	culture=swedish
+	1150.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		death = yes
+	}
+}
+194248 = {
+	name=M錸s
+	dynasty=100297 # Lillieh鲻k
+	religion=catholic
+	culture=swedish
+	father=194247
+	1179.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194249 = {
+	name=Karl
+	dynasty=100297 # Lillieh鲻k
+	religion=catholic
+	culture=swedish
+	father=194248
+	1214.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+194250 = {
+	name=Johan
+	dynasty=100297 # Lillieh鲻k
+	religion=catholic
+	culture=swedish
+	father=194249
+	1250.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		death = yes
+	}
+}
+194251 = {
+	name=Ebba
+	dynasty=100297 # Lillieh鲻k
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194248
+	1205.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194252 = {
+	name=Anna
+	dynasty=100297 # Lillieh鲻k
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194248
+	1215.1.1 = {
+		birth = yes
+	}
+	1260.1.1 = {
+		death = yes
+	}
+}
+194253 = {
+	name=Anund
+	dynasty=148 # Natt och Dag
+	religion=catholic
+	culture=swedish
+	1150.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		death = yes
+	}
+}
+194254 = {
+	name=Sten
+	dynasty=148 # Natt och Dag
+	religion=catholic
+	culture=swedish
+	father=194253
+	1179.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194255 = {
+	name=Karl
+	dynasty=148 # Natt och Dag
+	religion=catholic
+	culture=swedish
+	father=194254
+	1214.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+194256 = {
+	name=Johan
+	dynasty=148 # Natt och Dag
+	religion=catholic
+	culture=swedish
+	father=194255
+	1250.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		death = yes
+	}
+}
+194257 = {
+	name=Astrid
+	dynasty=148 # Natt och Dag
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194254
+	1205.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194258 = {
+	name=Birgitta
+	dynasty=148 # Natt och Dag
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194254
+	1215.1.1 = {
+		birth = yes
+	}
+	1260.1.1 = {
+		death = yes
+	}
+}
+194259 = {
+	name=Axel
+	dynasty=100006 # Posse
+	religion=catholic
+	culture=swedish
+	1150.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		death = yes
+	}
+}
+194260 = {
+	name=Nils
+	dynasty=100006 # Posse
+	religion=catholic
+	culture=swedish
+	father=194259
+	1179.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194261 = {
+	name=Axel
+	dynasty=100006 # Posse
+	religion=catholic
+	culture=swedish
+	father=194260
+	1214.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+194262 = {
+	name=Arvid
+	dynasty=100006 # Posse
+	religion=catholic
+	culture=swedish
+	father=194261
+	1250.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		death = yes
+	}
+}
+194263 = {
+	name=Anna
+	dynasty=100006 # Posse
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194260
+	1204.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194264 = {
+	name=Axel
+	dynasty=1037 # Tre Rosor
+	religion=catholic
+	culture=swedish
+	1150.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		death = yes
+	}
+}
+194265 = {
+	name=Nils
+	dynasty=1037 # Tre Rosor
+	religion=catholic
+	culture=swedish
+	father=194264
+	1179.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194266 = {
+	name=Axel
+	dynasty=1037 # Tre Rosor
+	religion=catholic
+	culture=swedish
+	father=194265
+	1214.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+194267 = {
+	name=Arvid
+	dynasty=1037 # Tre Rosor
+	religion=catholic
+	culture=swedish
+	father=194266
+	1250.1.1 = {
+		birth = yes
+	}
+	1320.1.1 = {
+		death = yes
+	}
+}
+194268 = {
+	name=M鋜ta
+	dynasty=1037 # Tre Rosor
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194265
+	1203.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194269 = {
+	name=Nils
+	dynasty=1040 # Trolle
+	religion=catholic
+	culture=swedish
+	1150.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		death = yes
+	}
+}
+194270 = {
+	name=Erik
+	dynasty=1040 # Trolle
+	religion=catholic
+	culture=swedish
+	father=194269
+	1179.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194271 = {
+	name=Gustav
+	dynasty=1040 # Trolle
+	religion=catholic
+	culture=swedish
+	father=194270
+	1214.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+194272 = {
+	name=Erik
+	dynasty=1040 # Trolle
+	religion=catholic
+	culture=swedish
+	father=194271
+	1250.1.1 = {
+		birth = yes
+	}
+	1320.1.1 = {
+		death = yes
+	}
+}
+194273 = {
+	name=Ingeborg
+	dynasty=1040 # Trolle
+	religion=catholic
+	culture=swedish
+	female=yes
+	father=194270
+	1203.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		death = yes
+	}
+}
+194274 = {
+	name="Anund"
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=167358
+	1188.1.1 = {
+		birth = yes
+	}
+	1260.1.1 = {
+		death = yes
+	}
+}
+194275 = {
+	name="Olaf"
+	dynasty=9519
+	religion="catholic"
+	culture="swedish"
+	father=194274
+	mother=194276
+	1220.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+194276 = {
+	name=Anna
+	religion="catholic"
+	culture="swedish"
+	female = yes
+	1195.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+
+194277 = {
+	name=Anders
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=167325
+	1190.1.1 = {
+		birth = yes
+	}
+	1255.1.1 = {
+		death = yes
+	}
+}
+194278 = {
+	name=Eskil
+	dynasty=9517
+	religion="catholic"
+	culture="swedish"
+	father=194277
+	1220.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+194279 = {
+	name="Faste"
+	dynasty=9518
+	religion="catholic"
+	culture="swedish"
+	father=167378
+	1204.1.1 = {
+		birth = yes
+	}
+	
+	1288.1.1 = {
+		death = yes
+	}
+}
+194280 = {
+	name="Folke"
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=167310
+	1180.1.1 = {
+		birth = yes
+	}
+	1270.1.1 = {
+		death = yes
+	}
+}
+194281 = {
+	name="Johan"
+	dynasty=495
+	religion="catholic"
+	culture="swedish"
+	father=194280
+	1240.1.1 = {
+		birth = yes
+	}
+	1299.1.1 = {
+		death = yes
+	}
+}
+194282 = {
+	name="Gunnar"
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=167373
+	1190.1.1 = {
+		birth = yes
+	}
+	1255.1.1 = {
+		death = yes
+	}
+}	
+194283 = {
+	name="Folke"
+	dynasty=9520
+	religion="catholic"
+	culture="swedish"
+	father=194282
+	1230.1.1 = {
+		birth = yes
+	}
+	1299.1.1 = {
+		death = yes
+	}
+}

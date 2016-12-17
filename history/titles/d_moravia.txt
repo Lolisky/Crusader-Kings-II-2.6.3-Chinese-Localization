@@ -1,0 +1,96 @@
+741.1.1={
+	liege=0
+	holder = 187000
+}
+782.1.1={
+	holder = 146176
+}
+801.1.1={
+	holder = 146177
+}
+809.1.1={
+	holder = 187001
+}
+830.1.1={
+	liege = "k_moravia"
+	de_jure_liege = k_moravia
+}
+846.8.15={
+	holder = 187002
+}
+863.1.1={
+	holder = 187004
+}
+871.12.1={
+	holder = 187007
+}
+907.7.4={
+	holder = 0
+	liege = 0
+}
+1019.1.1={
+  liege="e_hre"
+  de_jure_liege = k_bohemia
+  #law = agnatic_succession
+  #law = succ_primogeniture
+}
+1019.1.1={
+	holder = 518
+}
+1033.1.1={
+	holder = 0
+}
+1189.3.25={
+	holder = 212057
+}
+1191.9.9={
+	holder = 212875
+}
+1192.1.9={
+	holder = 212855
+}
+1198.9.1={
+	liege = "k_bohemia"
+}
+1198.9.1={
+	holder = 212856
+}
+1222.8.12={
+	holder = 212855
+}
+1224.1.1={
+	holder = 96043
+}
+1227.1.1={
+	holder = 96044
+}
+1239.10.16={
+	holder = 96000
+}
+1246.1.1={
+	holder = 96047
+}
+1247.1.3={
+	holder = 96001
+}
+1278.8.26={
+	holder = 96002
+}
+1305.6.21={
+	holder = 96003
+}
+1306.8.4={
+	holder = 462720
+}
+1306.12.1={
+	holder = 462024
+}
+1307.7.4={
+	holder = 462720
+}
+1310.1.1={
+	holder=462610
+}
+1333.1.1={
+	holder = 462614
+}
