@@ -12,12 +12,11 @@
 
 52汉化组 [2.62 alpha 汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72131)
 
-
-zlthj520 [汉化补完（更新到12.16日版本）](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72633)
-
 核动力火锅 [“发挥2.62尝鲜汉化包最大作用的一些技巧”补丁](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72774)
 
 alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72770)
+
+未来根据情况追一下zlthj520的 [汉化补完](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72633)
 
 * 如果上述大佬不允许这样修改，请找日不落群送我爆炸。
 
