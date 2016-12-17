@@ -1,14 +1,30 @@
 # 说明
 
-这里是基于52汉化组 2.62 alpha 汉化补丁和52论坛若干补完补丁继续治疗强迫症的项目，可能会导致游戏爆炸。
+这里是基于52汉化组 2.62 alpha 汉化补丁和52论坛若干补完补丁的强迫症园地，可能会导致游戏爆炸。
+
+最终目标是能正常运行的2.62打上这个补丁就能实现完整汉化。
+
+## 基于
+
+52汉化组 [2.62 alpha 汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72131)
+
+核动力火锅 [“发挥2.62尝鲜汉化包最大作用的一些技巧”补丁](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72774)
+
+alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72770)
+
+根据情况追一下zlthj520的 [汉化补完](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72633)
+
+* 如果上述大佬不允许这样修改，请找日不落群送我爆炸。
 
 ## 用法
 
-**无脑跟进到最新版本：**在已经打了2.62汉化补丁的情况下直接将[这个](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)解压到游戏根目录
+给游戏本体（2.6.2）打上52汉化组 [2.62 alpha 汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72131) 补丁。
 
-**推荐方法（完整的蒙古补完）：**去[这里](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/releases/)下载最新发布版，解压到游戏根目录覆盖。
+**推荐安装整合包：**直接将[这个](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)整合包解压到游戏根目录覆盖同名文件，一步到位。
 
-**手动操作：**自己去挑文件覆盖。现在的话，用修改后的文件覆盖对应位置的文件即可。如用[蒙古历史角色列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。
+**如果只需要蒙古部分：**[这里](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/releases/)下载最新发布版，解压到游戏根目录覆盖。
+
+**如果只需要自定义文件：**自己去挑文件覆盖。现在的话，用修改后的文件覆盖对应位置的文件即可。如用[蒙古历史角色列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。
 
 * 现在已经补完的文件有：
   * common
@@ -21,18 +37,6 @@
       * mongol.txt
   * localization
     * India.csv
-
-## 基础
-
-52汉化组 [2.62 alpha 汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72131)
-
-核动力火锅 [“发挥2.62尝鲜汉化包最大作用的一些技巧”补丁](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72774)
-
-alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72770)
-
-未来根据情况追一下zlthj520的 [汉化补完](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72633)
-
-* 如果上述大佬不允许这样修改，请找日不落群送我爆炸。
 
 ## 已经修改的内容
 
