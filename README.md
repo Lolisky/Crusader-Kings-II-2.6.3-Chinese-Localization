@@ -4,9 +4,9 @@
 
 ## 用法
 
-**推荐方法：**在已经打了2.62汉化补丁的情况下直接将[这个](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)解压到游戏根目录
+**假如以后补完了很多文件时的方法：**在已经打了2.62汉化补丁的情况下直接将[这个](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)解压到游戏根目录
 
-**手动操作：**自己去挑文件覆盖。现在的话，用修改后的[蒙古历史君主列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。（因为就只动了蒙古人）
+**现在建议手动操作：**自己去挑文件覆盖。现在的话，用修改后的[蒙古历史君主列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。（因为就只动了蒙古人）
 
 ## 基础
 
