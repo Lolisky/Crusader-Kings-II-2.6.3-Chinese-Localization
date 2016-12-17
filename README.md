@@ -17,6 +17,8 @@ zlthj520 [汉化补完（更新到12.16日版本）](http://bbs.52pcgame.net/for
 
 核动力火锅 [“发挥2.62尝鲜汉化包最大作用的一些技巧”补丁](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72774)
 
+alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72770)
+
 * 如果上述大佬不允许这样修改，请找日不落群送我爆炸。
 
 ## 已经修改的内容
