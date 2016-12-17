@@ -6,7 +6,16 @@
 
 **假如以后补完了很多文件时的方法：**在已经打了2.62汉化补丁的情况下直接将[这个](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)解压到游戏根目录
 
-**现在建议手动操作：**自己去挑文件覆盖。现在的话，用修改后的文件覆盖对应位置的文件即可。如用[蒙古历史角色列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。现在已经补完的有亚美尼亚、蒙古、阿兰。
+**现在建议手动操作：**自己去挑文件覆盖。现在的话，用修改后的文件覆盖对应位置的文件即可。如用[蒙古历史角色列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。
+
+* 现在已经补完的文件有：
+	* history
+		* characters
+			* a*.txt
+			* b*.txt (除bolghar)
+			* mongol.txt
+	* localization
+		* India.csv
 
 ## 基础
 
