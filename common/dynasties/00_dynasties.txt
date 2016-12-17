@@ -41443,7 +41443,7 @@
 }
 1045092=
 {
-	name="Nair"
+	name="Nair" #Nair ÈÕ
 	culture="khitan"
 }
 1045093=
@@ -41453,7 +41453,7 @@
 }
 1045094=
 {
-	name="Taulia"
+	name="Taulia" #ÍÃ
 	culture="khitan"
 }
 1045095=
@@ -41502,7 +41502,7 @@
 }
 1051120=
 {
-	name="Buryat"
+	name="²»ÀïÑÀÌè" # Buryat ¼´²¼ÀïÑÇÌØ
 	culture="mongol"
 	religion="tengri_pagan"
 	coat_of_arms=
@@ -41521,7 +41521,7 @@
 }
 1051122=
 {
-	name="Bayezid"
+	name="°ÍÒ®ÈûÌØ" #Bayezid
 	culture="turkish"
 	religion="sunni"
 }
@@ -41540,19 +41540,19 @@
 }
 1051124=
 {
-	name="Onggirat"
+	name="ºë¼ªØİ" #Onggirat
 	culture="mongol"
 	religion="buddhist"
 }
 1051125=
 {
-	name="Khunggirad"
+	name="ºë¼ªØİ" # Khunggirad
 	culture="mongol"
 	religion="tengri_pagan"
 }
 1051133=
 {
-	name="Karachay"
+	name="¿¨À­Ç¡ÒÁ" Karachay
 	culture="cuman"
 	religion="tengri_pagan"
 }
@@ -41563,7 +41563,7 @@
 }
 1051135=
 {
-	name="Köpek"
+	name="Kopek"
 	culture="cuman"
 	religion="tengri_pagan"
 }
@@ -41588,23 +41588,23 @@
 }
 1051138=
 {
-	name="Bayad"
+	name="°ÍÑÀÌè" # Bayad
 	culture="mongol"
 	religion="tengri_pagan"
 }
 1051139=
 {
-	name="Mergid"
+	name="Ãï¶ùÆò" # Mergid
 	culture="mongol"
 }
 1051140=
 {
-	name="Telingid"
+	name="µüÁĞ½ï" # Telingid
 	culture="mongol"
 }
 1051141=
 {
-	name="Tiele"
+	name="ÌúÀÕ" #Tiele
 	culture="kirghiz"
 	religion="manichean"
 }
@@ -41848,7 +41848,7 @@
 }
 1040054=
 {
-	name="Krorän"
+	name="Kroran"
 	culture="tocharian"
 	religion="buddhist"
 }
@@ -41973,37 +41973,37 @@
 	religion = tengri_pagan
 }
 1045099 = {
-	name = Aralkum
+	name = °¢À­¶û¿âÄ· # Aralkum¹şÈø¿ËµØÃû
 	culture = mongol
 	religion = tengri_pagan
 }
 1045100 = {
-	name = Dana
+	name = ´ïÄÈ # Dana
 	culture = mongol
 	religion = sunni
 }
 1045101 = {
-	name = Aqtöbe
+	name = °¢¿ËÍĞ±ğ # Aqtobe
 	culture = mongol
 	religion = sunni
 }
 1045102 = {
-	name = Bailjar
+	name = °×¼Ñ¶û # BailjarÒôÒë
 	culture = mongol
 	religion = tengri_pagan
 }
 1045103 = {
-	name = Kaztal
+	name = ¿¨×ÈËş # Kaztal ¹şÈø¿ËµØÃû½ØÈ¡
 	culture = mongol
 	religion = sunni
 }
 1045104 = {
-	name = Pecha
+	name = Åå²ì # Pecha ÒôÒë
 	culture = mongol
 	religion = sunni
 }
 1045105 = {
-	name = Kangly
+	name = ¿µÀï
 	culture = mongol
 	religion = sunni
 }
@@ -42178,31 +42178,31 @@
 }
 
 1040066 = {
-	name="Jadaran"
+	name="Ôı´ğÀ»" #Jadaran
 	culture = mongol
 }
 1040067 = {
-	name="Baarin"
+	name="°ÍÁÖ" #Baarin
 	culture = mongol
 }
 1040068 = {
-	name="Bargujin"
+	name="°Í¶û»¢" # Bargujin
 	culture = mongol
 }
 1040069 = {
-	name="Borogchin"
+	name="ØÃØİºÏÕæ" # Borogchin
 	culture = mongol
 }
 1040070 = {
-	name="Mongoljin"
+	name="ÃÉ¹ÅÕê" # Mongoljin
 	culture = mongol
 }
 1040071 = {
-	name="Quralas"
+	name="ºÚÑò" # Quralas
 	culture = mongol
 }
 1040072 = {
-	name="Uvas Mergid"
+	name="Ø£ºÏË¼ Ãï¶ùÆò" # Uvas Mergid
 	culture = mongol
 }
 1040073 = {

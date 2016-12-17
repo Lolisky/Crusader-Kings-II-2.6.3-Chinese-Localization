@@ -4,18 +4,23 @@
 
 ## 用法
 
-**假如以后补完了很多文件时的方法：**在已经打了2.62汉化补丁的情况下直接将[这个](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)解压到游戏根目录
+**无脑跟进到最新版本：**在已经打了2.62汉化补丁的情况下直接将[这个](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)解压到游戏根目录
 
-**现在建议手动操作：**自己去挑文件覆盖。现在的话，用修改后的文件覆盖对应位置的文件即可。如用[蒙古历史角色列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。
+**推荐方法（完整的蒙古补完）：**去[这里](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/releases/)下载最新发布版，解压到游戏根目录覆盖。
+
+**手动操作：**自己去挑文件覆盖。现在的话，用修改后的文件覆盖对应位置的文件即可。如用[蒙古历史角色列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。
 
 * 现在已经补完的文件有：
-	* history
-		* characters
-			* a*.txt
-			* b*.txt (除bolghar)
-			* mongol.txt
-	* localization
-		* India.csv
+  * common
+    * cultures（仅补全蒙古部分）
+    * dynasties（仅补全蒙古部分）
+  * history
+    * characters
+      * a*.txt
+      * b*.txt （除bolghar外）
+      * mongol.txt
+  * localization
+    * India.csv
 
 ## 基础
 
@@ -30,6 +35,10 @@ alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.
 * 如果上述大佬不允许这样修改，请找日不落群送我爆炸。
 
 ## 已经修改的内容
+
+### 12.18蒙古家族名补完 
+
+基于alanleonhardt 大佬的“家族名不完全汉化”，补全了蒙古家族名。有两处无法查实的，取哈萨克斯坦同拼写地名的今译暂代。Telingid暂译为迭列斤，但迭列斤蒙古其实是十八部统称，音近的也里吉斤又已经出现了。怀疑P社又在发明历史。
 
 ### 12.18 亚美尼亚、阿兰历史领主瞎JB音译补完
 
