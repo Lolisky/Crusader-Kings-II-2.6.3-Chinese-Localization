@@ -1675,7 +1675,7 @@ altaic = {
 			²¼ÑîÌ« ÈøÄÂ¶û ÈøÀ¼Ì« ÈøÈøÀò¿¨ ÈøÀû¿Æ¶û ÈøÀïÈøÌá ÈøÎ¬¿¨ ÈøŞ±À³_ÈøŞ±À³ ÈøÎÂÌá¿Ë_ÉªÎÂÌá¿Ë Èø¸¥¶ûÌá ÈøÌáÀ×¿Ë ËÕ¶û¿¨ Î÷±´¶û Î÷ÁÖ Î÷¶ûÂê ËÉ¸ê¶û ËşºÕËşÄá ÌØÇÒ Í¼À­ Ø£Âó Ø£Ëï±È¿Ë ÑÇ°¢Èø¶û Ò¶¶ùµÇ ÒÁ¶ûµÏ×È À×À×Æ¤ À×¶û¼§
 		}
 		
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = "À´×Ô "
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
 
@@ -1723,7 +1723,7 @@ altaic = {
 			°¢´ïÀ´Ìá °¢´ïÀ³Ìá °¢¶û×æ °¢ÀöÍ¬ °¢ÀöÍÍ °¢Ã×ÄÈ °¢ÄÈ¶û °¢ÒÀÅÁÏÄ °¢ÒÀÏÄÄ¾ °¢ÒÀÏÄÄ· °¢ÒÀĞ»Ä· °¢ÒÀÅ¬¶û °¬À­ °Í¹ş¶û °İºÏµÙ ²¼Àï²¼Àï ²¼Á¦²¼Á¦ Ëş¼ª¹ÅÀö ÌáÀ­ ¼ªÄËË¹Ì« ÇÇÀöÅË ÇÇÁ¦ÅË ÇÇÀö·¬ ÆëÂü¹ÅÀö ÆæÂü¹ÅÀö ¹şË¹Ò²Ìá ¹şË¹Ò¶Ìá ¹şË¹Ò®Ìá º±Ôú´ú ¹ş¹ÅÀö º±¹ÅÀö º£Á¦ÇÒÄ¾ º£ÀöÇÒÄ¾ º£ÀöÇÒÄ· µÏÀö°İ¶û µÏÀï°İ¶û µÏÀö´ï¶û µÏÀöÈÈ°Í ÈÈÄÈ È½ÄÈ ÈÈÒÀº± ÈÈÒÀºº ÈãÏÉ ÈÈ×ÎÍğ ÈÈ×ÎÍñ ÔÙÄË¸¦ ÔÙÄËÆÕ ×æÄ¾ÈÈÌá ×æÄ·ÈÈÌá ×ôºÏÈÈ ×æºÏÈÈ ×Î°Í Èø°¢´úÌá Èø°Íº£Ìá É³°Íº£Ìá É³À­ÂòÌá ÈøÀ­ÂòÌá ÈøÀ­ÂóÌá ÈüÄËÄ· ÈüÄËÄ¾ ÈüÄÈÍß¶û ÏÄÈÈ°İÌá Ï£ÈÊ Î÷ÈÊ Ï£ÁÖ ¿­Èü¶û ¿ªÈø¶û ¿²Âü¶û ¹Åº£¶û ¹ûº£¶û ¹ÅÔÙÀö ¹ÅÔŞÀö ¹ÅÀöÔú¶û ¹ÅÀöÔúÈÈ ¹ÅÀöº± ¹ÅÀöËÕÈçºÏ ¹ÅÀöËÕÈãºÏ ¹ÅÀöÏÉ ¹ÅÀöÏÊ ¹ÅÀöÄÈ¶û ¹ÅÀöË¹Ì¹ Âó¶û¹ş°Í ÂóÀö¿ª ÂóºÏ²¼°İ ÄÂ°ÍÈÈ¿Ë ÄÂ°ÍÈÈ¿Æ ÄÂ¿²æ§Ë¹ ÄÈÔú¿ªÌá Å¬Ë¹ÈÈÌá Äá¸ñ¶û ÄİæØ¶û ÄáÂ³ÅÁ¶û ÄáÂ¶°İ¶û ÄáÒ¶µÙ ºÕÄ¾ÈÈ Ô¼ÈÕÒ®Ìá ÒÁ°Í´úÌá ÒÁÅÅÌá ÓÈÀöÍÂ×Î ÓñÀöÍÂ×Î
 		}
 		
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = "À´×Ô "
 		founder_named_dynasties = yes
 
 		allow_looting = yes
@@ -1754,7 +1754,7 @@ altaic = {
 			É¯¶ùºÏ¹şËşÄá Ìû¼¸Äá ÌûÄ¾ÂØ Ò²ËÙ¸É Ò²Ëì 
 		}
 		
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = "À´×Ô "
 		founder_named_dynasties = yes
 
 		allow_looting = yes
@@ -1801,7 +1801,7 @@ altaic = {
 		
 		dynasty_title_names = yes
 		
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = "À´×Ô "
 		founder_named_dynasties = yes
 
 		allow_looting = yes
@@ -2392,10 +2392,10 @@ iranian = {
 		color = { 0.43 0.32 0.32 }
 		
 		male_names = {
-			Gurak Divashtich Yodkhsetak Tuhun Tarkhun Urak Turghar Lushan Nanaifarn Avyaman Yechi Chaki Mechun Tishifan Wupoyan
+			¾ÓÀ­¿Ë µÏÍßÊ²ÌáÆæ Ô¼µÂºÕÈûËş¿Ë Í¼ºé Ëş¶ûºé ÎÚÀ­¿Ë Í¼¶û¼Ó¶û Â¬ÉĞ ÄÉÄÎ·¨¶û¶÷ Avyaman Yechi Chaki Mechun Tishifan Wupoyan
 			Tarxun Wanxanak Nawekat Wiyus Uxushukan Bharxuman Skatch Sheshch Chaxren Ramch Shaw Maxak Ramtish Axushfarn Bhurz Chukshak Fudanyan Dishebo Vandak Khudayfarn Sili Tishrat Chunakk Namdar Xutawch Pisak Karz Nijat Chatfaratsaran Dewastich Varzakk Nanai-thvar Chuzakk Khwatawch Karzh Nizat Nanaikuch Ukhwan Pator Wakhushuvirt Maniakh Watch Shafnoshak
 			
-			Akhurmaztakk Akhushfarn_Akhushfarn Anghatnaw Anghatspadh Anushirvan_Anushirvan Ardavan_Ardavan Ardeshir_Ardeshir Armatsach Arsach Artikhuvandakh 
+			Akhurmaztakk Akhushfarn_Akhushfarn °²¼ÓÌØè§ °²¿¨Ë¹ÅÁµÂ Anushirvan_Anushirvan Ardavan_Ardavan Ardeshir_Ardeshir Armatsach Arsach Artikhuvandakh 
 			Artivan_Ardavan Aspandhat Astken Aurang_Aurang Avyaman-yan_Avyaman-yan Avyaman_Avyaman Avyamanch_Avyamanch Avyamanvandak Babak_Babak Bahram_Bahram 
 			Banda Barak_Barak Bharkhuman_Bharkhuman Bhurz_Bhurz Buddhadasa Chakar_Chakar Chakhapak Chakhren_Chakhren Cher_Cher Chetvandak Dariush_Darius 
 			Devadasa Dewashtich_Dewashtich Dhakh Dhruwaspvandak Esfandiar_Esfandiar Eskander_Alexander Ewakhsh Faramarz_Faramarz Farhad_Farhad Farn Farnaghat 
@@ -2406,15 +2406,15 @@ iranian = {
 			Muqanna Nanai Nanaidhvar Nanaifarn_Nanaifarn Nanaikhsay Nanaithvar_Nanaydvar Nanaizanch Nanayakk Nanevante_Nanevante Narisaf Narshakhi Nawchirth 
 			Nibothak_Nibothak Nipak_Nipak Nithan_Nithan Ot-tegin_Ot-tegin Papakk Parsak Parviz_Parviz Pashang_Pashang Patrodhan Pekako Peroz_Peroz Pesakk 
 			Pujman_Pujman Qishiq_Qishiq Ramtish_Ramtish Rashdhes Razmwanwan Resan Rewdhvar Rokhshan_Rokhshan Rostam_Rostam Rutha Sagharak Sas Sasan Satasp 
-			Sesh_Sesh Shahbaz_Shahbaz Shahin_Shahin Shahrokh_Sharokh Shans Shapur_Shapur Shaw_Shaw Shennu_Shennu Shirch Sina_Sina Spadh Spadhkharsh Srawakk 
+			Sesh_Sesh Shahbaz_Shahbaz Shahin_Shahin É³ÂŞºÕ_É¯ÂÜºÕ ÉĞË¹ É³ÆÕ¶û_É¯ÆÕ¶û ÉÜ_ÉÜ ÉêÅ¬_ÉêÅ¬ Ï£¶ûÆæ Sina_Sina Spadh Spadhkharsh Srawakk 
 			Stayidh Suryakk Tahmasb_Tahmasb Takhsich Takhsichvandak Takut Tarkhun_Tarkhun Taw Tir Tishtrya_Tishtrya Tishvandak Turghar_Turghar Ukhushukan_Ukhushukan 
 			Urak_Urak Vagh Vaghrew Vahhab_Vahhab Varshasb_Varshasb Varzak_Varzak Varzirak Vishtasb_Vishtasb Viyus_Viyus Vuvva Wakhunam Wakhushakk Wakhushu Wanenak 
-			Wankaway Wankhanak_Wankhanak Wanrazmak Wanwans Wishaghn Xeykhosrow_Keykhosrow Y’n_Y’n Zand_Zand Zartosht_Zartosht Zymt_Zymt
+			Wankaway Wankhanak_Wankhanak Wanrazmak Wanwans Wishaghn Xeykhosrow_Keykhosrow ÒÁ¶÷_ÒÁ¶÷ Zand_Zand Zartosht_Zartosht Zymt_Zymt
 		}
 		female_names = {
-			Nana Upach An Kang
+			ÄÈÄÈ ÎÚÅÁÆæ °² ¿µ¸ñ
 			
-			Aghatzak Anakhit Arghavan_Arghavan Banafsheh_Banafsheh Chat_Chat Chatis Chet Chinanch Darya_Darya Funa_Funa Furuzan_Furuzan Ghamze_Ghamze Ghoncheh_Ghoncheh 
+			Aghatzak Anakhit °¢¶ûåÈÍò_°¢¶ûåÈÍò °ÍÄÈ¸¥Ğ»ºÕ_°ÍÄÈ¸¥Ğ»ºÕ  Chat_Chat Chatis Chet Chinanch Darya_Darya Funa_Funa Furuzan_Furuzan Ghamze_Ghamze Ghoncheh_Ghoncheh 
 			Golbahar_Golbahar Golshan_Golshan Khansch Makh Mah_Mah Mahtab_Mahtab Miwnay Nana_Nana Nanai_Nanai Nanaidhat Navvaba_Navvaba Nazgol_Nazgol 
 			Nazilla_Nazilla Parvaneh_Parvaneh Parvin_Parvin Ranisa Roxana_Roxana Sanakhram Shahrzad_Shahrzad Shahzadeh_Shahzadeh Shayn Shirin_Shirin Touran_Touran 
 			Yasaman_Yasaman Yena_Yena
