@@ -2,10 +2,10 @@
 # If adding new groups or cultures, make sure they are unique.
 
 north_germanic = {
-	graphical_culture = { westerngfx }
+	graphical_cultures = { westerngfx }
 	
 	norse = {
-		graphical_culture = { norsegfx }
+		graphical_cultures = { norsegfx }
 		
 		color = { 0.3 0.55 0.8 }
 		
@@ -53,7 +53,7 @@ north_germanic = {
 	}
 
 	swedish = {
-		graphical_culture = { norsegfx }
+		graphical_cultures = { norsegfx }
 		
 		color = { 0.25 0.5 0.75 }
 		
@@ -95,7 +95,7 @@ north_germanic = {
 		seafarer = yes
 	}
 	norwegian = {
-		graphical_culture = { norsegfx }
+		graphical_cultures = { norsegfx }
 		
 		color = { 0.2 0.45 0.65 }
 		
@@ -126,7 +126,7 @@ north_germanic = {
 		seafarer = yes
 	}
 	danish = {
-		graphical_culture = { norsegfx }
+		graphical_cultures = { norsegfx }
 		
 		color = { 0.15 0.4 0.55 }
 		
@@ -168,10 +168,10 @@ north_germanic = {
 }
 
 central_germanic = {
-	graphical_culture = westerngfx
+	graphical_cultures = { germangfx }
 
 	german = {
-		graphical_culture = { germangfx }
+		graphical_cultures = { germangfx }
 		
 		color = { 0.5 0.5 0.5 }
 
@@ -217,7 +217,7 @@ central_germanic = {
 		modifier = default_culture_modifier
 	}
 	lombard = {
-		graphical_culture = { germangfx }
+		graphical_cultures = { germangfx }
 		
 		color = { 0.6 0.6 0.8 }
 
@@ -262,7 +262,7 @@ central_germanic = {
 		modifier = default_culture_modifier
 	}
 	old_frankish = {
-		graphical_culture = { germangfx }
+		graphical_cultures = { frankishgfx }
 		
 		color = { 0.3 0.3 0.5 }
 
@@ -310,7 +310,7 @@ central_germanic = {
 		modifier = default_culture_modifier
 	}
 	suebi = {
-		graphical_culture = { germangfx }
+		graphical_cultures = { germangfx }
 		
 		color = { 0.7 0.7 0.7 }
 
@@ -357,10 +357,10 @@ central_germanic = {
 }
 
 west_germanic = {
-	graphical_culture = { westerngfx }
+	graphical_cultures = { westerngfx }
 
 	english = {
-		graphical_culture = { englishgfx }
+		graphical_cultures = { englishgfx }
 		
 		color = { 0.8 0.2 0.2 }
 		
@@ -389,7 +389,7 @@ west_germanic = {
 		mother_name_chance = 5
 	}
 	saxon = {
-		graphical_culture = { saxongfx }
+		graphical_cultures = { saxongfx }
 		
 		color = { 0.8 0.3 0.3 }
 		
@@ -440,7 +440,7 @@ west_germanic = {
 		modifier = default_culture_modifier
 	}
 	old_saxon = {
-		graphical_culture = { saxongfx }
+		graphical_cultures = { saxongfx }
 		
 		color = { 0.5 0.1 0.1 }
 		
@@ -495,7 +495,7 @@ west_germanic = {
 		modifier = default_culture_modifier
 	}
 	frisian = {
-		graphical_culture = { saxongfx }
+		graphical_cultures = { saxongfx }
 		
 		color = { 0.7 0.3 0.0 }
 		
@@ -543,7 +543,7 @@ west_germanic = {
 		modifier = default_culture_modifier
 	}
 	dutch = {
-		graphical_culture = { germangfx }
+		graphical_cultures = { germangfx }
 		graphical_unit_culture = western
 		
 		color = { 0.96 0.39 0.08 }
@@ -589,10 +589,10 @@ west_germanic = {
 }
 
 latin = {
-	graphical_culture = { westerngfx }
+	graphical_cultures = { westerngfx }
 
 	frankish = {
-		graphical_culture = frankishgfx
+		graphical_cultures = { frankishgfx }
 		
 		color = { 0.8 0.8 0.2 }
 		male_names = {
@@ -633,7 +633,7 @@ latin = {
 	}
 	
 	norman = {
-		graphical_culture = { normangfx }
+		graphical_cultures = { normangfx }
 
 		color = { 0.8 0.7 0.1 }
 		
@@ -673,7 +673,7 @@ latin = {
 		seafarer = yes
 	}
 	italian = {
-		graphical_culture =  { southerngfx }
+		graphical_cultures =  {  italiangfx southerngfx  }
 		
 		color = { 0.95 0.95 0.75 }
 
@@ -721,7 +721,7 @@ latin = {
 		mother_name_chance = 5
 	}
 	occitan = {
-		graphical_culture = { occitangfx }
+		graphical_cultures = { occitangfx }
 		
 		color = { 0.9 0.9 0.4 }
 
@@ -805,10 +805,10 @@ latin = {
 }
 
 iberian = {
-	graphical_culture = { occitangfx }
+	graphical_cultures = { occitangfx }
 
 	basque = {
-		graphical_culture = occitangfx
+		graphical_cultures = { occitangfx }
 		
 		color = { 0.55 0.42 0.04 }
 
@@ -844,7 +844,7 @@ iberian = {
 		modifier = default_culture_modifier
 	}
 	castillan = {
-		graphical_culture = { southerngfx }
+		graphical_cultures = { southerngfx }
 		
 		color = { 0.95 0.82 0.09 }
 
