@@ -24,21 +24,29 @@ alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.
 
 **（魔改党推荐）自定义文件：**自己去挑文件覆盖。现在的话，用修改后的文件覆盖对应位置的文件即可。如用[蒙古历史角色列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。
 
-* 现在已经补完的文件有：
+* 由本项目作者们补完的文件主要是：
   * common
-    * cultures（仅补全蒙古部分）
-    * dynasties（仅补全蒙古部分）
+    * cultures（补全蒙古和一少部分波斯）
+    * dynasties（补全蒙古，去除了突厥乱码）
   * history
     * characters
       * a*.txt
       * b*.txt （除bolghar外）
       * mongol.txt
+      * kurdish.txt（仅去除乱码）
   * localization
     * India.csv
 
-## 已经修改的内容
+## 进度更新
 
-### 12.18蒙古家族名补完 
+### 12.19 （working）伊尔汗国境内突厥家族名和库尔德历史人名
+
+√ 以重音字母去掉重音符号的简单粗暴方式去乱码
+- 逐渐汉化其中明显阿拉伯化的名字。
+
+注：由于中文互联网缺乏库尔德中古史资料，考虑最终根据人物所属文化用现代阿拉伯语和波斯语人名音译标准方案补完汉化。
+
+### 12.18蒙古家族名汉化补完 
 
 基于alanleonhardt 大佬的“家族名不完全汉化”，补全了蒙古家族名。有两处无法查实的，取哈萨克斯坦同拼写地名的今译暂代。Telingid暂译为迭列斤，但迭列斤蒙古其实是十八部统称，音近的也里吉斤又已经出现了。怀疑P社又在发明历史。
 
