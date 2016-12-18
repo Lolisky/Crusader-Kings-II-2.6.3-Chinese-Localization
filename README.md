@@ -18,13 +18,11 @@ alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.
 
 ## 用法
 
-给游戏本体（2.6.2）打上52汉化组 [2.62 alpha 汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72131) 补丁。
+**（追新党推荐）实时更新的整合包：** 确认已打上打上52汉化组 [2.62 alpha 汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72131) 补丁后，直接将[这个](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)整合包解压到游戏根目录覆盖同名文件，一步到位。
 
-**推荐安装整合包：**直接将[这个](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)整合包解压到游戏根目录覆盖同名文件，一步到位。
+**（伸手党推荐）经简单测试的发布版：**只要有能够运行的2.6.2版CK2，根据情况[这里](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/releases/)下载适合自己的那个包，解压到游戏根目录覆盖。
 
-**如果只需要蒙古部分：**[这里](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/releases/)下载最新发布版，解压到游戏根目录覆盖。
-
-**如果只需要自定义文件：**自己去挑文件覆盖。现在的话，用修改后的文件覆盖对应位置的文件即可。如用[蒙古历史角色列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。
+**（魔改党推荐）自定义文件：**自己去挑文件覆盖。现在的话，用修改后的文件覆盖对应位置的文件即可。如用[蒙古历史角色列表](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/raw/master/history/characters/mongol.txt)覆盖/history/characters/mongol.txt即可。
 
 * 现在已经补完的文件有：
   * common
