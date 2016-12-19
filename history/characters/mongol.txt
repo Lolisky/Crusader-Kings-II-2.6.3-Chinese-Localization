@@ -143,7 +143,7 @@
 	}
 }
 217289 = {
-	name = ±¦¸ñÀöÌ¨ # fictional
+	name = ±¦¸ñÀïÌ¨ # fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -5389,7 +5389,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217348 = { #1st rulers son 3rd ruler # fictional
-	name = Bagaridai
+	name = ±¦¸ñÀïÌ¨ # Bagaridai
 	dynasty = 101929 # Batyabar
 	religion = tengri_pagan
 	culture = mongol
@@ -5483,7 +5483,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217356 = { #2nd rulers daughter # fictional
-	name = Khorijin
+	name = ¿ÉÀï½ï # Khorijin
 	dynasty = 101930 # Bat-Erdene
 	religion = tengri_pagan
 	culture = mongol
@@ -5495,7 +5495,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217357 = { #5th rulers sister # fictional
-	name = Khugurchin
+	name = ¿â¸ñÇß # Khugurchin
 	dynasty = 101930 # Bat-Erdene
 	religion = tengri_pagan
 	culture = mongol
@@ -5566,7 +5566,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217363 = { #6th rulers spouse # fictional
-	name = Khugurchin
+	name = ¿â¸ñÇß # Khugurchin 
 	female = yes
 	#dynasty =
 	religion = tengri_pagan
@@ -5939,7 +5939,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166822 = {
-	name="Jarchuud Adankhan"
+	name="Ôı¶ù³àØ£Ìè °¢µ±º±" # Jarchuud Adankhan
 	female=yes
 	dynasty=7315 # Uriankhai
 	religion="tengri_pagan"
@@ -6480,7 +6480,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166859 = {
-	name="Nergui"
+	name="Ää»ä" # Nergui £¨The meaning of the name Nergui is No Name£©
 	dynasty=101946
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6492,7 +6492,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166860 = {
-	name="Gantulga"
+	name="¸Ê¶¼Øİ" # Gantulga
 	dynasty=101946
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6505,7 +6505,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166861 = {
-	name="Palchuk"
+	name="ØÃÍº" #Palchuk ºÍ³É¼ªË¼º¹µÄÒ»¸öÃÃ·òÍ¬Ãû
 	dynasty=101946
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6747,7 +6747,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166878 = {
-	name="Kotyan" #fictional name
+	name="¿ËÑÓ" #fictional name Kotyan¿ÉÄÜÊÇKotonyµÄ±äÌå
 	dynasty=1040074
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6760,7 +6760,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166879 = {
-	name="Bora" #fictional name
+	name="°ÎØİ" #Bora fictional name
 	dynasty=1040074
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6838,7 +6838,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166884 = {
-	name="Ä¥¹ÅË¹ Ã·Â»"
+	name="Ä¥¹ÅË¹"  #¿ËÁÒ²¿Ê×Áì£¬¼´¡¶Ê·¼¯¡·Âí¶ûºöË¼ ²»ÒàÂ³ºÚº¹
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6863,7 +6863,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166886 = {
-	name="Toreqaimish"
+	name="ÍºØİº£ÃÔÊ§" #Toreqaimish ºö¶ùÔıºöË¼Ö®ÆŞ£¨Ê·¼¯1-212£©
 	female=yes
 	dynasty = 1041001 # Naiman
 	religion = "nestorian"
