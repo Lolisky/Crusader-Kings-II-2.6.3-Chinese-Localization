@@ -4,25 +4,17 @@
 
 最终目标是能正常运行的2.62打上这个补丁就能实现完整汉化。
 
-**不仔细看[用法](https://github.com/Lolisky/CK2_2.6.2_CN_Fix#用法)打补丁打出问题概不背锅！**
-
-![对方不想跟你说话.jpg](http://p1.bqimg.com/507857/3cca17dc98ebe418.jpg)
-
 ## 基于
 
-### 汉化与补丁
+52汉化组 [2.62 alpha 汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72131)
 
-* 52汉化组 [2.62 alpha 汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72131)
+核动力火锅 [“发挥2.62尝鲜汉化包最大作用的一些技巧”补丁](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72774)
 
-* 核动力火锅 [“发挥2.62尝鲜汉化包最大作用的一些技巧”补丁](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72774)
+alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72770)
 
-* alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72770)
+根据情况追一下zlthj520的 [汉化补完](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72633)
 
-* zlthj520的 [事件汉化补完](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72633)
-
-### 提供协助的网友
-
-* vurika 提供了畏兀儿部分历史领主的汉译。
+* 如果上述大佬不允许这样修改，请找日不落群送我爆炸。
 
 ## 用法
 
@@ -54,7 +46,7 @@ o 逐渐汉化其中明显阿拉伯化/蒙古化的名字。
 
 注：由于中文互联网缺乏库尔德中古史资料，考虑最终根据人物所属文化用现代阿拉伯语和波斯语人名音译标准方案补完汉化。
 
-### 12.18蒙古家族名汉化补完
+### 12.18蒙古家族名汉化补完 
 
 基于alanleonhardt 大佬的“家族名不完全汉化”，补全了蒙古家族名。有两处无法查实的，取哈萨克斯坦同拼写地名的今译暂代。Telingid暂译为迭列斤，但迭列斤蒙古其实是十八部统称，音近的也里吉斤又已经出现了。怀疑P社又在发明历史。
 

@@ -2610,7 +2610,7 @@
 	}
 }
 194414 = {
-	name="Hoelun"
+	name="Ú­¶îÂØ" #Hoelun
 	dynasty = 1045100
 	female=yes
 	religion=sunni
@@ -6522,7 +6522,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 #Father of Borte
 166862 = {
-	name="µÂ Ñ¦¶U"
+	name="µÂ Ñ¦ìø"
 	dynasty=1041000
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6535,7 +6535,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 #Concubines of Genghis
 166863 = {
-	name="Dair Usun"
+	name="´ğÒà¶ùØ£Ëï" #Dair Usun
 	dynasty=1040072
 	religion="tengri_pagan"
 	culture="mongol"
@@ -8152,7 +8152,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166967 = {
-	name="ÄÉ³ÂËïÏÉÍ¯" # Agsaldai
+	name="ÄÉ³ÂËïÏÉÍ¯" # ÓÃÁËÎ¬»ù£¬Ô­ÎÄAgsaldaiÊÇË­Ã»·¨ºËÊµ
 	dynasty=1051124 # Onggirat
 	religion="tengri_pagan"
 	culture="mongol"
