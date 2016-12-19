@@ -1,5 +1,5 @@
 188905 = {
-	name="Yelü-Dashi"
+	name="Ò®ÂÉ´óÊ¯"
 	dynasty=214009 # Qarakhitai, possibly of the Liao dynasty or just a general
 	religion=buddhist
 	culture=khitan
@@ -16,7 +16,7 @@
 }
 
 188906 = {
-	name="Tabuyan"
+	name="Ëþ²»ÑÌ" #ÏôËþ²»ÑÌ/¸ÐÌì»Êºó
 	female=yes
 	religion=buddhist
 	culture=khitan
@@ -30,7 +30,7 @@
 }
 
 188907 = {
-	name="Yelü-Yilie" # or Renzong
+	name="Ò®ÂÉÒÄÁÐ" # or Renzong
 	dynasty=214009 # Qarakhitai
 	religion=buddhist
 	culture=khitan
@@ -46,7 +46,7 @@
 }
 
 188908 = {
-	name="Pusuwan"
+	name="Ò®ÂÉÆÕËÙÍê"
 	female=yes
 	dynasty=214009 # Qarakhitai
 	religion=buddhist
@@ -110,7 +110,7 @@
 }
 
 188912 = {
-	name="Yelü-Zhilugu"
+	name="Ò®ÂÉÖ±Â³¹Å"
 	dynasty=214009
 	religion=buddhist
 	culture=khitan
@@ -153,7 +153,7 @@
 	}
 }
 194326 = {  # Taizong
-	name="Deguang"
+	name="µÂ¹â"
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
@@ -166,7 +166,7 @@
 	}
 }
 194327 = {
-	name="Bei"
+	name="±¶"
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
@@ -179,7 +179,7 @@
 	}
 }
 194328 = {
-	name="Ruan"  # Shizong
+	name="Èî"  # Shizong
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
@@ -192,7 +192,7 @@
 	}
 }
 194329 = {
-	name="Jing"  # Muzong
+	name="­Z"  # Muzong
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
@@ -208,7 +208,7 @@
 	}
 }
 194330 = {
-	name="Xian"  # Jingzong
+	name="ÏÍ"  # Jingzong
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
@@ -221,7 +221,7 @@
 	}
 }
 194331 = {
-	name="Longxu"  # Shengzong
+	name="Â¡Ð÷"  # Shengzong
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
@@ -234,7 +234,7 @@
 	}
 }
 194332 = {
-	name="Zongzhen"  # Xingzong
+	name="×ÚÕæ"  # Xingzong
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
@@ -247,7 +247,7 @@
 	}
 }
 194333 = {
-	name="Hongji"  # Daozong
+	name="ºé»ù"  # Daozong
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
@@ -260,7 +260,7 @@
 	}
 }
 194401 = {
-	name="Jun"
+	name="žF"
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
@@ -287,7 +287,7 @@
 	}
 }
 194334 = {
-	name="Yanxi"  # Tianzuo
+	name="ÑÓìû"  # Tianzuo
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
@@ -300,7 +300,7 @@
 	}
 }
 217176 = {
-	name = "Dashi" # fictional
+	name = "´óÊ¯" # fictional
 	dynasty = 1051111 # Yuzhi
 	religion = buddhist
 	culture = khitan
@@ -315,7 +315,7 @@
 	}
 }
 217177 = {
-	name = "Dianni" # fictional
+	name = "îäÄä" # fictional
 	religion = buddhist
 	culture = khitan
 	female = yes
@@ -327,7 +327,7 @@
 	}
 }
 217178 = {
-	name = "Yilie" # fictional
+	name = "ÒÄÁÐ" # fictional
 	dynasty = 1051111 # Yuzhi
 	religion = buddhist
 	culture = khitan
@@ -341,7 +341,7 @@
 	}
 }
 217179 = {
-	name = "Shulü-Ping" # fictional
+	name = "ÊöÂÉÆ½" # fictional
 	dynasty = 1051111 # Yuzhi
 	religion = buddhist
 	culture = khitan
@@ -356,7 +356,7 @@
 	}
 }
 217180 = {
-	name = "Zongzhen" # fictional
+	name = "×ÚÕæ" # fictional
 	dynasty = 1051111 # Yuzhi
 	religion = buddhist
 	culture = khitan
@@ -370,7 +370,7 @@
 	}
 }
 217181 = {
-	name = "Wenshunu" # fictional
+	name = "ÎÄÊâÅ«" # fictional
 	dynasty = 1051112 # Wanyan
 	religion = buddhist
 	culture = khitan
@@ -385,7 +385,7 @@
 	}
 }
 217182 = {
-	name = "Pusuwan" # fictional
+	name = "ÆÕËÙÍê" # fictional
 	religion = buddhist
 	culture = khitan
 	female = yes
@@ -397,7 +397,7 @@
 	}
 }
 217183 = {
-	name = "Cuiba" # fictional
+	name = "´Þ°Ë" # fictional
 	dynasty = 1051112 # Wanyan
 	religion = buddhist
 	culture = khitan
@@ -412,7 +412,7 @@
 	}
 }
 217184 = {
-	name = "Yingtian" # fictional
+	name = "¾°¬™" # fictional
 	dynasty = 1051112 # Wanyan
 	religion = buddhist
 	culture = khitan
@@ -427,7 +427,7 @@
 	}
 }
 217185 = {
-	name = "Gou'er" # fictional
+	name = "¹·¶ù" # fictional
 	dynasty = 1051112 # Wanyan
 	religion = buddhist
 	culture = khitan
@@ -441,7 +441,7 @@
 	}
 }
 166795 = {
-	name="Tiande"
+	name="ÌìµÂ"
 	dynasty=1045087
 	religion="buddhist"
 	culture="khitan"
@@ -454,7 +454,7 @@
 }
 
 217335 = {
-	name = Dashi # fictional
+	name = ´óÊ¯ # fictional
 	dynasty = 1051111 # Yuzhi
 	religion = buddhist
 	culture = khitan
@@ -470,7 +470,7 @@
 }
 
 217336 = {
-	name = Yanxi # fictional
+	name = ÑÓìû # fictional
 	dynasty = 1051111 # Yuzhi
 	religion = buddhist
 	culture = khitan
@@ -486,7 +486,7 @@
 }
 
 217337 = {
-	name = "Duolubu" # fictional
+	name = "¶äÂ³²»" # fictional
 	dynasty = 1051112 # Wanyan
 	religion = buddhist
 	culture = khitan
@@ -502,7 +502,7 @@
 }
 
 217338 = {
-	name = "Tiande" # fictional
+	name = "ÌìµÂ" # fictional
 	dynasty = 1051112 # Wanyan
 	religion = buddhist
 	culture = khitan
