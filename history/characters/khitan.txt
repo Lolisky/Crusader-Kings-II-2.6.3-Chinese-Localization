@@ -17,6 +17,7 @@
 
 188906 = {
 	name="塔不烟" #萧塔不烟/感天皇后
+	dynasty=214010
 	female=yes
 	religion=buddhist
 	culture=khitan
@@ -114,8 +115,8 @@
 	dynasty=214009
 	religion=buddhist
 	culture=khitan
-	father=188910
-	mother=188908
+	father=188907
+#	mother=188908 #P社瞎JB改
 	trait=mahayana_buddhist
 	1165.1.1={
 		birth=yes
