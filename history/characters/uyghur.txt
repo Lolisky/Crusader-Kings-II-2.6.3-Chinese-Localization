@@ -1,5 +1,5 @@
 166323 = {
-	name="Rabban Marcos"
+	name="À­°à Âí¿É" #Rabban Marcos
 	religion="nestorian"
 	culture="uyghur" #Either Öngüd or Turkic Uyghur descent
 	trait="scholarly_theologian"
@@ -7,7 +7,7 @@
 		birth="1245.1.1"
 	}
 	1281.1.1={
-		name="Yahballaha"
+		name="ÑÅ°ÍÀ­¹þ" Yahballaha
 	}
 	1317.1.1={
 		death="1317.1.1"
@@ -15,7 +15,7 @@
 	}
 }
 188783 = {
-	name="Qutlugh" # or Guli Peilo
+	name="¹ÇÁ¦ÅáÂÞ" # Qutlugh or Guli Peilo
 	dynasty=1042190 # Yaghlakar
 	religion="tengri_pagan"
 	culture="uyghur"
@@ -28,7 +28,7 @@
 }
 
 188784 = {
-	name="Bayanchur" # or Moyanchur
+	name="Ä¥ÑÓà¨" # Bayanchur or Moyanchur
 	dynasty=1042190 # Yaghlakar
 	religion="tengri_pagan"
 	culture="uyghur"
@@ -42,7 +42,7 @@
 }
 
 188785 = {
-	name="Tengri Bögü"
+	name="Tengri Bogu" #Tengri B?g¨¹
 	dynasty=1042190 # Yaghlakar
 	religion="tengri_pagan"
 	culture="uyghur"
@@ -59,7 +59,7 @@
 }
 
 194352 = {
-	name="Bönek" # Fictional son
+	name="Bonek" # Fictional son
 	dynasty=1042190 # Yaghlakar
 	religion=manichean
 	culture="uyghur"
@@ -133,7 +133,7 @@
 }
 
 217100 = {
-	name="Çor" #fictional
+	name="Cor" #fictional
 	dynasty=1051100 # Uzun
 	religion="manichean"
 	culture="uyghur"
@@ -148,7 +148,7 @@
 	}
 }
 217101 = {
-	name="Üge" #fictional
+	name="Uge" #fictional
 	dynasty=1051100 # Uzun
 	religion="manichean"
 	culture="uyghur"
@@ -190,7 +190,7 @@
 	}
 }
 217103 = {
-	name="Könçek" #fictional
+	name="Koncek" #fictional
 	dynasty=1051103 # Ugurlu
 	religion="manichean"
 	culture="uyghur"
@@ -219,7 +219,7 @@
 	}
 }
 217105 = {
-	name="Özgul" #fictional
+	name="Ozgul" #fictional
 	dynasty=1051103 # Ugurlu
 	religion="manichean"
 	culture="uyghur"
@@ -249,7 +249,7 @@
 	}
 }
 217107 = {
-	name="Üge" #fictional
+	name="Uge" #fictional
 	dynasty=1051101 # Alptekin
 	religion="manichean"
 	culture="uyghur"
@@ -263,7 +263,7 @@
 	}
 }
 217108 = {
-	name="Gulçiçek" #fictional
+	name="Gulcicek" #fictional
 	dynasty=1051101 # Alptekin
 	religion="manichean"
 	culture="uyghur"
@@ -388,7 +388,7 @@
 	}
 }
 217116 = {
-	name="Könçek" #fictional
+	name="Koncek" #fictional
 	religion="manichean"
 	culture="uyghur"
 	female=yes
@@ -414,7 +414,7 @@
 	}
 }
 217118 = {
-	name="Çiltanesi" #fictional
+	name="Ciltanesi" #fictional
 	religion="manichean"
 	culture="uyghur"
 	female=yes
@@ -470,7 +470,7 @@
 }
 217122 = {
 	name="Gzi" #fictional
-	dynasty=1051104 # Üzümcü
+	dynasty=1051104 # Üzümc?
 	religion="manichean"
 	culture="uyghur"
 	819.7.12={
@@ -485,7 +485,7 @@
 }
 217123 = {
 	name="Uzluk" #fictional
-	dynasty=1051104 # Üzümcü
+	dynasty=1051104 # Üzümc?
 	religion="buddhist"
 	culture="uyghur"
 	father=217122
@@ -510,8 +510,8 @@
 	}
 }
 217125 = {
-	name="Bozçin" #fictional
-	dynasty=1051104 # Üzümcü
+	name="Bozcin" #fictional
+	dynasty=1051104 # Üzümc?
 	religion="buddhist"
 	culture="uyghur"
 	father=217122
@@ -526,7 +526,7 @@
 }
 217126 = {
 	name="Sotan" #fictional
-	dynasty=1051104 # Üzümcü
+	dynasty=1051104 # Üzümc?
 	religion="buddhist"
 	culture="uyghur"
 	father=217122
@@ -542,7 +542,7 @@
 }
 217186 = {
 	name = "Kozel" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Üzümc?
 	religion = buddhist
 	culture = uyghur
 	father = 217123
@@ -555,7 +555,7 @@
 }
 217187 = {
 	name = "Kubasar" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Üzümc?
 	religion = buddhist
 	culture = uyghur
 	father = 217186
@@ -568,7 +568,7 @@
 }
 217188 = {
 	name = "Asalup" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Üzümc?
 	religion = buddhist
 	culture = uyghur
 	father = 217187
@@ -581,7 +581,7 @@
 }
 217189 = {
 	name = "Blush" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Üzümc?
 	religion = buddhist
 	culture = uyghur
 	father = 217188
@@ -594,7 +594,7 @@
 }
 217190 = {
 	name = "Begluk" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Üzümc?
 	religion = buddhist
 	culture = uyghur
 	father = 217189
@@ -607,7 +607,7 @@
 }
 217191 = {
 	name = "Ipek" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Üzümc?
 	religion = buddhist
 	culture = uyghur
 	father = 217189
@@ -620,7 +620,7 @@
 	}
 }
 217228 = {
-	name = Törtogul # fictional
+	name = Tortogul # fictional
 	dynasty = 1051121 # Müjde
 	religion = buddhist
 	culture = uyghur
@@ -733,7 +733,7 @@
 	}
 }
 217244 = {
-	name = Tömür # fictional
+	name = Tomur # fictional
 	dynasty = 1051121 # Müjde
 	religion = buddhist
 	culture = uyghur
@@ -762,7 +762,7 @@
 	}
 }
 217250 = {
-	name  = Mänglik # fictional
+	name  = Manglik # fictional
 	dynasty = 1051123 # Tapmish
 	religion = buddhist
 	culture = uyghur
@@ -803,7 +803,7 @@
 	}
 }
 217253 = {
-	name = Özmish # fictional
+	name = Ozmish # fictional
 	dynasty = 1051123 # Tapmish
 	religion = buddhist
 	culture = uyghur
@@ -832,7 +832,7 @@
 	}
 }
 217255 = {
-	name = Özlem # fictional
+	name = Ozlem # fictional
 	dynasty = 1051123 # Tapmish
 	religion = buddhist
 	culture = uyghur
@@ -913,7 +913,7 @@
 	}
 }
 166759 = {
-	name="Küchlüg" #Chungte
+	name="Çü³öÂÉ" #Kuchlug #Chungte
 	dynasty=1045083 # Ediz
 	religion="manichean"
 	culture="uyghur"
@@ -952,7 +952,7 @@
 	}
 }
 166762 = {
-	name="Köl"
+	name="Kol"
 	dynasty=1040063 # Hosa
 	religion="manichean"
 	culture="uyghur"
@@ -964,7 +964,7 @@
 	}
 }
 166763 = {
-	name="Kürebir" #Usurper of Uyghur Empire
+	name="Kurebir" #Usurper of Uyghur Empire
 	dynasty=1040063 # Hosa
 	religion="manichean"
 	culture="uyghur"
@@ -977,7 +977,7 @@
 	}
 }
 166764 = {
-	name="Ormïzt"
+	name="Ormizt"
 	dynasty=1040063 # Hosa
 	religion="manichean"
 	culture="uyghur"
@@ -990,7 +990,7 @@
 	}
 }
 166765 = {
-	name="Öge"
+	name="Oge"
 	dynasty=1045083 # Ediz
 	religion="manichean"
 	culture="uyghur"
@@ -1004,7 +1004,7 @@
 }
 #Yughur Kingdom (Gansu Uyghurs)
 166766 = {
-	name="Bögü"
+	name="Bogu"
 	dynasty=1045083 # Ediz
 	religion="manichean"
 	culture="uyghur"
@@ -1054,7 +1054,7 @@
 	}
 }
 166768 = {
-	name="Sengün"
+	name="Sengun"
 	dynasty=1040064 # Yughur
 	religion="buddhist"
 	culture="uyghur"
@@ -1068,7 +1068,7 @@
 	}
 }
 166769 = {
-	name="Sirçan"
+	name="Sircan"
 	dynasty=1040064 # Yughur
 	religion="buddhist"
 	culture="uyghur"
@@ -1096,7 +1096,7 @@
 	}
 }
 166771 = {
-	name="Bulmïsh"
+	name="Bulmish"
 	dynasty=1040064 # Yughur
 	religion="buddhist"
 	culture="uyghur"
@@ -1110,7 +1110,7 @@
 	}
 }
 166772 = {
-	name="Tömür"
+	name="Tomur"
 	dynasty=1040064 # Yughur
 	religion="buddhist"
 	culture="uyghur"
@@ -1124,7 +1124,7 @@
 	}
 }
 166773 = {
-	name="Üge"
+	name="Uge"
 	dynasty=1040064 # Yughur
 	religion="buddhist"
 	culture="uyghur"
@@ -1157,7 +1157,7 @@
 	}
 }
 166775 = {
-	name="Borç"
+	name="Borc"
 	dynasty=1045083 # Ediz
 	religion="manichean"
 	culture="uyghur"
@@ -1214,7 +1214,7 @@
 	}
 }
 166778 = {
-	name="Könçek"
+	name="Koncek"
 	dynasty=1040065 # Idiqut
 	religion="buddhist"
 	culture="uyghur"
@@ -1304,7 +1304,7 @@
 	}
 }
 166784 = {
-	name="Törtogul"
+	name="Tortogul"
 	dynasty=1040065 # Idiqut
 	religion="buddhist"
 	culture="uyghur"
@@ -1350,7 +1350,7 @@
 	}
 }
 166786 = {
-	name="Çilbu"
+	name="Cilbu"
 	dynasty=1040065 # Idiqut
 	religion="buddhist"
 	culture="uyghur"
@@ -1365,7 +1365,7 @@
 	}
 }
 166787 = {
-	name="Üge"
+	name="Uge"
 	dynasty=1040065 # Idiqut
 	religion="buddhist"
 	culture="uyghur"
@@ -1395,7 +1395,7 @@
 	}
 }
 166789 = {
-   name="Barchuq"
+   name="°Í¶øÊõ" # Barchuq
    dynasty=1040065 # Idiqut
    religion="buddhist"
    culture="uyghur"
@@ -1413,7 +1413,7 @@
    }
 }
 166790 = {
-   name="Öztuq"
+   name="Oztuq"
    dynasty=1040065 # Idiqut
    religion="buddhist"
    culture="uyghur"
@@ -1444,7 +1444,7 @@
 	}
 }
 166792 = {
-	name="Mänglik"
+	name="Manglik"
 	dynasty=1040065 # Idiqut
 	religion="buddhist"
 	culture="uyghur"

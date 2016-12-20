@@ -143,7 +143,7 @@
 	}
 }
 217289 = {
-	name = ±¦¸ñÀöÌ¨ # fictional
+	name = ±¦¸ñÀïÌ¨ # fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -514,7 +514,7 @@
 			}
 			trait = brilliant_strategist
 		 }
-		 
+
 		 new_character = {
 			spawn_unit = {
 			  province = 618 # Guryev
@@ -528,7 +528,7 @@
 			  }
 			}
 		 }
-		 
+
 		 create_character = {
 			random_traits = yes
 			dynasty = random
@@ -656,7 +656,7 @@
 		 }
 	  }
 	}
-	
+
 	1255.1.1={
 	  death=yes
 	}
@@ -2011,7 +2011,7 @@
 	}
 	1335.1.1={
 			add_spouse=478041
-	}	
+	}
 	1356.1.1={
 		death="1356.1.1"
 	}
@@ -2610,7 +2610,7 @@
 	}
 }
 194414 = {
-	name="Hoelun"
+	name="Ú­¶îÂØ" #Hoelun
 	dynasty = 1045100
 	female=yes
 	religion=sunni
@@ -3027,7 +3027,7 @@
 	}
 	1301.1.1={
 		add_claim = d_sibir
-	} 
+	}
 	1302.1.1={
 		death="1302.1.1"
 	}
@@ -3636,7 +3636,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 93070 = {
-	name="°ËØİ" #Baraq 
+	name="°ËØİ" #Baraq
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -3696,7 +3696,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 93074 = {
-	name="ÍÑ»¨ÌûÄ¾¶ù" #Buqa Temur 
+	name="ÍÑ»¨ÌûÄ¾¶ù" #Buqa Temur
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -3724,7 +3724,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 93076 = {
-	name="¿íê^" #Könchek 
+	name="¿íê^" #Könchek
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -3738,7 +3738,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 93077 = {
-	name="¹şØİ³à" #Qadaqchi 
+	name="¹şØİ³à" #Qadaqchi
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -3766,7 +3766,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 93079 = {
-	name="ÇÓ±ğ" #Kebek 
+	name="ÇÓ±ğ" #Kebek
 	dynasty=11100
 	religion="sunni"
 	culture="mongol"
@@ -3780,7 +3780,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 93080 = {
-	name="Ò²ÏÈ²»»¨" #Esen Buqa 
+	name="Ò²ÏÈ²»»¨" #Esen Buqa
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -3850,7 +3850,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 93085 = {
-	name="¶î²»¼á" #Ebugen 
+	name="¶î²»¼á" #Ebugen
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -4187,7 +4187,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 	1300.1.1={
 		add_spouse=93308
-	} 
+	}
 	1330.1.1={
 		death="1330.1.1"
 	}
@@ -4234,7 +4234,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 	1335.1.1={
 		add_claim = e_il-khanate
-	}	
+	}
 	1341.1.1={
 		death="1341.1.1"
 	}
@@ -5242,7 +5242,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	religion = tengri_pagan
 	culture = mongol
 	father = 217304
-	
+
 	1230.6.12 = {
 		birth = yes
 	}
@@ -5257,14 +5257,14 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	culture = mongol
 	female = yes
 	father = 217305
-	
+
 	trait = strong
 	trait = brilliant_strategist
 	trait = brave
 	trait = greedy
 	trait = cavalry_leader
-	
-	
+
+
 	1260.5.23 = {
 		birth = yes
 	}
@@ -5277,47 +5277,47 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 		death = yes
 	}
 }
-217307 = { 
+217307 = {
 	name = ĞíËï # fictional
 	dynasty = 1051138
-	religion = tengri_pagan 
-	culture = mongol 
-	715.7.12 = { birth = yes } 
+	religion = tengri_pagan
+	culture = mongol
+	715.7.12 = { birth = yes }
 	759.4.25 = { death = yes }
 }
 217308 = {
 	name = ²»¶ùº± # fictional
 	dynasty = 1051138
-	religion = tengri_pagan 
-	culture = mongol 
-	father = 217307 
-	732.10.4 = { birth = yes } 
+	religion = tengri_pagan
+	culture = mongol
+	father = 217307
+	732.10.4 = { birth = yes }
 	793.5.21 = { death = yes }
 }
 194351 = {
 	name = ³à¹Å # fictional
 	dynasty = 1051138
 	father = 217308
-	religion = tengri_pagan 
-	culture = mongol 
-	750.10.4 = { birth = yes } 
+	religion = tengri_pagan
+	culture = mongol
+	750.10.4 = { birth = yes }
 	793.5.21 = { death = yes }
 }
-217309 = { 
+217309 = {
 	name = ÄªæÛÂ× # fictional
 	dynasty = 1051138
-	religion = tengri_pagan 
-	culture = mongol 
-	father = 217307 
-	female = yes 
-	741.4.12 = { birth = yes } 
+	religion = tengri_pagan
+	culture = mongol
+	father = 217307
+	female = yes
+	741.4.12 = { birth = yes }
 	783.12.20 = { death = yes }
 }
 217341 = {
 	name = ÄªæÛÂ× # fictional
 	dynasty = 101934 # Nergüi
-	religion = tengri_pagan 
-	culture = mongol 
+	religion = tengri_pagan
+	culture = mongol
 	female = yes
 	822.5.10 = { birth = yes }
 	881.12.12 = { death = yes }
@@ -5325,8 +5325,8 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217342 = {
 	name = ¹óÓÉ # fictional
 	dynasty = 101934 # Nergüi
-	religion = tengri_pagan 
-	culture = mongol 
+	religion = tengri_pagan
+	culture = mongol
 	mother = 217341
 	847.10.5 = { birth = yes }
 	879.6.10 = { death = yes }
@@ -5334,8 +5334,8 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217343 = {
 	name = Ò²Ëì # fictional
 	dynasty = 101934 # Nergüi
-	religion = tengri_pagan 
-	culture = mongol 
+	religion = tengri_pagan
+	culture = mongol
 	female = yes
 	mother = 217341
 	trait = brave
@@ -5345,8 +5345,8 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217344 = {
 	name = Ëş¶ùºöÌ¨ # Targhutai fictional
 	dynasty = 101934 # Nergüi
-	religion = tengri_pagan 
-	culture = mongol 
+	religion = tengri_pagan
+	culture = mongol
 	mother = 217341
 	861.4.15 = { birth = yes }
 	893.5.17 = { death = yes }
@@ -5354,10 +5354,10 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217345 = { # mother # fictional
 	name = Òà°ÍºÏ #Ibakha
 	dynasty = 101929 # Batyabar
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
-	#father = 
-	#mother = 
+	#father =
+	#mother =
 	female = yes
 	1009.5.12 = { birth = yes }
 	1045.7.4 = { death = yes }
@@ -5366,9 +5366,9 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217346 = { #1st ruler # fictional
 	name = Ëş¶ùºöÌ¨ #Targhutai
 	dynasty = 101929 # Batyabar
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
-	#father = 
+	#father =
 	mother = 217345
 	1035.12.13 = { birth = yes }
 	1051.4.10 = { add_spouse = 217353 }
@@ -5378,9 +5378,9 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217347 = { #sister / 2nd ruler # fictional
 	name = É¯ºÏºÏ #Sokhatai
 	dynasty = 101929 # Batyabar
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
-	#father = 
+	#father =
 	mother = 217345
 	female = yes
 	1032.5.10 = { birth = yes }
@@ -5389,9 +5389,9 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217348 = { #1st rulers son 3rd ruler # fictional
-	name = Bagaridai
+	name = ±¦¸ñÀïÌ¨ # Bagaridai
 	dynasty = 101929 # Batyabar
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
 	father = 217346
 	mother = 217353
@@ -5403,7 +5403,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217349 = { #2nd rulers son 4th ruler # fictional
 	name = °³°Íº¢
 	dynasty = 101930 # Bat-Erdene
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
 	father = 217355
 	mother = 217347
@@ -5415,7 +5415,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217350 = { #4th rulers brother 5th ruler # fictional
 	name = Ğ¡±¦
 	dynasty = 101930 # Bat-Erdene
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
 	father = 217355
 	mother = 217347
@@ -5427,7 +5427,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217351 = { #5th rulers son 6th ruler # fictional
 	name = ÒàÄÑ³à
 	dynasty = 101930 # Bat-Erdene
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
 	father = 217350
 	mother = 217362
@@ -5439,7 +5439,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217352 = { #6th rulers son 7th ruler # fictional
 	name = ÍêÕß¶¼
 	dynasty = 101930 # Bat-Erdene
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
 	father = 217351
 	mother = 217363
@@ -5449,11 +5449,11 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 
 217353 = { #1st rulers spouse # fictional
 	name = ÍÑ¹ÅË¼
-	#dynasty = 
-	religion = tengri_pagan 
+	#dynasty =
+	religion = tengri_pagan
 	culture = mongol
-	#father = 
-	#mother = 
+	#father =
+	#mother =
 	female = yes
 	1034.3.11 = { birth = yes }
 	1075.7.15 = { death = yes }
@@ -5462,9 +5462,9 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217354 = { #1st rulers 2nd sister # fictional
 	name = Âú¶¼º£
 	dynasty = 101929 # Batyabar
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
-	#father = 
+	#father =
 	mother = 217345
 	female = yes
 	1038.4.12 = { birth = yes }
@@ -5474,18 +5474,18 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217355 = { #2nd rulers spouse # fictional
 	name = ²·Â³º±
 	dynasty = 101930 # Bat-Erdene
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
-	#father = 
-	#mother = 
+	#father =
+	#mother =
 	1049.8.30 = { birth = yes }
 	1081.6.25 = { death = yes }
 }
 
 217356 = { #2nd rulers daughter # fictional
-	name = Khorijin
+	name = ¿ÉÀï½ï # Khorijin
 	dynasty = 101930 # Bat-Erdene
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
 	father = 217355
 	mother = 217347
@@ -5495,9 +5495,9 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 
 217357 = { #5th rulers sister # fictional
-	name = Khugurchin
+	name = ¿â¸ñÇß # Khugurchin
 	dynasty = 101930 # Bat-Erdene
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
 	father = 217355
 	mother = 217347
@@ -5509,7 +5509,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217358 = { #6th rulers brother # fictional
 	name = ËÙ²»Ì¨
 	dynasty = 101930 # Bat-Erdene
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
 	father = 217350
 	mother = 217362
@@ -5520,7 +5520,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217359 = { #6th rulers sister # fictional
 	name = °¢ÀÕËşÄá
 	dynasty = 101930 # Bat-Erdene
-	religion = tengri_pagan 
+	religion = tengri_pagan
 	culture = mongol
 	father = 217350
 	mother = 217362
@@ -5532,11 +5532,11 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217360 = { #3rd rulers spouse # fictional
 	name = ØÃØİºÏÕæ #Doregene
 	female = yes
-	#dynasty = 
-	religion = tengri_pagan 
+	#dynasty =
+	religion = tengri_pagan
 	culture = mongol
-	#father = 
-	#mother = 
+	#father =
+	#mother =
 	1065.3.16 = { birth = yes }
 	1096.9.3 = { death = yes }
 }
@@ -5544,11 +5544,11 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217361 = { #4th rulers spouse # fictional
 	name = »íÕæ #Khojin
 	female = yes
-	#dynasty = 
-	religion = tengri_pagan 
+	#dynasty =
+	religion = tengri_pagan
 	culture = mongol
-	#father = 
-	#mother = 
+	#father =
+	#mother =
 	1058.5.18 = { birth = yes }
 	1094.12.5 = { death = yes }
 }
@@ -5556,23 +5556,23 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 217362 = { #5th rulers spouse # fictional
 	name = ÎÓ¶ù²®
 	female = yes
-	#dynasty = 
-	religion = tengri_pagan 
+	#dynasty =
+	religion = tengri_pagan
 	culture = mongol
-	#father = 
-	#mother = 
+	#father =
+	#mother =
 	1063.2.18 = { birth = yes }
 	1105.10.4 = { death = yes }
 }
 
 217363 = { #6th rulers spouse # fictional
-	name = Khugurchin
+	name = ¿â¸ñÇß # Khugurchin 
 	female = yes
-	#dynasty = 
-	religion = tengri_pagan 
+	#dynasty =
+	religion = tengri_pagan
 	culture = mongol
-	#father = 
-	#mother = 
+	#father =
+	#mother =
 	1087.6.4 = { birth = yes }
 	1129.5.19 = { death = yes }
 }
@@ -5939,7 +5939,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166822 = {
-	name="Jarchuud Adankhan"
+	name="Ôı¶ù³àØ£Ìè °¢µ±º±" # Jarchuud Adankhan
 	female=yes
 	dynasty=7315 # Uriankhai
 	religion="tengri_pagan"
@@ -6207,7 +6207,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166840 = {
-	name="Shinchi ²®ÑÕ" #Shinchi Bayan 
+	name="Shinchi ²®ÑÕ" #Shinchi Bayan
 	dynasty=7315 # Uriankhai
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6480,7 +6480,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166859 = {
-	name="Nergui"
+	name="Ää»ä" # Nergui £¨The meaning of the name Nergui is No Name£©
 	dynasty=101946
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6492,7 +6492,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166860 = {
-	name="Gantulga"
+	name="¸Ê¶¼Øİ" # Gantulga
 	dynasty=101946
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6505,7 +6505,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166861 = {
-	name="Palchuk"
+	name="ØÃÍº" #Palchuk ºÍ³É¼ªË¼º¹µÄÒ»¸öÃÃ·òÍ¬Ãû
 	dynasty=101946
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6522,7 +6522,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 #Father of Borte
 166862 = {
-	name="µÂ Ñ¦¶U"
+	name="µÂ Ñ¦ìø"
 	dynasty=1041000
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6535,7 +6535,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 }
 #Concubines of Genghis
 166863 = {
-	name="Dair Usun"
+	name="´ğÒà¶ùØ£Ëï" #Dair Usun
 	dynasty=1040072
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6747,7 +6747,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166878 = {
-	name="Kotyan" #fictional name
+	name="¿ËÑÓ" #fictional name Kotyan¿ÉÄÜÊÇKotonyµÄ±äÌå
 	dynasty=1040074
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6760,7 +6760,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166879 = {
-	name="Bora" #fictional name
+	name="°ÎØİ" #Bora fictional name
 	dynasty=1040074
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6838,7 +6838,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166884 = {
-	name="Ä¥¹ÅË¹ Ã·Â»"
+	name="Ä¥¹ÅË¹"  #¿ËÁÒ²¿Ê×Áì£¬¼´¡¶Ê·¼¯¡·Âí¶ûºöË¼ ²»ÒàÂ³ºÚº¹
 	dynasty=1041002
 	religion="nestorian"
 	culture="mongol"
@@ -6863,7 +6863,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166886 = {
-	name="Toreqaimish"
+	name="ÍºØİº£ÃÔÊ§" #Toreqaimish ºö¶ùÔıºöË¼Ö®ÆŞ£¨Ê·¼¯1-212£©
 	female=yes
 	dynasty = 1041001 # Naiman
 	religion = "nestorian"
@@ -7248,7 +7248,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166901 = {
-	name="²»»¨ÌûÄ¾¶ù" #Arasen²é²»µ½£¬Ó¦¸ÃÊÇPÉç¸ø°¢¶ù»ë°²ÅÅµÄÒ°µù
+	name="²»»¨ÌûÄ¾¶ù" #Arasen ²é²»µ½£¬»³ÒÉÊÇPÉç¸ø°¢¶ù»ë°²ÅÅµÄÒ°µù
 	dynasty=1040075
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7394,7 +7394,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166910 = {
-	name="Shiremun"
+	name="Ê§ÁÒÃÅ" #Shiremun
 	dynasty=11100
 	religion="tengri_pagan"
 	culture="mongol"
@@ -8152,7 +8152,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166967 = {
-	name="ÄÉ³ÂËïÏÉÍ¯" # Agsaldai
+	name="ÄÉ³ÂËïÏÉÍ¯" # ÓÃÁËÎ¬»ù£¬Ô­ÎÄAgsaldaiÊÇË­Ã»·¨ºËÊµ
 	dynasty=1051124 # Onggirat
 	religion="tengri_pagan"
 	culture="mongol"
