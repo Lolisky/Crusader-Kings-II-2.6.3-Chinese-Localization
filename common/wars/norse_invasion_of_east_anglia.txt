@@ -1,0 +1,25 @@
+name = "The Sons of Lodbrok Invasion of East Anglia"
+
+casus_belli = {
+	actor = 163111 # Ivar the Boneless
+	recipient = 163064 #Edmund of East Anglia
+	casus_belli=viking_invasion
+	landed_title=k_england
+	date=865.1.1
+}
+
+865.1.1 = {
+	add_attacker = 163111 # Ivar the Boneless
+	add_attacker = 163110 # Sigurdr Snake-in-the-eye
+	add_defender = 163064
+	add_defender = 163102 # Burghred of Mercia
+	add_defender = 33358 # Aethelred of Wessex
+}
+
+867.3.21 = {
+	rem_attacker = 163110
+	rem_attacker = 163111
+	rem_defender = 33358 # Aethelred of Wessex
+	rem_defender = 163102 # Burghred of Mercia
+	rem_defender = 163064
+}

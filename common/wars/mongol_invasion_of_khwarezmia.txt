@@ -1,0 +1,19 @@
+name = "Mongol Invasion of Khwarezmia"
+
+casus_belli = {
+	actor = 125501
+	recipient = 93052
+	casus_belli=tribal_invasion
+	landed_title=k_persia
+	date=1220.2.1
+}
+
+1220.2.1 = {
+	add_attacker = 125501
+	add_defender = 93052
+}
+
+1221.1.1 = {
+	rem_attacker = 125501
+	rem_defender = 93052
+}

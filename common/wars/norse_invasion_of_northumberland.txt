@@ -1,0 +1,25 @@
+name = "The Sons of Lodbrok Invasion of Northumberland"
+
+casus_belli = {
+	actor = 163112 # Halfdan Ragnarsson
+	recipient = 163103 # Aella of Northumberland
+	casus_belli=viking_invasion
+	landed_title=k_england
+	date=865.1.1
+}
+
+865.1.1 = {
+	add_attacker = 163112 # Halfdan Ragnarsson
+	add_attacker = 163108 # Björn Ironside
+	add_defender = 163103
+	add_defender = 163102 # Burghred of Mercia
+	add_defender = 33358 # Aethelred of Wessex
+}
+
+867.3.21 = {
+	rem_attacker = 163108
+	rem_attacker = 163112
+	rem_defender = 33358 # Aethelred of Wessex
+	rem_defender = 163102 # Burghred of Mercia
+	rem_defender = 163103
+}

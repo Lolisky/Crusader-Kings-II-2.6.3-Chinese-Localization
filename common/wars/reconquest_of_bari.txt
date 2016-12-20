@@ -1,0 +1,19 @@
+name = "Italian Reconquest of Bari"
+
+casus_belli = {
+	actor = 30228 # Louis II of Italy
+	recipient = 163094 # Emir Sawdan
+	casus_belli=religious
+	landed_title=d_apulia
+	date=867.1.1
+}
+
+867.1.1 = {
+	add_attacker = 30228
+	add_defender = 163094
+}
+
+871.2.1 = {
+	rem_attacker = 30228
+	rem_defender = 163094
+}
