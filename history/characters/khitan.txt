@@ -66,7 +66,7 @@
 }
 
 188909 = {
-	name="Wolila"
+	name="斡里剌" #萧斡里剌
 	dynasty=214010 
 	religion=buddhist
 	culture=khitan
@@ -80,7 +80,7 @@
 }
 
 188910 = {
-	name="Duolubu"
+	name="朵鲁不"
 	dynasty=214010 
 	religion=buddhist
 	culture=khitan
@@ -95,7 +95,7 @@
 }
 
 188911 = {
-	name="Fuguzhi"
+	name="朴古只"
 	dynasty=214010 
 	religion=buddhist
 	culture=khitan
@@ -110,7 +110,7 @@
 }
 
 188912 = {
-	name="耶律直鲁古"
+	name="耶律 直鲁古"
 	dynasty=214009
 	religion=buddhist
 	culture=khitan
@@ -126,7 +126,7 @@
 }
 
 188913 = {
-	name="Sokhatai" # name made up
+	name="苏哈泰" #  Sokhatai name made up
 	female=yes
 	dynasty=214009
 	religion=buddhist
@@ -141,7 +141,7 @@
 	}
 }
 194325 = {
-	name="Abaoji"  # Taizu
+	name="阿保机"  # Taizu
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
@@ -274,7 +274,7 @@
 	}
 }
 194402 = {
-	name="Xuan Yi"
+	name="观音" #宣懿太后
 	female=yes
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
