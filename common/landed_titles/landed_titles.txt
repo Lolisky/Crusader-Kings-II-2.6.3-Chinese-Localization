@@ -4227,18 +4227,18 @@ e_germany = {
 				old_saxon = ??
 				
 				b_koln = {
-					norse = Köln
-					swedish = Köln
-					danish = Köln
-					norwegian = Köln
-					german = Köln
-					lombard = Köln
-					old_frankish = Köln
-					suebi = Köln
-					dutch = Keulen
-					frisian = Keulen
-					saxon = Köln
-					old_saxon = Köln
+					norse = ??
+					swedish = ??
+					danish = ??
+					norwegian = ??
+					german = ??
+					lombard = ??
+					old_frankish = ??
+					suebi = ??
+					dutch = ??
+					frisian = ??
+					saxon = ??
+					old_saxon = ??
 				}
 				b_berg = {
 				}
@@ -4685,10 +4685,10 @@ e_byzantium = {
 				color={ 205 104 170 }
 				color2={ 255 255 20 }
 				
-				turkish = "Iznik"
+				turkish = "????"
 				
 				b_nikaea = {
-					turkish = "Iznik"
+					turkish = "????"
 				}
 				b_kios = {
 				}
@@ -4709,10 +4709,10 @@ e_byzantium = {
 				color={ 208 107 173 }
 				color2={ 255 255 20 }
 				
-				turkish = "Izmit"
+				turkish = "????"
 				
 				b_nikomedeia = {
-					turkish = "Izmit"
+					turkish = "????"
 				}
 				b_chalkedon = {
 				}
@@ -4725,7 +4725,7 @@ e_byzantium = {
 				b_palodes = {
 				}
 				b_adapazari = {
-					greek = "Mesonesion"
+					greek = "?????"
 				}
 				b_malagina = {
 				}
@@ -4734,22 +4734,22 @@ e_byzantium = {
 				color={ 211 110 176 }
 				color2={ 255 255 20 }
 				
-				turkish = "Bursa"
+				turkish = "???"
 				
 				b_prusa = {
-					turkish = "Hüdavendigar"
+					turkish = "??????"
 				}
 				b_darieium = {
-					greek = "Dorieion"
-					turkish = "Sögüt"
+					greek = "????"
+					turkish = "???"
 				}
 				b_apamea = {
-					greek = "Trigleia"
-					turkish = "Tirilye"
+					greek = "?????"
+					turkish = "?????"
 				}
 				b_docimium = {
-					greek = "Dokimeion"
-					turkish = "Iscehisar"
+					greek = "????"
+					turkish = "?????"
 				}
 				b_adrastea = {
 				}
@@ -4764,13 +4764,13 @@ e_byzantium = {
 				color={ 214 113 179 }
 				color2={ 255 255 20 }
 				
-				turkish = "Erdek"
+				turkish = "????"
 				
 				b_kyzikos = {
-					turkish = "Aydincik"
+					turkish = "????"
 				}
 				b_artake = {
-					turkish = "Erdek"
+					turkish = "????"
 				}
 				b_militopolis = {
 				}
@@ -4796,12 +4796,12 @@ e_byzantium = {
 				color={ 237 42 171 }
 				color2={ 255 255 20 }
 				
-				turkish = "Ayasoluk"
+				turkish = "?????"
 
 				holy_site = orthodox
 				
 				b_ephesos = {
-					turkish = "Ayasoluk"
+					turkish = "?????"
 				}
 				b_lebedos = {
 				}
@@ -4822,10 +4822,10 @@ e_byzantium = {
 				color={ 240 45 174 }
 				color2={ 255 255 20 }
 				
-				turkish = "Izmir"
+				turkish = "????"
 				
 				b_smyrna = {
-					turkish = "Izmir"
+					turkish = "????"
 				}
 				b_pergamon = {
 				}
@@ -4846,13 +4846,13 @@ e_byzantium = {
 				color={ 243 48 177 }
 				color2={ 255 255 20 }
 				
-				turkish = "Sisam"
+				turkish = "???"
 				
 				b_samos = {
-					turkish = "Sisam"
+					turkish = "???"
 				}
 				b_chios = {
-					turkish = "Sakiz"
+					turkish = "???"
 				}
 				b_tigani = {
 				}
@@ -4878,12 +4878,12 @@ e_byzantium = {
 				color={ 147 55 115 }
 				color2={ 255 255 20 }
 				
-				turkish = "Balakhisar"
+				turkish = "????"
 
 				holy_site = hellenic_pagan
 				
 				b_abydos = {
-					turkish = "Balakhisar"
+					turkish = "????"
 				}
 				b_lampsakos = {
 				}
@@ -4904,20 +4904,20 @@ e_byzantium = {
 				color={ 149 57 117 }
 				color2={ 255 255 20 }
 				
-				turkish = "Kiklad"
-				italian = "Egeopelagi"
+				turkish = "????"
+				italian = "??????"
 				
 				b_naxos = {
-					turkish = "Naksa"
-					italian = "Nasso"
+					turkish = "???"
+					italian = "??"
 				}
 				b_hermoupolis = {
-					turkish = "Sire"
-					italian = "Syra"
+					turkish = "??"
+					italian = "???"
 				}
 				b_santorini = {
-					greek = "Thera"
-					turkish = "Santoron"
+					greek = "???"
+					turkish = "???"
 				}
 				b_andros = {
 				}
@@ -4934,12 +4934,12 @@ e_byzantium = {
 				color={ 151 59 119 }
 				color2={ 255 255 20 }
 				
-				italian = "Negroponte"
-				turkish = "Egriboz"
+				italian = "?????"
+				turkish = "?????"
 				
 				b_chalkis = {
-					italian = "Negroponte"
-					turkish = "Egriboz"
+					italian = "?????"
+					turkish = "?????"
 				}
 				b_kymi = {
 				}
