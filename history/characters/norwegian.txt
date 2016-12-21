@@ -80,7 +80,7 @@
 	trait="martial_cleric"
 	father=102523
 	mother=102530
-	1056.1.2={
+	1063.1.2={
 		birth=yes
 	}
 	1106.1.2={
@@ -102,7 +102,7 @@
 	trait="martial_cleric"
 	father=102523
 	mother=102530
-	1060.1.2={
+	1063.1.2={
 		birth=yes
 	}
 	1110.1.2={
@@ -1598,7 +1598,7 @@
 	culture="norwegian"
 	trait="lustful"
 	trait="charismatic_negotiator"
-	father=202030 # Bård Guttormsson
+	father=202030 # B?rd Guttormsson
 	mother=202506
 	1189.1.1={
 		birth="1189.1.1"
@@ -2223,8 +2223,8 @@
 	trait="tough_soldier"
 	father=203007
 	mother=203077
-	1180.1.1={
-		birth="1180.1.1"
+	1181.1.1={
+		birth="1181.1.1"
 	}
 	1239.7.1={
 		death="1239.7.1"
@@ -2553,8 +2553,8 @@
 	trait="tough_soldier"
 	father=220020
 	mother=220038
-	1166.1.1={
-		birth="1166.1.1"
+	1176.1.1={
+		birth="1176.1.1"
 	}
 	1216.1.1={
 		death="1216.1.1"
@@ -2726,8 +2726,8 @@
 }
 
 232686 = {
-	name="¶ûË¹ÅÁ¿Ë"
-	dynasty=25046
+	name="Uspak"
+	dynasty=3109 # MacDougall
 	martial=7
 	diplomacy=4
 	intrigue=6
@@ -2736,12 +2736,13 @@
 	culture="norwegian"
 	trait="brave"
 	trait="tough_soldier"
+	trait=legit_bastard
 	father=232683
 	1174.1.1={
-		birth="1174.1.1"
+		birth=yes
 	}
 	1229.1.1={
-		death="1229.1.1"
+		death=yes
 	}
 }
 
@@ -3670,8 +3671,8 @@
 	trait="martial_cleric"
 	father=452510
 	mother=452511
-	1301.1.2={
-		birth="1301.1.2"
+	1303.1.2={
+		birth="1303.1.2"
 	}
 	1361.6.17={
 		death="1361.6.17"

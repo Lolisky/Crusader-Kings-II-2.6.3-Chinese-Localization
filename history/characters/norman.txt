@@ -8,10 +8,10 @@
 	religion="catholic"
 	culture="norman"
 	trait="charismatic_negotiator"
-	990.1.2 = {
+	985.1.2 = {
 		birth=yes
 	}
-	1019.1.2 = {
+	1013.1.2 = {
 		death=yes
 	}
 }
@@ -46,7 +46,7 @@
 	religion="catholic"
 	culture="norman"
 	trait="elusive_shadow"
-	999.1.1 = {
+	997.1.1 = {
 		birth=yes
 	}
 	1050.1.1 = {
@@ -271,7 +271,7 @@
 	1003.1.1 = {
 		add_spouse=10000
 	}
-	1021.1.1 = {
+	1014.1.1 = {
 		add_spouse=10008
 	}
 	1041.1.1 = {
@@ -381,8 +381,8 @@
 	trait="tough_soldier"
 	father=1120
 	mother=10000
-	1015.1.2 = {
-		birth="1015.1.2"
+	1010.1.2 = {
+		birth="1010.1.2"
 	}
 	1057.1.1 = {
 		death="1057.1.1"
@@ -412,7 +412,8 @@
 	name="ÂÞ²®ÌØ" #Robert #Guiscard
 	# AKA: Robert 'Guiscard'
 	dynasty=678
-	properties="ch00e0"
+	dna = cdbcdogibck
+	properties = 0c0cbd000000
 	martial=9
 	diplomacy=4
 	intrigue=6
@@ -947,8 +948,8 @@
 	culture="norman"
 	father=211501
 	mother=206512
-	1152.1.1 = {
-		birth="1152.1.1"
+	1154.1.1 = {
+		birth="1154.1.1"
 	}
 	1161.1.1 = {
 		death="1161.1.1"
@@ -1020,8 +1021,8 @@
 	name="ÍþÁ®" #William
 	# AKA: William 'the Conqueror'
 	dynasty=752
-	dna="epdbiohgukk"
-	properties="ae0000"
+	dna = cagfktibaal
+	properties = fj0dcd000000
 	martial=7
 	diplomacy=7
 	intrigue=10
@@ -1064,10 +1065,10 @@
 			spawn_unit = {
 				province = 97 # Rouen
 				owner = ROOT
-				leader = ROOT
+				#leader = ROOT
 				troops = {
 					light_infantry = { 767 767 }
-					heavy_infantry = { 566 566 }
+					heavy_infantry = { 766 766 }
 					pikemen = { 152 152 }
 					light_cavalry = { 285 285 }
 					knights = { 114 114 }
@@ -1078,10 +1079,10 @@
 			spawn_unit = {
 				province = 97 # Rouen
 				owner = ROOT
-				leader = 148 # Odo of Bayeux
+				#leader = 148 # Odo of Bayeux
 				troops = {
 					light_infantry = { 767 767 }
-					heavy_infantry = { 566 566 }
+					heavy_infantry = { 766 766 }
 					pikemen = { 152 152 }
 					light_cavalry = { 285 285 }
 					knights = { 114 114 }
@@ -1092,10 +1093,10 @@
 			spawn_unit = {
 				province = 97 # Rouen
 				owner = ROOT
-				leader = 6818 # William of Eu
+				#leader = 6818 # William of Eu
 				troops = {
 					light_infantry = { 767 767 }
-					heavy_infantry = { 566 566 }
+					heavy_infantry = { 766 766 }
 					pikemen = { 152 152 }
 					light_cavalry = { 285 285 }
 					knights = { 114 114 }
@@ -1106,10 +1107,10 @@
 			spawn_unit = {
 				province = 97 # Rouen
 				owner = ROOT
-				leader = 150 # Robert of Mortain
+				#leader = 150 # Robert of Mortain
 				troops = {
 					light_infantry = { 767 767 }
-					heavy_infantry = { 566 566 }
+					heavy_infantry = { 766 766 }
 					pikemen = { 152 152 }
 					light_cavalry = { 285 285 }
 					knights = { 114 114 }
@@ -4385,7 +4386,7 @@
 	1025.1.1 = {
 		birth="1025.1.1"
 	}
-	1050.1.2 = {
+	1044.1.2 = {
 		add_spouse=156
 	}
 	1078.1.1 = {
@@ -4409,8 +4410,8 @@
 	trait="tough_soldier"
 	father=41250
 	mother=156
-	1050.1.1 = {
-		birth="1050.1.1"
+	1051.1.1 = {
+		birth="1051.1.1"
 	}
 	1101.7.27 = {
 		death="1101.7.27"
@@ -4925,64 +4926,6 @@
 	}
 }
 
-5686 = {
-	name="ÍÐÂíË¹" #Thomas
-	dynasty=100073
-	martial=6
-	diplomacy=6
-	intrigue=6
-	stewardship=4
-	religion="catholic"
-	culture="norman"
-	trait="ill"
-	trait="scholarly_theologian"
-	1038.1.2 = {
-		birth="1038.1.2"
-	}
-	1088.1.2 = {
-		death="1088.1.2"
-	}
-}
-
-5688 = {
-	name="½ÜÀ­µÂ" #Gerard
-	dynasty=100073
-	martial=8
-	diplomacy=8
-	intrigue=4
-	stewardship=4
-	religion="catholic"
-	culture="norman"
-	trait="patient"
-	trait="martial_cleric"
-	1052.1.2 = {
-		birth="1052.1.2"
-	}
-	1102.1.2 = {
-		death="1102.1.2"
-	}
-}
-
-5690 = {
-	name="ÍÐÂíË¹" #Thomas
-	dynasty=100073
-	martial=8
-	diplomacy=6
-	intrigue=6
-	stewardship=6
-	religion="catholic"
-	culture="norman"
-	trait="proud"
-	trait="cynical"
-	trait="scholarly_theologian"
-	1042.1.2 = {
-		birth="1042.1.2"
-	}
-	1092.1.2 = {
-		death="1092.1.2"
-	}
-}
-
 6513 = {
 	name="À¥¶à" #Cundo #Condoha Vagéna d'Eu
 	female=yes
@@ -5476,7 +5419,7 @@
 }
 
 82053 = {
-	name="°¢Å¬¶û·ò" #Arnulf # youngest son of earl of Shrewsbury, briefly earl of Holderness, who married daughter of Muirchertach Ó Briaín
+	name="°¢Å¬¶û·ò" #Arnulf # youngest son of earl of Shrewsbury, briefly earl of Holderness, who married daughter of Muirchertach ?Briaín
 	dynasty=751
 	religion="catholic"
 	culture="norman"
@@ -7019,8 +6962,8 @@
 	culture="norman"
 	father=211501
 	mother=206512
-	1153.1.1 = {
-		birth="1153.1.1"
+	1154.1.1 = {
+		birth="1154.1.1"
 	}
 	1158.1.1 = {
 		death="1158.1.1"
@@ -8236,7 +8179,7 @@
 	dynasty=678
 
 	father=85002
-	mother=200365
+	#mother=200365
 
 	religion=catholic
 	culture=norman

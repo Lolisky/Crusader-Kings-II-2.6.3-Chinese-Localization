@@ -1176,162 +1176,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1354 = {
 	name="雨果" # http://en.wikipedia.org/wiki/休_III_of_Maine
 
@@ -1390,7 +1234,6 @@
 	religion="catholic"
 	culture="frankish"
 	father=1354
-
 	977.1.1 = {
 		birth=yes
 	}
@@ -3766,8 +3609,6 @@
 						light_cavalry = { 1139 1139 }
 						knights = { 276 276 }
 					}
-
-
 				}
 			}
 			create_character = {
@@ -4495,6 +4336,43 @@
 	}
 }
 
+217508 = {
+	name="皮埃尔" #Pierre de Courtenay
+	dynasty=9301 #de Courtenay
+	religion="catholic"
+	culture="frankish"
+	father=205727 #Robert II de Courtenay
+	#mother= #Mahaut de Mehun
+	1218.1.1 = {
+		birth = yes
+	}
+	#1249.1.1 = {
+	#	add_spouse = #Petronille de Joigny
+	#}
+	1250.2.8 = {
+		death = yes
+	}
+}
+
+217509 = {
+	name="阿米西" #Amicie de Courtenay
+	dynasty=9301 #de Courtenay
+	religion="catholic"
+	culture="frankish"
+	father=217508 #Pierre de Courtenay
+	#mother= #Petronille de Joigny
+	female = yes
+	1250.1.1 = {
+		birth = yes
+	}
+	#1259.1.1 = {
+	#	add_spouse = 455546 #Robert II d'Artois
+	#}
+	1275.1.1 = {
+		death = yes
+	}
+}
+
 205728 = {
 	name="纪尧姆" #纪尧姆 de Courtenay, lord of Tanlay
 	dynasty=9301 #Capetian house of Courtenay
@@ -4618,7 +4496,7 @@
 }
 
 205748 = {
-	name="工藤新一"
+	name="柯南"
 
 	dynasty=317
 	religion="catholic"
@@ -28289,47 +28167,6 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 91002 = {
 	name="埃芒加德" #埃芒加德 de Hesbaye, wife of emperor 路易 I le Pieux
 	# AKA: 埃芒加德 de Hesbaye
@@ -28349,43 +28186,6 @@
 		death="818.10.3"
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 91005 = {
@@ -46571,22 +46371,6 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 168080 = {
 	name="埃派"
 
@@ -46797,75 +46581,8 @@
 	}
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 168132 = {
-	name="又一无名氏" #real name unknown
+	name="万迪尔莫迪斯" #real name unknown
 	dynasty=743 #Capet (罗伯特ien)
 	female=yes
 	religion="catholic"
@@ -47298,37 +47015,6 @@
 		death="1100.10.6"
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 168247 = {
 	name="拉特伯" #count of Geneve
@@ -48186,7 +47872,6 @@
 		death=yes
 	}
 }
-
 
 168717={
 	name="Ingunde"

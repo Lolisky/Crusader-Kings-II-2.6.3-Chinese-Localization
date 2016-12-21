@@ -25,7 +25,33 @@
 	name="²é¿Ë"
 	religion=tengri_pagan
 	culture=hungarian
+	820.1.1={
+		birth=yes
+	}
+	897.1.1={
+		death=yes
+	}
+}
+
+194365 = {
+	name="G¨¦za"
+	religion=tengri_pagan
+	culture=hungarian
+	father=6847
 	840.1.1={
+		birth=yes
+	}
+	897.1.1={
+		death=yes
+	}
+}
+194366 = {
+	name="Ibolya"
+	female = yes
+	religion=tengri_pagan
+	culture=hungarian
+	father=6847
+	845.1.1={
 		birth=yes
 	}
 	897.1.1={
@@ -1302,6 +1328,7 @@
 	trait="deceitful"
 	trait="cynical"
 	trait="underhanded_rogue"
+	trait = legit_bastard
 	father=480
 	mother=98008
 	1094.1.2 = {
@@ -2200,6 +2227,7 @@
 	culture="hungarian"
 	trait="brave"
 	trait="tough_soldier"
+	trait = legit_bastard
 	father=1621
 	mother=4411
 	1046.1.1 = {
@@ -2222,6 +2250,7 @@
 	culture="hungarian"
 	trait="patient"
 	trait="charismatic_negotiator"
+	trait = legit_bastard
 	father=1621
 	mother=4411
 	1048.1.1 = {
@@ -2682,6 +2711,7 @@
 	trait="patient"
 	trait="cynical"
 	trait="tough_soldier"
+	trait="legit_bastard"
 	father=460
 	mother=483
 	945.1.1 = {
@@ -6282,6 +6312,7 @@
 	stewardship=6
 	religion="catholic"
 	culture="hungarian"
+	trait = legit_bastard
 	father=219511
 	mother=212542
 	1167.1.2 = {
@@ -9489,63 +9520,32 @@
 			spawn_unit = {
 				province = 544 # Korsun
 				owner = ROOT
-				leader = ROOT
+				#leader = ROOT
 				troops = {
-					light_infantry = { 1626 1626 }
-					heavy_infantry = { 75 75 }
-					archers = { 325 325 }
+					light_cavalry = { 2250 2250 }
+					horse_archers = { 750 750 }
 				}
 				attrition = 0.5
 			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ROOT
-				female = no
-				age = 23
-				attributes = {
-					martial = 6
+			spawn_unit = {
+				province = 544 # Korsun
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					light_cavalry = { 2250 2250 }
+					horse_archers = { 750 750 }
 				}
-				trait = skilled_tactician
+				attrition = 0.5
 			}
-			new_character = {
-				spawn_unit = {
-					province = 544 # Korsun
-					owner = ROOT
-					leader = THIS
-					troops = {
-						light_infantry = { 1626 1626 }
-						heavy_infantry = { 75 75 }
-						archers = { 325 325 }
-					}
-					attrition = 0.5
+			spawn_unit = {
+				province = 544 # Korsun
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					light_cavalry = { 2250 2250 }
+					horse_archers = { 750 750 }
 				}
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ROOT
-				female = no
-				age = 27
-				attributes = {
-					martial = 6
-				}
-				trait = skilled_tactician
-			}
-			new_character = {
-				spawn_unit = {
-					province = 544 # Korsun
-					owner = ROOT
-					leader = THIS
-					troops = {
-						light_infantry = { 1626 1626 }
-						heavy_infantry = { 75 75 }
-						archers = { 325 325 }
-					}
-					attrition = 0.5
-				}
+				attrition = 0.5
 			}
 		}
 	}
@@ -9603,6 +9603,20 @@
 	religion="tengri_pagan"
 	father = 146214
 	758.1.1={
+		birth=yes
+	}
+	819.1.1={
+		death=yes
+	}
+}
+
+194345 = {
+	name="Elek"
+	dynasty=1022386
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146214
+	760.1.1={
 		birth=yes
 	}
 	819.1.1={
@@ -9830,6 +9844,33 @@
 		birth=yes
 	}
 	873.1.1={
+		death=yes
+	}
+}
+194367 = {
+	name="Csaba"
+	dynasty=1022386
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146231
+	840.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+194368 = {
+	name="Hajnal"
+	female = yes
+	dynasty=1022386
+	culture="hungarian"
+	religion="tengri_pagan"
+	father = 146231
+	845.1.1={
+		birth=yes
+	}
+	890.1.1={
 		death=yes
 	}
 }

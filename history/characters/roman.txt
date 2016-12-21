@@ -631,7 +631,7 @@
 	religion="hellenic_pagan"
 	culture="roman"
 	trait="flamboyant_schemer"
-	father=145246
+	mother=145246
 	210.1.1={
 		birth="210.1.1"
 	}
@@ -2007,10 +2007,6 @@
 	280.1.1 = {
 		birth="280.1.1"
 	}
-	335.12.31 = {
-	name="马尔谷"
-	# AKA: Marcus
-	}
 	336.10.7 = {
 		death="336.10.7"
 	}
@@ -2167,10 +2163,6 @@
 	210.1.1 = {
 		birth="210.1.1"
 	}
-	254.3.5 = {
-	name="斯德望"
-	# AKA: Stephanus
-	}
 	257.8.2 = {
 		death="257.8.2"
 	}
@@ -2226,9 +2218,6 @@
 	trait="charismatic_negotiator"
 	200.1.1 = {
 		birth="200.1.1"
-	}
-	236.1.3 = {
-	name="法比盎"
 	}
 	250.1.20 = {
 		death="250.1.20"

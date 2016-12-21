@@ -1,6 +1,8 @@
 1700 = {
 	name="°ÍÎ÷¶û"
 	dynasty=644
+	dna = dageigbabbe
+	properties = am0aj0000000
 	martial=6
 	diplomacy=8
 	intrigue=8
@@ -11202,15 +11204,15 @@
 	trait="patient"
 	trait="zealous"
 	trait="charismatic_negotiator"
-	577.1.1={
-		birth="577.1.1"
+	598.1.1={
+		birth=yes
 	}
 	678.4.11={
 	name = "ÑÇ¼Ñ¶«"
 	# AKA: Paulus
 	}
 	681.1.10={
-		death="681.1.10"
+		death=yes
 	}
 }
 
@@ -11226,8 +11228,8 @@
 	trait="patient"
 	trait="zealous"
 	trait="charismatic_negotiator"
-	577.1.1={
-		birth="577.1.1"
+	610.1.1={
+		birth=yes
 	}
 	676.6.17={
 	name = "¶ÅÅ¬"
@@ -15953,7 +15955,7 @@
 	dynasty=1029094
 	religion="orthodox"
 	culture="greek"
-	father=159452
+	father=159542
 	1130.1.1={
 		birth="1130.1.1" #Unknown
 	}
@@ -15966,7 +15968,7 @@
 	dynasty=1029094
 	religion="orthodox"
 	culture="greek"
-	father=159452
+	father=159542
 	1150.1.1={
 		birth="1150.1.1" #Unknown
 	}
@@ -15979,7 +15981,7 @@
 	dynasty=1029095
 	religion="orthodox"
 	culture="greek"
-	father=159452
+	father=159542
 	1135.1.1={
 		birth="1135.1.1" #Unknown
 	}
@@ -20848,4 +20850,125 @@
 	1205.1.2={
 		death=yes
 	}
+}
+
+200238={
+	name="Ardabastos"
+	dynasty=1046033
+
+	father=168718
+	mother=168715
+
+	religion=catholic
+	culture=greek
+
+	600.1.1={
+		birth=yes
+	}
+	650.1.1={
+		add_spouse=200239
+	}
+	655.1.1={
+		death=yes
+	}
+}
+
+168714 = {
+	name="Petros" 
+	dynasty=1022184
+
+	father=168719
+
+	religion="orthodox"
+	culture="greek"
+
+	541.1.1 = {
+		birth=yes
+	}
+	
+	593.1.1 = {
+		death=yes
+	}
+}
+
+168715 = {
+	name="Iouliana"
+	female=yes
+	dynasty=1022184
+
+	father=168714
+
+	religion="orthodox"
+	culture="greek"
+
+	582.1.1 = {
+		birth=yes
+	}
+	640.1.1 = {
+		death=yes
+	}
+}
+
+168719 = {
+	name="Pavlos"
+	dynasty=1022184
+
+	religion="orthodox"
+	culture="greek"
+
+	520.1.1={
+		birth=yes
+	}	
+	570.1.1={
+		death=yes
+	}
+}
+
+166943 = {
+   name="Maria" #Concubine of Abaqa Khan
+   female=yes
+   dynasty=48
+   religion="orthodox"
+   culture="greek"
+   father=465527
+   add_trait="bastard"
+   1249.1.1={
+     birth=yes
+   }
+   1267.1.1={
+     effect={add_friend=125522}
+   }
+   1302.1.1={
+     death=yes
+   }
+}
+166944 = {
+   name="Euphrosyne" #Concubine of Nogai Khan
+   female=yes
+   dynasty=48
+   religion="orthodox"
+   culture="greek"
+   father=465527
+   add_trait="bastard"
+   1245.1.1={
+     birth=yes
+   }
+   1295.1.1={
+     death=yes
+   }
+}
+166946 = {
+   name="Maria" #wife of Toqta Khan
+   female=yes
+   dynasty=48
+   religion="orthodox"
+   culture="greek"
+   father=465527
+   add_trait="bastard"
+   1275.1.1={
+     birth=yes
+   }   
+   1329.1.1={
+     death=yes
+   }
 }

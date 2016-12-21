@@ -18,6 +18,33 @@
 		death=yes
 	}
 }
+194386 = {
+	name="Kortan"
+	dynasty=100512
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father = 20635
+	1047.1.1={
+		birth=yes
+	}
+	1091.1.1={
+		death=yes
+	}
+}
+194387 = {
+	name="Mala"
+	female = yes
+	dynasty=100512
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father = 20635
+	1049.1.1={
+		birth=yes
+	}
+	1091.1.1={
+		death=yes
+	}
+}
 
 20637 = {
 	name="ÒÁÅÁ"
@@ -279,6 +306,7 @@
 34808 = {
 	name="°ÍÍÐ¶û"
 	#placeholder
+	dynasty = 1051136
 	religion="tengri_pagan"
 	culture="pecheneg"
 	1070.1.1={
@@ -292,8 +320,10 @@
 34809 = {
 	name="²¼À­"
 	#placeholder
+	dynasty = 1051136
 	religion="tengri_pagan"
 	culture="pecheneg"
+	father = 34808
 	1090.1.1={
 		birth="1090.1.1"
 	}
@@ -305,8 +335,10 @@
 34810 = {
 	name="À«¶ûµ¤"
 	#placeholder
+	dynasty = 1051136
 	religion="tengri_pagan"
 	culture="pecheneg"
+	father = 34809
 	1125.1.1={
 		birth="1125.1.1"
 	}
@@ -470,11 +502,10 @@
 			spawn_unit = {
 				province = 608 # Lower Volga
 				owner = ROOT
-				leader = ROOT
+				#leader = ROOT
 				troops = {
-					light_infantry = { 1650 1650 }
-					heavy_infantry = { 75 75 }
-					archers = { 330 330 }
+					light_cavalry = { 304 304 }
+					horse_archers = { 129 129 }
 				}
 				attrition = 0.5
 			}
@@ -494,11 +525,10 @@
 				spawn_unit = {
 					province = 608 # Lower Volga
 					owner = ROOT
-					leader = THIS
+					#leader = ROOT
 					troops = {
-						light_infantry = { 1650 1650 }
-						heavy_infantry = { 75 75 }
-						archers = { 330 330 }
+						light_cavalry = { 304 304 }
+						horse_archers = { 129 129 }
 					}
 					attrition = 0.5
 				}
@@ -519,11 +549,10 @@
 				spawn_unit = {
 					province = 608 # Lower Volga
 					owner = ROOT
-					leader = THIS
+					#leader = ROOT
 					troops = {
-						light_infantry = { 1650 1650 }
-						heavy_infantry = { 75 75 }
-						archers = { 330 330 }
+						light_cavalry = { 304 304 }
+						horse_archers = { 129 129 }
 					}
 					attrition = 0.5
 				}
@@ -605,6 +634,7 @@
 		dynasty=1042054
 	religion="manichean"
 	culture="pecheneg"
+	father = 188811
 	843.8.25={
 		birth=yes
 	}
@@ -622,8 +652,8 @@
 	culture="pecheneg"
 	father=180227
 	mother=180239
-	866.5.15={
-		birth="866.5.15"
+	865.5.15={
+		birth=yes
 	}
 	922.1.1={
 		death="922.1.1"
@@ -968,7 +998,22 @@
 	}
 }
 188761 = {
-	name="Ì©À­Ææ" # fictional
+	name="Tyrach" # fictional
+	dynasty=1042052
+	religion="manichean"
+	culture="pecheneg"
+	father=188762
+	mother=188819
+	768.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+194364 = {
+	name="Mutlu" # fictional
+	female = yes
 	dynasty=1042052
 	religion="manichean"
 	culture="pecheneg"
@@ -1165,7 +1210,7 @@
 	culture="pecheneg"
 	father=188817
 	trait=sympathy_zoroastrianism
-	751.1.1={
+	745.1.1={
 		birth=yes
 	}
 	809.1.1={

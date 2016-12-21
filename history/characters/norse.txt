@@ -523,7 +523,7 @@
 			spawn_unit = {
 				province = 106 # Nantes
 				owner = ROOT
-				leader = ROOT
+				#leader = ROOT
 				troops = {
 					light_infantry = { 217 217 }
 					heavy_infantry = { 168 168 }
@@ -636,6 +636,8 @@
 40605 = {
 	name="留里克" # 留里克, legendary founder of Rus. Probably known as 留里克 by his Norse contemporaries.
 	dynasty=705
+	dna = tczeyfghtom
+	properties = th0ebd000000
 	religion="norse_pagan"
 	culture=norse
 	diplomacy = 12
@@ -659,7 +661,7 @@
 			spawn_unit = {
 				province = 414
 				owner = ROOT
-				leader = ROOT
+				#leader = ROOT
 				troops = {
 					light_infantry = { 507 507 }
 					heavy_infantry = { 50 50 }
@@ -690,7 +692,7 @@
 	dynasty=705
 	religion=slavic_pagan
 	culture=norse
-	father=40605 # "kinsman of 留里克"
+	father=40605 # "kinsman of Rurik"
 	diplomacy=9
 	martial=9
 	trait=quick
@@ -788,10 +790,8 @@
 }
 
 41259 = {
-
-
 	name="托尔芬"
-	dynasty = 823 # V鋝e
+	dynasty = 823 # V?se
 	religion="norse_pagan"
 	culture=norse
 	840.1.1={
@@ -1582,7 +1582,7 @@
 	trait="greedy"
 	trait="clubfooted"
 	trait="flamboyant_schemer"
-	father=101502 #Harald Bl錿and
+	father=101502 #Harald Bl?tand
 	950.1.1={
 		birth="950.1.1"
 	}
@@ -1603,8 +1603,8 @@
 	trait="humble"
 	trait="content"
 	trait="thrifty_clerk"
-	father=101505 # Svend Tvesk鎔
-	mother=755 # Swietoslawa 贡hild
+	father=101505 # Svend Tvesk?g
+	mother=755 # Swietoslawa Gunnhild
 	989.1.1={
 		birth="989.1.1"
 	}
@@ -1670,16 +1670,16 @@
 	culture=norse
 	trait="envious"
 	trait="brilliant_strategist"
-	father=101505 # Svend Tvesk鎔
-	mother=755 # Swietoslawa 贡hild
+	father=101505 # Svend Tvesk?g
+	mother=755 # Swietoslawa Gunnhild
 	995.1.1={
 		birth="995.1.1"
 	}
 	1013.12.24={
-		add_spouse=135 #苐dgyth
+		add_spouse=135 #?ldgyth
 	}
 	1017.1.1={
-		remove_spouse=135 #苐dgyth
+		remove_spouse=135 #?ldgyth
 	}
 	1017.1.2={
 		add_spouse=259 # Emma of Normandy
@@ -1728,7 +1728,7 @@
 	trait="flamboyant_schemer"
 	trait="hunter"
 	father=101510 #克努特 The Great
-	mother=135 #苐dgyth
+	mother=135 #?ldgyth
 	1015.1.1={
 		birth="1015.1.1"
 	}
@@ -1749,8 +1749,8 @@
 	religion="catholic"
 	culture=norse
 	trait="amateurish_plotter"
-	father=101510 #克努特 The Great
-	mother=135 #苐dgyth
+	father=101510 #Knud The Great
+	mother=135 #?ldgyth
 	1016.1.1={
 		birth="1016.1.1"
 	}
@@ -1961,8 +1961,8 @@
 	trait="lustful"
 	trait="charitable"
 	trait="flamboyant_schemer"
-	970.1.2={
-		birth="970.1.2"
+	968.1.2={
+		birth="968.1.2"
 	}
 	1020.1.2={
 		death="1020.1.2"
@@ -3958,10 +3958,6 @@
 				spawn_unit = {
 					province = 57 # York
 					owner = PREV
-
-
-
-
 					troops = {
 						light_infantry = { 1292 1292 }
 						heavy_infantry = { 245 245 }
@@ -4065,7 +4061,7 @@
 			spawn_unit = {
 				province = 57 # York
 				owner = ROOT
-				leader = ROOT
+				#leader = ROOT
 				troops = {
 					light_infantry = { 1118 1118 }
 					heavy_infantry = { 1723 1723 }
@@ -4205,11 +4201,7 @@
 			spawn_unit = {
 				province = 547
 				owner = ROOT
-				leader = ROOT
-
-
-
-
+				#leader = ROOT
 				troops = {
 					light_infantry = { 722 722 }
 					heavy_infantry = { 156 156 }
@@ -5007,7 +4999,7 @@
 			}
 }
 
-#H錶ogaland
+#H?logaland
 186002 = {
 
 
@@ -7357,6 +7349,65 @@
 		birth = yes
 	}
 	799.1.1 = {
+		death = yes
+	}
+}
+
+214079 = {
+	name = "Torsteinn"
+	dynasty = 1043504
+	religion = norse_pagan
+	culture = norse
+	father=186504
+	875.1.1 = {
+		birth = yes
+	}
+	945.1.1 = {
+		death = yes
+	}
+}
+
+214080 = {
+	name = "Torkell"
+	dynasty = 1043504
+	religion = norse_pagan
+	culture = norse
+	father=214079
+	905.1.1 = {
+		birth = yes
+	}
+	984.1.1 = {
+		death = yes
+	}
+}
+
+214081 = {
+	name = "Tormóer"
+	dynasty = 1043504
+	religion = norse_pagan
+	culture = norse
+	father=214080
+	940.1.1 = {
+		birth = yes
+	}
+	1000.1.1 = {
+		religion = catholic
+	}
+	1020.1.1 = {
+		death = yes
+	}
+}
+
+214082 = {
+	name = "Hamal"
+	dynasty = 1043504
+	religion = catholic
+	culture = norse
+	father=214081
+	980.1.1 = {
+		birth = yes
+	}
+	1055.1.1 = {
 		death = yes
 	}
 }

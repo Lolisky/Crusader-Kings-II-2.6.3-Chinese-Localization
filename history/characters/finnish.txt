@@ -393,24 +393,6 @@
 	}
 }
 
-228071 = {
-	name="ÒÁ¹şÀ­" #Ihala
-	dynasty=100592
-	martial=4
-	diplomacy=6
-	intrigue=8
-	stewardship=8
-	religion="finnish_pagan"
-	culture="finnish"
-	trait="martial_cleric"
-	1150.1.1={
-		birth="1150.1.1"
-	}
-	1200.1.1={
-		death="1200.1.1"
-	}
-}
-
 228072 = {
 	name="ÂóÄáÅ·" #Mainio
 	dynasty=100593
