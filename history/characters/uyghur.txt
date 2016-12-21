@@ -107,7 +107,7 @@
 }
 
 188788 = {
-	name="Qutlugh"
+	name="ºö¶¼Â³" # Qutlugh
 	dynasty=1042190 # Yaghlakar
 	religion="manichean"
 	culture="uyghur"
@@ -120,7 +120,7 @@
 	}
 }
 194191 = {
-	name="Qutlugh"
+	name="ºö¶¼Â³" # Qutlugh
 	dynasty=1045083 # Ediz
 	religion="manichean"
 	culture="uyghur"
@@ -1002,7 +1002,7 @@
 		death=yes
 	}
 }
-#Yughur Kingdom (Gansu Uyghurs)
+#Yughur Kingdom (Gansu Uyghurs)(¸ÊÖÝ»Ø÷½£©
 166766 = {
 	name="Bogu"
 	dynasty=1045083 # Ediz
@@ -1021,7 +1021,7 @@
 	}
 }
 166767 = {
-	name="Qutlugh"
+	name="¹ÇóÆÂ»" # Qutlugh
 	dynasty=1040064 # Yughur
 	religion="manichean"
 	culture="uyghur"
@@ -1124,7 +1124,7 @@
 	}
 }
 166773 = {
-	name="Uge"
+	name="ÒÁàà¸ñÀÕ" # Uge
 	dynasty=1040064 # Yughur
 	religion="buddhist"
 	culture="uyghur"
@@ -1137,7 +1137,7 @@
 		death=yes
 	}
 }
-#Uyghur Kingdom of Qocho
+#Uyghur Kingdom of Qocho£¨¸ß²ý»Ø÷½£©
 166774 = {
 	name="Kutan"
 	dynasty=1045083 # Ediz

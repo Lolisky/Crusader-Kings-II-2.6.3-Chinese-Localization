@@ -42,7 +42,7 @@
 		birth=yes
 	}
 	1045.1.1={
-		add_spouse=100514 # Maria af Muns?
+		add_spouse=100514 # Maria af Munso
 	}
 	
 	1066.1.1={
@@ -117,7 +117,7 @@
 }
 
 100526 = {
-	name="¹þ¿µ" # "Röde" (Possibly the same person as "Blot-Sven")
+	name="¹þ¿µ" # "Rode" (Possibly the same person as "Blot-Sven")
 	# AKA: Haakon
 	dynasty=498 # Speculation
 	martial=6
@@ -142,7 +142,7 @@
 100527 = {
 	name="²®¶÷"
 	# AKA: Bjorn
-	dynasty=497
+	dynasty=1045058
 	martial=7
 	diplomacy=5
 	intrigue=4
@@ -349,7 +349,7 @@
 100542 = {
 	name="²¨Ì©µÂ"
 	dynasty=495	
-  martial=6
+	martial=6
 	diplomacy=6
 	intrigue=5
 	stewardship=7
@@ -1394,9 +1394,12 @@
 	1216.1.2={
 		birth="1216.1.2"
 	}
-	1234.1.2 = {
-		give_nickname = nick_the_lisp_and_lame
+	1220.1.1 = {
+		give_nickname = nick_the_lisp_and_lame       # Really earlier than its historical use, but makes him more visible in the 1220 start
 	}
+#	1234.1.2 = {
+#		give_nickname = nick_the_lisp_and_lame
+#	}
 	1243.1.1 = {
 		add_spouse = 170021 # Katarina Sunadotter
 	}
@@ -1490,7 +1493,7 @@
 	1110.1.1={
 		birth="1110.1.1"
 	}
-	1149.1.1={
+	1140.1.1={
 		add_spouse=200522
 	}
 	1166.1.1={
@@ -1511,8 +1514,8 @@
 	trait="just"
 	trait="hunchback"
 	trait="thrifty_clerk"
-	1127.1.2={
-		birth="1127.1.2"
+	1120.1.2={
+		birth="1120.1.2"
 	}
 	1177.1.2={
 		death="1177.1.2"
@@ -1560,8 +1563,8 @@
 	trait="tough_soldier"
 	father=200523
 	mother=202513
-	1163.1.2={
-		birth="1163.1.2"
+	1166.1.2={
+		birth="1166.1.2"
 	}
 	1213.1.2={
 		death="1213.1.2"
@@ -1582,8 +1585,8 @@
 	trait="tough_soldier"
 	father=200523
 	mother=202513
-	1162.1.2={
-		birth="1162.1.2"
+	1166.1.2={
+		birth="1166.1.2"
 	}
 	1186.1.2={
 		add_spouse = 200505
@@ -1903,8 +1906,8 @@
 	trait="tough_soldier"
 	father=200525
 	mother=200505
-	1185.1.2={
-		birth="1185.1.2"
+	1187.1.2={
+		birth="1187.1.2"
 	}
 	1235.1.2={
 		death="1235.1.2"
@@ -2088,7 +2091,7 @@
 	trait="chaste"
 	trait="thrifty_clerk"
 	father=200604 # Sverker den Yngre
-mother=200528 # Ingegärd Birgersdotter
+	mother=200528 # Ingeg?rd Birgersdotter
 	1201.1.1={
 		birth="1201.1.1"
 	}
@@ -2445,7 +2448,7 @@ mother=200528 # Ingegärd Birgersdotter
 	trait="patient"
 	trait="brave"
 	trait="grey_eminence"
-	father=200540 # Magnus Minnisköld
+	father=200540 # Magnus Minnisk?ld
 	mother=200607 # Ingrid Ylva
 	1205.1.1={
 		birth="1205.1.1"
@@ -2502,7 +2505,7 @@ mother=200528 # Ingegärd Birgersdotter
 	trait="patient"
 	trait="brave"
 	trait="scholarly_theologian"
-	father=200540 # Magnus Minnisköld
+	father=200540 # Magnus Minnisk?ld
 	mother=200607 # Ingrid Ylva
 	1198.1.1={
 		birth="1198.1.1"
@@ -2740,7 +2743,7 @@ mother=200528 # Ingegärd Birgersdotter
 	trait="chaste"
 	trait="wroth"
 	trait="martial_cleric"
-	father=450502 # Magnus Ladulås
+	father=450502 # Magnus Ladul?s
 	mother=450503
 	1284.6.6={
 		birth="1284.6.6"
@@ -3108,8 +3111,8 @@ mother=200528 # Ingegärd Birgersdotter
 	trait="amateurish_plotter"
 	father=450647
 	mother=450659
-	1309.1.2={
-		birth="1309.1.2"
+	1313.1.2={
+		birth="1313.1.2"
 	}
 	1357.1.2={
 		death="1357.1.2"
@@ -3903,8 +3906,8 @@ mother=200528 # Ingegärd Birgersdotter
 	trait="thrifty_clerk"
 	father=450710
 	mother=450713
-	1325.1.2={
-		birth="1325.1.2"
+	1327.1.2={
+		birth="1327.1.2"
 	}
 	1375.1.2={
 		death="1375.1.2"
@@ -4372,6 +4375,7 @@ mother=200528 # Ingegärd Birgersdotter
 	name="Ñï"
 	# AKA: Jan Tomasson
 	dynasty=121
+	father=194226
 	martial=6
 	diplomacy=8
 	intrigue=7
@@ -4600,7 +4604,7 @@ mother=200528 # Ingegärd Birgersdotter
 	name="ÇÇÎ÷"
 	dna="poaanmhlbai"
 	properties="cehich"
-	dynasty=1056
+	dynasty=1057
 	religion="norse_pagan"
 	culture="swedish"
 	martial=3
@@ -6553,6 +6557,10 @@ mother=200528 # Ingegärd Birgersdotter
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1157.8.9={
+		add_trait = nun
+		employer = 200490
+	}
 	1172.1.1={
 		death="1172.1.1"
 	}
@@ -6614,7 +6622,7 @@ mother=200528 # Ingegärd Birgersdotter
 	father=200508 # Knut Holmgersson
 	mother=170023 # Helena Pedersdatter
 	1226.1.1={
-		birth="1206.1.1"
+		birth=yes
 	}
 	1249.1.1={
 		death="1249.1.1"
@@ -6629,7 +6637,7 @@ mother=200528 # Ingegärd Birgersdotter
 	father=200508 # Knut Holmgersson
 	mother=170023 # Helena Pedersdatter
 	1226.1.1={
-		birth="1207.1.1"
+		birth=yes
 	}
 	1252.1.1={
 		death="1252.1.1"
@@ -7512,7 +7520,7 @@ mother=200528 # Ingegärd Birgersdotter
 	}
 }
 194246 = {
-	name=Åsa
+	name=?sa
 	dynasty=137 # Sparre
 	religion=catholic
 	culture=swedish
@@ -7527,7 +7535,7 @@ mother=200528 # Ingegärd Birgersdotter
 }
 194247 = {
 	name=Johan
-	dynasty=100297 # Lilliehöök
+	dynasty=100297 # Lillieh??k
 	religion=catholic
 	culture=swedish
 	1150.1.1 = {
@@ -7538,8 +7546,8 @@ mother=200528 # Ingegärd Birgersdotter
 	}
 }
 194248 = {
-	name=Måns
-	dynasty=100297 # Lilliehöök
+	name=M?ns
+	dynasty=100297 # Lillieh??k
 	religion=catholic
 	culture=swedish
 	father=194247
@@ -7552,7 +7560,7 @@ mother=200528 # Ingegärd Birgersdotter
 }
 194249 = {
 	name=Karl
-	dynasty=100297 # Lilliehöök
+	dynasty=100297 # Lillieh??k
 	religion=catholic
 	culture=swedish
 	father=194248
@@ -7565,7 +7573,7 @@ mother=200528 # Ingegärd Birgersdotter
 }
 194250 = {
 	name=Johan
-	dynasty=100297 # Lilliehöök
+	dynasty=100297 # Lillieh??k
 	religion=catholic
 	culture=swedish
 	father=194249
@@ -7578,7 +7586,7 @@ mother=200528 # Ingegärd Birgersdotter
 }
 194251 = {
 	name=Ebba
-	dynasty=100297 # Lilliehöök
+	dynasty=100297 # Lillieh??k
 	religion=catholic
 	culture=swedish
 	female=yes
@@ -7592,7 +7600,7 @@ mother=200528 # Ingegärd Birgersdotter
 }
 194252 = {
 	name=Anna
-	dynasty=100297 # Lilliehöök
+	dynasty=100297 # Lillieh??k
 	religion=catholic
 	culture=swedish
 	female=yes
@@ -7800,7 +7808,7 @@ mother=200528 # Ingegärd Birgersdotter
 	}
 }
 194268 = {
-	name=Märta
+	name=M?rta
 	dynasty=1037 # Tre Rosor
 	religion=catholic
 	culture=swedish

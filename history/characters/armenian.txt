@@ -2964,31 +2964,23 @@
 461799 = {
 	name="º£ÍÍÄ·"
 	dynasty=23003
-	martial=3
-	diplomacy=4
-	intrigue=4
-	stewardship=5
 	religion="miaphysite"
 	culture="armenian"
 	trait="inbred"
 	trait="thrifty_clerk"
 	father=461800
 	mother=461798
-	1320.1.2={
-		birth="1320.1.2"
+	1323.1.1={
+		birth=yes
 	}
-	1330.1.2={
-		death="1330.1.2"
+	1331.1.1={
+		death=yes
 	}
 }
 
 461800 = {
 	name="ÁĞÎÌ" #king of Armenia 1320-1341
 	dynasty=23003
-	martial=7
-	diplomacy=5
-	intrigue=4
-	stewardship=7
 	religion="miaphysite"
 	culture="armenian"
 	trait="slothful"
@@ -2996,17 +2988,17 @@
 	trait="kinslayer"
 	father=461803
 	mother=31877
-	1296.1.1={
-		birth="1296.1.1"
+	1309.1.1={
+		birth=yes
 	}
-	1312.1.1={
+	1321.8.10={
 		add_spouse=461798
 	}
-	1333.1.1={
+	1331.12.29={
 		add_spouse=461509
 	}
-	1345.1.1={
-		death="1345.1.1"
+	1341.8.28={
+		death=yes
 	}
 }
 
@@ -4515,8 +4507,8 @@
 	religion="miaphysite"
 	culture="armenian"
 	father=159257
-	933.1.1={
-		birth="933.1.1"
+	930.1.1={
+		birth=yes
 	}
 	998.1.1={
 		death="998.1.1"
@@ -4645,7 +4637,7 @@
 	culture="armenian"
 	father=159211
 	mother=159236
-	1162.1.1={
+	1159.1.1={
 		birth="1162.1.1"
 	}
 	1230.1.1={
@@ -5417,13 +5409,10 @@
 	father=41576
 	mother=159282
 	1000.1.1={
-		birth="1000.1.1"
-	}
-	1020.1.1={
-		add_spouse=159266
+		birth=yes
 	}
 	1071.9.1={
-		death="1071.9.1"
+		death=yes
 	}
 }
 
@@ -5436,14 +5425,11 @@
 	trait="honest"
 	father=159266
 	mother=159283
-	1015.1.1={
-		birth="1015.1.1"
-	}
-	1030.1.1={
-		add_spouse=159287
+	1021.1.1={
+		birth=yes
 	}
 	1076.1.1={
-		death="1076.1.1"
+		death=yes
 	}
 }
 
@@ -5482,13 +5468,13 @@
 	culture="armenian"
 	father=159286
 	1000.1.1={
-		birth="1000.1.1"
+		birth=yes
 	}
-	1030.1.1={
+	1037.1.1={
 		add_spouse=159284
 	}
 	1080.1.1={
-		death="1080.1.1"
+		death=yes
 	}
 }
 
@@ -5500,14 +5486,11 @@
 	culture="armenian"
 	father=159287
 	mother=159284
-	1030.1.1={
-		birth="1030.1.1"
-	}
-	1050.1.1={
-		add_spouse=20534
+	1038.1.1={
+		birth=yes
 	}
 	1090.1.1={
-		death="1090.1.1"
+		death=yes
 	}
 }
 
@@ -5554,7 +5537,7 @@
 142589 = {
 	name="ÂêÀûÑÇÄ·" #Maria Ardzroun?
 	female = yes
-	dynasty=101736 #Ardzroun?
+	dynasty=101736 #Ardzroun¨ª
 	religion="miaphysite"
 	culture="armenian"
 	father=41576
@@ -5580,8 +5563,8 @@
 	culture="armenian"
 	father=159610
 	mother=159592
-	410.1.1={
-		birth="410.1.1"
+	412.1.1={
+		birth=yes
 	}
 	455.1.1={
 		death="455.1.1"
@@ -6489,16 +6472,16 @@
 	}
 }
 159850 = {
-	name="ÍßÌ¹" #
+	name="Vartan" #
 	dynasty=23006 # Mamikonian
 	religion="miaphysite"
 	culture="armenian"
 	father=159849
-	390.1.1={
-		birth="390.1.1"
+	400.1.1={
+		birth=yes
 	}
 	451.1.1={
-		death="451.1.1"
+		death=yes
 		give_nickname=nick_the_martyr
 	}
 }
@@ -6507,7 +6490,7 @@
 	dynasty=23006 # Mamikonian
 	religion="miaphysite"
 	culture="armenian"
-	father=159841
+	father=159849
 	390.1.1={
 		birth="390.1.1"
 	}
@@ -7934,7 +7917,7 @@
 	dynasty=101743
 	religion="miaphysite"
 	culture="armenian"
-	father=159996
+	father=159995
 	432.1.1={
 		birth="432.1.1"
 	}
@@ -8201,7 +8184,6 @@
 	dynasty=1022355 # Rshtuni
 	religion="miaphysite"
 	culture="armenian"
-	father=70454
 	600.1.1={
 		birth="600.1.1"
 	}

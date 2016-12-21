@@ -99,7 +99,7 @@
 }
 
 144021 = {
-	name = "Alp Arslan"
+	name = "Alp Arslan"
 	dynasty = 613
 	religion="sunni"
 	culture="turkish"
@@ -113,7 +113,7 @@
 }
 
 144022 = {
-	name = "Sultan Shah"
+	name = "Sultan Shah"
 	dynasty = 613
 	religion="sunni"
 	culture="turkish"
@@ -1585,7 +1585,7 @@
 }
 
 225000 = {
-	name="Kilij Arslan"
+	name="Kilij Arslan"
 	dynasty=613
 	martial=7
 	diplomacy=8
@@ -1708,7 +1708,7 @@
 }
 
 225007 = {
-	name="Gündüz"
+	name="Gunduz"
 	# AKA: GUndUz
 	dynasty=100751
 	martial=5
@@ -2036,7 +2036,7 @@
 }
 
 225024 = {
-	name="Sökmen"
+	name="Sokmen"
 	# AKA: SOkmen
 	dynasty=100673
 	martial=7
@@ -2344,7 +2344,7 @@
 }
 
 229011 = {
-	name="Mengücek"
+	name="Mengucek"
 	# AKA: MengUcek
 	dynasty=100613
 	martial=6
@@ -2677,7 +2677,7 @@
 }
 
 3040 = {
-	name="Alp Arslan"
+	name="Alp Arslan"
 	dynasty=613
 	dna = bdgeivbbbam
 	properties = fg0aha000000
@@ -2838,7 +2838,7 @@
 }
 
 41701 = {
-	name="Kilij Arslan"
+	name="Kilij Arslan"
 	# AKA: Kilij Arslan
 	dynasty=613
 	martial=5
@@ -3214,7 +3214,7 @@
 }
 
 476480 = {
-	name="Kiliç"
+	name="Kilic"
 	# AKA: Kilic
 	dynasty=100739
 	martial=6
@@ -4035,7 +4035,7 @@
 }
 
 71860 = {
-	name="Çoban"
+	name="Coban"
 	# AKA: Coban
 	dynasty=12102
 	religion="sunni"
@@ -4716,7 +4716,7 @@
 }
 
 34187 = {
-	name="Kilij Arslan"
+	name="Kilij Arslan"
 	dynasty=613
 	religion="sunni"
 	culture="turkish"
@@ -4789,7 +4789,7 @@
 }
 
 34192 = {
-	name="Kilij Arslan"
+	name="Kilij Arslan"
 	dynasty=613
 	religion="sunni"
 	culture="turkish"
@@ -4902,7 +4902,7 @@
 }
 
 34200 = {
-	name="Aynüddevle"
+	name="Aynuddevle"
 	dynasty=101730
 	religion="sunni"
 	culture="turkish"
@@ -4944,7 +4944,7 @@
 }
 
 34203 = {
-	name="Gümüstekin"
+	name="Gumustekin"
 	dynasty=101730
 	religion="sunni"
 	culture="turkish"
@@ -5000,7 +5000,7 @@
 }
 
 34207 = {
-	name="Zünnün"
+	name="Zunnun"
 	dynasty=101730
 	religion="sunni"
 	culture="turkish"
@@ -5057,7 +5057,7 @@
 }
 
 34211 = {
-	name="Alp Arslan"
+	name="Alp Arslan"
 	dynasty=613
 	religion="sunni"
 	culture="turkish"
@@ -5623,7 +5623,7 @@
 }
 
 34252 = {
-	name="Yülük Arslan"
+	name="Yuluk Arslan"
 	dynasty=100701
 	religion="sunni"
 	culture="turkish"
@@ -5805,7 +5805,7 @@
 }
 
 34395 = {
-	name="Mämäm Khätun"
+	name="Mamam Khatun"
 	female=yes
 	dynasty=100702
 	religion="sunni"
@@ -5907,7 +5907,7 @@
 }
 
 93049 = {
-	name="Hüseyin"
+	name="Huseyin"
 	dynasty=101864
 	religion="sunni"
 	culture="turkish"
@@ -7008,7 +7008,7 @@
 }
 
 93283 = {
-	name="Ïnal-Tegin"
+	name="Inal-Tegin"
 	dynasty=101866
 	religion="sunni"
 	culture="turkish"
@@ -7277,7 +7277,7 @@
 }
 
 93410 = {
-	name="Sökmen"
+	name="Sokmen"
 	dynasty=7359
 	religion="sunni"
 	culture="turkish"
@@ -7318,7 +7318,7 @@
 }
 
 93413 = {
-	name="Sökmen"
+	name="Sokmen"
 	dynasty=7359
 	religion="sunni"
 	culture="turkish"
@@ -7662,7 +7662,7 @@
 }
 
 74029 = {
-	name="Kiliç"
+	name="Kilic"
 	dynasty=12272
 
 	culture="turkish"
@@ -9745,7 +9745,7 @@
 	}
 }
 194310 = {
-	name="Çilen"
+	name="Cilen"
 	dynasty=1045067
 	religion="sunni"
 	culture=turkish
@@ -9799,7 +9799,7 @@
 }
 217150 = {
 	name = "Aepak" # fictional
-	dynasty = 1051105 # Sarigül
+	dynasty = 1051105 # Sariul
 	religion = tengri_pagan
 	culture = turkish
 	823.8.9 = {
@@ -9826,7 +9826,7 @@
 }
 217152 = {
 	name = "Tugor" # fictional
-	dynasty = 1051105 # Sarigül
+	dynasty = 1051105 # Sariul
 	religion = tengri_pagan
 	culture = turkish
 	father = 217150
@@ -9840,7 +9840,7 @@
 }
 217153 = {
 	name = "Sati" # fictional
-	dynasty = 1051105 # Sarigül
+	dynasty = 1051105 # Sariul
 	religion = tengri_pagan
 	culture = turkish
 	father = 217150
@@ -9909,7 +9909,7 @@
 	}
 }
 217158 = {
-	name = "Eldeçyuk" # fictional
+	name = "Eldecyuk" # fictional
 	dynasty = 1051106 # Koray
 	religion = tengri_pagan
 	culture = turkish
@@ -9939,7 +9939,7 @@
 	}
 }
 217160 = {
-	name = "Çiçek" # fictional
+	name = "Cicek" # fictional
 	religion = tengri_pagan
 	culture = turkish
 	female = yes

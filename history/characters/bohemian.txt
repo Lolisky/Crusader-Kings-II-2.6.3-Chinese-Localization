@@ -938,7 +938,10 @@
 		birth="907.1.1"
 	}
 	935.9.28={
-		death="935.9.28"
+		death={
+			death_reason = death_murder
+			killer = 508
+		}
 	}
 }
 

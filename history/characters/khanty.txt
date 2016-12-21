@@ -16,6 +16,7 @@
 	name="²¼°£À­"
 	#name="Pyera"
 	#placeholder
+	dynasty = 1051137
 	religion="finnish_pagan"
 	culture=khanty
 	1050.1.1={
@@ -29,10 +30,9 @@
 
 161721 = {
 	name="°¢²á¿Ë"	#placeholder
-	#name="Azeg"
+	dynasty = 1051137
 	religion="finnish_pagan"
 	culture=khanty
-	dynasty=1042193
 	father=161720
 	1080.1.1={
 		birth=yes
@@ -44,10 +44,9 @@
 
 161722 = {
 	name="°¢¶ûç¾"	#placeholder
-	#name="Arti"
+	dynasty = 1051137
 	religion="finnish_pagan"
 	culture=khanty
-	dynasty=1042193
 	father=161721
 	1110.1.1={
 		birth=yes
@@ -59,10 +58,9 @@
 
 161723 = {
 	name="Ôú¶ûÄá" #placeholder
-	#name="Zarny"
+	dynasty = 1051137
 	religion="finnish_pagan"
 	culture=khanty
-	dynasty=1042193
 	father=161722
 	1140.1.1={
 		birth=yes
@@ -75,9 +73,9 @@
 161724 = {
 	name="°ÍÂ³Ê²" #placeholder
 	#name="Parush"
+	dynasty = 1051137
 	religion="finnish_pagan"
 	culture=khanty
-	dynasty=1042193
 	father=161723
 	1170.1.1={
 		birth=yes

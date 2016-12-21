@@ -1257,9 +1257,9 @@
 	religion="shiite"
 	culture="bedouin_arabic"
 	trait="humble"
-	father=45036
+	father=45040
 	1060.1.1={
-		birth="1060.1.1"
+		birth="1032.3.7"
 	}
 	1110.1.1={
 		death="1110.1.1"
@@ -1425,10 +1425,10 @@
 	religion="shiite"
 	culture="bedouin_arabic"
 	trait="sayyid"
-	add_claim = d_shiite
 	father=159422
 	1000.1.1={
 		birth="1000.1.1"
+		add_claim = d_shiite
 	}
 	1050.1.1={
 		death="1050.1.1"
@@ -1445,10 +1445,10 @@
 	religion="shiite"
 	culture="bedouin_arabic"
 	trait="sayyid"
-	add_claim = d_shiite
 	father=45048
 	1040.1.1={
 		birth="1040.1.1"
+		add_claim = d_shiite
 	}
 	1068.1.1={
 		death="1068.1.1"
@@ -1465,7 +1465,6 @@
 	religion="shiite"
 	culture="bedouin_arabic"
 	trait="sayyid"
-	add_claim = d_shiite
 	father=45048
 	1045.1.1={
 		birth="1045.1.1"
@@ -1557,10 +1556,10 @@
 	religion="shiite"
 	culture="bedouin_arabic"
 	trait="sayyid"
-	add_claim = d_shiite
 	father=45050
 	1080.1.1={
 		birth="1080.1.1"
+		add_claim = d_shiite
 	}
 	1137.1.1={
 		death="1137.1.1"
@@ -1577,10 +1576,10 @@
 	religion="shiite"
 	culture="bedouin_arabic"
 	trait="sayyid"
-	add_claim = d_shiite
 	father=45050
 	1075.1.1={
 		birth="1075.1.1"
+		add_claim = d_shiite
 	}
 	1115.1.1={
 		death="1115.1.1"
@@ -1597,10 +1596,10 @@
 	religion="shiite"
 	culture="bedouin_arabic"
 	trait="sayyid"
-	add_claim = d_shiite
 	father=45050
 	1076.1.1={
 		birth="1076.1.1"
+		add_claim = d_shiite
 	}
 	1115.1.1={
 		death="1115.1.1"
@@ -1618,10 +1617,10 @@
 	religion="shiite"
 	culture="bedouin_arabic"
 	trait="sayyid"
-	add_claim = d_shiite
 	father=45056
 	1100.1.1={
 		birth="1100.1.1"
+		add_claim = d_shiite
 	}
 	1138.1.1={
 		death="1138.1.1"
@@ -1638,10 +1637,10 @@
 	religion="shiite"
 	culture="bedouin_arabic"
 	trait="sayyid"
-	add_claim = d_shiite
 	father=45057
 	1110.1.1={
 		birth="1110.1.1"
+		add_claim = d_shiite
 	}
 	1171.1.1={
 		death="1171.1.1"
@@ -2225,6 +2224,8 @@
 34002 = {
 	name="°¢¶û-ÂüËÕ¶û"
 	dynasty=101727
+	dna = beegiscaaad
+	properties = ml0ag0000000
 	religion="sunni"
 	culture="bedouin_arabic"
 	father=34000
@@ -2234,12 +2235,6 @@
 	}
 	732.1.1={
 		add_spouse=188746
-	}
-	769.1.1 = {
-		add_claim = k_sindh  # Vassal but de facto independent
-		add_claim = k_armenia  # Vassal but de facto independent
-		add_claim = d_khiva  # Vassal but de facto independent
-		add_claim = d_khorasan  # Vassal but de facto independent
 	}
 	775.1.1={
 		death=yes
@@ -2424,6 +2419,8 @@
 34014 = {
 	name="°¢¶û-ÄÂËş×È"
 	dynasty=101727
+	dna = csdeypeevjm
+	properties = eo0bb0000000
 	religion="sunni"
 	culture="bedouin_arabic"
 	father=34010
@@ -2440,9 +2437,9 @@
 	}
 	866.1.1={
 		add_claim = k_egypt # Tulunids
+		add_claim = k_baluchistan # Saffarids
 		add_claim = d_hamadan # Dulafids
 		add_claim = d_khorasan # Tahirids
-		add_claim = d_birjand # Saffarids
 		add_claim = d_medina # Hashimids
 		add_claim = d_aleppo # Bursaqids
 		add_claim = d_tripoli # Sulaymanids

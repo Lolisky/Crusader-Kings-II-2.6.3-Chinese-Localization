@@ -2225,6 +2225,8 @@
 	trait="proud"
 	trait="diligent"
 	trait="mastermind_theologian"
+	father=72878
+	mother=72877
 	1134.1.1 = {
 		birth="1134.1.1"
 	}
@@ -3154,15 +3156,17 @@
 457556 = {
 	name="°¢·½Ë÷"
 	dynasty=77
-
-	father=457542
-	mother=200096
-
 	religion=catholic
 	culture=castillan
-
+	trait="bastard"
+	father=457542
+	mother=200096
 	1289.1.1={
 		birth=yes
+	}
+	1290.1.1={
+		remove_trait="bastard"
+		trait="legit_bastard"
 	}
 	1325.1.2={
 		add_spouse=457557
@@ -3433,6 +3437,8 @@
 457620 = {
 	name="ì³µÏÄÏ" #AKA: Fernando III 'el Santo'
 	dynasty=681
+	dna = bcabiyiccaf
+	properties = ah00ja000000
 	martial=4
 	diplomacy=4
 	intrigue=4
@@ -5092,10 +5098,6 @@
 	name="°¬Þ±À­"
 	female=yes
 	dynasty=402
-	martial=4
-	diplomacy=6
-	intrigue=7
-	stewardship=6
 	religion="catholic"
 	culture="castillan"
 	trait="cynical"
@@ -5103,12 +5105,12 @@
 	trait="amateurish_plotter"
 	father=108510
 	mother=108511
-	1055.1.1 = {
-		birth="1055.1.1"
+	1061.1.1 = {
+		birth=yes
 	}
 	
 	1111.1.1 = {
-		death="1111.1.1"
+		death=yes
 	}
 }
 
@@ -6026,11 +6028,10 @@
 
 	religion=catholic
 	culture=castillan
-	
-	952.1.1={
+	946.1.1={
 		birth=yes
 	}
-	972.1.1 = {
+	1011.1.1 = {
 		death=yes
 	}
 }
@@ -6919,14 +6920,14 @@
 	culture="castillan"
 	father=71410
 	mother=71411
-	1204.1.1 = {
-		birth="1204.1.1"
+	1211.1.1 = {
+		birth=yes
 	}
 	1229.1.1 = {
 		add_spouse=71413
 	}
 	1260.1.1 = {
-		death="1260.1.1"
+		death=yes
 	}
 }
 
@@ -7017,11 +7018,11 @@
 	culture="castillan"
 	father=71410
 	mother=71411
-	1206.1.1 = {
-		birth="1206.1.1"
+	1212.1.1 = {
+		birth=yes
 	}
 	1240.1.1 = {
-		death="1240.1.1"
+		death=yes
 	}
 }
 
@@ -11240,20 +11241,17 @@
 72544 = {
 	name="ºú°²"
 	dynasty=776
-
 	father=72541
 	mother=71433
-
 	religion=catholic
 	culture=castillan
-
 	1244.1.1={
 		birth=yes
 	}
 	1260.1.1={
 		add_spouse=71574
 	}
-	1284.1.1={
+	1275.1.1={
 		remove_spouse=71574
 		add_spouse=72031
 	}
@@ -11283,17 +11281,14 @@
 	}
 }
 
-72548 = {
-	name="Å¬Åµ"
+72546={
+	name="ºú°²"
 	dynasty=776
-
 	father=72544
 	mother=72031
-
 	religion=catholic
 	culture=castillan
-
-	1282.1.1={
+	1276.1.1={
 		birth=yes
 	}
 	1294.1.1={
@@ -11307,8 +11302,8 @@
 	}
 }
 
-72550 = {
-	name="ÂêÀûÑÇ"
+72547={
+	name="Å¬Åµ"
 	dynasty=776
 
 	father=72544
@@ -11322,22 +11317,6 @@
 	}
 	1296.1.1={
 		death=yes
-	}
-}
-
-72551 = {
-	name="µü¸ê"
-	dynasty=274
-	religion="catholic"
-	culture="castillan"
-	1260.1.1 = {
-		birth="1260.1.1"
-	}
-	1285.1.1 = {
-		add_spouse=72550
-	}
-	1312.1.1 = {
-		death="1312.1.1"
 	}
 }
 
@@ -13029,9 +13008,6 @@
 	1135.1.1 = {
 		birth="1135.1.1"
 	}
-	1160.1.1 = {
-		add_spouse=72681
-	}
 	1202.8.22 = {
 		death="1202.8.22"
 	}
@@ -13549,13 +13525,13 @@
 	dynasty=437
 	religion="catholic"
 	culture="castillan"
+	female=yes
 	father=72689
 	mother=72608
 	1251.1.1 = {
 		birth="1251.1.1"
 	}
 	1281.1.1 = {
-		add_spouse=72549
 	}
 	1282.1.1 = {
 		death="1282.1.1"
@@ -13567,8 +13543,7 @@
 	dynasty=437
 	religion="catholic"
 	culture="castillan"
-	father=72693
-	mother=72549
+	mother=72693
 	1282.1.1 = {
 		birth="1282.1.1"
 	}
@@ -16617,17 +16592,14 @@
 72991 = {
 	name="ÅåµÂÂÞ"
 	dynasty=7025
-
 	father=72377
 	mother=73106
-
 	religion=catholic
 	culture=castillan
-
 	1169.1.1={
 		birth=yes
 	}
-	1207.1.1={
+	1194.1.1={
 		add_spouse=142039	
 	}
 	1223.6.9={
@@ -20266,6 +20238,44 @@
 		birth=yes
 	}
 	1325.1.1={
+		death=yes
+	}
+}
+194451 = {
+	name="Sancho"
+	religion="catholic"
+	culture="castillan"
+
+	1000.2.7={
+		birth=yes
+	}
+	1066.1.1={
+		employer = 70265
+	}
+	1066.9.16={
+		death=yes
+	}
+}
+194452 = {
+	name="Alicia"
+	female = yes
+	religion="catholic"
+	culture="castillan"
+	father = 194451
+	
+	trait = underhanded_rogue
+	trait = cynical
+	trait = kind
+	
+	disallow_random_traits = yes
+
+	1033.2.7 = {
+		birth=yes
+	}
+	1066.1.1 = {
+		employer = 70265
+	}
+	1066.9.16 = {
 		death=yes
 	}
 }

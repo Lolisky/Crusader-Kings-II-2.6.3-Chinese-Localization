@@ -66,8 +66,8 @@
 	culture="alan"
 	trait="cynical"
 	trait="tough_soldier"
-	1045.1.1={
-		birth="1045.1.1"
+	1038.1.1={
+		birth=yes
 	}
 	1095.1.1={
 		death="1095.1.1"
@@ -182,8 +182,6 @@
 
 228064 = {
 	name="²¼¶û¹Å"
-	#placeholder
-	# AKA: Burgur
 	dynasty=100605
 	martial=6
 	diplomacy=6
@@ -193,8 +191,22 @@
 	culture="alan"
 	trait="tough_soldier"
 	father=20665
-	1070.1.1={
-	birth="1070.1.1"
+	1060.1.1={
+	birth=yes
+	}
+	1120.1.1={
+	death="1120.1.1"
+	}
+}
+194425 = {
+	name="Drudan"
+	female=yes
+	dynasty=100605
+	religion="orthodox"
+	culture="alan"
+	father=20665
+	1055.1.1={
+	birth=yes
 	}
 	1120.1.1={
 	death="1120.1.1"
@@ -481,8 +493,23 @@
 	religion="orthodox"
 	culture="alan"
 	father=93036
-	1205.1.1={
-		birth="1205.1.1"
+	1200.1.1={
+		birth=yes
+	}
+		
+	1265.1.1={
+		death="1265.1.1"
+	}
+}
+194409= {
+	name="Shatana" 
+	female=yes
+	dynasty=100603
+	religion="orthodox"
+	culture="alan"
+	father=93036
+	1204.1.1={
+		birth=yes
 	}
 		
 	1265.1.1={
@@ -492,13 +519,12 @@
 
 93038= {
 	name="Èø·òÀ­¿Ë" 
-	#placeholder
 	dynasty=100606
 	religion="orthodox"
 	culture="alan"
 	father=93048
-	1220.1.1={
-		birth="1220.1.1"
+	1200.1.1={
+		birth=yes
 	}
 		
 	1280.1.1={
@@ -635,13 +661,41 @@
 
 93047= {
 	name="°¢Ë¹ÅÁ" 
-	#placeholder
 	dynasty=100606
 	religion="sunni"
 	culture="alan"
 	father=93039
 	1295.1.1={
 		birth="1295.1.1"
+	}
+		
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+194416= {
+	name="Itaz" 
+	dynasty=100606
+	religion="sunni"
+	culture="alan"
+	father=93047
+	1317.1.1={
+		birth=yes
+	}
+		
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+194415= {
+	name="Lela"
+	female=yes	
+	dynasty=100606
+	religion="sunni"
+	culture="alan"
+	father=93047
+	1315.1.1={
+		birth=yes
 	}
 		
 	1345.1.1={
@@ -787,6 +841,9 @@
 	dynasty=1029056
 	religion="orthodox"
 	culture="alan"
+	trait="sympathy_judaism"
+	trait="sympathy_pagans"
+	trait="sympathy_zoroastrianism"
 	840.1.1={
 		birth="840.1.1"
 	}
@@ -834,6 +891,9 @@
 
 	religion="orthodox"
 	culture="alan"
+	trait="sympathy_judaism"
+	trait="sympathy_pagans"
+	trait="sympathy_zoroastrianism"
 	862.1.1={
 		birth="862.1.1"
 	}
@@ -848,8 +908,11 @@
 
 	father=163118
 
-	religion="orthodox"
+	religion="mazdaki"
 	culture="alan"
+	trait="sympathy_judaism"
+	trait="sympathy_pagans"
+	trait="sympathy_christendom"
 	863.1.1={
 		birth="863.1.1"
 	}
@@ -867,6 +930,9 @@
 
 	religion="orthodox"
 	culture="alan"
+	trait="sympathy_judaism"
+	trait="sympathy_pagans"
+	trait="sympathy_zoroastrianism"
 	865.1.1={
 		birth="865.1.1"
 	}
@@ -962,8 +1028,11 @@
 	name="ÌØ°ºÉ£"
 	dynasty=1029057
 
-	religion="tengri_pagan"
+	religion="jewish"
 	culture="alan"
+	trait="sympathy_christendom"
+	trait="sympathy_zoroastrianism"
+	trait="sympathy_pagans"
 	831.1.1={
 		birth="831.1.1"
 	}
@@ -978,8 +1047,11 @@
 
 	father=183231
 
-	religion="tengri_pagan"
+	religion="jewish"
 	culture="alan"
+	trait="sympathy_christendom"
+	trait="sympathy_zoroastrianism"
+	trait="sympathy_pagans"
 	849.1.1={
 		birth="849.1.1"
 	}
@@ -996,6 +1068,9 @@
 
 	religion="tengri_pagan"
 	culture="alan"
+	trait="sympathy_christendom"
+	trait="sympathy_zoroastrianism"
+	trait="sympathy_judaism"
 	852.1.1={
 		birth="852.1.1"
 	}
@@ -1012,6 +1087,9 @@
 
 	religion="tengri_pagan"
 	culture="alan"
+	trait="sympathy_christendom"
+	trait="sympathy_zoroastrianism"
+	trait="sympathy_judaism"
 	854.1.1={
 		birth="854.1.1"
 	}
@@ -1027,8 +1105,11 @@
 
 	father=183231
 
-	religion="tengri_pagan"
+	religion="jewish"
 	culture="alan"
+	trait="sympathy_christendom"
+	trait="sympathy_zoroastrianism"
+	trait="sympathy_pagans"
 	856.1.1={
 		birth="856.1.1"
 	}
@@ -1044,8 +1125,11 @@
 
 	father=183231
 
-	religion="tengri_pagan"
+	religion="orthodox"
 	culture="alan"
+	trait="sympathy_judaism"
+	trait="sympathy_zoroastrianism"
+	trait="sympathy_pagans"
 	858.1.1={
 		birth="858.1.1"
 	}
@@ -1061,8 +1145,11 @@
 
 	father=183231
 
-	religion="tengri_pagan"
+	religion="mazdaki"
 	culture="alan"
+	trait="sympathy_christendom"
+	trait="sympathy_judaism"
+	trait="sympathy_pagans"
 	860.1.1={
 		birth="860.1.1"
 	}
@@ -1075,8 +1162,10 @@
 	name="Âí¸ñ¿Æ"
 	dynasty=1029070
 
-	religion="orthodox"
+	religion="zoroastrian"
 	culture="alan"
+	trait="sympathy_pagans"
+	trait="sympathy_christendom"
 	825.1.1={
 		birth="825.1.1"
 	}
@@ -1159,6 +1248,7 @@
 
 	religion="tengri_pagan"
 	culture="alan"
+	trait="sympathy_christendom"
 	803.1.1={
 		birth="803.1.1"
 	}
@@ -1215,8 +1305,24 @@
 		death="908.1.1"
 	}
 }
+194372 = {
+	name="Lamara"
+	female = yes
+	dynasty=1029060
+
+	father=183245
+
+	religion="tengri_pagan"
+	culture="alan"
+	851.1.1={
+		birth=yes
+	}
+	908.1.1={
+		death="908.1.1"
+	}
+}
 146205 = {
-	name="²¼ÂÞ±´ÌØ"
+	name="Buriberdi"
 	dynasty=1022383
 	culture="alan"
 	religion="tengri_pagan"
@@ -1258,10 +1364,10 @@
 }
 
 146208 = {
-	name="°¢À­ËþÒÁ"
+	name="°¢À­ß¯"
 	dynasty=1022383
 	culture="alan"
-	religion="tengri_pagan"
+	religion="zoroastrian"
 	father = 146205
 	750.1.1={
 		birth=yes
@@ -1314,7 +1420,7 @@
 }
 
 146212 = {
-	name="¿²¿¨Èø"
+	name="ºº¿âÎ÷"
 	dynasty=1022385
 	culture="alan"
 	religion="tengri_pagan"
@@ -1328,106 +1434,7 @@
 }
 
 146213 = {
-	name="°Í´ïÀïË¹"
-	dynasty=1022385
-	culture="alan"
-	religion="tengri_pagan"
-	father = 146212
-	753.1.1={
-		birth=yes
-	}
-	816.1.1={
-		death=yes
-	}
-}
-
-
-146207 = {
-	name="ÂÞË¹Âê" #Rosmag
-	dynasty=1022383
-	culture="alan"
-	religion="tengri_pagan"
-	father = 146205
-	748.1.1={
-		birth=yes
-	}
-	808.1.1={
-		death=yes
-	}
-}
-
-146208 = {
-	name="°¢À­ß¯" # Alatey
-	dynasty=1022383
-	culture="alan"
-	religion="zoroastrian"
-	father = 146205
-	750.1.1={
-		birth=yes
-	}
-	813.1.1={
-		death=yes
-	}
-}
-
-146209 = {
-	name="°Í×æ¿Ë" #Bazuk
-	dynasty=1022383
-	culture="alan"
-	religion="tengri_pagan"
-	father = 146206
-	763.1.1={
-		birth=yes
-	}
-	827.1.1={
-		death=yes
-	}
-}
-
-146210 = {
-	name="¿¼¶û" #Kaur
-	dynasty=1022384
-	culture="alan"
-	religion="tengri_pagan"
-
-	740.1.1={
-		birth=yes
-	}
-	794.1.1={
-		death=yes
-	}
-}
-
-146211 = {
-	name="¿â¶û" #Kul
-	dynasty=1022384
-	culture="alan"
-	religion="tengri_pagan"
-	father = 146210
-	757.1.1={
-		birth=yes
-	}
-	820.1.1={
-		death=yes
-	}
-}
-
-146212 = {
-	name="ºº¿âÎ÷" # Khankhusy
-	dynasty=1022385
-	culture="alan"
-	religion="tengri_pagan"
-
-	736.1.1={
-		birth=yes
-	}
-	789.1.1={
-		death=yes
-	}
-}
-
-146213 = {
-	name="¼Ö´ïÂ×" # Djadaron
+	name="¼Ö´ïÂ×"
 	dynasty=1022385
 	culture="alan"
 	religion="tengri_pagan"

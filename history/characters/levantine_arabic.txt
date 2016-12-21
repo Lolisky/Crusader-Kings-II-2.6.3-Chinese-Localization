@@ -946,7 +946,7 @@
 	religion="sunni"
 	culture="levantine_arabic"
 	trait="flamboyant_schemer"
-	1039.1.1={
+	1020.1.1={
 		birth="1039.1.1"
 	}
 	1089.1.1={
@@ -1134,7 +1134,6 @@
 
 226014 = {
 	name="ÒÁÀïÑÇË¹"
-	dynasty=100685
 	martial=6
 	diplomacy=6
 	intrigue=6
@@ -2235,26 +2234,6 @@
 	}
 }
 
-485250 = {
-	name="°¢²·¶ÅÀÕ-¹ş¿Ë"
-	# AKA: °¢²·¶ÅÀÕ
-	dynasty=100776
-	martial=4
-	diplomacy=5
-	intrigue=5
-	stewardship=4
-	religion="sunni"
-	culture="levantine_arabic"
-	trait="charitable"
-	trait="tough_soldier"
-	1300.1.1={
-		birth="1300.1.1"
-	}
-	1350.1.1={
-		death="1350.1.1"
-	}
-}
-
 485270 = {
 	name="ºúÈøÂê¶¡"
 	dynasty=100779
@@ -2619,6 +2598,7 @@
 	name="°¢²·¶ÅÀÕ-ÈöÂêµÂ"
 	# AKA: °¢²·¶ÅÀÕ
 	dynasty=100783
+	father=34516
 	martial=4
 	diplomacy=8
 	intrigue=5
@@ -7167,22 +7147,6 @@
 	}
 }
 
-166323 = {
-	name="À­°à Âí¿âË¹"
-	religion="nestorian"
-	culture="mongol" #Either Öngüd or Turkic Uyghur descent
-	trait="scholarly_theologian"
-	1245.1.1={
-		birth="1245.1.1"
-	}
-	1281.1.1={
-		name="ÑÇ²®À­¹ş"
-	}
-	1317.1.1={
-		death="1317.1.1"
-		give_nickname=nick_the_holy
-	}
-}
 
 166324 = {
 	name="ÌáÂõ"

@@ -283,6 +283,7 @@
 	dynasty = 9530
 	religion = baltic_pagan
 	culture = lettigallish
+	father = 220998
 	733.1.1 = {
 		birth = yes
 	}
@@ -321,7 +322,8 @@
 	dynasty = 9530
 	religion = baltic_pagan
 	culture = lettigallish
-	733.1.1 = {
+	father = 220998
+	735.2.5 = {
 		birth = yes
 	}
 	799.1.1 = {
@@ -351,6 +353,18 @@
 		birth = yes
 	}
 	866.1.1 = {
+		death = yes
+	}
+}
+220998 = {
+	name = "Pliksov"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = lettigallish
+	710.5.12 = {
+		birth = yes
+	}
+	750.8.15 = {
 		death = yes
 	}
 }

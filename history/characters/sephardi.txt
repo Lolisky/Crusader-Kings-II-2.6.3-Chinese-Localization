@@ -21,6 +21,7 @@
 41709 = {
 	name="°ÍÂ³¿Ë" #Barak
 	dynasty=11001
+	father = 41713 # Guessed connection to keep the dynasty connected
 	martial=5
 	diplomacy=5
 	intrigue=5
@@ -42,6 +43,7 @@
 41711 = {
 	name="ÓÅËØ¸£" #Yusuf
 	dynasty=11001
+	father = 41713 # Guessed connection to keep the dynasty connected
 	martial=4
 	diplomacy=9
 	intrigue=4

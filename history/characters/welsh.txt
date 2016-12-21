@@ -6277,7 +6277,8 @@ father=159697
 	dynasty=1029129 #Gwent
 	religion="catholic"
 	culture="welsh"
-	father=159808
+	father=159807
+	mother=159430
 	361.1.1={
 		birth="361.1.1"
 	}
@@ -6320,7 +6321,8 @@ father=159697
 	dynasty=1029129 #Gwent
 	religion="catholic"
 	culture="welsh"
-	father=159808
+	father=159807
+	mother=159430
 	373.1.1={
 		birth="373.1.1"
 	}
@@ -7597,7 +7599,7 @@ father=159697
 166440 = {  	
 	name="¶Å·ÒÍß¶û"
 	# AKA: Dyfnwal map Eochaid
-	dynasty=100047
+	dynasty=816
 	martial=4
 	diplomacy=6
 	intrigue=5
@@ -7607,6 +7609,9 @@ father=159697
 	father=166441
 	861.1.1={
 		birth="861.1.1"
+	}
+	889.1.1={
+		dynasty=100047
 	}
 	916.1.1={
 		death="916.1.1"
@@ -9224,7 +9229,7 @@ father=159697
 205140 = {
 	name="¹þÎ¤¶û" # ap Caradog
 	dynasty=14284 #Rhos
-	father=160046
+	father=159022
 	religion="catholic"
 	culture="welsh"
 	750.1.1={
@@ -9249,7 +9254,7 @@ father=159697
 	}
 }
 205138 = {
-	name="Ceindrych"
+	name="ÐÁµÂÀïÏ£"
 	female = yes
 	dynasty=1029032 #1st Brycheiniog
 	religion="catholic"
@@ -9260,5 +9265,22 @@ father=159697
 	}
 	680.1.1={
 		death="680.1.1"
+	}
+}
+
+214043 = { 
+	name="°¢Éª"
+	religion="catholic"
+	culture="welsh"
+	learning = 8
+	trait=monk
+	trait=scholar
+	trait=mastermind_theologian
+	845.1.1={
+		birth=yes
+		employer=159109
+	}
+	909.1.1={
+		death=yes
 	}
 }

@@ -2,10 +2,6 @@
 	name="°¢¸ñÄÝË¿"	# AKA: Agnez
 	female = yes
 	dynasty=311
-	martial=5
-	diplomacy=6
-	intrigue=8
-	stewardship=6
 	religion="catholic"
 	culture="breton"
 	trait="gluttonous"
@@ -13,11 +9,11 @@
 	trait="flamboyant_schemer"
 	father=10042
 	mother=10043
-	1010.1.2={
-		birth="1010.1.2"
+	1021.1.1={
+		birth=yes
 	}
-	1055.1.2={
-		death="1055.1.2"
+	1055.1.1={
+		death=yes
 	}
 }
 
@@ -25,22 +21,18 @@
 	name="°¢À³¶÷" 
 	# AKA: Alan 'Caignart'
 	dynasty=311
-	martial=6
-	diplomacy=6
-	intrigue=8
-	stewardship=6
 	religion="catholic"
 	culture="breton"
 	trait="misguided_warrior"
 	father=159678
-	992.1.2={
-		birth="992.1.2"
+	992.1.1={
+		birth=yes
 	}
-	1026.1.2={
+	1015.1.1={
 		add_spouse=10043
 	}
-	1058.1.2={
-		death="1058.1.2"
+	1058.1.1={
+		death=yes
 	}
 }
 
@@ -111,14 +103,14 @@
 10047 = {
 	name="°¢À¼" #Alain Niger
 	# AKA: Alan the Black
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	trait="envious"
 	trait="tough_soldier"
 	trait="wroth"
-	father=346 #Éon I de Penthièvre
+	father=346 #¨¦on I de Penthi¨¨vre
 	#a mistress or mother=10041
 	1044.1.1={
 		birth="1044.1.1"
@@ -130,13 +122,13 @@
 
 10048 = {
 	name="µÂÀï¶÷" #Derien, lord of the Roche-Derrien
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
 	trait="temperate"
 	trait="tough_soldier"
 	trait="bastard"
-	father=346 #Éon I de Penthièvre
+	father=346 #¨¦on I de Penthi¨¨vre
 	#a mistress or mother=10041
 	1039.1.1={
 		birth="1039.1.1"
@@ -147,26 +139,17 @@
 }
 
 10051 = {
-	name="°¢÷ìÂ×µÙË¿"
-	# AKA: Adelendis
-	female = yes
+	name="²¼µÏ¿Ë"
 	dynasty=311
-	martial=6
-	diplomacy=4
-	intrigue=7
-	stewardship=4
 	religion="catholic"
 	culture="breton"
-	trait="patient"
-	trait="charitable"
-	trait="indulgent_wastrel"
 	father=10042
 	mother=10043
-	1035.1.2={
-		birth="1035.1.2"
+	1018.1.1={
+		birth=yes
 	}
-	1085.1.2={
-		death="1085.1.2"
+	1091.1.1={
+		death=yes
 	}
 }
 
@@ -174,10 +157,6 @@
 	name="¹Å¶ûÀ×Ææ"
 	# AKA: Guerech
 	dynasty=311
-	martial=8
-	diplomacy=4
-	intrigue=7
-	stewardship=4
 	religion="catholic"
 	culture="breton"
 	trait="temperate"
@@ -185,11 +164,11 @@
 	trait="martial_cleric"
 	father=10042
 	mother=10043
-	1031.1.2={
-		birth="1031.1.2"
+	1017.1.1={
+		birth=yes
 	}
-	1079.1.2={
-		death="1079.1.2"
+	1079.1.1={
+		death=yes
 	}
 }
 
@@ -197,10 +176,6 @@
 	name="±¾ÄáµÏ¿Ë"
 	# AKA: Benead
 	dynasty=311
-	martial=6
-	diplomacy=4
-	intrigue=7
-	stewardship=4
 	religion="catholic"
 	culture="breton"
 	trait="lisp"
@@ -208,11 +183,14 @@
 	trait="martial_cleric"
 	father=10042
 	mother=10043
-	1040.1.2={
-		birth="1040.1.2"
+	1020.1.1={
+		birth=yes
 	}
-	1115.1.2={
-		death="1115.1.2"
+	1066.1.1={
+		trait="monk"
+	}
+	1115.1.1={
+		death=yes
 	}
 }
 
@@ -220,21 +198,20 @@
 	name="»ôµÙ¶ûÄÝ"
 	female = yes
 	dynasty=311
-	martial=6
-	diplomacy=8
-	intrigue=4
-	stewardship=4
 	religion="catholic"
 	culture="breton"
 	trait="humble"
 	trait="martial_cleric"
 	father=10042
 	mother=10043
-	1025.1.2={
-		birth="1025.1.2"
+	1019.1.1={
+		birth=yes
 	}
-	1075.1.2={
-		death="1075.1.2"
+	1049.1.1={
+		trait="nun"
+	}
+	1075.1.1={
+		death=yes
 	}
 }
 
@@ -340,14 +317,14 @@
 	trait="charismatic_negotiator"
 	father=10042
 	mother=10043
-	1030.1.2={
-		birth="1030.1.2"
+	1016.1.1={
+		birth=yes
 	}
-	1058.1.2={
+	1058.1.1={
 		add_spouse=347
 	}
 	1084.4.13={
-		death="1084.4.13"
+		death=yes
 	}
 }
 
@@ -597,14 +574,14 @@
 	culture="breton"
 	father=342
 	mother=257
-	999.1.2={
-		birth="999.1.2"
+	999.1.1={
+		birth=yes
 	}
-	1020.1.2={
+	1037.1.1={
 		add_spouse=10041
 	}
 	1079.1.7={
-		death="1079.1.7"
+		death=yes
 	}
 }
 
@@ -633,23 +610,23 @@
 350 = {
 	name="Èô¸¥Â³Íß" #Geoffroy I Boterel
 	# AKA: Jafrez 'Boterel'
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
-	father=346 #Éon I de Penthièvre
+	father=346 #¨¦on I de Penthi¨¨vre
 	mother=10041 #Oanez de Cornouaille
-	1025.1.1={
-		birth="1025.1.1"
+	1038.1.1={
+		birth=yes
 	}
 	1093.4.24={
-		death="1093.4.24"
+		death=yes
 	}
 }
 
 354 = {
 	name="²¼À³¶÷ÌØ"
 	# AKA: Brient
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
 	trait="bastard"
@@ -803,10 +780,10 @@
 
 91161 = {
 	name="Èô¸¥Â³Íß" #Geoffroy II de Penthièvre
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
-	father=205744 #Stefen I de Penthièvre
+	father=205744 #Stefen I de Penthi¨¨vre
 	mother=205745 #Hawiz de Guingamp
 	1090.1.1={
 		birth="1090.1.1"
@@ -819,10 +796,10 @@
 
 91162 = {
 	name="ÀïÍßÂ¡" #Rivallon de Penthièvre
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
-	father=91161 #Jafrez II de Penthièvre
+	father=91161 #Jafrez II de Penthi¨¨vre
 	#Hawise, d. of Jean de Dol
 	1130.1.1={
 		birth="1130.1.1"
@@ -835,10 +812,10 @@
 
 91163 = {
 	name="Ë¹µÙ·Ò" #Étienne II de Penthièvre
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
-	father=91161 #Jafrez II de Penthièvre
+	father=91161 #Jafrez II de Penthi¨¨vre
 	#Hawise, d. of Jean de Dol
 	1120.1.1={
 		birth="1120.1.1"
@@ -850,10 +827,10 @@
 
 91164 = {
 	name="Èô¸¥Â³Íß" #Geoffroy III de Penthièvre
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
-	father=91162 #Rivallon de Penthièvre
+	father=91162 #Rivallon de Penthi¨¨vre
 	#Hawise, d. of Jean de Dol
 	1150.1.1={
 		birth="1150.1.1"
@@ -865,11 +842,11 @@
 
 91165 = {
 	name="ºàÀû" #Henri II d'Avaugour
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
-	father=205742 #Alan I de Penthièvre
-	#Pétronille de Beaumont-au-Maine
+	father=205742 #Alan I de Penthi¨¨vre
+	#P¨¦tronille de Beaumont-au-Maine
 	1204.1.5={
 		birth="1204.1.5"
 	}
@@ -913,7 +890,7 @@
 
 91169 = {
 	name="°¢À³¶÷" #Alain II d'Avaugour
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
 	father=91165 #Harry II d'Avaugour
@@ -921,7 +898,7 @@
 	1224.1.1={
 		birth="1224.1.1"
 	}
-	#Clémence de Beaufort 1246
+	#Cl¨¦mence de Beaufort 1246
 	1270.1.1={
 		death="1270.1.1" #after 1268
 	}
@@ -930,7 +907,7 @@
 205740 = {
 	name="¿µË¹Ì¹Ë¿" #Constance, duchess of Brittany
 	female = yes
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
 	trait="gluttonous"
@@ -947,11 +924,11 @@
 
 205741 = {
 	name="¿×ÄÏ" #Conan IV le Petit
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
 	trait="dwarf"
-	father=205751 #Alan de Penthièvre
+	father=205751 #Alan de Penthi¨¨vre
 	mother=205825 #Berthe de Bretagne
 	1138.1.1={
 		birth="1138.1.1"
@@ -967,10 +944,10 @@
 
 205744 = {
 	name="Ë¹µÙ·Ò"
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
-	father=346 #Eudes de Penthièvre
+	father=346 #Eudes de Penthi¨¨vre
 	mother=10041 #Oanez de Cornouaille
 	1050.1.1={
 		birth="1050.1.1"
@@ -986,7 +963,7 @@
 205750 = {
 	name="¿µË¹Ì¹Ë¿" #Constance de Bretagne
 	female = yes
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	father=205751 #Alan le Noir
 	mother=205825 #Berthe de Bretagne
 	religion="catholic"
@@ -1002,10 +979,10 @@
 
 205751 = {
 	name="°¢À³¶÷" #de Bretagne
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
-	father=205744 #Stefen I de Penthièvre
+	father=205744 #Stefen I de Penthi¨¨vre
 	mother=205745 #Hawiz de Guingamp
 	1095.1.1={
 		birth="1095.1.1"
@@ -1104,7 +1081,7 @@
 455580 = {
 	name="¼ò" #Jeanne d'Avaugour
 	female = yes
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
 	father=91258 #Harry IV d'Avaugour
@@ -1112,7 +1089,7 @@
 	1290.1.1={
 		birth="1290.1.1"
 	}
-	#Guy de Bretagne, compte de Penthièvre (1318)
+	#Guy de Bretagne, compte de Penthi¨¨vre (1318)
 	1327.8.30={
 		death="1327.8.30"
 	}
@@ -1120,11 +1097,11 @@
 
 455581 = {
 	name="ºàÀû" #I assume he is Henri III d'Avaugour
-	dynasty=317 #House of Penthièvre
+	dynasty=317 #House of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
 	father=91169 #Alan II d'Avaugour
-	#Clémence de Beaufort, lady of Dinan
+	#Cl¨¦mence de Beaufort, lady of Dinan
 	1247.1.1={
 		birth="1247.1.1"
 	}
@@ -1153,7 +1130,7 @@
 	1114.1.1={
 		birth="1114.1.1"
 	}
-	#Alan de Penthièvre (1138.1.1)
+	#Alan de Penthi¨¨vre (1138.1.1)
 	1157.1.17={
 		death="1157.1.17"
 	}
@@ -1223,7 +1200,7 @@
 	dynasty=20017 #La Marck
 	religion="catholic"
 	culture="breton"
-	father=10059 #Morvan, viscount of Léon
+	father=10059 #Morvan, viscount of L¨¦on
 	1060.1.1={
 		birth="1060.1.1"
 	}
@@ -1327,7 +1304,7 @@
 	1260.1.1={
 		birth="1260.1.1"
 	}
-	#Prigent de Coëtmen, viscount of Tonquedec
+	#Prigent de Co?tmen, viscount of Tonquedec
 	1300.1.1={
 		death="1300.1.1" #after 1254.6.7
 	}
@@ -1338,7 +1315,7 @@
 	female=yes
 	religion="catholic"
 	culture="breton"
-	father=91219 #Huiarnviu III de Léon
+	father=91219 #Huiarnviu III de L¨¦on
 	#Marguerite
 	1260.1.1={
 		birth="1260.1.1"
@@ -1473,7 +1450,7 @@
 	929.1.1={
 		birth="929.1.1"
 	}
-	#Triscan de Vitr?
+	#Triscan de Vitr¨¦
 	1000.1.1={
 		death="1000.1.1"
 	}
@@ -1601,7 +1578,7 @@
 
 91261 = {
 	name="¼ÍÒ¢Ä·" #Guillaume de Bretagne
-	dynasty=317#Rennes house of Penthièvre
+	dynasty=317#Rennes house of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
 	father=346 #Eudes de Bretagne
@@ -2042,12 +2019,12 @@
 	dynasty=317 #Rennes house of Penthièvre
 	religion="catholic"
 	culture="breton"
-	father=205742 #Alan, comte de Penthièvre
-	#Adélaïde
+	father=205742 #Alan, comte de Penthi¨¨vre
+	#Ad¨¦la?de
 	1210.1.1 = {
 		birth="1210.1.1"
 	}
-	#Eustachie de Vitr? d. of Andr?III de Vitr?& Catherine de Thouars
+	#Eustachie de Vitr¨¦, d. of Andr¨¦ III de Vitr¨¦ & Catherine de Thouars
 	1281.1.1={
 		death="1281.1.1"
 	}
@@ -2056,11 +2033,11 @@
 91291 = {
 	name="°¬ÍÞ" #Haoys d'Avaugour
 	female=yes
-	dynasty=317 #Rennes house of Penthièvre
+	dynasty=317 #Rennes house of Penthi¨¨vre
 	religion="catholic"
 	culture="breton"
 	father=91169 #Alan d'Avaugour
-	#Clémence de Dinan
+	#Cl¨¦mence de Dinan
 	1250.1.1 = {
 		birth="1250.1.1"
 	}
@@ -3249,8 +3226,8 @@
 	culture="breton"
 	dynasty=1029042 #Corneu
 	father=159450
-	695.1.1={
-		birth="695.1.1"
+	689.1.1={
+		birth="689.1.1"
 	}
 	742.1.1={
 		death="742.1.1"
