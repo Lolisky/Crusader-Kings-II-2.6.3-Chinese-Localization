@@ -23,7 +23,7 @@
 
 * 52汉化组 [2.62 alpha 汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72131)
 
-* 核动力火锅 [“发挥2.62尝鲜汉化包最大作用的一些技巧”补丁](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72774)
+* 核动力火锅 [“发挥2.62尝鲜汉化包最大作用的一些技巧”补丁](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72774)**注意：此包含少量2.3.6的旧版汉化文件，虽然未发现影响游戏，但以防万一，12月21日我对照2.62的原始文件作了修订，不再直接引用该补丁，理论上和原版262不会有出入了。
 
 * alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72770)
 
