@@ -218,11 +218,14 @@
 	trait="martial_cleric"
 	father=984
 	mother=102505
-	1060.1.1={
-		birth="1060.1.1"
+	1060.1.10={
+		birth=yes
+	}
+	1088.1.1={
+		add_spouse=969
 	}
 	1094.11.12={
-		death="1094.11.12"
+		death=yes
 	}
 }
 
@@ -334,7 +337,7 @@
 	stewardship=4
 	religion="catholic"
 	culture="scottish"
-	father=83586 #Domnall mac Morgg醝n
+	father=83586 #Domnall mac Morggáin
 	955.1.1={
 		birth="955.1.1"
 	}
@@ -720,7 +723,7 @@
 
 7391 = {  	
 	name="安格斯"
-	dynasty=25046
+	dynasty=3101 # MacDonald
 	martial=7
 	diplomacy=6
 	intrigue=6
@@ -729,11 +732,12 @@
 	culture="scottish"
 	trait="tough_soldier"
 	father=220031
-	1200.1.1={
-		birth="1200.1.1"
+	1215.1.1={
+		birth=yes
 	}
 	1296.1.1={
-		death="1296.1.1"
+		death=yes
+		give_nickname=nick_the_great
 	}
 }
 
@@ -1073,11 +1077,12 @@
 	culture="scottish"
 	trait="skilled_tactician"
 	father=988
+	mother=969
 	1091.1.1={
-		birth="1091.1.1"
+		birth=yes
 	}
 	1154.1.13={
-		death="1154.1.13"
+		death=yes
 	}
 }
 
@@ -1093,15 +1098,15 @@
 	trait="proud"
 	trait="diligent"
 	trait="tough_soldier"
-	father=202969
+	father=202969 # questionable, possibly grandson of Angus III Moray
 	1150.1.1={
-		birth="1150.1.1"
+		birth=yes
 	}
 	1174.1.1={
 		add_spouse=202972
 	}
 	1187.7.1={
-		death="1187.7.1"
+		death=yes
 	}
 }
 
@@ -1377,7 +1382,7 @@
 		birth="1145.1.1"
 	}
 	1180.1.2={
-		add_spouse = 203077 #Ingibj鴕g no dynasty
+		add_spouse = 203077 #Ingibj?rg no dynasty
 	}
 	1195.1.1={
 		death="1195.1.1"
@@ -1449,23 +1454,18 @@
 }
 
 203012 = {  	
-	name="伊维尔"
-	# AKA: eua
+	name="阿利斯塔"
 	female = yes
-	dynasty=101601
-	martial=5
-	diplomacy=7
-	intrigue=6
-	stewardship=6
+	dynasty=100042
 	religion="catholic"
 	culture="scottish"
-	trait="slothful"
-	trait="fortune_builder"
-	1155.1.1={
-		birth="1155.1.1"
+	father = 203060 # Morgann of Mar
+	mother =203061
+	1162.1.1={
+		birth=yes
 	}
 	1205.1.1={
-		death="1205.1.1"
+		death=yes
 	}
 }
 
@@ -1677,23 +1677,19 @@
 	name="摩根"
 	# AKA: Morggan
 	dynasty=100042
-	martial=7
-	diplomacy=5
-	intrigue=6
-	stewardship=7
 	religion="catholic"
 	culture="scottish"
 	trait="honest"
 	trait="tough_soldier"
 	father = 203059
 	1130.1.1={
-		birth="1130.1.1"
+		birth=yes
 	}
-	1166.1.1={
+	1161.1.1={
 		add_spouse=203061
 	}
 	1183.3.1={
-		death="1183.3.1"
+		death=yes
 	}
 }
 
@@ -2238,21 +2234,22 @@
 	stewardship=8
 	religion="catholic"
 	culture="scottish"
+	father=188870
 	1113.1.1={
-		birth="1113.1.1"
+		birth=yes
 	}
 	1133.1.11={
 		add_spouse = 220026
 	}
 	1164.1.1={
-		death="1164.1.1"
+		death=yes
 	}
 }
 
 220028 = {  	
 	name="菲欧娜"
 	female = yes
-	dynasty=100040
+	dynasty=101901 # Mac Uilleim
 	martial=4
 	diplomacy=5
 	intrigue=5
@@ -2261,11 +2258,12 @@
 	culture="scottish"
 	trait="gluttonous"
 	trait="scholarly_theologian"
-	1155.1.13={
-		birth="1155.1.13"
+	father=202969 # possibly
+	1150.1.13={
+		birth=yes
 	}
 	1205.1.13={
-		death="1205.1.13"
+		death=yes
 	}
 }
 
@@ -2281,11 +2279,11 @@
 	trait="tough_soldier"
 	father=220019
 	mother=220028
-	1169.1.1={
-		birth="1169.1.1"
+	1179.1.1={
+		birth=yes
 	}
-	1219.1.1={
-		death="1219.1.1"
+	1247.1.1={
+		death=yes
 	}
 }
 
@@ -2301,8 +2299,8 @@
 	trait="tough_soldier"
 	father=220019
 	mother=220028
-	1172.1.1={
-		birth="1172.1.1"
+	1172.1.20={
+		birth="1172.1.20"
 	}
 	1249.1.1={
 		death="1249.1.1"
@@ -2331,7 +2329,7 @@
 220038 = {  	
 	name="加米利亚"
 	female = yes
-	dynasty=3114
+	dynasty=3104
 	martial=7
 	diplomacy=6
 	intrigue=7
@@ -2340,12 +2338,13 @@
 	culture="scottish"
 	trait="thrifty_clerk"
 	trait="wroth"
-	father = 83589 #'马尔科姆 Macheth'
+	father = 83589 #'Malcolm Macheth'
+	mother=188871
 	1140.1.1={
-		birth="1140.1.1"
+		birth=yes
 	}
 	1215.7.1={
-		death="1215.7.1"
+		death=yes
 	}
 }
 
@@ -2423,8 +2422,8 @@
 	trait="thrifty_clerk"
 	father=220020
 	mother=220038
-	1172.1.1={
-		birth="1172.1.1"
+	1176.1.1={
+		birth="1176.1.1"
 	}
 	1222.1.1={
 		death="1222.1.1"
@@ -2810,35 +2809,31 @@
 	trait="tough_soldier"
 	father=453055
 	1326.1.1={
-		birth="1326.1.1"
+		birth=yes
 	}
-	1376.1.1={
-		death="1376.1.1"
+	1386.1.1={
+		death=yes
 	}
 }
 
 450820 = {  	
 	name="马利兹"
 	dynasty=9101
-	martial=8
-	diplomacy=8
-	intrigue=7
-	stewardship=7
 	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="cynical"
 	trait="fortune_builder"
 	father=450821
-	mother=450823
-	1297.1.1={
-		birth="1297.1.1"
+	mother=188933
+	1294.1.1={
+		birth=yes
 	}
 	1322.1.1={
 		add_spouse = 450825
 	}
 	1346.10.17={
-		death="1346.10.17"
+		death=yes
 	}
 }
 
@@ -2855,13 +2850,16 @@
 	father=82033
 	mother=161655
 	1276.1.1={
-		birth="1276.1.1"
+		birth=yes
 	}
-	1296.1.1={
+	1293.1.1={
+		add_spouse=188933
+	}
+	1323.1.1={
 		add_spouse=450823
 	}
 	1329.1.1={
-		death="1329.1.1"
+		death=yes
 	}
 }
 
@@ -2887,19 +2885,15 @@
 450823 = {  	
 	name="琼娜"
 	female = yes
-	dynasty=123
-	martial=5
-	diplomacy=8
-	intrigue=5
-	stewardship=6
+	dynasty=123 # de Menteith
 	religion="catholic"
 	culture="scottish"
-	trait="scholarly_theologian"
-	1280.1.1={
-		birth="1280.1.1"
+	father=188926
+	1307.1.1={
+		birth=yes
 	}
-	1312.1.1={
-		death="1312.1.1"
+	1370.1.1={
+		death=yes
 	}
 }
 
@@ -2939,7 +2933,7 @@
 	trait="scholarly_theologian"
 	father=453052
 	mother=453514
-	1306.1.2={
+	1306.1.20={
 		birth="1306.1.2"
 	}
 	1356.1.2={
@@ -3025,8 +3019,8 @@
 	trait="tough_soldier"
 	father=453037
 	mother=453025
-	1310.1.1={
-		birth="1310.1.1"
+	1316.1.1={
+		birth="1316.1.1"
 	}
 	1360.1.1={
 		death="1360.1.1"
@@ -3071,10 +3065,10 @@
 	trait="martial_cleric"
 	father=453058
 	mother=453059
-	1309.1.1={
-		birth="1309.1.1"
+	1312.1.1={
+		birth="1312.1.1"
 	}
-	1336.1.2={
+	1347.1.2={
 		add_spouse=453057
 	}
 	1359.1.1={
@@ -3145,26 +3139,22 @@
 453009 = {  	
 	name="科林"
 	dynasty=3128
-	martial=4
-	diplomacy=8
-	intrigue=5
-	stewardship=7
 	religion="catholic"
 	culture="scottish"
-	trait="honest"
-	trait="cynical"
-	trait="lustful"
-	trait="skilled_tactician"
+	trait="tough_soldier"
+	trait="brave"
+	trait="wroth"
 	father=453071
 	mother=453072
-	1295.1.1={
-		birth="1295.1.1"
+	give_nickname=nick_the_young
+	1301.1.1={
+		birth=yes
 	}
-	1315.1.2={
+	1320.1.2={
 		add_spouse=453076
 	}
-	1347.1.1={
-		death="1347.1.1"
+	1343.1.1={
+		death=yes
 	}
 }
 
@@ -3314,10 +3304,10 @@
 	trait="amateurish_plotter"
 	father=453023
 	1263.1.1={
-		birth="1263.1.1"
+		birth=yes
 	}
-	1302.1.2={
-		death="1302.1.2"
+	1296.12.12={
+		death=yes
 	}
 }
 
@@ -3354,8 +3344,8 @@
 	trait="thrifty_clerk"
 	father=453020
 	mother=453021
-	1327.1.1={
-		birth="1327.1.1"
+	1330.1.1={
+		birth="1330.1.1"
 	}
 	1377.1.1={
 		death="1377.1.1"
@@ -3497,7 +3487,7 @@
 	1280.1.1={
 		birth="1280.1.1"
 	}
-	1315.1.1={
+	1309.1.1={
 		add_spouse = 453504
 	}
 	1326.4.9={
@@ -3770,7 +3760,7 @@
 453055 = {  	
 	name="安格斯"
 	# AKA: Aongas Og
-	dynasty=25046
+	dynasty=3101 # MacDonald
 	martial=5
 	diplomacy=4
 	intrigue=4
@@ -3780,11 +3770,14 @@
 	trait="lustful"
 	trait="tough_soldier"
 	father = 7391
-	1290.1.1={
-		birth="1290.1.1"
+	1280.1.1={
+		birth=yes
+	}
+	1299.1.1={
+		give_nickname=nick_the_young
 	}
 	1330.1.1={
-		death="1330.1.1"
+		death=yes
 	}
 }
 
@@ -3804,8 +3797,8 @@
 	1329.1.1={
 		birth="1329.1.1"
 	}
-	1379.1.1={
-		death="1379.1.1"
+	1368.1.1={
+		death=yes
 	}
 }
 
@@ -3843,14 +3836,14 @@
 	trait="brave"
 	trait="tough_soldier"
 	father=453060
-	1295.1.1={
-		birth="1295.1.1"
+	1290.1.1={
+		birth=yes
 	}
-	1311.1.1={
+	1307.1.1={
 		add_spouse = 453059
 	}
 	1332.7.20={
-		death="1332.7.20"
+		death=yes
 	}
 }
 
@@ -3868,11 +3861,11 @@
 	trait="patient"
 	trait="tough_soldier"
 	father=453029
-	1295.1.1={
-		birth="1295.1.1"
+	1290.1.1={
+		birth=yes
 	}
 	1345.1.1={
-		death="1345.1.1"
+		death=yes
 	}
 }
 
@@ -3931,8 +3924,8 @@
 	trait="tough_soldier"
 	father=453058
 	mother=453059
-	1310.1.1={
-		birth="1310.1.1"
+	1311.6.1={
+		birth="1311.6.1"
 	}
 	1360.1.1={
 		death="1360.1.1"
@@ -4027,47 +4020,38 @@
 453071 = {  	
 	name="尼尔"
 	dynasty=3128
-	martial=5
-	diplomacy=4
-	intrigue=4
-	stewardship=8
 	religion="catholic"
 	culture="scottish"
-	trait="lustful"
 	trait="brave"
 	trait="tough_soldier"
 	father = 7279
-	1240.1.1={
-		birth="1240.1.1"
+	mother = 188922
+	1268.1.1={
+		birth=yes
 	}
-	1280.1.1={
-		add_spouse = 453073
-	}
-	1313.1.1={
+	1300.1.1={
 		add_spouse = 453072
 	}
+	1315.1.1={
+		add_spouse = 453073
+	}
 	1316.4.26={
-		death="1316.4.26"
+		death=yes
 	}
 }
 
 453072 = {  	
 	name="玛格丽特"
-	# AKA: Margaret Crawford
 	female = yes
-	martial=5
-	diplomacy=8
-	intrigue=5
-	stewardship=2
+	dynasty=101601
 	religion="catholic"
 	culture="scottish"
-	trait="lustful"
-	trait="naive_appeaser"
-	1277.1.1={
-		birth="1277.1.1"
+	father=188951
+	1284.1.1={
+		birth=yes
 	}
 	1312.1.2={
-		death="1312.1.2"
+		death=yes
 	}
 }
 
@@ -4096,31 +4080,21 @@
 453074 = {  	
 	name="道格拉斯"
 	dynasty=3128
-	martial=5
-	diplomacy=5
-	intrigue=5
-	stewardship=4
 	religion="catholic"
 	culture="scottish"
-	trait="lustful"
-	trait="tough_soldier"
 	father=453071
-	mother=453073
-	1314.1.1={
-		birth="1314.1.1"
+	mother=453072
+	1303.1.1={
+		birth=yes
 	}
 	1364.1.1={
-		death="1364.1.1"
+		death=yes
 	}
 }
 
 453075 = {  	
 	name="邓肯"
 	dynasty=3128
-	martial=6
-	diplomacy=3
-	intrigue=5
-	stewardship=4
 	religion="catholic"
 	culture="scottish"
 	trait="humble"
@@ -4128,11 +4102,14 @@
 	trait="martial_cleric"
 	father=453071
 	mother=453073
-	1315.1.1={
-		birth="1315.1.1"
+	1316.1.1={
+		birth=yes
 	}
-	1365.1.1={
-		death="1365.1.1"
+	1332.1.1={
+		add_spouse=450823 # Joan de Menteith
+	}
+	1333.7.19={
+		death=yes
 	}
 }
 
@@ -4140,15 +4117,10 @@
 	name="海伦娜"
 	# AKA: Helena Mor
 	female = yes
-	martial=5
-	diplomacy=5
-	intrigue=5
-	stewardship=4
+	dynasty=123 # de Menteith
 	religion="catholic"
 	culture="scottish"
-	trait="lustful"
-	trait="gluttonous"
-	trait="amateurish_plotter"
+	father=188926
 	1300.1.1={
 		birth="1300.1.1"
 	}
@@ -4160,41 +4132,33 @@
 453077 = {  	
 	name="杜格尔"
 	dynasty=3128
-	martial=5
-	diplomacy=5
-	intrigue=5
-	stewardship=4
 	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453009
 	mother=453076
-	1326.1.1={
-		birth="1326.1.1"
+	1328.1.1={
+		birth=yes
 	}
 	1376.1.1={
-		death="1376.1.1"
+		death=yes
 	}
 }
 
 453078 = {  	
 	name="阿基布尔"
 	dynasty=3128
-	martial=5
-	diplomacy=5
-	intrigue=5
-	stewardship=4
 	religion="catholic"
 	culture="scottish"
 	trait="proud"
 	trait="tough_soldier"
 	father=453009
 	mother=453076
-	1328.1.1={
-		birth="1328.1.1"
+	1326.1.1={
+		birth=yes
 	}
 	1378.1.1={
-		death="1378.1.1"
+		death=yes
 	}
 }
 
@@ -4290,27 +4254,6 @@
 	}
 }
 
-453502 = {  	
-	name="爱丽斯佩思"
-	female = yes
-	dynasty=4034
-	martial=5
-	diplomacy=7
-	intrigue=5
-	stewardship=5
-	religion="catholic"
-	culture="scottish"
-	trait="amateurish_plotter"
-	father=454106
-	mother=454108
-	1280.1.2={
-		birth="1280.1.2"
-	}
-	1327.1.2={
-		death="1327.1.2"
-	}
-}
-
 453503 = {  	
 	name="玛尔德"
 	female = yes
@@ -4324,12 +4267,12 @@
 	trait="humble"
 	trait="amateurish_plotter"
 	father=453501
-	mother=453024
-	1296.1.2={
-		birth="1296.1.2"
+	mother=453502
+	1310.1.2={
+		birth=yes
 	}
 	1346.1.2={
-		death="1346.1.2"
+		death=yes
 	}
 }
 
@@ -4347,8 +4290,8 @@
 	trait="detached_priest"
 	father=453501
 	mother=453024
-	1296.12.2={
-		birth="1296.12.2"
+	1292.12.2={
+		birth="1292.12.2"
 	}
 	1316.3.2={
 		death="1316.3.2"
@@ -4750,8 +4693,8 @@
 	trait="tough_soldier"
 	father=453520
 	mother=453521
-	1322.1.2={
-		birth="1322.1.2"
+	1324.1.2={
+		birth="1324.1.2"
 	}
 	1372.1.2={
 		death="1372.1.2"
@@ -5008,8 +4951,8 @@
 	trait="tough_soldier"
 	father=453052
 	mother=453070
-	1322.1.1={
-		birth="1322.1.1"
+	1331.1.1={
+		birth="1331.1.1"
 	}
 	1372.1.1={
 		death="1372.1.1"
@@ -5030,8 +4973,8 @@
 	trait="martial_cleric"
 	father=453052
 	mother=453070
-	1329.1.1={
-		birth="1329.1.1"
+	1331.1.1={
+		birth="1331.1.1"
 	}
 	1379.1.1={
 		death="1379.1.1"
@@ -5153,11 +5096,18 @@
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
-	1220.1.1={
-		birth="1220.1.1"
+	father = 188920
+	mother = 188921
+	trait=strong
+	1240.1.1={
+		birth=yes
 	}
-	1296.1.1={
-		death="1296.1.1"
+	1265.1.1={
+		add_spouse = 188922
+	}
+	1296.10.1={
+		give_nickname=nick_the_great
+		death=yes
 	}
 }
 
@@ -5344,8 +5294,9 @@
 	dynasty=20083
 	religion="catholic"
 	culture="scottish"
-	1186.1.1={
-		birth="1186.1.1"
+	father=203080
+	1198.1.1={
+		birth="1198.1.1"
 	}
 	1256.1.1={
 		death="1256.1.1"
@@ -5359,14 +5310,14 @@
 	culture="scottish"
 	father=7361
 	mother=7360
-	1280.1.1={
-		birth="1280.1.1"
+	1276.1.1={
+		birth=yes
 	}
-	1296.1.1={
+	1292.1.1={
 		add_spouse = 7365
 	}
 	1306.2.10={
-		death="1306.2.10"
+		death=yes
 	}
 }
 
@@ -5393,13 +5344,13 @@
 	culture="scottish"
 	father=7362
 	1230.1.1={
-		birth="1230.1.1"
+		birth=yes
 	}
-	1279.1.1={
+	1275.1.1={
 		add_spouse = 7360
 	}
 	1302.1.1={
-		death="1302.1.1"
+		death=yes
 	}
 }
 
@@ -5598,8 +5549,8 @@
 	trait="tough_soldier"
 	father=453058
 	mother=453059
-	1308.1.1={
-		birth="1308.1.1"
+	1312.1.1={
+		birth="1312.1.1"
 	}
 	1332.8.11={
 		death="1332.8.11"
@@ -5685,8 +5636,8 @@
 	religion="catholic"
 	culture="scottish"
 	trait="intricate_webweaver"
-	father=203546
-	#mother=203545
+	father = 203547
+	mother = 203548
 	1226.1.1={
 		birth="1226.1.1"
 	}
@@ -6062,13 +6013,16 @@
 	culture="scottish"
 	father=82023
 	1221.5.1={
-		birth="1221.5.1"
+		birth=yes
 	}
 	1244.1.1={
 		add_spouse = 7345
 	}
+	1266.1.1={
+		add_spouse = 188875 # Mary MacDougall
+	}
 	1271.9.1={
-		death="1271.9.1"
+		death=yes
 	}
 }
 
@@ -6419,7 +6373,7 @@
 }
 
 83589 = {
-	name="马尔科姆" #M醗l-Coluim 'Macheth'
+	name="马尔科姆" #Máel-Coluim 'Macheth'
 	dynasty=3104
 	martial=6
 	diplomacy=5
@@ -6429,10 +6383,13 @@
 	culture="scottish"
 	father=83588
 	1115.1.1={
-		birth="1115.1.1"
+		birth=yes
+	}
+	1138.1.1={
+		add_spouse=188871 # sister of Somerled
 	}
 	1168.10.23={
-		death="1168.10.23"
+		death=yes
 	}
 }
 
@@ -6445,12 +6402,13 @@
 	stewardship=5
 	religion="catholic"
 	culture="scottish"
-	father=83589
+	father=83589 # might be his grandfather
+	mother=188871
 	1145.1.1={
-		birth="1145.1.1"
+		birth=yes
 	}
 	1186.7.1={
-		death="1186.7.1"
+		death=yes
 	}
 }
 
@@ -6614,24 +6572,20 @@
 203011 = {
 	name="艾伦"
 	dynasty=3134
-	martial=5
-	diplomacy=7
-	intrigue=6
-	stewardship=8
 	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="skilled_tactician"
 	father=203027
 	mother=203028
-	1126.1.1 = {
-		birth="1126.1.1"
+	1137.1.1 = {
+		birth=yes
 	}
-	1166.1.1 = {
+	1178.1.1 = {
 		add_spouse=203012
 	}
 	1204.1.1 = {
-		death="1204.1.1"
+		death=yes
 	}
 }
 
@@ -7195,14 +7149,15 @@
 	stewardship=5
 	religion="catholic"
 	culture="scottish"
+	father=188888
 	1125.1.1={
-		birth="1125.1.1"
+		birth=yes
 	}
 	1146.1.1={
 		add_spouse = 7387
 	}
 	1182.1.1={
-		death="1182.1.1"
+		death=yes
 	}
 }
 
@@ -7265,10 +7220,6 @@
 	name="吉尔伯特"
 	# AKA: Giolla-Bhrighde
 	dynasty=371
-	martial=7
-	diplomacy=4
-	intrigue=4
-	stewardship=7
 	religion="catholic"
 	culture="scottish"
 	trait="cynical"
@@ -7281,6 +7232,9 @@
 	#1150.1.2={
 	#	dynasty=373
 	#}
+	1173.1.1 = { 
+		add_spouse = 188924 # possibly
+	}
 	1185.1.2={
 		death="1185.1.2"
 	}
@@ -7289,40 +7243,37 @@
 203540 = {
 	name="邓肯"
 	dynasty=371
-	martial=7
-	diplomacy=7
-	intrigue=4
-	stewardship=7
 	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=203550
+	mother=188924
 	1174.1.2={
-		birth="1174.1.2"
+		birth=yes
 	}
-	1250.1.2={
-		death="1250.1.2"
+	1199.1.1={ 
+		add_spouse = 203541
+	}
+	1250.6.13={
+		death=yes
 	}
 }
 
 83122 = {
 	name="科林"
 	dynasty=371
-	martial=6
-	diplomacy=5
-	intrigue=4
-	stewardship=7
 	religion="catholic"
 	culture="scottish"
 	father=203540
-	1191.1.2={
-		birth="1191.1.2"
+	mother=203541
+	1200.1.2={
+		birth=yes
 	}
 	1217.1.2={
 		add_spouse = 83086
 	}
 	1246.1.2={
-		death="1246.1.2"
+		death=yes
 	}
 }
 
@@ -7469,8 +7420,8 @@
 	culture="scottish"
 	father=203570
 	mother=203571
-	1185.1.1={
-		birth="1185.1.1"
+	1186.1.1={
+		birth="1186.1.1"
 	}
 	1208.1.1={
 		add_spouse = 7428
@@ -7588,7 +7539,7 @@
 
 232683 = {
 	name="杜格尔"
-	dynasty=25046
+	dynasty=3109 # MacDougall
 	martial=6
 	diplomacy=4
 	intrigue=4
@@ -7599,16 +7550,16 @@
 	father=220027
 	mother=220026
 	1149.1.1={
-		birth="1149.1.1"
+		birth=yes
 	}
 	1200.1.1={
-		death="1200.1.1"
+		death=yes
 	}
 }
 
 232684 = {
 	name="邓肯"
-	dynasty=25046
+	dynasty=3109 # MacDougall
 	martial=5
 	diplomacy=5
 	intrigue=5
@@ -7619,17 +7570,17 @@
 	trait="thrifty_clerk"
 	father=232683
 	1172.1.1={
-		birth="1172.1.1"
+		birth=yes
 	}
-	1237.1.1={
-		death="1237.1.1"
+	1246.1.1={
+		death=yes
 	}
 }
 
 232685 = {
 	name="杜格尔"
 	# AKA: Dubhghall 'Screech'
-	dynasty=25046
+	dynasty=3109 # MacDougall
 	martial=6
 	diplomacy=4
 	intrigue=4
@@ -7640,10 +7591,10 @@
 	trait="tough_soldier"
 	father=232683
 	1173.1.1={
-		birth="1173.1.1"
+		birth=yes
 	}
 	1225.1.1={
-		death="1225.1.1"
+		death=yes
 	}
 }
 
@@ -7691,17 +7642,17 @@
 
 7278 = {
 	name="伊文"
-	dynasty=25046
+	dynasty=3109 # MacDougall
 	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="thrifty_clerk"
 	father=232684
 	1200.1.1={
-		birth="1200.1.1"
+		birth=yes
 	}
-	1266.1.1={
-		death="1266.1.1"
+	1268.6.1={
+		death=yes
 	}
 }
 
@@ -7727,12 +7678,12 @@
 	religion="catholic"
 	culture="scottish"
 	father=450821
-	mother=450823
-	1300.1.1={
-		birth="1300.1.1"
+	mother=188933
+	1309.1.1={
+		birth=yes
 	}
 	1350.1.1={
-		death="1350.1.1"
+		death=yes
 	}
 }
 

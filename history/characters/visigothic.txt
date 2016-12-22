@@ -1,1062 +1,9 @@
-200231={
-	name="°ÂÄù¼Ñ"
-	#name="Onecca"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	744.1.1={
-		birth=yes
-	}
-	810.1.1={
-		death=yes
-	}
-}
-200215={
-	name="Ôóæ§"
-	#name="Çeida"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	746.1.1={
-		birth=yes
-	}
-	808.1.1={
-		death=yes
-	}
-}
-
-200218={
-	name="ÃÎÄÝÑÅ"
-	#name="Monnia"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	743.1.1={
-		birth=yes
-	}
-	805.1.1={
-		death=yes
-	}
-}
-200223={
-	name="µÒ°Â¶àÀï¿Æ"
-	#name="Theodoricco"
-	dynasty=1046025
-
-	religion=catholic
-	culture=visigothic
-
-	718.1.1={
-		birth=yes
-	}
-	741.1.1={
-		add_spouse=200224
-	}
-	779.1.1={
-		death=yes
-	}
-}
-
-200224={
-	name="°£¶ûÃ·ÐÁ´ï"
-	#name="Ermenisinda"
-	female=yes
-
-	religion=catholic
-	culture=visigothic
-
-	723.1.1={
-		birth=yes
-	}
-	788.1.1={
-		death=yes
-	}
-}
-
-200225={
-	name="Àî°ÂÈð¿Ë"
-	#name="Lywericco"
-	dynasty=1046025
-
-	father=200223
-	mother=200224
-
-	religion=catholic
-	culture=visigothic
-
-	742.1.1={
-		birth=yes
-	}
-	795.1.1={
-		death=yes
-	}
-}
-200227={
-	name="°¢²·æ§"
-	#name="Abda"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	740.1.1={
-		birth=yes
-	}
-	802.1.1={
-		death=yes
-	}
-}
-200236={
-	name="çù¿ÆË¹Âå"
-	#name="Chixillo"
-	female=yes
-	dynasty=1046030
-
-	father=200237
-	mother=200257
-
-	religion=catholic
-	culture=visigothic
-
-	665.1.1={
-		birth=yes
-	}
-	711.1.1={
-		death=yes
-	}
-}
-
-200237={
-	name="ºÕ¶ûÎ¬Ï£"
-	#name="Erwigio"
-	dynasty=1046030
-
-	father=200238
-	mother=200239
-
-	religion=catholic
-	culture=visigothic
-
-	643.1.1={
-		birth=yes
-	}
-	662.1.1={
-		add_spouse=200257
-	}
-	687.11.15={
-		death=yes
-	}
-}
-
-200239={
-	name="ÀòÏ£Âå"
-	#name="Ricilo"
-	female=yes
-	dynasty=1046031
-
-	father=200242
-
-	religion=catholic
-	culture=visigothic
-
-	624.1.1={
-		birth=yes
-	}
-	688.1.1={
-		death=yes
-	}
-}
-
-#200240={
-#	name="Khindasuintho"
-#	dynasty=1046031
-#
-#	father=200241
-#
-#	religion=catholic
-#	culture=visigothic
-#
-#	563.1.1={
-#		birth=yes
-#	}
-#	653.9.30={
-#		death=yes
-#	}
-#}
-
-200241={
-	name="ÀûÆæÀ­"
-	#name="Richila"
-	dynasty=1046031
-
-	religion=catholic
-	culture=visigothic
-
-	530.1.1={
-		birth=yes
-	}
-	591.1.1={
-		death=yes
-	}
-}
-
-200242={
-	name="°¢Âí¶ûÃÉ¶à"
-	#name="Amalmundo"
-	dynasty=1046031
-
-	father=200241
-
-	religion=catholic
-	culture=visigothic
-
-	570.1.1={
-		birth=yes
-	}
-	628.1.1={
-		death=yes
-	}
-}
-
-200243={
-	name="°£¼ª¿¨"
-	#name="Egica"
-	dynasty=1046032
-
-	father=200247
-	mother=200246
-
-	religion=catholic
-	culture=visigothic
-
-	650.1.1={
-		birth=yes
-	}
-	681.1.1={
-		add_spouse=200236
-	}
-	702.1.1={
-		death=yes
-	}
-}
-
-200244={
-	name="Î¬ÌáÔú"
-	#name="Witiza"
-	dynasty=1046032
-
-	father=200243
-	mother=200236
-
-	religion=catholic
-	culture=visigothic
-
-	682.1.1={
-		birth=yes
-	}
-	710.1.1={
-		death=yes
-	}
-}
-
-200245={
-	name="°¢¼ªÀ­"
-	#name="Akhila"
-	dynasty=1046032
-
-	father=200244
-
-	religion=catholic
-	culture=visigothic
-
-	700.1.1={
-		birth=yes
-	}
-	713.1.1={
-		death=yes
-	}
-}
-
-200246={
-	name="°¢Àö±´¶û¼Ñ"
-	#name="Ariberga"
-	female=yes
-	dynasty=1046032
-
-	father=200255
-
-	religion=catholic
-	culture=visigothic
-
-	627.1.1={
-		birth=yes
-	}
-	680.1.1={
-		death=yes
-	}
-}
-
-200247={
-	name="Î¬ÌáÔú"
-	#name="Witiza"
-	religion=catholic
-	culture=visigothic
-
-	620.1.1={
-		birth=yes
-	}
-	649.1.1={
-		add_spouse=200246
-	}
-	672.1.1={
-		death=yes
-	}
-}
-
-200248={
-	name="ÍßÄ½°Í"
-	#name="Wamba"
-	dynasty=1046032
-
-	father=200255
-
-	religion=catholic
-	culture=visigothic
-
-	622.1.1={
-		birth=yes
-	}
-	688.1.1={
-		death=yes
-	}
-}
-
-200249={
-	name="À×¿ËË¹ËÕ°²ÍÐ"
-	#name="Reccesuintho"
-	dynasty=1046031
-
-	father=200240
-
-	religion=catholic
-	culture=visigothic
-
-	640.1.1={
-		birth=yes
-	}
-	672.9.1={
-		death=yes
-	}
-}
-
-200250={
-	name="µÏ°Â¶à¸¥À×¶à"
-	#name="Theodofredo"
-	dynasty=1046031
-
-	father=200240
-
-	religion=catholic
-	culture=visigothic
-
-	645.1.1={
-		birth=yes
-	}
-	702.1.1={
-		death=yes
-	}
-}
-
-200251={
-	name="ÂÞµÂÀï¿Ë"
-	#name="Roderico"
-	dynasty=1046031
-
-	father=200250
-
-	religion=catholic
-	culture=visigothic
-
-	688.1.1={
-		birth=yes
-	}
-	705.1.1={
-		add_spouse=200063
-	}
-	711.7.20={
-		death=yes
-	}
-}
-
-#200252={
-#	name="Fafila"
-#	dynasty=1046031
-#
-#	father=200240
-#
-#	religion=catholic
-#	culture=visigothic
-#
-#	650.1.1={
-#		birth=yes
-#	}
-#	702.1.1={
-#		death=yes
-#	}
-#}
-
-200253={
-	name="°¢¶û¶à"
-	#name="Ardo"
-	religion=catholic
-	culture=visigothic
-
-	678.1.1={
-		birth=yes
-	}
-	720.1.1={
-		death=yes
-	}
-}
-
-200254={
-	name="ÇÕÆæÀûÑÇ"
-	#name="Khinthila"
-	dynasty=1046032
-
-	religion=catholic
-	culture=visigothic
-
-	573.1.1={
-		birth=yes
-	}
-	639.12.20={
-		death=yes
-	}
-}
-
-200255={
-	name="Í¼¶û¼Ó"
-	#name="Tulga"
-	dynasty=1046032
-
-	father=200254
-
-	religion=catholic
-	culture=visigothic
-
-	598.1.1={
-		birth=yes
-	}
-	642.4.16={
-		death=yes
-	}
-}
-
-200256={
-	name="ËÕÒòÌáÀ­"
-	#name="Suinthila"
-	dynasty=1046033
-
-	father=200272
-
-	religion=catholic
-	culture=visigothic
-
-	595.1.1={
-		birth=yes
-	}
-	621.1.1={
-		add_spouse=200260
-	}
-	634.1.1={
-		death=yes
-	}
-}
-
-200257={
-	name="ÀòÞ±¸ñÍÐÄÈ"
-	#name="Lywigothona"
-	female=yes
-	dynasty=1046033
-
-	father=200256
-	mother=200260
-
-	religion=catholic
-	culture=visigothic
-
-	633.1.1={
-		birth=yes
-	}
-	680.1.1={
-		death=yes
-	}
-}
-
-200258={
-	name="À×¿¨À×µÂ"
-	#name="Reccaredo"
-	dynasty=1046034
-
-	father=200259
-
-	religion=catholic
-	culture=visigothic
-
-	600.1.1={
-		birth=yes
-	}
-	621.3.1={
-		death=yes
-	}
-}
-
-200259={
-	name="Ï£Éª²¼ÌØ"
-	#name="Sesebuto"
-	dynasty=1046034
-
-	religion=catholic
-	culture=visigothic
-
-	568.1.1={
-		birth=yes
-	}
-	621.2.1={
-		death=yes
-	}
-}
-
-200260={
-	name="µÒ°Â¶àÀ­"
-	#name="Theodora"
-	female=yes
-	dynasty=1046034
-
-	father=200259
-
-	religion=catholic
-	culture=visigothic
-
-	605.1.1={
-		birth=yes
-	}
-	666.1.1={
-		death=yes
-	}
-}
-
-200269={
-	name="¾ýµÂÂí¶û"
-	#name="Gundemar"
-	religion=catholic
-	culture=visigothic
-
-	558.1.1={
-		birth=yes
-	}
-	612.2.1={
-		death=yes
-	}
-}
-
-200270={
-	name="Î¬ÌØÀï¿Ë"
-	#name="Witerico"
-	religion=catholic
-	culture=visigothic
-
-	562.1.1={
-		birth=yes
-	}
-	610.4.1={
-		death=yes
-	}
-}
-
-200271={
-	name="Àû°ÂÍßË¹"
-	#name="Lywa"
-	dynasty=1046033
-
-	father=200272
-
-	religion=catholic
-	culture=visigothic
-
-	583.1.1={
-		birth=yes
-	}
-	603.7.1={
-		death=yes
-	}
-}
-
-200272={
-	name="À×¿¨À×µÂ"
-	#name="Reccaredo"
-	dynasty=1046033
-
-	father=200273
-
-	religion=catholic
-	culture=visigothic
-
-	555.1.1={
-		birth=yes
-	}
-	601.12.21={
-		death=yes
-	}
-}
-
-200273={
-	name="Àû°ÂÎ¬¼ª¶ûµÂ"
-	#name="Lywigildo"
-	dynasty=1046033
-
-	father=200274
-
-	religion=catholic
-	culture=visigothic
-
-	525.1.1={
-		birth=yes
-	}
-	586.4.1={
-		death=yes
-	}
-}
-
-200274={
-	name="Àî°ÂÈð¿Ë"
-	#name="Lywericco"
-	dynasty=1046033
-
-	religion=catholic
-	culture=visigothic
-
-	498.1.1={
-		birth=yes
-	}
-	550.1.1={
-		death=yes
-	}
-}
-
-200275={
-	name="Àû°ÂÍßË¹"
-	#name="Lywa"
-	dynasty=1046033
-
-	father=200274
-
-	religion=catholic
-	culture=visigothic
-
-	523.1.1={
-		birth=yes
-	}
-	572.1.1={
-		death=yes
-	}
-}
-
-200276={
-	name="°¢ËþÄÉ¼ª¶ûµÂ"
-	#name="Athanagildo"
-	religion=catholic
-	culture=visigothic
-
-	520.1.1={
-		birth=yes
-	}
-	568.1.1={
-		death=yes
-	}
-}
-
-200277={
-	name="°¢¼ªÀ­"
-	#name="Akhila"
-	religion=catholic
-	culture=visigothic
-
-	516.1.1={
-		birth=yes
-	}
-	554.3.1={
-		death=yes
-	}
-}
-
-200278={
-	name="Ï£É­°²µÂ"
-	#name="Sesenando"
-	religion=catholic
-	culture=visigothic
-
-	605.1.1={
-		birth=yes
-	}
-	636.3.12={
-		death=yes
-	}
-}
-
-200279={
-	name="µÒÎÚµÙ¼ªË¹¿ËÂ³Ë¹"
-	#name="Theudisclo"
-	religion=catholic
-	culture=visigothic
-
-	500.1.1={
-		birth=yes
-	}
-	549.12.1={
-		death=yes
-	}
-}
-
-200280={
-	name="µÒÎÚµÙË¹"
-	#name="Theudis"
-	religion=catholic
-	culture=visigothic
-
-	498.1.1={
-		birth=yes
-	}
-	548.1.1={
-		death=yes
-	}
-}
-
-200281={
-	name="°¢ÂêÀ­Àï¿Ë"
-	#name="Amalaricco"
-	dynasty=1046035
-
-	father=200283
-
-	religion=catholic
-	culture=visigothic
-
-	500.1.1={
-		birth=yes
-	}
-	531.1.1={
-		death=yes
-	}
-}
-
-200282={
-	name="»ùÉªÀ×¿Ë"
-	#name="Gessaleycco"
-	dynasty=1046035
-
-	father=200283
-	trait=bastard
-
-	religion=catholic
-	culture=visigothic
-
-	489.1.1={
-		birth=yes
-	}
-	511.1.1={
-		death=yes
-	}
-}
-
-200283={
-	name="ÑÇÀ­Àï¿Ë"
-	#name="Alaricco"
-	dynasty=1046035
-
-	father=200284
-
-	religion=catholic
-	culture=visigothic
-
-	463.1.1={
-		birth=yes
-	}
-	507.1.1={
-		death=yes
-	}
-}
-
-200284={
-	name="ÒÀÎÚÀï¿Ë"
-	#name="Euricco"
-	dynasty=1046035
-
-	father=200287
-	mother=200293
-
-	religion=catholic
-	culture=visigothic
-
-	440.1.1={
-		birth=yes
-	}
-	484.1.1={
-		death=yes
-	}
-}
-
-200285={
-	name="µÒ°Â¶àÀï¿Æ"
-	#name="Theodoricco"
-	dynasty=1046035
-
-	father=200287
-	mother=200293
-
-	religion=catholic
-	culture=visigothic
-
-	428.1.1={
-		birth=yes
-	}
-	466.1.1={
-		death=yes
-	}
-}
-
-200286={
-	name="ÍÐÀïË¹ÃÉµÂ"
-	#name="Thurismundo"
-	dynasty=1046035
-
-	father=200287
-	mother=200293
-
-	religion=catholic
-	culture=visigothic
-
-	423.1.1={
-		birth=yes
-	}
-	453.1.1={
-		death=yes
-	}
-}
-
-200287={
-	name="µÒ°Â¶àÀï¿Æ"
-	#name="Theodoricco"
-	dynasty=1046035
-
-	father=200297
-
-	religion=catholic
-	culture=visigothic
-
-	379.1.1={
-		birth=yes
-	}
-	418.1.1={
-		add_spouse=200293
-	}
-	451.6.20={
-		death=yes
-	}
-}
-
-200288={
-	name="ÍßÀûÑÇ"
-	#name="Walia"
-	dynasty=1046035
-
-	father=200296
-
-	religion=catholic
-	culture=visigothic
-
-	374.1.1={
-		birth=yes
-	}
-	418.1.1={
-		death=yes
-	}
-}
-
-200289={
-	name="Èü¸ñÀï¿Ë"
-	#name="Sygericco"
-	religion=catholic
-	culture=visigothic
-
-	370.1.1={
-		birth=yes
-	}
-	415.7.7={
-		death=yes
-	}
-}
-
-200290={
-	name="°¢ÌÕ¶û·ò"
-	#name="Athaulffo"
-	dynasty=1046035
-
-	father=200296
-
-	religion=catholic
-	culture=visigothic
-
-	372.1.1={
-		birth=yes
-	}
-	415.7.1={
-		death=yes
-	}
-}
-
-200291={
-	name="ÑÇÀ­Àï¿Ë"
-	#name="Alaricco"
-	dynasty=1046035
-
-	father=200292
-
-	religion=catholic
-	culture=visigothic
-
-	370.1.1={
-		birth=yes
-	}
-	388.1.1={
-		add_spouse=200294
-	}
-	410.1.1={
-		death=yes
-	}
-}
-
-200292={
-	name="ÂÞË¹ÌØË¹"
-	#name="Roccesthes"
-	dynasty=1046035
-
-	father=200295
-
-	religion=catholic
-	culture=visigothic
-
-	341.1.1={
-		birth=yes
-	}
-	387.1.1={
-		death=yes
-	}
-}
-
-200293={
-	name="Òð¹¢µÙË¹"
-	#name="Ingundis"
-	female=yes
-	dynasty=1046035
-
-	father=200291
-	mother=200294
-
-	religion=catholic
-	culture=visigothic
-
-	402.1.1={
-		birth=yes
-	}
-	450.1.1={
-		death=yes
-	}
-}
-
-200294={
-	name="¶ð¶ûÃÎ²©¶û¼Ñ"
-	#name="Ermeneberga"
-	female=yes
-	dynasty=1046035
-
-	father=200296
-
-	religion=catholic
-	culture=visigothic
-
-	392.1.1={
-		birth=yes
-	}
-	415.1.1={
-		death=yes
-	}
-}
-
-200295={
-	name="°ÂÁ¦¿Ë"
-	#name="Aoricco"
-	dynasty=1046035
-
-	religion=catholic
-	culture=visigothic
-
-	311.1.1={
-		birth=yes
-	}
-	365.1.1={
-		death=yes
-	}
-}
-
-200296={
-	name="°¢ËþÄÉÀï¿Ë"
-	#name="Athanaricco"
-	dynasty=1046035
-
-	father=200295
-
-	religion=catholic
-	culture=visigothic
-
-	334.1.1={
-		birth=yes
-	}
-	381.1.25={
-		death=yes
-	}
-}
-
-200297={
-	name="°¢À­ÌØ°Â"
-	#name="Alatheo"
-	dynasty=1046035
-
-	father=200295
-
-	religion=catholic
-	culture=visigothic
-
-	350.1.1={
-		birth=yes
-	}
-	391.1.1={
-		death=yes
-	}
-}
 70000={
 	name="ÅåÀ­Ô¼" #AKA: Pelayo I
 	#name="Pelaio"
 	dynasty=8600
 
-	father=168739
+	father=200252
 
 	religion=catholic
 	culture=visigothic
@@ -1177,7 +124,9 @@
 		give_nickname=nick_the_cruel
 	}
 	768.1.1={
-		death=yes
+		death={
+			death_reason=death_murder
+		}
 	}
 }
 
@@ -1223,7 +172,7 @@
 	religion=catholic
 	culture=visigothic
 	
-	660.1.1={
+	670.1.1={
 		birth=yes
 	}
 	720.1.1={
@@ -1348,7 +297,7 @@
 	826.1.1={
 		add_spouse=70016
 	}
-	842.1.1={
+	840.1.1={
 		add_spouse=73761
 	}
 	850.2.1={
@@ -1391,6 +340,8 @@
 	trait=duelist
 	trait=brave
 	trait=misguided_warrior
+	
+	trait = ill
 
 	830.1.1={
 		birth=yes
@@ -1399,7 +350,9 @@
 		add_spouse=70018
 	}
 	866.5.27={
-		death=yes
+		death={
+			death_reason=death_trait
+		}
 	}
 }
 
@@ -1455,7 +408,6 @@
 
 70020={
 	name="¼ÓÎ÷ÑÇ" #AKA: García I
-	#name="Garçi"
 	dynasty=8601
 
 	father=70019
@@ -1517,6 +469,27 @@
 		add_spouse=107681
 	}
 	924.1.1={
+		death={
+			death_reason=death_trait
+		}
+	}
+}
+
+70022={
+	name="Elvira"
+	female=yes
+	dynasty=75
+
+	father=73857
+	mother=73759
+	
+	religion=catholic
+	culture=visigothic
+
+	869.1.1={
+		birth=yes
+	}
+	921.10.18={
 		death=yes
 	}
 }
@@ -1544,7 +517,7 @@
 	899.1.1={
 		birth=yes
 	}
-	923.1.1={
+	925.1.1={
 		add_spouse=70126
 	}
 	925.7.1={
@@ -1577,6 +550,8 @@
 	trait=ambitious
 	trait=brave
 	trait=skilled_tactician
+	
+	trait = ill
 
 	900.1.1={
 		birth=yes
@@ -1588,6 +563,27 @@
 		add_spouse=70127
 	}
 	951.1.15={
+		death={
+			death_reason=death_trait
+		}
+	}
+}
+
+70025={
+	name="Adosinda"
+	female=yes
+	dynasty=75
+	
+	father=73862
+	mother=73861
+
+	religion=catholic
+	culture=visigothic
+
+	900.1.1={
+		birth=yes
+	}
+	958.1.1={
 		death=yes
 	}
 }
@@ -1628,7 +624,10 @@
 		add_spouse=70027
 	}
 	966.1.1={
-		death=yes
+		death={
+			death_reason=death_murder
+			killer=109620
+		}
 	}
 }
 
@@ -1774,17 +773,19 @@
 		add_spouse=200056
 	}
 	739.6.15={
-		death=yes
+		death={
+			death_reason=death_accident
+		}
 	}
 }
 
 70116={
 	name="ÂíÎÚÀ×¼ÓÍÐ" #AKA: Mauregato I
 	#name="Mauregato" 
-	dynasty=1020119
+	dynasty=8601
 
 	father=70003
-	trait=bastard
+	trait=legit_bastard
 
 	religion=catholic
 	culture=visigothic
@@ -1856,6 +857,198 @@
 		death=yes
 	}
 }
+
+70140={
+	name="Bera" 
+
+	religion=catholic
+	culture=visigothic
+
+	778.1.1={
+		birth=yes
+	}
+	844.1.1={
+		death=yes	
+	}
+}
+
+70150={
+	name="Wifredo" # AKA: Guifr¨¦ I 'el Pil¨®s'
+	dynasty=100204
+
+	father=73785
+
+	religion=catholic
+	culture=visigothic
+
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+
+	trait=quick
+	trait=just
+	trait=intricate_webweaver
+
+	840.1.1={
+		birth=yes
+	}
+	875.6.27={
+		add_spouse=70151
+	}
+	898.8.11={
+		death={
+			death_reason=death_battle
+			killer=200026
+		}
+	}
+}
+
+70151={
+	name="Winidilda"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	860.1.1={
+		birth=yes
+	}
+	900.2.18={
+		death=yes
+	}
+}
+
+70152={
+	name="Wifredo" # Guifr¨¦ II Borrell I
+	dynasty=100204
+
+	father=70150
+	mother=70151
+
+	religion=catholic
+	culture=visigothic
+
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+
+	trait=humble
+	trait=kind
+	trait=underhanded_rogue
+
+	880.1.1={
+		birth=yes
+	}
+	898.1.1={
+		add_spouse=127039
+	}
+	911.1.1={
+		death=yes
+	}
+}
+
+70153={
+	name="Winidilda"
+	female=yes
+	dynasty=100204
+
+	father=70150
+	mother=70151
+
+	religion=catholic
+	culture=visigothic
+
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+
+	trait=mystic
+	trait=charitable
+	trait=indulgent_wastrel
+
+	899.1.1={
+		birth=yes
+	}
+	949.1.1={
+		death=yes
+	}
+}
+
+70154={
+	name="Miron"
+	dynasty=100204
+
+	father=70150
+	mother=70151
+
+	religion=catholic
+	culture=visigothic
+
+	897.1.1={
+		birth=yes
+	}
+	913.1.1={
+		add_spouse=70155
+	}
+	927.1.1={
+		death=yes
+	}
+}
+
+70155={
+	name="Ava"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	894.1.1={
+		birth=yes
+	}
+	955.1.1={
+		death=yes
+	}
+}
+
+70156={
+	name="Oliba"
+	dynasty=10019
+
+	father=70154
+	mother=70155
+
+	religion=catholic
+	culture=visigothic
+
+	914.1.1={
+		birth=yes
+	}
+	967.8.16={
+		add_spouse=70157
+	}
+	990.1.1={
+		death=yes
+	}
+}
+
+70157={
+	name="Ermengardis"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	947.1.1={
+		birth=yes
+	}
+	994.1.1={
+		death=yes
+	}
+}
+
 70242={
 	name="ÅåÀ­Ô¼"
 	#name="Pelaio"
@@ -1873,6 +1066,24 @@
 		add_spouse=70243
 	}
 	959.1.1={
+		death=yes
+	}
+}
+
+70243={
+	name="Ermenisinda"
+	female=yes
+	dynasty=75
+
+	father=73871
+
+	religion=catholic
+	culture=visigothic
+
+	910.1.1={
+		birth=yes
+	}
+	975.1.1={
 		death=yes
 	}
 }
@@ -1896,6 +1107,83 @@
 		death=yes
 	}
 }
+
+70249={
+	name="Menendo"
+	dynasty=1020119
+	
+	father=73870
+
+	religion=catholic
+	culture=visigothic
+
+	900.1.1={
+		birth=yes
+	}
+	922.1.1={
+		add_spouse=73866
+	}
+	950.7.24={
+		death=yes
+	}
+}
+
+70278={
+	name="Lupo"
+	dynasty=10028
+
+	father=70272
+
+	religion=catholic
+	culture=visigothic
+
+	910.1.1={
+		birth=yes
+	}
+	940.1.1={
+		add_spouse=70279
+	}
+	960.1.1={
+		death=yes
+	}
+}
+
+70279={
+	name="Gonterote"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	920.1.1={
+		birth=yes
+	}
+	1010.1.1={
+		death=yes
+	}
+}
+
+70280={
+	name="Suneario"
+	dynasty=10028
+
+	father=70278
+	mother=70279
+
+	religion=catholic
+	culture=visigothic
+
+	950.1.1={
+		birth=yes
+	}
+	977.1.1={
+		add_spouse=70270
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+
 72548={
 	name="ÑÇÊö"
 	#name="Assur"
@@ -2048,10 +1336,10 @@
 	religion=catholic
 	culture=visigothic
 
-	849.1.1={
+	850.1.1={
 		birth=yes
 	}
-	870.1.1={
+	928.1.1={
 		death=yes
 	}
 }
@@ -2182,7 +1470,7 @@
 	religion=catholic
 	culture=visigothic
 
-	826.1.1={
+	824.1.1={
 		birth=yes
 	}
 	885.1.1={
@@ -2263,7 +1551,10 @@
 		birth=yes
 	}
 	885.1.31={
-		death=yes
+		death={
+			death_reason=death_battle
+			killer=73815
+		}
 	}
 }
 
@@ -2350,6 +1641,523 @@
 		death=yes
 	}
 }
+73785={
+	name="Suniefredo"
+	dynasty=100204
+
+	religion=catholic
+	culture=visigothic
+
+	813.1.1={
+		birth=yes
+	}
+	848.1.1={
+		death={
+			death_reason=death_battle
+			killer=73784
+		}
+	}
+}
+
+73798={
+	name="Yu?uf"
+	dynasty=12291
+
+	religion=sunni
+	culture=visigothic
+
+	735.1.1={
+		birth=yes
+	}
+	791.1.1={
+		death=yes
+	}
+}
+
+73799={
+	name="Ambroz"
+	dynasty=12291
+
+	father=73798
+
+	religion=sunni
+	culture=visigothic
+
+	760.1.1={
+		birth=yes
+	}
+	814.1.1={
+		death=yes
+	}
+}
+
+73800={
+	name="Yu?uf"
+	dynasty=12291
+
+	father=73799
+
+	religion=sunni
+	culture=visigothic
+
+	786.1.1={
+		birth=yes
+	}
+	838.1.1={
+		death=yes
+	}
+}
+
+73801={
+	name="Omar"
+	dynasty=12291
+
+	father=73799
+
+	religion=sunni
+	culture=visigothic
+
+	788.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+73802={
+	name="Yafar"
+	dynasty=12292
+
+	religion=sunni
+	culture=visigothic
+
+	805.1.1={
+		birth=yes
+	}
+	870.1.1={
+		death=yes
+	}
+}
+
+73803={
+	name="Hafs"
+	dynasty=12292
+
+	father=73802
+
+	religion=sunni
+	culture=visigothic
+
+	833.1.1={
+		birth=yes
+	}
+	849.1.1={
+		add_spouse=73804
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+73804={
+	name="Neila"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	833.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+73805={
+	name="Omar"
+	dynasty=12292
+
+	father=73803
+	mother=73804
+
+	religion=sunni
+	culture=visigothic
+
+	850.1.1={
+		birth=yes
+	}
+	899.1.1={
+		name="?amuel"
+		religion=catholic
+	}
+	917.1.1={
+		death=yes
+	}
+}
+
+73806={
+	name="Ayyub"
+	dynasty=12292
+
+	father=73803
+	mother=73804
+
+	religion=sunni
+	culture=visigothic
+
+	852.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+73807={
+	name="Yafar"
+	dynasty=12292
+
+	father=73803
+	mother=73804
+
+	religion=sunni
+	culture=visigothic
+
+	854.1.1={
+		birth=yes
+	}
+	924.1.1={
+		death=yes
+	}
+}
+
+73814={
+	name="Ayab"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	841.1.1={
+		birth=yes
+	}
+	899.1.1={
+		death=yes
+	}
+}
+
+73819={
+	name="?ayida"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	860.1.1={
+		birth=yes
+	}
+	922.1.1={
+		death=yes
+	}
+}
+
+73851={
+	name="Aid"
+	dynasty=12289
+
+	religion=sunni
+	culture=visigothic
+
+	839.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=73886
+	}
+	892.1.1={
+		death=yes
+	}
+}
+
+73852={
+	name="Yabya"
+	dynasty=12289
+
+	father=73851
+	mother=73886
+
+	religion=sunni
+	culture=visigothic
+
+	865.1.1={
+		birth=yes
+	}
+	898.1.1={
+		death=yes
+	}
+}
+
+73853={
+	name="Melic"
+	dynasty=12289
+
+	father=73851
+	mother=73886
+
+	religion=sunni
+	culture=visigothic
+
+	867.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+73854={
+	name="Airmanagildo"
+	dynasty=75
+
+	religion=catholic
+	culture=visigothic
+
+	775.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+73855={
+	name="Guttier"
+	dynasty=75
+
+	father=73854
+
+	religion=catholic
+	culture=visigothic
+
+	810.1.1={
+		birth=yes
+	}
+	840.1.1={
+		add_spouse=73856
+	}
+	875.1.1={
+		death=yes
+	}
+}
+
+
+73856={
+	name="Elvira"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	822.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+73857={
+	name="Airmanagildo"
+	dynasty=75
+
+	father=73855
+	mother=73856
+
+	religion=catholic
+	culture=visigothic
+
+	842.1.1={
+		birth=yes
+	}
+	867.1.1={
+		add_spouse=73759
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+73858={
+	name="Aloito"
+	dynasty=75
+
+	father=73855
+	mother=73856
+
+	religion=catholic
+	culture=visigothic
+
+	851.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+73859={
+	name="Elvira"
+	female=yes
+	dynasty=75
+
+	father=73855
+	mother=73856
+
+	religion=catholic
+	culture=visigothic
+
+	860.1.1={
+		birth=yes
+	}
+	945.1.1={
+		death=yes
+	}
+}
+
+73860={
+	name="Gudilona"
+	female=yes
+	dynasty=75
+
+	father=73857
+	mother=73759
+
+	religion=catholic
+	culture=visigothic
+
+	868.1.1={
+		birth=yes
+	}
+	933.1.1={
+		death=yes
+	}
+}
+
+73861={
+	name="Eldonza"
+	female=yes
+	dynasty=75
+
+	father=73857
+	mother=73759
+
+	religion=catholic
+	culture=visigothic
+
+	882.1.1={
+		birth=yes
+	}
+	942.1.1={
+		death=yes
+	}
+}
+
+73862={
+	name="Guttier"
+	dynasty=75
+
+	father=73855
+
+	religion=catholic
+	culture=visigothic
+
+	875.1.1={
+		birth=yes
+	}
+	899.1.1={
+		add_spouse=73861
+	}
+	933.1.1={
+		death=yes
+	}
+}
+
+73863={
+	name="Rodericho"
+	dynasty=75
+
+	father=73862
+	mother=73861
+
+	religion=catholic
+	culture=visigothic
+
+	917.1.1={
+		birth=yes
+	}
+	970.1.1={
+		death=yes
+	}
+}
+
+73864={
+	name="Onecca"
+	female=yes
+	dynasty=8626
+
+	father=142005
+	mother=73860
+
+	religion=catholic
+	culture=visigothic
+
+	885.1.1={
+		birth=yes
+	}
+	959.1.1={
+		death=yes
+	}
+}
+
+73865={
+	name="Diaco"
+	dynasty=12288
+
+	religion=catholic
+	culture=visigothic
+
+	870.1.1={
+		birth=yes
+	}
+	903.1.1={
+		add_spouse=73864
+	}
+	928.1.1={
+		death=yes
+	}
+}
+
+73866={
+	name="Monniadomna"
+	female=yes
+	dynasty=12288
+
+	father=73865
+	mother=73864
+
+	religion=catholic
+	culture=visigothic
+
+	904.1.1={
+		birth=yes
+	}
+	968.1.1={
+		death=yes
+	}
+}
+
 
 73867={
 	name="°£¶ûÃ·ÄÚ¼ª¶û¶à"
@@ -2428,6 +2236,24 @@
 	}
 }
 
+73871={
+	name="Guttier"
+	dynasty=75
+
+	father=73857
+	mother=73759
+
+	religion=catholic
+	culture=visigothic
+
+	880.1.1={
+		birth=yes
+	}
+	934.1.1={
+		death=yes
+	}	
+}
+
 73872={
 	name="°¢À­¹±ÌØ"
 	#name="Aragonte"
@@ -2462,7 +2288,10 @@
 		birth=yes
 	}
 	767.1.1={
-		death=yes
+		death={
+			death_reason=death_murder
+			killer=70004
+		}
 	}
 }
 
@@ -2558,6 +2387,149 @@
 		death=yes
 	}
 }
+
+73879={
+	name="Onecca"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	830.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+73880={
+	name="Froila"
+	dynasty=75
+
+	father=73871
+
+	religion=catholic
+	culture=visigothic
+
+	908.1.1={
+		birth=yes
+	}
+	943.1.1={
+		death=yes
+	}
+}
+
+73891={
+	name="Monnio"
+	dynasty=75
+
+	father=73871
+
+	religion=catholic
+	culture=visigothic
+
+	902.1.1={
+		birth=yes
+	}
+	922.1.1={
+		add_spouse=73892
+	}
+	960.1.1={
+		death=yes
+	}
+}
+
+73892={
+	name="Elvira"
+	female=yes
+	dynasty=75
+
+	father=73893
+
+	religion=catholic
+	culture=visigothic
+
+	906.1.1={
+		birth=yes	
+	}
+	962.6.11={
+		death=yes
+	}
+}
+
+73893={
+	name="Arias"
+	dynasty=75
+
+	father=73857
+	mother=73759
+
+	religion=catholic
+	culture=visigothic
+
+	881.1.1={
+		birth=yes
+	}
+	924.1.1={
+		death=yes
+	}
+}
+
+73894={
+	name="Guttier"
+	dynasty=75
+
+	father=73891
+	mother=73892
+
+	religion=catholic
+	culture=visigothic
+
+	925.1.1={
+		birth=yes
+	}
+	999.1.1={
+		death=yes
+	}
+}
+
+73899={
+	name="Abdelwahid"
+	dynasty=12260
+
+	father=73900
+	mother=73907
+
+	religion=sunni
+	culture=visigothic
+
+	860.1.1={
+		birth=yes
+	}
+	927.1.1={
+		death=yes
+	}
+}
+
+73900={
+	name="Hamdan"
+	dynasty=12260
+
+	religion=sunni
+	culture=visigothic
+
+	825.1.1={
+		birth=yes
+	}
+	858.1.1={
+		add_spouse=73907
+	}
+	887.1.1={
+		death=yes
+	}
+}
+
 73901={
 	name="ÌØ°ÂµÂÃ×ÂÞ"
 	#name="Theodemiro"
@@ -2592,6 +2564,820 @@
 		death=yes
 	}
 }
+
+73908={
+	name="Alga?i"
+	dynasty=12296
+
+	religion=sunni
+	culture=visigothic
+
+	748.1.1={
+		birth=yes
+	}
+	814.1.1={
+		death=yes
+	}
+}
+
+73909={
+	name="Abdela"
+	dynasty=12296
+
+	father=73908
+
+	religion=sunni
+	culture=visigothic
+
+	782.1.1={
+		birth=yes
+	}
+	845.1.1={
+		death=yes
+	}
+}
+
+73910={
+	name="Mahomat"
+	dynasty=12296
+
+	father=73909
+
+	religion=sunni
+	culture=visigothic
+
+	817.1.1={
+		birth=yes
+	}
+	909.1.1={
+		death=yes
+	}
+}
+
+73911={
+	name="Abdela"
+	dynasty=12296
+
+	father=73910
+
+	religion=sunni
+	culture=visigothic
+
+	849.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+73912={
+	name="?acharya"
+	dynasty=12297
+
+	religion=sunni
+	culture=visigothic
+
+	832.1.1={
+		birth=yes
+	}
+	859.1.1={
+		add_spouse=73915
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+73913={
+	name="Abdela?i?"
+	dynasty=12297
+
+	father=73912
+	mother=73915
+
+	religion=sunni
+	culture=visigothic
+
+	860.1.1={
+		birth=yes
+	}
+	932.1.1={
+		death=yes
+	}
+}
+
+73914={
+	name="Yabya"
+	dynasty=12297
+
+	father=73912
+	mother=73915
+
+	religion=sunni
+	culture=visigothic
+
+	863.1.1={
+		birth=yes
+	}
+	931.1.1={
+		death=yes
+	}
+}
+
+73915={
+	name="?eida"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	841.1.1={
+		birth=yes
+	}
+	910.1.1={
+		death=yes
+	}
+}
+
+73916={
+	name="Algusn"
+	dynasty=12260
+
+	father=73899
+
+	religion=sunni
+	culture=visigothic
+
+	889.1.1={
+		birth=yes
+	}
+	943.1.1={
+		death=yes
+	}
+}
+
+73917={
+	name="Abrafim"
+	dynasty=12260
+
+	father=73916
+
+	religion=sunni
+	culture=visigothic
+
+	915.1.1={
+		birth=yes
+	}
+	980.1.1={
+		death=yes
+	}
+}
+
+73918={
+	name="Abdelmelic"
+	dynasty=12260
+
+	father=73917
+
+	religion=sunni
+	culture=visigothic
+
+	941.1.1={
+		birth=yes
+	}
+	1006.1.1={
+		death=yes
+	}
+}
+
+73929={
+	name="Mahomat"
+	dynasty=12299
+
+	father=73930
+
+	religion=sunni
+	culture=visigothic
+
+	823.1.1={
+		birth=yes
+	}
+	848.1.1={
+		add_spouse=73932
+	}
+	888.1.1={
+		death=yes
+	}
+}
+
+73930={
+	name="?acharya"
+	dynasty=12299
+
+	religion=sunni
+	culture=visigothic
+
+	794.1.1={
+		birth=yes
+	}
+	859.1.1={
+		death=yes
+	}
+}
+
+73931={
+	name="Yu?uf"
+	dynasty=12299
+
+	father=73930
+
+	religion=sunni
+	culture=visigothic
+
+	825.1.1={
+		birth=yes
+	}
+	870.1.1={
+		death=yes
+	}
+}
+
+73932={
+	name="Leila"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	830.1.1={
+		birth=yes
+	}
+	897.1.1={
+		death=yes
+	}
+}
+
+73933={
+	name="Yabya"
+	dynasty=12299
+
+	father=73929
+	mother=73932
+
+	religion=sunni
+	culture=visigothic
+
+	849.1.1={
+		birth=yes
+	}
+	906.1.1={
+		death=yes
+	}
+}
+
+73934={
+	name="Abdela?i?"
+	dynasty=12300
+
+	religion=sunni
+	culture=visigothic
+
+	816.1.1={
+		birth=yes
+	}
+	877.1.1={
+		death=yes
+	}
+}
+
+73935={
+	name="Mahomat"
+	dynasty=12300
+
+	father=73934
+
+	religion=sunni
+	culture=visigothic
+
+	841.1.1={
+		birth=yes
+	}
+	906.1.1={
+		death=yes
+	}
+}
+
+73936={
+	name="Yabya"
+	dynasty=12300
+
+	father=73934
+
+	religion=sunni
+	culture=visigothic
+
+	843.1.1={
+		birth=yes
+	}
+	867.1.1={
+		add_spouse=73937
+	}
+	908.1.1={
+		death=yes
+	}
+}
+
+73937={
+	name="Karima"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	851.1.1={
+		birth=yes
+	}
+	915.1.1={
+		death=yes
+	}
+}
+
+73938={
+	name="Abrafim"
+	dynasty=12301
+
+	religion=sunni
+	culture=visigothic
+
+	826.1.1={
+		birth=yes
+	}
+	850.1.1={
+		add_spouse=73939
+	}
+	888.1.1={
+		death=yes
+	}
+}
+
+73939={
+	name="Melica"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	833.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+73940={
+	name="I?ag"
+	dynasty=12301
+
+	father=73938
+	mother=73939
+
+	religion=sunni
+	culture=visigothic
+
+	851.1.1={
+		birth=yes
+	}
+	912.1.1={
+		death=yes
+	}
+}
+
+73952={
+	name="Amet"
+	dynasty=12304
+
+	religion=sunni
+	culture=visigothic
+
+	830.1.1={
+		birth=yes
+	}
+	866.1.1={
+		add_spouse=73953
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+73953={
+	name="Habiba"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	848.1.1={
+		birth=yes
+	}
+	914.1.1={
+		death=yes
+	}
+}
+
+73954={
+	name="Mahomat"
+	dynasty=12304
+
+	father=73952
+	mother=73953
+
+	religion=sunni
+	culture=visigothic
+
+	867.1.1={
+		birth=yes
+	}
+	937.1.1={
+		death=yes
+	}
+}
+
+73955={
+	name="Yunus"
+	dynasty=12305
+
+	religion=sunni
+	culture=visigothic
+
+	780.1.1={
+		birth=yes
+	}
+	842.1.1={
+		death=yes
+	}
+}
+
+73956={
+	name="Marwan"
+	dynasty=12305
+
+	father=73955
+
+	religion=sunni
+	culture=visigothic
+
+	803.1.1={
+		birth=yes
+	}
+	867.1.1={
+		death=yes
+	}
+}
+
+73957={
+	name="Abderrabmen"
+	dynasty=12305
+
+	father=73956
+
+	religion=sunni
+	culture=visigothic
+
+	836.1.1={
+		birth=yes
+	}
+	864.1.1={
+		add_spouse=73958
+	}
+	912.1.1={
+		death=yes
+	}
+}
+
+73958={
+	name="Isra"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	846.1.1={
+		birth=yes
+	}
+	906.1.1={
+		death=yes
+	}
+}
+
+73959={
+	name="?eid"
+	dynasty=12305
+
+	father=73957
+	mother=73958
+
+	religion=sunni
+	culture=visigothic
+
+	865.1.1={
+		birth=yes
+	}
+	928.1.1={
+		death=yes
+	}
+}
+
+73960={
+	name="Mahomat"
+	dynasty=12305
+
+	father=73957
+	mother=73958
+
+	religion=sunni
+	culture=visigothic
+
+	867.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+73961={
+	name="Alkada"
+	dynasty=12306
+
+	religion=sunni
+	culture=visigothic
+
+	800.1.1={
+		birth=yes
+	}
+	851.1.1={
+		death=yes
+	}
+}
+
+73962={
+	name="Obada"
+	dynasty=12306
+
+	father=73961
+
+	religion=sunni
+	culture=visigothic
+
+	834.1.1={
+		birth=yes
+	}
+	867.1.1={
+		add_spouse=73963
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+73963={
+	name="Ya?mina"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	850.1.1={
+		birth=yes
+	}
+	912.1.1={
+		death=yes
+	}
+}
+
+73964={
+	name="?ohair"
+	dynasty=12307
+
+	religion=sunni
+	culture=visigothic
+
+	815.1.1={
+		birth=yes
+	}
+	852.1.1={
+		death=yes
+	}
+}
+
+73965={
+	name="Kinana"
+	dynasty=12307
+
+	father=73964
+
+	religion=sunni
+	culture=visigothic
+
+	843.1.1={
+		birth=yes
+	}
+	909.1.1={
+		death=yes
+	}
+}
+
+73966={
+	name="?alama"
+	dynasty=12307
+
+	father=73964
+
+	religion=sunni
+	culture=visigothic
+
+	850.1.1={
+		birth=yes
+	}
+	915.1.1={
+		death=yes
+	}
+}
+
+73969={
+	name="Abdela"
+	dynasty=12309
+
+	religion=sunni
+	culture=visigothic
+
+	811.1.1={
+		birth=yes
+	}
+	840.1.1={
+		add_spouse=73970
+	}
+	874.1.1={
+		death=yes
+	}
+}
+
+73970={
+	name="Monnia"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	822.1.1={
+		birth=yes
+	}
+	885.1.1={
+		death=yes
+	}
+}
+
+73971={
+	name="Amet"
+	dynasty=12309
+
+	father=73969
+	mother=73970
+
+	religion=sunni
+	culture=visigothic
+
+	842.1.1={
+		birth=yes
+	}
+	915.1.1={
+		death=yes
+	}
+}
+
+73972={
+	name="Jalid"
+	dynasty=12310
+
+	religion=sunni
+	culture=visigothic
+
+	828.1.1={
+		birth=yes
+	}
+	859.1.1={
+		add_spouse=73973
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+73973={
+	name="Tarifa"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	840.1.1={
+		birth=yes
+	}
+	908.1.1={
+		death=yes
+	}
+}
+
+73974={
+	name="Amet"
+	dynasty=12310
+
+	father=73972
+	mother=73973
+
+	religion=sunni
+	culture=visigothic
+
+	860.1.1={
+		birth=yes
+	}
+	934.1.1={
+		death=yes
+	}
+}
+
+73976={
+	name="Abdela"
+	dynasty=12311
+
+	religion=sunni
+	culture=visigothic
+
+	831.1.1={
+		birth=yes
+	}
+	855.1.1={
+		add_spouse=73977
+	}
+	894.1.1={
+		death=yes
+	}
+}
+
+73977={
+	name="Ai?a"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	835.1.1={
+		birth=yes
+	}
+	902.1.1={
+		death=yes
+	}
+}
+
+73978={
+	name="Mahomat"
+	dynasty=12311
+
+	father=73976
+	mother=73977
+
+	religion=sunni
+	culture=visigothic
+
+	856.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+73979={
+	name="?elim"
+	dynasty=12311
+
+	father=73976
+	mother=73977
+
+	religion=sunni
+	culture=visigothic
+
+	858.1.1={
+		birth=yes
+	}
+	922.1.1={
+		death=yes
+	}
+}
+
 73980={
 	name="ÖìÀû°²"
 	#name="Julian"
@@ -2603,56 +3389,448 @@
 	672.1.1={
 		birth=yes
 	}
+	710.1.1={
+		add_spouse=168733
+	}
 	747.1.1={
 		death=yes
 	}
 }
-107670={
-	name="¼ÓÎ÷ÑÇ" # AKA: García I 'el de las Manos Blancas'
-	#name="Garçi"
-	dynasty=776
 
-	father=107680
-	mother=107681
+73981={
+	name="Pelagio"
+	dynasty=12312
 
-	religion=catholic
+	father=73980
+	mother=168733
+
+	religion=sunni
 	culture=visigothic
 
-	martial=6
-	diplomacy=5
-	intrigue=5
-	stewardship=6
-
-	trait=underhanded_rogue
-
-	933.1.1={
+	732.1.1={
 		birth=yes
 	}
-	958.1.1={
-		add_spouse=107671
-	}
-	995.12.30={
+	810.1.1={
 		death=yes
 	}
 }
 
-107671={
-	name="°¢ÍÞ"
-	#name="Ava"
-	female=yes
-	dynasty=10024
+73982={
+	name="Abdela"
+	dynasty=12312
 
-	father=70269
-	mother=54000
+	father=73981
+
+	religion=sunni
+	culture=visigothic
+
+	760.1.1={
+		birth=yes
+	}
+	833.1.1={
+		death=yes
+	}
+}
+
+73983={
+	name="Hacan"
+	dynasty=12312
+
+	father=73982
+
+	religion=sunni
+	culture=visigothic
+
+	795.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+73984={
+	name="?ulema"
+	dynasty=12312
+
+	father=73983
+
+	religion=sunni
+	culture=visigothic
+
+	826.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=73985
+	}
+	908.1.1={
+		death=yes
+	}
+}
+
+73985={
+	name="Nadia"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	846.1.1={
+		birth=yes
+	}
+	910.1.1={
+		death=yes
+	}
+}
+
+73986={
+	name="Ayyub"
+	dynasty=12312
+
+	father=73984
+	mother=73985
+
+	religion=sunni
+	culture=visigothic
+
+	865.1.1={
+		birth=yes
+	}
+	938.1.1={
+		death=yes
+	}
+}
+
+73987={
+	name="Johan"
+	dynasty=12313
 
 	religion=catholic
 	culture=visigothic
 
-	942.1.1={
+	840.1.1={
 		birth=yes
 	}
-	995.1.1={
+	866.1.1={
+		add_spouse=73988
+	}
+	901.1.1={
 		death=yes
+	}
+}
+
+73988={
+	name="Agnes"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	850.1.1={
+		birth=yes
+	}
+	915.1.1={
+		death=yes
+	}
+}
+
+73989={
+	name="Berengario"
+	dynasty=12313
+
+	father=73987
+	mother=73988
+
+	religion=catholic
+	culture=visigothic
+
+	867.1.1={
+		birth=yes
+	}
+	933.1.1={
+		death=yes
+	}
+}
+
+73990={
+	name="Petro"
+	dynasty=12314
+
+	religion=catholic
+	culture=visigothic
+
+	833.1.1={
+		birth=yes
+	}
+	860.1.1={
+		add_spouse=73991
+	}
+	892.1.1={
+		death=yes
+	}
+}
+
+73991={
+	name="Sibilia"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	840.1.1={
+		birth=yes
+	}
+	905.1.1={
+		death=yes
+	}
+}
+
+73992={
+	name="Matheo"
+	dynasty=12314
+
+	father=73990
+	mother=73991
+
+	religion=catholic
+	culture=visigothic
+
+	863.1.1={
+		birth=yes
+	}
+	927.1.1={
+		death=yes
+	}
+}
+
+73993={
+	name="Radulfo"
+	dynasty=100204
+
+	father=73785
+
+	religion=catholic
+	culture=visigothic
+
+	842.1.1={
+		birth=yes
+	}
+	866.1.1={
+		add_spouse=73994
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+73994={
+	name="Ralindis"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	849.1.1={
+		birth=yes
+	}
+	916.1.1={
+		death=yes
+	}
+}
+
+73995={
+	name="Oliba"
+	dynasty=100204
+
+	religion=catholic
+	culture=visigothic
+
+	father=73993
+	mother=73994
+
+	867.1.1={
+		birth=yes
+	}
+	915.6.24={
+		death=yes
+	}
+}
+
+73996={
+	name="Miron"
+	dynasty=100204
+
+	father=73785
+
+	religion=catholic
+	culture=visigothic
+
+	843.1.1={
+		birth=yes
+	}
+	899.2.15={
+		death=yes
+	}
+}
+
+73997={
+	name="Sisenanda"
+	female=yes
+ 
+	dynasty=100204
+
+	father=73785
+
+	religion=catholic
+	culture=visigothic
+
+	844.1.1={
+		birth=yes
+	}
+	912.1.1={
+		death=yes
+	}
+}
+
+73998={
+	name="Suniefredo"
+	dynasty=100204
+
+	father=73785
+
+	religion=catholic
+	culture=visigothic
+
+	846.1.1={
+		birth=yes
+	}
+	885.6.26={
+		death=yes
+	}
+}
+
+73999={
+	name="Ermenisinda"
+	female=yes
+	dynasty=100204
+
+	father=73785
+
+	religion=catholic
+	culture=visigothic
+
+	847.1.1={
+		birth=yes
+	}
+	898.1.1={
+		death=yes
+	}
+}
+
+74100={
+	name="Riculfo"
+	dynasty=100204
+
+	father=73785
+
+	religion=catholic
+	culture=visigothic
+
+	trait=detached_priest
+
+	848.1.1={
+		birth=yes
+	}
+	916.1.1={
+		death=yes
+	}
+}
+
+74101={
+	name="Suneario"
+	dynasty=393
+
+	religion=catholic
+	culture=visigothic
+
+	842.1.1={
+		birth=yes
+	}
+	866.1.1={
+		add_spouse=74102
+	}
+	915.1.1={
+		death=yes
+	}
+}
+
+74102={
+	name="Ermenierdis"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	850.1.1={
+		birth=yes
+	}
+	918.1.1={
+		death=yes
+	}
+}
+
+74103={
+	name="Gauzberto"
+	dynasty=393
+
+	religion=catholic
+	culture=visigothic
+
+	father=74101
+	mother=74102
+
+	867.1.1={
+		birth=yes
+	}
+	931.1.1={
+		death=yes
+	}
+}
+
+91392={
+	name="Ercheswintha" #Ercheswinda, used as wife of Riculfe, the fantasy brother of Fulrad
+	female=yes
+
+	religion="catholic"
+	culture="visigothic"
+	
+	705.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+107670={
+	name="Gar?i" # AKA: Garc¨ªa I 'el de las Manos Blancas'
+	dynasty=776
+	father=107680
+	mother=107681
+	religion=catholic
+	culture=visigothic
+	trait=underhanded_rogue
+	933.1.1={
+		birth=yes
+	}
+	960.1.1={
+		add_spouse=107671
+	}
+	995.12.30={
+		death={
+			death_reason=death_battle
+		}
 	}
 }
 107680={
@@ -2713,7 +3891,6 @@
 	dynasty=776
 
 	father=107680
-	mother=107683
 
 	religion=catholic
 	culture=visigothic
@@ -2725,6 +3902,7 @@
 		death=yes
 	}
 }
+
 108600={
 	name="°Â¶àÄá°Â" #AKA: Ordoño III
 	#name="Ordonno"
@@ -2747,7 +3925,7 @@
 	926.1.1={
 		birth=yes
 	}
-	944.1.1={
+	951.1.1={
 		add_spouse=107682
 	}
 	951.1.5={
@@ -2757,6 +3935,28 @@
 		death=yes
 	}
 }
+
+109620={
+	name="Gon?alo"
+	dynasty=1020119
+
+	father=70249
+	mother=73866
+
+	religion=catholic
+	culture=visigothic
+
+	925.1.1={
+		birth=yes
+	}
+	945.1.1={
+		add_spouse=109621
+	}
+	997.1.1={
+		death=yes
+	}
+}
+
 109621={
 	name="æÈçí¶ÅÀ­"
 	#name="Elduara"
@@ -2776,1883 +3976,7 @@
 		death=yes
 	}
 }
-457681={
-	name="¸êÃ·×È"
-	#name="Gomez"
-	dynasty=7012
 
-	father=73765
-
-	religion=catholic
-	culture=visigothic
-
-	880.1.1={
-		birth=yes
-	}
-	930.1.1={
-		death=yes
-	}
-}
-73851={
-	name="°¬µÏ"
-	#name="Aid"
-	dynasty=12289
-
-	religion=sunni
-	culture=visigothic
-
-	839.1.1={
-		birth=yes
-	}
-	862.1.1={
-		add_spouse=73886
-	}
-	892.1.1={
-		death=yes
-	}
-}
-
-73852={
-	name="ÑÅ±ÈÑÇ"
-	#name="Yabya"
-	dynasty=12289
-
-	father=73851
-	mother=73886
-
-	religion=sunni
-	culture=visigothic
-
-	865.1.1={
-		birth=yes
-	}
-	898.1.1={
-		death=yes
-	}
-}
-
-73853={
-	name="Ã·Àï¿Ë"
-	#name="Melic"
-	dynasty=12289
-
-	father=73851
-	mother=73886
-
-	religion=sunni
-	culture=visigothic
-
-	867.1.1={
-		birth=yes
-	}
-	920.1.1={
-		death=yes
-	}
-}
-73899={
-	name="°¢²·¶ÅÂ³°¢°¬µÏ"
-	#name="Abdeluahid"
-	dynasty=12260
-
-	father=73900
-	mother=73907
-
-	religion=sunni
-	culture=visigothic
-
-	860.1.1={
-		birth=yes
-	}
-	927.1.1={
-		death=yes
-	}
-}
-
-73900={
-	name="¹þÄ·µ¤"
-	#name="Hamdan"
-	dynasty=12260
-
-	religion=sunni
-	culture=visigothic
-
-	825.1.1={
-		birth=yes
-	}
-	858.1.1={
-		add_spouse=73907
-	}
-	887.1.1={
-		death=yes
-	}
-}
-73908={
-	name="°¢¶û-¼ÖÎ÷"
-	#name="al-Gaçi"
-	dynasty=12296
-
-	religion=sunni
-	culture=visigothic
-
-	748.1.1={
-		birth=yes
-	}
-	814.1.1={
-		death=yes
-	}
-}
-
-73909={
-	name="°¢²·¶ÅÀ­"
-	#name="Abdela"
-	dynasty=12296
-
-	father=73908
-
-	religion=sunni
-	culture=visigothic
-
-	782.1.1={
-		birth=yes
-	}
-	845.1.1={
-		death=yes
-	}
-}
-
-73910={
-	name="ÄÂº±Ä¬µÂ"
-	#name="Mahomat"
-	dynasty=12296
-
-	father=73909
-
-	religion=sunni
-	culture=visigothic
-
-	817.1.1={
-		birth=yes
-	}
-	909.1.1={
-		death=yes
-	}
-}
-
-73911={
-	name="°¢²·¶ÅÀ­"
-	#name="Abdela"
-	dynasty=12296
-
-	father=73910
-
-	religion=sunni
-	culture=visigothic
-
-	849.1.1={
-		birth=yes
-	}
-	920.1.1={
-		death=yes
-	}
-}
-73912={
-	name="ÔÑ¿¦ÀïÑÇ"
-	#name="Çacharya"
-	dynasty=12297
-
-	religion=sunni
-	culture=visigothic
-
-	832.1.1={
-		birth=yes
-	}
-	859.1.1={
-		add_spouse=73915
-	}
-	890.1.1={
-		death=yes
-	}
-}
-
-73913={
-	name="°¢²·¶ÅÀ­Î÷Ë¹" 
-	#name="Abdelaçi?
-	dynasty=12297
-
-	father=73912
-	mother=73915
-
-	religion=sunni
-	culture=visigothic
-
-	860.1.1={
-		birth=yes
-	}
-	932.1.1={
-		death=yes
-	}
-}
-
-73914={
-	name="ÑÅ±ÈÑÇ"
-	#name="Yabya"
-	dynasty=12297
-
-	father=73912
-	mother=73915
-
-	religion=sunni
-	culture=visigothic
-
-	863.1.1={
-		birth=yes
-	}
-	931.1.1={
-		death=yes
-	}
-}
-
-73915={
-	name="Ôóæ§"
-	#name="Çeida"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	841.1.1={
-		birth=yes
-	}
-	910.1.1={
-		death=yes
-	}
-}
-73916={
-	name="°¢¶û-ºîÈüÒò"
-	#name="al-Gusn"
-	dynasty=12260
-
-	father=73899
-
-	religion=sunni
-	culture=visigothic
-
-	889.1.1={
-		birth=yes
-	}
-	943.1.1={
-		death=yes
-	}
-}
-
-73917={
-	name="Ò×²·À­ÐÀ"
-	#name="Abrafim"
-	dynasty=12260
-
-	father=73916
-
-	religion=sunni
-	culture=visigothic
-
-	915.1.1={
-		birth=yes
-	}
-	980.1.1={
-		death=yes
-	}
-}
-
-73918={
-	name="°¢²·¶ÅÀÕÃ·Àï¿Ë"
-	#name="Abdelmelic"
-	dynasty=12260
-
-	father=73917
-
-	religion=sunni
-	culture=visigothic
-
-	941.1.1={
-		birth=yes
-	}
-	1006.1.1={
-		death=yes
-	}
-}
-73929={
-	name="ÄÂº±Ä¬µÂ"
-	#name="Mahomat"
-	dynasty=12299
-
-	father=73930
-
-	religion=sunni
-	culture=visigothic
-
-	823.1.1={
-		birth=yes
-	}
-	848.1.1={
-		add_spouse=73932
-	}
-	888.1.1={
-		death=yes
-	}
-}
-
-73930={
-	name="ÔÑ¿¦ÀïÑÇ"
-	#name="Çacharya"
-	dynasty=12299
-
-	religion=sunni
-	culture=visigothic
-
-	794.1.1={
-		birth=yes
-	}
-	859.1.1={
-		death=yes
-	}
-}
-
-73931={
-	name="ÓÈË÷·ò"
-	#name="Yuçuf"
-	dynasty=12299
-
-	father=73930
-
-	religion=sunni
-	culture=visigothic
-
-	825.1.1={
-		birth=yes
-	}
-	870.1.1={
-		death=yes
-	}
-}
-
-73932={
-	name="ÀÙÀ­"
-	#name="Leyla"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	830.1.1={
-		birth=yes
-	}
-	897.1.1={
-		death=yes
-	}
-}
-
-73933={
-	name="ÑÅ±ÈÑÇ"
-	#name="Yabya"
-	dynasty=12299
-
-	father=73929
-	mother=73932
-
-	religion=sunni
-	culture=visigothic
-
-	849.1.1={
-		birth=yes
-	}
-	906.1.1={
-		death=yes
-	}
-}
-
-73934={
-	name="°¢²·¶ÅÀ­Î÷Ë¹"
-	#name="Abdelaçi?
-	dynasty=12300
-
-	religion=sunni
-	culture=visigothic
-
-	816.1.1={
-		birth=yes
-	}
-	877.1.1={
-		death=yes
-	}
-}
-
-73935={
-	name="ÄÂº±Ä¬µÂ"
-	#name="Mahomat"
-	dynasty=12300
-
-	father=73934
-
-	religion=sunni
-	culture=visigothic
-
-	841.1.1={
-		birth=yes
-	}
-	906.1.1={
-		death=yes
-	}
-}
-
-73936={
-	name="ÑÅ±ÈÑÇ"
-	#name="Yabya"
-	dynasty=12300
-
-	father=73934
-
-	religion=sunni
-	culture=visigothic
-
-	843.1.1={
-		birth=yes
-	}
-	867.1.1={
-		add_spouse=73937
-	}
-	908.1.1={
-		death=yes
-	}
-}
-
-73937={
-	name="¿¨ÀöÂê"
-	#name="Karima"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	851.1.1={
-		birth=yes
-	}
-	915.1.1={
-		death=yes
-	}
-}
-
-73938={
-	name="Ò×²·À­ÐÀ"
-	#name="Abrafim"
-	dynasty=12301
-
-	religion=sunni
-	culture=visigothic
-
-	826.1.1={
-		birth=yes
-	}
-	850.1.1={
-		add_spouse=73939
-	}
-	888.1.1={
-		death=yes
-	}
-}
-
-73939={
-	name="Ã·Àö¼Ñ"
-	#name="Melica"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	833.1.1={
-		birth=yes
-	}
-	900.1.1={
-		death=yes
-	}
-}
-
-73940={
-	name="ÒÔÈö"
-	#name="Içag"
-	dynasty=12301
-
-	father=73938
-	mother=73939
-
-	religion=sunni
-	culture=visigothic
-
-	851.1.1={
-		birth=yes
-	}
-	912.1.1={
-		death=yes
-	}
-}
-
-73952={
-	name="°¢Ã·µÂ"
-	#name="Amet"
-	dynasty=12304
-
-	religion=sunni
-	culture=visigothic
-
-	830.1.1={
-		birth=yes
-	}
-	866.1.1={
-		add_spouse=73953
-	}
-	895.1.1={
-		death=yes
-	}
-}
-
-73953={
-	name="¹þ±È°Í"
-	#name="Habiba"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	848.1.1={
-		birth=yes
-	}
-	914.1.1={
-		death=yes
-	}
-}
-
-73954={
-	name="ÄÂº±Ä¬µÂ"
-	#name="Mahomat"
-	dynasty=12304
-
-	father=73952
-	mother=73953
-
-	religion=sunni
-	culture=visigothic
-
-	867.1.1={
-		birth=yes
-	}
-	937.1.1={
-		death=yes
-	}
-}
-
-73955={
-	name="ÓÈÅ¬Ë¹"
-	#name="Yunus"
-	dynasty=12305
-
-	religion=sunni
-	culture=visigothic
-
-	780.1.1={
-		birth=yes
-	}
-	842.1.1={
-		death=yes
-	}
-}
-
-73956={
-	name="Âí¶ûÍò"
-	#name="Maruan"
-	dynasty=12305
-
-	father=73955
-
-	religion=sunni
-	culture=visigothic
-
-	803.1.1={
-		birth=yes
-	}
-	867.1.1={
-		death=yes
-	}
-}
-
-73957={
-	name="°¢²·¶ÅÀ­Âü"
-	#name="Abderrabmen"
-	dynasty=12305
-
-	father=73956
-
-	religion=sunni
-	culture=visigothic
-
-	836.1.1={
-		birth=yes
-	}
-	864.1.1={
-		add_spouse=73958
-	}
-	912.1.1={
-		death=yes
-	}
-}
-
-73958={
-	name="ÒÀË¼À­"
-	#name="Isra"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	846.1.1={
-		birth=yes
-	}
-	906.1.1={
-		death=yes
-	}
-}
-
-73959={
-	name="ÔúÒÁµÂ"
-	#name="Çeid"
-	dynasty=12305
-
-	father=73957
-	mother=73958
-
-	religion=sunni
-	culture=visigothic
-
-	865.1.1={
-		birth=yes
-	}
-	928.1.1={
-		death=yes
-	}
-}
-
-73960={
-	name="ÄÂº±Ä¬µÂ"
-	#name="Mahomat"
-	dynasty=12305
-
-	father=73957
-	mother=73958
-
-	religion=sunni
-	culture=visigothic
-
-	867.1.1={
-		birth=yes
-	}
-	920.1.1={
-		death=yes
-	}
-}
-
-73961={
-	name="°¢¶û¿­´ï"
-	#name="Alkada"
-	dynasty=12306
-
-	religion=sunni
-	culture=visigothic
-
-	800.1.1={
-		birth=yes
-	}
-	851.1.1={
-		death=yes
-	}
-}
-
-73962={
-	name="°Â°Í´ï"
-	#name="Obada"
-	dynasty=12306
-
-	father=73961
-
-	religion=sunni
-	culture=visigothic
-
-	834.1.1={
-		birth=yes
-	}
-	867.1.1={
-		add_spouse=73963
-	}
-	895.1.1={
-		death=yes
-	}
-}
-
-73963={
-	name="ÑÅË¹Ã×ÄÉ"
-	#name="Yaçmina"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	850.1.1={
-		birth=yes
-	}
-	912.1.1={
-		death=yes
-	}
-}
-
-73964={
-	name="×æº£¶û"
-	#name="Çohair"
-	dynasty=12307
-
-	religion=sunni
-	culture=visigothic
-
-	815.1.1={
-		birth=yes
-	}
-	852.1.1={
-		death=yes
-	}
-}
-
-73965={
-	name="»ùÄÉÄÉ"
-	#name="Kinana"
-	dynasty=12307
-
-	father=73964
-
-	religion=sunni
-	culture=visigothic
-
-	843.1.1={
-		birth=yes
-	}
-	909.1.1={
-		death=yes
-	}
-}
-
-73966={
-	name="ÔúÀ­Âí"
-	#name="Çalama"
-	dynasty=12307
-
-	father=73964
-
-	religion=sunni
-	culture=visigothic
-
-	850.1.1={
-		birth=yes
-	}
-	915.1.1={
-		death=yes
-	}
-}
-
-73969={
-	name="°¢²·¶ÅÀ­"
-	#name="Abdela"
-	dynasty=12309
-
-	religion=sunni
-	culture=visigothic
-
-	811.1.1={
-		birth=yes
-	}
-	840.1.1={
-		add_spouse=73970
-	}
-	874.1.1={
-		death=yes
-	}
-}
-
-73970={
-	name="ÃÎÄÝÑÅ"
-	#name="Monnia"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	822.1.1={
-		birth=yes
-	}
-	885.1.1={
-		death=yes
-	}
-}
-
-73971={
-	name="°¢Ã·µÂ"
-	#name="Amet"
-	dynasty=12309
-
-	father=73969
-	mother=73970
-
-	religion=sunni
-	culture=visigothic
-
-	842.1.1={
-		birth=yes
-	}
-	915.1.1={
-		death=yes
-	}
-}
-
-73972={
-	name="¹þÁ¢µÂ"
-	#name="Jalid"
-	dynasty=12310
-
-	religion=sunni
-	culture=visigothic
-
-	828.1.1={
-		birth=yes
-	}
-	859.1.1={
-		add_spouse=73973
-	}
-	880.1.1={
-		death=yes
-	}
-}
-
-73973={
-	name="ËþÀï·¢"
-	#name="Tarifa"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	840.1.1={
-		birth=yes
-	}
-	908.1.1={
-		death=yes
-	}
-}
-
-73974={
-	name="°¢Ã·µÂ"
-	#name="Amet"
-	dynasty=12310
-
-	father=73972
-	mother=73973
-
-	religion=sunni
-	culture=visigothic
-
-	860.1.1={
-		birth=yes
-	}
-	934.1.1={
-		death=yes
-	}
-}
-
-73976={
-	name="°¢²·¶ÅÀ­"
-	#name="Abdela"
-	dynasty=12311
-
-	religion=sunni
-	culture=visigothic
-
-	831.1.1={
-		birth=yes
-	}
-	855.1.1={
-		add_spouse=73977
-	}
-	894.1.1={
-		death=yes
-	}
-}
-
-73977={
-	name="°¢ÒÀÔú"
-	#name="Ayça"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	835.1.1={
-		birth=yes
-	}
-	902.1.1={
-		death=yes
-	}
-}
-
-73978={
-	name="ÄÂº±Ä¬µÂ"
-	#name="Mahomat"
-	dynasty=12311
-
-	father=73976
-	mother=73977
-
-	religion=sunni
-	culture=visigothic
-
-	856.1.1={
-		birth=yes
-	}
-	920.1.1={
-		death=yes
-	}
-}
-
-73979={
-	name="ÈûÀûÄ·"
-	#name="Çelim"
-	dynasty=12311
-
-	father=73976
-	mother=73977
-
-	religion=sunni
-	culture=visigothic
-
-	858.1.1={
-		birth=yes
-	}
-	922.1.1={
-		death=yes
-	}
-}
-
-73981={
-	name="ÅåÀ­Ô¼"
-	#name="Pelaio"
-	dynasty=12312
-
-	father=73980
-
-	religion=sunni
-	culture=visigothic
-
-	732.1.1={
-		birth=yes
-	}
-	810.1.1={
-		death=yes
-	}
-}
-
-73982={
-	name="°¢²·¶ÅÀ­"
-	#name="Abdela"
-	dynasty=12312
-
-	father=73981
-
-	religion=sunni
-	culture=visigothic
-
-	760.1.1={
-		birth=yes
-	}
-	833.1.1={
-		death=yes
-	}
-}
-
-73983={
-	name="¹þ¿²"
-	#name="Hacan"
-	dynasty=12312
-
-	father=73982
-
-	religion=sunni
-	culture=visigothic
-
-	795.1.1={
-		birth=yes
-	}
-	860.1.1={
-		death=yes
-	}
-}
-
-73984={
-	name="×æÀÕÂê"
-	#name="Çulema"
-	dynasty=12312
-
-	father=73983
-
-	religion=sunni
-	culture=visigothic
-
-	826.1.1={
-		birth=yes
-	}
-	862.1.1={
-		add_spouse=73985
-	}
-	908.1.1={
-		death=yes
-	}
-}
-
-73985={
-	name="ÄÉµÏæ«"
-	#name="Nadia"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	846.1.1={
-		birth=yes
-	}
-	910.1.1={
-		death=yes
-	}
-}
-
-73986={
-	name="°¢ÓÈ²¼"
-	#name="Ayyub"
-	dynasty=12312
-
-	father=73984
-	mother=73985
-
-	religion=sunni
-	culture=visigothic
-
-	865.1.1={
-		birth=yes
-	}
-	938.1.1={
-		death=yes
-	}
-}
-73798={
-	name="ÓÈË÷·ò"
-	#name="Yuçuf"
-	dynasty=12291
-
-	religion=sunni
-	culture=visigothic
-
-	735.1.1={
-		birth=yes
-	}
-	791.1.1={
-		death=yes
-	}
-}
-
-73799={
-	name="°»²¼ÂÞ×È"
-	#name="Ambroz"
-	dynasty=12291
-
-	father=73798
-
-	religion=sunni
-	culture=visigothic
-
-	760.1.1={
-		birth=yes
-	}
-	814.1.1={
-		death=yes
-	}
-}
-
-73800={
-	name="ÓÈË÷·ò"
-	#name="Yuçuf"
-	dynasty=12291
-
-	father=73799
-
-	religion=sunni
-	culture=visigothic
-
-	786.1.1={
-		birth=yes
-	}
-	838.1.1={
-		death=yes
-	}
-}
-
-73801={
-	name="°ÂÂí¶û"
-	#name="Omar"
-	dynasty=12291
-
-	father=73799
-
-	religion=sunni
-	culture=visigothic
-
-	788.1.1={
-		birth=yes
-	}
-	840.1.1={
-		death=yes
-	}
-}
-
-73802={
-	name="¼Ö·¨¶û"
-	#name="Yafar"
-	dynasty=12292
-
-	religion=sunni
-	culture=visigothic
-
-	805.1.1={
-		birth=yes
-	}
-	870.1.1={
-		death=yes
-	}
-}
-
-73803={
-	name="¹þ·òË¹"
-	#name="Hafs"
-	dynasty=12292
-
-	father=73802
-
-	religion=sunni
-	culture=visigothic
-
-	833.1.1={
-		birth=yes
-	}
-	849.1.1={
-		add_spouse=73804
-	}
-	860.1.1={
-		death=yes
-	}
-}
-
-73804={
-	name="ŠÌÀ­"
-	#name="Neyla"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	833.1.1={
-		birth=yes
-	}
-	900.1.1={
-		death=yes
-	}
-}
-
-73805={
-	name="°ÂÂí¶û"
-	#name="Omar"
-	dynasty=12292
-
-	father=73803
-	mother=73804
-
-	religion=sunni
-	culture=visigothic
-
-	850.1.1={
-		birth=yes
-	}
-	899.1.1={
-		name="ÈûçÑ¶û"
-		religion=catholic
-	}
-	917.1.1={
-		death=yes
-	}
-}
-
-73806={
-	name="°¢ÓÈ²¼"
-	#name="Ayyub"
-	dynasty=12292
-
-	father=73803
-	mother=73804
-
-	religion=sunni
-	culture=visigothic
-
-	852.1.1={
-		birth=yes
-	}
-	920.1.1={
-		death=yes
-	}
-}
-
-73807={
-	name="¼Ö·¨¶û"
-	#name="Yafar"
-	dynasty=12292
-
-	father=73803
-	mother=73804
-
-	religion=sunni
-	culture=visigothic
-
-	854.1.1={
-		birth=yes
-	}
-	924.1.1={
-		death=yes
-	}
-}
-73814={
-	name="°¢ÑÅ²·"
-	#name="Ayab"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	841.1.1={
-		birth=yes
-	}
-	899.1.1={
-		death=yes
-	}
-}
-73819={
-	name="Èøâù´ï"
-	#name="Çayida"
-	female=yes
-
-	religion=sunni
-	culture=visigothic
-
-	860.1.1={
-		birth=yes
-	}
-	922.1.1={
-		death=yes
-	}
-}
-70140={
-
-	name="±´À­" 
-	#name="Bera" 
-	religion=catholic
-	culture=visigothic
-
-	778.1.1={
-	
-		birth=yes
-
-	}
-	
-	844.1.1={
-
-		death=yes	
-	}
-
-}
-
-70150={
-	name="Íþ¸¥À×¶à" # AKA: Guifr?I 'el Pilós'
-	#name="Wifredo"
-	dynasty=100204
-
-	father=73785
-
-	religion=catholic
-	culture=visigothic
-
-	martial=6
-	diplomacy=8
-	intrigue=6
-	stewardship=8
-
-	trait=quick
-	trait=just
-	trait=intricate_webweaver
-
-	840.1.1={
-		birth=yes
-	}
-	875.6.27={
-		add_spouse=70151
-	}
-	898.8.11={
-		death=yes
-	}
-}
-
-70151={
-	name="Þ±ÄÝµÙ¶û´ï"
-	#name="Winidilda"
-	female=yes
-
-	religion=catholic
-	culture=visigothic
-
-	860.1.1={
-		birth=yes
-	}
-	900.2.18={
-		death=yes
-	}
-}
-
-70152={
-	name="Íþ¸¥À×¶à" # Guifr?II Borrell I
-	#name="Wifredo"
-	dynasty=100204
-
-	father=70150
-	mother=70151
-
-	religion=catholic
-	culture=visigothic
-
-	martial=4
-	diplomacy=7
-	intrigue=5
-	stewardship=6
-
-	trait=humble
-	trait=kind
-	trait=underhanded_rogue
-
-	880.1.1={
-		birth=yes
-	}
-	898.1.1={
-		add_spouse=127039
-	}
-	911.1.1={
-		death=yes
-	}
-}
-
-70153={
-	name="Þ±ÄÝµÙ¶û´ï"
-	#name="Winidilda"
-	female=yes
-	dynasty=100204
-
-	father=70150
-	mother=70151
-
-	religion=catholic
-	culture=visigothic
-
-	martial=5
-	diplomacy=7
-	intrigue=6
-	stewardship=8
-
-	trait=mystic
-	trait=charitable
-	trait=indulgent_wastrel
-
-	899.1.1={
-		birth=yes
-	}
-	949.1.1={
-		death=yes
-	}
-}
-
-70154={
-	name="Ã×Áú"
-	#name="Miron"
-	dynasty=100204
-
-	father=70150
-	mother=70151
-
-	religion=catholic
-	culture=visigothic
-
-	897.1.1={
-		birth=yes
-	}
-	910.1.1={
-		add_spouse=70155
-	}
-	927.1.1={
-		death=yes
-	}
-}
-
-70155={
-	name="°¢ÍÞ"
-	#name="Ava"
-	female=yes
-
-	religion=catholic
-	culture=visigothic
-
-	884.1.1={
-		birth=yes
-	}
-	955.1.1={
-		death=yes
-	}
-}
-
-70156={
-	name="°ÂÁ¦°Í"
-	#name="Oliba"
-	dynasty=10019
-
-	father=70154
-	mother=70155
-
-	religion=catholic
-	culture=visigothic
-
-	914.1.1={
-		birth=yes
-	}
-	967.8.16={
-		add_spouse=70157
-	}
-	990.1.1={
-		death=yes
-	}
-}
-
-70157={
-	name="°®ÃÎ¼ÑµÂ"
-	#name="Ermengarde"
-	female=yes
-
-	religion=catholic
-	culture=visigothic
-
-	947.1.1={
-		birth=yes
-	}
-	994.1.1={
-		death=yes
-	}
-}
-70278={
-	name="Â¬²¨"
-	#name="Lupo"
-	dynasty=10028
-
-	father=70272
-
-	religion=catholic
-	culture=visigothic
-
-	910.1.1={
-		birth=yes
-	}
-	940.1.1={
-		add_spouse=70279
-	}
-	960.1.1={
-		death=yes
-	}
-}
-
-70279={
-	name="¹±ß¯ÂÞÌØ"
-	#name="Gonterote"
-	female=yes
-
-	religion=catholic
-	culture=visigothic
-
-	920.1.1={
-		birth=yes
-	}
-	1010.1.1={
-		death=yes
-	}
-}
-
-70280={
-	name="ËÕÄÚ°¢Àï°Â"
-	#name="Suneario"
-	dynasty=10028
-
-	father=70278
-	mother=70279
-
-	religion=catholic
-	culture=visigothic
-
-	950.1.1={
-		birth=yes
-	}
-	977.1.1={
-		add_spouse=70270
-	}
-	1000.1.1={
-		death=yes
-	}
-}
-73785={
-	name="ËÕÄá°£¸¥À×¶à"
-	#name="Suniefredo"
-	dynasty=100204
-
-	religion=catholic
-	culture=visigothic
-
-	813.1.1={
-		birth=yes
-	}
-	848.1.1={
-		death=yes
-	}
-}
-
-73987={
-	name="Ô¼º²"
-	#name="Johan"
-	dynasty=12313
-
-	religion=catholic
-	culture=visigothic
-
-	840.1.1={
-		birth=yes
-	}
-	866.1.1={
-		add_spouse=73988
-	}
-	901.1.1={
-		death=yes
-	}
-}
-
-73988={
-	name="°¬¸ñÄáË¿"
-	#name="Agnes"
-	female=yes
-
-	religion=catholic
-	culture=visigothic
-
-	850.1.1={
-		birth=yes
-	}
-	915.1.1={
-		death=yes
-	}
-}
-
-73989={
-	name="ÎÚ°£Àâ¸Ç¶û"
-	#name="Uerenguel"
-	dynasty=12313
-
-	father=73987
-	mother=73988
-
-	religion=catholic
-	culture=visigothic
-
-	867.1.1={
-		birth=yes
-	}
-	933.1.1={
-		death=yes
-	}
-}
-
-73990={
-	name="ÅåÌØÂÞ"
-	#name="Petro"
-	dynasty=12314
-
-	religion=catholic
-	culture=visigothic
-
-	833.1.1={
-		birth=yes
-	}
-	860.1.1={
-		add_spouse=73991
-	}
-	892.1.1={
-		death=yes
-	}
-}
-
-73991={
-	name="Ï£±ÈÀöÑÅ"
-	#name="Sibilia"
-	female=yes
-
-	religion=catholic
-	culture=visigothic
-
-	840.1.1={
-		birth=yes
-	}
-	905.1.1={
-		death=yes
-	}
-}
-
-73992={
-	name="ÂíÌØ°Â"
-	#name="Matheo"
-	dynasty=12314
-
-	father=73990
-	mother=73991
-
-	religion=catholic
-	culture=visigothic
-
-	863.1.1={
-		birth=yes
-	}
-	927.1.1={
-		death=yes
-	}
-}
-
-73993={
-	name="À­¶Å¶û¸£"
-	#name="Radulfo"
-	dynasty=100204
-
-	father=73785
-
-	religion=catholic
-	culture=visigothic
-
-	842.1.1={
-		birth=yes
-	}
-	866.1.1={
-		add_spouse=73994
-	}
-	920.1.1={
-		death=yes
-	}
-}
-
-73994={
-	name="À­À¼µÒË¿"
-	#name="Ralindis"
-	female=yes
-
-	religion=catholic
-	culture=visigothic
-
-	849.1.1={
-		birth=yes
-	}
-	916.1.1={
-		death=yes
-	}
-}
-
-73995={
-	name="°ÂÁ¦°Í"
-	#name="Oliba"
-	dynasty=100204
-
-	religion=catholic
-	culture=visigothic
-
-	father=73993
-	mother=73994
-
-	867.1.1={
-		birth=yes
-	}
-	915.6.24={
-		death=yes
-	}
-}
-
-73996={
-	name="Ã×Áú"
-	#name="Miron"
-	dynasty=100204
-
-	father=73785
-
-	religion=catholic
-	culture=visigothic
-
-	843.1.1={
-		birth=yes
-	}
-	899.2.15={
-		death=yes
-	}
-}
-
-73997={
-	name="Ï£Éªéª´ï"
-	#name="Sesenanda"
-	female=yes
- 
-	dynasty=100204
-
-	father=73785
-
-	religion=catholic
-	culture=visigothic
-
-	844.1.1={
-		birth=yes
-	}
-	912.1.1={
-		death=yes
-	}
-}
-
-73998={
-	name="ËÕÄá°£¸¥À×¶à"
-	#name="Suniefredo"
-	dynasty=100204
-
-	father=73785
-
-	religion=catholic
-	culture=visigothic
-
-	846.1.1={
-		birth=yes
-	}
-	885.6.26={
-		death=yes
-	}
-}
-
-73999={
-	name="°£¶ûÃ·ÐÁ´ï"
-	#name="Ermenisinda"
-	female=yes
-	dynasty=100204
-
-	father=73785
-
-	religion=catholic
-	culture=visigothic
-
-	847.1.1={
-		birth=yes
-	}
-	898.1.1={
-		death=yes
-	}
-}
-
-74100={
-	name="Á¦¿Ë¶û¸¥"
-	#name="Riculfo"
-	dynasty=100204
-
-	father=73785
-
-	religion=catholic
-	culture=visigothic
-
-	trait=detached_priest
-
-	848.1.1={
-		birth=yes
-	}
-	916.1.1={
-		death=yes
-	}
-}
-
-74101={
-	name="ËÕÄÚ°¢Àï°Â"
-	#name="Suneario"
-	dynasty=393
-
-	religion=catholic
-	culture=visigothic
-
-	842.1.1={
-		birth=yes
-	}
-	866.1.1={
-		add_spouse=74102
-	}
-	915.1.1={
-		death=yes
-	}
-}
-
-74102={
-	name="°¬¶ùÄªÄÝ¶ûµÙË¹"
-	#name="Ermenierdis"
-	female=yes
-
-	religion=catholic
-	culture=visigothic
-
-	850.1.1={
-		birth=yes
-	}
-	918.1.1={
-		death=yes
-	}
-}
-
-74103={
-	name="¸ß×È±´¶ûÍÐ"
-	#name="Gauzberto"
-	dynasty=393
-
-	religion=catholic
-	culture=visigothic
-
-	father=74101
-	mother=74102
-
-	867.1.1={
-		birth=yes
-	}
-	931.1.1={
-		death=yes
-	}
-}
 110536={
 	name="ËÕÄÚ°¢Àï°Â"
 	#name="Suneario"
@@ -4735,488 +4059,7 @@
 		death=yes
 	}
 }
-70022={
-	name="°£¶ûÞ±À­"
-	#name="Eluira"
-	female=yes
-	dynasty=75
 
-	father=73857
-	mother=73759
-	
-	religion=catholic
-	culture=visigothic
-
-	869.1.1={
-		birth=yes
-	}
-	921.10.18={
-		death=yes
-	}
-}
-
-70025={
-	name="°¢¶äÐÁ´ï"
-	#name="Adosinda"
-	female=yes
-	dynasty=75
-	
-	father=73862
-	mother=73861
-
-	religion=catholic
-	culture=visigothic
-
-	900.1.1={
-		birth=yes
-	}
-	958.1.1={
-		death=yes
-	}
-}
-70243={
-	name="°£¶ûÃ·ÐÁ´ï"
-	#name="Ermenisinda"
-	female=yes
-	dynasty=75
-
-	father=73871
-
-	religion=catholic
-	culture=visigothic
-
-	910.1.1={
-		birth=yes
-	}
-	975.1.1={
-		death=yes
-	}
-}
-70249={
-	name="ÄªÄÏ¶à"
-	#name="Menendo"
-	dynasty=1020119
-	
-	father=73870
-
-	religion=catholic
-	culture=visigothic
-
-	900.1.1={
-		birth=yes
-	}
-	922.1.1={
-		add_spouse=73866
-	}
-	950.7.24={
-		death=yes
-	}
-}
-73854={
-	name="°£¶ûÃ·ÄÚ¼ª¶û¶à"
-	#name="Ermenegildo"
-	dynasty=75
-
-	religion=catholic
-	culture=visigothic
-
-	775.1.1={
-		birth=yes
-	}
-	840.1.1={
-		death=yes
-	}
-}
-
-73855={
-	name="¹ÅÌá°£¶û"
-	#name="Guttier"
-	dynasty=75
-
-	father=73854
-
-	religion=catholic
-	culture=visigothic
-
-	810.1.1={
-		birth=yes
-	}
-	840.1.1={
-		add_spouse=73856
-	}
-	875.1.1={
-		death=yes
-	}
-}
-
-
-73856={
-	name="°£¶ûÞ±À­"
-	#name="Eluira"
-	female=yes
-
-	religion=catholic
-	culture=visigothic
-
-	822.1.1={
-		birth=yes
-	}
-	880.1.1={
-		death=yes
-	}
-}
-
-73857={
-	name="°£¶ûÃ·ÄÚ¼ª¶û¶à"
-	#name="Ermenegildo"
-	dynasty=75
-
-	father=73855
-	mother=73856
-
-	religion=catholic
-	culture=visigothic
-
-	842.1.1={
-		birth=yes
-	}
-	867.1.1={
-		add_spouse=73759
-	}
-	920.1.1={
-		death=yes
-	}
-}
-
-73858={
-	name="°¢ÂÞÔ¼ÍÐ"
-	#name="°¢ÂÞÔ¼ÍÐ"
-	dynasty=75
-
-	father=73855
-	mother=73856
-
-	religion=catholic
-	culture=visigothic
-
-	851.1.1={
-		birth=yes
-	}
-	880.1.1={
-		death=yes
-	}
-}
-
-73859={
-	name="°£¶ûÞ±À­"
-	#name="Eluira"
-	female=yes
-	dynasty=75
-
-	father=73855
-	mother=73856
-
-	religion=catholic
-	culture=visigothic
-
-	860.1.1={
-		birth=yes
-	}
-	945.1.1={
-		death=yes
-	}
-}
-
-73860={
-	name="¹ÅµÏÂ¡"
-	#name="Gudilone"
-	female=yes
-	dynasty=75
-
-	father=73857
-	mother=73759
-
-	religion=catholic
-	culture=visigothic
-
-	868.1.1={
-		birth=yes
-	}
-	933.1.1={
-		death=yes
-	}
-}
-
-73861={
-	name="°¢¶û¶¬É¯"
-	#name="Eldonza"
-	female=yes
-	dynasty=75
-
-	father=73857
-	mother=73759
-
-	religion=catholic
-	culture=visigothic
-
-	882.1.1={
-		birth=yes
-	}
-	942.1.1={
-		death=yes
-	}
-}
-
-73862={
-	name="¹ÅÌá°£¶û"
-	#name="Guttier"
-	dynasty=75
-
-	father=73855
-
-	religion=catholic
-	culture=visigothic
-
-	875.1.1={
-		birth=yes
-	}
-	899.1.1={
-		add_spouse=73861
-	}
-	933.1.1={
-		death=yes
-	}
-}
-
-73863={
-	name="ÂÞµÂÀï¿Ë"
-	#name="Roderico"
-	dynasty=75
-
-	father=73862
-	mother=73861
-
-	religion=catholic
-	culture=visigothic
-
-	917.1.1={
-		birth=yes
-	}
-	970.1.1={
-		death=yes
-	}
-}
-
-73864={
-	name="°ÂÄù¼Ñ"
-	#name="Onecca"
-	female=yes
-	dynasty=8626
-
-	father=142005
-	mother=73860
-
-	religion=catholic
-	culture=visigothic
-
-	885.1.1={
-		birth=yes
-	}
-	959.1.1={
-		death=yes
-	}
-}
-
-73865={
-	name="µÒ°¢¿Æ"
-	#name="Diaco"
-	dynasty=12288
-
-	religion=catholic
-	culture=visigothic
-
-	870.1.1={
-		birth=yes
-	}
-	903.1.1={
-		add_spouse=73864
-	}
-	928.1.1={
-		death=yes
-	}
-}
-
-73866={
-	name="ÃÎÄÝÑÅÌÆÄÈ"
-	#name="Monniadomna"
-	female=yes
-	dynasty=12288
-
-	father=73865
-	mother=73864
-
-	religion=catholic
-	culture=visigothic
-
-	904.1.1={
-		birth=yes
-	}
-	968.1.1={
-		death=yes
-	}
-}
-
-73871={
-	name="¹ÅÌá°£¶û"
-	#name="Guttier"
-	dynasty=75
-
-	father=73857
-	mother=73759
-
-	religion=catholic
-	culture=visigothic
-
-	880.1.1={
-		birth=yes
-	}
-	934.1.1={
-		death=yes
-	}	
-}
-
-73879={
-	name="°ÂÄù¼Ñ"
-	#name="Onecca"
-	female=yes
-
-	religion=catholic
-	culture=visigothic
-
-	830.1.1={
-		birth=yes
-	}
-	890.1.1={
-		death=yes
-	}
-}
-
-73880={
-	name="¸¥ÂåÒÁÀ­"
-	#name="Froyla"
-	dynasty=75
-
-	father=73871
-
-	religion=catholic
-	culture=visigothic
-
-	908.1.1={
-		birth=yes
-	}
-	943.1.1={
-		death=yes
-	}
-}
-
-73891={
-	name="Ã«Äá°Â"
-	#name="Ã«Äá°Â"
-	dynasty=75
-
-	father=73871
-
-	religion=catholic
-	culture=visigothic
-
-	902.1.1={
-		birth=yes
-	}
-	922.1.1={
-		add_spouse=73892
-	}
-	960.1.1={
-		death=yes
-	}
-}
-
-73892={
-	name="°£¶ûÞ±À­"
-	#name="Eluira"
-	female=yes
-	dynasty=75
-
-	father=73893
-
-	religion=catholic
-	culture=visigothic
-
-	906.1.1={
-		birth=yes	
-	}
-	962.6.11={
-		death=yes
-	}
-}
-
-73893={
-	name="°¢ÀïÑÇË¹"
-	#name="Arias"
-	dynasty=75
-
-	father=73857
-	mother=73759
-
-	religion=catholic
-	culture=visigothic
-
-	881.1.1={
-		birth=yes
-	}
-	924.1.1={
-		death=yes
-	}
-}
-
-73894={
-	name="¹ÅÌá°£¶û"
-	#name="Guttier"
-	dynasty=75
-
-	father=73891
-	mother=73892
-
-	religion=catholic
-	culture=visigothic
-
-	925.1.1={
-		birth=yes
-	}
-	999.1.1={
-		death=yes
-	}
-}
-109620={
-	name="¹±ÈøÂå"
-	#name="Gonçalo"
-	dynasty=1020119
-
-	father=70249
-	mother=73866
-
-	religion=catholic
-	culture=visigothic
-
-	925.1.1={
-		birth=yes
-	}
-	945.1.1={
-		add_spouse=109621
-	}
-	997.1.1={
-		death=yes
-	}
-}
 142004={
 	name="°¢ÂÞÔ¼ÍÐ" #Alvito Lucides
 	#name="°¢ÂÞÔ¼ÍÐ"
@@ -5278,6 +4121,255 @@
 		death=yes
 	}
 }
+
+168716 = {
+	name="Airmanagildo" 
+	dynasty=1046033
+
+	father=200273
+
+	religion="catholic"
+	culture="visigothic"
+
+	550.1.1={
+		birth=yes
+	}
+	583.1.1={
+		add_spouse=168717
+	}
+	585.4.13={
+		death={
+			death_reason=death_execution
+			killer=200273
+		}
+	}
+}
+
+168718 = {
+	name="Athanagildo" 
+	dynasty=1046033
+
+	father=168716
+	mother=168717
+
+	religion="catholic"
+	culture="visigothic"
+
+	583.1.1 = {
+		birth=yes
+	}
+	599.1.1={
+		add_spouse=168715
+	}
+	634.1.1={
+		death=yes
+	}
+}
+
+168720={
+	name="Olmondo" 
+	dynasty=1046032
+
+	father=200244
+
+	religion="catholic"
+	culture="visigothic"
+
+	704.1.1={
+		birth=yes
+	}
+	758.1.1={
+		death=yes
+	}
+}
+
+168721={
+	name="Sara" 
+	female=yes
+	dynasty=1046032
+
+	father=168720
+	
+	religion="sunni"
+	culture="visigothic"
+
+	720.1.1={
+		birth=yes
+	}
+	776.1.1={
+		death=yes
+	}
+}
+
+168722={
+	name="Madrubal" 
+	dynasty=1046032
+
+	father=168720
+
+	religion="sunni"
+	culture="visigothic"
+
+	722.1.1={
+		birth=yes
+	}
+	770.1.1={
+		death=yes
+	}
+}
+
+168723={
+	name="Oppas" 
+	dynasty=1046032
+
+	father=168720
+
+	religion="catholic"
+	culture="visigothic"
+
+	724.1.1={
+		birth=yes
+	}
+	749.1.1={
+		add_spouse=168724
+	}
+	777.1.1 = {
+		death=yes
+	}
+}
+
+168724={
+	name="Ricilo" 
+	female=yes
+
+	religion="catholic"
+	culture="visigothic"
+
+	730.1.1={
+		birth=yes
+	}
+	780.1.1 = {
+		death=yes
+	}
+}
+
+168725={
+	name="Baddo"
+	female=yes
+
+	religion="catholic"
+	culture="visigothic"
+
+	555.1.1={
+		birth=yes
+	}	
+	592.1.1={
+		death=yes
+	}
+}
+
+168727={
+	name="Witiza" 
+	dynasty=1046032
+
+	father=168723
+	mother=168724
+
+	religion="catholic"
+	culture="visigothic"
+
+	750.1.1={
+		birth=yes
+	}
+	
+	815.1.1={
+		death=yes
+	}
+}
+
+168730={
+	name="Ricimero" 
+	dynasty=1046033
+	religion="catholic"
+	culture="visigothic"
+	father=200256
+	mother=200260
+	622.1.1={
+		birth=yes
+	}
+	
+	640.1.1 = {
+		death=yes
+	}
+}
+
+168733={
+	name="Faldrina" 
+	female=yes
+	dynasty=1046032
+
+	father=200243
+	mother=200236
+
+	religion="catholic"
+	culture="visigothic"
+
+	694.1.1={
+		birth=yes
+	}	
+	750.1.1={
+		death=yes
+	}
+}
+
+168734={
+	name="Brunechildis" 
+	female=yes
+	dynasty=1046039
+
+	father=200276
+
+	religion="catholic"
+	culture="visigothic"
+
+	549.1.1 = {
+		birth=yes
+	}
+	590.1.1 = {
+		death=yes
+	}
+}
+
+168735 = {
+	name="Riciberga"
+	female=yes
+
+	religion="catholic"
+	culture="visigothic"
+
+	620.1.1 = {
+		birth=yes
+	}	
+	665.1.1 = {
+		death=yes
+	}
+}
+
+190550={
+	name="Bego" #count of Narbonne
+	dynasty=1044118 #Begonid
+
+	religion="catholic"
+	culture="visigothic"
+
+	750.1.1={
+		birth=yes
+	}
+	816.10.28={
+		death=yes
+	}
+}
+
 200031={
 	name="ÄÂÈø"
 	#name="Muça"
@@ -5452,25 +4544,6 @@
 		birth=yes
 	}
 	780.1.1={
-		death=yes
-	}
-}
-
-200058={
-	name="Â¬ÌØ¸¥À×¶à"
-	#name="Luitfredo"
-	dynasty=1046017
-
-	religion=catholic
-	culture=visigothic
-
-	715.1.1={
-		birth=yes
-	}
-	745.1.1={
-		add_spouse=200057
-	}
-	770.1.1={
 		death=yes
 	}
 }
@@ -6138,582 +5211,1156 @@
 		death=yes
 	}
 }
-190550 = {
-	name="±´¹û" #count of Narbonne
-	#name="Bego"
-	dynasty=1044118 #Begonid
-	religion="catholic"
-	culture="visigothic"
-	750.1.1={
-		birth=yes
-	}
-	816.10.28={
-		death=yes
-	}
-}
-91392 = {
-	name="°£¶ûÆæË¿ÎÂ´ï" #Ercheswinda, used as wife of Riculfe, the fantasy brother of Fulrad
-	#name="Ercheswinda"
+
+200215={
+	name="?eida"
 	female=yes
-	religion="catholic"
-	culture="visigothic"
-	
-	706.1.1 = { birth=yes }
-	760.1.1 = { death=yes }
-}
-168758 = {
-	name="°£¶ûÄ¬ÄÚ¼ª¶û¶à" #real name unknown
-	#name="Hermenegildo" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	500.1.1 = {
+
+	religion=sunni
+	culture=visigothic
+
+	746.1.1={
 		birth=yes
 	}
-	
-	550.1.1 = {
+	808.1.1={
 		death=yes
 	}
 }
 
-
-
-
-168714 = {
-	name="Àû°ÂÍßË¹" 
-	#name="Liuva" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168758
-	520.1.1 = {
-		birth=yes
-	}
-	
-	572.1.1 = {
-		death=yes
-	}
-}
-
-
-
-
-
-168715 = {
-	name="Àû°ÂÎ¬¼ª¶ûµÂ" 
-	#name="Leovigildo"
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168758
-	525.1.1 = {
-		birth=yes
-	}
-	
-	586.1.1 = {
-		death=yes
-	}
-}
-
-
-
-
-168716 = {
-	name="°£¶ûÄ¬ÄÚ¼ª¶û¶à" 
-	#name="Hermenegildo" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168715
-	545.1.1 = {
-		birth=yes
-	}
-	583.1.1 = {
-		add_spouse=168717
-	}
-	586.4.13 = {
-		death=yes
-	}
-}
-
-
-168717 = {
-	name="Òð¹¢µÙ"
-	#name="Ingunde"
+200218={
+	name="Monnia"
 	female=yes
-	dynasty=542
-	religion="catholic"
-	culture="old_frankish"
-	father=168687
-	567.1.1 = {
+
+	religion=sunni
+	culture=visigothic
+
+	743.1.1={
 		birth=yes
 	}
-	
-	585.1.1 = {
+	805.1.1={
 		death=yes
 	}
 }
 
+200223={
+	name="Theodericho"
+	dynasty=1046025
 
+	religion=catholic
+	culture=visigothic
 
-168718 = {
-	name="°¢ËþÄÉ¼ª¶ûµÂ" 
-	#name="Athanagildo" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168716
-	mother=168717
-	584.1.1 = {
+	718.1.1={
 		birth=yes
 	}
-	
-	634.1.1 = {
+	741.1.1={
+		add_spouse=200224
+	}
+	779.1.1={
 		death=yes
 	}
 }
 
-
-
-
-
-168719 = {
-	name="°¢¶û´ï°ÍË¹ÍÐ" 
-	#name="Ardabasto" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168718
-	605.1.1 = {
-		birth=yes
-	}
-	
-	655.1.1 = {
-		death=yes
-	}
-}
-
-
-
-
-168720 = {
-	name="ºÕ¶ûÎ¬Ï£" 
-	#name="Ervigio" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168719
-	625.1.1 = {
-		birth=yes
-	}
-	650.1.1 = {
-		add_spouse=168740
-	}
-	687.11.15 = {
-		death=yes
-	}
-}
-
-
-
-168721 = {
-	name="Ï£¿ÆË¿çó" 
-	#name="Cixillo" 
-	dynasty=9615
+200224={
+	name="Ermenisinda"
 	female=yes
-	religion="catholic"
-	culture="visigothic"
-	father=168720
-	mother=168740
-	652.1.1 = {
+
+	religion=catholic
+	culture=visigothic
+
+	723.1.1={
 		birth=yes
 	}
-	
-	701.1.1 = {
+	788.1.1={
 		death=yes
 	}
 }
 
+200225={
+	name="Liuvericho"
+	dynasty=1046025
 
+	father=200223
+	mother=200224
 
-168722 = {
-	name="°£¼ª¿¨" 
-	#name="Egica" 
-	religion="catholic"
-	culture="visigothic"
-	650.1.1 = {
+	religion=catholic
+	culture=visigothic
+
+	742.1.1={
 		birth=yes
 	}
-	670.1.1 = {
-		add_spouse=168721
-	}
-	702.1.1 = {
+	795.1.1={
 		death=yes
 	}
 }
 
-
-
-168723 = {
-	name="°£¼ª¿¨" 
-	#name="Egica" 
-	religion="catholic"
-	culture="visigothic"
-	father=168722
-	mother=168721
-	672.1.1 = {
-		birth=yes
-	}
-	710.1.1 = {
-		death=yes
-	}
-}
-
-
-
-168724 = {
-	name="À×¿¨À×µÂ" 
-	#name="Recaredo" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168715
-	547.1.1 = {
-		birth=yes
-	}
-	575.1.1 = {
-		add_spouse=168725
-	}
-	575.1.1 = {
-		add_spouse=168726
-	}
-	601.12.1 = {
-		death=yes
-	}
-}
-
-
-
-
-168725 = {
-	name="°ÍÎÚæ§"
-	#name="Bauda"
+200227={
+	name="Abda"
 	female=yes
-	religion="catholic"
-	culture="visigothic"
-	555.1.1 = {
+
+	religion=sunni
+	culture=visigothic
+
+	740.1.1={
 		birth=yes
 	}
-	
-	592.1.1 = {
+	802.1.1={
 		death=yes
 	}
 }
 
-
-168726 = {
-	name="¿ËÂÞ¶äË¼ÎÂâò"
-	#name="Chlodoswintha"
+200231={
+	name="Onecca"
 	female=yes
-	dynasty=542
-	religion="catholic"
-	culture="old_frankish"
-	father=168687
-	569.1.1 = {
+
+	religion=sunni
+	culture=visigothic
+
+	744.1.1={
 		birth=yes
 	}
-	
-	619.1.1 = {
+	810.1.1={
 		death=yes
 	}
 }
 
+200236={
+	name="çù¿ÆË¹Âå"
+	#name="Chixillo"
+	female=yes
+	dynasty=1046033
 
+	father=200237
+	mother=200257
 
+	religion=catholic
+	culture=visigothic
 
-168727 = {
-	name="Àû°ÂÍßË¹" 
-	#name="Liuva" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168724
-	mother=168725
-	576.1.1 = {
+	669.1.1={
 		birth=yes
 	}
-	
-	603.7.1 = {
+	721.1.1={
 		death=yes
 	}
 }
 
+200237={
+	name="ºÕ¶ûÎ¬Ï£"
+	#name="Erwigio"
+	dynasty=1046033
 
+	father=200238
+	mother=200239
 
-168728 = {
-	name="ËÕÒòÌáÀ­" 
-	#name="Suintila" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168724
+	religion=catholic
+	culture=visigothic
+	
+	trait = ill
+
+	652.1.1={
+		birth=yes
+	}
+	668.1.1={
+		add_spouse=200257
+	}
+	687.11.15={
+		death={
+			death_reason=death_trait
+		}
+	}
+}
+
+200239={
+	name="ÀòÏ£Âå"
+	#name="Ricilo"
+	female=yes
+	dynasty=1046033
+
+	father=200242
+
+	religion=catholic
+	culture=visigothic
+
+	634.1.1={
+		birth=yes
+	}
+	688.1.1={
+		death=yes
+	}
+}
+
+200240={
+	name="Khindaswintho"
+	dynasty=1046033
+
+	father=200241
+
+	religion=catholic
+	culture=visigothic
+
+	615.1.1={
+		birth=yes
+	}
+	638.1.1={
+		add_spouse=168735
+	}
+	653.9.30={
+		death=yes
+	}
+}
+
+200241={
+	name="ÀûÆæÀ­"
+	#name="Richila"
+	dynasty=1046033
+
+	father=200272
 	mother=168726
-	595.1.1 = {
+
+	religion=catholic
+	culture=visigothic
+
+	597.1.1={
 		birth=yes
 	}
-	611.1.1 = {
-		add_spouse=168729
-	}
-	631.3.26 = {
+	640.1.1={
 		death=yes
 	}
 }
 
+200242={
+	name="°¢Âí¶ûÃÉ¶à"
+	#name="Amalmundo"
+	dynasty=1046031
 
+	father=200241
 
-168729 = {
+	religion=catholic
+	culture=visigothic
+
+	617.1.1={
+		birth=yes
+	}
+	669.1.1={
+		death=yes
+	}
+}
+
+200243={
+	name="°£¼ª¿¨"
+	#name="Egica"
+	dynasty=1046032
+
+	father=200247
+	mother=200246
+
+	religion=catholic
+	culture=visigothic
+
+	650.1.1={
+		birth=yes
+	}
+	685.1.1={
+		add_spouse=200236
+	}
+	702.1.1={
+		death=yes
+	}
+}
+
+200244={
+	name="Î¬ÌáÔú"
+	#name="Witiza"
+	dynasty=1046032
+
+	father=200243
+	mother=200236
+
+	religion=catholic
+	culture=visigothic
+
+	686.1.1={
+		birth=yes
+	}
+	710.1.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+
+200245={
+	name="°¢¼ªÀ­"
+	#name="Akhila"
+	dynasty=1046032
+
+	father=200244
+
+	religion=catholic
+	culture=visigothic
+
+	702.1.1={
+		birth=yes
+	}
+	713.1.1={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+200246={
+	name="°¢Àö±´¶û¼Ñ"
+	#name="Ariberga"
+	female=yes
+	dynasty=1046032
+
+	father=200255
+
+	religion=catholic
+	culture=visigothic
+
+	627.1.1={
+		birth=yes
+	}
+	680.1.1={
+		death=yes
+	}
+}
+
+200247={
+	name="Î¬ÌáÔú"
+	#name="Witiza"
+	religion=catholic
+	culture=visigothic
+
+	620.1.1={
+		birth=yes
+	}
+	649.1.1={
+		add_spouse=200246
+	}
+	672.1.1={
+		death=yes
+	}
+}
+
+200248={
+	name="ÍßÄ½°Í"
+	#name="Wamba"
+	dynasty=1046032
+
+	father=200255
+
+	religion=catholic
+	culture=visigothic
+
+	622.1.1={
+		birth=yes
+	}
+	688.1.1={
+		death=yes
+	}
+}
+
+200249={
+	name="À×¿ËË¹ËÕ°²ÍÐ"
+	#name="Reccesuintho"
+	dynasty=1046033
+
+	father=200240
+	mother=168735
+
+	religion=catholic
+	culture=visigothic
+
+	640.1.1={
+		birth=yes
+	}
+	672.9.1={
+		death=yes
+	}
+}
+
+200250={
+	name="µÏ°Â¶à¸¥À×¶à"
+	#name="Theodofredo"
+	dynasty=1046033
+
+	father=200240
+	mother=168735
+
+	religion=catholic
+	culture=visigothic
+
+	645.1.1={
+		birth=yes
+	}
+	702.1.1={
+		death=yes
+	}
+}
+
+200251={
+	name="ÂÞµÂÀï¿Ë"
+	#name="Roderico"
+	dynasty=1046033
+
+	father=200250
+
+	religion=catholic
+	culture=visigothic
+
+	688.1.1={
+		birth=yes
+	}
+	705.1.1={
+		add_spouse=200063
+	}
+	711.7.20={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+200252={
+	name="Fafila"
+	dynasty=1046033
+
+	father=200240
+	mother=168735
+
+	religion=catholic
+	culture=visigothic
+
+	650.1.1={
+		birth=yes
+	}
+	702.1.1={
+		death=yes
+	}
+}
+
+200253={
+	name="°¢¶û¶à"
+	#name="Ardo"
+	religion=catholic
+	culture=visigothic
+
+	678.1.1={
+		birth=yes
+	}
+	720.1.1={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+200254={
+	name="ÇÕÆæÀûÑÇ"
+	#name="Khinthila"
+	dynasty=1046032
+
+	religion=catholic
+	culture=visigothic
+
+	573.1.1={
+		birth=yes
+	}
+	639.12.20={
+		death=yes
+	}
+}
+
+200255={
+	name="Í¼¶û¼Ó"
+	#name="Tulga"
+	dynasty=1046032
+
+	father=200254
+
+	religion=catholic
+	culture=visigothic
+	
+	trait = ill
+
+	598.1.1={
+		birth=yes
+	}
+	642.4.16={
+		death={
+			death_reason=death_trait
+		}
+	}
+}
+
+200256={
+	name="ËÕÒòÌáÀ­"
+	#name="Suinthila"
+	dynasty=1046033
+
+	father=200272
+	mother=168726
+
+	religion=catholic
+	culture=visigothic
+
+	595.1.1={
+		birth=yes
+	}
+	621.1.1={
+		add_spouse=200260
+	}
+	634.1.1={
+		death=yes
+	}
+}
+
+200257={
+	name="ÀòÞ±¸ñÍÐÄÈ"
+	#name="Lywigothona"
+	female=yes
+	dynasty=1046033
+
+	father=200256
+	mother=200260
+
+	religion=catholic
+	culture=visigothic
+
+	633.1.1={
+		birth=yes
+	}
+	680.1.1={
+		death=yes
+	}
+}
+
+200258={
+	name="À×¿¨À×µÂ"
+	#name="Reccaredo"
+	dynasty=1046034
+
+	father=200259
+
+	religion=catholic
+	culture=visigothic
+
+	600.1.1={
+		birth=yes
+	}
+	621.3.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+
+200259={
+	name="Ï£Éª²¼ÌØ"
+	#name="Sesebuto"
+	dynasty=1046034
+
+	religion=catholic
+	culture=visigothic
+
+	568.1.1={
+		birth=yes
+	}
+	621.2.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+
+200260={
 	name="µÒ°Â¶àÀ­"
 	#name="Theodora"
 	female=yes
-	religion="catholic"
-	culture="visigothic"
-	595.1.1 = {
+	dynasty=1046034
+
+	father=200259
+
+	religion=catholic
+	culture=visigothic
+
+	605.1.1={
 		birth=yes
 	}
-	
-	620.1.1 = {
+	666.1.1={
 		death=yes
 	}
 }
 
+200269={
+	name="¾ýµÂÂí¶û"
+	#name="Gundemar"
+	religion=catholic
+	culture=visigothic
 
-
-168730 = {
-	name="À×Ï£Ä¦ÂÞ" 
-	#name="Recimoro" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168728
-	mother=168729
-	612.1.1 = {
+	558.1.1={
 		birth=yes
 	}
-	
-	631.3.26 = {
+	612.2.1={
 		death=yes
 	}
 }
 
+200270={
+	name="Î¬ÌØÀï¿Ë"
+	#name="Witerico"
+	religion=catholic
+	culture=visigothic
 
-
-
-168731 = {
-	name="Ï£É­°²µÂ" 
-	#name="Sisenando" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168728
-	mother=168729
-	613.1.1 = {
+	562.1.1={
 		birth=yes
 	}
-	
-	636.3.12 = {
+	610.4.1={
+		death={
+			death_reason=death_murder
+			killer=200269
+		}
+	}
+}
+
+200271={
+	name="Àû°ÂÍßË¹"
+	#name="Lywa"
+	dynasty=1046033
+
+	father=200272
+	mother=168725
+
+	religion=catholic
+	culture=visigothic
+
+	583.1.1={
+		birth=yes
+	}
+	603.7.1={
+		death={
+			death_reason=death_execution
+			killer=200270
+		}
+	}
+}
+
+200272={
+	name="À×¿¨À×µÂ"
+	#name="Reccaredo"
+	dynasty=1046033
+
+	father=200273
+
+	religion=catholic
+	culture=visigothic
+
+	555.1.1={
+		birth=yes
+	}
+	575.1.1={
+		add_spouse=168725
+	}
+	592.1.1={
+		add_spouse=168726
+	}
+	601.12.21={
 		death=yes
 	}
 }
 
+200273={
+	name="Àû°ÂÎ¬¼ª¶ûµÂ"
+	#name="Lywigildo"
+	dynasty=1046033
 
+	father=200274
 
-168732 = {
-	name="ÇÙµÒÀ­" 
-	#name="Chintila" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168728
-	mother=168729
-	614.1.1 = {
+	religion=catholic
+	culture=visigothic
+
+	525.1.1={
 		birth=yes
 	}
-	
-	639.12.29 = {
+	586.4.1={
 		death=yes
 	}
 }
 
+200274={
+	name="Àî°ÂÈð¿Ë"
+	#name="Lywericco"
+	dynasty=1046033
 
+	religion=catholic
+	culture=visigothic
 
-
-168733 = {
-	name="Í¼¶û¼Ó" 
-	#name="Tulga" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168732
-	630.1.1 = {
+	498.1.1={
 		birth=yes
 	}
-	
-	642.1.1 = {
+	550.1.1={
 		death=yes
 	}
 }
 
+200275={
+	name="Àû°ÂÍßË¹"
+	#name="Lywa"
+	dynasty=1046033
 
+	father=200274
 
+	religion=catholic
+	culture=visigothic
 
-
-168734 = {
-	name="ÇÙ´ïË¹ÎÄÌØ" 
-	#name="Chindasvinto" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168728
-	mother=168729
-	615.1.1 = {
+	523.1.1={
 		birth=yes
 	}
-	632.1.1 = {
-		add_spouse=168735
-	}
-	653.9.30 = {
+	572.1.1={
 		death=yes
 	}
 }
 
+200276={
+	name="°¢ËþÄÉ¼ª¶ûµÂ"
+	#name="Athanagildo"
+	religion=catholic
+	culture=visigothic
 
+	520.1.1={
+		birth=yes
+	}
+	568.1.1={
+		death=yes
+	}
+}
 
-168735 = {
-	name="ÀÙË¿±´¶û¼Ñ"
-	#name="Reciberga"
+200277={
+	name="°¢¼ªÀ­"
+	#name="Akhila"
+	religion=catholic
+	culture=visigothic
+
+	516.1.1={
+		birth=yes
+	}
+	554.3.1={
+		death={
+			death_reason=death_murder
+			killer=70512
+		}
+	}
+}
+
+200278={
+	name="Ï£É­°²µÂ"
+	#name="Sesenando"
+	religion=catholic
+	culture=visigothic
+
+	605.1.1={
+		birth=yes
+	}
+	636.3.12={
+		death=yes
+	}
+}
+
+200279={
+	name="µÒÎÚµÙ¼ªË¹¿ËÂ³Ë¹"
+	#name="Theudisclo"
+	religion=catholic
+	culture=visigothic
+
+	500.1.1={
+		birth=yes
+	}
+	549.12.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+
+200280={
+	name="µÒÎÚµÙË¹"
+	#name="Theudis"
+	religion=catholic
+	culture=visigothic
+
+	498.1.1={
+		birth=yes
+	}
+	548.1.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+
+200281={
+	name="°¢ÂêÀ­Àï¿Ë"
+	#name="Amalaricco"
+	dynasty=1046035
+
+	father=200283
+
+	religion=catholic
+	culture=visigothic
+
+	500.1.1={
+		birth=yes
+	}
+	531.1.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+
+200282={
+	name="»ùÉªÀ×¿Ë"
+	#name="Gessaleycco"
+	dynasty=1046035
+
+	father=200283
+	trait=bastard
+
+	religion=catholic
+	culture=visigothic
+
+	489.1.1={
+		birth=yes
+	}
+	511.1.1={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+200283={
+	name="ÑÇÀ­Àï¿Ë"
+	#name="Alaricco"
+	dynasty=1046035
+
+	father=200284
+
+	religion=catholic
+	culture=visigothic
+
+	463.1.1={
+		birth=yes
+	}
+	507.1.1={
+		death=yes
+	}
+}
+
+200284={
+	name="ÒÀÎÚÀï¿Ë"
+	#name="Euricco"
+	dynasty=1046035
+
+	father=200287
+	mother=200293
+
+	religion=catholic
+	culture=visigothic
+
+	440.1.1={
+		birth=yes
+	}
+	484.1.1={
+		death=yes
+	}
+}
+
+200285={
+	name="µÒ°Â¶àÀï¿Æ"
+	#name="Theodoricco"
+	dynasty=1046035
+
+	father=200287
+	mother=200293
+
+	religion=catholic
+	culture=visigothic
+
+	428.1.1={
+		birth=yes
+	}
+	466.1.1={
+		death={
+			death_reason=death_murder
+			killer=200284
+		}
+	}
+}
+
+200286={
+	name="ÍÐÀïË¹ÃÉµÂ"
+	#name="Thurismundo"
+	dynasty=1046035
+
+	father=200287
+	mother=200293
+
+	religion=catholic
+	culture=visigothic
+
+	423.1.1={
+		birth=yes
+	}
+	453.1.1={
+		death={
+			death_reason=death_murder
+			killer=200285
+		}
+	}
+}
+
+200287={
+	name="µÒ°Â¶àÀï¿Æ"
+	#name="Theodoricco"
+	dynasty=1046035
+
+	father=200297
+
+	religion=catholic
+	culture=visigothic
+
+	379.1.1={
+		birth=yes
+	}
+	418.1.1={
+		add_spouse=200293
+	}
+	451.6.20={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+200288={
+	name="ÍßÀûÑÇ"
+	#name="Walia"
+	dynasty=1046035
+
+	father=200296
+
+	religion=catholic
+	culture=visigothic
+
+	374.1.1={
+		birth=yes
+	}
+	418.1.1={
+		death=yes
+	}
+}
+
+200289={
+	name="Èü¸ñÀï¿Ë"
+	#name="Sygericco"
+	religion=catholic
+	culture=visigothic
+
+	370.1.1={
+		birth=yes
+	}
+	415.7.7={
+		death={
+			death_reason=death_murder
+			killer=200288
+		}
+	}
+}
+
+200290={
+	name="°¢ÌÕ¶û·ò"
+	#name="Athaulffo"
+	dynasty=1046035
+
+	father=200296
+
+	religion=catholic
+	culture=visigothic
+
+	372.1.1={
+		birth=yes
+	}
+	415.7.1={
+		death={
+			death_reason=death_murder
+			killer=200289
+		}
+	}
+}
+
+200291={
+	name="ÑÇÀ­Àï¿Ë"
+	#name="Alaricco"
+	dynasty=1046035
+
+	father=200292
+
+	religion=catholic
+	culture=visigothic
+
+	370.1.1={
+		birth=yes
+	}
+	388.1.1={
+		add_spouse=200294
+	}
+	410.1.1={
+		death=yes
+	}
+}
+
+200292={
+	name="ÂÞË¹ÌØË¹"
+	#name="Roccesthes"
+	dynasty=1046035
+
+	father=200295
+
+	religion=catholic
+	culture=visigothic
+
+	341.1.1={
+		birth=yes
+	}
+	387.1.1={
+		death=yes
+	}
+}
+
+200293={
+	name="Òð¹¢µÙË¹"
+	#name="Ingundis"
 	female=yes
-	religion="catholic"
-	culture="visigothic"
-	615.1.1 = {
+	dynasty=1046035
+
+	father=200291
+	mother=200294
+
+	religion=catholic
+	culture=visigothic
+
+	402.1.1={
 		birth=yes
 	}
-	
-	655.1.1 = {
+	450.1.1={
 		death=yes
 	}
 }
 
-
-
-168736 = {
-	name="À×¿ËË¹ÎÄµÂ" 
-	#name="Recesvinto" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168734
-	mother=168735
-	633.1.1 = {
-		birth=yes
-	}
-	
-	672.9.1 = {
-		death=yes
-	}
-}
-
-
-
-168737 = {
-	name="µÏ°Â¶à¸¥À×¶à" 
-	#name="Theodofredo" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168734
-	mother=168735
-	635.1.1 = {
-		birth=yes
-	}
-	
-	685.1.1 = {
-		death=yes
-	}
-}
-
-
-
-168738 = {
-	name="ÂÞµÂÀï¿Ë" 
-	#name="Rodrigo" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168737
-	660.1.1 = {
-		birth=yes
-	}
-	
-	711.7.26 = {
-		death=yes
-	}
-}
-
-
-
-168739 = {
-	name="·¨Î¬À­" 
-	#name="Favila" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168734
-	mother=168735
-	640.1.1 = {
-		birth=yes
-	}
-	
-	690.1.1 = {
-		death=yes
-	}
-}
-
-
-
-
-168740 = {
-	name="ÀòÎÚ²¼¸èÍÐÄÈ" 
-	#name="Liubgotona" 
-	dynasty=9615
+200294={
+	name="¶ð¶ûÃÎ²©¶û¼Ñ"
+	#name="Ermeneberga"
 	female=yes
-	religion="catholic"
-	culture="visigothic"
-	father=168734
-	mother=168735
-	634.1.1 = {
+	dynasty=1046035
+
+	father=200296
+
+	religion=catholic
+	culture=visigothic
+
+	372.1.1={
 		birth=yes
 	}
-	
-	690.1.1 = {
+	415.1.1={
 		death=yes
 	}
 }
 
+200295={
+	name="°ÂÁ¦¿Ë"
+	#name="Aoricco"
+	dynasty=1046035
 
+	religion=catholic
+	culture=visigothic
 
-168741 = {
-	name="°¢»ùÂÞÄÇ" 
-	#name="Agilona" 
-	dynasty=9615
-	religion="catholic"
-	culture="visigothic"
-	father=168724
-	mother=168726
-	597.1.1 = {
+	311.1.1={
 		birth=yes
 	}
-	
-	637.1.1 = {
+	365.1.1={
 		death=yes
+	}
+}
+
+200296={
+	name="°¢ËþÄÉÀï¿Ë"
+	#name="Athanaricco"
+	dynasty=1046035
+
+	father=200295
+
+	religion=catholic
+	culture=visigothic
+
+	334.1.1={
+		birth=yes
+	}
+	381.1.25={
+		death=yes
+	}
+}
+
+200297={
+	name="°¢À­ÌØ°Â"
+	#name="Alatheo"
+	dynasty=1046035
+
+	father=200295
+
+	religion=catholic
+	culture=visigothic
+
+	350.1.1={
+		birth=yes
+	}
+	391.1.1={
+		death=yes
+	}
+}
+
+457681={
+	name="Gomez"
+	dynasty=7012
+
+	father=73765
+
+	religion=catholic
+	culture=visigothic
+
+	880.1.1={
+		birth=yes
+	}
+	932.5.1={
+		death=yes
+	}
+}
+
+217303 = {
+	name = "Munio"
+	dynasty = 75
+	
+	father = 73880
+	
+	religion = catholic
+	culture = visigothic
+	
+	930.6.22 = {
+		birth = yes
+	}
+	985.4.12 = {
+		death = yes
 	}
 }

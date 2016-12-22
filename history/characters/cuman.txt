@@ -77,7 +77,7 @@
 
 125402 = {
 	name="¿Æ±ÈÑÇ¿Ë" #Kobyak
-	
+	dynasty=1051135
 	religion="tengri_pagan"
 	culture="cuman"
 	1130.1.1={
@@ -130,28 +130,6 @@
 	religion="tengri_pagan"
 	culture="cuman"
 	trait="underhanded_rogue"
-	1039.1.1={
-		birth="1039.1.1"
-	}
-	1089.1.1={
-		death="1089.1.1"
-	}
-}
-
-20647 = {
-	name="°¢ÈøÂ³ÆÕ" #Asalup
-	
-	dynasty=100559
-	martial=4
-	diplomacy=6
-	intrigue=5
-	stewardship=7
-	religion="tengri_pagan"
-	culture="cuman"
-	trait="kind"
-	trait="zealous"
-	trait="cynical"
-	trait="tough_soldier"
 	1039.1.1={
 		birth="1039.1.1"
 	}
@@ -786,26 +764,6 @@
 	}
 }
 
-228057 = {
-	name="Ë÷¿¨ÀÕ" #Sokal
-	dynasty=100559
-	martial=7
-	diplomacy=5
-	intrigue=8
-	stewardship=5
-	religion="tengri_pagan"
-	culture="cuman"
-	trait="deceitful"
-	trait="arbitrary"
-	trait="tough_soldier"
-	1150.1.1={
-		birth="1150.1.1"
-	}
-	1200.1.1={
-		death="1200.1.1"
-	}
-}
-
 228058 = {
 	name="¿ÆÆÕÌá" #Kopti
 	dynasty=100563
@@ -835,6 +793,7 @@
 	culture="cuman"
 	trait="honest"
 	trait="martial_cleric"
+	father = 20655
 	1060.1.1={
 		birth="1060.1.1"
 	}
@@ -924,7 +883,7 @@
 	dynasty=698
 	religion="orthodox"
 	culture="cuman"
-	
+	father=228030
 	1172.1.1={
 		birth="1172.1.1"
 	}
@@ -966,6 +925,19 @@
 	trait="amateurish_plotter"
 	1300.1.1={
 		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+194417 = {
+	name="Tugor"
+	dynasty=100615
+	religion="tengri_pagan"
+	culture="cuman"
+	father=479010
+	1320.1.1={
+		birth=yes
 	}
 	1350.1.1={
 		death="1350.1.1"
@@ -1328,26 +1300,6 @@
 		death="1150.1.1"
 	}
 }
-
-479220 = {
-	name="²¨Äô¿Ë" #Bönek
-	# AKA: BOnek
-	dynasty=100559
-	martial=4
-	diplomacy=8
-	intrigue=5
-	stewardship=6
-	religion="tengri_pagan"
-	culture="cuman"
-	trait="amateurish_plotter"
-	1300.1.1={
-		birth="1300.1.1"
-	}
-	1350.1.1={
-		death="1350.1.1"
-	}
-}
-
 479230 = {
 	name="²ª¶û³à" #Bor?
 	# AKA: Borc
@@ -1642,11 +1594,38 @@
 
 34827 = {
 	name="¿ÆÔóÀÕ" #Kozel
-	#placeholder
+	dynasty = 1045097
 	religion="tengri_pagan"
 	culture="cuman"
 	1170.1.1={
 		birth="1170.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+194404 = {
+	name="Kubazar"
+	dynasty = 1045097
+	religion="tengri_pagan"
+	culture="cuman"
+	father=34827
+	1200.1.1={
+		birth=yes
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+194405 = {
+	name="Sarica"
+	dynasty = 1045097
+	female=yes
+	religion="tengri_pagan"
+	culture="cuman"
+	father=34827
+	1202.1.1={
+		birth=yes
 	}
 	1225.1.1={
 		death="1225.1.1"
@@ -1798,12 +1777,38 @@
 
 34849 = {
 	name="À¥Í¼Ø£µÏ" #Kuntuvdi
-	#placeholder
+	dynasty = 1045107
 	religion="tengri_pagan"
 	culture="cuman"
-	1200.1.1={
-		birth="1200.1.1"
+	1190.1.1={
+		birth=yes
 	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+194441 = {
+	name="Tugor"
+	dynasty = 1045107
+	religion="tengri_pagan"
+	culture="cuman"
+	father = 34849
+	1210.1.1={
+		birth=yes
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+194442 = {
+	name="Yasar"
+	dynasty = 1045107
+	female=yes
+	religion="tengri_pagan"
+	culture="cuman"
+	father = 34849
+	1212.1.1={
+		birth=yes
 	1238.1.1={
 		death="1238.1.1"
 	}
@@ -1811,14 +1816,53 @@
 
 34854 = {
 	name="¿â°ÍÈø¶û" #Kubasar
-	#placeholder
+	dynasty = 1045096
 	religion="tengri_pagan"
 	culture="cuman"
-	1045.1.1={
-		birth="1045.1.1"
+	1025.1.1={
+		birth=yes
 	}
 	1091.1.1={
-		death="1091.1.1"
+		death=yes
+	}
+}
+194388 = {
+	name="Sugr"
+	dynasty = 1045096
+	religion="tengri_pagan"
+	culture="cuman"
+	father=34854
+	1046.1.1={
+		birth=yes
+	}
+	1099.1.1={
+		death=yes
+	}
+}
+194389 = {
+	name="Sarica"
+	dynasty = 1045096
+	religion="tengri_pagan"
+	culture="cuman"
+	father=34854
+	1044.1.1={
+		birth=yes
+	}
+	1099.1.1={
+		death=yes
+	}
+}
+194390 = {
+	name="Sevilay"
+	dynasty = 1045096
+	religion="tengri_pagan"
+	culture="cuman"
+	father=34854
+	1048.1.1={
+		birth=yes
+	}
+	1099.1.1={
+		death=yes
 	}
 }
 
@@ -1850,11 +1894,37 @@
 
 34858 = {
 	name="¸ñ×È" #Gzi
-	#placeholder
+	dynasty = 1045108
 	religion="tengri_pagan"
 	culture="cuman"
 	1190.1.1={
-		birth="1190.1.1"
+		birth=yes
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+194443 = {
+	name="Uzur"
+	dynasty = 1045108
+	religion="tengri_pagan"
+	culture="cuman"
+	father = 34858
+	1213.1.1={
+		birth=yes
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+194444 = {
+	name="Mala"
+	dynasty = 1045108
+	religion="tengri_pagan"
+	culture="cuman"
+	father = 34858
+	1210.1.1={
+		birth=yes
 	}
 	1238.1.1={
 		death="1238.1.1"
@@ -1913,6 +1983,33 @@
 		death=yes
 	}
 }
+194376 = {
+	name=Koza
+	dynasty=851 # Turgay
+	religion=tengri_pagan
+	culture=cuman
+	father=34870
+	845.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+194377 = {
+	name=Mala
+	female=yes
+	dynasty=851 # Turgay
+	religion=tengri_pagan
+	culture=cuman
+	father=34870
+	847.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
 34871 = {
 	name=¿âÌ¹ #Kutan 	#placeholder
 	dynasty=852 # Kimak
@@ -1921,6 +2018,9 @@
 	father=188782
 	824.1.1={
 		birth=yes
+	}
+	865.5.12 = {
+		add_spouse = 217165
 	}
 	889.1.1={
 		death=yes
@@ -1953,15 +2053,65 @@
 }
 
 34884 = {
-	name="ËÕ¸ñ¶û" #Sugr
-	#placeholder
+	name="Sugr"
+	dynasty = 1045098
 	religion="tengri_pagan"
 	culture="cuman"
-	1190.1.1={
-		birth="1190.1.1"
+	1180.1.1={
+		birth=yes
 	}
 	1238.1.1={
-		death="1238.1.1"
+		death=yes
+	}
+}
+194428 = {
+	name="Sokal"
+	dynasty = 1045098
+	religion="tengri_pagan"
+	culture="cuman"
+	father=34884
+	1200.1.1={
+		birth=yes
+	}
+	1238.1.1={
+		death=yes
+	}
+}
+194429 = {
+	name="Asli"
+	dynasty = 1045098
+	female=yes
+	religion="tengri_pagan"
+	culture="cuman"
+	father=34884
+	1205.1.1={
+		birth=yes
+	}
+	1238.1.1={
+		death=yes
+	}
+}
+194406 = {
+	name="Blush"
+	religion="tengri_pagan"
+	culture="cuman"
+	1199.1.1={
+		birth=yes
+	}
+	1238.1.1={
+		death=yes
+	}
+}
+194407 = {
+	name="Umay"
+	female=yes
+	religion="tengri_pagan"
+	culture="cuman"
+	1202.1.1={
+		birth=yes
+	}
+	1238.1.1={
+		death=yes
 	}
 }
 
@@ -2100,12 +2250,38 @@
 
 34949 = {
 	name="²¨Äô¿Ë" #Bönek
-	
-	#placeholder
+	dynasty = 1045109
 	religion="tengri_pagan"
 	culture="cuman"
 	1170.1.1={
-		birth="1170.1.1"
+		birth=yes
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+194445 = {
+	name="Atrak"
+	dynasty = 1045109
+	religion="tengri_pagan"
+	culture="cuman"
+	father = 34949
+	1190.1.1={
+		birth=yes
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+194446 = {
+	name="Ayten"
+	dynasty = 1045109
+	female = yes
+	religion="tengri_pagan"
+	culture="cuman"
+	father = 34949
+	1195.1.1={
+		birth=yes
 	}
 	1227.1.1={
 		death="1227.1.1"
@@ -2165,7 +2341,7 @@
 
 34958 = {
 	name="°£ÅÁ¿Ë" #Aepak
-	#placeholder
+	dynasty = 1045106
 	religion="tengri_pagan"
 	culture="cuman"
 	1170.1.1={
@@ -2175,14 +2351,67 @@
 		death="1227.1.1"
 	}
 }
+194439 = {
+	name="Kutan"
+	dynasty = 1045106
+	religion="tengri_pagan"
+	culture="cuman"
+	father = 34958
+	1195.1.1={
+		birth=yes
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+194440 = {
+	name="Sati"
+	dynasty = 1045106
+	female=yes
+	religion="tengri_pagan"
+	culture="cuman"
+	father = 34958
+	1200.1.1={
+		birth=yes
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
 
 34963 = {
 	name="Îý¶ûìø" #Sirçan
-	#placeholder
+	dynasty = 1045110
 	religion="tengri_pagan"
 	culture="cuman"
-	1040.1.1={
-		birth="1040.1.1"
+	1030.1.1={
+		birth=yes
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+194447 = {
+	name="Uzur"
+	dynasty = 1045110
+	religion="tengri_pagan"
+	culture="cuman"
+	father = 34963
+	1050.1.1={
+		birth=yes
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+	name="Peksen"
+	dynasty = 1045110
+	female = yes
+	religion="tengri_pagan"
+	culture="cuman"
+	father = 34963
+	1052.1.1={
+		birth=yes
 	}
 	1095.1.1={
 		death="1095.1.1"
@@ -2480,10 +2709,38 @@
 		death="1110.1.1"
 	}
 }
+194426 = {
+	name="Gzi"
+	dynasty=1051133
+	religion="tengri_pagan"
+	culture="cuman"
+	father=161730
+	1048.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+194427 = {
+	name="Esin"
+	female=yes
+	dynasty=1051133
+	religion="tengri_pagan"
+	culture="cuman"
+	father=161730
+	1050.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
 
 161731 = {
 	name="°¢ÌØÀ­¿Ë" #Atrak
 	#placeholder
+	dynasty=1051133
 	religion="tengri_pagan"
 	culture="cuman"
 	father=161730
@@ -2498,6 +2755,7 @@
 161732 = {
 	name="Ë÷¿¨ÀÕ" #Sokal
 	#placeholder
+	dynasty=1051133
 	religion="tengri_pagan"
 	culture="cuman"
 	father=161731
@@ -2512,6 +2770,7 @@
 161733 = {
 	name="°£ÅÁ¿Ë" #Aepak
 	#placeholder
+	dynasty=1051133
 	religion="tengri_pagan"
 	culture="cuman"
 	father=161732
@@ -2526,10 +2785,11 @@
 161734 = {
 	name="¿âµ¤" #Kutan
 	#placeholder
+	dynasty=1051133
 	religion="tengri_pagan"
 	culture="cuman"
 	father=161733
-	1170.1.1={
+	1160.1.1={
 		birth=yes
 	}
 	1220.1.1={
@@ -2540,14 +2800,27 @@
 
 161735 = {
 	name="¿ÆÔó¶û" #Kozel
-	#placeholder
+	dynasty=1051133
 	religion="tengri_pagan"
 	culture="cuman"
 	father=161734
-	1190.1.1={
+	1180.1.1={
 		birth=yes
 	}
 	1230.1.1={
+		death="1230.1.1"
+	}
+}
+194408 = {
+	name="Tugor"
+	dynasty=1051133
+	religion="tengri_pagan"
+	culture="cuman"
+	father=161735
+	1209.1.1={
+		birth=yes
+	}
+	1250.1.1={
 		death="1230.1.1"
 	}
 }
@@ -2602,11 +2875,10 @@
 			spawn_unit = {
 				province = 895 # Oral
 				owner = ROOT
-				leader = ROOT
+				#leader = ROOT
 				troops = {
-					light_infantry = { 176 176 }
-					heavy_infantry = { 23 23 }
-					archers = { 44 44 }
+					light_cavalry = { 76 76 }
+					horse_archers = { 35 35 }
 				}
 				attrition = 0.5
 			}
@@ -2626,11 +2898,10 @@
 				spawn_unit = {
 					province = 895 # Oral
 					owner = ROOT
-					leader = THIS
+					#leader = ROOT
 					troops = {
-						light_infantry = { 176 176 }
-						heavy_infantry = { 23 23 }
-						archers = { 44 44 }
+						light_cavalry = { 76 76 }
+						horse_archers = { 35 35 }
 					}
 					attrition = 0.5
 				}
@@ -2651,11 +2922,10 @@
 				spawn_unit = {
 					province = 895 # Oral
 					owner = ROOT
-					leader = THIS
+					#leader = ROOT
 					troops = {
-						light_infantry = { 176 176 }
-						heavy_infantry = { 23 23 }
-						archers = { 44 44 }
+						light_cavalry = { 76 76 }
+						horse_archers = { 35 35 }
 					}
 					attrition = 0.5
 				}
@@ -2827,6 +3097,33 @@
 		death="873.1.1"
 	}
 }
+194374 = {
+	name="Sugr"	# fictional
+	dynasty=1042048
+	religion="tengri_pagan"
+	culture="cuman"
+	father=180273
+	843.1.19={
+		birth=yes
+	}
+	883.1.1={
+		death=yes
+	}
+}
+194375 = {
+	name="Songul"	# fictional
+	female=yes
+	dynasty=1042048
+	religion="tengri_pagan"
+	culture="cuman"
+	father=180273
+	845.1.19={
+		birth=yes
+	}
+	893.1.1={
+		death=yes
+	}
+}
 188779 = {
 	name="Í×¶ûÍÑ¹Å¶û" #Törtogul # fictional
 	dynasty=852 # Kimak
@@ -2887,7 +3184,35 @@
 	dynasty=1042045
 	religion="tengri_pagan"
 	culture="cuman"
+	723.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+
+194349 = {
+	name="Koza" # fictional
+	dynasty=1042045
+	father = 188798
+	religion="tengri_pagan"
+	culture="cuman"
 	743.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+194358 = {
+	name="Irge" # fictional
+	female = yes
+	dynasty=1042045
+	father = 188798
+	religion="tengri_pagan"
+	culture="cuman"
+	747.1.1={
 		birth=yes
 	}
 	800.1.1={
@@ -2922,6 +3247,47 @@
 	}
 }
 
+194350 = {
+	name="Saru" # fictional
+	dynasty=1042195
+	father = 188800
+	religion="tengri_pagan"
+	culture="cuman"
+	755.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+194359 = {
+	name="Tura" # fictional
+	dynasty=1042195
+	father = 188800
+	religion="tengri_pagan"
+	culture="cuman"
+	750.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+194360 = {
+	name="Sibel" # fictional
+	female = yes
+	dynasty=1042195
+	father = 188800
+	religion="tengri_pagan"
+	culture="cuman"
+	752.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+
 188816 = {
 	name="¸ñ×È" #Gzi # fictional
 	dynasty=1042197
@@ -2934,9 +3300,6 @@
 		death=yes
 	}
 }
-
-
-
 194189 = {
 	name="Kutan"
 	dynasty=698 # Terteroba
@@ -3016,7 +3379,7 @@
 	}
 }
 194209 = {
-	name = "Bönek"
+	name = "B?nek"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3108,7 +3471,7 @@
 	}
 }
 194215 = {
-	name = "Çilbu"
+	name = "?ilbu"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman

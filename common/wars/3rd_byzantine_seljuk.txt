@@ -1,0 +1,19 @@
+name = "Seljuk Invasion of Armenia"
+
+casus_belli = {
+	actor = 3040
+	recipient = 1734
+	casus_belli=tribal_invasion
+	landed_title=k_armenia
+	date=1068.1.1
+}
+
+1068.1.1 = {
+	add_attacker = 3040
+	add_defender = 1734
+}
+
+1071.8.26 = {
+	rem_attacker = 3040
+	rem_defender = 1734
+}

@@ -6830,15 +6830,15 @@
 	stewardship=6
 	religion="catholic"
 	culture="english"
-	trait="chaste"
-	trait="fortune_builder"
+	add_trait="chaste"
+	add_trait="fortune_builder"
 	father=454600
 	mother=454601
-	1313.1.1 = {
-		birth="1313.1.1"
+	1300.1.1 = {
+		birth=yes
 	}
-	1363.1.1 = {
-		death="1363.1.1"
+	1365.8.24 = {
+		death=yes
 	}
 }
 

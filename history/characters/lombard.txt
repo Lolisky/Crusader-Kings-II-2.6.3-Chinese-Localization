@@ -254,7 +254,7 @@
 	culture="lombard"
 	father=190135
 	mother=190137
-	669.1.1={
+	669.1.2={
 		birth=yes
 	}
 	655.1.1={
@@ -274,7 +274,7 @@
 	670.1.1={
 		birth=yes
 	}
-	695.1.1={
+	686.1.1={
 		add_spouse=190140
 	}
 	706.1.1={
@@ -287,7 +287,7 @@
 	dynasty=1044036 #Lampertingi
 	religion="catholic"
 	culture="lombard"
-	670.1.1={
+	669.1.1={
 		birth=yes
 	}
 	712.1.1={
@@ -301,7 +301,7 @@
 	culture="lombard"
 	father=190139
 	mother=190140
-	686.1.1={
+	686.1.2={
 		birth=yes
 	}
 	702.1.1={
@@ -1217,7 +1217,7 @@
 	dynasty=1044046 #Bavarae
 	religion="catholic"
 	culture="lombard"
-	father=190184 #Alipert II of Lombardy
+	father=190184 #Aripert II of Lombardy
 	700.1.1={
 		birth=yes
 	}
@@ -1425,6 +1425,8 @@
 190347 = {
 	name="德西德琉斯" #德西德琉斯, King of Lombards - Daufer
 	dynasty=1044053 #Alachislings
+	dna = aldccxlhgaf
+	properties = ai0afa000000
 
 	father=190346
 
@@ -1642,7 +1644,7 @@
 	religion="catholic"
 	culture="lombard"
 	father=190269
-	743.1.1={
+	756.1.1={ #postponed from 743
 		birth=yes
 	}
 	802.1.1={
@@ -2387,7 +2389,7 @@
 }
 190330 = {
 	name="利乌特普兰德" #duke of Susa
-	dynasty=1044084 
+	dynasty=1044084 #Liutprandingi
 	religion="catholic"
 	culture="lombard"
 	740.1.1={
@@ -3185,6 +3187,8 @@
 163075={
 	name="兰多尔夫"
 	dynasty=7184
+	
+	father=190332
 
 	religion=catholic
 	culture=lombard
@@ -3263,7 +3267,7 @@
 	religion=catholic
 	culture=lombard
 
-	801.1.1={
+	825.1.1={
 		birth=yes
 	}
 	879.1.1={
@@ -5223,6 +5227,7 @@
 		death=yes
 	}
 }
+
 200298={
 	name=盖伊马尔
 	dynasty=1022178
@@ -5640,7 +5645,7 @@
 	religion=catholic
 	culture=lombard
 
-	1035.1.1={
+	1033.1.1={
 		birth=yes
 	}	
 	1088.1.1={
@@ -5657,7 +5662,7 @@
 	religion=catholic
 	culture=lombard
 
-	1038.1.1={
+	1050.1.1={
 		birth=yes
 	}	
 	1090.1.1={
@@ -6120,9 +6125,9 @@
 	1043.1.1={
 		birth=yes
 	}	
-	1075.1.1={
-		add_spouse=200732
-	}
+#	1075.1.1={
+#		add_spouse=200732   # doesn't exist
+#	}
 	1119.1.1={
 		death=yes
 	}

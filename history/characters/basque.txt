@@ -199,10 +199,6 @@
 106018 = {
 	name="桑乔"
 	dynasty=277
-	martial=4
-	diplomacy=8
-	intrigue=8
-	stewardship=7
 	religion="catholic"
 	culture="basque"
 	trait="lustful"
@@ -210,19 +206,16 @@
 	trait="flamboyant_schemer"
 	father=106010
 	1035.1.1 = {
-		birth="1035.1.1"
+		birth=yes
 	}
-	1054.1.1 = {
-		add_spouse=106019
-	}
-	1057.12.7 = {
+	1052.1.1 = {
 		add_spouse=106019
 	}
 	1066.1.1 = {
 		employer=106011
 	}
 	1074.11.29 = {
-		death="1074.11.29"
+		death=yes
 	}
 }
 
@@ -548,10 +541,12 @@
 	culture="basque"
 	trait="diligent"
 	trait="tough_soldier"
+	trait="strong"
+	trait="brawny"
 	father=206500
 	mother=207502
 	1170.1.1={
-		birth="1170.1.1"
+		birth=yes
 	}
 	1194.6.27={
 		give_nickname = nick_the_strong
@@ -561,6 +556,14 @@
 	}
 	1200.1.1={
 		remove_spouse=127003
+	}
+	1217.1.1={
+		trait="sympathy_judaism"
+		trait="just"
+		trait="scholar"
+	}
+	1218.1.1={
+		trait = gout
 	}
 	1234.4.7={
 		death="1234.4.7"
@@ -608,7 +611,7 @@
 	1148.1.1 = {
 		birth="1148.1.1"
 	}
-	#1166 maried Gaston V de B閍rn
+	#1166 maried Gaston V de Béarn
 	1176.3.7 = {
 		death="1176.3.7"
 	}
@@ -2068,11 +2071,11 @@
 	culture="basque"
 	father=71410
 	mother=71411
-	1208.1.1 = {
-		birth="1208.1.1"
+	1210.1.1 = {
+		birth=yes
 	}
 	1235.1.1 = {
-		death="1235.1.1"
+		death=yes
 	}
 }
 
@@ -6866,17 +6869,14 @@
 70269={
 	name="厄拉蒙"
 	dynasty=10024
-
-	father=70271
-	mother=70273
-
 	religion=catholic
 	culture=basque
-
+	father=70271
+	mother=70273
 	921.1.1={
 		birth=yes
 	}
-	948.1.1={
+	943.1.1={
 		add_spouse=54000
 	}
 	970.1.1={
@@ -7237,14 +7237,11 @@
 200159={
 	name="加西亚" #Gartzia
 	dynasty=1046010
-
-	father=200158
-	mother=200060
-
 	religion=catholic
 	culture=basque
-
-	765.1.1={
+	father=200158
+	mother=200060
+	772.1.1={
 		birth=yes
 	}
 	816.1.1={

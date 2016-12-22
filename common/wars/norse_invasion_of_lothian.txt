@@ -1,0 +1,21 @@
+name = "The Sons of Lodbrok Invasion of Lothian"
+
+casus_belli = {
+	actor = 163111 # Ivar the Boneless
+	recipient = 163103 # Aella of Northumberland
+	casus_belli=viking_invasion
+	landed_title=k_scotland
+	date=865.1.1
+}
+
+865.1.1 = {
+	add_attacker = 163111 # Ivar the Boneless
+	add_attacker = 163110 # Sigurdr Snake-in-the-eye
+	add_defender = 163103
+}
+
+867.3.21 = {
+	rem_attacker = 163110
+	rem_attacker = 163111
+	rem_defender = 163103
+}

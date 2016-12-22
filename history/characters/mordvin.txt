@@ -318,6 +318,24 @@
 	}
 }
 
+228071 = {
+	name="ÒÁ¹şÀ­"
+	dynasty=1053006
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=8
+	religion="finnish_pagan"
+	culture=mordvin
+	trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
 160114 = {
 	name="ÊæµÏ¶û-ÈøÃ×Æõ" #Shudyr-Samych
 	religion="finnish_pagan"

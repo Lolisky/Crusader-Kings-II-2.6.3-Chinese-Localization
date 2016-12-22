@@ -230,259 +230,259 @@
 
 125501 = {
 	name="ÌúÄ¾Õæ"
-	# AKA: Genghis Khan
-	dynasty=11100
-	dna="bfimkolbecc"
-	properties="ge0af0000000"
-	martial=10
-	diplomacy=8
-	intrigue=8
-	stewardship=9
-	religion="tengri_pagan"
-	culture="mongol"
-	add_trait="brave"
-	add_trait="ambitious"
-	add_trait="diligent"
-	add_trait="cruel"
-	add_trait="hunter"
-	add_trait="cavalry_leader"
-	add_trait="brilliant_strategist"
-	add_trait="sympathy_christendom"
-	add_trait="sympathy_islam"
-	add_trait="sympathy_zoroastrianism"
-	add_trait="sympathy_judaism"
-	add_trait="sympathy_indian"
-	father=93055
-	mother=172003
-	1162.1.1={
-	  birth=yes
-	  effect = {
-		 set_character_flag = is_temujin
-		 set_global_flag = temujin_born
-	  }
-	}
-	1172.1.1={
-	  effect = {add_friend = 166796 } #Becomes blood brothers with Jamukha
-	  effect = {add_friend = 166890} #Wang Khan gives patronage to Temüjin
-	  effect = {add_friend = 166894} #Jakha Khambu befriends Temüjin
-	}
-	1178.1.1={
-	  add_spouse=172004
-	}
-	1180.1.1={
-	  effect = {add_rival = 166906} #Chilger Bökh abducts Börte
-	  remove_spouse=172004
-	}
-	1181.1.1={
-	  add_spouse=172004
-	  effect={add_consort=166864}
-	  effect={add_lover=166864}
-	}#recaptures ØÃ¶ùÌû and marries Khulan Khatun
-	1201.1.1={
-	  effect = {remove_friend = 166796 }
-	  effect = {add_rival = 166796 } #Becomes rivals with Jamukha
-	  effect = {add_rival = 166890 } #Becomes rivals with Wang Khan
-	}
-	1202.1.1={
-	  effect={add_consort=166869}
-	  effect={add_consort=166870}
-	}# Conquers the Tatars
-	1206.1.1 = {
-	  effect = {
-		 set_special_character_title = GENGHIS_KHAN
-		 set_global_flag = mongol_horde_united
-		 add_character_modifier = { modifier = greatest_of_khans duration = -1 }
-	  }
-	}
-	1220.2.1 = {
-	  effect = {
-		 wealth = 200
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 34852
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 125502
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 93062
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 34850
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 172005
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 125520
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 125501
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 34851
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 172002
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 172000
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 93100
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-		 spawn_unit = {
-			province = 904 #Balkh
-			owner = ROOT
-			#leader = 93103
-			troops =
-			{
-			  horse_archers = { 2200 2300 }
-			  light_cavalry = { 1366 1366 }
-			  light_infantry = { 455 455 }
-			  heavy_infantry = { 177 177 }
-			  knights = { 40 40 }
-			}
-		 }
-	  }
-	}
-	1227.12.2={
-	  death=yes
-	}
+   # AKA: Genghis Khan
+   dynasty=11100
+   dna="bfimkolbecc"
+   properties="ge0af0000000"
+   martial=10
+   diplomacy=8
+   intrigue=8
+   stewardship=9
+   religion="tengri_pagan"
+   culture="mongol"
+   add_trait="brave"
+   add_trait="ambitious"
+   add_trait="diligent"
+   add_trait="cruel"
+   add_trait="hunter"
+   add_trait="cavalry_leader"
+   add_trait="brilliant_strategist"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_indian"
+   father=93055
+   mother=172003
+   1162.1.1={
+     birth=yes
+     effect = {
+       set_character_flag = is_temujin
+       set_global_flag = temujin_born
+     }
+   }
+   1172.1.1={
+     effect = {add_friend = 166796 } #Becomes blood brothers with Jamukha
+     effect = {add_friend = 166890} #Wang Khan gives patronage to Tem¨¹jin
+     effect = {add_friend = 166894} #Jakha Khambu befriends Tem¨¹jin
+   }
+   1178.1.1={
+     add_spouse=172004
+   }
+   1180.1.1={
+     effect = {add_rival = 166906} #Chilger B?kh abducts B?rte
+     remove_spouse=172004
+   }
+   1181.1.1={
+     add_spouse=172004
+     effect={add_consort=166864}
+     effect={add_lover=166864}
+   }#recaptures B?rte and marries Khulan Khatun
+   1201.1.1={
+     effect = {remove_friend = 166796 }
+     effect = {add_rival = 166796 } #Becomes rivals with Jamukha
+     effect = {add_rival = 166890 } #Becomes rivals with Wang Khan
+   }
+   1202.1.1={
+     effect={add_consort=166869}
+     effect={add_consort=166870}
+   }# Conquers the Tatars
+   1206.1.1 = {
+     effect = {
+       set_special_character_title = GENGHIS_KHAN
+       set_global_flag = mongol_horde_united
+       add_character_modifier = { modifier = greatest_of_khans duration = -1 }
+     }
+   }
+   1220.2.1 = {
+     effect = {
+       wealth = 200
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 34852
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 125502
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 93062
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 34850
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 172005
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 125520
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 125501
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 34851
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 172002
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 172000
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 93100
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 93103
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+     }
+   }
+   1227.12.2={
+     death=yes
+   }
 }
 
 125502 = {
-	name="Êõ³à"
-	dynasty=11100
-	religion="tengri_pagan"
-	culture="mongol"
-	father=125501
-	mother=172004
-	add_trait="skilled_tactician"
-	add_trait="hunter"
-	add_trait="kind"
-	add_trait="patient"
-	1181.1.1={
-	  birth=yes
-	}
-	1198.1.1={
-	  effect = {add_rival = 93062 } #Becomes rivals with Chagatai
-	}
-	1201.1.1={
-	  add_spouse = 166896
-	}
-	1227.2.1={
-	  death=yes
-	}
+   name="Êõ³à"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125501
+   mother=172004
+   add_trait="skilled_tactician"
+   add_trait="hunter"
+   add_trait="kind"
+   add_trait="patient"
+   1181.1.1={
+     birth=yes
+   }
+   1198.1.1={
+     effect = {add_rival = 93062 } #Becomes rivals with Chagatai
+   }
+   1201.1.1={
+     add_spouse = 166896
+   }
+   1227.2.1={
+     death=yes
+   }
 }
 
 125503 = {

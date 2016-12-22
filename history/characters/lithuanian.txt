@@ -361,7 +361,7 @@
 	religion="baltic_pagan"
 	culture="lithuanian"
 	trait="bastard"
-	father=82198 
+	#father=82198 
 	1150.1.1={
 		birth="1150.1.1"
 	}
@@ -1943,11 +1943,11 @@
 	culture="lithuanian"
 	father=82194 #Liubartas son of Skirmantas
 #	mother=82197
-	1111.1.1={
-		birth="1151.1.1"
+	1151.1.1={
+		birth="yes"
 	}
-	1188.1.1={
-		death="1238.1.1"
+	1238.1.1={
+		death="yes"
 	}
 
 
@@ -1981,7 +1981,7 @@
 	dynasty=9116
 	religion="baltic_pagan"
 	culture="lithuanian"
-	father=82182 #Šventaragis son of Utenis
+	father=82182 #?ventaragis son of Utenis
 	mother=82201
 	1065.1.1={
 		birth="1065.1.1"
@@ -2034,7 +2034,7 @@
 	dynasty=9116
 	religion="baltic_pagan"
 	culture="lithuanian"
-	father=82200 #Skirmkantas son of Šventaragis
+	father=82200 #Skirmkantas son of ?ventaragis
 	mother=82202
 	1090.1.1={
 		birth="1090.1.1"
@@ -2051,7 +2051,7 @@
 	dynasty=9116
 	religion="baltic_pagan"
 	culture="lithuanian"
-	father=82200 #Skirmkantas son of Šventaragis
+	father=82200 #Skirmkantas son of ?ventaragis
 	mother=82202
 	1095.1.1={
 		birth="1095.1.1"

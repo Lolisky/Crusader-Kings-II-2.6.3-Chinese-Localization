@@ -95,8 +95,8 @@
 	culture="dutch"
 	father=368
 	mother=106521
-	1065.1.1={
-		birth="1065.1.1"
+	1065.2.21={
+		birth="1065.2.21"
 	}
 	1092.1.1={
 		add_spouse=293
@@ -6182,7 +6182,9 @@
 	1230.1.1={
 		birth="1230.1.1"
 	}
-	
+	1258.1.1 = {
+		add_spouse = 30628
+	}
 	1278.1.19={
 		death="1278.1.19"
 	}
@@ -6197,7 +6199,9 @@
 	1232.1.1={
 		birth="1232.1.1"
 	}
-	
+	1258.1.1 = {
+		add_spouse = 34316
+	}
 	1299.9.16={
 		death="1299.9.16"
 	}
@@ -6303,8 +6307,9 @@
 	religion="catholic"
 	culture="dutch"
 	father=33081
-	1246.1.1={
-		birth="1246.1.1"
+	mother = 30628
+	1259.1.1={
+		birth="1259.1.1"
 	}
 	#married Mathilde von Julich
 	1327.8.22={
@@ -6318,8 +6323,8 @@
 	religion="catholic"
 	culture="dutch"
 	father=33081
-	1258.1.1={
-		birth="1258.1.1"
+	1265.1.1={
+		birth="1265.1.1"
 	}
 	
 	1311.1.1={
@@ -6334,8 +6339,8 @@
 	religion="catholic"
 	culture="dutch"
 	father=33081
-	1260.1.1={
-		birth="1260.1.1"
+	1267.1.1={
+		birth="1267.1.1"
 	}
 	
 	1310.1.1={
@@ -6409,7 +6414,7 @@
 	religion="catholic"
 	culture="dutch"
 	father=33099
-	mother=16550
+	mother=168550
 	1105.1.1={
 		birth="1105.1.1"
 	}
@@ -8033,14 +8038,12 @@
 		birth="839.1.1"
 	}
 	854.1.1={
-		
 		employer = 144998 # Lothair II of Burgundy
-	}
+	}	
 	890.1.1={
 		death="890.1.1"
 	}
 }
-
 
 
 168623 = {
@@ -8106,6 +8109,19 @@
 		birth=yes
 	}
 	888.1.1={
+		death=yes
+	}
+}
+
+188891 = {
+	name="Robert"
+	dynasty=101600 # Comyn
+	religion="catholic"
+	culture="dutch"
+	1028.1.1={
+		birth=yes
+	}
+	1069.1.28={
 		death=yes
 	}
 }

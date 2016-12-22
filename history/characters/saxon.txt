@@ -1300,26 +1300,6 @@
 	}
 }
 
-5684 = {
-	name="爱德雷德"
-	dynasty=100073
-	martial=8
-	diplomacy=6
-	intrigue=4
-	stewardship=8
-	religion="catholic"
-	culture="saxon"
-	trait="lustful"
-	trait="temperate"
-	trait="fortune_builder"
-	1002.1.2={
-		birth="1002.1.2"
-	}
-	1052.1.2={
-		death="1052.1.2"
-	}
-}
-
 6890 = {
 	name=埃克格温 # Fantasy
 	female=yes
@@ -4348,12 +4328,12 @@
 	dynasty=1047006
 	religion="norse_pagan"
 	culture="saxon"
-	father=205145
-	570.1.1={
-		birth="570.1.1"
+	father=205144
+	555.1.1={
+		birth=yes
 	}
 	611.1.1={
-		death="611.1.1"
+		death=yes
 	}
 }
 205147 = {
@@ -4378,8 +4358,8 @@
 	595.1.1={
 		birth="595.1.1"
 	}
-	648.1.1={
-		death="648.1.1"
+	674.1.1={
+		death=yes
 	}
 }
 205149 = {
@@ -4857,10 +4837,10 @@
 	culture="saxon"
 	father=205183
 	690.1.1={
-		birth="690.1.1"
+		birth=yes
 	}
-	740.1.1={
-		death="740.1.1"
+	756.1.1={
+		death=yes
 	}
 }
 205186 = {
@@ -4895,7 +4875,7 @@
 	religion="catholic"
 	culture="saxon"
 	father=205187
-	father=205191
+	mother=205191
 	730.1.1={
 		birth="730.1.1"
 	}
@@ -5338,10 +5318,10 @@
 	culture="saxon"
 	father=194096
 	550.1.1={
-		birth="550.1.1"
+		birth=yes
 	}
-	615.1.1={
-		death="615.1.1"
+	616.1.1={
+		death=yes
 	}
 }
 194098 = {
@@ -5351,10 +5331,10 @@
 	culture="saxon"
 	father=194097
 	570.1.1={
-		birth="570.1.1"
+		birth=yes
 	}
-	616.1.1={
-		death="616.1.1"
+	617.1.1={
+		death=yes
 	}
 }
 194099 = {
@@ -5362,12 +5342,12 @@
 	dynasty=1047012
 	religion="norse_pagan"
 	culture="saxon"
-	father=194098
+	father=194097
 	575.1.1={
-		birth="575.1.1"
+		birth=yes
 	}
-	616.1.1={
-		death="616.1.1"
+	617.1.1={
+		death=yes
 	}
 }
 194100 = {
@@ -5376,11 +5356,11 @@
 	religion="norse_pagan"
 	culture="saxon"
 	father=194099
-	600.1.1={
-		birth="600.1.1"
+	592.1.1={
+		birth=yes
 	}
 	653.1.1={
-		death="653.1.1"
+		death=yes
 	}
 }
 194101 = {
@@ -5388,12 +5368,13 @@
 	dynasty=1047012
 	religion="catholic"
 	culture="saxon"
-	father=194100
-	605.1.1={
-		birth="605.1.1"
+	father=194100 
+	608.1.1={
+		birth=yes
 	}
 	660.1.1={
-		death="660.1.1"
+		death=yes
+		give_nickname = nick_the_good 
 	}
 }
 194102 = {
@@ -5401,12 +5382,12 @@
 	dynasty=1047012
 	religion="catholic"
 	culture="saxon"
-	father=194101
-	620.1.1={
-		birth="620.1.1"
+	father=194101 # doubtful
+	624.1.1={
+		birth=yes
 	}
 	664.1.1={
-		death="664.1.1"
+		death=yes
 	}
 }
 194103 = {
@@ -5414,12 +5395,12 @@
 	dynasty=1047012
 	religion="norse_pagan"
 	culture="saxon"
-	father=194102
-	630.1.1={
-		birth="630.1.1"
+	father=194102 # actually his cousin
+	640.1.1={
+		birth=yes
 	}
 	683.1.1={
-		death="683.1.1"
+		death=yes
 	}
 }
 205256 = {
@@ -5427,12 +5408,12 @@
 	dynasty=1047012
 	religion="catholic"
 	culture="saxon"
-	father=194102
-	635.1.1={
-		birth="635.1.1"
+	father=194102 # actually his cousin
+	642.1.1={
+		birth=yes
 	}
 	694.1.1={
-		death="694.1.1"
+		death=yes
 	}
 }
 205257 = {
@@ -5830,6 +5811,9 @@
 	590.1.1={
 		birth="590.1.1"
 	}
+	617.1.1 = {
+		add_spouse = 166558
+	}
 	634.1.1={
 		death="634.1.1"
 	}
@@ -6061,7 +6045,7 @@
 	dynasty=1047021
 	religion="catholic"
 	culture="saxon"
-	father=205226
+	father=205225
 	745.1.1={
 		birth="745.1.1"
 	}
@@ -6314,10 +6298,10 @@
 	culture="saxon"
 	father=205245
 	730.1.1={
-		birth="730.1.1"
+		birth=yes
 	}
-	806.1.1={
-		death="806.1.1"
+	810.1.1={
+		death=yes
 	}
 }
 205247 = {
@@ -6533,7 +6517,7 @@
 }
 
 214042 = {
-	name="Bl鎐ca"
+	name="Bl?cca"
 	dynasty=214019
 	religion="norse_pagan"
 	culture="saxon"
@@ -6628,7 +6612,7 @@
 }
 
 188915 = { # Bishop of York
-	name="苩helbert"
+	name="?thelbert"
 	religion="catholic"
 	culture="saxon"
 	learning = 12
@@ -6756,7 +6740,7 @@
 }
 
 214047 = { # Bishop of Selsey
-	name="苩helric"
+	name="?thelric"
 	religion="catholic"
 	culture="saxon"
 	learning = 8

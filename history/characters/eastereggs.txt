@@ -15,7 +15,7 @@
 		birth="1047.1.2"
 	}
 	1066.1.1 = {
-		employer = 20015 #V鋝terbotten!		#20616 om lappland
+		employer = 20015 #V?sterbotten!		#20616 om lappland
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -75,7 +75,7 @@
 		birth="1030.6.2"
 	}
 	1066.1.1={
-		employer = 20015 #Ume濮?
+		employer = 20015 #Ume?§§
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -417,14 +417,50 @@
 	trait = "diligent"
 	trait = "cynical"
 	
-	1050.6.29={
-		birth="1050.6.29"
+	1037.6.29={
+		birth=yes
+	}
+	1066.1.1={
+		employer = 20015
+		add_spouse = 157240
+	}
+	1066.9.16={
+		death=yes
+	}
+}
+
+157240 = {
+	name="艾米莉"
+	dynasty=1031030
+	female = yes
+	
+	religion="norse_pagan"
+	culture="italian"
+	
+	dna="cebaggbdaap"
+	properties="0i0cad"
+	
+	martial = 8
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 3
+	learning = 9
+	
+	trait = "elusive_shadow"
+	trait = "fair"
+	trait = "gregarious"
+	trait = "lustful"
+	trait = "proud"
+	trait = "cynical"
+	
+	1049.8.21={
+		birth=yes
 	}
 	1066.1.1={
 		employer = 20015
 	}
 	1066.9.16={
-		death="1066.9.16"
+		death=yes
 	}
 }
 
@@ -447,7 +483,7 @@
 		birth="1040.6.1"
 	}
 	1066.1.1={
-		employer = 20007 #謑and
+		employer = 20007 #?land
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -567,7 +603,7 @@
 		add_spouse=157201
 	}
 	1066.1.1={
-		employer = 20007 #謑and
+		employer = 20007 #?land
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -620,6 +656,7 @@
 	trait = "cynical"
 	trait = "proud"
 	trait = "stressed"
+	trait = "sun_warrior"
 
 	1034.9.15={
 		birth="1034.9.15"
@@ -696,7 +733,7 @@
 		birth="1046.7.20"
 	}
 	1066.1.1={
-		employer = 157204 #G鰐eborg(ish)
+		employer = 157204 #G?teborg(ish)
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -762,7 +799,7 @@
 		birth="1033.2.7"
 	}
 	1066.1.1={
-		employer = 100530 #謘terg鰐land
+		employer = 100530 #?sterg?tland
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -782,7 +819,7 @@
 		birth="1033.2.7"
 	}
 	1066.1.1={
-		employer = 20006 #舕and
+		employer = 20006 #?land
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -793,7 +830,7 @@
 	name="亨里克"
 	dynasty=862 #Vogelius
 	religion="norse_pagan"
-	culture="swedish"
+	culture="norse"
 	father=157229
 	
 	trait = "lustful"
@@ -805,7 +842,7 @@
 		birth="1033.2.7"
 	}
 	1066.1.1={
-		employer = 168643 #Sk錸e
+		employer = 168643 #Sk?ne
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -820,6 +857,8 @@
 	
 	trait = "cynical"
 	trait = "possessed"
+	
+	disallow_random_traits = yes
 
 	1033.2.7={
 		birth="1033.2.7"
@@ -838,14 +877,17 @@
 	religion="norse_pagan"
 	culture="swedish"
 	
-	trait = "poet"
-	trait = "lustful"
-	trait = "cynical"
-	trait = "ambitious"
+	trait = tough_soldier
+	trait = poet
+	trait = scholar
+	trait = cynical
+	trait = ambitious
+	trait = strategist
 	
 	disallow_random_traits = yes
+
 	1033.2.7={
-		birth="1033.2.7"
+		birth="1033.3.3"
 	}
 	1066.1.1={
 		employer = 100546 #Uppsala
@@ -857,7 +899,7 @@
 
 157223 = {
 	name="卢夫斯"
-	dynasty=1043303863 #Tr鰊de
+	dynasty=1043303 #Tr?nde
 	religion="norse_pagan"
 	culture="norse"
 	
@@ -867,7 +909,7 @@
 		birth="1033.2.7"
 	}
 	1066.1.1={
-		employer = 102531 #Tr鰊delag...
+		employer = 102532 #Nordtr?ndelag...
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -902,7 +944,7 @@
 
 157225 = {
 	name="以西结·布鲁诺"
-	dynasty=866 #Lugma飏
+	dynasty=866 #Lugma?r
 	religion="jewish"
 	culture="swedish"
 	
@@ -918,7 +960,7 @@
 		birth="1033.2.7"
 	}
 	1066.1.1={
-		employer = 20228 #K鰈n
+		employer = 20228 #K?ln
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -927,7 +969,7 @@
 
 157226 = {
 	name="尼克拉斯"
-	dynasty=866 #Tammpere
+	dynasty=867 #Tammpere
 	religion="finnish_pagan"
 	culture="finnish"
 	
@@ -951,7 +993,7 @@
 
 157227 = {
 	name="约拿"
-	dynasty=866 #Harnesk
+	dynasty=868 #Harnesk
 	religion="catholic"
 	culture="swedish"
 	
@@ -969,7 +1011,7 @@
 		birth="1033.2.7"
 	}
 	1066.1.1={
-		employer = 102523 #V鋜mland
+		employer = 102523 #V?rmland
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -992,7 +1034,7 @@
 		birth="1033.2.7"
 	}
 	1066.1.1={
-		employer = 100522 #S鰀ermanland
+		employer = 100522 #S?dermanland
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -1009,7 +1051,7 @@
 		birth="1001.2.7"
 	}
 	1066.1.1={
-		employer = 168643 #Sk錸e
+		employer = 168643 #Sk?ne
 	}
 	1066.1.2={
 		death="1063.9.16"
@@ -1021,16 +1063,21 @@
 	dynasty=870 #Tisander
 	religion="catholic"
 	culture="german"
+	properties = ce0ddd00000
 	
 	trait = "thrifty_clerk"
 	trait = "honest"
 	trait = "diligent"
 	trait = "patient"
 	trait = "greedy"
-	trait = "cruel"
+	trait = "just"
 	trait = "organizer"
 	trait = "twin"
-
+	trait = "administrator"
+	trait = "humble"
+	
+	disallow_random_traits = yes
+	
 	1033.2.7={
 		birth="1033.2.7"
 	}
@@ -1056,6 +1103,7 @@
 	trait = "charitable"
 	trait = "slothful"
 	trait = "trickster"
+	disallow_random_traits = yes
 
 	1033.2.7={
 		birth="1033.2.7"
@@ -1070,48 +1118,484 @@
 
 157232 = {
 	name="卡尔"
-	dynasty=0 # Father to get "Karlsson" for 157308
-	religion="norse_pagan"
-	culture="norse"
-	
-	1007.2.1={
-		birth="1007.2.1"
-	}
-	1066.1.1={
-		employer = 20005 #Dalarna
-	}
-	1066.1.2={
-		death="1063.9.16"
-	}
-}
-
-157233 = {
-	name= "马格努斯"
 	dynasty=872
 	religion="norse_pagan"
 	culture="norse"
-	father = 157232
 	
-	trait = "scholarly_theologian"
-	trait = "lustful"
-	trait = "kind"
-	trait = "patient"
-	trait = "homosexual"
-	trait = "quick"
+	trait = mastermind_theologian
+	trait = homosexual
+	trait = patient
+	trait = quick
+	trait = kind
+	trait = cynical
+	trait = lustful
+	dna="afjgbrcdebk"
+	properties="ae00jd000000"
+	
+	disallow_random_traits = yes
 	
 	1043.5.9={
 		birth="1043.5.9"
 	}
 	1066.1.1={
-		employer = 20005 #Dalarna
+		employer = 100546 #Uppsala
 	}
 	1066.9.16={
 		death="1066.9.16"
 	}
 }
+194335 = {
+	name="Peter"
+	dynasty=875 # Skager
+	religion="buddhist"
+	culture="cuman"
+	dna="cjihinfcbcm"
+	properties="kd0aod000000"
+	
+	diplomacy = 5
+	martial = 9
+	stewardship = 5
+	intrigue = 5
+	learning = 5
 
+	trait = skilled_tactician
+	trait = diligent
+	trait = depressed
+	trait = wounded
+	trait = ambitious
+	trait = trusting
+	trait = gamer
+	trait = patient
+	trait = honest
+	
+	disallow_random_traits = yes
 
+	1043.11.7 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 217185 #Gobi
+		culture = khitan
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
+194336 = {
+	name="Daniel"
+	dynasty=876 # Sj?berg
+	religion="catholic"
+	culture="swedish"
+	dna="cjhcebcdaci"
+	properties="ca0ejd0b000"
+	
+	diplomacy = 5
+	martial = 9
+	stewardship = 5
+	intrigue = 5
+	learning = 5
 
+	trait = fortune_builder
+	trait = schemer
+	trait = cynical
+	trait = ambitious
+	trait = proud
+	trait = wounded
+	
+	disallow_random_traits = yes
+
+	1033.2.7 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 100546 # Uppland
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
+194337 = {
+	name="Olga"
+	dynasty=877 # Koter
+	religion="catholic"
+	culture="polish"
+	dna="aemedoeecch"
+	properties="cb0dgk00000"
+	female=yes
+	
+	diplomacy = 7
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+
+	trait = intricate_webweaver
+	trait = deceitful
+	trait = schemer
+	trait = lustful
+	trait = paranoid
+	
+	disallow_random_traits = yes
+
+	1033.2.7 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 764 # Warsaw
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
+194338 = {
+	name="Anna"
+	dynasty=878 # Jenelius
+	religion="catholic"
+	culture="irish"
+	dna="ddjcfufdfcx"
+	properties="ce0dak00000"
+	female=yes
+	
+	trait = underhanded_rogue
+	trait = poet
+	trait = gamer
+	trait = fair
+	
+	disallow_random_traits = yes
+
+	1033.2.7 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 6120 # Cill Dara
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
+194339 = {
+	name="Eira"
+	dynasty=879 # von Eikenschild
+	religion="catholic"
+	culture="german"
+	female=yes
+	
+	trait = intricate_webweaver
+	trait = hedonist
+	trait = scarred
+	trait = strong
+	trait = wroth
+	trait = proud
+	trait = ambitious
+	trait = cynical
+	
+	disallow_random_traits = yes
+
+	1033.2.7 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 101546 # Bornholm
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
+194340 = {
+	name="Carl"
+	dynasty=880 # von Carenwall
+	religion="catholic"
+	culture="german"
+	
+	trait = tough_soldier
+	trait = lustful
+	trait = cynical
+	trait = hedonist
+	
+	disallow_random_traits = yes
+
+	1033.2.7 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 201530 # Fyn
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
+194341 = {
+	name="Ilya"
+	dynasty=881 # Woewodskij
+	religion="jewish"
+	culture="polish"
+	
+	diplomacy = 7
+	martial = 5
+	stewardship = 6
+	intrigue = 2
+	learning = 9
+
+	trait = tough_soldier
+	trait = ambitious
+	
+	disallow_random_traits = yes
+
+	1033.2.7 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 8400 # Lübeck/Liubice
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
+194342 = {
+	name="Joel"
+	dynasty=882 #Brock
+	religion=norse_pagan
+	culture=norse
+	dna="ajigcweddbz"
+	father=157229
+
+	trait = scholarly_theologian
+	trait = slothful
+	trait = kind
+	trait = patient
+	trait = craven
+	trait = shy
+	trait = content
+ 
+	1040.2.19 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 168643 #Sk?ne
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
+194343 = {
+	name="Alexander"
+	dynasty=873 # Oltner
+	religion="catholic"
+	culture="swedish"
+	dna="chjbjjfegbg"
+	properties="ae0aha00000"
+	
+	diplomacy = 0
+	
+	trait = charismatic_negotiator
+	trait = gamer
+	trait = gluttonous
+	trait = kind
+	trait = patient
+	trait = trusting
+	trait = content
+	trait = honest
+	trait = gregarious
+	trait = cynical
+	
+	disallow_random_traits = yes
+
+	1041.9.15 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 100536 # Visby
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
+194344 = {
+	name="Leonardo"
+	dynasty=874 # Larzone
+	religion="catholic"
+	culture="italian"
+	properties="ed0did0d000"
+	
+	diplomacy = 5
+	martial = 2
+	stewardship = 2
+	intrigue = 1
+	learning = 4
+
+	trait = flamboyant_schemer
+	trait = fair
+	trait = kinslayer
+	trait = seducer
+	trait = schemer
+	trait = hedonist
+	trait = lustful
+	trait = arbitrary
+	trait = gregarious
+	trait = cynical
+	trait = deceitful
+	trait = craven
+	trait = cruel
+	trait = wounded
+	
+	disallow_random_traits = yes
+
+	1033.3.3 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 7757 # Tuscany/Firenze
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
+
+217397 = {
+	name = Victor
+	dynasty = 883
+	religion = finnish_pagan
+	culture = finnish
+	dna = caafgwijgbq
+	properties = ec0chd000000
+	
+	trait = elusive_shadow
+	trait = deceitful
+	trait = cynical
+	trait = patient
+	trait = envious
+	trait = gregarious
+	trait = lustful
+	trait = hedonist
+	trait = fair
+	
+	1041.8.20 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 28004 
+	}
+	1066.9.16 = {
+		death = yes
+	}
+	
+}
+
+217398 = {
+	name = Anna
+	dynasty = 1053017 #Norrevik
+	religion = catholic
+	culture = swedish
+	dna="bhjjhaibgbi"
+	properties="aa0bec000000"
+	female = yes
+	
+	trait = midas_touched
+	trait = honest
+	trait = just
+	trait = patient
+	trait = gregarious
+	trait = stubborn
+	trait = fair
+	
+	1041.8.20 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 20014 
+	}
+	1066.9.16 = {
+		death = yes
+	}
+	
+}
+
+217399 = {
+	name = Markus
+	dynasty = 1053018 #Olsén
+	religion = catholic
+	culture = lappish
+	dna="acigbwbbfcg"
+	properties="ma0ehd00000000"
+	
+	trait = deceitful
+	trait = cynical
+	trait = envious
+	trait = strong
+	trait = lustful
+	trait = intricate_webweaver
+	
+	1034.9.17 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 102575
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
+
+217400 = {
+	name = Milla
+	dynasty = 1053019
+	religion = finnish_pagan
+	culture = finnish
+	dna = "defbgvhcecb"
+	properties = "cj0egk00000000"
+	female = yes
+
+	trait = charismatic_negotiator
+	trait = poet
+	trait = gardener
+	trait = patient
+	trait = shy
+	trait = lustful
+	trait = shrewd
+	trait = brave
+	trait = honest
+	trait = proud
+	trait = scarred
+
+	1041.8.20 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 28618 #Kemi
+	}
+	1066.9.16 = {
+		death = yes
+	}	
+}
+
+217401 = {
+	name = Mathilda
+	dynasty = 1053020 #Bjarnehed
+	religion = catholic
+	culture = swedish
+	dna = ahbeghjfeco
+	properties = ad0bfc00000000
+	female = yes
+
+	trait = scholarly_theologian
+	trait = quick
+	trait = scholar
+	trait = diligent
+	trait = kind
+	trait = wroth
+	trait = trusting
+	trait = erudite
+
+	1042.9.13 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		employer = 100522
+	}
+	1066.9.16 = {
+		death = yes
+	}
+}
 
 # Sword of Islam AAR Winners
 
@@ -1206,7 +1690,7 @@
 		birth="1039.9.23"
 	}
 	1066.1.1={
-		employer = 1416 # G鰐tingen
+		employer = 1416 # G?ttingen
 	}
 	1066.9.16={
 		death="1066.9.16"
@@ -1318,6 +1802,7 @@
 	name = "乌瓦儿"
 	dynasty = 1051126 # of Bebbanburg
 	dna="elmxzqfgfnj"
+	properties="ce0dbd000000"
 	religion = norse_pagan
 	culture = norse
 	
@@ -1350,6 +1835,7 @@
 	name = 奥格斯塔
 	dynasty = 1051127 # Corvina
 	dna="agdearbadat"
+	properties="ci0edk000000"
 	female = yes
 	religion = orthodox
 	culture = italian
@@ -1453,6 +1939,7 @@
 	name = 威廉
 	dynasty = 1051130 # Turnbull
 	dna="bfjcawjdhcy"
+	properties="cb0dfk000000"
 	religion = catholic
 	culture = scottish
 	
@@ -1550,10 +2037,7 @@
 	769.1.2 = {
 		death = yes
 	}
-
-
-
-
+}
 217332 = {
 	name = Mohammed
 	dynasty = 1051146 # Hanaya

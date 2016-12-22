@@ -1,0 +1,28 @@
+name = "Sinhalese Rebellion"
+
+casus_belli = {
+	actor = 189029 # Vijayabahu I
+	recipient = 189042 #Virarajendra 
+	casus_belli=claim_all
+	date=1066.9.10
+}
+
+1066.9.10 = {
+	add_attacker = 189029
+	add_defender = 189042
+}
+
+1069.1.1 = {
+	add_defender = 189043
+	rem_defender = 189042
+}
+
+1070.1.1 = {
+	add_defender = 189108
+	rem_defender = 189043
+}
+
+1070.6.1 = {
+	rem_attacker = 189029
+	rem_defender = 189108
+}

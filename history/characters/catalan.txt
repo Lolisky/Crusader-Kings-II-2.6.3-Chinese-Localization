@@ -2,20 +2,16 @@
 	name="ÒÁÉ¯±´¶û"
 	female = yes
 	dynasty=395
-	martial=8
-	diplomacy=8
-	intrigue=6
-	stewardship=8
 	religion="catholic"
 	culture="catalan"
 	trait="flamboyant_schemer"
 	father=110560
 	mother=110653
-	1051.1.1={
-		birth="1051.1.1"
+	1049.1.1={
+		birth=yes
 	}
 	1071.12.20={
-		death="1071.12.20"
+		death=yes
 	}
 }
 
@@ -37,7 +33,7 @@
 	1023.1.1={
 		birth="1023.1.1"
 	}
-	1039.11.14={
+	1050.11.14={
 		add_spouse=110631
 	}
 	1053.6.29={
@@ -63,8 +59,8 @@
 	trait="skilled_tactician"
 	father=110520
 	mother=110631
-	1045.1.1={
-		birth="1045.1.1"
+	1051.1.1={
+		birth="1051.1.1"
 	}
 	1073.4.22={
 		death="1073.4.22"
@@ -84,6 +80,7 @@
 	trait="charitable"
 	trait="honest"
 	trait="tough_soldier"
+	trait="twin"
 	father=110520
 	mother=325
 	1054.1.1={
@@ -243,10 +240,6 @@
 110550 = {
 	name="°¬Â³Äş¸ñ¶û"
 	dynasty=395
-	martial=5
-	diplomacy=5
-	intrigue=7
-	stewardship=5
 	religion="catholic"
 	culture="catalan"
 	trait="proud"
@@ -254,42 +247,39 @@
 	trait="tough_soldier"
 	father=110560
 	mother=110653
-	1050.1.1={
-		birth="1050.1.1"
+	1048.1.1={
+		birth=yes
 	}
-	1063.6.19={
+	1077.1.1={
 		add_spouse=70189
 	}
 	1079.1.1={
-		add_spouse = 407
+		add_spouse=407
 	}
 	1092.3.28={
-		death="1092.3.28"
+		death=yes
 	}
 }
 
 110560 = {
 	name="°¬Â³Äş¸ñ¶û"
 	dynasty=395
-	martial=6
-	diplomacy=6
-	intrigue=7
-	stewardship=6
 	religion="catholic"
 	culture="catalan"
 	trait="flamboyant_schemer"
 	father=110570
-	1033.1.1={
-		birth="1033.1.1"
+	mother=70188
+	1031.1.1={
+		birth=yes
 	}
-	1049.1.1={
-		add_spouse=6641
-	}
-	1051.1.1={
+	1047.1.1={
 		add_spouse=110653
 	}
-	1056.1.2={
-		add_spouse = 110636
+	1056.1.1={
+		add_spouse=110636
+	}
+	1065.1.1={
+		add_spouse=110514
 	}
 	1065.3.1={
 		death="1065.3.1"
@@ -310,14 +300,14 @@
 	trait="thrifty_clerk"
 	father=110560
 	mother=110636
-	1056.1.1={
-		birth="1056.1.1"
+	1057.1.1={
+		birth=yes
 	}
 	1066.1.1={
 		employer=110550
 	}
 	1107.1.1={
-		death="1107.1.1"
+		death=yes
 	}
 }
 
@@ -1066,10 +1056,6 @@
 110660 = {
 	name="±´¶ûÄÉÌØ"
 	dynasty=10020
-	martial=7
-	diplomacy=5
-	intrigue=7
-	stewardship=5
 	religion="catholic"
 	culture="catalan"
 	trait="humble"
@@ -1077,14 +1063,14 @@
 	trait="indulgent_wastrel"
 	father=70156
 	mother=70157
-	963.1.1={
-		birth="963.1.1"
+	969.1.1={
+		birth=yes
 	}
 	992.1.1={
 		add_spouse=110661
 	}
 	1020.9.26={
-		death="1020.9.26"
+		death=yes
 	}
 }
 
@@ -1209,24 +1195,20 @@
 210501 = {
 	name="ÅåÀ×" #AKA: ÅåÀ× 'el Catòlic'
 	dynasty=100204
-	martial=5
-	diplomacy=5
-	intrigue=6
-	stewardship=6
 	religion="catholic"
 	culture="catalan"
 	trait="zealous"
 	trait="tough_soldier"
 	father=210500
 	mother=207504
-	1174.1.1={
-		birth="1174.1.1"
+	1174.11.1={
+		birth=yes
 	}
 	1204.6.15={
 		add_spouse=205582
 	}
 	1213.9.14={
-		death="1213.9.14"
+		death=yes
 	}
 }
 
@@ -1431,8 +1413,8 @@
 	trait="thrifty_clerk"
 	father=210506
 	mother=210507
-	1160.1.1={
-		birth="1160.1.1"
+	1158.1.1={
+		birth="1158.1.1"
 	}
 	1200.9.1={
 		death="1200.9.1"
@@ -1864,10 +1846,6 @@
 460022 = {
 	name="°¢Â³ÄÃÎÚ"
 	dynasty=10027
-	martial=8
-	diplomacy=7
-	intrigue=6
-	stewardship=7
 	religion="catholic"
 	culture="catalan"
 	trait="wroth"
@@ -1875,11 +1853,11 @@
 	trait="skilled_tactician"
 	father=460020
 	mother=460021
-	1299.1.1={
-		birth="1299.1.1"
+	1300.1.1={
+		birth=yes
 	}
 	1349.1.1={
-		death="1349.1.1"
+		death=yes
 	}
 }
 
@@ -1909,10 +1887,6 @@
 460024 = {
 	name="À­ÃÉ"
 	dynasty=10027
-	martial=7
-	diplomacy=8
-	intrigue=7
-	stewardship=6
 	religion="catholic"
 	culture="catalan"
 	trait="lustful"
@@ -1920,14 +1894,14 @@
 	trait="brilliant_strategist"
 	father=460020
 	mother=460021
-	1295.1.1={
-		birth="1295.1.1"
+	1299.1.1={
+		birth=yes
 	}
 	1322.1.11={
 		add_spouse=460030
 	}
 	1355.1.1={
-		death="1355.1.1"
+		death=yes
 	}
 }
 
@@ -2144,7 +2118,7 @@
 
 460500 = {
 	name="ÅåÀ×" 
-	#AKA: ÅåÀ× 'el Ceremoniós'
+	#AKA: Pere 'el Ceremoni¨®s'
 	dynasty=100204
 	martial=7
 	diplomacy=7
@@ -3201,10 +3175,6 @@
 70160 = {
 	name="¼ª·ò"
 	dynasty=10019
-	martial=6
-	diplomacy=6
-	intrigue=4
-	stewardship=4
 	religion="catholic"
 	culture="catalan"
 	trait="content"
@@ -3212,8 +3182,8 @@
 	trait="tough_soldier"
 	father=70156
 	mother=70157
-	965.1.1={
-		birth="965.1.1"
+	970.1.1={
+		birth=yes
 	}
 	990.1.1={
 		add_spouse=70161
@@ -3222,7 +3192,7 @@
 		add_spouse=70162
 	}
 	1049.7.31={
-		death="1049.7.31"
+		death=yes
 	}
 }
 
@@ -3259,10 +3229,6 @@
 70163 = {
 	name="¼ª·ò"
 	dynasty=10019
-	martial=5
-	diplomacy=7
-	intrigue=3
-	stewardship=6
 	religion="catholic"
 	culture="catalan"
 	trait="cynical"
@@ -3271,7 +3237,7 @@
 	father=70160
 	mother=70161
 	992.1.1={
-		birth="992.1.1"
+		birth=yes
 	}
 	1046.1.1={
 		add_spouse=70164
@@ -4256,14 +4222,14 @@
 	culture="catalan"
 	father=71599
 	mother=72308
-	1124.1.1={
-		birth="1124.1.1"
+	1130.1.1={
+		birth=yes
 	}
 	1149.1.1={
 		add_spouse=72142
 	}
 	1176.1.1={
-		death="1176.1.1"
+		death=yes
 	}
 }
 
@@ -8492,14 +8458,14 @@
 	culture="catalan"
 	father=72186
 	mother=72390
-	1216.1.1={
-		birth="1216.1.1"
+	1217.1.2={
+		birth=yes
 	}
 	1236.1.1={
 		add_spouse=73014
 	}
 	1243.10.1={
-		death="1243.10.1"
+		death=yes
 	}
 }
 

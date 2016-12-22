@@ -1,0 +1,22 @@
+name = "War of the two Eriks"
+
+casus_belli={
+	casus_belli=claim_on_liege_plot
+	actor=100546
+	recipient=100525
+	landed_title=k_sweden
+	date=1066.9.25
+}
+
+# In civil wars defender MUST be added before attacker!
+1066.9.25 = {
+	add_defender = 100525
+	add_attacker = 100546
+	start_war = yes
+}
+
+1067.12.20= {
+	end_war = yes
+	rem_attacker = 100546
+	rem_defender = 100525
+}

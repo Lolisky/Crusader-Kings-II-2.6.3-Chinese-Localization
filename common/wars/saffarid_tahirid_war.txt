@@ -1,0 +1,19 @@
+name = "Saffarid Conquest of Persia"
+
+casus_belli = {
+	actor = 163101
+	recipient = 163100
+	casus_belli=tribal_invasion
+	landed_title=k_persia
+	date=867.1.1
+}
+
+867.1.1 = {
+	add_attacker = 163101
+	add_defender = 163100
+}
+
+873.1.1 = {
+	rem_attacker = 163101
+	rem_defender = 163100
+}

@@ -1,0 +1,19 @@
+name = "Norman Conquest"
+
+casus_belli = {
+	actor = 140
+	recipient = 122
+	casus_belli = invasion
+	landed_title=k_england
+	date=1066.9.10
+}
+
+1066.9.10 = {
+	add_attacker = 140
+	add_defender = 122
+}
+
+1066.10.14 = {
+	rem_attacker = 140
+	rem_defender = 122
+}

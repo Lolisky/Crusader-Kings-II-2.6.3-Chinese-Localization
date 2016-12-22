@@ -1,0 +1,19 @@
+#name = "Rashtrakuta Subjugation of Vengi"
+#
+#casus_belli = {
+#	actor = 74413 # Krishna I Rashtrakuta
+#	recipient = 189082 # Vijayaditya
+#	casus_belli=indian_subjugation
+#	landed_title=d_vengi
+#	date=769.1.1
+#}
+#
+#769.1.1 = {
+#	add_attacker = 74413
+#	add_defender = 189082
+#}
+#
+#770.1.1 = {
+#	rem_attacker = 74413
+#	rem_defender = 189082
+#}

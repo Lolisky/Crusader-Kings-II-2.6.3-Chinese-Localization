@@ -5501,7 +5501,6 @@
 	trait="zealous"
 	trait="skilled_tactician"
 	father=70855
-	
 	1263.1.1 = {
 		birth="1263.1.1"
 	}
@@ -5523,9 +5522,7 @@
 	trait="cynical"
 	trait="clubfooted"
 	trait="tough_soldier"
-	
 	father=478503
-	
 	1291.1.1 = {
 		birth="1291.1.1"
 	}
@@ -43172,7 +43169,7 @@ dynasty=206
 	}
 }
 166624 = {
-	name="Niccolò"
+	name="Niccol?
 	dynasty=1040021
 	religion="catholic"
 	culture="italian"

@@ -1284,6 +1284,7 @@
 	stewardship=7
 	religion="catholic"
 	culture="occitan"
+	trait=fair
 	trait="diligent"
 	trait="just"
 	trait="proud"
@@ -1500,8 +1501,8 @@
 	trait="amateurish_plotter"
 	father=234
 	mother=127017
-	1015.1.1 = {
-		birth="1015.1.1"
+	1012.1.1 = {
+		birth="1012.1.1"
 	}
 	1039.3.10 = {
 		death="1039.3.10"
@@ -2934,7 +2935,7 @@
 		birth="1158.1.1"
 	}
 	1166.1.1 = {
-		name="Raimond-Berengui?
+		name="Raimond-Berengui¨¦"
 		culture=occitan
 	}
 	1181.4.5 = {
@@ -2953,7 +2954,7 @@
 	1200.1.1 = {
 		birth="1200.1.1"
 	}
-	#1220 married Guilhem II de Béarn/Montcada
+	#1220 married Guilhem II de B¨¦arn/Montcada
 	1263.1.1 = {
 		death="1263.1.1"
 	}
@@ -3722,7 +3723,7 @@
 	dynasty=98
 	religion="catholic"
 	culture="occitan"
-	father=205600 #Hélie VI de Périgord
+	father=205600 #H¨¦lie VI de P¨¦rigord
 	1160.1.1 = {
 		birth="1160.1.1" 
 	}
@@ -3739,7 +3740,7 @@
 	dynasty=98
 	religion="catholic"
 	culture="occitan"
-	father=205603 #Hélie VII de Périgord
+	father=205603 #H¨¦lie VII de P¨¦rigord
 	1180.1.1 = {
 		birth="1180.1.1" 
 	}
@@ -3753,7 +3754,7 @@
 	dynasty=98
 	religion="catholic"
 	culture="occitan"
-	father=138058 #Archambaud II de Périgord
+	father=138058 #Archambaud II de P¨¦rigord
 	1210.1.1 = {
 		birth="1210.1.1" 
 	}
@@ -3767,7 +3768,7 @@
 	dynasty=98
 	religion="catholic"
 	culture="occitan"
-	father=138059 #Hélie VIII de Périgord
+	father=138059 #H¨¦lie VIII de P¨¦rigord
 	1230.1.1 = {
 		birth="1230.1.1" 
 	}
@@ -3784,7 +3785,7 @@
 	dynasty=98
 	religion="catholic"
 	culture="occitan"
-	father=138060 #Hélie VIII de Périgord
+	father=138060 #H¨¦lie VIII de P¨¦rigord
 	1258.1.1 = {
 		birth="1258.1.1"
 	}
@@ -6736,7 +6737,7 @@
 		trait=excommunicated
 	}
 	1273.4.2={
-		add_spouse=70911 #Béatrix de Savoie
+		add_spouse=70911 #B¨¦atrix de Savoie
 	}
 	1290.4.26={
 		death=yes
@@ -7882,8 +7883,8 @@
 	dynasty=100219 
 	religion="catholic"
 	culture="occitan"
-	father=32274 #Héraclius de Gévaudan
-	#or father=40256 Etienne I de Gévaudan
+	father=32274 #H¨¦raclius de G¨¦vaudan
+	#or father=40256 Etienne I de G¨¦vaudan
 	890.1.1 = {
 		birth = yes
 	}
