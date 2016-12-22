@@ -3226,9 +3226,9 @@ nick_the_lord_of_realm;the [Root.GetLordLady] of [Root.PrimaryTitle.GetName];[Ro
 nick_twistedbeard; 扭曲的胡子 ;Barbetorte;Krummbart;;Barba torcida;;;;;;;;;x
 nick_the_faceless; 无面者 ;le Sans Visage;der/die Gesichtslose;;el/la Sin rostro;;;;;;;;;x
 nick_the_destroyer; 毁灭者 ;le Destructeur;der/die Zerst鰎er(in);;el/la Destructor;;;;;;;;;x
-nick_the_scourge_of_god;" [nickname_target.Religion.GetHighGodName];le Fl閍u de [nickname_target.Religion.GetHighGodName];die Gei遝l von [nickname_target.Religion.GetHighGodName];;el Azote de [nickname_target.Religion.GetHighGodName];;;;;;;;;x
+nick_the_scourge_of_god; [nickname_target.Religion.GetHighGodName];le Fl閍u de [nickname_target.Religion.GetHighGodName];die Gei遝l von [nickname_target.Religion.GetHighGodName];;el Azote de [nickname_target.Religion.GetHighGodName];;;;;;;;;x
 nick_the_slayer_of_culture;  [nickname_target.Culture.GetName] 的 刽子手;la Faucheuse d'鈓es [nickname_target.Culture.GetName]s;Schl鋍hter der [nickname_target.Culture.GetName];;el/la Mata[nickname_target.Culture.GetName];;;;;;;;;x
-nick_the_terror_of_provincename;"  恐怖的 [nickname_target.GetName];la Terreur de [nickname_target.GetName];Schrecken von [nickname_target.GetName];;el terror de [nickname_target.GetName];;;;;;;;;x
+nick_the_terror_of_provincename; 恐怖的 [nickname_target.GetName];la Terreur de [nickname_target.GetName];Schrecken von [nickname_target.GetName];;el terror de [nickname_target.GetName];;;;;;;;;x
 nick_the_butcher; 屠夫 ;le Boucher;der/die Schlachter(in);;el/la Carnicero/a;;;;;;;;;x
 nick_son_of_evilgod; [This.Religion.GetRandomEvilGodName]   [This.GetSonDaughterCap] ;[This.GetSonDaughterCap] envoy閇This.GetNoneE] par [This.Religion.GetRandomEvilGodName];[From.GetSonDaughterCap] von [From.Religion.GetRandomEvilGodName];;[From.GetSonDaughterCap] de [From.Religion.GetRandomEvilGodName];;;;;;;;;x
 nick_the_cleansing_flame; 净化之火 ;le Feu Purificateur;die l鋟ternde Flamme;;la Llama purificadora;;;;;;;;;x
