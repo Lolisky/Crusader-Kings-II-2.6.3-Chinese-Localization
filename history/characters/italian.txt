@@ -43023,20 +43023,20 @@ dynasty=206
 		death="840.1.1"
 	}
 }
-71456={
-	name="比阿特丽斯"
-	female=yes
-
-	religion=catholic
-	culture=italian
-
-	1224.1.1={
-		birth=yes
-	}
-	1250.1.1={
-		death=yes
-	}
-}
+#71456={
+#	name="比阿特丽斯"
+#	female=yes
+#
+#	religion=catholic
+#	culture=italian
+#
+#	1224.1.1={
+#		birth=yes
+#	}
+#	1250.1.1={
+#		death=yes
+#	}
+#}
 200140={
 	name="马里奥诺"
 	dynasty=8758
