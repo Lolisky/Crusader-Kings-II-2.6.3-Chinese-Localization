@@ -49,13 +49,13 @@
 
 ### 部分文件来自于
 
-* 核动力火锅 [“发挥2.62尝鲜汉化包最大作用的一些技巧”补丁](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72774)
-  * **此包似乎含少量2.3.6的旧版汉化文件，虽然不明显影响游戏，但以防万一，还是作了修订，未来不再持续引用。
+* **核动力火锅** [“发挥2.62尝鲜汉化包最大作用的一些技巧”补丁](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72774)
+  * 此包似乎含少量2.3.6的旧版汉化文件，虽然不明显影响游戏，但以防万一，还是作了修订，未来不再持续引用。
 
-* alanleonhardt [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72770)
+* **alanleonhardt** [家族名dynasties不完全汉化](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72770)
 
-* zlthj520的 [事件汉化补完](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72633)
-  * **基于此包21日的正式版。由于校对篇幅有交叉，未来不再持续引用。**
+* **zlthj520**的 [事件汉化补完](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72633)
+  * 基于此包21日的正式版。由于校对篇幅有交叉，未来不再持续引用。
 
 ### 下列52网友对本项目亦有贡献
 
@@ -66,9 +66,9 @@
 * 在根目录覆盖 [52论坛测试补丁](http://bbs.52pcgame.net/forum.php?mod=viewthread&tid=72131)或[提取版的支持双字节的主程序](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/releases/tag/base)**（必需）**
 
 * 然后覆盖本补丁。
-  * **（测试版）在根目录直接以[master分支](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)覆盖。
+  * **（测试版）在根目录直接以[master分支](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/archive/master.zip)覆盖。**
 
-  * **（稳定版）经简单测试的发布版：**[这里](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/releases/)找个合适版本的Source code (zip)覆盖
+  * **（稳定版）[这里](https://github.com/Lolisky/CK2_2.6.2_CN_Fix/releases/)找个合适版本的Source code (zip)覆盖。**
 
 
 ## 进度更新
@@ -79,24 +79,39 @@
 * 基于原版文件重新校验全部历史领主生卒年
   * 消除男男生子和童贞生子等见于debug log的神迹
   * 发现两组重复的人物，暂未修复
+
+
 ### 12.22
+
 * 修正西域地名汉化
 * 修正蒙古地区草原各部名称为历史名称
+
+
 ### 12.21
+
 * 解除部分领主消失的问题
 * 自动转码以清除汉字乱码，但由于Ansi限制，部分字母以问号显示
+
+
 ### 12.19 
+
 * 部分汉化突厥家族名
 * 部分汉化回鹘历史人名
 * 部分去除乱码
 * 汉化契丹历史人名，调整契丹随机人名
   * 顺手修复P社送给耶律夷列的绿帽。
 * 蒙古角色名、家族名最后的查遗补缺，无参考的人物做了音译。
+
+
 ### 12.18
+
 * 补全了蒙古家族名。无法查实的，取哈萨克斯坦同拼写地名的今译暂代。
   * Telingid暂译为迭列斤，但迭列斤蒙古其实是十八部统称，音近的也里吉斤又已经出现了。怀疑P社又在发明历史。
 * 部分汉化亚美尼亚、阿兰历史领主
+
+
 ### 12.17
+
 * 基于《蒙古秘史》和中文维基补完蒙古历史领主。
   * 史书无载的人物，拉丁转写与历史人物一致的，视为同名。
   * 汉文史书无记载，也无法拟合读音的个别人物，主要是一些阻卜人和P社发明的人物，以同时代音译用字音译。
@@ -106,5 +121,6 @@
   * **多来源不一致或P社“合理想象”的，基本直译。** 如：蒙哥的皇后有四人说（《史集》）和五人说（《元史》），P社一股脑取了并集，直译。汉文典籍记载蒙哥九个儿子留下了名字，英文维基非要写十个，P社写了十一个，蒙哥 Möngke，忽睹都 Qutughtu，忽必烈 Kublai，旭烈兀 Hulagu，阿里不哥 Ariq Böke，拨绰 Bujek，末哥 Mukha，岁哥都 Satukhtai，雪别台 Sabukhtai之外对应不上的俩，取同名音译。脱古思传说是王汗后代，P社钦定她是桑昆之女、王汗孙女，直译。7500行以后P社各种弃疗瞎攀亲（啊，蛮族的武德把北欧的费拉吸入姨内），直译。
 
   * 最后，薛出列Semsochule的两个儿子Ardi Barlas、Ang Goran汉文无载，像土耳其语，应该是已经突厥化了，现在凑合译成阿迪 八剌失、安 固兰，请大佬们指正。
+
 ### 12.16
 * 随便改了几个印度地名小bug。
