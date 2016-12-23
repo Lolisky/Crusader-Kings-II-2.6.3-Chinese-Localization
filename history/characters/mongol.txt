@@ -64,7 +64,7 @@
 	}
 }
 217248 = {
-	name = ĞíËï # fictional
+	name = ĞíÉ÷ # fictional
 	dynasty = 1051120 # Buryat
 	religion = tengri_pagan
 	culture = mongol
@@ -2597,7 +2597,7 @@
 	}
 }
 194413 = {
-	name="¹ş´ï" Khadagh
+	name="¹ş´ï" # Khadagh
 	dynasty = 1045100
 	religion=sunni
 	culture="mongol"
@@ -5073,7 +5073,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 217215 = {
-	name = "Ì©²»»ª" Taibuqa
+	name = "Ì©²»»ª" # Taibuqa
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
@@ -6207,7 +6207,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166840 = {
-	name="Shinchi ²®ÑÕ" #Shinchi Bayan
+	name="ĞÁ³à ²®ÑÕ" #Shinchi Bayan
 	dynasty=7315 # Uriankhai
 	religion="tengri_pagan"
 	culture="mongol"
@@ -6245,7 +6245,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166843 = {
-	name="Ò²¿Í Äã¶Ø" Yehe Nidun
+	name="Ò²¿Í Äã¶Ø" # Yehe Nidun
 	dynasty=1040071 # Quralas
 	religion="tengri_pagan"
 	culture="mongol"
@@ -7912,7 +7912,7 @@ name="¹şØİĞñÁÒØ£" #Qara-Hulegu
 	}
 }
 166949 = {
-	name="ºö¶¼Â³" Qutlugh
+	name="ºö¶¼Â³" # Qutlugh
 	# AKA: Qutlugh, wife of Arghun
 	female = yes
 	dynasty=1040078

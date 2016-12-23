@@ -125,7 +125,7 @@
 	trait="fortune_builder"
 	father=102527
 	mother=100512
-	1023.1.2={
+	1025.1.2={
 		birth=yes
 	}
 	1071.5.24={
@@ -1705,8 +1705,8 @@
 	trait="amateurish_plotter"
 	father=202040
 	mother=202041
-	1135.1.1={
-		birth="1135.1.1"
+	1141.1.1={
+		birth="1141.1.1"
 	}
 	1165.5.5={
 		death="1165.5.5"
@@ -2801,8 +2801,8 @@
 	trait="tough_soldier"
 	father=40610
 	mother=40611
-	1040.1.1={
-		birth="1040.1.1"
+	1042.1.1={
+		birth="1042.1.1"
 	}
 	1090.1.1={
 		death="1090.1.1"
@@ -4262,13 +4262,15 @@
 	culture="norwegian"
 	father=220046
 	1195.1.1={
-		birth="1195.1.1"
+		birth=yes
+	}
+	1263.1.1={
+		add_spouse=188875
 	}
 	1265.1.1={
-		death="1265.1.1"
+		death=yes
 	}
 }
-
 7393 = {
 	name="À­¸ñÄÉ¶û"
 	dynasty=556
@@ -5097,7 +5099,6 @@
 		death="1138.1.1"
 	}
 }
-
 194313 = {
 	name="Arnvid"
 	dynasty=1045068 # av Rogen

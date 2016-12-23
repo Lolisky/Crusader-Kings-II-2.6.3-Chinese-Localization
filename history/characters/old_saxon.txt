@@ -58,7 +58,7 @@
 	culture="old_saxon"
 	father=190458
 	mother=190448
-	791.1.1={
+	802.1.1={
 		birth=yes
 	}
 	856.9.20={
@@ -183,7 +183,7 @@
 	}
 }
 190469 = {
-	name=里希埃特"" #"Richeit" #wife of Liudolf
+	name="里希埃特" #"Richeit" #wife of Liudolf
 	female=yes
 	dynasty=1044106 #Richfriding
 	religion="norse_pagan"
@@ -275,7 +275,7 @@
 	}
 }
 190476 = {
-	name="吉塞拉" #"Gisela"
+	name= "吉塞拉" #Gisela 
 	female=yes
 	dynasty=1044110 #Hessing
 	religion="norse_pagan"

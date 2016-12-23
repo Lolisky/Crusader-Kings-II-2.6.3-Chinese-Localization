@@ -58,8 +58,8 @@
 	910.1.2={
 		birth="910.1.2"
 	}
-	967.1.2={
-		death="967.1.2"
+	995.1.2={
+		death=yes
 	}
 }
 
@@ -1110,7 +1110,6 @@
 	}
 }
 
-
 202972 = {  	
 	name="¿ËÂ³Ë¹"
 	female = yes
@@ -1382,7 +1381,7 @@
 		birth="1145.1.1"
 	}
 	1180.1.2={
-		add_spouse = 203077 #Ingibj?rg no dynasty
+		add_spouse = 203077 #Ingibjorg no dynasty
 	}
 	1195.1.1={
 		death="1195.1.1"
@@ -2799,7 +2798,7 @@
 
 420019 = {  	
 	name="Ô¼º²"
-	dynasty=25046
+	dynasty=3101 # MacDonald
 	martial=5
 	diplomacy=4
 	intrigue=4
@@ -3702,7 +3701,7 @@
 	1290.1.1={
 		birth="1290.1.1"
 	}
-	1308.1.2={
+	1306.1.10={
 		add_spouse=453514
 	}
 	1330.1.1={
@@ -3739,7 +3738,7 @@
 	name="·ÆÅ·ÄÈ"
 	# AKA: Mary Og
 	female = yes
-	dynasty=25046
+	dynasty=3101 # MacDonald
 	martial=6
 	diplomacy=4
 	intrigue=4
@@ -3750,10 +3749,10 @@
 	trait="amateurish_plotter"
 	father=453055
 	1316.1.1={
-		birth="1316.1.1"
+		birth=yes
 	}
 	1366.1.1={
-		death="1366.1.1"
+		death=yes
 	}
 }
 
@@ -3784,7 +3783,7 @@
 453056 = {  	
 	name="Ô¼º²"
 	# AKA: Iain Og
-	dynasty=25046
+	dynasty=3101 # MacDonald
 	martial=5
 	diplomacy=5
 	intrigue=5
@@ -3816,8 +3815,8 @@
 	trait="amateurish_plotter"
 	father=453052
 	mother=453070
-	1319.1.1={
-		birth="1319.1.1"
+	1331.1.1={
+		birth="1331.1.1"
 	}
 	1369.1.1={
 		death="1369.1.1"
@@ -4243,7 +4242,7 @@
 	1274.1.2={
 		birth="1274.1.2"
 	}
-	1295.1.2={
+	1292.1.2={
 		add_spouse=453024
 	}
 	1302.1.2={
@@ -8482,7 +8481,7 @@
 }
 
 6018 = {  	
-	name="¿ÏÄáË¹" #Cináed mac Ailpín
+	name="¿ÏÄáË¹" #Cinsed mac Ailpin
 	dynasty=688
 	martial=7
 	diplomacy=6
@@ -8506,7 +8505,7 @@
 }
 
 6020 = {  	
-	name="°¬¶ûµÏË¹" #Alpín mac Echdach
+	name="°¬¶ûµÏË¹" #Alpin mac Echdach
 	dynasty=9223
 	martial=7
 	diplomacy=6
@@ -8516,7 +8515,7 @@
 	culture="irish"
 	trait="arbitrary"
 	trait="amateurish_plotter"
-	father=83584 #Eochaid mac Áeda
+	father=83584 #Eochaid mac Aeda
 	790.1.2={
 		birth="790.1.2"
 	}
@@ -8525,7 +8524,7 @@
 	}
 	810.1.1={
 		culture="scottish"
-		dynasty=688 #Mac Ailpín
+		dynasty=688 #Mac Ailpin
 	}
 	836.7.1={
 		death="836.7.1"
@@ -8591,7 +8590,7 @@
 }
 
 165002 = {  	
-	name="Âê¶ûÄ·Èð" #Máel Muire ingen Cináeda mac Ailpín, Daughter of Cinaed mac Alpin
+	name="Âê¶ûÄ·Èð" #Msel Muire ingen Cinseda mac Ailpin, Daughter of Cinaed mac Alpin
 	female=yes
 	dynasty=688
 	religion="catholic"
@@ -8605,7 +8604,6 @@
 		death="913.1.1"
 	}
 }
-
 188920 = {
 	name="Archibald" # Gilleasbaig of Menstrie
 	dynasty=3128

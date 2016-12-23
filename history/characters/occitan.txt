@@ -206,11 +206,12 @@
 	trait="underhanded_rogue"
 	father=40202
 	mother=40071
-	1020.1.1 = {
-		birth="1020.1.1"
+	1034.1.1 = {
+		birth="1034.1.1"
 	}
-	1050.6.29 = {
-		death="1050.6.29"
+	#Gets married in 1050 to 110520 Ramon Berenguer 'el Vell'
+	1065.6.29 = {
+		death="1065.6.29"
 	}
 }
 
@@ -240,8 +241,8 @@
 	culture="occitan"
 	father=410
 	mother=403 #Etiennette de Marseille
-	1050.1.1 = {
-		birth="1050.1.1"
+	1051.1.1 = {
+		birth="1051.1.1"
 	}
 	1085.1.1 = {
 		death="1085.1.1"
@@ -424,6 +425,7 @@
 	culture="occitan"
 	father=410
 	mother=403 #Etiennette de Marseille
+	trait = legit_bastard
 	1046.1.1 = {
 		birth="1046.1.1"
 	}
@@ -1721,8 +1723,8 @@
 	trait="charismatic_negotiator"
 	father=238
 	mother=6639
-	1043.1.2 = {
-		birth="1043.1.2"
+	1049.1.2 = {
+		birth="1049.1.2"
 	}
 	1093.1.2 = {
 		death="1093.1.2"
@@ -1743,8 +1745,8 @@
 	trait="cynical"
 	father=234
 	mother=275
-	1023.1.1 = {
-		birth="1023.1.1"
+	1025.1.1 = {
+		birth="1025.1.1"
 	}
 	1058.12.1 = {
 		add_spouse=327
@@ -2385,8 +2387,8 @@
 	trait="tough_soldier"
 	father=40541
 	mother=40542
-	1049.1.2 = {
-		birth="1049.1.2"
+	1054.1.2 = {
+		birth="1054.1.2"
 	}
 	1140.1.1 = {
 		death="1140.1.1"
@@ -2545,8 +2547,8 @@
 	trait="amateurish_plotter"
 	father=404
 	mother=273
-	1000.1.2 = {
-		birth="1000.1.2"
+	1003.1.2 = {
+		birth="1003.1.2"
 	}
 	1030.1.2 = {
 		death="1030.1.2"
@@ -2586,13 +2588,13 @@
 	father=40807
 	mother=71637
 	1140.1.1 = {
-		birth="1140.1.1"
+		birth=yes
 	}
-	1166.1.1 = {
+	1161.11.17 = {
 		add_spouse=221529
 	}
 	1166.1.1 = {
-		death="1166.1.1"
+		death=yes
 	}
 }
 
@@ -2638,6 +2640,7 @@
 	culture="occitan"
 	father=410
 	mother=403 #Etiennette de Marseille
+	trait = legit_bastard
 	1047.1.2 = {
 		birth="1047.1.2"
 	}
@@ -3032,7 +3035,7 @@
 	trait="detached_priest"
 	}
 	1264.10.2 = {
-	name="Clement"
+	name="Clemens"
 	# AKA: Gui
 	}
 	1268.11.29 = {
@@ -3059,7 +3062,7 @@
 		birth="1264.1.1"
 	}
 	1304.7.7 = {
-		name="Clement"
+		name="Clemens"
 	}
 	1309.3.1 = {
 		capital="c_venaissin"
@@ -3477,7 +3480,7 @@
 	1010.1.1 = {
 		birth="1010.1.1"
 	}
-	1036.1.1 = {
+	1033.1.1 = {
 		add_spouse=40071 #Rangearde de la marche
 	}
 	1060.1.1 = {
@@ -3510,7 +3513,8 @@
 	religion="catholic"
 	culture="occitan"
 	father=40070 #Boson I
-	mother=40083 #Emma de Périgord
+	mother=40083 #Emma de P¨¦rigord
+	trait = legit_bastard
 	946.1.1 = {
 		birth="946.1.1"
 	}
@@ -3679,8 +3683,9 @@
 	culture="occitan"
 	father=205601 #Boson IV de Périgord
 	mother=205556 # Brunichilde de Foix
-	1141.1.1 = {
-		birth="1141.1.1"
+	trait = legit_bastard
+	1135.1.1 = {
+		birth=yes
 	}
 	#married Archambaud V de Comborn 205605
 	1185.1.1 = {
@@ -3695,8 +3700,8 @@
 	culture="occitan"
 	father=205601 #Boson IV de Périgord
 	mother=205556 # Brunichilde de Foix
-	1136.1.1 = {
-		birth="1136.1.1" 
+	1141.1.1 = {
+		birth="1141.1.1" 
 	}
 	#1167 Raymonde de Turenne (if 1187 then Helie VII is not his son)
 	1205.1.1 = {
@@ -4715,6 +4720,7 @@
 	culture="occitan"
 	father=205605 #Archambaud V de Comborn 
 	mother=205604 #Jourdaine de Périgord
+	trait = legit_bastard
 	1150.1.1 = {
 		birth="1150.1.1"
 	}
@@ -5726,6 +5732,7 @@
 	culture="frankish"
 	father=40202 #Bernard Aton III Trencavel
 	mother=40071 #Rangearde de la marche
+	trait = legit_bastard
 	1033.1.2 = {
 		birth="1033.1.2"
 	}
@@ -7058,8 +7065,8 @@
 	culture="occitan"
 	father=205564 #Roger de Couserans 
 	mother=205555 #Sybille de Foix
-	1180.1.1 = {
-		birth="1180.1.1"
+	1182.1.1 = {
+		birth="1182.1.1"
 	}
 	1230.1.1 = {
 		death="1230.1.1"
@@ -7706,8 +7713,8 @@
 	trait="flamboyant_schemer"
 	father=205981
 	mother=205990
-	1132.1.1 = {
-		birth="1132.1.1"
+	1136.1.1 = {
+		birth="1136.1.1"
 	}
 	1158.1.1 = {
 		add_spouse=205995
@@ -7778,8 +7785,8 @@
 	trait="flamboyant_schemer"
 	father=205981
 	mother=205990
-	1130.1.1 = {
-		birth="1130.1.1"
+	1136.1.1 = {
+		birth="1136.1.1"
 	}
 	1207.5.13 = {
 		death="1207.5.13"
@@ -7800,8 +7807,8 @@
 	trait="underhanded_rogue"
 	father=205981
 	mother=205990
-	1134.1.1 = {
-		birth="1134.1.1"
+	1137.1.1 = {
+		birth="1137.1.1"
 	}
 	1219.6.19 = {
 		death="1219.6.19"
@@ -7855,6 +7862,7 @@
 	culture="occitan"
 	father=372
 	mother=413
+	trait = legit_bastard
 	960.1.1 = {
 		birth = yes
 	}
@@ -8745,8 +8753,8 @@
 	culture="occitan"
 	father=205581
 	mother=205595
-	1157.1.1={
-		birth="1157.1.1"
+	1158.1.1={
+		birth="1158.1.1"
 	}
 	1174.1.1={
 		add_spouse=215505 #Eudoxie Comnène
@@ -10193,8 +10201,8 @@
 	culture="occitan"
 	father=72440
 	mother=138153
-	1267.1.1={
-		birth="1267.1.1"
+	1273.1.1={
+		birth="1273.1.1"
 	}
 	1338.1.1={
 		death="1338.1.1"
@@ -10592,6 +10600,7 @@
 	trait="flamboyant_schemer"
 	father=40800
 	mother=7922
+	trait = legit_bastard
 	940.1.2 = {
 		birth="940.1.2"
 	}
@@ -11237,9 +11246,9 @@
 	religion="catholic"
 	culture="occitan"
 	father=40130 #Guillaume V d'Auvergne
-	mother=40261 #Philippa de Gévaudan
-	1023.1.1 = {
-		birth="1023.1.1" 
+	mother=40261 #Philippa de G¨¦vaudan
+	1024.1.1 = {
+		birth="1024.1.1" 
 	}
 	#1048 married Archambaud de Bourbon
 	1070.1.1 = {
@@ -11254,6 +11263,7 @@
 	culture="occitan"
 	father=206033 #Guillaume d'Auvergne the Old
 	mother=205716 #Anne de Bachaumont
+	trait = legit_bastard
 	1130.1.1 = {
 		birth="1130.1.1"
 	}
@@ -11448,8 +11458,8 @@
 	culture="occitan"
 	father=7471 #Robert VII d'Auvergne
 	mother=7472 #Blanche de Clermont
-	1303.4.1 = {
-		birth="1303.4.1"
+	1304.4.1 = {
+		birth="1304.4.1"
 	}
 	1325.1.1 = {
 		add_spouse=455822 #Marguerite d'Evreux
@@ -11767,7 +11777,8 @@
 	religion="catholic"
 	culture="occitan"
 	father=212802 #Guigues VI d'Albon
-	mother=7584 #Clémence de Macon
+	mother=7584 #Cl¨¦mence de Macon
+	trait = legit_bastard
 	1115.1.1 = {
 		birth="1115.1.1"
 	}
@@ -12394,6 +12405,7 @@
 	culture="occitan"
 	father=20290 #Artaud IV de Forez
 	mother=10039 #Ida de Beauffremont
+	trait = legit_bastard
 	1060.1.1 = {
 		birth="1060.1.1"
 	}
@@ -12504,8 +12516,8 @@
 	trait="amateurish_plotter"
 	father=234
 	mother=275
-	1020.1.2 = {
-		birth="1020.1.2"
+	1026.1.2 = {
+		birth="1026.1.2"
 	}
 	1070.1.2 = {
 		death="1070.1.2"
@@ -14187,4 +14199,3 @@
 		death=yes
 	}
 }
-

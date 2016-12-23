@@ -233,6 +233,8 @@
 74413 = {
 	name="¿üÊªÄÇ" #Krishna I of Rashtrakuta
 	dynasty=1043003
+	dna = dhcjffdbaaa
+	properties = ag0aea000000
 	religion="hindu"
 	culture="kannada"
 	father=74412
@@ -713,6 +715,8 @@
 74441 = {
 	name="ËÕßã´ÍÆÅÂŞ" #Somesvara I of Western Chalukya
 	dynasty=12319
+	dna = cgciafbbaaw
+	properties = ah00ac000000
 	religion="hindu"
 	culture="kannada"
 	father=74440
@@ -1983,7 +1987,7 @@
 	father=189113
 	mother=74604
 	trait=kshatriya
-	trait=shaivist
+	trait=shaivist_hindu
 
 	1036.1.1={
 		birth=yes

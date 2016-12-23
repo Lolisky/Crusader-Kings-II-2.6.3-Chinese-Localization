@@ -1439,7 +1439,6 @@
 
 213009 = {
 	name="¿¨ÂŞ"
-	dynasty=100321
 	martial=5
 	diplomacy=7
 	intrigue=6
@@ -2467,19 +2466,18 @@
 	religion="catholic"
 	culture="italian"
 	trait="honest"
-	trait="gluttonous"
 	trait="humble"
 	trait="martial_cleric"
 	father=213520
 	mother=213527
-	1150.1.2 = {
-		birth="1150.1.2"
+	1144.1.2 = {
+		birth=yes
 	}
 	1168.1.2 = {
 		add_spouse=223522
 	}
 	1177.1.6 = {
-		death="1177.1.6"
+		death=yes
 	}
 }
 
@@ -2918,8 +2916,8 @@
 	culture="italian"
 	father=7636
 	mother=125732
-	1259.1.1 = {
-		birth="1259.1.1"
+	1260.1.1 = {
+		birth="1260.1.1"
 	}
 	1312.6.2 = {
 		death="1312.6.2"
@@ -2980,8 +2978,8 @@
 	culture="italian"
 	father=7636
 	mother=125732
-	1258.1.1 = {
-		birth="1258.1.1"
+	1260.1.1 = {
+		birth="1260.1.1"
 	}
 	1307.1.1 = {
 		death="1307.1.1"
@@ -3914,8 +3912,8 @@
 	trait="martial_cleric"
 	father=42007
 	mother=42008
-	1040.1.2 = {
-		birth="1040.1.2"
+	1067.1.2 = {
+		birth="1067.1.2"
 	}
 	1090.1.2 = {
 		death="1090.1.2"
@@ -5379,10 +5377,10 @@
 	father = 91353 # Corrado Spinola
 	# Argentina Fieschi, d. of Opizzone Fieeschi and Simona.
 	
-	1260.1.1 = {
-		birth="1260.1.1"
+	1265.1.1 = {
+		birth="1265.1.1"
 	}
-	1385.1.1 = {
+	1285.1.1 = {
 		add_spouse=71188 # Violante di Saluzzo, d. of Tommaso I, marchese di Saluzzo and Aloisia di Ceva
 	}
 	1315.1.1 = {
@@ -6842,8 +6840,8 @@
 	trait="elusive_shadow"
 	father=70669
 	mother=70673
-	1260.1.1 = {
-		birth="1260.1.1"
+	1265.1.1 = {
+		birth="1265.1.1"
 	}
 	1282.1.1 = {
 		add_spouse=70857
@@ -8551,9 +8549,6 @@
 	trait="charismatic_negotiator"
 	1163.1.1 = {
 		birth="1163.1.1"
-	}
-	1200.1.1 = {
-		employer=223597
 	}
 	1223.1.1 = {
 		death="1223.1.1"
@@ -12163,19 +12158,14 @@
 71006 = {
 	name="ÍĞÂíË÷"
 	dynasty=8682
-	martial=8
-	diplomacy=6
-	intrigue=5
-	stewardship=6
+	father=214104
 	religion="catholic"
 	culture="italian"
-	trait="tough_soldier"
-	trait="gregarious"
 	1218.1.1 = {
-		birth="1218.1.1"
+		birth=yes
 	}
 	1273.3.15 = {
-		death="1273.3.15"
+		death=yes
 	}
 }
 
@@ -15533,10 +15523,10 @@
 	culture="italian"
 	father=71164
 	mother=180411
-	1203.1.1={
-		birth="1203.1.1"
+	1208.1.1={
+		birth="1208.1.1"
 	}
-	1219.1.1={
+	1224.1.1={
 		add_spouse=71162
 	}
 	1238.1.1={
@@ -24339,10 +24329,13 @@ dynasty=206
 	name="Âê¸ñÀöËş" 
 	female=yes
 	dynasty=206
+
 	father=33364
 	mother=33367
+
 	religion=catholic
 	culture=italian
+
 	1260.1.1={
 		birth=yes
 	}
@@ -24350,6 +24343,7 @@ dynasty=206
 		death=yes
 	}
 }
+
 462804 = {
 	name="°¢ÀöÏ£ÄÈ"
 	female=yes
@@ -30233,8 +30227,8 @@ dynasty=206
 	father = 91345 # Oberto I Spinola, consul of Genoa
 	# Sybilla della Volta
 	
-	1200.1.1={
-		birth="1200.1.1" # unknown
+	1185.3.5 = {
+		birth = yes # unknown
 	}
 	# spouse Sibilla Zaccaria
 	1260.1.1={
@@ -34323,10 +34317,10 @@ dynasty=206
 	culture="italian"
 	father=182017
 	1240.1.1= {
-		birth="1240.1.1"
+		birth=yes
 	}
 	1301.1.1 = {
-		death="1301.1"
+		death=yes
 	}
 }
 182021 = {
@@ -34920,6 +34914,7 @@ dynasty=206
 	religion="catholic"
 	culture="italian"
 	father=180007
+	mother=180502
 	1071.1.1={
 		birth="1071.1.1"
 	}
@@ -36692,8 +36687,8 @@ dynasty=206
 	culture="italian"
 	father=180144
 	mother=180505
-	1077.1.1={
-		birth="1077.1.1"
+	1080.1.10={
+		birth="1080.1.10"
 	}
 	1125.1.1={
 		death="1125.1.1"
@@ -36707,8 +36702,8 @@ dynasty=206
 	culture="italian"
 	father=180144
 	mother=180505
-	1079.1.1={
-		birth="1079.1.1"
+	1081.1.1={
+		birth="1081.1.1"
 	}
 	1138.1.1={
 		death="1138.1.1"
@@ -37159,7 +37154,8 @@ dynasty=206
 	religion="catholic"
 	culture="italian"
 	father=91353
-	1290.1.1={
+	mother=167545
+	1280.1.1={
 		birth="1290.1.1"
 	}
 	1349.1.1={
@@ -37794,7 +37790,6 @@ dynasty=206
 	}
 }
 
-
 91408 = { # invented characters
 	name="°¢¶Å°²" 
 	dynasty=680
@@ -38188,6 +38183,7 @@ dynasty=206
 	culture="italian"
 		
 	father = 71150 # Emmanuele Doria
+	mother = 71149 # Giorgia de Lacon
 	
 	1210.1.1={
 		birth="1210.1.1"
@@ -39861,8 +39857,6 @@ dynasty=206
 	}
 }
 
-
-
 167699 = {
 	name="ÂêÀöÑÇ"
 	#placeholder
@@ -39879,8 +39873,6 @@ dynasty=206
 		death="1380.1.1"
 	}
 }
-
-
 
 167700 = {
 	name="±ËµÃÂŞ"
@@ -40382,8 +40374,8 @@ dynasty=206
 	dynasty=1042813
 	religion=catholic
 	culture=italian
-	father=184039
-	mother=184040
+	father=184042
+	mother=184043
 	925.1.1={
 		birth=925.1.1
 	}
@@ -40398,8 +40390,8 @@ dynasty=206
 	dynasty=1042813
 	religion=catholic
 	culture=italian
-	father=184039
-	mother=184040
+	father=184042
+	mother=184043
 	927.1.1={
 		birth=927.1.1
 	}
@@ -41673,11 +41665,9 @@ dynasty=206
 	}
 }
 
-
-
-
 167943 = {
 	name="±´¶ûËş"
+	dynasty=679
 	female=yes
 	religion="catholic"
 	culture="italian"
@@ -43023,20 +43013,20 @@ dynasty=206
 		death="840.1.1"
 	}
 }
-#71456={
-#	name="±È°¢ÌØÀöË¹"
-#	female=yes
-#
-#	religion=catholic
-#	culture=italian
-#
-#	1224.1.1={
-#		birth=yes
-#	}
-#	1250.1.1={
-#		death=yes
-#	}
-#}
+71456={
+	name="±´°¢ÌØÀöË¿"
+	female=yes
+
+	religion=catholic
+	culture=italian
+
+	1224.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
 200140={
 	name="ÂíÀï°ÂÅµ"
 	dynasty=8758
@@ -43095,8 +43085,6 @@ dynasty=206
 		death=yes
 	}
 }
-
-
 
 
 194178 = {

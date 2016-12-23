@@ -1800,44 +1800,6 @@
 	}
 }
 
-332012 = {
-	name="¶Å²¼¸ê¶û"
-	dynasty=25024
-	martial=7
-	diplomacy=2
-	intrigue=2
-	stewardship=2
-	religion="catholic"
-	culture="irish"
-	trait="tough_soldier"
-	father=220030
-	1186.1.1={
-		birth="1186.1.1"
-	}
-	1236.1.1={
-		death="1236.1.1"
-	}
-}
-
-332013 = {
-	name="°®¶û¶÷"
-	female = yes
-	dynasty=25024
-	martial=1
-	diplomacy=2
-	intrigue=2
-	stewardship=1
-	religion="catholic"
-	culture="irish"
-	father=220030
-	1187.1.1={
-		birth="1187.1.1"
-	}
-	1237.1.1={
-		death="1237.1.1"
-	}
-}
-
 332018 = {
 	name="Å·ÑÅ"
 	# AKA: eua
@@ -2461,7 +2423,7 @@
 
 6180 = {
 	name="ÓÈÀ­µÂ"
-	dynasty=550
+	dynasty=819
 	martial=5
 	diplomacy=4
 	intrigue=6
@@ -2481,11 +2443,7 @@
 
 6181 = {
 	name="°¬µÂ"
-	dynasty=550
-	martial=4
-	diplomacy=5
-	intrigue=6
-	stewardship=8
+	dynasty=819
 	religion="catholic"
 	culture="irish"
 	father=6182
@@ -2499,11 +2457,7 @@
 
 6182 = {
 	name="ÌÆÄÉ¶û"
-	dynasty=550
-	martial=5
-	diplomacy=5
-	intrigue=6
-	stewardship=4
+	dynasty=819
 	religion="catholic"
 	culture="irish"
 	father=6183
@@ -2517,11 +2471,7 @@
 
 6183 = {
 	name="ÌÆÄÉ¶û"
-	dynasty=550
-	martial=5
-	diplomacy=5
-	intrigue=6
-	stewardship=4
+	dynasty=819
 	religion="catholic"
 	culture="irish"
 	father=6184
@@ -2535,11 +2485,7 @@
 
 6184 = {
 	name="¿ÆÂí"
-	dynasty=550
-	martial=8
-	diplomacy=5
-	intrigue=5
-	stewardship=5
+	dynasty=819
 	religion="catholic"
 	culture="irish"
 	father=6185
@@ -2553,11 +2499,7 @@
 
 6185 = {
 	name="°¬µÂ"
-	dynasty=550
-	martial=8
-	diplomacy=5
-	intrigue=5
-	stewardship=6
+	dynasty=819
 	religion="catholic"
 	culture="irish"
 	father=6186
@@ -2571,11 +2513,7 @@
 
 6186 = {
 	name="Ã·¶û ¿Æ¿â"
-	dynasty=550
-	martial=4
-	diplomacy=5
-	intrigue=4
-	stewardship=9
+	dynasty=819
 	religion="catholic"
 	culture="irish"
 	father=6187
@@ -2589,11 +2527,7 @@
 
 6187 = {
 	name="°¬µÂ"
-	dynasty=550
-	martial=2
-	diplomacy=7
-	intrigue=5
-	stewardship=2
+	dynasty=819
 	religion="catholic"
 	culture="irish"
 	father=6188
@@ -2607,186 +2541,15 @@
 
 6188 = {
 	name="¸¥À³ÌØÆæ±´¶ûÌØÆæ"
-	dynasty=550
-	martial=7
-	diplomacy=7
-	intrigue=1
-	stewardship=7
+	dynasty=819
 	religion="catholic"
 	culture="irish"
-	father=6189
+	father=160204
 	690.1.2={
 		birth="690.1.2"
 	}
 	750.1.2={
 		death="750.1.2"
-	}
-}
-
-6189 = {
-	name="Âí¸ÊÂ³Ë¹"
-	# AKA: Oengus
-	dynasty=550
-	martial=4
-	diplomacy=7
-	intrigue=4
-	stewardship=7
-	religion="catholic"
-	culture="irish"
-	father=6190
-	647.1.2={
-		birth="647.1.2"
-	}
-	677.1.2={
-		death="677.1.2"
-	}
-}
-
-6190 = {
-	name="Ã·¶û ¿Æ²©"
-	# AKA: Mael Cobo
-	dynasty=550
-	martial=9
-	diplomacy=5
-	intrigue=4
-	stewardship=9
-	religion="catholic"
-	culture="irish"
-	603.1.2={
-		birth="603.1.2"
-	}
-	647.1.2={
-		death="647.1.2"
-	}
-}
-
-6191 = {
-	name="²¼À­ÌØÂí¿Ë"
-	dynasty=550
-	martial=6
-	diplomacy=9
-	intrigue=4
-	stewardship=2
-	religion="catholic"
-	culture="irish"
-	father=6190
-	640.1.2={
-		birth="640.1.2"
-	}
-	670.1.2={
-		death="670.1.2"
-	}
-}
-
-6193 = {
-	name="±´Ë¹ °Í¶ûÇÐ"
-	# AKA: Becc Bairrche
-	dynasty=550
-	martial=7
-	diplomacy=5
-	intrigue=4
-	stewardship=4
-	religion="catholic"
-	culture="irish"
-	father=6191
-	665.1.2={
-		birth="665.1.2"
-	}
-	718.1.2={
-		death="718.1.2"
-	}
-}
-
-6194 = {
-	name="°¬µÂ ÂÞÒÁ"
-	# AKA: aed Roin
-	dynasty=550
-	martial=4
-	diplomacy=4
-	intrigue=4
-	stewardship=5
-	religion="catholic"
-	culture="irish"
-	father=6193
-	700.1.2={
-		birth="700.1.2"
-	}
-	735.1.2={
-		death="735.1.2"
-	}
-}
-
-6195 = {
-	name="¸¥ÇÐÀ´"
-	dynasty=550
-	martial=4
-	diplomacy=4
-	intrigue=4
-	stewardship=5
-	religion="catholic"
-	culture="irish"
-	father=6194
-	719.1.2={
-		birth="719.1.2"
-	}
-	789.1.2={
-		death="789.1.2"
-	}
-}
-
-6196 = {
-	name="Å·ÆæµÂ"
-	dynasty=550
-	martial=5
-	diplomacy=4
-	intrigue=4
-	stewardship=5
-	religion="catholic"
-	culture="irish"
-	father=6195
-	780.1.2={
-		birth="780.1.2"
-	}
-	810.1.2={
-		death="810.1.2"
-	}
-}
-
-6197 = {
-	name="°¬µÂ"
-	# AKA: aed
-	dynasty=550
-	martial=9
-	diplomacy=5
-	intrigue=4
-	stewardship=6
-	religion="catholic"
-	culture="irish"
-	father=6196
-	809.1.2={
-		birth="809.1.2"
-	}
-	870.1.2={
-		death="870.1.2"
-	}
-}
-
-6198 = {
-	name="Å·ÆæÅ·¿¨"
-	# AKA: Eochocan
-	dynasty=550
-	martial=4
-	diplomacy=5
-	intrigue=4
-	stewardship=7
-	religion="catholic"
-	culture="irish"
-	father=6197
-	850.1.2={
-		birth="850.1.2"
-	}
-	883.1.2={
-		death="883.1.2"
 	}
 }
 
@@ -2799,7 +2562,7 @@
 	stewardship=7
 	religion="catholic"
 	culture="irish"
-	father=6198
+	father=160207
 	870.1.2={
 		birth="870.1.2"
 	}
@@ -14762,6 +14525,7 @@
 	culture="irish"
 	father=1027
 	mother=1028
+	trait = legit_bastard
 	1014.1.1={
 		birth="1014.1.1" #unknown
 	}
@@ -14806,6 +14570,7 @@
 	trait="tough_soldier"
 	father=1025
 	mother=1026
+	trait = legit_bastard
 	1000.1.1={
 		birth="1000.1.1"
 	}
@@ -14828,6 +14593,7 @@
 	religion="catholic"
 	culture="irish"
 	trait="flamboyant_schemer"
+	trait = legit_bastard
 	father=1027
 	mother=1028
 	1018.1.1={
@@ -15376,10 +15142,10 @@
 	culture="irish"
 	father=166034
 	915.1.1={
-		birth="915.1.1"
+		birth=yes
 	}
 	968.1.1={
-		death="908.1.1"
+		death=yes
 	}
 }
 166038 = {
@@ -16209,9 +15975,6 @@
 	951.1.1={
 		birth="951.1.1"
 	}
-	947.1.1={
-		add_spouse=131520
-	}
 	1014.4.23={
 		death="1014.4.23"
 	}
@@ -16682,7 +16445,7 @@
 	480.1.1={
 		birth="480.1.1"
 	}
-	410.1.1={
+	510.1.1={
 		add_spouse=166130
 	}
 	540.1.1={
@@ -18794,7 +18557,7 @@
 }
 
 83729 = {
-	name="Ánilte"
+	name="Anilte"
 	father=83728
 	dynasty=9228
 	religion="catholic"
@@ -20243,6 +20006,7 @@
 	religion="catholic"
 	culture="irish"
 	father = 166467
+	trait = legit_bastard
 	597.1.1={
 		birth="597.1.1"
 	}
@@ -23314,14 +23078,12 @@
 160280 = {
 	name="¿â¶÷ÀÕ" #
 	female=yes
-	dynasty=1029167
 	martial=5
 	diplomacy=5
 	intrigue=6
 	stewardship=7
 	religion="catholic"
 	culture="irish"
-	father=160217
 	560.1.1={
 		birth="560.1.1"
 	}

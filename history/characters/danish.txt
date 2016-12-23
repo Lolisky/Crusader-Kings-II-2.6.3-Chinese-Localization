@@ -2012,7 +2012,7 @@
 	1219.1.1={
 		birth="1219.1.1"
 	}
-	1248.1.1={
+	1251.1.1={
 		add_spouse=451519 #Margareta Subislawic
 	}
 	1259.5.29={
@@ -3778,7 +3778,7 @@
 }
 
 168644 = {
-	name"ºÕÃ÷" #Hemming
+	name="ºÕÃ÷" #Hemming
 	dynasty=9552
 	religion="catholic"
 	culture="danish"
@@ -3834,7 +3834,7 @@
 }
 
 183004 = {
-	name="?mund"
+	name="Omund"
 	# AKA: Eymund
 	dynasty=487
 	martial=7

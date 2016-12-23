@@ -11,7 +11,7 @@
 	trait="greedy"
 	trait="chaste"
 	trait="skilled_tactician"
-	1039.1.1={
+	1029.1.1={
 		birth=yes
 	}
 	1091.1.1={
@@ -741,7 +741,7 @@
 	}
 }
 180233 = {
-	name="¿á¸ç¶ù"	# fictional
+	name="Î÷¼ª¶û"	# fictional
 	# founder of Haravoi clan
 	dynasty=1042051
 	religion="tengri_pagan"
@@ -956,7 +956,7 @@
 	}
 }
 180247 = {
-	name="¹ö¶¿×Ó"	# fictional
+	name="À¥¶¼Ê¿"	# fictional
 	# wife of Aba Vulatsopon
 	female=yes
 	dynasty=1042041
@@ -1110,7 +1110,7 @@
 	815.1.1={
 		birth=yes
 	}
-	870.1.1={
+	868.1.1={
 		death=yes
 	}
 }
