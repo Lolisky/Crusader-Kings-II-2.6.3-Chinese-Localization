@@ -2637,7 +2637,7 @@
 	trait = vaishnavist_hindu
 	trait = kshatriya
 	father=170174
-	1052.1.1={
+	1046.1.1={
 		birth="1052.1.1"
 	}
 	1095.1.1={
@@ -2660,6 +2660,7 @@
 		death="1051.6.17"
 	}
 }
+
 
 170174 = {
 	name="°¢ÄÑÙ¤²¨ÂŞ" #Anangpal II
@@ -3103,8 +3104,8 @@
 	trait = vaishnavist_hindu
 	trait = kshatriya
 	father=170172
-	1070.1.1={
-		birth="1070.1.1"
+	1060.1.1={
+		birth=yes
 	}
 	1117.1.1={
 		death="1117.1.1"
@@ -5840,6 +5841,21 @@
 		birth=yes
 	}
 	885.1.1={
+		death=yes
+	}
+}
+
+242020 = {
+	name="ì¹ ÓÈÄÇ"
+	dynasty=1042086 # Samma
+	religion="hindu"
+	culture="rajput"
+	trait="kshatriya"
+	trait="shaktist_hindu" # actually Ashapura Mata
+	1310.1.1={
+		birth=yes
+	}
+	1338.6.1={
 		death=yes
 	}
 }
@@ -9885,7 +9901,6 @@
 	culture="rajput"
 	trait="kshatriya"
 	trait="shaivist_hindu"
-	father=191753
 	1212.1.1={
 		birth=yes
 	}

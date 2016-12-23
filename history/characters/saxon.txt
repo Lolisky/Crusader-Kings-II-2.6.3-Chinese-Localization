@@ -704,8 +704,8 @@
 	trait="tough_soldier"
 	father=120
 	mother=101534
-	1021.1.1={
-		birth="1021.1.1"
+	1023.1.1={
+		birth=yes
 	}
 	1052.9.29={
 		death="1052.9.29"
@@ -2006,8 +2006,8 @@
 	culture="saxon"
 	father=120
 	mother=101534
-	1032.1.1={
-		birth="1032.1.1"
+	1031.1.1={
+		birth=yes
 	}
 	1082.1.1={
 		death="1082.1.1"
@@ -2842,8 +2842,8 @@
 	591.1.1={
 		birth="591.1.1"
 	}
-	640.1.1={
-		death="640.1.1"
+	640.1.28={
+		death=yes
 	}
 }
 205034 = {
@@ -6517,7 +6517,7 @@
 }
 
 214042 = {
-	name="Bl?cca"
+	name="Blaecca"
 	dynasty=214019
 	religion="norse_pagan"
 	culture="saxon"
@@ -6612,7 +6612,7 @@
 }
 
 188915 = { # Bishop of York
-	name="?thelbert"
+	name="Aethelbert"
 	religion="catholic"
 	culture="saxon"
 	learning = 12
@@ -6740,7 +6740,7 @@
 }
 
 214047 = { # Bishop of Selsey
-	name="?thelric"
+	name="Aethelric"
 	religion="catholic"
 	culture="saxon"
 	learning = 8

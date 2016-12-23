@@ -2481,8 +2481,8 @@ dynasty=547 # Ä¦¸ù
 	culture="welsh"
 	father=81871
 	mother=40522
-	1064.1.2={
-		birth="1064.1.2"
+	1067.1.10 ={
+		birth="1067.1.10"
 	}
 	1114.1.2={
 		death="1114.1.2"
@@ -3230,8 +3230,8 @@ dynasty=548 #Mathrafal (Powys)
 	culture="welsh"
 	father=159010
 	mother=159039
-	390.1.1={
-		birth="390.1.1"
+	390.1.10={
+		birth="390.1.10"
 	}
 	470.1.1={
 		death="470.1.1"
@@ -3391,7 +3391,7 @@ dynasty=548 #Mathrafal (Powys)
 	religion="catholic"
 	culture="welsh"
 	father=159021 # ÂåµÙ
-  trait="ambitious"
+	trait="ambitious"
 	740.1.1={
 		birth="740.1.1"
 	}
@@ -3454,8 +3454,8 @@ dynasty=548 #Mathrafal (Powys)
 	culture="welsh"
 	father=159026 # ¼¾Î°µÂ
 	mother=159025 # °®ÉªÌØ
-	790.1.1={
-		birth="790.1.1"
+	790.1.10={
+		birth="790.1.10"
 	}
 	819.1.2={
 	add_spouse=159088
@@ -3634,11 +3634,11 @@ dynasty=548 #Mathrafal (Powys)
 	culture="welsh"
 	father=159038 # Coel
 	mother=159951 #Ystradwel of Dumnonia
-	355.1.1={
+	355.1.1={ 
 		birth="355.1.1"
 	}
 	390.1.2={
-	add_spouse=159010
+		add_spouse=159010
 	}
 	430.1.1={
 		death="430.1.1"
@@ -3696,8 +3696,8 @@ dynasty=548 #Mathrafal (Powys)
 	religion="catholic"
 	culture="welsh"
 	father=159011
-	450.1.1={
-		birth="450.1.1"
+	450.1.10={
+		birth="450.1.10"
 	}
 	520.1.1={
 		death="520.1.1"
@@ -4340,7 +4340,7 @@ dynasty=548 #Mathrafal (Powys)
 	father=159087
 	790.1.1={
 		birth="790.1.1"
-    add_claim = c_powys
+		add_claim = c_powys
 	}
 	878.1.1={
 		death="878.1.1"
@@ -4557,6 +4557,7 @@ dynasty=548 #Mathrafal (Powys)
 	culture="welsh"
 	father=159108
 	mother=159375
+
 	874.1.1={
 		birth="874.1.1"
 	}
@@ -4577,7 +4578,7 @@ dynasty=548 #Mathrafal (Powys)
 	850.1.1={
 		birth="850.1.1"
 	}
-	875.1.1={
+	873.1.1={
 		add_spouse = 159375
 	}
 	930.1.1={
@@ -5224,7 +5225,7 @@ dynasty=548 #Mathrafal (Powys)
 	religion="catholic"
 	culture="welsh"
 	father=159323
-  mother=159932
+	mother=159932
 	435.1.1={
 		birth="435.1.1"
 	}
@@ -5471,7 +5472,7 @@ dynasty=548 #Mathrafal (Powys)
 	dynasty=1029030 # Dyfed
 	religion="catholic"
 	culture="welsh"
-father=159697
+	father=159697
 	790.1.1={
 		birth="790.1.1"
 	}
@@ -5662,7 +5663,7 @@ father=159697
 	father=159365
 	810.1.1={
 		birth="810.1.1"
-    add_claim = c_gwent
+		add_claim = c_gwent
 	}
 	885.1.1={
 		death="885.1.1"
@@ -5676,7 +5677,7 @@ father=159697
 	father=159366
 	850.1.1={
 		birth="850.1.1"
-    add_claim = c_gwent
+		add_claim = c_gwent
 	}
 	920.1.1={
 		death="920.1.1"
@@ -7003,7 +7004,7 @@ father=159697
 	culture="welsh"
 	father=159323
 	mother=159932
-	430.1.1={
+	436.1.1={
 		birth="430.1.1"
 	}
 	510.1.1={
@@ -8041,7 +8042,7 @@ father=159697
 		add_spouse=184135
 	}
 	815.1.1={
-    dynasty=200067 #Maelienydd
+		dynasty=200067 #Maelienydd
 		death="815.1.1"
 	}
 }
@@ -8055,7 +8056,7 @@ father=159697
 	760.1.1={
 		birth="760.1.1"
 	}
-  815.1.1={
+	815.1.1={
 		dynasty=200067 #Maelienydd
 	}
 	820.1.1={

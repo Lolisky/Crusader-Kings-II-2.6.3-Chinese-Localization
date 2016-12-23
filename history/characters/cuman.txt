@@ -98,6 +98,9 @@
 	1170.1.1={
 		birth="1170.1.1"
 	}
+	1201.1.1={
+		add_spouse = 194190
+	}
 	1223.1.1={
 		death="1223.1.1"
 	}
@@ -1809,6 +1812,7 @@
 	father = 34849
 	1212.1.1={
 		birth=yes
+	}
 	1238.1.1={
 		death="1238.1.1"
 	}
@@ -2404,6 +2408,7 @@
 		death="1095.1.1"
 	}
 }
+194448 = {
 	name="Peksen"
 	dynasty = 1045110
 	female = yes
@@ -2700,9 +2705,10 @@
 161730 = {
 	name="±´¸ñÂ³¿Ë" #Begluk
 	#placeholder
+	dynasty=1051133
 	religion="tengri_pagan"
 	culture="cuman"
-	1050.1.1={
+	1030.1.1={
 		birth=yes
 	}
 	1110.1.1={
@@ -3239,7 +3245,7 @@
 	dynasty=1042195
 	religion="tengri_pagan"
 	culture="cuman"
-	748.1.1={
+	728.1.1={
 		birth=yes
 	}
 	805.1.1={
@@ -3471,7 +3477,7 @@
 	}
 }
 194215 = {
-	name = "?ilbu"
+	name = "Cilbu"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman

@@ -212,7 +212,7 @@
 	653.1.1={
 		birth=yes
 	}
-	674.1.1={
+	669.1.1={
 		add_spouse=190137
 	}
 	687.1.1={
@@ -800,7 +800,7 @@
 	culture="lombard"
 	father=190155
 	mother=190156
-	760.1.1={
+	765.1.1={
 		birth=yes
 	}
 	817.1.1={
@@ -1436,13 +1436,14 @@
 	717.1.1={
 		birth=yes
 	}
-	744.1.1={
+	734.1.1={
 		add_spouse=190340
 	}
 	786.1.1={
 		death=yes
 	}
 }
+
 190348 = {
 	name="¸ñ¶û±´¸ñ" #marries Carloman of France
 	female=yes
@@ -3021,7 +3022,7 @@
 }
 
 73351={
-	name="°¢ÌØÅµ¶û·ò¡°
+	name="°¢ÌØÅµ¶û·ò"
 	dynasty=12243
 
 	father=73347
@@ -6714,7 +6715,7 @@
 }
 
 200387={
-	name=À¼¶à¶û·ò
+	name=À³µÀ·ò
 	dynasty=7184
 
 	father=200385

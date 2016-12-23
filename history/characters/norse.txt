@@ -3902,11 +3902,7 @@
 			spawn_unit = {
 				province = 57 # York
 				owner = ROOT
-				leader = ROOT
-
-
-
-
+				#leader = ROOT
 				troops = {
 					light_infantry = { 1292 1292 }
 					heavy_infantry = { 245 245 }
@@ -3930,10 +3926,6 @@
 				spawn_unit = {
 					province = 57 # York
 					owner = PREV
-
-
-
-
 					troops = {
 						light_infantry = { 1292 1292 }
 						heavy_infantry = { 245 245 }
@@ -4030,6 +4022,8 @@
 163112 = {
 	name="π˛∑Úµ§" # ¿ ≈µarsson 'Hvitserk'
 	dynasty=7514
+	dna = tctbpftnsvn
+	properties = tg0djd000000
 	religion="norse_pagan"
 	culture=norse
 	martial=7
@@ -4731,7 +4725,7 @@
 	dynasty=1029
 	religion="norse_pagan"
 	culture="norse"
-	father=166715
+	father=167715
 	840.1.1={
 		birth="840.1.1"
 	}
@@ -4784,7 +4778,7 @@
 	dynasty=1030
 	religion="norse_pagan"
 	culture="norse"
-	father=166718
+	father=167718
 	845.1.1={
 		birth="845.1.1"
 	}
@@ -6984,7 +6978,6 @@
 }
 194038 = {
 	name = "¿ ≈µ∏•¿Ôµ¬"
-	dynasty = 102013
 	religion = norse_pagan
 	culture = norse
 	female = yes
@@ -7382,7 +7375,7 @@
 }
 
 214081 = {
-	name = "Torm®Æer"
+	name = "Tormoer"
 	dynasty = 1043504
 	religion = norse_pagan
 	culture = norse

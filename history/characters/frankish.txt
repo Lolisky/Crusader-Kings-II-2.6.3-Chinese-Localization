@@ -773,28 +773,6 @@
 	}
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 127022 = {
 	name="¼ÍÒ¢Ä·" #¼ÍÒ¢Ä· Ier d'Aquitaine
 	dynasty=100217
@@ -1177,7 +1155,7 @@
 
 
 1354 = {
-	name="Óê¹û" # http://en.wikipedia.org/wiki/ÐÝ_III_of_Maine
+	name="Óê¹û" # http://en.wikipedia.org/wiki/Hugh_III_of_Maine
 
 	dynasty=660
 	martial=6
@@ -1243,7 +1221,7 @@
 }
 
 1358 = {
-	name="ºÚÀï±´ÌØ" #  http://en.wikipedia.org/wiki/°£±´¶û_I,_Count_of_Maine
+	name="ºÚÀï±´ÌØ" #  http://en.wikipedia.org/wiki/Herbert_I,_Count_of_Maine
 
 	dynasty=660
 	martial=4
@@ -3581,8 +3559,6 @@
 						light_cavalry = { 1139 1139 }
 						knights = { 276 276 }
 					}
-
-
 				}
 			}
 			create_character = {
@@ -3635,8 +3611,6 @@
 						light_cavalry = { 1139 1139 }
 						knights = { 276 276 }
 					}
-
-
 				}
 			}
 		}
@@ -15461,29 +15435,6 @@
 	}
 }
 
-454573 = {
-	name="ÒÁÉ¯±´¶û"
-
-	dynasty=4002
-	female=yes
-	martial=5
-	diplomacy=5
-	intrigue=8
-	stewardship=7
-	religion="catholic"
-	culture="frankish"
-	trait="lustful"
-	trait="amateurish_plotter"
-	father=161666
-	mother=161663
-	1292.1.1 = {
-		birth="1292.1.1"
-	}
-	1334.12.5 = {
-		death="1334.12.5"
-	}
-}
-
 454980 = {
 	name="°º¸ÇÀÊ"
 	dynasty=5081
@@ -16855,6 +16806,8 @@
 455500 = {
 	name="ëèÁ¦"
 	dynasty=101
+	dna = caekgncfabw
+	properties = ad0aha000000
 	martial=3
 	diplomacy=6
 	intrigue=4
@@ -17703,6 +17656,9 @@
 	mother=455408
 	1250.1.2 = {
 		birth="1250.1.2"
+	}
+	1259.1.1 = {
+		add_spouse = 217509 #Amicie de Courtenay
 	}
 	1302.7.11 = {
 		death="1302.7.11"
@@ -21787,9 +21743,9 @@
 	trait="brave"
 	trait="flamboyant_schemer"
 	father=462742
-	mother=455501 # ºú°²ÄÈ, Countess of Hainaut
-	1306.1.1 = {
-		birth="1306.1.1"
+	mother=455501 # Jeanne, Countess of Hainaut
+	1311.1.1 = {
+		birth=yes
 	}
 	1356.6.23 = {
 		death="1356.6.23"
@@ -22225,34 +22181,6 @@
 		death="1076.1.2"
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 6394 = {
 	name="Ø§Æ½" 
@@ -26424,30 +26352,6 @@
 	}
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 7977 = {
 	name="Óê¿É±´ºÕ"
 
@@ -26490,31 +26394,6 @@
 		death="865.1.1"
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 7981 = {
 	name="²©ËÉ"
@@ -37678,21 +37557,6 @@
 	1059.1.1 = {
 		death="1059.1.1"
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 
 33455 = {
@@ -40247,10 +40111,22 @@
 	culture="frankish"
 	father=93505	
 	1150.1.1={
-		birth="1150.1.1"
+		birth=yes
 	}	
+	1190.1.1={
+		trait=crusader
+	}
+	1204.5.16={
+		employer=205523
+	}
+	1205.6.1={
+		employer=205525
+	}
+	1216.6.11={
+		employer=205725 #Pierre I de Courtenay
+	}
 	1220.12.17={	
-		death="1220.12.17"
+		death=yes
 	}
 }
 
@@ -40505,7 +40381,7 @@
 }
 
 93002 = {
-	name="ÕæÎÞÃû" #real name unknown
+	name="Ã«ÀïË¹" #real name unknown
 	dynasty=23105
 	religion="catholic"
 	culture="frankish"
@@ -41569,63 +41445,6 @@
 		death="827.1.1"
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 144998 = {
@@ -43193,11 +43012,11 @@
 	female=yes
 	religion="catholic"
 	culture="frankish"
-	1280.1.1 = {
-		birth="1280.1.1"
+	1270.1.1 = {
+		birth=yes
 	}
 	1329.1.1 = {
-		death="1329.1.1"
+		death=yes
 	}
 }
 
@@ -44047,23 +43866,6 @@
 		death="1310.1.1"
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 163065 = {
 	name="¶òµÂ" 
@@ -45040,6 +44842,24 @@
 	}
 }
 
+161969 = {
+	name="°£±´Ë¹"
+	dynasty=1029990 #de Grandson
+	culture=frankish
+	religion=catholic
+	father=161967
+	mother=161972
+	1079.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		add_spouse=161979 #Adelaide
+	}
+	1133.5.15 = {
+		death=yes
+	}
+}
+
 161979 = {
 	name="°¢µÂÀ³µÂ" #Wife of °£²®ÀÖ de Grandson
 	female=yes
@@ -45222,39 +45042,6 @@
 	}
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 167754 = {
 	name="ÒÁ´ï"
 
@@ -45287,21 +45074,6 @@
 		death="810.1.1"
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 167880 = {

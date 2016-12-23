@@ -1911,7 +1911,7 @@ arabic = {
 		modifier = default_culture_modifier
 	}
 	egyptian_arabic = {
-		graphical_culture = { arabicgfx muslimgfx }
+		graphical_cultures = { arabicgfx muslimgfx }
 		
 		color = { 0.1 0.6 0.1 }
 

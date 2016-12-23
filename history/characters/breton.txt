@@ -1271,7 +1271,7 @@
 	dynasty=20017 #La Marck
 	religion="catholic"
 	culture="breton"
-	father=91218 #Guimarc'h de LÈon
+	father=91218 #Guimarc'h de L®¶on
 	1220.1.1={
 		birth="1220.1.1"
 	}
@@ -1285,7 +1285,7 @@
 	dynasty=20017 #La Marck
 	religion="catholic"
 	culture="breton"
-	father=91219 #Huiarnviu III de LÈon
+	father=91219 #Huiarnviu III de L®¶on
 	#Marguerite
 	1240.1.1={
 		birth="1240.1.1"
@@ -1300,7 +1300,7 @@
 	female=yes
 	religion="catholic"
 	culture="breton"
-	father=91220 #Huiarnviu IV de LÈon
+	father=91220 #Huiarnviu IV de L®¶on
 	1260.1.1={
 		birth="1260.1.1"
 	}
@@ -1331,7 +1331,7 @@
 	dynasty=20017 #La Marck
 	religion="catholic"
 	culture="breton"
-	father=91220 #Huiarnviu IV de LÈon
+	father=91220 #Huiarnviu IV de L®¶on
 	1265.1.1={
 		birth="1265.1.1"
 	}
@@ -1344,7 +1344,7 @@
 	dynasty=20017 #La Marck
 	religion="catholic"
 	culture="breton"
-	father=91223 #Huiarnviu IV de LÈon
+	father=91223 #Huiarnviu IV de L®¶on
 	1285.1.1={
 		birth="1285.1.1"
 	}
@@ -1684,7 +1684,7 @@
 91268 = {
 	name ="∞£¿˚ƒ»" #bastard daughter
 	female=yes
-	dynasty=317 #Rennes house of PenthiËvre
+	dynasty=317 #Rennes house of Penthi®®vre
 	religion="catholic"
 	culture="breton"
 	trait="bastard"
@@ -1704,11 +1704,11 @@
 	culture="breton"
 	father=350 #Jafrez Boretel
 	#unknow mother
-	1045.1.1={
-		birth="1045.1.1"
+	1054.1.1={
+		birth=yes
 	}
 	1098.2.9 = {
-		death="1098.2.9"
+		death=yes
 	}
 }
 
@@ -2054,7 +2054,7 @@
 	religion="catholic"
 	culture="breton"
 	father=91169 #Alan d'Avaugour
-	#ClÈmence de Dinan
+	#Cl®¶mence de Dinan
 	1255.1.1 = {
 		birth="1255.1.1"
 	}
@@ -4471,7 +4471,7 @@
 	name="π≈ªÙ¬Ì∆Ê"
 	religion="catholic"
 	culture="breton"
-	dynasty=20017 # de Leon
+	dynasty=1051999 # de Leon
 	father=159686
 	820.1.1={
 		birth="820.1.1"
@@ -4484,7 +4484,7 @@
 	name="∞£¿ÔÀπ≤®" # 
 	religion="catholic"
 	culture="breton"
-	dynasty=20017 # de Leon
+	dynasty=1051999 # de Leon
 	father=159687
 	850.1.1={
 		birth="850.1.1"
@@ -4497,7 +4497,7 @@
 	name="π˛√…" # 
 	religion="catholic"
 	culture="breton"
-	dynasty=20017 # de Leon
+	dynasty=1051999 # de Leon
 	father=159688
 	885.1.1={
 		birth="885.1.1"
@@ -4510,7 +4510,7 @@
 	name="∆’¡÷ƒ·Àπ"
 	religion="catholic"
 	culture="breton"
-	dynasty=20017 # de Leon
+	dynasty=1051999 # de Leon
 	father=159689
 	920.1.1={
 		birth="920.1.1"
@@ -4722,7 +4722,7 @@
 	865.1.1={
 		birth=yes
 	}
-	857.1.2 = {
+	867.1.1 = {
 		employer = 163105 # Duke of Brittany
 	}
 	900.1.1={
@@ -4738,7 +4738,7 @@
 	866.1.1={
 		birth=yes
 	}
-	857.1.2 = {
+	867.1.1 = {
 		employer = 163105 # Duke of Brittany
 	}
 	900.1.1={

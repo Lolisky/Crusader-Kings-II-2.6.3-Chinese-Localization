@@ -68,10 +68,10 @@
 	religion="sunni"
 	culture="afghan"
 	834.1.1={
-		birth="834.1.1"
+		birth=yes
 	}
 	888.1.1={
-		death="884.1.1"
+		death=yes
 	}
 }
 188565 = {
@@ -415,7 +415,7 @@
 	}
 }
 188716 = {
-	name="Ôóœc"	#Zer? # fictional
+	name="Ôóœc" #Zer? # fictional
 	dynasty=1042110 # Zunbil
 	religion="zun_pagan"
 	culture="afghan"
@@ -456,7 +456,7 @@
 }
 
 188719 = {
-	name="µ¤Å«Ë¹" Danûš # fictitious
+	name="µ¤Å«Ë¹" # fictitious
 	dynasty=1042156
 	religion="zun_pagan"
 	culture="afghan"

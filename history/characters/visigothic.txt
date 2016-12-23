@@ -455,6 +455,8 @@
 	trait=honest
 	trait=kind
 	trait=tough_soldier
+	
+	trait = ill
 
 	873.1.1={
 		birth=yes
@@ -707,7 +709,9 @@
 		birth=yes
 	}
 	925.7.1={
-		death=yes
+		death={
+			death_reason=death_trait
+		}
 	}
 }
 70064={
@@ -1232,7 +1236,7 @@
 	religion=catholic
 	culture=visigothic
 
-	900.1.1={
+	915.1.1={
 		birth=yes
 	}
 	945.4.3={
@@ -2162,7 +2166,7 @@
 73867={
 	name="°£¶ûÃ·ÄÚ¼ª¶û¶à"
 	#name="Ermenegildo"
-	dynasty=1020119
+	dynasty=8601
 
 	father=70116
 	mother=200059
@@ -2181,7 +2185,7 @@
 73868={
 	name="ÂíÎÚÀ×¼ÓÍÐ"
 	#name="Mauregato"
-	dynasty=1020119
+	dynasty=8601
 
 	father=73867
 
@@ -2566,7 +2570,7 @@
 }
 
 73908={
-	name="Alga?i"
+	name="Algaci"
 	dynasty=12296
 
 	religion=sunni
@@ -2632,7 +2636,7 @@
 }
 
 73912={
-	name="?acharya"
+	name="Cacharya"
 	dynasty=12297
 
 	religion=sunni
@@ -2650,7 +2654,7 @@
 }
 
 73913={
-	name="Abdela?i?"
+	name="Abdelacic"
 	dynasty=12297
 
 	father=73912
@@ -2686,7 +2690,7 @@
 }
 
 73915={
-	name="?eida"
+	name="Ceida"
 	female=yes
 
 	religion=sunni
@@ -2772,7 +2776,7 @@
 }
 
 73930={
-	name="?acharya"
+	name="Cacharya"
 	dynasty=12299
 
 	religion=sunni
@@ -2787,7 +2791,7 @@
 }
 
 73931={
-	name="Yu?uf"
+	name="Yucuf"
 	dynasty=12299
 
 	father=73930
@@ -2837,7 +2841,7 @@
 }
 
 73934={
-	name="Abdela?i?"
+	name="Abdelacic"
 	dynasty=12300
 
 	religion=sunni
@@ -2937,7 +2941,7 @@
 }
 
 73940={
-	name="I?ag"
+	name="Icag"
 	dynasty=12301
 
 	father=73938
@@ -3073,7 +3077,7 @@
 }
 
 73959={
-	name="?eid"
+	name="Ceid"
 	dynasty=12305
 
 	father=73957
@@ -3144,7 +3148,7 @@
 }
 
 73963={
-	name="Ya?mina"
+	name="Yacmina"
 	female=yes
 
 	religion=sunni
@@ -3159,7 +3163,7 @@
 }
 
 73964={
-	name="?ohair"
+	name="Cohair"
 	dynasty=12307
 
 	religion=sunni
@@ -3191,7 +3195,7 @@
 }
 
 73966={
-	name="?alama"
+	name="Calama"
 	dynasty=12307
 
 	father=73964
@@ -3328,7 +3332,7 @@
 }
 
 73977={
-	name="Ai?a"
+	name="Aica"
 	female=yes
 
 	religion=sunni
@@ -3361,7 +3365,7 @@
 }
 
 73979={
-	name="?elim"
+	name="Celim"
 	dynasty=12311
 
 	father=73976
@@ -3450,7 +3454,7 @@
 }
 
 73984={
-	name="?ulema"
+	name="Culema"
 	dynasty=12312
 
 	father=73983
@@ -3814,7 +3818,7 @@
 }
 
 107670={
-	name="Gar?i" # AKA: Garc¨ªa I 'el de las Manos Blancas'
+	name="Garci" # AKA: Garc¨ªa I 'el de las Manos Blancas'
 	dynasty=776
 	father=107680
 	mother=107681
@@ -3833,6 +3837,7 @@
 		}
 	}
 }
+
 107680={
 	name="·Ñ¶ûÄÏ" #AKA: Fernán González
 	#name="Fernand"
@@ -3937,7 +3942,7 @@
 }
 
 109620={
-	name="Gon?alo"
+	name="Goncalo"
 	dynasty=1020119
 
 	father=70249
@@ -3996,7 +4001,7 @@
 	896.1.1={
 		birth=yes
 	}
-	917.1.1={
+	920.1.1={
 		add_spouse=110537
 	}
 	954.10.15={
@@ -5926,6 +5931,7 @@
 200276={
 	name="°¢ËþÄÉ¼ª¶ûµÂ"
 	#name="Athanagildo"
+	dynasty=1046039
 	religion=catholic
 	culture=visigothic
 

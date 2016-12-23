@@ -1507,7 +1507,7 @@
 	father=1752
 	mother=4511
 	1056.1.1={
-		birth="1056.1.1"
+		birth=yes
 	}
 	1071.1.1={
 		trait="midas_touched"
@@ -1521,8 +1521,11 @@
 	1081.12.10={
 		remove_claim = e_byzantium
 	}
+	1107.1.1={
+		trait = gout
+	}
 	1118.8.15={
-		death="1118.8.15"
+		death=yes
 	}
 }
 
@@ -2830,10 +2833,6 @@
 20534 = {
 	name="巴尔达斯"
 	dynasty=641
-	martial=5
-	diplomacy=5
-	intrigue=8
-	stewardship=8
 	religion="orthodox"
 	culture="greek"
 	trait="patient"
@@ -2842,16 +2841,16 @@
 	father=41320
 	mother=159535
 	1010.1.1={
-		birth="1010.1.1"
+		birth=yes
 	}
 	1025.1.1={
 		trait="blinded"
 	}
-	1050.1.1={
+	1054.1.1={
 		add_spouse=159288
 	}
 	1067.1.1={
-		death="1067.1.1"
+		death=yes
 	}
 }
 
@@ -9118,7 +9117,7 @@
 		birth="669.1.1"
 	}
 	695.11.1={
-		trait="scarred"
+		trait="disfigured"
 	}
 	703.1.1={
 		add_spouse=146185
@@ -10734,10 +10733,6 @@
 	culture="greek"
 	120.1.1={
 		birth="120.1.1"
-	}
-	167.4.20={
-	name = "索德"
-	# AKA: Caius
 	}
 	174.1.1={
 		death="174.1.1"
@@ -18615,10 +18610,6 @@
 	3.1.1={
 		birth="3.1.1"
 	}
-	30.1.1={
-	name = "伯多禄"
-	# AKA: Simon
-	}
 	64.10.13={
 		death="64.10.13"
 	}
@@ -20729,10 +20720,10 @@
 	culture="greek"
 	father=145932
 	850.1.1={
-		birth="850.1.1"
+		birth=yes
 	}
 	912.1.1={
-		death="910.1.1"
+		death=yes
 	}
 }
 200121={
@@ -20780,7 +20771,7 @@
 	500.1.1={
 		birth=yes
 	}
-	493.1.1 = {
+	540.1.1 = {
 		add_spouse=168789
 	}
 	551.1.1={

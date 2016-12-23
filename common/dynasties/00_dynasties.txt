@@ -13424,7 +13424,7 @@
 }
 10012 = {
 	name="格洛斯"
-	culture = German
+	culture = "german"
 }
 10013 = {
 	name="德 塔雷加"
@@ -13432,7 +13432,7 @@
 }
 10014 = {
 	name="固埃齐"
-	culture = German
+	culture = "german"
 }
 10015 = {
 	name="赛多里斯"
@@ -26014,7 +26014,7 @@
 }
 101261 = {
 	name="艾勒斯巴姆"
-	culture = egypthian_arabic #WRONG CULTURE
+	culture = "egyptian_arabic" #WRONG CULTURE
 }
 101262 = {
 	name="伊诺赫斯"
@@ -42198,7 +42198,7 @@
 	culture = mongol
 }
 1040071 = {
-	name="黑羊" # Quralas
+	name="巴塔赤" # Quralas
 	culture = mongol
 }
 1040072 = {

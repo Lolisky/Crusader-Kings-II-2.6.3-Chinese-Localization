@@ -1154,8 +1154,8 @@
 	culture="pommeranian"
 	father=8402 #ºàÀï¿Ë
 	mother=30480 #Slavia
-	1089.1.1={
-		birth="1089.1.1"
+	1094.1.1={
+		birth="1094.1.1"
 	}
 	1129.1.1={
 		death="1129.1.1"
@@ -2461,7 +2461,7 @@
 	dynasty=1042801
 	religion="slavic_pagan"
 	culture="pommeranian"
-	father = 194073
+	father = 194067
 	850.1.1={
 		birth=yes
 	}
@@ -2491,6 +2491,7 @@
 	dynasty=1042803
 	religion="slavic_pagan"
 	culture="pommeranian"
+	father=194073
 	829.1.1={
 		birth=yes
 	}

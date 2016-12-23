@@ -8799,6 +8799,8 @@
 	name="¸¥ÀïµÂÀïÏ£" # II E.of HRE (1197-1250), k.of Sicily (1198-1250), d. of Swabia (1212-1216)
 	# AKA: Frederick
 	dynasty=529
+	dna = agbceeccebr
+	properties = aj0bh0000000
 	martial=6
 	diplomacy=7
 	intrigue=7
@@ -17003,22 +17005,6 @@
 	}
 }
 
-30714 = {
-	name="ÒÁÀöÉ¯°×" 
-	female=yes
-	dynasty=263 #von Nassau
-	religion="catholic"
-	culture="german"
-	father=212372
-	mother=30027
-	1223.1.1 = {
-		birth="1223.1.1"
-	}
-	1295.1.6 = {
-		death="1295.1.6"
-	}
-}
-
 30715 = {
 	name="¿­ÉªÁÕ" 
 	female=yes
@@ -23400,7 +23386,7 @@
 	1255.1.1 = {
 		birth="1255.1.1"
 	}
-	1290.1.1 = {
+	1271.1.1 = {
 		add_spouse=462361
 	}
 	1298.6.23 = {
@@ -23747,11 +23733,11 @@
 	trait="scholarly_theologian"
 	father=462360
 	mother=462361
-	1290.1.1 = {
-		birth="1290.1.1"
+	1278.1.1 = {
+		birth=yes
 	}
-	1324.1.1 = {
-		death="1324.1.1"
+	1323.6.19 = {
+		death=yes
 	}
 }
 
@@ -25055,7 +25041,7 @@
 		birth="1274.1.2"
 	}
 	1294.1.2 = {
-		add_spouse=462377
+		add_spouse=462376
 	}
 	1317.1.12 = {
 		death="1317.1.12"
@@ -25074,7 +25060,7 @@
 	trait="brave"
 	trait="tough_soldier"
 	father=462736
-	mother=462377
+	mother=462376
 	1300.1.2 = {
 		birth="1300.1.2"
 	}
@@ -25272,7 +25258,7 @@
 	trait="temperate"
 	trait="charismatic_negotiator"
 	father=462736
-	mother=462377
+	mother=462376
 	1306.8.8 = {
 		birth="1306.8.8"
 	}
@@ -25363,7 +25349,7 @@
 	trait="diligent"
 	trait="charismatic_negotiator"
 	father=462736
-	mother=462377
+	mother=462376
 	1309.1.2 = {
 		birth="1309.1.2"
 	}
@@ -25386,7 +25372,7 @@
 	trait="lustful"
 	trait="charismatic_negotiator"
 	father=462736
-	mother=462377
+	mother=462376
 	1312.1.2 = {
 		birth="1312.1.2"
 	}
@@ -26955,8 +26941,8 @@
 	trait="amateurish_plotter"
 	father=462930
 	mother=462931
-	1325.1.1 = {
-		birth="1325.1.1"
+	1331.1.1 = {
+		birth=yes
 	}
 	1360.1.1 = {
 		death="1360.1.1"
@@ -26998,7 +26984,7 @@
 	trait="thrifty_clerk"
 	father=462930
 	mother=462931
-	1326.1.1 = {
+	1330.1.1 = {
 		birth="1326.1.1"
 	}
 	1367.1.1 = {
@@ -32197,6 +32183,8 @@
 	name="Â·µÂÎ¬Ï£"
 	# AKA: Ludwig 'der Deutsche'
 	dynasty=25061
+	dna = bagmeomdaai
+	properties = aj0abb000000
 	martial=6
 	diplomacy=5
 	intrigue=7
@@ -47072,7 +47060,6 @@
 	religion="catholic"
 	culture="german"
 	father=167147
-	mother=167230
 	1278.1.1={
 		birth="1278.1.1"
 	}
@@ -47088,6 +47075,7 @@
 	religion="catholic"
 	culture="german"
 	father=167149
+	mother=167230
 	1280.1.1={
 		birth="1280.1.1"
 	}
@@ -49506,7 +49494,7 @@
 	religion="catholic"
 	culture="german"
 	father=167750
-	mother=166754
+	mother=167754
 	790.1.1={
 		birth="790.1.1"
 	}
@@ -49523,7 +49511,7 @@
 	religion="catholic"
 	culture="german"
 	father=167750
-	mother=166754
+	mother=167754
 	800.1.1={
 		birth="800.1.1"
 	}
@@ -49541,7 +49529,7 @@
 	religion="catholic"
 	culture="german"
 	father=167750
-	mother=166754
+	mother=167754
 	802.1.1={
 		birth="802.1.1"
 	}

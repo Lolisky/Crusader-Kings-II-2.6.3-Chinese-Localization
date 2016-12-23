@@ -2150,7 +2150,7 @@
 	female = yes
 	dynasty=381
 	religion="catholic"
-	culture="swedish"	
+	culture="swedish"
 	father=200504 # Erik Knutsson, king of Sweden
 	mother=201506
 	1211.1.1={
@@ -3077,6 +3077,7 @@
 	name="²¨"
 	# AKA: Bo Nilsson
 	dynasty=148
+	father=194256
 	martial=7
 	diplomacy=7
 	intrigue=5
@@ -5423,6 +5424,7 @@
 	religion="catholic"
 	culture="swedish"
 	father=167323
+	mother=167639
 	1145.1.1 = {
 		birth="1145.1.1"
 	}
@@ -7520,7 +7522,7 @@
 	}
 }
 194246 = {
-	name=?sa
+	name=Asa
 	dynasty=137 # Sparre
 	religion=catholic
 	culture=swedish
@@ -7546,7 +7548,7 @@
 	}
 }
 194248 = {
-	name=M?ns
+	name=Mans
 	dynasty=100297 # Lillieh??k
 	religion=catholic
 	culture=swedish
@@ -7808,7 +7810,7 @@
 	}
 }
 194268 = {
-	name=M?rta
+	name=Marta
 	dynasty=1037 # Tre Rosor
 	religion=catholic
 	culture=swedish

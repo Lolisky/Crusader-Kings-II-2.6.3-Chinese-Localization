@@ -1993,8 +1993,8 @@
 	trait="thrifty_clerk"
 	father=468510
 	mother=468503
-	1329.1.1={
-		birth="1329.1.1"
+	1330.1.1={
+		birth="1330.1.1"
 	}
 	1372.1.1={
 		death="1372.1.1"
@@ -2062,8 +2062,8 @@
 	trait="naive_appeaser"
 	father=468510
 	mother=467541
-	1296.1.1={
-		birth="1296.1.1"
+	1301.1.1={
+		birth="1301.1.1"
 	}
 	1345.1.2={
 		death="1345.1.2"
@@ -2237,7 +2237,7 @@
 163116 = {
 	name="ÄÂÌáÃ×¶û"
 	dynasty=100502
-	religion=slavic_pagan
+	religion = slavic_pagan
 	culture="serbian"
 	father=167861
 	830.1.1={
@@ -2380,7 +2380,7 @@
 	dynasty=9560
 	religion="slavic_pagan"
 	culture="serbian"
-father=146009
+	father=146009
 	790.1.1={
 		birth="790.1.1"
 	}
@@ -2421,7 +2421,7 @@ father=146009
 	}
 	870.1.1 = {
 		religion = orthodox
-	}	
+	}
 	892.1.1={
 		death="892.1.1"
 	}

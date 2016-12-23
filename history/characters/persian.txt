@@ -482,6 +482,7 @@
 20704 = {
 	name="¿¨ÁÖ"
 	dynasty=7331
+	father=220991
 	martial=7
 	diplomacy=8
 	intrigue=7
@@ -980,7 +981,7 @@
 			spawn_unit = {
 				province = 633 # Gurgan
 				owner = ROOT
-				leader = ROOT
+				#leader = ROOT
 				troops = {
 					light_infantry = { 625 625 }
 					heavy_infantry = { 479 479 }
@@ -1008,7 +1009,7 @@
 				spawn_unit = {
 					province = 633 # Gurgan
 					owner = ROOT
-					leader = THIS
+					#leader = THIS
 					troops = {
 						light_infantry = { 625 625 }
 						heavy_infantry = { 479 479 }
@@ -1037,7 +1038,7 @@
 				spawn_unit = {
 					province = 633 # Gurgan
 					owner = ROOT
-					leader = THIS
+					#leader = THIS
 					troops = {
 						light_infantry = { 625 625 }
 						heavy_infantry = { 479 479 }
@@ -2921,6 +2922,7 @@
 		death="1391.1.1"
 	}
 }
+
 
 163099 = {
 	name="ÄÉË¹¶û"
@@ -5598,10 +5600,10 @@
 	religion="zoroastrian"
 	culture="persian"
 	father=160299
-	660.1.1={
+	680.1.1={ #postponed from 660
 		birth=yes
 	}
-	737.1.1={
+	742.1.1={ #postponed from 737
 		death=yes
 	}
 }

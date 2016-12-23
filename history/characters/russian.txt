@@ -1143,6 +1143,7 @@
 	culture="russian"
 	father=222654
 	mother=125104
+	trait = legit_bastard
 	1210.1.2={
 		birth="1210.1.2"
 	}
@@ -1593,12 +1594,13 @@
 	religion="orthodox"
 	culture="russian"
 	father=684
-	mother=125026
-	1074.1.2={
-		birth="1074.1.2"
+	mother=7061
+	trait=legit_bastard
+	1074.1.1={
+		birth="1074.1.1"
 	}
-	1158.1.2={
-		death="1158.1.2"
+	1158.1.1={
+		death="1158.1.1"
 	}
 }
 
@@ -2657,8 +2659,8 @@
 	culture="russian"
 	father=222600
 	mother=222601
-	1167.1.2={
-		birth="1167.1.2"
+	1167.1.10={
+		birth="1167.1.10"
 	}
 	1190.1.2={
 		death="1190.1.2"
@@ -2979,7 +2981,7 @@
 	father=125184
 	mother=125066
 	1212.10.23={
-		birth="1212.10.22"
+		birth="1212.10.23"
 	}
 	1230.4.14={
 	add_spouse=125140
@@ -3943,7 +3945,7 @@
 	1215.1.2={
 		birth="1215.1.2"
 	}
-	1215.1.2={
+	1240.1.2={
 	capital="c_novgorod"
 	}
 	1258.1.2={
@@ -4376,7 +4378,7 @@
 
 20450 = {
 	name="费奥多尔"
-	dynasty=100587
+	dynasty=100586
 	martial=4
 	diplomacy=6
 	intrigue=8
@@ -5008,13 +5010,13 @@
 		birth="1154.1.2"
 	}
 	1178.1.2={
-	add_spouse=222521
+		add_spouse=222521
 	}
 	1197.1.2={
-	remove_spouse=222521
+		remove_spouse=222521
 	}
 	1197.1.2={
-	add_spouse=125053
+		add_spouse=125053
 	}
 	1205.6.19={
 		death="1205.6.19"
@@ -5029,7 +5031,8 @@
 	culture="russian"
 	father=222579
 	mother=222581
-	1155.1.2={
+	trait = legit_bastard
+	1157.1.2={
 		birth="1155.1.2"
 	}
 	1205.1.2={
@@ -5048,7 +5051,7 @@
 		birth="1126.1.2"
 	}
 	1153.1.2={
-	add_spouse=221514
+		add_spouse=221514
 	}
 	1170.8.19={
 		death="1170.8.19"
@@ -5810,11 +5813,11 @@
 	culture="russian"
 	father=222542
 	mother=222543
-	1115.1.2={
-		birth="1115.1.2"
+	1145.1.2={
+		birth="1145.1.2"
 	}
-	1137.1.2={
-		death="1137.1.2"
+	1200.1.2={
+		death="1200.1.2"
 	}
 }
 
@@ -5979,7 +5982,7 @@
 	1153.1.2={
 		birth="1153.1.2"
 	}
-	1170.1.2={
+	1172.1.3={
 	add_spouse=222641
 	}
 	1196.1.2={
@@ -5995,8 +5998,8 @@
 	culture="russian"
 	father=222702
 	mother=125163
-	1153.1.2={
-		birth="1153.1.2"
+	1156.1.2={
+		birth="1156.1.2"
 	}
 	1203.1.2={
 		death="1203.1.2"
@@ -6048,8 +6051,8 @@
 	1144.1.2={
 		birth="1144.1.2"
 	}
-	1188.1.2={
-	add_spouse=221523
+	1182.1.2={
+		add_spouse=221523
 	}
 	1215.1.2={
 		death="1215.1.2"
@@ -6068,7 +6071,7 @@
 		birth="1185.1.2"
 	}
 	1211.1.2={
-	add_spouse=125104
+		add_spouse=125104
 	}
 	1246.9.20={
 		death="1246.9.20"
@@ -6989,7 +6992,7 @@
 		birth="1096.1.2"
 	}
 	1122.1.2={
-	add_spouse=125110
+		add_spouse=125110
 	}
 	1138.2.11={
 		death="1138.2.11"
@@ -7410,7 +7413,6 @@
 
 472301 = {
 	name="尤里"
-	dynasty=100387
 	martial=5
 	diplomacy=6
 	intrigue=4
@@ -8234,8 +8236,8 @@
 	culture="russian"
 	father=472794
 	mother=472795
-	1281.1.2={
-		birth="1281.1.2"
+	1283.1.2={
+		birth="1283.1.2"
 	}
 	1321.1.2={
 		death="1321.1.2"
@@ -8528,8 +8530,8 @@
 	culture="russian"
 	father=472822
 	mother=472823
-	1280.1.2={
-		birth="1280.1.2"
+	1282.1.2={
+		birth="1282.1.2"
 	}
 	1314.1.2={
 		death="1314.1.2"
@@ -8589,8 +8591,8 @@
 	culture="russian"
 	father=472834
 	mother=472835
-	1277.1.2={
-		birth="1277.1.2"
+	1279.1.2={
+		birth="1279.1.2"
 	}
 	1334.1.2={
 		death="1334.1.2"
@@ -8607,7 +8609,7 @@
 	1252.1.2={
 		birth="1252.1.2"
 	}
-	1276.1.2={
+	1278.1.2={
 	add_spouse=472835
 	}
 	1280.1.2={
@@ -8623,8 +8625,8 @@
 	culture="russian"
 	father=472794
 	mother=125177
-	1260.1.2={
-		birth="1260.1.2"
+	1262.1.2={
+		birth="1262.1.2"
 	}
 	1300.1.2={
 		death="1300.1.2"
@@ -8716,7 +8718,7 @@
 		birth="1220.5.30"
 	}
 	1239.1.2={
-	add_spouse=472845
+		add_spouse=472845
 	}
 	1263.11.14={
 		death="1263.11.14"
@@ -8913,8 +8915,8 @@
 	culture="russian"
 	father=472840
 	mother=472842
-	1331.1.2={
-		birth="1331.1.2"
+	1333.1.2={
+		birth="1333.1.2"
 	}
 	1365.1.2={
 		death="1365.1.2"
@@ -9356,7 +9358,7 @@
 	religion="orthodox"
 	culture="russian"
 	1270.1.2={
-		birth="1260.1.2"
+		birth="1270.1.2"
 	}
 	1320.1.2={
 		death="1320.1.2"
@@ -9442,17 +9444,20 @@
 }
 
 473511 = {
-	name="玛丽亚"
-	# AKA: Marija
-	female = yes
-	religion="orthodox"
-	culture="russian"
-	1310.1.2={
-		birth="1310.1.2"
-	}
-	1360.1.2={
-		death="1360.1.2"
-	}
+   name="玛丽亚"
+   # AKA: Marija
+   female = yes
+   dynasty=11100
+   religion="orthodox"
+   culture="mongol"
+   father=125512
+   mother=166946
+   1310.1.2={
+     birth=yes
+   }
+   1360.1.2={
+     death=yes
+   }
 }
 
 473512 = {
@@ -9822,7 +9827,7 @@
 		birth="1024.1.2"
 	}
 	1045.1.2={
-	add_spouse = 761
+		add_spouse = 761
 	}
 	1078.10.3={
 		death="1078.10.3"
@@ -9904,7 +9909,7 @@
 		birth="1025.1.2"
 	}
 	1067.1.5={
-		death="1050.1.5"
+		death="1067.1.5"
 	}
 }
 
@@ -10010,7 +10015,7 @@
 	dynasty=705
 	religion="orthodox"
 	culture="russian"
-	trait="bastard"
+	trait="legit_bastard"
 	father=626
 	1050.11.8={
 		birth="1050.11.8"
@@ -10258,8 +10263,8 @@
 	culture="russian"
 	father=626
 	mother=761
-	1043.1.1={
-		birth="1043.1.1"
+	1046.1.1={
+		birth="1046.1.1"
 	}
 	1075.1.1={
 		add_spouse=7061
@@ -10750,7 +10755,6 @@
 	religion="slavic_pagan"
 	culture="russian"
 	father = 194144
-	dynasty=1029138
 	822.1.1={
 		birth="822.1.1"
 	}
@@ -10966,7 +10970,7 @@
 160056 = {
 	name="克拉希米尔"
 	religion="slavic_pagan"
-	culture="russian"
+	culture="ilmenian"
 	dynasty=1029136
 	father=160057
 	785.1.1={
@@ -11538,8 +11542,8 @@
 	culture="russian"
 	father=125130
 	mother=125141
-	1210.1.1={
-		birth="1210.1.1"
+	1229.1.1={
+		birth="1229.1.1"
 	}
 	1270.1.1={
 		death="1270.1.1"
@@ -11765,7 +11769,7 @@
 	religion = slavic_pagan
 	culture = ilmenian
 	father = 194137
-	810.1.1 = {
+	802.1.1 = {#up from 810
 		birth = yes
 	}
 	866.1.1 = {

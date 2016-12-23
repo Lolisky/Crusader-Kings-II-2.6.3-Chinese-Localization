@@ -1164,10 +1164,13 @@
 	father=140
 	mother=367
 	1064.1.1 = {
-		birth="1064.1.1"
+		birth=yes
+	}
+	1087.9.9 = {
+		add_claim = k_england
 	}
 	1074.1.1 = {
-		death="1074.1.1"
+		death=yes
 	}
 }
 
@@ -1191,6 +1194,7 @@
 	1054.1.1 = {
 		birth="1054.1.1"
 	}
+	1087.9.9 = { add_claim = k_england }
 	1096.1.1 = {
 		trait="crusader"
 	}
@@ -1216,10 +1220,13 @@
 	father=140
 	mother=367
 	1061.1.1 = {
-		birth="1061.1.1"
+		birth=yes
+	}
+	1087.9.9 = {
+		add_claim = k_england
 	}
 	1090.8.13 = {
-		death="1090.8.13"
+		death=yes
 	}
 }
 
@@ -1239,6 +1246,9 @@
 	mother=367
 	1055.1.1 = {
 		birth="1055.1.1"
+	}
+	1087.9.9 = {
+		add_claim = k_england
 	}
 	1081.1.1 = {
 		death="1081.1.1"
@@ -1266,6 +1276,9 @@
 	1056.1.1 = {
 		birth="1056.1.1"
 	}
+	1087.9.9 = {
+		add_claim = k_england
+	}
 	1100.8.3 = {
 		death="1100.8.3"
 	}
@@ -1287,6 +1300,9 @@
 	mother=367
 	1057.1.1 = {
 		birth="1057.1.1"
+	}
+	1087.9.9 = {
+		add_claim = k_england
 	}
 	1126.7.30 = {
 		death="1126.7.30"
@@ -1380,7 +1396,7 @@
 	1012.1.1 = {
 		birth="1012.1.1"
 	}
-	1048.1.1 = {
+	1036.1.1 = {
 		add_spouse=449 #Maud de Belesme/Talvas
 	}
 	1074.1.1 = {
@@ -1426,8 +1442,8 @@
 	trait="flamboyant_schemer"
 	father=41000
 	mother=41001
-	1030.1.2 = {
-		birth="1030.1.2"
+	1028.1.2 = {
+		birth="1028.1.2"
 	}
 	1080.1.2 = {
 		death="1080.1.2"
@@ -1891,7 +1907,8 @@
 	religion="catholic"
 	culture="norman"
 	trait="tough_soldier"
-	father=144700
+	#father=144700
+	father = 190000
 	1054.1.1 = {
 		birth=yes
 	}
@@ -1910,7 +1927,8 @@
 	religion="catholic"
 	culture="norman"
 	trait="martial_cleric"
-	father=144700
+	#father=144700
+	father = 190000
 	1056.1.1 = {
 		birth="1056.1.1"
 	}
@@ -1987,7 +2005,10 @@
 	father=140
 	mother=367
 	1068.9.1 = {
-		birth="1068.9.1"
+		birth=yes
+	}
+	1087.9.9 = {
+		add_claim = k_england
 	}
 	1100.11.11 = {
 		add_spouse=202995
@@ -1996,7 +2017,7 @@
 		add_spouse=206857 #Adelheid Reginar
 	}
 	1135.12.1 = {
-		death="1135.12.1"
+		death=yes
 	}
 }
 
@@ -2060,8 +2081,8 @@
 	trait="tough_soldier"
 	father=204050
 	mother=204051
-	1140.1.1 = {
-		birth="1140.1.1"
+	1143.1.1 = {
+		birth="1143.1.1"
 	}
 	1185.1.1 = {
 		death="1185.1.1"
@@ -2203,11 +2224,14 @@
 	trait="amateurish_plotter"
 	father=140
 	mother=367
-	1062.1.1 = {
-		birth="1062.1.1"
+	1067.1.1 = {
+		birth=yes
+	}
+	1087.9.9 = {
+		add_claim = k_england
 	}
 	1137.3.8 = {
-		death="1137.3.8"
+		death=yes
 	}
 }
 
@@ -2225,8 +2249,8 @@
 	trait="flamboyant_schemer"
 	father=205986
 	mother=205982
-	1175.1.2 = {
-		birth="1175.1.2"
+	1181.1.2 = {
+		birth="1181.1.2"
 	}
 	1242.1.2 = {
 		death="1242.1.2"
@@ -3372,6 +3396,7 @@
 	culture="norman"
 	father=71253
 	mother=1143
+	trait = legit_bastard
 	1070.1.1 = {
 		birth="1070.1.1"
 	}
@@ -4768,8 +4793,8 @@
 	trait="flamboyant_schemer"
 	father=42006
 	mother=42005
-	1020.1.2 = {
-		birth="1020.1.2"
+	1027.1.2 = {
+		birth="1027.1.2"
 	}
 	1066.1.2 = {
 		add_spouse=42008
@@ -4874,8 +4899,8 @@
 	culture="norman"
 	trait="charismatic_negotiator"
 	father=448
-	1023.1.1 = {
-		birth="1023.1.1"
+	1020.1.1 = {
+		birth="1020.1.1"
 	}
 	# 1048 married  #Roger II de Montgommery
 	1075.1.1 = {
@@ -5111,8 +5136,8 @@
 	trait="thrifty_clerk"
 	father=6806
 	mother=110639
-	1053.1.2 = {
-		birth="1053.1.2"
+	1056.1.2 = {
+		birth="1056.1.2"
 	}
 	1103.1.2 = {
 		death="1103.1.2"
@@ -5513,6 +5538,7 @@
 	culture="norman"
 	father=41250
 	mother=156
+	trait=legit_bastard
 	1045.1.1 = {
 		birth="1045.1.1"
 	}
@@ -5792,7 +5818,6 @@
 	dynasty=101691
 	martial=7
 	diplomacy=5
-	diplomacy=5
 	intrigue=5
 	stewardship=7
 	religion="catholic"
@@ -5854,14 +5879,15 @@
 	trait="brilliant_strategist"
 	father=1120
 	mother=10008
-	1007.1.2 = {
-		birth="1007.1.2"
+	trait=legit_bastard
+	1018.1.2 = {
+		birth=yes
 	}
-	1070.1.1={
-		add_spouse=200365
-	}
-	1063.1.2 = {
-		death="1063.1.2"
+	#1070.1.1={
+	#	add_spouse=200365
+	#}
+	1071.1.2 = {
+		death=yes
 	}
 }
 
