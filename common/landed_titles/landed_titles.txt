@@ -50,9 +50,9 @@ k_papal_state = {
 	
 	# Regnal names
 	male_names = {
-		Alexander Anastasius Benedictus Caelestinus Callistus Clemens Eugenius Leo
-		Gregorius Hadrianus Honorius Innocentius Ioannes Lucius Marinus Martinus
-		Nicolaus Sergius Silvester Stephanus Urbanus Victor
+		亚历山大 亚纳大削 本笃 雷定 加理多 克雷芒 恩仁 良
+		额我略 亚德 哈德良 英诺森 若望 路爵 马里诺 马丁
+		尼古拉 思齐 思维 德范 乌尔班 维笃
 	}
 }
 
@@ -3894,15 +3894,15 @@ e_germany = {
 				color2={ 255 255 255 }
 				
 				b_mitterburg = {
-					croatian = "Pazin"
-					serbian = "Pazin"
-					italian = "Pisino"
-					greek = "Pisino"
+					croatian = "帕津"
+					serbian = "帕津"
+					italian = "皮西诺"
+					greek = "皮西诺"
 				}
 				b_trieste = {
-					german = "Triest"
-					croatian = "Trst"
-					serbian = "Trst"
+					german = "的里雅斯特"
+					croatian = "的斯特"
+					serbian = "的斯特"
 				}
 				b_fiume = {
 				}
@@ -3967,9 +3967,9 @@ e_germany = {
 				b_aquileia = {
 				}
 				b_udine = {
-					german = "Weiden"
-					croatian = "Videm"
-					serbian = "Videm"
+					german = "魏登"
+					croatian = "魏德"
+					serbian = "魏德"
 				}
 				b_friuli = {
 				}
@@ -4194,18 +4194,18 @@ e_germany = {
 			
 			capital = 119 #Cologne
 			
-			norse = K?ln
-			swedish = K?ln
-			danish = K?ln
-			norwegian = K?ln
-			german = K?ln
-			lombard = K?ln
-			old_frankish = K?ln
-			suebi = K?ln
-			dutch = Keulen
-			frisian = Keulen
-			saxon = K?ln
-			old_saxon = K?ln
+			norse = "科隆"
+			swedish = "科隆"
+			danish = "科隆"
+			norwegian = "科隆"
+			german = "科隆"
+			lombard = "科隆"
+			old_frankish = "科隆"
+			suebi = "科隆"
+			dutch = "寇仑"
+			frisian = "寇仑"
+			saxon = "科隆"
+			old_saxon = "科隆"
 			
 			c_koln = {
 				color={ 141 141 141 }
@@ -4213,32 +4213,32 @@ e_germany = {
 
 				holy_site = catholic
 				
-				norse = K?ln
-				swedish = K?ln
-				danish = K?ln
-				norwegian = K?ln
-				german = K?ln
-				lombard = K?ln
-				old_frankish = K?ln
-				suebi = K?ln
-				dutch = Keulen
-				frisian = Keulen
-				saxon = K?ln
-				old_saxon = K?ln
+				norse = "科隆"
+				swedish = "科隆"
+				danish = "科隆"
+				norwegian = "科隆"
+				german = "科隆"
+				lombard = "科隆"
+				old_frankish = "科隆"
+				suebi = "科隆"
+				dutch = "寇仑"
+				frisian = "寇仑"
+				saxon = "科隆"
+				old_saxon = "科隆"
 				
 				b_koln = {
-					norse = K?ln
-					swedish = K?ln
-					danish = K?ln
-					norwegian = K?ln
-					german = K?ln
-					lombard = K?ln
-					old_frankish = K?ln
-					suebi = K?ln
-					dutch = Keulen
-					frisian = Keulen
-					saxon = K?ln
-					old_saxon = K?ln
+					norse = "科隆"
+					swedish = "科隆"
+					danish = "科隆"
+					norwegian = "科隆"
+					german = "科隆"
+					lombard = "科隆"
+					old_frankish = "科隆"
+					suebi = "科隆"
+					dutch = "寇仑"
+					frisian = "寇仑"
+					saxon = "科隆"
+					old_saxon = "科隆"
 				}
 				b_berg = {
 				}
@@ -4541,8 +4541,8 @@ e_roman_empire = {
 	
 	short_name = yes
 	
-	title = "Emperor"
-	title_female = "Empress"
+	title = "皇帝"
+	title_female = "女皇"
 	purple_born_heirs = yes
 	
 	culture = italian
@@ -4685,10 +4685,10 @@ e_byzantium = {
 				color={ 205 104 170 }
 				color2={ 255 255 20 }
 				
-				turkish = "Iznik"
+				turkish = "伊兹尼克"
 				
 				b_nikaea = {
-					turkish = "Iznik"
+					turkish = "伊兹尼克"
 				}
 				b_kios = {
 				}
@@ -4709,10 +4709,10 @@ e_byzantium = {
 				color={ 208 107 173 }
 				color2={ 255 255 20 }
 				
-				turkish = "Izmit"
+				turkish = "伊兹密特"
 				
 				b_nikomedeia = {
-					turkish = "Izmit"
+					turkish = "伊兹密特"
 				}
 				b_chalkedon = {
 				}
@@ -4725,7 +4725,7 @@ e_byzantium = {
 				b_palodes = {
 				}
 				b_adapazari = {
-					greek = "Mesonesion"
+					greek = "迈索隆吉翁"
 				}
 				b_malagina = {
 				}
@@ -4734,22 +4734,22 @@ e_byzantium = {
 				color={ 211 110 176 }
 				color2={ 255 255 20 }
 				
-				turkish = "Bursa"
+				turkish = "布尔沙"
 				
 				b_prusa = {
-					turkish = "Hüdavendigar"
+					turkish = "帝都" # Hüdavendigar
 				}
 				b_darieium = {
-					greek = "Dorieion"
-					turkish = "S?güt"
+					greek = "多里吉翁"
+					turkish = "瑟于特"
 				}
 				b_apamea = {
-					greek = "Trigleia"
-					turkish = "Tirilye"
+					greek = "特里格里亚"
+					turkish = "提里叶"
 				}
 				b_docimium = {
-					greek = "Dokimeion"
-					turkish = "Iscehisar"
+					greek = "多喀米农"
+					turkish = "厄斯杰希萨尔"
 				}
 				b_adrastea = {
 				}
@@ -4764,13 +4764,13 @@ e_byzantium = {
 				color={ 214 113 179 }
 				color2={ 255 255 20 }
 				
-				turkish = "Erdek"
+				turkish = "埃尔代克"
 				
 				b_kyzikos = {
-					turkish = "Aydincik"
+					turkish = "阿伊登哲克"
 				}
 				b_artake = {
-					turkish = "Erdek"
+					turkish = "埃尔代克"
 				}
 				b_militopolis = {
 				}
@@ -4796,12 +4796,12 @@ e_byzantium = {
 				color={ 237 42 171 }
 				color2={ 255 255 20 }
 				
-				turkish = "Ayasoluk"
+				turkish = "阿雅索路克"
 
 				holy_site = orthodox
 				
 				b_ephesos = {
-					turkish = "Ayasoluk"
+					turkish = "阿雅索路克"
 				}
 				b_lebedos = {
 				}
@@ -4822,10 +4822,10 @@ e_byzantium = {
 				color={ 240 45 174 }
 				color2={ 255 255 20 }
 				
-				turkish = "Izmir"
+				turkish = "伊兹密尔"
 				
 				b_smyrna = {
-					turkish = "Izmir"
+					turkish = "伊兹密尔"
 				}
 				b_pergamon = {
 				}
@@ -4846,13 +4846,13 @@ e_byzantium = {
 				color={ 243 48 177 }
 				color2={ 255 255 20 }
 				
-				turkish = "Sisam"
+				turkish = "锡萨姆"
 				
 				b_samos = {
-					turkish = "Sisam"
+					turkish = "锡萨姆"
 				}
 				b_chios = {
-					turkish = "Sakiz"
+					turkish = "萨克茲"
 				}
 				b_tigani = {
 				}
@@ -4878,12 +4878,12 @@ e_byzantium = {
 				color={ 147 55 115 }
 				color2={ 255 255 20 }
 				
-				turkish = "Balakhisar"
+				turkish = "巴拉希萨"
 
 				holy_site = hellenic_pagan
 				
 				b_abydos = {
-					turkish = "Balakhisar"
+					turkish = "巴拉希萨"
 				}
 				b_lampsakos = {
 				}
@@ -4904,20 +4904,20 @@ e_byzantium = {
 				color={ 149 57 117 }
 				color2={ 255 255 20 }
 				
-				turkish = "Kiklad"
-				italian = "Egeopelagi"
+				turkish = "基克拉泽"
+				italian = "埃及奥佩拉吉"
 				
 				b_naxos = {
-					turkish = "Naksa"
-					italian = "Nasso"
+					turkish = "挫折岛"
+					italian = "那索"
 				}
 				b_hermoupolis = {
-					turkish = "Sire"
-					italian = "Syra"
+					turkish = "锡列"
+					italian = "锡拉"
 				}
 				b_santorini = {
-					greek = "Thera"
-					turkish = "Santoron"
+					greek = "锡拉"
+					turkish = "圣托仑"
 				}
 				b_andros = {
 				}
@@ -4934,12 +4934,12 @@ e_byzantium = {
 				color={ 151 59 119 }
 				color2={ 255 255 20 }
 				
-				italian = "Negroponte"
-				turkish = "Egriboz"
+				italian = "黑桥"
+				turkish = "埃格瑞博兹"
 				
 				b_chalkis = {
-					italian = "Negroponte"
-					turkish = "Egriboz"
+					italian = "黑桥"
+					turkish = "埃格瑞博兹"
 				}
 				b_kymi = {
 				}
@@ -4960,10 +4960,10 @@ e_byzantium = {
 				color={ 153 61 121 }
 				color2={ 255 255 20 }
 				
-				turkish = "Midilli"
+				turkish = "米蒂利尼"
 				
 				b_mytilene = {
-					turkish = "Midilli"
+					turkish = "米蒂利尼"
 				}
 				b_mithymna = {
 				}
@@ -4995,11 +4995,11 @@ e_byzantium = {
 				color={ 176 80 143 }
 				color2={ 255 255 20 }
 				
-				turkish = "Gelibolu"
+				turkish = "盖利博卢"
 				
 				b_gallipoli = {
-					turkish = "Gelibolu"
-					greek = "Kallipolis"
+					turkish = "盖利博卢"
+					greek = "加里波利斯"
 				}
 				b_heraclea = {
 				}
@@ -5028,25 +5028,25 @@ e_byzantium = {
 
 				holy_site = orthodox
 				
-				turkish = "Kostantiniyye"
+				turkish = "科斯坦丁尼耶"
 				
 				b_constantinople = {
-					turkish = "Kostantiniyye"
+					turkish = "科斯坦丁尼耶"
 				}
 				b_hagiasophia = {
 					pentarchy = yes
-					turkish = "Ayasofya"
+					turkish = "圣索菲亚清真寺"
 				}
 				b_galata = {
 				}
 				b_blachernae = {
-					turkish = "Ayvansaray"
+					turkish = "阿依万萨莱"
 				}
 				b_hieron = {
-					turkish = "Kadik?y"
+					turkish = "卡德柯伊"
 				}
 				b_deuteron = {
-					turkish = "Topkapi"
+					turkish = "托普卡珀"
 				}
 				b_pempton = {
 				}
@@ -16061,13 +16061,13 @@ e_tartaria = {
 			
 				color = { 50 95 130 }
 				
-				uyghur = "ürümqi"
-				mongol = "ürümqi"
+				uyghur = "乌鲁木齐"
+				mongol = "乌鲁木齐"
 				tocharian = "Urabo"
 				
 				b_luntai = {
-					uyghur = "ürümqi"
-					mongol = "ürümqi"
+					uyghur = "乌鲁木齐"
+					mongol = "乌鲁木齐"
 					tocharian = "Urabo"
 				}
 				b_fukang = {
@@ -16096,8 +16096,8 @@ e_tartaria = {
 			
 				color = { 70 200 230 }
 				
-				tocharian = "Kror?n"
-				uyghur = "Qroran"
+				tocharian = "柯罗阑"
+				uyghur = "柯罗阑"
 				
 				b_loulan = {
 				}
@@ -16143,10 +16143,10 @@ e_tartaria = {
 			
 				color = { 100 230 255 }
 				
-				uyghur = "Dukhan"
+				uyghur = "杜汉"
 				
 				b_dunhuang = {
-					uyghur = "Dukhan"
+					uyghur = "杜汉"
 				}
 				b_fangpan = {
 				}
