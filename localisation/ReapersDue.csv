@@ -3467,7 +3467,7 @@ heir_text_traits_cruel_wroth;他是一个真正的虐待狂，我们担忧王国会在 [GetHerHis] 
 heir_text_traits_wroth_zealous;被宗教热情所蒙蔽，异端和异教徒都害怕 [GetHerHis] 的正义之怒; lui succ鑔e. Aveugl閇GetNoneE] par sa ferveur religieuse, les h閞閠iques et les infid鑜es craindront sa fureur vertueuse;Geblendet von religi鰏er Leidenschaft, wird [GetSheHe] Heiden und Ketzern mit rechtschaffenem Zorn das F黵chten lehren.;;Cegado/a por el fervor religioso, infieles y herejes aprender醤 a temer [GetHerHis] justa ira;;;;;;;;;x
 heir_text_traits_paranoid_deceitful;他是一个狡猾可疑的人，我们觉得 [GetHerHim] 会用匕首把我们每个人的名字上从名单上划去; lui succ鑔e. Retors et m閒iant[GetNoneE], nous nous attendons ? 阾re des cibles pour [GetHerselfHimself];Da [GetSheHe] verschlagen und argw鰄nisch ist, h鋖t [GetSheHe] sicher schon eine Sammlung von Dolchen mit unseren Namen darauf bereit.;;Personaje artero y desconfiado, [GetHerHim] imaginamos llevando dagas con nuestros nombres escritos en ellas;;;;;;;;;x
 ;# NEW TEXT;;;
-province_embellishment;省份贪污;Embellissement provincial;Provinzversch鰊erung;;Embellecimiento de la provincia;;;;;;;;x
+province_embellishment;省份细节;Embellissement provincial;Provinzversch鰊erung;;Embellecimiento de la provincia;;;;;;;;x
 FILTER_MY_DYNASTY;我的王朝;Ma dynastie;Meine Dynastie;;Mi dinast韆.;;;;;;;;;x
 DISTANT_CHARACTER;超出外交范围?!;Hors de port閑 diplomatique?!;Au遝rhalb diplomatischer Reichweite?!;;Fuera de alcance diplom醫ico?!;;;;;;;;;x
 SET_PACIFIED_EFFECT;防止 $CHAR|Y$ 向同一王国宣战直到 $DATE|Y$ ;Emp阠he ? $CHAR|Y$ de d閏larer la guerre ? d'autres vassaux du m阭e pays jusqu'au $DATE|Y$.;Hindert $CHAR|Y$ bis zum $DATE|Y$ daran, anderen im selben Reich den Krieg zu erkl鋜en.;;Impide a $CHAR|Y$ declara la guerra a otros del mismo reino hasta $DATE|Y$.;;;;;;;;;x
@@ -4034,11 +4034,11 @@ EVTDESC534_converted;来自[Root.GetBaseName]的[From.Religion.GetCrusadeName]对抗[
 EVTDESC534_coup;来自[Root.GetBaseName]的[From.Religion.GetCrusadeName]对抗[New.GetTitledName]，结果[New.GetSheHe]被掀翻。[From.Religion.GetGroupName]信徒将会失望。;La [From.Religion.GetCrusadeName] pour [Root.GetBaseName] contre [New.GetTitledName] a pris fin puisqu'[New.GetSheHe] a 閠? renvers閇New.GetNoneE]. Les fid鑜es [From.Religion.GetGroupName]s seront d殓us.;Der [From.Religion.GetCrusadeName] f黵 [Root.GetBaseName] gegen [New.GetTitledName] hat geendet, als [New.GetSheHe] bezwungen wurde. Die Anh鋘ger der [From.Religion.GetGroupName] werden entt鋟scht sein.;;El [From.Religion.GetCrusadeName] por [Root.GetBaseName] contra [New.GetTitledName] ha terminado tras su derrocamiento. Los fieles [From.Religion.GetGroupName] estar醤 decepcionados.;;;;;;;x
 vassal_wars_law;诸侯宣战;Guerres des vassaux;Vasallenkriegserkl鋜ung;;Declaraci髇 de guerra de vasallos;;;;;;;;;x
 vassal_wars_law_desc;诸侯宣战;Guerres des vassaux;Vasallenkriegserkl鋜ung;;Declaraci髇 de guerra de vasallos;;;;;;;;;x
-vassal_wars_law_0;失控的诸侯战争;Guerres vassales libres;Unkontrollierte Vasallenkriege;;Guerras de vasallos descontroladas;;;;;;;;;x
+vassal_wars_law_0;诸侯随意发动战争;Guerres vassales libres;Unkontrollierte Vasallenkriege;;Guerras de vasallos descontroladas;;;;;;;;;x
 vassal_wars_law_0_option;允许;Autoris?;Erlaubt;;Permitido;;;;;;;;;x
-vassal_wars_law_1;外部诸侯战争;Guerres vassales externes seulement;Nur externe Vasallenkriege;;Solo guerras de vasallos externas;;;;;;;;;x
-vassal_wars_law_1_option;External;Externe;Extern;;Externo;;;;;;;;;x
-vassal_wars_law_2;未经允许的诸侯战争;Guerres vassales interdites;Untersagte Vasallenkriege;;Guerras de vasallos no permitidas;;;;;;;;;x
+vassal_wars_law_1;诸侯可以对外宣战;Guerres vassales externes seulement;Nur externe Vasallenkriege;;Solo guerras de vasallos externas;;;;;;;;;x
+vassal_wars_law_1_option;对外;Externe;Extern;;Externo;;;;;;;;;x
+vassal_wars_law_2;诸侯不允许发动战争;Guerres vassales interdites;Untersagte Vasallenkriege;;Guerras de vasallos no permitidas;;;;;;;;;x
 vassal_wars_law_2_option;非法;Ill間al;Verboten;;Ilegal;;;;;;;;;x
 become_normal_ill;感染普通疾病;Souffre d'une maladie ordinaire;Leidet an einer normalen Krankheit;;Sufre una enfermedad normal;;;;;;;;;x
 become_mild_ill;感染微恙;Souffre d'une maladie b閚igne;Leidet an einer leichten Krankheit;;Sufre una enfermedad suave;;;;;;;;;x
@@ -4057,6 +4057,3 @@ FEMALE_ENDING_E;$$;e;;;;;;;;;;;x
 MALE_ENDING_E;$$;;;;;;;;;;;;x
 OBJ_PRONOUN_MAL_CAP;他;Le;Ihn;;Lo;Lui;;;;;;;;x
 OBJ_PRONOUN_FEM_CAP;她;La;Sie;;La;;;;;;;;;x
-
-
-
