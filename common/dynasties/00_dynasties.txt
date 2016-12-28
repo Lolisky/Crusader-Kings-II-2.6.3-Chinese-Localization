@@ -31223,7 +31223,7 @@
 }
 1031025=
 {
-	name="Ğ¡º¢"
+	name="ÂêµÂ¶ò ¿âÇÇ¿Ë"
 	culture="dutch"
 	religion="catholic"
 	coat_of_arms=
@@ -31268,7 +31268,7 @@
 }
 1031030=
 {
-	name="Rudén"
+	name="Â¬µä"
 	culture="swedish"
 	religion="norse_pagan"
 	used_for_random=no
@@ -31276,7 +31276,7 @@
 
 1051126=
 {
-	name="°Í±¾±´¸ñ"
+	name="°Í±¾±¤"
 	culture="norse"
 	religion="norse_pagan"
 	used_for_random=no
@@ -40383,7 +40383,7 @@
 }
 9326=
 {
-	name="Áå"
+	name="ÁåÒô"
 	culture="old_frankish"
 	religion="catholic"
 }
@@ -40527,7 +40527,7 @@
 }
 1040230=
 {
-	name="Íá¸Â"
+	name="ÍâÙ¤"
 	culture="ugricbaltic"
 	religion="finnish_pagan"
 }
@@ -40611,7 +40611,7 @@
 }
 1042188=
 {
-	name="ÊË"
+	name="Ê²"
 	culture="persian"
 	religion="zoroastrian"
 }
@@ -40803,7 +40803,7 @@
 }
 1045019=
 {
-	name="ÍòËê"
+	name="ÍòË÷"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -41417,86 +41417,86 @@
 }
 1045087=
 {
-	name="Saua"
+	name="ÉÒØİ" #Saua
 	culture="khitan"
 	religion="buddhist"
 }
 1045088=
 {
-	name="Mori"
+	name="ÎçÂí"
 	culture="khitan"
 }
 1045089=
 {
-	name="Udur"
+	name="ÎÓ¶ä"
 	culture="khitan"
 }
 1045090=
 {
-	name="Sen"
+	name="Éê"
 	culture="khitan"
 }
 1045091=
 {
-	name="Daurun"
+	name="¹|ÂØ" #Daurun
 	culture="khitan"
 }
 1045092=
 {
-	name="Nair" #Nair ÈÕ
+	name="ÈÕêÅ" #Nair 
 	culture="khitan"
 }
 1045093=
 {
-	name="Uul"
+	name="Áú·ü" #Uul
 	culture="khitan"
 }
 1045094=
 {
-	name="Taulia" #ÍÃ
+	name="Øãš´" #Taulia
 	culture="khitan"
 }
 1045095=
 {
-	name="Suni"
+	name="Ò¹Şé"
 	culture="khitan"
 }
 1051113=
 {
-	name="Varzakk"
+	name="°Îé¶åÈ"
 	culture="sogdian"
 	religion="manichean"
 }
 1051114=
 {
-	name="Karzh"
+	name="…íÛ¤"
 	culture="sogdian"
 	religion="manichean"
 }
 1051115=
 {
-	name="Khwatawch"
+	name="¿µ"
 	culture="sogdian"
 	religion="manichean"
 }
 1051116=
 {
-	name="Namdar"
+	name="ÄÇßÕ"
 	culture="sogdian"
 }
 1051117=
 {
-	name="Lushan"
+	name="Â»É½"
 	culture="sogdian"
 }
 1051118=
 {
-	name="Tuhun"
+	name="ÍÂ»ë"
 	culture="sogdian"
 }
 1051119=
 {
-	name="Uzgen"
+	name="ÎÚ½ğ"
 	culture="turkish"
 	religion="sunni"
 }
@@ -41527,7 +41527,7 @@
 }
 1051123=
 {
-	name="Tapmish"
+	name="ËşÃ×Ê²"
 	culture="uyghur"
 	religion="buddhist"
 	coat_of_arms=
@@ -41558,24 +41558,24 @@
 }
 1051134=
 {
-	name="Kuni"
+	name="¿âÄá"
 	culture="cuman"
 }
 1051135=
 {
-	name="Kopek"
+	name="¸ê±È"
 	culture="cuman"
 	religion="tengri_pagan"
 }
 1051136=
 {
-	name="Kankali"
+	name="¿²¿¨Àï"
 	culture="pecheneg"
 	religion="tengri_pagan"
 }
 1051137=
 {
-	name="Kazym"
+	name="¿¨¼ªÄ·"
 	culture="khanty"
 	religion="finnish_pagan"
 	coat_of_arms=
@@ -41610,46 +41610,46 @@
 }
 1051142=
 {
-	name="al-Bahili"
+	name="°¢°ÍºÚÀï"
 	culture="bedouin_arabic"
 	religion="sunni"
 }
 1051143=
 {
-	name="Khuda"
+	name="ºú"
 	culture="sogdian"
 	religion="zoroastrian"
 }
 1051144=
 {
-	name="Bukhar"
+	name="²¼¹ş"
 	culture="sogdian"
 	religion="zoroastrian"
 	used_for_random=no
 }
 1051145=
 {
-	name="Afshin"
+	name="Ê·"
 	culture="sogdian"
 	religion="manichean"
 }
 1051146=
 {
-	name="Hanaya"
+	name="¹şÄÇÑÇ"
 	culture="bedouin_arabic"
 	religion="sunni"
 	used_for_random=no
 }
 1051147=
 {
-	name="Matteski"
+	name="Âí³¹Ë¹¼ª"
 	culture="greek"
 	religion="orthodox"
 	used_for_random=no
 }
 1051148=
 {
-	name="Bruce"
+	name="²¼Â³Ë¹"
 	culture="scottish"
 	religion="catholic"
 	coat_of_arms=
@@ -41663,233 +41663,233 @@
 }
 1051149=
 {
-	name = "Kalinga Lanka"
+	name = "åÈÀëÄÇ À¼åÈ"
 	culture = sinhala
 	religion = buddhist
 }
 1040021=
 {
-	name="Polo"
+	name="²¨ÂŞ"
 	culture="italian"
 	religion="catholic"
 }
 1040022=
 {
-	name="Defuseh"
+	name="µÂ·òÈû"
 	culture="italian"
 	religion="catholic"
 }
 1040023=
 {
-	name="Badoer"
+	name="°Í¶à¶û"
 	culture="italian"
 	religion="catholic"
 }
 1040024=
 {
-	name="Vijaya"
+	name="Ò·¼ÓØİ"
 	culture="sogdian"
 	religion="buddhist"
 }
 1040025=
 {
-	name="Amala"
+	name="°²"
 	culture="sogdian"
 	religion="buddhist"
 }
 1040026=
 {
-	name="Asu"
+	name="°¢ËÙ"
 	culture="sogdian"
 	religion="buddhist"
 }
 1040027=
 {
-	name="Phrom"
+	name="æÚÂŞ"
 	culture="sogdian"
 	religion="buddhist"
 }
 1040028=
 {
-	name="Hurod"
+	name="ºô"
 	culture="sogdian"
 	religion="buddhist"
 }
 1040029=
 {
-	name="Bugunpan"
+	name="²¼ÙòÅÍ"
 	culture="sogdian"
 	religion="buddhist"
 }
 1040030=
 {
-	name="Gahjag"
+	name="¸ÁåÈ"
 	culture="sogdian"
 	religion="buddhist"
 }
 1040031=
 {
-	name="Kausal"
+	name="Ù¤É³"
 	culture="tocharian"
 }
 1040032=
 {
-	name="Gank"
+	name="¸Êçæ"
 	culture="tocharian"
 }
 1040033=
 {
-	name="Tenare"
+	name="ëøƒÈÀë"
 	culture="tocharian"
 }
 1040034=
 {
-	name="Ytarim"
+	name="…ƒÀï"
 	culture="tocharian"
 }
 1040035=
 {
-	name="Tripuskar"
+	name="‚…¸¦Ë¹åÈ"
 	culture="tocharian"
 }
 1040036=
 {
-	name="Dantapur"
+	name="µ¤Ì¢²·"
 	culture="tocharian"
 }
 1040037=
 {
-	name="Baransi"
+	name="°ÎÀ»ŞÉ"
 	culture="tocharian"
 }
 1040038=
 {
-	name="Yurpaska"
+	name="ŞÌÅÁË¹åÈ"
 	culture="tocharian"
 }
 1040039=
 {
-	name="Rohini"
+	name="Â¦ŞÉÄä"
 	culture="tocharian"
 }
 1040040=
 {
-	name="Vaideh"
+	name="ßÃ•A"
 	culture="tocharian"
 }
 1040041=
 {
-	name="Vaisali"
+	name="ßÃÈøÁ¦"
 	culture="tocharian"
 }
 1040042=
 {
-	name="Iksvaku"
+	name="Òà¿ÂÈø?"
 	culture="tocharian"
 }
 1040043=
 {
-	name="Kausika"
+	name="‘xÊÀåÈ"
 	culture="tocharian"
 }
 1040044=
 {
-	name="Kausika"
+	name="‘xÊÀåÈ"
 	culture="tocharian"
 }
 1040045=
 {
-	name="Sakke"
+	name="æ¶ê]"
 	culture="tocharian"
 }
 1040046=
 {
-	name="Kasake"
+	name="åÈæ¶ê]"
 	culture="tocharian"
 }
 1040047=
 {
-	name="Yarkam"
+	name="ê^åÈ"
 	culture="tocharian"
 }
 1040048=
 {
-	name="Bharuka"
+	name="ÆÅÂ¬åÈ"
 	culture="tocharian"
 	religion="buddhist"
 }
 1040049=
 {
-	name="Cadota"
+	name="Æı¶¹Ëş"
 	culture="tocharian"
 }
 1040050=
 {
-	name="Lyam"
+	name="Á®"
 	culture="tocharian"
 }
 1040051=
 {
-	name="Arsi"
+	name="°¢ŞÉ"
 	culture="tocharian"
 	religion="buddhist"
 }
 1040052=
 {
-	name="Kuci"
+	name="Ü¥Æò"
 	culture="tocharian"
 	religion="buddhist"
 }
 1040053=
 {
-	name="Urabo"
+	name="Ø£Øİ²·"
 	culture="tocharian"
 	religion="buddhist"
 }
 1040054=
 {
-	name="Kroran"
+	name="Ú­Â¦À»"
 	culture="tocharian"
 	religion="buddhist"
 }
 1040055=
 {
-	name="Kunlyu"
+	name="À¥Áø"
 	culture="tocharian"
 }
 1040056=
 {
-	name="Turtam"
+	name="ÍÁÌ´"
 	culture="tocharian"
 	religion="buddhist"
 }
 1040057=
 {
-	name="Kasyar"
+	name="åÈË¼…ƒ"
 	culture="sogdian"
 	religion="buddhist"
 }
 1040058=
 {
-	name="Sarikol"
+	name="ÉİÀëÀª"
 	culture="sogdian"
 	religion="buddhist"
 }
 1040059=
 {
-	name="Jemotwona"
+	name="Ò¶Ä©ÍÓÄÇ"
 	culture="tocharian"
 	religion="buddhist"
 }
 1040060=
 {
-	name="Narubho"
+	name="ÄÇÂ¬²½"
 	culture="tocharian"
 	religion="buddhist"
 }
 1040061=
 {
-	name="Calmandana"
+	name="¿¦Âü´ğÄÇ"
 	culture="sogdian"
 }
 1040062=
@@ -41900,7 +41900,7 @@
 }
 1040063=
 {
-	name="Hosa"
+	name="»ôÈø"
 	culture="uyghur"
 	religion="manichean"
 }
@@ -41918,152 +41918,152 @@
 }
 1042115=
 {
-	name="Ibrahimid"
+	name="Ò×²·À­ĞÀÃ×µÂ"
 	culture="bedouin_arabic"
 	religion="sunni"
 }
 1042116=
 {
-	name="Banu Kalb"
+	name="°ÍÅ¬ ¿¨²¼"
 	culture="bedouin_arabic"
 	religion="sunni"
 }
 1042117=
 {
-	name="Banu Tayy"
+	name="°ÍÅ¬ ËşÒÁ"
 	culture="bedouin_arabic"
 	religion="sunni"
 }
 1042118=
 {
-	name="Banu Judham"
+	name="°ÍÅ¬ ¾Ó´ïÄ·"
 	culture="bedouin_arabic"
 	religion="sunni"
 }
 1042119=
 {
-	name="Banu Udhrah"
+	name="°ÍÅ¬ ÎÚµÂÀ­"
 	culture="bedouin_arabic"
 	religion="sunni"
 }
 1042120=
 {
-	name="Banu Kinanah"
+	name="°ÍÅ¬ »ùÄÇÄÇ"
 	culture="bedouin_arabic"
 	religion="sunni"
 }
 1042139 = {
-	name="Hamzahbid"
+	name="¹şÄ·Ôú±È"
 	culture = bedouin_arabic
 	religion = sunni
 }
 1045096 = {
-	name = Bakhchisaray
+	name = "°ÍºÕÆæÈøÀµ"
 	culture = cuman
 	religion = tengri_pagan
 }
 1045097 = {
-	name = Varzas
+	name = "ÍßÔÑË¹"
 	culture = cuman
 	religion = tengri_pagan
 }
 1045098 = {
-	name = Tana
+	name = "ËşÄÉ"
 	culture = cuman
 	religion = tengri_pagan
 }
 1045099 = {
-	name = °¢À­¶û¿âÄ· # Aralkum¹şÈø¿ËµØÃû
+	name = "°¢À­¶û¿âÄ·" # Aralkum¹şÈø¿ËµØÃû
 	culture = mongol
 	religion = tengri_pagan
 }
 1045100 = {
-	name = ´ïÄÈ # Dana
+	name = "´ïÄÈ" # Dana
 	culture = mongol
 	religion = sunni
 }
 1045101 = {
-	name = °¢¿ËÍĞ±ğ # Aqtobe
+	name = "°¢¿ËÍĞ±ğ" # Aqtobe
 	culture = mongol
 	religion = sunni
 }
 1045102 = {
-	name = °×¼Ñ¶û # BailjarÒôÒë
+	name = "°×¼Ñ¶û" # BailjarÒôÒë
 	culture = mongol
 	religion = tengri_pagan
 }
 1045103 = {
-	name = ¿¨×ÈËş # Kaztal ¹şÈø¿ËµØÃû½ØÈ¡
+	name = "¿¨×ÈËş" # Kaztal ¹şÈø¿ËµØÃû½ØÈ¡
 	culture = mongol
 	religion = sunni
 }
 1045104 = {
-	name = Åå²ì # Pecha ÒôÒë
+	name = "Åå²ì" # Pecha ÒôÒë
 	culture = mongol
 	religion = sunni
 }
 1045105 = {
-	name = ¿µÀï
+	name = "¿µÀï"
 	culture = mongol
 	religion = sunni
 }
 1045106 = {
-	name = Itil
+	name = "ÒÁÌá¶û"
 	culture = cuman
 	religion = tengri_pagan
 }
 1045107 = {
-	name = Ochak
+	name = "ä×²é¿Ë"
 	culture = cuman
 	religion = tengri_pagan
 }
 1045108 = {
-	name = Zaporzhye
+	name = "ÔúçêÕÛÒ®"
 	culture = cuman
 	religion = tengri_pagan
 }
 1045109 = {
-	name = Akhtuba
+	name = "°¢¿ËÍ¼°Í"
 	culture = cuman
 	religion = tengri_pagan
 }
 1045110 = {
-	name = Zhezdi
+	name = "ÕÛ×ÈµÙ"
 	culture = cuman
 	religion = tengri_pagan
 }
 1053000 = {
-	name = Rav #Ficticious
+	name = "À­Ø£" #Ficticious
 	culture = mordvin
 	religion = finnish_pagan
 }
 1053001 = {
-	name = Paas #Ficticious
+	name = "ÅÁË¹" #Ficticious
 	culture = mordvin
 	religion = finnish_pagan
 }
 1053002 = {
-	name = Shkai #Ficticious
+	name = "Ï£¿­" #Ficticious
 	culture = mordvin
 	religion = finnish_pagan
 }
 1053003 = {
-	name = Mastoratia #Ficticious
+	name = "ÂíË¹ÍĞÀ­ÌáÑÅ" #Ficticious
 	culture = mordvin
 	religion = finnish_pagan
 }
 1053004 = {
-	name = Chipaz #Ficticious
+	name = "ÆæÅÁ×È" # Chipaz #Ficticious
 	culture = mordvin
 	religion = finnish_pagan
 }
 1053005 = {
-	name = Nishkepaz #Ficticious
+	name = "ÄáÊ²¿ËÅÁ×È" # Nishkepaz #Ficticious
 	culture = mordvin
 	religion = finnish_pagan
 }
 1053006 = {
-	name = "Ange Patiai" #Ficticious
+	name = "°ºÈÈ ÅÁµÙ°¬" #Ficticious
 	culture = mordvin
 	religion = finnish_pagan
 }
@@ -42105,31 +42105,31 @@
 }
 1053013=
 {
-	name="Mastoron Kirdi" #Ficticious
+	name="ÂíË¹ÌØÁú ¿Æ¶ûµÏ" #Ficticious
 	culture = mordvin
 	religion = finnish_pagan
 }
 1053014=
 {
-	name="Shkay" #Ficticious
+	name="Ê·¿­" #Ficticious
 	culture = mordvin
 	religion = finnish_pagan
 }
 1053015=
 {
-	name="Kardaz-Scrko" #Ficticious
+	name="¿¨´ï×È-Ë¹¿â¿Ë" #Ficticious
 	culture = mordvin
 	religion = finnish_pagan
 }
 1053016=
 {
-	name="Tushtyan" #Ficticious
+	name="Í¼Ê²ÑÓ" #Ficticious
 	culture = mordvin
 	religion = finnish_pagan
 }
 1053017=
 {
-	name="Norrevik"
+	name="ÅµÁ¦Î¬¿Ë"
 	culture="swedish"
 	religion="catholic"
 	coat_of_arms= {
@@ -42166,7 +42166,7 @@
 
 1053020=
 {
-	name="Bjarnehed" #Ficticious
+	name="²¼¼ÓÄÉºúµÂ" #Ficticious
 	culture = swedish
 	religion = catholic
 	coat_of_arms = {
@@ -42186,7 +42186,7 @@
 	culture = mongol
 }
 1040068 = {
-	name="°Í¶û»¢" # Bargujin
+	name="°Í¶û»¢½ò" # Bargujin
 	culture = mongol
 }
 1040069 = {
@@ -42226,7 +42226,7 @@
 	culture = mongol
 }
 1040078 = {
-	name="¶Å¶û²®ÌØ"# D?rbet 
+	name="óÆ¶ùØÃÌØ"# D?rbet 
 	culture = mongol
 }
 1040079 = {
