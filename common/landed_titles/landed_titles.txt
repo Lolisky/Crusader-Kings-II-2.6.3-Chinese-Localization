@@ -10031,7 +10031,7 @@ e_scandinavia = {
 				b_kolding = {
 				}
 				b_hedeby = {
-					norse = ¹þ±È
+					norse = "¹þ±È"
 				}
 			}
 			c_jylland = {
@@ -10050,7 +10050,7 @@ e_scandinavia = {
 				}
 				b_ringkobing = {
 					swedish = "Áé¿Ë±ö"
-					norse = Áé¿Ë±ö
+					norse = "Áé¿Ë±ö"
 				}
 				b_randers = {
 				}
@@ -10220,10 +10220,10 @@ e_scandinavia = {
 		catholic = 100 # Crusade target weight
 		finnish_pagan_reformed = 50
 		
-		norse = Å²Íþ
-		danish = Å²Íþ
-		swedish = Å²Íþ
-		norwegian = Å²Íþ
+		norse = "Å²Íþ"
+		danish = "Å²Íþ"
+		swedish = "Å²Íþ"
+		norwegian = "Å²Íþ"
 		
 		d_iceland = {
 			color={ 195 190 255 }
@@ -10231,10 +10231,10 @@ e_scandinavia = {
 			
 			capital = 1 # Vestisland
 			
-			norse = µº
-			danish = µº
-			swedish = µº
-			norwegian = µº
+			norse = "±ùµº"
+			danish = "±ùµº"
+			swedish = "±ùµº"
+			norwegian = "±ùµº"
 			
 			c_vestisland = {
 				color={ 190 230 250 }
@@ -10635,7 +10635,7 @@ e_scandinavia = {
 				color={ 25 175 255 }
 				color2={ 255 255 255 }
 				
-				norse = Alfheimr
+				norse = "°¢Ü½º£Ä¬"
 				
 				b_bagahus = {
 				}
@@ -10683,7 +10683,7 @@ e_scandinavia = {
 				color={ 110 140 235 }
 				color2={ 255 255 255 }
 				
-				norse = º£µÂÂí
+				norse = "º£µÂÂí"
 				
 				b_hamarhus = {
 				}
