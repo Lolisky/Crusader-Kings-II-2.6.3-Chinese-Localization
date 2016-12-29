@@ -16,7 +16,7 @@ north_germanic = {
 			达格 丹 德连 艾利夫 埃伊尔_艾吉尔 埃蒙德 埃纳尔_埃纳尔 埃里克_埃里克 埃斯克尔德 法尔基 法斯特 腓力_腓力 弗雷德里克_弗雷德里克 弗里雷克 弗罗迪_弗洛德 弗雷尔_弗雷 弗基_福尔克 建达福尔 吉尔 格奥格_乔治 格努帕_格努帕 高姆_高姆 格雷格_格里高利 格里姆_格里姆 古德弗里德_高弗雷 古德蒙_古德蒙 古德鲁尔_古德罗德 刚纳尔_刚纳尔 哈康_哈康 哈尔斯滕 哈拉尔_哈罗德 豪克 赫尔吉_赫尔吉
 			赫明 霍尔姆高 拉芬 罗洛_罗洛 赫拉恩 赫斯泰因 雅马_雅马 洛斯加尔 鲁道夫 留里克_留里克 海辛 因格弗_因格福 英格玛 英亚尔 伊瓦尔_伊瓦尔 埃德瓦_爱德华 琼_约翰 卡尔_查理 凯提尔 凯提尔蒙 雅坦 克拉斯 克努特_克努特 科尔 科尔比约恩 玛格努斯_玛格努斯 马库斯_马库斯 
 			马特_马修 尼尔_尼古拉斯 尼克拉斯_尼古拉斯 奥德_奥德 奥菲格 奥拉夫_奥拉夫 奥尔姆_奥尔姆 奥塔尔_奥塔尔 雷夫尔 雷菲尔 朗纳尔_朗纳尔 里库夫 朗瓦尔德_朗瓦尔德 斯库_斯库 斯诺里 希格比约恩 西格特吕格 西居尔_西居尔 斯塔卡德_斯塔卡德 施泰因_斯滕 斯图尔拉 斯蒂尔比约恩 斯蒂尔卡 萨莫里提_萨莫里德 苏尼_苏恩 斯维因_斯温
-			斯维克 萨蒙德_萨蒙德 索尔维_索尔维 索克维尔 居德蒙德_居德蒙德 托克_托克 托里尔 托比昂_托比昂 托尔芬_托尔芬 托尔布兰德_托尔布兰德 托尔德尔_托德 索吉尔_托克尔 托尔斯泰因_托尔斯滕 托尔夫_托洛夫 托斯特 托提尔 特吕格弗 泰克 乌尔夫_乌尔夫 瓦格恩 瓦尔德马尔_瓦尔德马尔 阿克 英格瓦尔_英格瓦尔 奥瓦尔_奥瓦尔 埃斯泰因_埃斯泰因
+			斯维克 萨蒙德_萨蒙德 索尔维_索尔维 索克维尔 居德蒙德_居德蒙德 托克_托克 托里尔 托尔比约恩_托尔比约恩 托尔芬_托尔芬 托尔布兰德_托尔布兰德 托尔德尔_托德 索吉尔_托克尔 托尔斯泰因_托尔斯滕 托尔夫_托洛夫 托斯特 托提尔 特吕格弗 泰克 乌尔夫_乌尔夫 瓦格恩 瓦尔德马尔_瓦尔德马尔 阿克 英格瓦尔_英格瓦尔 奥瓦尔_奥瓦尔 埃斯泰因_埃斯泰因
 		}
 		female_names = {
 			阿勒塔 阿尔芙希尔德_阿尔菲尔德 阿尔芙里德_阿尔芙里德 阿尔沃 安娜_安娜 阿萨_阿萨 亚斯拉琪 阿斯塔_阿斯塔 阿斯特丽_阿斯特丽 贝塔 比尔基塔_比尔基塔 比约居 博迪尔德_博迪尔德 塞西莉亚_塞西莉亚
@@ -30,10 +30,10 @@ north_germanic = {
 		baron_titles_hidden = yes
 		count_titles_hidden = yes
 		
-		from_dynasty_prefix = "阿弗 "
+		from_dynasty_prefix = "奥丁 "
 		
-		male_patronym = "松"
-		female_patronym = "斯多替尔"
+		male_patronym = "之子"
+		female_patronym = "之女"
 		prefix = no # The patronym is added as a suffix
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -47,7 +47,7 @@ north_germanic = {
 		mother_name_chance = 0
 
 		modifier = default_culture_modifier
-
+		
 		allow_looting = yes
 		seafarer = yes
 	}
@@ -62,7 +62,7 @@ north_germanic = {
 			布林尤尔夫 道格 丹 戴尔 埃吉尔_艾吉尔 埃纳尔_埃纳尔 埃蒙德 埃里克_埃里克 埃斯基德 法斯特 弗雷德里克_弗雷德里克 腓力_腓力 福尔克_福尔克 弗雷尔_弗雷 格奥格_乔治 格雷格_格里高利 格里姆_格里姆 古德罗德_古德罗德 刚纳尔_刚纳尔 古斯塔夫 哈尔斯滕 汉斯_汉斯 哈拉尔_哈罗德
 			赫尔吉_赫尔吉 亨里克_亨利 雅马_雅玛 霍姆格 哈康_哈康 英格_英格尔夫 英格玛 英格瓦尔_英格瓦尔 埃德瓦_爱德华 乔汉_约翰 卡尔_查理 克蒂尔 克蒂尔蒙德 克拉斯 克努特_克努特 科尔 科尔比约恩 拉尔斯_劳伦斯 玛格努斯_玛格努斯 马库斯_马库斯 
 			马特_马修 尼尔斯_尼古拉斯 尼克拉斯_尼古拉斯 奥德_奥德 奥拉夫_奥拉夫 奥瓦尔_奥瓦尔 彼得_彼得 朗纳尔_朗纳尔 罗洛_罗洛 留里克_留里克 朗瓦尔德_朗瓦尔德 萨蒙德_萨蒙德 索克维尔 希格比约恩 西格特吕格 西居尔_西居尔 斯塔卡德_斯塔卡德 斯滕_斯滕 斯蒂尔比约恩 苏恩_苏恩 斯温_斯温
-			斯维克 索尔维_索尔维 托马斯_托马斯 居德蒙德_居德蒙德 托克_托克 托里尔 托比昂_托比昂 托德_托德 托尔布兰德_托尔布兰德 托尔芬_托尔芬 索吉尔_托克尔 托罗夫_托洛夫 托尔斯滕_托尔斯滕 托斯特 托提尔 泰克 乌尔夫_乌尔夫 瓦尔德马尔_弗拉基米尔 阿克 埃斯泰因_埃斯泰因
+			斯维克 索尔维_索尔维 托马斯_托马斯 居德蒙德_居德蒙德 托克_托克 托里尔 托尔比约恩_托尔比约恩 托德_托德 托尔布兰德_托尔布兰德 托尔芬_托尔芬 索吉尔_托克尔 托罗夫_托洛夫 托尔斯滕_托尔斯滕 托斯特 托提尔 泰克 乌尔夫_乌尔夫 瓦尔德马尔_弗拉基米尔 阿克 埃斯泰因_埃斯泰因
 		}
 		female_names = {
 			阿勒塔 阿尔芙希尔德 阿尔芙里德_阿尔芙里德 安娜_安娜 阿斯塔_阿斯塔 阿斯特丽_阿斯特丽 贝塔 比尔基塔_布里吉德 博迪尔德_博迪尔德 塞西莉亚_塞西莉亚 爱德拉 埃琳 伊丽莎白_伊丽莎白 芙蕾雅_芙蕾雅 贡希尔妲_贡希尔德 吉拉 古尔丽 吉萨_吉萨 哈芙莉 
@@ -74,10 +74,10 @@ north_germanic = {
 		
 		dukes_called_kings = yes
 		
-		from_dynasty_prefix = "阿弗 "
+		from_dynasty_prefix = "森 "
 		
-		male_patronym = "松"
-		female_patronym = "斯多得尔"
+		male_patronym = "之子"
+		female_patronym = "之女"
 		prefix = no # The patronym is added as a suffix
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -91,7 +91,7 @@ north_germanic = {
 		mother_name_chance = 0
 
 		modifier = default_culture_modifier
-
+		
 		seafarer = yes
 	}
 	norwegian = {
@@ -102,7 +102,7 @@ north_germanic = {
 		male_names = {
 			阿农德_阿农德 阿尔夫_阿尔夫 阿尔尼_阿尔尼 阿尔芬 艾恩凯尔 安莫德 安维德 阿斯拉克 奥顿 巴尔德尔_巴尔德尔 巴尔德 比约恩_比奥恩 艾吉尔_艾吉尔 艾利夫 艾纳_艾纳 埃里克_埃里克 艾尔伦 艾尔灵 埃斯泰因_埃斯泰因 芬恩 弗雷_弗雷
 			格里姆_格里姆 古德布兰德 古德雷克 古德蒙_古德蒙 古德罗德_古德罗德 刚纳尔_刚纳尔 古托姆_高姆 哈尔多 哈夫丹 哈尔凯尔 哈拉尔_哈罗德 赫尔吉_赫尔吉 哈康_哈康 哈瓦尔德 英格_英格奥夫 伊瓦尔_伊瓦尔 琼恩_约翰 凯尔 科尔宾 罗丁
-			玛格努斯_玛格努斯 奥德_奥德 奥格蒙德 奥拉夫_奥拉夫 奥姆_奥姆 奥索尔 奥塔尔_奥塔尔 帕尔_保罗 朗纳尔_朗纳尔 朗瓦尔德_朗瓦尔德 罗洛_罗洛 西居尔_西居尔 斯加尔格 斯科福特 斯库_斯库 斯维因_斯温 斯维尔 萨蒙德_萨蒙德 托比昂_托比昂 托德_托德 托雷 
+			玛格努斯_玛格努斯 奥德_奥德 奥格蒙德 奥拉夫_奥拉夫 奥姆_奥姆 奥索尔 奥塔尔_奥塔尔 帕尔_保罗 朗纳尔_朗纳尔 朗瓦尔德_朗瓦尔德 罗洛_罗洛 西居尔_西居尔 斯加尔格 斯科福特 斯库_斯库 斯维因_斯温 斯维尔 萨蒙德_萨蒙德 托尔比约恩_托尔比约恩 托德_托德 托雷 
 			托尔布兰德_托尔布兰德 托尔芬_托尔芬 托盖尔_托盖尔 托基尔_托克尔
 			托蒙德 托洛夫_托洛夫 托斯泰因_托尔斯滕 特隆德 特里格夫 乌尔夫_乌尔夫 威格雷克 埃雷 阿蒙德 奥尔夫 埃斯泰因_埃斯泰因 
 		}
@@ -115,14 +115,14 @@ north_germanic = {
 		
 		dukes_called_kings = yes
 		
-		from_dynasty_prefix = "阿维 "
+		from_dynasty_prefix = "斯多特 "
 		
-		male_patronym = "松"
-		female_patronym = "斯达特"
+		male_patronym = "之子"
+		female_patronym = "之女"
 		prefix = no
 
 		modifier = default_culture_modifier
-
+		
 		seafarer = yes
 	}
 	danish = {
@@ -134,7 +134,7 @@ north_germanic = {
 			艾贝尔 安德斯_安德鲁 阿农德_阿农德 埃斯基尔 巴尔德尔_巴尔德尔 贝内迪克_本笃 比约恩_比奥恩 波 克里斯蒂安_克里斯蒂安 克里斯托弗_克里斯托弗 埃德瓦_爱德华 艾纳_艾纳 埃里克_埃里克 恩斯特_恩斯特 艾斯本 弗雷德里克_弗雷德里克 弗雷_弗雷 弗洛德_弗洛德 格鲁姆 格努帕_格努帕 高姆_高姆 哥特弗雷_高弗雷 格雷格斯_格里高利 格里姆_格里姆 刚纳尔_刚纳尔
 			哈里克 哈夫丹 哈沃 汉斯_汉斯 哈拉尔_哈罗德 赫尔吉_赫尔吉 赫明 亨里克_亨利 雅马 霍格 英格 约根 约恩 雅各布_雅各布 杨斯 约基姆 约翰_约翰 卡尔_查理 克努特_克努特
 			克里斯蒂安_克里斯蒂安 雷夫 伦纳特 路德维格_路易 麦尔兹 马特_马修 迈克尔_迈克尔 摩根 尼尔斯_尼古拉斯 奥德_奥德 奥拉夫_奥拉夫 欧拉夫_欧拉夫 彼得_彼得 保尔 普利德比约恩 朗纳尔_朗纳尔 朗瓦尔德_朗瓦尔德 罗洛_罗洛 鲁恩 留里克_留里克 赛维林 西格弗里德 西格特吕格 西居尔_西居尔
-			西瓦尔德 斯蒂恩 斯温_斯温 萨蒙德_萨蒙德 托洛夫_托洛夫 托瓦尔德 托本 托比昂_托比昂 托德_托德 托尔芬_托尔芬 托吉尔斯_托克尔 图尔 乌比 乌非 乌尔夫_乌尔夫 瓦尔德马尔_弗拉基米尔 瓦伦丁_瓦伦丁 威尔弗雷德 英格瓦尔_英格瓦尔
+			西瓦尔德 斯蒂恩 斯温_斯温 萨蒙德_萨蒙德 托洛夫_托洛夫 托瓦尔德 托本 托尔比约恩_托尔比约恩 托德_托德 托尔芬_托尔芬 托吉尔斯_托克尔 图尔 乌比 乌非 乌尔夫_乌尔夫 瓦尔德马尔_弗拉基米尔 瓦伦丁_瓦伦丁 威尔弗雷德 英格瓦尔_英格瓦尔
 		}
 		female_names = {
 			阿格内丝 安娜_安娜 阿斯塔_阿斯塔 贝内迪克特_贝内迪克塔 比尔基塔_布里吉德 博迪尔 塞西里尔_塞西莉亚 克里斯蒂娜_克里斯蒂娜 达格玛 多萝西娅_多萝西 伊丽莎白_伊丽莎白 埃莉诺_埃莉诺 爱弥儿_艾米丽 艾丽卡 艾斯特 艾斯特里德_阿斯特里德 弗雷德里克_弗雷德里克 芙蕾雅_芙蕾雅
@@ -146,10 +146,10 @@ north_germanic = {
 		
 		dukes_called_kings = yes
 		
-		from_dynasty_prefix = "阿弗 "
+		from_dynasty_prefix = "英格瓦 "
 		
-		male_patronym = "森"
-		female_patronym = "斯达特"
+		male_patronym = "之子"
+		female_patronym = "之女"
 		prefix = no
 
 		modifier = default_culture_modifier
@@ -162,7 +162,7 @@ north_germanic = {
 		pat_grm_name_chance = 10
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
-
+		
 		seafarer = yes
 	}
 }
@@ -268,7 +268,7 @@ central_germanic = {
 
 		male_names = {
 			阿布拉希尔 阿布拉姆 阿达尔巴德 阿达尔伯特_阿尔伯特 阿达尔嘉里 阿达尔格林 埃及迪乌斯 阿格里克 阿基尔伯特 阿吉乌夫 艾尔伯特 阿尔伯里克 阿尔德拉曼
-			安蒂卡 安索瓦尔德 阿坎巴德 阿里吉赛尔 艾恩吉赛尔 阿努尔夫_阿努尔夫 阿斯卡里克 奥多瓦尔德 奥斯特里吉赛尔 奥特伯特 奥特嘉里 奥特格里
+			安蒂卡 安索瓦尔德 阿坎巴德 阿里吉赛尔 艾恩吉赛尔 阿努尔夫_Arnulf 阿斯卡里克 奥多瓦尔德 奥斯特里吉赛尔 奥特伯特 奥特嘉里 奥特格里
 			阿弗雷玛 巴德吉赛尔 鲍德温_鲍德温 巴尔纳德 贝拉尔德 伯纳德_伯纳德 贝奈里 贝罗 贝罗德 贝尔特弗里德 伯特林 贝特朗
 			贝尔特兰 布夏尔_布夏尔 卡洛曼_卡洛曼 塞斯林 卡拉里克 查理伯特 希尔德伯特 希尔德里克 希尔佩里克
 			克罗德莫 克洛塔尔_洛泰尔 克拉姆尼辛德 克劳迪奥 克罗迪翁 克洛维 克雷特 达加里克 达格伯特 德罗格_德罗格 埃贝尔鲁夫 埃布雷吉赛尔 恩基尔伯特
@@ -340,7 +340,7 @@ central_germanic = {
 			提乌迪利奥娃 泰克西里 特拉克图伊里 特拉萨瓦拉 特拉斯米拉 特拉斯提维基亚 维尔金娜 维斯卡维嘉 维斯泰罗 维斯特拉瓦拉 维斯特里尔迪 扎妮娜
 		}
 
-		from_dynasty_prefix = "冯"
+		from_dynasty_prefix = "冯 "
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
@@ -374,8 +374,8 @@ west_germanic = {
 			艾德拉_艾德拉 阿德莱德_阿德莱德 爱丽丝_爱丽丝 艾米丝 安妮_安娜 艾芙琳_艾芙莉娜 比阿特丽斯_比阿特丽斯 布兰琪_布兰琪 凯瑟琳_凯瑟琳 塞西莉亚_塞西莉亚 康斯坦丝_康斯坦丝 伊蒂丝_伊蒂丝 埃拉 埃莉诺_埃莉诺 伊利莎白_伊丽莎白 艾玛_艾玛 哈薇丝 伊莎贝尔_伊丽莎白
 			伊莎贝拉_伊丽莎白 琼_琼 乔安娜_琼 朱莉安娜_朱莉安娜 玛奥_玛奥 玛格丽特_玛格丽特 玛丽_玛丽亚 玛蒂尔妲_玛蒂尔妲 莫德_玛蒂尔妲 菲莉帕_菲莉帕 西比拉_西比拉
 		}
-		from_dynasty_prefix = ""
-		bastard_dynasty_prefix = "菲茨"
+		from_dynasty_prefix = "亚瑟 "
+		bastard_dynasty_prefix = "私生子"
 
 		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -421,9 +421,9 @@ west_germanic = {
 
 		dukes_called_kings = yes
 
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = "希 "
 
-		male_patronym = "松"
+		male_patronym = "森"
 		female_patronym = "斯多特"
 		prefix = no # The patronym is added as a suffix
 
@@ -447,34 +447,34 @@ west_germanic = {
 		male_names = {
 			奥博 达尔贝罗_达尔贝罗 阿德尔伯特_艾伯特 奥德尔布兰特_阿莱布兰特 阿迪达 格拉克宁 安克里德 阿道夫_阿道夫 艾尔_阿尔文 阿尔布莱希特_艾伯特 阿莱布兰特_阿莱布兰特
 			阿尔特夫依德 安斯戈尔 阿尔迪_阿诺德 阿诺德_阿诺德 阿西克_阿西克 鲍杜因_鲍尔温 巴尔萨泽_巴尔塔萨 班兹雷布 贝内克_本尼迪克特 本诺_伯纳德 贝恩德_伯纳德
-			伯恩哈德_伯纳德 贝托尔德_伯特霍尔德 伯特伦_贝特朗 博迪克 布龙_布鲁诺 布鲁诺_布鲁诺 伯查德_布沙尔 西莎 克劳斯_尼古拉斯 科博 科德_康拉德
-			赛普利安_赛普里安诺斯 达果_达戈 德多 德萨德 德特勒夫 得特玛_戴特玛 戴德里克_希尔瑞 多纳_索尔 艾格尔德_艾克哈德 艾及玛 艾克伯特_艾格伯特 英格尔伯特 英格尔波特_英格尔伯特
-			英格尔哈德 埃里克_埃里克 额尔普_阿尔伯特 厄思科_亚士德 埃沃德_埃瓦拉德 埃瓦尔德 弗罗利伯特 弗里怀恩 弗雷德里克_弗雷德里克 杰尔克_杰拉德 高德 杰罗 杰罗德_杰拉德 杰佛特_杰布哈德
-			格尔特_杰拉德 吉斯赫 吉斯玛 格施霍克_盖施霍克 葛思温 甘塞林_甘瑟 葛德赫_ 昆瑟_昆瑟 汉斯_汉斯 哈斯加特 哈特维格 赫德克
-			赫吉斯特 赫恩涅克 赫博德_赫伯特 赫曼_赫曼 亨里克_亨利 赫格尔 霍尔德里克 亨弗里德 易默德 伊思多_伊思多罗斯 雅可布_雅可布 贾斯帕_卡斯帕 约金_约基姆
-			约翰恩_约翰 居里斯 科斯腾_克里斯蒂安 科布克_雅可布 劳伦兹_劳伦斯 棱伯特_兰伯特 劳德里克 利奥维佐 列马尔 鲁杰尔 路德-乌铎_奥托
-			鲁德尔_拉谢尔 鲁多夫_鲁多夫 路德维格_路易斯 马格纳_马格纳 马布尔德 马夸德_马克华德 马西亚斯_马修 梅因沃克 梅滕_马丁 迈克尔_迈克尔
-			诺伯特_诺伯特 奥多_奥托 奥杜夫 彼得_彼得 菲利普_菲利普 拉德克_拉尔夫 雷金伯恩_雷因伯恩 雷因伯恩_雷因伯恩 雷因纳克_里纳德 雷因玛 卢迪加_罗杰
-			鲁道夫_拉尔夫 西格博特_西吉斯波特 西格弗里德_谢格弗里德 西格瓦德_席格德 西蒙_西蒙 司特芬_史蒂芬 三可玛 西奥德里克_西奥德里克 西奥德里克_西尔瑞
-			席德温 席默_提摩斯 托马斯_托马斯 托比 提莫克_戴特玛 乌多_奥托 温万 维里克 沃德温 沃拉德 沃伯特 瓦德玛_弗拉迪米尔 瓦德里德 瓦塔尔德
-			瓦林_温纳 瓦林讷金 威克塔_维克托 温泽尔_瓦克拉夫 温纳克_温纳 韦伯里希特 韦希伯特 韦希曼 维佐_盖伊 温都金德 威戈伯特 威尔布兰德
-			维利金 威斯基尔斯 维特金德 维塔 邬伦金 沃尔特_瓦尔特 伍尔夫_乌弗
+			Bernhard_Bernard Bertold_Berthold Bertram_Bertrand Boddic Brun_Bruno Bruno_Bruno Burchard_Bouchard Cissa Claus_Nicholas Cobbo Cord_Konrad
+			Cyprian_Cyprianus Dago_Dag Dedo Dethard Detleff Detmar_Dietmar Diederik_Thierry Donar_Thor Eggerd_Ekkehard Egilmar Ekbert_Egbert Engelbert_Engelbert
+			Engelhard Erik_Erik Erp_Albert Esiko_Asig Everd_Everard Ewald Floribert Freawine Frederik_Frederick Gehrke_Gerard Gelder Gero Gerold_Gerard Gevert_Gebhard
+			Ghert_Gerard Giselher Giselmar Gosschalk_Gottschalk Goswin Gunzelin_Günther G?dke_Godfrey Günther_Günther Hans_Hans Harthgate Hartwig Heideke
+			Hengest Henneke Herberd_Herbert Hermann_Herman Hinrik_Henry Hoger Hulderic Humfried Immed Isidor_Isidoros Jacob_Jacob Jaspar_Caspar Jochim_Joakim
+			Johann_John Juries Kersten_Christian K?pke_Jacob Laurentz_Laurence Lembert_Lambert Leuderic Liawizo Liemar Liudger Luder-Udo_Otto
+			Luder_Lothair Ludolf_Ludolf Ludwig_Louis Magnus_Magnus Marbold Marquard_Markward Mathias_Matthew Meinwerk Merten_Martin Michael_Michael
+			Norbert_Norbert Odo_Otto Ordulf Peter_Peter Philipp_Philip Radke_Ralph Reginbern_Reinbern Reinbern_Reinbern Reineke_Renard Reinmar Rudigar_Roger
+			Rudolf_Ralph Sigbert_Sigisbert Sigfrid_Siegfried Sigward_Sigurd Simon_Simon Steffen_Stephen Thankmar Theoderic_Theoderic Theodoric_Thierry
+			Theodwin Thimo_Timothy Thomas_Thomas Tobe Tymmeke_Dietmar Udo_Otto Unwan Viric Volkwin Volrad Walbert Waldemar_Vladimir Waldered Waltard
+			Warin_Werner Warinechin Wecta_Victor Wenzel_Vaclav Werneke_Werner Weybrecht Wichbert Wichmann Wicho_Guy Widukind Wigebert Wilbrand
+			Willichin Withgils Witikind Witta Wlencing Wolter_Walter Wulff_Ulf
 		}
 		female_names = {
-			阿蒂拉_阿黛拉 阿德希德_阿德莱德 阿罗芙 阿格尼丝_阿格尼丝 安娜_安娜 阿西拉 贝阿迪丝_贝翠丝 贝莎_贝莎 贝特拉达 比亚_贝翠丝 比思娜 比希尔德
-			布丽吉达_布利吉德 克里斯蒂娜_克里斯蒂娜 迪尔可 艾丽卡 艾里莎贝丝_伊丽莎白 恩达 弗雷德露娜 盖尔拉娜 杰波尔加_杰波尔加 杰特路德_杰特路德 吉瑟拉_吉瑟拉
-			格丽斯茉德 哈德薇歌_赫德薇歌 哈萨菈 希尔薇格 海伦涅_海伦 希尔德嘉德_希尔德嘉德 赫萝司维娜 伊达_伊达 伊玛_艾玛 伊姆加德_厄门加德 厄门加德 艾尔敏伯格
-			尤塔_朱迪斯 卡塔琳娜_凯瑟琳 库尼贡德_库尼贡德 蕾特加德_蕾特加德 玛格丽特_玛格丽特 玛希尔德_玛蒂尔达 米希尔德_玛提尔达 乌达_尤特
-			沃席琳迪思 蕾德江德 蕾金林特 理查迪丝_里卡尔达 罗德尔琳达 索菲亚_索菲亚 苏安希尔德_斯瓦纳希德 希尔德拉达 希尔德伯嘉 温克 薇儿楚德 伍夫希德_乌弗希德
+			Addila_Adela Adelheid_Adelaide Alof Agnes_Agnes Anna_Anna Athela Beatrix_Beatrice Bertha_Bertha Bertrada Bia_Beatrice Bisina Bithild
+			Brigida_Brigid Christina_Christina Diedke Eilika Elisabeth_Elisabeth Enda Frederuna Geilana Gerberga_Gerberga Gertrud_Gertrude Gisela_Gisela
+			Glismod Hadwig_Hedwig Hasala Heilwig Helene_Helen Hildegard_Hildegard Hrothwina Ida_Ida Imma_Emma Irmgard_Ermengarde Irminburg
+			Jutta_Judith Katharina_Catherine Kunigunde_Kunigunde Luitgard_Luitgard Margarete_Margaret Mathilde_Matilda Mechthild_Matilda Oda_Ute
+			Othelindis Radegund Reginlint Richardis_Ricarda Rodelinda Sophia_Sophia Suanhilde_Swanahild Theodrada Thiedburga Wienke Wiltrud Wulfhild_Ulfhild
 		}
 		
 		baron_titles_hidden = yes
 		count_titles_hidden = yes
 
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = "艾 "
 
-		male_patronym = "松"
-		female_patronym = "斯多特"
+		male_patronym = "森"
+		female_patronym = "斯多德"
 		prefix = no # The patronym is added as a suffix
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -495,25 +495,25 @@ west_germanic = {
 		color = { 0.7 0.3 0.0 }
 		
 		male_names = {
-			阿德布里克 艾铁 奥德基色 奥都尔夫 奥铁 阿文 阿沃 阿伏寇 阿伏铁 巴沃 本铁 伯纳尔德_伯纳德 布雷库夫 布历乎尔夫 布伦哈德
-			布伯 波伊奥 诶度夫_阿道夫 诶希德赫 艾尔本 艾尔赫德 艾路夫 爱华德 艾尔得 艾尔德特 艾尔哈德 恩西尔巴德 恩哈德 恩铁 艾素尔夫 欧伊铁
-			欧淤尔哈特 诶搜伯恩 诶搜路夫 诶搜维 缶寇 缶巴特 缶克伯恩 缶克哈特 缶克瓦特 弗雷希里克 弗雷透特 弗雷都哈特 弗雷退
-			弗里都纳斯 戈都夫 戈铁 戈巴特_戈拉特 戈布兰特 戈布鲁特 戈德赫 杰拉德_杰拉德 杰洛特_杰拉特 杰鲁尔夫 戈瓦尔
-			戈瑟 哈博 哈灵 哈度瓦特 赫伯铁 赫利巴特 赫瑟尔 霍伯恩 霍伊铁 洛沙特 洛斯瓦特 玉_尤里乌斯 利亚夫铁 利欧巴特
-			利欧德巴尔特 利欧赫 利欧托特 利欧都夫_鲁道夫 利欧德瓦特_利欧特瓦特 利欧魄_卢魄 卢比寇 马赫努斯_马格努斯 梅辛布拉特 梅辛哈特
-			梅辛努夫 梅因铁 门波特 门弗里特_曼弗里特 门赫 门哈特 门后特 门尼寇 门铁 门瓦特 蔑鲁夫 米辛瓦特 诺迪里
-			欧寇 奥多_奥托 欧斯纳特 欧思诺思 魄匹铁 波魄 拉德赫 柔安铁 雷巴特 雷辛哈特_雷辛纳特 莱茵伯恩_莱茵伯恩 莱尼尔_雷纳 
-			雷哈特_雷纳德 雷瓦特 里克雷夫 里克维 罗伯恩 萨寇 萨拉寇 斯波特 斯布拉特 斯得 斯科_斯寇 斯雷夫 斯瓦特_斯乎特 斯维
-			索尔特_斯格 西则 塔寇 塔达寇 塔多 丹克瓦特 丹克伯恩 提亚巴特_提奥巴特 提亚布伦特 提亚迪_赛迪斯 提亚德特
-			提亚都夫 提亚瓦特 提亚特维 提多特 东克里克 万巴特 威宁 文铁 维巴特 维布拉特 维布伦特 维夫铁 维赫巴特 维赫特
-			维哈特 维布兰特 维尔寇 维尔铁 乌夫诺斯 伊霍
+			Adelbrik Aitet Aldgisl Audulf Auutet Avin Avo Avuko Avutet Bavo Bentet Bernhard_Bernard Blekulf Blithulf Brunhard
+			Bubo B?io Edulf_Adolf Egildeg Eilbern Eilherd Eilulf Eilward Eldei Elderd Elhard Engilbald Enhard Entet Esulf Euitet
+			Euuerhard Eeelbern Eeelulf Eeelwi Focko Folcbald Folkbern Folkhard Folkward Frethirik Frethold Frethuhard Frethwi
+			Frithunath Geldulf Geltet Gerbald_Gerald Gerbrand Gerbruht Gerdeg Gerhard_Gerard Gerold_Gerald Gerulf Gerwar
+			Gosse Habo Haring Hathuward Hebetet Helibad Hessel Hobern Hoitet Hroehard Hroeward Juw_Julius Liaftet Liudbad
+			Liudbald Liudger Liudgod Liudulf_Ludolf Liudward_Liutward Liuppo_Lupo Lubbiko Magnus_Magnus Meginbraht Meginhard
+			Meginulf Meintet Menbold Menfrid_Manfred Menger Menhard Menhold Meniko Mentet Menward Merulf Miginward Notheri
+			Occo Odo_Otto Osnath Osnoe Popetet Poppo Raeddeg Rauantet Redbad Reginhard_Reginald Reinbern_Reinbern Reinier_Rayner
+			Renhard_Renard Renward Riklef Rikwi Rodbern Saco Salaco Sibod Sibraht Sidei Sikke_Sicco Silef Siward_Sigurd Siwi
+			Sjoerd_Sigurd Sytse Taco Tadaco Tado Thancward Thankbern Thiadbold_Theobald Thiadbrund Thiaddi_Thaddeus Thiaderd
+			Thiadulf Thiadward Thiadwi Thiedold Thonkrik Wambald Wening Wentet Wibad Wibraht Wibrund Wiftet Wigbald Wigerd
+			Wihard Wilbrand Wilco Wiltet Wulfnoth Ygo
 		}
 		female_names = {
-			阿乐伯纳 艾莲娜_艾德拉 阿雷蒂斯_阿德莱德 艾乐提仁 阿玛布哈 阿特哈蒂斯 奥厄 奥厄苏特 巴德洛格 巴瓦 贝尔塔_贝塔
-			贝特_伊丽莎白 布雷赫棱特 布伦东尼斯 迪舞可 道雯 爱因赫利阿蒂斯 爱尔可_阿德莱德 恩赫伯纳 尔肯拉蒂斯 尔默哈蒂斯_尔门哈德
-			艾莎 芬可 芬娜 缶葵 格布希斯_格贝哈 给拉 苟德尔德 哈德维希斯 海可 赫瑟文迪斯 候定 伊玛_艾玛 因苏特 因卡_因哈
-			伊茨布希斯 耶妾 蕾妮蒂斯 莉德尔德 莉欧布希斯 鲁特哈蒂斯 莉斯_伊丽莎白 麦珂_玛丽亚 玛蕾珂_玛丽亚 梅特 闵珂 妮恩珂_凯瑟琳
-			仁娜达 沃珂维夫 雯德莫蒂斯 维布珂 沃玻 珊妮 伊达_伊达 因默琴内 阿莉蒂斯
+			Aleberna Alena_Adela Aleydis_Adelaide Alretieren Amalburga Amelgeir Atghardis Aue Auesoete Badeloghen Baua Berta_Bertha
+			Bet_Elisabeth Breghlent Brundonis Dieuwke Douwen Eingeliadis Elke_Adelaide Emgelberna Erkenradis Ermegardis_Ermengarde
+			Esa Femke Fenna Folqui Gerburgis_Gerberga Ghela Ghodelde Hadewigis Heike Hersewindis Hodine Imma_Emma Imsoete Inka_Inga
+			Itsburgis Jeltsje Lenildis Liedelde Liudburgis Lutghardis Lys_Elisabeth Maike_Maria Mareike_Maria Mette Minke Nienke_Catherine
+			Rengnalda Volcwiif Wendelmodis Wiebke Wobbe Yda_Ida Ymmekine ?lidis
 		}
 		
 		baron_titles_hidden = yes
@@ -521,7 +521,7 @@ west_germanic = {
 
 		from_dynasty_prefix = "冯 "
 
-		male_patronym = "松"
+		male_patronym = "森"
 		female_patronym = "斯多特"
 		prefix = no # The patronym is added as a suffix
 
@@ -563,10 +563,10 @@ west_germanic = {
 			薇拉 温德尔莫特 温娜 薇勒米妮 约妮菲吉 伊温妮_伊温妮 佐特
 		}
 		
-		from_dynasty_prefix = "范 "
+		from_dynasty_prefix = "凡 "
 		
-		male_patronym = "松"
-		female_patronym = "斯多赫特"
+		male_patronym = "森"
+		female_patronym = "斯多特"
 		prefix = no
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -591,8 +591,8 @@ latin = {
 		
 		color = { 0.8 0.8 0.2 }
 		male_names = {
-			爱都华_爱德华 埃拉德 艾蒂安_斯蒂芬 阿达尔伯特_阿尔伯特 阿德玛 阿德里安 艾默里_艾默里克 阿莱茵_阿兰 阿尔德伯特_阿尔伯特 阿尔德里克 阿方斯_阿方斯 阿莫利_阿马尔里克
-			阿梅代 安塞尔 安德烈_安德鲁 安吉尔伯特 安托万_安东尼努斯 阿尔尚博_阿奇博尔德 阿诺德_阿诺德 阿诺特_阿诺德 阿努尔_阿努尔夫 奥布里 艾玛 巴塞勒米_巴尔托洛缪斯
+			爱德华_爱德华 埃拉德 艾蒂安_斯蒂芬 阿达尔伯特_阿尔伯特 阿德玛 阿德里安 艾默里_艾默里克 阿兰 阿尔德伯特_阿尔伯特 阿尔德里克 阿方斯_阿方斯 阿莫利_阿马尔里克
+			阿梅代 安塞尔 安德烈_安德鲁 安吉尔伯特 安托万_安东尼努斯 阿尔尚博_阿奇博尔德 阿诺德_阿诺德 阿诺特_阿诺德 阿努尔夫_阿努尔夫 奥布里 艾玛 巴塞勒米_巴尔托洛缪斯
 			鲍德温_巴尔德文 贝努特_贝尼迪克特 贝伦格尔_贝伦加尔 伯纳德_伯纳德 贝特朗_贝特朗 博希蒙德 博森_博森 布夏尔 森图尔_琴图勒 查理_查理
 			克洛泰尔 伊本 盎格朗 奥德斯_奥托 尤斯塔奇_尤斯塔斯 埃夫拉德 佛尔克_佛尔克 弗朗索瓦_弗兰西斯 弗雷德里克_弗雷德里克 杰劳德_杰拉德 加尔嘉梅尔 戈谢 戈瑟林_乔瑟林
 			戈蒂耶_沃尔特 乔弗里_高弗雷 杰劳德_杰拉德 格尔杜因 吉尔伯特_吉尔伯特 吉勒斯_埃吉迪乌斯 戈德弗瓦_戈德弗雷 吉查德 吉格斯 纪尧姆_威廉 纪尧姆_威廉
@@ -602,7 +602,7 @@ latin = {
 			洛冈 洛古厄斯 鲁博 萨瓦里 西吉斯蒙德_西格蒙德 西蒙_西蒙 狄保尔特_西奥博尔德 狄埃博_西奥博尔德 狄埃里_狄埃里 托马斯_托马斯 瓦勒兰 伊福斯
 		}
 		female_names = {
-			埃莉诺_埃莉诺 埃洛迪 艾蒂安内特 艾德勒_艾德拉 艾妲尔莫德_艾尔莫狄斯 阿德莱德_阿德莱德 艾德琳德 阿嘉特_阿廖沙 艾格妮丝_艾格妮丝 阿莱雅德 埃莉诺_埃莉诺
+			埃莉诺_埃莉诺 埃洛迪 艾蒂安内特 艾德勒_艾德拉 艾妲尔莫德_艾尔莫狄斯 阿德莱德_阿德莱德 艾德琳德 阿嘉特_阿廖沙 艾格妮丝_艾格妮丝 阿莱雅德 爱丽丝_爱丽丝
 			爱丽克斯_爱丽丝 艾尔莫狄斯_艾尔莫狄斯 艾蜜莉_艾米莉娅 安妮_安娜 安托瓦内特 阿尔辛德_阿尔森妲 奥德 奥伦嘉德 贝阿特丽丝_比阿特丽斯 贝阿特丽克斯_比阿特丽斯 贝莉斯茨 贝努瓦特 贝伦格尔
 			培德 布兰琪_布兰琪 博恩_博恩 布尔格妮 布尔吉妮 塞西尔_塞西莉亚 凯瑟琳_凯瑟琳 夏洛特 康斯坦丝_康斯坦丝 丹尼丝 杜斯_杜斯 阿基薇 埃格兰塔因
 			伊丽莎白_伊丽莎白 艾玛_艾玛 埃蒙嘉德_埃蒙嘉德 埃尔梅辛德_埃尔梅辛妲 埃斯克拉蒙德_埃斯克拉蒙妲 欧芙洛希尼_欧芙洛绪涅 欧斯塔西娅 伊芙_伊娃 格贝尔戈_格贝尔嘉
@@ -651,7 +651,7 @@ latin = {
 		from_dynasty_prefix = "德 "
 		grammar_transform = french
 		
-		bastard_dynasty_prefix = "菲兹"
+		bastard_dynasty_prefix = "私生子"
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 30
@@ -668,7 +668,7 @@ latin = {
 		seafarer = yes
 	}
 	italian = {
-		graphical_cultures =  {  italiangfx southerngfx  }
+		graphical_cultures = { italiangfx southerngfx }
 		
 		color = { 0.95 0.95 0.75 }
 
@@ -721,25 +721,25 @@ latin = {
 		color = { 0.9 0.9 0.4 }
 
 		male_names = { 
-			阿德赫玛 阿克弗雷德 艾默里克_艾默里克 阿尔伯里克 阿方斯_阿方斯 阿马尔里克_阿马尔里克 阿马尼欧 安佛斯 安索默 阿查姆博尔特_阿奇博尔德 阿尔瑙特_阿诺德 阿尔陶 奥多因 艾默 巴纳德_伯纳德
-			巴拉尔 巴尔图缪_巴尔托洛缪斯 鲍德温_巴尔德文 贝内斯特_贝尼迪克特 贝拉德_伯纳德 贝伦基尔_贝伦加尔 贝尔蒙特_维木多 贝纳特_伯纳德 贝特朗_贝特朗 巴拉斯_布莱斯 博雷尔 卡雷斯_查理
+			阿德赫玛 艾默里克_艾默里克 阿尔伯里克 阿方斯_阿方斯 阿马尔里克_阿马尔里克 阿马尼欧 安佛斯 安索默 阿查姆博尔特_阿奇博尔德 阿尔瑙特_阿诺德 阿尔陶 奥多因 艾默 巴纳德_伯纳德
+			巴拉尔 巴尔图缪_巴尔托洛缪斯 鲍德温_巴尔德文 贝内斯特_贝尼迪克特 贝拉德_伯纳德 贝伦基尔_贝伦加尔 贝纳特_伯纳德 贝特朗_贝特朗 巴拉斯_布莱斯 博雷尔 卡雷斯_查理
 			克莱门斯_克莱门特 琴托尔_琴图勒 大卫_大卫 迪奥达特_西奥达特 多东 杜芒热 杜兰 艾德勒斯 埃曼努尔 恩里克_亨利 厄门高德 埃斯特夫_斯蒂芬 欧顿_奥托 菲利普_菲利普 
 			费兰德_斐迪南 弗洛伦茨 佛尔考德_佛尔克 弗兰切斯_弗兰西斯 弗雷德里_弗雷德里克 加斯东_加斯东 戈蒂耶_沃尔特 吉尔伯特_吉尔伯特 吉拉德_杰拉德 吉尔怀斯 戈达弗雷斯_戈德弗雷 
 			古伊_盖伊 吉格_盖伊 吉尔海姆_威廉 吉罗_杰拉尔德 吉塔特_杰拉德 艾维斯 雅克默_雅各布 豪弗雷斯_戈德弗雷 豪默_雅各布 乔安_约翰 乔丹_乔丹 约格_乔治 
 			若瑟林_乔瑟林 尤里安_尤里安 劳伦茨_劳伦斯 利昂_里欧 洛伊斯_路易 路易_路易 罗普_卢波 马绍 马丁_马丁 马蒂亚斯_马修 米歇尔_迈克尔 米罗 米克尔
 			尼古拉_尼古拉斯 奥登_奥托 奥顿_奥托 佩尔_彼得 帕乌_保罗 佩拉努德特 庞茨_庞斯 雷蒙_雷蒙德 雷蒙-贝伦基尔_雷蒙德-贝伦加尔 雷诺德_莱因霍尔德 雷奈斯
 			劳尔夫_拉尔夫 理查_理查 罗伯特_罗伯特 罗吉尔_罗杰 桑特斯_桑丘 萨瓦里克斯 西蒙_西蒙 狄埃里_狄埃里 蒂博_西奥博尔德 托马斯_托马斯 乌伯特_亨伯特 乌克_于格 乌格斯_于格
-			韦西恩 文森特_文森特
+			韦西恩 文森特_文森特 扎维尔
 		}
 		female_names = {
 			艾德拉_艾德拉 阿德莱妲_阿德莱德 阿德尔特露迪丝 奥廖沙_阿廖沙 艾格妮丝_艾格妮丝 阿莱丝 埃莉诺_埃莉诺 爱丽丝_爱丽丝 艾尔莫狄斯_艾尔莫狄斯 阿尔帕伊丝 安娜_安娜 阿尔森妲_阿尔森妲 阿莎尔希妲
 			阿扎莱丝 阿泽尔玛 博娜_博恩 比阿特丽特茨_比阿特丽斯 贝伦格拉 贝尔塔 布兰卡_布兰琪 布兰狄梅娜 布蕾吉妲_布莉吉妲 布鲁妮森妲 卡米拉 卡洛塔 卡特琳娜_凯瑟琳 塞西莉亚_塞西莉亚
 			克拉拉_克拉拉 克拉蒙妲_埃斯克拉蒙妲 卡莱门茜娅_卡莱门蒂娜 克劳蒂尔妲_克洛蒂尔德 康斯坦茜娅_康斯坦丝 朵尔特莎_杜斯 伊丽莎白_伊丽莎白 埃琳娜_海伦
-			伊莉莎_伊丽莎白 艾玛_艾玛 埃蒙嘉德拉_埃蒙嘉德 埃尔梅森特_埃尔梅辛妲 埃斯克拉蒙妲_埃斯克拉蒙妲 埃斯特法尼娅_斯蒂芬妮 尤菲米娅 欧弗罗西娜_欧芙洛绪涅
+			伊莉莎_伊丽莎白艾玛_艾玛 埃蒙嘉德拉_埃蒙嘉德 埃尔梅森特_埃尔梅辛妲 埃斯克拉蒙妲_埃斯克拉蒙妲 埃斯特法尼娅_斯蒂芬妮 尤菲米娅 欧弗罗西娜_欧芙洛绪涅
 			费迪妲 菲莉帕_菲莉帕 菲萝梅娜 芙萝拉_芙萝拉 弗兰切莎_弗朗西斯卡 嘉森妲 格内薇瓦 格贝尔嘉_格贝尔嘉 格森妲 吉丝拉_吉塞拉 吉戈涅 吉修米娜 海洛薇兹_海勒薇兹
-			尤兰妲_尤兰妲 伊莎贝拉_伊丽莎白 乔安娜_琼 朱莉安娜_朱莉安娜 卢西亚_露西娅 劳拉_劳拉 莱奥诺拉_埃莉诺 萝伊莎_露易丝 玛比拉 玛达蕾娜_玛格达蕾娜
+			尤兰妲_尤兰妲 伊莎贝拉_伊丽莎白 乔安娜_琼 朱莉安娜_朱莉安娜 露西娅_露西娅 劳拉_劳拉 莱奥诺拉_埃莉诺 萝伊莎_露易丝 玛比拉 玛达蕾娜_玛格达蕾娜
 			玛嘉莉妲_玛格丽特 玛丽亚_玛丽亚 玛姬莎 玛塔_玛莎 玛斯卡洛莎_玛斯卡洛莎 玛蒂尔妲_玛蒂尔妲 梅丽森妲_梅丽森德 帕特莉夏_帕特莉夏 佩罗妮拉_佩罗妮拉 
-			佩德萝妮哈_佩德萝妮拉 普埃蕾 蕾森妲 拉蒙妲 丽琴达_莉卡妲 萝塞拉 萝莎 桑妮娅_桑查 特蕾莎_特蕾莎 蒂博尔格_蒂博尔格 薇劳妮卡 芙兰特_尤兰妲
+			佩德萝妮哈_佩德萝妮拉 普埃蕾 蕾森妲 拉蒙妲 丽琴达_莉卡妲 萝塞拉 萝莎 桑查_桑查 特蕾莎_特蕾莎 蒂博尔格_蒂博尔格 薇劳妮卡 芙兰特_尤兰妲
 		}
 		from_dynasty_prefix = "德 "
 		grammar_transform = french
@@ -781,7 +781,7 @@ latin = {
 			鲁斯提西安娜 萨比娜 萨鲁斯提娜 萨隆尼娜 萨尔维亚内拉 斯坎提拉 塞伦娜 塞尔吉亚 塞维拉 塞维莉娜 西尔维亚 斯帕杜莎 苏尔皮西亚 塔尔希拉 提提亚娜 乌尔皮亚 瓦勒莉亚_瓦勒莉亚
 			维莉亚 维克托莉亚 维吉兰提亚 维维亚娜_维维亚娜
 		}
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = "奥夫 "
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
@@ -808,24 +808,24 @@ iberian = {
 		color = { 0.55 0.42 0.04 }
 
 		male_names = {
-			阿方索_阿方斯 阿尔瓦_奥利弗 安邹_桑丘 阿兹纳尔_阿兹纳尔 贝拉斯科_瓦斯科 贝尔蒙特_维木多 贝纳特_伯纳德 迭戈_迪亚科 东那托_东纳图斯 埃吉迪奥_埃吉迪乌斯
-			埃内科_伊尼戈 埃拉蒙_雷蒙德 费尔南多_斐迪南 福腾 加林多_加林多 加齐亚_加西亚 吉兰_威廉 贡扎尔_贡萨罗 厄拉梅尔 若阿内斯_约翰
-			拉德隆 罗普_卢波 路易斯_路易 曼里克_阿马尔里克 马丁_马丁 穆尼奥_穆尼奥 努诺_努诺 欧贝寇_欧贝寇 奥尔多诺_奥尔多诺 佩莱奥_佩拉吉乌斯 皮阿雷斯_彼得
-			拉米罗_拉米罗 罗德里戈_罗德里克 韦拉_韦拉 希梅诺_西蒙 曾都洛_琴图勒
-			
+			阿方索_阿方斯 阿尔瓦_奥利弗 安特索_桑丘 奥雷利奥_奥里利乌斯 阿兹纳尔_阿兹纳尔 贝拉斯科_瓦斯科 贝尔特兰_贝特朗 达托_西奥达特 迭戈_雅各布 埃吉迪奥_埃吉迪乌斯 埃内科_伊尼戈 埃拉蒙_雷蒙德 费尔南多_斐迪南 福腾_福图纳图斯 加林多_加林多 加齐亚_加西亚 吉兰_威廉 戈麦斯_戈麦斯 贡扎尔_贡萨罗 亨里克_亨利
+			Eneko_Inigo Erramun_Raymond Fernando_Ferdinand Fortun Galindo_Galindo Gartzia_Garcia Gilen_William Gontzal_Gonzalo Herramel Joanes_John
+			Ladron Lope_Lupo Luis_Louis Manrike_Amalric Martín_Martin Munio_Munio Nu?o_Nuno Obeko_Obeko Ordo?o_Ordono Pelaio_Pelagius Piarres_Peter
+			Ramiro_Ramiro Rodrigo_Roderick Vela_Vela Ximeno_Simon Zentulo_Centule
+
 #			Abdala Isa Ismail Mohamed Motarrif Muza Saad Salama Taur Yahya Yunus Zahir
 		}
 		female_names = {
-			艾妮丝_艾格妮丝 阿尔东萨_阿尔东萨 安德烈戈托 安莎_桑查 贝拉斯基塔 贝伦加莉娅_贝伦加莉娅 布兰卡_布兰琪 埃尔比拉_埃尔维拉 伊丽莎 艾米丽_艾米丽
-			埃斯特法尼娅_斯蒂芬妮 乔安娜_琼 康斯坦琪娅_康斯坦丝 麦约尔_玛约尔 玛丽亚_玛丽亚 门姿娅_门西亚 穆尼娅_穆尼娅 努娜 奥内卡_奥内卡
-			普拉珍琪娅_普莱珊丝 特克拉 特蕾莎_特蕾莎 托妲_托妲 乌拉卡_乌拉卡 希梅娜_希梅娜
-			
+			艾妮丝_艾格妮丝 阿尔东萨_阿尔东萨 Andregoto Antsa_Sancha Belaskita Berengaria_Berengaria Blanka_Blanche Elbira_Elvira Eliza Emili_Emily
+			Estefania_Stephania Joana_Joan Konstantzia_Constance Maior_Mayor Maria_Maria Mentzia_Mencia Munia_Munia Nu?a Oneka_Oneka Oria
+			Plazentzia_Plaisance Teresa_Teresa Toda_Toda Urraka_Urraca Ximena_Ximena
+		
 #			Awriya
 		}
 		from_dynasty_prefix = "德 "
 		
-		male_patronym = "艾斯"
-		female_patronym = "艾斯"
+		male_patronym = "之子"
+		female_patronym = "之女"
 		grammar_transform = spanish
 
 		pat_grf_name_chance = 80
@@ -844,20 +844,20 @@ iberian = {
 		color = { 0.95 0.82 0.09 }
 
 		male_names = {
-			阿方索_阿方斯 阿隆索_阿方斯 阿尔瓦_奥利弗 阿瓦洛_奥利弗 贝尔蒙特_维木多 迭戈_迪亚科 恩里克_亨利 费德里克_弗雷德里克 菲利普_菲利普 费尔南多_斐迪南
-			弗鲁埃拉_弗洛伊拉 加尔卡_加西亚 吉尔_埃吉迪乌斯 戈麦斯_戈麦斯 贡萨罗_贡萨罗 吉伦_威廉 吉列尔莫_威廉 古蒂耶雷_沃尔特 胡安_约翰 罗普_卢波 路易斯_路易
-			曼里克_阿马尔里克 马丁_马丁 穆尼奥_穆尼奥 努诺_努诺 奥尔多诺_奥尔多诺 奥威科_欧贝寇 佩德罗_彼得 佩拉约_佩拉吉乌斯 拉米罗_拉米罗 罗德里戈_罗德里克 
-			萨尔瓦多 桑丘_桑丘 苏埃罗_苏埃罗 特罗_特罗 韦拉_韦拉
+			Alfonso_Alphonse Alonso_Alphonse álvar_Oliver álvaro_Oliver Bermudo_Vermudo Diego_Diaco Enrique_Henry Fadrique_Frederick Felipe_Philip Fernando_Ferdinand
+ 			Fruela_Froila García_Garcia Gil_Egidius Gómez_Gomez Gonzalo_Gonzalo Guillén_William Guillermo_William Gutierre_Walter Juan_John Lope_Lupo Luis_Louis
+			Manrique_Amalric Martín_Martin Munio_Munio Nu?o_Nuno Ordo?o_Ordono Oveco_Obeko Pedro_Peter Pelayo_Pelagius Ramiro_Ramiro Rodrigo_Roderick
+			Salvador Sancho_Sancho Suero_Suero Tello Vela_Vela
 		}
 		female_names = {
-			阿尔东萨_阿尔东萨 安德齐娜 比阿特丽兹_比阿特丽斯 贝伦吉拉_贝伦加莉娅 布兰卡_布兰琪 康斯坦莎_康斯坦丝 埃尔维拉_埃尔维拉 埃斯特法妮娅_斯蒂芬妮 芙洛妮尔妲_芙洛妮尔德 贡特洛妲_歌特鲁妲
-			伊奈丝_艾格妮丝 伊莎贝尔_伊丽莎白 夕梅娜_希梅娜 胡安娜_琼 莱欧诺尔_埃莉诺 玛法尔妲_玛蒂尔妲 玛丽亚_玛丽亚 玛丽娜_玛琳 玛约尔_玛约尔 门西亚_门西亚
-			米莉娅_艾米丽 桑查_桑查 特蕾莎_特蕾莎 托妲_托妲 乌拉卡_乌拉卡
+			Aldonza_Aldonza Anderquina Beatriz_Beatrice Berenguela_Berengaria Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Fronilda_Fronilde Gontroda_Gotruda
+			Inés_Agnes Isabel_Elisabeth Jimena_Ximena Juana_Joan Leonor_Eleanor Mafalda_Matilda María_Maria Marina_Marine Mayor_Mayor Mencía_Mencia
+			Milia_Emily Sancha_Sancha Teresa_Teresa Toda_Toda Urraca_Urraca
 		}
 		from_dynasty_prefix = "德 "
 		
-		male_patronym = "艾斯"
-		female_patronym = "艾斯"
+		male_patronym = "之子"
+		female_patronym = "之女"
 		grammar_transform = spanish
 
 		pat_grf_name_chance = 45
@@ -876,15 +876,15 @@ iberian = {
 		color = { 0.85 0.75 0.08 }
 
 		male_names = {
-			阿尔方_阿方斯 阿尔瑙_阿诺德 阿尔陶_阿塔尔 贝伦格尔_贝伦加尔 贝伦格尔-拉蒙 贝纳特_伯纳德 贝纳特-吉列姆 达尔冒 埃尔门戈尔 菲利普_菲利普
-			费兰_斐迪南 弗雷德里克_弗雷德里克 高斯弗雷德_戈德弗雷 杰拉德_杰拉德 贡巴乌 古尔劳_杰拉尔德 吉弗雷_威尔弗雷德 吉列姆_威廉 吉列姆-拉蒙 吉斯拉伯特_吉尔伯特 
-			于格_休 豪默_雅各布 乔安_约翰 约弗雷_戈德弗雷 奥特_奥托 佩雷_彼得 庞聂_庞斯 庞聂-于格 拉蒙_雷蒙德 拉蒙-贝伦格尔_雷蒙德-贝伦加尔 
-			拉蒙-佛尔克 罗杰_罗杰 桑特斯_桑丘 苏涅尔_苏涅尔 乌达拉地
+			Alfons_Alphonse Arnau_Arnold Artau_Artal Berenguer_Berengar Berenguer-Ramon Bernat_Bernard Bernat-Guillem Dalmau Ermengol_Ermengaud Felip_Philip
+			Ferran_Ferdinand Frederic_Frederick Gausfred_Godfrey Gerard_Gerard Gombau Guerau_Gerald Guifré_Wilfred Guillem_William Guillem-Ramon Guislabert_Gilbert
+			Hug_Hugh Jaume_Jacob Joan_John Jofré_Godfrey Ott_Otto Pere_Peter Pon?_Pons Pon?-Hug Ramon_Raymond Ramon-Berenguer_Raymond-Berengar
+			Ramon-Folc Roger_Roger San?_Sancho Sunyer_Sunyer Udalard
 		}
 		female_names = {
-			艾德莱妲_阿德莱德 艾格妮丝_艾格妮丝 艾拉曼妲 阿尔森妲_阿尔森妲 比阿特留_比阿特丽斯 布兰卡_布兰琪 布鲁尼森妲 康斯坦丝_康斯坦丝 朵莉娅_杜斯 埃里奥诺_埃莉诺
-			伊莉森妲 埃尔梅森妲_埃尔梅辛妲 埃斯特法尼娅_斯蒂芬妮 古尔拉瓦 吉列玛 吉斯拉_吉塞拉 伊莎贝尔_伊丽莎白 乔安娜_琼 玛嘉莉妲_玛格丽特 玛丽亚_玛丽亚 玛可萨_玛赫琪
-			桑查_桑查 西比拉_西比拉 特蕾莎 托妲_托妲 维奥朗_尤兰妲
+			Adelaida_Adelaide Agnès_Agnes Alamanda Arsenda_Arsenda Beatriu_Beatrice Blanca_Blanche Brunisenda Constan?a_Constance Dol?a_Douce Elionor_Eleanor
+			Elisenda Ermessenda_Ermesinda Estefania_Stephania Gueraua Guillelma Guisla_Gisela Isabel_Elisabeth Margarida_Margaret Maria_Maria Marquesa_Marquise
+			San?a_Sancha Sibila_Sibylla Teresa_Teresa Toda_Toda Violant_Yolanda
         }
 		from_dynasty_prefix = "德 "
 		grammar_transform = french
@@ -905,19 +905,19 @@ iberian = {
 		color = { 0.75 0.67 0.07 }
 
 		male_names = {
-			阿方索_阿方斯 艾利斯 阿瓦洛_奥利弗 贝尔穆多_维木多 迪奥戈_迪亚科 埃加斯 埃斯特瓦奥_斯蒂芬 费纳奥_斐迪南 费尔南多_斐迪南 加西亚_加西亚
-			吉尔_埃吉迪乌斯 戈麦斯_戈麦斯 贡萨罗_贡萨罗 古德黑_沃尔特 亨里克_亨利 埃尔米吉奥 若昂_约翰 洛波_卢波 鲁西迪奥 路易_路易 劳伦尼奥_劳伦斯 马定_马丁
-			麦姆_门多 门多_门多 莫尼奥_穆尼奥 穆诺_穆尼奥 努诺_努诺 派欧_佩拉吉乌斯 佩德罗_彼得 佩罗_彼得 彭休_庞斯 罗德里戈_罗德里克 鲁伊_罗德里克
-			桑丘_桑丘 索埃罗_苏埃罗 雷蒙多_雷蒙德 瓦斯科_瓦斯科 韦森特_文森特
+			Afonso_Alphonse Aires álvaro_Oliver Bermudo_Vermudo Diogo_Diaco Egas Estêv?o_Stephen Fern?o_Ferdinand Fernando_Ferdinand Garcia_Garcia
+			Gil_Egidius Gomes_Gomez Gon?alo_Gonzalo Guterre_Walter Henrique_Henry Hermígio Jo?o_John Lopo_Lupo Louren?o_Laurence Martim_Martin
+			Mem_Mendo Mendo_Mendo Monio_Munio Muno_Munio Nuno_Nuno Paio_Pelagius Pedro_Peter Pero_Peter P?ncio_Pons Rodrigo_Roderick Rui_Roderick
+			Sancho_Sancho Soeiro_Suero Raimundo_Raymond Vasco_Vasco Vicente_Vincent
 		}
 		female_names = {
-			艾尔妲拉_阿尔德瓦拉 阿尔东妲_阿尔东萨 比阿特丽兹_比阿特丽斯 贝伦嘉莉娅 布兰卡_布兰琪 康斯坦丝_康斯坦丝 多狄娅 埃尔维拉_埃尔维拉 埃斯特万妮娅_斯蒂芬妮 芙露伊尔赫_芙洛妮尔德
-			贡提妮娅 贡特洛妲_歌特鲁妲 吉奥玛尔 伊涅丝_艾格妮丝 乔安娜_琼 莱欧诺尔_埃莉诺 玛法尔妲_玛蒂尔妲 玛嘉莉妲_玛格丽特 玛丽亚_玛丽亚 玛丽妮娅_玛琳 
-			摩尔_玛约尔 奥罗娥娜 桑查_桑查 特蕾莎_特蕾莎 乌拉卡_乌拉卡
+			Aldara_Alduara Aldon?a_Aldonza Beatriz_Beatrice Berengária_Berengaria Branca_Blanche Constan?a_Constance Dórdia Elvira_Elvira Estevainha_Stephania Fruilhe_Fronilde
+			Gontinha Gontroda_Gotruda Guiomar Inês_Agnes Joana_Joan Leonor_Eleanor Mafalda_Matilda Margarida_Margaret Maria_Maria Marinha_Marine
+			Mor_Mayor Ouroana Sancha_Sancha Teresa_Teresa Urraca_Urraca
 		}
 		from_dynasty_prefix = "德 "
-		male_patronym = "伊斯"
-		female_patronym = "伊斯"
+		male_patronym = "之子"
+		female_patronym = "之女"
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
@@ -936,22 +936,22 @@ iberian = {
 		color = { 0.55 0.55 0.15 }
 
 		male_names = {
-			阿德方索_阿方斯 阿吉拉 艾玛纳吉多 杰尼亚 阿拉里秋 阿洛伊托 阿苏尔 阿萨纳吉多 贝冷嘉里欧_贝伦加尔 迪亚科_迪亚科 法费拉
-			弗里德南多_斐迪南 弗里德南_斐迪南 弗洛伊拉_弗洛伊拉 加西亚_加西亚 贡萨罗_贡萨罗 衮德玛 古提尔_沃尔特 乔汉_约翰 柳瓦 柳维里秋
-			卢波_卢波 莫勒嘉托 蒙尼奥_穆尼奥 嫩诺_努诺 欧利巴 奥尔东诺_奥尔多诺 佩拉吉奥_佩拉吉乌斯 拉尼米罗_拉米罗 勒卡勒多
-			罗德里戈_罗德里克 三斯_桑丘 斯洛 苏涅阿里欧_苏涅尔 迪奥多里秋_迪奥多里克 维勒蒙多_维木多 威尔弗雷多_威尔弗雷德 维玛拉诺 维提扎
+			阿方索_阿方斯 阿吉拉 杰尼亚 阿拉里克 阿里克 亚述费纳奥_斐迪南 费尔南多_斐迪南 Diaco_Diaco Fafila
+			Friedenando_Ferdinand Friednand_Ferdinand Froila_Froila Gar?i_Garcia Gon?alo_Gonzalo Gundemar Guttier_Walter Johan_John Liuva Liuvericho
+			卢波_卢波 Mauregato Monnio_Munio Nunno_Nuno Oliba Ordonno_Ordono Pelagio_Pelagius Petro_Peter Ranimiro_Ramiro Rekkaredo
+			Rodericho_Roderick Sans_Sancho Silo Suneario_Sunyer Suniefredo Theodoricho_Theodoric Veremondo_Vermudo Wifredo_Wilfred Wimarano Witiza
 
-#			Abdela_Abdullah Abdela鏸?Abdelmelic Abdeluahid Abderrabmen Abrafim Ambroz Amet_Ahmad Ayyub 莂charya
-#			莈lim 莡lema Hacan Hamdan Harun I鏰g Mahomat_Muhammad Maruan Mu鏰 Omar
-#			Xabrit Yabya Yafar Yu鐄f Yunus
+#			Abdela_Abdullah Abdela?i? Abdelmelic Abdeluahid Abderrabmen Abrafim Ambroz Amet_Ahmad Ayyub ?acharya
+#			?elim ?ulema Hacan Hamdan Harun I?ag Mahomat_Muhammad Maruan Mu?a Omar
+#			Xabrit Yabya Yafar Yu?uf Yunus
 		}
 		female_names = {
-			阿德衮蒂斯 阿朵信达 艾格妮丝_艾格妮丝 阿拉贡特 阿吉洛 阿娃_伊娃 布鲁讷琪蒂斯 伊吉洛娜 伊尔东萨_阿尔东萨 伊尔德瓦拉_阿尔德瓦拉 
-			埃尔维拉_埃尔维拉 尔蒙嘉蒂斯_埃蒙嘉德 尔梅尼辛妲_埃尔梅辛妲 芙拉姆拉 芙洛妮尔德_芙洛妮尔德 歌迪欧萨 贡特洛特_歌特鲁妲 伊比莉娅 里欧德衮蒂斯 弥宁达 
-			蒙妮娅_穆尼娅 蒙妮娅东娜 欧尼卡_奥内卡 里琪蓓嘉 斯比莉娅_西比拉 斯瑟南达 狄奥多拉_狄奥多拉 乌拉卡_乌拉卡 维妮蒂达_贡希尔德
+			Adelgundis Adosinda Agnes_Agnes Aragonte Argilo Ava_Eva Brunechildis Egilona Eldonza_Aldonza Elduara_Alduara
+			Elvira_Elvira Ermengardis_Ermengarde Ermenisinda_Ermesinda Flamula Fronilde_Fronilde Gaudiosa Gonterote_Gotruda Iberia Leodegundis Menenda
+			Monnia_Munia Monniadomna Onecca_Oneka Riciberga Sibilia_Sibylla Sisenanda Theodora_Theodora Urraca_Urraca Winidilda_Gunhild
 
-#			Abda Ayab Ay鏰 莂yida 莈ida Emira Isra Leyla Melica Nadia
-#			Nadira Neyla Nur Tarifa Ya鏼ina
+#			Abda Ayab Ay?a ?ayida ?eida Emira Isra Leyla Melica Nadia
+#			Nadira Neyla Nur Tarifa Ya?mina
 		}
 		from_dynasty_prefix = "德 "
 		grammar_transform = french
@@ -1019,7 +1019,7 @@ byzantine = {
 			西蒙妮丝 索菲亚_索菲亚 斯特凡尼娅_斯特凡尼娅 狄卡拉 狄奥查丽丝特 狄奥多拉_狄奥多拉 狄奥多茜娅_狄奥多茜娅 狄奥格诺茜娅 狄奥克提斯特 狄奥法诺 多麦丝 瓦莱莉娅_瓦莱莉娅 薇薇安娜_薇薇安娜 茜娜 泽诺比娅 佐伊
 		}
 
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = "奥 "
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
@@ -1097,26 +1097,47 @@ celtic = {
 		color = { 0.3 0.8 0.8 }
 
 		male_names = {
-			埃德_于格 埃丹_于格 阿恩古斯_安格斯 埃蒙_埃德蒙德 恩纳 恩利_亨利 奥恩格斯_安格斯 奥尔科巴 艾里尔 阿因梅雷 阿马尔盖德 安莱布_奥拉夫 亚德加 亚特_亚瑟 亚特加尔 亚图尔_亚瑟 奥盖雷 
-			巴拉德玛克 布兰 布兰杜布 布里安 布罗恩 卡鲁斯_查理 卡达尔 卡达兰 切拉希 肯-费拉德 切巴尔 齐纳德_肯尼思 科尔普雷 科尔曼 科纳尔 康纳尔 康加拉齐 康恩 康斯坦丁_康斯坦丁
-			科马克 克里姆坦 达比德_大卫 德曼 迪亚麦特 唐纳尔_唐纳德 唐查德_邓肯 唐库安_邓肯 邓查德_邓肯 邓加尔 欧冈_尤恩 
-			法埃兰 法埃尔贝 费加尔 费格斯 费得里米德_费得里米德 费得尔米德_费得里米德 芬根 芬恩 芬斯内希塔埃 弗莱德贝塔希 弗兰 佛加塔希 
-			加布兰 吉拉-约萨 吉拉-布里格特_吉尔伯特 吉拉-科勒姆 吉拉-科姆盖恩 吉拉-克里斯特 吉拉-纳-纳埃姆 吉拉-帕特莱克 吉拉-鲁阿德
-			雅各布_雅各布 英德雷希塔希 洛因格塞希 洛肯 鲁盖德 洛希兰 马埃尔-布里格特 马埃尔-西亚雷恩 马埃尔-杜因 马埃尔-约萨_马利兹 
-			马埃尔-马埃多克 马埃尔-马塔因 马埃尔-莫达 马埃尔-帕特莱克 马埃尔-鲁安奈德 马埃尔-塞希莱恩 马埃尔-塞希奈尔 玛格努斯_玛格努斯 马德加麦恩 马图丹 穆伊雷达希_默多克 莫查德 
-			奈尔_奈杰尔 帕特莱克_帕特里克 皮里伯_菲利普 理查_理查 罗恩 鲁阿克 塞安_约翰 塞尔巴希 塞奥安_约翰 图阿达尔 塔德格 提格南 托尔德尔巴希 托马斯_托马斯 乌阿尔加格 乌阿尔塔_沃尔特 威廉_威廉
+			Aaron_Aaron Abbán Abner_Abner Abél_Abel Adomnán áed_Hugh áedgen áeducán áedán_Hugh áengus_Angus Affiath Ailbe Ailbrend Ailbrenn Ailchú Aildobur Ailgel áilgenán Ailgus
+			Ailill Ailpín_Alwin Ainbchellach áindle Ainftech_Enfidaig Ainmere Airechtach Airfhindán Airfhinnán Airleid Airmedach Amalgaid Amlaíb_Olaf Anfudán Anlón Anmchaid ánrothán Ardgal
+			Ardgar Art_Arthur Artbran Artgal Artgus Artucán Artúr_Arthur Assiucc Augaire Augustín_Augustine Aurthuile Báethgalach Báethíne Báetán Béoáed Barrfhind Beccán Berrach Bhátair_Walter
+			Blathmacc Bran_Bran Brandub Brangen Bressal Brian_Brian Briccéne Briccíne Broccán Bruatur Bruide_Bride Brénaind Brénainn Bróen Búaidbéo Caicher Cailech Cailte Cairbre_Carbrey
+			Cairell Caisséne Caissín Caissíne Canann Canannán Carlus_Charles Cathal Cathalán Cathassach Cathbad Cathmáel Cathmál Cathnio Cathub Causantín_Constantine Caílte Caínchomrac
+			Caíndelbán Ceithernach Cellach Cellachán Cennétig_Kentigern Cenn-Fáelad Cennlachán Cerball Cernach Cernachán Cian Ciarán Cilléne Cillíne Cináed_Kenneth Clemens_Clement Cobthach
+			Coirpre Colcu Colmán_Nicholas Columb_Nicholas Comgán Conaing Conall_Conall Conallán Conamail Conán_Conan Conchenn Conchobar Condla Congal Congalach Congus Conlang Conmac Conmacc
+			Conmáel Conmál Conn_Conn Connla Conrí Constans_Constantius Constantín_Constantine Corbb Corbán Corccán Corcrán Cormac Coscrach Coílboth Crimthann Crundmáel_Crundmáel Cruinnmáel_Crundmáel
+			Críchán Crónán Cuilén Cuindles Cuircthe Cummascach Cáemán Cóelbad Cóelub Cóemán Cú-Allaid Cú-Bretan Cú-Caech Cú-Cen Cú-Cen-Máthair Cú-Cúaráin Cú-Gamna Cú-Roí Cúanu Cúldub Cúán
+			Cúánán Dabíd_David Daigre Dalbach Dallán Daniél_Daniel Dathal Dathgus Demmán Diarmait_Dermid Doedgus Domangart Domnall_Donald Donn Donnchad_Duncan Donncuan_Duncan Donndubán Donngal
+			Donnucán_Duncan Doélgus Drost Drust Dub-dá-Lethe Dubcenn Dubgenn Dubh_Duff Dubhghall_Dugald Dubhglais_Douglas Dubthach Dubáed Dubán Duiblesc Duibne Dunáed Dálach Dícuill Díglach Dímmae
+			Dímmasach Dímmán Dínertach Dúnacán Dúnadach Dúnchad_Duncan Dúngal Dúngalach Dúnlang éamonn_Edmund Echmarcach échtgal échtgus Echthigern Echuid éicnech éicnechán Eláir énna énri_Henry éochad
+			Eochaid_Eochaid Eochu Eochucán éogan_Eugene Erc_Eric Ercaid Ercáed Ercán éremón érennach Ernán Eterscél Eógan_Eugene Eóganán_Eugene Fachtna Fairchellach Fallaman Farannán Faílbe Fearghus_Fergus
+			Fechtnach Fedach Fearchar_Farquhar Fedelmid Feirgil Felic Fer-Fugaill Feradach_Feradach Ferdomnach Fergal Fergus_Fergus Fiachnae Fianchú Findbarr Fingen Finguine Finn_Finn Finnacán Finnbarr
+			Finnchú Finnlagh_Findlay Finnsnechtae Fintan Flaithbertach Flaithem Flaithemán Flaithgus Flaithrí Flann Flannacán Flannchad Flannán Fogartach Folachtach Forannán Forbassach Fothad Fothud
+			Fuacarta Fubthad Fuirechtach Fursu Fáelcar Fáelchad Fáelchú Fáeldobur Fáelgus Fáelán Fáelbe Fíachnae Fíadchú Fíngin Fínsnechta Fócarta Gabrán Garalt Garbith Gilla-íosa Gilla-Brígte_Gilbert
+			Gilla-Coluim Gilla-Comgáin Gilla-Críst_Gilchrist Gilla-na-Náem Gilla-Pátraic_Gilpatrick Gilla-Ruad_Gilroy Glaisiuc Glaschu Glún-Iairn Gofraid_Godfrey Gormacán Gormgus Gormán Guaire Gáethán
+			Gáethíne Gósacht Iacob_Jacob Iarlaithe Imchad Indrechtach Ioseph_Joseph íomhar_Ivar Labraid Lachtnae Lachtnán Lachtnéne Laidcenn Laidgenn Laidíne Laisrén Lennán_Lennon Lethlobur Liam_William
+			Liber Lochlann Loingsech Lonán Lorcán Lugh_Leon Lugaid Lugáed Láegaire Lóchéne Lóchíne Lóeguire Mac-Laisre Mainchíne Maine Manchán Martan Mathgamain Matudán Minchán Mo-Chonna Mo-Lua Móenach
+			Morand Morann Mugrón Muirchertach Muirecán Muiredach_Murdoch Muirgius Murchad Murchú Máel-Anfaid Máel-Bresail Máel-Brígte Máel-Cein Máel-Cianáin Máel-Ciaráin Máel-Coluim_Malcolm Máel-Corgis
+			Máel-Dubh_Maldoven Máel-Dúin Máel-Fothartaig Máel-Fábaill Máel-íosa_Malise Máel-Máedóc Máel-Martain Máel-Mórda Máel-Muire_Malmure Máel-Míchíl Máel-Petair Máel-Pátraic Máel-Ruanaid Máel-Sechnaill
+			Máel-Tólai Máelán Máenach Máthair Múadán Nadarchu Nannid Natfraech Natfraich Natsluaig Nechtan_Nathan Niall_Nigel Niallgus Niallán Nuadu Odrán óengus_Angus óenucán Oisséne Oissíne Olcán ólchobar
+			Onchú Orthanach Oscar_Oscar Pátraic_Patrick Petair_Peter Pilib_Philip Pól_Paul Proinsias_Francis Rechtabra Riacán Riaguil Robartach Rogallach Rogellach Ruah_Roy Ruaidrí_Roderick Ruarcc Rumann
+			Ráthach Rígán Ríán Ródán Rónchú Rónán_Ronan Rúadacán Rúadán Scandal Scandlán Scellán Scolaige Séaghdha_Shaw Séafra_Godfrey Séamas_Jacob Seán_John Sechnassach Selbach Senchán Seoán_John Sinach
+			Siothrún_Godfrey Slébíne Snedgus Sogan Somhairle_Somerled Suibne_Sweeny Sáerbrethach Sárán Séigíne Sétna Sétnae Tadg_Tadg Taithlech Talorc_Talore Talorcán_Talorcán Temnén Tigernach Tigernán
+			Tipraite Tomaltach Tomás_Thomas Torccán Trenchad Trengus Tressach Tuathalán Tuireann_Taran Tálán Tóla Túathal_Tuathal Ualgarg Ualan_Valentin Ualtar_Walter úamnachán Uargal Uargalach Uargus
+			Uilliam_William Ultán
 		}
 		female_names = {
-			艾妮_艾格妮丝 尤雅_伊娃 奥尔莱瑟 乌娜 艾比恩 阿芙莱克 艾比琳 艾菲 艾格妮丝_艾格妮丝 艾尔伯赫 爱丽丝_爱丽丝 安南拉 贝比恩 本-米德 本-穆曼 本-乌拉德
-			卡希特 凯瑟妮 凯蒂琳_凯瑟琳 卡坦 卡特里奥娜_凯瑟琳 克里斯蒂娜_克里斯蒂娜 康达尔 迪尔德丽 德拜尔 德伯盖尔 德沃吉拉 德-露格妲希 杜布-迪尔 
-			埃希拉德 埃莉奥诺拉_埃莉诺 菲妮 芬恩瓜拉 戈尔默芙莱德_戈尔默芙莱德 戈尔默莱德_戈尔默芙莱德 格莱妮
-			伊玛格 兰恩 拉塞尔菲奥娜 蕾尔坦 露西娅_露西娅 梅尔_玛丽亚 梅莉德 梅尔格蕾德_玛格丽特 摩尔 马埃尔-穆伊尔 莫妲_玛蒂尔妲 
-			诺阿拉 罗伊丝 莎德布 斯卡妲希 塞布丹 塞奥奈德 泰蕾芙莱德 
+			Ablach áedammair Affraic_Euphemia Aíbinn Aibilín_Eva Aileann áine_Agnes Anlaith Aróc Barrdub Ben-Laigen Ben-Míde Ben-Muman Ben-Ulad Brigit_Brigit  Bé-Fáil Bébinn Cacht Caillech-Fhinnéin
+			Cainnech Caisséne Caitilín_Catherine Caíntigern Caírech Cathán Catríona_Catherine Cellach Ciar Cnes Coblaith_Cobflaith Cobflaith_Cobflaith Conchenn Condál Crínóch Crístina_Christina Cumman
+			Deirdre Der-bForgaill_Devorguilla Derbáil Derborgaill_Devorguilla Der-Ilei_Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla Dúinsech Dúnlaith Echrad éibhleann
+			Eilionora_Eleanor Eithne_Eithne Ellbríg Emer_Emer étaín éua_Eva Euginia_Eugenia Faílenn Fedelm Finneacht Finnguala_Finnguala Flann Forbflaith Fíne Garb Gelgéis Gerróc Gnathnad Gormflaith_Gormflaith
+			Gormlaith_Gormflaith Gráinne Imag íte Lann Lasairfíona Lathir Lerben Lerthan Lígach Lucia_Lucia Martha_Martha Mauda_Matilda Muadhnait_Mona Muirenn_Murron Muirgel_Muriel Muirne_Morna Máel-Mide
+			Máel-Muire_Malmure Máire_Maria Máiread Máirgred_Margaret Mór_Mor Mór-Muman Nárbflaith Nuala_Finnguala órlaith órnat Róis_Ros Sadb Samthann Scáthach Sébdann Selblaith Seonaid_Joan Sinech Siobán_Joan
+			Sisuile Sláíne_Slaine Sorcha_Sorcha Suaibsech Sáerlaith Sétach Síthmaith Tailefhlaith Tailltiu Temair Tuathflaith Tómnat Uallach Uasal úna_Una
 		}
 		
 		dukes_called_kings = yes
 		
-		from_dynasty_prefix = "德 "
+		from_dynasty_prefix = "克 "
 		male_patronym = "麦克 "
 		female_patronym = "尼克 "
 		prefix = yes
@@ -1136,13 +1157,26 @@ celtic = {
 		color = { 0.3 0.7 0.7 }
 
 		male_names = {
-			亚当_亚当 艾伦 亚历山大_亚历山大 阿尔温 安德鲁_安德鲁 安格斯_安格斯 阿奇博尔德_阿奇博尔德 亚瑟_亚瑟 克里斯多夫_克里斯多夫 科林 大卫_大卫 唐纳德_唐纳德 邓肯_邓肯 埃德加 埃德蒙德_埃德蒙德 爱德华_爱德华 埃里克_埃里克 尤恩_尤恩 费查尔 费格斯 芬德雷 乔治_乔治
-			吉尔伯特_吉尔伯特 戈德弗雷_戈德弗雷 亨利_亨利 休_于格 因格兰 詹姆斯 约翰_约翰 肯尼思_肯尼思 劳伦斯_劳伦斯 玛格努斯_玛格努斯 马尔科姆 马利兹_马利兹 马修_马修 默多克_默多克 尼尔 帕特里克_帕特里克 雷金纳德 理查_理查 罗伯特_罗伯特
-			罗德里克_罗德里克 罗杰_罗杰 西蒙_西蒙 托马斯_托马斯 沃尔特_沃尔特 威廉_威廉
+			Adam_Adam Alpin_Alwin Alan_Alan Alastair_Alexander Alexander_Alexander Andrew_Andrew
+			Angus_Angus Archibald_Archibald Arthur_Arthur Arran Aulay_Olaf Beathan Brian_Brian Brice_Brice Cailean_Nicholas Calum_Nicholas Carbrey_Carbrey Colban_Kolbein
+			Colin_Nicholas Conall_Conall Conan_Conan Constantine_Constantine David_David Dermid_Dermid Donald_Donald Douglas_Douglas Duff_Duff Dugald_Dugald
+			Duncan_Duncan Edgar_Edgar Edward_Edward Edwin_Edwin Eric_Eric Evander_Ivar Ewan_Eugene Farquhar_Farquhar Fergus_Fergus Fingal_Finn Findlay_Findlay Frang_Francis
+			Gavin_Gavin Gilbert_Gilbert Gilbride_Gilbert Gilchrist_Gilchrist Gillespie Gilpatrick_Gilpatrick Gilroy_Gilroy Giric_Gregory Glenn Godfrey_Godfrey Gregor_Gregory
+			Hamish_Jacob Hector_Hector Henry_Henry Hugh_Hugh Iain_John Indulf James_Jacob John_John Kenneth_Kenneth Kentigern_Kentigern Lachlan_Roland Laurence_Laurence Lennon_Lennon
+			Lulach Macbeth Magnus_Magnus Malcolm_Malcolm Maldoven_Maldoven Maldred_Maldred Malise_Malise Malmure_Malmure Maoilios Marcas_Marcus
+			Matad_Matad Matthew_Matthew Michael_Michael Morgan_Morgan Muir Mungo_Mungo Murdoch_Murdoch Murray Neil_Nigel Ninian_Ninian Oscar_Oscar
+			Patrick_Patrick Paul_Paul Peter_Peter Philip_Philip Radulf_Ralph Ranald_Reginald Richard_Richard Robert_Robert Roderick_Roderick Ronald_Ragnvald Rory_Roderick Ross Roy_Roy
+			Shaw_Shaw Simon_Simon Somerled_Somerled Stephan_Stephen Sweeny_Sweeny Tadhg_Tadg Talore_Talore Thomas_Thomas Torquil_Torkel Uhtred_Uhtred Uisdean_Eysteinn Walan_Valentin
+			Waldeve_Waltheof Walter_Walter William_William
 		}
 		female_names = {
-			艾妲 艾格妮丝_艾格妮丝 爱丽丝_爱丽丝 安娜贝拉 奥芙莉卡 贝多克 卡特里奥娜_凯瑟琳 塞西莉亚_塞西莉亚 克里斯蒂娜_克里斯蒂娜 德蕾德尔 伊蒂丝 埃莉诺_埃莉诺 埃尔斯佩思 伊娃_伊娃 芙萝拉_芙萝拉 格露奥希 海伦_海伦 伊莎贝尔_伊丽莎白 珍妮特_琼
-			莍_琼 朱莉安娜_朱莉安娜 玛贝尔 玛格丽特_玛格丽特 玛丽奥塔 玛乔莉 玛丽 玛蒂尔妲_玛蒂尔妲 莫德_玛蒂尔妲 摩尔 穆里尔 妮科拉 奥拉比莉娅 拉格奈尔特
+			Ada Affraic_Euphemia Agnes_Agnes Aileen_Helen Alice_Alice Anna_Anna Annabella Aufrica_Euphemia Barabal_Barbara Beileag_Elisabeth Beitris_Beatrice Beathoc_Beatrice Bride_Brigit
+			Catriona_Catherine Cecilia_Cecilia Christina_Christina Deirdre_Deirdre Derilla_Derilla Dervorgilla_Dervorgilla Donada Donella
+			Edith_Edith Edna_Eithne Effie Eilionoir_Eleanor Eimhir_Emer Eithne_Eithne Ela Eleanor_Eleanor Elspeth_Elisabeth Euna Eva_Eva Fenella_Finnguala Fingola_Finnguala Flora_Flora 
+			Forflissa Galiena Glenna Gormelia_Gormflaith Gruoch Helen_Helen Innes Iona Isabel_Elisabeth Isla Isobel_Elisabeth Jean_Joan Julia_Juliana 
+			Kenna Kentigerna Kirstin_Christina Lillias_Elisabeth Lorna Malmure_Malmure Maisie_Margaret Malina Margaret_Margaret Mariota_Mariota Marjory_Marjory Mary_Maria
+			Martha_Martha Marthoc_Marjory Maud_Matilda Maura_Maria Mirren_Murron Mor_Mor Morag_Mor Morna_Morna Moyna_Mona Muriel_Muriel
+			Murron_Murron Nuala_Finnguala Orabilia Peigi_Margaret Rhonda Rodina Ronalda_Ragnhild Ros_Ros Saundra_Alexandra Sheena_Joan Shona_Joan Sholto Slaine_Slaine Sorcha_Sorcha Una_Una
 		}
 		
 		dukes_called_kings = yes
@@ -1167,27 +1201,22 @@ celtic = {
 		color = { 0.2 0.6 0.6 }
 
 		male_names = {
-			亚达 艾伦 亚历山大 阿尔文 阿纳劳德 安奈林 安努恩 阿罗德 亚瑟_亚瑟 阿苏斯 阿萨 阿萨夫 奥斯特 班加 贝德维尔 布莱丁 布朗 布朗瓦拉德
-			布罗希菲尔 布罗希米尔 布鲁特 布鲁因 布里尚 卡德尔 卡德凡 卡多格 卡德沃 卡德瓦拉德 卡德瓦隆 卡杜冈 凯 凯德 卡因 卡拉多格 卡斯纳 卡斯瓦隆
-			考达夫 加迪格 加德文 卡纽 卡雷迪格 考埃尔 库斯顿宁 卡南 辛德卢 坎迪兰 辛法希 辛费林 辛芬 辛瓦隆
-			戴维兹 戴尼奥尔 戴维 多格费尔 德里斯坦 埃德恩 埃德尼费德 埃德尼韦恩 埃德文 艾尼恩 埃利斯 伊利斯德 埃鲁德 埃利斯坦 埃姆里斯 埃维阿斯 菲利普_菲利普
-			弗里奥格 福杜尔 弗拉冈 菲尚 费希尔 加蒙 格雷因特 格拉尔特 戈伦韦 格鲁菲德 格温 格维尔德费 格维尔德恩 格维迪尔 格维利姆
-			海韦尔 伊亚戈 伊德沃尔 叶斯廷 叶延 伊佛尔 伊奥 约洛 约沃思 伊塞尔 里尔 里瓦希 里韦林 马克森 马多格 梅尔 梅尔格温 马雷杜德 马思_马修
-			梅里尔 梅里恩 梅芬 迈里格 摩尔冈 摩里恩 摩里德 欧文 帕德恩 帕德里格_帕特里克 潘多夫 帕斯根 保尔 佩德尔 佩雷迪尔 普莱德里 普布里格 普维迪恩 普维尔
-			雷纳尔特 里克特 里利德 罗伯特_罗伯特 罗德里_罗德里克 鲁恩 赖泽赫 赖多格 赖斯 萨怀尔 塞费鲁斯 塞西尔 锡安 斯特芬_斯蒂芬 舒里恩 特贡维 特格维德 泰洛
-			图德 托莫斯 图德瓦尔 图德瓦隆 蒂迪 蒂佛德得 蒂斯里奥
+			Achiuir_Arthur Aethon_Hugh Aenbecan Allan_Alan Allcallorred Allisander_Alexander Aniel Ardle Auust_August Bili_Beli Bran_Bran Breth Bridei_Bride Briog_Briog Broichan_Brychan
+			Brude_Bride Caltram Canu_Conn Canuall_Conall Canan_Conan Caradaig_Caradog Caruorst Castant_Constans Castantin_Constantine Ciniod_Kenneth Crup Dabuut_David Deocillimon Deoord
+			Domelch_Donald Drest Drosten_Tristan Eddarrnonn Elpin_Alwin Enuidaig_Enfidaig Erpin_Urban Galam Ganant_Gerontius Garalt_Gerald Gede Gest Gigurum_Gregory Girom Idual_Idwal
+			Iduallon_Idwallon Iestan_Justin Iuan_John Irb_Urban Lutrin Mael_Mael Maelchon_Malcolm Manath Mordeleg Morleo Murtolic Naiton_Nathan Ninian_Ninian Pedric_Patrick Pedur_Peter
+			Paul_Paul Pidarnoin_Paternus Ru_Rucenus Ruatirch_Roderick Rubert_Robert Rudri_Roderick Telurg_Talore Telurgan_Talorcán Taran_Taran Tarla_Tadg Uipoig Uist Uuochu_Eochaid
+			Uoret Unen Unuist_Angus Urguist_Fergus Usuullt_Oswald Uthoil Uudrost Uuen_Eugene Uuid Uuirp_Eric Uuredach_Feradach Uuroid
 		}
 		female_names = {
-			阿迪埃娜 阿埃尔薇德 阿埃隆温 阿埃隆薇 爱丽丝 安加拉德 安妮丝_安娜 安妮丝特 安薇尔 阿诺薇德 娅丁 阿莉安罗德 布洛德文 布朗温 卡特琳_凯瑟琳 凯丽德温 塞丽尔 塞丽斯
-			西塞莉 克拉丽珊特 克里斯汀_克里斯蒂娜 黛莉瑟 黛妮思 杜因温 狄德古 埃法 伊莱恩 艾伦 艾丽妮昂 埃莉诺_埃莉诺 埃琳 埃妮德 埃西尔特
-			芙莱德 格莉妮丝 格温 格薇娜塞德 格温薇法尔 格温莉安 歌菲尔 格拉迪斯 哈尔 哈薇丝 海勒德 海拉薇丝 海尔温 胡妮德 海薇拉 伊露德 伊莎贝尔_伊丽莎白
-			莱西 蕾吉 莱乌卡 洛莉 玛彻丝 玛德伦 梅尔丽丝 梅尔 玛丽 玛尔特 玛拉蕾德 玛歇尔 玛格丽德_玛格丽特 玛温娜 摩德_玛蒂尔妲 梅丽珊特_梅丽森德 摩尔嘉娜 摩里恩
-			默凡薇 妮斯特 妮斯塔 奥尔温 奥薇娜 普劳斯特 拉妮尔 莉安农 隆温 珊南特 莎拉_莎拉 塞妮娜 西比尔_西比拉 西奥内德_琼 西万 苏珊娜_苏莎娜
+			Addiena_Addiena Abrella_Abrelda Allust_Alice Arnemetia Brethoc_Beatrice Bride_Brigit Bronuen_Bronwen Caitrion_Catherine Cristin_Christina Durilia_Derilla Elaine_Elaine
+			Elen_Helen Eua_Eva Madru_Matrona Maelmurie_Malmure Mairi_Mary Margrud_Margaret Maud_Matilda Mor_Mor Morag_Mor Morien_Murron Muriel_Muriel Neulina_Neulenna Sara_Sarah
+			Siunod_Joan Uen_Gwen Uluen_Olwen Uuena_Eugenia Uunis_Agnes Uusbail_Elizabeth
 		}
 		
 		dukes_called_kings = yes
 		
-		male_patronym = "玛普 "
+		male_patronym = "阿普 "
 		female_patronym = "菲卓 "
 		prefix = yes
 
@@ -1209,22 +1238,42 @@ celtic = {
 		color = { 0.3 0.8 0.6 }
 
 		male_names = {
-			亚达 艾伦 亚历山大 阿尔文 阿纳劳德 安奈林 安努恩 阿罗德 亚瑟_亚瑟 阿苏斯 阿萨 阿萨夫 奥斯特 班加 贝德维尔 布莱丁 布朗 布朗瓦拉德
-			布罗希菲尔 布罗希米尔 布鲁特 布鲁因 布里尚 卡德尔 卡德凡 卡多格 卡德沃 卡德瓦拉德 卡德瓦隆 卡杜冈 凯 凯德 卡因 卡拉多格 卡斯纳 卡斯瓦隆
-			考达夫 加迪格 加德文 卡纽 卡雷迪格 考埃尔 库斯顿宁 卡南 辛德卢 坎迪兰 辛法希 辛费林 辛芬 辛瓦隆
-			戴维兹 戴尼奥尔 戴维 多格费尔 德里斯坦 埃德恩 埃德尼费德 埃德尼韦恩 埃德文 艾尼恩 埃利斯 伊利斯德 埃鲁德 埃利斯坦 埃姆里斯 埃维阿斯 菲利普_菲利普
-			弗里奥格 福杜尔 弗拉冈 菲尚 费希尔 加蒙 格雷因特 格拉尔特 戈伦韦 格鲁菲德 格温 格维尔德费 格维尔德恩 格维迪尔 格维利姆
-			海韦尔 伊亚戈 伊德沃尔 叶斯廷 叶延 伊佛尔 伊奥 约洛 约沃思 伊塞尔 里尔 里瓦希 里韦林 马克森 马多格 梅尔 梅尔格温 马雷杜德 马思_马修
-			梅里尔 梅里恩 梅芬 迈里格 摩尔冈 摩里恩 摩里德 欧文 帕德恩 帕德里格_帕特里克 潘多夫 帕斯根 保尔 佩德尔 佩雷迪尔 普莱德里 普布里格 普维迪恩 普维尔
-			雷纳尔特 里克特 里利德 罗伯特_罗伯特 罗德里_罗德里克 鲁恩 赖泽赫 赖多格 赖斯 萨怀尔 塞费鲁斯 塞西尔 锡安 斯特芬_斯蒂芬 舒里恩 特贡维 特格维德 泰洛
-			图德 托莫斯 图德瓦尔 图德瓦隆 蒂迪 蒂佛德得 蒂斯里奥
+			Adda Adgar_Edgar Adran_Adrian Aeddan_Hugh Alan_Alan Aldwr_Aldroenus Algwyn_Alwin Alisander_Alexander Alured_Alfred Alwyn_Alwin Anarawd
+			Andreas_Andrew Aneurin Anlaff_Olaf Anllech Annwn_Antoninus Argad_Arcadius Arod Arthen_Artemius Arthfael Arthfoddw_Arthbodus Arthwr_Arthur
+			Arthws Arthwys_Artorius Asa Asaph Awst_August Bangar Bedwyr Beli_Beli Berthgwyn_Berhtwine Berthwallt_Berthoald Bleddyn_Bleddyn Bledrig_Bledrig
+			Bleiddud_Bleiddud Branwaladr_Branwaladr Bride_Bride Briog_Briog Brochfael_Brogmaglus Brwt_Brutus Brwyn Brychan_Brychan Bran_Bran Cadell Cadeyrn
+			Cadfael Cadfan Cadog_Cadog Cadw_Cadw Cadwal Cadwaladr_Cadwaladr Cadwallon_Cadwallon Cadwared_Cadwared Cadwgan Cadwr_Cadwr Cai_Gaius Caid Cain
+			Caradog_Caradog Casnar Caswallon Cawdaf Cedig_Caedicius Cedwyn Ceneu Ceredig_Caratacus Clydog_Louis Coel Corentin_Corentin Cuhelyn
+			Custennin_Constantine Cwlfyn_Culmin Cwrig_Cyriacus Cydifor Cydrych Cynan_Conan Cynddelw_Cynddelw Cyndyddan_Cyndyddan Cynddylan Cyndeyrn_Kentigern
+			Cynfael_Cynfael Cynfarch_Cynfarch Cynfawr Cynfeddw Cynfelyn_Cynfelyn Cynfran Cynfyn Cyngar_Cyngar Cyngen_Cyngen Cynwallon_Cynwallon Cynwared
+			Cynwrig Cynwyd Cynyr Cysteint_Constans Dafydd_David Deheuwant Deiniol_Daniel Dewi_David Dogfael Drystan_Tristan Dumnagual Dwyfan_Damian
+			Dyfnarth_Donyarth Dyfnwal_Donald Dyfnwallon_Dyfnwallon Dynod_Donatus Dywel_Dywel Edern_Eternus Ednyfed_Ednyfed Ednywain Edryd_Ailred Edwyn_Edwin
+			Edylfred_Aethelfred Einion Elfin_Alwin Elidyr Elis Elisedd Elud Elystan_Alstan Emrys_Ambrosius Enfidaig_Enfidaig Erb_Urban Erclwf_Heracles
+			Eudaf_Octavius Ewyas Ffernfael_Ffernfael Ffilip_Philip Ffriog_Friog Ffwdwr Fragan_Fragan Ffransis_Fransis Fychan Fyrsil Gamon Garmon_German
+			Geraint_Gerontius Gerallt_Gerald Glwyddien Glywys_Claudius Godwyn_Godwin Goronwy Gronw Gruffydd_Ruffinus Grygor_Gregory Guret Gwalchmai_Gavin
+			Gwen Gwenwynwyn Gwerstan_Werestan Gwerthefyr_Vortimer Gwerthern_Vortigern Gwydol_Vitalis Gwydolin_Vitalinus Gwyn_Finn Gwidyr Gwilym_William
+			Gwrfawr_Gwrfawr Gwrfoddw Gwrgant_Fergus Gwrgeneu_Gwrgeneu Gwrgi_Gwrgi Gwriad_Viriathius Harri_Henry Herewallt_Hereweald Huw_Hugh Hywel_Hywel
+			Iago_Jacob Ivor_Ivar Idnerth_Idnerth Idwal_Idwal Idwallon_Idwallon Iestyn_Justin Ieuan_John Ifor_Ivar Io Ioan_John Iolo Iorwerth Ithel_Ithel
+			Lles_Lucius Llew_Leon Llyr Llywarch_Llywarch Llywelyn Macsen_Maximos Madog_Matad Mael_Mael Maelcwn_Malcolm Maelgwn_Melgwn Maenyrch March_Marcus
+			Maredudd_Murdoch Math_Matthew Mawgan_Mawgan Meilyr Meirchion_Marcianus Meiriadog_Meriadoc Meirion_Marianus Merfyn_Merfyn Meurig_Maurice
+			Mihangel_Michael Morfarch_Morfarch Morgan_Morgan Morien_Morgen Morydd Mwyn_Mungo Myrddin_Martin Neithon_Nathan Nowy_Nowy Nynniaw Oswallt_Oswald
+			Owain_Eugene Oucydd_Eochaid Padern Padrig_Patrick Pandoff Pasgen_Pascentius Padarn_Paternus Pawl_Paul Pedr_Peter Peredyr Publig Pyr
+			Rheinallt_Reginald Rhicert_Richard Rhigeneu_Ricenus Rhirid Rhiwal_Riwal Rhiwallon_Rhiwallon Rhobert_Robert Rhodri_Roderick Rhufon_Roman
+			Rhun_Rucenus Rhydderch_Roderick Rhydog Rhys Riaged_Riacet Richwin_Richwin Sandde_Sanctus Sawyl_Samuel Seferus_Severin Seisyll_Cecil Selyf_Solomon
+			Senyllt Serigi_Sergius Sieffre_Godfrey Sion Sior_George Siwauna Steffen_Stephen Stinian_Justinanius Sulien_Julian Taliesin_Telesinus Tegonwy
+			Tegwyd_Tadg Teilo Teithfalch Teudebur Tewdos_Theodosius Tewdrig_Theodoric Tewdwr_Theodore Tomos_Thomas Trahaearn Tudur Tudwal_Tuathal
+			Tudwallon_Tudwallon Tydy Tyfoedd Tysilio Urien_Urbgenius Uthyr_Victor Ynyr_Honorius Ysfael
 		}
 		female_names = {
-			阿迪埃娜 阿埃尔薇德 阿埃隆温 阿埃隆薇 爱丽丝 安加拉德 安妮丝_安娜 安妮丝特 安薇尔 阿诺薇德 娅丁 阿莉安罗德 布洛德文 布朗温 卡特琳_凯瑟琳 凯丽德温 塞丽尔 塞丽斯
-			西塞莉 克拉丽珊特 克里斯汀_克里斯蒂娜 黛莉瑟 黛妮思 杜因温 狄德古 埃法 伊莱恩 艾伦 艾丽妮昂 埃莉诺_埃莉诺 埃琳 埃妮德 埃西尔特
-			芙莱德 格莉妮丝 格温 格薇娜塞德 格温薇法尔 格温莉安 歌菲尔 格拉迪斯 哈尔 哈薇丝 海勒德 海拉薇丝 海尔温 胡妮德 海薇拉 伊露德 伊莎贝尔_伊丽莎白
-			莱西 蕾吉 莱乌卡 洛莉 玛彻丝 玛德伦 梅尔丽丝 梅尔 玛丽 玛尔特 玛拉蕾德 玛歇尔 玛格丽德_玛格丽特 玛温娜 摩德_玛蒂尔妲 梅丽珊特_梅丽森德 摩尔嘉娜 摩里恩
-			默凡薇 妮斯特 妮斯塔 奥尔温 奥薇娜 普劳斯特 拉妮尔 莉安农 隆温 珊南特 莎拉_莎拉 塞妮娜 西比尔_西比拉 西奥内德_琼 西万 苏珊娜_苏莎娜
+			Addiena_Addiena Aelwyd_Aelwyd Aeronwen Aeronwy Afrella_Abrelda Alys_Alice Angharad Annes_Anna Annest_Agnes Annwyl Anowed Arddyn Arianrhod
+			Blodwen Bronwen_Bronwen Catrin_Catherine Ceindrych_Cagintria Ceridwen Cerie Cerys Cicely_Cecilia Clarisant Creirwy_Creirwy Cristin_Christina Danhadlwen
+			Delyth Denis_Denise Dwynwen Dwywai Dyddgu Efa_Eva Effros_Euphrasia Efrddyl_Aurelia Efyrddyl_Aurelia Eiliwedd Elaine_Elaine Elen_Helen Eleri_Hilaria
+			Elinion Elinor_Eleanor Ellyn Enid Essyllt_Hersilia Euronwy Ffelis Ffion Fflur_Flora Ffraid_Brigit Glynys Gwen_Gwen Gwenasedd Gwenfrewi_Winifred Gwenhwyfach
+			Gwenhwyfar Gwenllian Gwenwyn Gwerfyl_Gwerfyl Gwladys_Claudia Haer Hawys_Hawise Heledd Hellawes Heulwen Hunydd Hywela Ilud Isabel_Elizabeth
+			Llear_Clara Llecci Lleigy Lleuca_Lucia Lowry Mabyn Maches Madrun_Matrona Maelrys Mair_Maria Mali Mallt Marared_Margaret Marchell_Marcella Margred_Margaret
+			Marwenna Mawd_Matilda Melisant_Melisende Morganna_Morganna Morien_Murron Myfanwy Nest_Agnes Nesta_Agnes Newlyna_Neulenna Non_Nonna
+			Olwen_Olwen Onbrawst Owena_Eugenia Prawst Ragnell_Ragnhild Rhiaindrech_Rioantdrec Rhiainfelt_Regina Rhiannon_Rhiannon Rhonwen Sannant Sara_Sarah
+			Senena Sibyl_Sibylla Sioned_Joan Siwan Sian_Joan Susanna_Susana Tangwystl_Tancostyla Tegla_Thecla Ysbail_Elizabeth Ystradwel
 		}
 		
 		dukes_called_kings = yes
@@ -1252,27 +1301,63 @@ celtic = {
 		color = { 0.3 0.5 0.4 }
 		
 		male_names = {
-			艾默里_艾默里克 阿兰 阿莫利_阿马尔里克 安德烈_安德鲁 阿诺德_阿诺德 亚瑟_亚瑟 奥弗雷德 贝努瓦_贝尼迪克特 贝特朗_贝特朗 布伦迪韦特 布雷茨_布莱斯 布里安特
-			布迪克 卡特瓦隆 克莱门特_克莱门特 科南 丹尼尔_丹尼尔 德里恩 多诺阿尔_唐纳德 德洛贡 埃尼桑 伊恩
-			艾蒂安_斯蒂芬 欧顿_奥托 埃弗拉德 弗朗特_斐迪南 弗朗索瓦_弗兰西斯 高丁 戈蒂耶_沃尔特 若弗鲁瓦_戈德弗雷 乔弗瓦_戈德弗雷 杰怀斯 吉勒斯_埃吉迪乌斯 戈德弗瓦_戈德弗雷 古尔梅隆
-			古尔雷希 古尔德诺克 纪尧姆_威廉 古尔洛厄斯 古尔万特 盖伊_盖伊 盖约马克'赫 哈蒙 赫维 赫斯德伦
-			赫尔 让_约翰 若瑟林_乔瑟林 尤迪塞尔 曼吉 马赛厄斯_马修 马图尔多伊 梅里亚德克 米歇尔_迈克尔
-			摩尔凡 尼古拉斯_尼古拉斯 奥利维尔_奥利弗 奥尔斯坎德 帕德里格_帕德里格 帕斯克维腾 佩伦内斯 皮埃尔_彼得 拉奥尔_拉尔夫 雷诺德_莱因霍尔德
-			雷迪诺克 理查_理查 里瓦隆 罗伯特_罗伯特 罗杰_罗杰 罗兰 罗南 鲁达尔特 萨洛蒙 西蒙_西蒙 坦吉
-			瑟堡特_西奥博尔德 乌瓦德 伊福斯 伊冯
+			Adoyre Adrien_Adrian Aedan_Hugh Agustin_August Alan_Alan Alar_Alaric Aldrien_Aldroenus Alfrond Alor Alured_Alfred Alwen_Alwin Anaoc
+			Anaubritou Anaugen Anauguethen Anauguoret Anauhocar Andreas_Andrew Aniud Anton_Antoninus Argantbri Argantmoet Arnalt_Arnold Arthel
+			Arthguiu_Artorius Arthmael Arthueu_Artorius Arthuiu_Artorius Arthur_Arthur Austol Baldoen_Baldwin Bastian_Sebastian Beli_Beli Beltram_Bertrand
+			Benabic Berenger_Berengar Bernead_Bernard Berthgualt_Berthoald Bledric_Bledrig Bledros Bleidcum Bletcu Blethin_Bleddyn Blethiut_Bleiddud
+			Bodan Bran_Bran Brangualart_Branwaladr Branhucar Branoc Brenci Brendan Breselconan Breselcoucant Breselgar Breseloc Breselueu Brethoc
+			Brient_Brian Brigualt Brioc_Briog Brithael Brochuael_Brogmaglus Bronmael Budguoret Budhoiarn Budic_Benedict Budoc Buhedoc Butgual Cadan
+			Cadaouen Cadarvan Cadiou Cadoc_Cadog Cador_Cadwr Cadou_Cadw Cantgueithen Caradec_Caratacus Caradoc_Caradog Carantoc Catgualart_Cadwaladr
+			Catuallon_Cadwallon Catguethen Catguoret_Cadwared Catgutic Cathno Catnimed Catuod Caurantin_Corentin Ceneu Cenguethen Cenmarhoc Cenmin
+			Cenmonoc Cingur Cinhoedl Clemen_Clement Clodouan Clotwo?on Comoere Conan_Conan Concen_Cyngen Condeleu_Cynddelw Condidan_Cyndyddan Congar_Cyngar
+			Conmael_Cynfael Conmonoc Conogan Conredeu Conuallon_Cynwallon Conmarch_Cynfarch Convelin_Cynfelyn Conwo?on Corguethen Courantgern Courantmonoc
+			Culmin_Culmin Custent_Constans Custentin_Constantine Dauid_David Deniel_Daniel Denis Deroch Derrien Deui_David Deurhoiarn Domnoret Domuel_Dywel
+			Donual_Donald Donuallon_Dyfnwallon Drogon_Drogo Duenerth Dumnarth_Donyarth Edern_Eternus Edouart_Edward Eguen_Eugene Eon Erispo? Erouan_Yves
+			Estienne_Stephen Etgual Eudon_Otto Euhocar Euhoiarn Eusebi_Eusebius Even_Eugene Evrard_Everard Farinmael_Ffernfael Ferant_Ferdinand Fracan_Fragan
+			Framual Fransaz_Francis Frioc_Friog Garmon_German Geofroi_Godfrey Geralt_Gerald Gereint_Gerontius Gestin_Justin Gilbert_Gilbert Godefroi_Godfrey
+			Goennoc Gouesnon Goulwen Gouremor_Gwrfawr Gourmaelon Gralon Gratcant Gregor_Gregory Grifiud_Ruffinus Guallon Gualter_Walter Gudual Guecon Guenerdon
+			Guenhael Guentanet Guentiern Gui_Guy Guiharan Guihomarch Guihomart Guilherm_William Guincalon Guincum Guinhael Guinhoiarn Guinoc Guinol_Winaloe
+			Guithrit Guitol_Vitalis Guobrian Guocon Guoedanau Guoedatoe Guoednou Guoethoiarn Guoletec Guorbili Guordotal Guoretan Guorethoiarn Guorhoiarn
+			Gurbodu Gurcant_Fergus Gurcencor Gurceneu_Gwrgeneu Gurci_Gwrgi Gurcon Gurdilic Gurgen Gurguaret Gurguist_Fergus Gurguistl_Fergus Gurheter
+			Guriant_Viriathius Gurlouen Gurmael Gurmaeloc Gurmhaelon Gurthcid Gurthiern_Vortigern Guruant Guerech Gueroc Guethenan Guethencar Guethencor
+			Guethenwo?on Guethenhoiarn Guethenoc Haelcomarch Haelguethen Haelguoret Haelhoiarn Haeloc Haeloubri_Herori Haermael Hammelin_Hamelin
+			Hamon_Hamon Harscoit Hedyn Heranal Herri_Henry Hesdren Hincomhal Hinguethen Hocar Hoconan Honfroi_Humphrey Ho?l_Hywel Huiarnal Huiarnbili
+			Huiarnviu_Harvey Hunfroi_Humphrey Iacob_Jacob Iarcun Iarnbud Iarncant Iarncar Iarndetguid Iarnegon_Jarnegon Iarnuallon Iarnuocon Iarnhitin
+			Iedechael Iehan_John Ilcarthon Ildut Iliud Inisian Iocilin_Joscelin Iodoc Ionas_Jonas Iosep_Joseph Iudcum Iuduallon_Idwallon Iudhael_Ithel
+			Iudicael_Judicael Iudnerth_Idnerth Iudnimet_Ednyfed Iustoc Iudoc Iudual_Idwal Iumael Iunceneu Iunuocon Iunmonoc Jord_George Leucum Loi
+			Lorens_Laurence Louenan Loumarch_Llywarch Lou?s_Louis Maelcon_Maelgwn Maeldo? Maelhuedoc Maeloc Maelscoet Maelscuet Maenceneu Maenci
+			March_Marcus Marthin_Martin Matheudo? Mathias_Matthew Matoc_Matad Matuid Maugan Mauric_Maurice Medrod_Mordred Meldroc Meriadoc_Meriadoc
+			Mermin_Merfyn Meugan_Mawgan Meven Michel_Michael Morcant_Morgan Morcondeleu Morgen_Morgen Morguethen Morhaetho Mormarch_Morfarch Morvan
+			Mortiern Neven Nicolas_Nicholas Nodethael Nodhoiarn Nomino? Nougui_Nowy Oliuer_Oliver Oswallt_Oswald Padric_Patrick Paol_Paul Pascueten_Pasquitan
+			Patern_Paternus Petroc Phelippe_Phillip Piran Prigent Primael Primarhoc Putrael Pêr_Peter Ralf_Ralph Raoul_Ralph Renan Resmen Riacet_Riacet
+			Ribald Ricart_Richard Riceneu_Ricenus Richwin_Richwin Ridoredh Riualtr Rihouen Rinduran Rioc Riol Riwal_Riwal Riuallon_Rhiwallon Rodric_Roderick
+			Roenualloc Roenuallon Roenuolou Roenhoiarn Rolland_Roland Ronan_Ronan Roparth_Robert Roucen_Rucenus Rumon_Roman Ryd Salenn Salomon_Solomon Samson
+			Samuel_Samuel Stefen_Stephen Sulgen_Julian Sulhoiarn Sulmonoc Sultiern Talan Talhoiarn Tanci Tanet Tanhoiarn Telent Terithien Tethion Teudric_Theodoric
+			Teudur_Theodore Tibault_Theobald Tiernan Tiernmael Tiernoc Tiernualloc Tiernuallon Treveur Tristan_Tristan Tuduallon_Tudwallon Tudur Tugdual_Tuathal
+			Ungust Urbcen_Urbgenius Urbien_Urban Urblon Urvod Uther_Victor Vincenne_Vincent
 		}
 		female_names = {
-			艾德勒_艾德拉 艾格妮丝_艾格妮丝 埃莉诺_埃莉诺 埃莉尔特 爱丽克斯_爱丽丝 艾梅特 安妮_安娜 贝阿特丽克斯_比阿特丽斯 培德 布兰琪_布兰琪 凯瑟琳_凯瑟琳
-			克莱门丝_卡莱门蒂娜 康斯坦丝_康斯坦丝 丹尼丝 艾玛_艾玛 埃诺拉 尤斯泰丝 格贝尔戈_格贝尔嘉 杰怀赛
-			哈瓦塞 海洛薇兹_海勒薇兹 荷狄尔妮 伊萨博_伊丽莎白 伊莎贝尔_伊丽莎白 让娜_琼 朱迪思_朱迪思 露易丝_露易丝
-			马比勒 玛德莱娜_玛格达蕾娜 玛奥 玛格丽特_玛格丽特 玛丽亚_玛丽亚 妮可 奥莉薇 佩琳 佩罗妮尔_佩罗妮拉
-			菲莉普_菲莉帕 普莱苏_普莱珊丝 普洛丝特隆 托米纳 蒂费纳 维莱妮 薇姆布丽特 约兰德_尤兰妲
+			Aanor Abrelda_Abrelda Adela_Adela Adela?da_Adelaide Adelindis Adeltrudis Aedoc Aeluit_Aelwyd Agnes_Agnes Alana Alis_Alice Anaguistl Anaudat Anaudrec
+			Anauhouguel Anauprost Andrea Anna_Anna Aourcen Aouregan Aourell Aouren Argantan Argantdrec Arganteila Arganteilin Argantguistl Arganthael Argantlon
+			Argantmoet Artaca Avandrec Avenie Beladora_Beladore Berchet_Brigid Berengaria Bernegarda Berta Berthildis_Bertha Bertissa Bleutuen_Blodwen Brendana
+			Bronuen_Bronwen Buriana Canna Cateline_Catherine Catguistl Cecilia_Cecilia Ceindrec_Cagintria Ceinguled Cleirui_Creirwy Condeleu Constansa_Constance
+			Cristen_Christina Dengel Deniela Denise_Denise Diuset Dreanau Drebiu Dreguoreth Drelouguen Drichglur Drilego Duihon Elara Eleanor_Eleanor Eleina_Elaine
+			Elena_Helen Elesbed_Elizabeth Elisaued_Elizabeth Elwen Emma_Emma Endellion Ennoguent Enoguen Enora Eonnecte_Joan Erouana_Yvonne Ewsannec Fuandrec Gaela
+			Geberga_Geberga Glades_Claudia Gloiucen Gloiumed Guelet Guenbrith Guencen Guencenedl Guencor Guenguerthlon Guenguistl Guenguiu Guenmon Guenna Guenneret
+			Guennguar Gueruel_Gwerfyl Guigo?don Guillemecte_Williamette Gwenn_Gwen Halbiu Hawis_Hawise Herannuen Hodierne Igerna Ignoguen Ilcum Ildegarda_Hildegarde
+			Iofa Iouenna_Joan Isabelle_Elizabeth Iseult_Hersilia Iudhent Iudlouguen Iudprost Janed_Joan Judhael_Judith Languoret Leonore_Eleanor Leueer Leuhemel
+			Leuoc Louhelic Luncen Maben Magdalene_Magdalena Marguarite_Margaret Mari_Maria Medguistl Meduil Melita Meonre Milian Mona_Mona Morganne_Morganna
+			Morguetel Moruen_Murron Moruith Morvana Neulenna_Neulenna Nodguoret Nodiunet Nolwenne Nonne_Nonna Oncenedl Oncum Onguen Ordguydel Ourcen Ourdilic Perenn
+			Proscen Prosguetel Prostlon Rannoeu Riguistl Rimoet Rioanon Rioanon_Rhiannon Rioantcen Rioantdrec_Rioantdrec Rioantel Rioantguellt_Regina Roenhael Roinoc
+			Ronana Rozenn Rum Rumun Seva Stefania_Stephania Steren Sulcar Sulcen Sulgubri Sulgwen Sulleisoc Sulmed Susanne_Susanna Tandrec Tanetbiu Tanetlowen
+			Tanguistl_Tancostyla Tedvil Tephaine Thomine Tibourge_Tiburge Trifine Tristana Uriell
 		}
 		
-		dukes_called_kings = yes	
+		dukes_called_kings = yes
+		bastard_dynasty_prefix = "私生子"		
 		from_dynasty_prefix = "德 "
 		
-		male_patronym = "玛部 "
+		male_patronym = " "
 		female_patronym = "维茨 "
 		prefix = yes
 
@@ -1300,14 +1385,17 @@ finno_ugric = {
 
 		male_names = {
 			阿托斯 艾哈迈 艾默 阿尔马斯 阿尔沃 阿斯科 恩斯奥 哈帕 汉努 哈乌 欣察 伊汉提 因托 亚洛 尤尔瓦 卡雷瓦 卡雷维 克图 科里 拉里 劳里_劳伦斯 莱梅蒂
-			伦皮 梅尼科 米利科 米利提 米科_迈克尔 奥伊瓦 翁尼 奥托索 帕伊维奥 彭蒂 劳哈 雷科 萨姆波 萨塔亚尔卡 萨塔铁托 塞波 舒西 泰米 塔帕尼
-			特尔霍 提特提 托伊卡 托伊沃 托奥基 乌科 乌奥提 乌尔霍 瓦尔塔 瓦尔托 威利 威萨 维利 沃伊托
+			Mielitty Miemo Mikko_Michael Oiva Onni Otso Pyry P?ivi? Pentti Reko Sampo Satajalka Satatieto Seppo Susi Tapani Terho Toivo Ukko Uoti Urho V?in?
+			Valta Valto Veli Vesa Voitto Erkki_Erik Kaarle_Charles Johannes_John Risto_Christopher Olavi_Olaf Petri_Peter Henri_Henry Yrj?_George 
+			Valteri_Walter Riku_Richard Matti_Matthew Jaakoppi_Jacob Taisto Paavo_Paul Aatso_Adam Ahvo Aarto_Artur Asko Tuokko_David Rieti_Frederick
+			Kauro_Gabriel Kuuti_Knut Pekko Soini_Sven Tuure Turo Tommo Tohmas_Thomas
 		}
 		female_names = {
-			爱阿姆 爱诺 赫拉 赫尔米 伊尔塔 基叶萝 库卡 卡皮 劳哈 蕾姆皮 拉普莎 玛赫拉 玛伊佳 玛尔佳 梅茜 梅塔 欧伊娃 皮赫拉 皮尔薇 派莉 派薇 派娃 劳哈 莎蒂 
-			茜丝科 苏欧玛 泰米 特尔希 图欧薇 图伊佳 图乌丽 图乌丽基  泰伊妮 泰伊妮 瓦娜莫 雯拉 薇莎    
+			爱阿姆 爱诺 赫拉 赫尔米 伊尔塔 基叶萝 库卡 卡皮 劳哈 蕾姆皮 拉普莎 玛赫拉 玛伊佳 玛尔佳 梅茜 梅塔 欧伊娃 皮赫拉 皮尔薇 派莉 派薇 Rauha Sisko Suoma
+			Taimi Terhi Titti Tuija Tuovi Tuuli Tuulikki Tyyne Tyyni Vanamo Venla Mielikki Hertta Loviisa Inkeri Ilmatar Irene_Irene Ilona_Helen Kristiina_Christina
+			Elisabet_Elisabeth Sohvi_Sofia Auni_Agnes Liekko_Helen Kivutar Lemmikki Lyylikki Salme Talvikki Tuulitar
 		}
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = "洛"
 
 		modifier = default_culture_modifier
 	}
@@ -1318,13 +1406,14 @@ finno_ugric = {
 
 		male_names = {
 			艾吉 艾格萨里 艾鲁 阿莫特 亚拉 阿拉尤奥克萨 阿斯拉特 阿克米埃拉 阿尔格贝维 安杜尔 奥德 巴克特 巴尔托 巴埃维 法拉维德 弗恩乔特尔 
-			加特库 赫尼斯 亚勒 尤文_约翰  奥尔多特 拉斯托斯 弗罗斯提 吉西 乔库尔 卡利 洛格 纽奥拉 沙拉克 斯纳埃尔 桑那 索尔利 维古
+			加特库 赫尼斯 亚勒 尤文_约翰  奥尔多特 拉斯托斯 弗罗斯提 吉西 乔库尔 卡利 洛格 纽奥拉 沙拉克 斯纳埃尔
+			桑那 索尔利 维古
 		}
 		female_names = {
-			艾德娜 阿尔根 阿莱特 比埃拉 多娅 杰娅拉 吉埃拉 吉斯特 尤奥卡沙卡 莱安杜 梅德娜 娜斯缇 娜娜 奥雅 萨拉卡
-			爱诺 阿尔莫 赫拉 赫尔米 基叶萝 库卡 莱拉 蕾姆皮 皮尔薇 派莉 劳哈 莎蒂 图伊佳 瓦娜莫 乌克沙卡
+			艾德娜 阿尔根 阿莱特 èuvje Biellá Biergá Buohttá Duojá Gealá Gierá Giste Juoksáhkká Leandu Máidna Násti Naná Njáves Oajá Sáráhkká Sealggá 
+			Seará Soabá Sojá Suoinná Suonjar Uksáhkká
 		}
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = "巴"
 
 		modifier = default_culture_modifier
 	}
@@ -1334,17 +1423,24 @@ finno_ugric = {
 		color = { 0.3 0.7 0.7 }
 
 		male_names = {
-			艾多 阿赫提 阿利卡斯 阿伦斯 阿鲁 阿尔沃 奥斯 埃内尔 埃尔克 海利约尔 伊尔卡 伊尔拉 伊沃 尤库 凯多 卡尔约 卡洛 考波 科伊特 雷姆比特 
-			尼梅 雷默 雷恩 提伊特 托伊沃 图恩尼 乌拉尔 乌洛 乌尔梅特 乌尔维
+			Aare Agul Ahas Aho Ahti Ahvo Alar Alo Alur Aopelg Aot?iv Arp Arvet Arvo Atko Aul Aulemb Eeri Elmar Hain Haljas
+			Heameel Heat?iv Hoovat?iv Hurmas Hurmet?iv H?imulemb Hüvalemb Hüvameel Hüvat?iv Igalemb Igap?iv Ihalemb
+			Ihameel Ihar Ihat?iv Ihavald Illimar Ilmalemb Ilmar Ilvelemb Jaolemb Kaalep Kaarel Kaaren Kahar Kahru Kahrulemb
+			Kahus Kaido Kalev Kalju Kaljuvald Kalle Kaomeel Karuvald Kaugemeel Kaupo Kaur Kiur Kiurupelg Koit Kosk Kudres
+			Küllelemb Leet?iv Lembit Leppet?iv Lible L?ttelemb Manivald Mart Maru Mati Mats Meelis Mehis Meigo Neeme Niglas
+			Ohet?iv Ohevald Olev Onni Otelemb Ott Pihl Piho Pikne P?evalemb P?rt Raak Raho Rahuleid Sulev Susi Sutemeel
+			Sutepelg Tambet Tarva Tarvet Tasulemb Toivo Toom Tunne Tutkas Tuul T?eleid T?iv T?ivulemb T?ll T?nn Uku
+			Urmas Uru Valdur Vambola Vandemeel Varjelemb Veli Vello Venno Vesse Vihavald Vililemb Vilimeel Vilit?iv Vilivald
+			Vootele V?ino V?rvo ?igemeel ülo
 		}
 		female_names = {
-			爱娜 爱莎娃 爱斯拉娃 查拉娃 爱诺 爱丽 阿尔蕾 阿努 阿露 艾拉 海蕾 赫尔米 玛伊杜 皮蕾特 苔茜 特尔耶 瓦伊科 
-			基尔德娅娃 库娜娃 丽塔娃 莉娅娃 玛萨娃 梅古尔卡 奥洛塔 奥尔达娃 奥莎玛 帕拉娃 佩姆卡 波克莎娃 波莎卡 波特凯 
-			波特娅娃 普特娅卡 拉夫扎娃 露萨娃 珊嘉娜 塞特亚姆卡 舒克希托罗伊卡 辛娅娃 西娅姆卡 塔特卡 特凯 狄克莎卡 
-			托娅克莎 顿达娃 瓦尔达娃 薇儿加娃 薇扎芙 薇德娅娃 薇尔特娅娃 雅尔加娃
+			Aasa Ahma Aime Aimo Aita Aldi Ann Anni Annika Are Auli Aune Eha Elo Ere Helbe Hele Helgi Heli Helina Helmi Helve
+			Hiie H?marik Hüüp Ida Ilme Ilmi Ilo Kai Kaili Kaja Kalli Kare Kati Kiir Kiire Killu K?bi Lagle Laine Lee Leek Leelo Leili
+			Lemme Liis Lill Linda Luule Maija Mari Marja Meeli Niine Ninni Oie Pilve P?ivi P?im Salme Sirje S?de Taimi Talvi Tiiu
+			Tuuli Urve Viire Vilja Virge Virve V?rvu ?ie ?nne ülane ülle
 		}
 
-		from_dynasty_prefix = "勾达 "
+		from_dynasty_prefix = "科塔 "
 
 		modifier = default_culture_modifier
 	}
@@ -1366,7 +1462,7 @@ finno_ugric = {
 			苏特什托雷卡 希涅娃 希洋卡 斯露江卡 索夏娃 斯提亚卡 希列娃 塔卡 提姬 特帖娃 提克谢卡 托亚克夏 顿达娃 顿狄亚 翁祖卡 乌佩娃
 			乌提卡 瓦尔特娃 维尔加娃 维莎娃 维狄亚娃 维尔特亚娃 雅尔加娃 约戈卡
 		}
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = " "
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
@@ -1378,7 +1474,7 @@ finno_ugric = {
 		color = { 0.4 0.65 0.20 }
 
 		male_names = {
-            安狄亚莫 阿纳兹 阿提 阿提斯 阿沃 阿伊莫塔 阿泽格 毕乌尔 毕亚尔 布尔莫特 奇塞卡 楚戈 德衮 德瑞亚布 杜布林亚 杜基亚 丹狄 戈兹埃 休连 因兹埃 伊尔忒 林涅格 里斯科 克查帕 克兹黑 卡泽迭
+			安狄亚莫 阿纳兹 阿提 阿提斯 阿沃 阿伊莫塔 阿泽格 毕乌尔 毕亚尔 布尔莫特 奇塞卡 楚戈 德衮 德瑞亚布 杜布林亚 杜基亚 丹狄 戈兹埃 休连 因兹埃 伊尔忒 林涅格 里斯科 克查帕 克兹黑 卡泽迭
 			克泽维特 基奇 库科夏 库阿兹 库狄莫什 基亚 凯尔狄辛 玛里卡 玛里 梅尔切克 莫什戈 纳奥卡 耐奥克夏 耐扬扎 耐亚特 耐多格 耐洛戈 欧狄戈 欧尼卡 欧什 欧什玛 欧什佩尔 奥弗提 欧兹谢戈 欧兹米耶戈 
 			巴基斯坦 巴克塞伊 巴克塞特 巴鲁什 比弗谢 波克谢卡 布狄卡 派拉 拉提戈 莱德 索林 谢克提弗 西提昂卡 辛狄 西毕奇卡 谢尔普兹 斯拜拉 斯尔卡 提克谢卡 图安 图耶祖特
 			图图克 图甘 图鲁什 乌赫瓦 瓦拉卡 维奇卡斯 维尔麦卡 维尔狄安 维里亚斯 维里 沃坎 耶尔卡普 约尔万 扎尼 谢波戈 朱涅戈 泽梁
@@ -1390,7 +1486,7 @@ finno_ugric = {
 			苏特什托雷卡 希涅娃 希洋卡 斯露江卡 索夏娃 斯提亚卡 希列娃 塔卡 提姬 特帖娃 提克谢卡 托亚克夏 顿达娃 顿狄亚 翁祖卡 乌佩娃
 			乌提卡 瓦尔特娃 维尔加娃 维莎娃 维狄亚娃 维尔特亚娃 雅尔加娃 约戈卡
 		}
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = " "
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
@@ -1402,13 +1498,10 @@ finno_ugric = {
 		color = { 0.3 0.75 0.75 }
 
 		male_names = {
-		阿托斯 安提 阿努 阿尔马斯 阿罗 奥利斯 埃萨 汉努 伊斯莫 詹辛 詹森 尤哈尼 凯 卡勒 基维 基埃 马尔科_马库斯 马蒂亚斯_马修 米卡_迈克尔 米卡埃尔_迈克尔 米科_迈克尔 尼洛_尼尔斯
-		尼古劳斯_尼古拉斯 翁尼 帕沃 佩卡 皮耶塔里_彼得 里库 里斯托 坦奈尔 塔帕尼 图沃 托伊沃 托皮 乌尔霍 威利 威萨 维赫托里 维勒 瓦伊诺
+			Alik Hasaba Kako Kharuchi Kolik Mandak Nabtiko Nenyts Nga Ng?noh Noumea Num Nyalku Panay Pudak Salinder Samatu Sarak Sirtya Somatu Syudbya Tatva Tolik Vesei Wayngachi X?ryuchi Yadne Yapti Yar Yavlad Yurak
 		}
 		female_names = {
-		艾拉 依娜丽 马科塔 普蕾塔 亚穆 爱娜 埃诺 阿妮塔 阿努 艾娃 艾丽莎 艾丽娜 伊丽莎白_伊丽莎白 艾米 赫尔米 亨娜 亨莉卡 凯 凯亚 凯莎 卡塔琳娜_凯瑟琳 莱尼
-		伦皮 莉迪亚 莉莉 玛丽亚 迈娅 玛雅 米卡 米尔塔莱 妮妲 内妲 皮尔约 劳哈 莉特 丽塔 蕾塔 莉卡 丽娜 罗莎 莎莉 莎图 西尼 西斯科 
-		苏薇 泰米 泰娜 泰尔图 特丽努 图伊娅 图拉 图丽 薇莱米娜
+			Atp?lha Auli Galya Ilme Kat Khatyako Kont?w Kujku Laptsui Ngeva Senda Syeju Tada Tadane Yar
 		}
 		from_dynasty_prefix = " "
 		founder_named_dynasties = yes
@@ -1421,17 +1514,19 @@ finno_ugric = {
 		color = { 0.3 0.7 0.7 }
 
 		male_names = {
-			安蒂莫 起亚克 科尔柏 德根 德雅薄 德宾亚 埃拉斯特斯 埃尔德吉维尔 加雷尼 加斯提列 杰德列 杰尔登 吉贝达特斯 吉耶蒙德 哥罗夫克 哥特尼 冈瓦尔德 伊曼塔 杰尼斯 焦努勒 杰德图斯 朱瓦格 卡格 凯列 
-			卡利乔塔斯 卡尔纳克 考波 科尔斯提根斯 基滕 克拉维斯 科德列 库利恩斯 库尔雷姆塞 拉美基努斯 利基伊克 利托 隆科格维尼 曼维达斯 梅内基努斯 蒙杜尼 那梅西斯 
-			纳尔威特 普利科索夫 普利伊克 普库维拉斯 林高达斯 鲁斯奇 鲁欣斯 沙贝 沙尔冈 斯库尔多 苏特尔 什瓦尔纳斯 斯科尔南德 斯普鲁戴克 斯提古特 斯台津特 斯维恩多罗格 
-			塔利瓦尔迪斯 陶特维拉 特莱德尼斯 特列尼奥塔 瓦伊什维尔卡斯 瓦利凯拉 维特塞克 维耶斯图尔斯 维谢伊夫 维希库特 维希利 维堪塔斯 尤德基 
+			安蒂莫 起亚克 Chumbulat Dergun Deryab Dobrinya Erziya Inzhay Kezhapa Kezhay Kezhedey Kezhevat Kichay Kubrat Malyaka Malyy Meltsayka Mordvinko Moksha
+			Nalka Nuyaksha Nuyanza Nuyat Ovtay Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka Setyamka Shindyay Shoksha Syrka Tikshayka
+			Tyueykezhut Uchva Varaka Vechkas Velmayka Virdyan Viryas Viryay Atyamas Azyren Chipaz Kardaz Kinyak Koshel Murunza Naruchad Nishkepaz Orunza Puresh Purysho 
+			Saksa Shkay Surt Tul Tunya Tutyra Tylmache Tylze Tyushten Tyushtya Uzhara Varmanpaz
 		}
 		female_names = {
-		艾拉 依娜丽 马科塔 普蕾塔 亚穆 爱娜 埃诺 阿妮塔 阿努 艾娃 艾丽莎 艾丽娜 伊丽莎白_伊丽莎白 艾米 赫尔米 亨娜 亨莉卡 凯 凯亚 凯莎 卡塔琳娜_凯瑟琳 莱尼
-		伦皮 莉迪亚 莉莉 玛丽亚 迈娅 玛雅 米卡 米尔塔莱 妮妲 内妲 皮尔约 劳哈 莉特 丽塔 蕾塔 莉卡 丽娜 罗莎 莎莉 莎图 西尼 西斯科 
-		苏薇 泰米 泰娜 泰尔图 特丽努 图伊娅 图拉 图丽 薇莱米娜
+			Anava Ashava Asrava Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa Chindyayka Chinzhay Chitska Elyuva Inyava Kanyava Kanyuva
+			Kirdyava Kunava Kunyavka Litava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nuyanza Nyal'ka Nyayka Olota Ordava Oshama Parava Pekshayka
+			Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Ruzava Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shonzhava
+			Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga
+			Utyayka Valdava Vergava Vezhav Vidyava Virtyava Yalgava Litova Mastorava Noroava
 		}
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = " "
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
@@ -1447,11 +1542,11 @@ baltic = {
 		color = { 0.5 0.5 0.1 }
 
 		male_names = {
-			埃什诺 阿科 安卡德 白塞 巴罗迪斯 比克谢 波鲁特 布雷 布托维特 塞鲁利斯 丹格鲁舍 达尔贝斯拉维 道斯普伦加斯 达维斯 德马斯 多布雷 多弗亚特 德金提斯 埃尔梅德 
-			埃拉斯特斯 埃尔德吉维尔 加雷尼 加斯提列 杰德列 杰尔登 吉贝达特斯 吉耶蒙德 哥罗夫克 哥特尼 冈瓦尔德 伊曼塔 杰尼斯 焦努勒 杰德图斯 朱瓦格 卡格 凯列 
-			卡利乔塔斯 卡尔纳克 考波 科尔斯提根斯 基滕 克拉维斯 科德列 库利恩斯 库尔雷姆塞 拉美基努斯 利基伊克 利托 隆科格维尼 曼维达斯 梅内基努斯 蒙杜尼 那梅西斯 
-			纳尔威特 普利科索夫 普利伊克 普库维拉斯 林高达斯 鲁斯奇 鲁欣斯 沙贝 沙尔冈 斯库尔多 苏特尔 什瓦尔纳斯 斯科尔南德 斯普鲁戴克 斯提古特 斯台津特 斯维恩多罗格 
-			塔利瓦尔迪斯 陶特维拉 特莱德尼斯 特列尼奥塔 瓦伊什维尔卡斯 瓦利凯拉 维特塞克 维耶斯图尔斯 维谢伊夫 维希库特 维希利 维堪塔斯 尤德基
+			埃什诺 阿科 安卡德 白塞 巴罗迪斯 比克谢 波鲁特 布雷 布托维特 塞鲁利斯 丹格鲁舍 达尔贝斯拉维 道斯普伦加斯 达维斯 德马斯 多布雷 多弗亚特 德金提斯
+			埃尔梅德 埃拉斯特斯 埃尔德吉维尔 加雷尼 加斯提列 杰德列 杰尔登 吉贝达特斯 吉耶蒙德 哥罗夫克 哥特尼 冈瓦尔德 伊曼塔 杰尼斯 焦努勒 杰德图斯 朱瓦格 卡格
+			凯列 卡利乔塔斯 卡尔纳克 考波 科尔斯提根斯 基滕 克拉维斯 科德列 库利恩斯 库尔雷姆塞 拉美基努斯 利基伊克 利托 隆科格维尼 曼维达斯 梅内基努斯
+			蒙杜尼 那梅西斯	纳尔威特 普利科索夫 普利伊克 普库维拉斯 林高达斯 鲁斯奇 鲁欣斯 沙贝 沙尔冈 斯库尔多 苏特尔 什瓦尔纳斯 斯科尔南德 斯普鲁戴克 斯提古特
+			Steikint Sviendorog Talivaldis Tautvila Traidenis Treniota Vaishvilkas Valikaila Vetseke Viesturs Visheiv Vishikut Vishly Vykantas Yudki 
 		}
 		female_names = {
 			阿吉塔 奥莎拉 巴尔芭 比滕丝 布丽塔 黛拉 达拉蒂 达尔蒂德泽 多赛 蒂婕古泽 佳蕾妮 格蕾泽 甘达 甘蒂佳 伊艾娃 伊梅拉 科尔杜拉 丽玛 玛伊佳 玛丽特 
@@ -1477,7 +1572,7 @@ baltic = {
 			阿尔朵拉 阿妮丽 奥蒂拉 奥丝拉 比露特 丹尼拉 达努蒂 爱瓦尔达 高蒂蒙达 吉艾德蕾 金塔蕾 杰芙娜 肯娜 莱玛 米科娃 萝婕 莱姆佳吉拉 莎乌蕾 斯瓦乔妮 薇达 
 		}
 		
-		from_dynasty_prefix = "伊 "
+		from_dynasty_prefix = "伊思"
 
 		modifier = default_culture_modifier
 	}
@@ -1491,10 +1586,10 @@ baltic = {
 			库基斯 米尔扎斯 诺梅达斯 普鲁萨斯 塞尔哥尼斯 尤林尼克斯 尤利提斯
 		}
 		female_names = {
-			阿尔维达斯 阿瑞利斯 奥克图尼 巴约拉斯 贝德拉斯 布多 达哥尼斯 埃克利斯 加林达斯 高罗纳斯 格尔道达斯 格兰德 哥尔汀 杰奥古提斯 卡拉塔斯 克卢基斯 库基斯
+			Betten Dagas Gelennis Gerkus Grasus Gulbis Mila Milyuns Weslikan Ziedas
 		}
 		
-		from_dynasty_prefix = "伊 "
+		from_dynasty_prefix = "伊思"
 
 		modifier = default_culture_modifier
 	}
@@ -1510,18 +1605,14 @@ altaic = {
 		color = { 0.85 0.55 0.15 }
 
 		male_names = {
-			阿夫辛 阿赫梅特 阿克松括尔 阿拉艾丁 阿里 奥坎 奥普·阿尔斯兰 奥普·尤雷克 奥普提金 阿尔斯兰 阿尔图克 阿亚兹 埃丁 埃多甘 埃多杜 埃提金 巴哈迪尔 巴拉班 巴斯布加 巴图罕 巴图莱
-			巴伊巴斯 巴耶吉德 巴伊塔斯 贝雷克 贝尔坎 贝尔基雅鲁克 博赞 博拉博赞 布格拉 布伦德 布拉克 卡格利 凯卡 库内德 达尼斯蒙德 达乌德_大卫 德米尔 多甘 多古坎 库卡克 顿达尔 埃尔德姆
-			埃尔坦 埃尔特金 埃尔图格鲁尔 古恩杜兹 哈桑 希兹尔 易卜拉欣 伊尔加兹 伊纳尔 伊斯肯德尔_亚历山大 凯考斯 凯克胡斯劳 凯括巴德 卡拉 卡拉塔伊 卡西姆 卡亚 卡伊图恩 科马尔 基利克 
-			基利克·阿尔斯兰 科尔库特 库塔尔米斯 库塔伊 库特鲁格 库尔伯加 马赫穆德 马赫迈德 梅利克沙 蒙古塞克 梅苏德 穆拉德 穆塞尔 穆斯塔法 奥尔汗 奥斯曼 波尔苏克 拉马赞 利德凡 卢斯特姆 
-			塞伊姆 萨尔图克 萨卢卡 萨弗特金 萨夫乌尔 塞欣沙 塞尔库克 塞利姆 森塞尔 锡南 索布克 索克蒙 松梅兹 苏莱曼 坦利维尔米斯 特金 帖木儿塔斯 托盖 托格特金 托克塔米斯 托伦 托伦塔伊 
-			图格鲁尔 图恩加 图尔古特 图尔罕 图图斯 乌鲁克 乌穆尔 雅库特 雅曼 依纳尔 于努斯 
+			?agri ?aka Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp?Arslan" "Alp?Yurek" Alptigin Artuk Ayaz Aydin Aydogan Aydogdu Aytekin B?ru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cuneyd Dundar Danismend
+			Davud_David Demir Dogan Dogukan Dukak Erdem Ertan Ertekin Ertugrul Gunduz Hasan_Hasan Hizir Ibrahim Ilgazi Inal Iskender_Alexander Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun Kemal Kili? Korkut Kutalmis Kutay Kutlug Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan S?buk S?kmen S?nmez Suleyman Saim Saltuk Saruca Savtekin Savur Sehinsah Sel?uk Selim Sencer Sinan Tanrivermis Tekin Timurtas Togay Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus Ulu? Umur Yakut Yaman Yinal Yunus
 		}
 		female_names = {
-			阿克古尔 阿丝丽 阿丝丽罕 阿娅桑 艾拉 艾赛 阿伊滕 阿齐婕 巴哈尔 巴努 波芝欣 卡南 赛伊兰 茜赛克 茜伦 赛尔塔妮茜 蒂尔贝 蒂蕾克 顿雅 伊米妮 艾辛 法特玛 菲露洁 
-			古莱伊 古尔巴哈 古尔茜赛克 古尔菲姆 古尔苏姆 古姆斯 古恩蒂丝 古恩杜兹 古妮丝 哈蒂丝 哈雅特 胡丽叶 伊尔凯 伊尔克努尔 伊蓓克 伊蓓克尔 伊尔格 卡拉茜克 拉蕾 蕾拉 
-			玛拉 曼苏蕾 梅尔薇 穆特露 娜吉罕 妮尔吉丝 妮丝丽罕 妮露菲尔 努尔 欧兹古尔 欧兹蕾姆 蓓克森 莎姆尔 莎丽卡 莎蒂 赛赫娜兹 赛拉普 赛丽菲 赛薇莱 赛雯蒂克 茜贝尔 
-			茜琳 茜尔玛 松古尔 苏姆露 蒂克赛 图拉 乌美 乌桑拜克 瓦茜德 亚萨尔 叶尔蒂姆 伊尔蒂兹 泽赫拉 朱海尔 
+			?i?ek ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bahar Banu Boz?in Canan Ceylan Dunya Dilber Dilek Emine
+			Esin Fatma Firuze Gul?i?ek Gulay Gulbahar Gulfem Gulsum Gumus Gunduz Gundes Gunes Hatice Hayat Huriye Ilkay Ilknur Ipek Ipekel Irge
+			Karacik Lale Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica Sati Sehnaz Serap Serife Sevilay
+			Sevindik Sibel_Sibylla Sirin Sirma Songul Sumru Tek?e Tura Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal
 		}
 		
 		from_dynasty_prefix = "维 "
@@ -1543,14 +1634,12 @@ altaic = {
 		color = { 0.85 0.79 0.25 }
 
 		male_names = {
-			阿巴迦 阿骨出 阿吉乃 阿骨台 阿剌格 阿勒赤 阿勒坛 巴卑尔 巴格里台 巴剌 巴剌斯 巴尔坦 拔都 拜喀剌 别克帖儿 别尔刻 博根 察合台 察乃 赤古 赤勒干 赤勒都 达干 
-			答力台 哲别 朵歹 也先不花 格赞 古鲁格 古恩坎 哈儿合孙 火儿忽答 忽勒古 旭孙 亦纳勒赤 亦难察 亦突儿干 主儿扯歹 哈赤 哈赤干 哈勒台 和格斤 忽都 忽亦勒达儿 
-			阔阔出 可苦速 忽必烈 蔑格图 莫罗哈 蒙哥 蒙力格 纳忽 纳牙格 诺该 诺颜 窝阔台 鄂霍都儿 斡儿吉土 斡罗纳儿台 撒赫鲁 森舍儿 失拉古勒 失儿古格图 速育加忒迷斯 
-			速不台 速亦客秃 塔合 塔马赤 帖木儿 铁木真 铁穆尔 脱忽邻勒 脱斡脱格 拖雷 拖罗勒赤 图尔该 兀忽纳 兀鲁格 兀秃台 也古 也孙哥 月忽难 托答迷思
+            ?elgil Aba Baitzas Balgor Batan Batas Bator Bay?a Bi?kili Bizel Boru Bula Giazis Ildey Ipa Ipaos Kabuksin Karaca Kaydum Kegen Konel  
+			Korkutan Kortan Kostas Kourkoutai Kuer?i Kugel Kure Sol Suru Tatus Teber Temir Tyrach Yavdi Yazi Yeke
 		}
 		female_names = {
-			阿勒塔尼 巴儿古斤 孛儿帖 察必 察古儿 察哈 折折亦干 搠坦 朵儿格涅 埃别该 古儿别速 亦巴哈 哈达干 和格斤 和斤 和里斤 忽古儿斤 忽兰 那莫伦 汪古儿 莎哈台 
-			莎儿合哈塔尼 帖几尼 帖木仑 也速干 也遂 
+			?i?ek ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Ayasun Ayten Boz?in Dilek Esin Gul?i?ek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
+			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz
 		}
 		
 		from_dynasty_prefix = ""
@@ -1571,11 +1660,11 @@ altaic = {
 			科泽 库巴萨 图卡迪 图坦 普卡 萨如 斯温  索卡 索坦   托里 拖伦 图格 乌兹克 乌兹
 		}
 		female_names = {
-			德莱卡  以坦尼丝 阿珂 阿斯丽 阿孙 居内 什伊尔 卡伊 伊佩克 伊格  马拉穆 特鲁  
-			萨姆尔 萨提西贝尔  丝琳 西玛康露  图拉 乌梅  乌别克 亚萨尔  亚门  伊迪兹
+			?i?ek ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Ayasun Ayten Boz?in Dilek Esin Gul?i?ek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
+			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz
 		}
 		
-		from_dynasty_prefix = "来自 "
+		from_dynasty_prefix = ""
 		founder_named_dynasties = yes
 
 		allow_looting = yes
@@ -1590,15 +1679,14 @@ altaic = {
 		color = { 0.7 0.45 0.1 }
 
 		male_names = {
-			阿尔普 阿拉斯兰_阿斯兰 巴格哈 巴格哈特 巴尔吉尔 巴尔吉克 巴斯贝克 巴图 巴什图瓦 白合 伯里 巴哈 布兰 布林 布西 布则 阿特 阿坦 奥尔班 依力克 依克巴尔 依塔克 卡马吉 卡拉达克 凯哈拉赫 哈特尔 胡特尔津 
-			奇巴 奇萨 坤达伊克 坤带 马纳什 马纳斯 米如马若特 沃特米斯 帕帕易斯 桑桑 萨帖 西桑 塔巴什 塔汗 塔尔马 图尼克 瓦利姆 亚布胡 亚凡特伊 耶涅佩  耶恩尼速 耶尔提里克 伊利格
-			贝莱特 厄兹拉 哈努卡 合则奇亚 艾萨克 马纳塞 尼西 亚夫迪 泽布伦
+			Alp Araslan_Arslan Bagha Baghatur B?lgi?i Barjik Barsbek Bastu Bashtwa Bihor B?ri Bugha Bulan Bul?an Busir Buzer ?at ?at'n ?orpan Ilik Ilt?b?r Itakh Kamaj Karadakh Kayghalagh Khatir Khuterkin
+			Kibar Kisa Kunda?iq Kunda? M?n?r M?n?s M?nümarót ?temis Papa?yz Samsam Sart?? Simsam T?b?r Tabgha? Tarkhan Tarma? Tuzniq Vakrim Yabghu Yavantey Yen?epi Yerneslu Ye?tirek Yilig
+			Belet Ezra Hanukkah Hezekiah Isaac Manasseh Nisi Yavdi Zebulun
 		}
 		female_names = {
-			爱阿可 爱耶可 爱耶耶佩 爱耶奇 爱耶提勒特 伊兰 伊尔塔涅斯 奥斯古 奥斯拉 阿可古尔 阿斯丽 阿雅旬 阿亦檀 波兹茵 蒂乐可 伊欣 古蕾阿可 古蕾耶可 古蕾 甘都兹 甘迪丝 伊卡蕾 伊尔凯 伊佩可 伊佩可尔 爱尔格
-			卡拉希可 卡萨莉卡 凯恩尼萨 凯雅末尔 哈敦 拉卡 吕哈 玛拉 玛图尔卡 姆特鲁  内娅 帕斯比忒 帕提耶尔 佩可尔提 派可森 普扬苔 萨姆尔 萨兰苔 萨拉 萨莉卡 萨莉柯尔
-			萨蒂 萨维卡 萨维尔蒂 萨维勒可 萨维苔_瑟维苔 萨文提可_萨文迪可 舒尔加 茜贝尔 茜琳 西尔玛 颂谷尔 塔塔妮 忒可 图拉 乌梅 乌珣碧 亚萨 耶尔德姆 耶尔德兹 亚提力可
-
+			?i??k_?i?ek ?e?eppi ?e?ki ?e?tilet ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Ayasun Ayten Boz?in Dilek Esin Gul?i??k_Gul?i?ek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
+			Karacik K?tyarikka K?lnissa K?lyamal Khatun L?rkka Lyukha Mala Maturkka Mutlu Na?a Parsbit Patiyer Payk?lti Peksen Puyantay Samur Sarantay Sar? Sarica Sarikel 
+			Sati Sava?ka Savk?lti Savtilek Savilay_Sevilay Savintik_Sevindik Shurkka Sibel Sirin Sirma Songul T?htani Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek 
 		}
 		
 		founder_named_dynasties = yes
@@ -1646,8 +1734,7 @@ altaic = {
 			奥米什 奥比 奥泽克 安兹 阿波奇 阿拉斯兰_阿斯兰 阿斯帕鲁卡 巴嘎 巴嘎图 巴兰必_巴兰巴 巴吉克 巴斯 巴什贝克 巴什特瓦 巴什图 巴塔兀 白巴杨 巴托亚 巴图里亚 巴洋 贝科马 贝兹梅 比霍尔 柏杨 布嘎 布戈拉 布兰 布尔戈 布兰 布西尔 布赞 布泽尔 比尔吉 比利 
 			且帕 奇拉鲁什 顿奇里克 迪曾 多梅塔 德里斯塔 德隆 杜昆 埃勒玛 埃拉克 厄纳克 埃什卡克 戈勒达 戈什顿 固厄 兀巴德 伊阿尼 伊利克 伊尔特比 伊尔内克 伊斯布尔 伊斯里万 伊斯佩里克 伊斯波 伊塔克 卡玛吉 卡诺 卡拉达克 卡兰 卡拉顿 卡丹 凯噶拉 卡拉顿 卡提尔 奇尼亚伦 
 			库巴德 库特金 基巴 基萨 寇迪尔 寇梅西 寇米索什 库特拉格 库洛瓦 科伦 库伯 库布拉特 昆达_昆达克 库尔特 库特里古 奇拉 拉伯特坦 玛戈丁 玛拉米尔 穆戈 穆尼尔 穆诺 穆鲁玛罗特 欧杜尔甘 欧克西 欧可孙 欧寇斯 欧穆塔戈 欧内加翁 欧尔甘 欧尔甘纳 欧尔纳戈 
-			欧什 欧斯特罗帕甘 帕克提亚_帕克提亚尔 帕瓦尔 普拉斯卡 拉萨特 鲁基拉 萨宾 珊珊 珊迪尔 珊狄尔克 萨克汗 萨尔塔克 萨温 塞瓦 什切 辛珊 松多可 塔布噶
-			松多克 塔塔曼 塔拉西 塔里丁 塔特拉 特雷克 特雷里戈 特维尔 帖木耳_帖木儿 帖木儿雷 帖木儿布拉特 
+			欧什 欧斯特罗帕甘 帕克提亚_帕克提亚尔 帕瓦尔 普拉斯卡 拉萨特 鲁基拉 萨宾 珊珊 珊迪尔 珊狄尔克 萨克汗 萨尔塔克 萨温 塞瓦 什切 辛珊 松多可 塔布噶 松多克 塔塔曼 塔拉西 塔里丁 塔特拉 特雷克 特雷里戈 特维尔 帖木耳_帖木儿 帖木儿雷 帖木儿布拉特
 			廷吉兹 提拉丁 托克塔曼 托克图 索 叙尔 图 乌末 兀突骨 瓦库林 文达 维坦 维涅 雅尼 图兹尼 托古克_托古鲁克 雅万忒 杨车匹 耶内斯鲁 耶车雷克 泽贝甘 曾提 伊阿特 伊阿汀 伊欧潘 伊特弥斯
 
 		}
@@ -1657,7 +1744,7 @@ altaic = {
 			切克提雷 且伦 切塔内希 且克_奇且可 奇古尔 奇伦
 		}
 
-		from_dynasty_prefix = "来自 "
+		from_dynasty_prefix = " "
 		founder_named_dynasties = yes
 
 		allow_looting = yes
@@ -1672,11 +1759,12 @@ altaic = {
 		color = { 0.65 0.50 0.15 }
 
 		male_names = {
-			且帕 奇拉鲁什 顿奇里克 迪曾 多梅塔 德里斯塔 德隆 杜昆 埃勒玛 埃拉克 厄纳克 埃什卡克 戈勒达 戈什顿 固厄 兀巴德 伊阿尼 伊利克 伊尔特比 伊尔内克 伊斯布尔 伊斯里万 伊斯佩里克 伊斯波 伊塔克 卡玛吉 卡诺 卡拉达克 卡兰 卡拉顿 卡丹 凯噶拉 卡拉顿 卡提尔 奇尼亚伦 
-			库巴德 库特金 基巴 基萨 寇迪尔 寇梅西 寇米索什 库特拉格 库洛瓦 科伦 库伯 库布拉特 昆达_昆达克 库尔特 库特里古 奇拉 拉伯特坦 玛戈丁 玛拉米尔 穆戈 穆尼尔 穆诺 穆鲁玛罗特 欧杜尔甘 欧克西 欧可孙 欧寇斯 欧穆塔戈 欧内加翁 欧尔甘 欧尔甘纳 欧尔纳戈
+			?ilbu Aepak Asalup Asep Atrak B?nek Bachman Begluk Blush Bonyak Bor? Elde?yuk Etrek Girgen Gzi Itlar Ituk K?n?ek Kobyak Kopti Kotyan Koza
+			Kozel Kubasar Kuntuvdi Kutan Pulad Saru Seven? Sir?an Sokal Sotan Sugr T?rtogul Togli Tolun Tugor Uzluk Uzur
 		}
 		female_names = {
-			布杨太 萨穆尔 萨兰太 萨萨莉卡 萨利科尔 萨里萨提 萨维卡 萨薇莱_萨薇莱 萨温提克_瑟温提克 萨弗尔提 萨提雷克 苏尔卡 西贝尔 西林 西尔玛 松戈尔 塔赫塔尼 特且 图拉 兀麦 兀孙比克 亚阿萨尔 叶儿登 伊尔迪兹 雷雷皮 雷尔姬
+			?i?ek ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Ayasun Ayten Boz?in Dilek Esin Gul?i?ek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
+			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz
 		}
 		
 		from_dynasty_prefix = "of "
@@ -1695,19 +1783,21 @@ altaic = {
 		color = { 0.85 0.72 0.30 }
 
 		male_names = {
-			彻尔吉尔 阿巴 巴尔戈 巴坦 巴托尔 拜查 比奇基利 博鲁 布拉 伊尔迪 伊帕 库尔奇 库格尔 库雷 卡布克辛 卡拉卡 凯杜姆 科尔库坦 科尔坦 索尔 舒鲁 塔图斯
-			迪曾 多梅塔 德里斯塔 德隆 杜昆 伊拉克 埃勒玛 厄纳克 埃什卡克 戈勒达 戈什顿 固厄 兀巴德 伊阿尼 伊尔内克 伊斯布尔 伊斯里万 伊斯佩里克 伊斯波 克拉卡诺 卡郎 卡兰屯
+			?ilbu Aepak Asalup Asep Atrak B?nek Bachman Begluk Blush Bonyak Bor? Elde?yuk Etrek Girgen Gzi Itlar Ituk K?n?ek Kobyak Kopti Kotyan Koza
+			Kozel Kubasar Kuntuvdi Kutan Pulad Saru Seven? Sir?an Sokal Sotan Sugr T?rtogul Togli Tolun Tugor Uzluk Uzur
+			Manas Semetei Seitek Barsbeg Kokotoy Jaglaqar Tardush
 		}
 		female_names = {
-			卡拉西克 玛拉 穆特鲁 佩克森 萨穆尔 萨莉卡 萨蒂 塞维蕾 塞文迪克 西贝尔 西琳 西尔玛 松古尔 特克彻 图拉 乌玛伊 乌松比凯 亚萨尔 耶尔德姆 伊尔迪次
-			阿勒塔尼 巴儿古斤 孛儿帖 察必 察古儿 察哈 折折亦干 搠坦 朵儿格涅 埃别该 古儿别速 亦巴哈 哈达干 和格斤 和斤 和里斤 忽古儿斤 忽兰 那莫伦 汪古儿 莎哈台
+			Begayim Jibek
+			?i?ek ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Ayasun Ayten Boz?in Dilek Esin Gul?i?ek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
+			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz
 		}
 		
-		from_dynasty_prefix = "来自 "
+		from_dynasty_prefix = " "
 		founder_named_dynasties = yes
 		
-		male_patronym = " 乌璐"
-		female_patronym = " 库足"
+		male_patronym = "乌璐 "
+		female_patronym = "奇兹 "
 		prefix = no # The patronym is added as a suffix
 
 		allow_looting = yes
@@ -1719,12 +1809,15 @@ altaic = {
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.85 0.75 0.50 }
-# 此汉化复制于柳十三半的安西都护府MOD，望轻喷QAQ
+
 		male_names = {
-			阿巴拜科日 阿不都热依木 阿布都热依木 阿不力孜 阿卜力孜 阿迪力 阿迪里 阿地力 阿尔斯兰 阿扎提 阿勒玛斯 阿力玛斯 阿里木 阿力木 阿曼 艾海提 艾合坦木 艾合太木 艾合旦木 艾合买提 艾合麦提 艾尔希鼎 艾尔西丁 艾尔肯 艾孜买提 艾孜麦提 艾克拜尔 艾科拜尔 艾克巴尔 艾力凯木 艾勒坎木 艾力 艾买提 艾麦提 艾尼瓦尔 安外尔 艾沙 艾萨	 巴图尔 巴土尔 巴拉提 巴克 拜合提亚尔 布尔斯兰 包尔汉 布尔汉 帕孜力 帕则力 普拉提 皮达 塔西布拉克 塔力普 塔力甫 塔里甫 托合提 坦吾皮克 吐尔地 吐尔迪 图尔迪 吐尔逊 图尔荪 吐尔孙 图尔逊 吐尔干 图尔干 吐尔洪 图尔贡 图尔洪 吐尔贡 铁木尔 提力瓦力迪 贾马力 加马力 健索尔 居热提 居尔艾提 居麦 居玛 杰力力 吉利力 哈力克 哈里克 达尼西 达尼什 达瓦买提 达伍提 迪亚尔 热合曼 热扎克 热介甫 热杰普 热克甫 热赫木 如孜 肉孜 玉孜 如苏力 肉索力 扎伊提 孜亚 沙比提 萨比提 沙比尔 萨比尔 萨迪克 司的克
+			Bilge ?or üge Barchuq T?mür Bars Adigh Buqa M?nglik ?zmish
+			?ilbu Aepak Asalup Asep Atrak B?nek Bachman Begluk Blush Bonyak Bor? Elde?yuk Etrek Girgen Gzi Itlar Ituk K?n?ek Kobyak Kopti Kotyan Koza
+			Kozel Kubasar Kuntuvdi Kutan Pulad Saru Seven? Sir?an Sokal Sotan Sugr T?rtogul Togli Tolun Tugor Uzluk Uzur
 		}
 		female_names = {
-			阿达来提 阿达莱提 阿尔祖 阿丽同 阿丽屯 阿米娜 阿娜尔 阿依帕夏 阿依夏木 阿依夏姆 阿依谢姆 阿依努尔 艾拉 巴哈尔 拜合蒂 布里布里 布力布力 塔吉古丽 提拉 吉乃斯太 乔丽潘 乔力潘 乔丽番 齐曼古丽 奇曼古丽 哈斯也提 哈斯叶提 哈斯耶提 罕扎代 哈古丽 罕古丽 海力且木 海丽且木 海丽且姆 迪丽拜尔 迪里拜尔 迪丽达尔 迪丽热巴 热娜 冉娜 热依罕 热依汉 茹仙 热孜宛 热孜婉 再乃甫 再乃普 祖木热提 祖姆热提 佐合热 祖合热 孜巴 萨阿代提 萨巴海提 沙巴海提 沙拉买提 萨拉买提 萨拉麦提 赛乃姆 赛乃木 赛娜瓦尔 夏热拜提 希仁 西仁 希林 凯赛尔 开萨尔 坎曼尔 古海尔 果海尔 古再丽 古赞丽 古丽扎尔 古丽扎热 古丽罕 古丽苏如合 古丽苏茹合 古丽仙 古丽鲜 古丽娜尔 古丽斯坦 麦尔哈巴 麦丽开 麦合布拜 穆巴热克 穆巴热科 穆坎妲斯 娜扎开提 努斯热提 尼格尔 妮尕尔 尼鲁帕尔 尼露拜尔 尼叶蒂 赫木热 约日耶提 伊巴代提 伊排提 尤丽吐孜 玉丽吐孜
+			?i?ek ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Ayasun Ayten Boz?in Dilek Esin Gul?i?ek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
+			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz
 		}
 		
 		from_dynasty_prefix = "of "
@@ -1744,21 +1837,18 @@ altaic = {
 		color = { 0.4 0.4 1.0 }
 
 		male_names = {
-			阿巴 巴尔戈 巴坦 巴托尔 拜查 比奇基利 博鲁 布拉 伊尔迪 伊帕 库尔奇 库格尔 库雷 卡布克辛 卡拉卡 凯杜姆 科尔库坦 科尔坦 索尔 舒鲁 塔图斯
-			阿巴迦 阿骨出 阿吉乃 阿骨台 阿剌格 阿勒赤 阿勒坛 巴卑尔 巴格里台 巴剌 巴剌斯 巴尔坦 拔都 拜喀剌 别克帖儿 别尔刻 博根 察合台 察乃 赤古 赤勒干 赤勒都 达干 
-			答力台 哲别 朵歹 也先不花 格赞 古鲁格 古恩坎 哈儿合孙 火儿忽答 忽勒古 旭孙 亦纳勒赤 亦难察 亦突儿干 主儿扯歹 哈赤 哈赤干 哈勒台 和格斤 忽都 忽亦勒达儿 
-			阔阔出 可苦速 忽必烈 蔑格图 莫罗哈 蒙哥 蒙力格 纳忽 纳牙格 诺该 诺颜 窝阔台 鄂霍都儿 斡儿吉土 斡罗纳儿台 撒赫鲁 森舍儿 失拉古勒 失儿古格图 速育加忒迷斯 
-			速不台 速亦客秃 塔合 塔马赤 帖木儿 铁木真 铁穆尔 脱忽邻勒 脱斡脱格 拖雷 拖罗勒赤 图尔该 兀忽纳 兀鲁格 兀秃台 也古 也孙哥 月忽难 托答迷思
-			特贝尔 特米尔 亚夫迪 亚兹 耶克
+			Abagha Achigh Aguchu Ajai Ajinai Akhutai Alagh Alchi Alchidai Altan Ambaghai Arkhai Arasen Babur Badai Bagaridai Bala Barghujin Bartan Batu Bedugun Begter Belgutei
+			Belgunutei Bilge Berke Bodonchar Bogen Bogorchu Bolkhadar Borjigidai Boroghul Bughu Bugidai Bugunutei Bujeg Bukha Bulughan Buri Burkhan Burundai Chagatai Chaghagan Chanai Chigu
+			Chidukhul Chilagun Chiledu Chormakhan Chulgetei Dagun Daritai Dayir Dodai Duua Eljigedei Ghazan Ghunan Guchu Gughlug Guyug Harghasun Horkhudagh Hulegu Husun Inalchi Inancha Iturgen 
+			Jajiradai Jamugha Jebe Jochi Jurchedei Khabichi Khachi Khachigun Khadagh Khagatai Khaidu Khal Khorchi Khorilartai Khubilai Khudu Khutula Khuyildar Kogsegu Kokochu Megetu Megujin
+			Menggei Mongke Morokha Munglig Nakhu Narin Nayaga Nogai Odchigin Ogodei Okhotur Oljaitu Oronartai Shiraghul Shirgugetu Subetei Suyiketu Taghai Tamachi Targhutai Temuge Temujin Temur
+			Todogen Toghoril Toghtoga Tokhtamis Tolui Torolchi Tumen Uighurtai Ukhuna Usun Yedi Yegu Yeke Yesugei Yesunge Yokhunan Kadan Godan
 		}
 		female_names = {
-			琪彻克 琪伦 琪尔塔尼斯 奥茨古尔 奥茨莱姆 阿克古尔 阿西莉 阿亚松 艾滕 博茨欣 迪莱克 埃辛 古尔奇彻克 古尔蕾 贡杜茨 贡德斯 古妮丝 伊尔凯 伊佩克 伊佩克尔 伊尔格
-			卡拉西克 玛拉 穆特鲁 佩克森 萨穆尔 萨莉卡 萨蒂 塞维蕾 塞文迪克 西贝尔 西琳 西尔玛 松古尔 特克彻 图拉 乌玛伊 乌松比凯 亚萨尔 耶尔德姆 伊尔迪次
-			阿勒塔尼 巴儿古斤 孛儿帖 察必 察古儿 察哈 折折亦干 搠坦 朵儿格涅 埃别该 古儿别速 亦巴哈 哈达干 和格斤 和斤 和里斤 忽古儿斤 忽兰 那莫伦 汪古儿 莎哈台 
-			莎儿合哈塔尼 帖几尼 帖木仑 也速干 也遂 
+			Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Checheyigen Chotan Doregene Doquz Ebegei Gurbesu Hogelun Holuikhan Ibakha Khadagan Khogaghchin Khojin Khorijin Khugurchin Khulan Khutulun Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun T?regene Yesugun Yesui Hoelun
 		}
 		
-		from_dynasty_prefix = "来自 "
+		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
 
 		allow_looting = yes
@@ -1773,34 +1863,14 @@ altaic = {
 		horde = yes
 		
 		color = { 0.8 0.8 0.3 }
-# 此汉化复制于柳十三半的安西都护府MOD，望轻喷QAQ
+# 此部分非原版直译，系魔改自柳十三半的安西都护府MOD
 		male_names = {
-			萨剌德 匀德实 撒剌的 图欲 月里朵 尧骨 兀欲 述律 明扆 文殊奴 查剌 阿果 涅里 只骨 倍 阿保机 阮 璟 亿 贤 李胡 隆绪 宗真 
-			洪基 浚 延禧 安端 俺巴孩 淳 雅里 术烈 夷列 直鲁古 留哥 薛阇 收国奴 古乃 厮不 乞奴 金山
-			统古与 喊舍 敖卢斡 阿撒 阿没里 阿琏 阿海 别古特 宝信奴 必摄 楚材 宁 敌烈 迪烈 道隐 德寿 定 敌剌 敌鲁 觌烈 迭剌 大石 德光
-			佛宝奴 宗伟 吴哥 宗元 宗简 宗愿 宗伟 宗政 狗儿 瑰引 仁先 义先 礼先 智先 信先 谷欲 侯哂 吼阿不 曷鲁 胡吕 颏领 海里 解里 吕不古 朗
-			老古 良 隆先 隆佑 抹只 涅里 t里思 那也 毗牒 颇德 术者 萨剌德 释鲁 苏 沙 图鲁窘 天德 挞鲁 贴不 颓昱 统古与 洼 余睹 俨 匀德实
-			习泥烈 斜涅赤 斜轸 喜孙 喜隐 希亮 铸 寅底石 羽之 罨撤葛 牙里果 雅里 乙不哥 欲稳 只没 郑哥 赵三 重元 稍 婆姑 糯思 钦德 屈戌 辇之 怀秀 过折
-			屈列 邵固 咄干 郁干 娑固 失活 万荣 尽忠 尽忠 窟哥 摩会 咄罗 室鲁 斡里剌 朵鲁不 朴古只沙里 绍芳 六符 慎行 一德 二玄 三嘏 四端 五常
-			孝杰 棠 白 得臣 正 延徽 德凝 德枢 德源 绍勋 匡嗣 德让 知古 辉 朴 鼎 泰希尔 羲之 屋质 娄国 痕笃 札剌 图古辞 阿剌 恒德 萧惠
-			陶瑰 孝穆 撒磨 孝忠 阿速 孝友 挞烈 忽古 郁 澣 孟简 特烈 药师 重诲 隆庆 药师奴 和尚 继先 伯坚 阿没里 隆运 景 匹敌 普达 德 奉先
-			处温 琳 余睹 昭 俊 文蔚 文用 文直 文忠 实 忠济 忠嗣 天祥 伯祥 玮 天应 秃花 珣 荣祖 德海 拜住 有尚 石柱 明安 秃花
-			
-			护思 蒲古 义先 术哲 那也 得里底 塔列葛 弘古 胡笃 兀里珍 阿鲁隐 特满 特末 脱古思 别古特 阿巴赤 阿撒里 萨巴宁 巴图 控骨里 
-			卢不姑 撒班 撒本 麻隗 蒲鲁 贵也稀 夷里衍 阿保谨 斡里 撒刺的 则骨舍利 鸦鸣谷 桑维翰 兀欲 阿古多 图伯特 阿保机 德光 述律 隆绪 
-			宗真 洪基 延禧 忠 孝 仁 义 礼 智 信 德 节 贵 倍 浚 殊奴 道宁 隆运 邵忠 夷离毕 佛宝奴 宗元 宗训 宗愿 匹里 孝忠 双古 剌葛 迭剌 
-			寅底石 安端 啜里只 和鲁斡 阿琏 只没 隆裕 郑哥 耶鲁斡 挞不也 都斡 坦思 查剌 阿里懒 胡突堇 滑哥 继先 留只哥 挞鲁 敖卢斡 习泥烈 
-			只没 思温 寅古 敌鲁 海璃 寅的哂 夷离堇 挞烈 眉古得 雅里斯 勃勒底 乌古 寅尼吉 沙剌迭侦 雅里斯 挞马 夷腊葛第 廷寿 阿不札 曷鲁 
-			术里者 涅里括 直哥 胡特鲁 化葛 海里 抄里只 颇德 腊哥 陶瑰 札不哥 苏古涅 雏保 弥古特 敌答 搭烈葛 末及益剌 花哥 辛古 嗣先 谢十 
-			赤狗儿 乙薛 斡忽 急塞
+			耨里思 萨剌德 匀德实 撒剌的 图欲 月里朵 尧骨 兀欲 述律 明扆 文殊奴 查剌 阿果 涅里 只骨 倍 淳 雅里 术烈 留哥 薛阇 收国奴 古乃 厮不 乞奴 金山	统古与 喊舍 敖卢斡 阿撒 阿没里 阿琏 阿海 别古特 宝信奴 必摄 楚材 宁 敌烈 迪烈 道隐 德寿 定 敌剌 敌鲁 觌烈 迭剌 佛宝奴 宗伟 吴哥 宗元 宗简 宗愿 宗伟 宗政 狗儿 瑰引 谷欲 侯哂 吼阿不 曷鲁 胡吕 颏领 海里 解里 吕不古 朗	老古 良 隆先 隆佑 抹只 涅里 耨里思 那也 毗牒 颇德 术者 萨剌德 释鲁 苏 沙 图鲁窘 天德 挞鲁 贴不 颓昱 统古与 洼 余睹 俨 匀德实 习泥烈 斜涅赤 斜轸 喜孙 喜隐 希亮 铸 寅底石 羽之 罨撤葛 牙里果 雅里 乙不哥 欲稳 只没 郑哥 赵三 重元 稍 婆姑 糯思 钦德 屈戌 辇之 怀秀 过折	屈列 邵固 咄干 郁干 娑固 失活 万荣 尽忠 尽忠 窟哥 摩会 咄罗 室鲁 斡里剌 朵鲁不 朴古只沙里 绍芳 
+			棠 白 得臣 正 延徽绍勋 匡嗣 德让 知古 辉 朴 鼎 泰希尔 屋质 娄国 痕笃 札剌 图古辞 阿剌 恒德 萧惠	陶瑰 孝穆 撒磨 孝忠 阿速 孝友 挞烈 忽古 郁 澣 孟简 特烈 药师 重诲 隆庆 药师奴 和尚 继先 伯坚 阿没里 隆运 景 匹敌 普达 德 奉先 处温 琳 余睹 昭 俊 文蔚 文用 文直 文忠 实 忠济 忠嗣 伯祥 玮 天应 秃花 珣 荣祖 德海 拜住 有尚 石柱 明安 秃花 护思 蒲古 义先 术哲 那也 得里底 塔列葛 弘古 胡笃 兀里珍 阿鲁隐 特满 特末 脱古思 别古特 阿巴赤 阿撒里 萨巴宁 巴图 控骨里 卢不姑 撒班 撒本 麻隗 蒲鲁 贵也稀 夷里衍 阿保谨 斡里 撒刺的 则骨舍利 鸦鸣谷 桑维翰 兀欲 阿古多 图伯特 殊奴 隆运 邵忠 夷离毕 佛宝奴 宗元 宗训 宗愿 匹里 孝忠 双古 剌葛 迭剌 	寅底石 安端 啜里只 和鲁斡 阿琏 只没 隆裕 郑哥 耶鲁斡 挞不也 都斡 坦思 查剌 阿里懒 胡突堇 滑哥 继先 留只哥 挞鲁 敖卢斡 习泥烈 只没 思温 寅古 敌鲁 海璃 寅的哂 夷离堇 挞烈 眉古得 雅里斯 勃勒底 乌古 寅尼吉 沙剌迭侦 雅里斯 挞马 夷腊葛第 廷寿 阿不札 曷鲁 术里者 涅里括 直哥 胡特鲁 化葛 海里 抄里只 颇德 腊哥 陶瑰 札不哥 苏古涅 雏保 弥古特 敌答 搭烈葛 末及益剌 花哥 辛古 嗣先 谢十 赤狗儿 乙薛 斡忽 急塞
 		}
 		female_names = {
-			阿拉 阿尔塔 阿兰 阿尔塔尼 孛儿帖 塔不烟 普速完 察必 温 察合 撒葛只 绰 观音 脱古思 菩萨哥 古儿别速 三蒨 牙里辛 跋芹 斡里太 坦思 特懒 夺里懒
-			忽兰 瑟瑟 满都海 余里衍 挞里 普贤女 卓真 月里朵 平 岩母斤 质古 阿不里 述律 撒剌 淑哥 燕哥 岩母菫 槊古 也速干 也遂 崔八 长寿 兴哥 特里
-			骨欲 大奥野 次奥野 斡里衍 钿匿 九哥 八哥 十哥 擘失 泰哥 赛哥 兴哥 延寿 嘲瑰 钿匿 纠里 擘失 师姑 汀 延寿女 南仙
-			
-			阿古只 燕歌 岩母 海里 陶哥 挞里 跋芹 斡里太 撒葛只 浦哥 和古典 撒剌 萌古 
-			长寿奴 延寿奴 纠里 特里 斡特懒 夺里懒 骨欲 余里衍 斡里衍 大奥野 次奥野 蔼因 花哥 奴哥 吴乞买
+			阿拉 阿尔塔 阿兰 阿尔塔尼 孛儿帖 塔不烟 普速完 察必 温 察合 撒葛只 绰 观音 脱古思 菩萨哥 古儿别速 耨斤 三蒨 牙里辛 跋芹 斡里太 坦思 特懒 夺里懒	忽兰 瑟瑟 满都海 余里衍 挞里 普贤女 卓真 月里朵 平 岩母斤 质古 阿不里 和古典 述律 撒剌 淑哥 燕哥 岩母菫 槊古 也速干 也遂 崔八 长寿 兴哥 特里
+			骨欲 大奥野 次奥野 斡里衍 陶哥 钿匿 九哥 八哥 十哥 擘失 泰哥 赛哥 兴哥 延寿 嘲瑰 钿匿 纠里 擘失 师姑 汀 延寿女 南仙 阿古只 燕歌 岩母 海里 崔八 陶哥 挞里 跋芹 斡里太 撒葛只 浦哥 和古典 撒剌 萌古 长寿奴 延寿奴 纠里 特里 斡特懒 夺里懒 骨欲 余里衍 斡里衍 大奥野 次奥野 蔼因 花哥 奴哥 吴乞买
 		}
 		
 		dynasty_title_names = yes
@@ -1823,17 +1893,17 @@ arabic = {
 		color = { 0.1 0.75 0.1 }
 
 		male_names = {
-			阿里夫 阿卜杜勒-加富尔 阿卜杜勒-贾勒尔 阿卜杜勒-卡迪尔 阿卜杜勒-瓦哈布 阿卜杜拉 阿布拜克尔 阿金 阿里 阿卜杜勒-瓦哈布 穆罕默德 阿里姆 阿拉姆 阿扎姆 巴希尔
-			布尔哈纳丁 法迪尔 法德勒 法鲁克 加利卜 哈菲兹 哈利尔 哈桑 胡萨姆 侯赛因 易卜拉欣 穆克塔尔 伊德里斯 伊斯迈尔 伊萨 贾比尔贾里尔 贾布里勒 海尔丁
-			哈利勒 马哈茂德 曼苏尔 米里亚娜 穆巴拉克 马赫迪 穆克塔尔 穆拉德 穆萨 穆扎法拉丁 纳吉布 萨米 纳斯尔 奈赞 拉马丹 萨拉丁
-			萨迪克 萨米尔 沙米尔 苏莱曼 塔利布 乌拜德 乌韦斯 亚库布 尤素福
+			Abu-Bakr_Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdul_Abdul Abdullah_Abdullah Aghlab Akin Ali_Ali Alim Aram Azam Bahir Burhanaddin
+			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan_Hasan Husam Hussayn_Hussayn Ibrahim_Abraham Idris Is'mail_Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud_Mahmud
+			Mansur Mirza Mubarak Muhammad_Muhammad Mukhtar Murad Musa_Moses Muslihiddin Muzaffaraddin Najib Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
+			Shamir Shujah Sulayman_Solomon Talib Ubayd Uways Yahya_Yahya Ya'qub_Jacob Youkhanna_John Yusuf_Joseph Zeyd
 		}
 		female_names = {
-			阿迪拉 阿姆莎 阿西娅  哈比巴 哈妮法 贾海拉 卡马拉 莱拉 玛丽亚姆 纳菲萨 卡马拉 拉菲卡 萨巴 赛义德 塔利巴 雅丝明
-			帕兰德 佩玛尼赫 佩万德 拉萨 拉西达萨赫巴 萨米拉 塞塔拉 莎赫巴诺 莎拉拉赫
-			谢瓦 索戈法 索拉 索拉赫 西敏 苏赞 塔纳兹 塔宁 雅佳娜 雅卡塔
+			Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
 		}
-		from_dynasty_prefix = "闵 "
+		from_dynasty_prefix = "姆恩 "
 		
 		male_patronym = "伊本 "
 		female_patronym = "宾特 "
@@ -1850,18 +1920,36 @@ arabic = {
 		color = { 0.2 0.9 0.2 }
 
 		male_names = {
-			阿巴斯 阿卜杜勒-哈利姆 阿卜杜勒-卡里姆 阿卜杜勒-拉赫曼 阿卜杜拉 亚当_亚当 艾哈迈德 阿尔'阿'阿丁 阿里 穆罕默德 阿明 阿萨德 阿齐姆 巴拉卡特 法赫德 法特赫 加尼
-			海德尔 哈马德 哈希姆 胡萨马丁 易卜拉欣 穆克塔尔 伊利亚斯 伊斯迈尔 伊萨克 贾法尔 贾马尔 卡马尔 哈立德 马赫塔尔 马尔万 穆'伊兹 阿卜杜勒-阿齐姆 马里克
-			穆克塔尔 穆拉德 穆萨 穆扎法拉丁 纳扎尔 塔希尔 穆斯塔法 纳斯尔 尼扎马丁 拉西德 萨'伊德 萨拉 赛义德 沙姆萨丁 辛巴德 苏丹 塔里克
-			乌玛尔 瓦哈布 叶赫亚 扎菲尔
+			Abakada Abazza Abbas_Abbas Abdul_Abdul Abdul-Azeem Abdul-Haleem Abdul-Kareem Abdul-Rahman Abdullah_Abdullah Abidin Adal Adam_Adam Aderbal Adergazuz
+			Adherbal Admer Adrir Adum Afaghis Afalawas Afalku Afer Afulay Agafay Agama Agdada Agdun Agellid Aggur Aghali Aghecher Aghilas Agwillul
+			Ahamatu Aheyyad Ahmad_Ahmad Ajdir Ajeddig Akaday Akateiaji Akli Akorakor Aksel_Caecilius Aksil_Caecilius Akutla Akzer Al'a'addin Ali_Ali Alyamas Amawal
+			Amayas Amaz'uz' Ambay Amdegh Amellal Amennay Ameska Amessan Amin Amma Ammuc Amray Amri Amud Anaba Annaber Antalas Anwa Aras
+			Asad Asaru Asirem Aszellay Atissi Awdia Awgustin_August Awinagh Awlagh Awzal Aylal Ayt'ere Az'ar Az'regh Azenkwed Azim Azrur Badda Badis
+			Bagay Barakat Beddis Berkan Bezz'i Br'ir'uc Bukkus Buwayh Buxtuc Capussa Cucung Dali Fahd Fath Fella Firhun Firmus Frawsen Gaia Galussa Gauda
+			Gaya Ghani Ghanim Ghaysan Ghumer Gildun Gulusa H'emmu Haidar Hamad Hashim Hiba Hiempsal Himmi Hotha Hussamaddin Ibiza Ibrahim_Abraham Iccaam
+			Ifni Ifser Ighlaf Igider Igmi Iher Iken Ilyas_Ilyas Immeghar Immel Irgen Is'mail_Ismail Isalcas Ishaq_Isaac Isli Issam It'ij Itber Itri Ixfensen Ixzi Izri Jaffar Jamal Kadidu
+			Kamal Karidenna Kawsen Kenan Keraja Khalid Khanchla Khenchela Khidr Kussil Lacumaces Laweye Lewnis Luki_Lucius Madidu Magsen Mahtar Malik
+			Marwan Masgaba Masgava Masinissa Masmud Masnsen Massinissa Massiva Massnsen Mastan Mastanabal Matiya_Matthew Maysar Maziba Mazigh
+			Medjan Mellal Mennad Menzu Meq'wran Mez'yan Mezwar Micipsa Misagenes Misibsen Mu'izz Muh'end Muhammad_Muhammad Mukhtar Mula Murad Musa_Moses Mustafa
+			Muzaffaraddin N'Guna Nasr Nazar Niptasan Nizamaddin Ptolemee_Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon_Solomon Sammer
+			Sayyid Seghada Sekla Shamsaddin Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq
+			Tegama Thabitah Tifan_Theophanus Tiljad Ugdada Ugwistan Umar_Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab Watt'as Xamida Yabdas Yaghmurasen
+			Yahya_Yahya Yattuy Yeften Yeh'lem Yiliyen Yuba Yugerten Yugurthen Youkhanna_John Yunes Yusuf_Joseph Yuva Z'effun Zafir Zalelsan Zayar Zer'wal Zigza Ziri Zubeyr
 		}
 		female_names = {
-			埃米拉 巴希耶 比尔吉斯 法赫丽雅 哈迪娅 哈瓦 杰达 卡米拉 勒姆'安 麦莱克 纳吉巴 拉'伊萨 拉希马 萨迪卡 萨拉玛 西迪卡 塔丽法 扎希达 祖拜达 
-			爱莎 阿莉娅 阿米娜 阿米拉 阿基拉 阿丽法 艾德拉赫_艾德拉 阿迪巴 阿迪拉赫 阿迪莉娅 阿迪瓦 芭堤雅 巴德拉 巴希耶 巴基拉 巴拉卡赫
-			芭利娅 巴希拉 巴西玛 巴西玛赫 卡拉 康塔拉 黛莎 达拉尔 德玛 迪马赫 狄娜拉 杜亚 杜拉
+			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac
+			Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin
+			Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda
+			Hadiya Hawwa Hemu Herru Iija Iiju Itt? Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta
+			Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa
+			Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament
+			Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat
+			Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi Tintifawin Tinzert Tisent
+			Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda
+			Zunagha Zwina Zwira
 		}
 		
-		from_dynasty_prefix = "闵 "
+		from_dynasty_prefix = "姆恩 "
 		
 		male_patronym = "伊本 "
 		female_patronym = "宾特 "
@@ -1899,7 +1987,7 @@ arabic = {
 			戈尔巴哈 古尔纳尔 古尔纳兹 古尔帕里 哈斯蒂 胡玛 汉丹 基纳赫 拉拉 玛赫多克特 马赫萨 马尔瓦 玛斯塔娜 迈赫里 米娜 米诺奥
 			纳哈尔 纳耶拉 纳斯塔兰 纳齐 尼加尔 尼基 妮柯
 		}
-		from_dynasty_prefix = "闵 "
+		from_dynasty_prefix = "姆恩 "
 		
 		male_patronym = "伊本 "
 		female_patronym = "宾特 "
@@ -1916,17 +2004,22 @@ arabic = {
 		color = { 0.1 0.6 0.1 }
 
 		male_names = {
-			阿卜杜勒-阿齐兹 阿卜杜勒-哈克 阿卜杜勒-马吉德 阿卜杜勒-萨拉姆 阿卜杜拉 阿德南 艾哈迈德 亚格伯 阿拉姆 阿里 穆罕默德 阿姆尔 阿西姆 巴德尔 巴希尔 阿巴白克尔 穆克塔尔
-			穆拉德 穆萨 穆扎法拉丁 拉乌法 穆尔希德 纳比尔 纳西尔 纳西卜 努拉丁 卡迪尔 拉菲克 里德万 沙巴赫 萨利姆 沙班 谢里夫 苏海尔 塔伊布
-			乌萨马 瓦利德 亚西尔 扎哈里亚
+			Aaron_Aaron Abanoub Abderahman_Abderrahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah_Abdullah
+			Abianos_Abijah Abisalom Ablarion Abraam_Abraham Abu-Bakr_Abu-Bakr Adnan Agathon_Agathos Agathonikos_Agathonikos Agathos_Agathos
+			Ahmad_Ahmad Akbar_Akbar Alam Ali_Ali Amr Androus_Andrew Anthinos_Anthimos Arsenios_Arsenios Ashraf_Ashraf Asim
+			Athanasios_Athanasius Badr Bashir Biktor_Victor Binyamin_Benjamin Bishoi_Bishara Boutros_Peter Danyal_Daniel Dawlat Da’oud_David
+			Ezra_Ezra Farhan Firuz Gabri’el_Gabriel Georgios_George Ghiyasaddin Habil_Abel Hakam_Hakam Hammud Hanri_Henry Haroun_Aaron Hisham
+			Hussayn_Hussayn Ibrahim_Abraham Ilyas_Elijah Is'mail_Ismail Izzaddin Jalaaladdin Jawdat Jerjer_Gregory Kemaladdin Khalil Krystafer_Christopher
+			Latif Lot_Lothair Malik Matta_Matthew Mehtar Mikail_Michael Mikhael_Michael Milad_Milad Mina_Menas Muammar Muhammad_Muhammad
+			Mukhtar Murad Murshid Musa_Moses Muzaffaraddin Nabil Nasir Nassib Nuraddin Pamin Qadir Ra'uf Rafiq Ridwan Sabah Salim Sha'ban
+			Sharif Suhail Tadros_Theodore Tajaddin Tayyib Touma_Thomas Usama Walid Yahya_Yahya Yared Yassir Youkhanna_John Youssef_Joseph Zaia_Isaiah Zakariyah_Zachary
 		}
 		female_names = {
-			艾丽娅 安达丽 法蒂玛 哈丽玛 伊娜丝 雅米拉 赫蒂娅 马基妲 纳比拉 努拉 拉迪娅 拉娜 萨菲雅 萨米拉 苏海拉 图里雅 扎拉
-			法尔汉 菲露兹 哈卡姆 哈穆德 希莎姆 侯赛因 易卜拉欣 穆克塔尔 伊斯迈尔 贾拉拉丁 乔达特 克玛拉丁 哈利勒
-			拉蒂法 马里克 梅赫塔尔 穆阿迈尔 阿塞妮丝 阿穆尼特 阿萨尼特 阿塞纳丝 阿塞尼特 巴斯特 巴斯泰特 贝赛特 哈索尔 哈特舍普苏特 伊西丝 奈费尔提蒂
-			萨克米斯 塞赫迈特 塔狄娜内菲尔 塔瓦蕾特
+			Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima 
+			Jamila Khadija Majida Mariam_Maria Nabila Nura Radiya Rana Sacmis Safiya 
+			Samira Suhaila Tawaret Taweret Titi Thuriya Zara Zahra_Zahra
 		}
-		from_dynasty_prefix = "闵 "
+		from_dynasty_prefix = "姆恩 "
 		
 		male_patronym = "伊本 "
 		female_patronym = "宾特 "
@@ -1943,8 +2036,9 @@ arabic = {
 		color = { 0.4 0.6 0.1 }
 
 		male_names = {
-			阿巴德 阿巴斯 阿卜杜拉 阿卜杜勒-阿齐兹 阿卜杜勒-哈卡姆 阿卜杜勒-哈桑 阿卜杜勒-哈兹姆 阿卜杜勒-拉赫曼 阿卜杜勒-拉扎克 阿比 阿布-阿尔-马里克 阿布拜克尔 阿德丰斯_阿方斯 艾哈迈德 阿里 阿姆尔 阿尤布 比拉勒 法德勒 法特赫
-			加西亚_加西亚 哈卡姆 希拉勒 易卜拉欣 伊斯玛'伊尔 路布_卢波 马恩 穆巴希尔 穆罕默德 蒙齐尔 穆萨 拉西德 拉西克 萨德 西德雷 苏莱曼 塔里克
+			阿巴德 阿巴斯 阿卜杜拉 阿卜杜勒-阿齐兹 阿卜杜勒-哈卡姆 阿卜杜勒-哈桑 阿卜杜勒-哈兹姆 阿卜杜勒-拉赫曼 阿卜杜勒-拉扎克 阿卜杜勒 阿布
+			阿布拜克尔 阿德丰斯_阿方斯 艾哈迈德 阿里 阿姆尔 阿尤布 比拉勒 法德勒 法特赫 加西亚_加西亚 哈卡姆 希拉勒 易卜拉欣
+			基亚德 路布_卢波 马恩 穆巴希尔 穆罕默德 蒙齐尔 穆萨 拉西德 拉西克 萨德 西德雷 苏莱曼 塔里克
 			乌玛尔 乌特曼 亚法尔 叶赫亚_约翰 尤素福_约瑟夫	
 		}
 		female_names = {
@@ -1952,7 +2046,7 @@ arabic = {
 			马哈 玛丽卡 玛丽亚姆_玛丽亚 蒙娅_穆尼娅 纳迪娅 奈拉 努尔 拉菲卡 拉哈特 莱莎 兰达 萨菲雅 萨尔玛 莎基拉 苏拉娅 塔希拉 塔丽法 瓦希妲
 			雅丝明 扎希达 扎赫拉
 		}
-		from_dynasty_prefix = "闵 "
+		from_dynasty_prefix = "姆恩 "
 		
 		male_patronym = "伊本 "
 		female_patronym = "宾特 "
@@ -2021,14 +2115,15 @@ east_slavic = {
 		color = { 0.45 0.6 0.2 }
 
 		male_names = {
-			阿法纳西_亚塔那修 亚历山大_亚历山大 阿列克谢_亚历克西斯 安德雷_安德鲁 鲍里斯 布莱希斯拉夫_布雷提斯劳斯 丹尼尔_丹尼尔 达维德_大卫 杰米德 德米特里_德梅特里乌斯 多布莱尼亚 费多特_西奥达特 费奥多尔_西奥多尔 加夫里尔_加布里埃尔 格列布
-			格里高利_格里高利 亚科夫_雅各布 伊戈尔 伊莉雅 英格瓦_英格瓦 伊凡_约翰 伊齐亚斯拉夫 基里尔_西里尔 康斯坦丁_康斯坦丁
+			Briachislav_Bretislaus Demid Dobrynia Fedot_Theodat Gleb Igor Iliya Iziaslav Lev_Leo Mitrofan Mstislav_Mstislav
+			Nikita Putiata Radoslav Rodislav Rogvolod Rostislav Ruslan Stanislav_Stanislav Sudislav Svetozar Sviatopolk_Svatopluk Sviatoslav_Sviatoslav Terentiy Trifon Viacheslav Vladimir_Vladimir Vladislav_Vladislav Voislav Volodar Vseslav
+			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav_Jaroslav Yefimiy Yelisey Yeremey Yevstafiy
 		}
 		female_names = {
-			伊丽莎白_伊丽莎白 叶夫多基娅_尤多茜娅 叶夫普拉西娅 费奥多拉_狄奥多拉 费奥多西娅_狄奥多茜娅 费夫罗尼娅 戈里斯拉娃 格拉季斯拉娃 艾丽娜_伊伦妮 齐妮亚
-			柳德米拉 玛尔芙丽达 玛露莎 玛丽亚_玛丽亚 玛丽娜 奥莱娜_海伦 奥尔加 佩蕾雅斯拉娃 普拉斯科维亚 普罗梅斯拉娃
-			普里比斯拉娃 罗格涅达 罗斯提斯拉娃 索菲亚_索菲亚 斯维亚托斯拉娃 塔季扬娜 乌莉塔 乌里扬娜 瓦尔瓦拉 瓦西里莎
-			弗谢斯拉娃 维亚切斯拉娃 雅罗斯拉娃 萨巴娃 薇妮斯拉娃
+			Boleslava Darya Dobrava Dobronega Dobroslava Yefimia_Euphemia Yefrosinia_Euphrosyne Fevronia Gorislava Gradislava Gremislava
+			Liubava Liudmila Malfrida Malusha Maria_Maria Marina Olena_Helen Olga Pereyaslava Praskovya Praxida Prebrana Predslava
+			Premyslava Pribislava Rogneda Rostislava Sbyslava Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
+			Vseslava Viacheslava Yaroslava Zabava Zvenislava
 		}
 		from_dynasty_prefix = ""
 		
@@ -2055,12 +2150,15 @@ east_slavic = {
 		color = { 0.5 0.8 0.3 }
 
 		male_names = {
-			尼基塔 奥列格_赫尔格 帕维尔_保罗 普佳京 拉多斯拉夫 罗迪斯拉夫 罗格沃洛德 罗曼_罗曼 罗斯提斯拉夫 鲁里克 鲁斯兰 西蒙_西蒙 斯塔尼斯拉夫_斯塔尼斯拉夫 斯捷潘_斯蒂芬 舒迪斯拉夫 姆斯季斯拉夫斯基_姆斯季斯拉夫斯基
-			斯韦托扎尔 斯瓦托波尔克_斯瓦托普卢克 斯维亚托斯拉夫_斯维亚托斯拉夫 捷连季 特里丰 瓦西里_巴西尔 瓦西尔科 维亚切斯拉夫 弗拉基米尔_弗拉基米尔 弗拉季斯拉夫_弗拉季斯拉夫 沃伊斯拉夫 沃洛达尔 弗谢斯拉夫
+			Briachislav_Bretislaus Demid Dobrynia Fedot_Theodat Gleb Igor Iliya Iziaslav Lev_Leo Mitrofan Mstislav_Mstislav
+			Nikita Putiata Radoslav Rodislav Rogvolod Rostislav Ruslan Stanislav_Stanislav Sudislav Svetozar Sviatopolk_Svatopluk Sviatoslav_Sviatoslav Terentiy Trifon Viacheslav Vladimir_Vladimir Vladislav_Vladislav Voislav Volodar Vseslav
+			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav_Jaroslav Yefimiy Yelisey Yeremey Yevstafiy
 		}
 		female_names = {
-			伊丽莎白_伊丽莎白 叶夫多基娅_尤多茜娅 叶夫普拉西娅 费奥多拉_狄奥多拉 费奥多西娅_狄奥多茜娅 费夫罗尼娅 戈里斯拉娃 格拉季斯拉娃 艾丽娜_伊伦妮 齐妮亚
-			柳德米拉 玛尔芙丽达 玛露莎 玛丽亚_玛丽亚 玛丽娜 奥莱娜_海伦 奥尔加 佩蕾雅斯拉娃 普拉斯科维亚 普罗梅斯拉娃
+			Boleslava Darya Dobrava Dobronega Dobroslava Yefimia_Euphemia Yefrosinia_Euphrosyne Fevronia Gorislava Gradislava Gremislava
+			Liubava Liudmila Malfrida Malusha Maria_Maria Marina Olena_Helen Olga Pereyaslava Praskovya Praxida Prebrana Predslava
+			Premyslava Pribislava Rogneda Rostislava Sbyslava Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
+			Vseslava Viacheslava Yaroslava Zabava Zvenislava
 		}
 		from_dynasty_prefix = ""
 		
@@ -2087,12 +2185,17 @@ east_slavic = {
 		color = { 0.65 0.8 0.3 }
 
 		male_names = {
-			尼基塔 奥列格_赫尔格 帕维尔_保罗 普佳京 拉多斯拉夫 罗迪斯拉夫 罗斯韦托扎尔 斯瓦托波尔克_斯瓦托普卢克 斯维亚托斯拉夫_斯维亚托斯拉夫 捷连季 特里丰 瓦西里_巴西尔 瓦西尔科 维亚切斯拉夫 弗拉基米尔_弗拉基米尔 弗拉季斯拉夫_弗拉季斯拉夫 沃伊斯拉夫 沃洛达尔 弗谢斯拉夫
+			Briachislav_Bretislaus Demid Dobrynia Fedot_Theodat Gleb Igor Iliya Iziaslav Lev_Leo Mitrofan Mstislav_Mstislav
+			Nikita Putiata Radoslav Rodislav Rogvolod Rostislav Ruslan Stanislav_Stanislav Sudislav Svetozar Sviatopolk_Svatopluk Sviatoslav_Sviatoslav Terentiy Trifon Viacheslav Vladimir_Vladimir Vladislav_Vladislav Voislav Volodar Vseslav
+			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav_Jaroslav Yefimiy Yelisey Yeremey Yevstafiy
 		}
 		female_names = {
-			伊丽莎白_伊丽莎白 叶夫多基娅_尤多茜娅 叶夫普拉西娅 费奥多拉_狄奥多拉 费奥多西娅_狄奥多茜娅 费夫罗尼娅 戈里斯拉娃 格拉季斯拉娃 艾丽娜_伊伦妮 齐妮亚
+			Boleslava Darya Dobrava Dobronega Dobroslava Yefimia_Euphemia Yefrosinia_Euphrosyne Fevronia Gorislava Gradislava Gremislava
+			Liubava Liudmila Malfrida Malusha Maria_Maria Marina Olena_Helen Olga Pereyaslava Praskovya Praxida Prebrana Predslava
+			Premyslava Pribislava Rogneda Rostislava Sbyslava Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
+			Vseslava Viacheslava Yaroslava Zabava Zvenislava
 		}
-		from_dynasty_prefix = "来自 "
+		from_dynasty_prefix = ""
 		
 		male_patronym = "耶维奇"
 		female_patronym = "罗夫娜"
@@ -2159,7 +2262,7 @@ west_slavic = {
 			薇勒米娜 薇奥拉_尤兰妲 弗拉季斯拉娃 兹登卡 佐菲_索菲亚
 		}
 		
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = "of "
 
 		modifier = default_culture_modifier
 	}
@@ -2184,7 +2287,7 @@ west_slavic = {
 			玛蒂尔妲_玛蒂尔妲 米莱娜 纳沃娅 佩赫娜 莱切扎 莱克莎 萨洛梅雅 桑博贾 索拉斯提卡 斯密赫娜 斯塔尼斯拉娃 斯维托斯拉娃 薇斯拉娃 沃斯拉娃
 			沃利斯拉娃 韦博尔 文泽米拉 索菲亚_索菲亚 薇妮斯拉娃
 		}
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = "of "
 		
 		#male_patronym = "奥维斯基"
 		#female_patronym = "奥维斯卡"
@@ -2223,7 +2326,7 @@ south_slavic = {
 			莉耶卡 西尔维娅 索菲亚_索菲亚 苏珊娜_苏莎娜 斯韦特兰娜 苏朗娅 塔季扬娜 蒂哈娜 瓦莱莉娅 薇德拉娜 韦科斯拉娃 兹拉塔 兹沃尼米拉
 		}
 		
-		from_dynasty_prefix = "欧特 "
+		from_dynasty_prefix = "亚当 "
 
 		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -2254,7 +2357,7 @@ south_slavic = {
 			柳比卡 卢卡 马伊卡 玛丽娜 迈达尼 米基 米琳卡 米莉缇 米莉雅娜 穆妲莉 穆德拉 纳达 纳梅娜
 		}
 		
-		from_dynasty_prefix = "欧特 "
+		from_dynasty_prefix = "亚当 "
 		
 		male_patronym = "奇"
 		prefix = no
@@ -2265,6 +2368,7 @@ south_slavic = {
 		graphical_cultures = { westernslavicgfx }
 
 		color = { 0.6 0.4 0.4 }
+
 		male_names = {
 			阿德里安 亚历山德鲁_亚历山大 安格尔_安吉尔 阿伦 巴尔克 巴巴特 巴萨拉布 波格丹_波格丹 卡罗尔 奇普里安 克劳迪乌
 			科尔内留_科尼利乌斯 科斯丁 达米扬 达恩 德拉戈斯 杜米特鲁 埃梅里克 弗洛林 弗拉尼奥_弗兰西斯 加夫里尔_加布里埃尔 格奥尔基_乔治 格里戈雷_格里高利 雅各布
@@ -2314,7 +2418,7 @@ south_slavic = {
 			罗西特莎 席尔瓦 席尔薇雅 斯托扬卡 特蕾莎_特蕾莎 托多卡 茨薇塔 茨薇坦卡 瓦希卡 比奥莱塔_尤兰妲 雅娜 约尔丹卡 日芙卡
 		}
 		
-		from_dynasty_prefix = "欧特 "
+		from_dynasty_prefix = "诺丁 "
 		
 		male_patronym = "夫"
 		female_patronym = "娃"
@@ -2399,10 +2503,10 @@ iranian = {
 		color = { 0.43 0.32 0.32 }
 		
 		male_names = {
-			居拉克 迪瓦什提奇 约德赫塞塔克 图洪 塔尔洪 乌拉克 图尔加尔 卢尚 纳奈法尔恩 Avyaman Yechi Chaki Mechun Tishifan Wupoyan
+			Gurak Divashtich Yodkhsetak Tuhun Tarkhun Urak Turghar Lushan Nanaifarn Avyaman Yechi Chaki Mechun Tishifan Wupoyan
 			Tarxun Wanxanak Nawekat Wiyus Uxushukan Bharxuman Skatch Sheshch Chaxren Ramch Shaw Maxak Ramtish Axushfarn Bhurz Chukshak Fudanyan Dishebo Vandak Khudayfarn Sili Tishrat Chunakk Namdar Xutawch Pisak Karz Nijat Chatfaratsaran Dewastich Varzakk Nanai-thvar Chuzakk Khwatawch Karzh Nizat Nanaikuch Ukhwan Pator Wakhushuvirt Maniakh Watch Shafnoshak
 			
-			Akhurmaztakk Akhushfarn_Akhushfarn 安加特瑙 安卡斯帕德 Anushirvan_Anushirvan Ardavan_Ardavan Ardeshir_Ardeshir Armatsach Arsach Artikhuvandakh 
+			Akhurmaztakk Akhushfarn_Akhushfarn Anghatnaw Anghatspadh Anushirvan_Anushirvan Ardavan_Ardavan Ardeshir_Ardeshir Armatsach Arsach Artikhuvandakh 
 			Artivan_Ardavan Aspandhat Astken Aurang_Aurang Avyaman-yan_Avyaman-yan Avyaman_Avyaman Avyamanch_Avyamanch Avyamanvandak Babak_Babak Bahram_Bahram 
 			Banda Barak_Barak Bharkhuman_Bharkhuman Bhurz_Bhurz Buddhadasa Chakar_Chakar Chakhapak Chakhren_Chakhren Cher_Cher Chetvandak Dariush_Darius 
 			Devadasa Dewashtich_Dewashtich Dhakh Dhruwaspvandak Esfandiar_Esfandiar Eskander_Alexander Ewakhsh Faramarz_Faramarz Farhad_Farhad Farn Farnaghat 
@@ -2413,15 +2517,15 @@ iranian = {
 			Muqanna Nanai Nanaidhvar Nanaifarn_Nanaifarn Nanaikhsay Nanaithvar_Nanaydvar Nanaizanch Nanayakk Nanevante_Nanevante Narisaf Narshakhi Nawchirth 
 			Nibothak_Nibothak Nipak_Nipak Nithan_Nithan Ot-tegin_Ot-tegin Papakk Parsak Parviz_Parviz Pashang_Pashang Patrodhan Pekako Peroz_Peroz Pesakk 
 			Pujman_Pujman Qishiq_Qishiq Ramtish_Ramtish Rashdhes Razmwanwan Resan Rewdhvar Rokhshan_Rokhshan Rostam_Rostam Rutha Sagharak Sas Sasan Satasp 
-			Sesh_Sesh Shahbaz_Shahbaz Shahin_Shahin 沙罗赫_沙赫拉姆 尚斯 沙普尔_沙普尔 绍_绍 申努_申努 希尔奇 Sina_Sina Spadh Spadhkharsh Srawakk 
+			Sesh_Sesh Shahbaz_Shahbaz Shahin_Shahin Shahrokh_Sharokh Shans Shapur_Shapur Shaw_Shaw Shennu_Shennu Shirch Sina_Sina Spadh Spadhkharsh Srawakk 
 			Stayidh Suryakk Tahmasb_Tahmasb Takhsich Takhsichvandak Takut Tarkhun_Tarkhun Taw Tir Tishtrya_Tishtrya Tishvandak Turghar_Turghar Ukhushukan_Ukhushukan 
 			Urak_Urak Vagh Vaghrew Vahhab_Vahhab Varshasb_Varshasb Varzak_Varzak Varzirak Vishtasb_Vishtasb Viyus_Viyus Vuvva Wakhunam Wakhushakk Wakhushu Wanenak 
-			Wankaway Wankhanak_Wankhanak Wanrazmak Wanwans Wishaghn Xeykhosrow_Keykhosrow 伊恩_伊恩 Zand_Zand Zartosht_Zartosht Zymt_Zymt
+			Wankaway Wankhanak_Wankhanak Wanrazmak Wanwans Wishaghn Xeykhosrow_Keykhosrow Y抧_Y抧 Zand_Zand Zartosht_Zartosht Zymt_Zymt
 		}
 		female_names = {
-			娜娜 乌帕奇 安 康格
+			Nana Upach An Kang
 			
-			Aghatzak Anakhit 阿尔迦万_亚萨 巴娜弗谢赫_巴纳夫瑟  Chat_Chat Chatis Chet Chinanch Darya_Darya Funa_Funa Furuzan_Furuzan Ghamze_Ghamze Ghoncheh_Ghoncheh 
+			Aghatzak Anakhit Arghavan_Arghavan Banafsheh_Banafsheh Chat_Chat Chatis Chet Chinanch Darya_Darya Funa_Funa Furuzan_Furuzan Ghamze_Ghamze Ghoncheh_Ghoncheh 
 			Golbahar_Golbahar Golshan_Golshan Khansch Makh Mah_Mah Mahtab_Mahtab Miwnay Nana_Nana Nanai_Nanai Nanaidhat Navvaba_Navvaba Nazgol_Nazgol 
 			Nazilla_Nazilla Parvaneh_Parvaneh Parvin_Parvin Ranisa Roxana_Roxana Sanakhram Shahrzad_Shahrzad Shahzadeh_Shahzadeh Shayn Shirin_Shirin Touran_Touran 
 			Yasaman_Yasaman Yena_Yena
@@ -2445,21 +2549,21 @@ iranian = {
 		
 		male_names = {
 			#Tocharian B
-			Airawanta Ajatasatru Ajite Alp_Alp Ambare_Ambara Amprasarme Amraraksite Amrodane Anande Anathapindike Aniruddhe Andhave Anktsas Arjune_Arjuna Aranemi Arnyartate Arslam_Arslan Arthadarsi Aryamarg Aryaske Aryatewe Aryawarme Aryottame Asokamitre Asokaraksite Asoke_Ashoka Asatte Astawi Atakke Atidivakare Atyuccagami Atraikatte Bimbasare Caitike Caiytiska Cakravar Cakule Candramukhe Candravasu Candre Caracate Cina Cinatyuti Citre Cittaraksite Cowaske Dandakamal Devarakste Dhanike Dharma_Dharma Dharmacandre Dharmadase Dharmakame Dharmakamiske Dharmaraksite Dharmasome Dharmatrate Dharmawarme Dipankar Dirghanakhe Dravyasvare Durmukhe Ekasrinke Erksole Esmi Etrise Gayakasyape Gayasirs Gaye_Gaya Gunacamdre Gunasampade Hariscandre Hastake Hetubalike Indradhvaje Indratewe Indre_Indra Indriske Issapake Jatisrone Jetavam Junacamndre Junaghose Junakame Junakupte Junamokse Junasene Junasome Junasthite Junawirye Kadike Kalodaye Kalyanamokse Kalyanavraddhi Kalyanawartane Kanake_Kanaka Kanaske Kanthate Kapilavarne Kapilavastu Kas Kasyap Katakarni Kaundinye
-			Kauravye Kausal Kemarcune Kentarske Kercampey Kercapiske Kerdipole Kereptate Kim Klenkarako Klpapatre Klyotiska Kotile Koysam Ksemankare Ksmarjune Ksmawarme Ksmate Ksmateworsa Ksmika Kulkera Kumarapunye Kumpante Kunacamttrakau Kunacamttre Kwirapabhadra_Virabhadra Lariska Mahasammate Mahisvare Manisvare Mitrakseme Mitraske Mitre Moksasene Moksasome Moksawarme Molyoke Mukalanti Munkhare Murdhagate Nandabala Nandake Nande_Nanda Nandipale Nasme Nautte Naradeve Nuarot Nupura Nyagrodhe Padmakesar Padmottare Pakacandre Parasikhi Pawaske Pesane Prabhankare Prabhase Pranada Prasamnake
-			Pravare_Pravara Priyadeve Ptompile Puuiyse Puukame Puuraksite Putcamndre Punyamitre Purtas Rahule_Rahula Raktadewe Ratnacuda Ratnasikhi Rsivadam Rudramukhe Rudrasarme Sagare Samantatir Samcite Samghatrate Sanavasi Sanghasarme Sankene Sanum Saputanase Sarasike Sarmacamdre Sarsire Satuma Satyake Satyaraksite Siddharthe_Siddhartha Sidhasamgha Siladewe Silamitre Silarakite Silaraksi Silasoma Silavande Silawarne Silayase Silopake Simpraye Sirake Sinke Sinku Skanatatte Skwarle Slacamndre Solarke Some Srestake Sudarse Sudas Suddhodane Sujate Sukase Suklodane Sunaksatre Sunetre Sutasome Sutate Swarnabuspe Swarnatepe Tarmacandre Tarmaraksite Tenare Tohkem Tonke Tukik Tunka_Tunka Tusi Udanalankar Udayi Ulkamukhe Uluke Upage Upagupte Upanande
-			Uposathe Urbilvakasyape Uttaraphalguni Uttare Vaisravane Vaitike Varddhane Vidusake Vimalapuspe Vinaise Visale Wamsok Warwattaske Watyaruci Watyasene Wasampile Wasave Wiryadewe Wiryamitre Wiryasanti Wiryasit Wisikke Wrauske Yanayase Yarpalake Yasa Yasawine Yase Yasonaka Yastare Yiswe_Jesus Yonge Yonu Ype Yudhisthire Yugaraje
+			Airawanta Ajatasatru Ajite Alp_Alp Ambare_Ambara Ampr?tasarme Amr?taraksite Amr?todane Anande Anathapindike Aniruddhe Andhave Anktsas Arjune_Arjuna Aranemi Arnyartate Arslam_Arslan Arthadarsi Aryamarg Aryaske Aryatewe Aryawarme Aryottame Asokamitre Asokaraksite Asoke_Ashoka As?rte Astawi Atakke Atidivakare Atyuccagami Atraikatte Bimbasare Caitike Caiytiska Cakravar Cakule Candramukhe Candravasu Candre Caracate Cina Cinatyuti Citre Cittaraksite Cowaske Dandakamal Devarakste Dhanike Dharma_Dharma Dharmacandre Dharmadase Dharmakame Dharmakamiske Dharmaraksite Dharmasome Dharmatrate Dharmawarme Dipankar Dirghanakhe Dravyasvare Durmukhe Ekasrinke Erk?tsole Esmi?e Etrise Gayakasyape Gayasirs Gaye_Gaya Gunacamdre Gunasampade Hariscandre Hastake Hetubalike Indradhvaje Indratewe Indre_Indra Indriske Issapake Jatisrone Jetavam J?anacamndre J?anaghose J?anakame J?anakupte J?anamokse J?anasene J?anasome J?anasthite J?anawirye Kadike Kalodaye Kalyanamokse Kalyanavraddhi Kalyanawartane Kanake_Kanaka Kanaske Kanth?ke Kapilavarne Kapilavastu Kas Kasyap Katakarni Kaundinye
+			Kauravye Kausal Kemarcune Kentarske Kercampey Kercapiske Kerdipole Kerepta??e Kim?e Klenkarako Klpapatre Klyotiska Kotile Koysam Ksemankare Ksmarjune Ksmawarme Ksmate Ksmateworsa Ksmika Kulkera Kumarapunye Kumpante Kunacamttrakau Kunacamttre Kwirapabhadra_Virabhadra Lariska Mahasammate Mahisvare Manisvare Mitrakseme Mitraske Mitre Moksasene Moksasome Moksawarme Molyoke Mukalanti Munkhare Murdhagate Nandabala Nandake Nande_Nanda Nandipale Nasme ?atte Naradeve ?irot Nupura Nyagrodhe Padmakesar Padmottare Pakacandre Pa?casikhi Pawaske Pesane Prabhankare Prabhase Pranada Prasamnake
+			Pravare_Pravara Priyadeve Ptompile Pu?aiyse Pu?akame Pu?araksite Pu?icamndre Punyamitre Purtas Rahule_Rahula Raktadewe Ratnacuda Ratnasikhi Rsivadam Rudramukhe Rudrasarme Sagare Samantatir Samcite Samghatrate Sanavasi Sanghasarme Sankene Sanum Saputanase Sarasike Sarmacamdre Sarsire Satuma Satyake Satyaraksite Siddharthe_Siddhartha Sidhasamgha Siladewe Silamitre Silarakite Silaraksi Silasoma Silavande Silawarne Silayase Silopake Simpraye Si?cake Sinke Sinku Skanatatte Skwarle Slacamndre Solarke Some Srestake Sudarse Sudas Suddhodane Sujate Sukase Suklodane Sunaksatre Sunetre Sutasome Sutate Swarnabuspe Swarnatepe Tarmacandre Tarmaraksite Tenare Tohkem Tonke Tukik Tunka_Tunka Tusi Udanalankar Udayi Ulkamukhe Uluke Upage Upagupte Upanande
+			Uposathe Urbilvakasyape Uttaraphalguni Uttare Vaisravane Vaitike Varddhane Vidusake Vimalapuspe Vinaise Visale Wamsok Warwattaske W?ryaruci W?ryasene Wasampile Wasave Wiryadewe Wiryamitre Wiryasanti Wiryasi?i Wisikke Wrauske Yanayase Yarpal?ske Yasa Yasawine Yase Yasonaka Yastare Yiswe_Jesus Yonge Yonu Ype Yudhisthire Yugaraje
 		}
 		female_names = {
 			#Tocharian B
-			Amprasene Amrasene Arjuna Arunavati Aryakose Aryaraksite Ayardhyame Bhadra Cara Dhrtirastre Juti Kolite Kosthile Malika_Malika Maya_Maya Nagasene Priyasarini Punyasene Purike Purnaya Purohite Putere Ratnaska Revati Roce Saci Santa Santisene Sari Sthulananda Sudarsane Sumagati Sumaise Sumati Sundari Suwarte Tarma_Dharma Tarmawir Tattvisara Tati_Tati Tisye Upatisye Uppal Uppalavarna Vajrapani_Vajrapani Vasisthe Vitasake Yasaraksite Yasodhara
+			Ampr?tasene Amr?tasene Arjuna Arunavati Aryakose Aryaraksite Ayardhyame Bhadra Ca?ca Dhrtirastre J?ati Kolite Kosthile Malika_Malika Maya_Maya Nagasene Priyasarini Punyasene Purike Purnaya Purohite Putere R?knaska Revati Roce Saci Santa Santisene Sari Sthulananda Sudarsane Sumagati Sumaise Sumati Sundari Suwarte Tarma_Dharma Tarmawir?e T?rtvisara Tati_Tati Tisye Upatisye Uppal Uppalavarna Vajrapani_Vajrapani Vasisthe Vitasake Yasaraksite Yasodhara
 		}
 		
 		dukes_called_kings = yes
 		founder_named_dynasties = yes
 
 		from_dynasty_prefix = "mem "
-		male_patronym = "soy?"
+		male_patronym = "索亚 "
 		female_patronym = "tkacer "
 
 		modifier = default_culture_modifier
@@ -2472,20 +2576,30 @@ iranian = {
 		color = { 0.3 0.35 0.1 }
 
 		male_names = {
-			阿巴斯 阿布哈桑 阿夫沙尔 艾哈迈德 亚格伯 安拉-威尔第 阿里 阿拉亚尔 阿明 阿努希尔凡 阿拉姆 阿达凡 阿达希尔 阿萨德 奥朗 阿耶萨 巴巴克 巴赫曼
-			巴赫拉姆 贝赫拉德 贝赫鲁兹 博佐尔格 达勒布 达里乌什 达乌德_大卫 易卜拉欣 伊赫桑 埃斯凡迪亚尔 伊斯坎德尔_亚历山大 伊斯马'伊尔 法拉马兹 法拉兹 法里德 法尔哈德 法里博尔兹
-			法鲁赫 法鲁赫扎德 法尔扎德 法特赫 费尔多斯 费里敦 格霍巴德 霍拉姆 戈达尔兹 哈菲兹 哈桑 希达亚特 霍尔马兹德 霍尔木兹 侯赛因
-			胡马雍 贾汗达尔 贾汉吉尔 贾汉沙 贾姆希德 卡姆比兹 卡姆朗 卡沃斯 凯霍巴德 哈尔曼达 哈沙亚尔 胡达达德 霍斯劳
-			胡达亚尔 胡尔希德 库鲁希 马哈茂德 马努希赫尔 马萨德 默赫拉布 默赫扎德 默罕默德 穆拉德 莫尔塔礼 穆扎法尔 纳德 纳维德 内扎姆 帕尔维兹 佩罗兹
-			普伊曼 礼萨 洛斯达姆 鲁霍拉 萨德里 萨尔曼 沙哈比 沙赫巴兹 沙欣 沙赫拉姆 沙赫鲁兹 沙赫尔亚尔 沙普尔 沙雅恩 西纳 塔哈马斯卜 瓦哈布 瓦希德
-			瓦里 瓦尔沙斯布 维什塔斯布 尤塞夫 扎哈克 扎卡里亚 赞德 齐阿
+			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek_Babak Bahman Behrad Behram_Bahram Behrouz Bext?yar_Bakhtiar Bozorg Cehandar_Jahandar Cehangir_Jahangir
+			Cehan?ah_Jahanshah Cem??d_Jamshid Cevid_Javeed Dan??_Danush Darab Dary??_Darius Davud_David Ebrahim_Abraham Efrasiyab_Afrasiyab Ef?er_Afshar Ehmed_Ahmad Ehsan
+			Ekber_Akbar El?_Ali En??irwan_Anushirvan Erdehan_Ardahan Erdewan_Ardavan Erde??r_Ardeshir Esfendiyar_Esfandiar
+			Eskander_Alexander E?ot_Ashot Eyyub_Ayyub Feramez_Faramarz Feraz_Faraz Fath Ferhad_Farhad Ferhan_Farhan Ferheng_Farhang Feriburz_Fariborz Fer?d_Farid
+			Fer?dun_Feridun Ferux_Farroukh Feruxzad_Farrukhzad Ferzad_Farzad Fezl_Fadl Fezlun_Fadlun Firdews_Ferdows Ghobad Gholam Godarz Go?tasp_Goshtasb Hezarhesp_Hazarasp Hafez Hedayat
+			Hesen_Hasan Hisên_Hussein Hormoz Hosen_Hossein Humayun Hurmiz_Hormazd ?sma?l_Ismail Kambiz Kamran Keyghobad Keyxusrew_Keykhosrau Kavus_Kavoos
+			K?ru?ê_Cyrus Mamlan_Muhammad Mashad Mehm?d_Mahmud Mehrab Mehrzad Mens?r_Mansur Men??ihr_Manuchihr Men??ihr_Manushihr Merwan_Marwan Merzuban_Marzuban Mes?d_Masud
+			Mihemed_Muhammad M?rza_Mirza Mistefa_Mustafa Murad_Morad Morteza Mozaffar Nard Naveed Nawid Nesir_Nazir
+			Nesr_Nasr Nezam No??rwan_Nawshirwan Nê??rvan_Nechirwan Parviz Pujman Pê?eng_Pashang P?roz_Peroz Revend_Rawwad Reza Ruhollah Rustam_Rostam Sadri Salman Sina Surxap_Surkhab Tahmasp_Tahmasb
+			Vahhab Vahid Vahusdan_Wahustan Vali Var?asp_Varshasb V??tap_Vishtasb Xarmandar_Kharmandar Xa?ayar_Khashayar 
+			Xur??d_Khurshid Xusrew_Khosrau Xu?yar_Hooshyar Xwedadad_Khodadad Xwedayar_Khudayar Yez?d_Yazid Yousef Zahak Zakaria Zand Zerde?t_Zartosht Zia
+			?ad?_Shadhi ?ahab_Shahab ?ahbaz_Shahbaz ?ahen?ah_Shahanshah ?ahin_Shahin ?ahram_Shahram ?ahryar_Shahryar ?ahrux_Shahrokh ?ahruz_Shahruz ?apur_Shapur ?arvin_Sharwin ?awur_Shavur ?ayan_Shayan ??rk?h_Shirkuh
 		}
 
 		female_names = {
-			艾福萨那 艾胡 亚萨 阿扎德 巴哈尔 巴纳夫瑟 贝赫纳兹 达里娅 德拉瑞姆 德尔巴 黛娜 多尼亚 伊尔哈姆 伊尔纳兹 法拉赫 法里德 法纳兹 法琳 法尔瓦
-			福鲁赞 加扎勒 戈尔巴哈 戈尔纳兹 戈尔帕里 戈尔珊 哈姆达姆 胡尔马特 贾米莱 贾瓦尼 蕾拉 玛赫多克特 玛赫塔布 玛丽亚姆
-			纳瓦巴 纳兹戈尔 纳兹拉 诺尔 帕尔瓦尼 帕尔文 佩蒂芙妮耶尔 罗莎诺拉 罗克珊娜 萨洛梅 沙赫尔扎德 沙赫兹扎德 希林 苏拉娅 图兰
-			图兰多克特 亚萨曼 耶克塔 泽伊娜布
+			Adan Adar Ara Ardil Arezo Arezu Ariyan Arêz Ar?man Ar?n Asan Asteng Asê Avan Azad? Azr?n A?t? Badil Bahar Balnex??n Banê Bar?n Bawan Baziyan Bazê Befraw Befr?n Beg?xan Belal?k Belqis
+			Bel?can Benav Benaz Berbij?n Berdar Berdil Bers?n Ber?can Bex??n Beyan Beyb?n Beyb?n Bez?n Bihar Bij?n Bilêse Binar Binav Binef? Binev? Biyan Bi?koj Bi?kur?n Bohar Bênaz Bêr?can Bêr?van Burandoxt_Pourandokht
+			Deng?n Derav Derz?n Desmal Devken Dilar Dilaram Dilare Dilawaz Dilber Dilcan Dildar Dilgerm Dilistan Dilkan? Dilnaz Dilv?n Dilxo? Dilxwe? Diyar? Doman Dêrsim D?lan D?ristan Esmercan Esmerxan 
+			Estêre Ev?n Ewr?n Ey?an Ezcan Felek Fener Fera??n Firmêsk F?dan Gaz? Gelavêj Gerdengaz Gozel Gozê Gr?van Guhtem Gulbehar_Golbahar Gul?en Gulnar Gulnaz_Golnaz Gêlas Helez Heliz Helv?n Hemay?l 
+			Kejê Keser Kevok Kev? Kewser Kez?zer Ko?er Leylê Leym?n Lez?n Lolav Lorkê Lor? Lor?can Lor?n Lêlav Lêvken L?lyan L?za Ma?a Mebest Mehr?ban Mehr?can Mehr?van
+			Mejb?r Mendal Mercam Mer?van Mirar?xan Miryem_Mariam Mizg?n Muhabad Mêmê Mêrd?n Mêxek M?dya M?ran Nar?man Nar?ncan Navbihar Nawxo? Naz Nazdar Nazen?n Nazgul_Nazgol Nazik Naznaz Nazê Nermê Nerm?n Nesr?n Newbohar Nex??n
+			Ne?m?l Ne?m?n Norcan Nêrgiz Nêr?n Nêz?k N?dar N?gar N?roj N??an N??t?man Perj?n Perv?n Perwane_Parvaneh Perw?n Per?em Per? Per?gul Per?naz Per?xan Per??an Pex?an Peyman Pirj?n Pir?eng Pir?ing Pore Por?eng Pêl?n P?roz P??eng 
+			Rana Reng?n Rew?a Rew?en Rihan Rindê Rojhelat Rojê Ronah? Ronak Rondik Rêj?n Rêzan R?han R?ken R?ciwan R?ge? R?ken R?zer?n Sarê Serbar Sercan Serferaz Serfiraz Sergul Ser?inar Seyran Xat?n 
+			Xêl?can Xon?e_Ghoncheh Zern??an Zerya Zerê Zer? Zer?xan Zeyt?n Zeyt?n Zilfê Zoya Zozan Zêr?n Z?lan Z?net Z?nê ?ana ?anaz ?ayan ?ehr?ban ?elal ?emam ?engê ?epal ?epirze ?erm?n ?evba ?ev?n ?êlaz ??lan ??n? ??wen
 		}
 		
 		dynasty_title_names = yes
@@ -2506,14 +2620,30 @@ iranian = {
 		color = { 0.6 0.6 0.1 }
 
 		male_names = {
-			阿巴斯 阿巴哈桑 阿拉萨_威尔第 阿里哈亚 阿明 亚兰 阿萨德 阿让 Ayeshah 阿扎德 巴曼 巴哈德 巴哈姆_巴哈姆 贝洛兹 巴赫蒂亚尔 达拉卜 大流士 大屋德 易卜拉欣_亚伯拉罕 阿夫沙尔 阿里西林_穆罕默德 伊赫桑
-			安拉胡_阿克巴  莫尔塔扎 哈菲兹·希达亚特 费尔頳_费尔頳 蝧马频_卡姆兰 鹯冰 马什哈德 甘松 帕尔维兹 萨德里_萨尔曼 优素福 扎卡里亚赞德 齐亚
+			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek_Babak Bahman Behrad Behram_Bahram Behrouz Bext?yar_Bakhtiar Bozorg Cehandar_Jahandar Cehangir_Jahangir
+			Cehan?ah_Jahanshah Cem??d_Jamshid Cevid_Javeed Dan??_Danush Darab Dary??_Darius Davud_David Ebrahim_Abraham Efrasiyab_Afrasiyab Ef?er_Afshar Ehmed_Ahmad Ehsan
+			Ekber_Akbar El?_Ali En??irwan_Anushirvan Erdehan_Ardahan Erdewan_Ardavan Erde??r_Ardeshir Esfendiyar_Esfandiar
+			Eskander_Alexander E?ot_Ashot Eyyub_Ayyub Feramez_Faramarz Feraz_Faraz Fath Ferhad_Farhad Ferhan_Farhan Ferheng_Farhang Feriburz_Fariborz Fer?d_Farid
+			Fer?dun_Feridun Ferux_Farroukh Feruxzad_Farrukhzad Ferzad_Farzad Fezl_Fadl Fezlun_Fadlun Firdews_Ferdows Ghobad Gholam Godarz Go?tasp_Goshtasb Hezarhesp_Hazarasp Hafez Hedayat
+			Hesen_Hasan Hisên_Hussein Hormoz Hosen_Hossein Humayun Hurmiz_Hormazd ?sma?l_Ismail Kambiz Kamran Keyghobad Keyxusrew_Keykhosrau Kavus_Kavoos
+			K?ru?ê_Cyrus Mamlan_Muhammad Mashad Mehm?d_Mahmud Mehrab Mehrzad Mens?r_Mansur Men??ihr_Manuchihr Men??ihr_Manushihr Merwan_Marwan Merzuban_Marzuban Mes?d_Masud
+			Mihemed_Muhammad M?rza_Mirza Mistefa_Mustafa Murad_Morad Morteza Mozaffar Nard Naveed Nawid Nesir_Nazir
+			Nesr_Nasr Nezam No??rwan_Nawshirwan Nê??rvan_Nechirwan Parviz Pujman Pê?eng_Pashang P?roz_Peroz Revend_Rawwad Reza Ruhollah Rustam_Rostam Sadri Salman Sina Surxap_Surkhab Tahmasp_Tahmasb
+			Vahhab Vahid Vahusdan_Wahustan Vali Var?asp_Varshasb V??tap_Vishtasb Xarmandar_Kharmandar Xa?ayar_Khashayar 
+			Xur??d_Khurshid Xusrew_Khosrau Xu?yar_Hooshyar Xwedadad_Khodadad Xwedayar_Khudayar Yez?d_Yazid Yousef Zahak Zakaria Zand Zerde?t_Zartosht Zia
+			?ad?_Shadhi ?ahab_Shahab ?ahbaz_Shahbaz ?ahen?ah_Shahanshah ?ahin_Shahin ?ahram_Shahram ?ahryar_Shahryar ?ahrux_Shahrokh ?ahruz_Shahruz ?apur_Shapur ?arvin_Sharwin ?awur_Shavur ?ayan_Shayan ??rk?h_Shirkuh
 		}
 
 		female_names = {
-			阿迪拉 阿西娅 阿姆莎 哈比巴 哈妮法 贾海拉 卡马拉 莱拉 玛丽亚姆 纳菲萨 卡马拉 拉菲卡 萨巴 赛义德 塔利巴 雅丝明
-			帕兰德 佩玛尼赫 佩万德 拉萨 拉西达萨赫巴 萨米拉 塞塔拉 莎赫巴诺 莎拉拉赫
-			谢瓦 索戈法 索拉 索拉赫 西敏 苏赞 塔纳兹 塔宁 雅佳娜 雅卡塔
+			Adan Adar Ara Ardil Arezo Arezu Ariyan Arêz Ar?man Ar?n Asan Asteng Asê Avan Azad? Azr?n A?t? Badil Bahar Balnex??n Banê Bar?n Bawan Baziyan Bazê Befraw Befr?n Beg?xan Belal?k Belqis
+			Bel?can Benav Benaz Berbij?n Berdar Berdil Bers?n Ber?can Bex??n Beyan Beyb?n Beyb?n Bez?n Bihar Bij?n Bilêse Binar Binav Binef? Binev? Biyan Bi?koj Bi?kur?n Bohar Bênaz Bêr?can Bêr?van Burandoxt_Pourandokht
+			Deng?n Derav Derz?n Desmal Devken Dilar Dilaram Dilare Dilawaz Dilber Dilcan Dildar Dilgerm Dilistan Dilkan? Dilnaz Dilv?n Dilxo? Dilxwe? Diyar? Doman Dêrsim D?lan D?ristan Esmercan Esmerxan 
+			Estêre Ev?n Ewr?n Ey?an Ezcan Felek Fener Fera??n Firmêsk F?dan Gaz? Gelavêj Gerdengaz Gozel Gozê Gr?van Guhtem Gulbehar_Golbahar Gul?en Gulnar Gulnaz_Golnaz Gêlas Helez Heliz Helv?n Hemay?l 
+			Kejê Keser Kevok Kev? Kewser Kez?zer Ko?er Leylê Leym?n Lez?n Lolav Lorkê Lor? Lor?can Lor?n Lêlav Lêvken L?lyan L?za Ma?a Mebest Mehr?ban Mehr?can Mehr?van
+			Mejb?r Mendal Mercam Mer?van Mirar?xan Miryem_Mariam Mizg?n Muhabad Mêmê Mêrd?n Mêxek M?dya M?ran Nar?man Nar?ncan Navbihar Nawxo? Naz Nazdar Nazen?n Nazgul_Nazgol Nazik Naznaz Nazê Nermê Nerm?n Nesr?n Newbohar Nex??n
+			Ne?m?l Ne?m?n Norcan Nêrgiz Nêr?n Nêz?k N?dar N?gar N?roj N??an N??t?man Perj?n Perv?n Perwane_Parvaneh Perw?n Per?em Per? Per?gul Per?naz Per?xan Per??an Pex?an Peyman Pirj?n Pir?eng Pir?ing Pore Por?eng Pêl?n P?roz P??eng 
+			Rana Reng?n Rew?a Rew?en Rihan Rindê Rojhelat Rojê Ronah? Ronak Rondik Rêj?n Rêzan R?han R?ken R?ciwan R?ge? R?ken R?zer?n Sarê Serbar Sercan Serferaz Serfiraz Sergul Ser?inar Seyran Xat?n 
+			Xêl?can Xon?e_Ghoncheh Zern??an Zerya Zerê Zer? Zer?xan Zeyt?n Zeyt?n Zilfê Zoya Zozan Zêr?n Z?lan Z?net Z?nê ?ana ?anaz ?ayan ?ehr?ban ?elal ?emam ?engê ?epal ?epirze ?erm?n ?evba ?ev?n ?êlaz ??lan ??n? ??wen
 		}
 		
 		dynasty_title_names = yes
@@ -2533,16 +2663,30 @@ iranian = {
 		color = { 0.4 0.4 0.05 }
 
 		male_names = {
-			阿里夫 阿卜杜勒-加富尔 阿卜杜勒-贾勒尔 阿卜杜勒-卡迪尔 阿卜杜勒-瓦哈布 阿卜杜拉 阿布拜克尔 阿金 阿里 阿卜杜勒-瓦哈布 穆罕默德 阿里姆 阿拉姆 阿扎姆 巴希尔
-			布尔哈纳丁 法迪尔 法德勒 法鲁克 加利卜 哈菲兹 哈利尔 哈桑 胡萨姆 侯赛因 易卜拉欣 穆克塔尔 伊德里斯 伊斯迈尔 伊萨 贾比尔贾里尔 贾布里勒 海尔丁
-			哈利勒 马哈茂德 曼苏尔 米里亚娜 穆巴拉克 马赫迪 穆克塔尔 穆拉德 穆萨 穆扎法拉丁 纳吉布 萨米 纳斯尔 奈赞 拉马丹 萨拉丁
-			萨迪克 萨米尔 沙米尔 苏莱曼 塔利布 乌拜德 乌韦斯 亚库布 尤素福
+			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek_Babak Bahman Behrad Behram_Bahram Behrouz Bext?yar_Bakhtiar Bozorg Cehandar_Jahandar Cehangir_Jahangir
+			Cehan?ah_Jahanshah Cem??d_Jamshid Cevid_Javeed Dan??_Danush Darab Dary??_Darius Davud_David Ebrahim_Abraham Efrasiyab_Afrasiyab Ef?er_Afshar Ehmed_Ahmad Ehsan
+			Ekber_Akbar El?_Ali En??irwan_Anushirvan Erdehan_Ardahan Erdewan_Ardavan Erde??r_Ardeshir Esfendiyar_Esfandiar
+			Eskander_Alexander E?ot_Ashot Eyyub_Ayyub Feramez_Faramarz Feraz_Faraz Fath Ferhad_Farhad Ferhan_Farhan Ferheng_Farhang Feriburz_Fariborz Fer?d_Farid
+			Fer?dun_Feridun Ferux_Farroukh Feruxzad_Farrukhzad Ferzad_Farzad Fezl_Fadl Fezlun_Fadlun Firdews_Ferdows Ghobad Gholam Godarz Go?tasp_Goshtasb Hezarhesp_Hazarasp Hafez Hedayat
+			Hesen_Hasan Hisên_Hussein Hormoz Hosen_Hossein Humayun Hurmiz_Hormazd ?sma?l_Ismail Kambiz Kamran Keyghobad Keyxusrew_Keykhosrau Kavus_Kavoos
+			K?ru?ê_Cyrus Mamlan_Muhammad Mashad Mehm?d_Mahmud Mehrab Mehrzad Mens?r_Mansur Men??ihr_Manuchihr Men??ihr_Manushihr Merwan_Marwan Merzuban_Marzuban Mes?d_Masud
+			Mihemed_Muhammad M?rza_Mirza Mistefa_Mustafa Murad_Morad Morteza Mozaffar Nard Naveed Nawid Nesir_Nazir
+			Nesr_Nasr Nezam No??rwan_Nawshirwan Nê??rvan_Nechirwan Parviz Pujman Pê?eng_Pashang P?roz_Peroz Revend_Rawwad Reza Ruhollah Rustam_Rostam Sadri Salman Sina Surxap_Surkhab Tahmasp_Tahmasb
+			Vahhab Vahid Vahusdan_Wahustan Vali Var?asp_Varshasb V??tap_Vishtasb Xarmandar_Kharmandar Xa?ayar_Khashayar 
+			Xur??d_Khurshid Xusrew_Khosrau Xu?yar_Hooshyar Xwedadad_Khodadad Xwedayar_Khudayar Yez?d_Yazid Yousef Zahak Zakaria Zand Zerde?t_Zartosht Zia
+			?ad?_Shadhi ?ahab_Shahab ?ahbaz_Shahbaz ?ahen?ah_Shahanshah ?ahin_Shahin ?ahram_Shahram ?ahryar_Shahryar ?ahrux_Shahrokh ?ahruz_Shahruz ?apur_Shapur ?arvin_Sharwin ?awur_Shavur ?ayan_Shayan ??rk?h_Shirkuh
 		}
 
 		female_names = {
-			阿迪拉 阿西娅 阿姆莎 哈比巴 哈妮法 贾海拉 卡马拉 莱拉 玛丽亚姆 纳菲萨 卡马拉 拉菲卡 萨巴 赛义德 塔利巴 雅丝明
-			帕兰德 佩玛尼赫 佩万德 拉萨 拉西达萨赫巴 萨米拉 塞塔拉 莎赫巴诺 莎拉拉赫
-			谢瓦 索戈法 索拉 索拉赫 西敏 苏赞 塔纳兹 塔宁 雅佳娜 雅卡塔
+			Adan Adar Ara Ardil Arezo Arezu Ariyan Arêz Ar?man Ar?n Asan Asteng Asê Avan Azad? Azr?n A?t? Badil Bahar Balnex??n Banê Bar?n Bawan Baziyan Bazê Befraw Befr?n Beg?xan Belal?k Belqis
+			Bel?can Benav Benaz Berbij?n Berdar Berdil Bers?n Ber?can Bex??n Beyan Beyb?n Beyb?n Bez?n Bihar Bij?n Bilêse Binar Binav Binef? Binev? Biyan Bi?koj Bi?kur?n Bohar Bênaz Bêr?can Bêr?van Burandoxt_Pourandokht
+			Deng?n Derav Derz?n Desmal Devken Dilar Dilaram Dilare Dilawaz Dilber Dilcan Dildar Dilgerm Dilistan Dilkan? Dilnaz Dilv?n Dilxo? Dilxwe? Diyar? Doman Dêrsim D?lan D?ristan Esmercan Esmerxan 
+			Estêre Ev?n Ewr?n Ey?an Ezcan Felek Fener Fera??n Firmêsk F?dan Gaz? Gelavêj Gerdengaz Gozel Gozê Gr?van Guhtem Gulbehar_Golbahar Gul?en Gulnar Gulnaz_Golnaz Gêlas Helez Heliz Helv?n Hemay?l 
+			Kejê Keser Kevok Kev? Kewser Kez?zer Ko?er Leylê Leym?n Lez?n Lolav Lorkê Lor? Lor?can Lor?n Lêlav Lêvken L?lyan L?za Ma?a Mebest Mehr?ban Mehr?can Mehr?van
+			Mejb?r Mendal Mercam Mer?van Mirar?xan Miryem_Mariam Mizg?n Muhabad Mêmê Mêrd?n Mêxek M?dya M?ran Nar?man Nar?ncan Navbihar Nawxo? Naz Nazdar Nazen?n Nazgul_Nazgol Nazik Naznaz Nazê Nermê Nerm?n Nesr?n Newbohar Nex??n
+			Ne?m?l Ne?m?n Norcan Nêrgiz Nêr?n Nêz?k N?dar N?gar N?roj N??an N??t?man Perj?n Perv?n Perwane_Parvaneh Perw?n Per?em Per? Per?gul Per?naz Per?xan Per??an Pex?an Peyman Pirj?n Pir?eng Pir?ing Pore Por?eng Pêl?n P?roz P??eng 
+			Rana Reng?n Rew?a Rew?en Rihan Rindê Rojhelat Rojê Ronah? Ronak Rondik Rêj?n Rêzan R?han R?ken R?ciwan R?ge? R?ken R?zer?n Sarê Serbar Sercan Serferaz Serfiraz Sergul Ser?inar Seyran Xat?n 
+			Xêl?can Xon?e_Ghoncheh Zern??an Zerya Zerê Zer? Zer?xan Zeyt?n Zeyt?n Zilfê Zoya Zozan Zêr?n Z?lan Z?net Z?nê ?ana ?anaz ?ayan ?ehr?ban ?elal ?emam ?engê ?epal ?epirze ?erm?n ?evba ?ev?n ?êlaz ??lan ??n? ??wen
 		}
 		
 		dynasty_title_names = yes
@@ -2588,14 +2732,17 @@ east_african = {
 		color = { 0.2 0.2 0.1 }
 
 		male_names = {
-			阿里夫 阿卜杜勒-加富尔 阿卜杜勒-贾勒尔 阿卜杜勒-卡迪尔 阿卜杜勒-瓦哈布 阿卜杜拉 阿布拜克尔 阿金 阿里 阿卜杜勒-瓦哈布 穆罕默德 阿里姆 阿拉姆 阿扎姆 巴希尔
-			布尔哈纳丁 法迪尔 法德勒 法鲁克 加利卜 哈菲兹 哈利尔 哈桑 胡萨姆 侯赛因 易卜拉欣 穆克塔尔 伊德里斯 伊斯迈尔 伊萨 贾比尔贾里尔 贾布里勒 海尔丁
-			哈利勒 马哈茂德 曼苏尔 米里亚娜 穆巴拉克 马赫迪 穆克塔尔 穆拉德 穆萨 穆扎法拉丁 纳吉布 萨米 纳斯尔 奈赞 拉马丹 萨拉丁
-			萨迪克 萨米尔 沙米尔 苏莱曼 塔利布 乌拜德 乌韦斯 亚库布 尤素福
+			Abadir Abdale Abdirahman Abdulah_Abdullah Abram Abu-Bakr Adan Adeer Ahmed Ali Amlale Aul Awe
+			Aydahis Balad Baraka Barakat Ciise Dagale Dhidhin Hamalmal Hamar Hamid Hantale Haqq Harire
+			Ibrahim Irir Isman Jamal Kadhafo Kedafu Khalaf Liban Mahammad_Muhammad Mahamed_Muhammed
+			Mahamud_Mahmud Mansur Nahwi Naleye Nassir Nur Omer Sa'ad Sa'adaddin Sabir Sabr Sabraddin
+			Sadiq Salah Siciid Talha Umar Umardin Yayyo Yusuf Zuber_Zubeyr
 		}
 		female_names = {
-			哈贝莎 阿贝巴 阿布里赫特 阿达内赫 阿迪娜 阿拉沃德 阿里塔什 阿马哈拉 阿雅那 巴斯谢巴 贝克勒 贝尔吉斯 博尔哈内 博塔 切伦 奇娜 德布雷 德布特拉 德西
-			德斯塔 狄拉 法拉夏 法拉席娜 法娜 法纳 吉娜特 哈戈斯 雅扎拉 凯拉 卡利勒 克利勒 克伦 克斯 基寇 李珊 罗阿玛 玛格达拉 玛哈伦
+			Aasha Adey Alaso Ambro Amburo Asha Asli Astur Awa Awrala Ayaan Barni Basr Beydaan
+			Billan Canab Cawo Deeqa Delombira Dobira Faadumo Fathia Fawzia Geesi Haweeya Hibaaq
+			Hodan Hoodo Iftiin Jiinow Khadra Ladan Leyla_Laila Libin Luula Magol Maka Mariam
+			Mulki Nasteexo Sagal Sahra Sufia Ubah Ubax Waris Xalwo
 		}
 		
 		founder_named_dynasties = yes
@@ -2611,17 +2758,19 @@ east_african = {
 		color = { 0.35 0.7 0.25 }
 
 		male_names = {
-			阿里夫 阿卜杜勒-加富尔 阿卜杜勒-贾勒尔 阿卜杜勒-卡迪尔 阿卜杜勒-瓦哈布 阿卜杜拉 阿布拜克尔 阿金 阿里 阿卜杜勒-瓦哈布 穆罕默德 阿里姆 阿拉姆 阿扎姆 巴希尔
-			布尔哈纳丁 法迪尔 法德勒 法鲁克 加利卜 哈菲兹 哈利尔 哈桑 胡萨姆 侯赛因 易卜拉欣 穆克塔尔 伊德里斯 伊斯迈尔 伊萨 贾比尔贾里尔 贾布里勒 海尔丁
-			哈利勒 马哈茂德 曼苏尔 米里亚娜 穆巴拉克 马赫迪 穆克塔尔 穆拉德 穆萨 穆扎法拉丁 纳吉布 萨米 纳斯尔 奈赞 拉马丹 萨拉丁
-			萨迪克 萨米尔 沙米尔 苏莱曼 塔利布 乌拜德 乌韦斯 亚库布 尤素福
-			阿巴斯 阿巴哈桑 阿拉萨_威尔第 阿里哈亚 阿明 亚兰 阿萨德 阿让 阿耶沙 阿扎德 巴曼 巴哈德 巴哈姆_巴哈姆 贝洛兹 巴赫蒂亚尔 达拉卜 大流士 大屋德 易卜拉欣_亚伯拉罕 阿夫沙尔 阿里西林_穆罕默德 伊赫桑
-			安拉胡_阿克巴  莫尔塔扎 哈菲兹·希达亚特 费尔頳_费尔頳 蝧马频_卡姆兰 鹯冰 马什哈德 甘松 帕尔维兹 萨德里_萨尔曼 优素福 扎卡里亚赞德 齐亚
+			Aar?n_Aaron Aberikos Abraam_Abraham A?gelos_Angelus Andreas_Andrew Athanasios Bal? Bartholomaios_Bartholomew Birêl Chael Christophoros Dauid_David Dimetheos_Timothy
+			Dioskoros Di?nisios_Dionysus Eliezer Eionkouda Emmanouel_Emmanuel En?ch_Enoch Ephannê Epimachos Epiphanios Gabriel_Gabriel Gabrielkouda Gabrielophorou Gennatios_Gennadius
+			Ge?rgios_George Hêlias_Elias Hoase_Jesse Hoassi_Jesse Hoasse_Jesse Iacob_Jacob Ieremias_Jeremiah Iêsous_Jesus Iêsousinkouda I?annou_Jonah I?annês_John Iordanes_Jordanes Ioseph_Joseph Kalinikos_Kallinikios Kollouthos
+			Krisanthos_Chrystanthos Kuriakos_Kyriakos Kurillos_Cyril Lazaros_Lazarus Leon_Leo Leontios_Leontius Makarios_Makarius Mariana Mariankouda Marianos_Marianus Marios_Marius Markos_Marcus Marturophoros
+			Ma?an?al Maththias_Matthew Mêlênkouda Mena Menankouda Merkourios_Mercurius Michaêl_Michael Michaêlkouda Mouses_Moses Orna Panigiros Papasinen Papasinkouda Patrikios_Patrick
+			Paulos_Paul Petros_Peter Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson Senouthios Sentiko Sergios_Sergius Simeoni_Simon Soizuros Solom?n_Solomon Sotinkouda Stephanos_Stephen
+			Stephanou Thadeosi_Thaddeus Theod?ros_Theodore Theodosios_Theodosius Theodote_Theodat Thoma_Thomas Tophêna Tirsakouni Zacharias_Zachary Zosima_Zosimus
 		}
 		female_names = {
-			阿迪拉 阿西娅 阿姆莎 哈比巴 哈妮法 贾海拉 卡马拉 莱拉 玛丽亚姆 纳菲萨 卡马拉 拉菲卡 萨巴 赛义德 塔利巴 雅丝明
-			帕兰德 佩玛尼赫 佩万德 拉萨 拉西达萨赫巴 萨米拉 塞塔拉 莎赫巴诺 莎拉拉赫
-			谢瓦 索戈法 索拉 索拉赫 西敏 苏赞 塔纳兹 塔宁 雅佳娜 雅卡塔
+			Agathe Alethia Anthelia Athanasia Chaelso?oja Chrissa Christina Douriko Egaloskoura Eikkir Eionmnne Eion?oka Eitou Elisabeth_Elizabeth Eirena Eirene Eirota Eirotatou??lki
+			Entaeiri E?neille Ephannê Epimachosi Eudosia_Eudoxia Eulabia Eusebia Eustephanou Fatima Genseoua Hellene_Helen Hemene Iannia_Joan Iêsousyko Ioustina_Justina Kel Kerike Kersiami Kettoudi
+			Keudonia Kurake_Kyriake Mara?a Maria_Maria Mariam_Maria Mariane Marianou Michaêliko_Michaela ?a??a ?e??adena ?ejin ?ilesa ?ojjl ?oltou ?onne ?onnen ?ouddl ?ssitkitol Ouaren? Patrikia_Patricia Pelagia
+			Penatti Pesanthia Petronia Prisisilla_Priscilla Rahimah Sophia Sousanna Staurophania Theobronia Theodorake Theodosia Theognosta Theophania Theophilia Theipisthe Theozia Zerebekka
 		}
 		
 		founder_named_dynasties = yes
@@ -2685,7 +2834,7 @@ mesoamerican = {
 			约尔金 西隆能 西罗薛奇 修托米亚奥金 薛奇特尔 薛库 薛库尤特狼 雅雷奇 瑟尔金 贤雅
 		}
 		
-		#from_dynasty_prefix = ""
+		#from_dynasty_prefix = " "
 		founder_named_dynasties = yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -2727,7 +2876,7 @@ israelite = {
 			薛伊达 设翁琳 悉帕拉 耶乌迪 耶因迪尔
 		}
 		
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = " "
 
 		modifier = default_culture_modifier
 	}
@@ -2751,7 +2900,7 @@ israelite = {
 			薛伊达 设翁琳 悉帕拉 耶乌迪 耶因迪尔
 		}
 		
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = " "
 
 		modifier = default_culture_modifier
 	}
@@ -2875,33 +3024,27 @@ indo_aryan_group = {
 		color = { 1.0 0.0 0.0 }
 	
 		male_names = {
-			阿姆利陀那罗衍 跋罗婆多 跋梨那罗衍 跋罗梨赛那 跋苏提毗那耶阑 
-			婆迦达多 跋罗般陀罗那罗衍 婆多 跋婆扇迦梨 菩密僧诃 毗梨那罗衍 
-			旃陀罗赛那 旃陀罗那罗衍 旃度 支拉罗伊 
-			达奴阇摩陀婆 达舍罗多提婆 提婆迦达加 提婆波罗 提频陀罗那罗衍 
-			达梨金陀罗那罗衍 达兰陀罗那罗衍 达摩波罗 提利僧诃 
-			迦阇那罗衍 瞿波罗 瞿频达旃陀罗 瞿频达波罗 
-			曷阇 曷兰陀罗那罗衍 曷利提婆那罗衍 曷利耶曼达梨 曷曼多赛那 因陀罗那罗衍 
-			阇度 阇迦提频陀罗那罗衍 阇多迦突伽 阇耶那罗衍 阇耶波罗 什谛陀罗那罗衍 
-			迦梨衍那旃陀罗 迦摩梨那罗衍 稽刹婆赛那 迦陀憍耶摩 迦梨扇密湿罗 迦梨湿那罗耶 
-			鸠摩罗波罗 鸠摩檀那罗衍 罗达曷旃陀罗 罗迦湿曼赛那 拉希米旃陀罗 拉希米那罗衍 罗摩波陀 
-			摩檀那波罗 摩诃陀罗波罗 摩诃陀罗僧诃 摩弃陀罗那罗衍 摩醯波罗 摩拿瓦 牟鸠达那罗衍 
-			那罗那罗衍 那罗僧诃 那罗衍那波罗 那然陀罗那罗衍 那衍波罗 那梨般陀罗那罗衍 
-			波梨迦湿陀那耶楞 菩罗难那罗衍 菩兰那闼 补罗多那罗衍 波罗多那罗衍罗耶 补室迦罗那提波 
-			罗古提婆 罗阇跋多 罗阇迭那迦 罗阇迦那刹 罗金陀罗那罗衍 罗折罗金陀罗那罗衍 罗羯波罗 
-			罗摩波罗 罗摩那多 罗那修罗 兰耆陀僧诃 罗菩那罗衍 楼陀罗那罗衍 
-			沙牟陀罗赛那 扇腻婆迦梨 奢扇迦 湿婆那罗衍 室吠那陀罗那罗衍 输迦罗陀婆 输罗波罗 
-			室利旃陀罗 室利曼多 苏婆梨那旃陀罗 苏伽提婆 苏梨耶那罗衍 钱德拉旃陀罗 
-			优提尔那迦多 优提多那罗衍 优般陀罗那耶楞 婆伽波罗 婆迦多 毗迦罗诃波罗 
-			毗奢耶那罗衍 毗奢耶赛那 毗奢耶僧诃 毗罗阇提那陀罗那罗衍 毗湿伐楼赛那 毗湿伐僧诃
-			婆羯罗毗僧诃 婆吠湿 菩耆室伐梨 提婆僧诃 提利僧诃 提梨室伐梨 
-			犍提室伐梨僧诃 犍俱提婆 曷逻僧诃提婆 曷利僧诃 曷曼陀赛那 
-			迦密室伐梨 吉梨提僧诃 阇育提利室伐罗 罗希曼赛那 罗希密那闼僧诃提婆 摩檀波梨 
-			难耶提婆 那梨僧诃 那梨僧诃提婆 波陀摩僧诃 罗姆婆陀罗僧诃提婆 罗密室伐梨 
-			沙曼陀赛那 沙迦罗僧诃提婆 湿婆僧诃 伐罗利赛那 毗奢耶赛那
-			阿迦腻密陀罗 阿腻诃罗迦 阿育沙 跋伽婆陀罗 毗迦梨 菩弥密陀罗 提婆菩提 瞿沙 瞿波梨 瞿频达波梨 
-			迦赛陀罗利陀 摩诃梨室 摩诃陀罗 摩罗耶陀婆 那罗衍那 菩林陀迦 菩耶密陀罗 
-			沙诃提耶 苏娑梨曼 金刚密陀罗 伐苏提婆 伐苏羯湿檀 婆苏密陀罗
+			Achalraj_Achalraja Achalraja_Achalraja Adhandev Adityadeva Ajmal Alsi Amir Anangpal_Anangpala Anangpala_Anangpala Anupapala_Anupapala 
+			Anuppal_Anupapala "Apara Gangeya" Arjunpal_Arjunpala Arjunpala_Arjunpala Arjunavarman Bacchdev Bachraj Baghpal_Baghpala Baghpala_Baghpala 
+			Bahadur-Singh Beejpal_Beejpala Beejpala_Beejpala Bhaadar Bhilpala Bhoj_Bhoja Bhoja_Bhoja Bhojavarman_Bhoja Bhopal Bhumpal_Bhumpala 
+			Bhumpala_Bhumpala Birpal_Birpala Birpala_Birpala Bisaldeva Brahmadeva Brahmapala Brahmdevpal Chand Devapala Devavarman Dhanga_Dhanga 
+			Dhangadeva_Dhanga Dharmapala Dhaulshaya Dilipapala_Dilipapala Dilippal_Dilipapala Doth Draupad_Draupada Draupada_Draupada Dugarendra 
+			Gambhir Ganapatideva Gandadeva Gangeya Ghatamdeva Gopal_Gopala Gopala_Gopala Govindachandra Govindapala Govindaraja_Govindaraja Govindraj_Govindaraja
+			Hamir Hammiravarman Harpal Harsa_Harsa Harshapala_Harsa Hirapal_Hirapala Hirapala_Hirapala Indrapal_Indrapala Indrapala_Indrapala Ishtpala 
+			Jaganpal_Jaganpala Jaganpala_Jaganpala Jagatpal_Jagatpala Jagatpala_Jagatpala Jagdev_Jagdeva Jagdeva_Jagdeva Jaidas Jaipal Jaitugideva Jasapala_Jasapala 
+			Jaspal_Jasapala Jatanpal_Jatanpala Jatanpala_Jatanpala Jayapala Jayasakti Jayasimha Jayavarman Jhetpal_Jhetpala Jhetpala_Jhetpala Junpala 
+			Kailaspal_Kailaspala Kailaspala_Kailaspala Kalkurna Kalyanachandra Kakhopal_Kakhopala Kakhopala_Kakhopala Kamal Kanhad Kanvarpal_Kanvarpala 
+			Kanvarpala_Kanvarpala Karnpal Keeratdeva Khadag Khetrapal_Khetrapala Khetrapala_Khetrapala Kiratpal_Kiratpala Kiratpala_Kiratpala Krishnray 
+			Krsnapa Kumarapala Kunwar_Kunwar Kunwarpal_Kunwar Ladahachandra Lakshmandeva Lokpala Madanapala Madanavarman Maharana Mahendrapal_Mahendrapala 
+			Mahendrapala_Mahendrapala Mahipal_Mahipala Mahipala_Mahipala Mahipata Mahlakadeva Mandandeva Mangaldeva Margdeva Mihira Nagapala Nagdeo Nannuka 
+			Naravarman Narayanapala Narpal Nayapala Nihaal Nihalray Paramardideva Pavak Peepalraj Popatraj Pritampal_Pritampala Pritampala_Pritampala Prithipala 
+			Prithvi_Prithvi Prithvipal_Prithvi Prithviraj_Prithviraja Prithviraja_Prithviraja Prithvivarman Rahila Rajapala Rajyapala Ramabhadra Ramachandra 
+			Rampal_Rampala Rampala_Rampala Rana Rangraj_Rangraja Rangraja_Rangraja Ratnapala Rijhpala Roshandeva Salivaahan Sallaksanavarman Saugandeva Shurapala 
+			Sisupal_Sisupala Sisupala_Sisupala Sohanpal Somasi Someshvara Sonpal_Sonpala Sonpala_Sonpala Srichandra Subhatavarman Sukhinpal_Sukhinpala 
+			Sukhinpala_Sukhinpala Sulakshanpal Sultanpal_Sultanpala Sultanpala_Sultanpala Surajpal_Surajpala Surajpala_Surajpala Traillokyachandra Tejapala_Tejpal 
+			Tejpal_Tejpal Tolpal Trailokyavarman Trilochanpala Udayaditya Udaysangh Uddharandeva Vachhal Vakpati Vapyata Varshapala_Varshapala Varshpal_Varshapala 
+			Vasudev Vidurathpal_Vidurathpala Vidurathpala_Vidurathpala Vidyadhara Vigrahapala Vigraharaja Vihangpal Vijayapala Vijayasakti Vinayakapala Vindhyavarman 
+			Viramdeva Viravarman Virsinghadeva Yasovarman
 		}
 		female_names = {
 			阿迦尔 阿难多提毗 达摩衍提 达多提毗 提诃那伽提毗 菟楼婆提毗 菟楼婆斯伐密尼 曷摩伐提 
@@ -2932,33 +3075,28 @@ indo_aryan_group = {
 		color = { 0.4 0.2 0.2 }
 	
 		male_names = {
-                   旃陀罗罗阇 梨罗婆罗阇 阇沙波罗 阇耶波罗 阇耶跋摩 摩罗提婆 罗耶波罗 楼陀罗波罗 毗罗摩 毗罗提婆 			阿姆利陀那罗衍 跋罗婆多 跋梨那罗衍 跋罗梨赛那 跋苏提毗那耶阑 
-			婆迦达多 跋罗般陀罗那罗衍 婆多 跋婆扇迦梨 菩密僧诃 毗梨那罗衍 
-			旃陀罗赛那 旃陀罗那罗衍 旃度 支拉罗伊 
-			达奴阇摩陀婆 达舍罗多提婆 提婆迦达加 提婆波罗 提频陀罗那罗衍 
-			达梨金陀罗那罗衍 达兰陀罗那罗衍 达摩波罗 提利僧诃 
-			迦阇那罗衍 瞿波罗 瞿频达旃陀罗 瞿频达波罗 
-			曷阇 曷兰陀罗那罗衍 曷利提婆那罗衍 曷利耶曼达梨 曷曼多赛那 因陀罗那罗衍 
-			阇度 阇迦提频陀罗那罗衍 阇多迦突伽 阇耶那罗衍 阇耶波罗 什谛陀罗那罗衍 
-			迦梨衍那旃陀罗 迦摩梨那罗衍 稽刹婆赛那 迦陀憍耶摩 迦梨扇密湿罗 迦梨湿那罗耶 
-			鸠摩罗波罗 鸠摩檀那罗衍 罗达曷旃陀罗 罗迦湿曼赛那 拉希米旃陀罗 拉希米那罗衍 罗摩波陀 
-			摩檀那波罗 摩诃陀罗波罗 摩诃陀罗僧诃 摩弃陀罗那罗衍 摩醯波罗 摩拿瓦 牟鸠达那罗衍 
-			那罗那罗衍 那罗僧诃 那罗衍那波罗 那然陀罗那罗衍 那衍波罗 那梨般陀罗那罗衍 
-			波梨迦湿陀那耶楞 菩罗难那罗衍 菩兰那闼 补罗多那罗衍 波罗多那罗衍罗耶 补室迦罗那提波 
-			罗古提婆 罗阇跋多 罗阇迭那迦 罗阇迦那刹 罗金陀罗那罗衍 罗折罗金陀罗那罗衍 罗羯波罗 
-			罗摩波罗 罗摩那多 罗那修罗 兰耆陀僧诃 罗菩那罗衍 楼陀罗那罗衍 
-			沙牟陀罗赛那 扇腻婆迦梨 奢扇迦 湿婆那罗衍 室吠那陀罗那罗衍 输迦罗陀婆 输罗波罗 
-			室利旃陀罗 室利曼多 苏婆梨那旃陀罗 苏伽提婆 苏梨耶那罗衍 钱德拉旃陀罗 
-			优提尔那迦多 优提多那罗衍 优般陀罗那耶楞 婆伽波罗 婆迦多 毗迦罗诃波罗 
-			毗奢耶那罗衍 毗奢耶赛那 毗奢耶僧诃 毗罗阇提那陀罗那罗衍 毗湿伐楼赛那 毗湿伐僧诃
-			婆羯罗毗僧诃 婆吠湿 菩耆室伐梨 提婆僧诃 提利僧诃 提梨室伐梨 
-			犍提室伐梨僧诃 犍俱提婆 曷逻僧诃提婆 曷利僧诃 曷曼陀赛那 
-			迦密室伐梨 吉梨提僧诃 阇育提利室伐罗 罗希曼赛那 罗希密那闼僧诃提婆 摩檀波梨 
-			难耶提婆 那梨僧诃 那梨僧诃提婆 波陀摩僧诃 罗姆婆陀罗僧诃提婆 罗密室伐梨 
-			沙曼陀赛那 沙迦罗僧诃提婆 湿婆僧诃 伐罗利赛那 毗奢耶赛那
-			阿迦腻密陀罗 阿腻诃罗迦 阿育沙 跋伽婆陀罗 毗迦梨 菩弥密陀罗 提婆菩提 瞿沙 瞿波梨 瞿频达波梨 
-			迦赛陀罗利陀 摩诃梨室 摩诃陀罗 摩罗耶陀婆 那罗衍那 菩林陀迦 菩耶密陀罗 
-			沙诃提耶 苏娑梨曼 金刚密陀罗 伐苏提婆 伐苏羯湿檀 婆苏密陀罗
+			Abhayapala Acharya Ahila Ajairaja_Jayaraja Ajayapala Ajay-Singh Alhana Allat Amarangeya Ambra-Prasad Amritapala Anahilla 
+			Ari-Singh Arjunavarman Arnoraja Asaraja Asvapala Balaprasada Baliraja Bhatarka Bhert-Patt Bhima_Bhima Bhimadeva_Bhima 
+			Bhim-Singh Bhuvan-Singh Bhoja Bhoo-Chand Chachiga Chamundaraja Chandanaraja Chandraraja Chaud-Singh Dadda Dambarisimha 
+			Deopali-Deo Devapala Dharapatta Dharasena Dharmapala Dhruvasena Dinakarn Dronasinha Dungar-Singh Durlabharaja Gajasimha 
+			Gopala Gopendraka_Gopendraraja Gopendraraja_Gopendraraja Govinda_Govindaraja Govindapala_Govindaraja Govindaraja_Govindaraja 
+			Guhasena Guvaka_Govindaraja Hammira Hammir-Singh Hanspal Hariraja Harischandra Hemachandra Jagadeva Jaitrasimha_Jaitrasimha 
+			Jaitra-Singh_Jaitrasimha Jaitugideva Jasapala Jaskarn Jayapala Jayaraja_Jayaraja Jayasimha_Jayasimha Jay-Singh_Jayasimha 
+			Jay-Singh-Deo Jayat-Singh_Jayasimha Jayavarman Jayshikari Jendraraja Jojalla Kalbhoj Kanhadadeva Karandeva_Karnadeva Karan-Singh 
+			Karnadeva_Karnadeva Katudeva Katukaraja Keerti-Verma_Kirtivarman Kelhana Kharagraha Khuman Kirtipala Kirtivarman_Kirtivarman 
+			Kumarapala Kshemraja_Xemraja Kshem-Singh Kshetra-Singh Kumar-Singh Lakhanapala Lakhshaman-Singh Lakshmana_Lakshmanadeva 
+			Lakshmanadeva_Lakshmanadeva Lakshmivarman Lavanyakarna Lunavarman Luntiga Madanapala Mahap Mahayak Mahendra_Mahendrapala 
+			Mahendrapala_Mahendra Mahipala Mahlakadeva Maladeva Manavasimha Mathan-Singh Mattat Mihira Mulraja Nagabhata Nagarjuna Nagraja 
+			Naradeva Narapati Naravarman_Naravarman Naravarmandeva_Naravarman Narayanapala Nar-Verma_Naravarman Narwahan Nayapala Padam-Singh 
+			Prahladana Pratapa Prithvipal_Prithviraja Prithivipala_Prithviraja Prithviraja_Prithviraja Purnpala Rahap Rajapala Rajyapala 
+			Ramabhadra Ramapala Ratan-Singh Ratnapala Rayapala Rudrapala Sahajapala Sahanapala Samanta_Samanta Samant-Singh_Samanta 
+			Samantasimha_Samanta Samarasimha_Samarasimha Samar-Singh_Samarasimha Shakti-Kumar Shaliwahan Shuchi-Verma Shurapala Siladitya 
+			Sindhuraja Singhraja Sinha Sinhad-Deo Siyaka Sohiya Someshwara Subhatavarman Suratrana Tejasimha_Tejasimha Tej-Singh_Tejasimha 
+			Trailokyavarman Tribhuvanapala Trilochanpala Udayaditya Udayasimha Udayavarman Upendra Vagbhata Vahadiasimha Vairisimha_Vairisimha 
+			Vairsingh_Vairisimha Vajradeva Vakapati_Vakpati Vakpati_Vakpati Vakpatiraja_Vakpati Valhana_Valhanadeva Valhanadeva_Valhanadeva 
+			Vallabharaja Vanraja Vapyata Vasudeva Vatsaraja Vigrahapala Vigraharaja_Vigraharaja Vigrharaja_Vigraharaja Vijada-Dasasyandana 
+			Vijai-Singh Vikramaditya Vinaykpala Vindhyavarman Virama Viradeva Viranarayana Virsinh-Deo Viryarama Xemraja_Xemraja Yasovarman 
+			Yograj
 		}
 		female_names = {
 			安那罗提毗 般罗提毗 菩伊迦提毗 旃陀罗婆多梨迦提毗 旃脂尼提毗 提诃那伽提毗 提梨曷那提毗 提娑罗提毗 曷利耶提毗 拉希密提毗 
@@ -3013,38 +3151,52 @@ indo_aryan_group = {
 		color = { 0.6 0.0 0.0 }
 	
 		male_names = {
-			阿姆利陀那罗衍 跋罗婆多 跋梨那罗衍 跋罗梨赛那 跋苏提毗那耶阑 
-			婆迦达多 跋罗般陀罗那罗衍 婆多 跋婆扇迦梨 菩密僧诃 毗梨那罗衍 
-			旃陀罗赛那 旃陀罗那罗衍 旃度 支拉罗伊 
-			达奴阇摩陀婆 达舍罗多提婆 提婆迦达加 提婆波罗 提频陀罗那罗衍 
-			达梨金陀罗那罗衍 达兰陀罗那罗衍 达摩波罗 提利僧诃 
-			迦阇那罗衍 瞿波罗 瞿频达旃陀罗 瞿频达波罗 
-			曷阇 曷兰陀罗那罗衍 曷利提婆那罗衍 曷利耶曼达梨 曷曼多赛那 因陀罗那罗衍 
-			阇度 阇迦提频陀罗那罗衍 阇多迦突伽 阇耶那罗衍 阇耶波罗 什谛陀罗那罗衍 
-			迦梨衍那旃陀罗 迦摩梨那罗衍 稽刹婆赛那 迦陀憍耶摩 迦梨扇密湿罗 迦梨湿那罗耶 
-			鸠摩罗波罗 鸠摩檀那罗衍 罗达曷旃陀罗 罗迦湿曼赛那 拉希米旃陀罗 拉希米那罗衍 罗摩波陀 
-			摩檀那波罗 摩诃陀罗波罗 摩诃陀罗僧诃 摩弃陀罗那罗衍 摩醯波罗 摩拿瓦 牟鸠达那罗衍 
-			那罗那罗衍 那罗僧诃 那罗衍那波罗 那然陀罗那罗衍 那衍波罗 那梨般陀罗那罗衍 
-			波梨迦湿陀那耶楞 菩罗难那罗衍 菩兰那闼 补罗多那罗衍 波罗多那罗衍罗耶 补室迦罗那提波 
-			罗古提婆 罗阇跋多 罗阇迭那迦 罗阇迦那刹 罗金陀罗那罗衍 罗折罗金陀罗那罗衍 罗羯波罗 
-			罗摩波罗 罗摩那多 罗那修罗 兰耆陀僧诃 罗菩那罗衍 楼陀罗那罗衍 
-			沙牟陀罗赛那 扇腻婆迦梨 奢扇迦 湿婆那罗衍 室吠那陀罗那罗衍 输迦罗陀婆 输罗波罗 
-			室利旃陀罗 室利曼多 苏婆梨那旃陀罗 苏伽提婆 苏梨耶那罗衍 钱德拉旃陀罗 
-			优提尔那迦多 优提多那罗衍 优般陀罗那耶楞 婆伽波罗 婆迦多 毗迦罗诃波罗 
-			毗奢耶那罗衍 毗奢耶赛那 毗奢耶僧诃 毗罗阇提那陀罗那罗衍 毗湿伐楼赛那 毗湿伐僧诃
-			婆羯罗毗僧诃 婆吠湿 菩耆室伐梨 提婆僧诃 提利僧诃 提梨室伐梨 
-			犍提室伐梨僧诃 犍俱提婆 曷逻僧诃提婆 曷利僧诃 曷曼陀赛那 
-			迦密室伐梨 吉梨提僧诃 阇育提利室伐罗 罗希曼赛那 罗希密那闼僧诃提婆 摩檀波梨 
-			难耶提婆 那梨僧诃 那梨僧诃提婆 波陀摩僧诃 罗姆婆陀罗僧诃提婆 罗密室伐梨 
-			沙曼陀赛那 沙迦罗僧诃提婆 湿婆僧诃 伐罗利赛那 毗奢耶赛那
-			阿迦腻密陀罗 阿腻诃罗迦 阿育沙 跋伽婆陀罗 毗迦梨 菩弥密陀罗 提婆菩提 瞿沙 瞿波梨 瞿频达波梨 
-			迦赛陀罗利陀 摩诃梨室 摩诃陀罗 摩罗耶陀婆 那罗衍那 菩林陀迦 菩耶密陀罗 
-			沙诃提耶 苏娑梨曼 金刚密陀罗 伐苏提婆 伐苏羯湿檀 婆苏密陀罗
+			Achalraj_Achalraja Achalraja_Achalraja Adhandev Adityadeva Ajmal Alsi Amir Anangpal_Anangpala Anangpala_Anangpala Anupapala_Anupapala 
+			Anuppal_Anupapala "Apara Gangeya" Arjunpal_Arjunpala Arjunpala_Arjunpala Arjunavarman Bacchdev Bachraj Baghpal_Baghpala 
+			Baghpala_Baghpala Bahadur-Singh Beejpal_Beejpala Beejpala_Beejpala Bhaadar Bhilpala Bhoj_Bhoja Bhoja_Bhoja Bhojavarman_Bhoja 
+			Bhopal Bhumpal_Bhumpala Bhumpala_Bhumpala Birpal_Birpala Birpala_Birpala Bisaldeva Brahmadeva Brahmapala Brahmdevpal Chand Devapala 
+			Devavarman Dhanga_Dhanga Dhangadeva_Dhanga Dharmapala Dhaulshaya Dilipapala_Dilipapala Dilippal_Dilipapala Doth Draupad_Draupada 
+			Draupada_Draupada Dugarendra Gambhir Ganapatideva Gandadeva Gangeya Ghatamdeva Gopal_Gopala Gopala_Gopala Govindachandra Govindapala 
+			Govindaraja_Govindaraja Govindraj_Govindaraja Hamir Hammiravarman Harpal Harsa_Harsa Harshapala_Harsa Hirapal_Hirapala 
+			Hirapala_Hirapala Indrapal_Indrapala Indrapala_Indrapala Ishtpala Jaganpal_Jaganpala Jaganpala_Jaganpala Jagatpal_Jagatpala 
+			Jagatpala_Jagatpala Jagdev_Jagdeva Jagdeva_Jagdeva Jaidas Jaipal Jaitugideva Jasapala_Jasapala Jaspal_Jasapala Jatanpal_Jatanpala 
+			Jatanpala_Jatanpala Jayapala Jayasakti Jayasimha Jhetpal_Jhetpala Jhetpala_Jhetpala Junpala Kailaspal_Kailaspala Kailaspala_Kailaspala 
+			Kalkurna Kalyanachandra Kakhopal_Kakhopala Kakhopala_Kakhopala Kamal Kanhad Kanvarpal_Kanvarpala Kanvarpala_Kanvarpala Karnpal Keeratdeva 
+			Khadag Khetrapal_Khetrapala Khetrapala_Khetrapala Kiratpal_Kiratpala Kiratpala_Kiratpala Krishnray Krsnapa Kumarapala Kunwar_Kunwar 
+			Kunwarpal_Kunwar Ladahachandra Lakshmandeva Lokpala Madanapala Madanavarman Maharana Mahendrapal_Mahendrapala Mahendrapala_Mahendrapala 
+			Mahipal_Mahipala Mahipala_Mahipala Mahipata Mahlakadeva Mandandeva Mangaldeva Margdeva Mihira Nagapala Nagdeo Nannuka Naravarman 
+			Narayanapala Narpal Nayapala Nihaal Nihalray Paramardideva Pavak Peepalraj Popatraj Pritampal_Pritampala Pritampala_Pritampala Prithipala 
+			Prithvi_Prithvi Prithvipal_Prithvi Prithviraj_Prithviraja Prithviraja_Prithviraja Prithvivarman Rahila Rajapala Rajyapala Ramabhadra 
+			Ramachandra Rampal_Rampala Rampala_Rampala Rana Rangraj_Rangraja Rangraja_Rangraja Ratnapala Rijhpala Roshandeva Salivaahan 
+			Sallaksanavarman Saugandeva Shurapala Sisupal_Sisupala Sisupala_Sisupala Sohanpal Somasi Someshvara Sonpal_Sonpala Sonpala_Sonpala 
+			Srichandra Subhatavarman Sukhinpal_Sukhinpala Sukhinpala_Sukhinpala Sulakshanpal Sultanpal_Sultanpala Sultanpala_Sultanpala Surajpal_Surajpala 
+			Surajpala_Surajpala Traillokyachandra Tejapala_Tejpal Tejpal_Tejpal Tolpal Trailokyavarman Trilochanpala Udayaditya Udaysangh Uddharandeva 
+			Vachhal Vakpati Vapyata Varshapala_Varshapala Varshpal_Varshapala Vasudev Vidurathpal_Vidurathpala Vidurathpala_Vidurathpala Vidyadhara 
+			Vigrahapala Vigraharaja Vihangpal Vijayapala Vijayasakti Vinayakapala Vindhyavarman Viramdeva Viravarman Virsinghadeva Yasovarman Abhayapala 
+			Acharya Ahila Ajairaja_Jayaraja Ajayapala Ajay-Singh Alhana Allat Amarangeya Ambra-Prasad Amritapala Anahilla Ari-Singh Arnoraja Asaraja 
+			Asvapala Balaprasada Baliraja Bhatarka Bhert-Patt Bhima_Bhima Bhimadeva_Bhima Bhim-Singh Bhuvan-Singh Bhoja Bhoo-Chand Chachiga Chamundaraja
+			Chandanaraja Chandraraja Chaud-Singh Dadda Dambarisimha Deopali-Deo Dharapatta Dharasena Dhruvasena Dinakarn Dronasinha Dungar-Singh 
+			Durlabharaja Gajasimha Gopala Gopendraka_Gopendraraja Gopendraraja_Gopendraraja Govinda_Govindaraja Govindapala_Govindaraja Guhasena 
+			Guvaka_Govindaraja Hammira Hammir-Singh Hanspal Hariraja Harischandra Hemachandra Jagadeva Jaitrasimha_Jaitrasimha Jaitra-Singh_Jaitrasimha 
+			Jasapala Jaskarn Jayaraja_Jayaraja Jayasimha_Jayasimha Jay-Singh_Jayasimha Jay-Singh-Deo Jayat-Singh_Jayasimha Jayshikari Jendraraja 
+			Jojalla Kalbhoj Kanhadadeva Karandeva_Karnadeva Karan-Singh Karnadeva_Karnadeva Katudeva Katukaraja Keerti-Verma_Kirtivarman Kelhana Kharagraha 
+			Khuman Kirtipala Kirtivarman_Kirtivarman Kshemraja_Xemraja Kshem-Singh Kshetra-Singh Lakhanapala Lakhshaman-Singh Lakshmana_Lakshmanadeva 
+			Lakshmanadeva_Lakshmanadeva Lakshmivarman Lavanyakarna Lunavarman Luntiga Mahap Mahayak Mahendra_Mahendrapala Mahendrapala_Mahendra Mahipala Maladeva
+			Manavasimha Mathan-Singh Mattat Mulraja Nagabhata Nagarjuna Nagraja Naradeva Narapati Naravarman_Naravarman Naravarmandeva_Naravarman Nar-Verma_Naravarman 
+			Narwahan Padam-Singh Prahladana Pratapa Prithvipal_Prithviraja Prithivipala_Prithviraja Purnpala Rahap Ramapala Ratan-Singh Rayapala Rudrapala
+			Sahajapala Sahanapala Samanta_Samanta Samant-Singh_Samanta Samantasimha_Samanta Samarasimha_Samarasimha Samar-Singh_Samarasimha Shaliwahan Shuchi-Verma 
+			Siladitya Sindhuraja Singhraja Sinha Sinhad-Deo Siyaka Sohiya Someshwara Suratrana Tejasimha_Tejasimha Tej-Singh_Tejasimha Tribhuvanapala Udayasimha 
+			Udayavarman Upendra Vagbhata Vahadiasimha Vairisimha_Vairisimha Vairsingh_Vairisimha Vajradeva Vakapati_Vakpati Vakpati_Vakpati Vakpatiraja_Vakpati
+			Valhana_Valhanadeva Valhanadeva_Valhanadeva Vallabharaja Vanraja Vasudeva Vatsaraja Vigraharaja_Vigraharaja Vigrharaja_Vigraharaja Vijada-Dasasyandana 
+			Vijai-Singh Vikramaditya Vinaykpala Virama Viradeva Viranarayana Virsinh-Deo Viryarama Xemraja_Xemraja Yograj
 		}
 		female_names = {
-			阿摩罗波梨 阿摩梨多迦罗 阿希摩 跋婆扇迦梨 毗湿婆苏提毗 菩伽婆提 比毗般 达多提毗 提婆伐提 阿醯梨耶提毗 犍陀曷罗婆提
-			揭耶陀梨 醯摩陀梨阇 醯罗 耆罗 揭旃腻 摩诃陀罗尼 摩罗维耶提毗 那衍那提毗 罗尼 罗怛那提毗 苏毗罗多
-			叶摩提毗 毗阇那耶婆提 毗娜 叶阇那婆提
+			Akal Anantadevi Damayanti Dattadevi Dehanagadevi Dhruvadevi Dhruvasvamini Hemavati 
+			Kakanvati Kalayandevi Kanchuka Kanwar Karmavati Kumaradevi Lakshman Maharani Mahidevi Nattadevi
+			Prabhavati Prabhavatigupta Prasadhanadevi Puppadevi Rajamati Sanyukta Shrimitradevi 
+			Annaladevi Bauladevi Bhuyikadevi Candrabhattarikadevi Chachinidevi Delhanadevi Desaladevi
+			Hariyadevi Laxmidevi Madhavi Mahalakshmi Manaladevi Mayanalladevi Namalladevi Padmaladevi Padmini
+			Pratha Rasaladevi Rudaladevi Rudrani Rupadevi Samyukta Sidhawa Somalladevi Suhava Sundaridevi Tihunaka Udayamati
 		}
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
@@ -3076,9 +3228,7 @@ indo_aryan_group = {
 			曷阇 曷兰陀罗那罗衍 曷利提婆那罗衍 曷利耶曼达梨 曷曼多赛那 因陀罗那罗衍 
 		}
 		female_names = {
-阿醯梨耶提毗 犍陀曷罗婆提
-			揭耶陀梨 醯摩陀梨阇 醯罗 耆罗 揭旃腻 摩诃陀罗尼 摩罗维耶提毗 那衍那提毗 罗尼 罗怛那提毗 苏毗罗多
-			叶摩提毗 毗阇那耶婆提 毗娜 叶阇那婆提
+			Bhagi Hamide Himu Sad Tari "Zainab Tari"
 		}
 		
 		dynasty_title_names = yes
@@ -3094,38 +3244,27 @@ indo_aryan_group = {
 		color = { 0.8 0.2 0.0 }
 	
 		male_names = {
-			阿姆利陀那罗衍 跋罗婆多 跋梨那罗衍 跋罗梨赛那 跋苏提毗那耶阑 
-			婆迦达多 跋罗般陀罗那罗衍 婆多 跋婆扇迦梨 菩密僧诃 毗梨那罗衍 
-			旃陀罗赛那 旃陀罗那罗衍 旃度 支拉罗伊 
-			达奴阇摩陀婆 达舍罗多提婆 提婆迦达加 提婆波罗 提频陀罗那罗衍 
-			达梨金陀罗那罗衍 达兰陀罗那罗衍 达摩波罗 提利僧诃 
-			迦阇那罗衍 瞿波罗 瞿频达旃陀罗 瞿频达波罗 
-			曷阇 曷兰陀罗那罗衍 曷利提婆那罗衍 曷利耶曼达梨 曷曼多赛那 因陀罗那罗衍 
-			阇度 阇迦提频陀罗那罗衍 阇多迦突伽 阇耶那罗衍 阇耶波罗 什谛陀罗那罗衍 
-			迦梨衍那旃陀罗 迦摩梨那罗衍 稽刹婆赛那 迦陀憍耶摩 迦梨扇密湿罗 迦梨湿那罗耶 
-			鸠摩罗波罗 鸠摩檀那罗衍 罗达曷旃陀罗 罗迦湿曼赛那 拉希米旃陀罗 拉希米那罗衍 罗摩波陀 
-			摩檀那波罗 摩诃陀罗波罗 摩诃陀罗僧诃 摩弃陀罗那罗衍 摩醯波罗 摩拿瓦 牟鸠达那罗衍 
-			那罗那罗衍 那罗僧诃 那罗衍那波罗 那然陀罗那罗衍 那衍波罗 那梨般陀罗那罗衍 
-			波梨迦湿陀那耶楞 菩罗难那罗衍 菩兰那闼 补罗多那罗衍 波罗多那罗衍罗耶 补室迦罗那提波 
-			罗古提婆 罗阇跋多 罗阇迭那迦 罗阇迦那刹 罗金陀罗那罗衍 罗折罗金陀罗那罗衍 罗羯波罗 
-			罗摩波罗 罗摩那多 罗那修罗 兰耆陀僧诃 罗菩那罗衍 楼陀罗那罗衍 
-			沙牟陀罗赛那 扇腻婆迦梨 奢扇迦 湿婆那罗衍 室吠那陀罗那罗衍 输迦罗陀婆 输罗波罗 
-			室利旃陀罗 室利曼多 苏婆梨那旃陀罗 苏伽提婆 苏梨耶那罗衍 钱德拉旃陀罗 
-			优提尔那迦多 优提多那罗衍 优般陀罗那耶楞 婆伽波罗 婆迦多 毗迦罗诃波罗 
-			毗奢耶那罗衍 毗奢耶赛那 毗奢耶僧诃 毗罗阇提那陀罗那罗衍 毗湿伐楼赛那 毗湿伐僧诃
-			婆羯罗毗僧诃 婆吠湿 菩耆室伐梨 提婆僧诃 提利僧诃 提梨室伐梨 
-			犍提室伐梨僧诃 犍俱提婆 曷逻僧诃提婆 曷利僧诃 曷曼陀赛那 
-			迦密室伐梨 吉梨提僧诃 阇育提利室伐罗 罗希曼赛那 罗希密那闼僧诃提婆 摩檀波梨 
-			难耶提婆 那梨僧诃 那梨僧诃提婆 波陀摩僧诃 罗姆婆陀罗僧诃提婆 罗密室伐梨 
-			沙曼陀赛那 沙迦罗僧诃提婆 湿婆僧诃 伐罗利赛那 毗奢耶赛那
-			阿迦腻密陀罗 阿腻诃罗迦 阿育沙 跋伽婆陀罗 毗迦梨 菩弥密陀罗 提婆菩提 瞿沙 瞿波梨 瞿频达波梨 
-			迦赛陀罗利陀 摩诃梨室 摩诃陀罗 摩罗耶陀婆 那罗衍那 菩林陀迦 菩耶密陀罗 
-			沙诃提耶 苏娑梨曼 金刚密陀罗 伐苏提婆 伐苏羯湿檀 婆苏密陀罗
+			Abaji Amutrao Bahadur Bahiroji Balaji Bajirao Chimnaji Dattaji Daulatrao Dhanaji Dhondu 
+			Ekoji Fatehsinh Gopalrao Hambirao Harirao Jayajirao Jayappa Janakappa Jivajirao 
+			Khanderao Krishnarao Madhavrao Mahadji Malerao Malharrao Mankoji Martandrao 
+			Moropant Murarirao Nanasaheb Narayanrao Pandurangrao Pratapsinh 
+			Raghunathrao Rajaram Ramaswami Ramchandrapant Ramshastri Ranojirao 
+			Sadashivrao Sambhaji Sayajirao Serfoji Shahuji Shivaji Shivajirao 
+			Tryambakrao Tukkoji Tukojirao Tulojirao Venkatrao Vishwanathpant Yashwantrao
+			Adityavarman Aiyaparaja Anantadeva Aparaditya Aparajita Arikesarin Arthapathi Avasara 
+			Bhavadatta Bhima Bhoja Bijjala Chandra Chandraditya Chhadvaideva Chhittaraja 
+			Daharasena Dhammayira Gandaraditya Goggiraja Gonka Guhala Guhalladeva Haripaladeva 
+			Indradatta Indraraja Jatiga Jayakeshi Jhanjha Kamadeva Kapardin Keshideva Kirtiraja 
+			Mallikarjuna Marsimha Mummuniraja Nagarjuna Nagavarma Naivarman Pullashakti Rattaraja 
+			Sanaphulla Shashthadeva Shivachitta Skandavarman Soddhala Someshvara Sovideva Suketuvarman 
+			Taila Tejahkantha Vappuvanna Vijayaditya Viravarmadeva Vishnuchitta Vyaghrasena 
 		}
 		female_names = {
-			阿摩罗波梨 阿摩梨多迦罗 阿希摩 跋婆扇迦梨 毗湿婆苏提毗 菩伽婆提 比毗般 达多提毗 提婆伐提 阿醯梨耶提毗 犍陀曷罗婆提
-			揭耶陀梨 醯摩陀梨阇 醯罗 耆罗 揭旃腻 摩诃陀罗尼 摩罗维耶提毗 那衍那提毗 罗尼 罗怛那提毗 苏毗罗多
-			叶摩提毗 毗阇那耶婆提 毗娜 叶阇那婆提
+			Ahilyabai Ambikabai Anandibai Anubai Bhiubai Deepabai Durgabai Gangabai Gunvantibai 
+			Jankibai Jijibai Kamlabai Kashibai Laxmibai Mahadik Mastani Putalabai 
+			Rajasbai Rajkunvarbai Ramabai Ranubai Saibai Sagunabai Sakavaarbai Sayeebai Soyarabai Sujanbai Tarabai Yesubai
+			Anjanibai Anuradha Durga Kamadevi Kamaladevi Kesarbai Kishori Kundaladevi Lasthiyavva 
+			Maya Mogubai Radhabai Radhika Shevanti Shudhamati Sovidevi Sudha Sumati Sunita 
 		}
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
@@ -3150,38 +3289,23 @@ indo_aryan_group = {
 		color = { 1.0 0.3 0.3 }
 		
 		male_names = {
-			阿姆利陀那罗衍 跋罗婆多 跋梨那罗衍 跋罗梨赛那 跋苏提毗那耶阑 
-			婆迦达多 跋罗般陀罗那罗衍 婆多 跋婆扇迦梨 菩密僧诃 毗梨那罗衍 
-			旃陀罗赛那 旃陀罗那罗衍 旃度 支拉罗伊 
-			达奴阇摩陀婆 达舍罗多提婆 提婆迦达加 提婆波罗 提频陀罗那罗衍 
-			达梨金陀罗那罗衍 达兰陀罗那罗衍 达摩波罗 提利僧诃 
-			迦阇那罗衍 瞿波罗 瞿频达旃陀罗 瞿频达波罗 
-			曷阇 曷兰陀罗那罗衍 曷利提婆那罗衍 曷利耶曼达梨 曷曼多赛那 因陀罗那罗衍 
-			阇度 阇迦提频陀罗那罗衍 阇多迦突伽 阇耶那罗衍 阇耶波罗 什谛陀罗那罗衍 
-			迦梨衍那旃陀罗 迦摩梨那罗衍 稽刹婆赛那 迦陀憍耶摩 迦梨扇密湿罗 迦梨湿那罗耶 
-			鸠摩罗波罗 鸠摩檀那罗衍 罗达曷旃陀罗 罗迦湿曼赛那 拉希米旃陀罗 拉希米那罗衍 罗摩波陀 
-			摩檀那波罗 摩诃陀罗波罗 摩诃陀罗僧诃 摩弃陀罗那罗衍 摩醯波罗 摩拿瓦 牟鸠达那罗衍 
-			那罗那罗衍 那罗僧诃 那罗衍那波罗 那然陀罗那罗衍 那衍波罗 那梨般陀罗那罗衍 
-			波梨迦湿陀那耶楞 菩罗难那罗衍 菩兰那闼 补罗多那罗衍 波罗多那罗衍罗耶 补室迦罗那提波 
-			罗古提婆 罗阇跋多 罗阇迭那迦 罗阇迦那刹 罗金陀罗那罗衍 罗折罗金陀罗那罗衍 罗羯波罗 
-			罗摩波罗 罗摩那多 罗那修罗 兰耆陀僧诃 罗菩那罗衍 楼陀罗那罗衍 
-			沙牟陀罗赛那 扇腻婆迦梨 奢扇迦 湿婆那罗衍 室吠那陀罗那罗衍 输迦罗陀婆 输罗波罗 
-			室利旃陀罗 室利曼多 苏婆梨那旃陀罗 苏伽提婆 苏梨耶那罗衍 钱德拉旃陀罗 
-			优提尔那迦多 优提多那罗衍 优般陀罗那耶楞 婆伽波罗 婆迦多 毗迦罗诃波罗 
-			毗奢耶那罗衍 毗奢耶赛那 毗奢耶僧诃 毗罗阇提那陀罗那罗衍 毗湿伐楼赛那 毗湿伐僧诃
-			婆羯罗毗僧诃 婆吠湿 菩耆室伐梨 提婆僧诃 提利僧诃 提梨室伐梨 
-			犍提室伐梨僧诃 犍俱提婆 曷逻僧诃提婆 曷利僧诃 曷曼陀赛那 
-			迦密室伐梨 吉梨提僧诃 阇育提利室伐罗 罗希曼赛那 罗希密那闼僧诃提婆 摩檀波梨 
-			难耶提婆 那梨僧诃 那梨僧诃提婆 波陀摩僧诃 罗姆婆陀罗僧诃提婆 罗密室伐梨 
-			沙曼陀赛那 沙迦罗僧诃提婆 湿婆僧诃 伐罗利赛那 毗奢耶赛那
-			阿迦腻密陀罗 阿腻诃罗迦 阿育沙 跋伽婆陀罗 毗迦梨 菩弥密陀罗 提婆菩提 瞿沙 瞿波梨 瞿频达波梨 
-			迦赛陀罗利陀 摩诃梨室 摩诃陀罗 摩罗耶陀婆 那罗衍那 菩林陀迦 菩耶密陀罗 
-			沙诃提耶 苏娑梨曼 金刚密陀罗 伐苏提婆 伐苏羯湿檀 婆苏密陀罗
+			Agabala Aggabodhi Agibuti Ananda Anikanga Apaya Arittha Avirada Ayasmantha Bhuvanekabahu Butisamana Chodaganga Dahamsena 
+			Danamitta Dappula Dathappabhuti Dathopatissa Dharmapala Dharmasena Dharmasoka Dhatusena Digakassapa Diganaguli 
+			Digasumana Gajabahu Hadaka Hadana Hujata Jayabahu Jetthatissa Jhotisena Kashyapa Kassapa Kitti Kittisena Kittivarma 
+			Magamitta Mahadeva Mahanaga Mahasattha Mahasena Mahasiva Mahinda Manavanna Mihidala Mihindala Mitta Moggallana 
+			Nandamitta Narendra Narendrasinha Nirmala Padita Parakkamabahu Parakramabahu Rajasinha Rakasala Ratana Rohaka 
+			Sadhatissa Sagala Saliya Sanghamitta Sanghatissa Sankha Sena Senarat Sidata Sigaratissa Silameghavanna Sinhabahu 
+			Siva Sobana Sobika Sudata Sumana Surakita Suratissa Tissa Udaya Upatissa Vassaba Vebeliya Vepali Vijayabahu 
+			Vikrama_Vikrama Vikramabahu Vimaladharma Vimaladharmasuriya Virabahu Viranarendra
 		}
 		female_names = {
-			阿摩罗波梨 阿摩梨多迦罗 阿希摩 跋婆扇迦梨 毗湿婆苏提毗 菩伽婆提 比毗般 达多提毗 提婆伐提 阿醯梨耶提毗 犍陀曷罗婆提
-			揭耶陀梨 醯摩陀梨阇 醯罗 耆罗 揭旃腻 摩诃陀罗尼 摩罗维耶提毗 那衍那提毗 罗尼 罗怛那提毗 苏毗罗多
-			叶摩提毗 毗阇那耶婆提 毗娜 叶阇那婆提
+			Abijliguta Ahali Anula Anurada Anuradi Anuridi Asadaguta Asali Aselaya Ata Barani Bodhideva Bohodevi Butadata 
+			Cadana Citadevi Citaguta Damadina Damaguta Damarajha Damarakita Damaruci Damasena Damati Damika Damutara 
+			Devanakata Devanapiya Devarakita Dhamarajha Dhamika Jhita Jhotisena Jhotiya Kalyanavati Kanadasika Kanaguta 
+			Kanatissa Kitaka Kituka Kubira Kumara Kumaradata Kumaratiha Lasani Lilavati Maga Magha Maka Maki Mita Nagadina 
+			Narayaguta Nuga Nugaya Paduma Palikada Pamatissa Purushadata Pusamitta Rajhita Ramadata Ramajhata Ramani 
+			Rasumiliya Reva Sagara Samidata Samudaguta Savera Seneya Silmini Siriguta Siripali Sivala Sivanabuti Somali Sugula 
+			Sujhata Sumanadevi Suri Suriguta Tisi Tissabuti Tissadata Tissadevi Tissamita Tissaraka Tissarakita Yahasaya Yahasini
 		}
 		
 		dynasty_title_names = yes
@@ -3208,38 +3332,35 @@ dravidian_group = {
 		color = { 1.0 0.7 0.2 }
 		
 		male_names = {
-			阿姆利陀那罗衍 跋罗婆多 跋梨那罗衍 跋罗梨赛那 跋苏提毗那耶阑 
-			婆迦达多 跋罗般陀罗那罗衍 婆多 跋婆扇迦梨 菩密僧诃 毗梨那罗衍 
-			旃陀罗赛那 旃陀罗那罗衍 旃度 支拉罗伊 
-			达奴阇摩陀婆 达舍罗多提婆 提婆迦达加 提婆波罗 提频陀罗那罗衍 
-			达梨金陀罗那罗衍 达兰陀罗那罗衍 达摩波罗 提利僧诃 
-			迦阇那罗衍 瞿波罗 瞿频达旃陀罗 瞿频达波罗 
-			曷阇 曷兰陀罗那罗衍 曷利提婆那罗衍 曷利耶曼达梨 曷曼多赛那 因陀罗那罗衍 
-			阇度 阇迦提频陀罗那罗衍 阇多迦突伽 阇耶那罗衍 阇耶波罗 什谛陀罗那罗衍 
-			迦梨衍那旃陀罗 迦摩梨那罗衍 稽刹婆赛那 迦陀憍耶摩 迦梨扇密湿罗 迦梨湿那罗耶 
-			鸠摩罗波罗 鸠摩檀那罗衍 罗达曷旃陀罗 罗迦湿曼赛那 拉希米旃陀罗 拉希米那罗衍 罗摩波陀 
-			摩檀那波罗 摩诃陀罗波罗 摩诃陀罗僧诃 摩弃陀罗那罗衍 摩醯波罗 摩拿瓦 牟鸠达那罗衍 
-			那罗那罗衍 那罗僧诃 那罗衍那波罗 那然陀罗那罗衍 那衍波罗 那梨般陀罗那罗衍 
-			波梨迦湿陀那耶楞 菩罗难那罗衍 菩兰那闼 补罗多那罗衍 波罗多那罗衍罗耶 补室迦罗那提波 
-			罗古提婆 罗阇跋多 罗阇迭那迦 罗阇迦那刹 罗金陀罗那罗衍 罗折罗金陀罗那罗衍 罗羯波罗 
-			罗摩波罗 罗摩那多 罗那修罗 兰耆陀僧诃 罗菩那罗衍 楼陀罗那罗衍 
-			沙牟陀罗赛那 扇腻婆迦梨 奢扇迦 湿婆那罗衍 室吠那陀罗那罗衍 输迦罗陀婆 输罗波罗 
-			室利旃陀罗 室利曼多 苏婆梨那旃陀罗 苏伽提婆 苏梨耶那罗衍 钱德拉旃陀罗 
-			优提尔那迦多 优提多那罗衍 优般陀罗那耶楞 婆伽波罗 婆迦多 毗迦罗诃波罗 
-			毗奢耶那罗衍 毗奢耶赛那 毗奢耶僧诃 毗罗阇提那陀罗那罗衍 毗湿伐楼赛那 毗湿伐僧诃
-			婆羯罗毗僧诃 婆吠湿 菩耆室伐梨 提婆僧诃 提利僧诃 提梨室伐梨 
-			犍提室伐梨僧诃 犍俱提婆 曷逻僧诃提婆 曷利僧诃 曷曼陀赛那 
-			迦密室伐梨 吉梨提僧诃 阇育提利室伐罗 罗希曼赛那 罗希密那闼僧诃提婆 摩檀波梨 
-			难耶提婆 那梨僧诃 那梨僧诃提婆 波陀摩僧诃 罗姆婆陀罗僧诃提婆 罗密室伐梨 
-			沙曼陀赛那 沙迦罗僧诃提婆 湿婆僧诃 伐罗利赛那 毗奢耶赛那
-			阿迦腻密陀罗 阿腻诃罗迦 阿育沙 跋伽婆陀罗 毗迦梨 菩弥密陀罗 提婆菩提 瞿沙 瞿波梨 瞿频达波梨 
-			迦赛陀罗利陀 摩诃梨室 摩诃陀罗 摩罗耶陀婆 那罗衍那 菩林陀迦 菩耶密陀罗 
-			沙诃提耶 苏娑梨曼 金刚密陀罗 伐苏提婆 伐苏羯湿檀 婆苏密陀罗
+			Amarapuyankan_Amarabhujanga Aparacita_Aparajita Aparacitavarman_Aparajitavarman App?taiyan Arikêcari_Arikesari Ari?caya_Arinjaya Arulmolitêvar 
+			Arulmolivarman Atiracêntira_Athirajendra Atitta_Aditya Avaniyalappirantar Avraaham_Abraham Brahmamarayar Cadayan Cankili Cataiyavarman_Sadayavarman Catturukalamakalatittan Cayantavarman_Jayantavarman
+			Celiyancentan Cekaracacêkaran_Segarajasekaran Cevakattevan Ceyav?ra Chaacko_Jacob Chaandy_Alexander Cimmavisnu_Simhavishnu Cinkapaku_Singhabahu Civakkoluntan Cuntara_Sundara Caramutaiyan Cattanan 
+			C?vallapa_Seervallabha C?vallapan_Seervallabhan Daniyel_Daniel Eappen_Stephen Eccavarakan Eisow_Jesus Impanayarpattan Irattapadikonda Iracacimman_Rajasingan Iracakecaripanmar Iracaraca_Rajaraja 
+			Iracacekara_Rajasekhara Iracatiraca_Rajadhiraja Iracatiracatevar Iracatitta_Rajaditya Iracêntira_Rajendra Ittac_Isaac Iyob_Job Kadarangkonda Kanakac?riya Kantaratitta_Gandarditya 
+			Karaikkiyemarrayilaiyan Karunandadakkan Karunandan Katunkon Kilan Kiramaracapattan Kontan Kossy_Joshua Kotukulapattan Kulacêkara_Kulasekhara Kulacêkaran_Kulasekharan 
+			Kul?ttunka_Kulothunga Kunap?sana Kunav?ra Kurian_Cyrus Kutameratiruvatikal K?pperu?cimman_Kopperunchinga Lukose_Luke Makêntiravarman_Mahendravarman Manappakk?lan 
+			Manavalapperumal Munn?rruvappattan Mampakkamutaiyan Manaticcuran Marapanmar Maravarman_Maravarman Markantaiyan Markose_Marcus Matevapattan Matevipattan Nantivarman_Nandivarman 
+			Naracimmavarman_Narasimhavarman Nirupatunkavarman_Nirupatonkavarman Niyayaparipalapattan Narpattennayirapattan Natitta?cattan Pantaram_Pandaram 
+			Parakesaripanmar Paramêsvaravarman_Parameswaravarman Paranirupacinkam_Paranirupasingham Pararacacêkaran_Pararajasekharan Parakkirama_Parakrama 
+			Parankucan_Parankusan Parantaka_Parantaka Pathrose_Peter Pa?cavan Paulose_Paul Periyapillai Perumal Peru?cintevar Piramarayan Piyliypaos_Philip Puviraca_Puviraja Pakkilan Palaravayan Ranatitta_Ranaditya 
+			Ranat?ran_Ranadhiran Ravivarman Samuel_Samuel Tantivarman_Dantivarman Tennavan Thoma_Thomas Tiruccirrampalapattan Tirunattapperumal Tirupuvanav?ratevar Tripuvanacakkaravattikal 
+			Uravakkinan Utaiya_Udaya Uttama Varakunan_Varagunan Varakunavarman_Varagunavarman Var?taya Varughese_George Vellantankinan Vicayalaya_Vijayalaya Vicayaraka_Vijayaraga 
+			Vicayatitta_Vijayaditya Vikkirama Vikramatitta_Vikramaditya Viranarayanapattan Viracakecaripanmar V?racêkara_Virasekhara V?rakêcari_Virakhesari 
+			V?raracêntira_Virarajendra V?r?taya_Virodaya Yohannaan_John Yosef_Joseph Zacharria_Zachariah ?ccinataratippan ?n?rrenmanpiccan ?yirattalipattan
 		}
 		female_names = {
-			阿摩罗波梨 阿摩梨多迦罗 阿希摩 跋婆扇迦梨 毗湿婆苏提毗 菩伽婆提 比毗般 达多提毗 提婆伐提 阿醯梨耶提毗 犍陀曷罗婆提
-			揭耶陀梨 醯摩陀梨阇 醯罗 耆罗 揭旃腻 摩诃陀罗尼 摩罗维耶提毗 那衍那提毗 罗尼 罗怛那提毗 苏毗罗多
-			叶摩提毗 毗阇那耶婆提 毗娜 叶阇那婆提
+			Aaleyaamma_Elizabeth Accamma_Rebecca Accattêvi Annamma_Anna Aiyyarratikal Akkaranankayar Amittiravalli Ammaiyalvi Ammakkanar Ammankatêvi_Ammangadevi Ankati Aramutaiyal 
+			Aricukati Ariyapillai Ari?cikai Ari?cikaipiratti Ari?cikaippirattiyar Arulmolinankaiyar Aruvanki Atavallal Atittapatariyar Atittapitari 
+			Atittapitariyar Atticapitariyar Avutaiyalccani Cankani Cantiradêvi Cenkulam Ceyyac?lam Ceyyavaymani Civatêvi Civallapatevi 
+			Corappaiyar Camuntappai Cêramankai C?lamatêvi Eccumantai Eluvanai Eluvatt?r Etuttapatam Iracinkam Iracaticci Iracacuntari 
+			Kalacci Kalicci Kanavati Kannapparaciyar Kantiy?r Kariyamatêvi Karumanikkam Kaucalaiyar Kavatiyakkan Ka?ciakkan Kutitankinal 
+			Ku?caramalli Ku?ciramalli Kamuttiri Karaikkal K?kilanadigal K?laliyar K?malavalli K?yinaccipitariyar K?rrantêvi K?ttatunacci 
+			Mahadeviyar Malaiyaman Malapati Maraikkatu Ma?cavi Manikkam Mariamma_MariMatêvatikal Matêvatikalar Nakarattal Naltêviyar Namaiyar Nankaiyar Nantirinankai 
+			Netuntukkai Nilammai Nimmatikal Nacci Nacciyalvi Narani Narayani Na?c?ri N?lakanti N?liyar Olimatiyar Orrialvi Pavitram Pennaraciyar 
+			Peranankai Periyanacci Perrappai Pillayalvi Piramaccani Piratamatevi Pirriccani Pollatapillai Pommavayi Ponnampalattatikalar Punniyavatti P?vanti
+			Raahelamma_Rachel Racatêviyar Racakêcari Samavayi Saramma_Sarah Sosamma_Susan Taturantakiyar Tava?ceytal Tayanitiyar Thresiamma_Teresa Tirum?lattanam Tiruvaranki Tiruvennaval Tiruvanaikkavi 
+			Tiruvênkatam Tunaiyiruntalcani Tanatonkiyar Têcappukal Têmpavai Têvanral T?nkanai Umaiyalvar Utaiyaval Utaiya?ceytal Vaccavaiyar 
+			Varakuni Vatavayil Venankai Vennaval Vicciyakkan Viccatiri Vikkiramatitti Viraiyaccilai Vitari Vanavanmatêvi
 		}
 		dynasty_title_names = yes
 
@@ -3263,38 +3384,15 @@ dravidian_group = {
 		
 		color = { 0.8 0.8 0.0 }
 		male_names = {
-			阿姆利陀那罗衍 跋罗婆多 跋梨那罗衍 跋罗梨赛那 跋苏提毗那耶阑 
-			婆迦达多 跋罗般陀罗那罗衍 婆多 跋婆扇迦梨 菩密僧诃 毗梨那罗衍 
-			旃陀罗赛那 旃陀罗那罗衍 旃度 支拉罗伊 
-			达奴阇摩陀婆 达舍罗多提婆 提婆迦达加 提婆波罗 提频陀罗那罗衍 
-			达梨金陀罗那罗衍 达兰陀罗那罗衍 达摩波罗 提利僧诃 
-			迦阇那罗衍 瞿波罗 瞿频达旃陀罗 瞿频达波罗 
-			曷阇 曷兰陀罗那罗衍 曷利提婆那罗衍 曷利耶曼达梨 曷曼多赛那 因陀罗那罗衍 
-			阇度 阇迦提频陀罗那罗衍 阇多迦突伽 阇耶那罗衍 阇耶波罗 什谛陀罗那罗衍 
-			迦梨衍那旃陀罗 迦摩梨那罗衍 稽刹婆赛那 迦陀憍耶摩 迦梨扇密湿罗 迦梨湿那罗耶 
-			鸠摩罗波罗 鸠摩檀那罗衍 罗达曷旃陀罗 罗迦湿曼赛那 拉希米旃陀罗 拉希米那罗衍 罗摩波陀 
-			摩檀那波罗 摩诃陀罗波罗 摩诃陀罗僧诃 摩弃陀罗那罗衍 摩醯波罗 摩拿瓦 牟鸠达那罗衍 
-			那罗那罗衍 那罗僧诃 那罗衍那波罗 那然陀罗那罗衍 那衍波罗 那梨般陀罗那罗衍 
-			波梨迦湿陀那耶楞 菩罗难那罗衍 菩兰那闼 补罗多那罗衍 波罗多那罗衍罗耶 补室迦罗那提波 
-			罗古提婆 罗阇跋多 罗阇迭那迦 罗阇迦那刹 罗金陀罗那罗衍 罗折罗金陀罗那罗衍 罗羯波罗 
-			罗摩波罗 罗摩那多 罗那修罗 兰耆陀僧诃 罗菩那罗衍 楼陀罗那罗衍 
-			沙牟陀罗赛那 扇腻婆迦梨 奢扇迦 湿婆那罗衍 室吠那陀罗那罗衍 输迦罗陀婆 输罗波罗 
-			室利旃陀罗 室利曼多 苏婆梨那旃陀罗 苏伽提婆 苏梨耶那罗衍 钱德拉旃陀罗 
-			优提尔那迦多 优提多那罗衍 优般陀罗那耶楞 婆伽波罗 婆迦多 毗迦罗诃波罗 
-			毗奢耶那罗衍 毗奢耶赛那 毗奢耶僧诃 毗罗阇提那陀罗那罗衍 毗湿伐楼赛那 毗湿伐僧诃
-			婆羯罗毗僧诃 婆吠湿 菩耆室伐梨 提婆僧诃 提利僧诃 提梨室伐梨 
-			犍提室伐梨僧诃 犍俱提婆 曷逻僧诃提婆 曷利僧诃 曷曼陀赛那 
-			迦密室伐梨 吉梨提僧诃 阇育提利室伐罗 罗希曼赛那 罗希密那闼僧诃提婆 摩檀波梨 
-			难耶提婆 那梨僧诃 那梨僧诃提婆 波陀摩僧诃 罗姆婆陀罗僧诃提婆 罗密室伐梨 
-			沙曼陀赛那 沙迦罗僧诃提婆 湿婆僧诃 伐罗利赛那 毗奢耶赛那
-			阿迦腻密陀罗 阿腻诃罗迦 阿育沙 跋伽婆陀罗 毗迦梨 菩弥密陀罗 提婆菩提 瞿沙 瞿波梨 瞿频达波梨 
-			迦赛陀罗利陀 摩诃梨室 摩诃陀罗 摩罗耶陀婆 那罗衍那 菩林陀迦 菩耶密陀罗 
-			沙诃提耶 苏娑梨曼 金刚密陀罗 伐苏提婆 伐苏羯湿檀 婆苏密陀罗
+			Allada Allayavema Amma Ammaraja Anavema Anavota Ayyapayya Baladitya Ballaladeva Beta Bhima Bhandanaditya Chennappa 
+			Danamava Devanayaka Durgaraja Ganapathideva Ganapathinayaka Indrabhattaraka Jayasimha Kaapayanayaka Kadeyaraja Kalakampa 
+			Kammanayaka Katayavema Kumaragiri Kubjavishnuvardhana Mahadeva Mahakala Mangiyuvaraja Mallapa Nachana Narendra 
+			Niravadyadhavala Nrpakama Pandaranga Prataparudra Prola Prolayanayak Prolayavema Prthiviyaraja Rajanayaka Rajaraja 
+			Rudradeva Saktivarman Singamanayaka Somaditya Vengabhupathi Vijayaditya Vimaladitya Virabhadra Vishnuvardhana 
+			Yuddamalla_Yuddamalla Yuddhamalla_Yuddamalla
 		}
 		female_names = {
-			阿摩罗波梨 阿摩梨多迦罗 阿希摩 跋婆扇迦梨 毗湿婆苏提毗 菩伽婆提 比毗般 达多提毗 提婆伐提 阿醯梨耶提毗 犍陀曷罗婆提
-			揭耶陀梨 醯摩陀梨阇 醯罗 耆罗 揭旃腻 摩诃陀罗尼 摩罗维耶提毗 那衍那提毗 罗尼 罗怛那提毗 苏毗罗多
-			叶摩提毗 毗阇那耶婆提 毗娜 叶阇那婆提
+			Anitalli Chamekamba Chandena Chellava Gamakamba Hariharamba Nagipoti Pammava Rudramba Rudramadevi Srimahadevi Tundaka
 		}
 		
 		dynasty_title_names = yes
@@ -3319,38 +3417,23 @@ dravidian_group = {
 		
 		color = { 0.8 0.6 0.0 }
 		male_names = {
-			阿姆利陀那罗衍 跋罗婆多 跋梨那罗衍 跋罗梨赛那 跋苏提毗那耶阑 
-			婆迦达多 跋罗般陀罗那罗衍 婆多 跋婆扇迦梨 菩密僧诃 毗梨那罗衍 
-			旃陀罗赛那 旃陀罗那罗衍 旃度 支拉罗伊 
-			达奴阇摩陀婆 达舍罗多提婆 提婆迦达加 提婆波罗 提频陀罗那罗衍 
-			达梨金陀罗那罗衍 达兰陀罗那罗衍 达摩波罗 提利僧诃 
-			迦阇那罗衍 瞿波罗 瞿频达旃陀罗 瞿频达波罗 
-			曷阇 曷兰陀罗那罗衍 曷利提婆那罗衍 曷利耶曼达梨 曷曼多赛那 因陀罗那罗衍 
-			阇度 阇迦提频陀罗那罗衍 阇多迦突伽 阇耶那罗衍 阇耶波罗 什谛陀罗那罗衍 
-			迦梨衍那旃陀罗 迦摩梨那罗衍 稽刹婆赛那 迦陀憍耶摩 迦梨扇密湿罗 迦梨湿那罗耶 
-			鸠摩罗波罗 鸠摩檀那罗衍 罗达曷旃陀罗 罗迦湿曼赛那 拉希米旃陀罗 拉希米那罗衍 罗摩波陀 
-			摩檀那波罗 摩诃陀罗波罗 摩诃陀罗僧诃 摩弃陀罗那罗衍 摩醯波罗 摩拿瓦 牟鸠达那罗衍 
-			那罗那罗衍 那罗僧诃 那罗衍那波罗 那然陀罗那罗衍 那衍波罗 那梨般陀罗那罗衍 
-			波梨迦湿陀那耶楞 菩罗难那罗衍 菩兰那闼 补罗多那罗衍 波罗多那罗衍罗耶 补室迦罗那提波 
-			罗古提婆 罗阇跋多 罗阇迭那迦 罗阇迦那刹 罗金陀罗那罗衍 罗折罗金陀罗那罗衍 罗羯波罗 
-			罗摩波罗 罗摩那多 罗那修罗 兰耆陀僧诃 罗菩那罗衍 楼陀罗那罗衍 
-			沙牟陀罗赛那 扇腻婆迦梨 奢扇迦 湿婆那罗衍 室吠那陀罗那罗衍 输迦罗陀婆 输罗波罗 
-			室利旃陀罗 室利曼多 苏婆梨那旃陀罗 苏伽提婆 苏梨耶那罗衍 钱德拉旃陀罗 
-			优提尔那迦多 优提多那罗衍 优般陀罗那耶楞 婆伽波罗 婆迦多 毗迦罗诃波罗 
-			毗奢耶那罗衍 毗奢耶赛那 毗奢耶僧诃 毗罗阇提那陀罗那罗衍 毗湿伐楼赛那 毗湿伐僧诃
-			婆羯罗毗僧诃 婆吠湿 菩耆室伐梨 提婆僧诃 提利僧诃 提梨室伐梨 
-			犍提室伐梨僧诃 犍俱提婆 曷逻僧诃提婆 曷利僧诃 曷曼陀赛那 
-			迦密室伐梨 吉梨提僧诃 阇育提利室伐罗 罗希曼赛那 罗希密那闼僧诃提婆 摩檀波梨 
-			难耶提婆 那梨僧诃 那梨僧诃提婆 波陀摩僧诃 罗姆婆陀罗僧诃提婆 罗密室伐梨 
-			沙曼陀赛那 沙迦罗僧诃提婆 湿婆僧诃 伐罗利赛那 毗奢耶赛那
-			阿迦腻密陀罗 阿腻诃罗迦 阿育沙 跋伽婆陀罗 毗迦梨 菩弥密陀罗 提婆菩提 瞿沙 瞿波梨 瞿频达波梨 
-			迦赛陀罗利陀 摩诃梨室 摩诃陀罗 摩罗耶陀婆 那罗衍那 菩林陀迦 菩耶密陀罗 
-			沙诃提耶 苏娑梨曼 金刚密陀罗 伐苏提婆 伐苏羯湿檀 婆苏密陀罗
+			Achugi Adikavi Ahavamalla Amoghavarsha Anekonda Asaga Avinita Ayanna Bhuvikrama Bijjama Bukka Butuga 
+			Chavundaraya Dantidurga Dashavarman Dhruva Durgasimha Durvinita Ereganga Ereyanga 
+			Gangaraja Gajankusha Gobburi Govinda Hakka Harihara Harivarman Indra 
+			Jagadhekamalla Jagaraya Jagattunga Jayasimha Jogama 
+			Kambarasa Kannama Karka Khottiga Kiriyasaga Kirtivarman Konganivarman Krishna 
+			Madhava Madhura Mallikarjuna Mallugi Mangalesi Marasimha Marulaganga Mushkara Narasanayaka
+			Narasimha Neetimarga Nripakama Permadi Permanadi Polavira Praudharaya Pulakesi Purandaradasa 
+			Rachamalla Ramachandra Ramadeva Ramaraya Sankama Satyasraya Sharva Shivamara Singhana 
+			Somesvara Sovideva Sripadaraya Sripurusha Sriranga Srivikrama Tailapa Thimma Tirumalaraya 
+			Uchita Venkatadri Venkatapathi Vikramaditya Vijayaditya Vinayaditya Viraballala Viravijaya 
+			Virupaksha Vishnugopa Vishnuvardhana Yachama Yachamanedu 
+			Achyutadeva Krishnadevaraya Sadashiva Vendakadri Viranarasimha
 		}
 		female_names = {
-			阿摩罗波梨 阿摩梨多迦罗 阿希摩 跋婆扇迦梨 毗湿婆苏提毗 菩伽婆提 比毗般 达多提毗 提婆伐提 阿醯梨耶提毗 犍陀曷罗婆提
-			揭耶陀梨 醯摩陀梨阇 醯罗 耆罗 揭旃腻 摩诃陀罗尼 摩罗维耶提毗 那衍那提毗 罗尼 罗怛那提毗 苏毗罗多
-			叶摩提毗 毗阇那耶婆提 毗娜 叶阇那婆提
+			Akkadevi Bhavanaga Bijjabbe Chandaladevi Chandrabbalabbe Gangambika Hoysaladevi Kundakadevi 
+			Lakshmi Mahadevi Mailaladevi Obayamma Pertal Revakanimmadi Shantaladevi Vijamba
+			Chinnambike Thirumalambike 
 		}
 		
 		dynasty_title_names = yes
