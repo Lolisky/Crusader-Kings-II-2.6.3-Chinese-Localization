@@ -453,7 +453,7 @@ west_germanic = {
 			Ghert_Gerard Giselher Giselmar Gosschalk_Gottschalk Goswin Gunzelin_Günther G?dke_Godfrey Günther_Günther Hans_Hans Harthgate Hartwig Heideke
 			Hengest Henneke Herberd_Herbert Hermann_Herman Hinrik_Henry Hoger Hulderic Humfried Immed Isidor_Isidoros Jacob_Jacob Jaspar_Caspar Jochim_Joakim
 			Johann_John Juries Kersten_Christian K?pke_Jacob Laurentz_Laurence Lembert_Lambert Leuderic Liawizo Liemar Liudger Luder-Udo_Otto
-			Luder_Lothair Ludolf_Ludolf Ludwig_Louis Magnus_Magnus Marbold Marquard_Markward Mathias_Matthew Meinwerk Merten_Martin Michael_Michael
+			Luder_Lothair Ludolf_Ludolf Ludwig_Louis Magnus_Magnus Marbold Marquard_Markward Mathias_Matthew Meinwerk Merten_马丁 Michael_Michael
 			Norbert_Norbert Odo_Otto Ordulf Peter_Peter Philipp_Philip Radke_Ralph Reginbern_Reinbern Reinbern_Reinbern Reineke_Renard Reinmar Rudigar_Roger
 			Rudolf_Ralph Sigbert_Sigisbert Sigfrid_Siegfried Sigward_Sigurd Simon_Simon Steffen_Stephen Thankmar Theoderic_Theoderic Theodoric_Thierry
 			Theodwin Thimo_Timothy Thomas_Thomas Tobe Tymmeke_Dietmar Udo_Otto Unwan Viric Volkwin Volrad Walbert Waldemar_Vladimir Waldered Waltard
@@ -461,7 +461,7 @@ west_germanic = {
 			Willichin Withgils Witikind Witta Wlencing Wolter_Walter Wulff_Ulf
 		}
 		female_names = {
-			Addila_Adela Adelheid_Adelaide Alof Agnes_Agnes Anna_Anna Athela Beatrix_Beatrice Bertha_Bertha Bertrada Bia_Beatrice Bisina Bithild
+			Addila_Adela Adelheid_阿德莱德 Alof Agnes_Agnes Anna_Anna Athela Beatrix_Beatrice Bertha_Bertha Bertrada Bia_Beatrice Bisina Bithild
 			Brigida_Brigid Christina_Christina Diedke Eilika Elisabeth_Elisabeth Enda Frederuna Geilana Gerberga_Gerberga Gertrud_Gertrude Gisela_Gisela
 			Glismod Hadwig_Hedwig Hasala Heilwig Helene_Helen Hildegard_Hildegard Hrothwina Ida_Ida Imma_Emma Irmgard_Ermengarde Irminburg
 			Jutta_Judith Katharina_Catherine Kunigunde_Kunigunde Luitgard_Luitgard Margarete_Margaret Mathilde_Matilda Mechthild_Matilda Oda_Ute
@@ -509,8 +509,8 @@ west_germanic = {
 			Wihard Wilbrand Wilco Wiltet Wulfnoth Ygo
 		}
 		female_names = {
-			Aleberna Alena_Adela Aleydis_Adelaide Alretieren Amalburga Amelgeir Atghardis Aue Auesoete Badeloghen Baua Berta_Bertha
-			Bet_Elisabeth Breghlent Brundonis Dieuwke Douwen Eingeliadis Elke_Adelaide Emgelberna Erkenradis Ermegardis_Ermengarde
+			Aleberna Alena_Adela Aleydis_阿德莱德 Alretieren Amalburga Amelgeir Atghardis Aue Auesoete Badeloghen Baua Berta_Bertha
+			Bet_Elisabeth Breghlent Brundonis Dieuwke Douwen Eingeliadis Elke_阿德莱德 Emgelberna Erkenradis Ermegardis_Ermengarde
 			Esa Femke Fenna Folqui Gerburgis_Gerberga Ghela Ghodelde Hadewigis Heike Hersewindis Hodine Imma_Emma Imsoete Inka_Inga
 			Itsburgis Jeltsje Lenildis Liedelde Liudburgis Lutghardis Lys_Elisabeth Maike_Maria Mareike_Maria Mette Minke Nienke_Catherine
 			Rengnalda Volcwiif Wendelmodis Wiebke Wobbe Yda_Ida Ymmekine ?lidis
@@ -809,16 +809,16 @@ iberian = {
 
 		male_names = {
 			阿方索_阿方斯 阿尔瓦_奥利弗 安特索_桑丘 奥雷利奥_奥里利乌斯 阿兹纳尔_阿兹纳尔 贝拉斯科_瓦斯科 贝尔特兰_贝特朗 达托_西奥达特 迭戈_雅各布 埃吉迪奥_埃吉迪乌斯 埃内科_伊尼戈 埃拉蒙_雷蒙德 费尔南多_斐迪南 福腾_福图纳图斯 加林多_加林多 加齐亚_加西亚 吉兰_威廉 戈麦斯_戈麦斯 贡扎尔_贡萨罗 亨里克_亨利
-			Eneko_Inigo Erramun_Raymond Fernando_Ferdinand Fortun Galindo_Galindo Gartzia_Garcia Gilen_William Gontzal_Gonzalo Herramel Joanes_John
-			Ladron Lope_Lupo Luis_Louis Manrike_Amalric Martín_Martin Munio_Munio Nu?o_Nuno Obeko_Obeko Ordo?o_Ordono Pelaio_Pelagius Piarres_Peter
-			Ramiro_Ramiro Rodrigo_Roderick Vela_Vela Ximeno_Simon Zentulo_Centule
+			埃内科_伊尼格 埃拉蒙_雷蒙德 费尔南多_斐迪南 福尔顿 加林多_加林多 加吉亚_加西亚 吉伦_威廉 贡扎尔_贡萨洛 赫拉莫尔 若阿内斯_约翰
+			拉德伦 洛佩_卢波 路易斯_路易斯 曼里克_阿马尔里克 马丁_马丁 穆尼奥_穆尼奥 努诺_努诺 奥贝科_奥贝科 奥多诺_奥多诺 佩拉约_贝拉基 皮埃利斯_彼得
+			拉米罗_拉米罗 罗德里戈_罗德里克 维拉_维拉 西米诺_西蒙 赞图罗_森图勒
 
-#			Abdala Isa Ismail Mohamed Motarrif Muza Saad Salama Taur Yahya Yunus Zahir
+#			Abdala Isa Ismail 穆罕默德 Motarrif Muza 萨德 萨拉马 陶尔 Yahya Yunus Zahir
 		}
 		female_names = {
-			艾妮丝_艾格妮丝 阿尔东萨_阿尔东萨 Andregoto Antsa_Sancha Belaskita Berengaria_Berengaria Blanka_Blanche Elbira_Elvira Eliza Emili_Emily
-			Estefania_Stephania Joana_Joan Konstantzia_Constance Maior_Mayor Maria_Maria Mentzia_Mencia Munia_Munia Nu?a Oneka_Oneka Oria
-			Plazentzia_Plaisance Teresa_Teresa Toda_Toda Urraka_Urraca Ximena_Ximena
+			艾妮丝_艾格妮丝 阿尔东萨_阿尔东萨 安德莉哥特 安茶_桑莎 贝拉斯吉塔 贝伦加莉娅_贝伦加莉娅 布兰卡_布兰琪 爱尔比拉_爱尔薇拉 埃利莎 埃米莉_埃米莉
+			埃史蒂芬妮娅_史蒂芬妮娅 胡安娜_胡安娜 康斯坦西亚_康斯坦丝 马约尔_梅耶 玛利亚_玛利亚 门吉娅_门西娅 穆妮亚_穆妮亚 努莎 欧妮卡_欧妮卡 奥莉娅
+			普莱珊丝_普莱珊丝 特蕾萨_特蕾萨 托妲_托妲 乌拉卡_乌拉卡 席米娜_席米娜
 		
 #			Awriya
 		}
@@ -844,13 +844,13 @@ iberian = {
 		color = { 0.95 0.82 0.09 }
 
 		male_names = {
-			Alfonso_Alphonse Alonso_Alphonse álvar_Oliver álvaro_Oliver Bermudo_Vermudo Diego_Diaco Enrique_Henry Fadrique_Frederick Felipe_Philip Fernando_Ferdinand
- 			Fruela_Froila García_Garcia Gil_Egidius Gómez_Gomez Gonzalo_Gonzalo Guillén_William Guillermo_William Gutierre_Walter Juan_John Lope_Lupo Luis_Louis
-			Manrique_Amalric Martín_Martin Munio_Munio Nu?o_Nuno Ordo?o_Ordono Oveco_Obeko Pedro_Peter Pelayo_Pelagius Ramiro_Ramiro Rodrigo_Roderick
-			Salvador Sancho_Sancho Suero_Suero Tello Vela_Vela
+			阿方索_阿方斯 阿隆索_阿方斯 álvar_Oliver álvaro_Oliver 贝尔穆多_Vermudo Diego_Diaco Enrique_Henry Fadrique_Frederick Felipe_Philip Fernando_Ferdinand
+ 			Fruela_Froila García_Garcia Gil_Egidius Gómez_Gomez 贡萨洛_贡萨洛 Guillén_威廉 Guillermo_威廉 Gutierre_Walter Juan_John Lope_Lupo Luis_Louis
+			Manrique_Amalric Martín_马丁 Munio_Munio Nu?o_Nuno Ordo?o_Ordono Oveco_Obeko Pedro_Peter Pelayo_Pelagius Ramiro_Ramiro Rodrigo_罗德里克
+			萨尔瓦多 桑丘_桑丘 Suero_索罗 泰罗 Vela_维拉
 		}
 		female_names = {
-			Aldonza_Aldonza Anderquina Beatriz_Beatrice Berenguela_Berengaria Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Fronilda_Fronilde Gontroda_Gotruda
+			Aldonza_Aldonza Anderquina Beatriz_贝阿特丽丝 Berenguela_Berengaria Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Fronilda_Fronilde Gontroda_Gotruda
 			Inés_Agnes Isabel_Elisabeth Jimena_Ximena Juana_Joan Leonor_Eleanor Mafalda_Matilda María_Maria Marina_Marine Mayor_Mayor Mencía_Mencia
 			Milia_Emily Sancha_Sancha Teresa_Teresa Toda_Toda Urraca_Urraca
 		}
@@ -876,13 +876,13 @@ iberian = {
 		color = { 0.85 0.75 0.08 }
 
 		male_names = {
-			Alfons_Alphonse Arnau_Arnold Artau_Artal Berenguer_Berengar Berenguer-Ramon Bernat_Bernard Bernat-Guillem Dalmau Ermengol_Ermengaud Felip_Philip
+			阿尔方斯_阿方索 Arnau_阿诺德 Artau_Artal Berenguer_Berengar Berenguer-Ramon Bernat_Bernard Bernat-Guillem Dalmau Ermengol_Ermengaud Felip_Philip
 			Ferran_Ferdinand Frederic_Frederick Gausfred_Godfrey Gerard_Gerard Gombau Guerau_Gerald Guifré_Wilfred Guillem_William Guillem-Ramon Guislabert_Gilbert
 			Hug_Hugh Jaume_Jacob Joan_John Jofré_Godfrey Ott_Otto Pere_Peter Pon?_Pons Pon?-Hug Ramon_Raymond Ramon-Berenguer_Raymond-Berengar
 			Ramon-Folc Roger_Roger San?_Sancho Sunyer_Sunyer Udalard
 		}
 		female_names = {
-			Adelaida_Adelaide Agnès_Agnes Alamanda Arsenda_Arsenda Beatriu_Beatrice Blanca_Blanche Brunisenda Constan?a_Constance Dol?a_Douce Elionor_Eleanor
+			Adelaida_阿德莱德 Agnès_Agnes Alamanda Arsenda_Arsenda Beatriu_Beatrice Blanca_Blanche Brunisenda Constan?a_Constance Dol?a_Douce Elionor_Eleanor
 			Elisenda Ermessenda_Ermesinda Estefania_Stephania Gueraua Guillelma Guisla_Gisela Isabel_Elisabeth Margarida_Margaret Maria_Maria Marquesa_Marquise
 			San?a_Sancha Sibila_Sibylla Teresa_Teresa Toda_Toda Violant_Yolanda
         }
@@ -905,8 +905,8 @@ iberian = {
 		color = { 0.75 0.67 0.07 }
 
 		male_names = {
-			Afonso_Alphonse Aires álvaro_Oliver Bermudo_Vermudo Diogo_Diaco Egas Estêv?o_Stephen Fern?o_Ferdinand Fernando_Ferdinand Garcia_Garcia
-			Gil_Egidius Gomes_Gomez Gon?alo_Gonzalo Guterre_Walter Henrique_Henry Hermígio Jo?o_John Lopo_Lupo Louren?o_Laurence Martim_Martin
+			Afonso_阿方斯 Aires álvaro_Oliver 贝尔穆多_Vermudo Diogo_Diaco Egas Estêv?o_Stephen Fern?o_Ferdinand Fernando_Ferdinand Garcia_Garcia
+			Gil_Egidius Gomes_Gomez Gon?alo_贡萨洛 Guterre_Walter Henrique_Henry Hermígio Jo?o_John Lopo_Lupo Louren?o_Laurence Martim_马丁
 			Mem_Mendo Mendo_Mendo Monio_Munio Muno_Munio Nuno_Nuno Paio_Pelagius Pedro_Peter Pero_Peter P?ncio_Pons Rodrigo_Roderick Rui_Roderick
 			Sancho_Sancho Soeiro_Suero Raimundo_Raymond Vasco_Vasco Vicente_Vincent
 		}
@@ -937,7 +937,7 @@ iberian = {
 
 		male_names = {
 			阿方索_阿方斯 阿吉拉 杰尼亚 阿拉里克 阿里克 亚述费纳奥_斐迪南 费尔南多_斐迪南 Diaco_Diaco Fafila
-			Friedenando_Ferdinand Friednand_Ferdinand Froila_Froila Gar?i_Garcia Gon?alo_Gonzalo Gundemar Guttier_Walter Johan_John Liuva Liuvericho
+			Friedenando_Ferdinand Friednand_Ferdinand Froila_Froila Gar?i_Garcia Gon?alo_贡萨洛 Gundemar Guttier_Walter Johan_John Liuva Liuvericho
 			卢波_卢波 Mauregato Monnio_Munio Nunno_Nuno Oliba Ordonno_Ordono Pelagio_Pelagius Petro_Peter Ranimiro_Ramiro Rekkaredo
 			Rodericho_Roderick Sans_Sancho Silo Suneario_Sunyer Suniefredo Theodoricho_Theodoric Veremondo_Vermudo Wifredo_Wilfred Wimarano Witiza
 
@@ -1256,7 +1256,7 @@ celtic = {
 			Iago_Jacob Ivor_Ivar Idnerth_Idnerth Idwal_Idwal Idwallon_Idwallon Iestyn_Justin Ieuan_John Ifor_Ivar Io Ioan_John Iolo Iorwerth Ithel_Ithel
 			Lles_Lucius Llew_Leon Llyr Llywarch_Llywarch Llywelyn Macsen_Maximos Madog_Matad Mael_Mael Maelcwn_Malcolm Maelgwn_Melgwn Maenyrch March_Marcus
 			Maredudd_Murdoch Math_Matthew Mawgan_Mawgan Meilyr Meirchion_Marcianus Meiriadog_Meriadoc Meirion_Marianus Merfyn_Merfyn Meurig_Maurice
-			Mihangel_Michael Morfarch_Morfarch Morgan_Morgan Morien_Morgen Morydd Mwyn_Mungo Myrddin_Martin Neithon_Nathan Nowy_Nowy Nynniaw Oswallt_Oswald
+			Mihangel_Michael Morfarch_Morfarch Morgan_Morgan Morien_Morgen Morydd Mwyn_Mungo Myrddin_马丁 Neithon_Nathan Nowy_Nowy Nynniaw Oswallt_Oswald
 			Owain_Eugene Oucydd_Eochaid Padern Padrig_Patrick Pandoff Pasgen_Pascentius Padarn_Paternus Pawl_Paul Pedr_Peter Peredyr Publig Pyr
 			Rheinallt_Reginald Rhicert_Richard Rhigeneu_Ricenus Rhirid Rhiwal_Riwal Rhiwallon_Rhiwallon Rhobert_Robert Rhodri_Roderick Rhufon_Roman
 			Rhun_Rucenus Rhydderch_Roderick Rhydog Rhys Riaged_Riacet Richwin_Richwin Sandde_Sanctus Sawyl_Samuel Seferus_Severin Seisyll_Cecil Selyf_Solomon
@@ -1326,7 +1326,7 @@ celtic = {
 			Iedechael Iehan_John Ilcarthon Ildut Iliud Inisian Iocilin_Joscelin Iodoc Ionas_Jonas Iosep_Joseph Iudcum Iuduallon_Idwallon Iudhael_Ithel
 			Iudicael_Judicael Iudnerth_Idnerth Iudnimet_Ednyfed Iustoc Iudoc Iudual_Idwal Iumael Iunceneu Iunuocon Iunmonoc Jord_George Leucum Loi
 			Lorens_Laurence Louenan Loumarch_Llywarch Lou?s_Louis Maelcon_Maelgwn Maeldo? Maelhuedoc Maeloc Maelscoet Maelscuet Maenceneu Maenci
-			March_Marcus Marthin_Martin Matheudo? Mathias_Matthew Matoc_Matad Matuid Maugan Mauric_Maurice Medrod_Mordred Meldroc Meriadoc_Meriadoc
+			March_Marcus Marthin_马丁 Matheudo? Mathias_Matthew Matoc_Matad Matuid Maugan Mauric_Maurice Medrod_Mordred Meldroc Meriadoc_Meriadoc
 			Mermin_Merfyn Meugan_Mawgan Meven Michel_Michael Morcant_Morgan Morcondeleu Morgen_Morgen Morguethen Morhaetho Mormarch_Morfarch Morvan
 			Mortiern Neven Nicolas_Nicholas Nodethael Nodhoiarn Nomino? Nougui_Nowy Oliuer_Oliver Oswallt_Oswald Padric_Patrick Paol_Paul Pascueten_Pasquitan
 			Patern_Paternus Petroc Phelippe_Phillip Piran Prigent Primael Primarhoc Putrael Pêr_Peter Ralf_Ralph Raoul_Ralph Renan Resmen Riacet_Riacet
@@ -1337,7 +1337,7 @@ celtic = {
 			Ungust Urbcen_Urbgenius Urbien_Urban Urblon Urvod Uther_Victor Vincenne_Vincent
 		}
 		female_names = {
-			Aanor Abrelda_Abrelda Adela_Adela Adela?da_Adelaide Adelindis Adeltrudis Aedoc Aeluit_Aelwyd Agnes_Agnes Alana Alis_Alice Anaguistl Anaudat Anaudrec
+			Aanor Abrelda_Abrelda Adela_Adela Adela?da_阿德莱德 Adelindis Adeltrudis Aedoc Aeluit_Aelwyd Agnes_Agnes Alana Alis_Alice Anaguistl Anaudat Anaudrec
 			Anauhouguel Anauprost Andrea Anna_Anna Aourcen Aouregan Aourell Aouren Argantan Argantdrec Arganteila Arganteilin Argantguistl Arganthael Argantlon
 			Argantmoet Artaca Avandrec Avenie Beladora_Beladore Berchet_Brigid Berengaria Bernegarda Berta Berthildis_Bertha Bertissa Bleutuen_Blodwen Brendana
 			Bronuen_Bronwen Buriana Canna Cateline_Catherine Catguistl Cecilia_Cecilia Ceindrec_Cagintria Ceinguled Cleirui_Creirwy Condeleu Constansa_Constance
