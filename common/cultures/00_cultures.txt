@@ -1820,7 +1820,7 @@ altaic = {
 			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz
 		}
 		
-		from_dynasty_prefix = "沃 "
+		from_dynasty_prefix = "兀 "
 		founder_named_dynasties = yes
 
 		allow_looting = yes
@@ -1837,15 +1837,15 @@ altaic = {
 		color = { 0.4 0.4 1.0 }
 
 		male_names = {
-			阿巴哈 Achigh Aguchu Ajai Ajinai Akhutai Alagh Alchi Alchidai Altan Ambaghai Arkhai Arasen Babur Badai Bagaridai Bala Barghujin Bartan 拔都 Bedugun Begter Belgutei
-			Belgunutei Bilge Berke Bodonchar Bogen Bogorchu Bolkhadar Borjigidai Boroghul Bughu Bugidai Bugunutei Bujeg Bukha Bulughan Buri Burkhan Burundai Chagatai Chaghagan Chanai Chigu
-			Chidukhul Chilagun Chiledu Chormakhan Chulgetei Dagun Daritai Dayir Dodai Duua Eljigedei Ghazan Ghunan Guchu Gughlug Guyug Harghasun Horkhudagh Hulegu Husun Inalchi Inancha Iturgen 
-			Jajiradai Jamugha 哲别 术赤 Jurchedei Khabichi Khachi Khachigun Khadagh 察合台 Khaidu Khal Khorchi Khorilartai Khubilai Khudu Khutula Khuyildar Kogsegu 阔阔出 Megetu Megujin
-			Menggei 蒙哥 Morokha Munglig Nakhu Narin Nayaga Nogai Odchigin 窝阔台 Okhotur Oljaitu Oronartai Shiraghul Shirgugetu 速不台 Suyiketu Taghai 探马赤 Targhutai Temuge 铁木真 帖木儿
-			Todogen Toghoril Toghtoga Tokhtamis 拖雷 拖勒赤 土蛮 Uighurtai Ukhuna Usun Yedi Yegu Yeke 也速该 Yesunge Yokhunan Kadan Godan
+			阿巴哈 阿赤黑 阿阔出 阿泽 阿真乃 阿忽台 阿刺忽 阿勒赤 阿赤歹 阿勒坛 俺巴孩 阿可海 阿剌孙 巴不儿 巴歹 宝格里台 巴剌 巴儿忽真 八哩丹 拔都 别都浑 别克帖儿 别古带
+			别勒古讷台 必勒哥 别儿哥 孛端察儿 孛坚 孛斡儿出 孛克哈达 孛儿只斤 博尔忽 不忽 不知带 不古努带 不者克 木花 不鲁干 不里 不儿罕 不伦歹 察合台 察合安 察乃 赤古
+			赤都忽 赤老温 赤列都 搠儿马罕 速儿吉带 达衮 答里台 答亦儿 朵歹 都哇 野里知吉带 合赞 忽难 曲出 古出兀惕 贵由 哈个慎 哈克忽打 旭烈兀 许慎 脱劣勒赤 亦难赤 亦秃儿哥 
+			札几拉带 札木合 哲别 术赤 术者台 可必赤 哈赤 哈赤浑 哈达 察合台 海都 哈勒 克赤 豁里剌儿台 忽必烈 忽都 忽都剌 忽亦答儿 可克薛兀 阔阔出 蔑古秃 蔑古真
+			蒙哥 蒙哥 抹罗合 蒙力克 纳忽 纳邻 纳亚合 那海 渥赤斤 窝阔台 窝或都 完者都 斡罗纳儿台 失剌兀 失烈忽合都 速不台 速亦克图 塔海 探马赤 塔儿忽台 帖木格 铁木真 帖木儿
+			脱朵颜 脱斡邻 脱黑脱阿 脱他迷 拖雷 拖勒赤 土蛮 回忽台 兀浑那 兀孙 也抵 也古 也克 也速该 也孙哥 约忽难 呿但 各但
 		}
 		female_names = {
-			阿-阿尔塔 阿兰 阿尔塔泥 Borte Botokhui Bulughan 察毕 Chagur Chakha Checheyigen Chotan Doregene Doquz Ebegei Gurbesu 诃额仑 Holuikhan Ibakha Khadagan Khogaghchin 火臣 Khorijin Khugurchin 忽兰 Khutulun Mandukhai 蒙古贞 Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun T?regene Yesugun Yesui 诃额伦
+			"阿-阿尔塔" 阿兰 阿尔塔泥 孛儿帖 孛秃回 不鲁干 察毕 察忽儿 察卡 扯扯亦坚 扯檀 孛剌合真 脱古思 诃别该 忽别速 诃额仑 豁雷罕 亦巴合 合答安 火合臣 华筝 可里斤 库格沁 忽兰 忽秃伦 满都海  蒙古贞 莫孥伦 斡兀立 斡儿伯 莎合合 莎儿合黑塔妮 特勤 特睦伦 土里浑 也速浑 也遂 诃额伦
 		}
 		
 		from_dynasty_prefix = "of "
