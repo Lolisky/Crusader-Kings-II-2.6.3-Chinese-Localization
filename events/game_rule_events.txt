@@ -1,0 +1,318 @@
+####################
+# Game Rule Events #
+####################
+
+namespace = GR
+
+# Remove Titles without De Jure land
+character_event = {
+	id = GR.1
+	desc = EVTDESC_GR_1
+	picture = GFX_evt_throne_room
+	
+	is_triggered_only = yes
+	
+	only_playable = yes
+	war = no
+	
+	trigger = {
+		is_merchant_republic = no
+		any_demesne_title = {
+			higher_tier_than = COUNT
+			is_titular = no
+			is_landless_type_title = no
+			NOR = {
+				title = k_papal_state
+				title = k_orthodox
+			}
+			NOT = {
+				ROOT = {
+					any_realm_title = {
+						tier = COUNT
+						any_dejure_liege = { title = PREVPREVPREV }
+					}
+				}
+			}
+		}
+		has_game_rule = {
+			name = de_jure_requirement
+			value = required
+		}
+	}
+	
+	immediate = {
+		random_demesne_title = {
+			limit = {
+				higher_tier_than = COUNT
+				is_titular = no
+				is_landless_type_title = no
+				NOR = {
+					title = k_papal_state
+					title = k_orthodox
+				}
+				NOT = {
+					ROOT = {
+						any_realm_title = {
+							tier = COUNT
+							any_dejure_liege = { title = PREVPREVPREV }
+						}
+					}
+				}
+			}
+			save_event_target_as = title_to_destroy
+		}
+	}
+	
+	option = {
+		name = EVTOPTA_GR_1
+		event_target:title_to_destroy = {
+			destroy_landed_title = THIS
+			add_claim = ROOT
+		}
+	}
+}
+
+# Nomad Realm Instability
+character_event = {
+	id = GR.10
+	hide_window = yes
+
+	only_playable = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		has_dlc = "Horse Lords"
+		independent = yes
+		is_nomadic = yes
+		NOT = {
+			has_game_rule = {
+				name = nomad_stability
+				value = stable
+			}
+		}
+	}
+	
+	immediate = {
+		current_heir = {
+		  save_event_target_as = nomadic_heir
+		}
+		any_vassal = {
+			character_event = { id = GR.11 }
+		}
+	}
+}
+
+character_event = {
+	id = GR.11
+	desc = EVTDESC_GR_11
+	picture = GFX_evt_horsemanship
+
+	only_playable = yes
+	capable_only = yes
+	prisoner = no
+	min_age = 16
+	
+	is_triggered_only = yes
+
+	trigger = {
+		has_dlc = "Horse Lords"
+		liege = {
+			independent = yes
+			is_nomadic = yes
+			in_revolt = no
+		}
+		in_revolt = no
+		independent = no
+	}
+	
+	option = {
+		name = EVTOPTA_GR_11 # Remain a vassal
+		ai_chance = {
+			factor = 100
+			modifier = {
+				factor = 2
+				opinion = {
+					who = FROM
+					value = 25
+				}
+			}
+			modifier = {
+				factor = 2
+				opinion = {
+					who = FROM
+					value = 50
+				}
+			}
+			modifier = {
+				factor = 2
+				opinion = {
+					who = FROM
+					value = 75
+				}
+			}
+			modifier = {
+				factor = 2
+				opinion = {
+					who = FROM
+					value = 100
+				}
+			}
+			modifier = {
+				factor = 2
+				liege = {
+					NOT = {
+						realm_size = 50
+					}
+				}
+			}
+			modifier = {
+				factor = 3
+				is_nomadic = yes
+			}
+			modifier = {
+				factor = 10
+				liege = {
+					has_landed_title = e_mongol_empire
+				}
+			}
+			modifier = {
+				factor = 4
+				trait = content
+			}
+		}
+	}
+	option = {
+		name = EVTOPTB_GR_11 # Go independent
+		
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 0
+				OR = {
+					has_blood_oath_with = FROM
+					is_friend = FROM
+				}
+			}
+			modifier = {
+				factor = 2
+				OR = {
+					has_feud_with = FROM
+					is_rival = FROM
+				}
+			}
+			modifier = {
+				factor = 2
+				NOT = {
+					opinion = {
+						who = FROM
+						value = -25
+					}
+				}
+			}
+			modifier = {
+				factor = 2
+				NOT = {
+					opinion = {
+						who = FROM
+						value = -50
+					}
+				}
+			}
+			modifier = {
+				factor = 2
+				NOT = {
+					opinion = {
+						who = FROM
+						value = -75
+					}
+				}
+			}
+			modifier = {
+				factor = 2
+				NOT = {
+					opinion = {
+						who = FROM
+						value = -100
+					}
+				}
+			}
+			modifier = {
+				factor = 2
+				trait = ambitious
+			}
+		}
+		
+		hidden_tooltip = {
+			event_target:nomadic_heir = { character_event = { id = GR.12 days = 1 } }
+		}
+		
+		if = {
+			limit = {
+				is_nomadic = yes
+			}
+			any_demesne_title = {
+				limit = {
+					tier = count
+				}
+				add_claim = event_target:nomadic_heir
+			}
+		}
+		
+		if = {
+			limit = {
+				is_nomadic = no
+			}
+			reverse_opinion = {
+				who = event_target:nomadic_heir
+				modifier = declared_independence_nomad
+				years = 50
+			}
+			hidden_tooltip = {
+				any_courtier_or_vassal = {
+					limit = {
+						dynasty = ROOT
+					}
+					reverse_opinion = {
+						who = event_target:nomadic_heir
+						modifier = declared_independence_nomad
+						years = 50
+					}
+				}
+			}
+		}
+		
+		liege = {
+			any_vassal = {
+				limit = {
+					in_revolt = yes
+					any_war = {
+						defender = { character = ROOT }
+						attacker = {
+							character = THIS			
+						}
+					}
+				}
+				set_defacto_liege = THIS
+			}
+		}
+		
+		set_defacto_liege = THIS
+	}
+}
+
+# The liege is notified of the independence
+character_event = {
+	id = GR.12
+	desc = EVTDESC_GR_12
+	picture = GFX_evt_emissary
+
+	is_triggered_only = yes
+	
+	notification = yes
+	
+	option = {
+		name = EVTOPTA_GR_12
+	}
+	
+}
