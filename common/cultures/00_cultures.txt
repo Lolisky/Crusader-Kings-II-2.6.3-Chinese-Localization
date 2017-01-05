@@ -1811,13 +1811,13 @@ altaic = {
 		color = { 0.85 0.75 0.50 }
 
 		male_names = {
-			Bilge ?or ¨¹ge Barchuq T?m¨¹r Bars Adigh Buqa M?nglik ?zmish
-			?ilbu Aepak Asalup Asep Atrak B?nek Bachman Begluk Blush Bonyak ²ª¶û³à Elde?yuk Etrek Girgen Gzi Itlar Ituk K?n?ek Kobyak Kopti Kotyan Koza
-			Kozel Kubasar Kuntuvdi Kutan Pulad Saru Seven? Sir?an Sokal Sotan Sugr T?rtogul Togli Tolun Tugor Uzluk Uzur
+			š³Ù¤ ºú ÎÚ½é °Í¶øÊõ ß¯ÄÀ¶ù ÆÅĞ© °¢¶¡ ²»»¨ ÂíÀû Ã»ÃÜÊ§
+			Ï¤²· ŞÉ²© çæêıÂ¥ çæŒÔ °¢ßÍØİ ÆÑ© ÆÅ³öÂü Ü±Â¹ ŞåÂ¥Ë¼ Ä¥ÑÓ ²ª¶û³à ¾ãßÍ¶¡ ŞÉÌè ÆäÏÍ Æä´È ò¡Âä „ÂßÍ ¿±Æä¿É ¹ÂÅÄ ºÏÌá À«ÑÓ ¹Â²Å
+			¹Çº] ¹´ÆÅêı ä¸¶µŞÉµÚ ¿àÌ´ ²¨Àµ æ¶Â¥ Ê§ÏÒ Ê§¶ù¸É ËÕ¿Â ËÕÌ´ ä³ºÎ ¶¼¶¼ºÍ ¶¼Àû ¶¼ÂÎ ¶¼ºú ÎÚÂ»¿Ë ÎÚÊÜ
 		}
 		female_names = {
-			?i?ek ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Ayasun Ayten Boz?in Dilek Esin Gul?i?ek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz
+			ç»„Ş ç»Áã ç»µ¥ÄÑ È¡ºî ÎÚÁÒ °¢ºî °¢Ë¼¹] °¢ÑÇÏÈ °®µÇ ÆÑÉÈ µØÛª ÎªĞÂ Ï¤´ğÅ¥Ê§ ºîéH ÍêÍ¶ ÍêÌáË¼ ¹ÅÅ¥ ÓÈ¸Ã ÓÈ±Ú ÓÈ±ÚóÇ „ÂÙ¤
+			¸çÂŞ¼´ Ä¥ÂŞ Ä¾óÆÂ» ±ÚÏÈ æ¶…Ş æ¶Àå¿Â ÈøØµ Î÷ºîÀ´ Î÷º®³Á Ë¼í@ Ë¼ÁÚ Ë¼Ä¦ ËÕı{ÂŞ ØµóÇ óûÂŞ ÎÚÃ· ÎÚÏÈÚü Ô½æ¶ ÒÁßÍ á¡µØ
 		}
 		
 		from_dynasty_prefix = "Ø£ "
@@ -3024,27 +3024,27 @@ indo_aryan_group = {
 		color = { 1.0 0.0 0.0 }
 	
 		male_names = {
-			Achalraj_Achalraja Achalraja_Achalraja Adhandev Adityadeva Ajmal Alsi Amir Anangpal_Anangpala Anangpala_Anangpala Anupapala_Anupapala 
-			Anuppal_Anupapala "Apara Gangeya" Arjunpal_Arjunpala Arjunpala_Arjunpala Arjunavarman Bacchdev Bachraj Baghpal_Baghpala Baghpala_Baghpala 
-			Bahadur-Singh Beejpal_Beejpala Beejpala_Beejpala Bhaadar Bhilpala Bhoj_Bhoja Bhoja_Bhoja Bhojavarman_Bhoja Bhopal Bhumpal_Bhumpala 
-			Bhumpala_Bhumpala Birpal_Birpala Birpala_Birpala Bisaldeva Brahmadeva Brahmapala Brahmdevpal Chand Devapala Devavarman Dhanga_Dhanga 
-			Dhangadeva_Dhanga Dharmapala Dhaulshaya Dilipapala_Dilipapala Dilippal_Dilipapala Doth Draupad_Draupada Draupada_Draupada Dugarendra 
-			Gambhir Ganapatideva Gandadeva Gangeya Ghatamdeva Gopal_Gopala Gopala_Gopala Govindachandra Govindapala Govindaraja_Govindaraja Govindraj_Govindaraja
-			Hamir Hammiravarman Harpal Harsa_Harsa Harshapala_Harsa Hirapal_Hirapala Hirapala_Hirapala Indrapal_Indrapala Indrapala_Indrapala Ishtpala 
-			Jaganpal_Jaganpala Jaganpala_Jaganpala Jagatpal_Jagatpala Jagatpala_Jagatpala Jagdev_Jagdeva Jagdeva_Jagdeva Jaidas Jaipal Jaitugideva Jasapala_Jasapala 
-			Jaspal_Jasapala Jatanpal_Jatanpala Jatanpala_Jatanpala Jayapala Jayasakti Jayasimha Jayavarman Jhetpal_Jhetpala Jhetpala_Jhetpala Junpala 
-			Kailaspal_Kailaspala Kailaspala_Kailaspala Kalkurna Kalyanachandra Kakhopal_Kakhopala Kakhopala_Kakhopala Kamal Kanhad Kanvarpal_Kanvarpala 
-			Kanvarpala_Kanvarpala Karnpal Keeratdeva Khadag Khetrapal_Khetrapala Khetrapala_Khetrapala Kiratpal_Kiratpala Kiratpala_Kiratpala Krishnray 
-			Krsnapa Kumarapala Kunwar_Kunwar Kunwarpal_Kunwar Ladahachandra Lakshmandeva Lokpala Madanapala Madanavarman Maharana Mahendrapal_Mahendrapala 
-			Mahendrapala_Mahendrapala Mahipal_Mahipala Mahipala_Mahipala Mahipata Mahlakadeva Mandandeva Mangaldeva Margdeva Mihira Nagapala Nagdeo Nannuka 
-			Naravarman Narayanapala Narpal Nayapala Nihaal Nihalray Paramardideva Pavak Peepalraj Popatraj Pritampal_Pritampala Pritampala_Pritampala Prithipala 
-			Prithvi_Prithvi Prithvipal_Prithvi Prithviraj_Prithviraja Prithviraja_Prithviraja Prithvivarman Rahila Rajapala Rajyapala Ramabhadra Ramachandra 
-			Rampal_Rampala Rampala_Rampala Rana Rangraj_Rangraja Rangraja_Rangraja Ratnapala Rijhpala Roshandeva Salivaahan Sallaksanavarman Saugandeva Shurapala 
-			Sisupal_Sisupala Sisupala_Sisupala Sohanpal Somasi Someshvara Sonpal_Sonpala Sonpala_Sonpala Srichandra Subhatavarman Sukhinpal_Sukhinpala 
-			Sukhinpala_Sukhinpala Sulakshanpal Sultanpal_Sultanpala Sultanpala_Sultanpala Surajpal_Surajpala Surajpala_Surajpala Traillokyachandra Tejapala_Tejpal 
-			Tejpal_Tejpal Tolpal Trailokyavarman Trilochanpala Udayaditya Udaysangh Uddharandeva Vachhal Vakpati Vapyata Varshapala_Varshapala Varshpal_Varshapala 
-			Vasudev Vidurathpal_Vidurathpala Vidurathpala_Vidurathpala Vidyadhara Vigrahapala Vigraharaja Vihangpal Vijayapala Vijayasakti Vinayakapala Vindhyavarman 
-			Viramdeva Viravarman Virsinghadeva Yasovarman
+			°¢´èÂŞ_°¢´èÂŞê^ °¢´èÂŞê^_°¢´èÂŞê^ °¢µ«Ìö °¢³ÙÌèÌáÆÅ °¢Ä¦ °¢Ï¤ °¢ÃÀ °¢ÄÑÅÍ_°¢ÄÑ²¨ÂŞ °¢ÄÑ²¨ÂŞ_°¢ÄÑ²¨ÂŞ °¢Å©²¨²¨ÂŞ_°¢Å©²¨²¨ÂŞ 
+			°¢Á…ÅÍ_°¢Á…²¨²¨ÂŞ "°¢²¨ÂŞ ¿¹ŞÉÒ®" °¢»ëÅÍ_°¢»ë²¨ÂŞ °¢Ôµ²¨ÂŞ_°¢Ôµ²¨ÂŞ °¢ÓÉÄÇÆÅÂü ¸¿´èÌö ¸¿´èÂŞ ÆÅ¿ÁÅÍ_ÆÅ¿Á²¨ÂŞ ÆÅ¿Á²¨ÂŞ_ÆÅ¿Á²¨ÂŞ 
+			ÆÅÚ­Í¶-ĞÁŞÉ ÚüÅÍ_Úü²¨ÂŞ Úü²¨ÂŞ_Úü²¨ÂŞ ÆÅÍÓ Úü²¨ÂŞ ÆÅÒÆ_ÆÅÒ® ÆÅÒ®_ÆÅÒ® ÆÅÒ®ÆÅÂü_ÆÅÒ® ÆÑÅÍ ÅÍÅÍ_ÅÍ²¨ÂŞ 
+			·±²¨ÂŞ_·±²¨ÂŞ Ü±ÅÍ_Ü±²¨ÂŞ Ü±²¨ÂŞ_Ü±²¨ÂŞ Úüæ¶ÌáÆÅ °ÒÄ¦ÌáÆÅ °ÒÄ¦²¨ÂŞ ÆÅÚ­ÌöÅÍ ²ûÍÓ ÌáÆÅ²¨ÂŞ ÌáÆÅÆÅÂü î±¿Á_î±¿Á 
+			î±¿ÁÌáÆÅ_î±¿Á ´ïÄ¦²¨ÂŞ ßûÉ³Ò® Ìá¹]²¨²¨ÂŞ_Ìá¹]²¨²¨ÂŞ ÌáÁ¢ÅÍ_Ìá¹]²¨²¨ÂŞ ÍÀÌè ßû±´_ßû²¨ÍÓ ßû²¨ÍÓ_ßû²¨ÍÓ Í¶¿ÁÁã²è 
+			º¨Úü ¿ÁÄÇ²¨ØµÌáÆÅ º®ÍÓÌáÆÅ º¹ŞÉÒ® ¿ÁÙÙÌáÆÅ ºúÅÍ_ºú²¨ÂŞ ºú²¨ÂŞ_ºú²¨ÂŞ ºúÅşÍÓ²û²è ºúÅşÍÓ²¨ÂŞ ºúÅşÍÓÂŞê^_ºúÅşÍÓÂŞê^ ºúÅş²è_ºúÅşÍÓÂŞê^
+			Ú­Ä² Ú­Ä²ÂŞÆÅÂü Ú­ÅÍ Ú­êı_Ú­êı Ú­É³²¨ÂŞ_Ú­É³ ÎõÂŞÅÍ_ÎõÂŞ²¨ÂŞ ÎõÂŞ²¨ÂŞ_ÎõÂŞ²¨ÂŞ Ô±²èÅÍ_Ô±²è²¨ÂŞ Ô±²è²¨ÂŞ_Ô±²è²¨ÂŞ á¡Ï¤²¨ÂŞ 
+			Ò®º¹ÅÍ_Ò®º¹²¨ÂŞ Ò®º¹²¨ÂŞ_Ò®º¹²¨ÂŞ Ò®êÂÅÍ_Ò®êÂ²¨ÂŞ Ò®êÂ²¨ÂŞ_Ò®êÂ²¨ÂŞ ÒÆÌö_ÒÆÌáÆÅ ÒÆÌáÆÅ_ÒÆÌáÆÅ Ò®ÍÓ Ò®ÅÍ Ò®óûÆäÌáÆÅ Ò®êı²¨ÂŞ_Ò®êı²¨ÂŞ 
+			Ò®êıÅÍ_Ò®êı²¨ÂŞ Ò®µ¥ÅÍ_Ò®µ¥²¨ÂŞ Ò®µ¤²¨ÂŞ_Ò®µ¤²¨ÂŞ Ò®Ô»²¨ÂŞ Ò®Ô»Ë÷Ìá Ò®Ô½Ğ¾Ú­ Ò®Ô½ÆÅÂü ÒÆÑ€ÅÍ_ÒÆÑ€²¨ÂŞ ÒÆ²¨ÂŞ_ÒÆ²¨ÂŞ ÑÓ²¨ÂŞ 
+			¸ÃÂŞÅÍ_¸ÃÂŞ²¨ÂŞ ¸ÃÂŞ²¨ÂŞ_¸ÃÂŞ²¨ÂŞ ¸ß¹´ÄÇ ¸ßÔ½ÄÇ²û²è ¸÷ºôÅÍ_¸÷ºô²¨ÂŞ ¸÷ºô²¨ÂŞ_¸÷ºô²¨ÂŞ ¿ÂÄ¦ ¸Éï™ ¿°ÆÅÅÍ_¿°ÆÅ²¨ÂŞ 
+			¿°ÆÅ²¨ÂŞ_¿°ÆÅ²¨ÂŞ ¿°ÅÍ »üØİÌáÆÅ éğÍÓ ÏªŠLÅÍ_ÏªŠL²¨ÂŞ ÏªŠL²¨ÂŞ_ÏªŠL²¨ÂŞ ÆäØİÅÍ_ÆäØİ²¨ÂŞ ÆäØİ²¨ÂŞ_ÆäØİ²¨ÂŞ »üÏ¤“¯ 
+			ÆäÄÇ²¨ ¹´Ä¥ÂŞ²¨ÂŞ ä¸±B_ä¸±B ä¸±BÅÍ_ä¸±B ÂŞÍÓÚ­²û²è ÀÖÉ³ÂüÌáÆÅ ÀÕ²¨ÂŞ Ä¦ÍÓÄÇ²¨ÂŞ Ä¦ÍÓÄÇÆÅÂü Ä¦Ú­ÂŞÄÇ Ä¦ìì²èÅÍ_Ä¦ìì²è²¨ÂŞ 
+			Âüìì²è²¨ÂŞ_Âüìì²è²¨ÂŞ Ä¦ÚÀÅÍ_Ä¦ÚÀ²¨ÂŞ Ä¦ÚÀ²¨ÂŞ_Ä¦ÚÀ²¨ÂŞ Ä¦ÚÀ²¨¶à Ä¥ÂŞ¿ÂÌáÆÅ Âüµ«ÌáÆÅ Âü¿ÁÌáÆÅ Ä¦ÌáÆÅ Ã¼õµÂŞ ÄÇ¿Á²¨ÂŞ ÄÇÌö ÄÑÁ…¿Â 
+			ÄÇÂŞÆÅÂü ÄÇÂŞÑÜÄÇ²¨ÂŞ ÄÇÅÍ ÄÇÔ½²¨ÂŞ ÄÇÚ­ ¶ùÚ­ÂŞ ²¨ÂŞÄ¦ÌáÌáÆÅ ²¨ºÔ ±¯²¨ÂŞ åÍ²¨ŠL ±¯µ£ÅÍ_±¯µ£²¨ÂŞ ±¯µ£²¨ÂŞ_±¯µ£²¨ÂŞ ±¯Ï¤²¨ÂŞ 
+			±¯ó×_±¯ó× ±¯ó×ÅÍ_±¯ó× ±¯ó×ÂŞ_±¯ó×ÂŞê^ ±¯ó×ÂŞê^_±¯ó×ÂŞê^ ±¯ó×ÆÅÂü ÂŞõµÂŞ ÂŞê^²¨ÂŞ ÂŞÒ®²¨ÂŞ ÀºÆÅ²è Àº²û²è 
+			ÀºÅÍ_Àº²¨ÂŞ Àº²¨ÂŞ_Àº²¨ÂŞ ÂŞÄÇ ÀÅÂŞ_ÀÅÂŞê^ ÀÅÂŞê^_ÀÅÂŞê^ ØİÄÇ²¨ÂŞ ¹]ÒÆ²¨ÂŞ Â¬É½ÌáÆÅ êı¹]·¥°¢º¬ É¦ÀÖêıÄÇÆÅÂü É¦º®ÌáÆÅ ÏôÂŞ²¨ÂŞ 
+			Ë¼ä³ÅÍ_Ë¼ä³²¨ÂŞ Ë¼ä³²¨ÂŞ_Ë¼ä³²¨ÂŞ ËÕñüÅÍ ËÕÄ¦Ë¼ ËÕÃÔÉ³ÂŞ ÏÈÅÍ_ÏÈ²¨ÂŞ ÏÈ²¨ÂŞ_ÏÈ²¨ÂŞ É¸²û²è ä³Ú­¶àÆÅÂü ä³Ç£ÅÍ_ä³Ç£²¨ÂŞ 
+			ËÙìì²¨ÂŞ_ËÙìì²¨ÂŞ ä³ÀÖÉ½ÅÍ êıµ¤ÅÍ_êıµ¤²¨ÂŞ êıµ¤²¨ÂŞ_êıµ¤²¨ÂŞ ä³ÂŞÅÍ_ä³ÂŞ²¨ÂŞ ä³ÂŞ²¨ÂŞ_ä³ÂŞ²¨ÂŞ ²èá¡ÀÕÒ®²û²è µÌÒ®²¨ÂŞ_µÌÅÍ 
+			ØµÅÍ_ØµÅÍ ¶¼ÅÍ ó×Â¬¿ÂÆÅÂü ó×Â¬²û²¨ÂŞ ÎÚÍÓÒ®Ìá¶à ÎÚÍÓêıÑĞ ÎÚÍÀÚ­À¼ÌáÆÅ ·¥ÆŞÚ­ ·¥²¨Ìá ·¥°Í¶à ·¥É³²¨ÂŞ_·¥É³²¨ÂŞ ·¥Ë¼ÅÍ_·¥É³²¨ÂŞ 
+			·¥ä³Ìö Åşä³ÂŞó×ÅÍ_ÅşÍ¶ÂŞó×²¨ÂŞ ÅşÍ¶ÂŞó×²¨ÂŞ_ÅşÍ¶ÂŞó×²¨ÂŞ Åş²èÚ­ÂŞ Åş¿ÁÚ­²¨ÂŞ Åş¿ÁÚ­ÂŞê^ ÅşıÅÍ ÅşÒ®Ô½²¨ÂŞ ÅşÒ®Ô½Ë÷Ìá ÅşÄÇÔ½¿Â²¨ÂŞ Åş²èÆÅÂü 
+			ÅşÀºÌáÆÅ ÅşÂŞÆÅÂü ÅşĞÁ¿ÁÌáÆÅ Ô½ËÕÆÅÂü
 		}
 		female_names = {
 			°¢åÈ¶û °¢ÄÑ¶àÌáÅş ´ïÄ¦ÑÜÌá ´ï¶àÌáÅş ÌáÚ­ÄÇÙ¤ÌáÅş İËÂ¥ÆÅÌáÅş İËÂ¥ÆÅË¹·¥ÃÜÄá êÂÄ¦·¥Ìá 
