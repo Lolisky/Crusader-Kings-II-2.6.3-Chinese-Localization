@@ -15818,10 +15818,10 @@ e_tartaria = {
 			
 				color = { 55 100 160 }
 				
-				tocharian = "ÑÅ¿²"
+				tocharian = "Ò¶¶û¿²"
 
 				b_yarkand = {
-					tocharian = "ÑÅ¿²"
+					tocharian = "Ò¶¶û¿²"
 				}
 				b_tashkurgan = {
 					sogdian = "ÈøÀ×À«ÀÕ"
@@ -15922,12 +15922,12 @@ e_tartaria = {
 				
 				uyghur = "³µ¶û³¼"
 				tocharian = "ÇÒÄ©ÍĞÄÉ"
-				sogdian = "ÇÒÄ©ÍĞÄÉ"
+				sogdian = "¿¨Âü´ïÄÉ"
 
 				b_cherchen = {
 					uyghur = "³µ¶û³¼"
 					tocharian = "ÇÒÄ©ÍĞÄÉ"
-					sogdian = "ÇÒÄ©ÍĞÄÉ"
+					sogdian = "¿¨Âü´ïÄÉ"
 				}
 				b_endere = {
 				}
@@ -15971,21 +15971,21 @@ e_tartaria = {
 			
 			capital = 1443 # Karashar
 			
-			uyghur = "¿â³µ"
-			tocharian = "°¢Î÷¿âÎ÷"
-			sogdian = "ÄÇ½ÒÂŞêÂ"
+			uyghur = "¸ß²ı"
+			tocharian = "°¢Î÷¹ê×È"
+			sogdian = "°¢êÈÄá"
 			turkish = "ÑÉêÈ"
 			
 			c_karashar = {
 				color = { 93 165 240 }
 				
 				tocharian = "°¢Î÷"
-				sogdian = "ÄÇ½ÒÂŞêÂ"
+				sogdian = "°¢êÈÄá"
 				turkish = "ÑÉêÈ"
 
 				b_karashar = {
 					tocharian = "°¢Î÷"
-					sogdian = "ÄÇ½ÒÂŞêÂ"
+					sogdian = "°¢êÈÄá"
 					turkish = "ÑÉêÈ"
 				}
 				b_korla = {
@@ -16009,12 +16009,12 @@ e_tartaria = {
 			c_kucha = {
 				color = { 80 160 195 }
 				
-				tocharian = "¹ê×È"
-				sogdian = "¹ê×ÈÄÇ"
+				tocharian = "Çü´Ä"
+				sogdian = "Çü´ÄÄÇ"
 				
 				b_kucha = {
-					tocharian = "¹ê×È"
-					sogdian = "¹ê×ÈÄÇ"
+					tocharian = "Çü´Ä"
+					sogdian = "Çü´ÄÄÇ"
 				}
 				b_xayar = {
 				}
@@ -16034,7 +16034,7 @@ e_tartaria = {
 			c_kara_khoja = {
 				color = { 70 120 150 }
 				
-				uyghur = "¿â³µ"
+				uyghur = "¸ß²ı"
 				tocharian = "ÍÁÌ´"
 	
 				b_kara_khoja = {
