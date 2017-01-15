@@ -489,9 +489,9 @@
 	}
 }
 166632 = {
-	name="Kirti" #Vijaya Kirti I
-	dynasty=1040024
-	religion="buddhist"
+	name="Úµ"           #Vijaya Kirti I Î¾³ÙËµ Î¾³Ù¾´µÂÏÈ×æÖ®Ò»µÄÃû×Ö 
+	dynasty=1040024     #ÓÚãÙÎ¾³Ù²¿×å ²ØÓï£ºVijaya
+	religion="buddhist" #µ«Î¬»ù°Ù¿ÆÉÏÓÐ¹úÍõÃû·­¡®Úµ¡¯
 	culture="sogdian"
 	85.1.1={
 		birth=yes
@@ -501,7 +501,7 @@
 	}
 }
 166633 = {
-	name="Sangrama" #Vijaya Sangrama I "the Lion" (Fangqian)
+	name="É®Ù¤ÂÞÄ¦" #Vijaya Sangrama I "the Lion" (Fangqian)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -517,7 +517,7 @@
 	}
 }
 166634 = {
-	name="Dharma" #Vijaya Dharma I (Jian)
+	name="´ïÄ¥" #Vijaya Dharma I (Jian)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -530,7 +530,7 @@
 	}
 }
 166635 = {
-	name="Jaya" #Vijaya Jaya I (Anguo)
+	name="³ÙÒ®" #Vijaya Jaya I (Anguo)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -543,7 +543,7 @@
 	}
 }
 166636 = {
-	name="Shima" #Vijaya Shima I
+	name="Ö¾Ä¦" #Vijaya Shima I
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -556,7 +556,7 @@
 	}
 }
 166637 = {
-	name="Saigrama" #Vijaya Saigrama I
+	name="É¢öÄÂÞÄ¦" #Vijaya Saigrama I
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -569,7 +569,7 @@
 	}
 }
 166638 = {
-	name="Andara" #Vijaya Andara I
+	name="°²´ïÀ­" #Vijaya Andara I
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -582,7 +582,7 @@
 	}
 }
 166639 = {
-	name="Vahana" #Vijaya Vahana I
+	name="ØôÄÇ" #Vijaya Vahana I Ïàµ±Î¾³Ùê×
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -595,7 +595,7 @@
 	}
 }
 166640 = {
-	name="Simha" #Vijaya Simha I
+	name="ÐÅÚ­" #Vijaya Simha I
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -608,7 +608,7 @@
 	}
 }
 166641 = {
-	name="Sata" #Vijaya Sata I
+	name="ÈøÌØ" #Vijaya Sata I 
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -621,7 +621,7 @@
 	}
 }
 166642 = {
-	name="Ananta" #Vijaya Ananta I
+	name="°¢ÄÏËþ" #Vijaya Ananta I
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -634,7 +634,7 @@
 	}
 }
 166643 = {
-	name="Saigrama" #Vijaya Saigrama II
+	name="É¢öÄÂÞÄ¦" #Vijaya Saigrama II
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -647,7 +647,7 @@
 	}
 }
 166644 = {
-	name="Dharma" #Vijaya Dharma II
+	name="´ïÄ¥" #Vijaya Dharma II
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -660,7 +660,7 @@
 	}
 }
 166645 = {
-	name="Sambhava" #Vijaya Sambhava I
+	name="É®ÎÚ²¨" #Vijaya Sambhava I
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -673,7 +673,7 @@
 	}
 }
 166646 = {
-	name="Pala" #Vijaya Pala I
+	name="ÆÅÂÞ" #Vijaya Pala I
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -686,7 +686,7 @@
 	}
 }
 166647 = {
-	name="Amala" #Vijaya Amala I
+	name="Ä¦ÂÞ" #Vijaya Amala I
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -699,7 +699,7 @@
 	}
 }
 166648 = {
-	name="Jaya" #Vijaya Jaya II
+	name="³ÙÒ®" #Vijaya Jaya II
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -712,7 +712,7 @@
 	}
 }
 166649 = {
-	name="Kirti" #Vijaya Kirti II
+	name="Úµ" #Vijaya Kirti II
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -725,7 +725,7 @@
 	}
 }
 166650 = {
-	name="Sangrama" #Vijaya Sangrama II
+	name="É®Ù¤ÂÞÄ¦" #Vijaya Sangrama II
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -738,7 +738,7 @@
 	}
 }
 166651 = {
-	name="Shima" #Vijaya Shima II
+	name="Ö¾Ä¦" #Vijaya Shima II
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -751,7 +751,7 @@
 	}
 }
 166652 = {
-	name="Jaya" #Vijaya Jaya III
+	name="³ÙÒ®" #Vijaya Jaya III
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -764,7 +764,7 @@
 	}
 }
 166653 = {
-	name="Pala" #Vijaya Pala II
+	name="ÆÅÂÞ" #Vijaya Pala II
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -777,7 +777,7 @@
 	}
 }
 166654 = {
-	name="Sangrama" #Vijaya Sangrama III
+	name="É®Ù¤ÂÞÄ¦" #Vijaya Sangrama III
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -790,7 +790,7 @@
 	}
 }
 166655 = {
-	name="Satra" #Vijaya Satra I
+	name="ÈøÌØÀ­" #Vijaya Satra I
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -803,7 +803,7 @@
 	}
 }
 166656 = {
-	name="Kirti" #Vijaya Kirti III
+	name="Úµ" #Vijaya Kirti III
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -816,7 +816,7 @@
 	}
 }
 166657 = {
-	name="Sangrama" #Vijaya Sangrama IV (Fudu Xiong)
+	name="É®Ù¤ÂÞÄ¦" #Vijaya Sangrama IV (Fudu Xiong)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -829,7 +829,7 @@
 	}
 }
 166658 = {
-	name="Khemeg" #Amala Khemeg - Regent of Khotan 680-692
+	name="ÐÛ" #Amala Khemeg - Regent of Khotan 680-692
 	dynasty=1040025
 	religion="buddhist"
 	culture="sogdian"
@@ -841,7 +841,7 @@
 	}
 }
 166659 = {
-	name="Vikarma" #Vijaya Vikarma I (Fudu Jing)
+	name="ÅþÆýÂÞÄ¦" #Vijaya Vikarma I (Fudu Jing)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -854,7 +854,7 @@
 	}
 }
 166660 = {
-	name="Dharma" #Vijaya Dharma III (Yuchi Tiao)
+	name="´ïÄ¥" #Vijaya Dharma III (Yuchi Tiao)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -867,7 +867,7 @@
 	} #Beheaded by the Chinese
 }
 166661 = {
-	name="Sambhava" #Vijaya Sambhava II (Yuchi Fushizhan)
+	name="É®ÎÚ²¨" #Vijaya Sambhava II (Yuchi Fushizhan)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -880,7 +880,7 @@
 	}
 }
 166662 = {
-	name="Vahana" #Vijaya Vahana II "the Great" (Fudu Da)
+	name="ØôÄÇ" #Vijaya Vahana II "the Great" (Fudu Da)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -896,7 +896,7 @@
 	}
 }
 166663 = {
-	name="Simha" #Vijaya Simha II (Yuchi Gui)
+	name="ÐÅÚ­" #Vijaya Simha II (Yuchi Gui)
 	dynasty=1040024
 	religion="manichean"
 	culture="sogdian"
@@ -912,7 +912,7 @@
 	}
 }
 166664 = {
-	name="Dhondhros" #Vijaya Dhondhros I (Yuchi Sheng)
+	name="ÄÏËþ" #Vijaya Dhondhros I (Yuchi Sheng)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -929,7 +929,7 @@
 	}
 }
 166665 = {
-	name="Sata" #Vijaya Sata II (Yuchi Shihu (Jabgu) Yao)
+	name="Úµ" #Vijaya Sata II (Yuchi Shihu (Jabgu) Yao)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -942,7 +942,7 @@
 	}
 }
 166666 = {
-	name="Ananta" #Vijaya Ananta II
+	name="°¢ÄÏËþ" #Vijaya Ananta II
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -958,7 +958,7 @@
 	}
 }
 166667 = {
-	name="Dharma" #Vijaya Dharma
+	name="´ïÄ¥" #Vijaya Dharma
 	female=yes
 	dynasty=1040024
 	religion="buddhist"
@@ -972,7 +972,7 @@
 	}
 }
 166668 = {
-	name="Sangrama" #Vijaya Sangrama V
+	name="É®Ù¤ÂÞÄ¦" #Vijaya Sangrama V
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -992,7 +992,7 @@
 	}
 }
 166669 = {
-	name="Bresaya" #Vijaya Bresaya
+	name="ê×" #Vijaya Bresaya
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1009,7 +1009,7 @@
 	}
 }
 166670 = {
-	name="Kasuma" #Asu Kasuma
+	name="¶¼À¼" #Asu Kasuma
 	female=yes
 	dynasty=1040026
 	religion="buddhist"
@@ -1023,7 +1023,7 @@
 	}
 }
 166671 = {
-	name="Silamata" #Silamata
+	name="ÀöÂê" #Silamata
 	female=yes
 	dynasty=1040027
 	religion="buddhist"
@@ -1037,7 +1037,7 @@
 	}
 }
 166672 = {
-	name="Gohusara" #Gohusara
+	name="ºÚÔÆ" #Gohusara
 	female=yes
 	dynasty=1040028
 	religion="buddhist"
@@ -1051,7 +1051,7 @@
 	}
 }
 166673 = {
-	name="Nakshatra" #Vijaya Nakshatra I
+	name="ÄÉÉ³ÌØÀ­" #Vijaya Nakshatra I
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1065,7 +1065,7 @@
 	}
 }
 166674 = {
-	name="Visaphraba" #Vijaya Visaphraba
+	name="¼ÑÓñ" #Vijaya Visaphraba
 	female=yes
 	dynasty=1040024
 	religion="buddhist"
@@ -1079,7 +1079,7 @@
 	}
 }
 166675 = {
-	name="Kirti" #Vijaya Kirti IV
+	name="Úµ" #Vijaya Kirti IV
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1092,7 +1092,7 @@
 	}
 }
 166676 = {
-	name="Pala" #Vijaya Pala III
+	name="ÆÅÂÞ" #Vijaya Pala III
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1105,7 +1105,7 @@
 	}
 }
 166677 = {
-	name="Viteseci" #Vijaya Viteseci
+	name="Ò°º×" #Vijaya Viteseci
 	female=yes
 	dynasty=1040024
 	religion="buddhist"
@@ -1119,7 +1119,7 @@
 	}
 }
 166678 = {
-	name="Visadaya" #Vijaya Visadaya
+	name="Ë¼ÃÎ" #Vijaya Visadaya
 	female=yes
 	dynasty=1040024
 	religion="buddhist"
@@ -1133,7 +1133,7 @@
 	}
 }
 166679 = {
-	name="Jaya" #Vijaya Jaya IV
+	name="³ÙÒ®" #Vijaya Jaya IV
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1146,7 +1146,7 @@
 	}
 }
 166680 = {
-	name="Sangrama" #Vijaya Sangrama VI
+	name="É®Ù¤ÂÞÄ¦" #Vijaya Sangrama VI
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1159,7 +1159,7 @@
 	}
 }
 166681 = {
-	name="Vikarma" #Vijaya Vikarma II
+	name="ÅþÆýÂÞÄ¦" #Vijaya Vikarma II
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1175,7 +1175,7 @@
 	}
 }
 166682 = {
-	name="Sutoka"
+	name="Ë«Ñò"
 	female=yes
 	dynasty=1040029
 	religion="buddhist"
@@ -1188,7 +1188,7 @@
 	}
 }
 166683 = {
-	name="Simha" #Vijaya Simha II
+	name="ÐÅÚ­" #Vijaya Simha II
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1205,7 +1205,7 @@
 	}
 }
 166684 = {
-	name="Alyohjah"
+	name="°¢ÂÞÒ®"
 	female=yes
 	dynasty=1040030
 	religion="buddhist"
@@ -1219,7 +1219,7 @@
 	}
 }
 166685 = {
-	name="Sangrama" #Vijaya Sangrama VI
+	name="É®Ù¤ÂÞÄ¦" #Vijaya Sangrama VI
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1236,7 +1236,7 @@
 	}
 }
 166686 = {
-	name="Sambhava" #Vijaya Sambhava III "the Great" (Lishengtian)
+	name="É®ÎÚ²¨" #Vijaya Sambhava III "the Great" (Lishengtian)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1253,7 +1253,7 @@
 	}
 }
 166687 = {
-	name="Surapati" #Vijaya Surapati I (Zhongchang)
+	name="ËÕÀ­" #Vijaya Surapati I (Zhongchang)
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1266,7 +1266,7 @@
 	}
 }
 166688 = {
-	name="Dharma" #Vijaya Dharma IV
+	name="´ïÄ¥" #Vijaya Dharma IV
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1279,7 +1279,7 @@
 	}
 }
 166689 = {
-	name="Kumara" #Vijaya Kumara I
+	name="Èø¸ñÂêÒÀ" #Vijaya Kumara I
 	dynasty=1040024
 	religion="buddhist"
 	culture="sogdian"
@@ -1293,7 +1293,7 @@
 }
 #Kashgar
 166690 = {
-	name="Kartir"
+	name="¿ÆÌá¶û"
 	dynasty=1040057
 	religion="buddhist"
 	culture="sogdian"
@@ -1305,7 +1305,7 @@
 	}
 }
 166691 = {
-	name="Chakar"
+	name="´è¿Â" #Chakar
 	dynasty=1040057
 	religion="buddhist"
 	culture="sogdian"
@@ -1318,7 +1318,7 @@
 	}
 }
 166692 = {
-	name="Ranisa"
+	name="Á_Äáêý" #Ranisa
 	female=yes
 	dynasty=1040057
 	religion="buddhist"
@@ -1332,7 +1332,7 @@
 	}
 }
 166693 = {
-	name="Resan"
+	name="¶YÉº" #Resan
 	dynasty=1040057
 	religion="buddhist"
 	culture="sogdian"
@@ -1345,7 +1345,7 @@
 	}
 }
 166694 = {
-	name="Dharma"
+	name="´ïÄ¥"
 	dynasty=1040057
 	religion="buddhist"
 	culture="sogdian"
