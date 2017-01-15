@@ -1,41 +1,41 @@
 ;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
-create_aragon_desc;在这些领地建立阿拉贡王国，我将开启一个新纪元。;Je peux marquer le d閎ut d'une nouvelle 鑢e sur ces terres en cr閍nt le royaume d'Aragon.;Ich kann in diesen Landen eine neue 膔a beginnen lassen, indem ich das K鰊igreich Aragon gr黱de.;;Puedo comenzar una nueva era en estas tierras fundando el Reino de Arag髇.;;;;;;;;;x
-create_portugal_desc;在这些领地建立葡萄牙王国，我将开启一个新纪元。;Je peux marquer le d閎ut d'une nouvelle 鑢e sur ces terres en cr閍nt le royaume du Portugal.;Ich kann in diesen Landen eine neue 膔a beginnen lassen, indem ich das K鰊igreich Portugal gr黱de.;;Puedo comenzar una nueva era en estas tierras fundando el Reino de Portugal.;;;;;;;;;x
-create_castille_desc;在这些领地建立卡斯蒂王国，我将开启一个新纪元。;Je peux marquer le d閎ut d'une nouvelle 鑢e sur ces terres en cr閍nt le royaume de Castille.;Ich kann in diesen Landen eine neue 膔a beginnen lassen, indem ich das K鰊igreich Kastilien gr黱de.;;Puedo comenzar una nueva era en estas tierras fundando el Reino de Castilla.;;;;;;;;;x
-EVTDESC_39617;"致[GetFromRootCompliment] [Root.GetTitledFirstName]：\n\n我们的封君，[GetRootFromCompliment] [From.GetTitledNameWithNick]，经过[From.GetHerHis]深思熟虑，决定皈依[From.Religion.GetName]。作为[From.GetHerHis] [From.GetLordSpiritualName]，我建议你也考虑皈依该信仰。\n\n 愿受[From.Religion.GetRandomGodName]驱策，\n[convert_lord_spiritual.GetBestName], [From.GetLordSpiritualName] 之 [From.PrimaryTitle.GetName]";[Root.GetTitledFirstName], [GetFromRootComplimentNounAdj]\n\nNotre [From.GetLordLady] lige, [GetRootFromComplimentNounAdj] [From.GetTitledNameWithNick], a, dans sa grande sagesse, d閏id?d'adopter la foi [From.Religion.GetName]. En tant que [From.GetLordSpiritualName], je vous sugg鑢e d'en faire autant.\n\nServant [From.Religion.GetRandomGodName],\n[convert_lord_spiritual.GetBestName], [From.GetLordSpiritualName] de [From.PrimaryTitle.GetName];Gesch鋞zte/r [Root.GetTitledFirstName],\n\nunser verehrter Lehnsherr [From.GetTitledNameWithNick] hat in gro遝r Weisheit entschieden, zum [From.Religion.GetName] Glauben 黚erzutreten. Als [From.GetHerHis] [From.GetLordSpiritualName] m鯿hte ich Euch vorschlagen, dasselbe zu tun.\n\nGelobt sei [From.Religion.GetRandomGodName]!\n[convert_lord_spiritual.GetBestName], [From.GetLordSpiritualName] von [From.PrimaryTitle.GetName];;Para el [GetFromRootCompliment] [Root.GetTitledFirstName],\n\nNuestra Lieja, el[GetRootFromCompliment] [From.GetTitledNameWithNick] tiene, con [From.GetHerHis] gran sabidur韆, decidido adoptar la fe de [From.Religion.GetName]. Como [From.GetHerHis] [From.GetLordSpiritualName], le sugiero que considera hacer lo mismo. \n\nEn el servicio de [From.Religion.GetRandomGodName]\n[convert_lord_spiritual.GetBestName], [From.GetLordSpiritualName] de  [From.PrimaryTitle.GetName];;;;;;;;;x
-EVTOPTA_39617;正合我意，我会皈依这一新的信仰!;C'est d'accord, je me convertis ?cette religion?;So sei es. Ich werde diesen neuen Glauben annehmen!;;Muy bien, abrazar?esta nueva fe!;;;;;;;;;x
-EVTOPTB_39617;不，[Root.Religion.GetRandomGodName]始终与我同在!;Hors de question, je continuerai ?honorer [Root.Religion.GetRandomGodName]?;Nein. Ich bleibe [Root.Religion.GetRandomGodName] treu!;;No, yo estar?con [Root.Religion.GetRandomGodName]!;;;;;;;;;x
-EVTOPTC_39617;你们信仰的恶神不过是土鸡瓦狗!;Je crache sur vos dieux?;Verflucht seien Eure G鰐ter!;;Escupo sobre vuestros dioses!;;;;;;;;;x
-EVTDESC62923;[From.GetDynName] 已在西班牙创建一个新的[From.PrimaryTitle.GetTier]，而且现在已经凌驾于[From.PrimaryTitle.GetName]之上!;[From.GetDynName] a cr殚 un nouveau [From.PrimaryTitle.GetTier] en Espagne et r鑗ne d閟ormais en ma顃re sur [From.PrimaryTitle.GetName]?;[From.GetDynName] gr黱dete ein neues [From.PrimaryTitle.GetTier] in Spanien und herrscht nun 黚er [From.PrimaryTitle.GetName]!;;[From.GetDynName]ha fundado un nuevo [From.PrimaryTitle.GetTier] en Espa馻, y ahora gobierna supremo sobre [From.PrimaryTitle.GetName]!;;;;;;;;;x
-EVTDESC62925;[From.GetDynName] 已在西班牙创建一个新的[From.PrimaryTitle.GetTier]，而且现在已经凌驾于[From.PrimaryTitle.GetName]之上!;[From.GetDynName] a cr殚 un nouveau [From.PrimaryTitle.GetTier] en Espagne et r鑗ne d閟ormais en ma顃re sur [From.PrimaryTitle.GetName]?;[From.GetDynName] gr黱dete ein neues [From.PrimaryTitle.GetTier] in Spanien und herrscht nun 黚er [From.PrimaryTitle.GetName]!;;[From.GetDynName]ha fundado un nuevo [From.PrimaryTitle.GetTier] en Espa馻, y ahora gobierna supremo sobre [From.PrimaryTitle.GetName]!;;;;;;;;;x
-EVTDESC62927;[From.GetDynName] 已在西班牙创建一个新的[From.PrimaryTitle.GetTier]，而且现在已经凌驾于[From.PrimaryTitle.GetName]之上!;[From.GetDynName] a cr殚 un nouveau [From.PrimaryTitle.GetTier] en Espagne et r鑗ne d閟ormais en ma顃re sur [From.PrimaryTitle.GetName]?;[From.GetDynName] gr黱dete ein neues [From.PrimaryTitle.GetTier] in Spanien und herrscht nun 黚er [From.PrimaryTitle.GetName]!;;璠From.GetDynName]ha fundado un nuevo [From.PrimaryTitle.GetTier]en Espa馻, y ahora gobierna supremo sobre [From.PrimaryTitle.GetName]!;;;;;;;;;x
-EVTDESC62921;[From.GetDynName] 已在西班牙创建一个新的[From.PrimaryTitle.GetTier]，而且现在已经凌驾于[From.PrimaryTitle.GetTier]之上!;[From.GetDynName] a d閏id?de cr閑r le [From.PrimaryTitle.GetTier] de Le髇. L'ancien [From.PrimaryTitle.GetTier] des Asturies n'est plus?;[From.GetDynName] hat beschlossen, das [From.PrimaryTitle.GetTier] von Le髇 zu gr黱den. Das alte [From.PrimaryTitle.GetTier] Asturien ist damit Geschichte!;;[From.GetDynName] ha decidido fundar [From.PrimaryTitle.GetTier] de Le髇. El antiguo [From.PrimaryTitle.GetTier] de Asturias ya no existe m醩!;;;;;;;;;x
+create_aragon_desc;在这些土地建立阿拉贡王国，我将开启一个新纪元。;Je peux marquer le d閎ut d'une nouvelle 鑢e sur ces terres en cr閍nt le royaume d'Aragon.;Ich kann in diesen Landen eine neue 膔a beginnen lassen, indem ich das K鰊igreich Aragon gr黱de.;;Puedo comenzar una nueva era en estas tierras fundando el Reino de Arag髇.;;;;;;;;;x
+create_portugal_desc;在这些土地建立葡萄牙王国，我将开启一个新纪元。;Je peux marquer le d閎ut d'une nouvelle 鑢e sur ces terres en cr閍nt le royaume du Portugal.;Ich kann in diesen Landen eine neue 膔a beginnen lassen, indem ich das K鰊igreich Portugal gr黱de.;;Puedo comenzar una nueva era en estas tierras fundando el Reino de Portugal.;;;;;;;;;x
+create_castille_desc;在这些土地建立卡斯蒂尔王国，我将开启一个新纪元。;Je peux marquer le d閎ut d'une nouvelle 鑢e sur ces terres en cr閍nt le royaume de Castille.;Ich kann in diesen Landen eine neue 膔a beginnen lassen, indem ich das K鰊igreich Kastilien gr黱de.;;Puedo comenzar una nueva era en estas tierras fundando el Reino de Castilla.;;;;;;;;;x
+EVTDESC_39617;致[GetFromRootCompliment][Root.GetTitledFirstName]：\n\n我们的领主，[GetRootFromCompliment][From.GetTitledNameWithNick]，经过[From.GetHerHis]伟大智慧思考后，决定皈依[From.Religion.GetName]信仰。作为[From.GetHerHis][From.GetLordSpiritualName]，我建议你也考虑皈依该信仰。\n\n愿受[From.Religion.GetRandomGodName]驱策，\n[convert_lord_spiritual.GetBestName]，[From.PrimaryTitle.GetName]之[From.GetLordSpiritualName];[Root.GetTitledFirstName], [GetFromRootComplimentNounAdj]\n\nNotre [From.GetLordLady] lige, [GetRootFromComplimentNounAdj] [From.GetTitledNameWithNick], a, dans sa grande sagesse, d閏id?d'adopter la foi [From.Religion.GetName]. En tant que [From.GetLordSpiritualName], je vous sugg鑢e d'en faire autant.\n\nServant [From.Religion.GetRandomGodName],\n[convert_lord_spiritual.GetBestName], [From.GetLordSpiritualName] de [From.PrimaryTitle.GetName];Gesch鋞zte/r [Root.GetTitledFirstName],\n\nunser verehrter Lehnsherr [From.GetTitledNameWithNick] hat in gro遝r Weisheit entschieden, zum [From.Religion.GetName] Glauben 黚erzutreten. Als [From.GetHerHis] [From.GetLordSpiritualName] m鯿hte ich Euch vorschlagen, dasselbe zu tun.\n\nGelobt sei [From.Religion.GetRandomGodName]!\n[convert_lord_spiritual.GetBestName], [From.GetLordSpiritualName] von [From.PrimaryTitle.GetName];;Para el [GetFromRootCompliment] [Root.GetTitledFirstName],\n\nNuestra Lieja, el[GetRootFromCompliment] [From.GetTitledNameWithNick] tiene, con [From.GetHerHis] gran sabidur韆, decidido adoptar la fe de [From.Religion.GetName]. Como [From.GetHerHis] [From.GetLordSpiritualName], le sugiero que considera hacer lo mismo. \n\nEn el servicio de [From.Religion.GetRandomGodName]\n[convert_lord_spiritual.GetBestName], [From.GetLordSpiritualName] de  [From.PrimaryTitle.GetName];;;;;;;;;x
+EVTOPTA_39617;正合我意，我会皈依这一新的信仰！;C'est d'accord, je me convertis ?cette religion?;So sei es. Ich werde diesen neuen Glauben annehmen!;;Muy bien, abrazar?esta nueva fe!;;;;;;;;;x
+EVTOPTB_39617;不，[Root.Religion.GetRandomGodName]始终与我同在！;Hors de question, je continuerai ?honorer [Root.Religion.GetRandomGodName]?;Nein. Ich bleibe [Root.Religion.GetRandomGodName] treu!;;No, yo estar?con [Root.Religion.GetRandomGodName]!;;;;;;;;;x
+EVTOPTC_39617;你们信仰的恶神不过是土鸡瓦狗！;Je crache sur vos dieux?;Verflucht seien Eure G鰐ter!;;Escupo sobre vuestros dioses!;;;;;;;;;x
+EVTDESC62923;[From.GetDynName]已在西班牙创建一个新的[From.PrimaryTitle.GetTier]，而且现在是[From.PrimaryTitle.GetName]的最高统治者！;[From.GetDynName] a cr殚 un nouveau [From.PrimaryTitle.GetTier] en Espagne et r鑗ne d閟ormais en ma顃re sur [From.PrimaryTitle.GetName]?;[From.GetDynName] gr黱dete ein neues [From.PrimaryTitle.GetTier] in Spanien und herrscht nun 黚er [From.PrimaryTitle.GetName]!;;[From.GetDynName]ha fundado un nuevo [From.PrimaryTitle.GetTier] en Espa馻, y ahora gobierna supremo sobre [From.PrimaryTitle.GetName]!;;;;;;;;;x
+EVTDESC62925;[From.GetDynName]已在西班牙创建一个新的[From.PrimaryTitle.GetTier]，而且现在是[From.PrimaryTitle.GetName]的最高统治者！;[From.GetDynName] a cr殚 un nouveau [From.PrimaryTitle.GetTier] en Espagne et r鑗ne d閟ormais en ma顃re sur [From.PrimaryTitle.GetName]?;[From.GetDynName] gr黱dete ein neues [From.PrimaryTitle.GetTier] in Spanien und herrscht nun 黚er [From.PrimaryTitle.GetName]!;;[From.GetDynName]ha fundado un nuevo [From.PrimaryTitle.GetTier] en Espa馻, y ahora gobierna supremo sobre [From.PrimaryTitle.GetName]!;;;;;;;;;x
+EVTDESC62927;[From.GetDynName]已在西班牙创建一个新的[From.PrimaryTitle.GetTier]，而且现在是[From.PrimaryTitle.GetName]的最高统治者！;[From.GetDynName] a cr殚 un nouveau [From.PrimaryTitle.GetTier] en Espagne et r鑗ne d閟ormais en ma顃re sur [From.PrimaryTitle.GetName]?;[From.GetDynName] gr黱dete ein neues [From.PrimaryTitle.GetTier] in Spanien und herrscht nun 黚er [From.PrimaryTitle.GetName]!;;璠From.GetDynName]ha fundado un nuevo [From.PrimaryTitle.GetTier]en Espa馻, y ahora gobierna supremo sobre [From.PrimaryTitle.GetName]!;;;;;;;;;x
+EVTDESC62921;[From.GetDynName]已决定成立莱昂[From.PrimaryTitle.GetTier]，古老的阿斯图里亚斯[From.PrimaryTitle.GetTier]不复存在！;[From.GetDynName] a d閏id?de cr閑r le [From.PrimaryTitle.GetTier] de Le髇. L'ancien [From.PrimaryTitle.GetTier] des Asturies n'est plus?;[From.GetDynName] hat beschlossen, das [From.PrimaryTitle.GetTier] von Le髇 zu gr黱den. Das alte [From.PrimaryTitle.GetTier] Asturien ist damit Geschichte!;;[From.GetDynName] ha decidido fundar [From.PrimaryTitle.GetTier] de Le髇. El antiguo [From.PrimaryTitle.GetTier] de Asturias ya no existe m醩!;;;;;;;;;x
 SM_CONTEXTSOUND;动态环境音效;Sons contextuels;Kontextsound;;Sonido de contexto;;;;;;;;;x
-BUILD_FORT_DESC;要塞可以在你控制的任何一个省份建造，也可以在你当前军队驻扎的敌对省份建造。建造消耗 $COST$??。要塞可以帮助你占领游牧空地，还能使你在一些原始宗教领地不再受到补给惩罚。;Vous pouvez construire des forts dans les comt閟 que vous contr鬺ez, y compris dans les comt閟 ennemis occup閟. Construire un fort co鹴e $COST$?? Les forts p閞ennisent l'occupation de territoires nomades vides et annulent la forte attrition dans les terres pa飁nnes.;Der Bau von Forts ist in allen Provinzen, die von Euch kontrolliert werden, m鰃lich, auch in feindlichen, wenn Ihr dort Truppen stationiert habt. Ihr Bau kostet $COST$?. Forts erm鰃lichen es, leere Nomadenprovinzen dauerhaft zu besetzen, und sie wirken der vernichtenden Zerm黵bung entgegen, die im Territorium mancher heidnischer St鋗me auftritt.;;Las fortalezas pueden ser construidas en cualquier provincia que controlas, as?como en las provincias hostiles donde tienes tropas presentes. Cuesta $COST$??para construir. Las fortalezas cierran tu ocupaci髇 de provincias de n髆ada vac韆s y niegue la pena de desgaste aplastante sufrida en algunas patrias Paganas.;;;;;;;;;x
-POPULATION_EFFECT_SCALED;非战斗人口$DIRECTION$ $VALUE$;$DIRECTION$ $VALUE$ en population;$DIRECTION$ $VALUE$ der Bev鰈kerung;;$DIRECTION$ $VALUE$ de la poblaci髇;;;;;;;;;x
-DISBAND_SUBUNIT;解散佣兵;Disperser le r間iment;Regiment aufl鰏en;;Disuelva regimiento;;;;;;;;;x
-CONFIRM_DISBAND_TITLE_SUBUNIT;你想要解散这支佣兵吗;Souhaitez-vous d閙obiliser ce r間iment?;Wollt Ihr dieses Regiment entlassen?;;Deseas descartar este regimiento?;;;;;;;;;x
-create_aragon;建立阿拉贡;Cr閑r Aragon;Aragon gr黱den;;Crear Aragon;;;;;;;;;x
-create_portugal;建立葡萄牙;Cr閑r le Portugal;Portugal gr黱den;;Crear Portugal;;;;;;;;;x
-create_castille;建立卡斯蒂尔;Cr閑r Castille;Kastilien gr黱den;;Crear Castilla;;;;;;;;;x
+BUILD_FORT_DESC;要塞可以在你控制的任何一个省份建造，也可以在你当前军队驻扎的敌对省份建造。建造消耗$COST$??。要塞可以帮助锁定你占领的游牧空地，还能使你在一些原始宗教家园不再受到巨量补给惩罚。;Vous pouvez construire des forts dans les comt閟 que vous contr鬺ez, y compris dans les comt閟 ennemis occup閟. Construire un fort co鹴e $COST$?? Les forts p閞ennisent l'occupation de territoires nomades vides et annulent la forte attrition dans les terres pa飁nnes.;Der Bau von Forts ist in allen Provinzen, die von Euch kontrolliert werden, m鰃lich, auch in feindlichen, wenn Ihr dort Truppen stationiert habt. Ihr Bau kostet $COST$?. Forts erm鰃lichen es, leere Nomadenprovinzen dauerhaft zu besetzen, und sie wirken der vernichtenden Zerm黵bung entgegen, die im Territorium mancher heidnischer St鋗me auftritt.;;Las fortalezas pueden ser construidas en cualquier provincia que controlas, as?como en las provincias hostiles donde tienes tropas presentes. Cuesta $COST$??para construir. Las fortalezas cierran tu ocupaci髇 de provincias de n髆ada vac韆s y niegue la pena de desgaste aplastante sufrida en algunas patrias Paganas.;;;;;;;;;x
+POPULATION_EFFECT_SCALED;人口的$DIRECTION$$VALUE$;$DIRECTION$ $VALUE$ en population;$DIRECTION$ $VALUE$ der Bev鰈kerung;;$DIRECTION$ $VALUE$ de la poblaci髇;;;;;;;;;x
+DISBAND_SUBUNIT;解散军团;Disperser le r間iment;Regiment aufl鰏en;;Disuelva regimiento;;;;;;;;;x
+CONFIRM_DISBAND_TITLE_SUBUNIT;你想要解散这支军团吗？;Souhaitez-vous d閙obiliser ce r間iment?;Wollt Ihr dieses Regiment entlassen?;;Deseas descartar este regimiento?;;;;;;;;;x
+create_aragon;创建阿拉贡;Cr閑r Aragon;Aragon gr黱den;;Crear Aragon;;;;;;;;;x
+create_portugal;创建葡萄牙;Cr閑r le Portugal;Portugal gr黱den;;Crear Portugal;;;;;;;;;x
+create_castille;创建卡斯蒂尔;Cr閑r Castille;Kastilien gr黱den;;Crear Castilla;;;;;;;;;x
 EVTTOOLTIP72035;[This.GetTitledFirstName]已知道与你作对的下场。;[This.GetTitledFirstName] s'est vu informer du sort de votre adversaire.;[This.GetTitledFirstName] wird 黚er das Schicksal Eures Gegners informiert.;;[This.GetTitledFirstName] es notificado sobre el destino de tu oponente.;;;;;;;;;x
-MERCHANT_REPUBLICS_CANNOT_MOVE_CAPITAL;商业共和国不允许迁都;Les r閜ubliques marchandes ne peuvent pas d閜lacer leur capitale ?moins de la d閜lacer d'une ville de province sans port ?une ville de province avec port.;Kaufmannsrepubliken d黵fen ihre Hauptstadt nicht verlegen, es sei denn, die Verlegung erfolgt von einer Provinz ohne Hafen in eine Provinz mit Hafen.;;Las rep鷅licas mercantes no son permitidas cambiar capital, a menos que lo muevan a una ciudad en una provincia con puerto desde una provincia sin  puerto.;;;;;;;;;x
+MERCHANT_REPUBLICS_CANNOT_MOVE_CAPITAL;商业共和国不允许迁都，除非是从没有港口的省份迁往有港口的省份;Les r閜ubliques marchandes ne peuvent pas d閜lacer leur capitale ?moins de la d閜lacer d'une ville de province sans port ?une ville de province avec port.;Kaufmannsrepubliken d黵fen ihre Hauptstadt nicht verlegen, es sei denn, die Verlegung erfolgt von einer Provinz ohne Hafen in eine Provinz mit Hafen.;;Las rep鷅licas mercantes no son permitidas cambiar capital, a menos que lo muevan a una ciudad en una provincia con puerto desde una provincia sin  puerto.;;;;;;;;;x
 PRESTIGE_LAW_PASSED_SETUP;法律制定;Loi instaur閑;Gesetz eingef黨rt;;Ley instituida;;;;;;;;;x
-GOV_BUILD_WITH_PIETY_DESC;用虔诚度建造$HOLDINGS_LIST$建筑;L'閠ablissement de propri閠閟 de type '$HOLDINGS_LIST$' consomme de la pi閠?Verwendet Piet鋞, um die Liegenschaften $HOLDINGS_LIST$ zu errichten;;Utiliza piedad para construir  $HOLDINGS_LIST$ propiedades;;;;;;;;;x
-GOVERNMENT_VASSALS_LESS_THAN;拥有少于$NUM$? $GOVERNMENT$?的封臣;Avoir moins de $NUM$? vassaux d'un gouvernement de type '$GOVERNMENT$?';Weniger als 'Y$NUM$'! Vasallen der Regierungsform 'Y$GOVERNMENT$'!;;Tiene menos de $NUM$? $GOVERNMENT$?vasallos. ;;;;;;;;;x
-GOVERNMENT_VASSALS_AT_LEAST;拥有至少$NUM$? $GOVERNMENT$?的封臣;Avoir au moins $NUM$? vassaux d'un gouvernement de type '$GOVERNMENT$?';Mindestens 'Y$NUM$'! Vasallen der Regierungsform 'Y$GOVERNMENT$'!;;Tiene por lo menos $NUM$? $GOVERNMENT$?vasallos.;;;;;;;;;x
+GOV_BUILD_WITH_PIETY_DESC;用虔诚建造$HOLDINGS_LIST$地产;L'閠ablissement de propri閠閟 de type '$HOLDINGS_LIST$' consomme de la pi閠?Verwendet Piet鋞, um die Liegenschaften $HOLDINGS_LIST$ zu errichten;;Utiliza piedad para construir  $HOLDINGS_LIST$ propiedades;;;;;;;;;x
+GOVERNMENT_VASSALS_LESS_THAN;拥有少于$NUM$?$GOVERNMENT$?的封臣;Avoir moins de $NUM$? vassaux d'un gouvernement de type '$GOVERNMENT$?';Weniger als 'Y$NUM$'! Vasallen der Regierungsform 'Y$GOVERNMENT$'!;;Tiene menos de $NUM$? $GOVERNMENT$?vasallos. ;;;;;;;;;x
+GOVERNMENT_VASSALS_AT_LEAST;拥有至少$NUM$?$GOVERNMENT$?的封臣;Avoir au moins $NUM$? vassaux d'un gouvernement de type '$GOVERNMENT$?';Mindestens 'Y$NUM$'! Vasallen der Regierungsform 'Y$GOVERNMENT$'!;;Tiene por lo menos $NUM$? $GOVERNMENT$?vasallos.;;;;;;;;;x
 FEATURES;特点;Caract閞istiques;Merkmale;;Caracter韘ticas;;;;;;;;;x
-HINT_SPLASH_2_INTRO;你正在操控 [Culture.GetName] [Religion.GetName] [PrimaryTitle.GetRulerTitle] ！;Vous endossez le r鬺e d'un [PrimaryTitle.GetRulerTitle] de culture [Culture.GetName] et de religion [Religion.GetName]?;Ihr spielt als: [Culture.GetName], [Religion.GetName], [PrimaryTitle.GetRulerTitle];;Est醩 jugando como un [Culture.GetName] [Religion.GetName] [PrimaryTitle.GetRulerTitle].;;;;;;;;;x
+HINT_SPLASH_2_INTRO;你正在扮演[Culture.GetName][Religion.GetName][PrimaryTitle.GetRulerTitle]！;Vous endossez le r鬺e d'un [PrimaryTitle.GetRulerTitle] de culture [Culture.GetName] et de religion [Religion.GetName]?;Ihr spielt als: [Culture.GetName], [Religion.GetName], [PrimaryTitle.GetRulerTitle];;Est醩 jugando como un [Culture.GetName] [Religion.GetName] [PrimaryTitle.GetRulerTitle].;;;;;;;;;x
 UNSELECT_CHAR;取消选择角色;D閟閘ectionner le personnage;Charakterauswahl aufheben;;Cancelar selecci髇 de personaje;;;;;;;;;x
-tribal_governments_FEATURES;*?可以改革成封建制，伊克塔制和商业共和国政府。;*? Peut se r閒ormer en gouvernement f閛dal, en iqt?ou en r閜ublique marchande;Y*'! Kann per Reform die Regierungsformen Feudal, Iqta und Kaufmannsrepublik annehmen;;*? Puede reformar al Feudal, Iqta y los gobiernos de las Rep鷅licas Mercantiles.;;;;;;;;;x
-nomadic_governments_FEATURES;*? 可以改革成封建政体、伊克塔政体、商业共和国政体\n *? 可以抢劫驻点来获取财富和科技\n*? 可以放弃省份来使人口增长、人力增加;*? Peut se r閒ormer en gouvernement f閛dal, en iqt?ou en r閜ublique marchande\n*? Peut piller des colonies pour accro顃re sa richesse et sa technologie\n*? Peut abandonner des provinces pour gagner en population et en effectifs;Y*'! Kann per Reform die Regierungsformen Feudal, Iqta und Kaufmannsrepublik annehmen\n'Y*'! Kann Siedlungen pl黱dern und dabei Reichtum und technischen Fortschritt erwerben\n'Y*'! Kann Provinzen aufgeben, um ein verbessertes Wachstum von Bev鰈kerung und Mannst鋜ke zu erlangen.;;*? Puede reformar al feudalismo, Iqta y los gobiernos de las Rep鷅licas Mercantiles.\n*? Puede saquear los asentamientos para ganar riqueza y tecnolog韆\n*? puede abandonar provincias para obtener mayor crecimiento de la poblaci髇 y la soldadesca;;;;;;;;;x
+tribal_governments_FEATURES;*? 可以改革成封建制，伊克塔制和商业共和国政体;*? Peut se r閒ormer en gouvernement f閛dal, en iqt?ou en r閜ublique marchande;Y*'! Kann per Reform die Regierungsformen Feudal, Iqta und Kaufmannsrepublik annehmen;;*? Puede reformar al Feudal, Iqta y los gobiernos de las Rep鷅licas Mercantiles.;;;;;;;;;x
+nomadic_governments_FEATURES;*? 可以改革成封建政体、伊克塔政体、商业共和国政体\n *? 可以抢劫定居点来获取财富和科技\n*? 可以放弃省份来加快人口和人力增长;*? Peut se r閒ormer en gouvernement f閛dal, en iqt?ou en r閜ublique marchande\n*? Peut piller des colonies pour accro顃re sa richesse et sa technologie\n*? Peut abandonner des provinces pour gagner en population et en effectifs;Y*'! Kann per Reform die Regierungsformen Feudal, Iqta und Kaufmannsrepublik annehmen\n'Y*'! Kann Siedlungen pl黱dern und dabei Reichtum und technischen Fortschritt erwerben\n'Y*'! Kann Provinzen aufgeben, um ein verbessertes Wachstum von Bev鰈kerung und Mannst鋜ke zu erlangen.;;*? Puede reformar al feudalismo, Iqta y los gobiernos de las Rep鷅licas Mercantiles.\n*? Puede saquear los asentamientos para ganar riqueza y tecnolog韆\n*? puede abandonar provincias para obtener mayor crecimiento de la poblaci髇 y la soldadesca;;;;;;;;;x
 GOVERNMENT_UNLOCKS;政体解锁;Gouvernements d閎loqu閟? ;Regierungsformen freigeschaltet: ;;Gobiernos desbloqueados:;;;;;;;;;x
-REVOKE_TITLE_INTERACTION_2G;我们的 $GOVERNMENT$ 行政机构允许我们在没有贵族反对的情况下废除 $TIER$? 头衔.;Notre administration $GOVERNMENT$ nous autorise ?r関oquer les titres de $TIER$? sans opposition de l'aristocratie.;Unsere $GOVERNMENT$-Verwaltung erm鰃licht uns den Entzug von Titeln des Rangs 'Y$TIER$'! ohne Widerspruch der Aristokratie.;;Nuestra administraci髇 de $GOVERNMENT$ permite que nosotros revoquemos el $TIER$? t韙ulos sin objeciones por parte de la aristocracia.;;;;;;;;;x
+REVOKE_TITLE_INTERACTION_2G;我们的$GOVERNMENT$管治允许我们无视贵族反对收回$TIER$?头衔.;Notre administration $GOVERNMENT$ nous autorise ?r関oquer les titres de $TIER$? sans opposition de l'aristocratie.;Unsere $GOVERNMENT$-Verwaltung erm鰃licht uns den Entzug von Titeln des Rangs 'Y$TIER$'! ohne Widerspruch der Aristokratie.;;Nuestra administraci髇 de $GOVERNMENT$ permite que nosotros revoquemos el $TIER$? t韙ulos sin objeciones por parte de la aristocracia.;;;;;;;;;x
 IS_DIVINE_BLOOD;$DYNASTY$?家族可以血亲圣婚;La dynastie $DYNASTY$? est une dynastie de sang divin.;Die 'Y$DYNASTY$'!-Dynastie ist von g鰐tlichem Gebl黷.;;La $DYNASTY$?dinast韆 es de Sangre Divina;;;;;;;;;x
 IS_NOT_DIVINE_BLOOD; $DYNASTY$?不能血亲圣婚;La dynastie $DYNASTY$? n'est pas une dynastie de sang divin.;Die 'Y$DYNASTY$'!-Dynastie ist NICHT von g鰐tlichem Gebl黷.;;La $DYNASTY$?dinast韆 NO es de Sangre Divina;;;;;;;;;x
 SET_DIVINE_BLOOD;$DYNASTY$?现在被认为可以血亲圣婚。\n;La dynastie $DYNASTY$? est d閟ormais consid閞閑 comme une dynastie de sang divin.\n;Die 'Y$DYNASTY$'!-Dynastie gilt nun als Dynastie von g鰐tlichem Gebl黷\n;;La $DYNASTY$?Dinast韆 se considera ahora de Sangre divina\n;;;;;;;;;x
 UNSET_DIVINE_BLOOD; $DYNASTY$?家族不再进行血亲圣婚。\n;La dynastie $DYNASTY$? n'est plus consid閞閑 comme une dynastie de sang divin.\n;Die 'Y$DYNASTY$'!-Dynastie gilt nun nicht mehr als Dynastie von g鰐tlichem Gebl黷\n;;La $DYNASTY$?Dinast韆 ya no se considera de la Sangre Divina;;;;;;;;;x
-AIREASON_AMBITION;目标;Ambition;Ambition;;Ambici髇;;;;;;;;;x
+AIREASON_AMBITION;野心;Ambition;Ambition;;Ambici髇;;;;;;;;;x
 b_kroran;楼兰;Kror鋘;Kror鋘;;Kror鋘;;;;;;;;;x
 b_endere;唐兰;Endere;Endere;;Endere;;;;;;;;;x
 b_dandan_uilik;丹丹乌里克;Dandan-Uiliq;Dandan-Uiliq;;Dandan-Uiliq;;;;;;;;;x
@@ -77,7 +77,7 @@ b_karghalik;斫句迦;Karghalik;Karghalik;;Karghalik;;;;;;;;;x
 b_weixu;危须;Weixu;Weixu;;Weixu;;;;;;;;;x
 b_weili;尉犁;Weili;Weili;;Weili;;;;;;;;;x
 b_weitou;尉头;Weitou;Weitou;;Weitou;;;;;;;;;x
-CHRONICLE_ADOPTED_FEUDALISM;[From.GetDynName] 在 [From.GetHerHis] 领地内放弃了传统的部落生活，接受了封建化.;[GetDynName] a adopt?un syst鑝e f閛dal dans son domaine, abandonnant les anciennes coutumes tribales.;[From.GetDynName] f黨rte in [From.GetHerHis] Gebieten das Feudalsystem ein und gab die Stammestraditionen auf.;;[From.GetDynName] adopt?un sistema feudal en [From.GetHerHis] dominios, abandonando las viejas costumbres tribales.;;;;;;;;;x
+CHRONICLE_ADOPTED_FEUDALISM;[From.GetDynName]在[From.GetHerHis]境内放弃了传统的部落生活，接受了封建化.;[GetDynName] a adopt?un syst鑝e f閛dal dans son domaine, abandonnant les anciennes coutumes tribales.;[From.GetDynName] f黨rte in [From.GetHerHis] Gebieten das Feudalsystem ein und gab die Stammestraditionen auf.;;[From.GetDynName] adopt?un sistema feudal en [From.GetHerHis] dominios, abandonando las viejas costumbres tribales.;;;;;;;;;x
 b_poskam;泽普;Poskam;Poskam;;Poskam;;;;;;;;;x
 b_yopurga;岳普湖;Yopurga;Yopurga;;Yopurga;;;;;;;;;x
 b_atush;阿图什;Atush;Atush;;Atush;;;;;;;;;x
@@ -107,16 +107,16 @@ b_kumtag;库姆塔格;Kumtag;Kumtag;;Kumtag;;;;;;;;;x
 b_yingpan;营盘;Yingpan;Yingpan;;Yingpan;;;;;;;;;x
 b_yiwu;伊吾;Yiwu;Yiwu;;Yiwu;;;;;;;;;x
 b_dahe;大河;Dahe;Dahe;;Dahe;;;;;;;;;x
-b_piqan;鄯善;Piqan;Piqan;;Piqan;;;;;;;;;x
+b_piqan;蒲昌;Piqan;Piqan;;Piqan;;;;;;;;;x
 b_yanghai;洋海;Yanghai;Yanghai;;Yanghai;;;;;;;;;x
 b_toyuq;吐峪沟;Toyuq;Toyuq;;Toyuq;;;;;;;;;x
 b_nanhu_tarim;南湖;Nanhu;Nanhu;;Nanhu;;;;;;;;;x
 b_fangpan;方盘;Fangpan;Fangpan;;Fangpan;;;;;;;;;x
-b_mogao;莫高窟;Mogao;Mogao;;Mogao;;;;;;;;;x
+b_mogao;莫高;Mogao;Mogao;;Mogao;;;;;;;;;x
 b_yueyaquan;月牙泉;Yueyaquan;Yueyaquan;;Yueyaquan;;;;;;;;;x
 b_hongliuwan;红柳湾;Hongliuwan;Hongliuwan;;Hongliuwan;;;;;;;;;x
 b_xuanquanzhi;悬泉置;Xuanquanzhi;Xuanquanzhi;;Xuanquanzhi;;;;;;;;;x
-b_yumenquan;玉门关;Yumenquan;Yumenquan;;Yumenquan;;;;;;;;;x
+b_yumenquan;玉门泉;Yumenquan;Yumenquan;;Yumenquan;;;;;;;;;x
 b_xingcheng;庆城;Xingcheng;Xingcheng;;Xingcheng;;;;;;;;;x
 b_yuanquan;渊泉;Yuanquan;Yuanquan;;Yuanquan;;;;;;;;;x
 b_yulin;榆林;Yulin;Yulin;;Yulin;;;;;;;;;x
@@ -127,52 +127,52 @@ b_xincheng;新城;Xincheng;Xincheng;;Xincheng;;;;;;;;;x
 ANSWER_YES;正合我意。;Oui.;Ja.;;S?;;;;;;;;;x
 ANSWER_NO;不。;Non.;Nein.;;No.;;;;;;;;;x
 b_yumen;玉门;Yumen;Yumen;;Yumen;;;;;;;;;x
-CHRONICLE_FOUNDED_MERCHANT_REPUBLIC;"[From.GetDynName] 在[From.GetHerHis] 国度内放弃部落风俗,建立了商业共和国.";[From.GetDynName] a fond?une r閜ublique marchande dans son domaine, abandonnant les anciennes coutumes tribales.;[From.GetDynName] gr黱dete in [From.GetHerHis] Gebieten eine Handelsrepublik und gab die Stammestraditionen auf.;;;;;;;;;;;x
+CHRONICLE_FOUNDED_MERCHANT_REPUBLIC;[From.GetDynName]在[From.GetHerHis]境内放弃古老的部落风俗，成立商业共和国。;[From.GetDynName] a fond?une r閜ublique marchande dans son domaine, abandonnant les anciennes coutumes tribales.;[From.GetDynName] gr黱dete in [From.GetHerHis] Gebieten eine Handelsrepublik und gab die Stammestraditionen auf.;;;;;;;;;;;x
 nomadic_emperor_female;可敦;Khatoun;Khatun;;Khatun;;;;;;;;;x
-nomadic_king_female;可汗;Khanoum;Khanum;;Khanum;;;;;;;;;x
+nomadic_king_female;可努;Khanoum;Khanum;;Khanum;;;;;;;;;x
 e_chagatai;察合台;Chagatai;Chagatai;;Chagatai;;;;;;;;;x
-FACTIONS_MENU;派系;Factions?;Fraktionen?;;Facciones?;;;;;;;;;x
-CLANS_MENU; 部落 ;Clans?;Klans?;;Clanes?;;;;;;;;x
-THE_REPUBLIC_MENU;所属共和国;La R閜ublique?;Die Republik?;;La Rep鷅lica?;;;;;;;;;x
-STAT_WEALTH_MENU;拥有的财富;Richesses?;Reichtum?;;Riqueza?;;;;;;;;;x
-STAT_PRESTIGE_MENU;拥有的威望;Prestige;?Prestige;;Prestigio?;;;;;;;;;x
-STAT_PIETY_MENU;拥有的虔诚;Pi閠椐!;Piet鋞?;;Piedad?;;;;;;;;;x
-STAT_PIETY_MENU_HONOR;拥有的荣誉 ;Honneur?;Ehre?;;Honor?;;;;;;;;;x
-STAT_PIETY_MENU_KARMA;拥有的善业;Karma?;Karma?;;Karma?;;;;;;;;;x
-STAT_PIETY_MENU_PURITY;拥有的纯净;Puret椐!;Reinheit?;;Pureza?;;;;;;;;;x
-STAT_DEMESNE_SIZE_MENU;直辖领地上限 ;Taille du domaine?;Dom鋘engr鲞e?;;Tama駉 de la heredad?;;;;;;;;;x
-STAT_VASSAL_LIMIT_MENU;封臣数量限制 ;Nombre limite de vassaux?;Vasallenlimit?;;L韒ite de Vasallos?;;;;;;;;;x
-STAT_REALM_SIZE_MENU;国土大小 ;Taille du pays?;Reichsgr鲞e?;;Tama駉 del reino?;;;;;;;;;x
-STAT_SCORE_MENU; 得分 ;Score?;Punkte?;;Puntuaci髇?;;;;;;;;;x
-STAT_POPULATION_MENU;拥有的非战斗人口;Population?;Bev鰈kerung?;;Poblaci髇?;;;;;;;;;x
-STAT_MANPOWER_MENU;拥有的人力;Effectifs?;Mannst鋜ke?;;Mano de obra?;;;;;;;;;x
+FACTIONS_MENU;派系?;Factions?;Fraktionen?;;Facciones?;;;;;;;;;x
+CLANS_MENU;部族?;Clans?;Klans?;;Clanes?;;;;;;;;x
+THE_REPUBLIC_MENU;共和国?;La R閜ublique?;Die Republik?;;La Rep鷅lica?;;;;;;;;;x
+STAT_WEALTH_MENU;财富?;Richesses?;Reichtum?;;Riqueza?;;;;;;;;;x
+STAT_PRESTIGE_MENU;威望?;Prestige;?Prestige;;Prestigio?;;;;;;;;;x
+STAT_PIETY_MENU;虔诚?;Pi閠椐!;Piet鋞?;;Piedad?;;;;;;;;;x
+STAT_PIETY_MENU_HONOR;荣誉?;Honneur?;Ehre?;;Honor?;;;;;;;;;x
+STAT_PIETY_MENU_KARMA;善业?;Karma?;Karma?;;Karma?;;;;;;;;;x
+STAT_PIETY_MENU_PURITY;纯净?;Puret椐!;Reinheit?;;Pureza?;;;;;;;;;x
+STAT_DEMESNE_SIZE_MENU;直辖领地上限?;Taille du domaine?;Dom鋘engr鲞e?;;Tama駉 de la heredad?;;;;;;;;;x
+STAT_VASSAL_LIMIT_MENU;封臣数量限制?;Nombre limite de vassaux?;Vasallenlimit?;;L韒ite de Vasallos?;;;;;;;;;x
+STAT_REALM_SIZE_MENU;领地大小?;Taille du pays?;Reichsgr鲞e?;;Tama駉 del reino?;;;;;;;;;x
+STAT_SCORE_MENU;分数?;Score?;Punkte?;;Puntuaci髇?;;;;;;;;;x
+STAT_POPULATION_MENU;人口?;Population?;Bev鰈kerung?;;Poblaci髇?;;;;;;;;;x
+STAT_MANPOWER_MENU;人力?;Effectifs?;Mannst鋜ke?;;Mano de obra?;;;;;;;;;x
 TECHNOLOGY;科技;Technologie;Technologie;Technologia;Tecnolog韆;Tecnologia;Technol骻ia;Technologie;;;;;;x
 LAW;法律;Lois;Gesetze;;Leyes;;;;;;;;;x
-MILITARY;军队;Arm閑;Milit鋜;;Fuerzas armadas;Militare;;;;;;;;x
-INTRIGUE;智谋;Intrigue;Intrige;;Intriga;;;;;;;;;x
-DEMESNE_INTERFACE_LABEL;的直辖领土为?;Domaine?;Dom鋘e?;;Heredad?;;;;;;;;;x
-TRADE_INTERFACE_LABEL;交易了?;Commerce?;Handel?;;Comerciar?;;;;;;;;;x
-FORTS_INTERFACE_LABEL;建造?要塞;Forts?;Forte?;;Fortalezas?;;;;;;;;;x
-SIEGES_INTERFACE_LABEL;进行?场攻城战;Si鑗es?;Belagerungen?;Oblenia?;Asedios?;Assedi?;Ostromok?;Oble瀍n恣!;;;;;;x
-ENEMY_SIEGES_INTERFACE_LABEL;遭受?次敌方攻城;Si鑗es hostiles?;Feindliche Belagerungen?;;Asedios hostiles?;Assedi del nemico?;;;;;;;;x
-COMBATS_INTERFACE_LABEL;进行?场陆地战;Combats?;Gefechte?;Walki?;Combates?;Combattimento terrestre?;Csat醟?;Pozemn?boj?;;;;;;x
-ARMIES_INTERFACE_LABEL;拥有?陆军;Arm閑s?;Armeen?;;Ej閞citos?;Eserciti?;;;;;;;;x
-NAVIES_INTERFACE_LABEL;拥有?海军;Flottes?;Flotten?;;Armada?;Flotte?;;;;;;;;x
-MESSAGERULES_INTERFACE_LABEL;信息管理为?;R鑗les des messages?;Nachrichtenregeln?;;Reglas de mensaje?;;;;;;;;;x
-SPECIAL_INTEREST_CHARACTERS_INTERFACE_LABEL;的一键追踪为?;Personnages importants?;Charaktere von besonderem Interesse?;;Personajes especialmente interesantes?;;;;;;;;;x
-OL_COURT_INTERFACE_LABEL;的宫廷为?;Cour?;Hof?;;Corte?;;;;;;;;;x
-OL_MP_PLAYERLIST_INTERFACE_LABEL;多玩家选项为?;Joueurs si multijoueur?;Spieler im Multiplayermodus?;;Jugadores en multijugador?;;;;;;;;;x
-OL_DISABLED_ALERTS_INTERFACE_LABEL;是否关闭警报为：?;Alertes d閟activ閟?;Deaktivierte Alarme?;;Avisos desactivados?;;;;;;;;;x
-MESSWINDOW_HIGHPRIO_INTERFACE_LABEL;优先信息为：?;Messages de haute priorit椐!;Nachrichten mit hoher Priorit鋞?;;Mensajes de alta prioridad?;;;;;;;;;x
-MESSWINDOW_LOWPRIO_INTERFACE_LABEL;低优先级信息为：?;Messages de basse priorit椐!;Nachrichten mit niedriger Priorit鋞?;;Mensajes de baja prioridad?;;;;;;;;;x
+MILITARY;军事;Arm閑;Milit鋜;;Fuerzas armadas;Militare;;;;;;;;x
+INTRIGUE;阴谋;Intrigue;Intrige;;Intriga;;;;;;;;;x
+DEMESNE_INTERFACE_LABEL;直辖领?;Domaine?;Dom鋘e?;;Heredad?;;;;;;;;;x
+TRADE_INTERFACE_LABEL;贸易?;Commerce?;Handel?;;Comerciar?;;;;;;;;;x
+FORTS_INTERFACE_LABEL;堡垒?;Forts?;Forte?;;Fortalezas?;;;;;;;;;x
+SIEGES_INTERFACE_LABEL;围城?;Si鑗es?;Belagerungen?;Oblenia?;Asedios?;Assedi?;Ostromok?;Oble瀍n恣!;;;;;;x
+ENEMY_SIEGES_INTERFACE_LABEL;敌对围城?;Si鑗es hostiles?;Feindliche Belagerungen?;;Asedios hostiles?;Assedi del nemico?;;;;;;;;x
+COMBATS_INTERFACE_LABEL;陆战?;Combats?;Gefechte?;Walki?;Combates?;Combattimento terrestre?;Csat醟?;Pozemn?boj?;;;;;;x
+ARMIES_INTERFACE_LABEL;军队?;Arm閑s?;Armeen?;;Ej閞citos?;Eserciti?;;;;;;;;x
+NAVIES_INTERFACE_LABEL;舰队?;Flottes?;Flotten?;;Armada?;Flotte?;;;;;;;;x
+MESSAGERULES_INTERFACE_LABEL;信息规则?;R鑗les des messages?;Nachrichtenregeln?;;Reglas de mensaje?;;;;;;;;;x
+SPECIAL_INTEREST_CHARACTERS_INTERFACE_LABEL;特别关注人物?;Personnages importants?;Charaktere von besonderem Interesse?;;Personajes especialmente interesantes?;;;;;;;;;x
+OL_COURT_INTERFACE_LABEL;宫廷?;Cour?;Hof?;;Corte?;;;;;;;;;x
+OL_MP_PLAYERLIST_INTERFACE_LABEL;多人游戏玩家?;Joueurs si multijoueur?;Spieler im Multiplayermodus?;;Jugadores en multijugador?;;;;;;;;;x
+OL_DISABLED_ALERTS_INTERFACE_LABEL;关闭的警报?;Alertes d閟activ閟?;Deaktivierte Alarme?;;Avisos desactivados?;;;;;;;;;x
+MESSWINDOW_HIGHPRIO_INTERFACE_LABEL;高优先级信息?;Messages de haute priorit椐!;Nachrichten mit hoher Priorit鋞?;;Mensajes de alta prioridad?;;;;;;;;;x
+MESSWINDOW_LOWPRIO_INTERFACE_LABEL;低优先级信息?;Messages de basse priorit椐!;Nachrichten mit niedriger Priorit鋞?;;Mensajes de baja prioridad?;;;;;;;;;x
 FC_FIND_CHARACTERS_INTERFACE_LABEL;寻找角色?;Trouver des personnages?;Charakter Suchen?;;Encontrar personajes?;;;;;;;;;x
 MAIN_MENU_INTERFACE_LABEL;主菜单?;Menu principal?;Hauptmen!;;Men?principal?;Menu principale?;;;;;;;;x
 ZOOM_IN_INTERFACE_LABEL;镜头拉近?;Effectuer un zoom avant?;Vergr鲞ern?;Powi阫sz?;Acerca el zum?;Ingrandire?;K鰖el韙閟?;Zaost鴌t nabl韟ko?;;;;;;x
 ZOOM_OUT_INTERFACE_LABEL;镜头推远?;Effectuer un zoom arri鑢e?;Verkleinern?;Pomniejsz?;Aleja el zum?;Ridurre?;T醰ol韙醩?;Zaost鴌t na d醠ku?;;;;;;x
-HOME_INTERFACE_LABEL;去家乡省份?;Aller ?la province d'origine?;Zur Heimatprovinz Gehen?;;Ir a la Provincia de Origen?;Andare alla Capitale?;;;;;;;;x
-LEDGER_MENU_INTERFACE_LABEL;家族属性与徽章?;Grand livre?;Archiv?;;Libro de contabilidad?;Registro?;;;;;;;;x
+HOME_INTERFACE_LABEL;前往家乡省份?;Aller ?la province d'origine?;Zur Heimatprovinz Gehen?;;Ir a la Provincia de Origen?;Andare alla Capitale?;;;;;;;;x
+LEDGER_MENU_INTERFACE_LABEL;家族徽章?;Grand livre?;Archiv?;;Libro de contabilidad?;Registro?;;;;;;;;x
 LOGGER_MENU_INTERFACE_LABEL;消息日志?;Journal des messages?;Nachrichten-Log?;;Registro de mensajes?;;;;;;;;;x
-FIND_PROVINCE_INTERFACE_LABEL;搜索头衔或宗教?;Trouver un titre ou une r間ion?;Titel oder Region suchen?;;Encuentra t韙ulo o regi髇?;;;;;;;;;x
+FIND_PROVINCE_INTERFACE_LABEL;搜索头衔或地区?;Trouver un titre ou une r間ion?;Titel oder Region suchen?;;Encuentra t韙ulo o regi髇?;;;;;;;;;x
 OPEN_CHRONICLE_INTERFACE_LABEL;打开编年史?;Ouvrir la chronique?;Offene Chronik?;;Abrir Cr髇ica?;;;;;;;;x
 DYNASTYTREE_INTERFACE_LABEL;家族树?;Arbre dynastique?;Dynastie黚ersicht?;;羠bol din醩tico?;;;;;;;;;x
 FAMILYTREE_INTERFACE_LABEL;家庭树?;Arbre familial?;Stammbaum?;;羠bol geneal骻ico?;;;;;;;;;x
@@ -242,17 +242,17 @@ b_khar;哈尔;Khar;Khar;;Khar;;;;;;;;;x
 b_mankhan;曼汗;Mankhan;Mankhan;;Mankhan;;;;;;;;;x
 b_darvi;达尔维;Darvi;Darvi;;Darvi;;;;;;;;;x
 b_khaliun;哈伦;Khaliun;Khaliun;;Khaliun;;;;;;;;;x
-HAS_LESS_SETTLEMENTS;少于 $VAL$?.;Moins de $VAL$? propri閠閟.;Weniger als $VAL$? Geb鋟de.;;Menos de $VAL$? posesiones.;;;;;;;;;x
-HAS_LEAST_SETTLEMENTS;至少拥有 $VAL$?.;Au moins $VAL$? propri閠閟.;Mindestens $VAL$? Geb鋟de.;;$VAL$? posesiones como m醲imo.;;;;;;;;;x
+HAS_LESS_SETTLEMENTS;少于$VAL$?地产。;Moins de $VAL$? propri閠閟.;Weniger als $VAL$? Geb鋟de.;;Menos de $VAL$? posesiones.;;;;;;;;;x
+HAS_LEAST_SETTLEMENTS;至少$VAL$?地产;Au moins $VAL$? propri閠閟.;Mindestens $VAL$? Geb鋟de.;;$VAL$? posesiones como m醲imo.;;;;;;;;;x
 CAPTAIN_female; ;;;;;;;;;;;;;x
-messalian_FEATURES;*? 女性可以担任所有职务\n*? 女性可以带领军队;*? Les femmes peuvent occuper tous les postes du Conseil\n*? Les femmes peuvent mener des arm閑s au combat;*? Frauen k鰊nen alle Ratspositionen bekleiden\n*? Frauen k鰊nen Armeen befehligen;;*? Las mujeres pueden ocupar todos los puestos de consejero\n*?Las mujeres pueden dirigir ej閞citos;;;;;;;;;x
-CONFIRM_BUILD_EXTRA_PRESTIGE_OR_PIETY_HOLDING_DESC;你确定想建立一个 $TYPE$?\n它将花费您 $COST$? 并将在 $FINISHED$?被完成;Voulez-vous vraiment 閠ablir une propri閠?de type '$TYPE$'?\nVous devrez payer $COST$? et cela s'ach鑦era le $FINISHED$?;$TYPE$ wirklich bauen?\nDies kostet $COST$?, Fertigstellung am $FINISHED$?.;;縀st醩 seguro/a de que desea construir un/a $TYPE$?\n Te costar?$COST$? y estar?terminado en $FINISHED$?;;;;;;;;;x
-EVTDESC_HL_10501B;[eloper.GetFirstName]与臭名昭著的雇佣兵[From.GetFirstName]私奔了.;[eloper.GetFirstName] a fui avec le c閘鑒re mercenaire [From.GetFirstName].;[eloper.GetFirstName] ist mit dem ber點htigten S鰈dner [From.GetFirstName] durchgebrannt.;;[eloper.GetFirstName] se fug?con el famoso mercenario [From.GetFirstName].;;;;;;;;;x
-;#recently_burnt_the_land_not_owner;Recently Burned the Land;Terre br?lée récemment;Steckte vor kurzem das Land in Brand;;Tierra recientemente quemada;;;;;;;;;x;
-PRESTIGE_LAW_PASSED_LOG;$RULER$? 已经在$TITLE$?制订了$LAW$?法。;$RULER$? a institu?la loi $LAW$? en $TITLE$?.;$RULER$? hat das $LAW$? Gesetz in $TITLE$? eingef黨rt.;;$RULER$? ha instituido la  ley $LAW$? en $TITLE$?.;;;;;;;;;x
-EVTTITLE_HL_1031;狼的[From.GetSonDaughter]?;[From.GetSonDaughter] du Loup?;[From.GetSonDaughter] einer W鰈fin?;;縖From.GetSonDaughter] de la loba?;;;;;;;;;x
-EVTNAME62923;卡斯提尔的[From.PrimaryTitle.GetTier];Le [From.PrimaryTitle.GetTier] de Castille;Das [From.PrimaryTitle.GetTier] von Kastilien;;El [From.PrimaryTitle.GetTier] de Castilla;;;;;;;;;x
-EVTNAME62925;葡萄牙的[From.PrimaryTitle.GetTier];Le [From.PrimaryTitle.GetTier] du Portugal;Das [From.PrimaryTitle.GetTier] von Portugal ;;El [From.PrimaryTitle.GetTier] de Portugal;;;;;;;;;x
-EVTNAME62927;阿拉贡的[From.PrimaryTitle.GetTier];Le [From.PrimaryTitle.GetTier] d'Aragon;Das [From.PrimaryTitle.GetTier] von Aragon;;El [From.PrimaryTitle.GetTier] de Arag髇;;;;;;;;;x
-CONTAINS_UNAVAILABLE_DECISION_UNLOCKS;不对你的角色开放;D閎loque des d閏isions actuellement non disponibles pour votre personnage.;Entriegelt Entscheidungen die jetzt f黵 Ihre Charakter nicht verf黦bar sind.;;Desbloquea decisiones que no est醤 actualmente disponibles para su personaje.;;;;;;;;;x
-LAND_OF_CLAN;游牧国家被$CLAN$?家族控制;Comt閟 nomades d閠enus par le clan $CLAN$?;Nomadische Grafschaften unter der Kontrolle von Klan $CLAN$?;;Condados n髆adas pose韉os por clan $CLAN$?;;;;;;;;;x
+messalian_FEATURES;*? 女性可以担任枢密院职务\n*? 女性可以带领军队;*? Les femmes peuvent occuper tous les postes du Conseil\n*? Les femmes peuvent mener des arm閑s au combat;*? Frauen k鰊nen alle Ratspositionen bekleiden\n*? Frauen k鰊nen Armeen befehligen;;*? Las mujeres pueden ocupar todos los puestos de consejero\n*?Las mujeres pueden dirigir ej閞citos;;;;;;;;;x
+CONFIRM_BUILD_EXTRA_PRESTIGE_OR_PIETY_HOLDING_DESC;你确定想建立一座$TYPE$?\n它将花费你$COST$?并将于$FINISHED$?完成;Voulez-vous vraiment 閠ablir une propri閠?de type '$TYPE$'?\nVous devrez payer $COST$? et cela s'ach鑦era le $FINISHED$?;$TYPE$ wirklich bauen?\nDies kostet $COST$?, Fertigstellung am $FINISHED$?.;;縀st醩 seguro/a de que desea construir un/a $TYPE$?\n Te costar?$COST$? y estar?terminado en $FINISHED$?;;;;;;;;;x
+EVTDESC_HL_10501B;[eloper.GetFirstName]与臭名昭著的雇佣兵[From.GetFirstName]私奔了。;[eloper.GetFirstName] a fui avec le c閘鑒re mercenaire [From.GetFirstName].;[eloper.GetFirstName] ist mit dem ber點htigten S鰈dner [From.GetFirstName] durchgebrannt.;;[eloper.GetFirstName] se fug?con el famoso mercenario [From.GetFirstName].;;;;;;;;;x
+#recently_burnt_the_land_not_owner;Recently Burned the Land;Terre br?lée récemment;Steckte vor kurzem das Land in Brand;;Tierra recientemente quemada;;;;;;;;;x;
+PRESTIGE_LAW_PASSED_LOG;$RULER$?已经在$TITLE$?制订了$LAW$?法。;$RULER$? a institu?la loi $LAW$? en $TITLE$?.;$RULER$? hat das $LAW$? Gesetz in $TITLE$? eingef黨rt.;;$RULER$? ha instituido la  ley $LAW$? en $TITLE$?.;;;;;;;;;x
+EVTTITLE_HL_1031;狼之[From.GetSonDaughter]？;[From.GetSonDaughter] du Loup?;[From.GetSonDaughter] einer W鰈fin?;;縖From.GetSonDaughter] de la loba?;;;;;;;;;x
+EVTNAME62923;卡斯提尔之[From.PrimaryTitle.GetTier];Le [From.PrimaryTitle.GetTier] de Castille;Das [From.PrimaryTitle.GetTier] von Kastilien;;El [From.PrimaryTitle.GetTier] de Castilla;;;;;;;;;x
+EVTNAME62925;葡萄牙之[From.PrimaryTitle.GetTier];Le [From.PrimaryTitle.GetTier] du Portugal;Das [From.PrimaryTitle.GetTier] von Portugal ;;El [From.PrimaryTitle.GetTier] de Portugal;;;;;;;;;x
+EVTNAME62927;阿拉贡之[From.PrimaryTitle.GetTier];Le [From.PrimaryTitle.GetTier] d'Aragon;Das [From.PrimaryTitle.GetTier] von Aragon;;El [From.PrimaryTitle.GetTier] de Arag髇;;;;;;;;;x
+CONTAINS_UNAVAILABLE_DECISION_UNLOCKS;解锁未对你角色开放的决议;D閎loque des d閏isions actuellement non disponibles pour votre personnage.;Entriegelt Entscheidungen die jetzt f黵 Ihre Charakter nicht verf黦bar sind.;;Desbloquea decisiones que no est醤 actualmente disponibles para su personaje.;;;;;;;;;x
+LAND_OF_CLAN;由$CLAN$?部族持有的游牧省份;Comt閟 nomades d閠enus par le clan $CLAN$?;Nomadische Grafschaften unter der Kontrolle von Klan $CLAN$?;;Condados n髆adas pose韉os por clan $CLAN$?;;;;;;;;;x
