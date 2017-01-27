@@ -39,7 +39,7 @@
 }
 
 125400 = {
-	name="Ë¿ÍŞ²¨´ó" #Svoboda
+	name="Ë¿ÍŞ²¨´ï" #Svoboda
 	
 	female=yes
 	dynasty=698
@@ -61,7 +61,7 @@
 }
 
 125401 = {
-	name="°¢ÌØÀ­¿Ë" #Atrak
+	name="°¢ÌØÀ­¿Ë" #°¢ÌØÀ­¿Ë
 	
 	dynasty=698
 	religion="tengri_pagan"
@@ -76,7 +76,7 @@
 }
 
 125402 = {
-	name="¿Æ±ÈÑÇ¿Ë" #Kobyak
+	name="¿Æ±ÈÑÇ¿Ë" #¿Æ°İÑÅ¿Ë
 	dynasty=1051135
 	religion="tengri_pagan"
 	culture="cuman"
@@ -89,7 +89,7 @@
 }
 
 125403 = {
-	name="¼ª¶û¸ù" #Girgen
+	name="¼ª¶û¸ù" #GÒÁ¶û¸èn
 	
 	dynasty=698
 	religion="tengri_pagan"
@@ -142,7 +142,7 @@
 }
 
 20648 = {
-	name="ÎÚ×æ¶û" #Uzur
+	name="ÎÚ×æ¶û" #ÎÚ×æ¶û
 	
 	dynasty=100565
 	martial=8
@@ -163,7 +163,7 @@
 }
 
 20650 = {
-	name="¿âµ¤" #Kutan
+	name="¿âµ¤" #¿âÌ¹
 	
 	dynasty=100557
 	martial=7
@@ -201,7 +201,7 @@
 }
 
 20653 = {
-	name="ÎÚ×ÈÂ³¿Ë" #Uzluk
+	name="ÎÚ×ÈÂ³¿Ë" #ÎÚ×ÈÂ¬¿Ë
 	
 	dynasty=100594
 	martial=8
@@ -262,7 +262,7 @@
 }
 
 20657 = {
-	name="ÎÚ×æ¶û" #Uzur
+	name="ÎÚ×æ¶û" #ÎÚ×æ¶û
 	dynasty=100599
 	martial=8
 	diplomacy=7
@@ -333,7 +333,7 @@
 228030 = {
 	name="¿×ÇĞ¿Ë" #Könçek
 
-	# AKA: Koza
+	# AKA: ¿ÆÈø
 	dynasty=698
 	religion="tengri_pagan"
 	culture="cuman"
@@ -347,7 +347,7 @@
 }
 
 228034 = {
-	name="¿ÆÈø" #Koza
+	name="¿ÆÈø" #¿ÆÈø
 	
 	dynasty=100556
 	martial=6
@@ -423,7 +423,7 @@
 }
 
 228039 = {
-	name="¿Æ±ÈÑÇ¿Ë" #Kobyak
+	name="¿Æ±ÈÑÇ¿Ë" #¿Æ°İÑÅ¿Ë
 	dynasty=100608
 	martial=6
 	diplomacy=6
@@ -441,7 +441,7 @@
 }
 
 228040 = {
-	name="²ªÄáÑÅ¿Ë" #Bonyak
+	name="²ªÄáÑÅ¿Ë" #²¨ÄáÑÇ¿Ë
 	dynasty=100609
 	martial=4
 	diplomacy=6
@@ -516,7 +516,7 @@
 }
 
 228044 = {
-	name="¿â°ÍÈø¶û" #Kubasar
+	name="¿â°ÍÈø¶û" #¿â°ÍÈø
 	dynasty=100617
 	martial=6
 	diplomacy=6
@@ -611,7 +611,7 @@
 }
 
 228049 = {
-	name="¿Ë±ÈÑÇ¿Ë" #Kobyak
+	name="¿Ë±ÈÑÇ¿Ë" #¿Æ°İÑÅ¿Ë
 	dynasty=100622
 	martial=6
 	diplomacy=8
@@ -630,7 +630,7 @@
 }
 
 228050 = {
-	name="¼ª¶û¸ù" #Girgen
+	name="¼ª¶û¸ù" #GÒÁ¶û¸èn
 	dynasty=100623
 	martial=5
 	diplomacy=7
@@ -650,7 +650,7 @@
 }
 
 228051 = {
-	name="°¢ÈøÂ³ÆÕ" #Asalup
+	name="°¢ÈøÂ³ÆÕ" #°¢ÈøÂ·ÆÕ
 	dynasty=100624
 	martial=4
 	diplomacy=6
@@ -711,7 +711,7 @@
 }
 
 228054 = {
-	name="¿Ë±ÈÑÇ¿Ë" #Kobyak
+	name="¿Ë±ÈÑÇ¿Ë" #¿Æ°İÑÅ¿Ë
 	dynasty=100627
 	martial=6
 	diplomacy=5
@@ -732,7 +732,7 @@
 }
 
 228055 = {
-	name="Ë÷¿¨ÀÕ" #Sokal
+	name="Ë÷¿¨ÀÕ" #Ë÷¿¨¶û
 	dynasty=100557
 	martial=7
 	diplomacy=8
@@ -750,7 +750,7 @@
 }
 
 228056 = {
-	name="¿ÆÈø" #Koza
+	name="¿ÆÈø" #¿ÆÈø
 	dynasty=100558
 	martial=6
 	diplomacy=6
@@ -786,7 +786,7 @@
 }
 
 228059 = {
-	name="°¢ÌØÀ­¿Ë" #Atrak
+	name="°¢ÌØÀ­¿Ë" #°¢ÌØÀ­¿Ë
 	dynasty=100596
 	martial=4
 	diplomacy=5
@@ -844,7 +844,7 @@
 }
 
 228066 = {
-	name="Ø£Í»¹Ç" #Uturku
+	name="ÎÚÍ¼¶û¿â" #Uturku
 	dynasty=100607
 	martial=8
 	diplomacy=6
@@ -934,7 +934,7 @@
 	}
 }
 194417 = {
-	name="Tugor"
+	name="Í¿»ğ¶û"
 	dynasty=100615
 	religion="tengri_pagan"
 	culture="cuman"
@@ -948,7 +948,7 @@
 }
 
 479020 = {
-	name="ÎÚ×ÈÂ³¿Ë" #Uzluk
+	name="ÎÚ×ÈÂ³¿Ë" #ÎÚ×ÈÂ¬¿Ë
 	dynasty=100616
 	martial=8
 	diplomacy=8
@@ -987,7 +987,7 @@
 }
 
 479060 = {
-	name="¿â°ÍÈø¶û" #Kubasar
+	name="¿â°ÍÈø¶û" #¿â°ÍÈø
 	dynasty=100556
 	martial=6
 	diplomacy=7
@@ -1008,7 +1008,7 @@
 }
 
 479070 = {
-	name="ÎÚ×æ¶û" #Uzur
+	name="ÎÚ×æ¶û" #ÎÚ×æ¶û
 	dynasty=100564
 	martial=8
 	diplomacy=7
@@ -1110,7 +1110,7 @@
 }
 
 479120 = {
-	name="¿âµ¤" #Kutan
+	name="¿âµ¤" #¿âÌ¹
 	dynasty=100619
 	martial=7
 	diplomacy=5
@@ -1128,7 +1128,7 @@
 }
 
 479130 = {
-	name="ÎÚÖù" #Uzur
+	name="ÎÚÖù" #ÎÚ×æ¶û
 	dynasty=100620
 	martial=8
 	diplomacy=8
@@ -1206,7 +1206,7 @@
 }
 
 479170 = {
-	name="ÍĞ¸ñÀï" #Togli
+	name="ÍĞ¸ñÀï" #ÍĞÀï
 	dynasty=100624
 	martial=7
 	diplomacy=4
@@ -1227,7 +1227,7 @@
 }
 
 479180 = {
-	name="¿ÆÈø" #Koza
+	name="¿ÆÈø" #¿ÆÈø
 	dynasty=100625
 	martial=6
 	diplomacy=4
@@ -1247,7 +1247,7 @@
 }
 
 479190 = {
-	name="ÎÚ×æ¶û" #Uzur
+	name="ÎÚ×æ¶û" #ÎÚ×æ¶û
 	dynasty=100627
 	martial=8
 	diplomacy=6
@@ -1461,7 +1461,7 @@
 }
 
 90142 = {
-	name="²¼Â³Ê²" #Blush
+	name="²¼Â³Ê²" #²¼Â³Ê²
 	# AKA: Borc
 	dynasty=698
 	religion="tengri_pagan"
@@ -1476,7 +1476,7 @@
 
 90143 = {
 	name="°£ÅÁ¿Ë" #Aepak
-	# AKA: Sugr
+	# AKA: ËÕ¸ñ¶û
 	dynasty=698
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1505,7 +1505,7 @@
 }
 
 34820 = {
-	name="°¢ÌØÀ­¿Ë" #Atrak
+	name="°¢ÌØÀ­¿Ë" #°¢ÌØÀ­¿Ë
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1518,7 +1518,7 @@
 }
 
 34821 = {
-	name="Ë÷¿¨ÀÕ" #Sokal
+	name="Ë÷¿¨ÀÕ" #Ë÷¿¨¶û
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1531,7 +1531,7 @@
 }
 
 34822 = {
-	name="¿â°ÍÈø¶û" #Kubasar
+	name="¿â°ÍÈø¶û" #¿â°ÍÈø
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1544,7 +1544,7 @@
 }
 
 34823 = {
-	name="ËÕ¸ñ¶û" #Sugr
+	name="ËÕ¸ñ¶û" #ËÕ¸ñ¶û
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1557,7 +1557,7 @@
 }
 
 34824 = {
-	name="°£ÌØÁÒ¿Ë" #Etrek
+	name="°£ÌØÁÒ¿Ë" #°¬ÌØÀ×¿Ë
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1583,7 +1583,7 @@
 }
 
 34826 = {
-	name="Ë÷µ¤" #Sotan
+	name="Ë÷µ¤" #Ë÷Ì¹
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1608,7 +1608,7 @@
 	}
 }
 194404 = {
-	name="Kubazar"
+	name="¿â°ÍÈø"
 	dynasty = 1045097
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1621,7 +1621,7 @@
 	}
 }
 194405 = {
-	name="Sarica"
+	name="ÈøÀò¼Ó"
 	dynasty = 1045097
 	female=yes
 	religion="tengri_pagan"
@@ -1662,7 +1662,7 @@
 }
 
 34832 = {
-	name="ÎÚ×ÈÂ³¿Ë" #Uzluk
+	name="ÎÚ×ÈÂ³¿Ë" #ÎÚ×ÈÂ¬¿Ë
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1701,7 +1701,7 @@
 }
 
 34839 = {
-	name="²¼Â³Ê²" #Blush 
+	name="²¼Â³Ê²" #²¼Â³Ê² 
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1714,7 +1714,7 @@
 }
 
 34840 = {
-	name="°¢ÈøÂ³ÆÕ" #Asalup
+	name="°¢ÈøÂ³ÆÕ" #°¢ÈøÂ·ÆÕ
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1727,7 +1727,7 @@
 }
 
 34845 = {
-	name="Ë÷¿¨ÀÕ" #Sokal
+	name="Ë÷¿¨ÀÕ" #Ë÷¿¨¶û
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1753,7 +1753,7 @@
 }
 
 34847 = {
-	name="Ë÷µ¤" #Sotan
+	name="Ë÷µ¤" #Ë÷Ì¹
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1791,7 +1791,7 @@
 	}
 }
 194441 = {
-	name="Tugor"
+	name="Í¿»ğ¶û"
 	dynasty = 1045107
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1804,7 +1804,7 @@
 	}
 }
 194442 = {
-	name="Yasar"
+	name="ÑÅÈø¶û"
 	dynasty = 1045107
 	female=yes
 	religion="tengri_pagan"
@@ -1819,7 +1819,7 @@
 }
 
 34854 = {
-	name="¿â°ÍÈø¶û" #Kubasar
+	name="¿â°ÍÈø¶û" #¿â°ÍÈø
 	dynasty = 1045096
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1831,7 +1831,7 @@
 	}
 }
 194388 = {
-	name="Sugr"
+	name="ËÕ¸ñ¶û"
 	dynasty = 1045096
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1844,7 +1844,7 @@
 	}
 }
 194389 = {
-	name="Sarica"
+	name="ÈøÀò¼Ó"
 	dynasty = 1045096
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1857,7 +1857,7 @@
 	}
 }
 194390 = {
-	name="Sevilay"
+	name="ÈüÎ¬À³"
 	dynasty = 1045096
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1884,7 +1884,7 @@
 }
 
 34857 = {
-	name="ÍĞ¸ñÀï" #Togli
+	name="ÍĞ¸ñÀï" #ÍĞÀï
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1897,7 +1897,7 @@
 }
 
 34858 = {
-	name="¸ñ×È" #Gzi
+	name="¸ñ×È" #¸ñÆë
 	dynasty = 1045108
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1909,7 +1909,7 @@
 	}
 }
 194443 = {
-	name="Uzur"
+	name="ÎÚ×æ¶û"
 	dynasty = 1045108
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1922,7 +1922,7 @@
 	}
 }
 194444 = {
-	name="Mala"
+	name="ÂêÀ­"
 	dynasty = 1045108
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1936,7 +1936,7 @@
 }
 
 34863 = {
-	name="ÍĞ¸ñÀï" #Togli
+	name="ÍĞ¸ñÀï" #ÍĞÀï
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -1988,7 +1988,7 @@
 	}
 }
 194376 = {
-	name=Koza
+	name=¿ÆÈø
 	dynasty=851 # Turgay
 	religion=tengri_pagan
 	culture=cuman
@@ -2001,7 +2001,7 @@
 	}
 }
 194377 = {
-	name=Mala
+	name=ÂêÀ­
 	female=yes
 	dynasty=851 # Turgay
 	religion=tengri_pagan
@@ -2015,7 +2015,7 @@
 	}
 }
 34871 = {
-	name=¿âÌ¹ #Kutan 	#placeholder
+	name=¿âÌ¹ #¿âÌ¹ 	#placeholder
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -2031,7 +2031,7 @@
 	}
 }
 34882 = {
-	name="¿â°ÍÈø¶û" #Kubasar
+	name="¿â°ÍÈø¶û" #¿â°ÍÈø
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2057,7 +2057,7 @@
 }
 
 34884 = {
-	name="Sugr"
+	name="ËÕ¸ñ¶û"
 	dynasty = 1045098
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2069,7 +2069,7 @@
 	}
 }
 194428 = {
-	name="Sokal"
+	name="Ë÷¿¨¶û"
 	dynasty = 1045098
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2082,7 +2082,7 @@
 	}
 }
 194429 = {
-	name="Asli"
+	name="°¢Ê²Àû"
 	dynasty = 1045098
 	female=yes
 	religion="tengri_pagan"
@@ -2096,7 +2096,7 @@
 	}
 }
 194406 = {
-	name="Blush"
+	name="²¼Â³Ê²"
 	religion="tengri_pagan"
 	culture="cuman"
 	1199.1.1={
@@ -2107,7 +2107,7 @@
 	}
 }
 194407 = {
-	name="Umay"
+	name="ÎÚÃ·"
 	female=yes
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2120,7 +2120,7 @@
 }
 
 34889 = {
-	name="¼ª¶û¸ù" #Girgen
+	name="¼ª¶û¸ù" #GÒÁ¶û¸èn
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2133,7 +2133,7 @@
 }
 
 34890 = {
-	name="°£ÌØÁÒ¿Ë" #Etrek
+	name="°£ÌØÁÒ¿Ë" #°¬ÌØÀ×¿Ë
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2146,7 +2146,7 @@
 }
 
 34891 = {
-	name="²ªÄáÑÅ¿Ë" #Bonyak
+	name="²ªÄáÑÅ¿Ë" #²¨ÄáÑÇ¿Ë
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2172,7 +2172,7 @@
 }
 
 34897 = {
-	name="°¢ÈøÂ³ÆÕ" #Asalup
+	name="°¢ÈøÂ³ÆÕ" #°¢ÈøÂ·ÆÕ
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2226,7 +2226,7 @@
 }
 
 34947 = {
-	name="Ë÷¿¨ÀÕ" #Sokal
+	name="Ë÷¿¨ÀÕ" #Ë÷¿¨¶û
 	
 	#placeholder
 	religion="tengri_pagan"
@@ -2265,7 +2265,7 @@
 	}
 }
 194445 = {
-	name="Atrak"
+	name="°¢ÌØÀ­¿Ë"
 	dynasty = 1045109
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2278,7 +2278,7 @@
 	}
 }
 194446 = {
-	name="Ayten"
+	name="°¢ÒÀÌù¶÷"
 	dynasty = 1045109
 	female = yes
 	religion="tengri_pagan"
@@ -2292,7 +2292,7 @@
 	}
 }
 34954 = {
-	name="¿âµ¤" #Kutan
+	name="¿âµ¤" #¿âÌ¹
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2305,7 +2305,7 @@
 }
 
 34955 = {
-	name="²¼Â³Ê²" #Blush
+	name="²¼Â³Ê²" #²¼Â³Ê²
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2331,7 +2331,7 @@
 }
 
 34957 = {
-	name="¿â°ÍÈø¶û" #Kubasar
+	name="¿â°ÍÈø¶û" #¿â°ÍÈø
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2356,7 +2356,7 @@
 	}
 }
 194439 = {
-	name="Kutan"
+	name="¿âÌ¹"
 	dynasty = 1045106
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2369,7 +2369,7 @@
 	}
 }
 194440 = {
-	name="Sati"
+	name="ÈøµÙ"
 	dynasty = 1045106
 	female=yes
 	religion="tengri_pagan"
@@ -2396,7 +2396,7 @@
 	}
 }
 194447 = {
-	name="Uzur"
+	name="ÎÚ×æ¶û"
 	dynasty = 1045110
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2409,7 +2409,7 @@
 	}
 }
 194448 = {
-	name="Peksen"
+	name="Åå¿ËÏÈ"
 	dynasty = 1045110
 	female = yes
 	religion="tengri_pagan"
@@ -2424,7 +2424,7 @@
 }
 
 34964 = {
-	name="°£ÌØÁÒ¿Ë" #Etrek
+	name="°£ÌØÁÒ¿Ë" #°¬ÌØÀ×¿Ë
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2437,7 +2437,7 @@
 }
 
 34965 = {
-	name="ÎÚ×æ¶û" #Uzur
+	name="ÎÚ×æ¶û" #ÎÚ×æ¶û
 	#placeholder
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2716,7 +2716,7 @@
 	}
 }
 194426 = {
-	name="Gzi"
+	name="¸ñÆë"
 	dynasty=1051133
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2729,7 +2729,7 @@
 	}
 }
 194427 = {
-	name="Esin"
+	name="¶îĞÁ"
 	female=yes
 	dynasty=1051133
 	religion="tengri_pagan"
@@ -2744,7 +2744,7 @@
 }
 
 161731 = {
-	name="°¢ÌØÀ­¿Ë" #Atrak
+	name="°¢ÌØÀ­¿Ë" #°¢ÌØÀ­¿Ë
 	#placeholder
 	dynasty=1051133
 	religion="tengri_pagan"
@@ -2759,7 +2759,7 @@
 }
 
 161732 = {
-	name="Ë÷¿¨ÀÕ" #Sokal
+	name="Ë÷¿¨ÀÕ" #Ë÷¿¨¶û
 	#placeholder
 	dynasty=1051133
 	religion="tengri_pagan"
@@ -2789,7 +2789,7 @@
 }
 
 161734 = {
-	name="¿âµ¤" #Kutan
+	name="¿âµ¤" #¿âÌ¹
 	#placeholder
 	dynasty=1051133
 	religion="tengri_pagan"
@@ -2818,7 +2818,7 @@
 	}
 }
 194408 = {
-	name="Tugor"
+	name="Í¿»ğ¶û"
 	dynasty=1051133
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2832,7 +2832,7 @@
 }
 
 180260 = {
-	name="Uzluk "	# fictional
+	name="ÎÚ×ÈÂ¬¿Ë "	# fictional
 	dynasty=1042045
 	religion="tengri_pagan"
 	culture="cuman"
@@ -2861,7 +2861,7 @@
 	}
 }
 180262 = {
-	name="Ë÷¿¨ÀÕ" #Sokal	# fictional
+	name="Ë÷¿¨ÀÕ" #Ë÷¿¨¶û	# fictional
 	# King of Cumania
 	dynasty=1042045
 	religion="tengri_pagan"
@@ -2957,7 +2957,7 @@
 	}
 }
 180264 = {
-	name="°¢Ë¹Àï" #Asli	# fictional
+	name="°¢Ë¹Àï" #°¢Ê²Àû	# fictional
 	female=yes
 	dynasty=1042045
 	religion="tengri_pagan"
@@ -2986,7 +2986,7 @@
 	}
 }
 180266 = {
-	name="ÈøÌá" #Sati	# fictional
+	name="ÈøÌá" #ÈøµÙ	# fictional
 	female=yes
 	dynasty=1042045
 	religion="tengri_pagan"
@@ -3016,7 +3016,7 @@
 	}
 }
 180268 = {
-	name="²¼Â³Ê²" #Blush	# fictional
+	name="²¼Â³Ê²" #²¼Â³Ê²	# fictional
 	dynasty=1042045
 	religion="tengri_pagan"
 	culture="cuman"
@@ -3046,7 +3046,7 @@
 	}
 }
 180270 = {
-	name="°£ÌØÁÒ¿Ë" #Etrek	# fictional
+	name="°£ÌØÁÒ¿Ë" #°¬ÌØÀ×¿Ë	# fictional
 	dynasty=1042045
 	religion="tengri_pagan"
 	culture="cuman"
@@ -3060,7 +3060,7 @@
 	}
 }
 180271 = {
-	name="¸ñ×È" #Gzi	# fictional
+	name="¸ñ×È" #¸ñÆë	# fictional
 	dynasty=1042045
 	religion="tengri_pagan"
 	culture="cuman"
@@ -3104,7 +3104,7 @@
 	}
 }
 194374 = {
-	name="Sugr"	# fictional
+	name="ËÕ¸ñ¶û"	# fictional
 	dynasty=1042048
 	religion="tengri_pagan"
 	culture="cuman"
@@ -3117,7 +3117,7 @@
 	}
 }
 194375 = {
-	name="Songul"	# fictional
+	name="ËÉ¹Ã¶û"	# fictional
 	female=yes
 	dynasty=1042048
 	religion="tengri_pagan"
@@ -3199,7 +3199,7 @@
 }
 
 194349 = {
-	name="Koza" # fictional
+	name="¿ÆÔú" # fictional
 	dynasty=1042045
 	father = 188798
 	religion="tengri_pagan"
@@ -3212,7 +3212,7 @@
 	}
 }
 194358 = {
-	name="Irge" # fictional
+	name="ÒÁ¶û¸è" # fictional
 	female = yes
 	dynasty=1042045
 	father = 188798
@@ -3227,7 +3227,7 @@
 }
 
 188799 = {
-	name="¿ÆÈø" #Koza # fictional
+	name="¿ÆÈø" #¿ÆÈø # fictional
 	dynasty=1042045
 	religion="tengri_pagan"
 	culture="cuman"
@@ -3241,7 +3241,7 @@
 }
 
 188800 = {
-	name="²ªÄáÑÅ¿Ë" #Bonyak # fictional
+	name="²ªÄáÑÅ¿Ë" #²¨ÄáÑÇ¿Ë # fictional
 	dynasty=1042195
 	religion="tengri_pagan"
 	culture="cuman"
@@ -3254,7 +3254,7 @@
 }
 
 194350 = {
-	name="Saru" # fictional
+	name="ÈøÂ³" # fictional
 	dynasty=1042195
 	father = 188800
 	religion="tengri_pagan"
@@ -3267,7 +3267,7 @@
 	}
 }
 194359 = {
-	name="Tura" # fictional
+	name="Í¼À­" # fictional
 	dynasty=1042195
 	father = 188800
 	religion="tengri_pagan"
@@ -3280,7 +3280,7 @@
 	}
 }
 194360 = {
-	name="Sibel" # fictional
+	name="Ï£İí¶û" # fictional
 	female = yes
 	dynasty=1042195
 	father = 188800
@@ -3295,7 +3295,7 @@
 }
 
 188816 = {
-	name="¸ñ×È" #Gzi # fictional
+	name="¸ñ×È" #¸ñÆë # fictional
 	dynasty=1042197
 	religion="tengri_pagan"
 	culture="cuman"
@@ -3307,7 +3307,7 @@
 	}
 }
 194189 = {
-	name="Kutan"
+	name="¿âÌ¹"
 	dynasty=698 # Terteroba
 	religion="tengri_pagan"
 	culture="cuman"
@@ -3321,7 +3321,7 @@
 	}
 }
 194190 = {
-	name="Sevilay"
+	name="ÈüÎ¬À³"
 	religion="tengri_pagan"
 	culture="cuman"
 	female = yes
@@ -3333,7 +3333,7 @@
 	}
 }
 194205 = {
-	name = "Sotan"
+	name = "Ë÷Ì¹"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3346,7 +3346,7 @@
 	}
 }
 194206 = {
-	name = "Kobyak"
+	name = "¿Æ°İÑÅ¿Ë"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3359,7 +3359,7 @@
 	}
 }
 194207 = {
-	name = "Uzluk"
+	name = "ÎÚ×ÈÂ¬¿Ë"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3372,7 +3372,7 @@
 	}
 }
 194208 = {
-	name = "Sotan"
+	name = "Ë÷Ì¹"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3385,7 +3385,7 @@
 	}
 }
 194209 = {
-	name = "B?nek"
+	name = "²¨Äù¿Ë"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3398,7 +3398,7 @@
 	}
 }
 194210 = {
-	name = "Uzluk"
+	name = "ÎÚ×ÈÂ¬¿Ë"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3411,7 +3411,7 @@
 	}
 }
 194211 = {
-	name = "Kutan"
+	name = "¿âÌ¹"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3424,7 +3424,7 @@
 	}
 }
 194212 = {
-	name = "Koza"
+	name = "¿ÆÈø"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3437,7 +3437,7 @@
 	}
 }
 194397 = {
-	name = "Irge"
+	name = "ÒÁ¶û¸è"
 	female=yes
 	dynasty=852 # Kimak
 	religion=tengri_pagan
@@ -3451,7 +3451,7 @@
 	}
 }
 194213 = {
-	name = "Togli"
+	name = "ÍĞÀï"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3464,7 +3464,7 @@
 	}
 }
 194214 = {
-	name = "Asalup"
+	name = "°¢ÈøÂ·ÆÕ"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3477,7 +3477,7 @@
 	}
 }
 194215 = {
-	name = "Cilbu"
+	name = "Æë¶û²¼"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3490,7 +3490,7 @@
 	}
 }
 194216 = {
-	name = "Kubasar"
+	name = "¿â°ÍÈø"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3503,7 +3503,7 @@
 	}
 }
 194217 = {
-	name = "Sugr"
+	name = "ËÕ¸ñ¶û"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3516,7 +3516,7 @@
 	}
 }
 194403 = {
-	name = "Esin"
+	name = "¶îĞÁ"
 	female=yes
 	dynasty=852 # Kimak
 	religion=tengri_pagan
@@ -3530,7 +3530,7 @@
 	}
 }
 194218 = {
-	name = "Bonyak"
+	name = "²¨ÄáÑÇ¿Ë"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
@@ -3543,7 +3543,7 @@
 	}
 }
 194219 = {
-	name = "Etrek"
+	name = "°¬ÌØÀ×¿Ë"
 	dynasty=852 # Kimak
 	religion=tengri_pagan
 	culture=cuman
