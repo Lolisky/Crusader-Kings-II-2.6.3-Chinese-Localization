@@ -1617,7 +1617,7 @@ altaic = {
 		
 		from_dynasty_prefix = "维 "
 		
-		male_patronym = "奥格鲁"
+		male_patronym = "奥卢"
 		prefix = no
 		
 		dynasty_title_names = yes
@@ -1655,13 +1655,14 @@ altaic = {
 		
 		color = { 0.75 0.60 0.20 }
 
-		male_names = {
-			阿布 艾帕克 阿斯普  阿塔克 巴克 巴赫曼 巴格克 布鲁什 本雅克  俄特克 葛根 葛滋 伊塔 以图克  克布克 科普提 柯亚 
-			科泽 库巴萨 图卡迪 图坦 普卡 萨如 斯温  索卡 索坦 托里 拖伦 图格 乌兹克 乌兹
+		male_names = { #有魔改
+			阿布 埃尔帕德 阿斯普 努尔兰 阿塔克 托塔弥什 巴赫曼 阿拜 布鲁什 克烈 贾尼别哥 洪库兰 哈斯姆 耶尔森 摩玛什 耶拉尔 阿布莱 巴彦 帖木儿布拉特 喀斯哈尔 金格斯 梅勒 纳尔台 布蓝
+			那扎尔 叶德尔 拜答什 托沃雷 乌鲁斯 萨如 斯温 图尔兰 托里 帖木儿 托雷 拖伦 阿曼 贝格鲁克 耶尔肯 如斯兰 艾依多斯 耶尔占 玛纳斯 塞篾台 赛帖克 巴尔斯别哥 阔克台 贾格拉哈尔 塔尔杜什
+			巴图尔 喀拉达干 阿尔玛斯 阿尔滕别哥 昆庇
 		}
 		female_names = {
-			?i?ek ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Ayasun Ayten Boz?in Dilek Esin Gul?i?ek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz
+			奇彻可 奇伦 奇尔塔涅西 阿兹古尔 阿兹乐姆 阿克姑丽 阿斯丽 阿雅森 艾依丹 阿尔达奈伊 艾依博塔 艾依妲纳 阿茹江 古莱 爱依努尔 迪娜拉 艾依娜 爱伊莎德 绕珊 巴燕 伊尔歌
+			卡拉希克 玛拉 吉别克 哈姬娜 姑尔萨拉 萨莉卡 阿克萨玛 赛维莱 阿克玛拉尔 希蓓尔 席琳 希尔玛 索恩姑丽 喀拉阔孜 图拉 姑尔辛 迪妲尔 蒂娜尔 阿曼姑丽 伊尔迪兹
 		}
 		
 		from_dynasty_prefix = "沃 "
@@ -1679,14 +1680,14 @@ altaic = {
 		color = { 0.7 0.45 0.1 }
 
 		male_names = {
-			Alp Araslan_Arslan Bagha Baghatur B?lgi?i Barjik Barsbek Bastu Bashtwa Bihor B?ri Bugha Bulan Bul?an Busir Buzer ?at ?at'n ?orpan Ilik Ilt?b?r Itakh Kamaj Karadakh Kayghalagh Khatir Khuterkin
-			Kibar Kisa Kunda?iq Kunda? M?n?r M?n?s M?nümarót ?temis Papa?yz Samsam Sart?? Simsam T?b?r Tabgha? Tarkhan Tarma? Tuzniq Vakrim Yabghu Yavantey Yen?epi Yerneslu Ye?tirek Yilig
-			Belet Ezra Hanukkah Hezekiah Isaac Manasseh Nisi Yavdi Zebulun
+			阿尔卜-阿尔斯兰 巴哈 巴图尔 巴尔吉克 巴尔斯别克 巴斯图 巴士图瓦 毕霍尔 巴里 布哈 布蓝 布尔坦 布希尔 布扎尔 萨特 萨腾 索尔班 依力克 乌兹卢克 伊特拉尔 卡麦 喀拉达赫 凯噶拉格 哈提尔 库铁金
+			齐巴尔 齐萨 昆达力克 昆达尔 粟特 泰拜尔 塔布哈 塔尔汗 塔尔玛斯 图兹尼克 瓦克利姆 叶护 亚凡泰 桑桑 耶尔奈斯卢 耶斯提雷克 伊利格
+			贝列特 以斯拉 哈努卡 希西家 以撒 梅那西 尼西 亚夫迪 西布伦
 		}
 		female_names = {
-			?i??k_?i?ek ?e?eppi ?e?ki ?e?tilet ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Ayasun Ayten Boz?in Dilek Esin Gul?i??k_Gul?i?ek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
-			Karacik K?tyarikka K?lnissa K?lyamal Khatun L?rkka Lyukha Mala Maturkka Mutlu Na?a Parsbit Patiyer Payk?lti Peksen Puyantay Samur Sarantay Sar? Sarica Sarikel 
-			Sati Sava?ka Savk?lti Savtilek Savilay_Sevilay Savintik_Sevindik Shurkka Sibel Sirin Sirma Songul T?htani Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek 
+			琪彻克 琪伦 琪尔塔尼斯 奥茨古尔 奥茨莱姆 阿克古尔 阿西莉 阿亚松 艾滕 博茨欣 迪莱克 埃辛 古尔奇彻克 古尔蕾 贡杜茨 贡德斯 古妮丝 伊尔凯 伊佩克 伊佩克尔 伊尔格
+			卡拉西克 卡提亚莉卡 卡妮萨 卡娅玛尔 哈屯 吕卡 吕哈 玛拉 玛图卡 穆特鲁 娜拉 帕斯比忒 帕提耶 帕库尔提 佩克森 蒲延泰伊 萨穆尔 萨兰泰伊 萨拉 萨莉卡 萨莉克尔 
+			萨蒂 塞维蕾 塞文迪克 西贝尔 西琳 西尔玛 松古尔 特克彻 图拉 乌玛伊 乌松比凯 亚萨尔 耶尔德姆 伊尔迪次 亚提勒克 
 		}
 		
 		founder_named_dynasties = yes
@@ -1703,7 +1704,7 @@ altaic = {
 		color = { 0.7 0.7 0.3 }
 		
 		male_names = {
-			奥米什 奥泽克 安茲 阿波奇 阿拉斯兰_阿斯兰 阿斯帕鲁卡 巴兰波_巴兰巴 巴斯 巴塔兀 白巴杨 巴托亚 巴图里亚 巴杨 贝科马 贝兹梅 柏杨 布尔戈 布赞 切帕 奇拉鲁什 顿奇里克 
+			奥米什 奥泽克 安茲 阿波奇 阿尔斯兰_阿斯兰 阿斯帕鲁卡 巴兰波_巴兰巴 巴斯 巴塔兀 白巴杨 巴托亚 巴图里亚 巴杨 贝科马 贝兹梅 柏杨 布尔戈 布赞 切帕 奇拉鲁什 顿奇里克 
 			迪曾 多梅塔 德里斯塔 德隆 杜昆 伊拉克 埃勒玛 厄纳克 埃什卡克 戈勒达 戈什顿 固厄 兀巴德 伊阿尼 伊尔内克 伊斯布尔 伊斯里万 伊斯佩里克 伊斯波 克拉卡诺 卡郎 卡兰屯
 			卡丹 卡拉顿 奇尼亚隆 库巴德 寇迪尔 寇梅西 寇米索什 库特拉格 库洛瓦 科伦 库伯 库布拉特 库尔特 库特里古 库乌拉特 拉伯特坦 玛戈廷 玛拉米 穆戈尔 欧度尔甘 奥克西 
 			奥克孙 奥寇斯 欧穆塔戈 欧内加翁 欧尔甘 欧尔甘纳 欧尔纳戈 欧什 欧斯特罗 帕甘 帕克提亚_帕克提亚尔 帕瓦尔 普拉斯卡 拉萨特 鲁基拉 萨宾 珊迪尔 珊狄尔克 萨克汗 萨尔塔克 萨温 塞瓦 什切 
@@ -1759,15 +1760,16 @@ altaic = {
 		color = { 0.65 0.50 0.15 }
 
 		male_names = {
-			?ilbu Aepak Asalup Asep Atrak B?nek Bachman Begluk Blush Bonyak 勃尔赤 Elde?yuk Etrek Girgen Gzi Itlar Ituk K?n?ek Kobyak Kopti Kotyan Koza
-			Kozel Kubasar Kuntuvdi Kutan Pulad Saru Seven? Sir?an Sokal Sotan Sugr T?rtogul Togli Tolun Tugor Uzluk Uzur
+			奇尔布 阿佩克 亚萨路普 亚塞普 阿特拉克 博内克 巴克曼 贝格路克 布鲁希 博尼亚克 勃尔赤 埃特雷克 吉尔根 格兹 伊特拉尔 伊图克 康彻克 科布亚克 科普提 科特延 科扎
+			科泽尔 库巴萨尔 昆图夫迪 库坦 普拉德 萨鲁 索卡尔 索坦 苏格尔 托尔托古尔 托格里 托伦 图戈尔 乌兹卢克 乌祖尔
+			
 		}
 		female_names = {
-			?i?ek ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Ayasun Ayten Boz?in Dilek Esin Gul?i?ek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz
+			琪彻克 琪伦 琪尔塔尼斯 奥茨古尔 奥茨莱姆 阿克古尔 阿西莉 阿亚松 艾滕 博茨欣 迪莱克 埃辛 古尔奇彻克 古尔蕾 贡杜茨 贡德斯 古妮丝 伊尔凯 伊佩克 伊佩克尔 伊尔格
+			卡拉西克 玛拉 穆特鲁 佩克森 萨穆尔 萨莉卡 萨蒂 塞维蕾 塞文迪克 西贝尔 西琳 西尔玛 松古尔 特克彻 图拉 乌玛伊 乌松比凯 亚萨尔 耶尔德姆 伊尔迪次
 		}
 		
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = "沃 "
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
 
@@ -1783,14 +1785,14 @@ altaic = {
 		color = { 0.85 0.72 0.30 }
 
 		male_names = {
-			?ilbu Aepak Asalup Asep Atrak B?nek Bachman Begluk Blush Bonyak 勃尔赤 Elde?yuk Etrek Girgen Gzi Itlar Ituk K?n?ek Kobyak Kopti Kotyan Koza
-			Kozel Kubasar Kuntuvdi Kutan Pulad Saru Seven? Sir?an Sokal Sotan Sugr T?rtogul Togli Tolun Tugor Uzluk Uzur
-			Manas Semetei Seitek Barsbeg Kokotoy Jaglaqar Tardush
+			奇尔布 阿佩克 亚萨路普 亚塞普 阿特拉克 博内克 巴克曼 贝格路克 布鲁希 博尼亚克 勃尔赤 埃特雷克 吉尔根 格兹 伊特拉尔 伊图克 康彻克 科布亚克 科普提 科特延 科扎
+			科泽尔 库巴萨尔 昆图夫迪 库坦 普拉德 萨鲁 索卡尔 索坦 苏格尔 托尔托古尔 托格里 托伦 图戈尔 乌兹卢克 乌祖尔
+			玛纳斯 塞篾台 赛帖克 巴尔斯别哥 阔克台 贾格拉哈尔 塔尔杜什
 		}
 		female_names = {
-			Begayim Jibek
-			?i?ek ?ilen ?iltanesi ?zgul ?zlem Akgul Asli Ayasun Ayten Boz?in Dilek Esin Gul?i?ek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek?e Tura Umay Usunbike Yasar Yeldem Yildiz
+			贝加伊姆 吉别克
+			琪彻克 琪伦 琪尔塔尼斯 奥茨古尔 奥茨莱姆 阿克古尔 阿西莉 阿亚松 艾滕 博茨欣 迪莱克 埃辛 古尔奇彻克 古尔蕾 贡杜茨 贡德斯 古妮丝 伊尔凯 伊佩克 伊佩克尔 伊尔格
+			卡拉西克 玛拉 穆特鲁 佩克森 萨穆尔 萨莉卡 萨蒂 塞维蕾 塞文迪克 西贝尔 西琳 西尔玛 松古尔 特克彻 图拉 乌玛伊 乌松比凯 亚萨尔 耶尔德姆 伊尔迪次
 		}
 		
 		from_dynasty_prefix = " "
@@ -1848,7 +1850,7 @@ altaic = {
 			"阿-阿尔塔" 阿兰 阿尔塔泥 孛儿帖 孛秃回 不鲁干 察毕 察忽儿 察卡 扯扯亦坚 扯檀 孛剌合真 脱古思 诃别该 忽别速 诃额仑 豁雷罕 亦巴合 合答安 火合臣 华筝 可里斤 库格沁 忽兰 忽秃伦 满都海  蒙古贞 莫孥伦 斡兀立 斡儿伯 莎合合 莎儿合黑塔妮 特勤 特睦伦 土里浑 也速浑 也遂 诃额伦
 		}
 		
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = "沃 "
 		founder_named_dynasties = yes
 
 		allow_looting = yes

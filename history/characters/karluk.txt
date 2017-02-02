@@ -1,5 +1,5 @@
 34872 = {
-	name=Bilge
+	name=±Ë¶û¸ç
 	dynasty=101864 # Karakhanid
 	religion=tengri_pagan
 	culture=karluk
@@ -12,7 +12,7 @@
 	}
 }
 188640 = {
-	name="Salim" 
+	name="ÈüÀïÄ¾" 
 	dynasty=1042124 # of Farghana
 	religion="sunni"
 	culture="karluk"
@@ -29,7 +29,7 @@
 	}
 }
 188768 = {
-	name="Bonek"	# fictional
+	name="²®Äô¸ñ"	# fictional
 	dynasty=1042185 # Karlukid
 	religion="tengri_pagan"
 	culture="karluk"
@@ -42,7 +42,7 @@
 }
 
 188769 = {
-	name="Pulad"	# fictional
+	name="ÆÓÀ­µÂ"	# fictional
 	dynasty=1042185 # Karlukid
 	religion="tengri_pagan"
 	culture="karluk"
@@ -58,7 +58,7 @@
 	}
 }
 194362 = {
-	name="Yildiz"	# fictional
+	name="ÒÁ¶ûµÏ×È"	# fictional
 	female = yes
 	dynasty=1042185 # Karlukid
 	religion="tengri_pagan"
@@ -95,7 +95,7 @@
 
 
 188771 = {
-	name="Eldecyuk"	# fictional
+	name="Ò®¶ûµÂ×ÈÓÈ¸ñ"	# fictional
 	dynasty=1042185 # Karlukid
 	religion="sunni"
 	culture="karluk"
@@ -109,7 +109,7 @@
 }
 
 188772 = {
-	name="Arslan" # fictional chief of Chigils
+	name="ÑÇ¶ûË¹À¼" # fictional chief of Chigils
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -122,7 +122,7 @@
 }
 
 188773 = {
-	name="Kubasar" # fictional chief of Yagma
+	name="¿â°ÍÈø" # fictional chief of Yagma
 	dynasty=1042187 # Yagma
 	religion="tengri_pagan" # guess
 	culture="karluk"
@@ -135,7 +135,7 @@
 }
 
 188778 = {
-	name="Sevenc"	# fictional
+	name="ÈûÎÂ"	# fictional
 	dynasty=1042185 # Karlukid
 	religion="sunni"
 	culture="karluk"
@@ -148,7 +148,7 @@
 	}
 }
 194383 = {
-	name="Uzur"	# fictional
+	name="ÎÚ×æ¶û"	# fictional
 	dynasty=1042185 # Karlukid
 	religion="sunni"
 	culture="karluk"
@@ -161,7 +161,7 @@
 	}
 }
 194385 = {
-	name="Sirma"	# fictional
+	name="Ï£¶ûÂê"	# fictional
 	female=yes
 	dynasty=1042185 # Karlukid
 	religion="sunni"
@@ -176,7 +176,7 @@
 }
 
 188830 = {
-	name="Kuntuvdi" # fictional
+	name="À¥Í¼¸¦Ìè" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -191,7 +191,7 @@
 
 
 188851 = {
-	name="Bazir"
+	name="°Í»ù¶û"
 	dynasty=101864 # Karakhanid
 	religion=tengri_pagan
 	culture=karluk
@@ -204,7 +204,7 @@
 	}
 }
 194380 = {
-	name="Peksen"
+	name="±ð¿ËÏÈ"
 	female=yes
 	dynasty=101864 # Karakhanid
 	religion=tengri_pagan
@@ -219,7 +219,7 @@
 }
 
 188852 = {
-	name="Oghulcak"
+	name="ÎÖºö¶ù²ì¿Ë"
 	dynasty=101864 # Karakhanid
 	religion=tengri_pagan
 	culture=karluk
@@ -233,7 +233,7 @@
 }
 
 188853 = {
-	name="Satuk-Bughra"
+	name="ÈøÍ¼¿Ë-²¼ºöØÝ"
 	dynasty=101864 # Karakhanid
 	religion=tengri_pagan
 	culture=karluk
@@ -250,7 +250,7 @@
 }
 
 188854 = {
-	name="Suleyman-Arslan"
+	name="ËÕÀ³Âü-ÑÇ¶ûË¹À¼"
 	dynasty=101864 # Karakhanid
 	religion=sunni
 	culture=karluk
@@ -264,7 +264,7 @@
 }
 
 188831 = {
-	name="Saru" # fictional
+	name="ÈøÂ³" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -278,7 +278,7 @@
 }
 
 188832 = {
-	name="Begluk" # fictional
+	name="±ð¸çÂ³¿Ë" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -292,7 +292,7 @@
 }
 
 188833 = {
-	name="Tugor" # fictional
+	name="Í¿»ð¶û" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -306,7 +306,7 @@
 }
 
 188834 = {
-	name="Uzluk" # fictional
+	name="Ø£×ÈÂ¬¸ç" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -319,7 +319,7 @@
 	}
 }
 194381 = {
-	name="Kotyan" # fictional
+	name="¿ÆÌáÑî" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -332,7 +332,7 @@
 	}
 }
 194382 = {
-	name="Sokal" # fictional
+	name="Ë÷¿¦ÀÕ" # fictional
 	female=yes
 	dynasty=1042186 # Chigil
 	religion="manichean"
@@ -347,7 +347,7 @@
 }
 
 188835 = {
-	name="Itlar" # fictional
+	name="ÒÁÌØØÝ¶û" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -361,7 +361,7 @@
 }
 
 188836 = {
-	name="Eldecyuk" # fictional
+	name="Ò®¶ûµÂ×ÈÓÈ¸ñ" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -375,7 +375,7 @@
 }
 
 188837 = {
-	name="Eldecyuk" # fictional
+	name="Ò®¶ûµÂ×ÈÓÈ¸ñ" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -403,7 +403,7 @@
 }
 
 188839 = {
-	name="Sugr" # fictional
+	name="ËÕºö¶û" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -417,7 +417,7 @@
 }
 
 188840 = {
-	name="Bachman" # fictional
+	name="°ÍÆäÂü" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -431,7 +431,7 @@
 }
 
 188841 = {
-	name="Sotan" # fictional
+	name="Ë÷Ì¹" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -445,7 +445,7 @@
 }
 
 188842 = {
-	name="Sugr" # fictional
+	name="ËÕºö¶û" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -459,7 +459,7 @@
 }
 
 188843 = {
-	name="Arslan" # fictional
+	name="ÑÇ¶ûË¹À¼" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -473,7 +473,7 @@
 }
 
 188844 = {
-	name="Atrak" # fictional
+	name="°¢ÌØØÝ¸ñ" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -486,7 +486,7 @@
 	}
 }
 194399 = {
-	name="Tura" # fictional
+	name="Í¼À­" # fictional
 	female=yes
 	dynasty=1042186 # Chigil
 	religion="manichean"
@@ -501,7 +501,7 @@
 }
 
 188845 = {
-	name="Aepak" # fictional
+	name="°¬ÅÁ¿Ë" # fictional
 	dynasty=1042186 # Chigil
 	religion="nestorian"
 	culture="karluk"
@@ -515,7 +515,7 @@
 }
 
 188846 = {
-	name="Uzur" # fictional
+	name="ÎÚ×æ¶û" # fictional
 	dynasty=1042186 # Chigil
 	religion="nestorian"
 	culture="karluk"
@@ -529,7 +529,7 @@
 }
 
 188847 = {
-	name="Girgen" # fictional
+	name="¼ª¶û¸ù" # fictional
 	dynasty=1042186 # Chigil
 	religion="nestorian"
 	culture="karluk"
@@ -543,7 +543,7 @@
 }
 
 188848 = {
-	name="Begluk" # fictional
+	name="±ð¸çÂ³¿Ë" # fictional
 	dynasty=1042186 # Chigil
 	religion="nestorian"
 	culture="karluk"
@@ -557,7 +557,7 @@
 }
 
 188849 = {
-	name="Girgen" # fictional
+	name="¼ª¶û¸ù" # fictional
 	dynasty=1042186 # Chigil
 	religion="nestorian"
 	culture="karluk"
@@ -571,7 +571,7 @@
 }
 
 188850 = {
-	name="Girgen" # fictional
+	name="¼ª¶û¸ù" # fictional
 	dynasty=1042186 # Chigil
 	religion="manichean"
 	culture="karluk"
@@ -584,7 +584,7 @@
 	}
 }
 217205 = {
-	name = "Murad" # fictional
+	name = "ÄÂÀ­µÂ" # fictional
 	dynasty = 1051119 # Uzgen
 	religion = sunni
 	culture = karluk
@@ -596,7 +596,7 @@
 	}
 }
 217206 = {
-	name = "Korkut" # fictional
+	name = "À«¶ù¿âÌè" # fictional
 	dynasty = 1051119 # Uzgen
 	religion = sunni
 	culture = karluk
@@ -609,7 +609,7 @@
 	}
 }
 217207 = {
-	name = "Erdem" # fictional
+	name = "Ò²¶ûµÂÄÂ" # fictional
 	dynasty = 1051119 # Uzgen
 	religion = sunni
 	culture = karluk
@@ -622,7 +622,7 @@
 	}
 }
 217208 = {
-	name = "Baturay" # fictional
+	name = "°ÍÍ¼À³" # fictional
 	dynasty = 1051119 # Uzgen
 	religion = sunni
 	culture = karluk
@@ -638,7 +638,7 @@
 	}
 }
 217209 = {
-	name = "Gulcicek" # fictional
+	name = "¹ÃÀöÇÐ¸ñ" # fictional
 	religion = sunni
 	culture = karluk
 	female = yes
@@ -650,7 +650,7 @@
 	}
 }
 217210 = {
-	name = "Savur" # fictional
+	name = "ÈøÎä¶û" # fictional
 	dynasty = 1051119 # Uzgen
 	religion = sunni
 	culture = karluk
@@ -664,7 +664,7 @@
 	}
 }
 217211 = {
-	name = "Kaytun" # fictional
+	name = "¿­¶Ù" # fictional
 	dynasty = 1051119 # Uzgen
 	religion = sunni
 	culture = karluk
@@ -678,7 +678,7 @@
 	}
 }
 217212 = {
-	name = Tugrul # fictional
+	name = Í¼¸ñÂ³ # fictional
 	dynasty = 1051119 # Uzgen
 	religion = sunni
 	culture = karluk
@@ -691,7 +691,7 @@
 	}
 }
 217236 = {
-	name = Ayaz # fictional
+	name = °¢ÑÇ×È # fictional
 	dynasty = 1051122 # Bayezid
 	religion = sunni
 	culture = karluk
@@ -703,7 +703,7 @@
 	}
 }
 217237 = {
-	name = Uluc # fictional
+	name =  ÎÚÂ³Ë¹  # fictional
 	dynasty = 1051122 # Bayezid
 	religion = sunni
 	culture = karluk
@@ -716,7 +716,7 @@
 	}
 }
 217238 = {
-	name = Kasim # fictional
+	name = ¿¨Ë¹Ä¾ # fictional
 	dynasty = 1051122 # Bayezid
 	religion = sunni
 	culture = karluk
@@ -729,7 +729,7 @@
 	}
 }
 217239 = {
-	name = Timurtash # fictional
+	name = ÌûÄ¾¶ùËþÊ² # fictional
 	dynasty = 1051122 # Bayezid
 	religion = sunni
 	culture = karluk
@@ -742,7 +742,7 @@
 	}
 }
 217240 = {
-	name = Nagihan # fictional
+	name = ÄÉ¼ªº± # fictional
 	dynasty = 1051122 # Bayezid
 	religion = sunni
 	culture = karluk
@@ -756,7 +756,7 @@
 	}
 }
 217241 = {
-	name = Kemal # fictional
+	name = ¿­Ä©¶û # fictional
 	dynasty = 1051119 # Uzgen
 	religion = sunni
 	culture = karluk
@@ -769,7 +769,7 @@
 	}
 }
 217242 = {
-	name = Rustem # fictional
+	name = Â·Ë¹ËþÄ· # fictional
 	dynasty = 1051119 # Uzgen
 	religion = sunni
 	culture = karluk
@@ -782,7 +782,7 @@
 	}
 }
 217243 = {
-	name = Bahadir # fictional
+	name = °Í¹þµÏ¶û # fictional
 	dynasty = 1051119 # Uzgen
 	religion = sunni
 	culture = karluk
@@ -796,8 +796,8 @@
 }
 
 3000 = {
-	name="Ali Arslan"
-	# AKA: Ali Arslan
+	name="°¢Àï ÑÇ¶ûË¹À¼"
+	# AKA: °¢Àï ÑÇ¶ûË¹À¼
 	dynasty=101864
 	martial=7
 	diplomacy=5
@@ -816,8 +816,8 @@
 }
 
 3002 = {
-	name="Ahmad Arslan Toghan"
-	# AKA: Ahmad Arslan Toghan
+	name="°¬¹þÂõµÂ ÑÇ¶ûË¹À¼ ÍÐº±"
+	# AKA: °¬¹þÂõµÂ ÑÇ¶ûË¹À¼ ÍÐº±
 	dynasty=101864
 	martial=4
 	diplomacy=7
@@ -838,8 +838,8 @@
 }
 
 3004 = {
-	name="Mansur Arslan"
-	# AKA: Mansur Arslan
+	name="ÂüËÕ¶û ÑÇ¶ûË¹À¼"
+	# AKA: ÂüËÕ¶û ÑÇ¶ûË¹À¼
 	dynasty=101864
 	martial=6
 	diplomacy=5
@@ -861,8 +861,8 @@
 }
 
 3010 = {
-	name="Ali Tigin"
-	# AKA: Ali Tigin
+	name="°¢Àï Ìá¸ù"
+	# AKA: °¢Àï Ìá¸ù
 	dynasty=101864
 	martial=7
 	diplomacy=6
@@ -881,8 +881,8 @@
 }
 
 3006 = {
-	name="Ahmad Toghan"
-	# AKA: Ahmad Toghan
+	name="°¬¹þÂõµÂ ÍÐº±"
+	# AKA: °¬¹þÂõµÂ ÍÐº±
 	dynasty=101864
 	martial=7
 	diplomacy=7
@@ -902,8 +902,8 @@
 }
 
 3008 = {
-	name="Yusuf Qadir"
-	# AKA: Yusuf Qadir
+	name="ÓÅËØ¸£ ¿¦µÏ¶û"
+	# AKA: ÓÅËØ¸£ ¿¦µÏ¶û
 	dynasty=101864
 	martial=5
 	diplomacy=4
@@ -923,7 +923,7 @@
 }
 
 144102 = {
-	name="Sulayman"
+	name="ËÕÀ³Âü"
 	dynasty=101864
 	religion="sunni"
 	culture="karluk"
@@ -937,7 +937,7 @@
 }
 
 144103 = {
-	name="Muhammad"
+	name="ÄÂº±Ä¬µÂ"
 	dynasty=101864
 	religion="sunni"
 	culture="karluk"
@@ -951,7 +951,7 @@
 }
 
 144104 = {
-	name="Ibrahim"
+	name="Ò×²·À­ÐÀ"
 	dynasty=101864
 	religion="sunni"
 	culture="karluk"
@@ -965,7 +965,7 @@
 }
 
 144105 = {
-	name="Muhmud"
+	name="ÂéºÕÄÂµÂ"
 	dynasty=101864
 	religion="sunni"
 	culture="karluk"
@@ -979,7 +979,7 @@
 }
 
 144106 = {
-	name="Umar"
+	name="ÎáÂí¶û"
 	dynasty=101864
 	religion="sunni"
 	culture="karluk"
@@ -993,7 +993,7 @@
 }
 
 144107 = {
-	name="Hasan"
+	name="¹þÉ£"
 	dynasty=101864
 	religion="sunni"
 	culture="karluk"
@@ -1006,7 +1006,7 @@
 	}
 }
 194398 = {
-	name="Asli"
+	name="°¢Ë¹Àû"
 	female=yes
 	dynasty=101864
 	religion="sunni"
@@ -1021,7 +1021,7 @@
 }
 
 144114 = {
-	name="Ahmad"
+	name="°¬¹þÂõµÂ"
 	dynasty=101864
 	religion="sunni"
 	culture="karluk"
@@ -1035,7 +1035,7 @@
 }
 
 144115 = {
-	name="Ibrahim"
+	name="Ò×²·À­ÐÀ"
 	dynasty=101864
 	religion="sunni"
 	culture="karluk"
@@ -1049,7 +1049,7 @@
 }
 
 188855 = {
-	name="Muhammad"
+	name="ÄÂº±Ä¬µÂ"
 	dynasty=101864
 	religion="sunni"
 	culture="karluk"
@@ -1063,7 +1063,7 @@
 }
 
 188856 = {
-	name="Yusuf"
+	name="ÓÅËØ¸£"
 	dynasty=101864
 	religion="sunni"
 	culture="karluk"
@@ -1077,7 +1077,7 @@
 }
 
 188857 = {
-	name="Muhammad"
+	name="ÄÂº±Ä¬µÂ"
 	dynasty=101864
 	religion="sunni"
 	culture="karluk"
@@ -1091,7 +1091,7 @@
 }
 
 166986 = {
-   name="Mailaiti" # concubine of Khutughtu Khan
+   name="ÂóÀ³Ìè" # concubine of Khutughtu Khan
    female=yes
    dynasty=1042185
    religion="tengri_pagan"

@@ -1,5 +1,5 @@
 74000 = {
-	name="Muhan"
+	name="ÄÂº±"
 	dynasty=12269
 
 	culture="khazar"
@@ -13,7 +13,7 @@
 	}
 }
 74001 = {
-	name="Tun-Yagbu"
+	name="¶Ù-ÑÅ¸÷²¼"
 	dynasty=12269
 	father = 74000
 	culture="khazar"
@@ -28,7 +28,7 @@
 }
 
 74002 = {
-	name="Bagha-Shad"
+	name="°Í¹ş-É³µÂ"
 	dynasty=12269
 	father = 74000
 	culture="khazar"
@@ -43,7 +43,7 @@
 }
 
 74003 = {
-	name="Bori-Shad"
+	name="²ªÀï-É³µÂ"
 	dynasty=12269
 	father = 74002
 	culture="khazar"
@@ -58,7 +58,7 @@
 }
 
 74004 = {
-	name="Irbis"
+	name="ÒÁÀï±ÈË¹"
 	dynasty=12269
 	father = 74003
 	culture="khazar"
@@ -73,7 +73,7 @@
 }
 
 74005 = {
-	name="Khalga"
+	name="¿¦¶ûÙ¤"
 	dynasty=12269
 	father = 74003
 	culture="khazar"
@@ -88,7 +88,7 @@
 }
 
 74006 = {
-	name="Kaban"
+	name="¿¦°à"
 	dynasty=12269
 	father = 74005
 	culture="khazar"
@@ -103,7 +103,7 @@
 }
 
 74007 = {
-	name="Busir"
+	name="²¼Ï£¶û"
 	dynasty=12269
 	father = 74004
 	culture="khazar"
@@ -118,7 +118,7 @@
 }
 
 74008 = {
-	name="Barjik"
+	name="°Í¶ûÒÀ¿Ë"
 	dynasty=12269
 	father = 74007
 	culture="khazar"
@@ -133,7 +133,7 @@
 }
 
 74009 = {
-	name="Bihar"
+	name="±È¹ş¶û"
 	dynasty=12269
 	father = 74007
 	culture="khazar"
@@ -151,7 +151,7 @@
 }
 
 74010 = {
-	name="Parsbit"
+	name="²¨Ë¹±ÌµÂ"
 	dynasty=1022377
 	female=yes
 	father = 146195
@@ -170,7 +170,7 @@
 }
 
 74011 = {
-	name="Kundac"
+	name="À¥´ğÆë"
 	dynasty=12269
 	father = 74006
 	culture="khazar"
@@ -186,7 +186,7 @@
 }
 
 74012 = {
-	name="Baghatur"
+	name="°ÍÍ¼¶û"
 	dynasty=12269
 	father = 74009
 	mother = 74010
@@ -202,7 +202,7 @@
 }
 
 74013 = {
-	name="Yilig"
+	name="ÒÁÀû¸ñ"
 	dynasty=12269
 	father = 74011
 	culture="khazar"
@@ -217,7 +217,7 @@
 }
 
 74014 = {
-	name="Manas"
+	name="ÂêÄÉË¹"
 	dynasty=12269
 	father = 74013
 	culture="khazar"
@@ -232,7 +232,7 @@
 }
 
 74015 = {
-	name="Tuvan"
+	name="Í¼Íê"
 	dynasty=12269
 	father = 74013
 	culture="khazar"
@@ -246,7 +246,7 @@
 	}
 }
 74016 = {
-	name="Tarkhan"
+	name="Ëş¶ûº¹"
 	dynasty=12269
 
 	father = 74014
@@ -262,7 +262,7 @@
 	}
 }
 74017 = {
-	name="Zachariah"
+	name="ÈöåÈÀûÑÇ"
 	dynasty=12269
 
 	father = 74016
@@ -278,7 +278,7 @@
 	}
 }
 194369 = {
-	name="Yeldem"
+	name="Ò¶¶ûµûÄ·"
 	female=yes
 	dynasty=12269
 
@@ -313,7 +313,7 @@
 }
 
 74019 = {
-	name="Obadiah"
+	name="¶í°Íµ×ÑÇ"
 	dynasty=12269
 	father = 146186
 	culture="khazar"
@@ -331,7 +331,7 @@
 }
 
 74020 = {
-	name="Hezekiah"
+	name="Ï£Î÷¼Ò"
 	dynasty=12269
 	father = 74019
 	culture="khazar"
@@ -349,7 +349,7 @@
 }
 
 74021 = {
-	name="Manasseh"
+	name="ÂêÄÃÎ÷"
 	dynasty=12270
 	father = 74020
 	culture="khazar"
@@ -364,7 +364,7 @@
 }
 
 74022 = {
-	name="Hanukkah"
+	name="¹şÅ¬¿¨"
 	dynasty=12269
 	father = 74019
 	culture="khazar"
@@ -382,7 +382,7 @@
 }
 
 74023 = {
-	name="Isaac"
+	name="ÒÔÈö"
 	dynasty=12270
 	father = 74022
 	culture="khazar"
@@ -397,7 +397,7 @@
 }
 
 74024 = {
-	name="Zebulun"
+	name="Ôó²¼Â×"
 	dynasty=12270
 	father = 74023
 	culture=khazar
@@ -412,7 +412,7 @@
 }
 
 74025 = {
-	name="Manasseh"
+	name="ÂêÄÃÎ÷"
 	dynasty=12270
 	father = 74024
 	culture=khazar
@@ -465,7 +465,7 @@
 }
 
 74026 = {
-	name="Nisi"
+	name="ÄáÏ£"
 	dynasty=12270
 	father = 74025
 	mother = 173000
@@ -481,7 +481,7 @@
 }
 
 180226 = {
-	name=Yavdi	# fictional
+	name=ÑÇ·òµÏ	# fictional
 	# Count of Sarkel
 	dynasty=1042041
 	religion=jewish
@@ -494,7 +494,7 @@
 	}
 }
 194370 = {
-	name=Itakh	# fictional
+	name=ÒÀËş¿Ë	# fictional
 	dynasty=1042041
 	religion=jewish
 	culture=khazar
@@ -507,7 +507,7 @@
 	}
 }
 194371 = {
-	name=Ayten	# fictional
+	name=°¢ÒÀÌ¹	# fictional
 	female=yes
 	dynasty=1042041
 	religion=jewish
@@ -522,7 +522,7 @@
 }
 
 183244 = {
-	name=Larkka
+	name=À­¶û¿¨
 	female = yes
 
 	religion=tengri_pagan
@@ -536,7 +536,7 @@
 }
 
 20663 = {
-	name=Isaac
+	name=ÒÔÈö
 	dynasty=100620
 	martial=7
 	diplomacy=4
@@ -555,7 +555,7 @@
 	}
 }
 194391 = {
-	name=Ezra
+	name=ÒÔË¹À­
 	dynasty=100620
 	religion=jewish
 	culture=khazar
@@ -568,7 +568,7 @@
 	}
 }
 194392 = {
-	name=Sirin
+	name=Ï£ÁÕ
 	female=yes
 	dynasty=100620
 	religion=jewish
@@ -583,7 +583,7 @@
 }
 
 173000 = {
-	name="Belet"
+	name="±ğÁĞµÙ"
 	female = yes
 	religion=jewish
 	culture=khazar
@@ -596,7 +596,7 @@
 	}
 }
 145786 = {
-	name="Kibar"
+	name="¼ª°Í¶û"
 	dynasty=12269
 	culture="khazar"
 	religion="tengri_pagan"
@@ -610,7 +610,7 @@
 }
 
 145787 = {
-	name="Irge"
+	name="ÒÁ¶û¸è"
 	female=yes
 	dynasty=12269
 	culture="khazar"
@@ -630,7 +630,7 @@
 }
 
 145999 = {
-	name="Mala"
+	name="ÂêÀ­"
 	female=yes
 	dynasty=12269
 	culture="khazar"
@@ -648,7 +648,7 @@
 	}
 }
 146185 = {
-	name="Tura"
+	name="Í¼À­"
 	dynasty=12269
 	female=yes
 	religion="tengri_pagan"
@@ -667,7 +667,7 @@
 }
 
 146186 = {
-	name="Ezra"
+	name="ÒÔË¹À­"
 	dynasty=12269
 	culture="khazar"
 	religion="tengri_pagan"
@@ -685,7 +685,7 @@
 }
 
 146187 = {
-	name="Aaron"
+	name="ÑÇÂ×"
 	dynasty=12270
 	culture="khazar"
 	religion="jewish"
@@ -699,7 +699,7 @@
 }
 
 146188 = {
-	name="Menahem"
+	name="Ã×ÄÃÏÖ"
 	dynasty=12270
 	culture="khazar"
 	religion="jewish"
@@ -713,7 +713,7 @@
 }
 
 146189 = {
-	name="Benjamin"
+	name="±¾½ÜÃ÷"
 	dynasty=12270
 	culture="khazar"
 	religion="jewish"
@@ -727,7 +727,7 @@
 }
 
 146190 = {
-	name="Aaron"
+	name="ÑÇÂ×"
 	dynasty=12270
 	culture="khazar"
 	religion="jewish"
@@ -755,7 +755,7 @@
 }
 
 146192 = {
-	name="Abraham"
+	name="ÑÇ²®À­º±"
 	dynasty=12270
 	culture="khazar"
 	religion="jewish"
@@ -769,7 +769,7 @@
 }
 
 146193 = {
-	name="David"
+	name="´óÎÀ"
 	dynasty=1022378
 	culture="khazar"
 	religion="jewish"
@@ -783,7 +783,7 @@
 }
 
 146194 = {
-	name="Georgios"
+	name="¶îÎÒÂÔ"
 	dynasty=1022378
 	culture="khazar"
 	religion="jewish"
@@ -797,7 +797,7 @@
 }
 
 146195 = {
-	name="Corpan"
+	name="¿Æ¶û°à"
 	dynasty=1022377
 	culture="khazar"
 	religion="tengri_pagan"
@@ -811,7 +811,7 @@
 }
 
 146196 = {
-	name="Simsam"
+	name="Î÷ÄÂÈø"
 	dynasty=1022377
 	culture="khazar"
 	religion="tengri_pagan"
@@ -825,7 +825,7 @@
 }
 
 146197 = {
-	name="Bulcan"
+	name="²¼¶û¿²"
 	dynasty=1022377
 	culture="khazar"
 	religion="tengri_pagan"
@@ -839,7 +839,7 @@
 }
 
 146198 = {
-	name="Tabar"
+	name="Ëş°Í¶û"
 	dynasty=1022377
 	culture="khazar"
 	religion="tengri_pagan"
@@ -853,7 +853,7 @@
 }
 
 146199 = {
-	name="Balgici"
+	name="°Í¶û»ùÆä"
 	dynasty=1022377
 	culture="khazar"
 	religion="tengri_pagan"
@@ -867,7 +867,7 @@
 }
 
 146200 = {
-	name="Kayghalagh"
+	name="¿­¸ÁØİ¸ñ"
 	dynasty=1022377
 	culture="khazar"
 	religion="tengri_pagan"
@@ -881,7 +881,7 @@
 }
 
 146201 = {
-	name="Bagha"
+	name="°Í¹ş"
 	dynasty=1022379
 	culture="khazar"
 	religion="tengri_pagan"
@@ -895,7 +895,7 @@
 }
 
 146202 = {
-	name="Iltabar"
+	name="IlËş°Í¶û"
 	dynasty=1022380
 	culture="khazar"
 	religion="tengri_pagan"
@@ -909,7 +909,7 @@
 }
 
 146203 = {  
-	name="Sartac"
+	name="Èø¶ûËşÆä"
 	dynasty=1022381
 	culture="khazar"
 	religion="tengri_pagan"
@@ -923,7 +923,7 @@
 }
 
 194347 = {
-	name="Yabghu"
+	name="Ò¶»¤"
 	dynasty=1022381
 	father = 146203
 	culture="khazar"
@@ -938,7 +938,7 @@
 }
 
 194355 = {
-	name="Gulay"
+	name="¹ÃÀ³"
 	female = yes
 	dynasty=1022381
 	father = 146203
@@ -954,7 +954,7 @@
 }
 
 146204 = {
-	name="Men¨¹mar¨®t"
+	name="Ã·Å¬ÂéÂåÌè"
 	dynasty=1022382
 	culture="khazar"
 	religion="tengri_pagan"
@@ -968,7 +968,7 @@
 }
 
 194346 = {
-	name="Bastu"
+	name="°ÍË¹Í¼"
 	dynasty=1022382
 	father = 146204
 	culture="khazar"
@@ -982,7 +982,7 @@
 	}
 }
 194356 = {
-	name="Tura"
+	name="Í¼À­"
 	dynasty=1022382
 	female = yes
 	father = 146204
