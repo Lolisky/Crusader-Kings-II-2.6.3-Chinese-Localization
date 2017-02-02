@@ -8,18 +8,18 @@ CUSTOMIZE_HOUSE_TOOLTIP_DISABLED;Äã²»ÄÜÑ¡Ôñ¸ÃÍõ³¯£¬ÒòÎªÄã±ØĞë³ÉÎªÆäËùÓĞ³ÉÔ±µÄ×î¸
 c_lappland_adj;À­ÆÕÀ¼;samie;Samisch;;Sápmi;;;;;;;;;x
 RENAME;ÖØÃüÃû;Renommer;Umbenennen;;Renombrar;;;;;;;;;x
 NAME;ÃüÃû;Nom;Name;;Nombre;;;;;;;;;x
-ADJECTIVE;ĞÎÈİ´Ê;Gentilé;Adjektiv;;Adjetivo;;;;;;;;;x
+ADJECTIVE;ĞÎÈİ´Ê;Gentil?Adjektiv;;Adjetivo;;;;;;;;;x
 POSSIBLE_PLOT_POWER;¿ÉÄÜĞèÒªµÄÃÜÄ±µãÊı;Puissance possible du complot;Mögliche Verschwörungsstaerke;;Potencial posible del complot;;;;;;;;;x
 AUTO_INVITE_PLOTTERS;×Ô·¢ÃÜÄ±²ÎÓëÕß;Invitation automatique des comploteurs;Verschwörer automatisch einladen;;Autoinvitar conspiradores;;;;;;;;;x
 AUTO_STOP_PLOTS;×Ô·¢Í£Ö¹ÃÜÄ±;Arrêt automatique des complots;Verschwörungen automatisch beenden;;Autodetener complots;;;;;;;;;x
 AUTO_STOPPED_PLOT_SETUP;ÃÜÄ±±»½Ò·¢;Complot découvert;Verschwörung aufgedeckt;;Complot descubierto;;;;;;;;x
-AUTO_STOPPED_PLOT_LOG;§Y$PLOTTER$§!$PLOTTERJOB$Ïë§Y$PLOTNAME$§!.;§Y$PLOTTER$§!$PLOTTERJOB$ cherche à §Y$PLOTNAME$§!.;§Y$PLOTTER$§!$PLOTTERJOB$ strebt nach §Y$PLOTNAME$§!.;;§Y$PLOTTER$§!$PLOTTERJOB$ pretende §Y$PLOTNAME$§!.;;;;;;;;x
-AUTO_STOPPED_PLOT_LETTER;ÎÒÒÑ·¢ÏÖ$PLOTTER$ÍıÍ¼$PLOTNAME$µÄÃÜÄ±.ÎÒÒ²ÒÑÅÉ³öÒ»ÃûÊ¹ÕßÈÃËûÊÕÊÖ.\n\nÄúµÄ¼äµı×Ü¹Ü,\n$SPYMASTER$;J'ai découvert un complot par lequel $PLOTTER$ cherche à $PLOTNAME$. J'ai dépêché un émissaire pour lui demander de cesser ces agissements sur l'instant. \n\nVotre humble maître-espion,\n$SPYMASTER$;Ich habe eine Verschwörung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer losgesandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenführer,\n$SPYMASTER$;;He descubierto un complot en el que $PLOTTER$ pretende $PLOTNAME$. Le he enviado un emisario para que desista de ello. \n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
+AUTO_STOPPED_PLOT_LOG;§Y$PLOTTER$?$PLOTTERJOB$Ïë§Y$PLOTNAME$?.;§Y$PLOTTER$?$PLOTTERJOB$ cherche ?§Y$PLOTNAME$?.;§Y$PLOTTER$?$PLOTTERJOB$ strebt nach §Y$PLOTNAME$?.;;§Y$PLOTTER$?$PLOTTERJOB$ pretende §Y$PLOTNAME$?.;;;;;;;;x
+AUTO_STOPPED_PLOT_LETTER;ÎÒÒÑ·¢ÏÖ$PLOTTER$ÍıÍ¼$PLOTNAME$µÄÃÜÄ±.ÎÒÒ²ÒÑÅÉ³öÒ»ÃûÊ¹ÕßÈÃËûÊÕÊÖ.\n\nÄúµÄ¼äµı×Ü¹Ü£¬\n$SPYMASTER$;J'ai découvert un complot par lequel $PLOTTER$ cherche ?$PLOTNAME$. J'ai dépêch?un émissaire pour lui demander de cesser ces agissements sur l'instant. \n\nVotre humble maître-espion,\n$SPYMASTER$;Ich habe eine Verschwörung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer losgesandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenführer,\n$SPYMASTER$;;He descubierto un complot en el que $PLOTTER$ pretende $PLOTNAME$. Le he enviado un emisario para que desista de ello. \n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
 AUTO_STOP_PLOT_START_SETUP;¼äµı×Ü¹ÜÅÉ³öĞÅÊ¹¡£;Le maître-espion envoie des messagers;Agentenführer schickt Boten;;El jefe de espías envía emisarios;;;;;;;;;x
 AUTO_STOP_PLOT_START_LOG;$SPYMASTER$ ÅÉ³öĞÅÊ¹ÖÆÖ¹ÃÜÄ±·¢¶¯Õß;$SPYMASTER$ envoie des émissaires pour faire cesser les complots;$SPYMASTER$ hat Boten ausgeschickt, um Verschwörer zu stoppen;;$SPYMASTER$ envia emisarios para hacer desistir a los conspiradores;;;;;;;;;x
-AUTO_STOP_PLOT_START_LETTER;ÎÒÒÑÏòËùÓĞÒÑÖªµÄÃÜÄ±²ÎÓëÕßÅÉ³öÃÜÊ¹£¬ÈÃËûÃÇÁ¢¼´Í£Ö¹ÃÜÄ±¡£\n\nÄúµÄ¼äµı×Ü¹Ü,\n$SPYMASTER$;J'ai envoyé des émissaires auprès de tous les comploteurs connus afin qu'ils cessent cela immédiatement.\n\nVotre humble maître-espion,\n$SPYMASTER$;Ich habe eine Verschwörung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer entsandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenführer,\n$SPYMASTER$;;He enviado emisarios a todos los conspiradores conocidos para que desistan de inmediato.\n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
+AUTO_STOP_PLOT_START_LETTER;ÎÒÒÑÏòËùÓĞÒÑÖªµÄÃÜÄ±²ÎÓëÕßÅÉ³öÃÜÊ¹£¬ÈÃËûÃÇÁ¢¼´Í£Ö¹ÃÜÄ±¡£\n\nÄúµÄ¼äµı×Ü¹Ü£¬\n$SPYMASTER$;J'ai envoy?des émissaires auprès de tous les comploteurs connus afin qu'ils cessent cela immédiatement.\n\nVotre humble maître-espion,\n$SPYMASTER$;Ich habe eine Verschwörung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer entsandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenführer,\n$SPYMASTER$;;He enviado emisarios a todos los conspiradores conocidos para que desistan de inmediato.\n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
 siege_leader;Î§³ÇÖ¸»Ó¹Ù¡£;Spécialiste des sièges;Belagerungsfuehrer;;Líder del Asedio;;;;;;;;;x
-siege_leader_desc;´Ë½ÇÉ«ÉÆÓÚÖ¸»ÓÎ§³Ç×÷Õ½¡£;Ce personnage est particulièrement doué pour mener à bien les sièges;Dieser Character ist geuebt, Belagerungen zu fuehren;;Este personaje está especializado en liderar asedios;;;;;;;;;x
+siege_leader_desc;´Ë½ÇÉ«ÉÆÓÚÖ¸»ÓÎ§³Ç×÷Õ½¡£;Ce personnage est particulièrement dou?pour mener ?bien les sièges;Dieser Character ist geuebt, Belagerungen zu fuehren;;Este personaje est?especializado en liderar asedios;;;;;;;;;x
 SIEGE;Î§³Ç;Siège;Belagerung;;Asedio;;;;;;;;;x
 ADD_IP;Ìí¼ÓIPµØÖ·;Ajouter IP;IP hinzufuegen;;Añadir IP;;;;;;;;;x
 REMOVE_IP;Çå³ıIPµØÖ·;Retirer IP;IP entfernen;;Borrar IP;;;;;;;;;x
@@ -27,10 +27,10 @@ PENDING_PLOT_REQUEST;µÈºò´ğ¸²;Attend une réponse.;Wartet auf Antwort.;;Esperando
 ACCEPTED_PLOT_REQUEST;ÕıÖ§³ÖÃÜÄ±¡£;Soutient un complot.;Unterstuetzt Verschwörung.;;Apoyando un complot.;;;;;;;;;x
 LOADING_TIP_52;Äã¿ÉÒÔÊ¹ÓÃAlt¼üµãÑ¡ÌØ¶¨µÄ½¢¶Ó¡£;Vous pouvez ne sélectionner que vos flottes en utilisant la touche ALT.;Sie können eine Auswahl nur auf Flotten treffen, indem Sie die Alt-Taste gedrueckt halten.;;Puedes hacer que la tropa seleccionada se embarque usando simplemente la tecla ALT;;;;;;;;;x
 EXIT;¹Ø±Õ;Sortie;Exit;;Salir;;;;;;;;;x
-CUT;¼ô°É£¡;Coupez !;Schnitt!;;¡Cortar!;;;;;;;;;x
+CUT;¼ô°É£¡;Coupez?;Schnitt!;;¡Cortar!;;;;;;;;;x
 ;#CONFIRMEXPORTTITLE;Export CK2 Game to EU4;;CK2 Spiel nach EU4 exportieren;;Exportar partida a EU4;;;;;;;;;x;
 ;#CONFIRMEXPORTTEXT;The game will be exported with the name $NAME$. This might take a couple of minutes.;;Das Spiel wird mit dem Namen $NAME$ exportiert. Es kann m?glicherweise ein paar Minuten dauern.;;La partida se exportar¨¢ con el nombre $NAME$. Esta operaci¨®n puede tardar un par de minutos.;;;;;;;;;x;
-;#CONFIRMEXPORTTEXT_WARNING;The game will be exported with the name $NAME$.\n\n THIS NAME IS ALREADY IN USE!\nAre you sure you want to continue?;;Das Spiel wird mit dem Namen $NAME$ exportiert.\n\n DIESER NAME WIRD BEREITS BENUTZT!\nSind Sie sicher, dass Sie fortsetzen wollen?;;La partida se exportar¨¢ con el nombre $NAME$.\n\n ?ESTE NOMBRE YA EST¨¢ EN USO!\n?Seguro que quieres continuar?;;;;;;;;;x;
+;#CONFIRMEXPORTTEXT_WARNING;The game will be exported with the name $NAME$.\n\n THIS NAME IS ALREADY IN USE£¡\nAre you sure you want to continue?;;Das Spiel wird mit dem Namen $NAME$ exportiert.\n\n DIESER NAME WIRD BEREITS BENUTZT!\nSind Sie sicher, dass Sie fortsetzen wollen?;;La partida se exportar¨¢ con el nombre $NAME$.\n\n ?ESTE NOMBRE YA EST¨¢ EN USO!\n?Seguro que quieres continuar?;;;;;;;;;x;
 STYLE;ÀàĞÍ;Style;Stil;;Estilo;;;;;;;;;x
 CAN_PERSUADE_TO_JOIN_PLOT;¿ÉÒÔÓÃÒ»´ü½ğ±ÒÊÕÂò;Peut être convaincu par une escarcelle d'or...;Könnte von einem Sack Gold ueberzeugt werden.;;Puede convencersele con un saco de oro...;;;;;;;;;x
 city_job_chancellor_arabic;´óÎ¬Æë;Grand Vizir;Großwesir;;Gran Visir;;;;;;;;;x
@@ -54,7 +54,7 @@ city_job_spiritual_zoroastrian;´ó¼ÀË¾;Mobad;Mobed;;Mobad;;;;;;;;;x
 city_job_spiritual_christian;¹¬Í¢ÄÁÊ¦;Chapelain;Hofprediger;;Capellán;;;;;;;;;x
 city_job_spiritual_orthodox;Ê¥Æ÷¿´¹ÜÈË;Sacristain;Ekklesiarch;;Eclesiarca;;;;;;;;;x
 city_job_spiritual_muslim;¹¬Í¢ÒÁÂêÄ¿;Imam;Hof-Imam;;Imán de la corte;;;;;;;;;x
-city_job_spiritual_shiite;¹¬Í¢Ã«À­;Mollah;Hof-Mullah;;Mulá de la corte;;;;;;;;;x
+city_job_spiritual_shiite;¹¬Í¢Ã«À­;Mollah;Hof-Mullah;;Mul?de la corte;;;;;;;;;x
 city_job_spiritual_pagan_group;¼ÀË¾³¤;Devin;Oberster Wahrsager;;Gran Chamán;;;;;;;;;x
 city_job_spiritual_pagan;ÏÈÖª;Devin;Wahrsager;;Augur;;;;;;;;;x
 city_job_spiritual_baltic_pagan;¼ÀË¾;Devin;Wahrsager;;Augur;;;;;;;;;x

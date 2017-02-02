@@ -1,6 +1,6 @@
 ;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 MOVEMENT_SPEED;ÒÆ¶¯ËÙ¶È;Vitesse de déplacement;Bewegungsgeschwindigkeit;;;;;;;;;;;x
-EXPERIMENTALITY;Õ½Êõ¼¸ÂÊ;Imprévisibilité;Unberechenbarkeit;;;;;;;;;;;x
+EXPERIMENTALITY;Õ½Êõ¼¸ÂÊ;Imprévisibilit?Unberechenbarkeit;;;;;;;;;;;x
 CU_LIGHT_INFANTRY;Çá²½±ø;Infanterie légère;Leichte Infanterie;;;;;;;;;;;x
 CU_HEAVY_INFANTRY;ÖØ²½±ø;Infanterie lourde;Schwere Infanterie;;;;;;;;;;;x
 CU_CAVALRY;Æï±ø;Cavalerie;Kavallerie;;;;;;;;;;;x
@@ -10,26 +10,26 @@ DAMAGE;ÉËº¦;Dégâts;Schaden;;;;;;;;;;;x
 PURSUIT;×·»÷;Poursuite;Verfolgung;;;;;;;;;;;x
 RETREAT;³·ÍË;Retraite;Rückzug;;;;;;;;;;;x
 MARTIAL_INFLUENCE;Õ½ÊõÓ°Ïì;Influence martiale;Einfluss der Kriegskunst;;;;;;;;;;;x
-;#DAMAGE_COMBAT_MODIFIER;Damage Combat Modifier of §Y$WHO$§!: $PERC$;;Gefechts-Schadensmodifikator von §Y$WHO$§!: $PERC$;;;;;;;;;;;x;
-;#PURSUIT_COMBAT_MODIFIER;Pursuit Combat Modifier of §Y$WHO$§!: $PERC$;;Gefechts-Verfolgungsmodifikator von §Y$WHO$§!: $PERC$;;;;;;;;;;;x;
-;#RETREAT_COMBAT_MODIFIER;Retreat Combat Modifier of §Y$WHO$§!: $PERC$;;Gefechts-R¨¹ckzugsmodifikator von §Y$WHO$§!: $PERC$;;;;;;;;;;;x;
-;#DEFENCE_COMBAT_MODIFIER;Defence Combat Modifier of §Y$WHO$§!: $PERC$;;Gefechts-Verteidigungsmodifikator von §Y$WHO$§!: $PERC$;;;;;;;;;;;x;
-;#EXPERIMENT_COMBAT_MODIFIER;Experimentality Combat Modifier of §Y$WHO$§!: $PERC$;;Gefechts-Unberechenbarkeitsmodifikator von §Y$WHO$§!: $PERC$;;;;;;;;;;;x;
-;#LIGHT_INFANTRY_COMBAT_MODIFIER;Combat Modifier of §Y$WHO$§! boost to Light Foot Troops: $PERC$;;Gefechtsmodifikator von §Y$WHO$§! Steigerung f¨¹r Leichte Infanterie: $PERC$;;;;;;;;;;;x;
-;#HEAVY_INFANTRY_COMBAT_MODIFIER;Combat Modifier of §Y$WHO$§! boost to Heavy Foot Troops: $PERC$;;Gefechtsmodifikator von §Y$WHO$§! Steigerung f¨¹r Schwere Infanterie: $PERC$;;;;;;;;;;;x;
-;#CAVALRY_COMBAT_MODIFIER;Combat Modifier of §Y$WHO$§! boost to Mounted Troops: $PERC$;;Gefechtsmodifikator von §Y$WHO$§! Steigerung f¨¹r Kavallerie: $PERC$;;;;;;;;;;;x;
-;#DEF_BONUS_AGAINST_ENEMY;Defence bonus against enemy flank: $PERC$;;Verteidigungsbonus gegen gegnerische Flanke: $PERC$;;;;;;;;;;;x;
-;#DEF_BONUS_MORALE;Morale Defence bonus: $PERC$ morale damage;;Moralbonus auf Verteidigung: $PERC$ Moralschaden;;;;;;;;;;;x;
-;#MORALE_DEF_COMBAT_MODIFIER;Morale Defence Combat Modifier of §Y$WHO$§!: $PERC$;;Gefechts-Moralbonusmodifikator auf Verteidigung von §Y$WHO$§!: $PERC$;;;;;;;;;;;x;
-;#ATT_BONUS_MORALE;Morale Offence bonus: $PERC$ morale damage;;Moralbonus auf Angriff: $PERC$ Moralschaden;;;;;;;;;;;x;
-;#MORALE_ATT_COMBAT_MODIFIER;Morale Offence Combat Modifier of §Y$WHO$§!: $PERC$ morale damage;;Gefechts-Moralbonus auf Verteidigung von §Y$WHO$§!: $PERC$ Moralschaden;;;;;;;;;;;x;
+;#DAMAGE_COMBAT_MODIFIER;Damage Combat Modifier of §Y$WHO$?£º$PERC$;;Gefechts-Schadensmodifikator von §Y$WHO$?: $PERC$;;;;;;;;;;;x;
+;#PURSUIT_COMBAT_MODIFIER;Pursuit Combat Modifier of §Y$WHO$?£º$PERC$;;Gefechts-Verfolgungsmodifikator von §Y$WHO$?: $PERC$;;;;;;;;;;;x;
+;#RETREAT_COMBAT_MODIFIER;Retreat Combat Modifier of §Y$WHO$?£º$PERC$;;Gefechts-R¨¹ckzugsmodifikator von §Y$WHO$?: $PERC$;;;;;;;;;;;x;
+;#DEFENCE_COMBAT_MODIFIER;Defence Combat Modifier of §Y$WHO$?£º$PERC$;;Gefechts-Verteidigungsmodifikator von §Y$WHO$?: $PERC$;;;;;;;;;;;x;
+;#EXPERIMENT_COMBAT_MODIFIER;Experimentality Combat Modifier of §Y$WHO$?£º$PERC$;;Gefechts-Unberechenbarkeitsmodifikator von §Y$WHO$?: $PERC$;;;;;;;;;;;x;
+;#LIGHT_INFANTRY_COMBAT_MODIFIER;Combat Modifier of §Y$WHO$? boost to Light Foot Troops£º$PERC$;;Gefechtsmodifikator von §Y$WHO$? Steigerung f¨¹r Leichte Infanterie: $PERC$;;;;;;;;;;;x;
+;#HEAVY_INFANTRY_COMBAT_MODIFIER;Combat Modifier of §Y$WHO$? boost to Heavy Foot Troops£º$PERC$;;Gefechtsmodifikator von §Y$WHO$? Steigerung f¨¹r Schwere Infanterie: $PERC$;;;;;;;;;;;x;
+;#CAVALRY_COMBAT_MODIFIER;Combat Modifier of §Y$WHO$? boost to Mounted Troops£º$PERC$;;Gefechtsmodifikator von §Y$WHO$? Steigerung f¨¹r Kavallerie: $PERC$;;;;;;;;;;;x;
+;#DEF_BONUS_AGAINST_ENEMY;Defence bonus against enemy flank£º$PERC$;;Verteidigungsbonus gegen gegnerische Flanke: $PERC$;;;;;;;;;;;x;
+;#DEF_BONUS_MORALE;Morale Defence bonus£º$PERC$ morale damage;;Moralbonus auf Verteidigung: $PERC$ Moralschaden;;;;;;;;;;;x;
+;#MORALE_DEF_COMBAT_MODIFIER;Morale Defence Combat Modifier of §Y$WHO$?£º$PERC$;;Gefechts-Moralbonusmodifikator auf Verteidigung von §Y$WHO$?: $PERC$;;;;;;;;;;;x;
+;#ATT_BONUS_MORALE;Morale Offence bonus£º$PERC$ morale damage;;Moralbonus auf Angriff: $PERC$ Moralschaden;;;;;;;;;;;x;
+;#MORALE_ATT_COMBAT_MODIFIER;Morale Offence Combat Modifier of §Y$WHO$?£º$PERC$ morale damage;;Gefechts-Moralbonus auf Verteidigung von §Y$WHO$?: $PERC$ Moralschaden;;;;;;;;;;;x;
 FLANKING;²àÒí³å»÷;Attaque sur le flanc;Flankenattacke;;;;;;;;;;;x
 CENTER;Áìµ¼ÖÐÑëÕóÁÐ;Mène le centre;Führung im Zentrum;;;;;;;;;;;x
-;#FLANKING_COMBAT_MODIFIER;Flanking Combat Modifier of §Y$WHO$§!: $PERC$;;Gefechts-Flankenangriffsmodifikator von §Y$WHO$§!: $PERC$;;;;;;;;;;;x;
-;#CENTER_COMBAT_MODIFIER;Leading the Center Combat Modifier of §Y$WHO$§!: $PERC$;;Gefechtsmodifikator durch F¨¹hrung des Zentrums von §Y$WHO$§!: $PERC$;;;;;;;;;;;x;
+;#FLANKING_COMBAT_MODIFIER;Flanking Combat Modifier of §Y$WHO$?£º$PERC$;;Gefechts-Flankenangriffsmodifikator von §Y$WHO$?: $PERC$;;;;;;;;;;;x;
+;#CENTER_COMBAT_MODIFIER;Leading the Center Combat Modifier of §Y$WHO$?£º$PERC$;;Gefechtsmodifikator durch F¨¹hrung des Zentrums von §Y$WHO$?: $PERC$;;;;;;;;;;;x;
 DEFENCE;·ÀÓù;Défense;Verteidigung;;;;;;;;;;;x
-CANNOT_PLAY_MUSLIM_WITHOUT_DLC;Ã»ÓÐÒÁË¹À¼Ö®½£µÄDLC£¬Äã²»ÄÜ°çÑÝÄÂË¹ÁÖ;Vous ne pouvez jouer un seigneur musulman sans le DLC «Sword of Islam»;Sie können kein Moslem ohne Das Schwert des Islam DLC spielen;;;;;;;;;;;x
-NOT_ALLOWED_MUSLIM;Ã»ÓÐÒÁË¹À¼Ö®½£µÄDLC£¬Äã²»ÄÜ°çÑÝ§YÄÂË¹ÁÖ§!£¡;N'est pas autorisé à jouer §Yun seigneur musulman§! sans le DLC «Sword of Islam»;Spielen als §YMuslim§! ist ohne Das Schwert des Islam DLC nicht erlaubt!;;;;;;;;;;;x
-NOT_ALLOWED_MUSLIM_MP;§Y$PLAYER$§!Ã»ÓÐÒÁË¹À¼Ö®½£µÄDLC£¬Äã²»ÄÜ°çÑÝ§YÄÂË¹ÁÖ§!;Il n'est pas permis à §Y$PLAYER$§! de jouer §Yun seigneur musulman§! sans le DLC «Sword of Islam»;§Y$PLAYER$§! ist nicht erlaubt als §YMuslim§! ohne Das Schwert des Islam DLC zu spielen;;;;;;;;;;;x
-RD_NOT_PLAYABLE_WITHOUT_MUSLIM_DLC;Ã»ÓÐÒÁË¹À¼Ö®½£µÄDLC£¬Äã²»ÄÜ°çÑÝÄÂË¹ÁÖ;Les musulmans ne sont pas jouables sans le DLC «Sword of Islam»;Moslems sind nicht spielbar ohne Das Schwert des Islam DLC;;;;;;;;;;;x
-MUST_SELECT_PLAYER;±ØÐëÑ¡ÔñÒ»¸öÈËÎï!;Vous devez sélectionner un personnage pour jouer;Sie müssen einen Charakter auswählen um zu spielen!;;;;;;;;;;;x
+CANNOT_PLAY_MUSLIM_WITHOUT_DLC;Ã»ÓÐÒÁË¹À¼Ö®½£µÄDLC£¬Äã²»ÄÜ°çÑÝÄÂË¹ÁÖ;Vous ne pouvez jouer un seigneur musulman sans le DLC «Sword of Islam?Sie können kein Moslem ohne Das Schwert des Islam DLC spielen;;;;;;;;;;;x
+NOT_ALLOWED_MUSLIM;Ã»ÓÐÒÁË¹À¼Ö®½£µÄDLC£¬Äã²»ÄÜ°çÑÝ§YÄÂË¹ÁÖ?£¡;N'est pas autoris??jouer §Yun seigneur musulman? sans le DLC «Sword of Islam?Spielen als §YMuslim? ist ohne Das Schwert des Islam DLC nicht erlaubt!;;;;;;;;;;;x
+NOT_ALLOWED_MUSLIM_MP;§Y$PLAYER$?Ã»ÓÐÒÁË¹À¼Ö®½£µÄDLC£¬Äã²»ÄÜ°çÑÝ§YÄÂË¹ÁÖ?;Il n'est pas permis ?§Y$PLAYER$? de jouer §Yun seigneur musulman? sans le DLC «Sword of Islam?§Y$PLAYER$? ist nicht erlaubt als §YMuslim? ohne Das Schwert des Islam DLC zu spielen;;;;;;;;;;;x
+RD_NOT_PLAYABLE_WITHOUT_MUSLIM_DLC;Ã»ÓÐÒÁË¹À¼Ö®½£µÄDLC£¬Äã²»ÄÜ°çÑÝÄÂË¹ÁÖ;Les musulmans ne sont pas jouables sans le DLC «Sword of Islam?Moslems sind nicht spielbar ohne Das Schwert des Islam DLC;;;;;;;;;;;x
+MUST_SELECT_PLAYER;±ØÐëÑ¡ÔñÒ»¸öÈËÎï£¡;Vous devez sélectionner un personnage pour jouer;Sie müssen einen Charakter auswählen um zu spielen!;;;;;;;;;;;x
