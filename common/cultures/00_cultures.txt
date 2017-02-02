@@ -16,7 +16,7 @@ north_germanic = {
 			达格 丹 德连 艾利夫 埃伊尔_艾吉尔 埃蒙德 埃纳尔_埃纳尔 埃里克_埃里克 埃斯克尔德 法尔基 法斯特 腓力_腓力 弗雷德里克_弗雷德里克 弗里雷克 弗罗迪_弗洛德 弗雷尔_弗雷 弗基_福尔克 建达福尔 吉尔 格奥格_乔治 格努帕_格努帕 高姆_高姆 格雷格_格里高利 格里姆_格里姆 古德弗里德_高弗雷 古德蒙_古德蒙 古德鲁尔_古德罗德 刚纳尔_刚纳尔 哈康_哈康 哈尔斯滕 哈拉尔_哈罗德 豪克 赫尔吉_赫尔吉
 			赫明 霍尔姆高 拉芬 罗洛_罗洛 赫拉恩 赫斯泰因 雅马_雅马 洛斯加尔 鲁道夫 留里克_留里克 海辛 因格弗_因格福 英格玛 英亚尔 伊瓦尔_伊瓦尔 埃德瓦_爱德华 琼_约翰 卡尔_查理 凯提尔 凯提尔蒙 雅坦 克拉斯 克努特_克努特 科尔 科尔比约恩 玛格努斯_玛格努斯 马库斯_马库斯 
 			马特_马修 尼尔_尼古拉斯 尼克拉斯_尼古拉斯 奥德_奥德 奥菲格 奥拉夫_奥拉夫 奥尔姆_奥尔姆 奥塔尔_奥塔尔 雷夫尔 雷菲尔 朗纳尔_朗纳尔 里库夫 朗瓦尔德_朗瓦尔德 斯库_斯库 斯诺里 希格比约恩 西格特吕格 西居尔_西居尔 斯塔卡德_斯塔卡德 施泰因_斯滕 斯图尔拉 斯蒂尔比约恩 斯蒂尔卡 萨莫里提_萨莫里德 苏尼_苏恩 斯维因_斯温
-			斯维克 萨蒙德_萨蒙德 索尔维_索尔维 索克维尔 居德蒙德_居德蒙德 托克_托克 托里尔 托尔比约恩_托尔比约恩 托尔芬_托尔芬 托尔布兰德_托尔布兰德 托尔德尔_托德 索吉尔_托克尔 托尔斯泰因_托尔斯滕 托尔夫_托洛夫 托斯特 托提尔 特吕格弗 泰克 乌尔夫_乌尔夫 瓦格恩 瓦尔德马尔_瓦尔德马尔 阿克 英格瓦尔_英格瓦尔 奥瓦尔_奥瓦尔 埃斯泰因_埃斯泰因
+			斯维克 萨蒙德_萨蒙德 索尔维_索尔维 索克维尔 居德蒙德_居德蒙德 托克_托克 托里尔 托比昂_托比昂 托尔芬_托尔芬 托尔布兰德_托尔布兰德 托尔德尔_托德 索吉尔_托克尔 托尔斯泰因_托尔斯滕 托尔夫_托洛夫 托斯特 托提尔 特吕格弗 泰克 乌尔夫_乌尔夫 瓦格恩 瓦尔德马尔_瓦尔德马尔 阿克 英格瓦尔_英格瓦尔 奥瓦尔_奥瓦尔 埃斯泰因_埃斯泰因
 		}
 		female_names = {
 			阿勒塔 阿尔芙希尔德_阿尔菲尔德 阿尔芙里德_阿尔芙里德 阿尔沃 安娜_安娜 阿萨_阿萨 亚斯拉琪 阿斯塔_阿斯塔 阿斯特丽_阿斯特丽 贝塔 比尔基塔_比尔基塔 比约居 博迪尔德_博迪尔德 塞西莉亚_塞西莉亚
@@ -30,10 +30,10 @@ north_germanic = {
 		baron_titles_hidden = yes
 		count_titles_hidden = yes
 		
-		from_dynasty_prefix = "奥丁 "
+		from_dynasty_prefix = "阿弗 "
 		
-		male_patronym = "之子"
-		female_patronym = "之女"
+		male_patronym = "松"
+		female_patronym = "斯多替尔"
 		prefix = no # The patronym is added as a suffix
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -62,7 +62,7 @@ north_germanic = {
 			布林尤尔夫 道格 丹 戴尔 埃吉尔_艾吉尔 埃纳尔_埃纳尔 埃蒙德 埃里克_埃里克 埃斯基德 法斯特 弗雷德里克_弗雷德里克 腓力_腓力 福尔克_福尔克 弗雷尔_弗雷 格奥格_乔治 格雷格_格里高利 格里姆_格里姆 古德罗德_古德罗德 刚纳尔_刚纳尔 古斯塔夫 哈尔斯滕 汉斯_汉斯 哈拉尔_哈罗德
 			赫尔吉_赫尔吉 亨里克_亨利 雅马_雅玛 霍姆格 哈康_哈康 英格_英格尔夫 英格玛 英格瓦尔_英格瓦尔 埃德瓦_爱德华 乔汉_约翰 卡尔_查理 克蒂尔 克蒂尔蒙德 克拉斯 克努特_克努特 科尔 科尔比约恩 拉尔斯_劳伦斯 玛格努斯_玛格努斯 马库斯_马库斯 
 			马特_马修 尼尔斯_尼古拉斯 尼克拉斯_尼古拉斯 奥德_奥德 奥拉夫_奥拉夫 奥瓦尔_奥瓦尔 彼得_彼得 朗纳尔_朗纳尔 罗洛_罗洛 留里克_留里克 朗瓦尔德_朗瓦尔德 萨蒙德_萨蒙德 索克维尔 希格比约恩 西格特吕格 西居尔_西居尔 斯塔卡德_斯塔卡德 斯滕_斯滕 斯蒂尔比约恩 苏恩_苏恩 斯温_斯温
-			斯维克 索尔维_索尔维 托马斯_托马斯 居德蒙德_居德蒙德 托克_托克 托里尔 托尔比约恩_托尔比约恩 托德_托德 托尔布兰德_托尔布兰德 托尔芬_托尔芬 索吉尔_托克尔 托罗夫_托洛夫 托尔斯滕_托尔斯滕 托斯特 托提尔 泰克 乌尔夫_乌尔夫 瓦尔德马尔_弗拉基米尔 阿克 埃斯泰因_埃斯泰因
+			斯维克 索尔维_索尔维 托马斯_托马斯 居德蒙德_居德蒙德 托克_托克 托里尔 托比昂_托比昂 托德_托德 托尔布兰德_托尔布兰德 托尔芬_托尔芬 索吉尔_托克尔 托罗夫_托洛夫 托尔斯滕_托尔斯滕 托斯特 托提尔 泰克 乌尔夫_乌尔夫 瓦尔德马尔_弗拉基米尔 阿克 埃斯泰因_埃斯泰因
 		}
 		female_names = {
 			阿勒塔 阿尔芙希尔德 阿尔芙里德_阿尔芙里德 安娜_安娜 阿斯塔_阿斯塔 阿斯特丽_阿斯特丽 贝塔 比尔基塔_布里吉德 博迪尔德_博迪尔德 塞西莉亚_塞西莉亚 爱德拉 埃琳 伊丽莎白_伊丽莎白 芙蕾雅_芙蕾雅 贡希尔妲_贡希尔德 吉拉 古尔丽 吉萨_吉萨 哈芙莉 
@@ -74,10 +74,10 @@ north_germanic = {
 		
 		dukes_called_kings = yes
 		
-		from_dynasty_prefix = "森 "
+		from_dynasty_prefix = "阿弗 "
 		
-		male_patronym = "之子"
-		female_patronym = "之女"
+		male_patronym = "松"
+		female_patronym = "斯多得尔"
 		prefix = no # The patronym is added as a suffix
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -102,7 +102,7 @@ north_germanic = {
 		male_names = {
 			阿农德_阿农德 阿尔夫_阿尔夫 阿尔尼_阿尔尼 阿尔芬 艾恩凯尔 安莫德 安维德 阿斯拉克 奥顿 巴尔德尔_巴尔德尔 巴尔德 比约恩_比奥恩 艾吉尔_艾吉尔 艾利夫 艾纳_艾纳 埃里克_埃里克 艾尔伦 艾尔灵 埃斯泰因_埃斯泰因 芬恩 弗雷_弗雷
 			格里姆_格里姆 古德布兰德 古德雷克 古德蒙_古德蒙 古德罗德_古德罗德 刚纳尔_刚纳尔 古托姆_高姆 哈尔多 哈夫丹 哈尔凯尔 哈拉尔_哈罗德 赫尔吉_赫尔吉 哈康_哈康 哈瓦尔德 英格_英格奥夫 伊瓦尔_伊瓦尔 琼恩_约翰 凯尔 科尔宾 罗丁
-			玛格努斯_玛格努斯 奥德_奥德 奥格蒙德 奥拉夫_奥拉夫 奥姆_奥姆 奥索尔 奥塔尔_奥塔尔 帕尔_保罗 朗纳尔_朗纳尔 朗瓦尔德_朗瓦尔德 罗洛_罗洛 西居尔_西居尔 斯加尔格 斯科福特 斯库_斯库 斯维因_斯温 斯维尔 萨蒙德_萨蒙德 托尔比约恩_托尔比约恩 托德_托德 托雷 
+			玛格努斯_玛格努斯 奥德_奥德 奥格蒙德 奥拉夫_奥拉夫 奥姆_奥姆 奥索尔 奥塔尔_奥塔尔 帕尔_保罗 朗纳尔_朗纳尔 朗瓦尔德_朗瓦尔德 罗洛_罗洛 西居尔_西居尔 斯加尔格 斯科福特 斯库_斯库 斯维因_斯温 斯维尔 萨蒙德_萨蒙德 托比昂_托比昂 托德_托德 托雷 
 			托尔布兰德_托尔布兰德 托尔芬_托尔芬 托盖尔_托盖尔 托基尔_托克尔
 			托蒙德 托洛夫_托洛夫 托斯泰因_托尔斯滕 特隆德 特里格夫 乌尔夫_乌尔夫 威格雷克 埃雷 阿蒙德 奥尔夫 埃斯泰因_埃斯泰因 
 		}
@@ -115,10 +115,10 @@ north_germanic = {
 		
 		dukes_called_kings = yes
 		
-		from_dynasty_prefix = "斯多特 "
+		from_dynasty_prefix = "阿维 "
 		
-		male_patronym = "之子"
-		female_patronym = "之女"
+		male_patronym = "松"
+		female_patronym = "斯达特"
 		prefix = no
 
 		modifier = default_culture_modifier
@@ -134,7 +134,7 @@ north_germanic = {
 			艾贝尔 安德斯_安德鲁 阿农德_阿农德 埃斯基尔 巴尔德尔_巴尔德尔 贝内迪克_本笃 比约恩_比奥恩 波 克里斯蒂安_克里斯蒂安 克里斯托弗_克里斯托弗 埃德瓦_爱德华 艾纳_艾纳 埃里克_埃里克 恩斯特_恩斯特 艾斯本 弗雷德里克_弗雷德里克 弗雷_弗雷 弗洛德_弗洛德 格鲁姆 格努帕_格努帕 高姆_高姆 哥特弗雷_高弗雷 格雷格斯_格里高利 格里姆_格里姆 刚纳尔_刚纳尔
 			哈里克 哈夫丹 哈沃 汉斯_汉斯 哈拉尔_哈罗德 赫尔吉_赫尔吉 赫明 亨里克_亨利 雅马 霍格 英格 约根 约恩 雅各布_雅各布 杨斯 约基姆 约翰_约翰 卡尔_查理 克努特_克努特
 			克里斯蒂安_克里斯蒂安 雷夫 伦纳特 路德维格_路易 麦尔兹 马特_马修 迈克尔_迈克尔 摩根 尼尔斯_尼古拉斯 奥德_奥德 奥拉夫_奥拉夫 欧拉夫_欧拉夫 彼得_彼得 保尔 普利德比约恩 朗纳尔_朗纳尔 朗瓦尔德_朗瓦尔德 罗洛_罗洛 鲁恩 留里克_留里克 赛维林 西格弗里德 西格特吕格 西居尔_西居尔
-			西瓦尔德 斯蒂恩 斯温_斯温 萨蒙德_萨蒙德 托洛夫_托洛夫 托瓦尔德 托本 托尔比约恩_托尔比约恩 托德_托德 托尔芬_托尔芬 托吉尔斯_托克尔 图尔 乌比 乌非 乌尔夫_乌尔夫 瓦尔德马尔_弗拉基米尔 瓦伦丁_瓦伦丁 威尔弗雷德 英格瓦尔_英格瓦尔
+			西瓦尔德 斯蒂恩 斯温_斯温 萨蒙德_萨蒙德 托洛夫_托洛夫 托瓦尔德 托本 托比昂_托比昂 托德_托德 托尔芬_托尔芬 托吉尔斯_托克尔 图尔 乌比 乌非 乌尔夫_乌尔夫 瓦尔德马尔_弗拉基米尔 瓦伦丁_瓦伦丁 威尔弗雷德 英格瓦尔_英格瓦尔
 		}
 		female_names = {
 			阿格内丝 安娜_安娜 阿斯塔_阿斯塔 贝内迪克特_贝内迪克塔 比尔基塔_布里吉德 博迪尔 塞西里尔_塞西莉亚 克里斯蒂娜_克里斯蒂娜 达格玛 多萝西娅_多萝西 伊丽莎白_伊丽莎白 埃莉诺_埃莉诺 爱弥儿_艾米丽 艾丽卡 艾斯特 艾斯特里德_阿斯特里德 弗雷德里克_弗雷德里克 芙蕾雅_芙蕾雅
@@ -146,10 +146,10 @@ north_germanic = {
 		
 		dukes_called_kings = yes
 		
-		from_dynasty_prefix = "英格瓦 "
+		from_dynasty_prefix = "阿弗 "
 		
-		male_patronym = "之子"
-		female_patronym = "之女"
+		male_patronym = "森"
+		female_patronym = "斯达特"
 		prefix = no
 
 		modifier = default_culture_modifier
@@ -268,7 +268,7 @@ central_germanic = {
 
 		male_names = {
 			阿布拉希尔 阿布拉姆 阿达尔巴德 阿达尔伯特_阿尔伯特 阿达尔嘉里 阿达尔格林 埃及迪乌斯 阿格里克 阿基尔伯特 阿吉乌夫 艾尔伯特 阿尔伯里克 阿尔德拉曼
-			安蒂卡 安索瓦尔德 阿坎巴德 阿里吉赛尔 艾恩吉赛尔 阿努尔夫_Arnulf 阿斯卡里克 奥多瓦尔德 奥斯特里吉赛尔 奥特伯特 奥特嘉里 奥特格里
+			安蒂卡 安索瓦尔德 阿坎巴德 阿里吉赛尔 艾恩吉赛尔 阿努尔夫_阿努尔夫 阿斯卡里克 奥多瓦尔德 奥斯特里吉赛尔 奥特伯特 奥特嘉里 奥特格里
 			阿弗雷玛 巴德吉赛尔 鲍德温_鲍德温 巴尔纳德 贝拉尔德 伯纳德_伯纳德 贝奈里 贝罗 贝罗德 贝尔特弗里德 伯特林 贝特朗
 			贝尔特兰 布夏尔_布夏尔 卡洛曼_卡洛曼 塞斯林 卡拉里克 查理伯特 希尔德伯特 希尔德里克 希尔佩里克
 			克罗德莫 克洛塔尔_洛泰尔 克拉姆尼辛德 克劳迪奥 克罗迪翁 克洛维 克雷特 达加里克 达格伯特 德罗格_德罗格 埃贝尔鲁夫 埃布雷吉赛尔 恩基尔伯特
@@ -375,7 +375,7 @@ west_germanic = {
 			伊莎贝拉_伊丽莎白 琼_琼 乔安娜_琼 朱莉安娜_朱莉安娜 玛奥_玛奥 玛格丽特_玛格丽特 玛丽_玛丽亚 玛蒂尔妲_玛蒂尔妲 莫德_玛蒂尔妲 菲莉帕_菲莉帕 西比拉_西比拉
 		}
 		from_dynasty_prefix = "亚瑟 "
-		bastard_dynasty_prefix = "私生子"
+		bastard_dynasty_prefix = "菲茨"
 
 		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -495,25 +495,25 @@ west_germanic = {
 		color = { 0.7 0.3 0.0 }
 		
 		male_names = {
-			Adelbrik Aitet Aldgisl Audulf Auutet Avin Avo Avuko Avutet Bavo Bentet Bernhard_伯纳德 Blekulf Blithulf 布鲁恩哈德
-			Bubo B?io Edulf_Adolf Egildeg Eilbern Eilherd Eilulf Eilward Eldei Elderd Elhard Engilbald Enhard Entet Esulf Euitet
-			Euuerhard Eeelbern Eeelulf Eeelwi Focko Folcbald Folkbern Folkhard Folkward Frethirik Frethold Frethuhard Frethwi
-			Frithunath Geldulf Geltet Gerbald_Gerald Gerbrand Gerbruht Gerdeg Gerhard_Gerard Gerold_Gerald Gerulf Gerwar
-			Gosse Habo Haring Hathuward Hebetet Helibad Hessel Hobern Hoitet Hroehard Hroeward Juw_Julius Liaftet Liudbad
-			Liudbald Liudger Liudgod Liudulf_Ludolf Liudward_Liutward Liuppo_Lupo Lubbiko Magnus_Magnus Meginbraht Meginhard
-			Meginulf Meintet Menbold Menfrid_Manfred Menger Menhard Menhold Meniko Mentet Menward Merulf Miginward Notheri
-			Occo Odo_奥托 Osnath Osnoe Popetet Poppo Raeddeg Rauantet Redbad Reginhard_Reginald Reinbern_Reinbern Reinier_Rayner
-			Renhard_Renard Renward Riklef Rikwi Rodbern Saco Salaco Sibod Sibraht Sidei Sikke_Sicco Silef Siward_Sigurd Siwi
-			Sjoerd_Sigurd Sytse Taco Tadaco Tado Thancward Thankbern Thiadbold_Theobald Thiadbrund Thiaddi_Thaddeus Thiaderd
-			Thiadulf Thiadward Thiadwi Thiedold Thonkrik Wambald Wening Wentet Wibad Wibraht Wibrund Wiftet Wigbald Wigerd
-			Wihard 威尔布兰德 Wilco Wiltet Wulfnoth Ygo
+			阿德布里克 艾铁 奥德基色 奥都尔夫 奥铁 阿文 阿沃 阿伏寇 阿伏铁 巴沃 本铁 伯纳尔德_伯纳德 布雷库夫 布历乎尔夫 布伦哈德
+			布伯 波伊奥 诶度夫_阿道夫 诶希德赫 艾尔本 艾尔赫德 艾路夫 爱华德 艾尔得 艾尔德特 艾尔哈德 恩西尔巴德 恩哈德 恩铁 艾素尔夫 欧伊铁
+			欧淤尔哈特 诶搜伯恩 诶搜路夫 诶搜维 缶寇 缶巴特 缶克伯恩 缶克哈特 缶克瓦特 弗雷希里克 弗雷透特 弗雷都哈特 弗雷退
+			弗里都纳斯 戈都夫 戈铁 戈巴特_戈拉特 戈布兰特 戈布鲁特 戈德赫 杰拉德_杰拉德 杰洛特_杰拉特 杰鲁尔夫 戈瓦尔
+			戈瑟 哈博 哈灵 哈度瓦特 赫伯铁 赫利巴特 赫瑟尔 霍伯恩 霍伊铁 洛沙特 洛斯瓦特 玉_尤里乌斯 利亚夫铁 利欧巴特
+			利欧德巴尔特 利欧赫 利欧托特 利欧都夫_鲁道夫 利欧德瓦特_利欧特瓦特 利欧魄_卢魄 卢比寇 马赫努斯_马格努斯 梅辛布拉特 梅辛哈特
+			梅辛努夫 梅因铁 门波特 门弗里特_曼弗里特 门赫 门哈特 门后特 门尼寇 门铁 门瓦特 蔑鲁夫 米辛瓦特 诺迪里
+			欧寇 奥多_奥托 欧斯纳特 欧思诺思 魄匹铁 波魄 拉德赫 柔安铁 雷巴特 雷辛哈特_雷辛纳特 莱茵伯恩_莱茵伯恩 莱尼尔_雷纳 
+			雷哈特_雷纳德 雷瓦特 里克雷夫 里克维 罗伯恩 萨寇 萨拉寇 斯波特 斯布拉特 斯得 斯科_斯寇 斯雷夫 斯瓦特_斯乎特 斯维
+			索尔特_斯格 西则 塔寇 塔达寇 塔多 丹克瓦特 丹克伯恩 提亚巴特_提奥巴特 提亚布伦特 提亚迪_赛迪斯 提亚德特
+			提亚都夫 提亚瓦特 提亚特维 提多特 东克里克 万巴特 威宁 文铁 维巴特 维布拉特 维布伦特 维夫铁 维赫巴特 维赫特
+			维哈特 维布兰特 维尔寇 维尔铁 乌夫诺斯 伊霍
 		}
 		female_names = {
-			Aleberna Alena_Adela Aleydis_阿德莱德 Alretieren Amalburga Amelgeir Atghardis Aue Auesoete Badeloghen Baua Berta_Bertha
-			Bet_Elisabeth Breghlent 布鲁恩donis Dieuwke Douwen Eingeliadis Elke_阿德莱德 Emgelberna Erkenradis Ermegardis_Ermengarde
-			Esa Femke Fenna Folqui Gerburgis_Gerberga Ghela Ghodelde Hadewigis Heike Hersewindis Hodine Imma_Emma Imsoete Inka_Inga
-			Itsburgis Jeltsje Lenildis Liedelde Liudburgis Lutghardis Lys_Elisabeth Maike_Maria Mareike_Maria Mette Minke Nienke_Catherine
-			Rengnalda Volcwiif Wendelmodis Wiebke Wobbe Yda_Ida Ymmekine ?lidis
+			阿乐伯纳 艾莲娜_艾德拉 阿雷蒂斯_阿德莱德 艾乐提仁 阿玛布哈 阿特哈蒂斯 奥厄 奥厄苏特 巴德洛格 巴瓦 贝尔塔_贝塔
+			贝特_伊丽莎白 布雷赫棱特 布伦东尼斯 迪舞可 道雯 爱因赫利阿蒂斯 爱尔可_阿德莱德 恩赫伯纳 尔肯拉蒂斯 尔默哈蒂斯_尔门哈德
+			艾莎 芬可 芬娜 缶葵 格布希斯_格贝哈 给拉 苟德尔德 哈德维希斯 海可 赫瑟文迪斯 候定 伊玛_艾玛 因苏特 因卡_因哈
+			伊茨布希斯 耶妾 蕾妮蒂斯 莉德尔德 莉欧布希斯 鲁特哈蒂斯 莉斯_伊丽莎白 麦珂_玛丽亚 玛蕾珂_玛丽亚 梅特 闵珂 妮恩珂_凯瑟琳
+			仁娜达 沃珂维夫 雯德莫蒂斯 维布珂 沃玻 珊妮 伊达_伊达 因默琴内 阿莉蒂斯
 		}
 		
 		baron_titles_hidden = yes
@@ -651,7 +651,7 @@ latin = {
 		from_dynasty_prefix = "德 "
 		grammar_transform = french
 		
-		bastard_dynasty_prefix = "私生子"
+		bastard_dynasty_prefix = "菲兹"
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 30
@@ -824,8 +824,8 @@ iberian = {
 		}
 		from_dynasty_prefix = "德 "
 		
-		male_patronym = "之子"
-		female_patronym = "之女"
+		male_patronym = "艾斯"
+		female_patronym = "艾斯"
 		grammar_transform = spanish
 
 		pat_grf_name_chance = 80
@@ -844,20 +844,20 @@ iberian = {
 		color = { 0.95 0.82 0.09 }
 
 		male_names = {
-			阿方索_阿方斯 阿隆索_阿方斯 álvar_奥利佛 奥瓦罗_奥利佛 贝尔穆多_佛蒙多 Diego_迪亚克 Enrique_亨利 Fadrique_弗雷德里克 Felipe_菲利浦 费尔南多_Ferdinand
- 			Fruela_Froila García_加西亚 Gil_Egidius Gómez_Gomez 贡萨洛_贡萨洛 Guillén_威廉 Guillermo_威廉 Gutierre_瓦尔特 Juan_John Lope_Lupo Luis_Louis
-			Manrique_Amalric Martín_马丁 穆尼奥_穆尼奥 Nu?o_努诺 Ordo?o_Ordono Oveco_Obeko Pedro_Peter Pelayo_Pelagius Ramiro_Ramiro Rodrigo_罗德里克
-			萨尔瓦多 桑丘_桑丘 Suero_索罗 泰罗 Vela_维拉
+			阿方索_阿方斯 阿隆索_阿方斯 阿尔瓦_奥利弗 阿瓦洛_奥利弗 贝尔蒙特_维木多 迭戈_迪亚科 恩里克_亨利 费德里克_弗雷德里克 菲利普_菲利普 费尔南多_斐迪南
+			弗鲁埃拉_弗洛伊拉 加尔卡_加西亚 吉尔_埃吉迪乌斯 戈麦斯_戈麦斯 贡萨罗_贡萨罗 吉伦_威廉 吉列尔莫_威廉 古蒂耶雷_沃尔特 胡安_约翰 罗普_卢波 路易斯_路易
+			曼里克_阿马尔里克 马丁_马丁 穆尼奥_穆尼奥 努诺_努诺 奥尔多诺_奥尔多诺 奥威科_欧贝寇 佩德罗_彼得 佩拉约_佩拉吉乌斯 拉米罗_拉米罗 罗德里戈_罗德里克 
+			萨尔瓦多 桑丘_桑丘 苏埃罗_苏埃罗 特罗_特罗 韦拉_韦拉
 		}
 		female_names = {
-			Aldonza_Aldonza Anderquina Beatriz_贝阿特丽丝 Berenguela_Berengaria Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Fronilda_Fronilde Gontroda_Gotruda
-			Inés_Agnes Isabel_Elisabeth Jimena_Ximena Juana_Joan Leonor_Eleanor Mafalda_Matilda María_Maria Marina_Marine Mayor_Mayor Mencía_Mencia
-			Milia_Emily Sancha_Sancha Teresa_Teresa Toda_Toda Urraca_Urraca
+			阿尔东萨_阿尔东萨 安德齐娜 比阿特丽兹_比阿特丽斯 贝伦吉拉_贝伦加莉娅 布兰卡_布兰琪 康斯坦莎_康斯坦丝 埃尔维拉_埃尔维拉 埃斯特法妮娅_斯蒂芬妮 芙洛妮尔妲_芙洛妮尔德 贡特洛妲_歌特鲁妲
+			伊奈丝_艾格妮丝 伊莎贝尔_伊丽莎白 夕梅娜_希梅娜 胡安娜_琼 莱欧诺尔_埃莉诺 玛法尔妲_玛蒂尔妲 玛丽亚_玛丽亚 玛丽娜_玛琳 玛约尔_玛约尔 门西亚_门西亚
+			米莉娅_艾米丽 桑查_桑查 特蕾莎_特蕾莎 托妲_托妲 乌拉卡_乌拉卡
 		}
 		from_dynasty_prefix = "德 "
 		
-		male_patronym = "之子"
-		female_patronym = "之女"
+		male_patronym = "艾斯"
+		female_patronym = "艾斯"
 		grammar_transform = spanish
 
 		pat_grf_name_chance = 45
@@ -876,15 +876,15 @@ iberian = {
 		color = { 0.85 0.75 0.08 }
 
 		male_names = {
-			阿尔方斯_阿方索 Arnau_阿诺德 Artau_Artal Berenguer_Berengar Berenguer-Ramon Bernat_伯纳德 Bernat-Guillem 达马乌 Ermengol_Ermengaud 菲利浦_菲利浦
-			Ferran_Ferdinand Frederic_弗雷德里克 Gausfred_Godfrey Gerard_杰拉德 Gombau Guerau_Gerald Guifré_维尔弗雷德 Guillem_William Guillem-Ramon Guislabert_Gilbert
-			Hug_Hugh Jaume_雅可布 Joan_John Jofré_Godfrey Ott_奥托 Pere_Peter Pon?_Pons Pon?-Hug Ramon_Raymond Ramon-Berenguer_Raymond-Berengar
-			Ramon-Folc Roger_罗杰 San?_桑丘 Sunyer_Sunyer Udalard
+			阿尔方_阿方斯 阿尔瑙_阿诺德 阿尔陶_阿塔尔 贝伦格尔_贝伦加尔 贝伦格尔-拉蒙 贝纳特_伯纳德 贝纳特-吉列姆 达尔冒 埃尔门戈尔 菲利普_菲利普
+			费兰_斐迪南 弗雷德里克_弗雷德里克 高斯弗雷德_戈德弗雷 杰拉德_杰拉德 贡巴乌 古尔劳_杰拉尔德 吉弗雷_威尔弗雷德 吉列姆_威廉 吉列姆-拉蒙 吉斯拉伯特_吉尔伯特 
+			于格_休 豪默_雅各布 乔安_约翰 约弗雷_戈德弗雷 奥特_奥托 佩雷_彼得 庞聂_庞斯 庞聂-于格 拉蒙_雷蒙德 拉蒙-贝伦格尔_雷蒙德-贝伦加尔 
+			拉蒙-佛尔克 罗杰_罗杰 桑特斯_桑丘 苏涅尔_苏涅尔 乌达拉地
 		}
 		female_names = {
-			Adelaida_阿德莱德 Agnès_Agnes Alamanda Arsenda_Arsenda Beatriu_Beatrice Blanca_Blanche 布鲁恩isenda Constan?a_Constance Dol?a_Douce Elionor_Eleanor
-			Elisenda Ermessenda_Ermesinda Estefania_Stephania Gueraua Guillelma Guisla_Gisela Isabel_Elisabeth Margarida_Margaret Maria_Maria Marquesa_Marquise
-			San?a_Sancha Sibila_Sibylla Teresa_Teresa Toda_Toda Violant_Yolanda
+			艾德莱妲_阿德莱德 艾格妮丝_艾格妮丝 艾拉曼妲 阿尔森妲_阿尔森妲 比阿特留_比阿特丽斯 布兰卡_布兰琪 布鲁尼森妲 康斯坦丝_康斯坦丝 朵莉娅_杜斯 埃里奥诺_埃莉诺
+			伊莉森妲 埃尔梅森妲_埃尔梅辛妲 埃斯特法尼娅_斯蒂芬妮 古尔拉瓦 吉列玛 吉斯拉_吉塞拉 伊莎贝尔_伊丽莎白 乔安娜_琼 玛嘉莉妲_玛格丽特 玛丽亚_玛丽亚 玛可萨_玛赫琪
+			桑查_桑查 西比拉_西比拉 特蕾莎 托妲_托妲 维奥朗_尤兰妲
         }
 		from_dynasty_prefix = "德 "
 		grammar_transform = french
@@ -905,19 +905,19 @@ iberian = {
 		color = { 0.75 0.67 0.07 }
 
 		male_names = {
-			阿方索_阿方斯 阿瑞斯 奥瓦罗_奥利佛 贝尔穆多_佛蒙多 迭戈_迪亚克 Egas Estêv?o_史蒂芬 斐南诺_斐迪南 费尔南多_斐迪南 加西亚_加西亚
-			Gil_Egidius Gomes_Gomez 贡萨洛_贡萨洛 Guterre_瓦尔特 亨利克_亨利 Hermígio Jo?o_约翰 Lopo_Lupo Louren?o_劳伦斯 Martim_马丁
-			Mem_门铎 Mendo_门铎 莫尼奥_穆尼奥 Muno_穆尼奥 努诺_努诺 Paio_贝拉基 Pedro_Peter Pero_Peter P?ncio_Pons Rodrigo_罗德里克 Rui_罗德里克
-			Sancho_桑丘 Soeiro_Suero Raimundo_Raymond Vasco_Vasco Vicente_Vincent
+			阿方索_阿方斯 艾利斯 阿瓦洛_奥利弗 贝尔穆多_维木多 迪奥戈_迪亚科 埃加斯 埃斯特瓦奥_斯蒂芬 费纳奥_斐迪南 费尔南多_斐迪南 加西亚_加西亚
+			吉尔_埃吉迪乌斯 戈麦斯_戈麦斯 贡萨罗_贡萨罗 古德黑_沃尔特 亨里克_亨利 埃尔米吉奥 若昂_约翰 洛波_卢波 鲁西迪奥 路易_路易 劳伦尼奥_劳伦斯 马定_马丁
+			麦姆_门多 门多_门多 莫尼奥_穆尼奥 穆诺_穆尼奥 努诺_努诺 派欧_佩拉吉乌斯 佩德罗_彼得 佩罗_彼得 彭休_庞斯 罗德里戈_罗德里克 鲁伊_罗德里克
+			桑丘_桑丘 索埃罗_苏埃罗 雷蒙多_雷蒙德 瓦斯科_瓦斯科 韦森特_文森特
 		}
 		female_names = {
-			Aldara_Alduara Aldon?a_Aldonza Beatriz_Beatrice Berengária_Berengaria Branca_Blanche Constan?a_Constance Dórdia Elvira_Elvira Estevainha_Stephania Fruilhe_Fronilde
-			Gontinha Gontroda_Gotruda Guiomar Inês_Agnes Joana_Joan Leonor_Eleanor Mafalda_Matilda Margarida_Margaret Maria_Maria Marinha_Marine
-			Mor_Mayor Ouroana Sancha_Sancha Teresa_Teresa Urraca_Urraca
+			艾尔妲拉_阿尔德瓦拉 阿尔东妲_阿尔东萨 比阿特丽兹_比阿特丽斯 贝伦嘉莉娅 布兰卡_布兰琪 康斯坦丝_康斯坦丝 多狄娅 埃尔维拉_埃尔维拉 埃斯特万妮娅_斯蒂芬妮 芙露伊尔赫_芙洛妮尔德
+			贡提妮娅 贡特洛妲_歌特鲁妲 吉奥玛尔 伊涅丝_艾格妮丝 乔安娜_琼 莱欧诺尔_埃莉诺 玛法尔妲_玛蒂尔妲 玛嘉莉妲_玛格丽特 玛丽亚_玛丽亚 玛丽妮娅_玛琳 
+			摩尔_玛约尔 奥罗娥娜 桑查_桑查 特蕾莎_特蕾莎 乌拉卡_乌拉卡
 		}
 		from_dynasty_prefix = "德 "
-		male_patronym = "之子"
-		female_patronym = "之女"
+		male_patronym = "伊斯"
+		female_patronym = "伊斯"
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
@@ -936,19 +936,19 @@ iberian = {
 		color = { 0.55 0.55 0.15 }
 
 		male_names = {
-			阿方索_阿方斯 阿吉拉 杰尼亚 阿拉里克 阿里克 亚述费纳奥_斐迪南 费尔南多_斐迪南 迪亚克_迪亚克 法斐拉
-			斐迪南多_斐迪南 斐迪南_斐迪南 弗洛伊拉_弗洛伊拉 Gar?i_加西亚 贡萨洛_贡萨洛 Gundemar Guttier_瓦尔特 约翰_约翰 柳瓦 Liuvericho
-			卢波_卢波 Mauregato 莫尼奥_穆尼奥 Nunno_努诺 Oliba Ordonno_Ordono Pelagio_Pelagius Petro_Peter Ranimiro_Ramiro Rekkaredo
-			Rodericho_罗德里克 Sans_桑丘 Silo Suneario_Sunyer Suniefredo 席奥多里克霍_席奥多里克 Veremondo_佛蒙多 Wifredo_维尔弗雷德 Wimarano Witiza
+			阿德方索_阿方斯 阿吉拉 艾玛纳吉多 杰尼亚 阿拉里秋 阿洛伊托 阿苏尔 阿萨纳吉多 贝冷嘉里欧_贝伦加尔 迪亚科_迪亚科 法费拉
+			弗里德南多_斐迪南 弗里德南_斐迪南 弗洛伊拉_弗洛伊拉 加西亚_加西亚 贡萨罗_贡萨罗 衮德玛 古提尔_沃尔特 乔汉_约翰 柳瓦 柳维里秋
+			卢波_卢波 莫勒嘉托 蒙尼奥_穆尼奥 嫩诺_努诺 欧利巴 奥尔东诺_奥尔多诺 佩拉吉奥_佩拉吉乌斯 拉尼米罗_拉米罗 勒卡勒多
+			罗德里戈_罗德里克 三斯_桑丘 斯洛 苏涅阿里欧_苏涅尔 迪奥多里秋_迪奥多里克 维勒蒙多_维木多 威尔弗雷多_威尔弗雷德 维玛拉诺 维提扎
 
 #			Abdela_Abdullah Abdela?i? Abdelmelic Abdeluahid Abderrabmen Abrafim Ambroz Amet_Ahmad Ayyub ?acharya
 #			?elim ?ulema Hacan Hamdan Harun I?ag Mahomat_Muhammad Maruan Mu?a Omar
 #			Xabrit Yabya Yafar Yu?uf Yunus
 		}
 		female_names = {
-			Adelgundis Adosinda Agnes_Agnes Aragonte Argilo Ava_Eva 布鲁恩echildis Egilona Eldonza_Aldonza Elduara_Alduara
-			Elvira_Elvira Ermengardis_Ermengarde Ermenisinda_Ermesinda Flamula Fronilde_Fronilde Gaudiosa Gonterote_Gotruda Iberia Leodegundis Menenda
-			Monnia_Munia Monniadomna Onecca_Oneka Riciberga Sibilia_Sibylla Sisenanda Theodora_Theodora Urraca_Urraca Winidilda_Gunhild
+			阿德衮蒂斯 阿朵信达 艾格妮丝_艾格妮丝 阿拉贡特 阿吉洛 阿娃_伊娃 布鲁讷琪蒂斯 伊吉洛娜 伊尔东萨_阿尔东萨 伊尔德瓦拉_阿尔德瓦拉 
+			埃尔维拉_埃尔维拉 尔蒙嘉蒂斯_埃蒙嘉德 尔梅尼辛妲_埃尔梅辛妲 芙拉姆拉 芙洛妮尔德_芙洛妮尔德 歌迪欧萨 贡特洛特_歌特鲁妲 伊比莉娅 里欧德衮蒂斯 弥宁达 
+			蒙妮娅_穆尼娅 蒙妮娅东娜 欧尼卡_奥内卡 里琪蓓嘉 斯比莉娅_西比拉 斯瑟南达 狄奥多拉_狄奥多拉 乌拉卡_乌拉卡 维妮蒂达_贡希尔德
 
 #			Abda Ayab Ay?a ?ayida ?eida Emira Isra Leyla Melica Nadia
 #			Nadira Neyla Nur Tarifa Ya?mina
@@ -1736,7 +1736,7 @@ altaic = {
 			且帕 奇拉鲁什 顿奇里克 迪曾 多梅塔 德里斯塔 德隆 杜昆 埃勒玛 埃拉克 厄纳克 埃什卡克 戈勒达 戈什顿 固厄 兀巴德 伊阿尼 伊利克 伊尔特比 伊尔内克 伊斯布尔 伊斯里万 伊斯佩里克 伊斯波 伊塔克 卡玛吉 卡诺 卡拉达克 卡兰 卡拉顿 卡丹 凯噶拉 卡拉顿 卡提尔 奇尼亚伦 
 			库巴德 库特金 基巴 基萨 寇迪尔 寇梅西 寇米索什 库特拉格 库洛瓦 科伦 库伯 库布拉特 昆达_昆达克 库尔特 库特里古 奇拉 拉伯特坦 玛戈丁 玛拉米尔 穆戈 穆尼尔 穆诺 穆鲁玛罗特 欧杜尔甘 欧克西 欧可孙 欧寇斯 欧穆塔戈 欧内加翁 欧尔甘 欧尔甘纳 欧尔纳戈 
 			欧什 欧斯特罗帕甘 帕克提亚_帕克提亚尔 帕瓦尔 普拉斯卡 拉萨特 鲁基拉 萨宾 珊珊 珊迪尔 珊狄尔克 萨克汗 萨尔塔克 萨温 塞瓦 什切 辛珊 松多可 塔布噶 松多克 塔塔曼 塔拉西 塔里丁 塔特拉 特雷克 特雷里戈 特维尔 帖木耳_帖木儿 帖木儿雷 帖木儿布拉特
-			廷吉兹 提拉丁 托克塔曼 托克图 索 叙尔 图 乌末 兀突骨 瓦库林 文达 维坦 维涅 雅尼 图兹尼 托古克_托古鲁克 雅万忒 杨车匹 耶内斯鲁 耶车雷克 泽贝甘 曾提 伊阿特 伊阿汀 伊欧潘 伊特弥斯
+			廷吉兹 提拉丁 托克塔曼 托克图 索 叙尔 图 乌末 兀突骨 瓦库林 文达 ?? 维涅 雅尼 图兹尼 托古克_托古鲁克 雅万忒 杨车匹 耶内斯鲁 耶车雷克 泽贝甘 曾提 伊阿特 伊阿汀 伊欧潘 伊特弥斯
 
 		}
 		female_names = {
@@ -1951,7 +1951,7 @@ arabic = {
 			Zunagha Zwina Zwira
 		}
 		
-		from_dynasty_prefix = "姆恩 "
+		from_dynasty_prefix = "闵 "
 		
 		male_patronym = "伊本 "
 		female_patronym = "宾特 "
@@ -1989,7 +1989,7 @@ arabic = {
 			戈尔巴哈 古尔纳尔 古尔纳兹 古尔帕里 哈斯蒂 胡玛 汉丹 基纳赫 拉拉 玛赫多克特 马赫萨 马尔瓦 玛斯塔娜 迈赫里 米娜 米诺奥
 			纳哈尔 纳耶拉 纳斯塔兰 纳齐 尼加尔 尼基 妮柯
 		}
-		from_dynasty_prefix = "姆恩 "
+		from_dynasty_prefix = "闵 "
 		
 		male_patronym = "伊本 "
 		female_patronym = "宾特 "
@@ -2039,7 +2039,7 @@ arabic = {
 
 		male_names = {
 			阿巴德 阿巴斯 阿卜杜拉 阿卜杜勒-阿齐兹 阿卜杜勒-哈卡姆 阿卜杜勒-哈桑 阿卜杜勒-哈兹姆 阿卜杜勒-拉赫曼 阿卜杜勒-拉扎克 阿卜杜勒 阿布
-			阿布拜克尔 阿德丰斯_阿方斯 艾哈迈德 阿里 阿姆尔 阿尤布 比拉勒 法德勒 法特赫 加西亚_加西亚 哈卡姆 希拉勒 易卜拉欣
+			阿布拜克尔 阿德丰斯_阿方斯 艾哈迈德 阿里 阿姆尔 阿尤布 比拉勒 法德勒 法特赫 加西亚_加西亚 哈卡姆 希拉?? 易卜拉欣
 			基亚德 路布_卢波 马恩 穆巴希尔 穆罕默德 蒙齐尔 穆萨 拉西德 拉西克 萨德 西德雷 苏莱曼 塔里克
 			乌玛尔 乌特曼 亚法尔 叶赫亚_约翰 尤素福_约瑟夫	
 		}
