@@ -2,11 +2,11 @@
 enatic;女性;Ut閞ine;Enatisch;;En醫ica;;;;;;;;;x
 enatic_desc;只有女性能继承头衔;Uniquement les femmes peuvent h閞iter.;Nur Frauen k鰊nen erben.;;S髄o las mujeres pueden heredar.;;;;;;;;;x
 enatic_cognatic;女性优先;Ut閞ine-cognatique;Enatisch-kognatisch;;En醫ica-Cogn醫ica;;;;;;;;;x
-enatic_cognatic_desc;男性仅在没有合法女性可以继承的情况下才会得到继承权.;Les hommes peuvent h閞iter, mais uniquement s'il n'y a aucune femme 閘igible.;M鋘ner k鰊nen erben, aber nur dann, wenn es keine erbberechtigten Frauen gibt.;;Los hombres pueden heredar, pero s髄o si no hay mujeres elegibles.;;;;;;;;;x
+enatic_cognatic_desc;男性仅在没有合法女性可以继承的情况下才会得到继承权。;Les hommes peuvent h閞iter, mais uniquement s'il n'y a aucune femme 閘igible.;M鋘ner k鰊nen erben, aber nur dann, wenn es keine erbberechtigten Frauen gibt.;;Los hombres pueden heredar, pero s髄o si no hay mujeres elegibles.;;;;;;;;;x
 enatic_succession;女性;Ut閞ine;Enatisch;;En醫ica;;;;;;;;;x
 enatic_succession_desc;只有女性可以继承;Uniquement les femmes peuvent h閞iter.;Nur Frauen k鰊nen erben.;;S髄o las mujeres pueden heredar.;;;;;;;;;x
 enatic_cognatic_succession;女性优先;Ut閞ine-cognatique;Enatisch-kognatisch;;En醫ica-Cogn醫ica;;;;;;;;;x
-enatic_cognatic_succession_desc;男性仅在没有合法女性可以继承的情况下才会得到继承权.;Les hommes peuvent h閞iter, mais uniquement s'il n'y a aucune femme 閘igible.;M鋘ner k鰊nen erben, aber nur dann, wenn es keine erbberechtigten Frauen gibt.;;Los hombres pueden heredar, pero s髄o si no hay mujeres elegibles.;;;;;;;;;x
+enatic_cognatic_succession_desc;男性仅在没有合法女性可以继承的情况下才会得到继承权。;Les hommes peuvent h閞iter, mais uniquement s'il n'y a aucune femme 閘igible.;M鋘ner k鰊nen erben, aber nur dann, wenn es keine erbberechtigten Frauen gibt.;;Los hombres pueden heredar, pero s髄o si no hay mujeres elegibles.;;;;;;;;;x
 TRIGGER_ROOT;显性根元素;Root;;;Origen;;;;;;;;;x
 TRIGGER_PREV;显性一以元素;Prev;;;Prev.;;;;;;;;;x
 TRIGGER_FROMFROM;显性条件 时间 地区;FromFrom;;;FromFrom;;;;;;;;;x

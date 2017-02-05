@@ -374,7 +374,7 @@ west_germanic = {
 			艾德拉_艾德拉 阿德莱德_阿德莱德 爱丽丝_爱丽丝 艾米丝 安妮_安娜 艾芙琳_艾芙莉娜 比阿特丽斯_比阿特丽斯 布兰琪_布兰琪 凯瑟琳_凯瑟琳 塞西莉亚_塞西莉亚 康斯坦丝_康斯坦丝 伊蒂丝_伊蒂丝 埃拉 埃莉诺_埃莉诺 伊利莎白_伊丽莎白 艾玛_艾玛 哈薇丝 伊莎贝尔_伊丽莎白
 			伊莎贝拉_伊丽莎白 琼_琼 乔安娜_琼 朱莉安娜_朱莉安娜 玛奥_玛奥 玛格丽特_玛格丽特 玛丽_玛丽亚 玛蒂尔妲_玛蒂尔妲 莫德_玛蒂尔妲 菲莉帕_菲莉帕 西比拉_西比拉
 		}
-		from_dynasty_prefix = "亚瑟 "
+		from_dynasty_prefix = " "
 		bastard_dynasty_prefix = "菲茨"
 
 		modifier = default_culture_modifier
@@ -471,7 +471,7 @@ west_germanic = {
 		baron_titles_hidden = yes
 		count_titles_hidden = yes
 
-		from_dynasty_prefix = "艾 "
+		from_dynasty_prefix = " "
 
 		male_patronym = "森"
 		female_patronym = "斯多德"
@@ -781,7 +781,7 @@ latin = {
 			鲁斯提西安娜 萨比娜 萨鲁斯提娜 萨隆尼娜 萨尔维亚内拉 斯坎提拉 塞伦娜 塞尔吉亚 塞维拉 塞维莉娜 西尔维亚 斯帕杜莎 苏尔皮西亚 塔尔希拉 提提亚娜 乌尔皮亚 瓦勒莉亚_瓦勒莉亚
 			维莉亚 维克托莉亚 维吉兰提亚 维维亚娜_维维亚娜
 		}
-		from_dynasty_prefix = "奥夫 "
+		from_dynasty_prefix = " "
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
