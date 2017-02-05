@@ -11,7 +11,7 @@ ACCEPT;接受;Accepter;Zustimmen;;Aceptar;;;;;;;;;x
 DECLINE;拒绝;Refuser;Ablehnen;;Declinar;;;;;;;;;x
 HAS_LESS_RAISED_TROOP_DAYS;军队动员少于$DAYS$?天\n;Troupes lev閑s depuis moins de $DAYS$? jours\n;Aufgestellte Truppen in den letzten $DAYS$? Tagen\n;;Tropas reclutadas menos de $DAYS$? D韆s\n;;;;;;;;;x
 HAS_MORE_RAISED_TROOP_DAYS;军队动员至少$DAYS$?天\n;Troupes lev閑s depuis au moins $DAYS$? jours\n;Aufgestellte Truppen seit mindestens $DAYS$? Tagen\n;;Tropas reclutadas al menos $DAYS$? D韆s\n;;;;;;;;;x
-SET_RAISED_TROOP_OPINION;$ACTIVE$的?延长了附庸好感期限相比于$PASSIVE$?设为$MUCH$?。\n;Le nombre de jours pendant lesquels $ACTIVE$? augmente l'opinion sur la lev閑 de troupes contre $PASSIVE$? passe ?$MUCH$?.\n;$ACTIVE$s? Missfallen bez黦lich der Zwangseinberufung durch $PASSIVE$? w鋒rt noch $MUCH$? Tage.\n;;D韆s de leva reclutada $ACTIVE$? contra $PASSIVE$? Puesta a $MUCH$?.\n;;;;;;;;;x
+SET_RAISED_TROOP_OPINION;$ACTIVE$的?延长了封臣好感期限相比于$PASSIVE$?设为$MUCH$?。\n;Le nombre de jours pendant lesquels $ACTIVE$? augmente l'opinion sur la lev閑 de troupes contre $PASSIVE$? passe ?$MUCH$?.\n;$ACTIVE$s? Missfallen bez黦lich der Zwangseinberufung durch $PASSIVE$? w鋒rt noch $MUCH$? Tage.\n;;D韆s de leva reclutada $ACTIVE$? contra $PASSIVE$? Puesta a $MUCH$?.\n;;;;;;;;;x
 CONTESTED_TITLE;争夺的头衔：$TITLE$;Titre contest闋: $TITLE$;Angefochtene Titel: $TITLE$;;T韙ulo disputado: $TITLE$;;;;;;;;;x
 THREAT_REASON_HATRED;低好感;Mauvaise opinion;Geringsch鋞zung;;Mala Opini髇;;;;;;;;;x
 THREAT_REASON_LOVE;高好感;Haute opinion;Hochachtung;;Buena Opini髇;;;;;;;;;x

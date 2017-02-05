@@ -255,7 +255,7 @@ k_mongolia;蒙古;Mongolie;Mongolei;;Mongolia;;;;;;;;;x
 d_altay;阿勒泰;Alta?Altai;;Altay;;;;;;;;;x
 d_otuken;于都斤;謙黭en;謙黭en;;謙黭en;;;;;;;;;x
 d_khangai;杭爱;Khanga?Changai;;Khangai;;;;;;;;;x
-d_ikh_bogd;伊赫博格;Ikh Bogd;Ikh Bogd;;Ikh Bogd;;;;;;;;;x
+d_ikh_bogd;大孛黑多;Ikh Bogd;Ikh Bogd;;Ikh Bogd;;;;;;;;;x
 k_khotan;于阗;Hotan;Khotan;;Khotan;;;;;;;;;x
 d_kashgar;喀什噶尔;Kachgar;Kaschgar;;Kashgar;;;;;;;;;x
 d_khotan;于阗;Hotan;Khotan;;Khotan;;;;;;;;;x
@@ -487,16 +487,16 @@ HAS_LOWER_MAX_POPULATION_THAN;最大人口少于;Avoir une population maximale inf閞ie
 HAS_HIGHER_MAX_POPULATION_THAN;最大人口多于;Avoir une population maximale sup閞ieure ? ;H鰄ere max. Bev鰈kerung als  ;;Tiene mayor m醲imo de poblaci髇 que;;;;;;;;;x
 HAS_LOWER_POPULATION_GROWTH_THAN;人口增长低于;Avoir une croissance de population inf閞ieure ? ;Geringeres Bev鰈kerungswachstum als  ;;Tiene menor crecimiento de la poblaci髇 que;;;;;;;;;x
 HAS_HIGHER_POPULATION_GROWTH_THAN;人口增长高于;Avoir une croissance de population sup閞ieure ? ;H鰄eres Bev鰈kerungswachstum als  ;;Tiene un mayor crecimiento de la poblaci髇 de;;;;;;;;;x
-khalka;喀尔喀;khalkha;Chalcha;;Khalka;;;;;;;;;x
-buryat;不里牙惕;bouriate;Burjaten;;Buriato;;;;;;;;;x
-naiman;乃蛮;na飉ane;Naimanen;;Naiman;;;;;;;;;x
-oirat;斡亦剌惕;o飏ate;Oirat;;Oirate;;;;;;;;;x
-uyghur;回鹘;ou飃houre;Uiguren;;Uigur;;;;;;;;;x
-basmyl;拔悉密;basmile;Basmilen;;Basmyl;;;;;;;;;x
-yagma;样磨;yagma;Yagma;;Yagma;;;;;;;;;x
-chigil;处月;chigile;Tschigil;;Chigil;;;;;;;;;x
-khitan;契丹;khitane;Kitan;;Kitan;;;;;;;;;x
-sogdian;粟特;sogdienne;Sogdien;;Sogdiano;;;;;;;;;x
+khalka;喀尔喀人;khalkha;Chalcha;;Khalka;;;;;;;;;x
+buryat;不里牙惕人;bouriate;Burjaten;;Buriato;;;;;;;;;x
+naiman;乃蛮人;na飉ane;Naimanen;;Naiman;;;;;;;;;x
+oirat;斡亦剌惕人;o飏ate;Oirat;;Oirate;;;;;;;;;x
+uyghur;回鹘人;ou飃houre;Uiguren;;Uigur;;;;;;;;;x
+basmyl;拔悉密人;basmile;Basmilen;;Basmyl;;;;;;;;;x
+yagma;样磨人;yagma;Yagma;;Yagma;;;;;;;;;x
+chigil;处月人;chigile;Tschigil;;Chigil;;;;;;;;;x
+khitan;契丹人;khitane;Kitan;;Kitan;;;;;;;;;x
+sogdian;粟特人;sogdienne;Sogdien;;Sogdiano;;;;;;;;;x
 nomad_succession;游牧继承;Succession nomade;Nomadenerbfolge;;Sucesi髇 n髆ada;;;;;;;;;x
 succ_nomadic;游牧继承;Succession nomade;Nomadenerbfolge;;Sucesi髇 n髆ada;;;;;;;;;x
 TITLE_NEW_PRIMARY_IS_NOMADIC;游牧部落不能设置主头衔！?;Les nomades ne peuvent d閠erminer de titre principal??;Nomaden k鰊nen keine Prim鋜titel festlegen!?;;髆adas no pueden poner t韙ulo primario!?;;;;;;;;;x
@@ -600,8 +600,8 @@ b_gorgol;戈尔戈勒;;;;;;;;;;;;;x
 b_khangai;杭爱;;;;;;;;;;;;;x
 b_kara_khorum;哈剌和林;;;;;;;;;;;;;x
 b_baygal;贝加尔;;;;;;;;;;;;;x
-b_aj_bogd;阿朱博格;;;;;;;;;;;;;x
-b_ikh_bogd;伊赫博格;;;;;;;;;;;;;x
+b_aj_bogd;阿朱孛黑多;;;;;;;;;;;;;x
+b_ikh_bogd;大孛黑多;;;;;;;;;;;;;x
 b_tsagaannuur;查干诺尔;;;;;;;;;;;;;x
 b_yarkand;鸦儿看;;;;;;;;;;;;;x
 b_kashgar;喀什噶尔;;;;;;;;;;;;;x
@@ -640,10 +640,10 @@ PROV1449;轮台;;;;;;;;;x
 PROV1450;哈密;;;;;;;;;x
 PROV1451;阿尔泰;;;;;;;;;x
 PROV1452;敦赫戈;;;;;;;;;x
-PROV1453;阿朱博格;;;;;;;;;x
+PROV1453;阿朱孛黑多;;;;;;;;;x
 PROV1454;慕兹陶;;;;;;;;;x
 PROV1455;查干诺尔;;;;;;;;;x
-PROV1456;伊赫博格;;;;;;;;;x
+PROV1456;大孛黑多;;;;;;;;;x
 PROV1457;哈剌和林;;;;;;;;;x
 PROV1458;杭爱;;;;;;;;;x
 PROV1459;克孜勒;;;;;;;;;x

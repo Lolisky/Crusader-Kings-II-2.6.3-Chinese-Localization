@@ -1,22 +1,22 @@
 ;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 TITLE_EMPIRE_CREATION_PIETY_COST;ÄãĞèÒª§R$COST$§£¡$PIETYNAME$À´´´½¨Ò»¸öµÛ¹ú¡£;Vous avez besoin de §R$COST$§! de $PIETYNAME$ pour créer un empire.;Ihr braucht §R$COST$§! $PIETYNAME$, um ein Reich zu erschaffen.;;Necesitas §R$COST$§! de $PIETYNAME$ para crear un Imperio.;;;;;;;;;x
-muslim_invasion_desc;§Y$TARGET$§£¡²»ÊÇÕæÕıµÄĞÅÍ½¡ª¡ª¡ª¡ªÕâÊÇ§Y$CLAIMANT$§£¡Ïò§Y$TITLE$§£¡¿ªÕ½µÄÀíÓÉ£¡Èç¹û³É¹¦£¬§Y$TARGET$§£¡ÔÚ§Y$TITLE$§£¡µÄÒ»ÇĞÁìÍÁ½«»á±»Õ¼Áì»òÕß¸½Ó¹¡£;§Y$TARGET$§! ne suit pas la vraie foi - c'est suffisant pour que §Y$CLAIMANT$§! envahisse le §Y$TITLE$§!. En cas de succès, tout ce que contrôle §Y$TARGET$§! dans le §Y$TITLE$§! sera capturé ou vassalisé.;§Y$TARGET$§! gehört nicht dem wahren Glauben an - was Grund genug für §Y$CLAIMANT$§! ist, um eine Invasion zu starten. Sollte er Erfolg haben, so wird aller Besitz von §Y$TARGET$§! innerhalb vom §Y$TITLE$§! übernommen oder vasallisiert.;;§Y$TARGET$§! no es de la verdadera fe - por lo cual §Y$CLAIMANT$§! debe invadir el §Y$TITLE$§!. De tener éxito, todo lo que §Y$TARGET$§! controle dentro del §Y$TITLE$§! será anexionado o vasallizado.;;;;;;;;;x
-duke_female_iranian;¼ÑÀö;Emira;Emirin;;Emira;;;;;;;;;x
-count_female_iranian;Ğ»ºÕ°¬¹şÂõµÂ;Cheika;Shaykhah;;Jequesa;;;;;;;;;x
-baron_female_iranian;ÍßÀûÑÇ;Walia;Wâlia;;Valía;;;;;;;;;x
-count_female_arabic;Ğ»ºÕ°¬¹şÂõµÂ;Cheika;Shaykhah;;Jequesa;;;;;;;;;x
-baron_female_arabic;ÍßÀûÑÇ;Walia;Wâlia;;Valía;;;;;;;;;x
-king_female_turkish;ÈöÁ¦Ì¹;Sultane;Sultanin;;Sultana;;;;;;;;;x
-duke_female_turkish;±´ÀÕ°ÍÑå;Beylerbégum;Begum;;Beylerbeya;;;;;;;;;x
+muslim_invasion_desc;§Y$TARGET$?²»ÊÇÕıĞÅµÄÒ»Ô±¡ª¡ªÕâÒ»½è¿Ú×ãÒÔÈÃ§Y$CLAIMANT$?ÈëÇÖ§Y$TITLE$?¡£Èç¹û³É¹¦£¬§Y$TITLE$?ÄÚ§Y$TARGET$?¿ØÖÆÏÂµÄËùÓĞÍ·ÏÎ¶¼½«±»¶á×ß»ò¸½Ó¹¡£;§Y$TARGET$§! ne suit pas la vraie foi - c'est suffisant pour que §Y$CLAIMANT$§! envahisse le §Y$TITLE$§!. En cas de succès, tout ce que contrôle §Y$TARGET$§! dans le §Y$TITLE$§! sera capturé ou vassalisé.;§Y$TARGET$§! gehört nicht dem wahren Glauben an - was Grund genug für §Y$CLAIMANT$§! ist, um eine Invasion zu starten. Sollte er Erfolg haben, so wird aller Besitz von §Y$TARGET$§! innerhalb vom §Y$TITLE$§! übernommen oder vasallisiert.;;§Y$TARGET$§! no es de la verdadera fe - por lo cual §Y$CLAIMANT$§! debe invadir el §Y$TITLE$§!. De tener éxito, todo lo que §Y$TARGET$§! controle dentro del §Y$TITLE$§! será anexionado o vasallizado.;;;;;;;;;x
+duke_female_iranian;°£Ã×À­;Emira;Emirin;;Emira;;;;;;;;;x
+count_female_iranian;Ğ»ºÕ;Cheika;Shaykhah;;Jequesa;;;;;;;;;x
+baron_female_iranian;ÍßÀûæ«;Walia;Wâlia;;Valía;;;;;;;;;x
+count_female_arabic;Ğ»¹ş;Cheika;Shaykhah;;Jequesa;;;;;;;;;x
+baron_female_arabic;ÍßÀûæ«;Walia;Wâlia;;Valía;;;;;;;;;x
+king_female_turkish;ËÕµ¤ÄÈ;Sultane;Sultanin;;Sultana;;;;;;;;;x
+duke_female_turkish;±´ÒÁÀÕ°ÍÑå;Beylerbégum;Begum;;Beylerbeya;;;;;;;;;x
 count_female_turkish;°ÍÑå;Kontes;Bayan;;Beya;;;;;;;;;x
-baron_female_turkish;°ÍÑå;Timariota;Timarota;;Timariota;;;;;;;;;x
-job_chancellor_west_african;´ó×Ü¶½;Grand vizir;Großwesir;;Gran Visir;;;;;;;;;x
-emperor_arabic;´óÉ³Íõ;Badshah;Badshah;;Badshah;;;;;;;;;x
+baron_female_turkish;ÌáÂêÀòÅ·Ëş;Timariota;Timarota;;Timariota;;;;;;;;;x
+job_chancellor_west_african;´óÎ¬Æë¶û;Grand vizir;Großwesir;;Gran Visir;;;;;;;;;x
+emperor_arabic;´óÉ³°¢;Badshah;Badshah;;Badshah;;;;;;;;;x
 CALIPHA;¹şÀï·¢;Califat;Kalifin;;Califa;;;;;;;;;x
 PIETY_LAW_PASSED_SETUP;ÖÆ¶©ÄÂË¹ÁÖµÄ·¨ÂÉ;Loi musulmane instituée;Muslimisches Gesetz eingeführt;;Ley Musulmana Aprobada;;;;;;;;;x
 PIETY_LAW_PASSED_LOG;§Y$RULER$§£¡ÔÚ§Y$TITLE$§£¡ÖÆ¶©ÁË§Y$LAW$§£¡·¨¡£;§Y$RULER$§! a institué la loi §Y$LAW$§! en §Y$TITLE$§!.;§Y$RULER$§! hat das §Y$LAW$§! Gesetz in §Y$TITLE$§! eingeführt.;;§Y$RULER$§! ha instituido la  ley §Y$LAW$§! en §Y$TITLE$§!.;;;;;;;;;x
 DISBAND_EVENT_FORCES;ÓÉÊÂ¼şËù²úÉúµÄ¾ü¶ÓÒÑ¾­±»½âÉ¢;Démobiliser les troupes créées par un évènement;Durch Ereignis erschienene Truppen werden aufgelöst;;Disolver las tropas creadas por evento;;;;;;;;;x
-iqta_contract;±øÒÛ;Levée (iqtâ);Iqta Wehrpflichtige;;Leva Iqtá;;;;;;;;;x
+iqta_contract;ÒÁ¿ËËşÕ÷Ä¼·¨;Levée (iqtâ);Iqta Wehrpflichtige;;Leva Iqtá;;;;;;;;;x
 iqta_contract_desc;ÒÁ¿ËËşÕ÷Ä¼·¨¿ØÖÆÁËÕ÷Ä¼µÄ·¶Î§Òò´ËÄÂË¹ÁÖµÄÖîºîÁìÖ÷±ØĞëÎªËûÃÇµÄ¾ıÖ÷·şÎñ¡£;En gouvernement de type iqtâ les lois de conscription déterminent le pourcentage de troupes que les vassaux doivent fournir à leur seigneur lige.;Das Iqta Wehrpflichtigenrecht regelt, welchen Anteil ihrer Wehrpflichtigen muslimische Vasallen nominell ihren Herren zur Verfügung stellen müssen.;;La ley de levas Iqtá determina la proporción de leva con la que los vasallos Musulmanes tienen que proveer a sus señores.;;;;;;;;;x
 iqta_contract_0;×îµÍ±øÒÛ;Levée minimale (iqtâ);Minimale Iqta Wehrpflichtige;;Leva Iqtá mínima;;;;;;;;;x
 iqta_contract_0_option;×îµÍ;Min.;Min;;Mín.;;;;;;;;;x

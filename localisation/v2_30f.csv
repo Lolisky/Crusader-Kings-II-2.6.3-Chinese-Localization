@@ -31,7 +31,7 @@ CIW_GOTOLOCATION_DEL;拉近显示角色在地图上的位置。;Trouver l'emplacement du perso
 CIW_GOTOCHARREL_DEL;查看其他角色对本角色的看法。;Voir les opinions envers ce personnage.;Die Meinungen der anderen Charaktere zu diesem Charakter Sehen.;;Ver las opiniones de otros personajes sobre este personaje.;;;;;;;;;x
 ;#alert_available_targetted_decision_instant;SpecialActionsPossible?;;Spezielle Aktionen M?glich?;;Acciones Especiales Posibles?;;;;;;;;;x;
 ;#alert_available_targetted_decision_delayed;Thefollowingspecialactionsareavailable：\n$LIST$;;Die folgenden besonderen Aktionen stehen zur Verfügung:\n$LIST$;;Las siguientes acciones especiales están disponibles:\n$LIST$;;;;;;;;;x;
-CAN_CALL_VASSALS_TO_WAR;我们所有的附庸;Tous nos vassaux;Alle unsere Vasallen;;Todos nuestros vasallos;;;;;;;;;x
+CAN_CALL_VASSALS_TO_WAR;我们所有的封臣;Tous nos vassaux;Alle unsere Vasallen;;Todos nuestros vasallos;;;;;;;;;x
 IS_NOT_A_FOE_OF;不是敌人;N'est pas un adversaire de ;Ist NICHT ein Feind von ;;NO es un enemigo de ;;;;;;;;;x
 IS_A_FOE_OF;是敌人;Est un adversaire de ;Ist ein Feind von ;;Es un enemigo de ;;;;;;;;;x
 nick_the_scholar;学者;l'蓃udit;der Gelehrte;;el Erudito;;;;;;;;;x

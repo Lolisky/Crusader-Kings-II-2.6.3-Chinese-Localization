@@ -114,10 +114,10 @@ AIREASON_IS_HIGHER_RANK_SPOUSE;§Y[GetTitledFirstName]?ÊÇÎÒµÄÅäÅ¼£¬ÖÖĞÕ±ÈÎÒ¸ü¸ß;§
 FIGHTING_ANOTHER_WAR;ÕıÃ¦ÓÚÁíÒ»³¡Õ½Õù;Mène déj?une autre guerre.;Damit beschäftigt, in einem anderen Krieg zu kämpfen;;Ocupado en otra guerra;;;;;;;;;x
 empire;µÛ¹ú;Empire;Reich;;Imperio;;;;;;;;;x
 kingdom;Íõ¹ú;Royaume;Königreich;;Reino;;;;;;;;;x
-duchy;¹«¾ôÁì;Duch?Herzogtum;;Ducado;;;;;;;;;x
+duchy;¹«¹ú;Duch?Herzogtum;;Ducado;;;;;;;;;x
 county;²®¾ôÁì;Comt?Grafschaft;;Condado;;;;;;;;;x
 barony;ÄĞ¾ôÁì;Baronnie;Baronie;;Baronía;;;;;;;;;x
-city_empire;Ã³Ò×µÛ¹ú;Principaut?Fürstentum;;Principado;;;;;;;;;x
+city_empire;Ö÷È¨¹ú;Principaut?Fürstentum;;Principado;;;;;;;;;x
 city_kingdom;ÖÁ×ğ¹²ºÍ¹ú;République Sérénissime;Die durchlauchtigste Republik;;Serenísima República;;;;;;;;;x
 city_duchy;¹²ºÍ¹ú;République;Republik;;República;;;;;;;;;x
 city_county;×ÔÓÉÊĞ;Grande cit?Prachtvolle Stadt;;Gran Ciudad;;;;;;;;;x
@@ -127,41 +127,41 @@ temple_kingdom_orthodox;×ÚÖ÷½ÌÇø;Patriarcat;Patriarchat;;Patriarcado;;;;;;;;;x
 temple_kingdom_muslim;¹şÀï·¢¹ú;Califat;Kalifat;;Califato;;;;;;;;;x
 temple_kingdom_pagan_group;ÉñÈ¨¹ú;Théocratie;Theokratie;;Teocracia;;;;;;;;;x
 temple_duchy_christian;´óÖ÷½ÌÇø;Archevêch?princier;Prinzen-Erzbistum;;Arzobispado;;;;;;;;;x
-temple_duchy_muslim;ÉñÈ¨Áì;Théocratie;Theokratie;;Teocracia;;;;;;;;;x
-temple_duchy_pagan_group;ÉñÈ¨Áì;Théocratie;Theokratie;;Teocracia;;;;;;;;;x
-temple_county_christian;Ö÷½ÌÇø;Évêch?princier;Prinzen-Bistum;;Obispado;;;;;;;;;x
-temple_county_muslim;Ğ»ºÕÇø;Cheikat;Scheichtum;;Dominio del Jeque;;;;;;;;;x
-temple_county_pagan_group;ÉñÈ¨Çø;Théocratie;Theokratie;;Teocracia;;;;;;;;;x
+temple_duchy_muslim;ÉñÈ¨¹ú;Théocratie;Theokratie;;Teocracia;;;;;;;;;x
+temple_duchy_pagan_group;ÉñÈ¨¹ú;Théocratie;Theokratie;;Teocracia;;;;;;;;;x
+temple_county_christian;²ÉÒØÖ÷½ÌÇø;Évêch?princier;Prinzen-Bistum;;Obispado;;;;;;;;;x
+temple_county_muslim;Ğ»ºÕ¹ú;Cheikat;Scheichtum;;Dominio del Jeque;;;;;;;;;x
+temple_county_pagan_group;ÉñÈ¨¹ú;Théocratie;Theokratie;;Teocracia;;;;;;;;;x
 temple_barony_christian;½ÌÇø;Évêch?Bistum;;Obispado;;;;;;;;;x
 temple_barony_muslim;ÇåÕæËÂ;Mosquée;Scheichtum;;Dominio del Jeque;;;;;;;;;x
 temple_barony_pagan_group;Éñµî;Temple;Tempel;;Templo;;;;;;;;;x
-count_arabic_female;Ğ»ºÕ°¬¹ş;Cheika;Shaykhah;;Jequesa;;;;;;;;;x
-empire_altaic;º¹¹ú;Khaganat;Khaganat;;Khaganato;;;;;;;;;x
+count_arabic_female;Ğ»¹ş;Cheika;Shaykhah;;Jequesa;;;;;;;;;x
+empire_altaic;´óº¹¹ú;Khaganat;Khaganat;;Khaganato;;;;;;;;;x
 kingdom_altaic;º¹¹ú;Khanat;Khanat;;Kanato;;;;;;;;;x
-barony_arabic;ÍşØİÑÅºÕ;Wilaya;Wilayah;;Vilayato;;;;;;;;;x
+barony_arabic;Î¬À­Ò®;Wilaya;Wilayah;;Vilayato;;;;;;;;;x
 county_arabic;Ğ»ºÕ¹ú;Cheikat;Scheichtum;;Dominio del Jeque;;;;;;;;;x
 duchy_arabic;°£Ã×¶û¹ú;Émirat;Emirat;;Emirato;;;;;;;;;x
 kingdom_arabic;ËÕµ¤¹ú;Sultanat;Sultanat;;Sultanato;;;;;;;;;x
-barony_turkish;ÍÍ;Timar;Timar;;Timar;;;;;;;;;x
+barony_turkish;ÌáÂí¶û;Timar;Timar;;Timar;;;;;;;;;x
 county_turkish;±´ÒÁ¹ú;Beylicat;Beylik;;Beylik;;;;;;;;;x
-duchy_turkish;´ó±´ÒÁ¹ú;Beylerbeylicat;Beylerbeylik;;Beylerbeylik;;;;;;;;;x
+duchy_turkish;×Ü±´ÒÁ¹ú;Beylerbeylicat;Beylerbeylik;;Beylerbeylik;;;;;;;;;x
 kingdom_turkish;ËÕµ¤¹ú;Sultanat;Sultanat;;Sultanato;;;;;;;;;x
-barony_mongol;Ì¨¼ª;Taïshi;Taishi;;Taishi;;;;;;;;;x
+barony_mongol;Ì«Ê¦;Taïshi;Taishi;;Taishi;;;;;;;;;x
 county_mongol;Çõ°î;Chefferie;Häuptlingstum;;Cacicazgo;;;;;;;;;x
 duchy_mongol;´óÇõ°î;Grande chefferie;Oberhäuptlingstum;;Alto Cacicazgo;;;;;;;;;x
-baron_west_african;ÍßÀï;Wali;Wâli;;Val?;;;;;;;;x
-barony_of_west_african;Ö±Ï½Çø;Wilaya de;Wilayah von;;Vilayato de;;;;;;;;;x
-barony_west_african;Ö±Ï½Çø;Wilaya;Wilayah;;Vilayato;;;;;;;;;x
-count_west_african;·¨Òğ;Farin;Farin;;Farín;;;;;;;;;x
-count_female_west_african;·¨ÒğÄÈ;Farina;Farina;;Farina;;;;;;;;;x
+baron_west_african;ÍßÀû;Wali;Wâli;;Val?;;;;;;;;x
+barony_of_west_african;Î¬À­Ò®;Wilaya de;Wilayah von;;Vilayato de;;;;;;;;;x
+barony_west_african;Î¬À­Ò®;Wilaya;Wilayah;;Vilayato;;;;;;;;;x
+count_west_african;·¨ÁÖ;Farin;Farin;;Farín;;;;;;;;;x
+count_female_west_african;·¨ÁÖÄÈ;Farina;Farina;;Farina;;;;;;;;;x
 county_of_west_african;Ğ»ºÕ¹ú;Cheikat de;Scheichtum von;;Dominio del Jeque de;;;;;;;;;x
 county_west_african;Ğ»ºÕ¹ú;Cheikat;Scheichtum;;Dominio del Jeque;;;;;;;;;x
-duke_west_african;´ó·¨ÁÖ;Farbas;Farbas;;Farbas;;;;;;;;;x
-duke_female_west_african;·¨ÁÖ;Farba;Farba;;Farba;;;;;;;;;x
+duke_west_african;·¨¶û°ÍË¹;Farbas;Farbas;;Farbas;;;;;;;;;x
+duke_female_west_african;·¨¶û°Í;Farba;Farba;;Farba;;;;;;;;;x
 duchy_of_west_african;°£Ã×¶û¹ú;Émirat de;Emirat von;;Emirato de;;;;;;;;;x
 duchy_west_african;°£Ã×¶û¹ú;Émirat;Emirat;;Emirato;;;;;;;;;x
 king_west_african;ÂüÉ³;Mansa;Mansa;;Mansa;;;;;;;;;x
-king_female_west_african;ËÕµ¤;Sultane;Sultanin;;Sultana;;;;;;;;;x
+king_female_west_african;ËÕµ¤ÄÈ;Sultane;Sultanin;;Sultana;;;;;;;;;x
 kingdom_of_west_african;ËÕµ¤¹ú;Sultanat de;Sultanat von;;Sultanato de;;;;;;;;;x
 kingdom_west_african;ËÕµ¤¹ú;Sultanat;Sultanat;;Sultanato;;;;;;;;;x
 ;#alert_high_decadence_instant;§YHighDecadence?;;§YHohe Dekadenz?;;§YHigh Decadence?;;;;;;;;;x;
@@ -1178,6 +1178,6 @@ ENDGAME_TEXT_THEOCRACY;Äã³ÉÁËÒ»¸öÉñÈ¨¹úµÄÍ³ÖÎÕß£¬²»ÔÙÔÊĞí¼ÌĞøÓÎÏ·¡£;Vous êtes de
 ENDGAME_TEXT_REPUBLIC;Äã³ÉÁË¹²ºÍ¹úµÄÍ³ÖÎÕß£¬²»ÔÙÔÊĞí¼ÌĞøÓÎÏ·¡£;Vous êtes devenu le dirigeant d'une république et n'êtes donc plus autoris??jouer. ;Ihr seid nun der Herrscher einer Republik und könnt deshalb nicht weiter spielen. ;;Te has convertido en gobernante de una república, por lo que no puedes seguir jugando. ;;;;;;;;;x
 ENDGAME_TEXT_MUSLIM;Äã³ÉÁËÄÂË¹ÁÖ£¬²»ÔÙÔÊĞí¼ÌĞøÓÎÏ·¡£;Vous êtes devenu musulman et n'êtes donc plus autoris??jouer. ;Ihr seid ein Moslem geworden und könnt deshalb nicht weiter spielen. ;;Te has convertido en musulmán, por lo que no puedes seguir jugando. ;;;;;;;;;x
 EVTOPTB69060;½Ò·¢Í¢³¼¶Ô»ù¶½µÄ²»³Ï;Révéler qu'[This.GetSheHe] ne fait pas montre d'une foi chrétienne suffisante.;Stellt den Höfling als nicht christlich genug blo?;Exponer al cortesano como mal cristiano;;;;;;;;;x
-EVTDESC100110;ÎÒÏëÒªÄÇ¸öÖ°Î»£¬ÎÒÏëµÃÒªËÀ£¡[Root.Liege.GetTitledFirstName]²»»á½ö½öÒòÎªÎÒÏë³ÉÎª¸óÁÅ¾Í¸øÎÒÕâ¸öÖ°Î»£¬ÎÒĞèÒªÅ¬Á¦¹¤×÷À´»ñµÃ¡£;Je veux ce travail, et je ferai tout pour l'avoir? [Root.Liege.GetTitledFirstName] ne m'offrira jamais ce poste simplement si je le lui demande, je vais devoir travailler dur pour le convaincre de mes aptitudes.;Ich möchte diese Stelle, ich möchte sie so sehr! Es ist unmöglich, dass [Root.Liege.GetTitledFirstName] sie mir zuteilt, nur weil ich ein Ratsmitglied werden möchte - ich muss hart arbeiten, um sie zu bekommen.;;¡Quiero el trabajo, con todas mis fuerzas! No hay forma de que [Root.Liege.GetTitledFirstName] me lo d?solo porque quiero ser consejero, tendr?que trabajar duro para conseguirlo.;;;;;;;;;x
+EVTDESC100110;ÎÒÏëÒªÄÇ¸öÖ°Î»£¬ÎÒÏëµÃÒªËÀ£¡[Root.Liege.GetTitledFirstName]²»»á½ö½öÒòÎªÎÒÏë³ÉÎªÊàÃÜÔº³ÉÔ±¾Í¸øÎÒÕâ¸öÖ°Î»£¬ÎÒĞèÒªÅ¬Á¦¹¤×÷À´»ñµÃ¡£;Je veux ce travail, et je ferai tout pour l'avoir? [Root.Liege.GetTitledFirstName] ne m'offrira jamais ce poste simplement si je le lui demande, je vais devoir travailler dur pour le convaincre de mes aptitudes.;Ich möchte diese Stelle, ich möchte sie so sehr! Es ist unmöglich, dass [Root.Liege.GetTitledFirstName] sie mir zuteilt, nur weil ich ein Ratsmitglied werden möchte - ich muss hart arbeiten, um sie zu bekommen.;;¡Quiero el trabajo, con todas mis fuerzas! No hay forma de que [Root.Liege.GetTitledFirstName] me lo d?solo porque quiero ser consejero, tendr?que trabajar duro para conseguirlo.;;;;;;;;;x
 EVTTOOLTIP100111;[Root.GetTitledFirstName]¼Æ»®Í¨¹ıÓë[This.GetTitledFirstName]³ÉÎªÅóÓÑÀ´×îÖÕ»ñµÃ[This.GetJobTitle]Õâ¸öÖ°Î»¡­¡­;[Root.GetTitledFirstName] projette de sympathiser avec [This.GetTitledFirstName] pour obtenir le poste de [This.GetJobTitle]...;[Root.GetTitledFirstName] plant, sich mit [This.GetTitledFirstName] anzufreunden, um eventuell die [This.GetJobTitle] Stelle zu bekommen...;;[Root.GetTitledFirstName] planea entablar amistad con [This.GetTitledFirstName] para poder conseguir el puesto de [This.GetJobTitle]...;;;;;;;;;x
 EVTDESC100111;[From.GetTitledFirstName]´¹ÏÑÎÒµÄÖ°Î»[Root.GetJobTitle]ÒÑ¾­²»ÊÇÒ»¸öÃØÃÜ£¬µ«ÊÇµ±[From.GetSheHe]µ½À´[From.GetSheHe]²¢ÏòÎÒÑ°Çó°ïÖúµÄÊ±ºòÕæÈÃÎÒ³Ô¾ª¡£ÎÒÓ¦¸Ã°ÑÎÒÄÚÄ»¸æËß¸ø[From.GetTitledFirstName]È»ºóÈÃ[From.GetHerHim]¸üÇáÒ×µØ´ÓÎÒÊÖÖĞÍµ×ßÎÒµÄ[Root.GetJobTitle]Ö°Î»ÓÚ[Root.Liege.GetTitledFirstName]Âğ£¿;Tout le monde sait que [From.GetTitledFirstName] convoite ma position de [Root.GetJobTitle], mais [From.GetSheHe] m'a franchement étonn?lorsqu'[From.GetSheHe] m'a demand?de l'aider. Est-ce vraiment une bonne idée d'enseigner les secrets de mon métier ?[From.GetTitledFirstName] pour que soit plus facile pour [From.GetHerselfHimself] de me remplacer de ma charge en tant que [Root.GetJobTitle] ?la Cour de [Root.Liege.GetTitledFirstName]?;Es ist kein großes Geheimnis, dass [From.GetTitledFirstName] meine Stelle als [Root.GetJobTitle] möchte, aber [From.GetSheHe] überraschte mich, als [From.GetSheHe] mich um Hilfe bat. Sollte ich [From.GetTitledFirstName] wirklich in die Geheimnisse meines ;;No es un secreto que [From.GetTitledFirstName] desea mi puesto de [Root.GetJobTitle], pero que sorprendi?que pidiera abiertamente ayuda. ¿Debería realmente enseñar a [From.GetTitledFirstName] los secretos de mi oficio para que le sea más fácil robar mi puesto de [Root.GetJobTitle] en la corte de [Root.Liege.GetTitledFirstName]?;;;;;;;;;x
