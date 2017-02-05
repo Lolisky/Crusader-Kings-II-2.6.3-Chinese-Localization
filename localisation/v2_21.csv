@@ -18,10 +18,10 @@ AIREASON_TRIBAL_VASSAL_PRESTIGE_HIT;将会消耗我过多的威望;Co鹴erait trop de prest
 opinion_granted_other_vice_royalty;封建主对任命总督一事的看法;Opinion f閛dale pour l'attribution de vice-royaut閟;Feudalmeinung f黵 vergebene Vizek鰊igreiche ;;Opini髇 feudal sobre nombrar virreyes;;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_8;任命总督会降低你所有封建公爵或以上封臣对你的看法：$OPINION$?。;Attribuer une vice-royaut?diminuera de $OPINION$? l'opinion envers vous de vos vassaux de rang ducal et royal.;Das Einsetzen eines Vizek鰊igs wird euer Ansehen bei euren Herzogs- und K鰊igsvasallen um $OPINION$? senken. ;;Nombrar a un virrey reducir?la opini髇 de tus duques feudales y de los s鷅ditos del rey en $OPINION$?.;;;;;;;;;x
 NOT_ANY_PREVIOUS_HOLDER_STARTS;并无前任;Aucun titulaire ant閞ieur;Kein fr黨erer Inhaber;;Sin due駉 anterior;;;;;;;;;x
-tribal_build_zeal_ARMY_OF;$RELIGION$ 狂热者 $CHARACTER$;Fanatiques de foi $RELIGION$ de $CHARACTER$;$RELIGION$ Zeloten von $CHARACTER$;;$RELIGION$ fan醫icos $CHARACTER$ ;;;;;;;;;x
-tribal_organize_raid_ARMY_OF;入侵者 $CHARACTER$;Pillards de $CHARACTER$;Pl黱derer von $CHARACTER$;;$CHARACTER$ incursores;;;;;;;;;x
-tribal_build_legend_ARMY_OF;战士 $CHARACTER$;Guerriers de $CHARACTER$;Krieger von $CHARACTER$;;$CHARACTER$ guerreros;;;;;;;;;x
-tribal_build_zeal_ARMY;$RELIGION$ 狂热者;Fanatiques de foi $RELIGION$;$RELIGION$ Zeloten;;$RELIGION$ fan醫icos;;;;;;;;;x
+tribal_build_zeal_ARMY_OF;$RELIGION$狂热者$CHARACTER$;Fanatiques de foi $RELIGION$ de $CHARACTER$;$RELIGION$ Zeloten von $CHARACTER$;;$RELIGION$ fan醫icos $CHARACTER$ ;;;;;;;;;x
+tribal_organize_raid_ARMY_OF;入侵者$CHARACTER$;Pillards de $CHARACTER$;Pl黱derer von $CHARACTER$;;$CHARACTER$ incursores;;;;;;;;;x
+tribal_build_legend_ARMY_OF;战士$CHARACTER$;Guerriers de $CHARACTER$;Krieger von $CHARACTER$;;$CHARACTER$ guerreros;;;;;;;;;x
+tribal_build_zeal_ARMY;$RELIGION$狂热者;Fanatiques de foi $RELIGION$;$RELIGION$ Zeloten;;$RELIGION$ fan醫icos;;;;;;;;;x
 tribal_organize_raid_ARMY;入侵者;Troupe pillarde;Pl黱derer;;Incursores;;;;;;;;;x
 tribal_build_legend_ARMY;战士;Troupe guerri鑢e;Krieger;;Guerreros;;;;;;;;;x
 expel_saint_anthony;驱逐圣安东尼骑士团;Expulser l'Ordre de saint Antoine;Vertreibt den Orden des Heiligen Antonius;;Expulsar a la Orden de San Antonio;;;;;;;;;x
@@ -32,7 +32,7 @@ LAW_UNLOCKS;解锁法律：;Lois d閎loqu閑s? ;Gesetze freigeschaltet:;;Leyes desbloqu
 DECISION_UNLOCKS;解锁决议：;D閏isions d閎loqu閑s? ;Entscheidungen freigeschaltet: ;;Decisiones desbloqueadas: ;;;;;;;;;x
 ALLOW_FREE_DUCHY_REVOKATION_ON;可以无偿剥夺公爵头衔。\n;Aucune p閚alit?pour la r関ocation des titres de duch?\n;Freie Aberkennung von Herzogstiteln.\n;;Permite revocaci髇 de t韙ulos de ducados.;;;;;;;;;x
 ALLOW_FREE_DUCHY_REVOKATION_OFF;不可无偿剥夺公爵头衔。\n;P閚alit閟 applicables pour la r関ocation des titres de duch?\n;Keine weitere freie Aberkennung von Herzogstiteln.\n;;No permite la revocaci髇 de t韙ulos de ducados.;;;;;;;;;x
-LIEGE_LEVY_DESC_VICE_ROY;\n   总督：$VALUE$;\n   Vice-royaut闋: $VALUE$;\n   Vizek鰊igreich: $VALUE$;;\n  Virreinato: $VALUE$;;;;;;;;;x
+LIEGE_LEVY_DESC_VICE_ROY;\n总督：$VALUE$;\n   Vice-royaut闋: $VALUE$;\n   Vizek鰊igreich: $VALUE$;;\n  Virreinato: $VALUE$;;;;;;;;;x
 TITLE_NOT_VICE_ROYALTY;头衔不是总督;Ce titre n'est pas une vice-royaut?;Titel ist kein Vizek鰊igreich;;El t韙ulo no es un virreinato;;;;;;;;;x
 tribal_king_female;酋长女王;Reine;K鰊igin;;Reina;;;;;;;;;x
 tribal_emperor_female;女皇;Imp閞atrice;Kaiserin;;Emperatriz;;;;;;;;;x

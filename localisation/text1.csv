@@ -1,9 +1,9 @@
 ;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
-AIREASON_TOO_OLD;§Y[GetTitledFirstName]§£¡ ÒÑ¾­¹ıÁËÉúÓıÄêÁä;§Y[GetTitledFirstName]§! n'est plus en âge d'avoir des enfants.;§Y[GetTitledFirstName]§! hat das gebärfähige Alter überschritten;;§Y[GetTitledFirstName]§! ha superado la edad fértil;;;;;;;;;x
-AIREASON_OPINION;¶Ô §Y[GetTitledFirstName]§£¡ µÄºÃ¸Ğ¶È;Opinion envers §Y[GetTitledFirstName]§!;Meinung von §Y[GetTitledFirstName]§!;;Opinión de §Y[GetTitledFirstName]§!;;;;;;;;;x
-AIREASON_SKILLS;§Y[GetTitledFirstName]§£¡ µÄ¼¼ÄÜ;Compétences de §Y[GetTitledFirstName]§!;Fähigkeiten von §Y[GetTitledFirstName]§!;;Habilidades de §Y[GetTitledFirstName]§!;;;;;;;;;x
+AIREASON_TOO_OLD;§Y[GetTitledFirstName]§£¡ÒÑ¾­¹ıÁËÉúÓıÄêÁä;§Y[GetTitledFirstName]§! n'est plus en âge d'avoir des enfants.;§Y[GetTitledFirstName]§! hat das gebärfähige Alter überschritten;;§Y[GetTitledFirstName]§! ha superado la edad fértil;;;;;;;;;x
+AIREASON_OPINION;¶Ô§Y[GetTitledFirstName]§£¡µÄºÃ¸Ğ¶È;Opinion envers §Y[GetTitledFirstName]§!;Meinung von §Y[GetTitledFirstName]§!;;Opinión de §Y[GetTitledFirstName]§!;;;;;;;;;x
+AIREASON_SKILLS;§Y[GetTitledFirstName]§£¡µÄ¼¼ÄÜ;Compétences de §Y[GetTitledFirstName]§!;Fähigkeiten von §Y[GetTitledFirstName]§!;;Habilidades de §Y[GetTitledFirstName]§!;;;;;;;;;x
 AIREASON_REALPOLITIK;ÕşÖÎ¹Ø×¢;Intérêts politiques;Politische Vorbehalte;;Intereses políticos;;;;;;;;;x
-AIREASON_REALPOLITIK_VS;¶Ô §Y[GetTitledFirstName]§£¡ µÄÕşÖÎ¹Ø×¢;Intérêts politiques contre §Y[GetTitledFirstName]§!;Politische Vorbehalte gegen §Y[GetTitledFirstName]§!;;Intereses políticos versus §Y[GetTitledFirstName]§!;;;;;;;;;x
+AIREASON_REALPOLITIK_VS;¶Ô§Y[GetTitledFirstName]§£¡µÄÕşÖÎ¹Ø×¢;Intérêts politiques contre §Y[GetTitledFirstName]§!;Politische Vorbehalte gegen §Y[GetTitledFirstName]§!;;Intereses políticos versus §Y[GetTitledFirstName]§!;;;;;;;;;x
 AIREASON_WRONG_RELIGION;²»Í¬×Ú½Ì;Fausse religion;Falsche Religion;;Religión falsa;;;;;;;;;x
 AIREASON_WRONG_CULTURE;Íâ¹úÎÄ»¯;Culture étrangère;Ausländische Kultur;;Cultura extranjera;;;;;;;;;x
 AIREASON_TOO_WEAK;±ÈÎÒÈõĞ¡;Plus faible que moi;Schwächer als ich;;Más débil que yo;;;;;;;;;x
@@ -12,28 +12,28 @@ AIREASON_STRENGTH;È¨Á¦;Pouvoir;Macht;;Poder;;;;;;;;;x
 AIREASON_IS_RULER;ÊÇÍ³ÖÎÕß;Est un dirigeant;Ist ein Herrscher;;Es un gobernante;;;;;;;;;x
 AIREASON_NOT_DE_JURE_LIEGE;²»ÊÇÎÒµÄ·¨Àí·â³¼;N'est pas mon seigneur de jure;Nicht mein de jure-Lehnsherr;;No es mi señor de iure;;;;;;;;;x
 AIREASON_CANNOT_AFFORD;ÎŞ·¨¸ºµ£;Moyens insuffisants;Zu teuer;;No puedo permitírmelo;;;;;;;;;x
-AIREASON_NO_INTEREST_IN_CHAR;¶Ô §Y[GetTitledFirstName]§£¡ ²»¸ĞĞËÈ¤;Aucun intérêt pour §Y[GetTitledFirstName]§!;Kein Interesse an §Y[GetTitledFirstName]§!;;Sin interés en §Y[GetTitledFirstName]§!;;;;;;;;;x
-AIREASON_SAME_DYNASTY_AS_TARGET;Óë §Y[GetTitledFirstName]§£¡ Í¬Ò»Íõ³¯;Même dynastie que : §Y[GetTitledFirstName]§!;Gleiche Dynastie wie §Y[GetTitledFirstName]§!;;La misma dinastía que §Y[GetTitledFirstName]§!;;;;;;;;;x
-AIREASON_TOO_CLOSE_FOR_SUCC_MARR;§Y[GetTitledFirstName]§£¡ ¼Ì³ĞË³Î»¹ı¸ß;§Y[GetTitledFirstName]§! occupe un rang trop élevé dans la ligne de succession.;§Y[GetTitledFirstName]§! steht in der Erbfolge zu hoch;;§Y[GetTitledFirstName]§! está demasiado arriba en la línea de sucesión;;;;;;;;;x
-AIREASON_SUCC_LOWLY_RANK;§Y[GetTitledFirstName]§£¡ µØÎ»¹ıµÍ²»ÄÜ½øĞĞÆÕÍ¨»éÒö;§Y[GetTitledFirstName]§! occupe un rang trop bas pour un mariage classique.;§Y[GetTitledFirstName]§! steht für eine reguläre Heirat im Rang zu niedrig;;§Y[GetTitledFirstName]§! es de una clase demasiado baja para un matrimonio normal;;;;;;;;;x
-AIREASON_NOT_A_SUCCESSION_MARRIAGE;§Y[GetTitledFirstName]§£¡ ÇãÏòÓÚÈë×¸»éÒö;§Y[GetTitledFirstName]§! préférerait un mariage matrilinéaire.;§Y[GetTitledFirstName]§! würde eine matrilineale Heirat bevorzugen;;§Y[GetTitledFirstName]§! prefiere un matrimonio matrilineal;;;;;;;;;x
-AIREASON_POWER_TO_PRESS_CLAIMS;§Y[GetTitledFirstName]§£¡ ÓĞÈ¨Á¦Ë÷È¡ÎÒµÄĞû³Æ;§Y[GetTitledFirstName]§! a le pouvoir d'appuyer mes revendications.;§Y[GetTitledFirstName]§! hat die Macht, meine Ansprüche voranzutreiben;;§Y[GetTitledFirstName]§! tiene el poder de instar mis reivindicaciones;;;;;;;;;x
-AIREASON_UNABLE_PRESS_CLAIMS;§Y[GetTitledFirstName]§£¡ ÎŞÁ¦Ë÷È¡ÎÒµÄĞû³Æ;§Y[GetTitledFirstName]§! n'a pas le pouvoir d'appuyer mes revendications.;§Y[GetTitledFirstName]§! kann meine Ansprüche nicht vorantreiben;;§Y[GetTitledFirstName]§! no puede instar mis reivindicaciones;;;;;;;;;x
+AIREASON_NO_INTEREST_IN_CHAR;¶Ô§Y[GetTitledFirstName]§£¡²»¸ĞĞËÈ¤;Aucun intérêt pour §Y[GetTitledFirstName]§!;Kein Interesse an §Y[GetTitledFirstName]§!;;Sin interés en §Y[GetTitledFirstName]§!;;;;;;;;;x
+AIREASON_SAME_DYNASTY_AS_TARGET;Óë§Y[GetTitledFirstName]§£¡Í¬Ò»Íõ³¯;Même dynastie que : §Y[GetTitledFirstName]§!;Gleiche Dynastie wie §Y[GetTitledFirstName]§!;;La misma dinastía que §Y[GetTitledFirstName]§!;;;;;;;;;x
+AIREASON_TOO_CLOSE_FOR_SUCC_MARR;§Y[GetTitledFirstName]§£¡¼Ì³ĞË³Î»¹ı¸ß;§Y[GetTitledFirstName]§! occupe un rang trop élevé dans la ligne de succession.;§Y[GetTitledFirstName]§! steht in der Erbfolge zu hoch;;§Y[GetTitledFirstName]§! está demasiado arriba en la línea de sucesión;;;;;;;;;x
+AIREASON_SUCC_LOWLY_RANK;§Y[GetTitledFirstName]§£¡µØÎ»¹ıµÍ²»ÄÜ½øĞĞÆÕÍ¨»éÒö;§Y[GetTitledFirstName]§! occupe un rang trop bas pour un mariage classique.;§Y[GetTitledFirstName]§! steht für eine reguläre Heirat im Rang zu niedrig;;§Y[GetTitledFirstName]§! es de una clase demasiado baja para un matrimonio normal;;;;;;;;;x
+AIREASON_NOT_A_SUCCESSION_MARRIAGE;§Y[GetTitledFirstName]§£¡ÇãÏòÓÚÈë×¸»éÒö;§Y[GetTitledFirstName]§! préférerait un mariage matrilinéaire.;§Y[GetTitledFirstName]§! würde eine matrilineale Heirat bevorzugen;;§Y[GetTitledFirstName]§! prefiere un matrimonio matrilineal;;;;;;;;;x
+AIREASON_POWER_TO_PRESS_CLAIMS;§Y[GetTitledFirstName]§£¡ÓĞÈ¨Á¦Ë÷È¡ÎÒµÄĞû³Æ;§Y[GetTitledFirstName]§! a le pouvoir d'appuyer mes revendications.;§Y[GetTitledFirstName]§! hat die Macht, meine Ansprüche voranzutreiben;;§Y[GetTitledFirstName]§! tiene el poder de instar mis reivindicaciones;;;;;;;;;x
+AIREASON_UNABLE_PRESS_CLAIMS;§Y[GetTitledFirstName]§£¡ÎŞÁ¦Ë÷È¡ÎÒµÄĞû³Æ;§Y[GetTitledFirstName]§! n'a pas le pouvoir d'appuyer mes revendications.;§Y[GetTitledFirstName]§! kann meine Ansprüche nicht vorantreiben;;§Y[GetTitledFirstName]§! no puede instar mis reivindicaciones;;;;;;;;;x
 AIREASON_REBELLIOUS;ÅÑÂÒ¶È;Rebelle;Rebellisch;;Rebelde;;;;;;;;;x
-AIREASON_AGE_FACTOR;§Y[GetTitledFirstName]§£¡ µÄÄêÁä;Âge de §Y[GetTitledFirstName]§!;Alter von §Y[GetTitledFirstName]§!;;Edad de §Y[GetTitledFirstName]§!;;;;;;;;;x
-AIREASON_IS_MY_LIEGE;§Y[GetTitledFirstName]§£¡ ÊÇÎÒµÄ¾ıÖ÷;§Y[GetTitledFirstName]§! est mon seigneur lige;§Y[GetTitledFirstName]§! ist mein Lehnsherr;;§Y[GetTitledFirstName]§! es mi señor;;;;;;;;;x
+AIREASON_AGE_FACTOR;§Y[GetTitledFirstName]§£¡µÄÄêÁä;Âge de §Y[GetTitledFirstName]§!;Alter von §Y[GetTitledFirstName]§!;;Edad de §Y[GetTitledFirstName]§!;;;;;;;;;x
+AIREASON_IS_MY_LIEGE;§Y[GetTitledFirstName]§£¡ÊÇÎÒµÄ¾ıÖ÷;§Y[GetTitledFirstName]§! est mon seigneur lige;§Y[GetTitledFirstName]§! ist mein Lehnsherr;;§Y[GetTitledFirstName]§! es mi señor;;;;;;;;;x
 AIREASON_PRESTIGE_EFFECTS;ÍşÍû;Effets du prestige;Prestige-Effekte;;Efectos del prestigio;;;;;;;;;x
 AIREASON_WANTS_FREEDOM;Òª×ÔÓÉ;Veut la liberté;Möchte Freiheit;;Desea libertad;;;;;;;;;x
-AIREASON_CLOSE_RELATIVE;§Y[GetTitledFirstName]§£¡ ÊÇ½üÇ×;§Y[GetTitledFirstName]§! est un proche parent.;§Y[GetTitledFirstName]§! ist ein naher Verwandter;;§Y[GetTitledFirstName]§! es un pariente cercano;;;;;;;;;x
+AIREASON_CLOSE_RELATIVE;§Y[GetTitledFirstName]§£¡ÊÇ½üÇ×;§Y[GetTitledFirstName]§! est un proche parent.;§Y[GetTitledFirstName]§! ist ein naher Verwandter;;§Y[GetTitledFirstName]§! es un pariente cercano;;;;;;;;;x
 AIREASON_DARE_NOT_REFUSE;²»¸Ò¾Ü¾ø;N'ose pas refuser;Wagt keinen Widerstand;;No osa negarse;;;;;;;;;x
 AIREASON_CONFLICTING_INTERESTS;ÀûÒæ³åÍ»;Conflits d'intérêt;Gegensätzliche Interessen;;Intereses contrapuestos;;;;;;;;;x
 AIREASON_SAME_REALM;Í¬Ò»Íõ¹ú;Même pays;Gleiches Reich;;El mismo reino;;;;;;;;;x
 AIREASON_GREED;Ì°À·;Cupidité;Gier;;Codicia;;;;;;;;;x
 AIREASON_LAND_IS_GOOD;ÍÁµØ¼´ÊÇºÃ;La terre, c'est bien;Land ist gut;;La tierra es buena;;;;;;;;;x
-AIREASON_FEAR;º¦ÅÂ §Y[GetTitledFirstName]§£¡;Peur de §Y[GetTitledFirstName]§!;Angst vor §Y[GetTitledFirstName]§!;;Miedo de §Y[GetTitledFirstName]§!;;;;;;;;;x
+AIREASON_FEAR;º¦ÅÂ§Y[GetTitledFirstName]§£¡;Peur de §Y[GetTitledFirstName]§!;Angst vor §Y[GetTitledFirstName]§!;;Miedo de §Y[GetTitledFirstName]§!;;;;;;;;;x
 AIREASON_GOLD_IS_GOOD;½ğÇ®¼´ÊÇºÃ;L'or, c'est bien;Gold ist gut;;El oro es bueno;;;;;;;;;x
 AIREASON_CONSANGUINITY;Í¬Ò»¼Ò×å;Consanguinité;Blutsverwandschaft;;Consanguinidad;;;;;;;;;x
-AIREASON_TOO_YOUNG;§Y[GetTitledFirstName]§£¡ Ì«ÄêÇá;§Y[GetTitledFirstName]§! est trop jeune.;§Y[GetTitledFirstName]§! ist zu jung;;§Y[GetTitledFirstName]§! es demasiado joven;;;;;;;;;x
+AIREASON_TOO_YOUNG;§Y[GetTitledFirstName]§£¡Ì«ÄêÇá;§Y[GetTitledFirstName]§! est trop jeune.;§Y[GetTitledFirstName]§! ist zu jung;;§Y[GetTitledFirstName]§! es demasiado joven;;;;;;;;;x
 AIREASON_GOT_MORE_ADVANCED_PLOT;ÒÑ¾­²ß»®ÁËÒ»¸öÀàËÆµÄÒõÄ±;Déjà à la tête d'un complot similaire;Führt bereits eine vergleichbare Verschwörung;;Ya lidera un complot similar;;;;;;;;;x
 AIREASON_GOT_SAME_PLOT;ÒÑ¾­²ß»®Í¬Ò»ÒõÄ±;Même complot;Hat dieselbe Verschwörung;;Tiene el mismo complot;;;;;;;;;x
 AIREASON_BACKING_SIMILAR_PLOT;ÒÑ¾­²ÎÓëÀàËÆÒõÄ±;Soutient déjà un complot similaire;Unterstützt bereits eine vergleichbare Verschwörung;;Ya apoya un complot similar;;;;;;;;;x
@@ -47,7 +47,7 @@ AIREASON_BASE_RELUCTANCE;»ù´¡²»ÇéÔ¸;Réticence de base;Grundzurückhaltung;;Retice
 AIREASON_SMALL_TIER_DIFF;µØÎ»ÉÏµÄÎ¢Ğ¡²îÒì;Légère différence de rang;Geringfügiger Rangunterschied;;Ligera diferencia de clase;;;;;;;;;x
 AIREASON_NOT_NEIGHBOR;¾àÀë¶àÔ¶;Pays lointain;Entferntes Reich;;Reino lejano;;;;;;;;;x
 AIREASON_INFERTILE;Î´±ØÄÜÉúÓı;Faible probabilité d'avoir des enfants;Wird wohl kinderlos bleiben;;Improbable tener hijos;;;;;;;;;x
-;#AIREASON_WANTS_GOOD_ALLIANCE;Desires a better Alliance;Souhaite une meilleure alliance;W¨¹nscht ein besseres B¨¹ndnis;;Desea una alianza mejor;;;;;;;;;x;
+;#AIREASON_WANTS_GOOD_ALLIANCE;DesiresabetterAlliance;Souhaite une meilleure alliance;W¨¹nscht ein besseres B¨¹ndnis;;Desea una alianza mejor;;;;;;;;;x;
 alert_casus_belli_will_expire_instant;§YÁÙÊ±ĞûÕ½½Ó¿ÚÕë¶Ô:§!;§YCasus belli temporaire contre : §!;§YTemporärer Kriegsgrund gegen:§!;§YCasus belli§!;§YCasus belli temporal contra§!;§YCasus belli§!;§YA Casus belli lejár:§!;§YDoèasná záminka k válce proti:§!;;;;;;x
 alert_casus_belli_will_expire_delayed;$LIST$.;$LIST$.;$LIST$.;$LIST$.;$LIST$.;$LIST$.;$LIST$ Casus Bellije hamarosan lejár.;$LIST$.;;;;;;x
 alert_build_province_improvement_instant;§YÄãÄÜ½¨Éè¿¤ÀïµÄÌáÉıÉèÊ©£¡§!;§YVous pouvez procéder à des améliorations comtales !§!;§YIhr könnt Provinzverbesserungen bauen!§!;§YMo¿esz budowaæ ulepszenia w prowincji!§!;§YPodéis construir mejoras de la provincia§!;§YPuoi costruire miglioramenti per la provincia!§!;§YFejlesztheted a tartományaidat!§!;§YMùete budovat provinciální vylepšení!§!;;;;;;x
@@ -63,18 +63,18 @@ alert_lose_title_on_succ_instant;§Y¼Ì³ĞÊ±½«Ê§È¥Í·ÏÎ§£¡;§YPerte de titre lors de 
 alert_lose_title_on_succ_delayed;ÒÔÏÂÍ·ÏÎ½«ÔÚ¼Ì³ĞÊ±Ê§È¥£º\n$LIST$;Les titres suivants seront perdus lors de la succession : \n$LIST$;Folgende Titel gehen bei Nachfolge verloren:\n$LIST$;;Se perderán los siguientes títulos en la sucesión:\n$LIST$;;;;;;;;;x
 alert_should_nominate_heir_instant;§YÌáÃû¼Ì³ĞÈË§£¡;§YNomination d'un successeur§!;§YNachfolgernominierung§!;;§YDesignación de sucesores§!;;;;;;;;;x
 alert_should_nominate_heir_delayed;ÄãÓ¦¸ÃÎªÕâĞ©Í·ÏÎÌáÃû¼Ì³ĞÈË£º\n$LIST$;Vous devriez nommer des successeurs pour les titres suivants : \n$LIST$;Ihr solltet für diese Titel Nachfolger nominieren:\n$LIST$;;Deberías nombrar sucesores para estos títulos:\n$LIST$;;;;;;;;;x
-alert_you_can_create_titles_instant;§Y$NUM$ ¸öÍ·ÏÎÄÜ±»´´½¨§£¡;§YTitres pouvant être créés ($NUM$)§!;§Y$NUM$ erstellbare(r) Titel§!;;§YPueden crearse $NUM$ título(s)§!;;;;;;;;;x
+alert_you_can_create_titles_instant;§Y$NUM$¸öÍ·ÏÎÄÜ±»´´½¨§£¡;§YTitres pouvant être créés ($NUM$)§!;§Y$NUM$ erstellbare(r) Titel§!;;§YPueden crearse $NUM$ título(s)§!;;;;;;;;;x
 alert_you_can_create_titles_delayed;ÒÔÏÂÍ·ÏÎÄÜ±»´´½¨£º\n$LIST$;Les titres suivants peuvent être créés : \n$LIST$;Folgende Titel können geschaffen werden:\n$LIST$;;Pueden crearse los siguientes títulos:\n$LIST$;;;;;;;;;x
-alert_you_can_usurp_titles_instant;§Y$NUM$ ¸öÍ·ÏÎ¿ÉÒÔ±»ß¥¶Ş§£¡;§YTitres pouvant être usurpés ($NUM$)§!;§Y$NUM$ übernehmbare(r) Titel§!;;§YPueden usurparse $NUM$ título(s)§!;;;;;;;;;x
+alert_you_can_usurp_titles_instant;§Y$NUM$¸öÍ·ÏÎ¿ÉÒÔ±»ß¥¶Ş§£¡;§YTitres pouvant être usurpés ($NUM$)§!;§Y$NUM$ übernehmbare(r) Titel§!;;§YPueden usurparse $NUM$ título(s)§!;;;;;;;;;x
 alert_you_can_usurp_titles_delayed;ÒÔÏÂÍ·ÏÎ¿ÉÒÔ±»ß¥¶Ş£º\n$LIST$;Les titres suivants peuvent être usurpés : \n$LIST$;Folgende Titel können übernommen werden:\n$LIST$;;Pueden usurparse los siguientes títulos:\n$LIST$;;;;;;;;;x
 alert_ruler_should_marry_instant;§YÍ³ÖÎÕßÎ´»é§£¡;§YDirigeant non marié§!;§YHerrscher unverheiratet§!;;§YGobernante soltero§!;;;;;;;;;x
 alert_ruler_should_marry_delayed;ÄãÓ¦¸Ã½á»é\n§Gµã»÷ÖÁ½ÇÉ«²Ëµ¥§£¡;Vous devriez vous marier.\n§GCliquez pour accéder à la vue Personnage.§!;Ihr solltet heiraten\n§GKlickt zum Aufruf der Charakteransicht§!;;Deberías casarte\n§GClic para ir a vista de personajes§!;;;;;;;;;x
 alert_heir_should_marry_instant;§Y¼Ì³ĞÈËÎ´»é§£¡;§YHéritier non marié§!;§YUnverheirateter Erbe§!;;§YHeredero soltero§!;;;;;;;;;x
-alert_heir_should_marry_delayed;$HEIR$ Ó¦¸Ã½á»é\n§Gµã»÷ÖÁ½ÇÉ«²Ëµ¥§£¡;$HEIR$ devrait se marier.\n§GCliquez pour accéder à la vue Personnage.§!;$HEIR$ sollte heiraten\n§GKlickt zum Aufruf der Charakteransicht§!;;$HEIR$ debería casarse\n§GClic para ir a vista de personajes§!;;;;;;;;;x
-alert_should_appoint_guardian_instant;§Y$NUM$ ÓĞº¢×ÓĞèÒª¼à»¤ÈË§£¡;§YEnfants sans tuteur ($NUM$)§!;§Y$NUM$ Kindern fehlt ein Vormund§!;;§YHay $NUM$ niños sin guardián§!;;;;;;;;;x
+alert_heir_should_marry_delayed;$HEIR$Ó¦¸Ã½á»é\n§Gµã»÷ÖÁ½ÇÉ«²Ëµ¥§£¡;$HEIR$ devrait se marier.\n§GCliquez pour accéder à la vue Personnage.§!;$HEIR$ sollte heiraten\n§GKlickt zum Aufruf der Charakteransicht§!;;$HEIR$ debería casarse\n§GClic para ir a vista de personajes§!;;;;;;;;;x
+alert_should_appoint_guardian_instant;§Y$NUM$ÓĞº¢×ÓĞèÒª¼à»¤ÈË§£¡;§YEnfants sans tuteur ($NUM$)§!;§Y$NUM$ Kindern fehlt ein Vormund§!;;§YHay $NUM$ niños sin guardián§!;;;;;;;;;x
 alert_should_appoint_guardian_delayed;ÒÔÏÂº¢Í¯ĞèÒª¼à»¤ÈË£º\n$LIST$;Les enfants suivants ont besoin d'un tuteur : \n$LIST$;Folgende Kinder benötigen einen Vormund:\n$LIST$;;Los siguientes niños necesitan un guardián:\n$LIST$;;;;;;;;;x
-;#alert_demesne_too_big_instant;§YDemesne too Big§£¡;;§YDom?ne zu gro?§!;;§YHeredad demasiado grande§!;;;;;;;;;x;
-;#alert_demesne_too_big_delayed;Your demesne has §Y$NUM$§£¡/§Y$MAX$§£¡ holdings£¬causing inefficient taxation and resentment among your vassals¡£;;Eure Dom?ne hat §Y$NUM$§!/§Y$MAX$§! Besitzt¨¹mer, was zu ineffizienter Besteuerung f¨¹hrt und f¨¹r Groll bei Euren Vasallen sorgt.;;Tu heredad tiene §Y$NUM$§!/§Y$MAX$§! posesiones que originan impuestos in¨²tiles y resentimiento entre tus vasallos.;;;;;;;;;x;
+;#alert_demesne_too_big_instant;§YDemesnetooBig§£¡;;§YDom?ne zu gro?§!;;§YHeredad demasiado grande§!;;;;;;;;;x;
+;#alert_demesne_too_big_delayed;Yourdemesnehas§Y$NUM$§£¡/§Y$MAX$§£¡holdings£¬causinginefficienttaxationandresentmentamongyourvassals¡£;;Eure Dom?ne hat §Y$NUM$§!/§Y$MAX$§! Besitzt¨¹mer, was zu ineffizienter Besteuerung f¨¹hrt und f¨¹r Groll bei Euren Vasallen sorgt.;;Tu heredad tiene §Y$NUM$§!/§Y$MAX$§! posesiones que originan impuestos in¨²tiles y resentimiento entre tus vasallos.;;;;;;;;;x;
 alert_adult_sons_notitle_instant;§YÓĞ¶ù×ÓÎ´»ñµÃÍÁµØ§£¡;§YFils sans terres§!;§YLandlose Söhne§!;;§YHijos sin tierra§!;;;;;;;;;x
 alert_adult_sons_notitle_delayed;ÒÔÏÂ³ÉÄê¶ù×ÓÃ»ÓĞÈÎºÎÍÁµØ£º\n$LIST$;Les fils adultes suivants n'ont pas de terres : \n$LIST$;Folgende erwachsene Söhne haben keinerlei Landbesitz:\n$LIST$;;Los siguientes hijos adultos no poseen ninguna tierra:\n$LIST$;;;;;;;;;x
 alert_betrothed_should_marry_instant;§Y¶©»éÕß¿ÉÒÔ½á»é§£¡;§YLes fiancés peuvent se marier§!;§YVerlobte können heiraten§!;;§YLos prometidos pueden casarse§!;;;;;;;;;x
@@ -93,31 +93,31 @@ alert_available_decision_instant;§YÓĞĞÂµÄÖØÒª¾öÒé¿ÉÒÔÖ´ĞĞ§£¡;§YDe nouvelles déci
 alert_available_decision_delayed;ÒÔÏÂÖØÒª¾öÒé¿ÉÒÔÖ´ĞĞ£º\n$LIST$;Les décisions importantes suivantes sont disponibles : \n$LIST$;Folgende wichtige Entscheidungen sind verfügbar:\n$LIST$;;Están disponibles las siguientes decisiones importantes:\n$LIST$;;;;;;;;;x
 alert_available_plot_instant;§YĞÂµÄÃÜÄ±¿ÉÒÔ²ß»®¡£§£¡;§YDe nouveaux complots sont disponibles.§!;§YNeue Verschwörungen verfügbar§!;;§YHay nuevos complots disponibles§!;;;;;;;;;x
 alert_available_plot_delayed;ÒÔÏÂÃÜÄ±¿ÉÒÔ²ß»®£º\n$LIST$;Les complots suivants sont désormais disponibles : \n$LIST$;Folgende Verschwörungen sind jetzt verfügbar:\n$LIST$;;Están disponibles los siguientes complots:\n$LIST$;;;;;;;;;x
-;#ca_wall_q_1;Shallow Castle Moat;;Seichter Burggraben;;Foso de castillo poco profundo;;;;;;;;;x;
-;#ca_wall_q_2;Arrow Slits;;Schie?scharte;;Hendiduras para lanzar flechas;;;;;;;;;x;
+;#ca_wall_q_1;ShallowCastleMoat;;Seichter Burggraben;;Foso de castillo poco profundo;;;;;;;;;x;
+;#ca_wall_q_2;ArrowSlits;;Schie?scharte;;Hendiduras para lanzar flechas;;;;;;;;;x;
 ;#ca_wall_q_3;Portcullis;;Fallgitter;;Rastrillo;;;;;;;;;x;
-;#ca_wall_q_4;Deep Castle Moat;;Tiefer Burggraben;;Foso de castillo profundo;;;;;;;;;x;
+;#ca_wall_q_4;DeepCastleMoat;;Tiefer Burggraben;;Foso de castillo profundo;;;;;;;;;x;
 ;#ca_wall_q_5;Barbicans;;Vorwerke;;Barbacanas;;;;;;;;;x;
-;#ca_wall_1;Wooden Palisade;;Holzpalisade;;Empalizada de madera;;;;;;;;;x;
-;#ca_wall_2;Low Stone Wall;;Niedrige Steinmauer;;Muro de piedra bajo;;;;;;;;;x;
-;#ca_wall_3;Medium Stone Wall;;Mittlere Steinmauer;;Muro de piedra mediano;;;;;;;;;x;
-;#ca_wall_4;Large Stone Wall;;Gro?e Steinmauer;;Muro de piedra grande;;;;;;;;;x;
-;#ca_wall_5;Huge Stone Wall;;Riesige Steinmauer;;Muro de piedra muy grande;;;;;;;;;x;
-;#ca_keep_1;Castle Donjon;;Burgfried;;Torre del homenaje;;;;;;;;;x;
+;#ca_wall_1;WoodenPalisade;;Holzpalisade;;Empalizada de madera;;;;;;;;;x;
+;#ca_wall_2;LowStoneWall;;Niedrige Steinmauer;;Muro de piedra bajo;;;;;;;;;x;
+;#ca_wall_3;MediumStoneWall;;Mittlere Steinmauer;;Muro de piedra mediano;;;;;;;;;x;
+;#ca_wall_4;LargeStoneWall;;Gro?e Steinmauer;;Muro de piedra grande;;;;;;;;;x;
+;#ca_wall_5;HugeStoneWall;;Riesige Steinmauer;;Muro de piedra muy grande;;;;;;;;;x;
+;#ca_keep_1;CastleDonjon;;Burgfried;;Torre del homenaje;;;;;;;;;x;
 ca_keep_1;ÕıÂ¥;Tour;Bergfried;;Torreón;;;;;;;;;x
 ca_keep_2;¶âÇ½;Tour;Bergfried;;Torreón;;;;;;;;;x
 ca_keep_3;ËşÂ¥;Tour;Bergfried;;Torreón;;;;;;;;;x
 ca_keep_4;Å®Ç½;Tour;Bergfried;;Torreón;;;;;;;;;x
 ca_keep_5;Õ¢Â¥;Tour;Bergfried;;Torreón;;;;;;;;;x
 ca_keep_6;ÎÍ³Ç;Tour;Bergfried;;Torreón;;;;;;;;;x
-;#ca_keep_3;Expanded Keep;;Erweiterter Bergfried;;Torre¨®n ampliado;;;;;;;;;x;
-;#ca_keep_4;Large Keep;;Gro?er Bergfried;;Torre¨®n grande;;;;;;;;;x;
+;#ca_keep_3;ExpandedKeep;;Erweiterter Bergfried;;Torre¨®n ampliado;;;;;;;;;x;
+;#ca_keep_4;LargeKeep;;Gro?er Bergfried;;Torre¨®n grande;;;;;;;;;x;
 ca_militia_barracks_1;Ğ¡ĞÍÃñ±øÑµÁ·³¡;Camp des miliciens;Miliz-Übungsplatz;;Campo de entrenamiento de la milicia;;;;;;;;;x
 ca_militia_barracks_2;ÖĞĞÍÃñ±øÑµÁ·³¡;Camp des miliciens;Miliz-Übungsplatz;;Campo de entrenamiento de la milicia;;;;;;;;;x
 ca_militia_barracks_3;´óĞÍÃñ±øÑµÁ·³¡;Camp des miliciens;Miliz-Übungsplatz;;Campo de entrenamiento de la milicia;;;;;;;;;x
 ca_militia_barracks_4;ÓÎ»÷¶ÓÓªµØ;Camp des miliciens;Miliz-Übungsplatz;;Campo de entrenamiento de la milicia;;;;;;;;;x
-;#ca_militia_barracks_2;Archery Range;;Bogenschie?platz;;Arquer¨ªa;;;;;;;;;x;
-;#ca_militia_barracks_3;Large Archery Range;;Gro?er Bogenschie?platz;;Arquer¨ªa grande;;;;;;;;;x;
+;#ca_militia_barracks_2;ArcheryRange;;Bogenschie?platz;;Arquer¨ªa;;;;;;;;;x;
+;#ca_militia_barracks_3;LargeArcheryRange;;Gro?er Bogenschie?platz;;Arquer¨ªa grande;;;;;;;;;x;
 ca_training_grounds_1;ÑµÁ·³¡;Terrains d'entraînement;Übungsplätze;;Campo de entrenamiento;;;;;;;;;x
 ca_training_grounds_2;ÑµÁ·³¡;Terrains d'entraînement;Übungsplätze;;Campo de entrenamiento;;;;;;;;;x
 ca_training_grounds_3;ÑµÁ·³¡;Terrains d'entraînement;Übungsplätze;;Campo de entrenamiento;;;;;;;;;x
@@ -126,15 +126,15 @@ ca_culture_saxon_english_1;³¤¹­Éä¼ı³¡;Archerie d'arc long;Langbogen-Schießplatz;
 ca_culture_saxon_english_2;³¤¹­Éä¼ı³¡;Archerie d'arc long;Langbogen-Schießplatz;;Arquería de arco largo;;;;;;;;;x
 ca_culture_saxon_english_3;³¤¹­Éä¼ı³¡;Archerie d'arc long;Langbogen-Schießplatz;;Arquería de arco largo;;;;;;;;;x
 ca_culture_saxon_english_4;³¤¹­Éä¼ı³¡;Archerie d'arc long;Langbogen-Schießplatz;;Arquería de arco largo;;;;;;;;;x
-;#ca_culture_saxon_english_3;Expanded Longbow Range;;Erweiterter Langbogen-Schie?platz;;Arquer¨ªa de arco largo ampliada;;;;;;;;;x;
-;#ca_culture_saxon_english_4;Large Longbow Range;;Gro?er Langbogen-Schie?platz;;Arquer¨ªa de arco largo grande;;;;;;;;;x;
+;#ca_culture_saxon_english_3;ExpandedLongbowRange;;Erweiterter Langbogen-Schie?platz;;Arquer¨ªa de arco largo ampliada;;;;;;;;;x;
+;#ca_culture_saxon_english_4;LargeLongbowRange;;Gro?er Langbogen-Schie?platz;;Arquer¨ªa de arco largo grande;;;;;;;;;x;
 ca_culture_group_baltic_1;Õ½Ê¿¼¯ºÏµØ;Lieu de rassemblement de guerriers;Krieger-Sammelplatz;;Zona de reunión de guerreros;;;;;;;;;x
 ca_culture_group_baltic_2;Õ½Ê¿¼¯ºÏµØ;Lieu de rassemblement de guerriers;Krieger-Sammelplatz;;Zona de reunión de guerreros;;;;;;;;;x
 ca_culture_group_baltic_3;Õ½Ê¿¼¯ºÏµØ;Lieu de rassemblement de guerriers;Krieger-Sammelplatz;;Zona de reunión de guerreros;;;;;;;;;x
 ca_culture_group_baltic_4;Õ½Ê¿¼¯ºÏµØ;Lieu de rassemblement de guerriers;Krieger-Sammelplatz;;Zona de reunión de guerreros;;;;;;;;;x
-;#ca_culture_frank_norman_german_1;Squire Lists;;Knappenlisten;;Listas de escuderos;;;;;;;;;x;
-;#ca_culture_frank_norman_german_2;Knight Lists;;Ritterlisten;;Listas de caballeros;;;;;;;;;x;
-;#ca_culture_frank_norman_german_3;Chevalier Lists;;Chevalier-Listen;;Listas de caballeros;;;;;;;;;x;
+;#ca_culture_frank_norman_german_1;SquireLists;;Knappenlisten;;Listas de escuderos;;;;;;;;;x;
+;#ca_culture_frank_norman_german_2;KnightLists;;Ritterlisten;;Listas de caballeros;;;;;;;;;x;
+;#ca_culture_frank_norman_german_3;ChevalierLists;;Chevalier-Listen;;Listas de caballeros;;;;;;;;;x;
 ca_culture_frank_norman_german_1;±ÈÎä³¡;Lice de joutes;Turnierlisten;;Listas de justas;;;;;;;;;x
 ca_culture_frank_norman_german_2;±ÈÎä³¡;Lice de joutes;Turnierlisten;;Listas de justas;;;;;;;;;x
 ca_culture_frank_norman_german_3;±ÈÎä³¡;Lice de joutes;Turnierlisten;;Listas de justas;;;;;;;;;x
@@ -143,89 +143,89 @@ ca_culture_group_iberian_1;ÆïÊ¿ÑµÁ·³¡;Enclos des caballeros;Cabarello-Übungsplat
 ca_culture_group_iberian_2;ÆïÊ¿ÑµÁ·³¡;Enclos des caballeros;Cabarello-Übungsplatz;;Zona de entrenamiento de caballeros;;;;;;;;;x
 ca_culture_group_iberian_3;ÆïÊ¿ÑµÁ·³¡;Enclos des caballeros;Cabarello-Übungsplatz;;Zona de entrenamiento de caballeros;;;;;;;;;x
 ca_culture_group_iberian_4;ÆïÊ¿ÑµÁ·³¡;Enclos des caballeros;Cabarello-Übungsplatz;;Zona de entrenamiento de caballeros;;;;;;;;;x
-;#ca_culture_group_iberian_1;Small Caballero Training Ground;;Kleiner Cabarello-¨¹bungsplatz;;Zona de entrenamiento de caballeros peque?a;;;;;;;;;x;
-;#ca_culture_group_iberian_2;Caballero Training Ground;;Cabarello-¨¹bungsplatz;;Zona de entrenamiento de caballeros;;;;;;;;;x;
-;#ca_culture_group_iberian_3;Large Caballero Training Ground;;Gro?er Cabarello-¨¹bungsplatz;;Zona de entrenamiento de caballeros grande;;;;;;;;;x;
-;#ca_culture_italian_1;Small Pike Training Ground;;Kleiner Pikenier-¨¹bungsplatz;;Zona de entrenamiento con lanza peque?a;;;;;;;;;x;
+;#ca_culture_group_iberian_1;SmallCaballeroTrainingGround;;Kleiner Cabarello-¨¹bungsplatz;;Zona de entrenamiento de caballeros peque?a;;;;;;;;;x;
+;#ca_culture_group_iberian_2;CaballeroTrainingGround;;Cabarello-¨¹bungsplatz;;Zona de entrenamiento de caballeros;;;;;;;;;x;
+;#ca_culture_group_iberian_3;LargeCaballeroTrainingGround;;Gro?er Cabarello-¨¹bungsplatz;;Zona de entrenamiento de caballeros grande;;;;;;;;;x;
+;#ca_culture_italian_1;SmallPikeTrainingGround;;Kleiner Pikenier-¨¹bungsplatz;;Zona de entrenamiento con lanza peque?a;;;;;;;;;x;
 ca_culture_italian_1;Ç¹±øÑµÁ·³¡;Camp des Picchiere;Pikenier-Übungsplatz;;Zona de entrenamiento con lanza;;;;;;;;;x
 ca_culture_italian_2;Ç¹±øÑµÁ·³¡;Camp des Picchiere;Pikenier-Übungsplatz;;Zona de entrenamiento con lanza;;;;;;;;;x
 ca_culture_italian_3;Ç¹±øÑµÁ·³¡;Camp des Picchiere;Pikenier-Übungsplatz;;Zona de entrenamiento con lanza;;;;;;;;;x
 ca_culture_italian_4;Ç¹±øÑµÁ·³¡;Camp des picchiere;Pikenier-Übungsplatz;;Zona de entrenamiento con lanza;;;;;;;;;x
-;#ca_culture_italian_3;Large Pike Training Ground;;Gro?er Pikenier-¨¹bungsplatz;;Zona de entrenamiento con lanza grande;;;;;;;;;x;
-;#ca_culture_russian_1;Small Druzhina Training Ground;;Kleiner Druschina-¨¹bungsplatz;;Zona de entrenamiento de tropas selectas peque?a;;;;;;;;;x;
+;#ca_culture_italian_3;LargePikeTrainingGround;;Gro?er Pikenier-¨¹bungsplatz;;Zona de entrenamiento con lanza grande;;;;;;;;;x;
+;#ca_culture_russian_1;SmallDruzhinaTrainingGround;;Kleiner Druschina-¨¹bungsplatz;;Zona de entrenamiento de tropas selectas peque?a;;;;;;;;;x;
 ca_culture_russian_1;Ç×ÎÀÆï±øÑµÁ·³¡;Garde des Druzhinas;Druschina-Übungsplatz;;Zona de entrenamiento de tropas selectas;;;;;;;;;x
 ca_culture_russian_2;Ç×ÎÀÆï±øÑµÁ·³¡;Garde des Druzhinas;Druschina-Übungsplatz;;Zona de entrenamiento de tropas selectas;;;;;;;;;x
 ca_culture_russian_3;Ç×ÎÀÆï±øÑµÁ·³¡;Garde des Druzhinas;Druschina-Übungsplatz;;Zona de entrenamiento de tropas selectas;;;;;;;;;x
 ca_culture_russian_4;Ç×ÎÀÆï±øÑµÁ·³¡;Garde des druzhinas;Druschina-Übungsplatz;;Zona de entrenamiento de tropas selectas;;;;;;;;;x
-;#ca_culture_russian_3;Large Druzhina Training Ground;;Gro?er Druschina-¨¹bungsplatz;;Zona de entrenamiento de tropas selectas grande;;;;;;;;;x;
+;#ca_culture_russian_3;LargeDruzhinaTrainingGround;;Gro?er Druschina-¨¹bungsplatz;;Zona de entrenamiento de tropas selectas grande;;;;;;;;;x;
 city_barracks;Ãñ±ø¾üÓª;Quartier de la milice;Milizkaserne;;Cuartel de la milicia;;;;;;;;;x
 city_barracks_2;À©´óµÄÃñ±ø¾üÓª;Garnison de la milice;Vergrößerte Milizkaserne;;Cuartel de la milicia ampliado;;;;;;;;;x
 city_stable;Ãñ±øÂí¾Ç;Écurie de la milice;Milizstall;;Establo de la milicia;;;;;;;;;x
-;#ct_wall_q_1;City Moat;;Stadtgraben;;Foso de la villa;;;;;;;;;x;
-;#ct_wall_q_2;City Gatehouse;;Stadt-Torhaus;;Torre de Acceso a la villa;;;;;;;;;x;
-;#ct_wall_q_3;City Portcullis;;Stadtfallgitter;;Rastrillo de la villa;;;;;;;;;x;
-;#ct_wall_q_4;Deep City Moat;;Tiefer Stadtgraben;;Foso profundo de la villa;;;;;;;;;x;
-;#ct_wall_q_5;City Barbicans;;Stadtvorwerke;;Barbacanas de la villa;;;;;;;;;x;
-;#ct_wall_1;Town Palisade;;Stadtpalisade;;Empalizada de la villa;;;;;;;;;x;
-;#ct_wall_2;Small City Wall;;Kleine Stadtmauer;;Muro peque?o de la villa;;;;;;;;;x;
-;#ct_wall_3;Medium City Wall;;Mittlere Stadtmauer;;Muro mediano de la villa;;;;;;;;;x;
-;#ct_wall_4;Large City Wall;;Gro?e Stadtmauer;;Muro grande de la villa;;;;;;;;;x;
-;#ct_wall_5;Huge City Wall;;Riesige Stadtmauer;;Muro inmenso de la villa;;;;;;;;;x;
-;#ct_training_grounds_2;Small Militia Training Grounds;;Kleiner Miliz-¨¹bungsplatz;;Zona de entrenamiento de la milicia peque?a;;;;;;;;;x;
-;#ct_training_grounds_3;Medium Militia Training Grounds;;Mittlerer Miliz-¨¹bungsplatz;;Zona de entrenamiento de la milicia mediana;;;;;;;;;x;
-;#ct_training_grounds_4;Large Militia Training Grounds;;Gro?er Miliz-¨¹bungsplatz;;Zona de entrenamiento de la milicia grande;;;;;;;;;x;
-;#ct_training_grounds_5;Huge Militia Training Grounds;;Riesiger Miliz-¨¹bungsplatz;;Zona de entrenamiento de la milicia muy grande;;;;;;;;;x;
-;#ct_barracks_1;Militia Mustering Grounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
-;#ct_barracks_2;Militia Mustering Grounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
-;#ct_barracks_3;Militia Mustering Grounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
-;#ct_barracks_4;Militia Mustering Grounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
-;#ct_barracks_5;Militia Mustering Grounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
-;#ct_barracks_6;Militia Mustering Grounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
-;#ct_barracks_2;City Archery Range;;Stadt-Bogenschie?platz;;Arquer¨ªa de la villa;;;;;;;;;x;
-;#ct_barracks_3;Large Militia Mustering Grounds;;Gro?er Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia grande;;;;;;;;;x;
-;#ct_barracks_4;Large City Archery Range;;Gro?er Stadt-Bogenschie?platz;;Gran arquer¨ªa de la villa;;;;;;;;;x;
-;#ct_barracks_5;Huge Militia Mustering Grounds;;Riesiger Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia muy grande;;;;;;;;;x;
-;#ct_barracks_6;Huge City Archery Range;;Riesiger Stadt-Bogenschie?platz;;magn¨ªfica arquer¨ªa de la villa;;;;;;;;;x;
+;#ct_wall_q_1;CityMoat;;Stadtgraben;;Foso de la villa;;;;;;;;;x;
+;#ct_wall_q_2;CityGatehouse;;Stadt-Torhaus;;Torre de Acceso a la villa;;;;;;;;;x;
+;#ct_wall_q_3;CityPortcullis;;Stadtfallgitter;;Rastrillo de la villa;;;;;;;;;x;
+;#ct_wall_q_4;DeepCityMoat;;Tiefer Stadtgraben;;Foso profundo de la villa;;;;;;;;;x;
+;#ct_wall_q_5;CityBarbicans;;Stadtvorwerke;;Barbacanas de la villa;;;;;;;;;x;
+;#ct_wall_1;TownPalisade;;Stadtpalisade;;Empalizada de la villa;;;;;;;;;x;
+;#ct_wall_2;SmallCityWall;;Kleine Stadtmauer;;Muro peque?o de la villa;;;;;;;;;x;
+;#ct_wall_3;MediumCityWall;;Mittlere Stadtmauer;;Muro mediano de la villa;;;;;;;;;x;
+;#ct_wall_4;LargeCityWall;;Gro?e Stadtmauer;;Muro grande de la villa;;;;;;;;;x;
+;#ct_wall_5;HugeCityWall;;Riesige Stadtmauer;;Muro inmenso de la villa;;;;;;;;;x;
+;#ct_training_grounds_2;SmallMilitiaTrainingGrounds;;Kleiner Miliz-¨¹bungsplatz;;Zona de entrenamiento de la milicia peque?a;;;;;;;;;x;
+;#ct_training_grounds_3;MediumMilitiaTrainingGrounds;;Mittlerer Miliz-¨¹bungsplatz;;Zona de entrenamiento de la milicia mediana;;;;;;;;;x;
+;#ct_training_grounds_4;LargeMilitiaTrainingGrounds;;Gro?er Miliz-¨¹bungsplatz;;Zona de entrenamiento de la milicia grande;;;;;;;;;x;
+;#ct_training_grounds_5;HugeMilitiaTrainingGrounds;;Riesiger Miliz-¨¹bungsplatz;;Zona de entrenamiento de la milicia muy grande;;;;;;;;;x;
+;#ct_barracks_1;MilitiaMusteringGrounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
+;#ct_barracks_2;MilitiaMusteringGrounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
+;#ct_barracks_3;MilitiaMusteringGrounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
+;#ct_barracks_4;MilitiaMusteringGrounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
+;#ct_barracks_5;MilitiaMusteringGrounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
+;#ct_barracks_6;MilitiaMusteringGrounds;;Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia;;;;;;;;;x;
+;#ct_barracks_2;CityArcheryRange;;Stadt-Bogenschie?platz;;Arquer¨ªa de la villa;;;;;;;;;x;
+;#ct_barracks_3;LargeMilitiaMusteringGrounds;;Gro?er Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia grande;;;;;;;;;x;
+;#ct_barracks_4;LargeCityArcheryRange;;Gro?er Stadt-Bogenschie?platz;;Gran arquer¨ªa de la villa;;;;;;;;;x;
+;#ct_barracks_5;HugeMilitiaMusteringGrounds;;Riesiger Miliz-Antrittsplatz;;Zona de reuni¨®n de la milicia muy grande;;;;;;;;;x;
+;#ct_barracks_6;HugeCityArcheryRange;;Riesiger Stadt-Bogenschie?platz;;magn¨ªfica arquer¨ªa de la villa;;;;;;;;;x;
 ct_marketplace_1;ÊĞ¼¯;Place de marché;Stadtmarkt;;Mercado de la villa;;;;;;;;;x
 ct_marketplace_2;Í¬ÒµĞĞ»á;Guilde des marchands;Stadt-Rathaus;;Ayuntamiento de la villa;;;;;;;;;x
 ct_marketplace_3;ÊÕ·ÑËù;Barrière de péage;Zollhaus;;Casa de peaje;;;;;;;;;x
 ct_marketplace_4;·¨Ôº;Tribunal;Gericht;;Tribunal;;;;;;;;;x
 ct_marketplace_5;»õ±Ò¼ìÑéËù;Hôtel des monnaies;Kontrollamt;;Casa de tasación;;;;;;;;;x
 ct_marketplace_6;´óĞÍÊĞ³¡;Foire;Messe;;Feria;;;;;;;;;x
-;#ct_port_1;Small Harbour;;Kleiner Hafen;;Puerto peque?o;;;;;;;;;x;
+;#ct_port_1;SmallHarbour;;Kleiner Hafen;;Puerto peque?o;;;;;;;;;x;
 ;#ct_port_2;Harbour;;Hafen;;Puerto;;;;;;;;;x;
-;#ct_port_3;Small Port;;Kleiner Hafen;;Puerto peque?o;;;;;;;;;x;
-;#ct_port_4;Medium Port;;Mittlerer Hafen;;Puerto mediano;;;;;;;;;x;
-;#ct_port_5;Large Port;;Gro?er Hafen;;Puerto grande;;;;;;;;;x;
-;#tp_wall_q_2;Church Gatehouse;;Kirchentorhaus;;Torre de acceso a iglesia;;;;;;;;;x;
-;#tp_wall_q_3;Church Portcullis;;Kirchenfallgitter;;Rastrillo de iglesia;;;;;;;;;x;
-;#tp_wall_q_4;Deep Church Moat;;Tiefer Kirchengraben;;Foso de iglesia profundo;;;;;;;;;x;
-;#tp_wall_q_5;Church Barbicans;;Kirchenvorwerke;;Barbacanas de iglesia;;;;;;;;;x;
-;#tp_wall_1;Church Palisade;;Kirchenpalisade;;Empalizada de iglesia;;;;;;;;;x;
-;#tp_wall_2;Small Church Wall;;Kleine Kirchenmauer;;Muro de iglesia peque?o;;;;;;;;;x;
-;#tp_wall_3;Medium Church Wall;;Mittlere Kirchenmauer;;Muro de iglesia mediano;;;;;;;;;x;
-;#tp_wall_4;Large Church Wall;;Gro?e Kirchenmauer;;Muro de iglesia grande;;;;;;;;;x;
-;#tp_wall_5;Huge Church Wall;;Riesige Kirchenmauer;;Muro de iglesia muy grande;;;;;;;;;x;
-;#tp_monastery_1;Small Church;;Kleine Kirche;;Iglesia peque?a;;;;;;;;;x;
+;#ct_port_3;SmallPort;;Kleiner Hafen;;Puerto peque?o;;;;;;;;;x;
+;#ct_port_4;MediumPort;;Mittlerer Hafen;;Puerto mediano;;;;;;;;;x;
+;#ct_port_5;LargePort;;Gro?er Hafen;;Puerto grande;;;;;;;;;x;
+;#tp_wall_q_2;ChurchGatehouse;;Kirchentorhaus;;Torre de acceso a iglesia;;;;;;;;;x;
+;#tp_wall_q_3;ChurchPortcullis;;Kirchenfallgitter;;Rastrillo de iglesia;;;;;;;;;x;
+;#tp_wall_q_4;DeepChurchMoat;;Tiefer Kirchengraben;;Foso de iglesia profundo;;;;;;;;;x;
+;#tp_wall_q_5;ChurchBarbicans;;Kirchenvorwerke;;Barbacanas de iglesia;;;;;;;;;x;
+;#tp_wall_1;ChurchPalisade;;Kirchenpalisade;;Empalizada de iglesia;;;;;;;;;x;
+;#tp_wall_2;SmallChurchWall;;Kleine Kirchenmauer;;Muro de iglesia peque?o;;;;;;;;;x;
+;#tp_wall_3;MediumChurchWall;;Mittlere Kirchenmauer;;Muro de iglesia mediano;;;;;;;;;x;
+;#tp_wall_4;LargeChurchWall;;Gro?e Kirchenmauer;;Muro de iglesia grande;;;;;;;;;x;
+;#tp_wall_5;HugeChurchWall;;Riesige Kirchenmauer;;Muro de iglesia muy grande;;;;;;;;;x;
+;#tp_monastery_1;SmallChurch;;Kleine Kirche;;Iglesia peque?a;;;;;;;;;x;
 tp_monastery_1;ĞŞµÀÔº;Temple;Kirche;;Iglesia;;;;;;;;;x
 tp_monastery_2;±Ó»¤Ëù;Temple;Kirche;;Iglesia;;;;;;;;;x
 tp_monastery_3;Ğ¡ÌÃ;Temple;Kirche;;Iglesia;;;;;;;;;x
-;#tp_monastery_3;Large Church;;Gro?e Kirche;;Iglesia grande;;;;;;;;;x;
+;#tp_monastery_3;LargeChurch;;Gro?e Kirche;;Iglesia grande;;;;;;;;;x;
 tp_monastery_4;Ê¥ÌÃ;Cathédrale;Kathedrale;;Catedral;;;;;;;;;x
 tp_monastery_5;×øÌÃ;Cathédrale;Kathedrale;;Catedral;;;;;;;;;x
 tp_monastery_6;´óµî;Cathédrale;Kathedrale;;Catedral;;;;;;;;;x
-;#tp_monastery_5;Large Cathedral;;Gro?e Kathedrale;;Catedral grande;;;;;;;;;x;
-;#tp_monastery_6;Grand Cathedral;;Majest?tische Kathedrale;;Catedral muy grande;;;;;;;;;x;
+;#tp_monastery_5;LargeCathedral;;Gro?e Kathedrale;;Catedral grande;;;;;;;;;x;
+;#tp_monastery_6;GrandCathedral;;Majest?tische Kathedrale;;Catedral muy grande;;;;;;;;;x;
 tp_town_1;´åÂä;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
 tp_town_2;Ğ¡Õò;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
 tp_town_3;³ÇÊĞ;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
 tp_town_4;ÌÃÇø;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
 tp_town_5;îìÇø;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
 tp_town_6;½ÌÇø;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
-;#tp_town_3;Large Church Town;;Gro?es Kirchenst?dtchen;;Pueblo de iglesia grande;;;;;;;;;x;
-;#tp_town_4;Church City;;Kirchenstadt;;Ciudad de iglesia;;;;;;;;;x;
-;#tp_town_5;Large Church City;;Gro?e Kirchenstadt;;Ciudad de iglesia grande;;;;;;;;;x;
-GIVEN_GOLD;$NAME$µÃµ½ $GOLD$¤;$NAME$ reçoit $GOLD$ pièces d'or;$NAME$ erhält $GOLD$¤;;$NAME$ recibe $GOLD$¤;;;;;;;;;x
+;#tp_town_3;LargeChurchTown;;Gro?es Kirchenst?dtchen;;Pueblo de iglesia grande;;;;;;;;;x;
+;#tp_town_4;ChurchCity;;Kirchenstadt;;Ciudad de iglesia;;;;;;;;;x;
+;#tp_town_5;LargeChurchCity;;Gro?e Kirchenstadt;;Ciudad de iglesia grande;;;;;;;;;x;
+GIVEN_GOLD;$NAME$µÃµ½$GOLD$¤;$NAME$ reçoit $GOLD$ pièces d'or;$NAME$ erhält $GOLD$¤;;$NAME$ recibe $GOLD$¤;;;;;;;;;x
 CB_NAME_CLAIM;Ğû³Æ[Title.GetBaseName];Revendiquer [Title.GetName];[Title.GetBaseName] beanspruchen;;Reclama [Title.GetBaseName];;;;;;;;;x
 WAR_NAME_CLAIM;$ORDER$$FIRST_ADJ$¶áÈ¡$OTHER_TITLE$µÄÕ½Õù;$ORDER$Guerre de revendication $FIRST_ADJ$ pour obtenir $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ Anspruch auf $OTHER_TITLE$ Krieg;;$ORDER$ Guerra $FIRST_ADJ$ por el $OTHER_TITLE$;;;;;;;;;x
 CB_NAME_SENIORITY_SUCCESSION_LAW;Äê³¤Õß¼Ì³Ğ·¨;Succession par ancienneté;Alter-Nachfolgegesetz;;Ley de sucesión por antigüedad;;;;;;;;;x
@@ -245,8 +245,8 @@ CB_NAME_OVERTHROWRULER;ÍÆ·­Í³ÖÎ;Renverser le souverain;Herrscher stürzen;;Gobern
 WAR_NAME_OVERTHROWRULER;$ORDER$ÍÆ·­±©¾ı$DEFENDER$µÄÕ½Õù;$ORDER$Guerre contre la tyrannie de $DEFENDER$;$ORDER$ Krieg gegen die Tyrannei von $DEFENDER$;;$ORDER$ Guerra contra la Tiranía de $DEFENDER$;;;;;;;;;x
 CB_NAME_SUCCESSION;¼Ì³ĞÕùÒé;Crise de succession;Nachfolge anfechten;;Conflicto en la sucesión;;;;;;;;;x
 WAR_NAME_SUCCESSION;$ORDER$$SECOND_ADJ$¼Ì³ĞÎ£»ú;$ORDER$Guerre de succession $SECOND_ADJ$;$ORDER$$SECOND_ADJ$ Nachfolgekrise;;$ORDER$ Guerra de Sucesión $SECOND_ADJ$;;;;;;;;;x
-;#CB_NAME_DEJUREBARONYCLAIM;De Jure Claim on [Title.GetBaseName];;Gr?flicher Anspruch auf [Title.GetBaseName];;Reclamaci¨®n Condal sobre [Title.GetBaseName];;;;;;;;;x;
-;#WAR_NAME_DEJUREBARONYCLAIM;$ORDER$$FIRST_ADJ$¡ª¡ª$SECOND_ADJ$ De Jure War over $OTHER_TITLE$;;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Grafenkrieg ¨¹ber $OTHER_TITLE$;;$ORDER$ Guerra Condal $FIRST_ADJ$-$SECOND_ADJ$ por $OTHER_TITLE$;;;;;;;;;x;
+;#CB_NAME_DEJUREBARONYCLAIM;DeJureClaimon[Title.GetBaseName];;Gr?flicher Anspruch auf [Title.GetBaseName];;Reclamaci¨®n Condal sobre [Title.GetBaseName];;;;;;;;;x;
+;#WAR_NAME_DEJUREBARONYCLAIM;$ORDER$$FIRST_ADJ$¡ª¡ª$SECOND_ADJ$DeJureWarover$OTHER_TITLE$;;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Grafenkrieg ¨¹ber $OTHER_TITLE$;;$ORDER$ Guerra Condal $FIRST_ADJ$-$SECOND_ADJ$ por $OTHER_TITLE$;;;;;;;;;x;
 ON_CB_ADD_DESC;§Yµ±ÎÒÃÇ·¢¶¯Õ½Õù£º§W\n;§YLorsque nous déclarons la guerre : §W\n;§YWenn wir einen Krieg erklären:§W\n;;§YCuando declaremos la guerra:§W\n;;;;;;;;;x
 ON_CB_SUCCESS_DESC;§YÈç¹ûÎÒÃÇÓ®µÃÕ½Õù£º§W\n;§YSi nous gagnons la guerre : §W\n;§YWenn wir den Krieg gewinnen:§W\n;;§YSi ganamos la guerra:§W\n;;;;;;;;;x
 ON_CB_FAIL_DESC;§YÈç¹ûÎÒÃÇÎŞÌõ¼şºÍÆ½£º§W\n;§YSi nous concluons une paix blanche : §W\n;§YWenn wir einen Weißen Frieden schließen:§W\n;;§YSi hacemos la paz blanca:§W\n;;;;;;;;;x
@@ -263,8 +263,8 @@ invasion_desc;§Y$CLAIMANT$§£¡ÓĞÈ¨ÀûÈëÇÖ§Y$TITLE$§£¡.Èç¹û³É¹¦£¬¿ÉÒÔ¶áÈ¡Õâ¸öÍ·ÏÎÏÂ
 excommunicated_ruler_desc;§Y$TARGET$§£¡ÒÑ±»¿ª³ı½Ì¼®£¬ÕâÊÇ¸öºÜÄÑµÃµÄÕ½ÕùÀíÓÉ£¡;L'excommunication de §Y$TARGET$§! a été décidée, un motif de guerre légitime s'il en est !;§Y$TARGET$§! wurde exkommuniziert - einen besseren Kriegsgrund hat es noch nie gegeben!;;¡§Y$TARGET$§! ha sido excomulgado, una causa justa para la guerra si alguna vez hubo una!;;;;;;;;;x
 bid_for_independence_desc;§Y$CLAIMANT$§£¡¿ÉÒÔÊÔÍ¼´Ó§Y$TARGET$§£¡µÄÍ¨ÖªÏÂ¶ÀÁ¢;§Y$CLAIMANT$§! peut tenter de déclarer son indépendance vis-à-vis de : §Y$TARGET$§!;§Y$CLAIMANT$§! kann versuchen, von §Y$TARGET$§! die Unabhängigkeit zu erlangen;;§Y$CLAIMANT$§! puede intentar declarar la independencia de §Y$TARGET$§!;;;;;;;;;x
 overthrow_ruler_desc;§Y$TARGET$§£¡Î´ÄÜ³É¹¦¾Ğ½û§Y$CLAIMANT$§£¡£¬Òı·¢ÁËÒ»³¡Îä×°³åÍ»;§Y$TARGET$§! a essayé en vain d'emprisonner §Y$CLAIMANT$§!, ce qui a déclenché un conflit armé.;§Y$TARGET$§! ist mit dem Versuch gescheitert, §Y$CLAIMANT$§! einzukerkern, was zu einem bewaffneten Konflikt geführt hat.;;§Y$TARGET$§! ha fracasado en su intento de apresar a §Y$CLAIMANT$§!, lo cual ha desembocado en conflicto armado;;;;;;;;;x
-dejure_county_claim_desc;Õâ¸ö §Y$TITLE$§£¡ÊÇ§Y$CLAIMANT$§£¡µÄ·¨Àí·â³¼£¬ÓĞ×ã¹»ÀíÓÉ·¢¶¯Õ½Õù¡£;Le §Y$TITLE$§! est, de jure, un territoire vassal de §Y$CLAIMANT$§!, ce qui constitue un motif de guerre suffisant.;§Y$TITLE$§! Ist ein de jure-Vasall von §Y$CLAIMANT$§! - Grund genug für einen Krieg.;;El §Y$TITLE$§! es, de iure, vasallo de §Y$CLAIMANT$§!, lo cual es motivo suficiente de guerra.;;;;;;;;;x
-;#dejure_barony_claim_desc;The §Y$TITLE$§£¡ is£¬de jure£¬a vassal of §Y$CLAIMANT$'s§£¡£¬which is cause enough for war¡£;;§Y$TITLE$§! Ist ein de jure-Vasall von §Y$CLAIMANT$§! - Grund genug f¨¹r einen Krieg.;;El §Y$TITLE$§! es, de iure, vasallo de §Y$CLAIMANT$§!, lo cual es motivo suficiente de guerra.;;;;;;;;;x;
+dejure_county_claim_desc;Õâ¸ö§Y$TITLE$§£¡ÊÇ§Y$CLAIMANT$§£¡µÄ·¨Àí·â³¼£¬ÓĞ×ã¹»ÀíÓÉ·¢¶¯Õ½Õù¡£;Le §Y$TITLE$§! est, de jure, un territoire vassal de §Y$CLAIMANT$§!, ce qui constitue un motif de guerre suffisant.;§Y$TITLE$§! Ist ein de jure-Vasall von §Y$CLAIMANT$§! - Grund genug für einen Krieg.;;El §Y$TITLE$§! es, de iure, vasallo de §Y$CLAIMANT$§!, lo cual es motivo suficiente de guerra.;;;;;;;;;x
+;#dejure_barony_claim_desc;The§Y$TITLE$§£¡is£¬dejure£¬avassalof§Y$CLAIMANT$'s§£¡£¬whichiscauseenoughforwar¡£;;§Y$TITLE$§! Ist ein de jure-Vasall von §Y$CLAIMANT$§! - Grund genug f¨¹r einen Krieg.;;El §Y$TITLE$§! es, de iure, vasallo de §Y$CLAIMANT$§!, lo cual es motivo suficiente de guerra.;;;;;;;;;x;
 change_seniority_succession_law_desc;§Y$CLAIMANT$§£¡¿ÉÒÔ·¢¶¯Õ½ÕùÒÔ½«§Y$TITLE$§£¡µÄ¼Ì³Ğ·¨¸ÄÎªÄê³¤Õß¼Ì³Ğ£¡;§Y$CLAIMANT$§! peut déclarer la guerre pour imposer une loi de succession basée sur l'ancienneté en §Y$TITLE$§!;§Y$CLAIMANT$§! kann einen Krieg erklären, um das Nachfolgerecht für den Titel §Y$TITLE$§! auf Alter zu ändern.;;¡§Y$CLAIMANT$§! puede declarar la guerra para basar la ley de sucesión del §Y$TITLE$§! en la antigüedad!;;;;;;;;;x
 change_primogeniture_succession_law_desc;§Y$CLAIMANT$§£¡¿ÉÒÔ·¢¶¯Õ½ÕùÒÔ½«§Y$TITLE$§£¡µÄ¼Ì³Ğ·¨¸ÄÎª³¤×Ó¼Ì³Ğ£¡;§Y$CLAIMANT$§! peut déclarer la guerre pour imposer la loi de succession par primogéniture en §Y$TITLE$§!;§Y$CLAIMANT$§! kann einen Krieg erklären, um das Nachfolgerecht für den Titel §Y$TITLE$§! auf Ältestenrecht zu ändern.;;¡§Y$CLAIMANT$§! puede declarar la guerra para basar la ley de sucesión del §Y$TITLE$§! en la primogenitura!;;;;;;;;;x
 change_feudal_elective_succession_law_desc;§Y$CLAIMANT$§£¡¿ÉÒÔ·¢¶¯Õ½ÕùÒÔ½«§Y$TITLE$§£¡µÄ¼Ì³Ğ·¨¸ÄÎªÑ¡¾Ù¼Ì³Ğ£¡;§Y$CLAIMANT$§! peut déclarer la guerre pour imposer une loi basée sur la succession élective féodale en §Y$TITLE$§!;§Y$CLAIMANT$§! kann einen Krieg erklären, um das Nachfolgerecht für den Titel §Y$TITLE$§! auf Feudalwahl zu ändern.;;¡§Y$CLAIMANT$§! puede declarar la guerra para basar la ley de sucesión del §Y$TITLE$§! en el feudalismo electivo!;;;;;;;;;x
@@ -414,7 +414,7 @@ RECIPIENT_EXTRA;[RecipientExtra.GetBestName];[RecipientExtra.GetBestName];[Recip
 GETISVALIDDESC;[GetIsValidDesc];[GetIsValidDesc];[GetIsValidDesc];;[GetIsValidDesc];;;;;;;;;x
 THIRDPARTYTITLE;[ThirdPartyTitle.GetFullName];[ThirdPartyTitle.GetFullName];[ThirdPartyTitle.GetFullName];;[ThirdPartyTitle.GetFullName];;;;;;;;;x
 DIPLOOPENING_RELATIVE;Ç×°®µÄ$RELATION$£¬\n;À notre $RELATION$,\n;Seid geehrt, $RELATION$,\n;;$RELATION$ amada,\n;;;;;;;;;x
-DIPLOOPENING_OTHER;ÖÂ$ADJ$ $TO$£¬\n;Oyez donc, $ADJ$ $TO$,\n;An den/die $ADJ$ $TO$,\n;;Al $ADJ$ $TO$,\n;;;;;;;;;x
+DIPLOOPENING_OTHER;ÖÂ$ADJ$$TO$£¬\n;Oyez donc, $ADJ$ $TO$,\n;An den/die $ADJ$ $TO$,\n;;Al $ADJ$ $TO$,\n;;;;;;;;;x
 DIPLOOPENING_ABOVE_LIEGE;"$FOA$£¬\n";$FOA$,\n;$FOA$,\n;;$FOA$,\n;;;;;;;;;x
 DIPLOOPENING_LIEGE;Ö÷¾ı£¬\n;Mon seigneur,\n;Mein Lehnsherr,\n;;Mi señor,\n;;;;;;;;;x
 DIPLOWINDOW_ACCEPT;½ÓÊÜ;Accepter;Akzeptieren;;Aceptar;;;;;;;;;x
@@ -444,11 +444,11 @@ DIPLOFLAVOR_FLATTERY_2;×£ÄúÆ½°²¡£;Que la paix soit avec vous ! ;Friede sei mit E
 DIPLOFLAVOR_FLATTERY_3;×£ÄúÉú»îÆ½¾²³äÊµ¡£;Puissiez-vous vivre dans l'harmonie et la satisfaction ! ;Mögt Ihr in Harmonie und Zufriedenheit leben!;;Que vivas en goce y armonía.;;;;;;;;;x
 tuberculosis;ğì²¡;Consomption;Schwindsucht;;Consunción;;;;;;;;;x
 TUBERCULOSIS_INFO;ğì²¡¾ÍÊÇ½áºË²¡µÄ¾É³Æ£¬µÃÁËÕâ²¡ÓÌÈçÔâÊÜÌì·£¡£;La consomption est l'ancien nom de ce terrible fléau qu'est la tuberculose.;Schwindsucht ist ein älterer Ausdruck für die schreckliche Geißel Tuberkulose.;;Consunción es un antiguo nombre del terrible azote de la tuberculosis.;;;;;;;;;x
-;#typhoid_fever;Typhoid Fever;Fi¨¨vre lente;Typhoides Fieber;;Fiebre tifoidea;;;;;;;;;x;
+;#typhoid_fever;TyphoidFever;Fi¨¨vre lente;Typhoides Fieber;;Fiebre tifoidea;;;;;;;;;x;
 TYPHOID_FEVER_INFO;ÉËº®£¬Ò²±»³Æ×÷ÂıĞÔÈÈ£¬ÕıÔÚÕâ¸ö¿¤ÂûÑÓ¡£;La fièvre lente (ou fièvre typhoïde) sévit dans ce comté.;In diesem Land ist typhoides Fieber bzw. schleichendes Fieber ausgebrochen.;;La fiebre tifoidea o fiebre lenta recorre este país.;;;;;;;;;x
 ;#typhus;Typhus;Fi¨¨vre des campements;Typhus;;Tifus;;;;;;;;;x;
 TYPHUS_INFO;Á÷ĞĞĞÔ°ßÕîÉËº®£¬Ò²±»³Æ×÷Â¶ÓªÈÈ£¬ÕıÔÚÂûÑÓ¡£;La fièvre des campements (ou typhus épidémique) sévit.;Eine Typhusepidemie bzw. Lagerfieber breitet sich ungebremst aus.;;El tifus o fiebre de campamento se extiende desenfrenadamente.;;;;;;;;;x
-;#bubonic_plague;Bubonic Plague;Peste bubonique;Beulenpest;;Peste bub¨®nica;;;;;;;;;x;
+;#bubonic_plague;BubonicPlague;Peste bubonique;Beulenpest;;Peste bub¨®nica;;;;;;;;;x;
 BUBONIC_PLAGUE_INFO;ÄÇĞ©Á÷ÀËÆïÊÖ½«ºÚËÀ²¡´øµ½ÁËÕâ¸ö¿¤¡£;Le cavalier solitaire a introduit la peste noire dans ce comté.;Der Schwarze Tod hat dieses Land heimgesucht.;;El Jinete Pálido ha traído la Muerte Negra a este país.;;;;;;;;;x
 measles;ÂéÕî;Rougeole;Masern;;Sarampión;;;;;;;;;x
 MEASLES_INFO;ÂéÕîÕıÔÚÕâ¸ö¿¤Ñ¸ËÙÂûÑÓ¡£;Ce comté connaît une épidémie de rougeole.;In diesem Land gibt es eine Masernepidemie.;;Hay una epidemia de sarampión en este país.;;;;;;;;;x
@@ -565,21 +565,21 @@ CIV_VALUE;ÔÚ$WHERE$µÄÎÄÃ÷³Ì¶ÈÎª$DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ en civ
 SPAWN_HORDE;Ò»¸öÓĞ$SIZE$µ¥Î»µÄÂù×å²¿Âä½«³öÏÖÔÚ$WHERE$.\n;Une horde barbare de $SIZE$ unités va se développer à : $WHERE$.\n;Eine Barbarenhorde von $SIZE$ Einheiten erscheint in $WHERE$.\n;;Una horda bárbara de $SIZE$ unidades aparecerá en $WHERE$.\n;$WHERE$: apparirà un'orda di barbari formata da $SIZE$ coorti.\n;;;;;;;;x
 REMOVE_GOVERNOR;$WHO$½«Ê§È¥$WHERE$µÄ×Ü¶½Ö°Î».\n;$WHO$ ne sera plus gouverneur de $WHERE$.\n;$WHO$ ist nicht länger Gouverneur von $WHERE$.\n;;$WHO$ ha dejado de gobernar $WHERE$.\n;$WHERE$: $WHO$ non sarà più governatore.\n;;;;;;;;x
 SET_FAMILY_EFFECT;$CHAR$½«³ÉÎª$FAMILY$µÄÒ»Ô±¡£\n;$CHAR$ devient membre de la famille $FAMILY$.\n;$CHAR$ wird ein Mitglied der $FAMILY$-Familie.\n;;$CHAR$ se convierte en miembro de la familia $FAMILY$.\n;;;;;;;;;x
-GIVE_TITLE_EFFECT;$CHAR$ ³ÉÎªÁË$TITLE$¡£\n;$CHAR$ devient $TITLE$.\n;$CHAR$ wird $TITLE$.\n;;$CHAR$ se convierte en $TITLE$.\n;;;;;;;;;x
+GIVE_TITLE_EFFECT;$CHAR$³ÉÎªÁË$TITLE$¡£\n;$CHAR$ devient $TITLE$.\n;$CHAR$ wird $TITLE$.\n;;$CHAR$ se convierte en $TITLE$.\n;;;;;;;;;x
 REMOVE_TITLE_EFFECT;$CHAR$²»ÔÙÊÇ$TITLE$¡£\n;$CHAR$ n'est plus $TITLE$.\n;$CHAR$ ist nicht länger $TITLE$.\n;;$CHAR$ ya no es $TITLE$.\n;;;;;;;;;x
 IMPLEMENT_LAW;ÖÆ¶¨²¢Ö´ĞĞ;Promulgue ;Einführen;;Aplicar ;;;;;;;;;x
 REVOKE_LAW;·Ï³ı;Révoquer ;Entziehen;;Revocar ;;;;;;;;;x
 CHARBANISHEFFECT;§Y$NAME$§£¡±»ÇıÖğµ½§Y$TARGET$§£¡\n;§Y$NAME$§! est banni(e) et s'en va trouver refuge à la cour de §Y$TARGET$§!\n;§Y$NAME$§! wird verbannt nach §Y$TARGET$§!\n;;§Y$NAME$§! es desterrado a §Y$TARGET$§!\n;;;;;;;;;x
-MODIFIER_ADDED;§Y$WHERE$§£¡ »ñµÃ '§Y$WHAT$§£¡' Ö±µ½ §Y$DATE$§£¡£¬µÃµ½ÈçÏÂĞ§¹û£º\n$EFFECT$\n\n;§Y$WHERE$§! obtient '§Y$WHAT$§!' jusqu'au §Y$DATE$§!, avec les effets suivants : \n$EFFECT$\n\n;§Y$WHERE$§! bekommt '§Y$WHAT$§!' bis §Y$DATE$§!, was folgende Effekte hat:\n$EFFECT$\n\n;;§Y$WHERE$§! consigue §Y$WHAT$§! hasta §Y$DATE$§!, con los efectos siguientes:\n$EFFECT$\n\n;;;;;;;;;x
+MODIFIER_ADDED;§Y$WHERE$§£¡»ñµÃ'§Y$WHAT$§£¡'Ö±µ½§Y$DATE$§£¡£¬µÃµ½ÈçÏÂĞ§¹û£º\n$EFFECT$\n\n;§Y$WHERE$§! obtient '§Y$WHAT$§!' jusqu'au §Y$DATE$§!, avec les effets suivants : \n$EFFECT$\n\n;§Y$WHERE$§! bekommt '§Y$WHAT$§!' bis §Y$DATE$§!, was folgende Effekte hat:\n$EFFECT$\n\n;;§Y$WHERE$§! consigue §Y$WHAT$§! hasta §Y$DATE$§!, con los efectos siguientes:\n$EFFECT$\n\n;;;;;;;;;x
 MODIFIER_REMOVED;§Y$WHAT$§!½«±»ÒÆ³ı´Ó§Y$WHERE$§!\n;Le modificateur '§Y$WHAT$§!' va être supprimé de §Y$WHERE$§!\n;§Y$WHAT$§! wird entfernt aus §Y$WHERE$§!\n;;§Y$WHAT$§! se eliminará de §Y$WHERE$§!\n;§Y$WHERE$§! perderà §Y$WHAT$§!\n;;;;;;;;x
-DIPLOMACYEFFECT;$DIRECTION$ $VALUE$Íâ½»\n;$DIRECTION$ $VALUE$ de compétence en diplomatie\n;$DIRECTION$ $VALUE$ Diplomatie\n;;$DIRECTION$ $VALUE$ Diplomacia\n;;;;;;;;;x
-INTRIGUEEFFECT;$DIRECTION$ $VALUE$ÃÜÄ±\n;$DIRECTION$ $VALUE$ de compétence en intrigue\n;$DIRECTION$ $VALUE$ Intrige\n;;$DIRECTION$ $VALUE$ Intriga\n;;;;;;;;;x
-STEWARDSHIPEFFECT;$DIRECTION$ $VALUE$²ÆÕş\n;$DIRECTION$ $VALUE$ de compétence en intendance\n;$DIRECTION$ $VALUE$ Verwaltung\n;;$DIRECTION$ $VALUE$ Administración\n;;;;;;;;;x
-LEARNINGEFFECT;$DIRECTION$ $VALUE$Ñ§Ï°\n;$DIRECTION$ $VALUE$ de compétence en érudition\n;$DIRECTION$ $VALUE$ Bildung\n;;$DIRECTION$ $VALUE$ Aprendizaje\n;;;;;;;;;x
-MARTIALEFFECT;$DIRECTION$ $VALUE$¾üÊÂ\n;$DIRECTION$ $VALUE$ de compétence martiale\n;$DIRECTION$ $VALUE$ Kriegskunst\n;;$DIRECTION$ $VALUE$ Marcial\n;;;;;;;;;x
+DIPLOMACYEFFECT;$DIRECTION$$VALUE$Íâ½»\n;$DIRECTION$ $VALUE$ de compétence en diplomatie\n;$DIRECTION$ $VALUE$ Diplomatie\n;;$DIRECTION$ $VALUE$ Diplomacia\n;;;;;;;;;x
+INTRIGUEEFFECT;$DIRECTION$$VALUE$ÃÜÄ±\n;$DIRECTION$ $VALUE$ de compétence en intrigue\n;$DIRECTION$ $VALUE$ Intrige\n;;$DIRECTION$ $VALUE$ Intriga\n;;;;;;;;;x
+STEWARDSHIPEFFECT;$DIRECTION$$VALUE$²ÆÕş\n;$DIRECTION$ $VALUE$ de compétence en intendance\n;$DIRECTION$ $VALUE$ Verwaltung\n;;$DIRECTION$ $VALUE$ Administración\n;;;;;;;;;x
+LEARNINGEFFECT;$DIRECTION$$VALUE$Ñ§Ï°\n;$DIRECTION$ $VALUE$ de compétence en érudition\n;$DIRECTION$ $VALUE$ Bildung\n;;$DIRECTION$ $VALUE$ Aprendizaje\n;;;;;;;;;x
+MARTIALEFFECT;$DIRECTION$$VALUE$¾üÊÂ\n;$DIRECTION$ $VALUE$ de compétence martiale\n;$DIRECTION$ $VALUE$ Kriegskunst\n;;$DIRECTION$ $VALUE$ Marcial\n;;;;;;;;;x
 SET_TITLE_HOLDER_GAIN_EFFECT;§Y$CHAR$§£¡µÃµ½Í·ÏÎ§Y$TITLE$§£¡\n;§Y$CHAR$§! acquiert : $TITLE$\n;$CHAR$ erhält den Titel $TITLE$\n;;$CHAR$ logra el $TITLE$\n;;;;;;;;;x
 SET_TITLE_HOLDER_INHERIT_EFFECT;§Y$CHAR$§£¡¼Ì³ĞÍ·ÏÎ§Y$TITLE$§£¡\n;§Y$CHAR$§! hérite du titre suivant $TITLE$\n;$CHAR$ erbt den Titel $TITLE$\n;;$CHAR$ hereda el $TITLE$\n;;;;;;;;;x
-SET_TITLE_HOLDER_GRANT_EFFECT;§Y$CHAR$§£¡±»ÊÚÓèÍ·ÏÎ §Y$TITLE$§£¡\n;§Y$CHAR$§! obtient le titre suivant : $TITLE$\n;$CHAR$ bekommt den $TITLE$ gewährt\n;;A $CHAR$ se le concede el $TITLE$\n;;;;;;;;;x
+SET_TITLE_HOLDER_GRANT_EFFECT;§Y$CHAR$§£¡±»ÊÚÓèÍ·ÏÎ§Y$TITLE$§£¡\n;§Y$CHAR$§! obtient le titre suivant : $TITLE$\n;$CHAR$ bekommt den $TITLE$ gewährt\n;;A $CHAR$ se le concede el $TITLE$\n;;;;;;;;;x
 REBEL_DEFECTION_EFFECT;§Y$TITLE$§£¡ÅÑÌÓµ½§Y$CHAR$§£¡\n;Le §Y$TITLE$§! revient à §Y$CHAR$§!\n;§Y$TITLE$§! desertiert zu §Y$CHAR$§!\n;;El §Y$TITLE$§! deserta al §Y$CHAR$§!\n;;;;;;;;;x
 END_WAR_EFFECT;Õ½Õù½áÊøÌõ¼şÈçÏÂ£º\n;La guerre se termine avec les conditions de paix suivantes : \n;Krieg endet mit den folgenden Friedensbedingungen:\n;;Fin de la guerra con las siguientes condiciones de paz:\n;;;;;;;;;x
 PHASE_CHANGE_TO;Õ½ÒÛ½×¶Î±äÎª;La phase de combat passe à : ;Gefechtsphase ändert sich zu;;La fase del combate pasa a;;;;;;;;;x
@@ -600,7 +600,7 @@ APPOINT_REGENTS_ON;Äã¿ÉÒÔÈÎÃüÉãÕşÕß¡£\n;Vous pouvez maintenant nommer des régent
 APPOINT_REGENTS_OFF;Äã²»¿ÉÒÔÈÎÃüÉãÕşÕß¡£\n;Vous ne pouvez plus nommer de régents.\n;Ihr könnt keine Regenten mehr ernennen.\n;;Ya no puedes nombrar regentes.\n;;;;;;;;;x
 HEREDITARY_JOB_ON;Í·ÏÎ$JOB$¿ÉÒÔ±»ÊÀÏ®\n;Le titre de $JOB$ est désormais héréditaire.\n;Der Titel $JOB$ ist jetzt erblich\n;;El título $JOB$ ya es hereditario\n;;;;;;;;;x
 HEREDITARY_JOB_OFF;Í·ÏÎ$JOB$²»ÄÜ±»ÊÀÏ®\n;Le titre de $JOB$ n'est plus héréditaire.\n;Der Titel $JOB$ ist nicht mehr erblich\n;;El título $JOB$ ya no es hereditario\n;;;;;;;;;x
-REL_AUTHORITY_EFFECT;$DIRECTION$ $PERC$×Ú½ÌÈ¨Íş\n;$DIRECTION$ $PERC$ en autorité morale\n;$DIRECTION$ $PERC$ Moralische Autorität\n;;$DIRECTION$ $PERC$ Autoridad moral\n;;;;;;;;;x
+REL_AUTHORITY_EFFECT;$DIRECTION$$PERC$×Ú½ÌÈ¨Íş\n;$DIRECTION$ $PERC$ en autorité morale\n;$DIRECTION$ $PERC$ Moralische Autorität\n;;$DIRECTION$ $PERC$ Autoridad moral\n;;;;;;;;;x
 SET_NAME_EFFECT;$OLD_NAME$¸ÄÃûÎª$NEW_NAME$\n;$OLD_NAME$ prend le nouveau nom de : $NEW_NAME$\n;$OLD_NAME$ ändert Name zu $NEW_NAME$\n;;$OLD_NAME$ pasa a llamarse $NEW_NAME$\n;;;;;;;;;x
 PLOT_IS_REVEALED;ÒõÄ±°ÜÂ¶\n;Complot révélé\n;Verschwörung wird aufgedeckt\n;;El complot es descubierto\n;;;;;;;;;x
 BACK_PLOT_EFFECT;$BACKER$¼ÓÈë$PLOTTER$µÄÒõÄ±$TITLE$\n;$BACKER$ rejoint $PLOTTER$ dans le complot pour $TITLE$\n;$BACKER$ unterstützt $PLOTTER$ bei der Verschwörung: $TITLE$.\n;;$BACKER$ se une al complot de $PLOTTER$ para el $TITLE$\n;;;;;;;;;x
@@ -616,11 +616,11 @@ DIVORCEEFFECT;§Y$WHO$§£¡Óë§Y$SPOUSE$§£¡Àë»é¡£\n;§Y$WHO$§! divorce de §Y$SPOUSE$§
 SET_GUARDIAN_EFFECT;$GUARDIAN$³ÉÎªÁË$WHO$µÄ¼à»¤ÈË¡£\n;$GUARDIAN$ prend la tutelle de $WHO$.\n;$GUARDIAN$ wird Vormund von $WHO$.\n;;$GUARDIAN$ se convierte en guardián de $WHO$.\n;;;;;;;;;x
 BECOME_HERETIC_EFFECT;½ÓÊÜ§Y$HERESY$§£¡µÄÒì¶ËĞÅÑö¡£\n;Embrasse l'hérésie §Y$HERESY$§!.\n;Unterstützt die §Y$HERESY$§!-Ketzerei.\n;;Adopta la herejía §Y$HERESY$§!.\n;;;;;;;;;x
 ABANDON_HERESY_EFFECT;·ÅÆú§Y$HERESY$§£¡µÄÒì¶ËĞÅÑö¡£\n;Renonce à l'hérésie §Y$HERESY$§!.\n;Nimmt von der §Y$HERESY$§!-Ketzerei Abstand.\n;;Abandona la herejía §Y$HERESY$§!.\n;;;;;;;;;x
-NAMED_CHARACTER_CREATED;$TYPE$ Ãû½Ğ §Y$NAME$§£¡ ³öÏÖÔÚ §Y$EMPLOYER$§£¡µÄ¹¬Í¢ÄÚ¡£\n;$TYPE$ portant le nom de §Y$NAME$§! fait son apparition à la Cour de §Y$EMPLOYER$§!.\n;$TYPE$, genannt §Y$NAME$§!, erscheint am Hof von §Y$EMPLOYER$§!.\n;;$TYPE$ de nombre §Y$NAME$§! se presenta en la corte de §Y$EMPLOYER$§!.\n;;;;;;;;;x
+NAMED_CHARACTER_CREATED;$TYPE$Ãû½Ğ§Y$NAME$§£¡³öÏÖÔÚ§Y$EMPLOYER$§£¡µÄ¹¬Í¢ÄÚ¡£\n;$TYPE$ portant le nom de §Y$NAME$§! fait son apparition à la Cour de §Y$EMPLOYER$§!.\n;$TYPE$, genannt §Y$NAME$§!, erscheint am Hof von §Y$EMPLOYER$§!.\n;;$TYPE$ de nombre §Y$NAME$§! se presenta en la corte de §Y$EMPLOYER$§!.\n;;;;;;;;;x
 INFANT_CREATED;Ò»¸ö½Ğ×ö§Y$NAME$§£¡µÄº¢×Ó³öÏÖÔÚ§Y$EMPLOYER$§£¡µÄ¹¬Í¢¡£\n;Un bébé portant le nom de §Y$NAME$§! fait son apparition à la Cour de §Y$EMPLOYER$§!.\n;Ein Kind namens §Y$NAME$§! erscheint am Hof von §Y$EMPLOYER$§!.\n;;Un niño de nombre §Y$NAME$§! se presenta en la corte de §Y$EMPLOYER$§!.\n;;;;;;;;;x
 CHARACTER_CREATED;$TYPE$³öÏÖÔÚ§Y$EMPLOYER$§£¡µÄ¹¬Í¢¡£\n;Un(e) $TYPE$ fait son apparition à la Cour de §Y$EMPLOYER$§!.\n;Ein $TYPE$ erscheint am Hof von §Y$EMPLOYER$§!.\n;;Un $TYPE$ se presenta en la corte de §Y$EMPLOYER$§!.\n;;;;;;;;;x
-HEALTH_EFFECT;§Y$WHO$§W $DIRECTION$ $VALUE$½¡¿µ¡£\n;§Y$WHO$§W $DIRECTION$ $VALUE$ en santé.\n;§Y$WHO$§W $DIRECTION$ $VALUE$ Gesundheit.\n;;§Y$WHO$§W $DIRECTION$ $VALUE$ Salud.\n;;;;;;;;;x
-FERTILITY_EFFECT;§Y$WHO$§W $DIRECTION$ $PERC$ÉúÓıÄÜÁ¦¡£\n;§Y$WHO$§W $DIRECTION$ $PERC$ en fertilité.\n;§Y$WHO$§W $DIRECTION$ $PERC$ Fruchtbarkeit.\n;;§Y$WHO$§W $DIRECTION$ $PERC$ Fertilidad.\n;;;;;;;;;x
+HEALTH_EFFECT;§Y$WHO$§W$DIRECTION$$VALUE$½¡¿µ¡£\n;§Y$WHO$§W $DIRECTION$ $VALUE$ en santé.\n;§Y$WHO$§W $DIRECTION$ $VALUE$ Gesundheit.\n;;§Y$WHO$§W $DIRECTION$ $VALUE$ Salud.\n;;;;;;;;;x
+FERTILITY_EFFECT;§Y$WHO$§W$DIRECTION$$PERC$ÉúÓıÄÜÁ¦¡£\n;§Y$WHO$§W $DIRECTION$ $PERC$ en fertilité.\n;§Y$WHO$§W $DIRECTION$ $PERC$ Fruchtbarkeit.\n;;§Y$WHO$§W $DIRECTION$ $PERC$ Fertilidad.\n;;;;;;;;;x
 CHANGECULTUREEFFECT;$WHERE$³ÉÎª$NAME$¡£\n;La culture de $WHERE$ devient $NAME$.\n;$WHERE$ wird $NAME$.\n;;$WHERE$ se convierte en $NAME$.\n;;;;;;;;;x
 RELIGION_CHANGE;$WHERE$³ÉÎª$NAME$¡£\n;$WHERE$ se convertit à la foi $NAME$.\n;$WHERE$ wird $NAME$.\n;;$WHERE$ se convierte en $NAME$.\n;;;;;;;;;x
 ACTIVATE_TITLE_EFFECT;§Y$TITLE$§£¡ÏÖÔÚ´æÔÚ¡£\n;§Y$TITLE$§! existe désormais.\n;§Y$TITLE$§! existiert jetzt.\n;;§Y$TITLE$§! ya existe.\n;;;;;;;;;x
@@ -645,9 +645,9 @@ ALL_INDEPENDENT_RULERS;ËùÓĞ¶ÀÁ¢ÁìÖ÷;Tous les souverains indépendants;Alle Unabhä
 ALL_CURRENT_ENEMIES;ËùÓĞµĞÈË;Tous les ennemis de guerre;Alle Kriegsgegner;;Todos los enemigos en guerra;;;;;;;;;x
 START_WAR_EFFECT;$ATTACKER$¶Ô$DEFENDER$ĞûÕ½\n;$ATTACKER$ déclare la guerre à $DEFENDER$\n;$ATTACKER$ erklärt $DEFENDER$ den Krieg\n;;$ATTACKER$ declara la guerra contra $DEFENDER$\n;;;;;;;;;x
 WAR_BECOMES_INVALID;Õ½Õù½áÊø\n;La guerre prend fin\n;Der Krieg endet\n;;La guerra termina\n;;;;;;;;;x
-;#MORALE_EFFECT;Troops gets $PERC$ morale¡£\n;;Truppen erhalten $PERC$ Moral.\n;;Los soldados logran $PERC$ moral.\n;;;;;;;;;x;
-;#REINFORCE_EFFECT;Commanded troops are reinforced by $PERC$¡£\n;;Befehligte Truppen werden um $PERC$ verst?rkt.\n;;Los soldados comandados son reforzados por $PERC$.\n;;;;;;;;;x;
-;#INVERTREINFORCE_EFFECT;$PERC$ of commanded troops are killed¡£\n;;$PERC$ der befehligten Truppen sind gefallen.\n;;$PERC$ de los soldados comandados es asesinado.\n;;;;;;;;;x;
+;#MORALE_EFFECT;Troopsgets$PERC$morale¡£\n;;Truppen erhalten $PERC$ Moral.\n;;Los soldados logran $PERC$ moral.\n;;;;;;;;;x;
+;#REINFORCE_EFFECT;Commandedtroopsarereinforcedby$PERC$¡£\n;;Befehligte Truppen werden um $PERC$ verst?rkt.\n;;Los soldados comandados son reforzados por $PERC$.\n;;;;;;;;;x;
+;#INVERTREINFORCE_EFFECT;$PERC$ofcommandedtroopsarekilled¡£\n;;$PERC$ der befehligten Truppen sind gefallen.\n;;$PERC$ de los soldados comandados es asesinado.\n;;;;;;;;;x;
 ALLOW_REVOKATION_ON;ÔÊĞí³·»ØÍ·ÏÎ\n;Annulation des titres autorisée\n;Entzug gewährter Titel gestattet\n;;Revocación de títulos permitida\n;;;;;;;;;x
 ALLOW_REVOKATION_OFF;²»Ğí³·»ØÍ·ÏÎ\n;Annulation des titres non autorisée\n;Entzug gewährter Titel nicht gestattet\n;;Revocación de títulos no permitida\n;;;;;;;;;x
 ALLOW_FREE_INFIDEL_REVOKATION_ON;ËæÒâ³·»ØÒì½ÌÍ½µÄÍ·ÏÎ\n;L'annulation des titres des infidèles est libre\n;Entzug von Ungläubigentiteln frei\n;;Revocación de títulos de infieles gratuita\n;;;;;;;;;x
@@ -660,8 +660,8 @@ FATHER_EFFECT;§Y$FATHER$§WÊÕÑø§Y$WHO$§W¡£\n;§Y$FATHER$§W adopte §Y$WHO$§W.\n;§Y$
 MOTHER_EFFECT;§Y$MOTHER$§WÊÕÑø§Y$WHO$§W¡£\n;§Y$MOTHER$§W adopte §Y$WHO$§W.\n;§Y$MOTHER$§W adoptiert §Y$WHO$§W.\n;;§Y$MOTHER$§W adopta a §Y$WHO$§W.\n;;;;;;;;;x
 DISEASE_INCREASED;»¼²¡Ê±¼äÔö¼ÓÁË$VAL$ÔÂ¡£\n;Durée de la maladie prolongée de $VAL$ mois.\n;Dauer der Krankheit um $VAL$ verlängert.\n;;Duración de enfermedad aumentada en $VAL$ meses.\n;;;;;;;;;x
 DISEASE_DECREASED;»¼²¡Ê±¼ä¼õÉÙÁË$VAL$ÔÂ¡£\n;Durée de la maladie réduite de $VAL$ mois.\n;Dauer der Krankheit um $VAL$ verkürzt.\n;;Duración de enfermedad reducida en $VAL$ meses.\n;;;;;;;;;x
-;#BECOMES_EXCOMMUNICATED_EFFECT;Becomes Excommunicated;;Wird exkommuniziert;;Es excomulgado;;;;;;;;;x;
-;#EXCOMMUNICATION_LIFTED_EFFECT;Excommunication Lifted;;Exkommunikation aufgehoben;;Excomuni¨®n anulada;;;;;;;;;x;
+;#BECOMES_EXCOMMUNICATED_EFFECT;BecomesExcommunicated;;Wird exkommuniziert;;Es excomulgado;;;;;;;;;x;
+;#EXCOMMUNICATION_LIFTED_EFFECT;ExcommunicationLifted;;Exkommunikation aufgehoben;;Excomuni¨®n anulada;;;;;;;;;x;
 COMBATEND_SURVIVORS;ĞÒ´æ;Survivants;Überlebende;;Supervivientes;;;;;;;;;x
 COMBATEND_CASUALTIES;ÉËÍö;Victimes;Verluste;;Bajas;;;;;;;;;x
 COMBATEND_INITIAL;³õÊ¼;Forces;Anfänglich;;Inicial;;;;;;;;;x
@@ -674,20 +674,20 @@ COMBATEND_TOTAL;×Ü¼Æ£º;Total : ;Gesamt:;;Total:;;;;;;;;;x
 COMBATEND_REST;ÆäËûÖ¸»Ó¹Ù£º;Tous les autres commandants : ;Alle anderen Anführer:;;Todos los demás líderes:;;;;;;;;;x
 COMBATEND_PIETY;§Y[Player.Religion.GetPietyName]Õ½¶·ÖĞ»ñµÃµÄò¯³Ï§£¡;§Y[Player.Religion.GetPietyName] découlant du combat§!;§YIn Schlacht erlangte [Player.Religion.GetPietyName]§!;;§Y[Player.Religion.GetPietyName] lograda en batalla§!;;;;;;;;;x
 COMBATEND_WEALTH_STOLEN;§YÎ§³Ç½ÙÂÓµÄ½ğÇ®§£¡;§YOr acquis au combat§!;§YIn Belagerung erlangtes Gold§!;;§YOro logrado en asedio§!;;;;;;;;;x
-;#COMBATVIEW_TOTALTROOPS;Total remaining troops;;Verbleibende Truppen (gesamt);;Total tropas restantes;;;;;;;;;x;
+;#COMBATVIEW_TOTALTROOPS;Totalremainingtroops;;Verbleibende Truppen (gesamt);;Total tropas restantes;;;;;;;;;x;
 COMBATVIEW_TOTALTROOPS_FLANK;ÕâÒ»ÒíµÄÊ£Óà²¿¶Ó£º;Troupes restantes sur ce flanc : ;Verbleibende Truppen dieser Flanke:;;Tropas restantes en este flanco:;;;;;;;;;x
-COMBATVIEW_PHASE_NAME;ÕâÒ»ÒíÕıÔÚ §Y$PHASE$½×¶Î§W;Ce flanc est actuellement en phase §Y$PHASE$ §W;Diese Flanke ist derzeit in der §Y$PHASE$-Phase§W;;Este flanco está actualmente en la fase §Y$PHASE$ §W;;;;;;;;;x
-COMBATVIEW_PHASE_DAMAGE;ÔÚ $PHASE$½×¶ÎÊ±ÕâÒ»ÒíÃ¿ÌìÃ¿ÃûÊ¿±ø½«Æ½¾ùÔì³É§Y$AVERAGE$§WÉËº¦;En phase $PHASE$, ce flanc infligera des dégâts moyens de §Y$AVERAGE$§W par soldat et par jour.;In der $PHASE$-Phase fügt diese Flanke dem Gegner pro Soldat und Tag einen durchschnittlichen Schaden von §Y$AVERAGE$§W zu;;En la fase $PHASE$ este flanco causará un daño medio de §Y$AVERAGE$§W por soldado y día;;;;;;;;;x
+COMBATVIEW_PHASE_NAME;ÕâÒ»ÒíÕıÔÚ§Y$PHASE$½×¶Î§W;Ce flanc est actuellement en phase §Y$PHASE$ §W;Diese Flanke ist derzeit in der §Y$PHASE$-Phase§W;;Este flanco está actualmente en la fase §Y$PHASE$ §W;;;;;;;;;x
+COMBATVIEW_PHASE_DAMAGE;ÔÚ$PHASE$½×¶ÎÊ±ÕâÒ»ÒíÃ¿ÌìÃ¿ÃûÊ¿±ø½«Æ½¾ùÔì³É§Y$AVERAGE$§WÉËº¦;En phase $PHASE$, ce flanc infligera des dégâts moyens de §Y$AVERAGE$§W par soldat et par jour.;In der $PHASE$-Phase fügt diese Flanke dem Gegner pro Soldat und Tag einen durchschnittlichen Schaden von §Y$AVERAGE$§W zu;;En la fase $PHASE$ este flanco causará un daño medio de §Y$AVERAGE$§W por soldado y día;;;;;;;;;x
 COMBATVIEW_PHASE_DESC_SKIRMISH;ÔÚÉä»÷½×¶ÎÁ½¾ü½«±£³Ö¾àÀë\n§Y¹­¼ıÊÖ§W£¬§YÆïÉäÊÖ§WºÍ§YÇáÆï±ø§WÉÃ³¤§YÉä»÷½×¶Î§W;En phase d'escarmouche, les armées gardent leurs distances.\nLes §Yarchers§W, les §Yarchers montés§W et la §Ycavalerie légère§W excellent en §Yphase Escarmouche§W.;In der Scharmützelphase bleiben Armeen auf Distanz\n§YBogenschützen§W, §YBer. Bogenschützen§W und §YLeichte Kavallerie§W zeichnen sich in der §YScharmützelphase§W aus;;En la fase de escaramuza los ejércitos se mantendrán a distancia\n§YArqueros§W, §YArqueros a caballo§W y §YCaballería ligera§W destacan en la fase de §YEscaramuza§W;;;;;;;;;x
 COMBATVIEW_PHASE_DESC_MELEE;ÔÚÈâ²«½×¶ÎÁ½¾üÃæ¶ÔÃæØËÉ±\n§YÖØ²½±ø§W£¬§Y³¤Ç¹±ø§WºÍ§YÆïÊ¿§WÉÃ³¤§YÈâ²«½×¶Î§W;En phase de mêlée, les armées sont verrouillées sur le combat rapproché.\n§YL'infanterie lourde§W, les §Ypiquiers§W et les §Ychevaliers§W excellent en §Yphase Mêlée§W.;In der Nahkampfphase kämpfen die Armeen Mann gegen Mann\n§YSchwere Infanterie§W, §YPikeniere§W und §YRitter§W zeichnen sich in der §YNahkampfphase§W aus;;En la fase de combate en masa los ejércitos luchan cuerpo a cuerpo\n§YInfantería pesada§W, §YPiqueros§W y §YCaballeros§W destacan en la fase §Yde combate en masa§W;;;;;;;;;x
 COMBATVIEW_PHASE_DESC_PURSUE;ÔÚ×·»÷½×¶Î°Ü¾üÀ£É¢£¬Ê¤Õß×·ÍöÖğ±±\n§YÆïÊ¿§W£¬§YÇáÆï±ø§WºÍ§YÆïÉäÊÖ§WÉÃ³¤§Y×·»÷½×¶Î§W;En phase de poursuite, une des armées est en déroute et l'autre est à ses trousses.\nLes §Ychevaliers§W, la §Ycavalerie légère§W et les §Yarchers montés§W excellent en §Yphase Poursuite§W.;In der Verfolgungsphase hat eine der Armeen die Flucht ergriffen und wird von der anderen verfolgt\n§YRitter§W, §YLeichte Kavallerie§W und §YBer. Bogenschützen§W zeichnen sich in der §YVerfolgungsphase§W aus;;En la fase de persecución uno de los ejércitos es derrotado y el otro le persigue\n§YCaballeros§W, §YCaballería ligera§W y §YArqueros a caballo§W destacan en la fase de §YPersecución§W;;;;;;;;;x
 COMBATVIEW_TROOP_DEFENCE;£¨±¾½×¶ÎµÄÆ½¾ù·ÀÓùÁ¦£º§Y$DEF$§W£©;(Défense moy. de cette phase : §Y$DEF$§W);(Durchschn. Verteid. in dieser Phase: §Y$DEF$§W);;(Promedio de defensa en esta fase: §Y$DEF$§W);;;;;;;;;x
-;#COMBATVIEW_FLANK_MORALE;Average morale in this flank£º$MORALE$ £¨§Y+$DELTA$§W / week£©;;Durchschnittsmoral dieser Flanke: §Y$MORALE$§W (§Y+$DELTA$§W / Woche);;Moral promedio en este flanco: $MORALE$ (§Y+$DELTA$§W / semana);;;;;;;;;x;
-COMBATVIEW_AVERAGE_MORALE;Æ½¾ùÊ¿Æø£º §Y$MORALE$§W£¨Ã¿ÖÜ§Y+$DELTA$§W£©;Moral moyen : §Y$MORALE$§W (§Y+$DELTA$§W / semaine);Durchschnittsmoral: §Y$MORALE$§W (§Y+$DELTA$§W / Woche);;Moral promedio: §Y$MORALE$§W (§Y+$DELTA$§W / semana);;;;;;;;;x
+;#COMBATVIEW_FLANK_MORALE;Averagemoraleinthisflank£º$MORALE$£¨§Y+$DELTA$§W/week£©;;Durchschnittsmoral dieser Flanke: §Y$MORALE$§W (§Y+$DELTA$§W / Woche);;Moral promedio en este flanco: $MORALE$ (§Y+$DELTA$§W / semana);;;;;;;;;x;
+COMBATVIEW_AVERAGE_MORALE;Æ½¾ùÊ¿Æø£º§Y$MORALE$§W£¨Ã¿ÖÜ§Y+$DELTA$§W£©;Moral moyen : §Y$MORALE$§W (§Y+$DELTA$§W / semaine);Durchschnittsmoral: §Y$MORALE$§W (§Y+$DELTA$§W / Woche);;Moral promedio: §Y$MORALE$§W (§Y+$DELTA$§W / semana);;;;;;;;;x
 ENDGAME_DYNA1;Ò»Ğ©Ëæ»úµÄ¼Ò×å;Dynastie aléatoire;Zufällige Dynastie;;Dinastía al azar;;;;;;;;;x
 ENDGAME_STARTOFGAME;ÓÎÏ·¿ªÊ¼;Début du jeu;Spielbeginn;;Comienzo de partida;;;;;;;;;x
 ENDGAME_TEXT_DEATH;Àú¾­$NUMCHARS$´úÍ³ÖÎÕßºó£¬ÄãµÄ¼Ò×åÓÚÎŞºóµÄ$ENDCHAR$´¦ÖÕ½á¡£;Après $NUMCHARS$ personnages successifs, la mort sans héritier de $ENDCHAR$ a rompu votre lignée. ;Nach einem Stammbaum von $NUMCHARS$ Charakteren hat Eure Blutlinie mit dem Tod des kinderlosen $ENDCHAR$ ein Ende gefunden.;;Tras una estirpe de $NUMCHARS$ personajes tu linaje ha terminado con la muerte de los descendientes sin hijos $ENDCHAR$.;;;;;;;;;x
-;#ENDGAME_TEXT_ENDGAME;Bla bla bla£¬end of game¡£;;Blablabla, Spielende.;;Bla bla bla, fin de partida.;;;;;;;;;x;
+;#ENDGAME_TEXT_ENDGAME;Blablabla£¬endofgame¡£;;Blablabla, Spielende.;;Bla bla bla, fin de partida.;;;;;;;;;x;
 END_HISTORICAL_DYNASTIES;ÀúÊ·¼Ò×å£º;Dynasties historiques : ;Historische Dynastien:;;Dinastías históricas:;;;;;;;;;x
 END_GAME_OVER;ÓÎÏ·½áÊø£¡;Fin de la partie !;Game Over!;;¡Juego terminado!;;;;;;;;;x
 END_YOUR_SCORE;ÄãÃÇµÄ·ÖÊı;Votre score ;Eure Punkte;;Tu puntuación;;;;;;;;;x
@@ -695,7 +695,7 @@ QUIT_TO_MENU;ÍË³öµ½Ö÷²Ëµ¥;Quitter pour revenir au menu;Zum Menü beenden;;Salir a
 DAYS_OF_RULE;Í³ÖÎÁË$DAYS$Ìì;a régné $DAYS$ jours.;Herrschte $DAYS$ Tage;;Gobernado durante $DAYS$ días;;;;;;;;;x
 MONTHS_OF_RULE;Í³ÖÎÁË$MONTHS$¸öÔÂ;a régné $MONTHS$ mois.;Herrschte $MONTHS$ Monate;;Gobernado durante $MONTHS$ meses;;;;;;;;;x
 YEARS_OF_RULE;Í³ÖÎÁË$YEARS$Äê;a régné $YEARS$ ans.;Herrschte $YEARS$ Jahre;;Gobernado durante $YEARS$ años;;;;;;;;;x
-FAILED_TO; Ã»ÄÜ; n'avez pas réussi à; gescheitert,;; No ha logrado;;;;;;;;;x
+FAILED_TO;Ã»ÄÜ; n'avez pas réussi à; gescheitert,;; No ha logrado;;;;;;;;;x
 DYN1_DESC;×îÖÕ·ÖÊı£º$SCORE$.Äã$FAILED$³¬¹ı¿¨Åå¼Ò×å.¿¨Åå¼Ò×åÓÉÍºÍ·²éÀíµÄÖØ³¼Ç¿ÕßÂŞ²®ÌØËù´´½¨£¬×îÖÕÔÚ1066Äê»ñµÃ·¨À¼Î÷ÍõÎ».¾¡¹ÜÔÚ1322ÄêÊ±Ö±ÏµºóÒá¶Ï¾ø£¬¿¨Åå¼Ò×åµÄ·ÖÖ§ÒÀÈ»ÔÚ1337ÄêÊ±ÓµÓĞ·¨À¼Î÷£¬ÆÏÌÑÑÀ£¬ÄÇ²»ÀÕË¹£¬ĞÙÑÀÀûºÍÄÉÍßÀ­µÄÍõÎ».ÆäËû·ÖÖ§»¹ÓµÓĞ²¼ÁĞËşÄá£¬²ªôŞµÚ£¬²¨ÅÔ£¬ÆÕÂŞÍúË¹ºÍ°¢¿­ÑÇ¹«¾ôÍ·ÏÎ.Ò»¸ö¸üÔ¶µÄ·ÖÖ§ÊÇ¾ıÊ¿Ì¹¶¡±¤À­¶¡µÛ¹úµÄ»ÊµÛ.ÕâÕæÊÇÖĞÊÀ¼ÍÅ·ÖŞÊ·×îÎ°´óµÄ¼Ò×å¡­¡­;Votre score est de $SCORE$ et vous pouvez le comparer avec celui de la Maison capétienne qui descend de Robert le Fort, puissant personnage ayant vécu pendant le règne de Charles le Chauve. En 1066, ses descendants sont Rois de France. Malgré l'extinction de la lignée principale en 1322, les branches cadettes règnent, en 1337, sur la France, le Portugal, Naples, la Hongrie et la Navarre. D'autres branches cadettes détiennent les duchés de Bretagne, de Bourgogne, de Bourbon, de Provence et d'Achaïe. Les empereurs latins de Constantinople sont également issus d'une branche cadette de cette dynastie qui est sans conteste la plus importante de l'Europe médiévale.;Mit einem Punktestand von $SCORE$ seid Ihr damit $FAILED$, das Haus der Kapetinger zu besiegen. Einer deren Vorväter war Robert der Tapfere, der während des Herrschaft Karls des Kahlen eine zentrale Rolle spielte. Seine Nachfahren stellten ab 1066 die französischen Könige. Obwohl die Hauptlinie 1322 ausstarb, herrschten Familienzweige der Kapetinger 1337 als Könige Frankreichs, Portugals, Neapels, Ungarns und Navarras. Auch die Herzogtümer Bretagne, Burgund, Bourbon, Provence und Achaea wurden von Kapetingern beherrscht. Eine Nebenlinie dieser Familie hatte gar den würdevollen Titel des lateinischen Kaisers von Konstantinopel inne. Die Kapetinger waren wahrlich die bedeutendste Dynastie des mittelalterlichen Europas.;;Con una puntuación de $SCORE$ tú, $FAILED$, no has logrado vencer a la Casa Capet. Descendiente de Roberto el Fuerte, que fue un poderoso personaje en el reinado de Carlos el Calvo. Sus descendientes serían reyes de Francia en 1066. En 1322 el linaje principal desapareció, las líneas de sangre secundarias gobernaron en 1337, como reyes, Francia, Portugal, Nápoles, Hungría y Navarra. Estas líneas de sangre poseyeron los ducados de Britania, Burgundia, Bourbon, Provenza y Acaia. Una línea adicional ostentó el título de emperador como emperadores latinos de Constantinopla. Fue la mayor dinastía de la Europa medieval.;;;;;;;;;x
 DYN2_DESC;×îÖÕ·ÖÊı£º$SCORE$.Äã$FAILED$³¬¹ı¹ş²¼Ë¹±¤¼Ò×å.Ò»¿ªÊ¼£¬ÔÚ1066Äê£¬¹ş²¼Ë¹±¤¼Ò×åÇ°¾°Ê®·Ö°µµ­.±ÈÆğ11ÊÀ¼ÍÈÕ¶úÂüÖî¶àºô·ç»½ÓêµÄÅÓ´ó¼Ò×å£¬¹ş²¼Ë¹±¤Ö»ÊÇÒ»¸öÈğÊ¿µÄĞ¡²®¾ô£¬ÔÚµÛ¹úÄÚ²¿ÎŞ×ãÇáÖØ.µ«ÊÇÒ»Á¬´®¾«ĞÄ²ß»®µÄÕşÖÎÁªÒöÊ¹¼Ò×åÁìµØ²»¶ÏÀ©´ó£¬×îÖÕÔÚ13ÊÀ¼ÍÄ©14ÊÀ¼Í³õµÄ´ó»ìÂÒÖĞ±»Ñ¡ÎªÉñÊ¥ÂŞÂíµÛ¹ú»ÊµÛ£¬»ñµÃÁËµÛ¹úµÄÍ³ÖÎÈ¨.¾¡¹Ü»ÊÎ»²¢²»³¤¾Ã£¬¹ş²¼Ë¹±¤»¹ÊÇ½è»ú¾ğÈ¡ÁË°ÂµØÀû¹«¾ôÍ·ÏÎ.ÒÀ¿¿°ÂµØÀû£¬¹ş²¼Ë¹±¤¼Ò×åÔÚÖĞÅ·µÄÍ³ÖÎ³ÖĞøµ½ÁË1918Äê¡£;Votre score est de $SCORE$ et vous pouvez le comparer avec celui de la Maison Habsbourg. À première vue, rien ne prédispose la famille Habsbourg au destin qui l'attend. Elle est composée de petits comtes suisses dont le statut est négligeable au sein de l'Empire comparé aux grands magnats de l'Allemagne du XIe siècle. Mais grâce à une habile stratégie matrimoniale, la famille accroît progressivement sa puissance territoriale et, pendant le chaos qui s'empare de l'Empire à la fin du XIIIe et au début du XIVe siècle, elle accède au trône du Saint-Empire romain germanique. Bien qu'évincée du pouvoir, la dynastie parvient à conserver le Duché d'Autriche et continue à dominer la politique de l'Europe centrale jusqu'en 1918.;Mit einem Punktestand von $SCORE$ seid Ihr damit $FAILED$, das Haus der Habsburger zu besiegen. Oberflächlich betrachtet sah es für die Familie der Habsburger nicht gut aus: Als schweizerische Kleinadlige war ihr Status im Reich im Vergleich zu den großen territorialen Magnaten im Deutschland des elften Jahrhunderts ziemlich unerheblich. Durch taktische Heiraten erweiterte die Familie ihren Landbesitz kontinuierlich, und während des Chaos des ausgehenden 13. und beginnenden 14. Jahrhunderts wurde sie an die Spitze des Heiligen Römischen Reiches gewählt. Obwohl sie dieses Amt nicht halten konnte, so verstand sie es doch als Sprungbrett zur Sicherung des Herzogtums Österreichs für die Dynastie zu nutzen. Von dieser Machtbasis aus sollten die Habsburger die Politik Mitteleuropas bis 1918 dominieren.;;Con una puntuación de $SCORE$ tú, $FAILED$, no has logrado vencer a la Casa de Habsburgo. No parece que las cosas le vayan muy bien a la familia Habsburgo. Como condes suizos de segundo orden, su estatus dentro del imperio era bajo frente al de los grandes potentados de la Alemania del siglo XI. Una política de matrimonios estratégicos facilitó la expansión constante de las tierras de la familia, y fue durante el caos que se apoderó del imperio a finales del siglo XIII y principios del XIV cuando la familia fue elegida para el oficio del Sacro Imperio Romano Germánico. No lograron conservar el oficio, pero lo usaron como trampolín para hacerse con el ducado de Austria. Desde esta poderosa base, la familia dominaría las políticas de Europa Central hasta 1918.;;;;;;;;;x
 DYN3_DESC;×îÖÕ·ÖÊı£º$SCORE$.Äã$FAILED$³¬¹ıÁôÀï¿Ë¼Ò×å.9ÊÀ¼ÍÊ±£¬À´×ÔÈğµäµÄÎ¬¾©ÈËÁôÀï¿ËÔÚÂŞË¹£¨½ñÌìµÄ¶íÂŞË¹ºÍÎÚ¿ËÀ¼£©½¨Á¢ÁËÒ»¸ö¹ú¼Ò.ÔÚ¼Ì³ĞÈËÖĞ·Ö¸îÁìµØµÄÕş²ßµ¼ÖÂÁË¹ú¼ÒµÄ·ÖÁÑºÍ²»Í¬Ö§ÏµÖ®¼äµÄÕù¶·²»Ğİ.ÕâÊ¹ËûÃÇÔÚ13ÊÀ¼ÍÊ±¹ıÓÚ·ÖÁÑ£¬ÎŞ·¨µÖµ²×¡ÃÉ¹ÅÈëÇÖ.³É¼ªË¼º¹Ö®Ëï°Î¶¼Öğ¸öÕ÷·şÁËÕâĞ©¹«¹ú£¬Ç¿ÆÈËûÃÇÏòÃÉ¹ÅÈËÄÉ¹±.²»¹ıÁôÀï¿Ë¼Ò×å»¹ÊÇ±£´æÏÂÀ´ÁË£¬µÈ´ı×ÅÖØĞÂáÈÆğµÄÊ±»ú¡­¡­¡­¡­;Votre score est de $SCORE$ et vous pouvez le comparer avec celui de la Maison Riourikide qui descend du Viking suédois Riourik, fondateur de l'État de Rus (correspondant à la Russie et à l'Ukraine modernes) au IXe siècle. La politique de division des terres mène à la fragmentation de l'État et à des conflits entre les différents groupes familiaux. Ces divisions les empêchent de résister à l'invasion mongole. Les grands États tombent les uns après les autres aux mains de Batu, petit-fils de Gengis Khan, les obligeant à se soumettre aux victorieux Mongols. La famille proprement dite renaîtra plus tard de ses cendres.;Mit einem Punktestand von $SCORE$ seid Ihr damit $FAILED$, das Haus der Rurikiden zu besiegen. Diese waren Nachkommen des schwedischen Wikingers Rurik, der im neunten Jahrhundert in Rus (im heutigen Russland und der Ukraine gelegen) einen Staat etablierte. Die Aufteilungspolitik für Ländereien führte zur Fragmentierung des Staats und zu Fehden der verschiedenen Familiengruppen. Aufgrund dessen waren sie zu schwach, der mongolischen Invasion zu widerstehen. Die Großstaaten fielen Batu, dem Enkel Dschingis Khans, einer nach dem anderen in die Hände und mussten den siegriechen Mongolen Tributzahlungen entrichten. Die Familie selbst aber sollte überleben und später wieder an die Macht kommen.;;Con una puntuación de $SCORE$ tú, $FAILED$, no has logrado vencer a la Casa de Rurikovich, descendientes del vikingo sueco Rurik, quien creó un estado en Rus (actualmente Rusia y Ucrania) en el siglo IX. La política de división de tierras originó la fragmentación del estado y los diversos grupos familiares combatieron entre sí. Ello les dejó muy divididos para enfrentarse a la invasión mongol. Los grandes estados cayeron uno a uno ante Batu, el nieto de Genghis Khan, y tuvieron que pagar tributo a los victoriosos mongoles. La familia sobrevivió y luego volvió a prosperar.;;;;;;;;;x
@@ -704,7 +704,7 @@ DYN5_DESC;×îÖÕ·ÖÊı£º$SCORE$.Äã$FAILED$³¬¹ıÆ¤ÑÇË¹ÌØ¼Ò×å.Æ¤ÑÇË¹ÌØ¼Ò×åµÄ´´½¨ÕßÔÚ³ÉÎ
 DYN6_DESC;×îÖÕ·ÖÊı£º$SCORE$.Äã$FAILED$³¬¹ı¿ÆÄÂÄş¼Ò×å.Èç¹ûÎÒÃÇ½«1057ÄêÍ¨¹ıÕş±ä³ÉÎª»ÊµÛµÄÒÁÈø¿ËÒ»ÊÀÅÅ³ıÔÚÍâ£¬¿ÆÄÂÄş¼Ò×åÒ»Ö±ÊÇ°İÕ¼Í¥µÛ¹úµÄÖÒ³ÏÆÍÈË.ÔÚÂüÆæ¿Ì¶ûÌØ²Ò°ÜÓÚÈû¶ûÖùÈËÖ®ºóµÄ´ó»ìÂÒÖĞ£¬¿ÆÄÂÄş¼Ò×å¼áÊØÆäÒıÒÔÎª°ÁµÄ¼Ò×å´«Í³£¬·¢¶¯ÁËÁíÒ»³¡Õş±ä.ÔÚ½ÓÏÂÀ´µÄ100ÄêÀï£¬¿ÆÄÂÄş¼Ò×å¶ôÖÆ×¡ÁË°İÕ¼Í¥µÛ¹úµÄË¥Âä£¬ÎªµÛ¹ú´øÀ´ÁËËùÎ½µÄ¿ÆÄÂÄş¸´ĞË.·í´ÌµÄÊÇ£¬¿ÆÄÂÄş¼Ò×åÍ¬Ñù±»¹¬Í¢Õş±äËùÍÆ·­£¬²»¹ıËûÃÇÔÚĞ¡ÑÇÏ¸ÑÇµÄÌØÀ×±ÈËÉ½¨Á¢ÁËĞÂµÄµÛ¹ú;Votre score est de $SCORE$ et vous pouvez le comparer avec celui de la Maison Comnène. Hormis Isaac qui fomente un coup d'État pour devenir Empereur en 1057, les Comnène sont de loyaux serviteurs de l'Empire byzantin. Dans le chaos qui règne après la victoire de Seldjouk à Manzikert, les Comnènes restent fidèles à la tradition familiale et fomentent un nouveau coup d'État. Au cours du siècle qui suit, la dynastie interrompt le déclin de l'Empire byzantin - cette période est connue sous le nom de 'restauration Comnène'. Comble de l'ironie, la famille est renversée par un coup d'État, mais elle continue à régner sur l'Empire de Trébizonde.;Mit einem Punktestand von $SCORE$ seid Ihr damit $FAILED$, das Haus der Komnenen zu besiegen. Bis auf Isaak, der sich 1057 durch einen erfolgreichen Staatsstreich zum Kaiser aufschwang, waren die Familienangehörigen der Komnenen dem Byzantinischen Kaiserreich loyale Untertanen. Im Chaos nach dem seldjukischen Sieg bei Manzikert folgten die Komnenen ihrer stolzen Familientradition und putschten erneut. Die darauffolgenden 100 Jahre konnte ihre Dynastie den Niedergang des Byzantinischen Kaiserreichs aufhalten. Diese Periode ging als Komnenische Restauration in die Geschichtsbücher ein. Ironischerweise wurde die Familie durch eine Palastrevolution gestürzt, aber sie setzte ihre Herrschaft als Kaiser von Trapezunt fort.;;Con una puntuación de $SCORE$ tú, $FAILED$, no has logrado vencer a la Casa Komnenos. Salvo Isaac, que organizó un exitoso golpe de estado para ser emperador en 1057, los miembros de la familia Komnenos fueron leales servidores del Imperio Bizantino. En el caos posterior a la victoria de Seljuk en Manzikert, la familia Komnenos siguió su orgullosa tradición familiar y organizó otro golpe. Los 100 años siguientes la dinastía detuvo el declive del Imperio Bizantino en el contexto de lo que se conoce como restauración Komenian. Irónicamente, la familia fue derrocada en un golpe de estado, siguieron gobernando como emperadores en Trebisonda.;;;;;;;;;x
 DYN7_DESC;×îÖÕ·ÖÊı£º$SCORE$.Äã$FAILED$³¬¹ı½ğÈ¸»¨¼Ò×å.½ğÈ¸»¨¼Ò×åÊÇ°²Èã¼Ò×åµÄ·ÖÖ§.¼Ò×å´´½¨Õß½Ü¸¥ÀïÔÚ¸¸Ç×´Ó·¨¹ú¶¯ÉíÇ°ÍùÒ®Â·ÈöÀä¼ÓÃáÎªÍõºóÍÑÀëÁË±¾¼Ò.½ğÈ¸»¨¼Ò×åµÄºËĞÄÁìµØÔÚ·¨¹ú£¬Í¨¹ıÁªÒö¼Ì³ĞÁËÓ¢¸ñÀ¼¹úÍõºÍ·¨¹úµÄ´óÆ¬ÁìÍÁ.²»¹ı£¬ÔÚ·¨¹ú¼Ì³ĞµÄÁìµØ×îÖÕÒı·¢ÁËÓë·¨À¼Î÷¹úÍõµÄ³åÍ»£¬×îºóÑİ±äÎª°ÙÄêÕ½Õù¡£;Votre score est de $SCORE$ et vous pouvez le comparer avec celui de la Maison Plantagenêt issue de la première lignée des comtes d'Anjou. Geoffrey, fondateur de la dynastie, reste en France sur les terres familiales lorsque son père part pour Jérusalem afin de devenir roi. Grâce à d'habiles mariages, la famille Plantagenêt, déjà influente en France, hérite du Royaume d'Angleterre et de vastes territoires français. L'héritage français mène par la suite à des conflits incessants avec la France, puis à la guerre de Cent Ans.;Mit einem Punktestand von $SCORE$ seid Ihr damit $FAILED$, das Haus Plantagenet zu besiegen. Diese Familie begann als Nebenlinie des älteren Hauses Anjou. Der Dynastiegründer Geoffrey blieb mit den Familienländereien in Frankreich zurück, als sein Vater los zog, um in Jerusalem König zu werden. Die Familie Plantagenet hatte ihre Machtbasis in Frankreich und erbte über Vermählungen das Königreich England und große Teile Frankreichs. Das französische Erbe führte schließlich zum Konflikt mit Frankreich und zum Hundertjährigen Krieg.;;Con puntuación de $SCORE$ tú, $FAILED$, no has vencido a la Casa de Plantagenet, quien empezó como heredero de segunda de la antigua Casa de Anjou. Geoffrey, fundador de la dinastía, fue dejado en las tierras de la familia en Francia cuando su padre se fue a Jerusalén para convertirse en rey. Plantagenet tenía una sólida base en Francia y mediante matrimonios heredó el reino de Inglaterra y grandes territorios de Francia. La herencia francesa provocaría un conflicto con Francia y la Guerra de los Cien Años.;;;;;;;;;x
 DYN8_DESC;×îÖÕ·ÖÊı£º$SCORE$.Äã$FAILED$³¬¹ıÓ¢¸ñÁÖ¼Ò×å.ÒÁÀïÎÂ¼Ò×åÓÚ1047Äê³ÉÎªµ¤Âó¹úÍõ.µ½1337Äê£¬Õâ¸ö¼Ò×åÊÇ½öÓĞµÄÁ½¸öÈÔ±£³Ö×ÅÍõÎ»µÄ¼Ò×åÖ®Ò».¾¡¹Ü¼¸´ÎÊÔÍ¼À©ÕÅ£¬µ¤ÂóÖ»³É¹¦µÃµ½ÁË°®É³ÄáÑÇµÄ¼¸¿éÁìµØ£¬ÆäËûµÄÀ©ÕÅ×îÖÕ¹éÓÚÊ§°Ü.¼Ò×å±¾ÉíÉúÃüÁ¦µ¹ÊÇÊ®·ÖÍçÇ¿£¬ÔÚ»ìÂÒºÍÉ§¶¯µÄÊ±´úÊ¼ÖÕÒÙÁ¢²»µ¹£¬ÕâºÁÎŞÒÉÎÊÊÇÒ»ÏîÎ°´óµÄÒµ¼¨¡£;Votre score est de $SCORE$ et vous pouvez le comparer avec celui de la Maison Estrid. Ayant accédé au trône du Danemark en 1047, la maison Estrid est, en 1337, l'une des deux familles royales du pays. Malgré plusieurs tentatives d'expansion, le Danemark ne gagne qu'une petite portion du territoire estonien, après avoir perdu la majeure partie de ce qu'il avait acquis. Malgré le chaos et les troubles qui règnent au cours de cette période, la dynastie réussit l'exploit d'y survivre et même d'y prospérer.;Mit einem Punktestand von $SCORE$ seid Ihr damit $FAILED$, das Haus Estrid zu besiegen. Dieses Haus erklomm im Jahr 1047 den dänischen Thron und war 1337 eins von lediglich zwei verbleibenden Königsgeschlechtern. Obwohl man mehrere Expansionsversuche unternahm, konnte sich Dänemark nur kleine Gebiete in Estland sichern, da die meisten Territorialgewinne wieder eingebüßt wurden. Die Dynastie selbst schaffte es, in einer Zeit von Chaos und Aufruhr zu überleben und zu gedeihen - bei weitem keine geringe Leistung!;;Con una puntuación de $SCORE$ tú, $FAILED$, no has vencido a la Casa de Estrid, que ascendió al trono de Dinamarca en 1047 y fue una de las dos únicas familias que eran consideradas de la realeza en 1337. Aunque hubo varios intentos expansionistas, Dinamarca solo se hizo con un pequeño territorio en Estonia, pues la mayor parte de lo que se obtuvo se perdió. La dinastía logró sobrevivir y prosperar en una época de caos y confusión, toda una proeza.;;;;;;;;;x
-;#DYN9_DESC;With a score of $SCORE$ you$FAILED$ beat House af Bj?lbo£¬who arguably created the modern state of Sweden¡£Prior to their accession the Swedish state was highly decentralised£¬where the writ of royal authority barely ran¡£The Bj?lbo Kings regulated things more clearly£¬conquered Finland and by 1337 had entered a personal union with Norway£¬leading Sweden to height of its medieval power¡£;;Mit einem Punktestand von $SCORE$ seid Ihr damit $FAILED$, das Haus von Bj?lbo zu besiegen. Vor dessen Aufstieg zur Macht war der schwedische Staat h?chst dezentralisiert und die Krone konnte kaum Macht aus¨¹ben. Die Bj?lbo-K?nige sorgten f¨¹r klarere Verh?ltnisse. Sie eroberten Finnland und hatten bis 1337 eine Personalunion mit Norwegen geschlossen. Schweden war auf dem H?hepunkt seiner mittelalterlichen Macht.;;Con una puntuaci¨®n de $SCORE$ t¨², $FAILED$, no has vencido a la Casa de Bj?lbo, que cre¨® el estado de Suecia. Antes de incorporarse, el estado sueco estaba muy descentralizado y la autoridad real apenas ten¨ªa poder. Los reyes de Bj?lbo formularon una regulaci¨®n m¨¢s clara, conquistaron Finlandia y en 1337 se unieron a Noruega llevando a Suecia al c¨¦nit de su poder en el medievo.;;;;;;;;;x;
+;#DYN9_DESC;Withascoreof$SCORE$you$FAILED$beatHouseafBj?lbo£¬whoarguablycreatedthemodernstateofSweden¡£PriortotheiraccessiontheSwedishstatewashighlydecentralised£¬wherethewritofroyalauthoritybarelyran¡£TheBj?lboKingsregulatedthingsmoreclearly£¬conqueredFinlandandby1337hadenteredapersonalunionwithNorway£¬leadingSwedentoheightofitsmedievalpower¡£;;Mit einem Punktestand von $SCORE$ seid Ihr damit $FAILED$, das Haus von Bj?lbo zu besiegen. Vor dessen Aufstieg zur Macht war der schwedische Staat h?chst dezentralisiert und die Krone konnte kaum Macht aus¨¹ben. Die Bj?lbo-K?nige sorgten f¨¹r klarere Verh?ltnisse. Sie eroberten Finnland und hatten bis 1337 eine Personalunion mit Norwegen geschlossen. Schweden war auf dem H?hepunkt seiner mittelalterlichen Macht.;;Con una puntuaci¨®n de $SCORE$ t¨², $FAILED$, no has vencido a la Casa de Bj?lbo, que cre¨® el estado de Suecia. Antes de incorporarse, el estado sueco estaba muy descentralizado y la autoridad real apenas ten¨ªa poder. Los reyes de Bj?lbo formularon una regulaci¨®n m¨¢s clara, conquistaron Finlandia y en 1337 se unieron a Noruega llevando a Suecia al c¨¦nit de su poder en el medievo.;;;;;;;;;x;
 DYN10_DESC;×îÖÕ·ÖÊı£º$SCORE$.Äã$FAILED$³¬¹ıÎ¤¶û·ò¼Ò×å.Î¤¶û·ò¼Ò×åÔÚ1066Äê»¹ÊÇ¸öÔËÆø²»¼ÑµÄĞ¡¼Ò×å.µ½ÁË1100Äê£¬Ò»ÇĞ¶¼±äÁË.¼Ò×åÓµÓĞÈÕ¶úÂüµÄÁ½¸ö×îÓĞÊµÁ¦µÄ¹«¾ôÍ·ÏÎºÍÒâ´óÀûµÄ´óÆ¬ÁìÍÁ£¬ÊÇ½ö´ÎÓÚ»ôºàË¹ÌÕ·Ò¼Ò×åµÄÈÕ¶úÂüµÚ¶ş´ó¼Ò×å.Î¤¶û·ò¼Ò×åµÄÒ»¸ö³ÉÔ±»¹Ôø¾­ÊÔÍ¼¾ºÑ¡»ÊµÛ£¬ÔÚÕâ´Î²»³É¹¦µÄ³¢ÊÔÖĞ¼Ò×åÁ¦Á¿´óÎªÏ÷Èõ£¬ºÜ¶àÁìµØÒ²É¥Ê§ÁË.Ö®ºó£¬×÷Îª²¼Â×Èğ¿Ë¹«¾ô£¬Î¤¶û·ò¼Ò×å¹®¹ÌÁËÔÚ±±ÈÕ¶úÂüµÄ¸ù»ù£¬¼ÌĞø»îÔ¾ÔÚµÛ¹úµÄÕşÖÎÎèÌ¨ÉÏ¡£;Votre score est de $SCORE$ et vous pouvez le comparer avec celui de la Maison Welf, dynastie que la chance semble avoir abandonnée en 1066. Mais en 1100, tout a changé. Le contrôle de deux des plus puissants duchés d'Allemagne et de territoires substantiels en Italie fait de la dynastie Welf la deuxième famille la plus puissante d'Allemagne après les Hohenstaufen. Un de ses membres devient même Empereur, mais les conflits affaiblissent la famille qui perd la majeure partie de ses territoires. Elle consolide ses possessions dans le nord de l'Allemagne grâce aux titres de ducs de Brunswick et continue à jouer un rôle dans la politique impériale.;Mit einem Punktestand von $SCORE$ seid Ihr damit $FAILED$, das Haus der Welfen zu besiegen. Diese Dynastie hatte 1066 jedes Glück verlassen, doch schon im Jahre 1100 sah ihre Zukunft wieder vielversprechend aus: Die Welfen kontrollierten zwei der mächtigsten Herzogtümer Deutschlands und besaßen in Italien weitreichende Ländereien. All dies machte sie nach den Staufern zur zweitmächtigsten Familie Deutschlands. Ein Welfe sollte schließlich sogar zum Kaiser ernannt werden, doch die Kämpfe um dieses Amt schwächten die Familie und führten zum Verlust vieler Ländereien. Die Welfen konsolidierten ihre Besitztümer in Norddeutschland als Herzöge von Braunschweig und spielten in der imperialen Politik weiterhin eine wichtige Rolle.;;Con una puntuación de $SCORE$ tú, $FAILED$, no has vencido a la Casa de Welf, dinastía que conoció su declive en 1066. En 1100 las cosas cambiaron, y al tomar el control de los ducados más fuertes de Alemania e importantes zonas Italianas llegaron a ser segunda familia más poderosa de Alemania tras los Hohenstaufen. Uno de sus miembros llegó a emperador, las luchas debilitaron a la familia y perdieron muchas tierras. Pero consolidó sus posesiones de Alemania del Norte como duques de Brunswick y siguieron teniendo peso en la política imperial.;;;;;;;;;x
 DYN11_DESC;×îÖÕ·ÖÊı£º$SCORE$.Äã$FAILED$³¬¹ıÈÕÄÚÍß¼Ò×å.1066Äê£¬ÈÕÄÚÍß¼Ò×åÓµÓĞÈÕÄÚÍß²®¾ôÍ·ÏÎ.µ½ÁË1337Äê£¬ÈÕÄÚÍß¼Ò×åÈÔÈ»ÊÇÈÕÄÚÍß²®¾ô.ËûÃÇ´ÓÎ´ÊÔÍ¼À©ÕÅ£¬Óë´ËÍ¬Ê±ËûÃÇÒ²ÀÎÀÎÕÆÎÕ×¡ÁË×Ô¼ºµÄÁìµØ¡£;Votre score est de $SCORE$ et vous pouvez le comparer avec celui de la Maison de Genève, correspondant aux comtes de Genève en 1066. Cette maison conserve ce territoire tout au long de la période et possède encore ses titres de comtes de Genève en 1337. Elle ne se hissera jamais plus haut, mais parviendra malgré tout à conserver ses possessions.;Mit einem Punktestand von $SCORE$ seid Ihr damit $FAILED$, das Haus de Genève zu besiegen. Diese Genfer Grafen hielten dieses Territorium schon 1066, und auch 1337 waren sie noch an der Macht. Zwar gelang es ihnen nie, Höheres zu erreichen, aber ihre Besitztümer konnten sie stets behaupten.;;Con una puntuación de $SCORE$ tú, $FAILED$, no has vencido a la Casa de Ginebra, condes 1066. Conservó este territorio todo el período y en 1337 seguían ostentando el título de condes de Ginebra. Nunca lograron llegar más arriba, pero sí consiguieron conservar sus posesiones.;;;;;;;;;x
 DYN12_DESC;×îÖÕ·ÖÊı£º$SCORE$.Äã$FAILED$³¬¹ıÔúÁÖ¸ù¼Ò×å.ÔúÁÖ¸ù¼Ò×åÊÇÄÏÈÕ¶úÂüÇ¿´óµÄÁìÖ÷£¬Ò²ÊÇÎ¬ÂŞÄÉºÍ¿Ë¶÷ëø¹«¾ô.ÕâÊ¹Æä³ÉÎªÈÕ¶úÂüµÄ¹Ø¼ü¼Ò×åÖ®Ò».ÕâĞ©Í·ÏÎÔÚÒ»³¡Õë¶Ô»ÊµÛµÄÊ§°ÜÅÑÂÒºó±»°ş¶á£¬ÆäËûÁìµØÒ²ÔÚÁªÒöÖĞ±»ÆäËû¼Ò×å¼Ì³Ğ£¬×îºóÖ»Ê£ÏÂÔÚË¹Íß±ÈÑÇµÄ¼¸¿é´ó´óËõË®µÄÁìµØ¡£;Votre score est de $SCORE$ et vous pouvez le comparer avec celui de la Maison von Zähringen composée de puissants propriétaires fonciers du sud de l'Allemagne ainsi que des Titulaires des duchés de Vérone et de Carinthie. Les Zähringen sont des acteurs influents du pouvoir allemand. Suite à une rébellion manquée contre l'Empereur, la famille perd ces titres et ses terres sont distribuées à d'autres dynasties. Ses avoirs se cantonnent alors à quelques possessions en Swabie.;Mit einem Punktestand von $SCORE$ seid Ihr damit $FAILED$, das Haus der Zähringer zu besiegen. Dieser mächtigen Familie gehörten weitreichende Ländereien in Süddeutschland. Als Herrscher des Herzogtums Kärnten und der Markgrafschaft Verona waren die Zähringer eine der mächtigsten Familien in ganz Deutschland. Nach einer gescheiterten Rebellion gegen den Kaiser wurden der Familie diese Titel aber entzogen und weitere Teile der Familienländereien gingen in die Erbmasse anderer Dynastien über. Danach blieben den Zähringern nur noch einige wenige Besitztümer in Schwaben.;;Con una puntuación de $SCORE$ tú, $FAILED$, no has vencido a la Casa de Zähringen, poderosos terratenientes de Alemania del Sur, dueños de los ducados de Verona y Cartinthia, lo cual hacía de ellos importante centro de poder en Alemania. Una rebelión fallida contra el emperador causó que la familia perdiese estos títulos y que otros de sus territorios fuesen heredados por otras dinastías. El patrimonio familiar se redujo a unas pocas posesiones en Swabia.;;;;;;;;;x
