@@ -1,9 +1,9 @@
 ;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 b_sanvicente;Ê¥Î¬É­ÌØ;San Vicente;San Vicente;;San Vicente;;;;;;;;;x
 WOE;±¯°§£¡;Malheur !;Oh weh!;;¡Ay!;;;;;;;;;x
-UNIT_MORALE_EFFECT;¾ü¶Ó¿É»ñµÃ$PERC$Ê¿Æø.\n;Les troupes bénéficient de $PERC$ en moral.\n;Truppen erhalten $PERC$ Moral.\n;;Los soldados logran $PERC$ moral.\n;;;;;;;;;x
-UNIT_REINFORCE_EFFECT;Ö¸»ÓµÄ²¿¶ÓÓÉÓÚ$PERC$±»¼ÓÇ¿.\n;Les troupes commandées obtiennent $PERC$ de renforts.\n;Befehligte Truppen werden um $PERC$ verstärkt.\n;;Los soldados comandados son reforzados por $PERC$.\n;;;;;;;;;x
-UNIT_INVERTREINFORCE_EFFECT;Í³Ë§¾ü¶ÓµÄ$PERC$±»É±ËÀ.\n;$PERC$ des troupes commandées sont éliminées.\n;$PERC$ der befehligten Truppen sind gefallen.\n;;$PERC$ de los soldados comandados es asesinado.\n;;;;;;;;;x
+UNIT_MORALE_EFFECT;¾ü¶Ó¿É»ñµÃ$PERC$Ê¿Æøã€‚\n;Les troupes bénéficient de $PERC$ en moral.\n;Truppen erhalten $PERC$ Moral.\n;;Los soldados logran $PERC$ moral.\n;;;;;;;;;x
+UNIT_REINFORCE_EFFECT;Ö¸»ÓµÄ²¿¶ÓÓÉÓÚ$PERC$±»¼ÓÇ¿ã€‚\n;Les troupes commandées obtiennent $PERC$ de renforts.\n;Befehligte Truppen werden um $PERC$ verstärkt.\n;;Los soldados comandados son reforzados por $PERC$.\n;;;;;;;;;x
+UNIT_INVERTREINFORCE_EFFECT;Í³Ë§¾ü¶ÓµÄ$PERC$±»É±ËÀã€‚\n;$PERC$ des troupes commandées sont éliminées.\n;$PERC$ der befehligten Truppen sind gefallen.\n;;$PERC$ de los soldados comandados es asesinado.\n;;;;;;;;;x
 TRIGGER_LEADER;Áìµ¼Õß;;;;;;;;;;;;;x
 opinion_father_child;¸¸Ç×;Père;Vater;;Padre;Padre;;;;;;;;x
 opinion_mother_of_child;ÎÒµÄÐ¡º¢;Mon enfant;Mein Kind;;Mi hijo;;;;;;;;;x
