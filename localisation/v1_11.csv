@@ -33,41 +33,41 @@ CUT;剪吧！;Coupez?;Schnitt!;;ortar!;;;;;;;;;x
 ;#CONFIRMEXPORTTEXT_WARNING;Thegamewillbeexportedwiththename$NAME$。\n\nTHISNAMEISALREADYINUSE！\nAreyousureyouwanttocontinue?;;Das Spiel wird mit dem Namen $NAME$ exportiert.\n\n DIESER NAME WIRD BEREITS BENUTZT!\nSind Sie sicher, dass Sie fortsetzen wollen?;;La partida se exportará con el nombre $NAME$.\n\n ?ESTE NOMBRE YA ESTá EN USO!\n?Seguro que quieres continuar?;;;;;;;;;x;
 STYLE;类型;Style;Stil;;Estilo;;;;;;;;;x
 CAN_PERSUADE_TO_JOIN_PLOT;可以用一袋金币收买;Peut 阾re convaincu par une escarcelle d'or...;K鰊nte von einem Sack Gold ueberzeugt werden.;;Puede convencersele con un saco de oro...;;;;;;;;;x
-city_job_chancellor_arabic;大维齐;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
-city_job_chancellor_iranian;大维齐;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
-city_job_chancellor_turkish;大维齐;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
-city_job_chancellor_west_african;大维齐;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
-city_job_chancellor_greek;廷臣;Magistros;Magistros;;Magistros;;;;;;;;;x
-city_job_spymaster_greek;间谍总管;Mystikos;Mystikos;;Mystikos;;;;;;;;;x
-city_job_treasurer_greek;财政官;Sakellarios;Sakellarios;;Sakellarios;;;;;;;;;x
+city_job_chancellor_arabic;大维齐尔;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
+city_job_chancellor_iranian;大维齐尔;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
+city_job_chancellor_turkish;大维齐尔;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
+city_job_chancellor_west_african;大维齐尔;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
+city_job_chancellor_greek;百官之首;Magistros;Magistros;;Magistros;;;;;;;;;x
+city_job_spymaster_greek;神秘书记;Mystikos;Mystikos;;Mystikos;;;;;;;;;x
+city_job_treasurer_greek;宝库总管;Sakellarios;Sakellarios;;Sakellarios;;;;;;;;;x
 ;#city_job_marshal_greek;Strategos;;Strategos;;Estratega;;;;;;;;;x;
-city_job_chancellor_aztec;廷臣;Cihuacoatl;Cihuacoatl;;Cihuacoatl;;;;;;;;;x
-city_job_treasurer_aztec;财政官;Petlacalcatl;Petlacalcatl;;Petlacalcatl;;;;;;;;;x
-city_job_spiritual_aztec;萨哈冈;Sahag鷑;Sahagun;;Sahagun;;;;;;;;;x
-city_job_spymaster_aztec;间谍总管;Tillancalqui;Tillancalqui;;Tillancalqui;;;;;;;;;x
-city_job_marshal_aztec;军事总管;Tlacateccatl;Tlacateccatl;;Tlacateccatl;;;;;;;;;x
-city_job_chancellor_zoroastrian_group;廷臣;Astabadh;Astabadh;;Astabadh;;;;;;;;;x
-city_job_treasurer_zoroastrian_group;财政官;Darik-Pat;Darik-Pat;;Darik-Pat;;;;;;;;;x
-city_job_marshal_zoroastrian_group;军事总管;Eran Spahbod;Eran Spahbod;;Eran Spahbod;;;;;;;;;x
-city_job_spiritual_zoroastrian_group;大祭司;Mobad;Mobad;;Mobad;;;;;;;;;x
-city_job_spiritual_zoroastrian;大祭司;Mobad;Mobed;;Mobad;;;;;;;;;x
+city_job_chancellor_aztec;蛇女;Cihuacoatl;Cihuacoatl;;Cihuacoatl;;;;;;;;;x
+city_job_treasurer_aztec;贡赋总管;Petlacalcatl;Petlacalcatl;;Petlacalcatl;;;;;;;;;x
+city_job_spiritual_aztec;大祭司;Sahag鷑;Sahagun;;Sahagun;;;;;;;;;x
+city_job_spymaster_aztec;暗殿守卫;Tillancalqui;Tillancalqui;;Tillancalqui;;;;;;;;;x
+city_job_marshal_aztec;人类切割者;Tlacateccatl;Tlacateccatl;;Tlacateccatl;;;;;;;;;x
+city_job_chancellor_zoroastrian_group;百官之主;Astabadh;Astabadh;;Astabadh;;;;;;;;;x
+city_job_treasurer_zoroastrian_group;内库总管;Darik-Pat;Darik-Pat;;Darik-Pat;;;;;;;;;x
+city_job_marshal_zoroastrian_group;伊兰将军;Eran Spahbod;Eran Spahbod;;Eran Spahbod;;;;;;;;;x
+city_job_spiritual_zoroastrian_group;魔导师;Mobad;Mobad;;Mobad;;;;;;;;;x
+city_job_spiritual_zoroastrian;魔导师;Mobad;Mobed;;Mobad;;;;;;;;;x
 city_job_spiritual_christian;宫廷牧师;Chapelain;Hofprediger;;Capell醤;;;;;;;;;x
-city_job_spiritual_orthodox;圣器看管人;Sacristain;Ekklesiarch;;Eclesiarca;;;;;;;;;x
+city_job_spiritual_orthodox;教会首领;Sacristain;Ekklesiarch;;Eclesiarca;;;;;;;;;x
 city_job_spiritual_muslim;宫廷伊玛目;Imam;Hof-Imam;;Im醤 de la corte;;;;;;;;;x
-city_job_spiritual_shiite;宫廷毛拉;Mollah;Hof-Mullah;;Mul?de la corte;;;;;;;;;x
-city_job_spiritual_pagan_group;祭司长;Devin;Oberster Wahrsager;;Gran Cham醤;;;;;;;;;x
-city_job_spiritual_pagan;先知;Devin;Wahrsager;;Augur;;;;;;;;;x
-city_job_spiritual_baltic_pagan;祭司;Devin;Wahrsager;;Augur;;;;;;;;;x
-city_job_spiritual_baltic_pagan_reformed;祭司;Devin;Wahrsager;;Augur;;;;;;;;;x
-city_job_spiritual_finnish_pagan;祭司;Devin;Wahrsager;;Augur;;;;;;;;;x
-city_job_spiritual_finnish_pagan_reformed;祭司;Devin ;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_shiite;宫廷穆拉;Mollah;Hof-Mullah;;Mul?de la corte;;;;;;;;;x
+city_job_spiritual_pagan_group;占卜师;Devin;Oberster Wahrsager;;Gran Cham醤;;;;;;;;;x
+city_job_spiritual_pagan;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_baltic_pagan;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_baltic_pagan_reformed;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_finnish_pagan;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_finnish_pagan_reformed;占卜师;Devin ;Wahrsager;;Augur;;;;;;;;;x
 city_job_spiritual_norse_pagan_reformed;先知;Voyant;Seher;;Vidente;;;;;;;;;x
 city_job_spiritual_norse_pagan;先知;Voyant;Seher;;Vidente;;;;;;;;;x
 city_job_spiritual_female_norse_pagan_reformed;女先知;Voyante;Seherin;;Vidente;;;;;;;;;x
 city_job_spiritual_female_norse_pagan;女先知;Voyante;Seherin;;Vidente;;;;;;;;;x
-city_job_spiritual_slavic_pagan;祭司;Devin;Wahrsager;;Augur;;;;;;;;;x
-city_job_spiritual_slavic_pagan_reformed;祭司;Devin;Wahrsager;;Augur;;;;;;;;;x
-city_job_spiritual_tengri_pagan;萨满;Devin;Wahrsager;;Augur;;;;;;;;;x
-city_job_spiritual_tengri_pagan_reformed;萨满;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_slavic_pagan;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_slavic_pagan_reformed;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_tengri_pagan;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_tengri_pagan_reformed;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
 EU4ConverterDLC;欧陆风云4转化器;Convertisseur EUIV;;;;;;;;;;;;x
 CustomizationPackDLC;定制包;;;;;;;;;;;;;x
