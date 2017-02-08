@@ -208,7 +208,7 @@ MARCH_FRIULI_ADJ;弗留利;frioulane;Friauler;;Friuliano;;;;;;;;;x
 DUCHY_IVREA;伊夫雷亚;Ivr閑;Ivrea;;Ivrea;;;;;;;;;x
 DUCHY_IVREA_ADJ;伊夫雷亚;ivr閑nne;Ivreaer;;Ivreano;;;;;;;;;x
 pictish;皮克特人;picte;Piktisch;;Picto;;;;;;;;;x
-count_pictish;伯爵;Earl;Graf;;Conde;;;;;;;;;x
+count_pictish;厄尔;Earl;Graf;;Conde;;;;;;;;;x
 NOT_VARIABLE;$VAR$?少于$VALUE$?;$VAR$? est inf閞ieure ?$VALUE$?;$VAR$? ist weniger als $VALUE$?;;$VAR$? es inferior a $VALUE$?;;;;;;;;;x
 VARIABLE;$VAR$?至少要$VALUE$?;$VAR$? est d'au moins $VALUE$?;$VAR$? ist mindestens $VALUE$?;;$VAR$? es al menos $VALUE$?;;;;;;;;;x
 IS_VARIABLE_EQUAL;$VAR$?等于$VALUE$?;$VAR$? est 間ale ?$VALUE$?;$VAR$? ist gleich $VALUE$?;;$VAR$? es igual a $VALUE$?;;;;;;;;;x
@@ -429,8 +429,8 @@ EVTTITLE_CM_1070;丹麦人奥吉尔;Ogier de Danemarche;Holger Danske;;Ogier el Dan閟;
 EVTDESC_CM_1070;陛下，有个诺斯人来觐见，自称奥吉尔。他看起来强壮勇猛，但话语间透露贵族之风。他说他来自丹麦人的土地，前来服侍您，认定您是所有基督徒的正当领主。他同时声称在梦里见到了您征服全天下，最终与天齐名。;Mon seigneur, un visiteur attend devant la porte, un Scandinave qui dit s'appeler Ogier. Il semble fort et robuste, mais parle avec gr鈉e et se tient comme un noble. Il dit venir de la terre des Danois et qu'il a fait tout ce chemin pour vous offrir ses services. Il vous appelle seigneur l間itime de tous les chr閠iens. Il dit 間alement avoir vu en songe votre conqu阾e du monde entier et votre nom monter aux cieux dans toute sa gloire.;Mein F黵st, ein Besucher ist angekommen, ein Nordmann, der sich Holger nennt. Er wirkt etwas abgerissen, aber stark und gesund, und seiner Ausdrucksweise nach ist er von adliger Herkunft. Er sagt, er komme aus D鋘emark und habe eine beschwerliche Reise auf sich genommen, um Euch seine Dienste anzubieten, und er bezeichnet Euch als rechtm溥igen Herrn aller Christen. Des Weiteren behauptet er, im Traum gesehen zu haben, wie Euer Name ruhmreich gen Himmel auff鋒rt.;;Mi Se駉r, hay un visitante en la puerta, un escandinavo llamado Ogier. Parece fuerte y robusto pero adem醩 habla con gracia y tiene modales de noble. Dice que viene de la tierra de los daneses y ha viajado tan lejos para ofrecerle sus servicios, nombr醤dole leg韙imo se駉r de todos los cristianos. Tambi閚 ha visto en sue駉s como mi Se駉r lo conquistar?todo y su nombre subir?a la gloria de los cielos.;;;;;;;;;x
 EVTOPTA_CM_1070;欢迎带来神之启示之人！;Bienvenue ?ce porteur de bonnes proph閠ies?;Hei遲 diesen Boten g黱stiger Prophezeiungen willkommen!;;a la bienvenida a este portador de buenas profec韆s!;;;;;;;;;x
 EVTOPTB_CM_1070;我不需要他这种人。;Nous n'avons pas besoin de personnes de son genre ici.;Solche Leute brauchen wir hier nicht.;;Aqu?no necesitamos a gente de ese tipo. ;;;;;;;;;x
-tribal_count;首领;Chef;H鋟ptling;;Mandatario;;;;;;;;;x
-tribal_county_of;首领地;Chefferie de;L鋘dereien des H鋟ptlings von;;Cacicazgo de;;;;;;;;;x
+tribal_count;酋长;Chef;H鋟ptling;;Mandatario;;;;;;;;;x
+tribal_county_of;酋邦;Chefferie de;L鋘dereien des H鋟ptlings von;;Cacicazgo de;;;;;;;;;x
 EVTDESC_CM_2000;我的[Root.GetLordLady]，有一个贵族勇士在门前。他说他是久经沙场的老兵，希望能成为您麾下的战事。他赞美您的智慧和荣耀，并且决定只要接纳他，便始终守护您和您的家族。;M[Root.GetHerHis][Root.GetLordLady], un noble guerrier attend devant la porte. Il dit avoir combattu dans de nombreuses guerres et d閟ire devenir un champion de votre maison. Il rend gloire ?votre sagesse et ?votre honneur et jure de toujours vous d閒endre, ainsi que votre maison, si vous l'acceptez dans votre suite.;[Root.GetLordLady], ein nobler Krieger besucht Euch. Er behauptet, ein Veteran vieler Schlachten zu sein, und w黱scht, ein K鋗pfer Eures Hauses zu werden. Er preist Eure Weisheit und Ehrhaftigkeit und schw鰎t, Euer Leben und das der Eurigen zu sch黷zen, wenn Ihr ihn in Euer Gefolge aufnehmt.;;Mi [Root.GetLordLady], hay un noble guerrero en la puerta. Dice que es un veterano de muchas batallas y desea convertirse en un campe髇 de vuestra casa. Alaba vuestra sabidur韆 y honor y se compromete a defenderle siempre y a su casa si lo acept醝s en vuestro s閝uito.;;;;;;;;;x
 EVTOPTA_CM_2000;来吧！;Bienvenue?;Willkommen!;;ienvenido!;;;;;;;;;x
 EVTOPTB_CM_2000;哦，没空房了。;Non... Toutes les places sont prises.;Nein ... wir haben keinen Platz.;;No... No hay sitio.;;;;;;;;;x
@@ -476,36 +476,36 @@ ca_culture_suebi_4;自由勇士营;Camp guerrier libre;Freisch鋜ler-Lager;;Campamento
 ca_culture_suebi_1_desc;在苏维汇的自由人中，勇士传统自古有着崇高的意义。这些快速灵活的勇士在这里学习如何运用长矛，盾和斧，以备战事。;La tradition guerri鑢e su鑦e est tenue en haute estime par tout homme libre. Des groupes d'une infanterie tr鑣 mobile s'entra頽ent ici, arm閟 de lances, de boucliers et de haches, afin d'阾re pr阾s ?d閒endre leur communaut?de tout danger.;Die Tradition der schw鋌ischen Krieger steht bei jedem freien Mann in hohem Ansehen. Gruppen der hoch mobilen, mit Langspeer, Schild und Streitaxt bewaffneten Fu遱oldaten trainieren hier, um in Zeiten der Gefahr ihre Gemeinschaft besser verteidigen zu k鰊nen.;;La tradici髇 guerrera sueva goza de gran consideraci髇 entre los hombres libres. Grupos de infanter韆 altamente m髒il y armados con lanzas largas, escudo y hacha, entrenan aqu?para defender mejor a su comunidad en tiempos peligrosos.;;;;;;;;;x
 RETTYPE_CUL_FRA;法兰克重装步兵;Infanterie lourde franque;Fr鋘kische Schwere Infanterie;;Infanter韆 Pesada Franca;;;;;;;;;x
 RETTYPE_CUL_LOM;伦巴第重装步兵;Infanterie lourde lombarde;Lombardische Schwere Infanterie;;Infanter韆 Pesada Lombarda;;;;;;;;;x
-duchy_of_norse;首领地;Duch?de;Grafschaft von;;Jarldom de;;;;;;;;;x
-duke_finnish_pagan;酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
-duke_female_finnish_pagan;女酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
-duke_finnish_pagan_reformed;酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
-duke_female_finnish_pagan_reformed;女酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
-duchy_of_finnish_pagan;部落;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
-duchy_of_finnish_pagan_reformed;部落;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
-duke_baltic_pagan;酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
-duke_female_baltic_pagan;女酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
-duke_baltic_pagan_reformed;酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
-duke_female_baltic_pagan_reformed;女酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
-duchy_of_baltic_pagan;部落;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
-duchy_of_baltic_pagan_reformed;部落;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
-duke_tengri_pagan;酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
-duke_female_tengri_pagan;女酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
-duke_tengri_pagan_reformed;酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
-duke_female_tengri_pagan_reformed;女酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
-duke_slavic_pagan;酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
-duke_female_slavic_pagan;女酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
-duke_slavic_pagan_reformed;酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
-duke_female_slavic_pagan_reformed;女酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
-duchy_of_slavic_pagan;部落;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
-duchy_of_slavic_pagan_reformed;部落;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
-tribal_duke_old_saxon;酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
-tribal_duke_female_old_saxon;女酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
-tribal_duchy_of_old_saxon;部落;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
+duchy_of_norse;雅尔邦;Duch?de;Grafschaft von;;Jarldom de;;;;;;;;;x
+duke_finnish_pagan;大酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
+duke_female_finnish_pagan;女大酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
+duke_finnish_pagan_reformed;大酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
+duke_female_finnish_pagan_reformed;女大酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
+duchy_of_finnish_pagan;大酋邦;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
+duchy_of_finnish_pagan_reformed;大酋邦;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
+duke_baltic_pagan;大酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
+duke_female_baltic_pagan;女大酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
+duke_baltic_pagan_reformed;大酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
+duke_female_baltic_pagan_reformed;女大酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
+duchy_of_baltic_pagan;大酋邦;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
+duchy_of_baltic_pagan_reformed;大酋邦;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
+duke_tengri_pagan;大酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
+duke_female_tengri_pagan;女大酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
+duke_tengri_pagan_reformed;大酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
+duke_female_tengri_pagan_reformed;女大酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
+duke_slavic_pagan;大酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
+duke_female_slavic_pagan;女大酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
+duke_slavic_pagan_reformed;大酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
+duke_female_slavic_pagan_reformed;女大酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
+duchy_of_slavic_pagan;大酋邦;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
+duchy_of_slavic_pagan_reformed;大酋邦;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
+tribal_duke_old_saxon;大酋长;Grand chef;Hoher H鋟ptling;;Alto mandatario;;;;;;;;;x
+tribal_duke_female_old_saxon;女大酋长;Grande cheftaine;Hohe Herrscherin;;Alto mandataria;;;;;;;;;x
+tribal_duchy_of_old_saxon;大酋邦;Grande chefferie de;Hochh鋟ptlingstum von;;Alto Cacicazgo de;;;;;;;;;x
 tribal_king_old_saxon;大酋长;Grand chef;Gro遠鋟ptling;;Gran Mandatario;;;;;;;;;x
 tribal_king_female_old_saxon;女大酋长;Grande cheftaine;Gro遠errscherin;;Gran Mandataria;;;;;;;;;x
-tribal_kingdom_of_old_saxon;大部落;Grande chefferie de;Gro遠鋟ptlingstum von;;Gran Cacicazgo de;;;;;;;;;x
-tribal_duke_norse;首领;Jarl;Graf;;Jarl;;;;;;;;;x
+tribal_kingdom_of_old_saxon;大酋邦;Grande chefferie de;Gro遠鋟ptlingstum von;;Gran Cacicazgo de;;;;;;;;;x
+tribal_duke_norse;雅尔;Jarl;Graf;;Jarl;;;;;;;;;x
 k_saxony;萨克森;Saxe;Sachsen;;Sajonia;;;;;;;;;x
 RETTYPE_CUL_PICTISH;皮克特劫掠者;Raiders pictes;Piktische Reiter;;Jinetes Pictos;;;;;;;;;x
 ca_culture_pictish_1;战争大厅;Salle des guerriers;Kriegerhalle;;Antesala de la Guerra;;;;;;;;;x
@@ -1195,11 +1195,11 @@ d_kharijite_adj;卡菲勒派哈里发国;califale kharidjite;Charidschitisches Kalifal;;
 restore_ecumenical_patriarchate_desc;如今我们掌控了君士坦丁堡，因此能够恢复正统教会普世牧首一职.祈求我教能重复往日荣光！;Maintenant que nous contr鬺ons Constantinople, nous pouvons restaurer le Patriarcat 渃um閚ique orthodoxe. Rendons-lui sa gloire d'antan?;Jetzt da wir Konstantinopel besitzen, k鰊nen wir das Orthodoxe 謐umenische Patriarchat wiederherstellen. M鰃e es zu seinem alten Glanz zur點kkehren!;;Ahora que controlamos Constantinopla, podemos restaurar el Patriarcado Ecum閚ico Ortodoxo. olver?su antigua gloria!;;;;;;;;;x
 opinion_used;试图利用我;A tent?de me manipuler;Wollte mich benutzen;;Intent?utilizarme;;;;;;;;;x
 INTERACTION_CAN_CALL_TO_WAR_AGAIN;[Recipient.GetTitledFirstName]?没有拒绝我们加入战争的召唤;[Recipient.GetTitledFirstName]? n'a pas refus?notre appel aux armes pour cette guerre;[Recipient.GetTitledFirstName]? hat unseren Ruf zu diesem Krieg nicht abgewiesen;;[Recipient.GetTitledFirstName]? no ha rechazado nuestra Llamada a esta guerra;;;;;;;;;x
-vice_royalty_baron;城镇总督;Vice-roi baron;Baron Vizek鰊ig;;Virrey Bar髇;;;;;;;;;x
-vice_royalty_count;郡国总督;Vice-roi comte;Graf Vizek鰊ig;;Virrey Conde;;;;;;;;;x
-vice_royalty_duke;公国总督;Vice-roi mineur;Minderer Vizek鰊ig;;Virrey Menor;;;;;;;;;x
-vice_royalty_king;王国总督;Vice-roi;Vizek鰊ig;;Virrey;;;;;;;;;x
-vice_royalty_emperor;帝国大总督;Grand vice-roi;Gro遝r Vizek鰊ig;;Gran Virrey;;;;;;;;;x
+vice_royalty_baron;男爵总督;Vice-roi baron;Baron Vizek鰊ig;;Virrey Bar髇;;;;;;;;;x
+vice_royalty_count;伯爵总督;Vice-roi comte;Graf Vizek鰊ig;;Virrey Conde;;;;;;;;;x
+vice_royalty_duke;副总督;Vice-roi mineur;Minderer Vizek鰊ig;;Virrey Menor;;;;;;;;;x
+vice_royalty_king;总督;Vice-roi;Vizek鰊ig;;Virrey;;;;;;;;;x
+vice_royalty_emperor;大总督;Grand vice-roi;Gro遝r Vizek鰊ig;;Gran Virrey;;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_TITLE;授予总督职位;Conc閐er une vice-royaut?Verleiht die Vizek鰊igsw黵de;;Conceder Virreinato;;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_DESC;授予此人物总督头衔;Conc閐er une vice-royaut??ce personnage;Verleiht einem Charakter die Vizek鰊igsw黵de;;Conceder la condici髇 de virrey al personaje;;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_LONG_DESC;将你的领地头衔转为总督辖区授予给另一角色.此举将会显著提升授予者对你的好感.当角色死亡，头衔将回到你手上。;Conc閐ez l'un de vos titres fonciers en tant que vice-royaut??un autre personnage. Cela am閘iorera fortement son opinion ?votre 間ard. Lorsque le personnage meurt, le titre vous revient.;Verleiht einem anderen Charakter einen Eurer Titel mit Landbesitz als Vizek鰊igsw黵de. Dies wird ihre Meinung 黚er Euch wesentlich verbessern. Wenn der Charakter stirbt, f鋖lt der Titel an Euch zur點k.;;Conceder uno de tus t韙ulos de tierras como virrey a otro personaje. Esto mejorar?significativamente su opini髇 sobre ti. Cuando muera el personaje, el t韙ulo volver?a ti.;;;;;;;;;x
@@ -1214,17 +1214,17 @@ GRANT_VICE_ROYALTY_INTERACTION_ACCEPT_LOG;[Actor.GetBestName]将[ThirdPartyTi
 GRANT_VICE_ROYALTY_INTERACTION_LETTER;我们给予你[ThirdPartyTitle.GetFullName]总督之位;Nous vous offrons la vice-royaut?de [ThirdPartyTitle.GetFullName].;Wir bieten Euch die Vizek鰊igsw黵de von [ThirdPartyTitle.GetFullName] an;;Te ofrecemos el virreinato de [ThirdPartyTitle.GetFullName];;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_6;将[ThirdPartyTitle.GetFullName]作为总督辖区包涵其下属的全部头衔授予[Recipient.GetTitledFirstName]，此举能提升[Recipient.GetPossPronoun]对于你的好感$OPINION$。当When[Recipient.GetTitledFirstName]逝世后，头衔会回到你的手上。;Accordez [ThirdPartyTitle.GetFullName] en tant que vice-royaut?ainsi que tous les titres qui lui sont inh閞ents ?[Recipient.GetTitledFirstName], augmentant ainsi son opinion ?votre 間ard de $OPINION$. Lorsque [Recipient.GetTitledFirstName] mourra, le titre vous reviendra.;Verleiht [ThirdPartyTitle.GetFullName] als Vizek鰊igsw黵de und alle dazu geh鰎enden Titel an [Recipient.GetTitledFirstName] und erh鰄t dadurch [Recipient.GetPossPronoun] Meinung 黚er Euch um $OPINION$. Wenn [Recipient.GetTitledFirstName] stirbt, f鋖lt der Titel an Euch zur點k. ;;Conceder el [ThirdPartyTitle.GetFullName] como virreinato y todos los t韙ulos que abarca a [Recipient.GetTitledFirstName], incrementando as?[Recipient.GetPossPronoun] opini髇 sobre ti $OPINION$. Cuando [Recipient.GetTitledFirstName] muera, el t韙ulo volver?a ti.;;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_7;授予家族成员头衔会降低腐化：$DECADENCE$%?（效果和家族现在的腐化度相关.）;D閏adence perdue due aux terres accord閑s aux membres de ma dynastie? $DECADENCE$%? (l'effet est relatif ?la d閏adence actuelle de la dynastie);Dekadenzverlust durch Bewilligung an Dynastiemitglied: $DECADENCE$%? (die Auswirkung h鋘gt vom aktuellen Dekadenzgrad der Dynastie ab.);;P閞dida de Decadencia por conceder un t韙ulo a un familiar: $DECADENCE$%? (el efecto es relativo a la Decadencia actual de la dinast韆);;;;;;;;;x
-opinion_granted_barony_vice_royalty;授予了城镇总督头衔;A accord?une vice-royaut?de rang baronnial;Gew鋒rte Vizebaronie;;Virreinato Baron韆 Concedido;;;;;;;;;x
-opinion_granted_county_vice_royalty;授予了郡国总督头衔;A accord?une vice-royaut?de rang comtal;Gew鋒rte Vizegrafschaft;;Virreinato Condado Concedido;;;;;;;;;x
-opinion_granted_duchy_vice_royalty;授予了公国总督头衔;A accord?une vice-royaut?de rang ducal;Gew鋒rte Vizeherzogtum;;Virreinato Ducado Concedido;;;;;;;;;x
-opinion_granted_kingdom_vice_royalty;授予了王国总督头衔;A accord?une vice-royaut?de rang royal;Gew鋒rte Vizek鰊igreich;;Virreinato Reino Concedido;;;;;;;;;x
-opinion_granted_empire_vice_royalty;授予了帝国总督头衔;A accord?une vice-royaut?de rang imp閞ial;Gew鋒rte Vizekaiserreich;;Virreinato Imperio Concedido;;;;;;;;;x
+opinion_granted_barony_vice_royalty;授予了男爵总督头衔;A accord?une vice-royaut?de rang baronnial;Gew鋒rte Vizebaronie;;Virreinato Baron韆 Concedido;;;;;;;;;x
+opinion_granted_county_vice_royalty;授予了伯爵总督头衔;A accord?une vice-royaut?de rang comtal;Gew鋒rte Vizegrafschaft;;Virreinato Condado Concedido;;;;;;;;;x
+opinion_granted_duchy_vice_royalty;授予了副总督头衔;A accord?une vice-royaut?de rang ducal;Gew鋒rte Vizeherzogtum;;Virreinato Ducado Concedido;;;;;;;;;x
+opinion_granted_kingdom_vice_royalty;授予了总督头衔;A accord?une vice-royaut?de rang royal;Gew鋒rte Vizek鰊igreich;;Virreinato Reino Concedido;;;;;;;;;x
+opinion_granted_empire_vice_royalty;授予了大总督头衔;A accord?une vice-royaut?de rang imp閞ial;Gew鋒rte Vizekaiserreich;;Virreinato Imperio Concedido;;;;;;;;;x
 INTERACTION_REQUIRES_TIER_TITLE;[Actor.GetTitledFirstName]?musthavea$TIER$titlewhich[Recipient.GetTitledFirstName]?canhold;[Actor.GetTitledFirstName]? doit avoir un titre du rang de $TIER$ pouvant 阾re d閠enu par [Recipient.GetTitledFirstName]?;[Actor.GetTitledFirstName]? muss einen $TIER$-Titel haben, den [Recipient.GetTitledFirstName]? tragen kann;;[Actor.GetTitledFirstName]? debe tener un t韙ulo $TIER$ que [Recipient.GetTitledFirstName]? pueda mantener;;;;;;;;;x
-vice_royalty_barony_of;城镇总督;Baronnie vice-royale de;Vizebaronie von;;Virreinato de la Baron韆 de;;;;;;;;;x
-vice_royalty_county_of;郡国总督府;Comt?vice-royal de;Vizegrafschaft von;;Virreinato del Condado de;;;;;;;;;x
-vice_royalty_duchy_of;公国总督府;Vice-royaut?mineure de;Minderes Vizek鰊igreich von;;Peque駉 Virreinato de;;;;;;;;;x
-vice_royalty_kingdom_of;王国总督府;Vice-royaut?de;Vizek鰊igreich von;;Virreinato de;;;;;;;;;x
-vice_royalty_empire_of;帝国总督府;Grande vice-royaut?de;Gro遝s Vizek鰊igreich;;Gran Virreinato de;;;;;;;;;x
+vice_royalty_barony_of;男爵总督领;Baronnie vice-royale de;Vizebaronie von;;Virreinato de la Baron韆 de;;;;;;;;;x
+vice_royalty_county_of;伯爵总督领;Comt?vice-royal de;Vizegrafschaft von;;Virreinato del Condado de;;;;;;;;;x
+vice_royalty_duchy_of;副总督领;Vice-royaut?mineure de;Minderes Vizek鰊igreich von;;Peque駉 Virreinato de;;;;;;;;;x
+vice_royalty_kingdom_of;总督领;Vice-royaut?de;Vizek鰊igreich von;;Virreinato de;;;;;;;;;x
+vice_royalty_empire_of;大总督领;Grande vice-royaut?de;Gro遝s Vizek鰊igreich;;Gran Virreinato de;;;;;;;;;x
 IS_VICE_ROYALTY;是一名总督;Est une vice-royaut?Ist ein Vizek鰊igreich;;Es un Virreinato;;;;;;;;;x
 ISNT_VICE_ROYALTY;不是一名总督;N'est pas une vice-royaut?Ist kein Vizek鰊igreich;;No es un Virreinato;;;;;;;;;x
 ;#vice_royalty_desc;WithViceroyalties，therisksassociatedwithallowingcertainvassalstogrowinsizewillbereduced。;;Mit Vizek?nigswürden reduzieren sich die Risiken, wenn bestimmten Vasallen erlaubt wird ihr Gebiet vergr??ern.;;Con Virreinatos, se reduce el riesgo que conlleva permitir que ciertos vasallos crezcan en tama?o.;;;;;;;;;x;
@@ -1241,56 +1241,56 @@ no_vice_royalties;没有总督制;Pas de vice-royaut閟;Keine Vizek鰊igreiche;;No Virr
 emperor_vice_royalties;允许帝国总督制;Autorise la cr閍tion de vice-royaut閟 ?partir d'empires.;Erm鰃licht Kaiserreich-Vizek鰊igreiche;;Permite Virreinatos en el Imperio;;;;;;;;;x
 king_vice_royalties;允许王国总督制;Autorise la cr閍tion de vice-royaut閟 ?partir de royaumes.;Erm鰃licht K鰊igreich-Vizek鰊igsw黵den;;Permite Virreinatos en el Reino;;;;;;;;;x
 ;#duke_vice_royalties;AllowsDuchyViceroyalties;;Erm?glicht Herzogtum-Vizek?nigswürden;;Permite Virreinatos en el Ducado;;;;;;;;;x;
-count_vice_royalties;允许郡国总督制;Autorise la cr閍tion de vice-royaut閟 ?partir de comt閟.;Erm鰃licht Grafschaft-Vizek鰊igsw黵den;;Permite Virreinatos en el Condado;;;;;;;;;x
-baron_vice_royalties;允许城镇总督制;Autorise la cr閍tion de vice-royaut閟 ?partir de baronnies.;Erm鰃licht Baronie-Vizek鰊igsw黵den;;Permite Virreinatos en la Baron韆;;;;;;;;;x
+count_vice_royalties;允许伯爵总督制;Autorise la cr閍tion de vice-royaut閟 ?partir de comt閟.;Erm鰃licht Grafschaft-Vizek鰊igsw黵den;;Permite Virreinatos en el Condado;;;;;;;;;x
+baron_vice_royalties;允许男爵总督制;Autorise la cr閍tion de vice-royaut閟 ?partir de baronnies.;Erm鰃licht Baronie-Vizek鰊igsw黵den;;Permite Virreinatos en la Baron韆;;;;;;;;;x
 vice_royalty;总督制;Vice-royaut?Vizek鰊igsw黵de;;Virreinato;;;;;;;;;x
 AIREASON_STRATEGIC_INTEREST;为了王国的荣光;Pour le bien du pays;Zum Wohl des Reiches;;Por el bien del reino;;;;;;;;;x
 EVTDESCCM15000;你被扔到沙漠中的一个坑里.士兵们解释到，你要收到尊日光明授者的审判.如果你的确罪业深重，那么太阳将会惩罚你的罪行。;Vous avez 閠?jet?dans un trou creus?en plein milieu du d閟ert. Les gardes vous expliquent que vous allez subir le jugement de Zun, le Justicier. Si vous 阾es coupable, le Soleil vous punira pour vos crimes.;Man hat Euch in eine Grube mitten in der W黶te geworfen. Die Wachen erkl鋜en Euch, dass Ihr von Zun, dem Geber der Gerechtigkeit, gerichtet werden sollt. Wenn Ihr schuldig seid, wird die Sonne Euch f黵 Eure Verbrechen bestrafen.;;Te han lanzado en un hoyo cavado en medio del desierto. Los guardias te cuentan que ser醩 juzgado por Zun, el que Imparte Justicia. Si eres culpable, el Sol te castigar?por tus cr韒enes.;;;;;;;;;x
 norse_pagan_DESC;在中世纪早期，古日耳曼的信仰在斯堪的纳维亚半岛和德国北部占主导地位。聪明的战士神奥丁（或Wodan）在万神殿统治着世界树，和世界树的各分支。另外两个主神是雷神（Thunar），人类的朋友，和Frey，丰饶和平及耕耘之神。;Pendant le haut Moyen 耮e, le syst鑝e de croyances germanique est pr閐ominant en Scandinavie et en Allemagne du Nord. Un panth閛n de divinit閟 sous l'間ide du dieu de la guerre Odin (ou Wodan) dirige toutes les branches de l'Arbre-Monde, Yggdrasil. Les deux autres dieux principaux sont Thor (Thunar), protecteur de l'humanit? et Freyr, dieu de la fertilit?;Im fr黨en Mittelalter ist das alte germanische Glaubensgeb鋟de in Skandinavien und Norddeutschland immer noch vorherrschend. Ein Pantheon der G鰐ter unter dem weisen Kriegergott Odin (oder Wotan) herrscht 黚er alle Zweige der Weltesche Yggdrasil. Die anderen beiden Hauptg鰐ter sind Thor (Thunar), Freund der Menschheit, und Frey, Gott der Fruchtbarkeit.;;En la Temprana Edad Media, el antiguo sistema de creencias germano a鷑 predomina en Escandinavia y el norte de Alemania. Un pante髇 de dioses bajo el sabio dios guerreo Od韓 (o Wotan) que gobierna todas las ramas del 羠bol del Mundo. Los otros dos dioses principales son Thor, amigo de la humanidad, y Frey, dios de la fertilidad.;;;;;;;;;x
 d_pskov_adj;普斯科夫;Pskovienne;Pskower;Pskoviense;;;;;;;;;x
-tribal_emperor_altaic;可汗;Khagan;Khagan;;Khagan;;;;;;;;;x
+tribal_emperor_altaic;大汗;Khagan;Khagan;;Khagan;;;;;;;;;x
 tribal_emperor_female_altaic;可敦;Khatoun;Khatun;;Khatun;;;;;;;;;x
 tribal_empire_of_altaic;大汗国;Khaganat de;Gro遦hanat von;;Kaganato de;;;;;;;;;x
-tribal_king_altaic;汗;Khan;Khan;;Kan;;;;;;;;;x
-tribal_king_female_altaic;可敦;Khanoum;Khanum;;Khanum;;;;;;;;;x
+tribal_king_altaic;可汗;Khan;Khan;;Kan;;;;;;;;;x
+tribal_king_female_altaic;可努;Khanoum;Khanum;;Khanum;;;;;;;;;x
 tribal_kingdom_of_altaic;汗国;Khanat de;Khanat von;;Kanato de;;;;;;;;;x
 tribal_king_arabic;苏丹;Sultan;Sultan;;Sult醤;;;;;;;;;x
 tribal_king_female_arabic;苏丹娜;Sultane;Sultanin;;Sultana;;;;;;;;;x
 tribal_kingdom_of_arabic;苏丹国;Sultanat de;Sultanat von;;Sultanato de;;;;;;;;;x
-tribal_emperor_arabic;大沙王;Badshah;Badshah;;Badshah;;;;;;;;;x
+tribal_emperor_arabic;巴迪沙阿;Badshah;Badshah;;Badshah;;;;;;;;;x
 tribal_emperor_russian;沙皇;Tsar;Zar;;Zar;;;;;;;;;x
 tribal_emperor_female_russian;女沙皇;Tsarine;Zarin;;Zarina;;;;;;;;;x
-tribal_emperor_dravidian_group;圣王;Samrat;Samrat;;Samrat;;;;;;;;;x
+tribal_emperor_dravidian_group;圣皇;Samrat;Samrat;;Samrat;;;;;;;;;x
 tribal_emperor_female_dravidian_group;圣后;Samrajni;Samrajni;;Samrajn?;;;;;;;;x
-tribal_king_dravidian_group;大王;Maharaja;Maharadscha;;Maharaja;;;;;;;;;x
-tribal_king_female_dravidian_group;王后;Maharani;Maharani;;Maharan?;;;;;;;;x
-tribal_duke_dravidian_group;王;Raja;Radscha;;Raj?;;;;;;;;x
-tribal_duke_female_dravidian_group;夫人;Rani;Rani;;Ran?;;;;;;;;x
+tribal_king_dravidian_group;摩诃罗阇;Maharaja;Maharadscha;;Maharaja;;;;;;;;;x
+tribal_king_female_dravidian_group;摩诃罗阇妮;Maharani;Maharani;;Maharan?;;;;;;;;x
+tribal_duke_dravidian_group;罗阇;Raja;Radscha;;Raj?;;;;;;;;x
+tribal_duke_female_dravidian_group;罗阇妮;Rani;Rani;;Ran?;;;;;;;;x
 tribal_count_dravidian_group;多俱罗;Thakur;Thakur;;Thakur;;;;;;;;;x
 tribal_count_female_dravidian_group;多俱罗妮;Thakurani;Thakurani;;Thakuran?;;;;;;;;x
 tribal_baron_dravidian_group;庄主;Damapati;Damapati;;Damapati;;;;;;;;;x
 tribal_baron_female_dravidian_group;女庄主;Damapatni;Damapatni;;Damapatn?;;;;;;;;x
-tribal_title_prince_c_indian;王子;Rajkumar;Radschkumar;;Rajkumar;;;;;;;;;x
-tribal_title_prince_female_c_indian;王女;Rajkumari;Radschkumari;;Rajkumar?;;;;;;;;x
-tribal_duchy_dravidian_group;国;Raj;Radsch;;Raj;;;;;;;;;x
+tribal_title_prince_c_indian;罗阇俱摩罗;Rajkumar;Radschkumar;;Rajkumar;;;;;;;;;x
+tribal_title_prince_female_c_indian;罗阇俱摩利;Rajkumari;Radschkumari;;Rajkumar?;;;;;;;;x
+tribal_duchy_dravidian_group;罗阇国;Raj;Radsch;;Raj;;;;;;;;;x
 tribal_county_dravidian_group;提迦那;Thikana;Thikana;;Thikana;;;;;;;;;x
 tribal_barony_dravidian_group;庄园;Dama;Dama;;Dama;;;;;;;;;x
-tribal_duchy_of_dravidian_group;国;Raj de;Radsch von;;Raj de;;;;;;;;;x
+tribal_duchy_of_dravidian_group;罗阇国;Raj de;Radsch von;;Raj de;;;;;;;;;x
 tribal_county_of_dravidian_group;提迦那;Thikana de;Thikana von;;Thikana de;;;;;;;;;x
 tribal_barony_of_dravidian_group;庄园;Dama de;Dama von;;Dama de;;;;;;;;;x
-tribal_emperor_indo_aryan_group;圣王;Samrat;Samrat;;Samrat;;;;;;;;;x
+tribal_emperor_indo_aryan_group;圣皇;Samrat;Samrat;;Samrat;;;;;;;;;x
 tribal_emperor_female_indo_aryan_group;圣后;Samrajni;Samrajni;;Samrajn?;;;;;;;;x
-tribal_king_indo_aryan_group;大王;Maharaja;Maharadscha;;Maharaja;;;;;;;;;x
-tribal_king_female_indo_aryan_group;王后;Maharani;Maharani;;Maharan?;;;;;;;;x
-tribal_duke_indo_aryan_group;王;Raja;Radscha;;Raj?;;;;;;;;x
-tribal_duke_female_indo_aryan_group;夫人;Rani;Rani;;Ran?;;;;;;;;x
+tribal_king_indo_aryan_group;摩诃罗阇;Maharaja;Maharadscha;;Maharaja;;;;;;;;;x
+tribal_king_female_indo_aryan_group;摩诃罗阇妮;Maharani;Maharani;;Maharan?;;;;;;;;x
+tribal_duke_indo_aryan_group;罗阇;Raja;Radscha;;Raj?;;;;;;;;x
+tribal_duke_female_indo_aryan_group;罗阇妮;Rani;Rani;;Ran?;;;;;;;;x
 tribal_count_indo_aryan_group;多俱罗;Thakur;Thakur;;Thakur;;;;;;;;;x
 tribal_count_female_indo_aryan_group;多俱罗妮;Thakurani;Thakurani;;Thakuran?;;;;;;;;x
 tribal_baron_indo_aryan_group;庄主;Damapati;Damapati;;Damapati;;;;;;;;;x
 tribal_baron_female_indo_aryan_group;女庄主;Damapatni;Damapatni;;Damapatn?;;;;;;;;x
-tribal_title_prince_indo_aryan_group;王子;Rajkumar;Radschkumar;;Rajkumar;;;;;;;;;x
-tribal_title_prince_female_indo_aryan_group;王女;Rajkumari;Radschkumari;;Rajkumar?;;;;;;;;x
-tribal_duchy_indo_aryan_group;国;Raj;Radsch;;Raj;;;;;;;;;x
+tribal_title_prince_indo_aryan_group;罗阇俱摩罗;Rajkumar;Radschkumar;;Rajkumar;;;;;;;;;x
+tribal_title_prince_female_indo_aryan_group;罗阇俱摩利;Rajkumari;Radschkumari;;Rajkumar?;;;;;;;;x
+tribal_duchy_indo_aryan_group;罗阇国;Raj;Radsch;;Raj;;;;;;;;;x
 tribal_county_indo_aryan_group;提迦那;Thikana;Thikana;;Thikana;;;;;;;;;x
 tribal_barony_indo_aryan_group;庄园;Dama;Dama;;Dama;;;;;;;;;x
 tribal_duchy_of_indo_aryan_group;国;Raj de;Radsch von;;Raj de;;;;;;;;;x
@@ -1301,6 +1301,6 @@ city_job_marshal_greek;大司马;Protostrator;Protostrator;;Protostrator;;;;;;;;;x
 temple_king_finnish_pagan;巫王;Roi-Sorcier;Hexenk鰊ig;;Rey Brujo;;;;;;;;;x
 temple_king_slavic_pagan;巫王;Roi-Sorcier;Hexenk鰊ig;;Rey Brujo;;;;;;;;;x
 temple_king_baltic_pagan;巫王;Roi-Sorcier;Hexenk鰊ig;;Rey Brujo;;;;;;;;;x
-temple_king_female_finnish_pagan;巫女皇;Reine-Sorci鑢e;Hexenk鰊igin;;Reina Bruja;;;;;;;;;x
-temple_king_female_slavic_pagan;巫女皇;Reine-Sorci鑢e;Hexenk鰊igin;;Reina Bruja;;;;;;;;;x
-temple_king_female_baltic_pagan;巫女皇;Reine-Sorci鑢e;Hexenk鰊igin;;Reina Bruja;;;;;;;;;x
+temple_king_female_finnish_pagan;巫后;Reine-Sorci鑢e;Hexenk鰊igin;;Reina Bruja;;;;;;;;;x
+temple_king_female_slavic_pagan;巫后;Reine-Sorci鑢e;Hexenk鰊igin;;Reina Bruja;;;;;;;;;x
+temple_king_female_baltic_pagan;巫后;Reine-Sorci鑢e;Hexenk鰊igin;;Reina Bruja;;;;;;;;;x

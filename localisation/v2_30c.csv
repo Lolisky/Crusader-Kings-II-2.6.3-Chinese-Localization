@@ -414,15 +414,15 @@ desc_recent_duel_victory;此人近期在决斗中击败了对手。;Ce personnage a r閏emment 
 duel_decision;决斗;Provoquer en duel;Duell;;Duelo. ;;;;;;;;;x
 duel_decision_desc;对[This.GetTitledFirstName]?发起决斗来维护你的荣誉。决斗对于你的健康有害。;D閒iez [This.GetTitledFirstName]? en duel pour d閒endre votre honneur. Les duels peuvent s'av閞er dangereux pour votre sant?;Fordert [This.GetTitledFirstName]? zu einem Duell heraus, um Eure Ehre zu verteidigen. Duelle k鰊nen Eurer Gesundheit schaden.;;Desaf韊ssY[This.GetTitledFirstName]?a un duelo para defender tu honor. Los duelos pueden ser considerados peligrosos para la salud. ;;;;;;;;;x
 tower_start;我们将开始对建设做一些必要准备。;Vous commencez les pr閜aratifs n閏essaires ?la construction.;Wir beginnen mit den n鰐igen Vorbereitungen f黵 den Bau.;;Comenzaremos los preparativos necesarios para la construcci髇. ;;;;;;;;;x
-nick_the_headless;无头者;le Sans-t阾e;der/die Kopflose;;el Descabezado;;;;;;;;;x
+nick_the_headless;无头;le Sans-t阾e;der/die Kopflose;;el Descabezado;;;;;;;;;x
 construction_accident;建造事故;Accident au chantier;Baustellenunfall;;Accidente de construcci髇;;;;;;;;;x
 desc_construction_accident;一场可以避免的事故激怒了[This.GetName]的民众。;Un accident qui aurait pu 阾re 関it?provoque la col鑢e de la population de [This.GetName].;Ein vermeidbarer Unfall erregt den Unmut der Bev鰈kerung von [This.GetName].;;Un accidente que se podr韆 haber evitado enfurece a la poblaci髇 de [This.GetName].;;;;;;;;;x
 outlawed_guild;非法行会;Guilde hors-la-loi;Verbotene Zunft;;Gremio proscrito;;;;;;;;;x
 desc_outlawed_guild;这个省份的城市有一个主要行会非法。;Les villes de ce comt?ont choisi de rendre hors-la-loi une des guildes principales.;Die St鋎te in dieser Provinz haben eine der gro遝n Z黱fte verboten.;;Las ciudades en esta provincia prohibieron uno de los gremios principales.;;;;;;;;;x
 carpenters_guild;木匠行会;Guilde des charpentiers;Zimmererzunft;;Gremio de carpinteros;;;;;;;;;x
 desc_carpenters_guild;这个省份有一个杰出的木匠行会，能让建筑的建造又快又便宜。;Une puissante guilde de charpentiers de ce comt?construit rapidement et pour moins cher.;In dieser Provinz gibt es eine bedeutende Zimmererzunft, die Bauarbeiten schnell und g黱stig durchf黨rt.;;Hay un prominente gremio de carpinteros en esta provincia que hace la construcci髇 r醦ida y barata. ;;;;;;;;;x
-nick_the_ruthless;无情者;l'Impitoyable;der/die Unbarmherzige;;el Despiadado;;;;;;;;;x
-nick_the_beheader;砍头者;le D閏apiteur;der/die Kopfabhacker/in;;el Decapitador;;;;;;;;;x
+nick_the_ruthless;无情;l'Impitoyable;der/die Unbarmherzige;;el Despiadado;;;;;;;;;x
+nick_the_beheader;刽子手;le D閏apiteur;der/die Kopfabhacker/in;;el Decapitador;;;;;;;;;x
 EVTTOOLTIPWOL10302;你的家族?将会喜欢这个雕像的姿势。\n;Votre dynastie? appr閏iera ce geste.\n;Eure Dynastie? wei?diese Geste zu sch鋞zen.\n;;Tu Dynasty? apreciar?este gesto. \n;;;;;;;;;x
 opinion_ruthless;无情;Impitoyable;Unbarmherzig;;Despiadado/a;;;;;;;;;x
 EVTTOOLTIPWOL11006;人们会对这不仁慈的行为失望。\n;Le peuple n'appr閏iera pas cette action impitoyable.\n;Die Leute werden wegen dieser gnadenlosen Aktion aufgebracht sein.\n;;La gente se disgustar?por esta acci髇 despiadada.\n;;;;;;;;;x
