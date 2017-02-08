@@ -95,9 +95,9 @@ baltic_pagan_DESC;²¨ÂŞµÄº£Ô­Ê¼×Ú½ÌÊÇÒ»ÖÖ¶àÉñĞÅÑö	Ö÷ÉñÊÇÌìÉñDievs¡£ÆäËûÖ÷Éñ°üÀ¨À×
 baltic_pagan_reformed;ÂåÄ·Íß½Ì;romuvienne;romuvanisch;;Romuvano;;;;;;;;;x
 baltic_pagan_reformed_DESC;¸Ä¸ïµÄ²¨ÂŞµÄº£ĞÅÑöÓĞÒ»±¾Ê¥Êé	°üÀ¨´´ÊÀÉñ»°	ÖîÉñÕÂ½ÚÒÔ¼°Ò»±¾Ô¤ÑÔÊé¡£¸Ã½Ì»áÓĞÒ»Ì×±ê×¼»¯µÄÀñ°İÒÇÊ½ÒÔ¼°ÓÉDievs´ó¼ÀË¾ÎªÊ×ÁìµÄÕı¹æ½Ì»á½á¹¹	Ê×Áì¿ÉÒÔ±»ÊÀË×Í³ÖÎÕß¸½Ó¹¡£;La foi baltique réformée possède un livre sacr?qui comprend un mythe sur la création	des chapitres sur les dieux et un livre des prophéties. Son église comporte une liturgie standardisée et une hiérarchie religieuse symbolique avec ?sa tête le Grand prêtre de Dievs	qui peut être vassalis?par des chefs séculiers.;Der reformierte baltische Glaube besitzt ein Heiliges Buch	das einen Schöpfungsmythos	Kapiteln über die Götter und ein Buch der Vorhersagen beinhaltet. Die Kirche hat außerdem standardisierte Liturgien und eine formelle Kirchenhierarchie angeführt vom Hohepriester des Dievs	der Vasall weltlicher Herrscher sein kann.;;La reformada fe Báltica tiene un Libro Sagrado con un mito de la creación	capítulos sobre los dioses y un libro de profecías. La iglesia también tiene una liturgia estandarizada y una jerarquía formal dirigida por el Sumo Sacerdote de Dievs	que puede ser vasallizado por gobernantes seculares.;;;;;;;;;x
 baron_iranian;±¤Ö÷;Argbadh;Argbadh;;Argbadh;;;;;;;;;x
-baron_norse;ÊĞÃñ;Şegn;Şegn;;Şegn;;;;;;;;;x
-baron_norse_pagan;ÊĞÃñ;Şegn;Şegn;;Şegn;;;;;;;;;x
-baron_norse_pagan_reformed;ÊĞÃñ;Şegn;Şegn;;Şegn;;;;;;;;;x
+baron_norse;¼Ò³¼;Şegn;Şegn;;Şegn;;;;;;;;;x
+baron_norse_pagan;¼Ò³¼;Şegn;Şegn;;Şegn;;;;;;;;;x
+baron_norse_pagan_reformed;¼Ò³¼;Şegn;Şegn;;Şegn;;;;;;;;;x
 barony_iranian;³Ç±¤;Arg;Arg;;Arg;;;;;;;;;x
 barony_of_iranian;³Ç±¤;Arg de;Arg von;;Arg de;;;;;;;;;x
 bear_passes_away;ÄãÎªÄãĞÜ»ï°éµÄÀëÈ¥¶ø°§ÉË¡£;Vous pleurez la perte de votre compagnon ours. ;Ihr beweint den Verlust Eures Bären-Begleiters.;;Lamentas la pérdida de tu compañero oso.;;;;;;;;;x
@@ -1275,8 +1275,8 @@ ISNT_TEMPORARY_TITLE;²»ÊÇÁÙÊ±Í·ÏÎ;N'est pas un titre temporaire;Ist KEIN temporä
 ISNT_VALID_PREP_INV_TARGET;ÔÚÓĞ×¼±¸µÄÕ½ÕùÖĞ£¬§Y$CHAR$?µÄ§Y$TITLE$?ÁìµØ²»ÄÜ¹»±»Õ¼ÓĞ;Les propriétés de §Y$CHAR$? au sein du §Y$TITLE$? ne peuvent pas être capturées lors d'une invasion planifiée;§Y$CHAR$?s Liegenschaften in §Y$TITLE$? können NICHT durch eine Vorbereitete Invasion geraubt werden;;Las propiedades de §Y$CHAR$? en el §Y$TITLE$? NO pueden ser tomadas a través de una Invasión Preparada.;;;;;;;;;x
 jarilo_deliberations;¿ªÊ¼¿¼ÂÇ¡£;Les délibérations commencent.;Die Überlegungen beginnen.;;Las deliberaciones empiezan.;;;;;;;;;x
 job_chancellor_greek;°Ù¹ÙÖ®Ê×;Maître des offices;Magistros;;Magistros;;;;;;;;;x
-job_chancellor_zoroastrian_group;°Ù¹ÙÖ®Ö÷;Astabadh;Astabadh;;Astabadh;;;;;;;;;x
-job_marshal_zoroastrian_group;ÒÁÀ¼½«¾ü;Eran Spahbod;Eran Spahbod;;Eran Spahbod;;;;;;;;;x
+job_chancellor_zoroastrian_group;¹ÙÀôÖ®Ê×;Astabadh;Astabadh;;Astabadh;;;;;;;;;x
+job_marshal_zoroastrian_group;ÒÁÀ¼Ë¹ÅÁ²¨µÂ;Eran Spahbod;Eran Spahbod;;Eran Spahbod;;;;;;;;;x
 job_spiritual_female_norse_pagan;Å®ÏÈÖª;Voyante;Seherin;;Vidente;;;;;;;;;x
 job_spiritual_female_norse_pagan_reformed;Å®ÏÈÖª;Voyante;Seherin;;Vidente;;;;;;;;;x
 job_spiritual_norse_pagan;ÏÈÖª;Voyant;Seher;;Vidente;;;;;;;;;x

@@ -45,18 +45,18 @@ title_appointed_regent;指定摄政;R間ent d閟ign?Designierter Regent;; Regente Nomb
 title_appointed_regent_desc;境况所迫时，这个角色会成为摄政;Ce personnage deviendra r間ent s'il en faut un.;Diese Person wird im Bedarfsfall zum Regenten ernannt.;;Este personaje se convertir?en el Regente si es necesario;;;;;;;;;x
 INTERACTION_REQ_REC_IS_DJ_LIEGE_OR_ADJ;[Recipient.GetTitledFirstName]?必须与我接壤，或者是我首都的法理领主;[Recipient.GetTitledFirstName]? doit 阾re soit un voisin, soit le seigneur de jure de ma capitale;[Recipient.GetTitledFirstName]? muss ein Nachbar oder der De-Jure-Lehnsherr meiner Hauptstadt sein;;[Recipient.GetTitledFirstName]? tiene que ser un vecino o el se駉r feudal De Jure de mi Capital;;;;;;;;;x
 WELCOME_TEXT;在游戏中，你可以扮演任何时期的中世纪君主，下至伯爵，上至帝王。当你的角色去世时，你需要有一个继承人接任，如此流传，经久不断。与其他游戏不同，开始的状况是符合史实的，也就是说完全没有平衡一说。查看估算难度再选择君主进入游戏！;En jeu, vous pouvez jouer le r鬺e de n'importe quel souverain m閐i関al ?n'importe quelle p閞iode, du petit comte jusqu'au grand empereur. Lorsque votre personnage meurt, votre h閞itier prend la rel鑦e, et ainsi de suite ?travers les 鈍es. ?la diff閞ence des autres jeux, le contexte de d閜art est historique, et donc totalement d閟閝uilibr? Pensez ?v閞ifier la difficult?associ閑 ?un souverain avant de l'incarner?;Im Spiel k鰊nt Ihr jeden mittelalterlichen Herrscher zu jedem beliebigen Zeitpunkt ausw鋒len, vom einfachen Grafen bis zum gro遝n Kaiser. Jedes Mal, wenn Eure Spielfigur stirbt, ben鰐igt Ihr einen Erben, der Euer Erbe weiterf黨rt, und so schreitet Ihr fort durch die Zeitalter. Anders als bei anderen Spielen ist die Ausgangssituation historisch und damit absolut unausgewogen. Beachtet vor dem Start eines neuen Spiels die Einsch鋞zung des Schwierigkeitsgrad des Herrschers, den Ihr ausw鋒len m鯿htet!;;En el juego, puedes jugar como gobernante medieval de cualquier 閜oca, ya sea como modesto conde o como gran emperador. Cuando muera tu personaje, precisar醩 un heredero que tome el poder, y as?sucesivamente a lo largo del tiempo. A diferencia de la mayor韆 de juegos, la situaci髇 inicial es hist髍ica, por lo tanto totalmente desequilibrada. omprueba la estimaci髇 de dificultad de un gobernante antes de empezar a jugar!;;;;;;;;;x
-tribal_duke;酋长;Grand chef;Gro遠鋟ptling;;Alto mandatario;;;;;;;;;x
+tribal_duke;大酋长;Grand chef;Gro遠鋟ptling;;Alto mandatario;;;;;;;;;x
 tribal_duke_female;女大酋长;Grande cheftaine;Gro遠鋟ptling;;Alto mandataria;;;;;;;;;x
-tribal_duchy_of;部落;Grande chefferie de;Gro遠鋟ptlingstum von;;Grande chefferie de;;;;;;;;;x
-tribal_duchy_of_norse;首领地;Duch?de;Jarltum von;;Jarldom de;;;;;;;;;x
+tribal_duchy_of;大酋邦;Grande chefferie de;Gro遠鋟ptlingstum von;;Grande chefferie de;;;;;;;;;x
+tribal_duchy_of_norse;雅尔邦;Duch?de;Jarltum von;;Jarldom de;;;;;;;;;x
 tribal_count_west_african;法林;Farin;Farin;;Farin;;;;;;;;;x
 tribal_count_female_west_african;法林娜;Farina;Farina;;Farina;;;;;;;;;x
-tribal_county_of_west_african;酋长部落;Cheikat de;Scheichtum von;;Cheikat de;;;;;;;;;x
-tribal_county_west_african;酋长部落;Cheikat;Scheichtum;;Cheikat;;;;;;;;;x
-tribal_duke_west_african;法巴斯;Farbas;Farbas;;Farbas;;;;;;;;;x
-tribal_duke_female_west_african;法巴;Farba;Farba;;Farba;;;;;;;;;x
-tribal_duchy_of_west_african;酋长国;蒻irat de;Emirat von;;Emirato de;;;;;;;;;x
-tribal_duchy_west_african;酋长国;蒻irat;Emirat;;Emirato;;;;;;;;;x
+tribal_county_of_west_african;谢赫国;Cheikat de;Scheichtum von;;Cheikat de;;;;;;;;;x
+tribal_county_west_african;谢赫国;Cheikat;Scheichtum;;Cheikat;;;;;;;;;x
+tribal_duke_west_african;法尔巴斯;Farbas;Farbas;;Farbas;;;;;;;;;x
+tribal_duke_female_west_african;法尔巴;Farba;Farba;;Farba;;;;;;;;;x
+tribal_duchy_of_west_african;埃米尔国;蒻irat de;Emirat von;;Emirato de;;;;;;;;;x
+tribal_duchy_west_african;埃米尔国;蒻irat;Emirat;;Emirato;;;;;;;;;x
 tribal_king_west_african;曼萨;Mansa;Mansa;;Mansa;;;;;;;;;x
 tribal_king_female_west_african;女苏丹;Sultane;Sultanin;;Sultane;;;;;;;;;x
 tribal_kingdom_of_west_african;苏丹国;Sultanat de;Sultanat von;;Sultanat de;;;;;;;;;x
@@ -286,9 +286,9 @@ EVTOPTACM15007;我的新主人大尊，才能将我从凡世的痛苦煎熬中解救！;Le seul qui peut
 CANNOT_PLAY_CHARLEMANGE_BOOKMARK_WITHOUT_DLC;查理曼DLC;Contenu t閘閏hargeable 'Charlemagne' requis;Charlemagne DLC ben鰐igt;;Se necesita la extensi髇 DLC Carlomagno;;;;;;;;;x
 CANNOT_PLAY_TOG_BOOKMARK_WITHOUT_DLC;需要远古之神DLC;Contenu t閘閏hargeable 'Les Anciens Dieux' requis;The Old Gods DLC ben鰐igt;;Se necesita la expansi髇 DLC Dioses Antiguos;;;;;;;;;x
 frisian;弗里斯兰人;frisonne;Friesisch;; Fris髇;;;;;;;;;x
-tribal_duke_frisian;酋长;Grand chef;Gro遠鋟ptling;;Alto mandatario;;;;;;;;;x
-tribal_duke_female_frisian;女酋长;Grande cheftaine;Gro遠鋟ptling;;Alto mandataria;;;;;;;;;x
-tribal_duchy_of_frisian;部落;Grande chefferie de;Gro遠鋟ptlingstum von;;Grande chefferie de;;;;;;;;;x
+tribal_duke_frisian;大酋长;Grand chef;Gro遠鋟ptling;;Alto mandatario;;;;;;;;;x
+tribal_duke_female_frisian;女大酋长;Grande cheftaine;Gro遠鋟ptling;;Alto mandataria;;;;;;;;;x
+tribal_duchy_of_frisian;大酋邦;Grande chefferie de;Gro遠鋟ptlingstum von;;Grande chefferie de;;;;;;;;;x
 viking_age_cb_tooltip;日耳曼文化的角色现拥有新的宣战理由;Les personnages de religion germanique ont d閟ormais un nouveau casus belli.;Charaktere germanischer Religionen erhalten nun neue Kriegsgr黱de.;;Ahora los personajes de la religi髇 germ醤ica consiguen nuevos CB:s;;;;;;;;;x
 tb_war_camp_1;战营;Camp militaire;Kriegslager;;Campamento de guerra;;;;;;;;;x
 tb_war_camp_2;战营;Camp militaire;Kriegslager;;Campamento de guerra;;;;;;;;;x

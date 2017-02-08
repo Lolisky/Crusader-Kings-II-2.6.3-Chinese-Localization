@@ -123,15 +123,15 @@ city_duchy;共和国;R閜ublique;Republik;;Rep鷅lica;;;;;;;;;x
 city_county;自由市;Grande cit?Prachtvolle Stadt;;Gran Ciudad;;;;;;;;;x
 city_barony;城市;Cit?Stadt;;Ciudad;;;;;;;;;x
 temple_kingdom_catholic;神权国;Th閛cratie;Theokratie;;Teocracia;;;;;;;;;x
-temple_kingdom_orthodox;宗主教区;Patriarcat;Patriarchat;;Patriarcado;;;;;;;;;x
+temple_kingdom_orthodox;牧首区;Patriarcat;Patriarchat;;Patriarcado;;;;;;;;;x
 temple_kingdom_muslim;哈里发国;Califat;Kalifat;;Califato;;;;;;;;;x
 temple_kingdom_pagan_group;神权国;Th閛cratie;Theokratie;;Teocracia;;;;;;;;;x
-temple_duchy_christian;大主教区;Archev阠h?princier;Prinzen-Erzbistum;;Arzobispado;;;;;;;;;x
+temple_duchy_christian;采邑大主教区;Archev阠h?princier;Prinzen-Erzbistum;;Arzobispado;;;;;;;;;x
 temple_duchy_muslim;神权国;Th閛cratie;Theokratie;;Teocracia;;;;;;;;;x
 temple_duchy_pagan_group;神权国;Th閛cratie;Theokratie;;Teocracia;;;;;;;;;x
 temple_county_christian;采邑主教区;蓈阠h?princier;Prinzen-Bistum;;Obispado;;;;;;;;;x
-temple_county_muslim;谢赫国;Cheikat;Scheichtum;;Dominio del Jeque;;;;;;;;;x
-temple_county_pagan_group;神权国;Th閛cratie;Theokratie;;Teocracia;;;;;;;;;x
+temple_county_muslim;谢赫领;Cheikat;Scheichtum;;Dominio del Jeque;;;;;;;;;x
+temple_county_pagan_group;神权领;Th閛cratie;Theokratie;;Teocracia;;;;;;;;;x
 temple_barony_christian;教区;蓈阠h?Bistum;;Obispado;;;;;;;;;x
 temple_barony_muslim;清真寺;Mosqu閑;Scheichtum;;Dominio del Jeque;;;;;;;;;x
 temple_barony_pagan_group;神殿;Temple;Tempel;;Templo;;;;;;;;;x
@@ -139,12 +139,12 @@ count_arabic_female;谢哈;Cheika;Shaykhah;;Jequesa;;;;;;;;;x
 empire_altaic;大汗国;Khaganat;Khaganat;;Khaganato;;;;;;;;;x
 kingdom_altaic;汗国;Khanat;Khanat;;Kanato;;;;;;;;;x
 barony_arabic;维拉耶;Wilaya;Wilayah;;Vilayato;;;;;;;;;x
-county_arabic;谢赫国;Cheikat;Scheichtum;;Dominio del Jeque;;;;;;;;;x
+county_arabic;谢赫领;Cheikat;Scheichtum;;Dominio del Jeque;;;;;;;;;x
 duchy_arabic;埃米尔国;蒻irat;Emirat;;Emirato;;;;;;;;;x
 kingdom_arabic;苏丹国;Sultanat;Sultanat;;Sultanato;;;;;;;;;x
 barony_turkish;提马尔;Timar;Timar;;Timar;;;;;;;;;x
-county_turkish;贝伊国;Beylicat;Beylik;;Beylik;;;;;;;;;x
-duchy_turkish;总贝伊国;Beylerbeylicat;Beylerbeylik;;Beylerbeylik;;;;;;;;;x
+county_turkish;贝伊领;Beylicat;Beylik;;Beylik;;;;;;;;;x
+duchy_turkish;贝伊勒贝伊国;Beylerbeylicat;Beylerbeylik;;Beylerbeylik;;;;;;;;;x
 kingdom_turkish;苏丹国;Sultanat;Sultanat;;Sultanato;;;;;;;;;x
 barony_mongol;太师;Ta飐hi;Taishi;;Taishi;;;;;;;;;x
 county_mongol;酋邦;Chefferie;H鋟ptlingstum;;Cacicazgo;;;;;;;;;x
@@ -154,8 +154,8 @@ barony_of_west_african;维拉耶;Wilaya de;Wilayah von;;Vilayato de;;;;;;;;;x
 barony_west_african;维拉耶;Wilaya;Wilayah;;Vilayato;;;;;;;;;x
 count_west_african;法林;Farin;Farin;;Far韓;;;;;;;;;x
 count_female_west_african;法林娜;Farina;Farina;;Farina;;;;;;;;;x
-county_of_west_african;谢赫国;Cheikat de;Scheichtum von;;Dominio del Jeque de;;;;;;;;;x
-county_west_african;谢赫国;Cheikat;Scheichtum;;Dominio del Jeque;;;;;;;;;x
+county_of_west_african;谢赫领;Cheikat de;Scheichtum von;;Dominio del Jeque de;;;;;;;;;x
+county_west_african;谢赫领;Cheikat;Scheichtum;;Dominio del Jeque;;;;;;;;;x
 duke_west_african;法尔巴斯;Farbas;Farbas;;Farbas;;;;;;;;;x
 duke_female_west_african;法尔巴;Farba;Farba;;Farba;;;;;;;;;x
 duchy_of_west_african;埃米尔国;蒻irat de;Emirat von;;Emirato de;;;;;;;;;x
