@@ -1,7 +1,7 @@
 ;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 FACTION_LEADERSHIP_CHANGE_SETUP;派系推举了一位新领袖;La faction a besoin d'un nouveau chef;Die Fraktion bekommt einen neuen Anf黨rer;;Esta facci髇 necesita un l韉er nuevo;;;;;;;;;x
-FACTION_LEADERSHIP_CHANGE_LOG;$CHARNAME$?已经成为$OBJECTIVE$领袖。;$CHARNAME$? est devenu le nouveau chef de la faction pour '$OBJECTIVE$'.;$CHARNAME$? wird zum neuen Anf黨rer der '$OBJECTIVE$'-Fraktion.;;$CHARNAME$? se ha convertido en el nuevo l韉er de la facci髇 '$OBJECTIVE$';;;;;;;;;x
-BUILDING_PREREQ_FAIL;（X?）拥有$BUILDING$?;(X?) $BUILDING$? est d閖?construit;(X?)$BUILDING$? wurde gebaut;;(X?)Necesita $BUILDING$?;;;;;;;;;x
+FACTION_LEADERSHIP_CHANGE_LOG;$CHARNAME$? 已经成为 $OBJECTIVE$ 领袖.;$CHARNAME$? est devenu le nouveau chef de la faction pour '$OBJECTIVE$'.;$CHARNAME$? wird zum neuen Anf黨rer der '$OBJECTIVE$'-Fraktion.;;$CHARNAME$? se ha convertido en el nuevo l韉er de la facci髇 '$OBJECTIVE$';;;;;;;;;x
+BUILDING_PREREQ_FAIL;(X?)拥有 $BUILDING$?;(X?) $BUILDING$? est d閖?construit;(X?)$BUILDING$? wurde gebaut;;(X?)Necesita $BUILDING$?;;;;;;;;;x
 IS_NOT_AT_SEA;不在海上;N'est pas en mer;Befindet sich NICHT auf See;;NO est?en navegando;;;;;;;;;x
 IS_AT_SEA;在海上;Est en mer;Befindet sich auf See;;Est?navegando;;;;;;;;;x
 SongsOfTheRusDLC;罗斯音乐DLC;Chansons de Russie;Lieder der Rus;;Canciones de Rus;;;;;;;;;x
