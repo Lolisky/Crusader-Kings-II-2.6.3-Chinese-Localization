@@ -14,10 +14,10 @@ AUTO_INVITE_PLOTTERS;自发密谋参与者;Invitation automatique des comploteurs;Versc
 AUTO_STOP_PLOTS;自发停止密谋;Arr阾 automatique des complots;Verschw鰎ungen automatisch beenden;;Autodetener complots;;;;;;;;;x
 AUTO_STOPPED_PLOT_SETUP;密谋被揭发;Complot d閏ouvert;Verschw鰎ung aufgedeckt;;Complot descubierto;;;;;;;;x
 AUTO_STOPPED_PLOT_LOG;$PLOTTER$?$PLOTTERJOB$想$PLOTNAME$?.;$PLOTTER$?$PLOTTERJOB$ cherche ?$PLOTNAME$?.;$PLOTTER$?$PLOTTERJOB$ strebt nach $PLOTNAME$?.;;$PLOTTER$?$PLOTTERJOB$ pretende $PLOTNAME$?.;;;;;;;;x
-AUTO_STOPPED_PLOT_LETTER;我已发现$PLOTTER$妄图$PLOTNAME$的密谋.我也已派出一名使者让他收手。\n\n您的间谍总管，\n$SPYMASTER$;J'ai d閏ouvert un complot par lequel $PLOTTER$ cherche ?$PLOTNAME$. J'ai d閜阠h?un 閙issaire pour lui demander de cesser ces agissements sur l'instant. \n\nVotre humble ma顃re-espion,\n$SPYMASTER$;Ich habe eine Verschw鰎ung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer losgesandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenf黨rer,\n$SPYMASTER$;;He descubierto un complot en el que $PLOTTER$ pretende $PLOTNAME$. Le he enviado un emisario para que desista de ello. \n\nTu humilde jefe de esp韆s,\n$SPYMASTER$;;;;;;;;;x
+AUTO_STOPPED_PLOT_LETTER;我已发现$PLOTTER$妄图$PLOTNAME$的密谋.我也已派出一名使者让他收手.\n\n您的间谍总管,\n$SPYMASTER$;J'ai d閏ouvert un complot par lequel $PLOTTER$ cherche ?$PLOTNAME$. J'ai d閜阠h?un 閙issaire pour lui demander de cesser ces agissements sur l'instant. \n\nVotre humble ma顃re-espion,\n$SPYMASTER$;Ich habe eine Verschw鰎ung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer losgesandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenf黨rer,\n$SPYMASTER$;;He descubierto un complot en el que $PLOTTER$ pretende $PLOTNAME$. Le he enviado un emisario para que desista de ello. \n\nTu humilde jefe de esp韆s,\n$SPYMASTER$;;;;;;;;;x
 AUTO_STOP_PLOT_START_SETUP;间谍总管派出信使。;Le ma顃re-espion envoie des messagers;Agentenf黨rer schickt Boten;;El jefe de esp韆s env韆 emisarios;;;;;;;;;x
-AUTO_STOP_PLOT_START_LOG;$SPYMASTER$派出信使制止密谋发动者;$SPYMASTER$ envoie des 閙issaires pour faire cesser les complots;$SPYMASTER$ hat Boten ausgeschickt, um Verschw鰎er zu stoppen;;$SPYMASTER$ envia emisarios para hacer desistir a los conspiradores;;;;;;;;;x
-AUTO_STOP_PLOT_START_LETTER;我已向所有已知的密谋参与者派出密使，让他们立即停止密谋。\n\n您的间谍总管，\n$SPYMASTER$;J'ai envoy?des 閙issaires aupr鑣 de tous les comploteurs connus afin qu'ils cessent cela imm閐iatement.\n\nVotre humble ma顃re-espion,\n$SPYMASTER$;Ich habe eine Verschw鰎ung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer entsandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenf黨rer,\n$SPYMASTER$;;He enviado emisarios a todos los conspiradores conocidos para que desistan de inmediato.\n\nTu humilde jefe de esp韆s,\n$SPYMASTER$;;;;;;;;;x
+AUTO_STOP_PLOT_START_LOG;$SPYMASTER$ 派出信使制止密谋发动者;$SPYMASTER$ envoie des 閙issaires pour faire cesser les complots;$SPYMASTER$ hat Boten ausgeschickt, um Verschw鰎er zu stoppen;;$SPYMASTER$ envia emisarios para hacer desistir a los conspiradores;;;;;;;;;x
+AUTO_STOP_PLOT_START_LETTER;我已向所有已知的密谋参与者派出密使，让他们立即停止密谋。\n\n您的间谍总管,\n$SPYMASTER$;J'ai envoy?des 閙issaires aupr鑣 de tous les comploteurs connus afin qu'ils cessent cela imm閐iatement.\n\nVotre humble ma顃re-espion,\n$SPYMASTER$;Ich habe eine Verschw鰎ung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer entsandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenf黨rer,\n$SPYMASTER$;;He enviado emisarios a todos los conspiradores conocidos para que desistan de inmediato.\n\nTu humilde jefe de esp韆s,\n$SPYMASTER$;;;;;;;;;x
 siege_leader;围城指挥官。;Sp閏ialiste des si鑗es;Belagerungsfuehrer;;L韉er del Asedio;;;;;;;;;x
 siege_leader_desc;此角色善于指挥围城作战。;Ce personnage est particuli鑢ement dou?pour mener ?bien les si鑗es;Dieser Character ist geuebt, Belagerungen zu fuehren;;Este personaje est?especializado en liderar asedios;;;;;;;;;x
 SIEGE;围城;Si鑗e;Belagerung;;Asedio;;;;;;;;;x
@@ -28,9 +28,9 @@ ACCEPTED_PLOT_REQUEST;正支持密谋。;Soutient un complot.;Unterstuetzt Verschw鰎un
 LOADING_TIP_52;你可以使用Alt键点选特定的舰队。;Vous pouvez ne s閘ectionner que vos flottes en utilisant la touche ALT.;Sie k鰊nen eine Auswahl nur auf Flotten treffen, indem Sie die Alt-Taste gedrueckt halten.;;Puedes hacer que la tropa seleccionada se embarque usando simplemente la tecla ALT;;;;;;;;;x
 EXIT;关闭;Sortie;Exit;;Salir;;;;;;;;;x
 CUT;剪吧！;Coupez?;Schnitt!;;ortar!;;;;;;;;;x
-;#CONFIRMEXPORTTITLE;ExportCK2GametoEU4;;CK2 Spiel nach EU4 exportieren;;Exportar partida a EU4;;;;;;;;;x;
-;#CONFIRMEXPORTTEXT;Thegamewillbeexportedwiththename$NAME$。Thismighttakeacoupleofminutes。;;Das Spiel wird mit dem Namen $NAME$ exportiert. Es kann m?glicherweise ein paar Minuten dauern.;;La partida se exportará con el nombre $NAME$. Esta operación puede tardar un par de minutos.;;;;;;;;;x;
-;#CONFIRMEXPORTTEXT_WARNING;Thegamewillbeexportedwiththename$NAME$。\n\nTHISNAMEISALREADYINUSE！\nAreyousureyouwanttocontinue?;;Das Spiel wird mit dem Namen $NAME$ exportiert.\n\n DIESER NAME WIRD BEREITS BENUTZT!\nSind Sie sicher, dass Sie fortsetzen wollen?;;La partida se exportará con el nombre $NAME$.\n\n ?ESTE NOMBRE YA ESTá EN USO!\n?Seguro que quieres continuar?;;;;;;;;;x;
+;#CONFIRMEXPORTTITLE;Export CK2 Game to EU4;;CK2 Spiel nach EU4 exportieren;;Exportar partida a EU4;;;;;;;;;x;
+;#CONFIRMEXPORTTEXT;The game will be exported with the name $NAME$. This might take a couple of minutes.;;Das Spiel wird mit dem Namen $NAME$ exportiert. Es kann m?glicherweise ein paar Minuten dauern.;;La partida se exportará con el nombre $NAME$. Esta operación puede tardar un par de minutos.;;;;;;;;;x;
+;#CONFIRMEXPORTTEXT_WARNING;The game will be exported with the name $NAME$.\n\n THIS NAME IS ALREADY IN USE!\nAre you sure you want to continue?;;Das Spiel wird mit dem Namen $NAME$ exportiert.\n\n DIESER NAME WIRD BEREITS BENUTZT!\nSind Sie sicher, dass Sie fortsetzen wollen?;;La partida se exportará con el nombre $NAME$.\n\n ?ESTE NOMBRE YA ESTá EN USO!\n?Seguro que quieres continuar?;;;;;;;;;x;
 STYLE;类型;Style;Stil;;Estilo;;;;;;;;;x
 CAN_PERSUADE_TO_JOIN_PLOT;可以用一袋金币收买;Peut 阾re convaincu par une escarcelle d'or...;K鰊nte von einem Sack Gold ueberzeugt werden.;;Puede convencersele con un saco de oro...;;;;;;;;;x
 city_job_chancellor_arabic;大维齐尔;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
@@ -49,8 +49,8 @@ city_job_marshal_aztec;人类切割者;Tlacateccatl;Tlacateccatl;;Tlacateccatl;;;;;;;
 city_job_chancellor_zoroastrian_group;百官之主;Astabadh;Astabadh;;Astabadh;;;;;;;;;x
 city_job_treasurer_zoroastrian_group;内库总管;Darik-Pat;Darik-Pat;;Darik-Pat;;;;;;;;;x
 city_job_marshal_zoroastrian_group;伊兰将军;Eran Spahbod;Eran Spahbod;;Eran Spahbod;;;;;;;;;x
-city_job_spiritual_zoroastrian_group;魔导师;Mobad;Mobad;;Mobad;;;;;;;;;x
-city_job_spiritual_zoroastrian;魔导师;Mobad;Mobed;;Mobad;;;;;;;;;x
+city_job_spiritual_zoroastrian_group;大祭司;Mobad;Mobad;;Mobad;;;;;;;;;x
+city_job_spiritual_zoroastrian;大祭司;Mobad;Mobed;;Mobad;;;;;;;;;x
 city_job_spiritual_christian;宫廷牧师;Chapelain;Hofprediger;;Capell醤;;;;;;;;;x
 city_job_spiritual_orthodox;教会首领;Sacristain;Ekklesiarch;;Eclesiarca;;;;;;;;;x
 city_job_spiritual_muslim;宫廷伊玛目;Imam;Hof-Imam;;Im醤 de la corte;;;;;;;;;x
