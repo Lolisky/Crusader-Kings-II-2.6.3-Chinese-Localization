@@ -95,9 +95,9 @@ baltic_pagan_DESC;波罗的海原始宗教是一种多神信仰	主神是天神Dievs. 其他主神包括雷
 baltic_pagan_reformed;洛姆瓦教;romuvienne;romuvanisch;;Romuvano;;;;;;;;;x
 baltic_pagan_reformed_DESC;改革的波罗的海信仰有一本圣书	包括创世神话	诸神章节以及一本预言书. 该教会有一套标准化的礼拜仪式以及由Dievs大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;La foi baltique r閒orm閑 poss鑔e un livre sacr?qui comprend un mythe sur la cr閍tion	des chapitres sur les dieux et un livre des proph閠ies. Son 間lise comporte une liturgie standardis閑 et une hi閞archie religieuse symbolique avec ?sa t阾e le Grand pr阾re de Dievs	qui peut 阾re vassalis?par des chefs s閏uliers.;Der reformierte baltische Glaube besitzt ein Heiliges Buch	das einen Sch鰌fungsmythos	Kapiteln 黚er die G鰐ter und ein Buch der Vorhersagen beinhaltet. Die Kirche hat au遝rdem standardisierte Liturgien und eine formelle Kirchenhierarchie angef黨rt vom Hohepriester des Dievs	der Vasall weltlicher Herrscher sein kann.;;La reformada fe B醠tica tiene un Libro Sagrado con un mito de la creaci髇	cap韙ulos sobre los dioses y un libro de profec韆s. La iglesia tambi閚 tiene una liturgia estandarizada y una jerarqu韆 formal dirigida por el Sumo Sacerdote de Dievs	que puede ser vasallizado por gobernantes seculares.;;;;;;;;;x
 baron_iranian;堡主;Argbadh;Argbadh;;Argbadh;;;;;;;;;x
-baron_norse;市民;辝gn;辝gn;;辝gn;;;;;;;;;x
-baron_norse_pagan;市民;辝gn;辝gn;;辝gn;;;;;;;;;x
-baron_norse_pagan_reformed;市民;辝gn;辝gn;;辝gn;;;;;;;;;x
+baron_norse;家臣;辝gn;辝gn;;辝gn;;;;;;;;;x
+baron_norse_pagan;家臣;辝gn;辝gn;;辝gn;;;;;;;;;x
+baron_norse_pagan_reformed;家臣;辝gn;辝gn;;辝gn;;;;;;;;;x
 barony_iranian;城堡;Arg;Arg;;Arg;;;;;;;;;x
 barony_of_iranian;城堡;Arg de;Arg von;;Arg de;;;;;;;;;x
 bear_passes_away;你为你熊伙伴的离去而哀伤.;Vous pleurez la perte de votre compagnon ours. ;Ihr beweint den Verlust Eures B鋜en-Begleiters.;;Lamentas la p閞dida de tu compa馿ro oso.;;;;;;;;;x
@@ -1302,8 +1302,8 @@ k_turkestan_adj;突厥斯坦;turkestani;Turkestan-;;Turquestan?;;;;;;;;x
 keep_bear;你将动物用铁链子拴起来作为玩物.;Vous gardez l'animal encha頽?pour votre plaisir.;Ihr lasst das Tier f黵 Eure Unterhaltung anketten.;;Te quedas el animal encadenado para tu diversi髇.;;;;;;;;;x
 khazar;可萨;khazare;Khazar;;Khazar;;;;;;;;;x
 killed_an_old_one;弑神者;D閕cide;Gottesvernichter;;Matadioses;;;;;;;;;x
-king_female_iranian;女沙王;Banebshen;Banebshen;;Banebshen;;;;;;;;;x
-kingdom_iranian;沙王国;Royaume;Shahdom;;Shahdom;;;;;;;;;x
+king_female_iranian;女沙阿;Banebshen;Banebshen;;Banebshen;;;;;;;;;x
+kingdom_iranian;沙阿国;Royaume;Shahdom;;Shahdom;;;;;;;;;x
 liberation_revolt_desc;外国君主统治下的臣民会试图起兵复国.;Les sujets de seigneurs 閠rangers peuvent d閙arrer des r関oltes afin de r閠ablir leur ancien royaume.;Die Untergebenen fremder Herrscher k鰊nen revoltieren und versuchen	ihr altes K鰊igreich wiederherzustellen.;;Los s鷅ditos de se駉res extranjeros pueden alzarse en revuelta y tratar de restablecer su antiguo reino.;;;;;;;;;x
 LOADING_CALC_NAVAL;计算海军范围...;Calcul des distances navales...;Berechnnung der Flotten-Reichweiten?;Calculando Distancias Navales?;;;;;;;;x
 LOADING_TIP_12;圣战士只能与异端和异教徒战斗.在战斗中小心使用他们!;Les ordres saints ne combattront que les h閞閠iques et les infid鑜es. Soyez donc vigilant lorsque vous les utilisez au cours de batailles?  ;Heilige Orden k鋗pfen nur gegen Ketzer und Ungl鋟bige. Seid vorsichtig	wenn Ihr sie im Kampf einsetzt!;;Las 髍denes sagradas s髄o luchar醤 contra los herejes e infieles. en cuidado al usarlas en batalla!;;;;;;;;;x
@@ -1674,22 +1674,22 @@ TECH_STEWARDSHIP_VALUE;基础经济科技点数成长;Croissance de base des points de tec
 TECH_TRADE_PRACTICES;贸易制度;Pratiques commerciales;Handels-Praktiken;;Pr醕ticas Comerciales;;;;;;;;;x
 TECH_TRADE_PRACTICES_DESC;优越的贸易制度让共和国和城市加入到贸易中，来赚更多的钱.;De meilleures pratiques commerciales engendrent plus d'argent pour les r閜ubliques ainsi que pour les cit閟 qui participent ?l'閏hange.;Bessere Handels-Praktiken geben Republiken und St鋎ten mehr Geld im Handel.;;Mejores pr醕ticas comerciales conducen a m醩 dinero para las rep鷅licas as?como las ciudades que participan en el comercio.;;;;;;;;;x
 TECHPOINT_EFFECT;$DIRECTION$ $VALUE$ $TYPE$.\n;$DIRECTION$ $VALUE$ $TYPE$.\n;$DIRECTION$ $VALUE$ $TYPE$.\n;;$DIRECTION$ $VALUE$ $TYPE$.\n;;;;;;;;;x
-temple_baron_female_norse_pagan;迪迦奥;Gydja;Gydja;;Gydja;;;;;;;;;x
-temple_baron_female_norse_pagan_reformed;迪迦奥;Gydja;Gydja;;Gydja;;;;;;;;;x
+temple_baron_female_norse_pagan;戈迪雅;Gydja;Gydja;;Gydja;;;;;;;;;x
+temple_baron_female_norse_pagan_reformed;戈迪雅;Gydja;Gydja;;Gydja;;;;;;;;;x
 temple_baron_female_pagan_group;女祭司;Pr阾resse;Priesterin;;Sacerdotisa;;;;;;;;;x
 temple_baron_norse_pagan;戈迪;Godi;Godi;;Godi;;;;;;;;;x
 temple_baron_norse_pagan_reformed;戈迪;Godi;Godi;;Godi;;;;;;;;;x
 temple_baron_zoroastrian;荷伯;Ervad;Herbad;;Herbad;;;;;;;;;x
 temple_baron_zoroastrian_group;荷伯;Ervad;Herbad;;Herbad;;;;;;;;;x
-temple_barony_of_zoroastrian;乌亚哈恩;Vahram de;Vahram von;;Vahram de;;;;;;;;;x
-temple_barony_of_zoroastrian_group;乌亚哈恩;Vahram de;Vahram von;;Vahram de;;;;;;;;;x
+temple_barony_of_zoroastrian;瓦朗;Vahram de;Vahram von;;Vahram de;;;;;;;;;x
+temple_barony_of_zoroastrian_group;瓦朗;Vahram de;Vahram von;;Vahram de;;;;;;;;;x
 temple_barony_zoroastrian;瓦朗;Vahram;Vahram;;Vahram;;;;;;;;;x
 temple_barony_zoroastrian_group;瓦朗;Vahram;Vahram;;Vahram;;;;;;;;;x
 temple_built;建造神庙;Temples construits;Erbaute Tempel;;Templos Construidos;;;;;;;;;x
 temple_count_female_norse_pagan;瓦拉;Vala;Wala;;Vala;;;;;;;;;x
 temple_count_female_norse_pagan_reformed;瓦拉;Vala;Wala;;Vala;;;;;;;;;x
-temple_count_norse_pagan;赛义德;Seidsman;Seidsman;;Seidsman;;;;;;;;;x
-temple_count_norse_pagan_reformed;赛义德;Seidsman;Seidsman;;Seidsman;;;;;;;;;x
+temple_count_norse_pagan;术士;Seidsman;Seidsman;;Seidsman;;;;;;;;;x
+temple_count_norse_pagan_reformed;术士;Seidsman;Seidsman;;Seidsman;;;;;;;;;x
 temple_looted;神庙被洗劫一空;Temples pill閟;Gepl黱derte Tempel;;Templos Saqueados;;;;;;;;;x
 tengri_pagan_DESC;腾格里信仰是欧亚大草原上突厥人和蒙古人的游牧部落信奉的宗教. 主神是创世神腾格里天神. 这一宗教具有鲜明的萨满教和泛灵教特征.;Le tengrisme est la religion des peuples des steppes eurasiennes	en particulier les Turcs et les Mongols nomades. Le dieu en chef est Tengri	le dieu-cr閍teur qui r鑗ne sur les cieux. Le chamanisme et l'animisme sont aussi d'importants aspects de cette religion.;Tengrismus ist die Religion der Steppenv鰈ker von Eurasien	besonders t黵kischer und mongolischer Nomaden. Der Hauptgott ist Tengri	der Sch鰌fer der Welt und Herrscher der Himmel. Schamanismus und Geisterglaube spielen wichtige Rollen in der Religion.;;El Tengrismo es la religi髇 de los pueblos de la estepa de Eurasia	especialmente los Turcos y Mongoles n髆adas. El dios principal es Tengri	el dios creador que gobierna los cielos. El chamanismo y el animismo tambi閚 ocupan un lugar destacado en la religi髇.;;;;;;;;;x
 tengri_pagan_reformed;长生天;tengri;tengrisch;;Tengri;;;;;;;;;x

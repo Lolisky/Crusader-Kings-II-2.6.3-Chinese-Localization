@@ -34,7 +34,7 @@ ALLOW_FREE_DUCHY_REVOKATION_ON;¿ÉÒÔÎŞ³¥°ş¶á¹«¾ôÍ·ÏÎ.\n;Aucune pénalit?pour la ré
 ALLOW_FREE_DUCHY_REVOKATION_OFF;²»¿ÉÎŞ³¥°ş¶á¹«¾ôÍ·ÏÎ.\n;Pénalités applicables pour la révocation des titres de duch?\n;Keine weitere freie Aberkennung von Herzogstiteln.\n;;No permite la revocación de títulos de ducados.;;;;;;;;;x
 LIEGE_LEVY_DESC_VICE_ROY;\n   ×Ü¶½: $VALUE$;\n   Vice-royauté : $VALUE$;\n   Vizekönigreich: $VALUE$;;\n  Virreinato: $VALUE$;;;;;;;;;x
 TITLE_NOT_VICE_ROYALTY;Í·ÏÎ²»ÊÇ×Ü¶½;Ce titre n'est pas une vice-royaut?;Titel ist kein Vizekönigreich;;El título no es un virreinato;;;;;;;;;x
-tribal_king_female;Çõ³¤Å®Íõ;Reine;Königin;;Reina;;;;;;;;;x
+tribal_king_female;Å®Íõ;Reine;Königin;;Reina;;;;;;;;;x
 tribal_emperor_female;Å®»Ê;Impératrice;Kaiserin;;Emperatriz;;;;;;;;;x
 temple_duke_female_pagan_group;Å®´ó¼ÀË¾;Archiprêtresse;Erzpriesterin;;Reina sacerdotisa;;;;;;;;;x
 temple_king_female_pagan_group;Î×ºó;Reine-prêtresse;Priesterkönigin;;Reina Sacerdotisa;;;;;;;;;x
@@ -42,7 +42,7 @@ temple_emperor_female_pagan_group;Å®Î×µÛ;Empereur;Kaiser;;Emperador;;;;;;;;;x
 AIREASON_SAME_RELIGION_AS_REGENT;ºÍÎÒÍ¬ÊôÒ»¸ö×Ú½Ì£¿;Religion identique ?la mienne;Gehört meiner Religion an;;La misma religión que yo;;;;;;;;;x
 expel_the_haruriyyah;ÇıÖğ¹şÀïÂ³Ò®ÅÉ;Expulser les Haruriyyah;Vertreibt die Haruriyyah;;Expulsar a los Haruriyyah;;;;;;;;;x
 expel_the_haruriyyah_desc;ÎÒ¿ÉÒÔ½«¹şÀïÂ³Ò®ÅÉ´ÓÎÒµÄ¹úÍÁÉÏ¸Ï×ß²¢°ÔÕ¼ËûÃÇµÄÁìµØ.µ«ÕâÃ´×öÊÇÙôäÂÉñÁé....;Je peux expulser les Haruriyyah de mon territoire et m'emparer de leurs châteaux. Ce serait par contre un acte des plus impies...;Ich kann die Haruriyyah aus meinem Reich vertreiben und ihre Burgen beschlagnahmen. Allerdings wäre das leider nicht sehr fromm ...;;Puedo manejar a los Haruriyyah de mi reino y arrebatarles sus castillos. No obstante, eso sería una acción muy impía...;;;;;;;;;x
-borrow_money_haruriyyah;½è300¤Ïò¹şÀïÂ³Ò?;Emprunter 300?aux Haruriyyah;Leiht Euch 300?von den Haruriyyah;;Pedir 300?prestados a los Haruriyyah;;;;;;;;;x
+borrow_money_haruriyyah;½è300¸ø¹şÀïÂ³Ò®ÅÉ;Emprunter 300?aux Haruriyyah;Leiht Euch 300?von den Haruriyyah;;Pedir 300?prestados a los Haruriyyah;;;;;;;;;x
 borrow_money_haruriyyah_desc;ÎÒ¿ÉÒÔÏò¹şÀïÂ³Ò®ÅÉ½èÒ»Ğ©ÎŞÏ¢ÎŞÆÚ´û¿î,µ«ÊÇÔÚÎÒÇ·Ç®ÆÚ¼ä,ËûÃÇµÄ´ó³¤ÀÏ»áÏòÎÒÌá³ö¸÷ÖÖ¸÷ÑùµÄÒªÇó,±ÈÈçËµÈÃÎÒµÄÒ»¸ö¶ù×Ó¼ÓÈëËûÃÇµÄĞĞÁĞ.;Je peux emprunter de l'argent aux Haruriyyah et rembourser la même somme quand bon me semble. Cependant, tant que cette dette existe, le Grand Maître peut formuler diverses requêtes, comme demander qu'un de mes fils rejoigne leurs rangs.;Ich kann mir von den Haruriyyah Geld leihen und den Betrag zu beliebiger Zeit zurückzahlen. Jedoch kann der Großmeister, während ich in ihrer Schuld stehe, an mich verschiedene Forderungen stellen, z.B. dass einer meiner Söhne dem Orden beitritt.;;Puedo pedir un préstamo a los Haruriyyah y devolverles la misma suma en cualquier momento. Sin embargo, mientras est?en deuda con ellos, el Gran Maestre podr?hacer distintas peticiones, como que uno de mis hijos se una a sus filas.;;;;;;;;;x
 not_shia_caliphate_revolt_ongoing;Ã»ÓĞ±¬·¢ÓµÁ¢Ê²Ò¶ÅÉ¹şÀï·¢µÄÅÑÂÒ;Pas de révolte en cours pour établir le califat chiite;Kein lauefenden Revolt um das Schia-Kalifat zu etablieren;;Ningúna rebelión en curso para establecer el Califato Chi?;;;;;;;;x
 shia_creation_independent;ÒªÃ´¶ÀÁ¢ÒªÃ´ËùÓĞ·â¾ı¶¼ĞÅÑöÊ²Ò¶ÅÉ\n;Indépendant ou tous les seigneurs liges sont chiites\n;Unabhängig oder alle Euch vorgesetzten Lehnsherrn sind Schiiten\n;;Independiente o todos sus señores son Chiitas\n;;;;;;;;;x

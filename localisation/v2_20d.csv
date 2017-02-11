@@ -6,7 +6,7 @@ LIEGE_ENDED_OTHER_WAR_PARTICIPATION_LOG;$VASSAL$?不再是$VASSAL_WAR$?的参与者
 LIEGE_ENDED_OTHER_WAR_LOG;$VASSAL_WAR$?结束了，因为$LIEGE$?作为$SIDE$?加入了$LIEGE_WAR$?。;The $VASSAL_WAR$? s'est termin閑 car $LIEGE$? a rejoint The $LIEGE_WAR$? en tant aue $SIDE$?.;Der ''The $VASSAL_WAR$?'' endete da $LIEGE$? als $SIDE$? in den ''The $LIEGE_WAR$?'' eingetreten ist. ;;The $VASSAL_WAR$? ha terminado ya que $LIEGE$? se ha unido a la The $LIEGE_WAR$? como $SIDE$?.;;;;;;;;;x
 NOT_ANY_WAR_STARTS;无战争;Pas de guerre;Kein Krieg ;;No est?en guerra;;;;;;;;;x
 not_under_attack;非防御方;Pas d閒enseur dans une guerre;Nicht Verteidiger in einem Krieg ;;No es un defensor en una guerra;;;;;;;;;x
-temple_king_pagan_group;王室牧师;Pr阾re-roi;Priesterk鰊ig ;;Sacerdote-Rey;;;;;;;;;x
+temple_king_pagan_group;祭司王;Pr阾re-roi;Priesterk鰊ig ;;Sacerdote-Rey;;;;;;;;;x
 EVTTITLE_CM_1402;反叛[From.PrimaryTitle.GetRulerTitle];L'insoumis [From.PrimaryTitle.GetRulerTitle];Der Rebellische [From.PrimaryTitle.GetRulerTitle] ;;El revoltoso [From.PrimaryTitle.GetRulerTitle];;;;;;;;;x
 EVTDESC_CM_1410;我的[Root.GetLordLady]，叛徒[From.GetTitledName]撕毁了[From.GetHerHis]诺言，拒绝支援你反抗倭马亚王朝！;M[Root.GetHerHis][Root.GetLordLady], \n\n[From.GetTitledName] manque ?sa parole et refuse de vous aider contre les Omeyyades?;Mein [Root.GetLordLady], [From.GetTitledName] hat [From.GetHerHis] Versprechen gebrochen und weigert sich, euch gegen die Umayyaden zu unterst黷zen! ;;Mi [Root.GetLordLady], l traidor [From.GetTitledName] ha incumplido su palabra y se ha negado a ayudarnos contra los Omeyas!;;;;;;;;;x
 TRIBAL_VASSAL_LEVY_CONTROL_ON;封臣部落将会向你提供常备军。\n;Les vassaux tribaux vous fourniront maintenant des troupes.\n;Stammesvasallen stellen Wehrpflichtige.\n ;;Ahora los vasallos tribales pueden aportarte sus tropas.\n;;;;;;;;;x
