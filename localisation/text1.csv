@@ -6023,10 +6023,10 @@ baron_foa_female;夫人;Ma Dame;Meine F黵stin;;Mi Se駉ra;;;;;;;;;x
 city_emperor_foa;殿下;Votre Altesse;Eure Hoheit;;Su Alteza;;;;;;;;;x
 city_king_foa;尊贵阁下;Votre Altesse S閞閚issime;Euer Durchlauchter Gnaden;;Su serena Gracia;;;;;;;;;x
 city_duke_foa;阁下;Votre Grandeur;Euer Gnaden;;Su Gracia;;;;;;;;;x
-city_count_foa;尊敬的;Votre Honneur;Euer Ehren;;Su Honor;;;;;;;;;x
-city_baron_foa;尊敬的;Votre Seigneurie;Euer Ehren;;Su Honor;;;;;;;;;x
+city_count_foa;尊敬;Votre Honneur;Euer Ehren;;Su Honor;;;;;;;;;x
+city_baron_foa;尊敬;Votre Seigneurie;Euer Ehren;;Su Honor;;;;;;;;;x
 temple_king_foa;冕下;Votre Saintet?Eure Heiligkeit;;Su Santidad;;;;;;;;;x
-temple_duke_foa;威严的;Votre 蒻inence;Eure Eminenz;;Su Eminencia;;;;;;;;;x
+temple_duke_foa;威严;Votre 蒻inence;Eure Eminenz;;Su Eminencia;;;;;;;;;x
 temple_count_foa;阁下;Votre Excellence;Eure Exzellenz;;Su Excelencia;;;;;;;;;x
 temple_baron_foa;阁下;Votre Excellence;Eure Exzellenz;;Su Excelencia;;;;;;;;;x
 empire_of;帝国;Empire de;Reich von;;Imperio de;;;;;;;;;x
@@ -15817,7 +15817,7 @@ opinion_enjoyed_feast;享受宴会;A appr閏i?le banquet;Genoss das Gelage;;Fiesta di
 opinion_money_stolen;偷了我的钱;A vol?mon argent;Stahl mein Geld;;Rob?mi dinero;;;;;;;;;x
 ;#opinion_betrayed;Betrayed me for money;M'a trahi pour de l'argent;Betrog mich für Geld;;Me traicionó por dinero;;;;;;;;;x;
 opinion_granted_barony;授予男爵领;M'a offert une baronnie;Gew鋒rte eine Baronie;;Concedida una baron韆;;;;;;;;;x
-opinion_granted_county;授予郡;M'a offert un comt?Gew鋒rte eine Grafschaft;;Concedido un condado;;;;;;;;;x
+opinion_granted_county;授予伯爵领;M'a offert un comt?Gew鋒rte eine Grafschaft;;Concedido un condado;;;;;;;;;x
 opinion_granted_duchy;授予公国;M'a offert un duch?Gew鋒rte ein Herzogtum;;Concedido un ducado;;;;;;;;;x
 opinion_granted_kingdom;授予王国;M'a offert un royaume;Gew鋒rte ein K鰊igreich;;Concedido un reino;;;;;;;;;x
 opinion_granted_empire;授予帝国;M'a offert un empire;Gew鋒rte ein Kaiserreich;;Concedido un imperio;;;;;;;;;x
@@ -18658,7 +18658,7 @@ HEIR_TO_THE;有权继承;H閞itier de? ;Nachfolger des;;Heredero a;;;;;;;;;x
 DE_JURE;法理;de jure;De Jure;;De iure;;;;;;;;;x
 SUCCESSION;继承顺位;Succession;Nachfolge;;Sucesi髇;;;;;;;;;x
 NOMINATE_SUCCESSOR;指定;D閟igner;Nominieren;;Designado;;;;;;;;;x
-COUNTY;郡;(Comt?;Grafschaft;;Condado;;;;;;;;;x
+COUNTY;伯爵领;(Comt?;Grafschaft;;Condado;;;;;;;;;x
 DUCAL;公国;(Duch?;Herz鰃lich;;Ducal;;;;;;;;;x
 ROYAL;王国;(Royaume);K鰊iglich;;Real;;;;;;;;;x
 IMPERIAL;帝国;(Empire);Kaiserlich;;Imperial;;;;;;;;;x
@@ -19381,9 +19381,9 @@ ATTRITION_CURRENT;每月损耗: $VALUE$%?;Attrition mensuelle? $VALUE$%?;Monatli
 ATTRITION_MAX;本地的每月最大损耗：$VALUE$%?;Attrition mensuelle plafon閑 dans le comt闋: $VALUE$%?;Maximaler monatlicher Verlust in Provinz: $VALUE$%?;;Desgaste m醲imo mensual en la provincia: $VALUE$%?;;;;;;;;;x
 ATTRITION_LEADER_REDUCTION;$NAME$: $VALUE$;$NAME$? $VALUE$;$NAME$: $VALUE$;;$NAME$: $VALUE$;;;;;;;;;x
 TOGGLE_SIEGE_VIEW;切换围城面板;Activer/d閟activer la vue du si鑗e;Belagerungsansicht umschalten;;Mostrar/ocultar pantalla de asedios;;;;;;;;;x
-TOTAL_COUNTY_TAX;全郡总税收;Total des imp魌s du comt?Grafschaftssteuern gesamt;;Impuesto total del condado;;;;;;;;;x
+TOTAL_COUNTY_TAX;伯爵领总税收;Total des imp魌s du comt?Grafschaftssteuern gesamt;;Impuesto total del condado;;;;;;;;;x
 TOTAL_COUNTY_TAX_DESC;每年上缴给我们的税收 / 每年总收入;Imp魌s annuels vers閟 / Total des revenus annuels;Unsere j鋒rlichen Steuereinnahmen / Jahreseinkommen gesamt;;Impuesto anual que recibimos / Ingreso total anual;;;;;;;;;x
-TOTAL_COUNTY_LEVY;全郡总兵力;Total des troupes du comt?Alle Wehrpflichtigen der Grafschaft;;Leva total del condado;;;;;;;;;x
+TOTAL_COUNTY_LEVY;伯爵领总兵力;Total des troupes du comt?Alle Wehrpflichtigen der Grafschaft;;Leva total del condado;;;;;;;;;x
 TOTAL_COUNTY_LEVY_DESC;我们可以动员的兵力 / 总兵力;Nos lev閑s de troupes possibles / Lev閑s totales maximales;Anzahl der Wehrpflichtigen, die wir ausheben k鰊nen / Maximalkontingent gesamt;;Leva que podemos reclutar / Leva m醲ima total;;;;;;;;;x
 DS_OFF_WAR;攻击 [GetBestName]? 在 $WAR$?;Est attaquant dans la $WAR$? contre [GetBestName]?;Greifen [GetBestName]? in $WAR$? an;;Atacando a [GetBestName]? en $WAR$?;;;;;;;;;x
 DS_DEF_WAR;防御 [GetBestName]? 在 $WAR$?;Se d閒end contre [GetBestName]? dans la $WAR$?;Verteidigen gegen [GetBestName]? in $WAR$?;;Defendiendo contra [GetBestName]? en $WAR$?;;;;;;;;;x
@@ -19541,7 +19541,7 @@ job_viceroy name;总督;Vice-roi;Vizek鰊ig;;Virrey;;;;;;;;;x
 title_regent;摄政;R間ent;Regent;;Regente;;;;;;;;;x
 title_queen_mother;王太后;Reine m鑢e;K鰊iginmutter;;Reina Madre;;;;;;;;;x
 emperor_title_queen_mother_female;皇太后;Imp閞atrice douairi鑢e;Kaiserinwitwe;;Emperatriz viuda;;;;;;;;;x
-emperor_title_queen_mother_female_german;皇太后;Kaiserin;Kaiserin;;Emperatriz Viuda;;;;;;;;;x
+emperor_title_queen_mother_female_german;凯撒琳;Kaiserin;Kaiserin;;Emperatriz Viuda;;;;;;;;;x
 title_prince;王子;Prince;Prinz;;Pr韓cipe;;;;;;;;;x
 title_prince_iranian;沙赫扎得;Shahzada;Shahzada;;Shahzada;;;;;;;;;x
 title_prince_female;公主;Princesse;Prinzessin;;Princesa;;;;;;;;;x
@@ -19568,8 +19568,8 @@ title_caesar;凯撒;C閟ar;C鋝ar;;C閟ar;;;;;;;;;x
 title_caesar_desc;传统上原本是罗马帝国的至高荣誉头衔,但是现在"凯撒"头衔已经可以被授予任何人.;Plus haut titre de l'Empire romain, le titre de C閟ar peut d閟ormais 阾re d閏ern??tout le monde.;Urspr黱glich war der C鋝artitel der ehrenvollste im R鰉ischen Kaiserreich, jetzt aber kann er jedermann verliehen werden.;;Originalmente, era el t韙ulo con m醩 honor del Imperio Romano, aunque hoy en d韆 puede otorgarse a cualquiera.;;;;;;;;;x
 title_kouropalates;宫廷负责人;Curopalate;Kouropalates;;Curopalates;;;;;;;;;x
 title_kouropalates_desc;原本是希腊语,意为"在宫廷中掌握话事权的人",是一个非常高贵的荣誉头衔.;Curopalate - 'celui qui a la charge du palais' est un prestigieux titre de l'Empire byzantin.;Kouropalates - 'der Palastverwalter' - ist im Byzantinischen Kaiserreich ein 鋟遝rst angesehener Titel.;;El t韙ulo de curopalates (el encargado del palacio) es bastante prestigioso en el Imperio Bizantino.;;;;;;;;;x
-title_anthypatos;总督;Anthypatos;Anthypatos;;Anthypatos;;;;;;;;;x
-title_anthypatos_desc;总督如今只是一个荣誉头衔,而不是真正指某一地区的行政长官.;Anthypathos est un terme grec qui signifie proconsul. Toutefois, ce titre ne d閟igne plus un gouverneur provincial, et s'av鑢e purement honorifique.;Anthypathos ist der griechische Ausdruck f黵 Prokonsul. Dieses Amt steht aber nicht mehr f黵 einen Provinzgouverneur, sondern ist lediglich ein Ehrentitel.;;Anthypathos viene del griego y significa proc髇sul. Sin embargo, el cargo ya no es para los gobernadores de la provincia, sino que es meramente honor韋ico.;;;;;;;;;x
+title_anthypatos;副最高长官;Anthypatos;Anthypatos;;Anthypatos;;;;;;;;;x
+title_anthypatos_desc;副最高长官是资深执政官的希腊语翻译，如今只是一个荣誉头衔,而不是真正指某一地区的行政长官.;Anthypathos est un terme grec qui signifie proconsul. Toutefois, ce titre ne d閟igne plus un gouverneur provincial, et s'av鑢e purement honorifique.;Anthypathos ist der griechische Ausdruck f黵 Prokonsul. Dieses Amt steht aber nicht mehr f黵 einen Provinzgouverneur, sondern ist lediglich ein Ehrentitel.;;Anthypathos viene del griego y significa proc髇sul. Sin embargo, el cargo ya no es para los gobernadores de la provincia, sino que es meramente honor韋ico.;;;;;;;;;x
 zealous;狂热;Z鑜e;Eifrig;;Fan醫ico;Fanatismo;;;;;;;;x
 zealous_desc;此人对宗教热情如火，对异端分子、异教徒和无神论者绝无怜悯.;Ce personnage est tr鑣 pieux et ne supporte ni les h閞閠iques ni les infid鑜es.;Dieser Charakter brennt vor religi鰏er Leidenschaft und kann Ketzer, Ungl鋟bige oder Heiden nicht tolerieren.;;Este personaje arde en fervor religioso y no tolera a los herejes, a los infieles y a los paganos.;;;;;;;;;x
 just;正直;Sens de la justice;Gerecht;;Justo;Giustizia;;;;;;;;x

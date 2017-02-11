@@ -24,7 +24,7 @@ MARTIAL_INFLUENCE;战术影响;Influence martiale;Einfluss der Kriegskunst;;;;;;;;;;
 ;#ATT_BONUS_MORALE;Morale Offence bonus: $PERC$ morale damage;;Moralbonus auf Angriff: $PERC$ Moralschaden;;;;;;;;;;;x;
 ;#MORALE_ATT_COMBAT_MODIFIER;Morale Offence Combat Modifier of $WHO$?: $PERC$ morale damage;;Gefechts-Moralbonus auf Verteidigung von $WHO$?: $PERC$ Moralschaden;;;;;;;;;;;x;
 FLANKING;侧翼冲击;Attaque sur le flanc;Flankenattacke;;;;;;;;;;;x
-CENTER;领导中央阵列;M鑞e le centre;F黨rung im Zentrum;;;;;;;;;;;x
+CENTER;中军;M鑞e le centre;F黨rung im Zentrum;;;;;;;;;;;x
 ;#FLANKING_COMBAT_MODIFIER;Flanking Combat Modifier of $WHO$?: $PERC$;;Gefechts-Flankenangriffsmodifikator von $WHO$?: $PERC$;;;;;;;;;;;x;
 ;#CENTER_COMBAT_MODIFIER;Leading the Center Combat Modifier of $WHO$?: $PERC$;;Gefechtsmodifikator durch Führung des Zentrums von $WHO$?: $PERC$;;;;;;;;;;;x;
 DEFENCE;防御;D閒ense;Verteidigung;;;;;;;;;;;x

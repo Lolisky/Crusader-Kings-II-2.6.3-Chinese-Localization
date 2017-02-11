@@ -1694,14 +1694,14 @@ alert_my_peace_soon_enforced_instant;  你正在强制国内和平！ ? ;Vous avez imp
 alert_my_peace_soon_enforced_delayed;你的内阁宣布国内应该和平！\n你封臣间的所有内战在 $MONTHS|Y$ 个月内就会  无条件和平 ? ！;Votre Conseil a d閏r閠?que la paix doit r間ner au sein du pays?\nToutes les guerres internes entre vos vassaux prendront fin par un cessez-le-feu dans $MONTHS|Y$ mois?;Der Rat hat verk黱det, dass Frieden im Reich herrschen soll! \nDie reichsinternen Kriege zwischen Euren Vasallen werden in $MONTHS|Y$ Monaten in einem Wei遝n Frieden? enden!;;u Consejo ha declarado que la paz debe reinar en el reino!\nTodas las guerras internas entre tus vasallos terminar醤 en una Paz blanca? dentro de $MONTHS|Y$ meses!;;;;;;;;;x
 alert_my_peace_being_enforced_instant;  强制国内和平！ ? ;Paix dans le pays d閏r閠閑??;Reichsfrieden durchgesetzt!?;;Paz del Reino impuesta!?;;;;;;;;;x
 alert_my_peace_being_enforced_delayed;你的内阁宣布国内应该和平！\n你的封臣在未来 $MONTHS|Y$ 月内不能互相发动战争！;Votre Conseil a d閏r閠?que la paix doit r間ner au sein du pays?\nVos vassaux ne pourront pas mener de guerres entre eux pendant encore $MONTHS|Y$ mois?;Euer Rat hat verk黱det, dass Frieden im Reich herrschen soll!\nEure Vasallen k鰊nen weitere $MONTHS|Y$ Monate lang keine Kriege gegeneinander f黨ren!;;u Consejo ha declarado que la paz debe reinar en el reino!\nTus vasallos no podr醤 guerrear entre s?durante $MONTHS|Y$ meses m醩!;;;;;;;;;x
-tribal_county;首领;Chefferie;H鋟ptlingstum;;Cacicazgo;;;;;;;;;x
-tribal_kingdom_old_saxon;大首领;Grande chefferie;Gro遠鋟ptlingstum;;Gran cacicazgo;;;;;;;;;x
+tribal_county;酋长;Chefferie;H鋟ptlingstum;;Cacicazgo;;;;;;;;;x
+tribal_kingdom_old_saxon;大酋长;Grande chefferie;Gro遠鋟ptlingstum;;Gran cacicazgo;;;;;;;;;x
 tribal_kingdom_altaic;汗国;Khanat;Khanat;;Kanato;;;;;;;;;x
-tribal_empire_altaic;突厥汗国;Khaganat;Khaganat;;Kaganato;;;;;;;;;x
+tribal_empire_altaic;大汗国;Khaganat;Khaganat;;Kaganato;;;;;;;;;x
 tribal_kingdom_arabic;苏丹国;Sultanat;Sultanat;;Sultanato;;;;;;;;;x
-tribal_empire_russian;沙王国;Tsarat;Zarenreich;;Zarato;;;;;;;;;x
+tribal_empire_russian;沙皇国;Tsarat;Zarenreich;;Zarato;;;;;;;;;x
 duchy_russian;大公国;Grande-principaut?Gro遞黵stentum;;Gran principado;;;;;;;;;x
-empire_russian;沙王国;Tsarat;Zarenreich;;Zarato;;;;;;;;;x
+empire_russian;沙皇国;Tsarat;Zarenreich;;Zarato;;;;;;;;;x
 gov_revolt; [PrimaryTitle.GetAdjective] 叛乱;R関olte [PrimaryTitle.GetAdjective];[PrimaryTitle.GetAdjective] Revolte;;[PrimaryTitle.GetAdjective] Revuelta;;;;;;;;;x
 gov_romuva_eldership; [Religion.GetName] 长老;Conseil des anciens ([Religion.GetName]);[Religion.GetName]-膌testenherrschaft;;Anciano [Religion.GetName];;;;;;;;;x
 gov_noble_romuva_eldership;高贵的 [Religion.GetName] 长老;Conseil noble des anciens ([Religion.GetName]);Aristokratische [Religion.GetName]-膌testenherrschaft;;Noble anciano [Religion.GetName];;;;;;;;;x
