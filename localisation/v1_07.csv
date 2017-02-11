@@ -224,7 +224,7 @@ BUY_RETINUE;建立一只名为$NAME$? 的亲卫队, 开始几乎是没有人力但会慢慢补充起来的
 RETTYPE_INF1;冲击;Choc;Schock;;Choque;;;;;;;;;;;x
 RETTYPE_INF2;防御;D閒ense;Verteidigung;;Defensa;;;;;;;;;;;x
 RETTYPE_CAV1;骑兵;Cavalerie;Kavallerie;;Caballer韆;;;;;;;;;;;x
-RETTYPE_SKIR1;小冲突;Escarmouche;Gefecht;;Escaramuza;;;;;;;;;;;x
+RETTYPE_SKIR1;散兵;Escarmouche;Gefecht;;Escaramuza;;;;;;;;;;;x
 LEVY_UPKEEP;征召兵维护费;Frais militaire;Wartungsabgaben;;Mantenimiento de leva;;;;;;;;;;;x
 RETINUE_UPKEEP;亲卫队维护费;Frais d'escorte;Gefolge-Abgaben;;Mantenimiento del s閝uito;;;;;;;;;;;x
 LIEGE_LEVY_OF;领主征召 $VASSAL$ 的部队;Arm閑 de $VASSAL$;Lehnsherren-Einberufung von $VASSAL$;;Leva se駉rial de $VASSAL$;;;;;;;;;;;x
@@ -673,7 +673,7 @@ RETINUE_CAP_USAGE_BUY;可用亲卫队: $SIZE$?\n;Taille maximale de l'escorte? $S
 RETTYPE_CUL_ENG;长弓手;Arc;Langbogen;;Arco Largo;;;;;;;;;x
 RETTYPE_CUL_SCOT;苏格兰传统长矛圆阵;Schiltron;Schiltron;;Sheltron;;;;;;;;;x
 RETTYPE_CUL_BALT;波罗的海战士;Guerrier balte;Baltische Krieger;;Guerrero b醠tico;;;;;;;;;x
-RETTYPE_CUL_ALTAIC;骑射手;Archer ?cheval;Ber. Bogensch黷zen;;Arquero a caballo;;;;;;;;;x
+RETTYPE_CUL_ALTAIC;弓骑兵;Archer ?cheval;Ber. Bogensch黷zen;;Arquero a caballo;;;;;;;;;x
 RETTYPE_CUL_FRANK_NOR_GER;骑士;Chevalier;Ritter;;Caballero;;;;;;;;;x
 RETTYPE_CUL_IBER;骑手;Caballero;Caballero;;Caballero espa駉l;;;;;;;;;x
 RETTYPE_CUL_ITA;长矛手;Picchiere;Pikeniere;;Piquero;;;;;;;;;x
