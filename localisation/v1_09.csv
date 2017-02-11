@@ -163,7 +163,7 @@ TRADEPOST_FINISHED_SETUP;贸易站建设完成;Comptoir achev?Bau des Handelspostens Be
 TRADEPOST_FINISHED_LOG;$REPUBLIC$?的$FAMILY$?家族在$PROVINCE$?建立了一座贸易站.;Un comptoir a 閠?fond?en $PROVINCE$? par la famille $FAMILY$? de $REPUBLIC$?.;Ein Handelsposten wurde von der $FAMILY$?-Familie von $REPUBLIC$? in $PROVINCE$? gebaut.;;Se ha construido un puesto comercial por la Familia $FAMILY$? de $REPUBLIC$? en $PROVINCE$?.;;;;;;;;;x
 TRADEPOST_OWNER;这个贸易站由 $FAMILY$ 家族拥有;Le comptoir appartient ?la famille $FAMILY$;Der Handelsposten ist im Besitz der $FAMILY$-Familie;;Puesto comercial propiedad de la Familia $FAMILY$;;;;;;;;;x
 ;#TRADEZONE_OWNER;This Trade Zone is owned by the $FAMILY$? Family of The $REPUBLIC$?;;Diese Handelszone ist im Besitz der $FAMILY$?-Familie von $REPUBLIC$?;;Esta Zona Comercial es propiedad de la Familia $FAMILY$? de La $REPUBLIC$?;;;;;;;;;x;
-TRADEREGION_DESC;这个郡属于$REGION$?;Ce comt?appartient ?$REGION$?;Diese Provinz geh鰎t $REGION$?;;Esta provincia pertenece a La $REGION$?;;;;;;;;;x
+TRADEREGION_DESC;这个省份属于$REGION$?;Ce comt?appartient ?$REGION$?;Diese Provinz geh鰎t $REGION$?;;Esta provincia pertenece a La $REGION$?;;;;;;;;;x
 TRADE;贸易;Commerce;Handel;;Comerciar;;;;;;;;;x
 TRADE_ZONE;贸易区:;Zone marchande? ;Handelszone:;;Zona Comercial:;;;;;;;;;x
 TOTAL_TRADE_FAMILY;家族总收入:;Total Famille? ;Familie Gesamt;;Total Familiar:;;;;;;;;;x

@@ -377,7 +377,7 @@ EVTDESC20049;天使触动了你[From.GetJobTitle][From.GetTitledName], 对弱势 [From.Ge
 EVTOPTA20049;愿金钱能帮我赎罪;Rendez l'argent et nous passerons l'閜onge.;Bringt das Gold zur點k und alles wird vergeben.;;Devuelve el oro y todo ser?perdonado.;;;;;;;;;x
 EVTOPTB20049;关到地牢 [From.GetHerHim]!;Qu'on l'enferme en prison?;Fort in das Verlies mit [From.GetHerHim]!;; a los calabozos con 閘/ella!;;;;;;;;;x
 action_charity;施舍;Distribuer l'aum鬾e;Verrichtet Wohlt鋞iges;;Hacer Caridad;;;;;;;;;x
-action_charity_desc;派你的[GetLordSpiritualName]到郡里做些好事，帮助那些需要帮助的人。;Envoyez votre [GetLordSpiritualName] distribuer l'aum鬾e dans un comt?afin d'aider les personnes dans le besoin.;Sendet Euren [GetLordSpiritualName], um Wohlt鋞iges in einer Provinz zu verrichten, um denen zu helfen, die sie ben鰐igen. ;;Manda a tu [GetLordSpiritualName] a hacer caridad en la provincia, y a ayudar a los m醩 necesitados.;;;;;;;;;x
+action_charity_desc;派你的[GetLordSpiritualName]到省份里做些好事，帮助那些需要帮助的人。;Envoyez votre [GetLordSpiritualName] distribuer l'aum鬾e dans un comt?afin d'aider les personnes dans le besoin.;Sendet Euren [GetLordSpiritualName], um Wohlt鋞iges in einer Provinz zu verrichten, um denen zu helfen, die sie ben鰐igen. ;;Manda a tu [GetLordSpiritualName] a hacer caridad en la provincia, y a ayudar a los m醩 necesitados.;;;;;;;;;x
 EVTNAME20040;属臣被深深地打动;Vassal impressionn?Vasallen Beeindruckt ;;Vasallo impresionado;;;;;;;;;x
 ;#EVTNAME20043;[Root.Liege.GetLordSpiritualName] 遭受践踏;;[Root.GetFirstName] wird von einem Mob niedergetrampelt ;;[Root.GetTitledFirstName] ha sido Pisoteado por la Muchedumbre;;;;;;;;;x;
 ;#EVTNAME20048;[Root.Liege.GetLordSpiritualName] 中饱私囊;;[Root.Liege.GetLordSpiritualName] Beutel Wohlt?tigkeits-Geld ;;[Root.Liege.GetLordSpiritualName] Coge el Dinero para la Caridad;;;;;;;;;x;
