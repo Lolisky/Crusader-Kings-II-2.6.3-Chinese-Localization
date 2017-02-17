@@ -1259,7 +1259,7 @@ celtic = {
 			Mihangel_Michael Morfarch_Morfarch Morgan_Morgan Morien_Morgen Morydd Mwyn_Mungo Myrddin_Âí¶¡ Neithon_Nathan Nowy_Nowy Nynniaw Oswallt_Oswald
 			Owain_Eugene Oucydd_Eochaid Padern Padrig_Patrick Pandoff Pasgen_Pascentius Padarn_Paternus Pawl_Paul Pedr_Peter Peredyr Publig Pyr
 			Rheinallt_Reginald Rhicert_Richard Rhigeneu_Ricenus Rhirid Rhiwal_Riwal Rhiwallon_Rhiwallon Rhobert_Robert Rhodri_ÂŞµÂÀï¿Ë Rhufon_Roman
-			Rhun_Rucenus Rhydderch_ÂŞµÂÀï¿Ë Rhydog Rhys Riaged_Riacet Richwin_Richwin Sandde_Sanctus Sawyl_Samuel Seferus_Severin Seisyll_Cecil Selyf_Solomon
+			Rhun_Rucenus Rhydderch_ÂŞµÂÀï¿Ë Rhydog Rhys Riaged_Riacet Richwin_Richwin Sandde_Sanctus Sawyl_ÈøÄÂ¶û Seferus_Severin Seisyll_Cecil Selyf_Solomon
 			Senyllt Serigi_Sergius Sieffre_Godfrey Sion Sior_George Siwauna Steffen_Ê·µÙ·Ò Stinian_Justinanius Sulien_Julian Taliesin_Telesinus Tegonwy
 			Tegwyd_Tadg Teilo Teithfalch Teudebur Tewdos_Theodosius Tewdrig_Ï¯°Â¶àÀï¿Ë Tewdwr_Theodore Tomos_ÍĞÂíË¹ Trahaearn Tudur Tudwal_Tuathal
 			Tudwallon_Tudwallon Tydy Tyfoedd Tysilio Urien_Urbgenius Uthyr_Victor Ynyr_Honorius Ysfael
@@ -1332,7 +1332,7 @@ celtic = {
 			Patern_Paternus Petroc Phelippe_Phillip Piran Prigent Primael Primarhoc Putrael P¨ºr_Peter Ralf_À­¶û·ò Raoul_À­¶û·ò Renan Resmen Riacet_Riacet
 			Ribald Ricart_Richard Riceneu_Ricenus Richwin_Richwin Ridoredh Riualtr Rihouen Rinduran Rioc Riol Riwal_Riwal Riuallon_Rhiwallon Rodric_ÂŞµÂÀï¿Ë
 			Roenualloc Roenuallon Roenuolou Roenhoiarn Rolland_Roland Ronan_Ronan Roparth_Robert Roucen_Rucenus Rumon_Roman Ryd Salenn Salomon_Solomon Samson
-			Samuel_Samuel Stefen_Ê·µÙ·Ò Sulgen_Julian Sulhoiarn Sulmonoc Sultiern Talan Talhoiarn Tanci Tanet Tanhoiarn Telent Terithien Tethion Teudric_Ï¯°Â¶àÀï¿Ë
+			ÈøÄÂ¶û_ÈøÄÂ¶û Stefen_Ê·µÙ·Ò Sulgen_Julian Sulhoiarn Sulmonoc Sultiern Talan Talhoiarn Tanci Tanet Tanhoiarn Telent Terithien Tethion Teudric_Ï¯°Â¶àÀï¿Ë
 			Teudur_Theodore Tibault_Theobald Tiernan Tiernmael Tiernoc Tiernualloc Tiernuallon Treveur Tristan_Tristan Tuduallon_Tudwallon Tudur Tugdual_Tuathal
 			Ungust Urbcen_Urbgenius Urbien_Urban Urblon Urvod Uther_Victor Vincenne_Vincent
 		}
@@ -3193,12 +3193,12 @@ indo_aryan_group = {
 			Vijai-Singh Vikramaditya Vinaykpala Virama Viradeva Viranarayana Virsinh-Deo Viryarama Xemraja_Xemraja Yograj
 		}
 		female_names = {
-			Akal Anantadevi Damayanti Dattadevi Dehanagadevi Dhruvadevi Dhruvasvamini Hemavati 
-			Kakanvati Kalayandevi Kanchuka Kanwar Karmavati Kumaradevi Lakshman Maharani Mahidevi Nattadevi
-			Prabhavati Prabhavatigupta Prasadhanadevi Puppadevi Rajamati Sanyukta Shrimitradevi 
-			Annaladevi Bauladevi Bhuyikadevi Candrabhattarikadevi Chachinidevi Delhanadevi Desaladevi
-			Hariyadevi Laxmidevi Madhavi Mahalakshmi Manaladevi Mayanalladevi Namalladevi Padmaladevi Padmini
-			Pratha Rasaladevi Rudaladevi Rudrani Rupadevi Samyukta Sidhawa Somalladevi Suhava Sundaridevi Tihunaka Udayamati
+			°¢¿ÂÂŞ °¢ÄÑ¶àÌáÅş ÍÓÄ¦ÑÓÌá ´ïÌûÅş ÌáÚ­ÄÇÙ¤ÌáÅş Ç·¥ÌáÅş Ç·¥ËÕ·¥ÃÜÄá õµÄ¦·¥Ìá
+			¿Â¸Ê·¥Ìá ¿ÂÂŞÑÓÌáÅş ¸Ê²é¿Â ¸ÊÍßÂŞ ¿ÂÂŞÄ¦·¥Ìá ¹´Ä¦ÂŞÌáÅş ÀÖÊªÂü Ä¦Ú­ÂŞÄá Ä¦õµÌáÅş Şà¶àÌáÅş
+			ÆĞÆÅÚ­·¥Ìá ÆĞÆÅÚ­·¥Ìá¶à ÆĞæ¶Ù¢ÄÇÌáÅş ÆĞ²¨ÌáÅş ÂŞê^Ä¦Ìá Éºì¶¶à ÊªÀïÃÜİ±ÌáÅş
+			°²ÄÇÂŞÌáÅş ÆÅÎÚÂŞÌáÅş ÆÅÚ­Òà¿ÂÌáÅş ?İ±ÆÅ?¶àÀï¿ÂÌáÅş ²é³ÖÄáÌáÅş ÌáÂŞÄÇÌáÅş Ìáæ¶ÂŞÌáÅş
+			Ú­ÀæÒ®ÌáÅş Ú­ÃÜÌáÅş Ä¦Ù¢Åş Ä¦Ú­ÀÖÊªÃÜ Ä¦ÄÇÂŞÌáÅş Ä¦Ò®ÄÇÂŞÌáÅş ÄÇÄ¦ÂŞÌáÅş ±´Ä¦ÂŞÌáÅş ±´ÃÜÄá
+			ÆĞÙ¢Ú­ ÂŞæ¶ÂŞÌáÅş Â¥ÍÓÂŞÌáÅş Â¥İ±Äá Â¥²¨ÌáÅş Éº¿Ë¶à Ë¹Ù¢Íß ËÕÄ¦ÂŞÌáÅş ËÕÚ­·¥ ËïÍÓÀïÌáÅş ÌáÚ­ÄÇ¿Â ÓÅÍÓÒ®Ä¦Ìá
 		}
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
@@ -3307,7 +3307,7 @@ indo_aryan_group = {
 			¿ÂÄÇÌáæ¶ Æä¶à¿Â Æä¶µ¿Â ¹´ÅşÂŞ ¹´Ä¦ÂŞ ¹´Ä¦ÂŞÍÓ¶à ¹´Ä¦ÂŞÌáÚ­ ÂŞÈøÄá ÀïÂŞÆÅÌá Ä¦Ù¤ Ä¦ºÎ Ä¦¿Â Ä¦¼§ ÃÜ¶à ÄÇÙ¤ ¹ÄÇ
 			ÄÇÂŞÒ®¹Å¶à Å«Ù¤ Å«Ù¤Ò® °ÍÍ¶Ä¦ ·¥Äá¿ÂÍÓ ²¨ÂéÌáæ¶ ÆĞÂ¥É³ÍÓ¶à ÆĞÈøÃÜ¶à ÂŞê^Îõ¶à ÂŞÄ¦ÍÓ¶à ÂŞÄ¦ê^Ú­¶à ÂŞÄ¦Äá
 			ÂŞËÕÃÜÀæÒ® Àç·¥ æ¶Ù¤ÂŞ æ¶ÃÜÍÓ¶à æ¶Ä¾ÍÓ¹Å¶à æ¶ÎªÂŞ Î÷ÄáÒ® Ë¹ÃÜÄá Ë¹Àï¹Å¶à Ë¹ÀïÅÍ Ë¹·¥ÂŞ Ë¹ÆÅÄÇÆĞÌá ËÕÄ¦Àï ËÕ¹ÊÂŞ
-			ËÕÒÆÚ­¶à ËÕÄ¦ÄÇÌáÅş ËÕÀæ ËÕÀæ¹Å¶à ÌáË¹ Ìáæ¶ÆĞÌá Ìáæ¶ÍÓ¶à Ìáæ¶ÌáÅş Ìáæ¶ÃÜ¶à Ìáæ¶ÂŞ¿Â Ìáæ¶ÂŞÆä¶à †Ú­æ¶Ò® †Ú­Ë¹Äá
+			ËÕÒÆÚ­¶à ËÕÄ¦ÄÇÌáÅş ËÕÀæ ËÕÀæ¹Å¶à ÌáË¹ Ìáæ¶ÆĞÌá Ìáæ¶ÍÓ¶à Ìáæ¶ÌáÅş Ìáæ¶ÃÜ¶à Ìáæ¶ÂŞ¿Â Ìáæ¶ÂŞÆä¶à ÑÇÚ­æ¶Ò® ÑÇÚ­Ë¹Äá
 		}
 		
 		dynasty_title_names = yes
@@ -3345,7 +3345,7 @@ dravidian_group = {
 			Naracimmavarman_Narasimhavarman Nirupatunkavarman_Nirupatonkavarman Niyayaparipalapattan Narpattennayirapattan Natitta?cattan Pantaram_Pandaram 
 			Parakesaripanmar Param¨ºsvaravarman_Parameswaravarman Paranirupacinkam_Paranirupasingham Pararacac¨ºkaran_Pararajasekharan Parakkirama_Parakrama 
 			Parankucan_Parankusan Parantaka_Parantaka Pathrose_Peter Pa?cavan Paulose_Paul Periyapillai Perumal Peru?cintevar Piramarayan Piyliypaos_·ÆÀûÆÖ Puviraca_Puviraja Pakkilan Palaravayan Ranatitta_Ranaditya 
-			Ranat?ran_Ranadhiran Ravivarman Samuel_Samuel Tantivarman_Dantivarman Tennavan Thoma_ÍĞÂíË¹ Tiruccirrampalapattan Tirunattapperumal Tirupuvanav?ratevar Tripuvanacakkaravattikal 
+			Ranat?ran_Ranadhiran Ravivarman ÈøÄÂ¶û_ÈøÄÂ¶û Tantivarman_Dantivarman Tennavan Thoma_ÍĞÂíË¹ Tiruccirrampalapattan Tirunattapperumal Tirupuvanav?ratevar Tripuvanacakkaravattikal 
 			Uravakkinan Utaiya_Udaya Uttama Varakunan_Varagunan Varakunavarman_Varagunavarman Var?taya Varughese_George Vellantankinan Vicayalaya_Vijayalaya Vicayaraka_Vijayaraga 
 			Vicayatitta_Vijayaditya Vikkirama Vikramatitta_Vikramaditya Viranarayanapattan Viracakecaripanmar V?rac¨ºkara_Virasekhara V?rak¨ºcari_Virakhesari 
 			V?rarac¨ºntira_Virarajendra V?r?taya_Virodaya Yohannaan_John Yosef_Joseph Zacharria_Zachariah ?ccinataratippan ?n?rrenmanpiccan ?yirattalipattan
@@ -3386,15 +3386,15 @@ dravidian_group = {
 		
 		color = { 0.8 0.8 0.0 }
 		male_names = {
-			Allada Allayavema Amma Ammaraja Anavema Anavota Ayyapayya Baladitya Ballaladeva Beta Bhima Bhandanaditya Chennappa 
-			Danamava Devanayaka Durgaraja Ganapathideva Ganapathinayaka Indrabhattaraka Jayasimha Kaapayanayaka Kadeyaraja Kalakampa 
-			Kammanayaka Katayavema Kumaragiri Kubjavishnuvardhana Mahadeva Mahakala Mangiyuvaraja Mallapa Nachana Narendra 
-			Niravadyadhavala Nrpakama Pandaranga Prataparudra Prola Prolayanayak Prolayavema Prthiviyaraja Rajanayaka Rajaraja 
-			Rudradeva Saktivarman Singamanayaka Somaditya Vengabhupathi Vijayaditya Vimaladitya Virabhadra Vishnuvardhana 
-			Yuddamalla_Yuddamalla Yuddhamalla_Yuddamalla
+			°¢ÂŞÍÓ °¢ÂŞÒ®í@Ä¦ °¢Ä¦ °¢Ä¦ÂŞê^ °¢ÄÇí@Ä¦ °¢ÄÇÆĞ¶à °¢Ò®²¨Ò® ÆÅÂŞÌá¶àÒ® ÆÅÂŞÂŞÌáÆÅ Åş¶à ÅşÄ¦ ÆÅº¬ÍÓÄÇÌáµÌÒ® Ç§ÄÇ²¨
+			ÍÓÄÇÄ¦·¥ ÌáÆÅÄÇÒ®¿Â Í¶ÂŞÙ¤ÂŞê^ êù²¨ÌİÌáÆÅ êù²¨ÌİÄÇÒ®¿Â ÒòÍÓÂŞÆÅ?¶àÂŞ¿Â Ò®Ô»É®Ú­ ¿Â²¨Ò®ÄÇÒ®¿Â ¿ÂÌáÒ®ÂŞê^ ¿ÂÂŞ¿Â¸Ê²¨
+			¸ÊÄ¦ÄÇÒ®¿Â ¿Â¶àÒ®í@Ä¦ ¹´Ä¦ÂŞÆäÀï èÛ±ÈÒ®ÅşÊªÅ«°ÏÙ¢ÄÇ Ä¦Ú­ÌáÆÅ Ä¦Ú­¿ÂÂŞ ÂüÆäì¶·¥ÂŞê^ Ä¦ÂŞ²¨ ÄÇĞ}ÄÇ ÄÇÁ«İ±
+			ÄáÂŞ·¥ÌáÒ®Ù¢·¥ÂŞ ÄáÂŞ²¨¿ÂÄ¦ °ãÍÓÂŞ¶ë ÆĞ¶à²¨Â¥İ± °ÍÂŞ °ÍÂŞÒ®ÄÇÒ© °ÍÂŞÒ®í@Ä¦ ÆĞÂŞÌİÅşÒ®ÂŞê^ ÂŞê^ÄÇÒ®¿Â ÂŞê^ÂŞê^
+			Â¥İ±ÌáÆÅ Ë÷µÌ°ÏÂü ĞÁÚ­Ä¦ÄÇÒ®¿Â ËÕÄ¦µøÒ® í@¶ëÆÅÚ­²¨Ìİ ÅşÒ®Ô»ÌáµÌÒ® ÅşÄ¦ÂŞÌáµÌÒ® ÅşÂŞÆÅÚ­İ± ÅşÊªÅ«°ÏÍÓÄÇ
+			ÓÉÍÓÄ¦ÂŞ_ÓÉÍÓÄ¦ÂŞ ÓÉÍÓÚ­Ä¦ÂŞ_ÓÉÍÓÄ¦ÂŞ
 		}
 		female_names = {
-			°²Äá¶àÀå ´èÃÔ¸ÊÆÅ ì¹ÌáÄÇ ÆŞÂŞ·¥ ºÎÄ¦¸ÊÆÅ Ú­ÀæÚ­À¶ÆÅ ÄÇÆä²¨Ìá ÅÌÄ¦·¥ Â¥İ±ÃÔÆÅ Â¥İ±Ä¦ÌáÅş Ê«Ä¦Ú­ÌáÅş Õ¼ÍÓ¿Â
+			°²Äá¶àÀæ ´èÃÔ¸ÊÆÅ ì¹ÌáÄÇ ÆŞÂŞ·¥ Ú­Ä¦¸ÊÆÅ Ú­ÀæÚ­À¶ÆÅ ÄÇÆä²¨Ìá ÅÌÄ¦·¥ Â¥İ±ÃÔÆÅ Â¥İ±Ä¦ÌáÅş Ê«Ä¦Ú­ÌáÅş ì¹ÍÓ¿Â
 		}
 		
 		dynasty_title_names = yes
@@ -3419,18 +3419,18 @@ dravidian_group = {
 		
 		color = { 0.8 0.6 0.0 }
 		male_names = {
-			Achugi Adikavi Ahavamalla Amoghavarsha Anekonda Asaga Avinita Ayanna Bhuvikrama Bijjama Bukka Butuga 
-			Chavundaraya Dantidurga Dashavarman Dhruva Durgasimha Durvinita Ereganga Ereyanga 
-			Gangaraja Gajankusha Gobburi Govinda Hakka Harihara Harivarman Indra 
-			Jagadhekamalla Jagaraya Jagattunga Jayasimha Jogama 
-			Kambarasa Kannama Karka Khottiga Kiriyasaga Kirtivarman Konganivarman Krishna 
-			Madhava Madhura Mallikarjuna Mallugi Mangalesi Marasimha Marulaganga Mushkara Narasanayaka
-			Narasimha Neetimarga Nripakama Permadi Permanadi Polavira Praudharaya Pulakesi Purandaradasa 
-			Rachamalla Ramachandra Ramadeva Ramaraya Sankama Satyasraya Sharva Shivamara Singhana 
-			Somesvara Sovideva Sripadaraya Sripurusha Sriranga Srivikrama Tailapa Thimma Tirumalaraya 
-			Uchita Venkatadri Venkatapathi Vikramaditya Vijayaditya Vinayaditya Viraballala Viravijaya 
-			Virupaksha Vishnugopa Vishnuvardhana Yachama Yachamanedu 
-			Achyutadeva Krishnadevaraya Sadashiva Vendakadri Viranarasimha
+			°¢²éÆä °¢Ìá¿ÂÅş °¢Ú­·¥Ä¦ÂŞ °¢Ä£Ú­°ÏÉİ °¢Äà¸ùÍÓ °¢æ¶Ù¤ °¢Æµ¶à °¢ÑÓÄÇ ÆÅÚ­ğ¥ÂŞÄ¦ ÅşÒ®Ä¦ ÆĞ¿Â ÆĞ¶µÙ¤
+			²éÎÄÍÓÂŞÒ® Ì´ÌáÍ¶ÂŞÙ¤ ÍÓÉİ°ÏÂü Ç·¥ Í¶ÂŞÙ¤É®Ú­ Í¶ÂŞÆµ¶à ¶òÀç¸ÊÙ¤ ¶òÀçÑÓÙ¤
+			êùÙ¤ÂŞê^ ½ÒÑÓèÛÉİ ºúÆĞÀï ºúÆµÍÓ ÛÖ¿Â Ú­ÀæÚ­ÂŞ Ú­Àæ°ÏÂü ÒòÍÓÂŞ
+			Ò®Ú­Ìİ¿ÂÄ¦ÂŞÂŞ Ò®Ú­ÂŞÒ® Ò®?¶µ¶ë Ò®Ô»É®Ú­ ÇÇÙ¤Ä¦
+			¸ÊÆÅÂŞæ¶ ¸ÊÄÇÄ¦ ¿ÂÂŞ¿Â ¿İÌáÙ¤ ÆäÀïÒ®æ¶Ù¤ ¿ÂÂŞµÌ°ÏÂü ¸ù¿ÂÃÜ°ÏÂü ¿ÂÀïÊªÄÇ
+			Ä¦Ù¢·¥ Ä¦Ù¢ÂŞ Ä¦Àæ¿ÂÂŞÓÉÄÇ Ä¦Â¥Æä Ä¦¶ëÀèË¹ Ä¦ÂŞÉ®Ú­ Ä¦Â¥ÂŞ¸ÊÙ¤ Ä¿Êª¿ÂÂŞ ÄÇÂŞæ¶ÄÇÒ®¿Â
+			ÄÇÂŞÉ®Ú­ ÄàÌáÄ¦ÂŞÙ¤ ÄÇÀï²¨¿ÂÄ¦ ÅøÂŞÄ¦Ìá ÅøÂŞÄ¦ÄÇÌá åÍÂŞÅşÂŞ ÆĞÙ¢ÂŞÒ® ÆĞÂŞ»üË¹ ÆĞÈ»ÍÓÂŞÍÓæ¶
+			ÂŞ²éÄ¦ÂŞ ÂŞÄ¦²ûİ± ÂŞÄ¦ÌáÆÅ ÂŞÄ¦ÂŞÒ® Éº¿ÂÄ¦ æ¶µÌÒ®É³Ò® ÉİÂŞ·¥ Êª·¥Ä¦ÂŞ É®Ú­ÄÇ
+			ËÕÃÔË¼°Ï ËÕÅşÌáÆÅ Ê¦²¨ÍÓÂŞÒ® Ê¦ÆĞÂ¥Éİ Ê¦ÂŞ¶ë Ê¦ğ¥ÂŞÄ¦ ¶àÚ±ÂŞ²¨ Ï¤Ä¦ ÌáÂ¥Ä¦ÂŞÂŞÒ®
+			ÎÚÆä¶à ÎÄ¿Â´øÀï ÎÄ¿Â¶à²¨µÌÒ® ğ¥ÂŞÄ¦ÌáµÌÒ® ÅşÒ®Ô»ÌáµÌÒ® ÅşÄÇÒ®ÌáµÌÒ® ÅşÂŞÆÅÂŞÂŞ ÅşÂŞÅşÒ®Ô»
+			ÅşÂ¥ÆĞÉİ ÅşÊªÅ«ºú²¨ ÅşÊªÅ«°ÏÙ¢ÄÇ Ò®´èÄ¦ Ò®´èÄ¦ÄàÍ¶
+			°¢Çï¶àÌáÆÅ ÆäÊªÄÇÌáÆÅÂŞÒ® æ¶ÍÓÊª·¥ ÎÄÍÓ¿Â³Ö ÅşÂŞÄÇÂŞÉ®Ú­
 		}
 		female_names = {
 			°¢¿ÂÌáÅş ÆÅ·¥ÄÇÙ¤ ÅşÒ®Åş ì¹ÍÓÂŞÌáÅş ²ûİ±ÆÅÂŞÅş êù¸ÊÅş¿Â ºúæ¶ÂŞµÌÅş À¥ÍÓ¿ÂÌáÅş
