@@ -35,7 +35,7 @@ IS_DE_FACTO_LIEGE; 是事实领主;Est seigneur lige de facto;Ist de-facto-Lehnsherr;
 LEAVE_FACTION_COERCED;不能离开派系因为你是被威逼加入的;Impossible de quitter cette faction, car votre adh閟ion a 閠?forc閑.;Fraktion kann nicht verlassen werden, weil Ihr zum Beitritt gezwungen wurdet.;;No puedes dejar la facci髇 porque fuiste obligado a unirte;;;;;;;;;x
 INVITE_FAVOR_MARRIED;$RECIPIENT|Y$必须是未婚;$RECIPIENT|Y$ ne doit pas avoir de conjoint;$RECIPIENT|Y$ darf nicht verheiratet sein.;;$RECIPIENT|Y$ no debe estar casado;;;;;;;;;x
 INVITE_FAVOR_LIEGE_RELATIVE;$RECIPIENT|Y$不能是$LIEGE|Y$的近亲;$RECIPIENT|Y$ ne peut pas 阾re un proche parent de $LIEGE|Y$;$RECIPIENT|Y$ darf kein naher Verwandter von $LIEGE|Y$ sein.;;$RECIPIENT|Y$ no debe ser un pariente cercano de $LIEGE|Y$;;;;;;;;;x
-INVITE_FAVOR_JOB;$RECIPIENT|Y$不能有议会职位;$RECIPIENT|Y$ ne doit pas avoir de poste au Conseil;$RECIPIENT|Y$ darf keine Position im Rat haben.;;$RECIPIENT|Y$ no debe tener un puesto del Consejo.;;;;;;;;;x
+INVITE_FAVOR_JOB;$RECIPIENT|Y$不能有枢密院职位;$RECIPIENT|Y$ ne doit pas avoir de poste au Conseil;$RECIPIENT|Y$ darf keine Position im Rat haben.;;$RECIPIENT|Y$ no debe tener un puesto del Consejo.;;;;;;;;;x
 AIREASON_LIEGE_HATE;恨他们的领主-[GetTitledName]?;D閠este son seigneur lige, [GetTitledName]?;Hasst den Lehnsherrn爾 [GetTitledName]?;;Odia su se駉r - [GetTitledName]?;;;;;;;;;x
 ASK_REALM_PEACE_INTERACTION_TITLE;请求境内休战;Demander la paix dans le pays;Um Reichsfrieden bitten;;Pedir Paz del Reino;;;;;;;;;x
 ASK_REALM_PEACE_INTERACTION_DESC;用一个人情?请求你的领主执行境内休战?。;Utiliser une faveur? afin de demander ?votre seigneur d'imposer la paix dans le pays?.;Verwendet einen Gefallen?, um Euren Lehnsherrn zu bitten, den Reichsfrieden? durchzusetzen.;;Gastar un Favor? para pedir a tu se駉r que imponga la  Paz del Reino?;;;;;;;;;x
