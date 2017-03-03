@@ -19006,8 +19006,8 @@ nick_the_hunter;寻猎者;le Chasseur;der J鋑er;;El Cazador;;;;;;;;;x
 nick_the_fowler;捕猎者;le Traqueur;der Vogelj鋑er;;El Cazaperdices;;;;;;;;;x
 nick_the_just;公正者;le Juste;der Gerechte;;El Justo;;;;;;;;;x
 nick_the_lame;瘸子;le Boiteux;der Lahme;;El Lisiado;;;;;;;;;x
-nick_the_handsome;英俊者;le Beau;der Sch鰊e;;El Guapo;;;;;;;;;x
-nick_the_fair;公平者;le Bel;der H黚sche;;El Honrado;;;;;;;;;x
+nick_the_handsome;英俊;le Beau;der Sch鰊e;;El Guapo;;;;;;;;;x
+nick_the_fair;美貌;le Bel;der H黚sche;;El Honrado;;;;;;;;;x
 nick_the_mad;疯子;le Fou;der Verr點kte;;El Loco;;;;;;;;;x
 nick_the_fat;胖子;le Gros;der Fette;;El Gordo;;;;;;;;;x
 nick_the_drunkard;醉鬼;l'Ivrogne;der S鋟fer;;El Borracho;;;;;;;;;x
@@ -19020,7 +19020,7 @@ nick_the_gouty;痛风者;le Goutteux;der Gichtige;;El Gotoso;;;;;;;;;x
 nick_the_ironside;铁骨;C魌es-de-Fer;der Eiserne;;El Intr閜ido;;;;;;;;;x
 nick_the_lion;猛狮;le Lion;der L鰓e;;El Le髇;;;;;;;;;x
 nick_the_lionheart;狮心;C渦r de Lion;L鰓enherz;;El Coraz髇 de Le髇;;;;;;;;;x
-nick_the_bold;无畏者;le T閙閞aire;der K黨ne;;El Audaz;;;;;;;;;x
+nick_the_bold;鲁莽;le T閙閞aire;der K黨ne;;El Audaz;;;;;;;;;x
 nick_the_unready;无准备者;le Novice;der Unfertige;;El Novato;;;;;;;;;x
 nick_the_ill_ruler;不称职者;le Malavis?der schlechte Herrscher;;El Malsoberano;;;;;;;;;x
 nick_the_terrible;可怖者;le Terrible;der Schreckliche;;El Terrible;;;;;;;;;x
@@ -19533,8 +19533,8 @@ convert_to_liege_religion;皈依领主的信仰;Adopter la religion du seigneur lige;Zu
 convert_to_liege_religion_desc;如果我们有相同的信仰，领主肯定会感到高兴……;Nul doute que m[Root.Liege.GetHerHis] [Root.Liege.GetLordLady] lige appr閏ierait que nous partagions la m阭e foi...;Ich bin sicher, dass mein Lehnsherr erfreut w鋜e, wenn wir denselben Glauben h鋞ten ...;;Seguro que a mi se駉r le complacer?que tengamos la misma fe...;;;;;;;;;x
 convert_to_liege_culture;效法领主的文化;Adopter la culture du seigneur;Zur Kultur des Lehnsherrn 黚ertreten;;Convertir a la cultura del se駉r;;;;;;;;;x
 convert_to_liege_culture_desc;我对我的领主所使用的语言和文化习俗印象深刻.我希望我也能变成那样……;La langue et les coutumes de m[Root.Liege.GetHerHis] [Root.Liege.GetLordLady] lige m'impressionnent. J'aimerais les adopter...;Ich bin von der Sprache und den Br鋟chen meines Lehnsherrn beeindruckt. Ich w黱schte, ich w鋜e auch so ...;;Me impresiona el lenguaje y las costumbres de mi se駉r. Ojal?yo tambi閚 pudiera ser as?..;;;;;;;;;x
-job_chancellor;掌玺总管;Chancelier;Kanzler ;;Canciller;;;;;;;;;x
-job_marshal;军事总管;Mar閏hal;Marschall;;Mariscal;;;;;;;;;x
+job_chancellor;掌玺大臣;Chancelier;Kanzler ;;Canciller;;;;;;;;;x
+job_marshal;大元帅;Mar閏hal;Marschall;;Mariscal;;;;;;;;;x
 job_treasurer;财政总管;Intendant;Verwalter;;Mayordomo;;;;;;;;;x
 job_spymaster;间谍首领;Ma顃re-Espion;Agentenf黨rer;;Maestro de Esp韆s;;;;;;;;;x
 job_viceroy name;总督;Vice-roi;Vizek鰊ig;;Virrey;;;;;;;;;x
