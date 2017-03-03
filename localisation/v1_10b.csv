@@ -9,15 +9,15 @@ LIEGEPIETY_HEADER;领主之[Player.Religion.GetPietyName];[Player.Religion.GetPiety
 ;#NO_LIEGEPIETY;This vassal is not giving any piety to you.\nSome buildings in temple holdings give piety to the holder's liege.;;Dieser Vasall bringt Euch keine Piet?t.\nEinige Geb?ude in Tempel-Besitztümern generieren Piet?t für den Lehnsherr des Besitzers.;;Este vasallo no te proporciona nada de piedad.\nAlgunas construcciones en los templos proporcionan piedad al Se?or del terrateniente;;;;;;;;;x;
 major_river_crossing;主河道横渡;Franchissement d'un fleuve majeur;bedeutende Furt;;Cruzar un r韔 importante;;;;;;;;;x
 realm_job_spiritual;王国之$TITLE$们;$TITLE$s vassaux;Reichs-$TITLE$;;$TITLE$s del Reino;;;;;;;;;x
-job_spiritual_finnish_pagan;祭司;Devin;Wahrsager;;Augur;;;;;;;;;x
-job_spiritual_finnish_pagan_reformed;祭司;Devin ;Wahrsager;;Augur;;;;;;;;;x
-job_spiritual_baltic_pagan;祭司;Devin;Wahrsager;;Augur;;;;;;;;;x
-job_spiritual_baltic_pagan_reformed;祭司;Devin;Wahrsager;;Augur;;;;;;;;;x
-job_spiritual_slavic_pagan;祭司;Devin;Wahrsager;;Augur;;;;;;;;;x
-job_spiritual_slavic_pagan_reformed;祭司;Devin;Wahrsager;;Augur;;;;;;;;;x
-job_spiritual_tengri_pagan;萨满;Devin;Wahrsager;;Augur;;;;;;;;;x
-job_spiritual_tengri_pagan_reformed;萨满;Devin;Wahrsager;;Augur;;;;;;;;;x
-job_spiritual_zoroastrian;大祭司;Mobad;Mobed;;Mobad;;;;;;;;;x
+job_spiritual_finnish_pagan;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+job_spiritual_finnish_pagan_reformed;占卜师;Devin ;Wahrsager;;Augur;;;;;;;;;x
+job_spiritual_baltic_pagan;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+job_spiritual_baltic_pagan_reformed;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+job_spiritual_slavic_pagan;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+job_spiritual_slavic_pagan_reformed;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+job_spiritual_tengri_pagan;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+job_spiritual_tengri_pagan_reformed;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
+job_spiritual_zoroastrian;魔导师;Mobad;Mobed;;Mobad;;;;;;;;;x
 nick_hardeknud;强壮的克努特;Hardeknud;Harthaknut;;Harthacnut;;;;;;;;;x
 steppe;大草原;Steppe;Steppe;;Estepa;;;;;;;;;x
 TOGGLE_LOOTER_FAIL_CHARALLOWED;领主允许掠夺; Le propri閠aire peut piller;Besitzer kann pl黱dern;; Se駉r puede saquear;;;;;;;;;x
