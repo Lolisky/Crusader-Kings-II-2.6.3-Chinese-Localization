@@ -15232,12 +15232,12 @@ temple_tax_2_desc;主教们需要为国家利益提供一定的经济贡献.;Les religieux terriens
 temple_tax_3;大量修道院税收;Imp魌 religieux 閘ev?Hohe Kirchensteuer;;Impuesto de iglesia alto;;;;;;;;;x
 temple_tax_3_option;大量;蒷ev?Hoch;;Alto;;;;;;;;;x
 temple_tax_3_desc;主教们需要为国家利益提供大量的经济贡献.;Les religieux terriens doivent apporter une importante contribution financi鑢e pour le bien du pays. ;Geistliche mit Landbesitz m黶sen f黵 das allgemeine Wohl des Reichs einen erheblichen finanziellen Beitrag leisten.;;Se espera que los sacerdotes hacendados realicen una contribuci髇 financiera sustanciosa por el bien del reino.;;;;;;;;;x
-investiture_law;神职法;Investiture;Investitur;;Investidura;;;;;;;;;x
-investiture_law_desc;神职法（主教任命法）决定主教的任命权归谁——教宗还是君主本人.;Cette loi d閠ermine qui, du Pape ou du seigneur s閏ulier, nomme les 関阸ues.;Dieses Gesetz legt fest, wer die Bisch鰂e ernennt - der Papst oder der s鋕ulare Lehnsherr.;;Esta ley determina qui閚 designa a los obispos: el Papa o el se駉r seglar.;;;;;;;;;x
-investiture_law_0;教宗授职;Investiture papale ;P鋚stliche Investitur;;Investidura papal;;;;;;;;;x
+investiture_law;神职叙任权;Investiture;Investitur;;Investidura;;;;;;;;;x
+investiture_law_desc;神职叙任权决定主教的任命权归谁——教宗还是世俗领主。;Cette loi d閠ermine qui, du Pape ou du seigneur s閏ulier, nomme les 関阸ues.;Dieses Gesetz legt fest, wer die Bisch鰂e ernennt - der Papst oder der s鋕ulare Lehnsherr.;;Esta ley determina qui閚 designa a los obispos: el Papa o el se駉r seglar.;;;;;;;;;x
+investiture_law_0;教宗神职叙任;Investiture papale ;P鋚stliche Investitur;;Investidura papal;;;;;;;;;x
 investiture_law_0_option;教宗;Papale;P鋚stlich;;Papal;;;;;;;;;x
 investiture_law_0_desc;由教宗任命王国内的主教。这项法案将使国王向教宗求助（比如离婚和开除教籍）时减免50%?虔诚。;Seul le Pape peut nommer les 関阸ues du Royaume. Cela conf鑢e ?la Couronne un cr閐it de 50%? de pi閠?lorsqu'elle sollicite des actions papales sp閏ifiques, comme le divorce ou l'excommunication.;Innerhalb des Reichs darf nur der Papst Bisch鰂e ernennen. Dies gibt der Krone beim Ersuchen spezieller p鋚stlicher Handlungen wie Scheidung und Exkommunikation einen Piet鋞srabatt von 50%?.;;El Papa es el 鷑ico que puede designar a los obispos en el reino. Esto le costar?a la Corona un 50%? menos de Piedad al solicitar acciones papales espec韋icas como el divorcio y la excomuni髇.;;;;;;;;;x
-investiture_law_1;自由授职;Investiture libre ;Freie Investitur;;Libre investidura;;;;;;;;;x
+investiture_law_1;自由神职叙任;Investiture libre ;Freie Investitur;;Libre investidura;;;;;;;;;x
 investiture_law_1_option;自由;Libre;Frei;;Libre;;;;;;;;;x
 investiture_law_1_desc;由君主任命王国内的主教。主教们会加倍效忠君主，教宗则会非常失望。;Le seigneur s閏ulier peut nommer les 関阸ues du Royaume, ce qui renforce leur loyaut?et ne pla顃 gu鑢e au pape.;Innerhalb des K鰊igreichs d黵fen nur s鋕ulare Lehnsherrn Bisch鰂e ernennen, die ihnen gegen黚er dann auch loyaler eingestellt sind. Dies wird dem Papst nicht gefallen.;;Los se駉res seglares pueden designar a sus obispos del reino, los cuales ser醤 m醩 leales a su se駉r. Al Papa no le sentar?muy bien.;;;;;;;;;x
 crown_city_charters_only;皇家城市授权法;Chartes des cit閟 de la Couronne;Kronstadtrecht;;Fueros de las villas de la corona;;;;;;;;;x
@@ -15674,7 +15674,7 @@ opinion_realm_related_culture;外国人;Culture 閠rang鑢e;Ausl鋘der;;Extranjero;;;;
 opinion_infidel;异教徒;Infid鑜e;Ungl鋟biger;;Infiel;;;;;;;;;x
 opinion_heretic;异端;H閞閠ique;Ketzer;;Hereje;;;;;;;;;x
 opinion_related_religion;宗教不同;Diff閞ences religieuses;Religi鰏e Unterschiede;;Diferencias religiosas;;;;;;;;;x
-opinion_investiture;授权法;Investiture;Investitur;;Investidura;;;;;;;;;x
+opinion_investiture;神职叙任;Investiture;Investitur;;Investidura;;;;;;;;;x
 opinion_controlled_antipope;控制的伪教宗;Antipape contr鬺?Kontrollierter Gegenpapst;;Antipapa controlado;;;;;;;;;x
 opinion_rightful_rel_head;宗教领袖;Chef religieux ;Religionsoberhaupt;;L韉er religioso;;;;;;;;;x
 opinion_potential_cuckold;怀疑;Soup鏾nne quelque chose;Ahnt etwas;;Sospecha algo;;;;;;;;;x
@@ -18355,7 +18355,7 @@ TECH_AHEAD;超前惩罚;P閚alit?d'avance;F黨rungsabzug;;Penalizaci髇 por adelanto;;;
 TECH_BEHIND;落后加成;Bonus de retard;Nachz黦lerbonus;;Bonificaci髇 por retraso;;;;;;;;;x
 SPREAD_FROM_NEIGH;邻国加成;Bonus des provinces voisines;Nachbarbonus;;Bonificaci髇 de vecindad;;;;;;;;;x
 SPREAD_FROM_DEM;领地加成;Bonus de domaine;Dom鋘e-Bonus;;Bonificaci髇 de heredad;;;;;;;;;x
-FOCUS_BONUS;焦点加成;Bonus d'int閞阾;Fokus-Bonus;;Bonificaci髇 por enfoque;;;;;;;;;x
+FOCUS_BONUS;重心加成;Bonus d'int閞阾;Fokus-Bonus;;Bonificaci髇 por enfoque;;;;;;;;;x
 INC_PER_YEAR;增加 / 年;chance d'augmentation / an;Chance auf Zuwachs/ Jahr;;probabilidad de aumento/a駉;;;;;;;;;x
 INC_PER_YEAR_SHORT;/ 年;/ an;/ Jahr;;/a駉;;;;;;;;;x
 christian;基督教;chr閠ien;Christlich;;Cristiano;;;;;;;;;x
@@ -18514,10 +18514,10 @@ TECH_RELIGION_FLEX_DESC;接受那些不同的信仰;Acceptation des personnes issues d'un
 TECH_LEGALISM;法律化;L間alisme;Legalismus;;Legalismo;;;;;;;;;x
 TECH_LEGALISM_DESC;明确的成文法律可以使人更愿意承认新统治者的合法性.;Moyennant des lois clairement codifi閑s, les gens sont plus enclins ?reconna顃re la l間itimit?des nouveaux souverains.;Mit klar umrissenen Gesetzen sehen die Menschen neue Herrscher eher als rechtm溥ig an.;;Con un c骴igo legal claro, la gente tiende a aceptar mejor a los nuevos soberanos de forma leg韙ima.;;;;;;;;;x
 BUILDING_UNLOCKS;建筑解锁: ;B鈚iments d関errouill閟?;Freigeschaltete Geb鋟de: ;;Construcciones desbloqueadas:;;;;;;;;;x
-TECH_FOCUS;科技焦点;Int閞阾 technologique;Tech-Fokus;;Enfoque tecnol骻ico;;;;;;;;;x
+TECH_FOCUS;科技重心;Int閞阾 technologique;Tech-Fokus;;Enfoque tecnol骻ico;;;;;;;;;x
 TECH_FOCUS_DESC;我们努力的重点 $TECH_NAME$?, 将增加 $CHANCE$%? 新发现的几率.;Nous concentrons nos efforts sur $TECH_NAME$?, pour augmenter nos chances de faire de nouvelles d閏ouvertes de $CHANCE$%?.;Wir konzentrieren unsere Anstrengungen auf $TECH_NAME$? und erh鰄en damit die Chance auf neue Entdeckungen durch $CHANCE$%?.;;Estamos centr醤donos en $TECH_NAME$?, lo que aumenta las probabilidades de descubrir algo nuevo en un $CHANCE$%?.;;;;;;;;;x
-TECH_SET_FOCUS;设置焦点;Int閞阾 d閒ini;Fokus einstellen;;Establecer enfoque;;;;;;;;;x
-TECH_SET_FOCUS_DESC;设置 $GROUP$ 成为焦点, 将增加 $CHANCE$%?新发现的几率;D閒init l'int閞阾 $GROUP$ sur ces progr鑣, pour augmenter nos chances de faire de nouvelles d閏ouvertes de $CHANCE$%?;Stellt den $GROUP$-Fokus auf diesen Fortschritt, was die Chance auf neue Entdeckungen durch $CHANCE$%? erh鰄t;;Establece el enfoque de $GROUP$ en este avance, lo que aumenta las probabilidades de descubrir algo nuevo en un $CHANCE$%?.;;;;;;;;;x
+TECH_SET_FOCUS;设置重心;Int閞阾 d閒ini;Fokus einstellen;;Establecer enfoque;;;;;;;;;x
+TECH_SET_FOCUS_DESC;设置 $GROUP$ 成为重心, 将增加 $CHANCE$%?新发现的几率;D閒init l'int閞阾 $GROUP$ sur ces progr鑣, pour augmenter nos chances de faire de nouvelles d閏ouvertes de $CHANCE$%?;Stellt den $GROUP$-Fokus auf diesen Fortschritt, was die Chance auf neue Entdeckungen durch $CHANCE$%? erh鰄t;;Establece el enfoque de $GROUP$ en este avance, lo que aumenta las probabilidades de descubrir algo nuevo en un $CHANCE$%?.;;;;;;;;;x
 TECH_DESC_DEFAULT;显示平均水平?和最高水平? :;Affichage des progr鑣 moyens? et des plus 閘ev閟? de votre?;Zeigt an: durchschnittliche? und h鯿hste? Fortschritte in Eurem/r:;;Mostrando los avances medios? y m醩 altos? en tu::;;;;;;;;;x
 TECH_DESC_PROV;显示$PROV$的发展水平;Les progr鑣 dans la province de $PROV$;Zeigt an: Fortschritte in $PROV$;;Mostrando los avances en $PROV$;;;;;;;;;x
 TECH_PROV_TT_DESC;名称: 等级 ( % 增加几率 / 10 年 );Nom? Level ( % chances d'augmenter / 10 ans);Name: Level ( % Chance auf Zuwachs / 10 Jahre );;Nombre: Level ( % de probabilidad de aumento/10 a駉s);;;;;;;;;x
@@ -18675,7 +18675,7 @@ seniority;长者继承法;Anciennet?Alter;;Veteran韆;;;;;;;;;x
 primogeniture;长子继承法;Primog閚iture;膌testenrecht;;Primogenitura;;;;;;;;;x
 turkish_succession;土耳其继承法;Ouverte;Offen;;Sucesi髇 abierta;;;;;;;;;x
 open_elective;开放选举法;蒷ection ouverte;Freie Wahl;;Elecci髇 abierta;;;;;;;;;x
-catholic_bishopric;教区法;Investiture;Investitur;;Investidura;;;;;;;;;x
+catholic_bishopric;神职叙任;Investiture;Investitur;;Investidura;;;;;;;;;x
 AGNATIC;父系;agnatique;Agnatisch;;Agnaci髇;;;;;;;;;x
 COGNATIC;母系;cognatique;Kognatisch;;Cognaci髇;;;;;;;;;x
 UNREST;叛乱;Troubles;Unruhen;;Agitaci髇;;;;;;;;;x
@@ -18846,7 +18846,7 @@ YEARLY_INCOME;年收入;Revenus annuels;Jahreseinkommen;;Ingreso anual;;;;;;;;;x
 PAYS_TAXES_TO;支付税金给;Paie un imp魌 ?Zahlt Steuern an;;Paga impuestos a;;;;;;;;;x
 APPOINT;任命;Nommer;Ernennen;;Designar;;;;;;;;;x
 ;#ANTIPOPE_WRONG_KINGDOM;I am not his King?;;Ich bin nicht sein K?nig?;;Yo no soy su rey.?;;;;;;;;;x;
-ANTIPOPE_CHURCH_INVESTITURE;王国必须有自由任命主教权?;Le royaume doit avoir la loi d'investiture libre?;Das K鰊igreich muss das Freie Investiturgesetz haben?;;El reino debe funcionar bajo la ley de libre investidura.?;;;;;;;;;x
+ANTIPOPE_CHURCH_INVESTITURE;王国必须有自由神职叙任法?;Le royaume doit avoir la loi d'investiture libre?;Das K鰊igreich muss das Freie Investiturgesetz haben?;;El reino debe funcionar bajo la ley de libre investidura.?;;;;;;;;;x
 ANTIPOPE_TOO_LOW_OPINION;他喜欢教宗 ($POPE$) 更甚于我们 ($US$)?;Il pr閒鑢e le Pape ($POPE$) ?nous ($US$)?;Er zieht den Papst ($POPE$) uns ($US$) vor;;Prefiere al Papa ($POPE$) antes que a nosotros ($US$).;;;;;;;;;x
 ANTIPOPE_ALREADY_HAVE_ONE;我们已经控制了一位伪教宗?;Nous contr鬺ons d閖?un antipape?;Wir kontrollieren schon einen Gegenpapst?;;Nosotros ya tenemos un antipapa.?;;;;;;;;;x
 ANTIPOPE_NOT_ENOUGH_PRESTIGE;我们至少需要$NEED$威望?;Il nous faut au moins $NEED$ de prestige?;Wir brauchen mindestens $NEED$ Prestige?;;Necesitamos al menos $NEED$ de Prestigio.?;;;;;;;;;x
@@ -20632,7 +20632,7 @@ tut_8b_1;宗教 - 中级;Religion ?Niveau interm閐iaire;Religion - Mitteltutorial;;R
 tut_8b_2;本节将讨论有关好感、法律和圣战的事.请点击“继续”.;Cette section du didacticiel traite des opinions, des lois et des croisades. Cliquez sur Suivant pour continuer.;Dieser Tutorialteil bringt Euch Informationen 黚er Meinungen, Gesetze und Kreuzz黦e n鋒er. Klickt zum Fortfahren auf Weiter.;;En esta parte del tutorial, hablaremos sobre opiniones, leyes y cruzadas. Haz clic en 'Siguiente' para seguir.;;;;;;;;;x
 tut_8b_3;宗教封臣;Vassaux religieux;Religi鰏e Vasallen;;Vasallos religiosos;;;;;;;;;x
 ;#tut_8b_4;Religious vassals will only give you troops and money if they have a higher opinion of you than they do of the pope. The easiest way to assure that, is to actually appoint someone to bishop that already likes you. Click the laws tab to see how you can accomplish that.;;Von religi?sen Vasallen erhaltet Ihr nur dann Truppen und Geld, wenn sie von Euch eine h?here Meinung haben als vom Papst. Dies erreicht Ihr am einfachsten, indem Ihr jemanden, der Euch bereits mag, zum Bischof ernennt. Wir Ihr dies bewerkstelligt, findet Ihr heraus, indem Ihr auf das Register Gesetze klickt.;;Los vasallos religiosos solo te darán tropas y dinero si tienen mejor opinión de ti que del papa. La forma más fácil de conseguir esto es designar como obispo a alguien al que le gustes. Haz clic para ver la pesta?a de leyes y ver cómo puedes conseguirlo.;;;;;;;;;x;
-tut_8b_5;授职法;Investiture;Investitur;;Investidura;;;;;;;;;x
+tut_8b_5;神职叙任;Investiture;Investitur;;Investidura;;;;;;;;;x
 ;#tut_8b_6;The top part of the laws window are the succession laws, but lets skip those for now. Among the laws in the lower part, you'll find investiture. This can either be set to papal, which means the pope elects the bishops, or free, which means that you can select your bishops by yourself. The pope will not be happy of course. Click next to learn about crusades.;;Der Oberteil des Gesetzesfensters ist dem Nachfolgerecht gewidmet, aber dies wollen wir vorerst überspringen. Unter den Gesetzen im Unterteil des Fensters findet Ihr die Investitur. Hier gibt es zwei Einstellungsm?glichkeiten: P?pstlich - Bisch?fe werden vom Papst bestimmt, oder Frei - Ihr k?nnt Eure Bisch?fe selbst ernennen. Letzteres freut den Papst natürlich nicht besonders. Erfahrt mehr über Kreuzzüge, indem Ihr auf Weiter klickt.;;En la parte de arriba de la ventana de leyes, encontrarás las leyes de sucesión pero, de momento, vamos a ignorarlas. Entre las leyes de la parte inferior, encontrarás la de investidura. Puede establecerse como papal (el papa elige a los obispos) o como libre (tú mismo puedes seleccionar a tus obispos). Por supuesto, al papa no le hará ninguna gracia esto último. Pulsa 'Siguiente' para obtener más información sobre las cruzadas.;;;;;;;;;x;
 tut_8b_7;十字军东征;Croisades;Kreuzz黦e;;Cruzadas;;;;;;;;;x
 ;#tut_8b_8;What instigates a crusade is that the pope appoints an area that needs to be conquered in the name of the catholic church. For him to be able to do that, it must currently be held by Muslims or Pagans. When he does this, you will get access to a casus belli you can use to attack the top liege of the province in question.;;Kreuzzüge werden eingeleitet, wenn der Papst ein Gebiet zur Eroberung im Namen der katholischen Kirche bestimmt. Zur Auswahl muss ein Gebiet aktuell von Muslimen oder Heiden besetzt sein. Nach der Auswahl erhaltet Ihr Zugriff auf einen Kriegsgrund, den Ihr zum Angriff auf den obersten Lehnsherrn der fraglichen Provinz anwenden k?nnt.;;Una cruzada se produce cuando el papa decide que debe conquistarse un área en el nombre de la Iglesia católica. Para poder hacer esto, debe ser territorio de musulmanes o de paganos. Una vez elegida la zona, tendrás a tu disposición un casus belli que te permitirá atacar al se?or principal de la provincia en cuestión.;;;;;;;;;x;
