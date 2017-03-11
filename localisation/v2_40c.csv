@@ -12,11 +12,11 @@ NAND_TRIGGER_STARTS;ÒÔÏÂËùÓÐ±ØÐë²»³ÉÁ¢;Toutes ces conditions doivent être invali
 MATCHMAKING_SERVER_DENIED;¾Ü¾ø;Refus?Verweigert;;Denegado;;;;;;;;;x
 PROVINCE_EXTEND;ÍØÕ¹;Étendu;Erweiterung;;Ampliar;;;;;;;;;x
 CONFIRM_BUILD_EXTRA_HOLDING_TITLE;½¨Ôì$TYPE$;Établir une propriét?de type '$TYPE$';$TYPE$ bauen;;Construye $TYPE$;;;;;;;;;x
-CONFIRM_BUILD_EXTRA_HOLDING_DESC;ÄãÈ·¶¨Òª½¨ÔìÒ»×ù$TYPE$Âð£¿\nÕâ½«ÏûºÄÄã§Y$COST$?²¢ÔÚ$FINISHED$?Íê¹¤;Voulez-vous vraiment établir votre $TYPE$?\nVous devrez payer §Y$COST$??et la construction s'achèvera le §Y$FINISHED$?;$TYPE$ wirklich bauen?\nDies kostet §Y$COST$?? Fertigstellung am §Y$FINISHED$?.;;¿Estás seguro/a de que desea construir un/a $TYPE$?\n Te costar?§Y$COST$??estar?terminado en §Y$FINISHED$?;;;;;;;;;x
-GOVERNMENT_ALLOWS_BUILDING;§Y$GOVERNMENT$?ÕþÌåÔÊÐí½¨Ôì §Y$TYPE$?;Un gouvernement de type '§Y$GOVERNMENT$?' permet de construire '§Y$TYPE$?';Bau von §Y$TYPE$? möglich unter §Y$GOVERNMENT$?;;§Y$GOVERNMENT$? Gobierno permite construir §Y$TYPE$?;;;;;;;;;x
-CONTROLS_PROVINCE;¿ØÖÆ§Y$PROVINCE$?;Contrôle §Y$PROVINCE$?.;Kontrolliert §Y$PROVINCE$?.;;Controla §Y$PROVINCE$?.;;;;;;;;;x
-EXTRA_HOLDING_UNDER_CONSTRUCTION;$TYPE$ÔÚ±»§Y$BUILDER$?½¨Ôì\n½«ÓÚ§Y$DATE$?Íê¹¤;§Y$BUILDER$? est en train d'établir une propriét?de type '$TYPE$'.\nCe sera termin?le §Y$DATE$?;§Y$BUILDER$? baut $TYPE$\nFertigstellung am §Y$DATE$?;;$TYPE$ en construcción por §Y$BUILDER$?\n Estar?terminado en §Y$DATE$?;;;;;;;;;x
-BUILD_EXTRA_HOLDING;§Y½¨ÔìÒ»×ùÐÂµÄ$TYPE$?;Établir une nouvelle propriét?de type '$TYPE$';Neu bauen: $TYPE$;;Construir un nuevo / una nueva $TYPE$;;;;;;;;;x
+CONFIRM_BUILD_EXTRA_HOLDING_DESC;ÄãÈ·¶¨Òª½¨ÔìÒ»×ù$TYPE$Âð£¿\nÕâ½«ÏûºÄÄã§Y$COST$§!¤²¢ÔÚ$FINISHED$§!Íê¹¤;Voulez-vous vraiment établir votre $TYPE$?\nVous devrez payer §Y$COST$??et la construction s'achèvera le §Y$FINISHED$?;$TYPE$ wirklich bauen?\nDies kostet §Y$COST$?? Fertigstellung am §Y$FINISHED$?.;;¿Estás seguro/a de que desea construir un/a $TYPE$?\n Te costar?§Y$COST$??estar?terminado en §Y$FINISHED$?;;;;;;;;;x
+GOVERNMENT_ALLOWS_BUILDING;§Y$GOVERNMENT$§!ÕþÌåÔÊÐí½¨Ôì §Y$TYPE$§!;Un gouvernement de type '§Y$GOVERNMENT$?' permet de construire '§Y$TYPE$?';Bau von §Y$TYPE$? möglich unter §Y$GOVERNMENT$?;;§Y$GOVERNMENT$? Gobierno permite construir §Y$TYPE$?;;;;;;;;;x
+CONTROLS_PROVINCE;¿ØÖÆ§Y$PROVINCE$§!;Contrôle §Y$PROVINCE$?.;Kontrolliert §Y$PROVINCE$?.;;Controla §Y$PROVINCE$?.;;;;;;;;;x
+EXTRA_HOLDING_UNDER_CONSTRUCTION;$TYPE$ÔÚ±»§Y$BUILDER$§!½¨Ôì\n½«ÓÚ§Y$DATE$§!Íê¹¤;§Y$BUILDER$? est en train d'établir une propriét?de type '$TYPE$'.\nCe sera termin?le §Y$DATE$?;§Y$BUILDER$? baut $TYPE$\nFertigstellung am §Y$DATE$?;;$TYPE$ en construcción por §Y$BUILDER$?\n Estar?terminado en §Y$DATE$?;;;;;;;;;x
+BUILD_EXTRA_HOLDING;§Y½¨ÔìÒ»×ùÐÂµÄ$TYPE$§!;Établir une nouvelle propriét?de type '$TYPE$';Neu bauen: $TYPE$;;Construir un nuevo / una nueva $TYPE$;;;;;;;;;x
 NO_EXTRA_HOLDING_BUILT;Ã»ÓÐÒÑ½¨ÔìµÄ$TYPE$;Aucune propriét?de type '$TYPE$' établie;$TYPE$ noch nicht gebaut;;No $TYPE$ construido/a;;;;;;;;;x
 EXTRA_HOLDING_UNDER_CON;$TYPE$ÔÚ½¨ÔìÖÐ;$TYPE$ en construction;$TYPE$ wird gebaut;;$TYPE$ en construcción;;;;;;;;;x
 CREATE_EXTRA_HOLDING_EFFECT;ÔÚ$LOCATION$½¨ÔìÒ»×ù$TYPE$;Crée une propriét?de type '$TYPE$' en $LOCATION$;Erstellt $TYPE$ in $LOCATION$;;Crear $TYPE$ en $LOCATION$;;;;;;;;;x
@@ -75,7 +75,7 @@ EVTDESC_HL_1200;ÓÐºÃ¼¸ÍíÉÏÁË£¬ÄãÎÞ·¨ÈëË¯¡£Í¨³£Õâ·¢ÉúÔÚÉîÒ¹¡ª¡ªÀÇÈºÔÚÍâº¿½Ð¡£ÄãÔÚ
 EVTOPTA_HL_1200;ÕâÊÇÊ²Ã´£¿;Que m'arrive-t-il?;Was geht hier vor sich?;;¿Qu?es esto?;;;;;;;;;x
 INCOME_EXTRA_HOLDING;À´×Ô´Ë$TYPE$µÄÊÕÈë;Revenus provenant de cette propriét?($TYPE$);Einkommen aus $TYPE$;;Ingresos de este $TYPE$;;;;;;;;;x
 MODIFIER_GLOBAL_MOVEMENT_SPEED;È«Í¼ÒÆ¶¯ËÙ¶È;Vitesse de déplacement globale;Allgemeine Bewegungsgeschwindigkeit;;Velocidad de movimiento global;;;;;;;;;x
-BUILDING_CAPITAL;ÔÚ§Y$CAPITAL$?µÄ½¨Öþ: $BONUS$;Construction ?§Y$CAPITAL$?? $BONUS$;Gebäude in §Y$CAPITAL$?: $BONUS$;;Edificio en §Y$CAPITAL$?: $BONUS$;;;;;;;;;x
+BUILDING_CAPITAL;ÔÚ§Y$CAPITAL$§!µÄ½¨Öþ: $BONUS$;Construction ?§Y$CAPITAL$?? $BONUS$;Gebäude in §Y$CAPITAL$?: $BONUS$;;Edificio en §Y$CAPITAL$?: $BONUS$;;;;;;;;;x
 CB_NAME_DISPUTE;Õù¶áÖÐµÄ[Title.GetBaseName];Contester [Title.GetBaseName];[Title.GetBaseName] anfechten;;Disputa [Title.GetBaseName];;;;;;;;;x
 WAR_NAME_DISPUTE;$OTHER_TITLE$µÄÕù¶á;Contestation pour $OTHER_TITLE$;Anfechtung: $OTHER_TITLE$;;Disputa de $OTHER_TITLE$;;;;;;;;;x
 HAS_SETTLEMENT_CONSTRUCTION;ÓÐ¶¨¾Óµã½¨Éè;Possède une construction coloniale;Siedlungsbau im Gange;;Tiene una construcción de asentamientos;;;;;;;;;x

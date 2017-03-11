@@ -11,7 +11,7 @@ EVTDESC62925;[From.GetDynName]ÒÑÔÚÎ÷°àÑÀ´´½¨Ò»¸öÐÂµÄ[From.PrimaryTitle.GetTier]£
 EVTDESC62927;[From.GetDynName]ÒÑÔÚÎ÷°àÑÀ´´½¨Ò»¸öÐÂµÄ[From.PrimaryTitle.GetTier]£¬¶øÇÒÏÖÔÚÊÇ[From.PrimaryTitle.GetName]µÄ×î¸ßÍ³ÖÎÕß£¡;[From.GetDynName] a créé un nouveau [From.PrimaryTitle.GetTier] en Espagne et règne désormais en maître sur [From.PrimaryTitle.GetName]?;[From.GetDynName] gründete ein neues [From.PrimaryTitle.GetTier] in Spanien und herrscht nun über [From.PrimaryTitle.GetName]!;;­[From.GetDynName]ha fundado un nuevo [From.PrimaryTitle.GetTier]en España, y ahora gobierna supremo sobre [From.PrimaryTitle.GetName]!;;;;;;;;;x
 EVTDESC62921;[From.GetDynName]ÒÑ¾ö¶¨³ÉÁ¢À³°º[From.PrimaryTitle.GetTier]£¬¹ÅÀÏµÄ°¢Ë¹Í¼ÀïÑÇË¹[From.PrimaryTitle.GetTier]²»¸´´æÔÚ£¡;[From.GetDynName] a décid?de créer le [From.PrimaryTitle.GetTier] de León. L'ancien [From.PrimaryTitle.GetTier] des Asturies n'est plus?;[From.GetDynName] hat beschlossen, das [From.PrimaryTitle.GetTier] von León zu gründen. Das alte [From.PrimaryTitle.GetTier] Asturien ist damit Geschichte!;;[From.GetDynName] ha decidido fundar [From.PrimaryTitle.GetTier] de León. El antiguo [From.PrimaryTitle.GetTier] de Asturias ya no existe más!;;;;;;;;;x
 SM_CONTEXTSOUND;¶¯Ì¬»·¾³ÒôÐ§;Sons contextuels;Kontextsound;;Sonido de contexto;;;;;;;;;x
-BUILD_FORT_DESC;ÒªÈû¿ÉÒÔÔÚÄã¿ØÖÆµÄÈÎºÎÒ»¸öÊ¡·Ý½¨Ôì£¬Ò²¿ÉÒÔÔÚÄãµ±Ç°¾ü¶Ó×¤ÔúµÄµÐ¶ÔÊ¡·Ý½¨Ôì¡£½¨ÔìÏûºÄ§Y$COST$??¡£ÒªÈû¿ÉÒÔ°ïÖúËø¶¨ÄãÕ¼ÁìµÄÓÎÄÁ¿ÕµØ£¬»¹ÄÜÊ¹ÄãÔÚÒ»Ð©Ô­Ê¼×Ú½Ì¼ÒÔ°²»ÔÙÊÜµ½¾ÞÁ¿²¹¸ø³Í·£¡£;Vous pouvez construire des forts dans les comtés que vous contrôlez, y compris dans les comtés ennemis occupés. Construire un fort coûte §Y$COST$?? Les forts pérennisent l'occupation de territoires nomades vides et annulent la forte attrition dans les terres païennes.;Der Bau von Forts ist in allen Provinzen, die von Euch kontrolliert werden, möglich, auch in feindlichen, wenn Ihr dort Truppen stationiert habt. Ihr Bau kostet §Y$COST$?. Forts ermöglichen es, leere Nomadenprovinzen dauerhaft zu besetzen, und sie wirken der vernichtenden Zermürbung entgegen, die im Territorium mancher heidnischer Stämme auftritt.;;Las fortalezas pueden ser construidas en cualquier provincia que controlas, as?como en las provincias hostiles donde tienes tropas presentes. Cuesta §Y$COST$??para construir. Las fortalezas cierran tu ocupación de provincias de nómada vacías y niegue la pena de desgaste aplastante sufrida en algunas patrias Paganas.;;;;;;;;;x
+BUILD_FORT_DESC;ÒªÈû¿ÉÒÔÔÚÄã¿ØÖÆµÄÈÎºÎÒ»¸öÊ¡·Ý½¨Ôì£¬Ò²¿ÉÒÔÔÚÄãµ±Ç°¾ü¶Ó×¤ÔúµÄµÐ¶ÔÊ¡·Ý½¨Ôì¡£½¨ÔìÏûºÄ§Y$COST$§!¤¡£ÒªÈû¿ÉÒÔ°ïÖúËø¶¨ÄãÕ¼ÁìµÄÓÎÄÁ¿ÕµØ£¬»¹ÄÜÊ¹ÄãÔÚÒ»Ð©Ô­Ê¼×Ú½Ì¼ÒÔ°²»ÔÙÊÜµ½¾ÞÁ¿²¹¸ø³Í·£¡£;Vous pouvez construire des forts dans les comtés que vous contrôlez, y compris dans les comtés ennemis occupés. Construire un fort coûte §Y$COST$?? Les forts pérennisent l'occupation de territoires nomades vides et annulent la forte attrition dans les terres païennes.;Der Bau von Forts ist in allen Provinzen, die von Euch kontrolliert werden, möglich, auch in feindlichen, wenn Ihr dort Truppen stationiert habt. Ihr Bau kostet §Y$COST$?. Forts ermöglichen es, leere Nomadenprovinzen dauerhaft zu besetzen, und sie wirken der vernichtenden Zermürbung entgegen, die im Territorium mancher heidnischer Stämme auftritt.;;Las fortalezas pueden ser construidas en cualquier provincia que controlas, as?como en las provincias hostiles donde tienes tropas presentes. Cuesta §Y$COST$??para construir. Las fortalezas cierran tu ocupación de provincias de nómada vacías y niegue la pena de desgaste aplastante sufrida en algunas patrias Paganas.;;;;;;;;;x
 POPULATION_EFFECT_SCALED;ÈË¿ÚµÄ$DIRECTION$$VALUE$;$DIRECTION$ $VALUE$ en population;$DIRECTION$ $VALUE$ der Bevölkerung;;$DIRECTION$ $VALUE$ de la población;;;;;;;;;x
 DISBAND_SUBUNIT;½âÉ¢¾üÍÅ;Disperser le régiment;Regiment auflösen;;Disuelva regimiento;;;;;;;;;x
 CONFIRM_DISBAND_TITLE_SUBUNIT;ÄãÏëÒª½âÉ¢ÕâÖ§¾üÍÅÂð£¿;Souhaitez-vous démobiliser ce régiment?;Wollt Ihr dieses Regiment entlassen?;;Deseas descartar este regimiento?;;;;;;;;;x
@@ -22,19 +22,19 @@ EVTTOOLTIP72035;[This.GetTitledFirstName]ÒÑÖªµÀÓëÄã×÷¶ÔµÄÏÂ³¡¡£;[This.GetTitledF
 MERCHANT_REPUBLICS_CANNOT_MOVE_CAPITAL;ÉÌÒµ¹²ºÍ¹ú²»ÔÊÐíÇ¨¶¼£¬³ý·ÇÊÇ´ÓÃ»ÓÐ¸Û¿ÚµÄÊ¡·ÝÇ¨ÍùÓÐ¸Û¿ÚµÄÊ¡·Ý;Les républiques marchandes ne peuvent pas déplacer leur capitale ?moins de la déplacer d'une ville de province sans port ?une ville de province avec port.;Kaufmannsrepubliken dürfen ihre Hauptstadt nicht verlegen, es sei denn, die Verlegung erfolgt von einer Provinz ohne Hafen in eine Provinz mit Hafen.;;Las repúblicas mercantes no son permitidas cambiar capital, a menos que lo muevan a una ciudad en una provincia con puerto desde una provincia sin  puerto.;;;;;;;;;x
 PRESTIGE_LAW_PASSED_SETUP;·¨ÂÉÖÆ¶¨;Loi instaurée;Gesetz eingeführt;;Ley instituida;;;;;;;;;x
 GOV_BUILD_WITH_PIETY_DESC;ÓÃò¯³Ï½¨Ôì$HOLDINGS_LIST$µØ²ú;L'établissement de propriétés de type '$HOLDINGS_LIST$' consomme de la piét?Verwendet Pietät, um die Liegenschaften $HOLDINGS_LIST$ zu errichten;;Utiliza piedad para construir  $HOLDINGS_LIST$ propiedades;;;;;;;;;x
-GOVERNMENT_VASSALS_LESS_THAN;ÓµÓÐÉÙÓÚ§Y$NUM$?§Y$GOVERNMENT$?µÄ·â³¼;Avoir moins de §Y$NUM$? vassaux d'un gouvernement de type '§Y$GOVERNMENT$?';Weniger als 'Y$NUM$'! Vasallen der Regierungsform 'Y$GOVERNMENT$'!;;Tiene menos de §Y$NUM$? §Y$GOVERNMENT$?vasallos. ;;;;;;;;;x
-GOVERNMENT_VASSALS_AT_LEAST;ÓµÓÐÖÁÉÙ§Y$NUM$?§Y$GOVERNMENT$?µÄ·â³¼;Avoir au moins §Y$NUM$? vassaux d'un gouvernement de type '§Y$GOVERNMENT$?';Mindestens 'Y$NUM$'! Vasallen der Regierungsform 'Y$GOVERNMENT$'!;;Tiene por lo menos §Y$NUM$? §Y$GOVERNMENT$?vasallos.;;;;;;;;;x
+GOVERNMENT_VASSALS_LESS_THAN;ÓµÓÐÉÙÓÚ§Y$NUM$§!§Y$GOVERNMENT$§!µÄ·â³¼;Avoir moins de §Y$NUM$? vassaux d'un gouvernement de type '§Y$GOVERNMENT$?';Weniger als 'Y$NUM$'! Vasallen der Regierungsform 'Y$GOVERNMENT$'!;;Tiene menos de §Y$NUM$? §Y$GOVERNMENT$?vasallos. ;;;;;;;;;x
+GOVERNMENT_VASSALS_AT_LEAST;ÓµÓÐÖÁÉÙ§Y$NUM$§!§Y$GOVERNMENT$§!µÄ·â³¼;Avoir au moins §Y$NUM$? vassaux d'un gouvernement de type '§Y$GOVERNMENT$?';Mindestens 'Y$NUM$'! Vasallen der Regierungsform 'Y$GOVERNMENT$'!;;Tiene por lo menos §Y$NUM$? §Y$GOVERNMENT$?vasallos.;;;;;;;;;x
 FEATURES;ÌØµã;Caractéristiques;Merkmale;;Características;;;;;;;;;x
 HINT_SPLASH_2_INTRO;ÄãÕýÔÚ°çÑÝ[Culture.GetName][Religion.GetName][PrimaryTitle.GetRulerTitle]£¡;Vous endossez le rôle d'un [PrimaryTitle.GetRulerTitle] de culture [Culture.GetName] et de religion [Religion.GetName]?;Ihr spielt als: [Culture.GetName], [Religion.GetName], [PrimaryTitle.GetRulerTitle];;Estás jugando como un [Culture.GetName] [Religion.GetName] [PrimaryTitle.GetRulerTitle].;;;;;;;;;x
 UNSELECT_CHAR;È¡ÏûÑ¡Ôñ½ÇÉ«;Désélectionner le personnage;Charakterauswahl aufheben;;Cancelar selección de personaje;;;;;;;;;x
-tribal_governments_FEATURES;§Y*? ¿ÉÒÔ¸Ä¸ï³É·â½¨ÖÆ£¬ÒÁ¿ËËþÖÆºÍÉÌÒµ¹²ºÍ¹úÕþÌå;§Y*? Peut se réformer en gouvernement féodal, en iqt?ou en république marchande;Y*'! Kann per Reform die Regierungsformen Feudal, Iqta und Kaufmannsrepublik annehmen;;§Y*? Puede reformar al Feudal, Iqta y los gobiernos de las Repúblicas Mercantiles.;;;;;;;;;x
-nomadic_governments_FEATURES;§Y*? ¿ÉÒÔ¸Ä¸ï³É·â½¨ÕþÌå¡¢ÒÁ¿ËËþÕþÌå¡¢ÉÌÒµ¹²ºÍ¹úÕþÌå\n §Y*? ¿ÉÒÔÇÀ½Ù¶¨¾ÓµãÀ´»ñÈ¡²Æ¸»ºÍ¿Æ¼¼\n§Y*? ¿ÉÒÔ·ÅÆúÊ¡·ÝÀ´¼Ó¿ìÈË¿ÚºÍÈËÁ¦Ôö³¤;§Y*? Peut se réformer en gouvernement féodal, en iqt?ou en république marchande\n§Y*? Peut piller des colonies pour accroître sa richesse et sa technologie\n§Y*? Peut abandonner des provinces pour gagner en population et en effectifs;Y*'! Kann per Reform die Regierungsformen Feudal, Iqta und Kaufmannsrepublik annehmen\n'Y*'! Kann Siedlungen plündern und dabei Reichtum und technischen Fortschritt erwerben\n'Y*'! Kann Provinzen aufgeben, um ein verbessertes Wachstum von Bevölkerung und Mannstärke zu erlangen.;;§Y*? Puede reformar al feudalismo, Iqta y los gobiernos de las Repúblicas Mercantiles.\n§Y*? Puede saquear los asentamientos para ganar riqueza y tecnología\n§Y*? puede abandonar provincias para obtener mayor crecimiento de la población y la soldadesca;;;;;;;;;x
+tribal_governments_FEATURES;§Y*§! ¿ÉÒÔ¸Ä¸ï³É·â½¨ÖÆ£¬ÒÁ¿ËËþÖÆºÍÉÌÒµ¹²ºÍ¹úÕþÌå;§Y*? Peut se réformer en gouvernement féodal, en iqt?ou en république marchande;Y*'! Kann per Reform die Regierungsformen Feudal, Iqta und Kaufmannsrepublik annehmen;;§Y*? Puede reformar al Feudal, Iqta y los gobiernos de las Repúblicas Mercantiles.;;;;;;;;;x
+nomadic_governments_FEATURES;§Y*§! ¿ÉÒÔ¸Ä¸ï³É·â½¨ÕþÌå¡¢ÒÁ¿ËËþÕþÌå¡¢ÉÌÒµ¹²ºÍ¹úÕþÌå\n §Y*§! ¿ÉÒÔÇÀ½Ù¶¨¾ÓµãÀ´»ñÈ¡²Æ¸»ºÍ¿Æ¼¼\n§Y*§! ¿ÉÒÔ·ÅÆúÊ¡·ÝÀ´¼Ó¿ìÈË¿ÚºÍÈËÁ¦Ôö³¤;§Y*? Peut se réformer en gouvernement féodal, en iqt?ou en république marchande\n§Y*? Peut piller des colonies pour accroître sa richesse et sa technologie\n§Y*? Peut abandonner des provinces pour gagner en population et en effectifs;Y*'! Kann per Reform die Regierungsformen Feudal, Iqta und Kaufmannsrepublik annehmen\n'Y*'! Kann Siedlungen plündern und dabei Reichtum und technischen Fortschritt erwerben\n'Y*'! Kann Provinzen aufgeben, um ein verbessertes Wachstum von Bevölkerung und Mannstärke zu erlangen.;;§Y*? Puede reformar al feudalismo, Iqta y los gobiernos de las Repúblicas Mercantiles.\n§Y*? Puede saquear los asentamientos para ganar riqueza y tecnología\n§Y*? puede abandonar provincias para obtener mayor crecimiento de la población y la soldadesca;;;;;;;;;x
 GOVERNMENT_UNLOCKS;ÕþÌå½âËø;Gouvernements débloqués? ;Regierungsformen freigeschaltet: ;;Gobiernos desbloqueados:;;;;;;;;;x
-REVOKE_TITLE_INTERACTION_2G;ÎÒÃÇµÄ$GOVERNMENT$¹ÜÖÎÔÊÐíÎÒÃÇÊÕ»Ø§Y$TIER$?Í·ÏÎÊ±²»»áÓÐ¹ó×å·´¶Ô¡£;Notre administration $GOVERNMENT$ nous autorise ?révoquer les titres de §Y$TIER$? sans opposition de l'aristocratie.;Unsere $GOVERNMENT$-Verwaltung ermöglicht uns den Entzug von Titeln des Rangs 'Y$TIER$'! ohne Widerspruch der Aristokratie.;;Nuestra administración de $GOVERNMENT$ permite que nosotros revoquemos el §Y$TIER$? títulos sin objeciones por parte de la aristocracia.;;;;;;;;;x
-IS_DIVINE_BLOOD;§Y$DYNASTY$?¼Ò×å¿ÉÒÔÑªÇ×Ê¥»é;La dynastie §Y$DYNASTY$? est une dynastie de sang divin.;Die 'Y$DYNASTY$'!-Dynastie ist von göttlichem Geblüt.;;La §Y$DYNASTY$?dinastía es de Sangre Divina;;;;;;;;;x
-IS_NOT_DIVINE_BLOOD; §Y$DYNASTY$?²»ÄÜÑªÇ×Ê¥»é;La dynastie §Y$DYNASTY$? n'est pas une dynastie de sang divin.;Die 'Y$DYNASTY$'!-Dynastie ist NICHT von göttlichem Geblüt.;;La §Y$DYNASTY$?dinastía NO es de Sangre Divina;;;;;;;;;x
-SET_DIVINE_BLOOD;§Y$DYNASTY$?ÏÖÔÚ±»ÈÏÎª¿ÉÒÔÑªÇ×Ê¥»é¡£\n;La dynastie §Y$DYNASTY$? est désormais considérée comme une dynastie de sang divin.\n;Die 'Y$DYNASTY$'!-Dynastie gilt nun als Dynastie von göttlichem Geblüt\n;;La §Y$DYNASTY$?Dinastía se considera ahora de Sangre divina\n;;;;;;;;;x
-UNSET_DIVINE_BLOOD; §Y$DYNASTY$?¼Ò×å²»ÔÙ½øÐÐÑªÇ×Ê¥»é¡£\n;La dynastie §Y$DYNASTY$? n'est plus considérée comme une dynastie de sang divin.\n;Die 'Y$DYNASTY$'!-Dynastie gilt nun nicht mehr als Dynastie von göttlichem Geblüt\n;;La §Y$DYNASTY$?Dinastía ya no se considera de la Sangre Divina;;;;;;;;;x
+REVOKE_TITLE_INTERACTION_2G;ÎÒÃÇµÄ$GOVERNMENT$¹ÜÖÎÔÊÐíÎÒÃÇÊÕ»Ø§Y$TIER$§!Í·ÏÎÊ±²»»áÓÐ¹ó×å·´¶Ô¡£;Notre administration $GOVERNMENT$ nous autorise ?révoquer les titres de §Y$TIER$? sans opposition de l'aristocratie.;Unsere $GOVERNMENT$-Verwaltung ermöglicht uns den Entzug von Titeln des Rangs 'Y$TIER$'! ohne Widerspruch der Aristokratie.;;Nuestra administración de $GOVERNMENT$ permite que nosotros revoquemos el §Y$TIER$? títulos sin objeciones por parte de la aristocracia.;;;;;;;;;x
+IS_DIVINE_BLOOD;§Y$DYNASTY$§!¼Ò×å¿ÉÒÔÑªÇ×Ê¥»é;La dynastie §Y$DYNASTY$? est une dynastie de sang divin.;Die 'Y$DYNASTY$'!-Dynastie ist von göttlichem Geblüt.;;La §Y$DYNASTY$?dinastía es de Sangre Divina;;;;;;;;;x
+IS_NOT_DIVINE_BLOOD; §Y$DYNASTY$§!²»ÄÜÑªÇ×Ê¥»é;La dynastie §Y$DYNASTY$? n'est pas une dynastie de sang divin.;Die 'Y$DYNASTY$'!-Dynastie ist NICHT von göttlichem Geblüt.;;La §Y$DYNASTY$?dinastía NO es de Sangre Divina;;;;;;;;;x
+SET_DIVINE_BLOOD;§Y$DYNASTY$§!ÏÖÔÚ±»ÈÏÎª¿ÉÒÔÑªÇ×Ê¥»é¡£\n;La dynastie §Y$DYNASTY$? est désormais considérée comme une dynastie de sang divin.\n;Die 'Y$DYNASTY$'!-Dynastie gilt nun als Dynastie von göttlichem Geblüt\n;;La §Y$DYNASTY$?Dinastía se considera ahora de Sangre divina\n;;;;;;;;;x
+UNSET_DIVINE_BLOOD; §Y$DYNASTY$§!¼Ò×å²»ÔÙ½øÐÐÑªÇ×Ê¥»é¡£\n;La dynastie §Y$DYNASTY$? n'est plus considérée comme une dynastie de sang divin.\n;Die 'Y$DYNASTY$'!-Dynastie gilt nun nicht mehr als Dynastie von göttlichem Geblüt\n;;La §Y$DYNASTY$?Dinastía ya no se considera de la Sangre Divina;;;;;;;;;x
 AIREASON_AMBITION;Ò°ÐÄ;Ambition;Ambition;;Ambición;;;;;;;;;x
 b_kroran;Â¥À¼;Krorän;Krorän;;Krorän;;;;;;;;;x
 b_endere;ÌÆÀ¼;Endere;Endere;;Endere;;;;;;;;;x
@@ -131,52 +131,52 @@ CHRONICLE_FOUNDED_MERCHANT_REPUBLIC;[From.GetDynName]ÔÚ[From.GetHerHis]¾³ÄÚ·ÅÆú¹
 nomadic_emperor_female;¿É¶Ø;Khatoun;Khatun;;Khatun;;;;;;;;;x
 nomadic_king_female;¿ÉÅ¬;Khanoum;Khanum;;Khanum;;;;;;;;;x
 e_chagatai;²ìºÏÌ¨;Chagatai;Chagatai;;Chagatai;;;;;;;;;x
-FACTIONS_MENU;§YÅÉÏµ?;§YFactions?;§YFraktionen?;;§YFacciones?;;;;;;;;;x
-CLANS_MENU;§Y²¿×å?;Clans?;§YKlans?;;§YClanes?;;;;;;;;x
-THE_REPUBLIC_MENU;§Y¹²ºÍ¹ú?;§YLa République?;§YDie Republik?;;§YLa República?;;;;;;;;;x
-STAT_WEALTH_MENU;§Y²Æ¸»?;§YRichesses?;§YReichtum?;;§YRiqueza?;;;;;;;;;x
-STAT_PRESTIGE_MENU;§YÍþÍû?;§YPrestige;?Prestige;;§YPrestigio?;;;;;;;;;x
-STAT_PIETY_MENU;§Yò¯³Ï?;§YPiété§!;§YPietät?;;§YPiedad?;;;;;;;;;x
-STAT_PIETY_MENU_HONOR;§YÈÙÓþ?;§YHonneur?;§YEhre?;;§YHonor?;;;;;;;;;x
-STAT_PIETY_MENU_KARMA;§YÉÆÒµ?;§YKarma?;§YKarma?;;§YKarma?;;;;;;;;;x
-STAT_PIETY_MENU_PURITY;§Y´¿¾»?;§YPureté§!;§YReinheit?;;§YPureza?;;;;;;;;;x
-STAT_DEMESNE_SIZE_MENU;§YÖ±Ï½ÁìµØÉÏÏÞ?;§YTaille du domaine?;§YDomänengröße?;;§YTamaño de la heredad?;;;;;;;;;x
-STAT_VASSAL_LIMIT_MENU;§Y·â³¼ÊýÁ¿ÏÞÖÆ?;§YNombre limite de vassaux?;§YVasallenlimit?;;§YLímite de Vasallos?;;;;;;;;;x
-STAT_REALM_SIZE_MENU;§YÁìµØ´óÐ¡?;§YTaille du pays?;§YReichsgröße?;;§YTamaño del reino?;;;;;;;;;x
-STAT_SCORE_MENU;§Y·ÖÊý?;Score?;§YPunkte?;;§YPuntuación?;;;;;;;;;x
-STAT_POPULATION_MENU;§YÈË¿Ú?;§YPopulation?;§YBevölkerung?;;§YPoblación?;;;;;;;;;x
-STAT_MANPOWER_MENU;§YÈËÁ¦?;§YEffectifs?;§YMannstärke?;;§YMano de obra?;;;;;;;;;x
+FACTIONS_MENU;§YÅÉÏµ§!;§YFactions?;§YFraktionen?;;§YFacciones?;;;;;;;;;x
+CLANS_MENU;§Y²¿×å§!;Clans?;§YKlans?;;§YClanes?;;;;;;;;x
+THE_REPUBLIC_MENU;§Y¹²ºÍ¹ú§!;§YLa République?;§YDie Republik?;;§YLa República?;;;;;;;;;x
+STAT_WEALTH_MENU;§Y²Æ¸»§!;§YRichesses?;§YReichtum?;;§YRiqueza?;;;;;;;;;x
+STAT_PRESTIGE_MENU;§YÍþÍû§!;§YPrestige;?Prestige;;§YPrestigio?;;;;;;;;;x
+STAT_PIETY_MENU;§Yò¯³Ï§!;§YPiété§!;§YPietät?;;§YPiedad?;;;;;;;;;x
+STAT_PIETY_MENU_HONOR;§YÈÙÓþ§!;§YHonneur?;§YEhre?;;§YHonor?;;;;;;;;;x
+STAT_PIETY_MENU_KARMA;§YÉÆÒµ§!;§YKarma?;§YKarma?;;§YKarma?;;;;;;;;;x
+STAT_PIETY_MENU_PURITY;§Y´¿¾»§!;§YPureté§!;§YReinheit?;;§YPureza?;;;;;;;;;x
+STAT_DEMESNE_SIZE_MENU;§YÖ±Ï½ÁìµØÉÏÏÞ§!;§YTaille du domaine?;§YDomänengröße?;;§YTamaño de la heredad?;;;;;;;;;x
+STAT_VASSAL_LIMIT_MENU;§Y·â³¼ÊýÁ¿ÏÞÖÆ§!;§YNombre limite de vassaux?;§YVasallenlimit?;;§YLímite de Vasallos?;;;;;;;;;x
+STAT_REALM_SIZE_MENU;§YÁìµØ´óÐ¡§!;§YTaille du pays?;§YReichsgröße?;;§YTamaño del reino?;;;;;;;;;x
+STAT_SCORE_MENU;§Y·ÖÊý§!;Score?;§YPunkte?;;§YPuntuación?;;;;;;;;;x
+STAT_POPULATION_MENU;§YÈË¿Ú§!;§YPopulation?;§YBevölkerung?;;§YPoblación?;;;;;;;;;x
+STAT_MANPOWER_MENU;§YÈËÁ¦§!;§YEffectifs?;§YMannstärke?;;§YMano de obra?;;;;;;;;;x
 TECHNOLOGY;¿Æ¼¼;Technologie;Technologie;Technologia;Tecnología;Tecnologia;Technológia;Technologie;;;;;;x
 LAW;·¨ÂÉ;Lois;Gesetze;;Leyes;;;;;;;;;x
 MILITARY;¾üÊÂ;Armée;Militär;;Fuerzas armadas;Militare;;;;;;;;x
 INTRIGUE;ÒõÄ±;Intrigue;Intrige;;Intriga;;;;;;;;;x
-DEMESNE_INTERFACE_LABEL;§YÖ±Ï½Áì?;§YDomaine?;§YDomäne?;;§YHeredad?;;;;;;;;;x
-TRADE_INTERFACE_LABEL;§YÃ³Ò×?;§YCommerce?;§YHandel?;;§YComerciar?;;;;;;;;;x
-FORTS_INTERFACE_LABEL;§Y±¤ÀÝ?;§YForts?;§YForte?;;§YFortalezas?;;;;;;;;;x
-SIEGES_INTERFACE_LABEL;§YÎ§³Ç?;§YSièges?;§YBelagerungen?;§YOblenia?;§YAsedios?;§YAssedi?;§YOstromok?;§YObležení§!;;;;;;x
-ENEMY_SIEGES_INTERFACE_LABEL;§YµÐ¶ÔÎ§³Ç?;§YSièges hostiles?;§YFeindliche Belagerungen?;;§YAsedios hostiles?;§YAssedi del nemico?;;;;;;;;x
-COMBATS_INTERFACE_LABEL;§YÂ½Õ½?;§YCombats?;§YGefechte?;§YWalki?;§YCombates?;§YCombattimento terrestre?;§YCsaták?;§YPozemn?boj?;;;;;;x
-ARMIES_INTERFACE_LABEL;§Y¾ü¶Ó?;§YArmées?;§YArmeen?;;§YEjércitos?;§YEserciti?;;;;;;;;x
-NAVIES_INTERFACE_LABEL;§Y½¢¶Ó?;§YFlottes?;§YFlotten?;;§YArmada?;§YFlotte?;;;;;;;;x
-MESSAGERULES_INTERFACE_LABEL;§YÐÅÏ¢¹æÔò?;§YRègles des messages?;§YNachrichtenregeln?;;§YReglas de mensaje?;;;;;;;;;x
-SPECIAL_INTEREST_CHARACTERS_INTERFACE_LABEL;§YÌØ±ð¹Ø×¢ÈËÎï?;§YPersonnages importants?;§YCharaktere von besonderem Interesse?;;§YPersonajes especialmente interesantes?;;;;;;;;;x
-OL_COURT_INTERFACE_LABEL;§Y¹¬Í¢?;§YCour?;§YHof?;;§YCorte?;;;;;;;;;x
-OL_MP_PLAYERLIST_INTERFACE_LABEL;§Y¶àÈËÓÎÏ·Íæ¼Ò?;§YJoueurs si multijoueur?;§YSpieler im Multiplayermodus?;;§YJugadores en multijugador?;;;;;;;;;x
-OL_DISABLED_ALERTS_INTERFACE_LABEL;§Y¹Ø±ÕµÄ¾¯±¨?;§YAlertes désactivés?;§YDeaktivierte Alarme?;;§YAvisos desactivados?;;;;;;;;;x
-MESSWINDOW_HIGHPRIO_INTERFACE_LABEL;§Y¸ßÓÅÏÈ¼¶ÐÅÏ¢?;§YMessages de haute priorité§!;§YNachrichten mit hoher Priorität?;;§YMensajes de alta prioridad?;;;;;;;;;x
-MESSWINDOW_LOWPRIO_INTERFACE_LABEL;§YµÍÓÅÏÈ¼¶ÐÅÏ¢?;§YMessages de basse priorité§!;§YNachrichten mit niedriger Priorität?;;§YMensajes de baja prioridad?;;;;;;;;;x
-FC_FIND_CHARACTERS_INTERFACE_LABEL;§YÑ°ÕÒ½ÇÉ«?;§YTrouver des personnages?;§YCharakter Suchen?;;§YEncontrar personajes?;;;;;;;;;x
-MAIN_MENU_INTERFACE_LABEL;§YÖ÷²Ëµ¥?;§YMenu principal?;§YHauptmenü§!;;§YMen?principal?;§YMenu principale?;;;;;;;;x
-ZOOM_IN_INTERFACE_LABEL;§Y¾µÍ·À­½ü?;§YEffectuer un zoom avant?;§YVergrößern?;§YPowiêksz?;§YAcerca el zum?;§YIngrandire?;§YKözelítés?;§YZaostøit nablízko?;;;;;;x
-ZOOM_OUT_INTERFACE_LABEL;§Y¾µÍ·ÍÆÔ¶?;§YEffectuer un zoom arrière?;§YVerkleinern?;§YPomniejsz?;§YAleja el zum?;§YRidurre?;§YTávolítás?;§YZaostøit na dálku?;;;;;;x
-HOME_INTERFACE_LABEL;§YÇ°Íù¼ÒÏçÊ¡·Ý?;§YAller ?la province d'origine?;§YZur Heimatprovinz Gehen?;;§YIr a la Provincia de Origen?;§YAndare alla Capitale?;;;;;;;;x
-LEDGER_MENU_INTERFACE_LABEL;§Y·ÖÀà±í¸ñ?;§YGrand livre?;§YArchiv?;;§YLibro de contabilidad?;§YRegistro?;;;;;;;;x
-LOGGER_MENU_INTERFACE_LABEL;§YÏûÏ¢ÈÕÖ¾?;§YJournal des messages?;§YNachrichten-Log?;;§YRegistro de mensajes?;;;;;;;;;x
-FIND_PROVINCE_INTERFACE_LABEL;§YËÑË÷Í·ÏÎ»òµØÇø?;§YTrouver un titre ou une région?;§YTitel oder Region suchen?;;§YEncuentra título o región?;;;;;;;;;x
-OPEN_CHRONICLE_INTERFACE_LABEL;§Y´ò¿ª±àÄêÊ·?;§YOuvrir la chronique?;§YOffene Chronik?;;§YAbrir Crónica?;;;;;;;;x
-DYNASTYTREE_INTERFACE_LABEL;§Y¼Ò×åÊ÷?;§YArbre dynastique?;§YDynastieübersicht?;;§YÁrbol dinástico?;;;;;;;;;x
-FAMILYTREE_INTERFACE_LABEL;§Y¼ÒÍ¥Ê÷?;§YArbre familial?;§YStammbaum?;;§YÁrbol genealógico?;;;;;;;;;x
-REALM_TREE_INTERFACE_LABEL;§Y·Ö·âÊ÷?;§YArbre hiérarchique?;§YReichsübersicht?;;§YÁrbol del Reino?;;;;;;;;;x
+DEMESNE_INTERFACE_LABEL;§YÖ±Ï½Áì§!;§YDomaine?;§YDomäne?;;§YHeredad?;;;;;;;;;x
+TRADE_INTERFACE_LABEL;§YÃ³Ò×§!;§YCommerce?;§YHandel?;;§YComerciar?;;;;;;;;;x
+FORTS_INTERFACE_LABEL;§Y±¤ÀÝ§!;§YForts?;§YForte?;;§YFortalezas?;;;;;;;;;x
+SIEGES_INTERFACE_LABEL;§YÎ§³Ç§!;§YSièges?;§YBelagerungen?;§YOblenia?;§YAsedios?;§YAssedi?;§YOstromok?;§YObležení§!;;;;;;x
+ENEMY_SIEGES_INTERFACE_LABEL;§YµÐ¶ÔÎ§³Ç§!;§YSièges hostiles?;§YFeindliche Belagerungen?;;§YAsedios hostiles?;§YAssedi del nemico?;;;;;;;;x
+COMBATS_INTERFACE_LABEL;§YÂ½Õ½§!;§YCombats?;§YGefechte?;§YWalki?;§YCombates?;§YCombattimento terrestre?;§YCsaták?;§YPozemn?boj?;;;;;;x
+ARMIES_INTERFACE_LABEL;§Y¾ü¶Ó§!;§YArmées?;§YArmeen?;;§YEjércitos?;§YEserciti?;;;;;;;;x
+NAVIES_INTERFACE_LABEL;§Y½¢¶Ó§!;§YFlottes?;§YFlotten?;;§YArmada?;§YFlotte?;;;;;;;;x
+MESSAGERULES_INTERFACE_LABEL;§YÐÅÏ¢¹æÔò§!;§YRègles des messages?;§YNachrichtenregeln?;;§YReglas de mensaje?;;;;;;;;;x
+SPECIAL_INTEREST_CHARACTERS_INTERFACE_LABEL;§YÌØ±ð¹Ø×¢ÈËÎï§!;§YPersonnages importants?;§YCharaktere von besonderem Interesse?;;§YPersonajes especialmente interesantes?;;;;;;;;;x
+OL_COURT_INTERFACE_LABEL;§Y¹¬Í¢§!;§YCour?;§YHof?;;§YCorte?;;;;;;;;;x
+OL_MP_PLAYERLIST_INTERFACE_LABEL;§Y¶àÈËÓÎÏ·Íæ¼Ò§!;§YJoueurs si multijoueur?;§YSpieler im Multiplayermodus?;;§YJugadores en multijugador?;;;;;;;;;x
+OL_DISABLED_ALERTS_INTERFACE_LABEL;§Y¹Ø±ÕµÄ¾¯±¨§!;§YAlertes désactivés?;§YDeaktivierte Alarme?;;§YAvisos desactivados?;;;;;;;;;x
+MESSWINDOW_HIGHPRIO_INTERFACE_LABEL;§Y¸ßÓÅÏÈ¼¶ÐÅÏ¢§!;§YMessages de haute priorité§!;§YNachrichten mit hoher Priorität?;;§YMensajes de alta prioridad?;;;;;;;;;x
+MESSWINDOW_LOWPRIO_INTERFACE_LABEL;§YµÍÓÅÏÈ¼¶ÐÅÏ¢§!;§YMessages de basse priorité§!;§YNachrichten mit niedriger Priorität?;;§YMensajes de baja prioridad?;;;;;;;;;x
+FC_FIND_CHARACTERS_INTERFACE_LABEL;§YÑ°ÕÒ½ÇÉ«§!;§YTrouver des personnages?;§YCharakter Suchen?;;§YEncontrar personajes?;;;;;;;;;x
+MAIN_MENU_INTERFACE_LABEL;§YÖ÷²Ëµ¥§!;§YMenu principal?;§YHauptmenü§!;;§YMen?principal?;§YMenu principale?;;;;;;;;x
+ZOOM_IN_INTERFACE_LABEL;§Y¾µÍ·À­½ü§!;§YEffectuer un zoom avant?;§YVergrößern?;§YPowiêksz?;§YAcerca el zum?;§YIngrandire?;§YKözelítés?;§YZaostøit nablízko?;;;;;;x
+ZOOM_OUT_INTERFACE_LABEL;§Y¾µÍ·ÍÆÔ¶§!;§YEffectuer un zoom arrière?;§YVerkleinern?;§YPomniejsz?;§YAleja el zum?;§YRidurre?;§YTávolítás?;§YZaostøit na dálku?;;;;;;x
+HOME_INTERFACE_LABEL;§YÇ°Íù¼ÒÏçÊ¡·Ý§!;§YAller ?la province d'origine?;§YZur Heimatprovinz Gehen?;;§YIr a la Provincia de Origen?;§YAndare alla Capitale?;;;;;;;;x
+LEDGER_MENU_INTERFACE_LABEL;§Y·ÖÀà±í¸ñ§!;§YGrand livre?;§YArchiv?;;§YLibro de contabilidad?;§YRegistro?;;;;;;;;x
+LOGGER_MENU_INTERFACE_LABEL;§YÏûÏ¢ÈÕÖ¾§!;§YJournal des messages?;§YNachrichten-Log?;;§YRegistro de mensajes?;;;;;;;;;x
+FIND_PROVINCE_INTERFACE_LABEL;§YËÑË÷Í·ÏÎ»òµØÇø§!;§YTrouver un titre ou une région?;§YTitel oder Region suchen?;;§YEncuentra título o región?;;;;;;;;;x
+OPEN_CHRONICLE_INTERFACE_LABEL;§Y´ò¿ª±àÄêÊ·§!;§YOuvrir la chronique?;§YOffene Chronik?;;§YAbrir Crónica?;;;;;;;;x
+DYNASTYTREE_INTERFACE_LABEL;§Y¼Ò×åÊ÷§!;§YArbre dynastique?;§YDynastieübersicht?;;§YÁrbol dinástico?;;;;;;;;;x
+FAMILYTREE_INTERFACE_LABEL;§Y¼ÒÍ¥Ê÷§!;§YArbre familial?;§YStammbaum?;;§YÁrbol genealógico?;;;;;;;;;x
+REALM_TREE_INTERFACE_LABEL;§Y·Ö·âÊ÷§!;§YArbre hiérarchique?;§YReichsübersicht?;;§YÁrbol del Reino?;;;;;;;;;x
 b_qinggil;ÇàºÓ;Qinggil;Qinggil;;Qinggil;;;;;;;;;x
 b_koktokay;¿É¿ÉÍÐº£;Koktokay;Koktokay;;Koktokay;;;;;;;;;x
 b_burqin;²¼¶û½ò;Burqin;Burqin;;Burqin;;;;;;;;;x
@@ -242,17 +242,17 @@ b_khar;¹þ¶û;Khar;Khar;;Khar;;;;;;;;;x
 b_mankhan;Âüº¹;Mankhan;Mankhan;;Mankhan;;;;;;;;;x
 b_darvi;´ï¶ûÎ¬;Darvi;Darvi;;Darvi;;;;;;;;;x
 b_khaliun;¹þÂ×;Khaliun;Khaliun;;Khaliun;;;;;;;;;x
-HAS_LESS_SETTLEMENTS;ÉÙÓÚ§Y$VAL$?µØ²ú¡£;Moins de §Y$VAL$? propriétés.;Weniger als §Y$VAL$? Gebäude.;;Menos de §Y$VAL$? posesiones.;;;;;;;;;x
-HAS_LEAST_SETTLEMENTS;ÖÁÉÙ§Y$VAL$?µØ²ú;Au moins §Y$VAL$? propriétés.;Mindestens §Y$VAL$? Gebäude.;;§Y$VAL$? posesiones como máximo.;;;;;;;;;x
+HAS_LESS_SETTLEMENTS;ÉÙÓÚ§Y$VAL$§!µØ²ú¡£;Moins de §Y$VAL$? propriétés.;Weniger als §Y$VAL$? Gebäude.;;Menos de §Y$VAL$? posesiones.;;;;;;;;;x
+HAS_LEAST_SETTLEMENTS;ÖÁÉÙ§Y$VAL$§!µØ²ú;Au moins §Y$VAL$? propriétés.;Mindestens §Y$VAL$? Gebäude.;;§Y$VAL$? posesiones como máximo.;;;;;;;;;x
 CAPTAIN_female; ;;;;;;;;;;;;;x
-messalian_FEATURES;§Y*? Å®ÐÔ¿ÉÒÔµ£ÈÎÊàÃÜÔºÖ°Îñ\n§Y*? Å®ÐÔ¿ÉÒÔ´øÁì¾ü¶Ó;§Y*? Les femmes peuvent occuper tous les postes du Conseil\n§Y*? Les femmes peuvent mener des armées au combat;§Y*? Frauen können alle Ratspositionen bekleiden\n§Y*? Frauen können Armeen befehligen;;§Y*? Las mujeres pueden ocupar todos los puestos de consejero\n§Y*?Las mujeres pueden dirigir ejércitos;;;;;;;;;x
-CONFIRM_BUILD_EXTRA_PRESTIGE_OR_PIETY_HOLDING_DESC;ÄãÈ·¶¨Ïë½¨Á¢Ò»×ù$TYPE$£¿\nËü½«»¨·ÑÄã§Y$COST$?²¢½«ÓÚ§Y$FINISHED$?Íê³É;Voulez-vous vraiment établir une propriét?de type '$TYPE$'?\nVous devrez payer §Y$COST$? et cela s'achèvera le §Y$FINISHED$?;$TYPE$ wirklich bauen?\nDies kostet §Y$COST$?, Fertigstellung am §Y$FINISHED$?.;;¿Estás seguro/a de que desea construir un/a $TYPE$?\n Te costar?§Y$COST$? y estar?terminado en §Y$FINISHED$?;;;;;;;;;x
+messalian_FEATURES;§Y*§! Å®ÐÔ¿ÉÒÔµ£ÈÎÊàÃÜÔºÖ°Îñ\n§Y*§! Å®ÐÔ¿ÉÒÔ´øÁì¾ü¶Ó;§Y*? Les femmes peuvent occuper tous les postes du Conseil\n§Y*? Les femmes peuvent mener des armées au combat;§Y*? Frauen können alle Ratspositionen bekleiden\n§Y*? Frauen können Armeen befehligen;;§Y*? Las mujeres pueden ocupar todos los puestos de consejero\n§Y*?Las mujeres pueden dirigir ejércitos;;;;;;;;;x
+CONFIRM_BUILD_EXTRA_PRESTIGE_OR_PIETY_HOLDING_DESC;ÄãÈ·¶¨Ïë½¨Á¢Ò»×ù$TYPE$£¿\nËü½«»¨·ÑÄã§Y$COST$§!²¢½«ÓÚ§Y$FINISHED$§!Íê³É;Voulez-vous vraiment établir une propriét?de type '$TYPE$'?\nVous devrez payer §Y$COST$? et cela s'achèvera le §Y$FINISHED$?;$TYPE$ wirklich bauen?\nDies kostet §Y$COST$?, Fertigstellung am §Y$FINISHED$?.;;¿Estás seguro/a de que desea construir un/a $TYPE$?\n Te costar?§Y$COST$? y estar?terminado en §Y$FINISHED$?;;;;;;;;;x
 EVTDESC_HL_10501B;[eloper.GetFirstName]Óë³ôÃûÕÑÖøµÄ¹ÍÓ¶±ø[From.GetFirstName]Ë½±¼ÁË¡£;[eloper.GetFirstName] a fui avec le célèbre mercenaire [From.GetFirstName].;[eloper.GetFirstName] ist mit dem berüchtigten Söldner [From.GetFirstName] durchgebrannt.;;[eloper.GetFirstName] se fug?con el famoso mercenario [From.GetFirstName].;;;;;;;;;x
 #recently_burnt_the_land_not_owner;Recently Burned the Land;Terre br?l¨¦e r¨¦cemment;Steckte vor kurzem das Land in Brand;;Tierra recientemente quemada;;;;;;;;;x;
-PRESTIGE_LAW_PASSED_LOG;§Y$RULER$?ÒÑ¾­ÔÚ§Y$TITLE$?ÖÆ¶©ÁË§Y$LAW$?·¨¡£;§Y$RULER$? a institu?la loi §Y$LAW$? en §Y$TITLE$?.;§Y$RULER$? hat das §Y$LAW$? Gesetz in §Y$TITLE$? eingeführt.;;§Y$RULER$? ha instituido la  ley §Y$LAW$? en §Y$TITLE$?.;;;;;;;;;x
+PRESTIGE_LAW_PASSED_LOG;§Y$RULER$§!ÒÑ¾­ÔÚ§Y$TITLE$§!ÖÆ¶©ÁË§Y$LAW$§!·¨¡£;§Y$RULER$? a institu?la loi §Y$LAW$? en §Y$TITLE$?.;§Y$RULER$? hat das §Y$LAW$? Gesetz in §Y$TITLE$? eingeführt.;;§Y$RULER$? ha instituido la  ley §Y$LAW$? en §Y$TITLE$?.;;;;;;;;;x
 EVTTITLE_HL_1031;ÀÇÖ®[From.GetSonDaughter]£¿;[From.GetSonDaughter] du Loup?;[From.GetSonDaughter] einer Wölfin?;;¿[From.GetSonDaughter] de la loba?;;;;;;;;;x
 EVTNAME62923;¿¨Ë¹Ìá¶ûÖ®[From.PrimaryTitle.GetTier];Le [From.PrimaryTitle.GetTier] de Castille;Das [From.PrimaryTitle.GetTier] von Kastilien;;El [From.PrimaryTitle.GetTier] de Castilla;;;;;;;;;x
 EVTNAME62925;ÆÏÌÑÑÀÖ®[From.PrimaryTitle.GetTier];Le [From.PrimaryTitle.GetTier] du Portugal;Das [From.PrimaryTitle.GetTier] von Portugal ;;El [From.PrimaryTitle.GetTier] de Portugal;;;;;;;;;x
 EVTNAME62927;°¢À­¹±Ö®[From.PrimaryTitle.GetTier];Le [From.PrimaryTitle.GetTier] d'Aragon;Das [From.PrimaryTitle.GetTier] von Aragon;;El [From.PrimaryTitle.GetTier] de Aragón;;;;;;;;;x
 CONTAINS_UNAVAILABLE_DECISION_UNLOCKS;½âËøÎ´¶ÔÄã½ÇÉ«¿ª·ÅµÄ¾öÒé;Débloque des décisions actuellement non disponibles pour votre personnage.;Entriegelt Entscheidungen die jetzt für Ihre Charakter nicht verfügbar sind.;;Desbloquea decisiones que no están actualmente disponibles para su personaje.;;;;;;;;;x
-LAND_OF_CLAN;§YÓÉ$CLAN$?²¿×å³ÖÓÐµÄÓÎÄÁÊ¡·Ý;§YComtés nomades détenus par le clan $CLAN$?;§YNomadische Grafschaften unter der Kontrolle von Klan $CLAN$?;;§YCondados nómadas poseídos por clan $CLAN$?;;;;;;;;;x
+LAND_OF_CLAN;§YÓÉ$CLAN$§!²¿×å³ÖÓÐµÄÓÎÄÁÊ¡·Ý;§YComtés nomades détenus par le clan $CLAN$?;§YNomadische Grafschaften unter der Kontrolle von Klan $CLAN$?;;§YCondados nómadas poseídos por clan $CLAN$?;;;;;;;;;x

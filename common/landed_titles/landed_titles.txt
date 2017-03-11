@@ -3739,18 +3739,18 @@ e_germany = {
 				color2={ 255 255 255 }
 			
 				b_wien = {
-					norse = Wien
-					swedish = Wien
-					danish = Wien
-					norwegian = Wien
-					german = Wien
-					lombard = Wien
-					old_frankish = Wien
-					suebi = Wien
-					dutch = Wenen
-					frisian = Wenen
-					saxon = Wien
-					old_saxon = Wien
+					norse = Î¬¶÷
+					swedish = Î¬¶÷
+					danish = Î¬¶÷
+					norwegian = Î¬¶÷
+					german = Î¬¶÷
+					lombard = Î¬¶÷
+					old_frankish = Î¬¶÷
+					suebi = Î¬¶÷
+					dutch = Î¬ÄÜ
+					frisian = Î¬ÄÜ
+					saxon = Î¬¶÷
+					old_saxon = Î¬¶÷
 				}
 				b_linz = {
 				}
@@ -6369,7 +6369,7 @@ e_byzantium = {
 				color={ 168 87 50 }
 				color2={ 255 255 255 }
 				
-				turkish = "Kars"
+				turkish = "¿¨¶ûË¹"
 				
 				b_midjnaberd = {
 				}
@@ -6707,11 +6707,11 @@ e_byzantium = {
 				polish = "Ë÷·ÆÑÇ"
 				
 				b_serdica = {
-					bulgarian = "Sofia"
-					serbian = "Sofia"
-					croatian = "Sofia"
-					russian = "Sofia"
-					polish = "Sofia"
+					bulgarian = "Ë÷·ÆÑÇ"
+					serbian = "Ë÷·ÆÑÇ"
+					croatian = "Ë÷·ÆÑÇ"
+					russian = "Ë÷·ÆÑÇ"
+					polish = "Ë÷·ÆÑÇ"
 				}
 				b_velbazhd = {
 				}
@@ -8663,38 +8663,38 @@ e_italy = {
 				color = { 232 190 25 }
 				color2={ 255 255 255 }
 				
-				italian = Firenze
-				castillan = Florencia
-				catalan = Florencia
-				basque = Florencia
-				portuguese = Florencia
-				visigothic = Florencia
-				roman = Florentiae
-				swedish = Florens
-				norse = Florens
-				german = Florenz
-				lombard = Florens
-				old_frankish = Florens
-				suebi = Florens
-				saxon = Florens
-				old_saxon = Florens
+				italian = ôäÀä´ä
+				castillan = ·ğÂŞÂ×ÆëÑÇ
+				catalan = ·ğÂŞÂ×ÆëÑÇ
+				basque = ·ğÂŞÂ×ÆëÑÇ
+				portuguese = ·ğÂŞÂ×ÆëÑÇ
+				visigothic = ·ğÂŞÂ×ÆëÑÇ
+				roman = ·ğÂŞÂ×Ìá°£
+				swedish = ·ğÂŞÂ×Ë¹
+				norse = ·ğÂŞÂ×Ë¹
+				german = ·ğÂŞÂ×Ë¹
+				lombard = ·ğÂŞÂ×Ë¹
+				old_frankish = ·ğÂŞÂ×Ë¹
+				suebi = ·ğÂŞÂ×Ë¹
+				saxon = ·ğÂŞÂ×Ë¹
+				old_saxon = ·ğÂŞÂ×Ë¹
 					
 				b_firenze = {
-					italian = Firenze
-					castillan = Florencia
-					catalan = Florencia
-					basque = Florencia
-					portuguese = Florencia
-					visigothic = Florencia
-					roman = Florentiae
-					swedish = Florens
-					norse = Florens
-					german = Florenz
-					lombard = Florens
-					old_frankish = Florens
-					suebi = Florens
-					saxon = Florens
-					old_saxon = Florens
+	                italian = ôäÀä´ä
+					castillan = ·ğÂŞÂ×ÆëÑÇ
+					catalan = ·ğÂŞÂ×ÆëÑÇ
+					basque = ·ğÂŞÂ×ÆëÑÇ
+					portuguese = ·ğÂŞÂ×ÆëÑÇ
+					visigothic = ·ğÂŞÂ×ÆëÑÇ
+					roman = ·ğÂŞÂ×Ìá°£
+					swedish = ·ğÂŞÂ×Ë¹
+					norse = ·ğÂŞÂ×Ë¹
+					german = ·ğÂŞÂ×Ë¹
+					lombard = ·ğÂŞÂ×Ë¹
+					old_frankish = ·ğÂŞÂ×Ë¹
+					suebi = ·ğÂŞÂ×Ë¹
+					saxon = ·ğÂŞÂ×Ë¹
+					old_saxon = ·ğÂŞÂ×Ë¹
 				}
 				b_arezzo = {
 				}
@@ -28482,7 +28482,7 @@ e_britannia = {
 				b_hexham = {
 				}
 				b_newcastle = {
-					saxon="Corbridge"
+					saxon="¿Æ²¼ÀïÆæ"
 				}
 				b_alnwick = {
 				}
@@ -30211,9 +30211,9 @@ e_britannia = {
 					irish = "À³¸ñ°²À­Èö"
 				}
 				b_rannoch = {
-					pictish = "Redan"
-					welsh = "Rhedyn"
-					irish = "Raineach"
+					pictish = "ÀÕµ¤"
+					welsh = "ÀÕ¶¡"
+					irish = "À³ÄáÆæ"
 				}
 				b_strathardle = {
 					pictish = "°®¶¹µØ"
@@ -37572,10 +37572,10 @@ e_deccan = {
 				color={ 140 75 95 }
 				color2={ 255 255 255 }
 				
-				tamil = Kallikkottai 
+				tamil = Ù¤Á¦‘xÌ«
 				
 				b_calicut = {
-					tamil = Kallikkottai 
+					tamil = Ù¤Á¦‘xÌ« 
 				}
 				b_nediyiruppu = {
 				}
