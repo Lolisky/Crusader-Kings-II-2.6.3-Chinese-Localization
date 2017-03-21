@@ -18,13 +18,13 @@ ca_culture_nubian_2;Å¬±ÈÑÇÕ½Ê¿±øÓª;Caserne des guerriers nubiens;Nubische Kriege
 ca_culture_nubian_3;Å¬±ÈÑÇÕ½Ê¿±øÓª;Caserne des guerriers nubiens;Nubische Kriegerbaracken;;Barracas de Guerreros Nubios;;;;;;;;;x
 ca_culture_nubian_4;Å¬±ÈÑÇÕ½Ê¿±øÓª;Caserne des guerriers nubiens;Nubische Kriegerbaracken;;Barracas de Guerreros Nubios;;;;;;;;;x
 ca_culture_nubian_1_desc;ÕâÐ©±øÓªÊÇ¹Å´úÅ¬±ÈÑÇÕ½Ê¿´«Í³µÄÅàÑøºÍ·¢Õ¹µÄµØ·½¡£Å¬±ÈÑÇ×Ô¹Å´úÆð¾ÍÒÔÆä¾«Õ¿µÄ¹­¼ýÊÖ¶ø±¸ÊÜ×ð¾´£¬ÆäËûµÄ¾«Ó¢²½±ø²¿¶ÓÒ²µÃµ½ÑµÁ·ÒÔÖ§»¤ÕâÒ»Å¬±ÈÑÇÍ³ÖÎÕßµÄÓÐÁ¦ÎäÆ÷¡£;Cette caserne est le lieu o?les anciennes traditions des guerriers nubiens sont encouragées et développées. Depuis les anciens temps, la Nubie est respectée pour la qualit?magistrale de ses archers. D'autres unités d'infanterie d'élite sont entrainées et exercées ?soutenir cette puissante arme des dirigeants nubiens.;In diesen Barracken werden die traditionellen Nubischen Krieger ausgebildet. Nubien ist seit der Antike für seine fähigen Bogenschützen bekannt, so dass seine besten Soldaten darauf gedrillt werden, die mächtigste Waffe der Nubischen Herrscher auf dem Schlachtfeld zu unterstützen.;;En estas barracas es donde se desarrollan y mejoran las tradiciones militares nubias. Nubia es respetada por sus brillantes arqueros, y otras unidades deélite en infantería son entranados para el uso de esta potente arma de los gobernantes nubios.;;;;;;;;;x
-;#NOT_VARIABLE;§Y$VAR$? is less than §Y$VALUE$?;;§Y$VAR$? ist kleiner als §Y$VALUE$?;;§Y$VAR$? es menor que §Y$VALUE$?;;;;;;;;;x;
-;#VARIABLE;§Y$VAR$? is at least §Y$VALUE$?;;§Y$VAR$? ist mindestens §Y$VALUE$?;;§Y$VAR$? es al menos de §Y$VALUE$?;;;;;;;;;x;
-;#SET_VARIABLE;Set §Y$VAR$? to §Y$VALUE$?;;Setzt §Y$VAR$? auf Wert §Y$VALUE$?;;Adjuste de §Y$VAR$? a §Y$VALUE$?;;;;;;;;;x;
-;#CHANGE_VARIABLE;Change §Y$VAR$? with §Y$VALUE$?;;?ndert §Y$VAR$? um §Y$VALUE$?;;Cambio de §Y$VAR$? con §Y$VALUE$?;;;;;;;;;x;
-;#SUBTRACT_VARIABLE;Subtract §Y$VALUE$? from §Y$VAR$?;;Reduziert §Y$VAR$? um §Y$VALUE$?;;Reste §Y$VALUE$? de §Y$VAR$?;;;;;;;;;x;
-;#MULTIPLY_VARIABLE;Multiply §Y$VAR$? with §Y$VALUE$?;;Multipliziert §Y$VAR$? mit §Y$VALUE$?;;Multiplicar §Y$VAR$? con §Y$VALUE$?;;;;;;;;;x;
-;#DIVIDE_VARIABLE;Divide §Y$VAR$? with §Y$VALUE$?;;Teilt §Y$VAR$? durch §Y$VALUE$?;;Divide §Y$VAR$? con §Y$VALUE$?;;;;;;;;;x;
+;#NOT_VARIABLE;§Y$VAR$§! is less than §Y$VALUE$§!;;§Y$VAR$? ist kleiner als §Y$VALUE$?;;§Y$VAR$? es menor que §Y$VALUE$?;;;;;;;;;x;
+;#VARIABLE;§Y$VAR$§! is at least §Y$VALUE$§!;;§Y$VAR$? ist mindestens §Y$VALUE$?;;§Y$VAR$? es al menos de §Y$VALUE$?;;;;;;;;;x;
+;#SET_VARIABLE;Set §Y$VAR$§! to §Y$VALUE$§!;;Setzt §Y$VAR$? auf Wert §Y$VALUE$?;;Adjuste de §Y$VAR$? a §Y$VALUE$?;;;;;;;;;x;
+;#CHANGE_VARIABLE;Change §Y$VAR$§! with §Y$VALUE$§!;;?ndert §Y$VAR$? um §Y$VALUE$?;;Cambio de §Y$VAR$? con §Y$VALUE$?;;;;;;;;;x;
+;#SUBTRACT_VARIABLE;Subtract §Y$VALUE$§! from §Y$VAR$§!;;Reduziert §Y$VAR$? um §Y$VALUE$?;;Reste §Y$VALUE$? de §Y$VAR$?;;;;;;;;;x;
+;#MULTIPLY_VARIABLE;Multiply §Y$VAR$§! with §Y$VALUE$§!;;Multipliziert §Y$VAR$? mit §Y$VALUE$?;;Multiplicar §Y$VAR$? con §Y$VALUE$?;;;;;;;;;x;
+;#DIVIDE_VARIABLE;Divide §Y$VAR$§! with §Y$VALUE$§!;;Teilt §Y$VAR$? durch §Y$VALUE$?;;Divide §Y$VAR$? con §Y$VALUE$?;;;;;;;;;x;
 ;#TRIGGER_DYNASTY_HEAD;Head of Dynasty;;Oberhaupt der Dynastie;;Jefe de la Dinast¨ªa;;;;;x;
 ;#NUM_OF_MAX_SETTLEMENTS_AT_LEAST;Max holdings at least §Y$VAL$?;;Anzahl der maximalen Besitzt¨¹mer mindestens §Y$VAL$?;;Max propiedades al menos §Y$VAL$?;;;;;x;
 ;#NUM_OF_MAX_SETTLEMENTS_LESS_THAN;Max holdings less than §Y$VAL$?;;Anzahl der maximalen Besitzt¨¹mer geringer als §Y$VAL$?;;Max propiedades menos de §Y$VAL$?;;;;;x;
@@ -33,8 +33,8 @@ ca_culture_nubian_1_desc;ÕâÐ©±øÓªÊÇ¹Å´úÅ¬±ÈÑÇÕ½Ê¿´«Í³µÄÅàÑøºÍ·¢Õ¹µÄµØ·½¡£Å¬±ÈÑÇ×
 ;#DONT_BORDERS_MAJOR_RIVER;Does NOT border major river;;Grenzt NICHT an einen schiffbaren Fluss an;;NO bordea un r¨ªo importante;;;;;x;
 ;#BORDERS_MAJOR_RIVER;Borders major river;;Grenzt an einen schiffbaren Fluss an;;Bordea un r¨ªo importante;;;;;x;
 ;#SET_GRAPHICAL_CULTURE;Set graphical culture to §Y$NAME$?;;Setzt dargestellte Kulturgrafik auf §Y$NAME$?;;Establezca gr¨¢fica Cultura a §Y$NAME$?;;;;;x;
-;#IS_VARIABLE_EQUAL;§Y$VAR$? is equal to §Y$VALUE$?;;§Y$VAR$? is gleich Wert §Y$VALUE$?;;§Y$VAR$? es igual a §Y$VALUE$?;;;;;;;;;x;
-;#NOT_IS_VARIABLE_EQUAL;§Y$VAR$? is NOT equal to §Y$VALUE$?;;§Y$VAR$? is NICHT gleich Wert §Y$VALUE$?;;§Y$VAR$? NO es igual a §Y$VALUE$?;;;;;;;;;x;
+;#IS_VARIABLE_EQUAL;§Y$VAR$§! is equal to §Y$VALUE$§!;;§Y$VAR$? is gleich Wert §Y$VALUE$?;;§Y$VAR$? es igual a §Y$VALUE$?;;;;;;;;;x;
+;#NOT_IS_VARIABLE_EQUAL;§Y$VAR$§! is NOT equal to §Y$VALUE$§!;;§Y$VAR$? is NICHT gleich Wert §Y$VALUE$?;;§Y$VAR$? NO es igual a §Y$VALUE$?;;;;;;;;;x;
 ;#NOT_IS_LOOTING;Is NOT looting;;Pl¨¹ndert NICHT;;NO est¨¢ saqueando;;;;;x;
 ;#IS_LOOTING;Is looting;;Pl¨¹ndert;;Est¨¢ saqueando;;;;;x;
 ;#NOT_IS_LOOTING_IN;Is NOT looting in §Y$PROVINCE$?;;Pl¨¹ndert NICHT in §Y$PROVINCE$?;;NO est¨¢ saqueros en §Y$PROVINCE$?;;;;;x;
@@ -46,11 +46,11 @@ ca_culture_nubian_1_desc;ÕâÐ©±øÓªÊÇ¹Å´úÅ¬±ÈÑÇÕ½Ê¿´«Í³µÄÅàÑøºÍ·¢Õ¹µÄµØ·½¡£Å¬±ÈÑÇ×
 ;#ANY_ALLIED_CHARACTER_STARTS;Any Allied Character;;Beliebiger verb¨¹ndeter Charakter;;Cualquier aliado;;;;;x;
 ;#LOSES_NICKNAME;Will no longer be known as;;Wird nicht mehr unter folgendem Namen bekannt sein:;;No seguir¨¢ siendo conocido como;;;;;;;;;x;
 ;#LOSTNICKNAME_SETUP;Nickname Lost;;Spitzname verloren;;Apodo perdido;;;;;;;;;x;
-;#LOSTNICKNAME_LOG;§Y$CHARACTERNAME$? is no longer known as $NICKNAME$.;;§Y$CHARACTERNAME$? ist nicht l?nger als ''$NICKNAME$'' bekannt;;§Y$CHARACTERNAME$? ya no es conocido como $NICKNAME$.;;;;;;;;;x;
+;#LOSTNICKNAME_LOG;§Y$CHARACTERNAME$§! is no longer known as $NICKNAME$.;;§Y$CHARACTERNAME$? ist nicht l?nger als ''$NICKNAME$'' bekannt;;§Y$CHARACTERNAME$? ya no es conocido como $NICKNAME$.;;;;;;;;;x;
 ;#LIEGE_ENDED_WAR_PARTICIPATION_SETUP;Liege ended war participation;;Lehensherr beendete seine Kriegsteilnahme;;Tu se?or puso fin a la participaci¨®n en la guerra;;;;;;;;;x;
-;#LIEGE_ENDED_WAR_PARTICIPATION_LOG;§Y$VASSAL$? is no longer a participant in §YThe $WAR$? as $PRONOUN$ liege §Y$LIEGE$? joined the war as §Y$SIDE$?.;;§Y$VASSAL$? nimmt nicht l?nger am Krieg §Y''$WAR$''? teil, da $PRONOUN$ Lehensherr ''§Y$LIEGE$?'' dem Krieg als ''§Y$SIDE$?'' beigetreten ist.;;§Y$VASSAL$? ya no es un participante en §Yla guerre $WAR$?, como su se?or §Y$LIEGE$? se uni¨® a la guerra como §Y$SIDE$?.;;;;;;;;;x;
+;#LIEGE_ENDED_WAR_PARTICIPATION_LOG;§Y$VASSAL$§! is no longer a participant in §YThe $WAR$§! as $PRONOUN$ liege §Y$LIEGE$§! joined the war as §Y$SIDE$§!.;;§Y$VASSAL$? nimmt nicht l?nger am Krieg §Y''$WAR$''? teil, da $PRONOUN$ Lehensherr ''§Y$LIEGE$?'' dem Krieg als ''§Y$SIDE$?'' beigetreten ist.;;§Y$VASSAL$? ya no es un participante en §Yla guerre $WAR$?, como su se?or §Y$LIEGE$? se uni¨® a la guerra como §Y$SIDE$?.;;;;;;;;;x;
 ;#LIEGE_ENDED_WAR_SETUP;Liege ended the war;;Lehensherr beendet Krieg;;Tu se?or puso fin a la guerra;;;;;;;;;x;
-;#LIEGE_ENDED_WAR_LOG;§YThe $WAR$? has ended as §Y$LIEGE$? joined the war as §Y$SIDE$?.;;Der Krieg §Y''$WAR$''? endete da §Y$LIEGE$? dem Krieg als §Y''$SIDE$''? beigetreten ist. ;;§YLa guerre $WAR$? ha terminado como §Y$LIEGE$? se uni¨® a la guerra como §Y$SIDE$?.;;;;;;;;;x;
+;#LIEGE_ENDED_WAR_LOG;§YThe $WAR$§! has ended as §Y$LIEGE$§! joined the war as §Y$SIDE$§!.;;Der Krieg §Y''$WAR$''? endete da §Y$LIEGE$? dem Krieg als §Y''$SIDE$''? beigetreten ist. ;;§YLa guerre $WAR$? ha terminado como §Y$LIEGE$? se uni¨® a la guerra como §Y$SIDE$?.;;;;;;;;;x;
 ;#INTERACTION_CANNOT_JOIN_VASSAL_WAR;We cannot join our vassals' wars (except for Crusades/Jihads and for supporting their claims outside your realm);;Wir k?nnen nicht in Kriege unserer Vasallen eintreten (Ausnahme: Kreuzzug/Dschihad oder um ihre Anspr¨¹che au?erhalb eures Reiches durchzusetzen).;;No podemos unirnos a las guerras de nuestros vasallos (Salvo Cruzadas/Jihads o para apoyar reclamaciones territoriales fuera de nuestros dominios);;;;;;;;;x;
 temple_baron_slavic_pagan;ÈøÂú;Chaman;Schamane;;Chamán;;;;;;;;;x
 temple_baron_slavic_pagan_reformed;ÈøÂú;Chaman;Schamane;;Chamán;;;;;;;;;x

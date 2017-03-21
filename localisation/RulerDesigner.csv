@@ -65,7 +65,7 @@ RD_TRAITS;ÌØÖÊ;Traits;Charakterzüge;;Rasgos;;;;;;;;;x
 RD_FINISH;Íê³É;Terminer;Fertig;;Finalizar;;;;;;;;;x
 RD_IS_MALE;ÈËÎïÎªÄĞĞÔ£¬µã»÷ÒÔ¸Ä±ä;Le personnage est un homme, cliquez pour avoir une femme.;Charakter ist männlich, hier klicken um das zu ändern;;El personaje es varón, pincha para cambiarlo;;;;;;;;;x
 RD_IS_FEMALE;ÈËÎïÎªÅ®ĞÔ£¬µã»÷ÒÔ¸Ä±ä;Le personnage est une femme, cliquez pour avoir un homme.;Charakter ist weiblich, hier klicken um das zu ändern;;El personaje es hembra, pincha para cambiarlo;;;;;;;;;x
-RD_NOT_PLAYABLE;§R²»ÄÜ°çÑİĞÅ·î´Ë×Ú½ÌµÄÈËÎï?;§RLes personnages de cette religion ne sont pas jouables.?;§RDiese Religion ist nicht spielbar?;;¡§REsta Religión no es jugable?;;;;;;;;;x
+RD_NOT_PLAYABLE;§R²»ÄÜ°çÑİĞÅ·î´Ë×Ú½ÌµÄÈËÎï§!;§RLes personnages de cette religion ne sont pas jouables.?;§RDiese Religion ist nicht spielbar?;;¡§REsta Religión no es jugable?;;;;;;;;;x
 RD_OPEN_RULER_DESIGNER;´ò¿ªÈËÎï±à¼­Æ÷;Ouvrir le créateur de personnage;Herrscher-Baukasten öffnen;;Abrir el Editor de Gobernantes;;;;;;;;;x
 RD_CHANGE_GRAPHICAL_CULTURE;¸ü»»ÎÄ»¯Í¼±ê;Changer l'apparence culturelle;Grafische Kultur ändern;;Cambiar los gráficos culturales;;;;;;;;;x
 RD_CHANGE_CULTURE;¸ü»»ÎÄ»¯;Changer la culture;Kultur ändern;;Cambiar Cultura;;;;;;;;;x
@@ -80,8 +80,8 @@ RD_RESET;ÖØÖÃ;Réinitialisation;Zurücksetzen;;Vuelta al Inicio;;;;;;;;;x
 RD_FAIL_NO_NAME;ÄãĞèÒªÉè¶¨´ËÈËÎïµÄÃû×Ö;Vous devez attribuer un prénom au personnage.;Sie müssen einen Vornamen angeben;;Necesitas ponerle un nombre;;;;;;;;;x
 RD_FAIL_NO_DYN_NAME;ÄãĞèÒªÉè¶¨´ËÈËÎïµÄ¼Ò×åÃû;Vous devez attribuer un nom ?la dynastie du personnage.;Sie müssen den Namen einer Dynastie angeben;;Necesitas ponerle una dinastía;;;;;;;;;x
 RD_RULER_DESIGNER;Í³ÖÎÕßÉè¼ÆÆ÷;Créateur de personnage;Herrscher-Baukasten;;Editor de Gobernantes;;;;;;;;;x
-RD_FAIL_NO_UNPLAYABLE;§R²»ÄÜ×Ô¶¨Òå²»¿É°çÑİÈËÎï?;§RImpossible de personnaliser les personnages non jouables?;§RNicht spielbare Charaktere sind nicht veränderbar?;;§RNo puedes editar personajes no jugables?;;;;;;;;;x
-RD_FAIL_NO_DLC;§RÄãĞèÒªÈËÎï±à¼­Æ÷DLC?;§RNécessite le créateur de personnage (contenu téléchargeable)?;§RSie benötigen den Herrscher-Baukasten DLC um diese Funktion zu nutzen?;;¡§RNecesitas el DLC Editor de Gobernantes para usarlo?;;;;;;;;;x
+RD_FAIL_NO_UNPLAYABLE;§R²»ÄÜ×Ô¶¨Òå²»¿É°çÑİÈËÎï§!;§RImpossible de personnaliser les personnages non jouables?;§RNicht spielbare Charaktere sind nicht veränderbar?;;§RNo puedes editar personajes no jugables?;;;;;;;;;x
+RD_FAIL_NO_DLC;§RÄãĞèÒªÈËÎï±à¼­Æ÷DLC§!;§RNécessite le créateur de personnage (contenu téléchargeable)?;§RSie benötigen den Herrscher-Baukasten DLC um diese Funktion zu nutzen?;;¡§RNecesitas el DLC Editor de Gobernantes para usarlo?;;;;;;;;;x
 RD_FAIL_SAME_NAME;²»ÄÜÓë±»Ìæ»»µÄÈËÎïÍ¬Ãû;Ne peut avoir le même nom que le personnage qu'il remplace;Sie können nicht den selben Namen angeben wie der des Charakters den sie ersetzen;;No puede llamarse igual que el personaje al que estás reemplazando;;;;;;;;;x
 RD_CHANGE_SONS;¸Ä±ä´ËÈËÎïµÄ¶ù×ÓÊıÁ¿;Changer le nombre de fils qu'a ce personnage;Die Anzahl der Söhne des Charakters verändern;;Cambia el número de hijos del personaje;;;;;;;;;x
 RD_CHANGE_DAUGHTERS;¸Ä±ä´ËÈËÎïµÄÅ®¶ùÊıÁ¿;Changer le nombre de filles qu'a ce personnage;Die Anzahl der Töchter des Charakters verändern;;Cambia el número de hijas del personaje;;;;;;;;;x

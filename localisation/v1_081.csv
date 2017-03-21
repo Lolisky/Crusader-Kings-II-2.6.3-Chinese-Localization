@@ -1,7 +1,7 @@
 ;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 FACTION_LEADERSHIP_CHANGE_SETUP;ÅÉÏµÍÆ¾ÙÁËÒ»Î»ÐÂÁìÐä;La faction a besoin d'un nouveau chef;Die Fraktion bekommt einen neuen Anführer;;Esta facción necesita un líder nuevo;;;;;;;;;x
-FACTION_LEADERSHIP_CHANGE_LOG;§Y$CHARNAME$? ÒÑ¾­³ÉÎª $OBJECTIVE$ ÁìÐä.;§Y$CHARNAME$? est devenu le nouveau chef de la faction pour '$OBJECTIVE$'.;§Y$CHARNAME$? wird zum neuen Anführer der '$OBJECTIVE$'-Fraktion.;;§Y$CHARNAME$? se ha convertido en el nuevo líder de la facción '$OBJECTIVE$';;;;;;;;;x
-BUILDING_PREREQ_FAIL;(§RX?)ÓµÓÐ §G$BUILDING$?;(§RX?) §Y$BUILDING$? est déj?construit;(§RX?)§G$BUILDING$? wurde gebaut;;(§RX?)Necesita §G$BUILDING$?;;;;;;;;;x
+FACTION_LEADERSHIP_CHANGE_LOG;§Y$CHARNAME$§! ÒÑ¾­³ÉÎª $OBJECTIVE$ ÁìÐä.;§Y$CHARNAME$? est devenu le nouveau chef de la faction pour '$OBJECTIVE$'.;§Y$CHARNAME$? wird zum neuen Anführer der '$OBJECTIVE$'-Fraktion.;;§Y$CHARNAME$? se ha convertido en el nuevo líder de la facción '$OBJECTIVE$';;;;;;;;;x
+BUILDING_PREREQ_FAIL;(§RX§!)ÓµÓÐ §G$BUILDING$§!;(§RX?) §Y$BUILDING$? est déj?construit;(§RX?)§G$BUILDING$? wurde gebaut;;(§RX?)Necesita §G$BUILDING$?;;;;;;;;;x
 IS_NOT_AT_SEA;²»ÔÚº£ÉÏ;N'est pas en mer;Befindet sich NICHT auf See;;NO est?en navegando;;;;;;;;;x
 IS_AT_SEA;ÔÚº£ÉÏ;Est en mer;Befindet sich auf See;;Est?navegando;;;;;;;;;x
 SongsOfTheRusDLC;ÂÞË¹ÒôÀÖDLC;Chansons de Russie;Lieder der Rus;;Canciones de Rus;;;;;;;;;x

@@ -1,5 +1,5 @@
 ;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
-RCLK_TO_SELECT;§Gµã»÷Êó±êÓÒ¼ü½øĞĞÑ¡Ôñ?;§GClic droit pour sélectionner?;§GRechtsklickt zur auswahl?;;§GHaz clic derecho para seleccionar?;;;;;;;;;x
+RCLK_TO_SELECT;§Gµã»÷Êó±êÓÒ¼ü½øĞĞÑ¡Ôñ§!;§GClic droit pour sélectionner?;§GRechtsklickt zur auswahl?;;§GHaz clic derecho para seleccionar?;;;;;;;;;x
 vassal_sacrifice_decision;ÎşÉü;Sacrifier;Opfert;;Sacrifica;;;;;;;;;x
 vassal_sacrifice_decision_named;Ï×¼À [Root.GetFirstName];Sacrifier [Root.GetFirstName];Opfert [Root.GetFirstName];;Sacrifica a [Root.GetFirstName];;;;;;;;;x
 break_up_with_lover_named;Óë [Root.GetFirstName] ·ÖÊÖ;Rompre avec [Root.GetFirstName];Von [Root.GetFirstName] trennen;;Romper la relación con [Root.GetFirstName];;;;;;;;;x
@@ -29,7 +29,7 @@ dishonorable_duel_tooltip;Õâ±»ÈÏÎªÊÇ²»³ÏĞÅµÄĞĞÎª,»áÒıÆğËûÈËµÄ·´¸Ğ.;Ceci est cons
 desc_thrill_of_lover;[GetFirstName] Í¨¹ıÓë[GetPossPronoun] ÇéÈË×öÒ»Ğ©ĞßĞßµÄÊÂÇéÀ´´ÓÕù³³²»¶ÏµÄ»éÒöÖĞ»ñµÃÔİÊ±µÄ½âÍÑ.;[GetFirstName] souffre d'un mariage tumultueux et retrouve l'excitation dans une liaison.;[GetFirstName] flüchtet [GetPossPronoun] stürmische Ehe und findet Abenteuer in den Armen [GetPossPronoun] Geliebten.;;[GetFirstName], sufriendo un matrimonio tempestuoso, ha encontrado la emoción en los brazos de un amante.;;;;;;;;;x
 CIW_GOTOLOCATION_DEL;À­½üÏÔÊ¾½ÇÉ«ÔÚµØÍ¼ÉÏµÄÎ»ÖÃ.;Trouver l'emplacement du personnage sur la carte.;Finde Standort des Charakters auf der Karte.;;Encontrar a la ubicación del personaje en el mapa.;;;;;;;;;x
 CIW_GOTOCHARREL_DEL;²é¿´ÆäËû½ÇÉ«¶Ô±¾½ÇÉ«µÄ¿´·¨.;Voir les opinions envers ce personnage.;Die Meinungen der anderen Charaktere zu diesem Charakter Sehen.;;Ver las opiniones de otros personajes sobre este personaje.;;;;;;;;;x
-;#alert_available_targetted_decision_instant;§YSpecial Actions Possible?;;§YSpezielle Aktionen M?glich?;;§YAcciones Especiales Posibles?;;;;;;;;;x;
+;#alert_available_targetted_decision_instant;§YSpecial Actions Possible§!;;§YSpezielle Aktionen M?glich?;;§YAcciones Especiales Posibles?;;;;;;;;;x;
 ;#alert_available_targetted_decision_delayed;The following special actions are available:\n$LIST$;;Die folgenden besonderen Aktionen stehen zur Verf¨¹gung:\n$LIST$;;Las siguientes acciones especiales est¨¢n disponibles:\n$LIST$;;;;;;;;;x;
 CAN_CALL_VASSALS_TO_WAR;ÎÒÃÇËùÓĞµÄ·â³¼;Tous nos vassaux;Alle unsere Vasallen;;Todos nuestros vasallos;;;;;;;;;x
 IS_NOT_A_FOE_OF;²»ÊÇµĞÈË ;N'est pas un adversaire de ;Ist NICHT ein Feind von ;;NO es un enemigo de ;;;;;;;;;x
