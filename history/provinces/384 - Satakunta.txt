@@ -1,0 +1,30 @@
+# 384 - Satakunta
+
+# County Title
+title = c_satakunta
+
+# Settlements
+max_settlements = 3
+b_liinmaa = tribal
+
+#b_ulvila = city
+
+#b_kiukainen = temple
+#b_pori = city
+#b_telja = castle
+#b_hahlo = castle
+#b_hiittenharju = castle
+#b_kankaanpaa = castle
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+terrain = forest
+
+# History
+1158.1.1 = { religion = catholic }	#Northern Crusades
+1158.1.1 = { name = "ÈøËşÀ¥´ï" }
+1187.1.1 = { b_ulvila = city }
+1300.1.1 = {
+	b_liinmaa = castle
+}

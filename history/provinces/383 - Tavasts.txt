@@ -1,0 +1,32 @@
+# 383 - Tavasts
+
+# County Title
+title = c_tavasts
+
+# Settlements
+max_settlements = 3
+b_hameenlinna = tribal
+
+#b_vanaja = temple
+#b_lahti = city
+
+#b_mattila = castle
+#b_harviala = castle
+#b_vesilahti = city
+#b_haikonen = castle
+#b_hattula = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+terrain = forest
+
+# History
+1187.1.1 = { b_vanaja = city }
+1250.1.1 = { religion = catholic }	#Northern Crusades
+1250.1.1 = { name = "ËşÍßË¹ÌØÀ¼" }
+1300.1.1 = {
+	b_hameenlinna = castle
+}
+1311.1.1 = { remove_settlement = b_vanaja }
+1311.1.1 = { b_lahti = city }

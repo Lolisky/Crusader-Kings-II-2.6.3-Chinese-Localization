@@ -1,0 +1,31 @@
+# 390 - Savolaks
+
+# County Title
+title = c_savolaks
+
+# Settlements
+max_settlements = 2
+
+b_olavinlinna = tribal
+
+#b_mikkeli = city
+
+#b_savitaipale = temple
+#b_brahelinna = castle
+#b_sotkamo = castle
+#b_iisalmi = temple
+#b_kuopio = city
+#b_sysma = castle
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+terrain = forest
+
+# History
+1292.1.1 = { religion = catholic }	#Northern Crusades
+1292.1.1 = { name = "ÈøÎÖÀ­¿ËË¹" }
+1300.1.1 = {
+	b_olavinlinna = castle
+}
+1337.1.1 = { b_mikkeli = city }
