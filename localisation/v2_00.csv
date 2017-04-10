@@ -146,9 +146,9 @@ INTERACTION_REQUIRES_RECIPIENT_UNMARRIED;§Y[Recipient.GetTitledFirstName]? ±ØĞëÎ
 INTERACTION_REQUIRES_RECIPIENT_PRISONER_OR_NOT_HEIR;§Y[Recipient.GetTitledFirstName]§! ²»ÄÜ±»¹ØÑº, Ò²²»ÄÜÊÇÈÎºÎÍ·ÏÎµÄ¼Ì³ĞÈË;§Y[Recipient.GetTitledFirstName]? est en prison ou n'est pas l'héritier d'un quelconque titre;§Y[Recipient.GetTitledFirstName]? muss entweder Gefangener sein oder kein Erbe eines Titels;;El §Y[Recipient.GetTitledFirstName]? debe ser un prisionero o no ser heredero de ningún título;;;;;;;;;x
 INTERACTION_REQUIRES_NO_REGENT;§Y[Actor.GetTitledFirstName]§! ²»ÄÜ±»ÉãÕş;§Y[Actor.GetTitledFirstName]? n'est pas sous régence;§Y[Actor.GetTitledFirstName]? darf keinen Regenten haben;;El §Y[Actor.GetTitledFirstName]? no puede tener regente;;;;;;;;;x
 monk;ĞŞÊ¿;Moine;Mönch;;Monje;;;;;;;;;x
-monk_desc;´ËÈËÉú»îÔÚĞŞµÀÔºÖĞ£¬Ã»ÈË¼Ì³ĞÈ¨¡£;Cet homme passe ses journées ?prier. Il a renonc??toute forme d'héritage classique.;Dieser Mann lebt in einem Kloster und ist von der normalen Erbfolge ausgeschlossen.;;Este hombre agota sus últimos días en un monasterio, descalificado de la herencia normal.;;;;;;;;;x
+monk_desc;´ËÈËÉú»îÔÚĞŞµÀÔºÖĞ£¬Ã»ÓĞ¼Ì³ĞÈ¨¡£;Cet homme passe ses journées ?prier. Il a renonc??toute forme d'héritage classique.;Dieser Mann lebt in einem Kloster und ist von der normalen Erbfolge ausgeschlossen.;;Este hombre agota sus últimos días en un monasterio, descalificado de la herencia normal.;;;;;;;;;x
 nun;ĞŞÅ®;Nonne;Nonne;;monja;;;;;;;;;x
-nun_desc;´ËÈËÉú»îÔÚĞŞµÀÔºÖĞ£¬Ã»ÈË¼Ì³ĞÈ¨¡£;Cette femme passe ses journées ?prier. Elle a renonc??tout héritage classique.;Diese Frau lebt in einem Kloster und ist von der normalen Erbfolge ausgeschlossen.;;Esta mujer agota sus últimos días en un monasterio, descalificado de la herencia normal.;;;;;;;;;x
+nun_desc;´ËÈËÉú»îÔÚĞŞµÀÔºÖĞ£¬Ã»ÓĞ¼Ì³ĞÈ¨¡£;Cette femme passe ses journées ?prier. Elle a renonc??tout héritage classique.;Diese Frau lebt in einem Kloster und ist von der normalen Erbfolge ausgeschlossen.;;Esta mujer agota sus últimos días en un monasterio, descalificado de la herencia normal.;;;;;;;;;x
 AIREASON_FOUND_MY_CALLING;ÏìÓ¦ÎÒµÄÇëÇó;J'ai trouv?ma voie;Habe meine Berufung gefunden;;He encontrado mi vocación;;;;;;;;;x
 d_bektashi;°İ¿ËËşÊ²½ÌÍÅ;Confrérie bektachie;Bektaschi-Orden;;Orden Bektashi;;;;;;;;;x
 d_bektashi_adj;°İ¿ËËşÊ²;bektachie;Bektaschi;;Bektashi;;;;;;;;;x
