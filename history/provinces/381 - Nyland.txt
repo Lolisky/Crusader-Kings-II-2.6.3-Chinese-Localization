@@ -1,0 +1,41 @@
+# 381 - Nyland
+
+# County Title
+title = c_nyland
+
+# Settlements
+max_settlements = 4
+
+b_raseborg = tribal
+b_porvoo = temple
+
+#b_espoo = city
+
+#b_helsinge = castle
+#b_svartholm = castle
+#b_siuntio = castle
+#b_hanko = city
+#b_lohja = city
+
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History
+1100.1.1 = {
+	b_raseborg = castle
+	b_espoo = city
+	
+	b_raseborg = ca_keep_1
+	b_raseborg = ca_militia_barracks_1
+	b_raseborg = ca_wall_1
+	b_raseborg = ca_wall_q_1
+	b_espoo = ct_barracks_1
+	b_porvoo = tp_barracks_1
+}
+1158.1.1 = { religion = catholic }	#Northern Crusades
+1158.1.1 = { name = "ÄáÀ¼" }
+1187.1.1 = { b_espoo = city }
+1288.1.1= { trade_post = b_wittenborg }
+1337.1.1 = { b_porvoo = city }

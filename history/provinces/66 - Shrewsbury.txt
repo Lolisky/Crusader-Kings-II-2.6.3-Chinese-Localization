@@ -1,0 +1,30 @@
+# 66 - Shrewsbury
+
+# County Title
+title = c_shrewsbury
+
+# Settlements
+max_settlements = 4
+b_wenlock = castle
+#b_ludlow = castle
+#b_shrewsbury = city
+#b_clun = castle
+#b_bridgnorth = castle
+#b_oswestry = castle
+#b_whitchurch = castle
+#b_chirk = castle
+
+# Misc
+culture = welsh
+religion = catholic
+
+# History
+#100.1.1 = { name = "ÅíÎ¬¶÷" }
+#808.1.1 = { name = "Ê²ÂÞÆÕ¿¤" }
+808.1.1 = { culture = saxon }
+808.1.1 = { b_ludlow = castle }
+808.1.1 = { remove_settlement = b_wenlock }
+810.1.1 = { b_wenlock = temple }
+811.1.1 = { b_shrewsbury = city }
+1100.11.11 = { culture = english }
+#1100.11.11 = { name = "Ê²Â³Ë¹²®Àï" }

@@ -1,0 +1,37 @@
+# 392 - Kexholm
+
+# County Title
+title = c_kexholm
+
+# Settlements
+max_settlements = 3
+
+b_kakisalmi = tribal
+b_raivola = temple
+
+#b_koivisto = city 	#1187
+#b_antrea = city
+#b_jekaborg = castle
+#b_toksovo = castle
+#b_terijoki = castle
+#b_taipale = castle
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+terrain = forest
+
+# History
+1187.1.1 = {
+	b_kakisalmi = castle
+	b_koivisto = city
+	
+	b_kakisalmi = ca_keep_1
+	b_kakisalmi = ca_militia_barracks_1
+	b_kakisalmi = ca_wall_1
+	b_kakisalmi = ca_wall_q_1
+	b_raivola = tp_barracks_1
+}
+1292.1.1 = { religion = catholic }	#Northern Crusades
+1292.1.1 = { name = "¿Ë¿ËË¹»ô¶ûÄ·" }
+1303.1.1= { trade_post = b_wittenborg }

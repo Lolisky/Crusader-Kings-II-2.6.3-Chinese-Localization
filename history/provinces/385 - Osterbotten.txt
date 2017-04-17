@@ -1,0 +1,31 @@
+# 385 - Österbotten
+
+# County Title
+title = c_osterbotten
+
+# Settlements
+max_settlements = 3
+
+b_oulu = tribal
+
+#b_nykarleby = city
+
+#b_kristinestad = temple 
+#b_korsholm = castle
+#b_kalajoki = castle
+#b_jakobstad = castle
+#b_veteli = castle
+#b_liminka = city
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+terrain = forest
+
+# History
+1158.1.1 = { name = "°ÂË¹ÌØ²©ëø" }
+1250.1.1 = {
+	religion = catholic 	#Northern Crusades
+	b_oulu = castle
+}
+1337.1.1 = { b_nykarleby = city }

@@ -1,0 +1,50 @@
+# 796 - Cairo
+
+# County Title
+title = c_cairo
+
+# Settlements
+max_settlements = 7
+b_fustat = castle
+b_helwan = castle
+b_heliopolis = temple
+b_memphis = temple
+b_maadi = city
+
+#b_cairo = castle
+#b_tekkekyahudiyya = castle
+#b_merimdabenisalama = castle
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History
+
+867.1.1 = { name = "¸£Ë¹ËþÌØ" }
+909.1.1 = { religion = shiite }
+969.1.1 = { name = "¿ªÂÞ" b_cairo = castle capital = b_cairo b_fustat = city }
+
+1066.1.1 = { 
+	b_cairo = ca_keep_1
+	b_cairo = ca_training_grounds_1
+	b_cairo = ca_stable_1
+	b_cairo = ca_wall_1
+	b_cairo = ca_wall_2
+	b_cairo = ca_militia_barracks_1
+	b_fustat = ct_wall_1
+	b_fustat = ct_barracks_1
+	b_memphis = tp_monastery_1
+	b_memphis = tp_monastery_2
+	b_memphis = tp_wall_1
+	b_memphis = tp_barracks_1
+	b_heliopolis = tp_wall_1
+	b_heliopolis = tp_barracks_1
+	b_helwan = ca_keep_1
+	b_helwan = ca_training_grounds_1
+	b_helwan = ca_stable_1
+	b_helwan = ca_wall_2
+	b_helwan = ca_militia_barracks_1
+}
+
+1171.1.1 = { religion = sunni }

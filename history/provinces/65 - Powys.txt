@@ -1,0 +1,28 @@
+# 65 - Powys
+
+# County Title
+title = c_powys
+
+# Settlements
+max_settlements = 4
+b_mathrafal = castle
+
+#b_caersws = castle
+b_llangollen = temple
+#b_llandinam = castle
+#b_glascwm = castle
+#b_montgomery = castle
+b_radnor = city
+#b_rhayader = castle
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = mountain
+
+# History
+100.1.1={ name = "ÌØÄá¶ûÂ¬¸ñ" }
+808.1.1={ name = "²¨ÒÁË¹" }
+1212.1.1={ b_rhayader= castle }
+1227.1.1={ b_montgomery = castle }
+1295.1.1={ remove_settlement = b_montgomery } # fell into disrepair, used as a prison

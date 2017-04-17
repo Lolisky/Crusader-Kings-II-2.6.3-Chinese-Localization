@@ -1,0 +1,41 @@
+# 378 - Reval
+
+# County Title
+title = c_reval
+
+# Settlements
+max_settlements = 4
+b_toompea = tribal
+#b_reval = city
+#b_hapsal = temple
+
+#b_leal = temple
+#b_borpeal = castle
+#b_laane = city
+#b_pades = city
+#b_parnaw = castle
+
+# Misc
+culture = ugricbaltic
+religion = finnish_pagan
+
+# History
+1066.1.1 = { trade_post = b_strabain }
+1097.1.1 = { trade_post = -1 }
+1219.1.1 = { 
+	#Danish conquest
+	b_reval = city 
+	name = "ÀïÍß¶û"
+}
+1278.1.1= { trade_post = b_wittenborg }
+1279.1.1 = {
+	religion = catholic
+	b_toompea = castle
+	b_hapsal = temple       #bishopric of Ösel
+	b_toompea = ca_keep_1
+	b_toompea = ca_militia_barracks_1
+	b_toompea = ca_wall_1
+	b_toompea = ca_wall_q_1
+	b_reval = ct_barracks_1
+	b_hapsal = tp_barracks_1
+}
