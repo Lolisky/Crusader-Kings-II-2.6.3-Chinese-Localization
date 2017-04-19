@@ -2563,7 +2563,7 @@
 }
 
 204499 = {
-	name="Emme" #Emme d'Anjou
+	name="艾美" #Emme d'Anjou
 	female=yes
 	dynasty=106
 	religion="catholic"
@@ -4438,7 +4438,7 @@
 }
 
 205746 = {
-	name="阿利克斯" #a daughter without name, spouse of 工藤新一 le Bref de L閛n
+	name="阿利克斯" #a daughter without name, spouse of Conan le Bref de L閛n
 	female=yes
 	dynasty=317 #Rennes house of Penthi鑦re
 	religion="catholic"
@@ -25434,7 +25434,7 @@
 		birth="1129.1.1"
 	}
 	1135.12.2 = {
-		name="Eustace"
+		name="尤斯塔斯"
 
 		culture="norman"
 	}
@@ -26376,7 +26376,7 @@
 }
 
 7978 = {
-	name="莉西勒蒂"
+	name="莉琪尔蒂丝"
 
 	female=yes
 	dynasty=7052
@@ -29842,7 +29842,7 @@
 }
 
 91134 = {
-	name="Harvise" #Harvise d'蓈reux
+	name="哈外丝" #Harvise d'蓈reux
 	# AKA: Harvise d'Evreux
 	female=yes
 	dynasty=22001
@@ -38668,7 +38668,7 @@
 }
 
 91326 = {
-	name="Edelburge" #Edelburge de Bourges
+	name="埃德比尔格" #Edelburge de Bourges
 	female=yes
 	dynasty=100139 #Bourges
 	religion="catholic"
@@ -41226,7 +41226,7 @@
 }
 
 144968 = {
-	name="Renard"
+	name="雷纳德"
 
 	dynasty=796
 	religion="catholic"
@@ -44668,7 +44668,7 @@
 
 
 161967 = {
-	name="工藤新一"
+	name="柯南"
 
 	dynasty=1029990 #de Grandson
 	culture="frankish"
@@ -45169,7 +45169,7 @@
 
 
 167892 = {
-	name="翁洛赫"
+	name="昂鲁沃赫"
 
 	dynasty=9561
 	religion="catholic"
@@ -47646,7 +47646,7 @@
 }
 
 168717={
-	name="Ingunde"
+	name="音衮德"
 	female=yes
 	dynasty=542
 
@@ -47665,7 +47665,7 @@
 }
 
 168726={
-	name="Chlodoswintha"
+	name="克罗多斯文萨"
 	female=yes
 	dynasty=542
 
@@ -47683,7 +47683,7 @@
 	}
 }
 73786={
-	name="Salomon"
+	name="萨罗门"
 	dynasty=629
 
 	religion=catholic
@@ -47697,7 +47697,7 @@
 	}
 }
 127019={
-	name="Bernard"
+	name="伯纳德"
 	dynasty=100217
 
 	father=163063
@@ -47722,7 +47722,7 @@
 	}
 }
 183345 = {
-	name="Geoffroy"
+	name="若弗鲁瓦"
 	# AKA: Geoffroy IV 'Martel'
 	dynasty=723
 	religion="catholic"
