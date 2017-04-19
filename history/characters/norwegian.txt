@@ -1765,7 +1765,7 @@
 }
 
 202052 = {
-	name="西居尔"
+	name="希格德"
 	dynasty=1030031
 	martial=7
 	diplomacy=7
@@ -1834,7 +1834,7 @@
 }
 
 202501 = {
-	name="西居尔" # 'Munn'
+	name="希格德" # 'Munn'
 	dynasty=499
 	martial=4
 	diplomacy=4
@@ -1876,7 +1876,7 @@
 }
 
 202503 = {
-	name="西居尔" # Lavard
+	name="希格德" # Lavard
 	dynasty=499
 	martial=5
 	diplomacy=8
@@ -2604,7 +2604,7 @@
 }
 
 222595 = {
-	name="西居尔"
+	name="希格德"
 	# AKA: Sigurd 玛格努斯son
 	dynasty=499
 	martial=6
@@ -2726,7 +2726,7 @@
 }
 
 232686 = {
-	name="Uspak"
+	name="乌斯帕克"
 	dynasty=3109 # MacDougall
 	martial=7
 	diplomacy=4
@@ -2747,7 +2747,7 @@
 }
 
 40610 = {
-	name="耿娜"
+	name="贡纳尔"
 	dynasty=108
 	martial=6
 	diplomacy=9
@@ -2935,7 +2935,7 @@
 }
 
 450670 = {
-	name="司格"
+	name="希格德"
 	# AKA: Sigurd Haftorsson
 	dynasty=145
 	martial=7
@@ -3500,7 +3500,7 @@
 }
 
 450805 = {
-	name="尼欧司"
+	name="尼斯"
 	# AKA: Nils Torleifsson
 	dynasty=127
 	martial=6
@@ -5100,7 +5100,7 @@
 	}
 }
 194313 = {
-	name="Arnvid"
+	name="阿恩维特"
 	dynasty=1045068 # av Rogen
 	religion=catholic
 	culture=norwegian
@@ -5112,7 +5112,7 @@
 	}
 }
 194314 = {
-	name="Haldor"
+	name="豪督"
 	dynasty=1045069 # av Bergen
 	religion=catholic
 	culture=norwegian
@@ -5124,7 +5124,7 @@
 	}
 }
 194315 = {
-	name="Haldor"
+	name="豪督"
 	dynasty=1045070 # av Eidsborg
 	religion=catholic
 	culture=norwegian
@@ -5136,7 +5136,7 @@
 	}
 }
 194316 = {
-	name="Torgil"
+	name="托尔吉尔"
 	dynasty=1045071 # av Finnmark
 	religion=catholic
 	culture=norwegian
@@ -5148,7 +5148,7 @@
 	}
 }
 194317 = {
-	name="Ragnar"
+	name="拉格纳"
 	dynasty=1045072 # av R鴖t
 	religion=catholic
 	culture=norwegian
@@ -5161,7 +5161,7 @@
 }
 
 188876 = {
-	name="Godred"
+	name="戈沃德"
 	dynasty=556 # Crovan
 	religion="catholic"
 	culture="norwegian"
@@ -5218,7 +5218,7 @@
 }
 
 214086 = {
-	name = "Sigurd"
+	name = "希格德"
 	dynasty = 1043504
 	religion = catholic
 	culture = norse
