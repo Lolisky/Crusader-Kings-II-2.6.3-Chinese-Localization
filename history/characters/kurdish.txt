@@ -1,5 +1,5 @@
 41600 = {
-	name="Sawur" #?awur #Ebu'l-Eswar 
+	name="沙乌尔" #?awur #Ebu'l-Eswar 
 	# AKA: Abu'l
 	dynasty=1029029
 	martial=4
@@ -22,7 +22,7 @@
 }
 
 41601 = {
-	name="Fezl" #Fadl
+	name="费兹勒" #Fadl
 	dynasty=1029029
 	martial=4
 	diplomacy=5
@@ -42,7 +42,7 @@
 }
 
 41602 = {
-	name="Fezl" #Fadl
+	name="费兹勒" #Fadl
 	dynasty=1029029
 	martial=3
 	diplomacy=6
@@ -60,7 +60,7 @@
 }
 
 41603 = {
-	name="Menueihr" #Menūēihr #Manuchihr
+	name="曼努切什" #Menūēihr #Manuchihr
 	dynasty=1029029
 	martial=2
 	diplomacy=5
@@ -80,7 +80,7 @@
 }
 
 41604 = {
-	name="Sawur" #Ebu'l-Eswar 
+	name="沙乌尔" #Ebu'l-Eswar 
 	# AKA: Abu'l-Asvar Shavur
 	dynasty=1029029
 	martial=3
@@ -100,7 +100,7 @@
 }
 
 41605 = {
-	name="Wahsudan"
+	name="瓦苏丹"
 	dynasty=7513 # Justanid
 	martial=7
 	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
@@ -197,7 +197,7 @@
 }
 
 93521 = {
-	name="Mehmud" #Mahmud
+	name="梅穆德" #Mahmud
 	dynasty=1029029
 	religion="sunni"
 	culture="kurdish"
@@ -211,7 +211,7 @@
 }
 
 20722 = {
-	name="Mamlan"
+	name="马穆兰"
 	dynasty=101868
 	martial=4
 	diplomacy=7
@@ -231,7 +231,7 @@
 }
 
 144057 = {
-	name="Ebu-Memsur" #Ebu-Memsūr#Abu-Mamsur
+	name="艾布-门苏什" #Ebu-Memsūr#Abu-Mamsur
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -245,7 +245,7 @@
 }
 
 144058 = {
-	name="Surxap" #Surkhab
+	name="苏泽普" #Surkhab
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -259,7 +259,7 @@
 }
 
 93196 = {
-	name="Muhalhil"
+	name="木哈希"
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -273,7 +273,7 @@
 }
 
 93197 = {
-	name="Badr"
+	name="巴德什"
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -287,7 +287,7 @@
 }
 
 93198 = {
-	name="Annaz"
+	name="安纳斯"
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -301,7 +301,7 @@
 }
 
 3854 = {
-	name="Ebu-Abbas"
+	name="艾布-阿巴斯"
 	# AKA: Abu Abbas
 	dynasty=101690
 	martial=5
@@ -321,7 +321,7 @@
 
 
 93229 = {
-	name="Mehmud Nizamedin" #Mehmūd Nīzamedīn
+	name="梅穆德·尼扎梅丁" #Mehmūd Nīzamedīn
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -335,7 +335,7 @@
 }
 
 93230 = {
-	name="Hezarhesp Mubaraz ad-Din"
+	name="赫扎赫斯普·穆巴拉扎-丁"
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -349,7 +349,7 @@
 }
 
 93231 = {
-	name="Hasanuya"
+	name="哈散努亚"
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -363,7 +363,7 @@
 }
 
 93232 = {
-	name="Mubaraz"
+	name="穆巴拉兹"
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -377,7 +377,7 @@
 }
 
 93233 = {
-	name="Mihemed" #real name unknown
+	name="弥赫麦特" #real name unknown
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -391,7 +391,7 @@
 }
 
 93234 = {
-	name="Mihemed Muzaffar ad-Din" 
+	name="弥赫麦特·穆扎法拉-丁" 
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -405,7 +405,7 @@
 }
 
 93235 = {
-	name="Mubaraz Qutb ad-Din" 
+	name="穆巴拉兹·库特巴-丁" 
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -419,7 +419,7 @@
 }
 
 93236 = {
-	name="Hasanuya" 
+	name="哈散努亚" 
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -433,7 +433,7 @@
 }
 
 93237 = {
-	name="Ebrahim" 
+	name="厄卜拉欣" 
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -447,7 +447,7 @@
 }
 
 93238 = {
-	name="Isamail" # īsmaīl
+	name="伊斯玛仪" # īsmaīl
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -461,7 +461,7 @@
 }
 
 93239 = {
-	name="Nizamedin" #Nīzamedīn
+	name="尼扎梅丁" #Nīzamedīn
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -475,7 +475,7 @@
 }
 
 93240 = {
-	name="Erdeir Malik" #Ardashir Malik
+	name="艾德希·马里科" #Ardashir Malik
 	dynasty=101690
 	religion="sunni"
 	culture="kurdish"
@@ -489,7 +489,7 @@
 }
 
 93199 = {
-	name="Mihemed" #Muhammad
+	name="弥赫麦特" #Muhammad
 	dynasty=7333
 	religion="sunni"
 	culture="kurdish"
@@ -502,7 +502,7 @@
 }
 
 93200 = {
-	name="Ebu-Tehir" #Abu-Tahir
+	name="艾布-特希什" #Abu-Tahir
 	dynasty=7333
 	religion="sunni"
 	culture="kurdish"
@@ -516,7 +516,7 @@
 }
 
 93201 = {
-	name="Nesreddin Hezarhesp" #Nasr-ad-Din Hazarasp
+	name="内斯勒丁·赫扎赫斯普" #Nasr-ad-Din Hazarasp
 	dynasty=7333
 	religion="sunni"
 	culture="kurdish"
@@ -530,7 +530,7 @@
 }
 
 93202 = {
-	name="Tekele"
+	name="特克勒"
 	dynasty=7333
 	religion="sunni"
 	culture="kurdish"
@@ -544,7 +544,7 @@
 }
 
 93203 = {
-	name="Elp-Ergun"
+	name="艾普-艾贡"
 	dynasty=7333
 	religion="sunni"
 	culture="kurdish"
@@ -558,7 +558,7 @@
 }
 
 93204 = {
-	name="Yusuf Sah" #Yusuf ?ah
+	name="优素福·萨" #Yusuf ?ah
 	dynasty=7333
 	religion="sunni"
 	culture="kurdish"
@@ -572,7 +572,7 @@
 }
 
 93205 = {
-	name="Efrasiyab"
+	name="厄夫拉希亚卜"
 	dynasty=7333
 	religion="sunni"
 	culture="kurdish"
@@ -586,7 +586,7 @@
 }
 
 93206 = {
-	name="Nesreddin Ehmed"
+	name="内斯勒丁·内麦特"
 	dynasty=7333
 	religion="sunni"
 	culture="kurdish"
@@ -600,7 +600,7 @@
 }
 
 93207 = {
-	name="Yusuf Sah"
+	name="优素福·萨"
 	dynasty=7333
 	religion="sunni"
 	culture="kurdish"
@@ -614,7 +614,7 @@
 }
 
 93208 = {
-	name="Efrasiyab"
+	name="厄夫拉希亚卜"
 	dynasty=7333
 	religion="sunni"
 	culture="kurdish"
@@ -628,7 +628,7 @@
 }
 
 226053 = {
-	name="Eyyub Necmedin" #Eyyub Necmed?n # Emir of Baalbek
+	name="艾尤布·内奇梅丁" #Eyyub Necmed?n # Emir of Baalbek
 	# AKA: Ibn Jin'ai Al
 	dynasty=24000
 	martial=6
@@ -648,7 +648,7 @@
 }
 
 20738 = {
-	name="Nesr Ebulqasim Nizamedin"
+	name="内赛尔·雷布卡辛·尼扎梅丁"
 	dynasty=101686
 	martial=7
 	diplomacy=7
@@ -671,7 +671,7 @@
 }
 
 93419 = {
-	name="Mensur Nesr-ed-dewle"
+	name="门苏·内赛尔-雷-丢勒"
 	dynasty=101686
 	religion="sunni"
 	culture="kurdish"
@@ -685,7 +685,7 @@
 }
 
 32911 = {
-	name="Sadi" 
+	name="萨迪" 
 	dynasty=24000
 	religion="sunni"
 	culture="kurdish"
@@ -700,7 +700,7 @@
 }
 
 32912 = {
-	name="Sirkuh Esededin" #Shirkuh Asan-ad-Din
+	name="希库·艾瑟德丁" #Shirkuh Asan-ad-Din
 	dynasty=24000
 	religion="sunni"
 	culture="kurdish"
@@ -714,7 +714,7 @@
 }
 
 32913 = {
-	name="Sahensah Nuredin" #Baalbek
+	name="萨汗萨·乌勒丁" #Baalbek
 	dynasty=24000
 	religion="sunni"
 	culture="kurdish"
@@ -728,7 +728,7 @@
 }
 
 20691 = {
-	name="Surxap"
+	name="苏则普"
 	dynasty=101688
 	martial=8
 	diplomacy=7
@@ -747,7 +747,7 @@
 }
 
 159142 = { 
-	name="Dostik"
+	name="多斯提克"
 	dynasty=1029006
 	religion="shiite"
 	culture="kurdish"
@@ -759,7 +759,7 @@
 	}
 }
 159143 = { 
-	name="Baz"
+	name="巴斯"
 	dynasty=1029006
 	religion="shiite"
 	culture="kurdish"
@@ -772,7 +772,7 @@
 	}
 }
 159144 = { 
-	name="Merwan"
+	name="马尔万"
 	dynasty=101686
 	religion="shiite"
 	culture="kurdish"
@@ -785,7 +785,7 @@
 	}
 }
 159145 = { 
-	name="Hesen Ebu Eli"
+	name="黑森·内布·艾里"
 	dynasty=101686
 	religion="shiite"
 	culture="kurdish"
@@ -798,7 +798,7 @@
 	}
 }
 159146 = { 
-	name="Seid Ebu Eli Mumehid Dewle" #Se?d Eb? El? Mumehidê Dewle
+	name="赛·德布·艾里·穆梅希德·丢勒" #Se?d Eb? El? Mumehidê Dewle
 	dynasty=101686
 	religion="shiite"
 	culture="kurdish"
@@ -811,7 +811,7 @@
 	}
 }
 159147 = { 
-	name="Ehmed Ebu Nesr Nesre Dewle" # Ehmed Eb? Nesr Nesrê Dewle
+	name="艾梅·德布·内赛尔·内赛勒·丢勒" # Ehmed Eb? Nesr Nesrê Dewle
 	dynasty=101686
 	religion="shiite"
 	culture="kurdish"
@@ -824,7 +824,7 @@
 	}
 }
 159148 = { 
-	name="Hisen"
+	name="希森"
 	dynasty=101868
 	religion="sunni"
 	culture="kurdish"
@@ -837,7 +837,7 @@
 	}
 }
 159149 = { 
-	name="Mihemed"
+	name="弥赫麦特"
 	dynasty=101868
 	religion="sunni"
 	culture="kurdish"
@@ -850,7 +850,7 @@
 	}
 }
 159150 = { 
-	name="Hisen"
+	name="希森"
 	dynasty=101868
 	religion="sunni"
 	culture="kurdish"
@@ -863,7 +863,7 @@
 	}
 }
 159151 = { 
-	name="Mamlan"
+	name="马穆兰"
 	dynasty=101868
 	religion="sunni"
 	culture="kurdish"
@@ -876,7 +876,7 @@
 	}
 }
 159152 = { 
-	name="Hisen"
+	name="希森"
 	dynasty=101868
 	religion="sunni"
 	culture="kurdish"
@@ -889,7 +889,7 @@
 	}
 }
 159153 = { 
-	name="Vahusdan"
+	name="瓦乎斯丹"
 	dynasty=101868
 	religion="sunni"
 	culture="kurdish"
@@ -902,7 +902,7 @@
 	}
 }
 159154 = { 
-	name="Ebrahim"
+	name="厄卜拉欣"
 	dynasty=101868
 	religion="sunni"
 	culture="kurdish"
@@ -915,7 +915,7 @@
 	}
 }
 159155 = { 
-	name="Ahmadil"
+	name="阿马迪"
 	dynasty=101868
 	religion="sunni"
 	culture="kurdish"
@@ -928,7 +928,7 @@
 	}
 }
 159156 = { 
-	name="Merwan"
+	name="马尔万"
 	dynasty=101868
 	religion="sunni"
 	culture="kurdish"
@@ -944,7 +944,7 @@
 	}
 }
 159157 = { 
-	name="Mara"
+	name="玛拉"
 	female=yes
 	dynasty=1029029
 	religion="sunni"
@@ -962,7 +962,7 @@
 	}
 }
 159158 = { 
-	name="Hisen"
+	name="希森"
 	dynasty=101868
 	religion="sunni"
 	culture="kurdish"
@@ -975,7 +975,7 @@
 	}
 }
 159159 = { 
-	name="Mihemed"
+	name="弥赫麦特"
 	dynasty=101868
 	religion="sunni"
 	culture="kurdish"
@@ -988,7 +988,7 @@
 	}
 }
 159160 = { 
-	name="Sedad"
+	name="瑟达特"
 	dynasty=1029029
 	religion="sunni"
 	culture="kurdish"
@@ -1001,7 +1001,7 @@
 	}
 }
 159161 = { 
-	name="Mihemed"
+	name="弥赫麦特"
 	dynasty=1029029
 	religion="sunni"
 	culture="kurdish"
@@ -1014,7 +1014,7 @@
 	}
 }
 159162 = { 
-	name="Eli Leskeri" #El? Le?ker?
+	name="艾里·雷斯克里" #El? Le?ker?
 	dynasty=1029029
 	religion="sunni"
 	culture="kurdish"
@@ -1027,7 +1027,7 @@
 	}
 }
 159163 = { 
-	name="Fezl"
+	name="费兹勒"
 	dynasty=1029029
 	religion="sunni"
 	culture="kurdish"
@@ -1040,7 +1040,7 @@
 	}
 }
 159164 = { 
-	name="Musa" #Ebu'l-Feth
+	name="穆萨" #Ebu'l-Feth
 	dynasty=1029029
 	religion="sunni"
 	culture="kurdish"
@@ -1053,7 +1053,7 @@
 	}
 }
 159165 = { 
-	name="Eli Leskeri"
+	name="艾里·雷斯克里"
 	dynasty=1029029
 	religion="sunni"
 	culture="kurdish"
@@ -1066,7 +1066,7 @@
 	}
 }
 159166 = { 
-	name="Enusirwan" # En??irwan
+	name="艾努什尔万" # En??irwan
 	dynasty=1029029
 	religion="sunni"
 	culture="kurdish"
@@ -1079,7 +1079,7 @@
 	}
 }
 159167 = { 
-	name="Esot"
+	name="艾索特"
 	dynasty=1029029
 	religion="sunni"
 	culture="kurdish"
@@ -1093,7 +1093,7 @@
 	}
 }
 159168 = { 
-	name="Merzuban"
+	name="麦祖班"
 	dynasty=1029029
 	religion="sunni"
 	culture="kurdish"
@@ -1106,7 +1106,7 @@
 	}
 }
 159169 = { 
-	name="Bilal Hecebani"
+	name="比拉勒·黑则巴尼"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1118,7 +1118,7 @@
 	}
 }
 159170 = { 
-	name="Mihemed"
+	name="弥赫麦特"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1131,7 +1131,7 @@
 	}
 }
 159171 = { 
-	name="Cakkoya"
+	name="洽寇亚"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1144,7 +1144,7 @@
 	}
 }
 159172 = { 
-	name="Cefer"
+	name="哲法什"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1157,7 +1157,7 @@
 	}
 }
 159173 = { 
-	name="Cako"
+	name="洽寇"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1170,7 +1170,7 @@
 	}
 }
 159174 = { 
-	name="Musk Ebu-Hija"
+	name="穆斯克·艾布-黑加"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1183,7 +1183,7 @@
 	}
 }
 159175 = { 
-	name="Rebib ed-Dewle"
+	name="雷比·贝德-丢勒"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1196,7 +1196,7 @@
 	}
 }
 159176 = { 
-	name="Ebu-Hija"
+	name="艾布-黑加"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1209,7 +1209,7 @@
 	}
 }
 159177 = { 
-	name="Seref ed-Din"
+	name="舍勒菲-丁"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1222,7 +1222,7 @@
 	}
 }
 159178 = { 
-	name="Musa"
+	name="穆萨"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1235,7 +1235,7 @@
 	}
 }
 159179 = { 
-	name="Salar"
+	name="萨拉尔"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1248,7 +1248,7 @@
 	}
 }
 159180 = { 
-	name="Eli Ebul-Hesen"
+	name="艾里·艾布-黑森"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1261,7 +1261,7 @@
 	}
 }
 159181 = { 
-	name="Ebu-Eli Hesen"
+	name="艾布-艾里 黑森"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1274,7 +1274,7 @@
 	}
 }
 159182 = { 
-	name="Ebu-Hija"
+	name="艾布-黑加"
 	dynasty=1029007
 	religion="sunni"
 	culture="kurdish"
@@ -1287,7 +1287,7 @@
 	}
 }
 159196 = { 
-	name="Annaz"
+	name="安纳斯"
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -1299,7 +1299,7 @@
 	}
 }
 159197 = { 
-	name="Ebul-Fath Mihemed"
+	name="艾布-法特·弥赫麦特"
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -1312,7 +1312,7 @@
 	}
 }
 159198 = { 
-	name="Hosam-ed-Dewle Ebul-Sawk Faris"
+	name="霍萨梅-特-丢勒·艾布-肖·法里斯"
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -1326,7 +1326,7 @@
 }
 
 159199 = { 
-	name="Seyyidi"
+	name="塞伊迪"
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -1340,7 +1340,7 @@
 }
 
 159200 = { 
-	name="Faris"
+	name="法里斯"
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -1354,7 +1354,7 @@
 }
 
 159201 = { 
-	name="Ebul-Fath Ebul-Sawk"
+	name="艾布-法特·艾布-肖"
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -1367,7 +1367,7 @@
 	}
 }
 159202 = { 
-	name="Mihemed"
+	name="弥赫麦特"
 	dynasty=101688
 	religion="sunni"
 	culture="kurdish"
@@ -1380,7 +1380,7 @@
 	}
 }
 159547 = {
-	name="Vonones" # II
+	name="沃诺奈斯" # II
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1392,7 +1392,7 @@
 	}
 }
 159548 = {
-	name="Mehrdad" #Mithridates IV
+	name="迈赫达德" #Mithridates IV
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1405,7 +1405,7 @@
 	}
 }
 159549 = {
-	name="Balaxs" #Vagharsh
+	name="巴拉克什" #Vagharsh
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1418,7 +1418,7 @@
 	}
 }
 159550 = {
-	name="Balaxs" # Vologases V
+	name="巴拉克什" # Vologases V
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1431,7 +1431,7 @@
 	}
 }
 159551 = {
-	name="Erdewan" #Ardavan
+	name="阿尔达班" #Ardavan
 	dynasty=1029098
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1444,7 +1444,7 @@
 	}
 }
 159552 = {
-	name="Karen"
+	name="凯伦"
 	dynasty=1029098
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1457,7 +1457,7 @@
 	}
 }
 159553 = {
-	name="Erdewan"
+	name="阿尔达班"
 	dynasty=1029098
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1470,7 +1470,7 @@
 	}
 }
 159554 = {
-	name="Perozamat" 
+	name="佩洛扎马特" 
 	dynasty=1029098
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1483,7 +1483,7 @@
 	}
 }
 159555 = {
-	name="Erdewan" 
+	name="阿尔达班" 
 	dynasty=1029098
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1496,7 +1496,7 @@
 	}
 }
 159556 = {
-	name="Vehsachan" 
+	name="维萨罕" 
 	dynasty=1029098
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1509,7 +1509,7 @@
 	}
 }
 159557 = {
-	name="Perozamat" 
+	name="佩洛扎马特" 
 	dynasty=1029098
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1523,7 +1523,7 @@
 }
 
 180750 = {
-	name="Justan"
+	name="吉斯丹"
 	# Justan I of Gilan
 	dynasty=7513
 	religion="zoroastrian"
@@ -1536,7 +1536,7 @@
 	}
 }
 180751 = {
-	name="Merzuban"
+	name="麦祖班"
 	# ruler of Gilan
 	dynasty=7513
 	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
@@ -1550,7 +1550,7 @@
 	}
 }
 180752 = {
-	name="Justan"
+	name="吉斯丹"
 	# Justan II of Gilan
 	dynasty=7513
 	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
@@ -1564,7 +1564,7 @@
 	}
 }
 180753 = {
-	name="Zerya"	# fictional
+	name="泽尔雅"	# fictional
 	# wife of Musafir Sallarid
 	female=yes
 	dynasty=7513
@@ -1579,7 +1579,7 @@
 	}
 }
 180755 = {
-	name="Justan"
+	name="吉斯丹"
 	# Justan III of Gilan
 	dynasty=7513
 	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
@@ -1594,7 +1594,7 @@
 	}
 }
 180756 = {
-	name="Nazenin"
+	name="娜泽宁"
 	# wife of Muhammad ibn Musafir
 	female=yes
 	dynasty=7513
@@ -1609,7 +1609,7 @@
 	}
 }
 180757 = {
-	name="Ali"
+	name="阿里"
 	# Abbasid governor of Rayy 
 	dynasty=7513
 	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
@@ -1627,7 +1627,7 @@
 	}
 }
 180758 = {
-	name="Khosrow Firuz"
+	name="考斯洛·菲鲁斯"
 	# ruler of Gilan
 	dynasty=7513
 	religion="zoroastrian" # Really Shiite, but we need a suitable Zoroastrian presence in the area
@@ -1642,7 +1642,7 @@
 	}
 }
 180759 = {
-	name="Mahdi"
+	name="马赫迪"
 	# ruler of Gilan
 	dynasty=7513
 	religion="shiite"
@@ -1656,7 +1656,7 @@
 	}
 }
 180760 = {
-	name="Justan"
+	name="吉斯丹"
 	# Justan IV
 	dynasty=7513
 	religion="shiite"
@@ -1670,7 +1670,7 @@
 	}
 }
 180761 = {
-	name="Manadhar"
+	name="马纳塔什"
 	dynasty=7513
 	religion="shiite"
 	culture="kurdish"
@@ -1683,7 +1683,7 @@
 	}
 }
 180762 = {
-	name="Khosrow"
+	name="考斯洛"
 	dynasty=7513
 	religion="shiite"
 	culture="kurdish"
@@ -1696,7 +1696,7 @@
 	}
 }
 180763 = {
-	name="Rojhelat"	# fictional
+	name="洛赫拉特"	# fictional
 	# wife of Wahsudan of Gilan
 	female=yes
 	religion="zoroastrian"
@@ -1709,7 +1709,7 @@
 	}
 }
 180764 = {
-	name="Musafir"
+	name="穆萨菲什"
 	dynasty=1042062
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1724,7 +1724,7 @@
 	}
 }
 180765 = {
-	name="Mihemed"
+	name="弥赫麦特"
 	dynasty=1042062
 	religion="shiite"
 	culture="kurdish"
@@ -1741,7 +1741,7 @@
 	}
 }
 180766 = {
-	name="Merzuban"
+	name="麦祖班"
 	# Sallarid ruler at Aradbil
 	dynasty=1042062
 	religion="shiite"
@@ -1756,7 +1756,7 @@
 	}
 }
 180767 = {
-	name="Wahsudan"
+	name="瓦苏丹"
 	# governor in Tarum
 	dynasty=1042062
 	religion="shiite"
@@ -1772,7 +1772,7 @@
 }
 
 146051 = {
-	name="Khuraym"
+	name="胡莱姆"
 	dynasty=1022363 # Al-Murri or Murrid
 	religion="sunni"
 	culture="kurdish"
@@ -1786,7 +1786,7 @@
 }
 
 146052 = {
-	name="Umara"
+	name="乌马拉"
 	dynasty=1022363
 	religion="sunni"
 	culture="kurdish"
@@ -1800,7 +1800,7 @@
 }
 
 146053 = {
-	name="Uthman"
+	name="乌斯曼"
 	dynasty=1022363
 	religion="sunni"
 	culture="kurdish"
@@ -1813,7 +1813,7 @@
 	}
 }
 188726 = {
-	name="Fezl" # fictitious holder of Kermanshah
+	name="费兹勒" # fictitious holder of Kermanshah
 	dynasty=1042159
 	religion="sunni"
 	culture="kurdish"
@@ -1825,7 +1825,7 @@
 	}
 }
 188656 = {
-	name="Ferid" # fictitious holder of Kermanshah
+	name="菲里特" # fictitious holder of Kermanshah
 	dynasty=1042128 # Kermanibid
 	religion="sunni"
 	culture="kurdish"
@@ -1838,7 +1838,7 @@
 }
 
 188657 = {
-	name="Mistefa" # fictitious holder of Kurdistan
+	name="米斯德法" # fictitious holder of Kurdistan
 	dynasty=1042129 
 	religion="sunni"
 	culture="kurdish"
@@ -1851,7 +1851,7 @@
 }
 
 188658 = {
-	name="Revend" # fictitious holder of Oromeih
+	name="雷文特" # fictitious holder of Oromeih
 	dynasty=1042130 
 	religion="sunni"
 	culture="kurdish"
@@ -1864,7 +1864,7 @@
 }
 
 188659 = {
-	name="Piroz" # fictitious holder of Kirkuk
+	name="皮洛斯" # fictitious holder of Kirkuk
 	dynasty=1042131 
 	religion="sunni"
 	culture="kurdish"
@@ -1877,7 +1877,7 @@
 }
 
 166942 = {
-   name="Absh" #wife of Hyaxemet, son of Hulagu
+   name="阿巴什" #wife of Hyaxemet, son of Hulagu
    female=yes
    dynasty=7333
    religion="sunni"
@@ -1892,7 +1892,7 @@
 }
 
 214051 = {
-	name="Pacorus" # II
+	name="帕科鲁斯" # II
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1906,7 +1906,7 @@
 }
 
 214052 = {
-	name="Axidares"
+	name="阿希达勒斯"
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1920,7 +1920,7 @@
 }
 
 214053 = {
-	name="Parthamasiris"
+	name="帕塔马斯里斯"
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1934,7 +1934,7 @@
 }
 
 214054 = {
-	name="Meredates"
+	name="梅勒达特斯"
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1948,7 +1948,7 @@
 }
 
 214055 = {
-	name="Balax" # Vologases I
+	name="巴拉克什" # Vologases I
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1962,7 +1962,7 @@
 }
 
 214056 = {
-	name="Vardanes" # II
+	name="瓦尔达内斯" # II
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1976,7 +1976,7 @@
 }
 
 214057 = {
-	name="Balax" # Vologases II
+	name="巴拉克什" # Vologases II
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -1990,7 +1990,7 @@
 }
 
 214058 = {
-	name="Osroes" # I
+	name="奥斯罗埃斯" # I
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -2004,7 +2004,7 @@
 }
 
 214059 = {
-	name="Tiridates" # I
+	name="提利达特斯" # I
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -2018,7 +2018,7 @@
 }
 
 214060 = {
-	name="Balax" # Vologases III
+	name="巴拉克什" # Vologases III
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -2032,7 +2032,7 @@
 }
 
 214061 = {
-	name="Xusrew" # Khosrov I
+	name="克苏斯留" # Khosrov I
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -2046,7 +2046,7 @@
 }
 
 159579 = { 
-	name="Balax" # Vologases VI
+	name="巴拉克什" # Vologases VI
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -2060,7 +2060,7 @@
 }
 
 214062 = {
-	name="Erdewan" #Artabanus V
+	name="阿尔达班" #Artabanus V
 	dynasty=100685
 	religion="zoroastrian"
 	culture="kurdish"
@@ -2074,7 +2074,7 @@
 }
 
 214063 = {
-	name="Sura"
+	name="苏拉"
 	female=yes
 	dynasty=100685
 	religion="zoroastrian"

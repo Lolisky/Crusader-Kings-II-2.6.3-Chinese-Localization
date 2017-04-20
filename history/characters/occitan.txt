@@ -2938,7 +2938,7 @@
 		birth="1158.1.1"
 	}
 	1166.1.1 = {
-		name="Raimond-Berenguié"
+		name="雷蒙-贝伦基尔"
 		culture=occitan
 	}
 	1181.4.5 = {
@@ -3035,7 +3035,7 @@
 	trait="detached_priest"
 	}
 	1264.10.2 = {
-	name="Clemens"
+	name="克莱门斯"
 	# AKA: Gui
 	}
 	1268.11.29 = {
@@ -3062,7 +3062,7 @@
 		birth="1264.1.1"
 	}
 	1304.7.7 = {
-		name="Clemens"
+		name="克莱门斯"
 	}
 	1309.3.1 = {
 		capital="c_venaissin"
@@ -6992,7 +6992,7 @@
 	}
 	1149.1.1 = {
 		add_spouse=205535 #Laurence de Toulouse
-		name="Bernat"
+		name="贝拉德"
 	}
 	1176.1.1 = {
 		death="1176.1.1"
@@ -8406,7 +8406,7 @@
 }
 
 138275 = {
-	name="Andre" #Bishop Andr?de Fr閐ol
+	name="安德烈" #Bishop Andr?de Fr閐ol
 	religion="catholic"
 	culture="occitan"
 	1290.1.1 = {
@@ -8442,7 +8442,7 @@
 }
 
 138273 = {
-	name="Joan" #Bishop Jean II de Montlaur
+	name="琼" #Bishop Jean II de Montlaur
 	religion="catholic"
 	culture="occitan"
 	1200.1.1 = {
