@@ -357,7 +357,7 @@
 }
 
 70018={
-	name="ÃÎÄİÑÅ"
+	name="ÃÉÄİæ«"
 	#name="Monnia"
 	female=yes
 
@@ -478,7 +478,7 @@
 }
 
 70022={
-	name="Elvira"
+	name="°®¶ûŞ±À­"
 	female=yes
 	dynasty=75
 
@@ -572,7 +572,7 @@
 }
 
 70025={
-	name="Adosinda"
+	name="°¢¶äĞÅ´ï"
 	female=yes
 	dynasty=75
 	
@@ -751,7 +751,7 @@
 }
 
 70115={
-	name="·¨Î¬À­" #AKA: Favila I
+	name="·¨·ÑÀ­" #AKA: Favila I
 	#name="Fafila"
 	dynasty=8600
 
@@ -863,7 +863,7 @@
 }
 
 70140={
-	name="Bera" 
+	name="±´À­" 
 
 	religion=catholic
 	culture=visigothic
@@ -877,7 +877,7 @@
 }
 
 70150={
-	name="Wifredo" # AKA: Guifr¨¦ I 'el Pil¨®s'
+	name="Íş¶û¸¥À×¶à" # AKA: Guifr¨¦ I 'el Pil¨®s'
 	dynasty=100204
 
 	father=73785
@@ -909,7 +909,7 @@
 }
 
 70151={
-	name="Winidilda"
+	name="Î¬ÄİµÙ´ï"
 	female=yes
 
 	religion=catholic
@@ -924,7 +924,7 @@
 }
 
 70152={
-	name="Wifredo" # Guifr¨¦ II Borrell I
+	name="Íş¶û¸¥À×¶à" # Guifr¨¦ II Borrell I
 	dynasty=100204
 
 	father=70150
@@ -954,7 +954,7 @@
 }
 
 70153={
-	name="Winidilda"
+	name="Î¬ÄİµÙ´ï"
 	female=yes
 	dynasty=100204
 
@@ -982,7 +982,7 @@
 }
 
 70154={
-	name="Miron"
+	name="Ã×Áú"
 	dynasty=100204
 
 	father=70150
@@ -1003,7 +1003,7 @@
 }
 
 70155={
-	name="Ava"
+	name="°¢ÍŞ"
 	female=yes
 
 	religion=catholic
@@ -1018,7 +1018,7 @@
 }
 
 70156={
-	name="Oliba"
+	name="Å·Àû°Í"
 	dynasty=10019
 
 	father=70154
@@ -1039,7 +1039,7 @@
 }
 
 70157={
-	name="Ermengardis"
+	name="¶ûÃÅ¼ÎµÙË¹"
 	female=yes
 
 	religion=catholic
@@ -1075,7 +1075,7 @@
 }
 
 70243={
-	name="Ermenisinda"
+	name="¶ûÃ·ÄáĞÁæ§"
 	female=yes
 	dynasty=75
 
@@ -1113,7 +1113,7 @@
 }
 
 70249={
-	name="Menendo"
+	name="Ã·ÄÚ¶à"
 	dynasty=1020119
 	
 	father=73870
@@ -1133,7 +1133,7 @@
 }
 
 70278={
-	name="Lupo"
+	name="Â¬²¨"
 	dynasty=10028
 
 	father=70272
@@ -1153,7 +1153,7 @@
 }
 
 70279={
-	name="Gonterote"
+	name="¹±ÌØÂåÌØ"
 	female=yes
 
 	religion=catholic
@@ -1168,7 +1168,7 @@
 }
 
 70280={
-	name="Suneario"
+	name="ËÕÄù°¢ÀïÅ·"
 	dynasty=10028
 
 	father=70278
@@ -1483,7 +1483,7 @@
 }
 
 73762={
-	name="°¢¶û¶¬É¯"
+	name="ÒÁ¶û¶«Èø"
 	#name="Eldonza"
 	female=yes
 	dynasty=8601
@@ -1541,7 +1541,7 @@
 }
 
 73765={
-	name="µÒ°¢¿Æ"
+	name="µÏÑÇ¿Æ"
 	#name="Diaco"
 	dynasty=7012
 
@@ -1646,7 +1646,7 @@
 	}
 }
 73785={
-	name="Suniefredo"
+	name="ËÕÄù¸¥À×¶à"
 	dynasty=100204
 
 	religion=catholic
@@ -1664,7 +1664,7 @@
 }
 
 73798={
-	name="Yu?uf"
+	name="ÓÅË÷¸£"
 	dynasty=12291
 
 	religion=sunni
@@ -1679,7 +1679,7 @@
 }
 
 73799={
-	name="Ambroz"
+	name="°²²¼ÂåË¹"
 	dynasty=12291
 
 	father=73798
@@ -1696,7 +1696,7 @@
 }
 
 73800={
-	name="Yu?uf"
+	name="ÓÅË÷¸£"
 	dynasty=12291
 
 	father=73799
@@ -1713,7 +1713,7 @@
 }
 
 73801={
-	name="Omar"
+	name="°ÂÂí¶û"
 	dynasty=12291
 
 	father=73799
@@ -1730,7 +1730,7 @@
 }
 
 73802={
-	name="Yafar"
+	name="ÑÅ·¨¶û"
 	dynasty=12292
 
 	religion=sunni
@@ -1745,7 +1745,7 @@
 }
 
 73803={
-	name="Hafs"
+	name="¹ş·òË¹"
 	dynasty=12292
 
 	father=73802
@@ -1765,7 +1765,7 @@
 }
 
 73804={
-	name="Neila"
+	name="ÄÚÀ­"
 	female=yes
 
 	religion=sunni
@@ -1780,7 +1780,7 @@
 }
 
 73805={
-	name="Omar"
+	name="°ÂÂí¶û"
 	dynasty=12292
 
 	father=73803
@@ -1802,7 +1802,7 @@
 }
 
 73806={
-	name="Ayyub"
+	name="°¢ÓÈ²¼"
 	dynasty=12292
 
 	father=73803
@@ -1820,7 +1820,7 @@
 }
 
 73807={
-	name="Yafar"
+	name="ÑÅ·¨¶û"
 	dynasty=12292
 
 	father=73803
@@ -1838,7 +1838,7 @@
 }
 
 73814={
-	name="Ayab"
+	name="°¢ÑÅ±Ì"
 	female=yes
 
 	religion=sunni
@@ -1853,7 +1853,7 @@
 }
 
 73819={
-	name="?ayida"
+	name="¿¨ÒÁ´ï"
 	female=yes
 
 	religion=sunni
@@ -1868,7 +1868,7 @@
 }
 
 73851={
-	name="Aid"
+	name="°¬ÌØ"
 	dynasty=12289
 
 	religion=sunni
@@ -1886,7 +1886,7 @@
 }
 
 73852={
-	name="Yabya"
+	name="ÑÅ±ÈÑÇ"
 	dynasty=12289
 
 	father=73851
@@ -1904,7 +1904,7 @@
 }
 
 73853={
-	name="Melic"
+	name="Ã·Àû¿Ë"
 	dynasty=12289
 
 	father=73851
@@ -1922,7 +1922,7 @@
 }
 
 73854={
-	name="Airmanagildo"
+	name="°¬ÂêÄÉ¼ª¶à"
 	dynasty=75
 
 	religion=catholic
@@ -1937,7 +1937,7 @@
 }
 
 73855={
-	name="Guttier"
+	name="¹ÅÌá¶û"
 	dynasty=75
 
 	father=73854
@@ -1958,7 +1958,7 @@
 
 
 73856={
-	name="Elvira"
+	name="°®¶ûŞ±À­"
 	female=yes
 
 	religion=catholic
@@ -1973,7 +1973,7 @@
 }
 
 73857={
-	name="Airmanagildo"
+	name="°¬ÂêÄÉ¼ª¶à"
 	dynasty=75
 
 	father=73855
@@ -1994,7 +1994,7 @@
 }
 
 73858={
-	name="Aloito"
+	name="°¢ÂåÒÁÍĞ"
 	dynasty=75
 
 	father=73855
@@ -2012,7 +2012,7 @@
 }
 
 73859={
-	name="Elvira"
+	name="°®¶ûŞ±À­"
 	female=yes
 	dynasty=75
 
@@ -2031,7 +2031,7 @@
 }
 
 73860={
-	name="Gudilona"
+	name="¹ÅµÙÂåÄÈ"
 	female=yes
 	dynasty=75
 
@@ -2050,7 +2050,7 @@
 }
 
 73861={
-	name="Eldonza"
+	name="ÒÁ¶û¶«Èø"
 	female=yes
 	dynasty=75
 
@@ -2069,7 +2069,7 @@
 }
 
 73862={
-	name="Guttier"
+	name="¹ÅÌá¶û"
 	dynasty=75
 
 	father=73855
@@ -2089,7 +2089,7 @@
 }
 
 73863={
-	name="Rodericho"
+	name="ÂŞµÂÀï¸ê"
 	dynasty=75
 
 	father=73862
@@ -2107,7 +2107,7 @@
 }
 
 73864={
-	name="Onecca"
+	name="Å·Äá¿¨"
 	female=yes
 	dynasty=8626
 
@@ -2126,7 +2126,7 @@
 }
 
 73865={
-	name="Diaco"
+	name="µÏÑÇ¿Æ"
 	dynasty=12288
 
 	religion=catholic
@@ -2144,7 +2144,7 @@
 }
 
 73866={
-	name="Monniadomna"
+	name="ÃÉÄİæ«¶«ÄÈ"
 	female=yes
 	dynasty=12288
 
@@ -2241,7 +2241,7 @@
 }
 
 73871={
-	name="Guttier"
+	name="¹ÅÌá¶û"
 	dynasty=75
 
 	father=73857
@@ -2393,7 +2393,7 @@
 }
 
 73879={
-	name="Onecca"
+	name="Å·Äá¿¨"
 	female=yes
 
 	religion=catholic
@@ -2408,7 +2408,7 @@
 }
 
 73880={
-	name="Froila"
+	name="¸¥ÂåÒÁÀ­"
 	dynasty=75
 
 	father=73871
@@ -2425,7 +2425,7 @@
 }
 
 73891={
-	name="Monnio"
+	name="ÃÉÄá°Â"
 	dynasty=75
 
 	father=73871
@@ -2445,7 +2445,7 @@
 }
 
 73892={
-	name="Elvira"
+	name="°®¶ûŞ±À­"
 	female=yes
 	dynasty=75
 
@@ -2463,7 +2463,7 @@
 }
 
 73893={
-	name="Arias"
+	name="°¢ÀïÑÇË¹"
 	dynasty=75
 
 	father=73857
@@ -2481,7 +2481,7 @@
 }
 
 73894={
-	name="Guttier"
+	name="¹ÅÌá¶û"
 	dynasty=75
 
 	father=73891
@@ -2499,7 +2499,7 @@
 }
 
 73899={
-	name="Abdelwahid"
+	name="°¢²·¶ÅÀÕÍßÏ£µÂ"
 	dynasty=12260
 
 	father=73900
@@ -2517,7 +2517,7 @@
 }
 
 73900={
-	name="Hamdan"
+	name="¹şÄ·µ¤"
 	dynasty=12260
 
 	religion=sunni
@@ -2570,7 +2570,7 @@
 }
 
 73908={
-	name="Algaci"
+	name="°Â¼ÓÏ£"
 	dynasty=12296
 
 	religion=sunni
@@ -2585,7 +2585,7 @@
 }
 
 73909={
-	name="Abdela"
+	name="°¢²·¶ÅÀ­"
 	dynasty=12296
 
 	father=73908
@@ -2602,7 +2602,7 @@
 }
 
 73910={
-	name="Mahomat"
+	name="Âí»ôÂêÌØ"
 	dynasty=12296
 
 	father=73909
@@ -2619,7 +2619,7 @@
 }
 
 73911={
-	name="Abdela"
+	name="°¢²·¶ÅÀ­"
 	dynasty=12296
 
 	father=73910
@@ -2636,7 +2636,7 @@
 }
 
 73912={
-	name="Cacharya"
+	name="¿¨²éÀïÑÇ"
 	dynasty=12297
 
 	religion=sunni
@@ -2654,7 +2654,7 @@
 }
 
 73913={
-	name="Abdelacic"
+	name="°¢²·¶ÅÀ­Ï£Ææ"
 	dynasty=12297
 
 	father=73912
@@ -2672,7 +2672,7 @@
 }
 
 73914={
-	name="Yabya"
+	name="ÑÅ±ÈÑÇ"
 	dynasty=12297
 
 	father=73912
@@ -2690,7 +2690,7 @@
 }
 
 73915={
-	name="Ceida"
+	name="Èü´ï"
 	female=yes
 
 	religion=sunni
@@ -2705,7 +2705,7 @@
 }
 
 73916={
-	name="Algusn"
+	name="°Â¹ÈÉ­"
 	dynasty=12260
 
 	father=73899
@@ -2722,7 +2722,7 @@
 }
 
 73917={
-	name="Abrafim"
+	name="°¢²·À­·Ò"
 	dynasty=12260
 
 	father=73916
@@ -2739,7 +2739,7 @@
 }
 
 73918={
-	name="Abdelmelic"
+	name="°¢²·¶ÅÀÕÃ·Àû¿Ë"
 	dynasty=12260
 
 	father=73917
@@ -2756,7 +2756,7 @@
 }
 
 73929={
-	name="Mahomat"
+	name="Âí»ôÂêÌØ"
 	dynasty=12299
 
 	father=73930
@@ -2776,7 +2776,7 @@
 }
 
 73930={
-	name="Cacharya"
+	name="¿¨²éÀïÑÇ"
 	dynasty=12299
 
 	religion=sunni
@@ -2791,7 +2791,7 @@
 }
 
 73931={
-	name="Yucuf"
+	name="ÓÈË÷¸£"
 	dynasty=12299
 
 	father=73930
@@ -2808,7 +2808,7 @@
 }
 
 73932={
-	name="Leila"
+	name="ÀÙÀ­"
 	female=yes
 
 	religion=sunni
@@ -2823,7 +2823,7 @@
 }
 
 73933={
-	name="Yabya"
+	name="ÑÅ±ÈÑÇ"
 	dynasty=12299
 
 	father=73929
@@ -2841,7 +2841,7 @@
 }
 
 73934={
-	name="Abdelacic"
+	name="°¢²·¶ÅÀ­Ï£Ææ"
 	dynasty=12300
 
 	religion=sunni
@@ -2856,7 +2856,7 @@
 }
 
 73935={
-	name="Mahomat"
+	name="Âí»ôÂêÌØ"
 	dynasty=12300
 
 	father=73934
@@ -2873,7 +2873,7 @@
 }
 
 73936={
-	name="Yabya"
+	name="ÑÅ±ÈÑÇ"
 	dynasty=12300
 
 	father=73934
@@ -2893,7 +2893,7 @@
 }
 
 73937={
-	name="Karima"
+	name="¿¨ÀïÂê"
 	female=yes
 
 	religion=sunni
@@ -2908,7 +2908,7 @@
 }
 
 73938={
-	name="Abrafim"
+	name="°¢²·À­·Ò"
 	dynasty=12301
 
 	religion=sunni
@@ -2926,7 +2926,7 @@
 }
 
 73939={
-	name="Melica"
+	name="Ã·Àò¿¨"
 	female=yes
 
 	religion=sunni
@@ -2941,7 +2941,7 @@
 }
 
 73940={
-	name="Icag"
+	name="ÒÀÈö¸ñ"
 	dynasty=12301
 
 	father=73938
@@ -2959,7 +2959,7 @@
 }
 
 73952={
-	name="Amet"
+	name="°¬ÂõÌØ"
 	dynasty=12304
 
 	religion=sunni
@@ -2977,7 +2977,7 @@
 }
 
 73953={
-	name="Habiba"
+	name="¹ş±È°Í"
 	female=yes
 
 	religion=sunni
@@ -2992,7 +2992,7 @@
 }
 
 73954={
-	name="Mahomat"
+	name="Âí»ôÂêÌØ"
 	dynasty=12304
 
 	father=73952
@@ -3010,7 +3010,7 @@
 }
 
 73955={
-	name="Yunus"
+	name="ÓÚÅ¬Ë¹"
 	dynasty=12305
 
 	religion=sunni
@@ -3025,7 +3025,7 @@
 }
 
 73956={
-	name="Marwan"
+	name="Âí¶ûÍò"
 	dynasty=12305
 
 	father=73955
@@ -3042,7 +3042,7 @@
 }
 
 73957={
-	name="Abderrabmen"
+	name="°¢²·µÂÀ­²·ÃÅ"
 	dynasty=12305
 
 	father=73956
@@ -3062,7 +3062,7 @@
 }
 
 73958={
-	name="Isra"
+	name="ÒÁË¿À­"
 	female=yes
 
 	religion=sunni
@@ -3077,7 +3077,7 @@
 }
 
 73959={
-	name="Ceid"
+	name="ÈüµÂ"
 	dynasty=12305
 
 	father=73957
@@ -3095,7 +3095,7 @@
 }
 
 73960={
-	name="Mahomat"
+	name="Âí»ôÂêÌØ"
 	dynasty=12305
 
 	father=73957
@@ -3113,7 +3113,7 @@
 }
 
 73961={
-	name="Alkada"
+	name="°Â¿¨µÂ"
 	dynasty=12306
 
 	religion=sunni
@@ -3128,7 +3128,7 @@
 }
 
 73962={
-	name="Obada"
+	name="Å·°Í´ï"
 	dynasty=12306
 
 	father=73961
@@ -3148,7 +3148,7 @@
 }
 
 73963={
-	name="Yacmina"
+	name="ÑÅË¿Ã×ÄÈ"
 	female=yes
 
 	religion=sunni
@@ -3163,7 +3163,7 @@
 }
 
 73964={
-	name="Cohair"
+	name="¿Æº£¶û"
 	dynasty=12307
 
 	religion=sunni
@@ -3178,7 +3178,7 @@
 }
 
 73965={
-	name="Kinana"
+	name="»ùÄÉÄÉ"
 	dynasty=12307
 
 	father=73964
@@ -3195,7 +3195,7 @@
 }
 
 73966={
-	name="Calama"
+	name="ÈöÀ­Âê"
 	dynasty=12307
 
 	father=73964
@@ -3212,7 +3212,7 @@
 }
 
 73969={
-	name="Abdela"
+	name="°¢²·¶ÅÀ­"
 	dynasty=12309
 
 	religion=sunni
@@ -3230,7 +3230,7 @@
 }
 
 73970={
-	name="Monnia"
+	name="ÃÉÄİæ«"
 	female=yes
 
 	religion=sunni
@@ -3245,7 +3245,7 @@
 }
 
 73971={
-	name="Amet"
+	name="°¬ÂõÌØ"
 	dynasty=12309
 
 	father=73969
@@ -3263,7 +3263,7 @@
 }
 
 73972={
-	name="Jalid"
+	name="¼ÖÀïµÂ"
 	dynasty=12310
 
 	religion=sunni
@@ -3281,7 +3281,7 @@
 }
 
 73973={
-	name="Tarifa"
+	name="ËşÀö·¨"
 	female=yes
 
 	religion=sunni
@@ -3296,7 +3296,7 @@
 }
 
 73974={
-	name="Amet"
+	name="°¬ÂõÌØ"
 	dynasty=12310
 
 	father=73972
@@ -3314,7 +3314,7 @@
 }
 
 73976={
-	name="Abdela"
+	name="°¢²·¶ÅÀ­"
 	dynasty=12311
 
 	religion=sunni
@@ -3332,7 +3332,7 @@
 }
 
 73977={
-	name="Aica"
+	name="°¬Èø"
 	female=yes
 
 	religion=sunni
@@ -3347,7 +3347,7 @@
 }
 
 73978={
-	name="Mahomat"
+	name="Âí»ôÂêÌØ"
 	dynasty=12311
 
 	father=73976
@@ -3365,7 +3365,7 @@
 }
 
 73979={
-	name="Celim"
+	name="ÉªÁÖ"
 	dynasty=12311
 
 	father=73976
@@ -3402,7 +3402,7 @@
 }
 
 73981={
-	name="Pelagio"
+	name="ÅåÀ­¼ª°Â"
 	dynasty=12312
 
 	father=73980
@@ -3420,7 +3420,7 @@
 }
 
 73982={
-	name="Abdela"
+	name="°¢²·¶ÅÀ­"
 	dynasty=12312
 
 	father=73981
@@ -3437,7 +3437,7 @@
 }
 
 73983={
-	name="Hacan"
+	name="°¢¿²"
 	dynasty=12312
 
 	father=73982
@@ -3454,7 +3454,7 @@
 }
 
 73984={
-	name="Culema"
+	name="ËÕÀ×Âê"
 	dynasty=12312
 
 	father=73983
@@ -3474,7 +3474,7 @@
 }
 
 73985={
-	name="Nadia"
+	name="ÄÉµÏæ«"
 	female=yes
 
 	religion=sunni
@@ -3489,7 +3489,7 @@
 }
 
 73986={
-	name="Ayyub"
+	name="°¢ÓÈ²¼"
 	dynasty=12312
 
 	father=73984
@@ -3507,7 +3507,7 @@
 }
 
 73987={
-	name="Johan"
+	name="ÇÇºº"
 	dynasty=12313
 
 	religion=catholic
@@ -3525,7 +3525,7 @@
 }
 
 73988={
-	name="Agnes"
+	name="°¬¸ñÄİË¿"
 	female=yes
 
 	religion=catholic
@@ -3540,7 +3540,7 @@
 }
 
 73989={
-	name="Berengario"
+	name="±´Àä¼ÎÀïÅ·"
 	dynasty=12313
 
 	father=73987
@@ -3558,7 +3558,7 @@
 }
 
 73990={
-	name="Petro"
+	name="ÅåÌØÂŞ"
 	dynasty=12314
 
 	religion=catholic
@@ -3576,7 +3576,7 @@
 }
 
 73991={
-	name="Sibilia"
+	name="Ë¹±ÈÀòæ«"
 	female=yes
 
 	religion=catholic
@@ -3591,7 +3591,7 @@
 }
 
 73992={
-	name="Matheo"
+	name="ÂíÌá°Â"
 	dynasty=12314
 
 	father=73990
@@ -3609,7 +3609,7 @@
 }
 
 73993={
-	name="Radulfo"
+	name="À­¶È·ğ"
 	dynasty=100204
 
 	father=73785
@@ -3629,7 +3629,7 @@
 }
 
 73994={
-	name="Ralindis"
+	name="À­ÁÕµÙË¿"
 	female=yes
 
 	religion=catholic
@@ -3644,7 +3644,7 @@
 }
 
 73995={
-	name="Oliba"
+	name="Å·Àû°Í"
 	dynasty=100204
 
 	religion=catholic
@@ -3662,7 +3662,7 @@
 }
 
 73996={
-	name="Miron"
+	name="Ã×Áú"
 	dynasty=100204
 
 	father=73785
@@ -3679,7 +3679,7 @@
 }
 
 73997={
-	name="Sisenanda"
+	name="Ë¹ÉªÄÏ´ï"
 	female=yes
  
 	dynasty=100204
@@ -3698,7 +3698,7 @@
 }
 
 73998={
-	name="Suniefredo"
+	name="ËÕÄù¸¥À×¶à"
 	dynasty=100204
 
 	father=73785
@@ -3715,7 +3715,7 @@
 }
 
 73999={
-	name="Ermenisinda"
+	name="¶ûÃ·ÄáĞÁæ§"
 	female=yes
 	dynasty=100204
 
@@ -3733,7 +3733,7 @@
 }
 
 74100={
-	name="Riculfo"
+	name="Àû¿â·ğ"
 	dynasty=100204
 
 	father=73785
@@ -3752,7 +3752,7 @@
 }
 
 74101={
-	name="Suneario"
+	name="ËÕÄù°¢ÀïÅ·"
 	dynasty=393
 
 	religion=catholic
@@ -3770,7 +3770,7 @@
 }
 
 74102={
-	name="Ermenierdis"
+	name="¶ûÃ·Äá¶ûµÙË¿"
 	female=yes
 
 	religion=catholic
@@ -3785,7 +3785,7 @@
 }
 
 74103={
-	name="Gauzberto"
+	name="¸ßË¹±´ÍĞ"
 	dynasty=393
 
 	religion=catholic
@@ -3803,7 +3803,7 @@
 }
 
 91392={
-	name="Ercheswintha" #Ercheswinda, used as wife of Riculfe, the fantasy brother of Fulrad
+	name="¶ûÇĞË¿ö©æ§" #Ercheswinda, used as wife of Riculfe, the fantasy brother of Fulrad
 	female=yes
 
 	religion="catholic"
@@ -3818,7 +3818,7 @@
 }
 
 107670={
-	name="Garci" # AKA: Garc¨ªa I 'el de las Manos Blancas'
+	name="¼ÓÎ÷" # AKA: Garc¨ªa I 'el de las Manos Blancas'
 	dynasty=776
 	father=107680
 	mother=107681
@@ -3942,7 +3942,7 @@
 }
 
 109620={
-	name="Goncalo"
+	name="¹±ÈøÂŞ"
 	dynasty=1020119
 
 	father=70249
@@ -3963,7 +3963,7 @@
 }
 
 109621={
-	name="æÈçí¶ÅÀ­"
+	name="ÒÁ¶ûµÂÍßÀ­"
 	#name="Elduara"
 	female=yes
 	dynasty=1020119
@@ -4128,7 +4128,7 @@
 }
 
 168716 = {
-	name="Airmanagildo" 
+	name="°¬ÂêÄÉ¼ª¶à" 
 	dynasty=1046033
 
 	father=200273
@@ -4151,7 +4151,7 @@
 }
 
 168718 = {
-	name="Athanagildo" 
+	name="°¢´ïÄÉ¼ª¶à" 
 	dynasty=1046033
 
 	father=168716
@@ -4172,7 +4172,7 @@
 }
 
 168720={
-	name="Olmondo" 
+	name="Å·ÃÉ¶à" 
 	dynasty=1046032
 
 	father=200244
@@ -4189,7 +4189,7 @@
 }
 
 168721={
-	name="Sara" 
+	name="ÈøÀ­" 
 	female=yes
 	dynasty=1046032
 
@@ -4207,7 +4207,7 @@
 }
 
 168722={
-	name="Madrubal" 
+	name="ÂêµÂÂ¬°Í" 
 	dynasty=1046032
 
 	father=168720
@@ -4224,7 +4224,7 @@
 }
 
 168723={
-	name="Oppas" 
+	name="Å·ÅÁË¹" 
 	dynasty=1046032
 
 	father=168720
@@ -4244,7 +4244,7 @@
 }
 
 168724={
-	name="Ricilo" 
+	name="ÀòÏ£Âå" 
 	female=yes
 
 	religion="catholic"
@@ -4259,7 +4259,7 @@
 }
 
 168725={
-	name="Baddo"
+	name="°Å¶È"
 	female=yes
 
 	religion="catholic"
@@ -4274,7 +4274,7 @@
 }
 
 168727={
-	name="Witiza" 
+	name="Î¬ÌáÔú" 
 	dynasty=1046032
 
 	father=168723
@@ -4293,7 +4293,7 @@
 }
 
 168730={
-	name="Ricimero" 
+	name="ÀïÏ£Ã·Âå" 
 	dynasty=1046033
 	religion="catholic"
 	culture="visigothic"
@@ -4309,7 +4309,7 @@
 }
 
 168733={
-	name="Faldrina" 
+	name="·¨¶ûµÂÀòÄÈ" 
 	female=yes
 	dynasty=1046032
 
@@ -4328,7 +4328,7 @@
 }
 
 168734={
-	name="Brunechildis" 
+	name="²¼Â³Ú«ç÷µÙË¹" 
 	female=yes
 	dynasty=1046039
 
@@ -4346,7 +4346,7 @@
 }
 
 168735 = {
-	name="Riciberga"
+	name="Àïç÷İí¼Î"
 	female=yes
 
 	religion="catholic"
@@ -4361,7 +4361,7 @@
 }
 
 190550={
-	name="Bego" #count of Narbonne
+	name="±´¹Å" #count of Narbonne
 	dynasty=1044118 #Begonid
 
 	religion="catholic"
@@ -4456,7 +4456,7 @@
 }
 
 200047={
-	name="°¢ÑÅ²·"
+	name="°¢ÑÅ±Ì"
 	#name="Ayab"
 	female=yes
 
@@ -4623,7 +4623,7 @@
 }
 
 200064={
-	name="°¢ËşÄÉ¼ª¶ûµÂ"
+	name="°¢´ïÄÉ¼ª¶à"
 	#name="Athanagildo"
 	dynasty=12295
 
@@ -4829,7 +4829,7 @@
 }
 
 200075={
-	name="ÃÎÄİÑÅÌÆÄÈ"
+	name="ÃÉÄİæ«¶«ÄÈ"
 	#name="Monniadomna"
 	female=yes
 	dynasty=776
@@ -4991,7 +4991,7 @@
 }
 
 200155={
-	name="ËÕÄá°£¸¥À×¶à"
+	name="ËÕÄù¸¥À×¶à"
 	#name="Suniefredo"
 	dynasty=100204
 
@@ -5040,7 +5040,7 @@
 }
 
 200199={
-	name="ÑÅË¹Ã×ÄÉ"
+	name="ÑÅË¿Ã×ÄÈ"
 	#name="Yaçmina"
 	female=yes
 
@@ -5072,7 +5072,7 @@
 }
 
 200206={
-	name="°»²¼ÂŞ×È"
+	name="°²²¼ÂåË¹"
 	#name="Ambroz"
 	dynasty=12291
 
@@ -5165,7 +5165,7 @@
 }
 
 200211={
-	name="°»²¼ÂŞ×È"
+	name="°²²¼ÂåË¹"
 	#name="Ambroz"
 	dynasty=12291
 
@@ -5183,7 +5183,7 @@
 }
 
 200212={
-	name="°¢²·¶ÅÀÕÃ·Àï¿Ë"
+	name="°¢²·¶ÅÀÕÃ·Àû¿Ë"
 	#name="Abdelmelic"
 	dynasty=12291
 
@@ -5202,7 +5202,7 @@
 }
 
 200213={
-	name="ËşÀï·¢"
+	name="ËşÀö·¨"
 	#name="Tarifa"
 	female=yes
 
@@ -5218,7 +5218,7 @@
 }
 
 200215={
-	name="?eida"
+	name="Èü´ï"
 	female=yes
 
 	religion=sunni
@@ -5233,7 +5233,7 @@
 }
 
 200218={
-	name="Monnia"
+	name="ÃÉÄİæ«"
 	female=yes
 
 	religion=sunni
@@ -5248,7 +5248,7 @@
 }
 
 200223={
-	name="Theodericho"
+	name="µÒ°ÂµÂÀïÇï"
 	dynasty=1046025
 
 	religion=catholic
@@ -5266,7 +5266,7 @@
 }
 
 200224={
-	name="Ermenisinda"
+	name="¶ûÃ·ÄáĞÁæ§"
 	female=yes
 
 	religion=catholic
@@ -5281,7 +5281,7 @@
 }
 
 200225={
-	name="Liuvericho"
+	name="ÁøÎ¬ÀïÇï"
 	dynasty=1046025
 
 	father=200223
@@ -5299,7 +5299,7 @@
 }
 
 200227={
-	name="Abda"
+	name="°¢²·æ§"
 	female=yes
 
 	religion=sunni
@@ -5314,7 +5314,7 @@
 }
 
 200231={
-	name="Onecca"
+	name="Å·Äá¿¨"
 	female=yes
 
 	religion=sunni
@@ -5394,7 +5394,7 @@
 }
 
 200240={
-	name="Khindaswintho"
+	name="½ğ´ïË¹Î¬¶à"
 	dynasty=1046033
 
 	father=200241
@@ -5629,7 +5629,7 @@
 }
 
 200252={
-	name="Fafila"
+	name="·¨·ÑÀ­"
 	dynasty=1046033
 
 	father=200240
@@ -5929,7 +5929,7 @@
 }
 
 200276={
-	name="°¢ËşÄÉ¼ª¶ûµÂ"
+	name="°¢´ïÄÉ¼ª¶à"
 	#name="Athanagildo"
 	dynasty=1046039
 	religion=catholic
@@ -6338,7 +6338,7 @@
 }
 
 457681={
-	name="Gomez"
+	name="¸êÂóË¹"
 	dynasty=7012
 
 	father=73765
@@ -6355,7 +6355,7 @@
 }
 
 217303 = {
-	name = "Munio"
+	name = "ÄÂÄá°Â"
 	dynasty = 75
 	
 	father = 73880

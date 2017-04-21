@@ -948,7 +948,7 @@
 }
 
 131104 = {  	
-	name="格里布莱德"
+	name="吉尔布里德"
 	# AKA: Gilla Brigte
 	dynasty=100045
 	martial=6
@@ -1364,7 +1364,7 @@
 }
 
 203007 = {  	
-	name="格里布莱德"
+	name="吉尔布里德"
 	dynasty=20083
 	martial=7
 	diplomacy=5
@@ -1532,7 +1532,7 @@
 }
 
 203021 = {  	
-	name="格里布莱德"
+	name="吉尔布里德"
 	dynasty=20083
 	martial=7
 	diplomacy=5
@@ -1873,7 +1873,7 @@
 }
 
 203072 = {  	
-	name="格里切斯特"
+	name="吉尔克里斯特"
 	dynasty=20083
 	martial=5
 	diplomacy=5
@@ -2205,7 +2205,7 @@
 }
 
 220024 = {  	
-	name="阿弗拉克"
+	name="阿弗莱克"
 	female = yes
 	dynasty=371
 	martial=5
@@ -2307,7 +2307,7 @@
 }
 
 220032 = {  	
-	name="杜格尔"
+	name="杜加尔德"
 	dynasty=25046
 	martial=7
 	diplomacy=7
@@ -2348,7 +2348,7 @@
 }
 
 220039 = {  	
-	name="阿弗拉克"
+	name="阿弗莱克"
 	female = yes
 	dynasty=3121
 	martial=4
@@ -2963,7 +2963,7 @@
 }
 
 450827 = {  	
-	name="爱格妮丝"
+	name="艾格尼丝"
 	female = yes
 	dynasty=9101
 	martial=5
@@ -3802,7 +3802,7 @@
 }
 
 453057 = {  	
-	name="阿弗拉克"
+	name="阿弗莱克"
 	female = yes
 	dynasty=100039
 	martial=2
@@ -3909,7 +3909,7 @@
 }
 
 453062 = {  	
-	name="爱格妮丝"
+	name="艾格尼丝"
 	female = yes
 	dynasty=3146
 	martial=8
@@ -4129,7 +4129,7 @@
 }
 
 453077 = {  	
-	name="杜格尔"
+	name="杜加尔德"
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -4145,7 +4145,7 @@
 }
 
 453078 = {  	
-	name="阿基布尔"
+	name="阿奇博尔德"
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -4809,7 +4809,7 @@
 }
 
 453606 = {  	
-	name="阿基布尔"
+	name="阿奇博尔德"
 	dynasty=3125
 	martial=7
 	diplomacy=7
@@ -4849,7 +4849,7 @@
 }
 
 453608 = {  	
-	name="阿基布尔"
+	name="阿奇博尔德"
 	dynasty=3125
 	martial=6
 	diplomacy=4
@@ -5111,7 +5111,7 @@
 }
 
 7290 = {  	
-	name="阿基布尔"
+	name="阿奇博尔德"
 	dynasty=3125
 	religion="catholic"
 	culture="scottish"
@@ -5289,7 +5289,7 @@
 }
 
 7347 = {  	
-	name="格里布莱德"
+	name="吉尔布里德"
 	dynasty=20083
 	religion="catholic"
 	culture="scottish"
@@ -5664,7 +5664,7 @@
 }
 
 82012 = {  	
-	name="格里切斯特"
+	name="吉尔克里斯特"
 	# AKA: Gille
 	dynasty=9101
 	martial=5
@@ -5745,7 +5745,7 @@
 }
 
 82016 = {  	
-	name="格里布莱德"
+	name="吉尔布里德"
 	dynasty=9101
 	martial=5
 	diplomacy=8
@@ -5787,7 +5787,7 @@
 }
 
 82018 = {  	
-	name="格里切斯特"
+	name="吉尔克里斯特"
 	dynasty=9101
 	martial=5
 	diplomacy=5
@@ -5806,7 +5806,7 @@
 }
 
 82020 = {  	
-	name="格里切斯特"
+	name="吉尔克里斯特"
 	# AKA: Gille
 	dynasty=9101
 	martial=5
@@ -5921,7 +5921,7 @@
 }
 
 82026 = {  	
-	name="格里布莱德"
+	name="吉尔布里德"
 	# AKA: Gille
 	dynasty=9101
 	martial=9
@@ -6044,7 +6044,7 @@
 }
 
 82032 = {  	
-	name="格里布莱德"
+	name="吉尔布里德"
 	# AKA: Gille
 	dynasty=9101
 	martial=7
@@ -6494,7 +6494,7 @@
 		birth="1079.1.1"
 	}
 	1100.11.11 = {
-		name="Matilda"
+		name="玛蒂尔达"
 	}
 	1118.5.1={
 		death="1118.5.1"
@@ -7537,7 +7537,7 @@
 
 
 232683 = {
-	name="杜格尔"
+	name="杜加尔德"
 	dynasty=3109 # MacDougall
 	martial=6
 	diplomacy=4
@@ -7577,7 +7577,7 @@
 }
 
 232685 = {
-	name="杜格尔"
+	name="杜加尔德"
 	# AKA: Dubhghall 'Screech'
 	dynasty=3109 # MacDougall
 	martial=6
@@ -7656,7 +7656,7 @@
 }
 
 161655 = {  	
-	name="爱格妮丝"
+	name="艾格尼丝"
 	female=yes
 	dynasty=101600
 	religion="catholic"
@@ -7703,7 +7703,7 @@
 }
 
 161658 = {  	
-	name="格里布莱德"
+	name="吉尔布里德"
 	dynasty=9101
 	religion="catholic"
 	culture="scottish"
@@ -8029,7 +8029,7 @@
 }
 
 203020 = {
-	name="爱格妮丝"
+	name="艾格尼丝"
 	female = yes
 	dynasty=370
 	martial=5
@@ -8295,7 +8295,7 @@
 }
 
 183526 = {
-	name="格里切斯特"
+	name="吉尔克里斯特"
 	dynasty=1042645
 	religion="catholic"
 	culture="scottish"
@@ -8605,7 +8605,7 @@
 	}
 }
 188920 = {
-	name="Archibald" # Gilleasbaig of Menstrie
+	name="阿奇博尔德" # Gilleasbaig of Menstrie
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8622,7 +8622,7 @@
 }
 
 188921 = {
-	name="Affraic" # or Efrica, Afraig, Afraica, Efferick
+	name="阿弗莱克" # or Efrica, Afraig, Afraica, Efferick
 	female=yes
 	dynasty=371
 	religion="catholic"
@@ -8638,7 +8638,7 @@
 }
 
 188922 = {
-	name="Janet"
+	name="珍妮特"
 	female=yes
 	dynasty=214012 # Saint-Clair
 	religion="catholic"
@@ -8653,7 +8653,7 @@
 }
 
 188923 = {
-	name="John"
+	name="约翰"
 	dynasty=214012 # Saint-Clair
 	religion="catholic"
 	culture="scottish"
@@ -8666,7 +8666,7 @@
 }
 
 188924 = {  	
-	name="Maura" # name made up, possibly didn't exist
+	name="莫拉" # name made up, possibly didn't exist
 	female=yes
 	dynasty=3121
 	religion="catholic"
@@ -8681,7 +8681,7 @@
 }
 
 188925 = {  	
-	name="Walter" # Walter Ballioch
+	name="瓦尔特" # Walter Ballioch
 	dynasty=3134
 	religion="catholic"
 	culture="scottish"
@@ -8696,7 +8696,7 @@
 }
 
 188926 = {  	
-	name="John" 
+	name="约翰" 
 	dynasty=123 # de Menteith
 	religion="catholic"
 	culture="scottish"
@@ -8711,7 +8711,7 @@
 }
 
 188927 = {  	
-	name="Alexander" 
+	name="亚历山大" 
 	dynasty=123 # de Menteith
 	religion="catholic"
 	culture="scottish"
@@ -8729,7 +8729,7 @@
 }
 
 188928 = {  	
-	name="Mary" 
+	name="玛丽" 
 	female=yes
 	dynasty=123 # de Menteith
 	religion="catholic"
@@ -8747,7 +8747,7 @@
 }
 
 188929 = {  	
-	name="Isabel" 
+	name="伊莎贝尔" 
 	female=yes
 	dynasty=123 # de Menteith
 	religion="catholic"
@@ -8762,7 +8762,7 @@
 }
 
 188930 = {  	
-	name="Murdoch" # II (the younger)
+	name="默多克" # II (the younger)
 	dynasty=123 # de Menteith
 	religion="catholic"
 	culture="scottish"
@@ -8776,7 +8776,7 @@
 }
 
 188931 = {  	
-	name="Murdoch" # I (the elder)
+	name="默多克" # I (the elder)
 	dynasty=123 # de Menteith
 	religion="catholic"
 	culture="scottish"
@@ -8790,7 +8790,7 @@
 }
 
 188932 = {  	
-	name="Gilchrist"
+	name="吉尔克里斯特"
 	dynasty=123 # de Menteith
 	religion="catholic"
 	culture="scottish"
@@ -8803,7 +8803,7 @@
 }
 
 188933 = {  	
-	name="Agnes" # first wife of Malise IV of Strathearn
+	name="艾格尼丝" # first wife of Malise IV of Strathearn
 	female=yes
 	religion="catholic"
 	culture="scottish"
@@ -8816,7 +8816,7 @@
 }
 
 188934 = {
-	name="Dugald" # Campbell progenitor
+	name="杜加尔德" # Campbell progenitor
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8829,7 +8829,7 @@
 }
 
 188935 = {
-	name="Duncan" # Duncan Dubh
+	name="邓肯" # Duncan Dubh
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8844,7 +8844,7 @@
 }
 
 188936 = {
-	name="Arthur" # founder of Arthur Campbells of Strachur
+	name="亚瑟" # founder of Arthur Campbells of Strachur
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8858,7 +8858,7 @@
 }
 
 188937 = {
-	name="Arthur"
+	name="亚瑟"
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8872,7 +8872,7 @@
 }
 
 188938 = {
-	name="Iver"
+	name="伊佛"
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8886,7 +8886,7 @@
 }
 
 188939 = {
-	name="Arthur"
+	name="亚瑟"
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8900,7 +8900,7 @@
 }
 
 188940 = {  	
-	name="Donald" # progenitor of Campbells of Loudon
+	name="唐纳德" # progenitor of Campbells of Loudon
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8918,7 +8918,7 @@
 }
 
 188941 = {  	
-	name="Duncan"
+	name="邓肯"
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8933,7 +8933,7 @@
 }
 
 188942 = {  	
-	name="Andrew"
+	name="安德鲁"
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8947,7 +8947,7 @@
 }
 
 188943 = {  	
-	name="Dugald" # Laird of Menstrie in Clackmannanshire
+	name="杜加尔德" # Laird of Menstrie in Clackmannanshire
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8962,7 +8962,7 @@
 }
 
 188944 = {  	
-	name="John"
+	name="约翰"
 	dynasty=3128
 	religion="catholic"
 	culture="scottish"
@@ -8976,7 +8976,7 @@
 }
 
 188945 = {  	
-	name="Alan" 
+	name="阿兰" 
 	dynasty=123 # de Menteith
 	religion="catholic"
 	culture="scottish"
@@ -8991,7 +8991,7 @@
 }
 
 188946 = {  	
-	name="Murdoch" 
+	name="默多克" 
 	dynasty=123 # de Menteith
 	religion="catholic"
 	culture="scottish"
@@ -9006,7 +9006,7 @@
 }
 
 188947 = {  	
-	name="Maud" # or Matilda
+	name="莫德" # or Matilda
 	female=yes
 	dynasty=9101 # of Strathearn
 	religion="catholic"
@@ -9021,7 +9021,7 @@
 }
 
 188948 = {  	
-	name="Mary" # the II
+	name="玛丽" # the II
 	female=yes
 	dynasty=123 # de Menteith
 	religion="catholic"
@@ -9036,7 +9036,7 @@
 }
 
 188949 = {  	
-	name="Margaret"
+	name="玛格丽特"
 	female=yes
 	dynasty=214013 # Graham
 	religion="catholic"
@@ -9052,7 +9052,7 @@
 }
 
 188950 = {  	
-	name="John"
+	name="约翰"
 	dynasty=214013 # Graham
 	religion="catholic"
 	culture="scottish"
@@ -9068,7 +9068,7 @@
 }
 
 188951 = {  	
-	name="Andrew"
+	name="安德鲁"
 	dynasty=101601 # Crawford
 	religion="catholic"
 	culture="scottish"
@@ -9082,7 +9082,7 @@
 }
 
 188952 = {  	
-	name="Susanna" 
+	name="苏珊娜" 
 	female = yes
 	dynasty=101601 # Crawford
 	religion="catholic"
@@ -9097,7 +9097,7 @@
 }
 
 188953 = {  	
-	name="Alan" # the II
+	name="阿兰" # the II
 	dynasty=123 # de Menteith
 	religion="catholic"
 	culture="scottish"
@@ -9111,7 +9111,7 @@
 }
 
 188954 = {  	
-	name="Reginald"
+	name="雷吉纳德"
 	dynasty=101601 # Crawford
 	religion="catholic"
 	culture="scottish"
@@ -9125,7 +9125,7 @@
 }
 
 188955 = {  	
-	name="Hugh" # Sheriff of Ayr
+	name="休" # Sheriff of Ayr
 	dynasty=101601 # Crawford
 	religion="catholic"
 	culture="scottish"
@@ -9139,7 +9139,7 @@
 }
 
 188956 = {  	
-	name="Margaret"
+	name="玛格丽特"
 	female=yes
 	dynasty=101601 # Crawford
 	religion="catholic"
@@ -9154,7 +9154,7 @@
 }
 
 188957 = {  	
-	name="Alan"
+	name="阿兰"
 	dynasty=3133 # Wallace
 	religion="catholic"
 	culture="scottish"
@@ -9170,7 +9170,7 @@
 }
 
 188958 = {  	
-	name="William"
+	name="威廉"
 	dynasty=3133 # Wallace
 	religion="catholic"
 	culture="scottish"
@@ -9190,7 +9190,7 @@
 }
 
 188959 = {  	
-	name="Malcolm"
+	name="马尔科姆"
 	dynasty=3133 # Wallace
 	religion="catholic"
 	culture="scottish"
@@ -9205,7 +9205,7 @@
 }
 
 188960 = {  	
-	name="John"
+	name="约翰"
 	dynasty=3133 # Wallace
 	religion="catholic"
 	culture="scottish"
@@ -9220,7 +9220,7 @@
 }
 
 188961 = {  	
-	name="Hugh" # Sheriff of Ayr
+	name="休" # Sheriff of Ayr
 	dynasty=101601 # Crawford
 	religion="catholic"
 	culture="scottish"
@@ -9235,7 +9235,7 @@
 }
 
 188962 = {  	
-	name="Reginald" # Sheriff of Ayr
+	name="雷吉纳德" # Sheriff of Ayr
 	dynasty=101601 # Crawford
 	religion="catholic"
 	culture="scottish"
@@ -9252,7 +9252,7 @@
 }
 
 188963 = {  	
-	name="Margaret" 
+	name="玛格丽特" 
 	female=yes
 	dynasty=214014 # de Loudoun
 	religion="catholic"
@@ -9267,7 +9267,7 @@
 }
 
 188964 = {  	
-	name="Gaulterus"
+	name="高卢特鲁斯"
 	dynasty=101601 # Crawford
 	religion="catholic"
 	culture="scottish"
@@ -9280,7 +9280,7 @@
 }
 
 188965 = {  	
-	name="James" 
+	name="詹姆斯" 
 	dynasty=214014 # de Loudoun
 	religion="catholic"
 	culture="scottish"
@@ -9294,7 +9294,7 @@
 }
 
 188966 = {  	
-	name="Lambinus" 
+	name="兰比努斯" 
 	dynasty=214014 # de Loudoun
 	religion="catholic"
 	culture="scottish"
@@ -9307,7 +9307,7 @@
 }
 
 188870 = {
-	name="Gilbride"
+	name="吉尔布里德"
 	dynasty=25046 # Somhairle
 	religion="catholic"
 	culture="scottish"
@@ -9320,7 +9320,7 @@
 }
 
 188871 = {
-	name="Effie" # first name unknown
+	name="埃菲" # first name unknown
 	female=yes
 	dynasty=25046 # Somhairle
 	religion="catholic"
@@ -9335,7 +9335,7 @@
 }
 
 188872 = {
-	name="Olaf"
+	name="奥拉夫"
 	dynasty=3109 # MacDougall
 	religion="catholic"
 	culture="scottish"
@@ -9349,7 +9349,7 @@
 }
 
 188873 = {
-	name="Raynald"
+	name="雷纳尔德"
 	dynasty=3109 # MacDougall
 	religion="catholic"
 	culture="scottish"
@@ -9363,7 +9363,7 @@
 }
 
 188874 = {
-	name="Alexander"
+	name="亚历山大"
 	dynasty=3109 # MacDougall
 	religion="catholic"
 	culture="scottish"
@@ -9383,7 +9383,7 @@
 }
 
 188875 = {
-	name="Mary"
+	name="玛丽"
 	female=yes
 	dynasty=3109 # MacDougall
 	religion="catholic"
@@ -9398,7 +9398,7 @@
 }
 
 188877 = {
-	name="John"
+	name="约翰"
 	dynasty=3109 # MacDougall
 	religion="catholic"
 	culture="scottish"
@@ -9416,7 +9416,7 @@
 }
 
 188878 = {
-	name="Ewan"
+	name="尤恩"
 	dynasty=3109 # MacDougall
 	religion="catholic"
 	culture="scottish"
@@ -9431,7 +9431,7 @@
 }
 
 188879 = {
-	name="Malina" # name unknown
+	name="玛丽娜" # name unknown
 	female=yes
 	dynasty=101600 # Comyn
 	religion="catholic"
@@ -9446,7 +9446,7 @@
 }
 
 188880 = {
-	name="Ewan"
+	name="尤恩"
 	dynasty=3109 # MacDougall
 	religion="catholic"
 	culture="scottish"
@@ -9460,7 +9460,7 @@
 }
 
 188881 = {
-	name="Alan"
+	name="阿兰"
 	dynasty=3109 # MacDougall
 	religion="catholic"
 	culture="scottish"
@@ -9474,7 +9474,7 @@
 }
 
 188882 = {
-	name="Somhairle"
+	name="松海勒"
 	dynasty=3109 # MacDougall
 	religion="catholic"
 	culture="scottish"
@@ -9488,7 +9488,7 @@
 }
 
 188883 = {
-	name="Alexander"
+	name="亚历山大"
 	dynasty=3109 # MacDougall
 	religion="catholic"
 	culture="scottish"
@@ -9502,7 +9502,7 @@
 }
 
 188884 = {
-	name="Mary"
+	name="玛丽"
 	female=yes
 	dynasty=3109 # MacDougall
 	religion="catholic"
@@ -9517,7 +9517,7 @@
 }
 
 188885 = {
-	name="John"
+	name="约翰"
 	dynasty=3109 # MacDougall
 	religion="catholic"
 	culture="scottish"
@@ -9532,7 +9532,7 @@
 }
 
 188886 = {
-	name="Alexander"
+	name="亚历山大"
 	dynasty=3101 # MacDonald
 	religion="catholic"
 	culture="scottish"
@@ -9549,7 +9549,7 @@
 }
 
 188887 = {
-	name="Ruairi"
+	name="鲁艾里"
 	dynasty=25024 # Macruari
 	religion="catholic"
 	culture="scottish"
@@ -9563,7 +9563,7 @@
 }
 
 332013 = {
-	name="Ailean"
+	name="艾勒安"
 	dynasty=25024
 	martial=1
 	diplomacy=2
@@ -9581,7 +9581,7 @@
 }
 
 332012 = {
-	name="Dubhghall"
+	name="杜布哈尔"
 	dynasty=25024
 	martial=7
 	diplomacy=2

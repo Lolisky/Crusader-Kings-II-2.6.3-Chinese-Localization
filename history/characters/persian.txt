@@ -356,7 +356,7 @@
 }
 
 220996 = {
-	name="Shahriyar"
+	name="É³¹şÀïÑÇ¶û"
 	dynasty=7331
 	father=160295
 	martial=5
@@ -376,7 +376,7 @@
 }
 
 220995 = {
-	name="Rostam"
+	name="ÂåË¹µ¤"
 	dynasty=7331
 	father=160295
 	martial=7
@@ -396,7 +396,7 @@
 }
 
 220994 = {
-	name="Al-Marzuban"
+	name="°¢¶û-Âí×æ°à"
 	dynasty=7331
 	father=220995
 	martial=2
@@ -418,7 +418,7 @@
 
 
 220992 = {
-	name="Vandarin"
+	name="Íò´ïÁÖ"
 	dynasty=7331
 	father=220995 #fictional connection
 	martial=4
@@ -439,7 +439,7 @@
 }
 
 220993 = {
-	name="Abu Ja'far Muhammad"
+	name="°¢²¼¡¤¼Ö·¨¶û¡¤ÄÂº±Ä¬µÂ"
 	dynasty=7331
 	father=220992
 	martial=2
@@ -460,7 +460,7 @@
 }
 
 220991 = {
-	name="Sharyab" #Fictional character
+	name="É³ÀûÑÇ²·" #Fictional character
 	dynasty=7331
 	father=220992
 	martial=2
@@ -922,7 +922,7 @@
 }
 
 45105 = { 
-	name="ÂŞË¹Ì¹Ä·" # Rostam II (was likely Muslim already in real history - his father Karen appears to have converted)
+	name="ÂåË¹µ¤" # Rostam II (was likely Muslim already in real history - his father Karen appears to have converted)
 	dynasty=7331 # Bavandid
 	martial=5
 	diplomacy=6
@@ -4329,7 +4329,7 @@
 	}
 }
 188664 = {
-	name="ºÕÔúÀïÏ£" # fictitious holder of Hormuz
+	name="ºÕÔúºÕË¹ÆÕ" # fictitious holder of Hormuz
 	dynasty=1042138
 	religion="zoroastrian"
 	culture="persian"
@@ -4788,7 +4788,7 @@
 }
 
 146101 = {
-	name="É³À­¶û"
+	name="ÈøÀ­¶û"
 	dynasty=101873
 	religion="sunni"
 	culture="persian"
@@ -4817,7 +4817,7 @@
 }
 
 146103 = {
-	name="ÄÉÄ·À¼"
+	name="ÂíÄÂÀ¼"
 	dynasty=101873
 	religion="sunni"
 	culture="persian"
@@ -5249,7 +5249,7 @@
 }
 
 188666 = {
-	name="Kamran" # fictitious count of Khozistan
+	name="¿¨Ä·À¼" # fictitious count of Khozistan
 	dynasty=1042141
 	religion="mazdaki"
 	culture="persian"
