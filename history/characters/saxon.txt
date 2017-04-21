@@ -1694,7 +1694,7 @@
 }
 
 33357 = {
-	name="埃塞尔伯特"
+	name="伊特伯特"
 	dynasty=100072
 	religion="catholic"
 	culture="saxon"
@@ -2015,7 +2015,7 @@
 }
 
 161275 = {
-	name="阿德里克" 
+	name="埃特尔里克" 
 	dynasty=20022
 	religion="catholic"
 	culture="saxon"
@@ -2815,7 +2815,7 @@
 	}
 }
 205032 = {
-	name="埃塞尔巴德"
+	name="爱德巴德"
 	dynasty=1047001
 	religion="norse_pagan"
 	culture="saxon"
@@ -3205,7 +3205,7 @@
 	}
 }
 205010 = {
-	name="阿德里克" #Ecgric
+	name="埃特尔里克" #Ecgric
 	dynasty=1047000
 	religion="norse_pagan"
 	culture="saxon"
@@ -3296,7 +3296,7 @@
 	}
 }
 205017 = {
-	name="埃德里克" 
+	name="埃特尔里克" 
 	dynasty=1047000
 	religion="catholic"
 	culture="saxon"
@@ -3374,7 +3374,7 @@
 	}
 }
 205023 = {
-	name="奥斯沃德" # of East Anglia
+	name="奥斯瓦德" # of East Anglia
 	dynasty=626
 	religion="catholic"
 	culture="saxon"
@@ -4623,7 +4623,7 @@
 	}
 }
 205169 = {
-	name="席恩武夫" #
+	name="赛纽武夫" #
 	dynasty=1047006
 	religion="norse_pagan"
 	culture="saxon"
@@ -4766,7 +4766,7 @@
 	}
 }
 205180 = {
-	name="席恩武夫" #
+	name="赛纽武夫" #
 	dynasty=1047006
 	religion="catholic"
 	culture="saxon"
@@ -5011,7 +5011,7 @@
 	}
 }
 205119 = {
-	name="奥斯沃德" #
+	name="奥斯瓦德" #
 	dynasty=1047011
 	religion="catholic"
 	culture="saxon"
@@ -5053,7 +5053,7 @@
 	}
 }
 205122 = {
-	name="埃尔德里克" #
+	name="埃特尔里克" #
 	dynasty=1047011
 	religion="catholic"
 	culture="saxon"
@@ -5109,7 +5109,7 @@
 	}
 }
 205126 = {
-	name="阿德里克" #
+	name="埃特尔里克" #
 	dynasty=1047011
 	religion="catholic"
 	culture="saxon"
@@ -5262,7 +5262,7 @@
 	}
 }
 205139 = {
-	name="奥斯沃德" #
+	name="奥斯瓦德" #
 	dynasty=1047011
 	religion="catholic"
 	culture="saxon"
@@ -5611,7 +5611,7 @@
 	}
 }
 205197 = {
-	name="埃德尔里克"
+	name="埃特尔里克"
 	dynasty=1047009
 	religion="norse_pagan"
 	culture="saxon"
@@ -5717,7 +5717,7 @@
 	}
 }
 205205 = {
-	name="阿达尔里克"
+	name="埃特尔里克"
 	dynasty=1047008
 	religion="norse_pagan"
 	culture="saxon"
@@ -5819,7 +5819,7 @@
 	}
 }
 205212 = {
-	name="奥斯沃德"
+	name="奥斯瓦德"
 	dynasty=1047010
 	religion="catholic"
 	culture="saxon"
@@ -5959,7 +5959,7 @@
 	}
 }
 205222 = {
-	name="科奥武夫"
+	name="西奥武夫"
 	dynasty=1047021
 	religion="catholic"
 	culture="saxon"
@@ -6344,7 +6344,7 @@
 	}
 }
 205250 = {
-	name="奥斯沃德"
+	name="奥斯瓦德"
 	dynasty=1047022
 	religion="catholic"
 	culture="saxon"
@@ -6447,7 +6447,7 @@
 }
 
 214037 = {
-	name="Aldfrith"
+	name="阿尔德弗里德"
 	dynasty=214019
 	religion="catholic"
 	culture="saxon"
@@ -6461,7 +6461,7 @@
 }
 
 214038 = {
-	name="Eatta"
+	name="伊塔"
 	dynasty=214019
 	religion="catholic"
 	culture="saxon"
@@ -6475,7 +6475,7 @@
 }
 
 214039 = {
-	name="Eanfrith"
+	name="艾恩弗里斯"
 	dynasty=214019
 	religion="catholic"
 	culture="saxon"
@@ -6489,7 +6489,7 @@
 }
 
 214040 = {
-	name="Biscop"
+	name="比斯科普"
 	dynasty=214019
 	religion="catholic"
 	culture="saxon"
@@ -6503,7 +6503,7 @@
 }
 
 214041 = {
-	name="Beda"
+	name="贝达"
 	dynasty=214019
 	religion="catholic"
 	culture="saxon"
@@ -6517,7 +6517,7 @@
 }
 
 214042 = {
-	name="Blaecca"
+	name="布拉卡"
 	dynasty=214019
 	religion="norse_pagan"
 	culture="saxon"
@@ -6534,7 +6534,7 @@
 }
 
 214035 = { # Bishop of Lindsey
-	name="Ceolwulf" 
+	name="西奥武夫" 
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6547,7 +6547,7 @@
 }
 
 214036 = { # Bishop of Lindsey
-	name="Eadbald"
+	name="爱德巴德"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6560,7 +6560,7 @@
 }
 
 214033 = { # Bishop of London
-	name="Wigheah"
+	name="怀希哈"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6573,7 +6573,7 @@
 }
 
 214034 = { # Bishop of London
-	name="Swithwulf"
+	name="斯韦斯武夫"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6586,7 +6586,7 @@
 }
 
 214031 = { # Bishop of Lichfield
-	name="Cuthfrith"
+	name="库斯弗里斯"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6599,7 +6599,7 @@
 }
 
 214032 = { # Bishop of Lichfield
-	name="Wulfsige"
+	name="武夫希格"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6612,7 +6612,7 @@
 }
 
 188915 = { # Bishop of York
-	name="Aethelbert"
+	name="伊特伯特"
 	religion="catholic"
 	culture="saxon"
 	learning = 12
@@ -6627,7 +6627,7 @@
 }
 
 188916 = { # Bishop of York
-	name="Wulfhere"
+	name="武夫希尔"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6640,7 +6640,7 @@
 }
 
 188917 = { # Bishop of York
-	name="Ealdred"
+	name="爱德雷德"
 	religion="catholic"
 	culture="saxon"
 	learning = 7
@@ -6656,7 +6656,7 @@
 }
 
 188918 = { # Carolingian scholar
-	name="Alcuin"
+	name="阿尔昆"
 	religion="catholic"
 	culture="saxon"
 	learning = 13
@@ -6675,7 +6675,7 @@
 }
 
 188919 = { # Bishop of Sherborne
-	name="Herewald"
+	name="黑赫瓦尔特"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6688,7 +6688,7 @@
 }
 
 214030 = { # Bishop of Sherborne
-	name="Heahmund"
+	name="哈蒙特"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6701,7 +6701,7 @@
 }
 
 214044 = { # Bishop of Hereford
-	name="Deorlaf"
+	name="迪奥拉夫"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6714,7 +6714,7 @@
 }
 
 214045 = { # Bishop of Lindisfarne
-	name="Cynewulf"
+	name="赛纽武夫"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6727,7 +6727,7 @@
 }
 
 214046 = { # Bishop of Selsey
-	name="Oswald"
+	name="奥斯瓦德"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6740,7 +6740,7 @@
 }
 
 214047 = { # Bishop of Selsey
-	name="Aethelric"
+	name="埃特尔里克"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6753,7 +6753,7 @@
 }
 
 214048 = { # Bishop of Rochester
-	name="Diora"
+	name="迪奥拉"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6766,7 +6766,7 @@
 }
 
 214049 = { # Bishop of Rochester
-	name="Cuthwulf"
+	name="库斯武夫"
 	religion="catholic"
 	culture="saxon"
 	learning = 8
@@ -6779,7 +6779,7 @@
 }
 
 214050 = { # Bishop of Rochester
-	name="Siward"
+	name="希沃特"
 	religion="catholic"
 	culture="saxon"
 	learning = 8

@@ -17,14 +17,14 @@
 
 ## 4.下载使用
 
-手头准备一个能正常运行的2.6.2/2.6.3，下载
-[4月7日版](https://github.com/Lolisky/Crusader-Kings-II-2.6.3-Chinese-Localization/releases/download/0.9/CK2_2.6.3_Chinese-Localization_20170407.zip)，覆盖到根目录。
-
-GayHub下不动的话可以去度盘拖。
+1. 手头准备一个能正常运行的2.6.2/2.6.3。
+2. 伸手党去度盘拖，解压后覆盖到根目录。
 
 ![辣鸡度盘](https://github.com/Lolisky/Crusader-Kings-II-2.6.3-Chinese-Localization/blob/master/tools/dudisk.png)
 
-
+3. 想做小白鼠：下载度盘版或者
+[4月7日版](https://github.com/Lolisky/Crusader-Kings-II-2.6.3-Chinese-Localization/releases/download/0.9/CK2_2.6.3_Chinese-Localization_20170407.zip)，解压后覆盖到根目录。
+然后下载[master.zip](https://github.com/Lolisky/Crusader-Kings-II-2.6.3-Chinese-Localization/archive/master.zip)，解压后再覆盖一次。
 
 在本包上再自行覆盖其他包出什么情况我们都懒得管。
 
@@ -42,15 +42,19 @@ GayHub下不动的话可以去度盘拖。
 
 ## 6.更新日志
 
+### 20170420 继续历史人名，现剩846个。
+
+### 20170417 补全遗漏地名；继续历史人名，现剩余1213个。
+
 ### 20170407 集成2.6.3伪汉化中的人名
 
 ### 20170402 修正了一部分问号
 
-### 20170327 全面校对完成
+### 20170327 事件和UI文本校对完成
 
-### 20170302 修改了一些翻译
+### 20170302 修订了一些翻译
 
-### 20170128 搞了个稳定版
+### 20170128 经测试，搞了个稳定版
 
 ### 20170116 v2.4x全部校对完成
 
