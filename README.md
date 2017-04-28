@@ -33,7 +33,7 @@
 
 注：Steam用户按此步骤降级到2.6.3：
 
-![辣鸡G胖](https://github.com/Lolisky/Crusader-Kings-II-2.6.3-Chinese-Localization/blob/master/tools/dudisk.png)
+![辣鸡G胖](https://github.com/Lolisky/Crusader-Kings-II-2.6.3-Chinese-Localization/blob/master/tools/steam.png)
 
 ## 5.本包基于：
 
@@ -48,6 +48,10 @@
   * 基于此包21日的正式版。由于校对篇幅有交叉，未来不再持续引用。
 
 ## 6.更新日志
+
+### 20170426 实现文本完整汉化。
+
+### 20170424 剩余157个。
 
 ### 20170420 继续历史人名，现剩846个。
 
