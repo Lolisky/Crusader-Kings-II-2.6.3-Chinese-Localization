@@ -33,7 +33,7 @@
 
 注：Steam用户按此步骤降级到2.6.3：
 
-![辣鸡G胖](https://github.com/Lolisky/Crusader-Kings-II-2.6.3-Chinese-Localization/blob/master/tools/steam.png)
+![辣鸡G胖](https://github.com/Lolisky/Crusader-Kings-II-2.6.3-Chinese-Localization/blob/master/tools/Steam.png)
 
 ## 5.本包基于：
 
