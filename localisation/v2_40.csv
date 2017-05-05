@@ -35,7 +35,7 @@ alert_available_title_decision_instant;§YÌØÊâÍ·ÏÎĞĞÎª¿ÉÓÃ§!;§YActions spéciales 
 alert_available_title_decision_delayed;ÏÂÊöÌØÊâÍ·ÏÎĞĞÎª¿ÉÓÃ£º\n$LIST$;Les actions spéciales de titre suivantes sont disponibles?\n$LIST$;Folgende Sonderaktionen sind verfügbar:\n$LIST$;;Están disponibles las siguientes acciones especiales de título: \n$LIST$;;;;;;;;;x
 alert_available_settlement_decision_instant;§YÌØÊâµØ²úĞĞÎª¿ÉÓÃ§!;§YActions spéciales de propriét?possibles!?;§YSpezielle Siedlungsaktionen möglich?;;¡§YPosibles acciones especiales de asentamiento?;;;;;;;;;x
 alert_available_settlement_decision_delayed;ÏÂÊöÌØÊâµØ²úĞĞÎª¿ÉÓÃ£º\n$LIST$;Les actions spéciales de propriét?suivantes sont disponibles?\n$LIST$;Folgende Sonderaktionen sind verfügbar:\n$LIST$;;Están disponibles las siguientes acciones especiales de asentamiento: \n$LIST$;;;;;;;;;x
-FLANK_DAMAGE_FINAL;Final Damage Values: §Y$DAMAGE$§!ÉËº¦(£1£)£¬§Y$MORALE_DAMAGE$§!Ê¿ÆøÉËº¦(£2£);Valeur finale de dégâts? §Y$DAMAGE$? Dégâts (??, §Y$MORALE_DAMAGE$? Dégâts moraux (??;Abschließende Schadenswerte: §Y$DAMAGE$? Schaden (??, §Y$MORALE_DAMAGE$? Moralschaden (??;;Valores de daño final: §Y$DAMAGE$? Daño (??, §Y$MORALE_DAMAGE$? Daño moral (??;;;;;;;;;x
+FLANK_DAMAGE_FINAL;×îÖÕÉËº¦Öµ£º§Y$DAMAGE$§!ÉËº¦(£1£)£¬§Y$MORALE_DAMAGE$§!Ê¿ÆøÉËº¦(£2£);Valeur finale de dégâts? §Y$DAMAGE$? Dégâts (??, §Y$MORALE_DAMAGE$? Dégâts moraux (??;Abschließende Schadenswerte: §Y$DAMAGE$? Schaden (??, §Y$MORALE_DAMAGE$? Moralschaden (??;;Valores de daño final: §Y$DAMAGE$? Daño (??, §Y$MORALE_DAMAGE$? Daño moral (??;;;;;;;;;x
 TACTICAL_DISADVANTAGE;Ãæ¶Ô§Y$TACTIC$§!£¬ÊÜµ½³Í·££º$PERC$;Pénalit?contre §Y$TACTIC$?? $PERC$;Malus bei §Y$TACTIC$?: $PERC$;;Penalización contra §Y$TACTIC$?: $PERC$;;;;;;;;;x
 TOTAL_DEFENCE;·ÀÓùºÏ¼Æ£º§Y$DEF$§!;Défense totale? §Y$DEF$?;Gesamtwert Verteidigung: §Y$DEF$?;;Defensa total:§Y$DEF$?;;;;;;;;;x
 COMBATVIEW_TOTALTROOPS;Ê£Óà×Ü±øÁ¦\n§Gµã»÷ÏÔÊ¾²àÒíµÄ×é³É§!;Total des troupes restantes\n§GCliquez pour afficher la composition des flancs?;Gesamtzahl verbleibender Truppen\n§GMausklick für Details der Flanken?;;Total de tropas restantes\n§G¡Haz clic para mostrar composición de flancos?;;;;;;;;;x
@@ -248,7 +248,7 @@ custom_danish;µ¤Âó;Danemark;Dänemark;;Dinamarca ;;;;;;;;;x
 custom_norwegian;Å²Íş;Norvège;Norwegen;;Noruega;;;;;;;;;x
 custom_scotland;ËÕ¸ñÀ¼;Écosse;Schottland;;Escocia ;;;;;;;;;x
 opinion_humiliated_rival;±»ËŞµĞĞßÈè;Humiliation de la part d'une personne rivale;Durch Rivalen gedemütigt;;Humillado por rival;;;;;;;;;x
-MAPMODE_REALM;§YÁìµØ§!;§YRoyaumes?;§YReiche?;;§YRealms?;;;;;x
+MAPMODE_REALM;§Y¶ÀÁ¢ÁìÖ÷§!;§YRoyaumes?;§YReiche?;;§YRealms?;;;;;x
 PROV1347;Ëş¿ËÀ­Âê¸ÉÉ³Ä®;Désert du Taklamakan;Taklamakanwüste;;Desierto de Taklamakán;;;;;;;;;x
 pyramid;½ğ×ÖËş;Pyramide;Pyramide;;Pirámide;;;;;;;;;x
 k_mongolia;ÃÉ¹Å;Mongolie;Mongolei;;Mongolia;;;;;;;;;x
@@ -268,8 +268,8 @@ tower_stands;ËşÂ¥´£Á¢¡£;La tour reste debout.;Turm bleibt stehen.;;Torre permane
 promised_to_clear_out_heresy;³ĞÅµÇå³ıÒì¶Ë;A promis d'éradiquer toute forme d'hérésie;Versprach, der Ketzerei ein Ende zu setzen;;Promete limpiar la herejía.;;;;;;;;;x
 alert_can_tech_name;Äã¿ÉÒÔÍ¶×Ê¿Æ¼¼;Vous pouvez investir en technologie.;Du kannst in Technologie investieren;;Puedes invertir en tecnología;;;;;;;;;x
 MAPMODE_REALM_DESC;¸ÃµØÍ¼ÏÔÊ¾ËùÓĞ¶ÀÁ¢ÁìµØ¼°ÆäÏÂÊô½á¹¹¡£;Ce mode de carte affiche tous les royaumes indépendants et leurs fondations.;Dieser Kartenmodus zeigt die unabhängigen Reiche und deren Aufbau.;;Este modo mapa muestra todos los reinos independientes y sus subestructuras.;;;;;x
-MAPMODE_REALM_ONMAP_TOOLTIP_DESC1;°´§GCtrl+×ó¼ü?ÏÔÊ¾§Y$REALM$?µÄÏÂ¼¶ÁìµØ;Appuyez sur §GControl + Clic gauche? pour afficher les territoires vassaux en §Y$REALM$?;§GStrg + Linksklick? für Anzeige der angeschlossenen Reiche von §Y$REALM$?;;Pulsar §GControl + Click con el botón izquierdo? para mostrar los reinos menores de §Y$REALM$?;;;;;x
-MAPMODE_REALM_ONMAP_TOOLTIP_DESC2;°´§GCtrl+ÓÒ¼ü?Òş²Ø§Y$REALM$?µÄÏÂ¼¶ÁìµØ;Appuyez sur §GControl + Clic droit? pour masquer les territoires vassaux en §Y$REALM$?;§GStrg + Linksklick? zum Ausblenden der angeschlossenen Reiche von §Y$REALM$?;;Pulsar §GControl + Click con el botón derecho? para ocultar reinos menores de §Y$REALM$?;;;;;x
+MAPMODE_REALM_ONMAP_TOOLTIP_DESC1;°´§GCtrl+×ó¼ü§!ÏÔÊ¾§Y$REALM$§!µÄÏÂ¼¶ÁìµØ;Appuyez sur §GControl + Clic gauche? pour afficher les territoires vassaux en §Y$REALM$?;§GStrg + Linksklick? für Anzeige der angeschlossenen Reiche von §Y$REALM$?;;Pulsar §GControl + Click con el botón izquierdo? para mostrar los reinos menores de §Y$REALM$?;;;;;x
+MAPMODE_REALM_ONMAP_TOOLTIP_DESC2;°´§GCtrl+ÓÒ¼ü§!Òş²Ø§Y$REALM$§!µÄÏÂ¼¶ÁìµØ;Appuyez sur §GControl + Clic droit? pour masquer les territoires vassaux en §Y$REALM$?;§GStrg + Linksklick? zum Ausblenden der angeschlossenen Reiche von §Y$REALM$?;;Pulsar §GControl + Click con el botón derecho? para ocultar reinos menores de §Y$REALM$?;;;;;x
 MAPMODE_GOVERNMENTS;§YÕşÌå§!;§YGouvernements?;§YRegierungsformen?;;§YGobiernos?;;;;;;;;;x
 MAPMODE_GOVERNMENTS_DESC;Õâ¸öµØÍ¼Ä£Ê½ÏÔÊ¾²»Í¬µÄÕşÌå¡£;Ce mode de carte montre les différents gouvernements.;Dieser Kartenmodus zeigt die verschiedenen Regierungsformen an.;;Este modo de mapa muestra los distintos gobiernos.;;;;;;;;;x
 ;#REVOKE_TITLE_INTERACTION_2G;Our $GOVERNMENT$ administration allows us to revoke Emirates without objections from the aristocracy.;;Unsere $GOVERNMENT$-Verwaltung erm?glicht uns die R¨¹ckforderung von Emiraten ohne Widerspruch der Aristokratie.;;La administraci¨®n de nuestro $GOVERNMENT$ nos permite revocar los emiratos sin objeciones de la aristocracia.;;;;;;;;;x;

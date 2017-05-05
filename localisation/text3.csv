@@ -491,13 +491,13 @@ MENU_BAR_SAVE_GAME_DEL;´¢´æÓÎÏ·;Sauvegarder la partie;Spiel speichern;;Guardar l
 MENU_BAR_QUICK_SAVE_DEL;¿ìËÙ±£´æ;Sauvegarde rapide;Schnellspeichern;;Guardado rápido;;;;;;;;;x
 CURRENT_TAX;µ±Ç°µÄ»ù´¡Ë°ÊÕ£º§Y$TAX$§!;Impôts de base actuels? §Y$TAX$?;Aktuelle Grundsteuer: §Y$TAX$?!;;Impuesto básico actual: §Y$TAX$?;;;;;;;;;x
 MAPMODE_EMPIRES;§Y·¨ÀíµÛ¹úµØÍ¼§!;§YEmpires de jure?;§YDe Jure-Reiche?;;§YImperios de iure?;;;;;;;;;x
-MAPMODE_EMPIRES_DESC;Õâ¸öµØÍ¼Ä£Ê½ÏÔÊ¾Å·ÖŞËùÓĞ´«Í³£¨·¨ÀíÉÏµÄ£©µÛ¹ú;Ce mode de carte présente tous les empires géographiques et traditionnels (dits 'de jure').;Dieser Kartenmodus zeigt alle geographischen und traditionellen ('de jure') Reiche Europas an.;;Este modo del mapa muestra todos los imperios geográficos y tradicionales ('de iure') de Europa.;;;;;;;;;x
+MAPMODE_EMPIRES_DESC;Õâ¸öµØÍ¼Ä£Ê½ÏÔÊ¾ËùÓĞµØÀíºÍ´«Í³£¨¡®·¨Àí¡¯£©µÄµÛ¹ú;Ce mode de carte présente tous les empires géographiques et traditionnels (dits 'de jure').;Dieser Kartenmodus zeigt alle geographischen und traditionellen ('de jure') Reiche Europas an.;;Este modo del mapa muestra todos los imperios geográficos y tradicionales ('de iure') de Europa.;;;;;;;;;x
 MAPMODE_ECONOMY;§Y¾­¼ÃµØÍ¼§!;§YÉconomie?;§YWirtschaft?;;§YEconomía?;;;;;;;;;x
 MAPMODE_ECONOMY_DESC;Õâ¸öµØÍ¼Ä£Ê½ÏÔÊ¾¸÷Ê¡·İµÄÊÕÈëË®Æ½;Ce mode de carte présente les niveaux de revenus des comtés.;Dieser Kartenmodus zeigt die Einkommensstufen der Grafschaften an.;;Este modo del mapa muestra los niveles de ingresos de los condados.;;;;;;;;;x
 MAPMODE_REVOLT_RISK;§YÅÑÂÒµØÍ¼§!;§YRisque de révolte?;§YRevoltenrisiko?;;§YRiesgo de revuelta?;;;;;;;;;x
 MAPMODE_REVOLT_RISK_DESC;Õâ¸öµØÍ¼Ä£Ê½ÏÔÊ¾Å©ÃñÅÑÂÒµÄ·çÏÕ;Ce mode de carte présente le risque de soulèvement des paysans.;Dieser Kartenmodus zeigt das Risiko von Bauernrevolten an.;;Este modo del mapa muestra el riesgo de un levantamiento del campesinado.;;;;;;;;;x
 MAPMODE_DYNASTY;§Y¼Ò×åµØÍ¼§!;§YDynasties?;§YDynastien?;;§YDinastías?;;;;;;;;;x
-MAPMODE_DYNASTY_DESC;Õâ¸öµØÍ¼Ä£Ê½ÏÔÊ¾Å·ÖŞ¸÷´óÍ³ÖÎ¼Ò×å;Ce mode de carte présente les dynasties régnantes.;Dieser Kartenmodus zeigt die Herrscherdynastien Europas an.;;Este modo del mapa muestra las dinastías gobernantes de Europa.;;;;;;;;;x
+MAPMODE_DYNASTY_DESC;Õâ¸öµØÍ¼Ä£Ê½ÏÔÊ¾ÕıÔÚÍ³ÖÎ¼Ò×å;Ce mode de carte présente les dynasties régnantes.;Dieser Kartenmodus zeigt die Herrscherdynastien Europas an.;;Este modo del mapa muestra las dinastías gobernantes de Europa.;;;;;;;;;x
 MAPMODE_OPINIONS;§YºÃ¸ĞµØÍ¼§!;§YOpinions?;§YMeinungen?;;§YOpiniones?;;;;;;;;;x
 MAPMODE_OPINIONS_DESC;Õâ¸öµØÍ¼Ä£Ê½ÏÔÊ¾ÆäËûÍ³ÖÎÕß¶Ô±»Ñ¡ÖĞÕßµÄºÃ¸Ğ;Ce mode de carte présente les opinions des autres souverains ?l'égard du personnage sélectionn?;Dieser Kartenmodus zeigt Euch die Meinungen der anderen Herrscher über den ausgewählten Charakter an.;;Este modo del mapa muestra las opiniones de otros gobernantes sobre el personaje seleccionado.;;;;;;;;;x
 THREAT_IMPRISONED;±»¾Ğ½û;Emprisonn?Eingekerkert;;Apresado;;;;;;;;;x
