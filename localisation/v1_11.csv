@@ -3,13 +3,13 @@ MENU_BAR_GAME_CONVERT;导出游戏;Exporter une partie;Spiel exportieren;;Exportar P
 MENU_BAR_GAME_CONVERT_DEL;把游戏导出至欧陆风云4;Exporter une partie vers EU4;Spiel nach EU4 exportieren;;Exportar partuda a EU4;;;;;;;;;x
 BARBER_TOOLTIP;理发;Aller chez le barbier;Zum Barbier gehen;;Ir al Peluquero;;;;;;;;;x
 RENAME_TITLE_TOOLTIP;头衔重命名;Renommer titre;Titel umbenennen;;Renombrar T韙ulo;;;;;;;;;x
-CUSTOMIZE_HOUSE_TOOLTIP;选择家族;Personnaliser dynastie;Haus anpassen;;Personaliza tu Dinast韆;;;;;;;;;x
+CUSTOMIZE_HOUSE_TOOLTIP;自定义家族;Personnaliser dynastie;Haus anpassen;;Personaliza tu Dinast韆;;;;;;;;;x
 CUSTOMIZE_HOUSE_TOOLTIP_DISABLED;你不能选择该王朝，因为你必须成为其所有成员的最高领主。;Vous ne pouvez pas personnaliser cette dynastie car vous devez 阾re le plus haut seigneur de tous ses membres.;Du kannst diese Dynastie nicht anpassen, da du der oberste Lehnsherr all ihrer Mitglieder sein musst.;;No puedes personalizar esta dinast韆 porque tienes que ser el Se駉r de todos sus miembros.;;;;;;;;;x
 c_lappland_adj;拉普兰;samie;Samisch;;S醦mi;;;;;;;;;x
 RENAME;重命名;Renommer;Umbenennen;;Renombrar;;;;;;;;;x
 NAME;命名;Nom;Name;;Nombre;;;;;;;;;x
 ADJECTIVE;形容词;Gentil?Adjektiv;;Adjetivo;;;;;;;;;x
-POSSIBLE_PLOT_POWER;可能需要的密谋点数;Puissance possible du complot;M鰃liche Verschw鰎ungsstaerke;;Potencial posible del complot;;;;;;;;;x
+POSSIBLE_PLOT_POWER;可能密谋点数;Puissance possible du complot;M鰃liche Verschw鰎ungsstaerke;;Potencial posible del complot;;;;;;;;;x
 AUTO_INVITE_PLOTTERS;自发密谋参与者;Invitation automatique des comploteurs;Verschw鰎er automatisch einladen;;Autoinvitar conspiradores;;;;;;;;;x
 AUTO_STOP_PLOTS;自发停止密谋;Arr阾 automatique des complots;Verschw鰎ungen automatisch beenden;;Autodetener complots;;;;;;;;;x
 AUTO_STOPPED_PLOT_SETUP;密谋被揭发;Complot d閏ouvert;Verschw鰎ung aufgedeckt;;Complot descubierto;;;;;;;;x
@@ -38,7 +38,7 @@ city_job_chancellor_iranian;大维齐尔;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
 city_job_chancellor_turkish;大维齐尔;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
 city_job_chancellor_west_african;大维齐尔;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
 city_job_chancellor_greek;百官之首;Magistros;Magistros;;Magistros;;;;;;;;;x
-city_job_spymaster_greek;神秘书记;Mystikos;Mystikos;;Mystikos;;;;;;;;;x
+city_job_spymaster_greek;神秘书吏;Mystikos;Mystikos;;Mystikos;;;;;;;;;x
 city_job_treasurer_greek;宝库总管;Sakellarios;Sakellarios;;Sakellarios;;;;;;;;;x
 ;#city_job_marshal_greek;Strategos;;Strategos;;Estratega;;;;;;;;;x;
 city_job_chancellor_aztec;蛇女;Cihuacoatl;Cihuacoatl;;Cihuacoatl;;;;;;;;;x
@@ -48,7 +48,7 @@ city_job_spymaster_aztec;暗殿守卫;Tillancalqui;Tillancalqui;;Tillancalqui;;;;;;;
 city_job_marshal_aztec;人类切割者;Tlacateccatl;Tlacateccatl;;Tlacateccatl;;;;;;;;;x
 city_job_chancellor_zoroastrian_group;百官之主;Astabadh;Astabadh;;Astabadh;;;;;;;;;x
 city_job_treasurer_zoroastrian_group;内库总管;Darik-Pat;Darik-Pat;;Darik-Pat;;;;;;;;;x
-city_job_marshal_zoroastrian_group;伊兰将军;Eran Spahbod;Eran Spahbod;;Eran Spahbod;;;;;;;;;x
+city_job_marshal_zoroastrian_group;伊兰斯帕波德;Eran Spahbod;Eran Spahbod;;Eran Spahbod;;;;;;;;;x
 city_job_spiritual_zoroastrian_group;大祭司;Mobad;Mobad;;Mobad;;;;;;;;;x
 city_job_spiritual_zoroastrian;大祭司;Mobad;Mobed;;Mobad;;;;;;;;;x
 city_job_spiritual_christian;宫廷牧师;Chapelain;Hofprediger;;Capell醤;;;;;;;;;x

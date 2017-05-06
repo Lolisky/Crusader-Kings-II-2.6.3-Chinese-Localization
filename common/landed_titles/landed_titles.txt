@@ -82,12 +82,12 @@ k_orthodox = {
 	
 	# Regnal names
 	male_names = {
-		Alexios Anastasios Arsenios Athanasios Antonios	Basileios Dositheos Eustathios Eustratios
-		Euthymios Georgios Gerasimos Germanos Gregorios Ignatios Ioannes Ioseph Isaias Isidoros
-		Kallistos Konstantinos Kosmas Leon Loukas Makarios Manuel Matthaios Maximos Methodios
-		Metrophanes Michael Neophytos Nephon Nikolaos Nikephoros Nilos Pavlos Philotheos Photios
-		Polyeuktos Sergios Sisinnios Stephanos Tarasios Theodoros Theodosios Theodotos Theoleptos
-		Theophanes Theophylaktos Tryphon Zacharias
+		阿莱克西 阿纳斯塔西 阿尔塞尼 阿塔纳西 安托尼 瓦西里 多西德奥 艾弗斯塔提 艾弗斯特拉提
+		艾弗提弥 格奥尔吉 革拉西默 革尔曼 格里高利 伊格纳提 约安尼基 约熙福 伊撒依亚 伊西多若
+		卡利斯托 君士坦丁 科斯玛 莱翁提 路加 玛喀里 埃玛努伊尔 玛特泰 玛克息默 麦托迪
+		弥特若梵 弥哈伊尔 奈奥斐特 尼丰 尼科拉 尼基佛若 尼尔 帕弗罗 斐洛德奥 佛提
+		颇利艾弗克特 塞尔吉 西息尼 斯特梵 塔拉西 德奥多若 德奥多西 德奥多特 德奥利普托
+		德奥梵 德奥斐拉克特 特里丰 匝哈里亚
 	}
 }
 
@@ -32081,9 +32081,9 @@ d_miaphysite = {
 	
 	# Regnal names
 	male_names = {
-		Abraham Alexandros Alexios Agatho Anastasios Andronikos Athanasios Benjamin Christodolos Cosmas Kyril Damian 
-		Demetrius Dioscorus Gabriel Yohannes Iosephos Isaakios Iakobos Makarios Markianos Markos Matheos Khail Mina 
-		Petros Philotheos Shenouda Simeon Theodoros Theophilus Timotheos Zacharias
+		亚伯拉罕 亚历山大 阿莱克修斯 亚加杜 阿纳斯塔修斯 安德洛尼科斯 阿萨纳修斯 本杰明 克里斯托多罗斯 科斯马斯 基利尔 达米安 
+		迪米特里乌斯 狄奥斯科鲁斯 加百列 约翰尼斯 约瑟福 以赛基奥斯 雅克伯斯 马卡里奥斯 马基雅诺斯 马科斯 马修斯 哈伊尔 米那 
+		佩特罗斯 费洛修斯 谢努达 西米翁 修多罗斯 修费鲁斯 提摩西乌斯 泽查里亚斯
 	}
 }
 
@@ -32113,9 +32113,9 @@ d_monophysite = {
 	
 	# Regnal names
 	male_names = {
-		Abraham Alexandros Alexios Agatho Anastasius Andronicus Athanasios Benjamin Christodolos Cosmas Cyril Damian 
-		Demetrius Dioscorus Gabriel Ioannes Iosephos Isaakios Iakobos Makarios Markianos Matheos Michail Mina 
-		Petros Philotheos Shenouda Simeon Theodoros Theophilus Timotheos Zacharias
+		亚伯拉罕 亚历山达罗斯 阿莱克修斯 亚加杜 阿那斯塔西乌斯 安德罗尼库斯 阿萨纳西乌斯 本杰明 克里斯托多罗斯 科斯马斯 塞里尔 达米安 
+		迪米特里乌斯 狄奥斯科鲁斯 加百列 若安尼斯 约瑟夫斯 以撒吉奥斯 雅克伯斯 马卡里奥斯 马基雅诺斯 马修斯 米哈伊尔 米那 
+		佩特罗斯 费洛修斯 谢努达 西米翁 修多罗斯 修费鲁斯 提莫修斯 泽查利亚斯
 	}
 }
 
@@ -32145,8 +32145,8 @@ d_nestorian = {
 	
 	# Regnal names
 	male_names = {
-		Aba Abraham Eliya Denha Emmanuel Giwargis Hnanisho Ishoyahb Makkikha 
-		Maremmeh Pethion Sabrisho Shemon Sargis Surin Theodosios Timotheos Yahballaha Yohannan
+		亚伯 亚伯拉罕 埃利亚 敦哈 额曼纽尔 吉瓦基斯 哈尼肖 以肖亚 马基哈 
+		马力莫 毗西翁 萨博利肖 谢蒙 萨季斯 苏林 修多索斯 提莫修斯 雅巴拉哈 约含南
 	}
 }
 
@@ -32176,12 +32176,12 @@ d_paulician = {
 	
 	# Regnal names
 	male_names = {
-		Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Dionysios Dositheos 
-		Eustathios Eustratios Euthymios Gabriel Gennadios Georgios Gerasimos Germanos Gregorios Ieremias 
-		Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon 
-		Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael 
-		Neophytos Nephon Nikephoros Niketas Nikolaos Pavlos Petros Photios Polykarpos Sergios Stephanos 
-		Sophronios Theodoros Theodosios Theodotos Theophylaktos Thomas Timotheos
+		阿莱克修斯 亚历山德罗斯 阿纳斯塔修斯 安西莫斯 阿萨那修斯 安东尼奥斯 巴西雷奥斯 狄奥尼索斯 多西修斯 
+		尤斯塔修斯 尤斯特拉提乌斯 尤西米奥斯 加百列 杰那迪奥斯 乔吉奥斯 格拉西莫斯 日 尔玛诺斯 格雷果里奥斯 埃里米亚斯 
+		伊格纳缇奥斯 埃阿凯姆 若望尼斯 约瑟夫 伊西多鲁斯 考利尼克斯 考里斯托斯 君士坦丁诺斯 科马斯 基里罗斯 里昂 
+		里昂提诺斯 娄卡斯 马卡里奥斯 曼纽 马科斯 马修斯 马克西莫斯 梅里提奥斯 梅索迪奥斯 米特洛法尼斯 米迦勒 
+		尼奥费托斯 尼丰 尼科夫罗斯 尼科塔斯 尼古劳斯 帕夫洛斯 佩特罗斯 弗提奥斯 波利卡珀斯 谢吉奥斯 斯蒂法诺斯 
+		索夫罗尼奥斯 修多罗斯 修多席奥斯 修多陀斯 修斐拉卡托斯 托马斯 提莫修斯
 	}
 }
 
@@ -32211,12 +32211,12 @@ d_monothelite = {
 	
 	# Regnal names
 	male_names = {
-		Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Dionysios Dositheos 
-		Eustathios Eustratios Euthymios Gabriel Gennadios Georgios Gerasimos Germanos Gregorios Ieremias 
-		Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon 
-		Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael 
-		Neophytos Nephon Nikephoros Niketas Nikolaos Pavlos Petros Photios Polykarpos Sergios Stephanos 
-		Sophronios Theodoros Theodosios Theodotos Theophylaktos Thomas Timotheos
+		阿莱克修斯 亚历山德罗斯 阿纳斯塔修斯 安西莫斯 阿萨那修斯 安东尼奥斯 巴西雷奥斯 狄奥尼索斯 多西修斯 
+		尤斯塔修斯 尤斯特拉提乌斯 尤西米奥斯 加百列 杰那迪奥斯 乔吉奥斯 格拉西莫斯 日 尔玛诺斯 格雷果里奥斯 埃里米亚斯 
+		伊格纳缇奥斯 埃阿凯姆 若望尼斯 约瑟夫 伊西多鲁斯 考利尼克斯 考里斯托斯 君士坦丁诺斯 科马斯 基里罗斯 里昂 
+		里昂提诺斯 娄卡斯 马卡里奥斯 曼纽 马科斯 马修斯 马克西莫斯 梅里提奥斯 梅索迪奥斯 米特洛法尼斯 米迦勒 
+		尼奥费托斯 尼丰 尼科夫罗斯 尼科塔斯 尼古劳斯 帕夫洛斯 佩特罗斯 弗提奥斯 波利卡珀斯 谢吉奥斯 斯蒂法诺斯 
+		索夫罗尼奥斯 修多罗斯 修多席奥斯 修多陀斯 修斐拉卡托斯 托马斯 提莫修斯
 	}
 }
 
@@ -32250,12 +32250,12 @@ d_fraticelli = {
 	
 	# Regnal names
 	male_names = {
-		John Gregory Benedict Clement Innocent Leo Pius Stephen Boniface Urban Alexander Adrian Paul
-		Celestine Martin Nicholas Sixtus Felix Sergius Anastasius Honorius Eugene Sylvester Victor
-		Lucius Callixtus Julius Pelagius Adeodatus Theodore Marinus Agapetus Damasus Paschal
-		Gelasius Marcellus "John?Paul" Anacletus Evaristus Telesphorus Hyginus Anicetus Mark Hilarius 
-		Simplicius Symmachus Hormisdas Silverius Vigilius Sabinian Severinus Vitalian Donus Agatho
-		Conon Sisinnius Constantine Zachary Valentine Formosus Romanus Lando
+		若望 额我略 本笃 克肋孟 依诺增爵 利奥 庇护 斯德望 波尼法爵 乌尔班 亚历山大 阿德里安 保罗
+		克理斯定 玛尔定 尼古拉斯 西斯笃 斐理斯 色尔爵 亚纳大削 和诺理 恩仁 西略斯特 维多
+		路基约 嘉礼 儒略 柏拉奇 亚狄达笃 修多利 玛理诺 亚加比多 达玛稣 巴斯加
+		哲拉修 玛策禄 "若望 保罗" 亚纳格肋 爱华利多 德肋斯福禄 喜及诺 亚尼策 马可 依拉略 
+		辛普利修 西玛克 贺密斯达 西尔勿略 维吉吕 沙比尼盎 塞味利诺 魏德连 多诺 亚佳东
+		哥诺 西西诺 君士坦丁 匝加利亚 瓦伦廷 福慕 罗马诺 兰铎
 	}
 }
 
@@ -32288,12 +32288,12 @@ d_iconoclast = {
 	
 	# Regnal names
 	male_names = {
-		Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Dionysios Dositheos 
-		Eustathios Eustratios Euthymios Gabriel Gennadios Georgios Gerasimos Germanos Gregorios Ieremias 
-		Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon 
-		Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael 
-		Neophytos Nephon Nikephoros Niketas Nikolaos Pavlos Petros Photios Polykarpos Sergios Stephanos 
-		Sophronios Theodoros Theodosios Theodotos Theophylaktos Thomas Timotheos
+		阿莱克修斯 亚历山德罗斯 阿纳斯塔修斯 安西莫斯 阿萨那修斯 安东尼奥斯 巴西雷奥斯 狄奥尼索斯 多西修斯 
+		尤斯塔修斯 尤斯特拉提乌斯 尤西米奥斯 加百列 杰那迪奥斯 乔吉奥斯 格拉西莫斯 日 尔玛诺斯 格雷果里奥斯 埃里米亚斯 
+		伊格纳缇奥斯 埃阿凯姆 若望尼斯 约瑟夫 伊西多鲁斯 考利尼克斯 考里斯托斯 君士坦丁诺斯 科马斯 基里罗斯 里昂 
+		里昂提诺斯 娄卡斯 马卡里奥斯 曼纽 马科斯 马修斯 马克西莫斯 梅里提奥斯 梅索迪奥斯 米特洛法尼斯 米迦勒 
+		尼奥费托斯 尼丰 尼科夫罗斯 尼科塔斯 尼古劳斯 帕夫洛斯 佩特罗斯 弗提奥斯 波利卡珀斯 谢吉奥斯 斯蒂法诺斯 
+		索夫罗尼奥斯 修多罗斯 修多席奥斯 修多陀斯 修斐拉卡托斯 托马斯 提莫修斯
 	}
 }
 
