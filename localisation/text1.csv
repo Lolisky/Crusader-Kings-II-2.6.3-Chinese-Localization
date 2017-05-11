@@ -296,24 +296,24 @@ YOU;Äã;Vous;Ihr;;T?;;;;;;;;x
 CHARACTER_TOOLTIP;§Y[GetBestName]§!§P[GetHumanNameLine]§!§G[GetPlayerRelation]§!\n[GetHighestTitles];§Y[GetBestName]?§P[GetHumanNameLine]?§G[GetPlayerRelation]?\n[GetHighestTitles];§Y[GetBestName]?§G[GetPlayerRelation]?\n[GetHighestTitles];;§Y[GetBestName]?§G[GetPlayerRelation]?\n[GetHighestTitles];;;;;;;;;x
 CHARACTER_TOOLTIP_DELAYED;[GetStatusInfo];[GetStatusInfo];[GetStatusInfo];;[GetStatusInfo];;;;;;;;;x
 no_tactic;ÎŞÕ½Êõ;Aucune tactique;Keine Taktik;;Sin táctica;;;;;;;;;x
-generic_skirmish_tactic;ÆÕÍ¨É¢±ø;Escarmouche générale;Allgemeine Scharmützeltaktik;;Táctica de escaramuza genérica;;;;;;;;;x
-harass_tactic;É§ÈÅ;Harcèlement;Bedrängungstaktik;;Táctica de acoso;;;;;;;;;x
-volley_tactic;ÆëÉä;Salves;Salventaktik;;Táctica de salvas;;;;;;;;;x
-swarm_volley_tactic;ÃÜ¼¯ÆëÉä;Salves en essaim;Schwarm-Salventaktik;;Táctica de salvas en grupo;;;;;;;;;x
-swarm_tactic;ÃÜ¼¯Ï®»÷;Essaim;Schwarmtaktik;;Táctica de ataque en grupo;;;;;;;;;x
-shieldwall_tactic;¶ÜÇ½;Mur de boucliers;Schildwalltaktik;;Táctica de muro de escudos;;;;;;;;;x
-fient_tactic;Ïê¹¥;Feinte;Fintentaktik;;Táctica de fingimiento;;;;;;;;;x
-prepare_tactic;×¼±¸;Préparation;Vorbereitungstaktik;;Preparar táctica;;;;;;;;;x
+generic_skirmish_tactic;ÆÕÍ¨É¢±øÕ½Êõ;Escarmouche générale;Allgemeine Scharmützeltaktik;;Táctica de escaramuza genérica;;;;;;;;;x
+harass_tactic;É§ÈÅÕ½Êõ;Harcèlement;Bedrängungstaktik;;Táctica de acoso;;;;;;;;;x
+volley_tactic;ÆëÉäÕ½Êõ;Salves;Salventaktik;;Táctica de salvas;;;;;;;;;x
+swarm_volley_tactic;·äÈºÆëÉäÕ½Êõ;Salves en essaim;Schwarm-Salventaktik;;Táctica de salvas en grupo;;;;;;;;;x
+swarm_tactic;·äÈºÕ½Êõ;Essaim;Schwarmtaktik;;Táctica de ataque en grupo;;;;;;;;;x
+shieldwall_tactic;¶ÜÇ½Õ½Êõ;Mur de boucliers;Schildwalltaktik;;Táctica de muro de escudos;;;;;;;;;x
+fient_tactic;Ïê¹¥Õ½Êõ;Feinte;Fintentaktik;;Táctica de fingimiento;;;;;;;;;x
+prepare_tactic;×¼±¸Õ½Êõ;Préparation;Vorbereitungstaktik;;Preparar táctica;;;;;;;;;x
 charge_of_opportunity_tactic;Ê±»ú³å·æ;Charge opportuniste;Spontansturm;;Carga de oportunidad;;;;;;;;;x
-charge_tactic;³å·æ;Charge;Sturmtaktik;;Táctica de carga;;;;;;;;;x
-wait_tactic;µÈ´ı;Attente;Abwartetaktik;;Táctica de espera;;;;;;;;;x
-advance_tactic;ÍÆ½ø;Avance rapide;Vormarschtaktik;;Táctica de avance;;;;;;;;;x
-awesome_advance_tactic;Í»ÆÆ;Progression impressionnante;Fantastische Vorrücktaktik;;Táctica de avance pavoroso;;;;;;;;;x
-stand_fast_tactic;¹ÌÊØ;Maintien de position;Haltetaktik;;Táctica de mantener la posición;;;;;;;;;x
+charge_tactic;³å·æÕ½Êõ;Charge;Sturmtaktik;;Táctica de carga;;;;;;;;;x
+wait_tactic;µÈ´ıÕ½Êõ;Attente;Abwartetaktik;;Táctica de espera;;;;;;;;;x
+advance_tactic;ÍÆ½øÕ½Êõ;Avance rapide;Vormarschtaktik;;Táctica de avance;;;;;;;;;x
+awesome_advance_tactic;¾ø¼ÑÍÆ½øÕ½Êõ;Progression impressionnante;Fantastische Vorrücktaktik;;Táctica de avance pavoroso;;;;;;;;;x
+stand_fast_tactic;¹ÌÊØÕ½Êõ;Maintien de position;Haltetaktik;;Táctica de mantener la posición;;;;;;;;;x
 slow_advance_tactic;»ºÂıÍÆ½ø;Progression lente;Langsames Vorrücken;;Avance lento;;;;;;;;;x
-barrage_tactic;¼¯ÖĞ»ğÁ¦;Barrage;Sperrfeuertaktik;;Táctica de bombardeo;;;;;;;;;x
-raid_tactic;Í»È»Ï®»÷;Raid;Überfalltaktik;;Táctica de asalto;;;;;;;;;x
-pursue_tactic;×·»÷;Poursuite;Verfolgungstaktik;;Táctica de persecución;;;;;;;;;x
+barrage_tactic;×èÀ¹Éä»÷Õ½Êõ;Barrage;Sperrfeuertaktik;;Táctica de bombardeo;;;;;;;;;x
+raid_tactic;Í»»÷Õ½Êõ;Raid;Überfalltaktik;;Táctica de asalto;;;;;;;;;x
+pursue_tactic;×·»÷Õ½Êõ;Poursuite;Verfolgungstaktik;;Táctica de persecución;;;;;;;;;x
 CHAR_BORN_AND_DEATH_DATE;[GetBornAndDeathDate];[GetBornAndDeathDate];[GetBornAndDeathDate];;[GetBornAndDeathDate];;;;;;;;;x
 CHAR_INSTANT_PLAYER_OPINION;[GetInstantPlayerOpinion];[GetInstantPlayerOpinion];[GetInstantPlayerOpinion];;[GetInstantPlayerOpinion];;;;;;;;;x
 CHAR_DELAYED_PLAYER_OPINION;[GetDelayedPlayerOpinion];[GetDelayedPlayerOpinion];[GetDelayedPlayerOpinion];;[GetDelayedPlayerOpinion];;;;;;;;;x
@@ -542,7 +542,7 @@ GOODS_CHANGE;ÔÚ$WHERE$£¬$NAME$½«³ÉÎªĞÂµÄÌØ²ú.\n;La production de $NAME$ se fera 
 SECEDE_PROVINCE;¸îÈÃ$WHERE$Óè$WHO$.\n;Vous cédez $WHERE$ ?$WHO$.\n; $WHERE$ an $WHO$ abtreten.\n;Zrzekasz si?$WHERE$ na rzecz $WHO$.\n;Ceder $WHERE$ a $WHO$.\n;Cedi $WHERE$ a $WHO$.\n;$WHERE$ $WHO$ országhoz kerül.\n;;;;;;;x
 INHERIT;ÍÌ²¢$WHO$.\n;Vous héritez de $WHO$.\n;$WHO$ erben.\n;$WHO$ - dziedziczenie.\n;Heredar $WHO$.\n;Eredita $WHO$.\n;$WHO$ örökli.\n;;;;;;;x
 RELEASE;ÊÍ·Å$WHO$.\n;Vous libérez $WHO$.\n;$WHO$ entlassen.\n;$WHO$ - uwolnienie.\n;Liberar a $WHO$.\n;Libera $WHO$.\n;$WHO$ elengedése.\n;;;;;;;x
-ADDTRAITEFFECT;§Y$WHO$§!»ñµÃÌØÖÊ£º'§Y$TRAIT$§!§!'\n;§Y$WHO$? obtient le trait '§Y$TRAIT$?'\n;§Y$WHO$? erhält die Eigenschaft '§Y$TRAIT$?'\n;;§Y$WHO$? gana el rasgo '§Y$TRAIT$?'\n;§Y$WHO$? acquista il tratto: '§Y$TRAIT$?ì\n;;;;;;;;x
+ADDTRAITEFFECT;§Y$WHO$§!»ñµÃÌØÖÊ£º'§Y$TRAIT$§!'\n;§Y$WHO$? obtient le trait '§Y$TRAIT$?'\n;§Y$WHO$? erhält die Eigenschaft '§Y$TRAIT$?'\n;;§Y$WHO$? gana el rasgo '§Y$TRAIT$?'\n;§Y$WHO$? acquista il tratto: '§Y$TRAIT$?ì\n;;;;;;;;x
 REMOVETRAITEFFECT;§Y$WHO$§!Ê§È¥ÌØÖÊ£º'§Y$TRAIT$§!'\n;§Y$WHO$? perd le trait '§Y$TRAIT$?'\n;§Y$WHO$? verliert die Eigenschaft '§Y$TRAIT$?'\n;;§Y$WHO$? pierde el rasgo '§Y$TRAIT$?'\n;§Y$WHO$? perde il tratto: '§Y$TRAIT$?'\n;;;;;;;;x
 NEW_GOVERNOR_EFFECT_A;$NEW$³ÉÎª$WHERE$µÄ×Ü¶½.\n;$NEW$ devient Gouverneur de $WHERE$.\n;$NEW$ wird Gouverneur von $WHERE$.\n;;$NEW$ se ha convertido en gobernador de $WHERE$.\n;$WHERE$: $NEW$ diventa governatore.\n;;;;;;;;x
 NEW_GOVERNOR_EFFECT_B;$WHO$ÉÏÈÎ$WHERE$µÄ×Ü¶½.\n;$WHO$ devient Gouverneur de $WHERE$.\n;$WHO$ wird Gouverneur von $WHERE$.\n;;$WHO$ se ha convertido en gobernador de $WHERE$.\n;$WHERE$: $WHO$ diventa governatore.\n;;;;;;;;x
@@ -2426,7 +2426,7 @@ EVTDESC451;ÎÒ¿ªÊ¼ÈÏÎª[From.GetTitledFirstName]¿ÉÄÜ¿´ÉÏÁËÎÒ¡­¡­;Je commence ?croi
 EVTOPTA451;ĞĞ¶¯ÆğÀ´;Je tente ma chance.;Ihn bezirzen;;Da un paso;;;;;;;;;x
 EVTOPTB451;ÕâÊÇ²»ºÏÊÊµÄ£¡;C'est déplacé !;Es ist unschicklich!;;¡No es apropiado!;;;;;;;;;x
 EVTDESC452;ÎÒ±»ÃÅ´ò¿ªÊ±µÄÖ¨Ö¨Ñ½Ñ½Éù¾ªĞÑÁË¡­¡­ÊÇ[Root.Liege.GetTitle] [Root.Liege.GetFirstName]£¡;Je me réveille en entendant ma porte s'ouvrir... C'est m[Root.Liege.GetHerHis] [Root.Liege.GetTitle] [Root.Liege.GetFirstName]?;Meine beim Öffnen knarzende Tür weckte mich auf ... Es ist [Root.Liege.GetTitle] [Root.Liege.GetFirstName]!;;Me he despertado por el chirrido de mi puerta al abrirse... ¡Es [Root.Liege.GetTitle] [Root.Liege.GetFirstName]!;;;;;;;;;x
-EVTTOOLTIP452;ÎÒ»áÈ¥[This.GetFirstName]·òÈËµÄ·¿¼ä;Je vais me rendre dans la chambre de [This.GetFirstName].;Ich werde zu [This.GetFirstName]s Kammer gehen;;Ir?a los aposentos de la [This.GetFirstName];;;;;;;;;x
+EVTTOOLTIP452;ÎÒ»áÈ¥[This.GetFirstName]µÄ·¿¼ä;Je vais me rendre dans la chambre de [This.GetFirstName].;Ich werde zu [This.GetFirstName]s Kammer gehen;;Ir?a los aposentos de la [This.GetFirstName];;;;;;;;;x
 EVTOPTA452;[From.GetObjectPronoun]»¨ÁËÕâÃ´³¤Ê±¼ä¸ÉÊ²Ã´ÄØ;Pourquoi si tard?;Warum hat er so lange gebraucht?;;¿Por qu?ha tardado tanto?;;;;;;;;;x
 EVTOPTB452;½Ò·¢[From.GetObjectPronoun];Il faut l'en dissuader.;Es ihm ausreden;;Disuádele;;;;;;;;;x
 EVTOPTC452;¼â½ĞÇó¾È£¡;Appelez ?l'aide?;Um Hilfe schreien!;;¡Pide ayuda!;;;;;;;;;x
@@ -16436,7 +16436,7 @@ DEFICIT_WHEN;ÎÒÃÇµÄÏÖ½ğ½«ÔÚ$WHEN$ÏûºÄÒ»¿Õ.;Nous pensons descendre sous zéro en $
 FAM_RIVALS;¶ÔÊÖ;Rivaux;Rivalen;;Rivales;Rivali;;;;;;;;x
 FAM_FRIENDS;ÅóÓÑ;Amis;Freunde;;Amigos;Amici;;;;;;;;x
 FAM_CHILDREN;×ÓËÃ;Enfants;Kinder;;Hijos;Figli;;;;;;;;x
-FAM_SIBLINGS;ĞÖµÜ;Frères et soeurs;Geschw.;;Hermanos;Fratelli;;;;;;;;x
+FAM_SIBLINGS;ĞÖµÜ½ãÃÃ;Frères et soeurs;Geschw.;;Hermanos;Fratelli;;;;;;;;x
 FAM_MOTHER;Ä¸Ç×;Mère;Mutter;;Madre;Madre;;;;;;;;x
 FAM_FATHER;¸¸Ç×;Père;Vater;;Padre;Padre;;;;;;;;x
 SAVE_LOADED;¶ÁÈ¡´¢´æµÄÓÎÏ·¡­¡­;Partie chargée...;Spielstand geladen ...;Wczytano zapisan?gr?..;Se ha cargado la partida guardada...;Salvataggio caricato...;Mentés betöltve;Uloen?hra byla nahrána...;;;;;;x
@@ -20717,7 +20717,7 @@ REORGANISE_UNITS;ÖØ×éÕâÁ½¸öµ¥Î»;Réorganiser ces deux unités;Diese beiden Einheit
 NO_REORGANISE_UNITS;ÔÚÖØ×éÊ±£¬ÄãÖ»ÄÜÍ¬Ê±Ñ¡ÖĞÁ½¸öµ¥Î».;La réorganisation est uniquement possible lorsque deux unités sont sélectionnées.;Ihr könnt nur umstrukturieren, wenn zwei Einheiten ausgewählt sind.;Mo¿esz dokona?reorganizacji tylko wtedy, gdy wybrane s?dwie jednostki.;La reorganización solo es posible cuando se han seleccionado dos unidades.;La riorganizzazione ?possibile solo se sono state selezionate due unit?;Csak újraszervezést tudsz végrehajtani, ha két egységed van kijelölve.;Reorganizaci lze provést pouze tehdy, vyberete-li dv?jednotky.;;;;;;x
 REORGANISE_UNITS_DRO;ÖØ×éÊ±½«ÔÊĞíÄã×ÔÓÉÒÆ¶¯ÕâÁ½¸öµ¥Î»ÖĞµÄĞ¡¶Ó;Réorganisez ces deux unités pour y déplacer les régiments.;Die Umstrukturierung dieser beiden Einheiten ermöglicht Euch, Regimenter zwischen den beiden Einheiten auszutauschen;Reorganizacja dwóch jednostek umo¿liwia przenoszenie pu³ków pomiêdzy nimi.;Al hacerlo, podréis pasar regimientos de una de las unidades a la otra.;La riorganizzazione di queste due unit?ti consentir?di spostare reggimenti da un'unit?all'altra;A két egységed újraszervezésének köszönhetõen egységedet át tudod vezetni ezen két egység között.;Reorganizace dvou jednotek umon?pøesun regiment?;;;;;x
 LEADER_MARTIAL_VALUE;½«Áì¼¼ÄÜ;Compétence martiale du commandant;Anführer-Kriegskunst;;Habilidad Marcial del líder;;;;;;;;;x
-NUM_SUBUNITS;´ËÇøÓòµÄ½¢¶ÓÊıÁ¿;Nombre de sous-unités de ce flanc;Anzahl der Untereinheiten in dieser Flanke;;Número de subunidades en este flanco;;;;;;;;;x
+NUM_SUBUNITS;´ËÒíÖĞ´Î¼¶µ¥Î»µÄÊıÁ¿;Nombre de sous-unités de ce flanc;Anzahl der Untereinheiten in dieser Flanke;;Número de subunidades en este flanco;;;;;;;;;x
 NUM_SHIPS_IN_SUBUNIT;´Ë½¢¶ÓµÄ´¬²°ÊıÁ¿;Nombre de navires de cette sous-unit?Anzahl der Schiffe in dieser Untereinheit;;Número de barcos en esta subunidad;;;;;;;;;x
 TOTAL_TROOPS;¾ü¶ÓµÄ×ÜÊı;Total des troupes;Gesamte Truppenstärke;;Cantidad total de tropas;;;;;;;;;x
 SELECT_UNIT;Ñ¡Ôñµ¥Î»;Sélectionner l'unit?Einheit auswählen;;Seleccionar unidad;;;;;;;;;x

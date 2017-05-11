@@ -719,8 +719,8 @@ horse;Âí;chevaline;Pferd;;Caballo;;;;;;;;;x
 horse_desc;ÕâÊÇÒ»Æ¥Âí¡­¡­;C'est un cheval...;Das ist ein Pferd ...;;Esto es un caballo...;;;;;;;;;x
 opinion_my_master;ÎÒµÄÖ÷ÈË;Mon maître;Mein Herr;;Mi amo;;;;;;;;;x
 opinion_my_horse;ÎÒµÄÂí;Mon cheval;Mein Pferd;;Mi caballo;;;;;;;;;x
-disorganised_swarm_tactic;Ã»ÓĞ×éÖ¯µÄÈËº£Õ½Êõ;Essaim désorganisée;Ungeordnete Schwarmtaktik;;Táctica de enjambre desorganizada;;;;;;;;;x
-disorganised_harass_tactic;Ã»ÓĞ×éÖ¯µÄÉ§ÈÅÕ½Êõ;Harcèlement désorganis?Ungeordnete Bedrängungstaktik;;Táctica de hostigar desorganizada;;;;;;;;;x
+disorganised_swarm_tactic;ÎŞ×éÖ¯·äÈºÕ½Êõ;Essaim désorganisée;Ungeordnete Schwarmtaktik;;Táctica de enjambre desorganizada;;;;;;;;;x
+disorganised_harass_tactic;ÎŞ×éÖ¯É§ÈÅÕ½Êõ;Harcèlement désorganis?Ungeordnete Bedrängungstaktik;;Táctica de hostigar desorganizada;;;;;;;;;x
 STEAL_POPULATION_SCALED_EFFECT;´Ó$FROM|Y$¶áÈ¡$PERCENTAGE|Y%$§YÈË¿Ú§!µ½$TO|Y$\n;S'empare de $PERCENTAGE|Y%$ de la §Ypopulation? de $FROM|Y$ pour $TO|Y$\n;$PERCENTAGE|Y%$ der §YBevölkerung? aus $FROM|Y$ stehlen und nach $TO|Y$ bringen\n;;Robar $PERCENTAGE|Y%$ §YPoblación? de $FROM|Y$ a $TO|Y$\n;;;;;;;;;x
 CB_NAME_HUMILIATE;ĞßÈè;Humilier;Demütigung;;Humillar;;;;;;;;;x
 WAR_NAME_HUMILIATE;$ORDER$$FIRST_ADJ$Õ½ÕùÀ´ĞßÈè$DEFENDER$;$ORDER$Guerre $FIRST_ADJ$ pour humilier $DEFENDER$.;$ORDER$$FIRST_ADJ$ Krieg zur Demütigung von $DEFENDER$;;$ORDER$$FIRST_ADJ$ Guerra para Humillar $DEFENDER$;;;;;;;;;x

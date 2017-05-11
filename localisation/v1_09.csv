@@ -356,7 +356,7 @@ d_gotland;哥特兰;Visby;Visby;;Visby;;;;;;;;;x
 d_gotland_adj;哥特兰;visby;Visby;;Visby;;;;;;;;;x
 FC_FIND_CHARACTERS;发现人物;Trouver des personnages;Charakter Suchen;;Encontrar personajes ;;;;;;;;;x
 ;#TITLE_MR_CANNOT_USURP;Merchant Republics and Patricians cannot usurp kingdoms or empires;;Handelsrepubliken und Patrizier k?nnen keine K?nigreiche oder Reiche an sich rei?en;;Las repúblicas mercantiles y los patricios no pueden usurpar reinos ni imperios ;;;;;;;;;x;
-CB_NAME_SEIZE_TRADE_POST;夺取 [Title.GetBaseName] Trade Post;Saisir le comptoir de [Title.GetBaseName];Beschlagnahmt den [Title.GetBaseName]-Handelsposten;;Apoderarse del Puesto Comercial de [Title.GetBaseName];;;;;;;;;x
+CB_NAME_SEIZE_TRADE_POST;夺取[Title.GetBaseName]贸易站;Saisir le comptoir de [Title.GetBaseName];Beschlagnahmt den [Title.GetBaseName]-Handelsposten;;Apoderarse del Puesto Comercial de [Title.GetBaseName];;;;;;;;;x
 WAR_NAME_SEIZE_TRADE_POST;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ 贸易战争 $OTHER_TITLE$;$ORDER$Guerre commerciale entre $FIRST$ et $SECOND$ pour le comptoir de $OTHER_TITLE$;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$s Handelskrieg 黚er $OTHER_TITLE$;;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ guerra comercial contra $OTHER_TITLE$;;;;;;;;;x
 ;#HAS_TRADE_POST;Has Trade Post;;Besitzt einen Handelsposten;;Tiene Puesto Comercial ;;;;;;;;;x;
 ;#HAS_NOT_TRADE_POST;Does NOT have Trade Post;;Besitzt KEINEN Handelsposten;;NO tiene Puesto Comercial ;;;;;;;;;x;
