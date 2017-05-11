@@ -421,7 +421,7 @@ character_event = {
 				is_marriage_adult = yes
 				is_married = no
 				NOT = { trait = celibate }
-				NOT = { is_ascetic_trigger = yes }
+				NOT = { trait = nun }
 				NOT = { trait = chaste }
 				NOT = { trait = homosexual }
 			}
@@ -1024,7 +1024,7 @@ narrative_event = {
 	option = {
 		name = EVTOPTALoR.878
 		create_character = {
-			name = åŸºé‡Œå°”æ´›æ–¯
+			name = »ùÀï¶ûÂåË¹
 			random_traits = no
 			dynasty = NONE
 			female = no
@@ -1050,7 +1050,7 @@ narrative_event = {
 		new_character = {
 			prisoner = yes
 			create_character = {
-				name = é»›ä¸ç¢§å¨œ
+				name = ÷ìË¿±ÌÄÈ
 				random_traits = no
 				dynasty = NONE
 				female = yes
@@ -1097,7 +1097,7 @@ narrative_event = {
 	option = {
 		name = EVTOPTALoR.878
 		create_character = {
-			name = åŸºé‡Œå°”æ´›æ–¯
+			name = »ùÀï¶ûÂåË¹
 			random_traits = no
 			dynasty = NONE
 			female = no

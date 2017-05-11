@@ -16,29 +16,26 @@
 narrative_event = {
 	id = 88000
 	title = "EVTNAME88000"
-	picture = GFX_evt_assassination
-
-	desc = {
-		trigger = { NOT = { society_member_of = the_assassins } }
-		text = EVTDESC88000
-	}
-	desc = {
-		trigger = { society_member_of = the_assassins }
-		text = EVTDESC88000_ASSASSIN
-	}
-
+	desc = "EVTDESC88000"
 	major = yes
+	
+	picture = GFX_evt_shadow
 	
 	hide_from = yes
 	
 	only_playable = yes
+	only_men = yes
 	min_age = 16
-	religion = shiite
+	religion_group = muslim
 	
 	trigger = {
 		year = 1089
-		religion = shiite
-		#is_heretic = no
+		OR = {
+			religion = shiite
+			religion = druze
+			religion = hurufi
+		}
+		is_heretic = no
 		NOT = { 
 			has_global_flag = assassins_founded 
 			has_global_flag = assassins_destroyed
@@ -66,7 +63,7 @@ narrative_event = {
 		activate_title = { title = d_hashshashin status = yes }
 		create_character = {
 			random_traits = no
-			name = "ÂìàÊ°ë"
+			name = "π˛…£"
 			dynasty = random
 			religion = ROOT
 			culture = persian
@@ -89,10 +86,6 @@ narrative_event = {
 			trait = temperate
 		}
 		new_character = {
-			if = {
-				limit = { has_dlc = "Mystics" }
-				character_event = { id = MNM.6990 days = 1 }
-			}
 			set_character_flag = hassan_the_assassin
 			wealth = 500
 			d_hashshashin = {
@@ -207,14 +200,7 @@ narrative_event = {
 	
 
 	option = {
-		name = {
-			text = EVTOPTA88000
-			trigger = { NOT = { society_member_of = the_assassins } }
-		}
-		name = {
-			text = EVTOPTA_6028
-			trigger = { society_member_of = the_assassins }
-		}
+		name = "EVTOPTA88000"
 	}
 }
 
@@ -222,18 +208,10 @@ narrative_event = {
 narrative_event = {
 	id = 88001
 	title = "EVTNAME88001"
+	desc = "EVTDESC88001"
 	major = yes
 	
-	picture = GFX_evt_assassination
-
-	desc = {
-		trigger = { NOT = { society_member_of = the_assassins } }
-		text = EVTDESC88001
-	}
-	desc = {
-		trigger = { society_member_of = the_assassins }
-		text = EVTDESC88001_ASSASSIN
-	}
+	picture = "GFX_evt_shadow"
 	
 	only_playable = yes
 	religion_group = muslim
@@ -265,8 +243,8 @@ narrative_event = {
 	}
 	
 	option = {
-		trigger = { has_landed_title = d_hashshashin }
 		name = "OK"
+		trigger = { has_landed_title = d_hashshashin }
 		set_global_flag = assassins_syria
 		765 = { # Archa
 			build_holding = {
@@ -277,16 +255,9 @@ narrative_event = {
 		}
 	}
 	option = {
+		name = "EVTOPTA88001"
 		trigger = { 
 			NOT = { has_landed_title = d_hashshashin }
-		}
-		name = {
-			text = EVTOPTA88001
-			trigger = { NOT = { society_member_of = the_assassins } }
-		}
-		name = {
-			text = EVTOPTA_6028
-			trigger = { society_member_of = the_assassins }
 		}
 	}
 }
@@ -295,18 +266,10 @@ narrative_event = {
 narrative_event = {
 	id = 88002
 	title = "EVTNAME88002"
-	picture = "GFX_evt_assassination"
-	
-	desc = {
-		trigger = { NOT = { society_member_of = the_assassins } }
-		text = EVTDESC88002
-	}
-	desc = {
-		trigger = { society_member_of = the_assassins }
-		text = EVTDESC88002_ASSASSIN
-	}
-	
+	desc = "EVTDESC88002"
 	major = yes
+	
+	picture = "GFX_evt_shadow"
 	
 	only_rulers = yes
 	religion_group = muslim
@@ -335,15 +298,7 @@ narrative_event = {
 		death = { death_reason = death_battle }
 	}
 	option = {
-		name = {
-			text = EVTOPTA88002
-			trigger = { NOT = { society_member_of = the_assassins } }
-		}
-		name = {
-			text = EVTOPTA88002_ASSASSIN
-			trigger = { society_member_of = the_assassins }
-		}
-
+		name = "EVTOPTA88002"
 		trigger = {
 			NOT = { has_landed_title = d_hashshashin }
 		}
@@ -354,20 +309,12 @@ narrative_event = {
 narrative_event = {
 	id = 88003
 	title = "EVTNAME88003"
-	picture = "GFX_evt_assassination"
+	desc = "EVTDESC88003"
+	major = yes
 	hide_from = yes
 	
-
-	desc = {
-		trigger = { NOT = { society_member_of = the_assassins } }
-		text = EVTDESC88003
-	}
-	desc = {
-		trigger = { society_member_of = the_assassins }
-		text = EVTDESC88003_ASSASSIN
-	}
+	picture = "GFX_evt_shadow"
 	
-	major = yes
 	only_playable = yes
 	religion = catholic
 	has_global_flag = assassins_scatter
@@ -392,7 +339,7 @@ narrative_event = {
 		hidden_tooltip = {
 			create_character = {
 				random_traits = no
-				name = "ÈòøÊãâ‰∏Å"
+				name = "∞¢¿≠∂°"
 				dynasty = random
 				religion = shiite
 				culture = persian
@@ -417,10 +364,6 @@ narrative_event = {
 		}
 		new_character = {
 			wealth = 500
-			if = {
-				limit = { has_dlc = "Mystics" }
-				character_event = { id = MNM.6990 days = 1 }
-			}
 			d_hashshashin = {
 				grant_title = PREV
 			}
@@ -428,7 +371,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = no
 				age = 16
@@ -436,7 +379,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = no
 				age = 18
@@ -444,7 +387,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = no
 				age = 18
@@ -452,7 +395,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = no
 				age = 20
@@ -460,7 +403,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = no
 				age = 25
@@ -468,7 +411,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = no
 				age = 26
@@ -476,7 +419,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = no
 				age = 28
@@ -484,7 +427,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = yes
 				age = 16
@@ -492,7 +435,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = yes
 				age = 17
@@ -500,7 +443,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = yes
 				age = 18
@@ -508,7 +451,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = yes
 				age = 18
@@ -516,7 +459,7 @@ narrative_event = {
 			create_character = {
 				random_traits = yes
 				dynasty = NONE
-				religion = shiite
+				religion = THIS
 				culture = persian
 				female = yes
 				age = 20
@@ -533,14 +476,7 @@ narrative_event = {
 		
 	}
 	option = {
-		name = {
-			text = EVTOPTA88003
-			trigger = { NOT = { society_member_of = the_assassins } }
-		}
-		name = {
-			text = EVTOPTA_6028
-			trigger = { society_member_of = the_assassins }
-		}
+		name = "EVTOPTA88003"
 	}
 }
 
@@ -548,19 +484,10 @@ narrative_event = {
 narrative_event = {
 	id = 88004
 	title = "EVTNAME88004"
-	picture = "GFX_evt_assassination"
-
-	desc = {
-		trigger = { NOT = { society_member_of = the_assassins } }
-		text = EVTDESC88004
-	}
-	desc = {
-		trigger = { society_member_of = the_assassins }
-		text = EVTDESC88004_ASSASSIN
-	}
-
+	desc = "EVTDESC88004"
 	major = yes
 	
+	picture = "GFX_evt_shadow"
 	
 	only_rulers = yes
 	religion_group = muslim
@@ -587,14 +514,7 @@ narrative_event = {
 		death = { death_reason = death_battle }
 	}
 	option = {
-		name = {
-			text = EVTOPTA88004
-			trigger = { NOT = { society_member_of = the_assassins } }
-		}
-		name = {
-			text = EVTOPTA_6028
-			trigger = { society_member_of = the_assassins }
-		}
+		name = "EVTOPTA88004"
 		trigger = { 
 			NOT = { has_landed_title = d_hashshashin }
 		}
@@ -789,7 +709,6 @@ character_event = {
 			has_global_flag = assassins_resurface
 		}
 		NOT = { has_global_flag = assassins_destroyed }
-		NOT = { society_member_of = the_assassins }
 	}
 	
 	mean_time_to_happen = {
@@ -1081,11 +1000,6 @@ character_event = {
 	option = {
 		name = "EVTOPTA88019"
 		set_character_flag = warned_by_assassins
-
-		if = {
-			limit = { society_member_of = the_assassins }
-			
-		}
 	}
 }
 
@@ -1157,7 +1071,6 @@ character_event = {
 		is_pretender = no
 		in_command = no
 		NOT = { spouse = { character = host } }
-		NOT = { society_member_of = the_assassins }
 	}
 	
 	mean_time_to_happen = {

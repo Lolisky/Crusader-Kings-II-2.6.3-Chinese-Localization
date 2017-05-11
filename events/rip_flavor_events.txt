@@ -395,7 +395,8 @@ character_event = {
 		}
 		NOR = { 
 			has_character_flag = fertility_treatment
-			is_ascetic_trigger = yes
+			trait = monk
+			trait = nun
 			trait = celibate
 			trait = eunuch
 			num_of_children = 1
@@ -506,7 +507,8 @@ character_event = {
 				modifier = {
 					factor = 0
 					OR = {
-						is_ascetic_trigger = yes
+						trait = monk
+						trait = nun
 						trait = celibate
 						trait = eunuch
 						trait = chaste
@@ -2974,7 +2976,7 @@ character_event = {
 		job_treasurer = {
 			save_event_target_as = councillor_target
 		}
-		random_demesne_province = {
+		any_demesne_province = {
 			limit = {
 				NOT = {
 					has_province_modifier = new_roads
@@ -3127,7 +3129,7 @@ character_event = {
 		job_spiritual = {
 			save_event_target_as = councillor_target
 		}
-		random_demesne_province = {
+		any_demesne_province = {
 			limit = {
 				NOT = {
 					has_province_modifier = new_shrines
@@ -3280,7 +3282,7 @@ character_event = {
 		job_marshal = {
 			save_event_target_as = councillor_target
 		}
-		random_demesne_province = {
+		any_demesne_province = {
 			limit = {
 				NOT = {
 					has_province_modifier = peasants_protected
@@ -3433,7 +3435,7 @@ character_event = {
 		job_spymaster = {
 			save_event_target_as = councillor_target
 		}
-		random_demesne_province = {
+		any_demesne_province = {
 			limit = {
 				NOT = {
 					has_province_modifier = messenger_stations
@@ -3586,7 +3588,7 @@ character_event = {
 		job_chancellor = {
 			save_event_target_as = councillor_target
 		}
-		random_demesne_province = {
+		any_demesne_province = {
 			limit = {
 				NOT = {
 					has_province_modifier = harvest_festivals
@@ -3723,7 +3725,7 @@ character_event = {
 	}
 	
 	immediate = {
-		random_demesne_province = {
+		any_demesne_province = {
 			limit = {
 				NOT = {
 					has_province_modifier = inspired_peasantry
@@ -3966,11 +3968,11 @@ character_event = {
 
 	trigger = {
 		OR = {
-			any_lover = { is_alive = yes }
-			any_friend = { is_alive = yes }
-			any_rival = { is_alive = yes }
+			num_of_lovers = 1
+			num_of_friends = 1
+			num_of_rivals = 1
 		}
-		NOT = { death_reason = death_missing }
+
 	}
 
 	option = {
@@ -4434,7 +4436,8 @@ character_event = {
 		name = EVTOPTD_RIP_29005
 		custom_tooltip = { text = EVTOPTD_RIP_29005_TOOLTIP }
 		trigger = { 
-			any_friend = { is_alive = yes } 
+			num_of_friends = 1 
+			any_friend = { is_alive = yes }
 		}
 		any_friend = { remove_friend = ROOT } 
 
@@ -4607,30 +4610,30 @@ character_event = {
 		}
 
 		hidden_tooltip = {
-			random_list = {
-				#Fail
-				40 = {
-					modifier = {
-						factor = 0
-						OR = {
-							NOT = { event_target:rip_widow = { always = yes } }
-							NOT = { event_target:rip_child = { always = yes } }
-							event_target:rip_widow = { character = ROOT }
-							event_target:rip_child = { character = ROOT }
-						}
-					}
-
-					if = {
-						limit = { event_target:rip_widow = { NOT = { character = ROOT } } }
-						event_target:rip_widow = { character_event = { id = RIP.29011 days = 7 } }
-						break = yes
-					}
-					if = {
-					limit = { event_target:rip_child = { NOT = { character = ROOT } } }
-					event_target:rip_child = { character_event = { id = RIP.29011 days = 7 } }
+		random_list = {
+			#Fail
+			40 = { 
+				modifier = {
+					factor = 0
+					OR = {
+						NOT = { event_target:rip_widow = { always = yes } }
+						NOT = { event_target:rip_child = { always = yes } }
+						event_target:rip_widow = { character = ROOT }
+						event_target:rip_child = { character = ROOT }
 					}
 				}
-				#Success
+
+				if = { 
+					limit = { event_target:rip_widow = { NOT = { character = ROOT } } }
+					event_target:rip_widow = { character_event = { id = RIP.29011 days = 7 } }
+					break = yes
+				}
+				if = { 
+				limit = { event_target:rip_child = { NOT = { character = ROOT } } }
+				event_target:rip_child = { character_event = { id = RIP.29011 days = 7 } }
+				}
+			}
+			#Success			
 				60 = {
 					modifier = {
 						factor = 1.2
@@ -4663,7 +4666,7 @@ character_event = {
 
 	#Enemy of my enemy
 	option = {
-		trigger = { event_target:rip_enemy_2 = { is_alive = yes } }
+		trigger = { event_target:rip_enemy_2 = { always = yes } }
 		name = EVTOPTB_RIP_29010
 		custom_tooltip = { text = EVTOPTB_RIP_29010_TOOLTIP }
 
@@ -4674,7 +4677,7 @@ character_event = {
 
 	#Get a new enemy
 	option = {
-		trigger = { event_target:rip_new_enemy = { is_alive = yes } }
+		trigger = { event_target:rip_new_enemy = { always = yes } }
 		name = EVTOPTC_RIP_29010
 		custom_tooltip = { text = EVTOPTC_RIP_29010_TOOLTIP }
 
@@ -4687,7 +4690,7 @@ character_event = {
 	option = {
 		trigger = {
 			OR = {
-				any_rival = { is_alive = yes }
+				num_of_rivals = 1
 				trait = cruel
 				trait = envious
 				NOT = { trait = kind }
@@ -4906,13 +4909,32 @@ character_event = {
 
 	option = {
 		name = EVTOPTA_RIP_29013
-		custom_tooltip = { text = EVTOPTA_RIP_29013_TT }
 
-		hidden_effect = {
-			add_artifact = rival_skull
-			new_artifact = {
-				set_original_owner = event_target:rip_dead
+		if = {
+			limit = {
+				NOR = {
+					has_character_modifier = skull_trophy
+					has_character_modifier = skull_trophies
+				}
 			}
+			add_character_modifier = {
+				name = skull_trophy
+				duration = -1
+			}
+		}
+
+		if = { 
+			limit = {
+				OR = {
+					has_character_modifier = skull_trophy
+					has_character_modifier = skull_trophies
+				}
+			}
+			add_character_modifier = {
+				name = skull_trophies
+				duration = -1
+			}
+			hidden_tooltip = { remove_character_modifier = skull_trophy }
 		}
 
 		hidden_tooltip = {
@@ -5380,7 +5402,8 @@ character_event = {
 				OR = {
 					trait = shy
 					trait = chaste
-					is_ascetic_trigger = yes
+					trait = nun
+					trait = monk
 					is_married = yes
 				}
 			}
@@ -5455,7 +5478,7 @@ character_event = {
 				modifier = {
 					factor = 0
 					OR = {
-						any_lover = { is_alive = yes }
+						num_of_lovers = 1
 						has_character_modifier = golden_mask
 					}
 				}
@@ -7462,9 +7485,7 @@ character_event = {
 	picture = GFX_evt_birth 
 
 	trigger = {
-		FROM = { is_child_of = ROOT }
-		NOT = { has_character_modifier = good_relationship_omen }
-		NOT = { has_character_modifier = bad_relationship_omen }
+		FROM = { is_child_of = ROOT } 
 	}
 
 	immediate = {
@@ -9934,6 +9955,7 @@ character_event = {
 		clr_character_flag = lost_suicide_duel
 		clr_character_flag = incapable_suicide_duel
 		clr_character_flag = won_suicide_duel
+		clr_character_flag = won_suicide_duel
 		clr_character_flag = attempting_suicide
 	}
 }
@@ -10482,15 +10504,6 @@ character_event = {
 				factor = 2
 				trait = brave
 			}
-			modifier = {
-				factor = 4
-				trait = ambitious
-				FROM = {
-					current_heir = {
-						character = ROOT
-					}
-				}
-			}
 		}
 	}
 
@@ -10694,7 +10707,7 @@ character_event = {
 						age = 32
 						dynasty = none
 						female = yes
-						name = Â∞§ÈáëÂ¶ÆÂ®Ö
+						name = ”»Ωƒ·Ê´
 						culture = italian
 						race = italian
 						religion = catholic
@@ -10718,7 +10731,7 @@ character_event = {
 						age = 32
 						dynasty = none
 						female = no
-						name = Â••Âè§ÊñØÊâò
+						name = ∞¬π≈ÀπÕ–
 						culture = italian
 						race = italian
 						religion = catholic
@@ -10988,7 +11001,7 @@ narrative_event = {
 				}
 				same_sex = FROM
 			}
-			FROM = { add_trait = homosexual } #To "enable" seduction
+			FROM = { add_trait = homosexual }
 		}
 	}
 
@@ -11911,6 +11924,21 @@ character_event = {
 	}
 }
 
+#Todo - test event
+#character_event = {
+#	id = RIP.30234
+#	picture = GFX_evt_court_physician
+#	border = GFX_event_normal_frame_intrigue
+#
+#	desc = chess_score_number
+#
+#	is_triggered_only = yes
+#
+#	option = {
+#		name = OK
+#	}
+#}
+
 ### Immortal rival events
 narrative_event = {
 	id = RIP.30300
@@ -12081,7 +12109,7 @@ character_event = {
 			}
 			create_character = {
 				random_traits = no
-				name = "ÊãâÁ±≥Èõ∑ÊñØ"
+				name = "¿≠√◊¿◊Àπ"
 				dynasty = none
 				religion = catholic
 				culture = scottish
@@ -12112,7 +12140,7 @@ character_event = {
 			}
 			create_character = {
 				random_traits = no
-				name = "‰πåÂÖ∞"
+				name = "Œ⁄¿º"
 				dynasty = culture
 				religion = pagan
 				culture = random
@@ -12147,7 +12175,7 @@ character_event = {
 			}
 			create_character = {
 				random_traits = no
-				name = "‰∫öÁëü"
+				name = "—«…™"
 				dynasty = none
 				religion = catholic
 				culture = breton
@@ -12180,7 +12208,7 @@ character_event = {
 			}
 			create_character = {
 				random_traits = no
-				name = "ÊâòÂ∞îÂ∏åÂæ∑"
+				name = "Õ–œ£∂˚µ¬"
 				dynasty = none
 				religion = norse_pagan
 				culture = norse
@@ -12214,7 +12242,7 @@ character_event = {
 			}
 			create_character = {
 				random_traits = no
-				name = "Èü≥Â∏åÂ°îÂõæÊñØ"
+				name = "“Ùœ£À˛ÕºÀπ"
 				dynasty = none
 				religion = hellenic_pagan
 				culture = horse
@@ -12283,12 +12311,7 @@ character_event = {
 						any_courtier = {
 							ai = yes
 							is_alive = yes
-							culture = horse
-							NOT = {
-								event_target:immortal_rival = {
-									character = THIS 
-								}
-							}
+							culture = horse							
 						}
 					}
 					random_courtier = {
@@ -12296,11 +12319,6 @@ character_event = {
 								ai = yes
 								is_alive = yes
 								culture = horse
-								NOT = {
-									event_target:immortal_rival = {
-										character = THIS 
-									}
-								}
 							}
 						save_event_target_as = immortal_horse_victim
 						death = { death_reason = death_execution_horses killer = event_target:immortal_rival }	
@@ -13307,19 +13325,19 @@ long_character_event = { # loss - death2
 	}
 }
 
-#character_event = { # loss - mercy
-#	id = RIP.30307
-#	desc = RIP.30307.d
-#	border = GFX_event_normal_frame_war
-#	picture = GFX_evt_suspicious_noble #TODO better pic
-#
-#	is_triggered_only = yes
-#
-#	option = {
-#		name = RIP.30307.a
-#		
-#	}
-#}
+character_event = { # loss - mercy
+	id = RIP.30307
+	desc = RIP.30307.d
+	border = GFX_event_normal_frame_war
+	picture = GFX_evt_suspicious_noble #TODO better pic
+
+	is_triggered_only = yes
+
+	option = {
+		name = RIP.30307.a
+		
+	}
+}
 
 character_event = { # flag clear
 	id = RIP.30308
@@ -13436,9 +13454,6 @@ character_event = { # the power of money
 		}
 		name = placeholdername_13 #RIP.30310.c	#work
 		tooltip_info = stewardship
-		event_target:immortal_rival = {
-			death = { death_reason = death_missing killer = ROOT }
-		}
 		capital_scope = {
 			add_province_modifier = {
 				name = trapped_immortal
@@ -13481,7 +13496,7 @@ character_event = { # debate2
 	}
 	
 	option = {
-		name = placeholdername_28 #RIP.30313.b #kill
+		name = placeholdername_27 #RIP.30313.b #kill
 		event_target:immortal_rival = {
 			death = { death_reason = death_accident killer = ROOT }
 		}
@@ -13597,6 +13612,7 @@ character_event = { # clean up immortal crisis
 	}
 
 	option = {
+		name = RIP.30316.a
 		clr_character_flag = immortal_crisis
 		clr_character_flag = immortal_crisis_confirmed
 	}

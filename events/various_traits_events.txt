@@ -1086,12 +1086,6 @@ character_event = {
 	is_triggered_only = yes
 	
 	trigger = {
-		NOT = {
-			has_game_rule = {
-				name = supernatural_events
-				value = off
-			}
-		}
 		in_command = no
 		trait = leper
 		trait = zealous

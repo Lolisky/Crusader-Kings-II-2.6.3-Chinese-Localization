@@ -2857,6 +2857,9 @@ letter_event = {
 	
 	option = {
 		name = EVTOPTA_SOA_1403 # Agree
+		ai_chance = {
+			factor = 100
+		}
 		
 		set_character_flag = sent_son_to_assassins
 		
@@ -2868,14 +2871,10 @@ letter_event = {
 					move_character = PREV
 					hidden_tooltip = {
 						clear_wealth = PREV
-						add_trait = disinherited
 					}
 					end_inaccessibility_effect = yes #removes in_hiding or in_seclusion
 				}
 			}
-		}
-		ai_chance = {
-			factor = 10
 		}
 	}
 	
@@ -2888,48 +2887,11 @@ letter_event = {
 		FROM = {
 			wealth = 300
 		}
-
-		ai_chance = {
-			factor = 5
-			modifier = {
-				factor = 0
-				NOT = { wealth = 300 }
-			}
-		}
 	}
 	
 	option = {
 		name = EVTOPTC_SOA_1003 # Refuse
-
-		if = {
-			limit = { NOT = { has_dlc = "Mystics" } }
-			piety = -1000
-		}
-		if = {
-			limit = { has_dlc = "Mystics" }
-			piety = -200
-			set_character_flag = assassins_refused_to_pay_debt
-		}
-
-		ai_chance = {
-			factor = 3
-			modifier = {
-				factor = 2
-				NOT = { wealth = 300 }
-			}
-			modifier = {
-				factor = 2
-				trait = greedy
-			}
-			modifier = {
-				factor = 2
-				is_impious_trigger = yes
-			}
-			modifier = {
-				factor = 0
-				NOT = { has_dlc = "Mystics" }
-			}
-		}
+		piety = -1000
 	}
 }
 
@@ -2959,7 +2921,6 @@ letter_event = {
 	is_triggered_only = yes
 	
 	option = {
-	
 		name = EXCELLENT
 	}
 }
@@ -3060,6 +3021,9 @@ letter_event = {
 	
 	option = {
 		name = EVTOPTA_SOA_1023 # Agree
+		ai_chance = {
+			factor = 100
+		}
 		
 		hidden_tooltip = {
 			remove_character_modifier = borrowed_from_assassins
@@ -3069,10 +3033,6 @@ letter_event = {
 		}
 		
 		piety = 100
-
-		ai_chance = {
-			factor = 10
-		}
 	}
 	
 	option = {
@@ -3084,48 +3044,11 @@ letter_event = {
 		FROM = {
 			wealth = 300
 		}
-
-		ai_chance = {
-			factor = 5
-			modifier = {
-				factor = 0
-				NOT = { wealth = 300 }
-			}
-		}	
 	}
 	
 	option = {
 		name = EVTOPTC_SOA_1003 # Refuse
-		
-		if = {
-			limit = { NOT = { has_dlc = "Mystics" } }
-			piety = -1000
-		}
-		if = {
-			limit = { has_dlc = "Mystics" }
-			piety = -200
-			set_character_flag = assassins_refused_to_pay_debt
-		}
-
-		ai_chance = {
-			factor = 3
-			modifier = {
-				factor = 2
-				NOT = { wealth = 300 }
-			}
-			modifier = {
-				factor = 2
-				trait = greedy
-			}
-			modifier = {
-				factor = 2
-				is_impious_trigger = yes
-			}
-			modifier = {
-				factor = 0
-				NOT = { has_dlc = "Mystics" }
-			}
-		}
+		piety = -1000
 	}
 }
 

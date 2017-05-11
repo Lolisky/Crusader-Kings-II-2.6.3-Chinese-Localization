@@ -806,7 +806,7 @@ narrative_event = {
 			limit = { has_character_flag = diplomacy_mystic }
 			create_character = {
 				random_traits = no
-				name = "ä¼Šç™»"
+				name = "ÒÁµÇ"
 				dna = chaehghfacw
 				dynasty = none
 				religion = norse_pagan
@@ -927,7 +927,7 @@ narrative_event = {
 		if = {
 			limit = { has_character_flag = intrigue_mystic }
 			create_character = {
-				name = "å…‹èŽ±å¥¥å¸•ç‰¹æ‹‰"
+				name = "¿ËÀ³°ÂÅÁÌØÀ­"
 				random_traits = no
 				dynasty = none
 				religion = hurufi
@@ -1131,7 +1131,7 @@ narrative_event = {
 			limit = { has_character_flag = diplomacy_mystic }
 			create_character = {
 				random_traits = no
-				name = "ä¼Šç™»"
+				name = "ÒÁµÇ"
 				dna = chaehghfacw
 				dynasty = none
 				religion = norse_pagan
@@ -1253,7 +1253,7 @@ narrative_event = {
 		if = {
 			limit = { has_character_flag = intrigue_mystic }
 			create_character = {
-				name = "å…‹èŽ±å¥¥å¸•ç‰¹æ‹‰"
+				name = "¿ËÀ³°ÂÅÁÌØÀ­"
 				random_traits = no
 				dynasty = none
 				religion = hurufi
@@ -1431,6 +1431,7 @@ narrative_event = {
 
 #Mystic is prompted to introduce themselves
 narrative_event = {
+	title = EVTNAME_RIP_21018
 	id = RIP.21018
 
 	is_triggered_only = yes
@@ -1664,8 +1665,12 @@ narrative_event = {
 
 #Mystic is prompted to start quest
 narrative_event = {
+	title = EVTNAME_RIP_21020
 	id = RIP.21020
+	desc = EVTDSC_RIP_21020
+
 	is_triggered_only = yes
+
 	hide_window = yes
 
 	option = {
@@ -1797,6 +1802,8 @@ narrative_event = {
 
 #Diplomatic quest step 1 fail ping
 narrative_event = {
+	title = EVTNAME_RIP_211001
+	desc = EVTDSC_RIP_21100
 	id = RIP.21101
 
 	is_triggered_only = yes
@@ -1840,7 +1847,10 @@ narrative_event = {
 
 #Diplomatic quest step 1 success ping
 narrative_event = {
+	title = EVTNAME_RIP_211003
+	desc = EVTDSC_RIP_21100
 	id = RIP.21103
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -1885,7 +1895,10 @@ narrative_event = {
 
 #Diplomatic quest step 1 -> 2 ping
 narrative_event = {
+	title = EVTNAME_RIP_211005
+	desc = EVTDSC_RIP_21105
 	id = RIP.21105
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -2006,7 +2019,10 @@ narrative_event = {
 
 #Diplomatic quest step 2 fail ping
 narrative_event = {
+	title = EVTNAME_RIP_211001
+	desc = EVTDSC_RIP_21100
 	id = RIP.21111
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -2075,7 +2091,10 @@ narrative_event = {
 
 #Diplomatic quest step 2 success ping
 narrative_event = {
+	title = EVTNAME_RIP_211003
+	desc = EVTDSC_RIP_21100
 	id = RIP.21113
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -2129,7 +2148,10 @@ narrative_event = {
 
 #Diplomatic quest step 2 -> 3 ping
 narrative_event = {
+	title = EVTNAME_RIP_211005
+	desc = EVTDSC_RIP_21105
 	id = RIP.21115
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -2235,8 +2257,12 @@ narrative_event = {
 
 #Diplomatic quest step 3 bribe success ping
 narrative_event = {
+	title = EVTNAME_RIP_211001
+	desc = EVTDSC_RIP_21100
 	id = RIP.21121
+
 	is_triggered_only = yes
+
 	hide_window = yes
 
 	option = {
@@ -2286,7 +2312,10 @@ narrative_event = {
 
 #Diplomatic quest step 3 speech success ping
 narrative_event = {
+	title = EVTNAME_RIP_211003
+	desc = EVTDSC_RIP_21100
 	id = RIP.21123
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -2496,7 +2525,10 @@ narrative_event = {
 
 #Martial quest step 1 fail ping
 narrative_event = {
+	title = EVTNAME_RIP_212001
+	desc = EVTDSC_RIP_21200
 	id = RIP.21201
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -2550,7 +2582,10 @@ narrative_event = {
 
 #Martial quest step 1 success ping
 narrative_event = {
+	title = EVTNAME_RIP_212003
+	desc = EVTDSC_RIP_21200
 	id = RIP.21203
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -2605,7 +2640,9 @@ narrative_event = {
 
 #Martial quest step 1 -> 2 ping
 narrative_event = {
+	title = EVTNAME_RIP_21205
 	id = RIP.21205
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -2712,7 +2749,10 @@ narrative_event = {
 
 #Martial quest step 2 fail ping
 narrative_event = {
+	title = EVTNAME_RIP_212001
+	desc = EVTDSC_RIP_21200
 	id = RIP.21211
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -2767,7 +2807,10 @@ narrative_event = {
 
 #Martial quest step 2 success ping
 narrative_event = {
+	title = EVTNAME_RIP_212003
+	desc = EVTDSC_RIP_21200
 	id = RIP.21213
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -2840,7 +2883,9 @@ narrative_event = {
 
 #Martial quest step 2 -> 3 ping
 narrative_event = {
+	title = EVTNAME_RIP_21215
 	id = RIP.21215
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -2978,7 +3023,10 @@ narrative_event = {
 
 #Martial quest step 3 ghost success ping
 narrative_event = {
+	title = EVTNAME_RIP_212001
+	desc = EVTDSC_RIP_21200
 	id = RIP.21221
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3029,7 +3077,10 @@ narrative_event = {
 
 #Martial quest step 3 search success ping
 narrative_event = {
+	title = EVTNAME_RIP_212003
+	desc = EVTDSC_RIP_21200
 	id = RIP.21223
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3079,7 +3130,12 @@ narrative_event = {
 
 #Martial quest step 3 pinging the reincarnation character 
 narrative_event = {
+	title = EVTNAME_RIP_21225
 	id = RIP.21225
+	desc = EVTDSC_RIP_21225
+	border = GFX_event_narrative_frame_religion
+	picture = GFX_evt_lunatic
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3236,7 +3292,10 @@ narrative_event = {
 
 #Intrigue quest step 1 fail ping
 narrative_event = {
+	title = EVTNAME_RIP_213001
+	desc = EVTDSC_RIP_21300
 	id = RIP.21301
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3281,7 +3340,10 @@ narrative_event = {
 
 #Intrigue quest step 1 success ping
 narrative_event = {
+	title = EVTNAME_RIP_213003
+	desc = EVTDSC_RIP_21300
 	id = RIP.21303
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3325,7 +3387,10 @@ narrative_event = {
 
 #Intrigue quest step 1 -> 2 ping
 narrative_event = {
+	title = EVTNAME_RIP_213005
+	desc = EVTDSC_RIP_21305
 	id = RIP.21305
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3436,7 +3501,10 @@ narrative_event = {
 
 #Intrigue quest step 2 fail ping
 narrative_event = {
+	title = EVTNAME_RIP_213001
+	desc = EVTDSC_RIP_21300
 	id = RIP.21311
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3497,7 +3565,10 @@ narrative_event = {
 
 #Intrigue quest step 2 success ping
 narrative_event = {
+	title = EVTNAME_RIP_213003
+	desc = EVTDSC_RIP_21300
 	id = RIP.21313
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3556,7 +3627,9 @@ narrative_event = {
 
 #Intrigue quest step 2 -> 3 ping
 narrative_event = {
+	title = EVTNAME_RIP_213005
 	id = RIP.21315
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3669,7 +3742,10 @@ narrative_event = {
 
 #Intrigue quest step 3 ghost success ping
 narrative_event = {
+	title = EVTNAME_RIP_213001
+	desc = EVTDSC_RIP_21300
 	id = RIP.21321
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3718,7 +3794,10 @@ narrative_event = {
 
 #Intrigue quest step 3 search success ping
 narrative_event = {
+	title = EVTNAME_RIP_213003
+	desc = EVTDSC_RIP_21300
 	id = RIP.21323
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3915,7 +3994,10 @@ narrative_event = {
 
 #Learning quest step 1 fail ping
 narrative_event = {
+	title = EVTNAME_RIP_214001
+	desc = EVTDSC_RIP_21400
 	id = RIP.21401
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -3964,7 +4046,10 @@ narrative_event = {
 
 #Learning quest step 1 success ping
 narrative_event = {
+	title = EVTNAME_RIP_214003
+	desc = EVTDSC_RIP_21400
 	id = RIP.21403
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -4019,7 +4104,10 @@ narrative_event = {
 
 #Learning quest step 1 -> 2 ping
 narrative_event = {
+	title = EVTNAME_RIP_214005
+	desc = EVTDSC_RIP_21405
 	id = RIP.21405
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -4139,7 +4227,10 @@ narrative_event = {
 
 #Learning quest step 2 fail ping
 narrative_event = {
+	title = EVTNAME_RIP_214001
+	desc = EVTDSC_RIP_21400
 	id = RIP.21411
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -4220,7 +4311,10 @@ narrative_event = {
 
 #Learning quest step 2 success ping
 narrative_event = {
+	title = EVTNAME_RIP_214003
+	desc = EVTDSC_RIP_21400
 	id = RIP.21413
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -4281,7 +4375,10 @@ narrative_event = {
 
 #Learning quest step 2 -> 3 ping
 narrative_event = {
+	title = EVTNAME_RIP_214005
+	desc = EVTDSC_RIP_21405
 	id = RIP.21415
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -4420,7 +4517,10 @@ narrative_event = {
 
 #Learning quest step 3 success ping
 narrative_event = {
+	title = EVTNAME_RIP_214001
+	desc = EVTDSC_RIP_21400
 	id = RIP.21421
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -4470,7 +4570,10 @@ narrative_event = {
 
 #Learning quest step 3 pinging the reincarnated character 
 narrative_event = {
+	title = EVTNAME_RIP_21425
 	id = RIP.21425
+	desc = EVTDSC_RIP_21425
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -4636,11 +4739,15 @@ character_event = {
 
 #Investigation starts
 narrative_event = {
+	title = EVTNAME_RIP_21500
 	id = RIP.21500
+	desc = EVTDSC_RIP_21500
+
 	is_triggered_only = yes
 	hide_window = yes
 
 	option = {
+		name = EVTOPTA_RIP_21500
 		FROM =  { narrative_event = { id = RIP.21501 } } 
 	}
 }
@@ -4820,7 +4927,10 @@ narrative_event = {
 
 #Heir/relative/advisor  finds out that mystic is fraud
 narrative_event = {
+	title = EVTNAME_RIP_21502
 	id = RIP.21502
+	desc = EVTDSC_RIP_21502
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -4895,7 +5005,10 @@ narrative_event = {
 
 #Investigator finds no proof
 narrative_event = {
+	title = EVTNAME_RIP_21504
 	id = RIP.21504
+	desc = EVTDSC_RIP_21504
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -4930,7 +5043,10 @@ narrative_event = {
 
 #Mystic discovers you
 narrative_event = {
+	title = EVTNAME_RIP_21506
 	id = RIP.21506
+	desc = EVTDSC_RIP_21506
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -4991,7 +5107,10 @@ narrative_event = {
 
 #Mystic escapes
 narrative_event = {
+	title = EVTNAME_RIP_21508
 	id = RIP.21508
+	desc = EVTDSC_RIP_21508
+
 	is_triggered_only = yes
 	hide_window = yes
 
@@ -5022,10 +5141,13 @@ narrative_event = {
 
 #reincarnation event
 narrative_event = {
+	title = EVTNAME_RIP_21509
 	id = RIP.21991
+	desc = EVTDSC_RIP_21509
+	border = GFX_event_narrative_frame_religion
+
 	is_triggered_only = yes
 	hide_from = yes
-
 	hide_window = yes
 
 	option = {
