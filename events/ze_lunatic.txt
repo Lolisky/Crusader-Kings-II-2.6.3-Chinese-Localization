@@ -93,7 +93,7 @@ character_event = {
 
 		tooltip = {
 			create_character = {
-				name = "é—ªè¹„"
+				name = "ÉÁÌã"
 				age = 16
 				religion = ROOT
 				culture = horse
@@ -111,7 +111,7 @@ character_event = {
 			random_list = {
 				50 = {
 					create_character = {
-						name = "é—ªè¹„"
+						name = "ÉÁÌã"
 						age = 16
 						religion = ROOT
 						culture = horse
@@ -126,7 +126,7 @@ character_event = {
 				}
 				50 = {
 					create_character = {
-						name = "é—ªè¹„"
+						name = "ÉÁÌã"
 						female = yes
 						age = 16
 						religion = ROOT

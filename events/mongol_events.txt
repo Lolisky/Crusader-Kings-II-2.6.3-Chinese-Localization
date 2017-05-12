@@ -8280,7 +8280,7 @@ narrative_event = {
 				}
 				log = "Spawning Temujin for invasion"
 				create_character = {
-					name="é“æœ¨çœŸ"
+					name="ÌúÄ¾Õæ"
 					# AKA: Genghis Khan
 					dynasty=11100
 					dna="bfimkolbecc"
@@ -8434,7 +8434,7 @@ character_event = {
 	
 	immediate = {
 		create_character = {
-			name = "å­›å„¿å¸–"
+			name = "ØÃ¶ùÌû"
 			age = 49
 			dynasty = 1041000
 			religion = tengri_pagan
@@ -8447,7 +8447,7 @@ character_event = {
 			add_spouse = ROOT
 		}
 		create_character = {
-			name="é€Ÿä¸å°"
+			name="ËÙ²»Ì¨"
 			age = 35
 			religion="tengri_pagan"
 			culture="mongol"
@@ -8465,7 +8465,7 @@ character_event = {
 			trait="trickster"
 		}
 		create_character = {
-			name="å¯Ÿåˆå°" 
+			name="²ìºÏÌ¨"
 			age = 27
 			dynasty=11100
 			religion="tengri_pagan"
@@ -8480,7 +8480,7 @@ character_event = {
 			set_mother = event_target:borte
 		}
 		create_character = {
-			name="çªé˜”å°" # Ã–gedei Khan
+			name="ÎÑÀ«Ì¨" # ?gedei Khan
 			age = 24
 			dynasty=11100
 			religion="tengri_pagan"
@@ -8494,7 +8494,7 @@ character_event = {
 			set_mother = event_target:borte
 		}
 		create_character = {
-			name="æœ¯èµ¤"
+			name="Êõ³à"
 			age = 29
 			dynasty=11100
 			religion="tengri_pagan"
@@ -8509,7 +8509,7 @@ character_event = {
 			set_mother = event_target:borte
 		}
 		create_character = {
-			name="æ‹–é›·"
+			name="ÍÏÀ×"
 			age = 18
 			dynasty=11100
 			religion="tengri_pagan"
@@ -8521,7 +8521,7 @@ character_event = {
 			set_mother = event_target:borte
 		}
 		create_character = {
-			name="å“²åˆ«"
+			name="ÕÜ±ğ"
 			#AKA Chepe
 			age = 50
 			dynasty = random
