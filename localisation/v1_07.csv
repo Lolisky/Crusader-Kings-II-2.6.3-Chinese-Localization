@@ -554,7 +554,7 @@ EVTOPTA94167;同意！;J'accepte?;Einverstanden!;;echo!;;;;;;;;;x
 EVTTOOLTIP94168;你开始了你的训练.;Vous d閎utez votre formation.;Ihr beginnt mit dem Training.;;Empiezas tu entrenamiento.;;;;;;;;;x
 EVTDESC94168;你在你的闲暇时间，在这个年老的情报总管的教授下进行了漫长艰苦的学习，他教会了你许多关于伪装和短剑的技巧.你的阴谋能力得到了提升！;Vous avez travaill?dur et longtemps aux c魌閟 du vieux ma顃re-espion pendant votre temps libre et vous connaissez d閟ormais bon nombre de techniques d'espionnage. Votre aptitude en intrigue s'est accrue?;Nach einer langen und anstrengenden Zeit unter der F黨rung des alten Meisterspions habt Ihr viel 黚er lange M鋘tel und versteckte Dolche lernen k鰊nen. Eure F鋒igkeiten zur Intrige haben sich verbessert!;;Has estudiando largo y tendido con el anciano Maestro de Esp韆s en tu tiempo libre, y el te ha ense馻do mucho del juego de la capa y la espada. u intriga ha mejorado!;;;;;;;;;x
 EVTOPTA94168;我不惧怕黑暗.;Je n'ai pas peur du noir.;Ich f黵chte mich nicht vor der Dunkelheit.;;No le temo a la oscuridad.;;;;;;;;;x
-obj_lower_decadence_title;Lower Decadence降低腐化度;R閐uire la d閏adence;Gegen die Dekadenz;;Reducir Decadencia;;;;;;;;;x
+obj_lower_decadence_title;降低腐化度;R閐uire la d閏adence;Gegen die Dekadenz;;Reducir Decadencia;;;;;;;;;x
 obj_lower_decadence_desc;[This.GetTitledFirstName]想要降低[This.GetHerHis]王朝的腐化度，因为它的数值超过了 60.;[This.GetTitledFirstName] souhaite r閐uire le niveau de d閏adence de sa dynastie, dont la valeur est sup閞ieure ?60.;[This.GetTitledFirstName] m鯿hte die Dekadenz der [This.GetHerHis]-Dynastie senken, denn diese liegt 黚er 60.;;[This.GetTitledFirstName] quiere reducir la decadencia de [This.GetHerHis] dinast韆, ya que tiene un valor superior a 60.;;;;;;;;;x
 lower_decadence_quit;你寻求其他途径降低你的王朝的腐化度.;Vous cherchez d'autres moyens d'abaisser le niveau de d閏adence de votre dynastie.;Ihr sucht nach einer alternativen M鰃lichkeit, die Dekadenz zu bek鋗pfen.;;Buscas otra manera de reducir la decadencia de tu dinast韆.;;;;;;;;;x
 EVTDESC94170;你的王朝已经变得以其腐化而知名，普通民众用轻蔑的眼光看待它.作为告诉他们你仍然记得先祖的荣光的信号，也许你应该把你在宫殿里的奢侈生活暂时放到一边，并和沙漠游牧部落一起过几天;Votre dynastie est connue pour son niveau de d閏adence 閘ev?et les roturiers ressentent du m閜ris ?votre 間ard. Dans une volont?de leur montrer que vous n'avez pas oubli?vos racines, peut-阾re devriez-vous quitter le luxe de votre palais l'espace de quelques jours et passer du temps avec les nomades du d閟ert?;Eure Dynastie hat einen beachtlichen Grad der Dekadenz erreicht, sodass das einfache Volk Euch mit Abscheu begegnet. Vielleicht solltet Ihr, um zu beweisen, dass Ihr Eure alten Wurzeln nicht vergessen habt, eine Zeit mit den W黶tennomaden verbringen, abse;;Tu dinast韆 se ha vuelto famosa por su decadencia y las personas comunes te ven con desd閚. Para demostrarles que no has olvidado tus antiguas ra韈es, 縩o crees que podr韆s dejar los lujos de tu palacio por unos d韆s y pasar alg鷑 tiempo con los n髆adas d;;;;;;;;;x
@@ -683,7 +683,7 @@ RETTYPE_CUL_HUNG;轻骑兵;Hussard;Husaren;;H鷖ar;;;;;;;;;x
 RETTYPE_CUL_ARAB;骆驼武士;Chamelier-Guerrier;Kamelreiterei;;Guerrero a camello;;;;;;;;;x
 RETTYPE_CUL_BYZ;铁甲圣骑兵;Cataphractaire;Kataphrakten;;Catafracto;;;;;;;;;x
 RETTYPE_CUL_IRISH;爱尔兰佣兵;Gallow-glass;Gallowglass;;Gallowglass;;;;;;;;;x
-RETTYPE_CUL_ETHIO;埃塞俄比亚前哨骑兵;Harceleur 閠hiopien;膖hiopische Scharm黷zler;;Hostigador et韔pe;;;;;;;;;x
+RETTYPE_CUL_ETHIO;埃塞俄比亚散兵;Harceleur 閠hiopien;膖hiopische Scharm黷zler;;Hostigador et韔pe;;;;;;;;;x
 RETTYPE_CUL_W_AFR;自由战士;Guerrier libre;Krieger ohne Gefolgschaft;;Guerrero libre;;;;;;;;;x
 RETTYPE_CUL_SOUTH_SLA;古萨尔;Gusar;Gusaren;;G鷖ar;;;;;;;;;x
 RETTYPE_CUL_DUTCH;格鲁吉亚民兵;Milice Goedendag;Goedendag-Miliz;;Milicia de Goedendag;;;;;;;;;x
