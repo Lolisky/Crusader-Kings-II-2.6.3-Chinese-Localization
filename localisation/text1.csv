@@ -15324,7 +15324,7 @@ MESSAGE_IS_ONMAP;µ±Ç°ÏûÏ¢$TRUTH$½«ÔÚµØÍ¼ÉÏÖÐÏÔÊ¾ (Èç¹û¿ÉÓÃ).;Ce type de message 
 MESSAGE_SETTING_TRUE;ÊÇµÄ;est ;ist;jest;se;?BE;je;;;;;;x
 MESSAGE_SETTING_FALSE;²»ÊÇ;n'est pas ;ist nicht;nie jest;no se;non ?KI;nen?;;;;;x
 SUCCESSION_SETUP;¼Ì³Ð;Héritage lors d'une succession;Nachfolge-Erbschaft;;Herencia de sucesión;;;;;;;;;x
-SUCCESSION_LOG;§Y$SUCCESSOR$§!´Ó§Y$PREDECESSOR$§!ÄÇÀï¼Ì³ÐÁË§Y$TITLES$§!.;§Y$SUCCESSOR$? a hérit?de §Y$TITLES$? de §Y$PREDECESSOR$?.;§Y$SUCCESSOR$? hat §Y$TITLES$? von §Y$PREDECESSOR$? geerbt.;;§Y$SUCCESSOR$? ha heredado el §Y$TITLES$? de §Y$PREDECESSOR$?.;;;;;;;;;x
+SUCCESSION_LOG;§Y$SUCCESSOR$§! ´Ó §Y$PREDECESSOR$§! ÄÇÀï¼Ì³ÐÁË §Y$TITLES$§!.;§Y$SUCCESSOR$? a hérit?de §Y$TITLES$? de §Y$PREDECESSOR$?.;§Y$SUCCESSOR$? hat §Y$TITLES$? von §Y$PREDECESSOR$? geerbt.;;§Y$SUCCESSOR$? ha heredado el §Y$TITLES$? de §Y$PREDECESSOR$?.;;;;;;;;;x
 SUCCESSION_ALL_VASSALS;ÒÔ¼°ÆäËûµÄÍ·ÏÎ; et d'autres titres; und andere Titel;; y otros títulos;;;;;;;;;x
 LOSTVASSAL_SETUP;·â³¼Ê§È¥Í·ÏÎ;Titre de vassal perdu;Vasallentitel verloren;;Título de vasallo perdido;;;;;;;;;x
 LOSTVASSAL_LOG;$TITLE$²»ÔÙÊÇ$OLDLIEGE$µÄ·â³¼.;Le titre $TITLE$ n'est plus détenu par un vassal de $OLDLIEGE$.;$TITLE$ wird nicht mehr von einem Vasallen von $OLDLIEGE$ bekleidet.;;$TITLE$ ya no es vasallo de $OLDLIEGE$.;;;;;;;;;x
