@@ -781,7 +781,7 @@ latin = {
 			鲁斯提西安娜 萨比娜 萨鲁斯提娜 萨隆尼娜 萨尔维亚内拉 斯坎提拉 塞伦娜 塞尔吉亚 塞维拉 塞维莉娜 西尔维亚 斯帕杜莎 苏尔皮西亚 塔尔希拉 提提亚娜 乌尔皮亚 瓦勒莉亚_瓦勒莉亚
 			维莉亚 维克托莉亚 维吉兰迪亚 维维亚娜_维维亚娜
 		}
-		from_dynasty_prefix = "奥夫 "
+		from_dynasty_prefix = " "
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
@@ -1875,7 +1875,7 @@ altaic = {
 		
 		dynasty_title_names = yes
 		
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = " "
 		founder_named_dynasties = yes
 
 		allow_looting = yes
@@ -2239,7 +2239,7 @@ west_slavic = {
 			蕾娜 莱切扎 萨洛梅雅 斯密赫娜 斯塔尼斯拉娃 斯特凡娜_斯蒂芬妮 斯维特拉娜 瓦克拉娃 弗拉季斯拉娃 薇拉 沃斯拉娃 兹登卡 索菲亚 薇妮斯拉娃
 		}
 		
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = " "
 
 		modifier = default_culture_modifier
 	}
@@ -2287,7 +2287,7 @@ west_slavic = {
 			玛蒂尔妲_玛蒂尔妲 米莱娜 纳沃娅 佩赫娜 莱切扎 莱克莎 萨洛梅雅 桑博贾 索拉斯提卡 斯密赫娜 斯塔尼斯拉娃 斯维托斯拉娃 薇斯拉娃 沃斯拉娃
 			沃利斯拉娃 韦博尔 文泽米拉 索菲亚_索菲亚 薇妮斯拉娃
 		}
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = " "
 		
 		#male_patronym = "奥维斯基"
 		#female_patronym = "奥维斯卡"
