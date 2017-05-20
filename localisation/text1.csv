@@ -65,13 +65,13 @@ alert_should_nominate_heir_instant;§YÌáÃû¼Ì³ĞÈË§!;§YNomination d'un successeur?;
 alert_should_nominate_heir_delayed;ÄãÓ¦¸ÃÎªÕâĞ©Í·ÏÎÌáÃû¼Ì³ĞÈË£º\n$LIST$;Vous devriez nommer des successeurs pour les titres suivants? \n$LIST$;Ihr solltet für diese Titel Nachfolger nominieren:\n$LIST$;;Deberías nombrar sucesores para estos títulos:\n$LIST$;;;;;;;;;x
 alert_you_can_create_titles_instant;§Y$NUM$ ¸öÍ·ÏÎÄÜ±»´´½¨§!;§YTitres pouvant être créés ($NUM$)?;§Y$NUM$ erstellbare(r) Titel?;;§YPueden crearse $NUM$ título(s)?;;;;;;;;;x
 alert_you_can_create_titles_delayed;ÒÔÏÂÍ·ÏÎÄÜ±»´´½¨£º\n$LIST$;Les titres suivants peuvent être créés? \n$LIST$;Folgende Titel können geschaffen werden:\n$LIST$;;Pueden crearse los siguientes títulos:\n$LIST$;;;;;;;;;x
-alert_you_can_usurp_titles_instant;§Y$NUM$ ¸öÍ·ÏÎ¿ÉÒÔ±»ß¥¶Ş§!;§YTitres pouvant être usurpés ($NUM$)?;§Y$NUM$ übernehmbare(r) Titel?;;§YPueden usurparse $NUM$ título(s)?;;;;;;;;;x
-alert_you_can_usurp_titles_delayed;ÒÔÏÂÍ·ÏÎ¿ÉÒÔ±»ß¥¶Ş£º\n$LIST$;Les titres suivants peuvent être usurpés? \n$LIST$;Folgende Titel können übernommen werden:\n$LIST$;;Pueden usurparse los siguientes títulos:\n$LIST$;;;;;;;;;x
+alert_you_can_usurp_titles_instant;§Y$NUM$ ¸öÍ·ÏÎ¿ÉÒÔ´Û¶á§!;§YTitres pouvant être usurpés ($NUM$)?;§Y$NUM$ übernehmbare(r) Titel?;;§YPueden usurparse $NUM$ título(s)?;;;;;;;;;x
+alert_you_can_usurp_titles_delayed;ÒÔÏÂÍ·ÏÎ¿ÉÒÔ´Û¶á£º\n$LIST$;Les titres suivants peuvent être usurpés? \n$LIST$;Folgende Titel können übernommen werden:\n$LIST$;;Pueden usurparse los siguientes títulos:\n$LIST$;;;;;;;;;x
 alert_ruler_should_marry_instant;§YÍ³ÖÎÕßÎ´»é§!;§YDirigeant non marié§!;§YHerrscher unverheiratet?;;§YGobernante soltero?;;;;;;;;;x
 alert_ruler_should_marry_delayed;ÄãÓ¦¸Ã½á»é\n§Gµã»÷ÖÁ½ÇÉ«²Ëµ¥§!;Vous devriez vous marier.\n§GCliquez pour accéder ?la vue Personnage.?;Ihr solltet heiraten\n§GKlickt zum Aufruf der Charakteransicht?;;Deberías casarte\n§GClic para ir a vista de personajes?;;;;;;;;;x
 alert_heir_should_marry_instant;§Y¼Ì³ĞÈËÎ´»é§!;§YHéritier non marié§!;§YUnverheirateter Erbe?;;§YHeredero soltero?;;;;;;;;;x
 alert_heir_should_marry_delayed;$HEIR$ Ó¦¸Ã½á»é\n§Gµã»÷ÖÁ½ÇÉ«²Ëµ¥§!;$HEIR$ devrait se marier.\n§GCliquez pour accéder ?la vue Personnage.?;$HEIR$ sollte heiraten\n§GKlickt zum Aufruf der Charakteransicht?;;$HEIR$ debería casarse\n§GClic para ir a vista de personajes?;;;;;;;;;x
-alert_should_appoint_guardian_instant;§Y$NUM$ ÓĞº¢×ÓĞèÒª¼à»¤ÈË§!;§YEnfants sans tuteur ($NUM$)?;§Y$NUM$ Kindern fehlt ein Vormund?;;§YHay $NUM$ niños sin guardián?;;;;;;;;;x
+alert_should_appoint_guardian_instant;§Y$NUM$º¢×ÓĞèÒª¼à»¤ÈË§!;§YEnfants sans tuteur ($NUM$)?;§Y$NUM$ Kindern fehlt ein Vormund?;;§YHay $NUM$ niños sin guardián?;;;;;;;;;x
 alert_should_appoint_guardian_delayed;ÒÔÏÂº¢Í¯ĞèÒª¼à»¤ÈË£º\n$LIST$;Les enfants suivants ont besoin d'un tuteur? \n$LIST$;Folgende Kinder benötigen einen Vormund:\n$LIST$;;Los siguientes niños necesitan un guardián:\n$LIST$;;;;;;;;;x
 ;#alert_demesne_too_big_instant;§YDemesne too Big§!;;§YDom?ne zu gro??;;§YHeredad demasiado grande?;;;;;;;;;x;
 ;#alert_demesne_too_big_delayed;Your demesne has §Y$NUM$§!/§Y$MAX$§! holdings, causing inefficient taxation and resentment among your vassals.;;Eure Dom?ne hat §Y$NUM$?/§Y$MAX$? Besitzt¨¹mer, was zu ineffizienter Besteuerung f¨¹hrt und f¨¹r Groll bei Euren Vasallen sorgt.;;Tu heredad tiene §Y$NUM$?/§Y$MAX$? posesiones que originan impuestos in¨²tiles y resentimiento entre tus vasallos.;;;;;;;;;x;
@@ -19166,9 +19166,9 @@ GENERATING_COAS;ÕıÔÚ´¦Àí¶Ü»Õ;Génération des armoiries;Wappen wird erstellt;;Gene
 REGIMENT;ÍÅ;Régiment;Regiment;;Regimiento;;;;;;;;;x
 FLEET;º£¾ü;Flotte;Flotte;;Flota;;;;;;;;;x
 ARMY;Â½¾ü;Armée;Armee;;Ejército;;;;;;;;;x
-RAISE_LEVY;§YÕÙ¼¯Õ÷Õ×±ø§!;Lever des troupes;Wehrpflichtige ausheben;;Reclutar leva;;;;;;;;;x
+RAISE_LEVY;§YÕÙ¼¯Õ÷ÕÙ±ø§!;Lever des troupes;Wehrpflichtige ausheben;;Reclutar leva;;;;;;;;;x
 RAISE_SHIP_LEVY;§YÕÙ¼¯´¬Ö»§!;Lever des navires;Schiffe ausheben;;Reclutar barcos;;;;;;;;;x
-DISMISS_LEVY;§Y½âÉ¢Õ÷Õ×±ø§!;Démobiliser des troupes;Wehrpflichtige entlassen;;Descartar leva;;;;;;;;;x
+DISMISS_LEVY;§Y½âÉ¢Õ÷ÕÙ±ø§!;Démobiliser des troupes;Wehrpflichtige entlassen;;Descartar leva;;;;;;;;;x
 DISMISS_SHIP_LEVY;§Y½âÉ¢´¬Ö»§!;Démobiliser des navires;Schiffe entlassen;;Descartar barcos;;;;;;;;;x
 CREATE_BARON;§Y´´ÉèĞÂ·â³¼§!;Créer un nouveau vassal;Neuen Vasallen erschaffen;;Crear nuevo vasallo;;;;;;;;;x
 ARMY_NAME;$NAME$¾ü;Armée de $NAME$;Armee von $NAME$;;Ejército de $NAME$;;;;;;;;;x
