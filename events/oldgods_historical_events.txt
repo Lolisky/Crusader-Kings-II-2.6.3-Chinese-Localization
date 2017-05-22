@@ -305,7 +305,7 @@ province_event = {
 		   type = castle
 		   holder = FROMFROM
 		}
-		b_kolbatz = { set_name = Jomsborg }
+		b_kolbatz = { set_name = 约姆斯堡 }
 		hidden_tooltip = {
 			owner = {
 				narrative_event = { id = TOG.4003 days = 7 }
@@ -507,7 +507,7 @@ province_event = {
 		   type = castle
 		   holder = FROMFROM
 		}
-		b_zussow = { set_name = Jomsborg }
+		b_zussow = { set_name = 约姆斯堡 }
 		hidden_tooltip = {
 			FROMFROM = {
 				narrative_event = { id = TOG.4008 days = 7 }
@@ -709,7 +709,7 @@ province_event = {
 		   type = castle
 		   holder = FROMFROM
 		}
-		b_putbus = { set_name = Jomsborg }
+		b_putbus = { set_name = 约姆斯堡 }
 		hidden_tooltip = {
 			FROMFROM = {
 				narrative_event = { id = TOG.4018 days = 7 }
@@ -911,7 +911,7 @@ province_event = {
 		   type = castle
 		   holder = FROMFROM
 		}
-		b_tribsees = { set_name = Jomsborg }
+		b_tribsees = { set_name = 约姆斯堡 }
 		hidden_tooltip = {
 			FROMFROM = {
 				narrative_event = { id = TOG.4028 days = 7 }
