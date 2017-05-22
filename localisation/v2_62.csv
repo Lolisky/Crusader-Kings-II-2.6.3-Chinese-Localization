@@ -1,4 +1,4 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 CONVERTING;×ª±ä;CONVERSION;KONVERTIERUNG;;CONVERSIÓN;;;;;;;;;x
 opinion_humiliated_family;±»ĞßÈèµÄ¼ÒÍ¥;A humili?un parent éloign?Erniedrigte Familie;;Familia humillada;;;;;;;;;x
 opinion_humiliated_close_kin;±»ĞßÈèµÄ½üÇ×;A mutil?un proche parent;Hat engen Verwandten erniedrigt;;Parientes cercanos humillados;;;;;;;;;x
@@ -53,7 +53,7 @@ RIP.30305.d;Äã´ÒÃ¦ÃşË÷µ½ÄãµÄ³¤½££¬¶ø[immortal_rival.GetFirstName]Õı¶Ô×ÅÄã³å´Ì£¬À
 RIP.30305.a;£¿£¿£¿;???;???;;???;;;;;;;;;x
 RIP.30306.d;Í»È»Ò»Õó»Îµ´£¬ÄãµÄÊÓÏß¿ªÊ¼ÇåÎú¡£ÔÚ±»ºÚ°µÍÌÊÉÖ®Ç°£¬ÓĞÄÇÃ´Ò»Ë²£¬ÄãÂúĞÄÒÉ»óµØ¿´µ½[immortal_rival.GetFirstName]Õ¾ÔÚÒ»¾ßÎŞÍ·Ê¬ÌåÇ°¡£Äã¶ÌÔİµØ²Â²âÁËÒ»»áÕâÊ¬Ìå´ÓºÎ¶øÀ´¡£;Dans une secousse soudaine, votre vue s'éclaircit. L'espace d'un instant, avant que les ténèbres ne se referment sur vous, vous êtes surpris[Root.GetNoneE] de voir [immortal_rival.GetFirstName] tourner autour d'un corps sans tête. Vous vous demandez brièvement d'o?il vient.;Mit einem plötzlichen Sto?klärt sich Eure Sicht. Einen Moment lang, bevor Euch die Dunkelheit ergreift, fragt Ihr euch, warum [immortal_rival.GetFirstName] über einem kopflosen Rumpf steht. Kurz wundert ihr euch, woher die Leiche kam.;;De repente, vuelves a ver con claridad. Por un momento, antes de que la oscuridad se cierna sobre ti, te consterna ver a [immortal_rival.GetFirstName] con un pie sobre un cuerpo decapitado. Por un instante, te preguntas de dónde ha salido.;;;;;;;;;x
 RIP.30306.a;¡­¡­;...;...;;...;;;;;;;;;x
-;#sea_queen is just a gender swap of seaking, so much of that translation may apply:;;;;
+#sea_queen is just a gender swap of seaking, so much of that translation may apply:;;;;
 sea_queen;º£Ö®Å®Íõ;Reine des mers;Meereskönigin;;Reina de los mares;;;;;;;;;x
 sea_queen_desc;Õâ¸ö½ÇÉ«ÉùÃûÔ¶Ñï¡¢±»ÈËÎ·¾å¡£ÄÄÀïÓĞÏÌË®£¬ÄÄÀï¾ÍÓĞº£Ö®Å®ÍõµÄ¿Ö²À¡£;Ce personnage est connu et redout?partout. L?o?de l'eau salée peut être trouvée, la Reine des mers y sème la terreur.;Diese Person wird weit und breit gefürchtet. Wo auch immer es Meereswasser gibt, sorgt die Seekönigin für Angst und Schrecken.;;Este personaje es tan conocido como temido. Dondequiera que exista agua salada, existe el terror de la Reina de los mares.;;;;;;;;;x
 88017.cannibal;[From.GetBestName]ÁîÈËÒÅº¶£¬µ«ÖÁÉÙÎÒ»¹ÓĞµãĞÄ³Ô£¡;Dommage pour [From.GetBestName], mais au moins j'ai un casse-croûte?;Schade um[From.GetBestName], aber immerhin habe ich einen kleinen Imbiss!;;Me da pena por [From.GetBestName], ¡pero al menos tengo un tentempi?;;;;;;;;;x

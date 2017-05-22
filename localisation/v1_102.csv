@@ -1,4 +1,4 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 enatic;Å®ĞÔ;Utérine;Enatisch;;Enática;;;;;;;;;x
 enatic_desc;Ö»ÓĞÅ®ĞÔÄÜ¼Ì³ĞÍ·ÏÎ;Uniquement les femmes peuvent hériter.;Nur Frauen können erben.;;Sólo las mujeres pueden heredar.;;;;;;;;;x
 enatic_cognatic;Å®ĞÔÓÅÏÈ;Utérine-cognatique;Enatisch-kognatisch;;Enática-Cognática;;;;;;;;;x
@@ -35,5 +35,5 @@ MONTHLY_PIETY_TO_LIEGE;ÁìÖ÷ÔÂ¶È $PIETYNAME$ ò¯³Ï: §G+$VALUE$§!\n;$PIETYNAME$ par
 NO_LIEGEPRESTIGE;´Ë·â³¼²»»á¸øÄã´øÀ´ÈÎºÎÍşÍû¡£\nÓĞĞ©½¨ÖşÄÜ¸ø½¨ÖşÓµÓĞÕßºÍÓµÓĞÕßµÄÁìÖ÷´øÀ´ÍşÍû;Ce vassal ne vous procure pas de prestige.\nCertains bâtiments donnent du prestige au détenteur et ?son seigneur lige.;Dieser Vasall gibt Euch kein Prestige.\nEinige Gebäude geben sowohl ihrem Besitzer als auch dessen Lehnsherr Prestige.;;Este vasallo no est?dnándote nada de prestigio.\nAlgunas construcciones dan prestigio al poseedor y a su Señor.;;;;;;;;;x
 NO_LIEGEPIETY;´Ë·â³¼²»»á¸øÄã´øÀ´ÈÎºÎ$PIETYNAME$¡£\nÓĞĞ©½¨ÖşÄÜ¸ø½¨ÖşÓµÓĞÕßºÍÓµÓĞÕßµÄÁìÖ÷´øÀ´ $PIETYNAME$¡£;Ce vassal ne vous procure pas de $PIETYNAME$.\nCertains bâtiments procurent de la $PIETYNAME$ au détenteur et ?son seigneur lige.;Dieser Vasall gibt Euch keine $PIETYNAME$.\nEinige Gebäude geben sowohl ihrem Besitzer als auch dessen Lehnsherr $PIETYNAME$.;;Este vasallo no est?dnándote nada de $PIETYNAME$.\nAlgunas construcciones dan $PIETYNAME$ al poseedor y a su Señor.;;;;;;;;;x
 LIEGE_PRESTIGE_SELF;Ö±Êô½¨Öş´øÀ´µÄÍşÍûµã£º§G+$VALUE$§!;Prestige de vos propres bâtiments? §G+$VALUE$?;Prestige von eigenen Gebäuden: §G+$VALUE$?;;Prestigio de nuestras construcciones: §G+$VALUE$?;;;;;;;;;x
-;#LIEGE_PRESTIGE;Prestige from vassal buildings: §G+$VALUE$§!;;Prestige von Vasallengeb?uden: §G+$VALUE$?;;Prestigio de las construcciones de los vasallos: §G+$VALUE$?;;;;;;;;;x;
+#LIEGE_PRESTIGE;Prestige from vassal buildings: §G+$VALUE$§!;;Prestige von Vasallengeb?uden: §G+$VALUE$?;;Prestigio de las construcciones de los vasallos: §G+$VALUE$?;;;;;;;;;x;
 EVTOPTA62910_CUSTOM;§RËùÓĞ¿¦¶û°ÍÚäÉ½Âö¶«²¿µÄ²®¾ô¶¼¶ªÊ§ÁË¡£§!\nËùÓĞÔÚ·¨ÀíÉÏÊôÓÚĞÙÑÀÀûµÄ²®¾ô¶¼±ä³ÉĞÙÑÀÀûÎÄ»¯ÁË¡£\n;§RTous les comtés ?l'est des Carpathes sont perdus.?\nTous les comtés de jure de la Hongrie adoptent la culture hongroise.\n;§RAlle Grafschaften östlich der Karpaten sind verloren.?\nAlle Grafschaften innerhalb de jure-Ungarns ändern ihre Kultur in ungarisch.\n;;§RTodos los condados al este de los cárpatos se pierden.?\nTodos los condados dentro de la esfera de jure de Hungría cambian su cultura a Húngara.\n;;;;;;;;;x

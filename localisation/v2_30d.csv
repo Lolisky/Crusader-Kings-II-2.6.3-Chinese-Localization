@@ -1,12 +1,12 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 MODIFIER_COMBAT_RATING;¸öÈËÊµÕ½¼¼ÄÜ;Compétence de combat personnelle;Persönliche Kampffertigkeit;;Destreza de Combate Personal;;;;;;;;;x
 GOD_THE_CREATOR;ÔìÎïÖ÷;le Créateur;der Schöpfer;;el Creador;;;;;;;;;x
 GOD_BRAHMA;èóÌì;Brahma;Brahma;;Brahma;;;;;;;;;x
 GOD_SATURN;Èø¶ûÍ¼Å¬Ë¹;Saturne;Saturn;;Saturno;;;;;;;;;x
 scholar_desc;ÕâÃû½ÇÉ«ÊÇÌìÉúµÄÑ§Õß,ÒÔÆÚ³¬ºõ·²ÈËµÄÖÇ»ÛÇî±ÏÉúÖ®¾«Á¦È¥×êÑĞÊé±¾µ±ÖĞµÄÖªÊ¶.;Ce personnage vit en érudit. Il se plonge dans les livres et correspond avec les esprits les plus brillants du monde connu.;Diese Person führt das Leben eines Gelehrten, wälzt Bücher und tauscht sich brieflich mit den größten Denkern der bekannten Welt aus.;;Este personaje lleva la vida de un erudito, estudiando libros y carteándose con las mejores mentes del mundo conocido.;;;;;;;;;x
 HAVE_NOT_RELIGION;²»ÊÇ;N'est pas;ist NICHT;;NO es;;;;;;;;;x
-;#alert_available_targetted_decision_instant;§YYou Can Now§!;;§YIhr k?nnt nun?;;§YAhora Puedes?;;;;;;;;;x;
-;#alert_available_targetted_decision_delayed;The following Character Interactions are available:\n$LIST$;;Die folgenden Personeninteraktionen sind verf¨¹gbar:\n$LIST$;;Los siguientes Interacciones con Personajes son realizables:\n$LIST$;;;;;;;;;x;
+#alert_available_targetted_decision_instant;§YYou Can Now§!;;§YIhr k?nnt nun?;;§YAhora Puedes?;;;;;;;;;x;
+#alert_available_targetted_decision_delayed;The following Character Interactions are available:\n$LIST$;;Die folgenden Personeninteraktionen sind verf¨¹gbar:\n$LIST$;;Los siguientes Interacciones con Personajes son realizables:\n$LIST$;;;;;;;;;x;
 EVTOPTA_WOL_2100_3;ÙªÈå,Ğ¬×Ó... ²»! [target_spy_on.GetFirstName] ¾¹È»ÔÚÃHÑò!;Des nains, des chaussures... Oh non! [target_spy_on.GetFirstName] entretient une liaison avec une chèvre fougueuse?;Zwerge, Schuhe... Nein! [target_spy_on.GetFirstName] hat eine Affäre mit einer widerborstigen Ziege!;;Enanos, zapatos... No! [target_spy_on.GetFirstName] est?teniendo relaciones con una cabra!;;;;;;;;;x
 EVTOPTA_WOL_2100_5;[target_spy_on.GetSubjectPronounCap] ÔÚÊ®Ò»ËêµÄĞ¡Ğ¡Äê¼Í¾ÍÉ±ÁËÒ»¸öÍæ°é!;[target_spy_on.GetSubjectPronounCap] a assassin?un ami d'enfance ?l'âge de 11 ans?;[target_spy_on.GetSubjectPronounCap] ermordete einen Spielgefährten im zarten Alter von 11 Jahren!;;[target_spy_on.GetSubjectPronounCap] asesin?an un amiguito cuando tenía 11 años!;;;;;;;;;x
 EVTOPTA_WOL_2100_6;[target_spy_on.GetSubjectPronounCap] ¸ø×Ô¼º»ÃÏëÁËÒ»¸ö½Ğ°Í²®µÄÅóÓÑ!;[target_spy_on.GetSubjectPronounCap] possède un ami imaginaire appel?Bappo?;[target_spy_on.GetSubjectPronounCap] hat einen unsichtbaren Freund namens Bappo!;;[target_spy_on.GetSubjectPronounCap] tiene un amigo imaginario llamado Bápo!;;;;;;;;;x
@@ -32,13 +32,13 @@ desc_magnificent_maze;Õâ¸ö½ÇÉ«µÄÃÀÀöµÄ»¨Ô°ÃÔ¹¬ÔÚ¹úÄÚÔ¶½üÎÅÃû.;Le magnifique laby
 duel_title;¾ö¶·;Le duel;Das Duell;;El Duelo;;;;;;;;;x
 EVTOPTG_WOL_10221;[stonemason.GetSheHeCap]ÏÖÔÚ²»ÔÚÕâÀï. [stonemason.GetSheHeCap]ÓĞ¸üÖØÒªµÄÊÂÇéÈ¥½â¾ö;[stonemason.GetSheHeCap] n'est pas disponible pour le moment. [stonemason.GetSheHeCap] a des choses plus importantes qui retiennent son attention.;[stonemason.GetSheHeCap] ist gerade nicht hier. [stonemason.GetSheHeCap] hat Wichtigeres zu tun.;;[stonemason.GetSheHeCap] no est?aqu?en este momento. [stonemason.GetSheHeCap] est?ocupado con cosas más imporantes.;;;;;;;;;x
 duel_tooltip_busy;¾ö¶·µÄÈÎºÎÒ»·½²»ÄÜµ£¸ºÈÎÎñ»ò´¦ÓÚÕ½¶·Ö®ÖĞ.\n;Aucun des duellistes ne peut être occup?ou impliqu?dans une guerre.\n;Keiner der Duellanten darf beschäftigt sein oder einen Krieg führen.\n;;Ninguno de los contendientes puede estar ocupado o involucrado en una guerra.\n ;;;;;;;;;;x
-;#duel_tooltip_sickness;Must be in a healthy condition.\n;Doit ¨ºtre en bonne sant¨¦.\n;Muss gesund sein.\n;;Tiene que estar en condici¨®n saludable.\n;;;;;;;;;;x;
-;#duel_tooltip_fought_before;Have not duelled each other before.\n;Ne se sont jamais affront¨¦s en duel.\n;Darf sich nicht bereits vorher duelliert haben.\n;;No han luchado antes en un duelo entre ellos.\n;;;;;;;;;;x;
+#duel_tooltip_sickness;Must be in a healthy condition.\n;Doit ¨ºtre en bonne sant¨¦.\n;Muss gesund sein.\n;;Tiene que estar en condici¨®n saludable.\n;;;;;;;;;;x;
+#duel_tooltip_fought_before;Have not duelled each other before.\n;Ne se sont jamais affront¨¦s en duel.\n;Darf sich nicht bereits vorher duelliert haben.\n;;No han luchado antes en un duelo entre ellos.\n;;;;;;;;;;x;
 opinion_fought_duel;¾ö¶·;Se sont affrontés en duel;Duell ausgetragen;;Luchado en un Duelo;;;;;;;;;;x
 duel_tooltip_valid_target;ÄãµÄÎÄ»¯ºÍ×Ú½ÌÔÊĞíÓëÆä¾ö¶·.\n;Est une cible valide pour votre religion ou votre culture.\n;Ist ein gültiges Ziel eines Duells in Eurer Religion oder Kultur.\n;;Es un contendiente válido para un duelo en tu cultura.\n;;;;;;;;;;x
 duel_tooltip_recent_duel;¾ö¶·µÄÈÎÒâÒ»·½Ã»ÓĞÕıÔÚ²ÎÓëÆäËû¾ö¶·.\n;Aucun des deux participants ne s'est battu en duel récemment.\n;Keiner der Duellanten hat vor Kurzem ein Duell ausgetragen.\n;;Ninguno de los contendientes ha luchado en un duelo recientemente.\n;;;;;;;;;;x
 dishonest_duel_tooltip;ÕâÔÚ¾ö¶·ÖĞÊÇ²»³ÏĞÅµÄĞĞÎª,ÆäËûÈË»áÒòÖ®¶ø²»Âú.;Cette action est considérée comme malhonnête et peut froisser certaines personnes.;Dies wird als unehrlich betrachtet und die Leute könnten über eine solche Verhaltensweise aufgebracht sein.;;Esto se considera deshonesto y puede afectar a tu reputación negativamente.;;;;;;;;;;x
-;#duel_tooltip_excommunicated;Has the trait '§YZealous§!' and target is §YExcommunicated§! in the same religion.\n;A le trait '§Yz¨¨le?' et la cible est §Yexcommuni¨¦e?.\n;Besitzt die Eigenschaft '§YEifernd?' und das Ziel ist §YExkommuniziert? in der gleichen Religion.\n;;Tiene el rasgo '§YFan¨¢tico?' y el otro contendiente ha sido §YExcomunicado? de la misma religi¨®n.\n;;;;;;;;;;x;
+#duel_tooltip_excommunicated;Has the trait '§YZealous§!' and target is §YExcommunicated§! in the same religion.\n;A le trait '§Yz¨¨le?' et la cible est §Yexcommuni¨¦e?.\n;Besitzt die Eigenschaft '§YEifernd?' und das Ziel ist §YExkommuniziert? in der gleichen Religion.\n;;Tiene el rasgo '§YFan¨¢tico?' y el otro contendiente ha sido §YExcomunicado? de la misma religi¨®n.\n;;;;;;;;;;x;
 EVTOPTB_WOL_11110;²»,ÎÒ²»Ïë´òÎÒµÄÅóÓÑ.;Non, je ne veux pas affronter mes amis.;Nein, ich will nicht gegen meine Freunde kämpfen.;;No, no quiero luchar contra mis amigos.;;;;;;;;;x
 is_not_ascetic;²»ÊÇ¿àĞĞÉ®\n;N'est pas ascète\n;Ist kein Asket\n;;No es Ascético\n;;;;;;;;;x
 wol_duel_training;¾ö¶·ÑµÁ·;Entraînement au duel;Duellausbildung;;Entrenado para Duelos;;;;;;;;;x

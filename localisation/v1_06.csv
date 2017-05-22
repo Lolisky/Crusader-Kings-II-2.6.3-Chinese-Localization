@@ -1,7 +1,7 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 PLOT_POWER_CONTRIB_LOWER_THAN;ÔÚ$PLOTTER$ $PLOT$Õâ¼şÊÂÉÏµÄ²ÎÓë¶ÈÉÙÓÚ§Y$POWER$%§!\n;Contribution au complot de $PLOTTER$ pour $PLOT$ est inférieure ?§Y$POWER$%?\n;Beteiligung an $PLOTTER$s Plan zum $PLOT$  geringer als §Y$POWER$%?\n ;;Contribución al complot de $PLOTTER$ sobre $PLOT$ inferior a §Y$POWER$%?\n;;;;;;;;;x
 PLOT_POWER_CONTRIB_AT_LEAST;ÔÚ$PLOTTER$µÄ$PLOT$ÕâÒ»ÒõÄ±ÖĞµÄ²ÎÓë¶È´óÓÚ§Y$POWER$%§!\n;Contribution au complot de $PLOTTER$ pour $PLOT$ est égale ou supérieure ?§Y$POWER$%?\n;Beteiligung an $PLOTTER$s Plan zum $PLOT$  mindestens §Y$POWER$%?\n ;;Contribución al complot de $PLOTTER$ sobre $PLOT$ de al menos §Y$POWER$%?\n;;;;;;;;;x
-;#INTERACTION_CANNOT_JOIN_VASSAL_WAR;We cannot join our vassals' wars (except for Crusades/Jihads);;Wir k?nnen uns den Kriegen unserer Vasallen nicht anschlie?en (au?er den Kreuzz¨¹gen/ Dschihads);;No podemos unirnos a la guerra de nuestros vasallos (salvo para cruzadas/yihads);;;;;;;;;x;
+#INTERACTION_CANNOT_JOIN_VASSAL_WAR;We cannot join our vassals' wars (except for Crusades/Jihads);;Wir k?nnen uns den Kriegen unserer Vasallen nicht anschlie?en (au?er den Kreuzz¨¹gen/ Dschihads);;No podemos unirnos a la guerra de nuestros vasallos (salvo para cruzadas/yihads);;;;;;;;;x;
 KILLER;Ğ×ÊÖ;Tueur;Mörder;;Asesino;;;;;;;;;x
 ANY_SPOUSE_STARTS;ÈÎÒâÅäÅ¼;N'importe quelle épouse;Jeder Ehepartner;;Cualquier cónyuge;;;;;;;;;x
 IS_MAIN_SPOUSE;ÊÇÕıÊÒ;Est la première épouse;Ist der Erste Ehepartner;;Es el primer cónyuge;;;;;;;;;x
@@ -56,9 +56,9 @@ PROV925;ÂíÀï;Mali;Mali;;Mali;;;;;;;;;x
 PROV926;°à²¼¿Ë;Bambouk;Bambuk;;Bambuk;;;;;;;;;x
 PROV927;Ôú¶ûÂí;Zarma;Zarma;;Zarma;;;;;;;;;x
 PROV928;¹Å¶ûÂí;Gourmantch?Gurma;;Gurma;;;;;;;;;x
-;#TITLE_CREATION_EMPEROR_DESC;You need to control §Y$REQ_PERC$%§! of its de jure Counties to create this title. Currently, you control $PERC$ ($HELD$/§Y$ALL$§!). Creating this title would give you §G$PRESTIGE$§! Prestige and cost you §R$GOLD$§! Gold and §R$PIETY$§! $PIETYNAME$.;;Wir m¨¹ssen §Y$REQ_PERC$%? der rechtm??igen Grafschaften in der Gewalt haben, um diesen Titel zu erschaffen. Momentan kontrollieren wir $PERC$ ($HELD$/§Y$ALL$?). Die Erschaffung dieses Titels w¨¹rde Euch §G$PRESTIGE$? Ansehen gew?hren und Euch §R$GOLD$? Gold und §R$PIETY$?$PIETYNAME$.;;Necesitamos controlar el §Y$REQ_PERC$%? de sus condados de facto para crear este t¨ªtulo. Actualmente, controlamos el $PERC$ ($HELD$/§Y$ALL$?). Crear este t¨ªtulo te dar¨ªa §G$PRESTIGE$? de Prestigio y te costar¨ªa §R$GOLD$? de oro y §R$PIETY$? de $PIETYNAME$.;;;;;;;;;x;
+#TITLE_CREATION_EMPEROR_DESC;You need to control §Y$REQ_PERC$%§! of its de jure Counties to create this title. Currently, you control $PERC$ ($HELD$/§Y$ALL$§!). Creating this title would give you §G$PRESTIGE$§! Prestige and cost you §R$GOLD$§! Gold and §R$PIETY$§! $PIETYNAME$.;;Wir m¨¹ssen §Y$REQ_PERC$%? der rechtm??igen Grafschaften in der Gewalt haben, um diesen Titel zu erschaffen. Momentan kontrollieren wir $PERC$ ($HELD$/§Y$ALL$?). Die Erschaffung dieses Titels w¨¹rde Euch §G$PRESTIGE$? Ansehen gew?hren und Euch §R$GOLD$? Gold und §R$PIETY$?$PIETYNAME$.;;Necesitamos controlar el §Y$REQ_PERC$%? de sus condados de facto para crear este t¨ªtulo. Actualmente, controlamos el $PERC$ ($HELD$/§Y$ALL$?). Crear este t¨ªtulo te dar¨ªa §G$PRESTIGE$? de Prestigio y te costar¨ªa §R$GOLD$? de oro y §R$PIETY$? de $PIETYNAME$.;;;;;;;;;x;
 c_ifni_adj;ËşÂ³µ¤ÌØ;taroudant;Taroudannter;;Tarudanti;;;;;;;;;x
-c_tharasset_adj;ËşÂ³µ¤ÌØµÄ;tamdoulti;Tamdoultier;;Tamdulti;;;;;;;;;x
+c_tharasset_adj;ËşÂ³µ¤ÌØ;tamdoulti;Tamdoultier;;Tamdulti;;;;;;;;;x
 e_persia;²¨Ë¹µÛ¹ú;Empire perse;Das persische Reich;;Imperio persa;;;;;;;;;x
 e_persia_adj;²¨Ë¹;persanne;Persisch;;Persa;;;;;;;;;x
 e_arabia;°¢À­²®µÛ¹ú;Empire arabe;Das arabische Reich;;Imperio árabe;;;;;;;;;x
@@ -164,8 +164,8 @@ king_west_african;ÂüÉ³;Mansa;Mansa;;Mansa;;;;;;;;;x
 king_female_west_african;ËÕµ¤ÄÈ;Sultane;Sultanin;;Sultana;;;;;;;;;x
 kingdom_of_west_african;ËÕµ¤¹ú;Sultanat de;Sultanat von;;Sultanato de;;;;;;;;;x
 kingdom_west_african;ËÕµ¤¹ú;Sultanat;Sultanat;;Sultanato;;;;;;;;;x
-;#alert_high_decadence_instant;§YHigh Decadence§!;;§YHohe Dekadenz?;;§YHigh Decadence?;;;;;;;;;x;
-;#alert_high_decadence_delayed;Your dynasty is seen as hopelessly decadent. There is a risk of a massive revolt.;;Eure Dynastie wird als hoffnungslos dekadent angesehen. Es besteht die Gefahr eines massiven Aufstandes.;;Tu dinast¨ªa es vista como desesperadamente decadente. Hay riesgo de revuelta masiva.;;;;;;;;;x;
+#alert_high_decadence_instant;§YHigh Decadence§!;;§YHohe Dekadenz?;;§YHigh Decadence?;;;;;;;;;x;
+#alert_high_decadence_delayed;Your dynasty is seen as hopelessly decadent. There is a risk of a massive revolt.;;Eure Dynastie wird als hoffnungslos dekadent angesehen. Es besteht die Gefahr eines massiven Aufstandes.;;Tu dinast¨ªa es vista como desesperadamente decadente. Hay riesgo de revuelta masiva.;;;;;;;;;x;
 PRETENDER_TO;¶Ô$TITLE$ÓµÓĞĞû³ÆºÍ¼Ì³ĞÈ¨µÄ;Prétendant et candidat au titre de $TITLE$;Prätendant und Anspruchsteller für $TITLE$;;Pretendiente y solicitante del $TITLE$;;;;;;;;;x
 one_celibate;ÀÖÔÚÉíºó:¶ÀÉíÖ÷Òå;Plaisirs de l'au-delà : célibat;Vergnügen im Nachleben: Das Zölibat;;Placeres en la otra vida: Celibato;;;;;;;;;x
 one_hedonist;ÀÖÔÚ´ËÉú:ÏíÀÖÖ÷Òå;Plaisirs de la vie? hédonisme;Vergnügen im Leben: Hedonismus;;Placeres en vida: Hedonismo;;;;;;;;;x
@@ -192,8 +192,8 @@ organizer;×éÖ¯Õß;Organisateur;Organisator;;Organizador;;;;;;;;;x
 organizer_desc;´ËÈË¾«ÓÚ±øÁ¦ºÍÎï×ÊÊäËÍ.;Ce personnage est un organisateur de talent en ce qui concerne la logistique et les déplacements de grands groupes d'hommes d'un point ?un autre.;Dieser Charakter ist ein geschickter Organisator für logistische Angelegenheiten und Herausforderungen, große Gruppen von einem Punkt zu einem Anderen zu bewegen.;;Este personaje es un hábil organizador en temas de logística y es capaz de superar el reto de desplazar grandes cantidades de hombres de un punto a otro.;;;;;;;;;x
 defensive_leader;ÊØÎÀÕß;Défenseur;Verteidiger;;Defensor;;;;;;;;;x
 defensive_leader_desc;´ËÈËÔÚÕ½¶·ÖĞÎŞÂÛ³ĞÊÜºÎÖÖ´ò»÷¶¼ÏñÊ¯Ç½°ãÒÙÁ¢.;Ce personnage a la réputation d'être un robuste défenseur, solide comme un roc aux côtés de ses hommes, et ce, quelle que soit la puissance des ennemis.;Dieser Charakter hat einen guten Ruf als standhafter Verfechter, der Seite an Seite wie eine Steinmauer mit den Männern steht, egal welche Kraft sich ihnen entgegen stellt.;;Este personaje tiene una reputación como inquebrantable defensor; permanece en pie junto a sus hombres sin importar qu?les acometa.;;;;;;;;;x
-;#experimenter;Unpredictable Leader;;Unvorhersehbarer Anf¨¹hrer;;L¨ªder Impredecible;;;;;;;;;x;
-;#experimenter_desc;This character is known to be an unpredictable element on the battlefield. The enemy won't see it coming, and neither will you!;;Dieser Charakter ist daf¨¹r bekannt, dass er ein unvorhersehbares Element auf dem Schlachtfeld ist. Der Feind wird es nicht kommen sehen und Ihr auch nicht!;;Este personaje es conocido por ser un elemento impredecible en el campo de batalla. ?El enemigo no lo ver¨¢ venir, pero t¨² tampoco!;;;;;;;;;x;
+#experimenter;Unpredictable Leader;;Unvorhersehbarer Anf¨¹hrer;;L¨ªder Impredecible;;;;;;;;;x;
+#experimenter_desc;This character is known to be an unpredictable element on the battlefield. The enemy won't see it coming, and neither will you!;;Dieser Charakter ist daf¨¹r bekannt, dass er ein unvorhersehbares Element auf dem Schlachtfeld ist. Der Feind wird es nicht kommen sehen und Ihr auch nicht!;;Este personaje es conocido por ser un elemento impredecible en el campo de batalla. ?El enemigo no lo ver¨¢ venir, pero t¨² tampoco!;;;;;;;;;x;
 flanker;ÉÃ³¤²àÒí;Ailier;Flügelstürmer;;Flanqueador;;;;;;;;;x
 flanker_desc;´ËÈË×îºÃ±»²¿ÊğÔÚ²àÒí£¬Ö±½ÓËºÈëµĞ¾üÉî´¦.;Ce personnage dévoile tous ses talents de combattant quand il est positionn?sur le flanc du bataillon, o?il repère et s'immisce dans les failles de l'adversaire.;Dieser Charakter kämpft am besten, wenn er auf der Flanke einer Armee positioniert ist und tief in den schwachen Punkt der feindlichen Rüstung stößt. ;;Este personaje lucha mejor si se posiciona en el flanco de un ejército, golpeando profundamente en los puntos flacos de la armadura del enemigo.;;;;;;;;;x
 aggressive_leader;ºÃÕ½Õß;Commandant offensif;Aggressiver Anführer;;Líder agresivo;;;;;;;;;x
@@ -282,66 +282,66 @@ EVTDESC7600;ÔÚ¹²Ä±ÕßµÄ°ïÖúÏÂ, Äã³É¹¦µØÎ±ÔìÁË[Root.PlotTargetTitle.GetFullBaseNam
 EVTOPTA7600;ºÃ¼«ÁË.;Fantastique?;Ausgezeichnet.;;Excelente;;;;;;;;;x
 EVTDESC7601;ÄãÎ´ÄÜ³É¹¦Î±Ôì¶Ô[Root.PlotTargetTitle.GetFullBaseName]µÄĞû³ÆÈ¨£¬¸üÔã¸âµÄÊÇ×ßÂ©ÁË·çÉù.[Root.PlotTarget.GetTitledFirstName]À×öª´ó·¢...;Non seulement vous n'avez pas ét?capable d'obtenir le titre de [Root.PlotTargetTitle.GetFullBaseName] mais votre complot a ét?mis au jour. [Root.PlotTarget.GetTitledFirstName] n'est pas franchement ravi...;Euch ist es nicht nur nicht gelungen, einen Anspruch auf [Root.PlotTargetTitle.GetFullBaseName] vorzutäuschen, Eure Bemühungen wurden auch aufgedeckt. [Root.PlotTarget.GetTitledFirstName] ist davon nicht gerade begeistert...;;No sólo has fracasado al tratar de elaborar una reclamación contra el [Root.PlotTargetTitle.GetFullBaseName], sino que tus esfuerzos han quedado al descubierto. [Root.PlotTarget.GetTitledFirstName] no est?nada satisfecho...;;;;;;;;;x
 EVTOPTA7601;ËµÀ´»°³¤...;Des explications semblent inévitables...;Das wird schwer zu erklären sein...;;Har?falta una explicación convincente...;;;;;;;;;x
-;#ca_culture_group_north_germanic_1;Small Housecarl Training Ground;;Kleines Huscarl-¨¹bungsgel?nde;;Peque?o campo de entrenamiento de huscarles;;;;;;;;;x;
-;#ca_culture_group_north_germanic_2;Housecarl Training Ground;;Huscarl-¨¹bungsgel?nde;;Campo de entrenamiento de huscarles;;;;;;;;;x;
-;#ca_culture_group_north_germanic_3;Large Housecarl Training Ground;;Gro?es Huscarl-¨¹bungsgel?nde;;Gran campo de entrenamiento de huscarles;;;;;;;;;x;
-;#ca_culture_group_north_germanic_4;Great Housecarl Training Ground;;Sehr gro?es Huscarl-¨¹bungsgel?nde;;Enorme campo de entrenamiento de huscarles;;;;;;;;;x;
+#ca_culture_group_north_germanic_1;Small Housecarl Training Ground;;Kleines Huscarl-¨¹bungsgel?nde;;Peque?o campo de entrenamiento de huscarles;;;;;;;;;x;
+#ca_culture_group_north_germanic_2;Housecarl Training Ground;;Huscarl-¨¹bungsgel?nde;;Campo de entrenamiento de huscarles;;;;;;;;;x;
+#ca_culture_group_north_germanic_3;Large Housecarl Training Ground;;Gro?es Huscarl-¨¹bungsgel?nde;;Gran campo de entrenamiento de huscarles;;;;;;;;;x;
+#ca_culture_group_north_germanic_4;Great Housecarl Training Ground;;Sehr gro?es Huscarl-¨¹bungsgel?nde;;Enorme campo de entrenamiento de huscarles;;;;;;;;;x;
 ca_culture_group_north_germanic_1;Ğ¡ĞÍÊÌÎÀÑµÁ·³¡;Terrain d'entraînement des housecarls;Huscarl-Übungsgelände;;Campo de entrenamiento de huscarles;;;;;;;;;x
 ca_culture_group_north_germanic_2;ÊÌÎÀÑµÁ·³¡;Terrain d'entraînement des housecarls;Huscarl-Übungsgelände;;Campo de entrenamiento de huscarles;;;;;;;;;x
 ca_culture_group_north_germanic_3;´óĞÍÊÌÎÀÑµÁ·³¡;Terrain d'entraînement des housecarls;Huscarl-Übungsgelände;;Campo de entrenamiento de huscarles;;;;;;;;;x
 ca_culture_group_north_germanic_4;¾ŞĞÍÊÌÎÀÑµÁ·³¡;Terrain d'entraînement des housecarls;Huscarl-Übungsgelände;;Campo de entrenamiento de huscarles;;;;;;;;;x
-;#ca_culture_hungarian_1;Small Hussar Training Ground;;Kleines Huscarl-¨¹bungsgel?nde;;Peque?o campo de entrenamiento de h¨²sares;;;;;;;;;x;
-;#ca_culture_hungarian_2;Hussar Training Ground;;Husaren-¨¹bungsgel?nde;;Campo de entrenamiento de h¨²sares;;;;;;;;;x;
-;#ca_culture_hungarian_3;Large Hussar Training Ground;;Gro?es Husaren-¨¹bungsgel?nde;;Gran campo de entrenamiento de h¨²sares;;;;;;;;;x;
-;#ca_culture_hungarian_4;Great Hussar Training Ground;;Sehr gro?es Husaren-¨¹bungsgel?nde;;Enorme campo de entrenamiento de h¨²sares;;;;;;;;;x;
+#ca_culture_hungarian_1;Small Hussar Training Ground;;Kleines Huscarl-¨¹bungsgel?nde;;Peque?o campo de entrenamiento de h¨²sares;;;;;;;;;x;
+#ca_culture_hungarian_2;Hussar Training Ground;;Husaren-¨¹bungsgel?nde;;Campo de entrenamiento de h¨²sares;;;;;;;;;x;
+#ca_culture_hungarian_3;Large Hussar Training Ground;;Gro?es Husaren-¨¹bungsgel?nde;;Gran campo de entrenamiento de h¨²sares;;;;;;;;;x;
+#ca_culture_hungarian_4;Great Hussar Training Ground;;Sehr gro?es Husaren-¨¹bungsgel?nde;;Enorme campo de entrenamiento de h¨²sares;;;;;;;;;x;
 ca_culture_hungarian_1;Ğ¡ĞÍæôÆï±øÑµÁ·³¡;Terrain d'entraînement des hussards;Husaren-Übungsgelände;;Campo de entrenamiento de húsares;;;;;;;;;x
 ca_culture_hungarian_2;æôÆï±øÑµÁ·³¡;Terrain d'entraînement des hussards;Husaren-Übungsgelände;;Campo de entrenamiento de húsares;;;;;;;;;x
 ca_culture_hungarian_3;´óĞÍæôÆï±øÑµÁ·³¡;Terrain d'entraînement des hussards;Husaren-Übungsgelände;;Campo de entrenamiento de húsares;;;;;;;;;x
 ca_culture_hungarian_4;¾ŞĞÍæôÆï±øÑµÁ·³¡;Terrain d'entraînement des hussards;Husaren-Übungsgelände;;Campo de entrenamiento de húsares;;;;;;;;;x
-;#ca_culture_group_arabic_1;Small Camel Riding Ground;;Kleines Kamel-Reitgel?nde;;Peque?o campo de monta de camellos;;;;;;;;;x;
-;#ca_culture_group_arabic_2;Camel Riding Ground;;Kamel-Reitgel?nde;;Campo de monta de camellos;;;;;;;;;x;
-;#ca_culture_group_arabic_3;Large Camel Riding Ground;;Gro?es Kamel-Reitgel?nde;;Gran campo de monta de camellos;;;;;;;;;x;
-;#ca_culture_group_arabic_4;Great Camel Riding Ground;;Sehr gro?es Kamel-Reitgel?nde;;Enorme campo de monta de camellos;;;;;;;;;x;
+#ca_culture_group_arabic_1;Small Camel Riding Ground;;Kleines Kamel-Reitgel?nde;;Peque?o campo de monta de camellos;;;;;;;;;x;
+#ca_culture_group_arabic_2;Camel Riding Ground;;Kamel-Reitgel?nde;;Campo de monta de camellos;;;;;;;;;x;
+#ca_culture_group_arabic_3;Large Camel Riding Ground;;Gro?es Kamel-Reitgel?nde;;Gran campo de monta de camellos;;;;;;;;;x;
+#ca_culture_group_arabic_4;Great Camel Riding Ground;;Sehr gro?es Kamel-Reitgel?nde;;Enorme campo de monta de camellos;;;;;;;;;x;
 ca_culture_group_arabic_1;Ğ¡ĞÍÂæÍÕÆï±øÑµÁ·³¡;Piste d'entraînement pour chameaux;Kamel-Reitgelände;;Campo de monta de camellos;;;;;;;;;x
 ca_culture_group_arabic_2;ÂæÍÕÆï±øÑµÁ·³¡;Piste d'entraînement pour chameaux;Kamel-Reitgelände;;Campo de monta de camellos;;;;;;;;;x
 ca_culture_group_arabic_3;´óĞÍÂæÍÕÆï±øÑµÁ·³¡;Piste d'entraînement pour chameaux;Kamel-Reitgelände;;Campo de monta de camellos;;;;;;;;;x
 ca_culture_group_arabic_4;¾ŞĞÍÂæÍÕÆï±øÑµÁ·³¡;Piste d'entraînement pour chameaux;Kamel-Reitgelände;;Campo de monta de camellos;;;;;;;;;x
-;#ca_culture_group_byzantine_1;Small Cataphract Training Ground;;Kleines Kataphrakt-Reitgel?nde;;Peque?o campo de entrenamiento de Catafracta;;;;;;;;;x;
-;#ca_culture_group_byzantine_2;Cataphract Training Ground;;Kataphrakt-Reitgel?nde;;Campo de Entrenamiento de Catafracta;;;;;;;;;x;
-;#ca_culture_group_byzantine_3;Large Cataphract Training Ground;;Gro?es Kataphrakt-Reitgel?nde;;Gran campo de entrenamiento de Catafracta;;;;;;;;;x;
-;#ca_culture_group_byzantine_4;Great Cataphract Training Ground;;Sehr gro?es Kataphrakt-Reitgel?nde ;;Enorme campo de entrenamiento de Catafracta;;;;;;;;;x;
+#ca_culture_group_byzantine_1;Small Cataphract Training Ground;;Kleines Kataphrakt-Reitgel?nde;;Peque?o campo de entrenamiento de Catafracta;;;;;;;;;x;
+#ca_culture_group_byzantine_2;Cataphract Training Ground;;Kataphrakt-Reitgel?nde;;Campo de Entrenamiento de Catafracta;;;;;;;;;x;
+#ca_culture_group_byzantine_3;Large Cataphract Training Ground;;Gro?es Kataphrakt-Reitgel?nde;;Gran campo de entrenamiento de Catafracta;;;;;;;;;x;
+#ca_culture_group_byzantine_4;Great Cataphract Training Ground;;Sehr gro?es Kataphrakt-Reitgel?nde ;;Enorme campo de entrenamiento de Catafracta;;;;;;;;;x;
 ca_culture_group_byzantine_1;Ğ¡ĞÍÊ¥¼×Æï±øÑµÁ·³¡;Terrain d'entraînement des cataphractaires;Kataphrakt-Reitgelände;;Campo de Entrenamiento de Catafracta;;;;;;;;;x
 ca_culture_group_byzantine_2;Ê¥¼×Æï±øÑµÁ·³¡;Terrain d'entraînement des cataphractaires;Kataphrakt-Reitgelände;;Campo de Entrenamiento de Catafracta;;;;;;;;;x
 ca_culture_group_byzantine_3;´óĞÍÊ¥¼×Æï±øÑµÁ·³¡;Terrain d'entraînement des cataphractaires;Kataphrakt-Reitgelände;;Campo de Entrenamiento de Catafracta;;;;;;;;;x
 ca_culture_group_byzantine_4;¾ŞĞÍÊ¥¼×Æï±øÑµÁ·³¡;Terrain d'entraînement des cataphractaires;Kataphrakt-Reitgelände;;Campo de Entrenamiento de Catafracta;;;;;;;;;x
-;#ca_culture_irish_1;Small Gallowglass Training Ground;;Kleines Gallowglass-Reitgel?nde ;;Peque?o campo de entrenamiento de Gallowglass;;;;;;;;;x;
-;#ca_culture_irish_2;Gallowglass Training Ground;;Gallowglass-Reitgel?nde ;;Campo de entrenamiento de Gallowglass;;;;;;;;;x;
-;#ca_culture_irish_3;Large Gallowglass Training Ground;;Gro?es Gallowglass-Reitgel?nde ;;Gran campo de entrenamiento de Gallowglass;;;;;;;;;x;
-;#ca_culture_irish_4;Great Gallowglass Training Ground;;Sehr gro?es Gallowglass-Reitgel?nde ;;Enorme campo de entrenamiento de Gallowglass;;;;;;;;;x;
+#ca_culture_irish_1;Small Gallowglass Training Ground;;Kleines Gallowglass-Reitgel?nde ;;Peque?o campo de entrenamiento de Gallowglass;;;;;;;;;x;
+#ca_culture_irish_2;Gallowglass Training Ground;;Gallowglass-Reitgel?nde ;;Campo de entrenamiento de Gallowglass;;;;;;;;;x;
+#ca_culture_irish_3;Large Gallowglass Training Ground;;Gro?es Gallowglass-Reitgel?nde ;;Gran campo de entrenamiento de Gallowglass;;;;;;;;;x;
+#ca_culture_irish_4;Great Gallowglass Training Ground;;Sehr gro?es Gallowglass-Reitgel?nde ;;Enorme campo de entrenamiento de Gallowglass;;;;;;;;;x;
 ca_culture_irish_1;Ğ¡ĞÍÍâ¼®Ó¶±øÑµÁ·³¡;Terrain d'entraînement des mercenaires irlandais;Gallowglass-Reitgelände ;;Campo de entrenamiento de Gallowglass;;;;;;;;;x
 ca_culture_irish_2;Íâ¼®Ó¶±øÑµÁ·³¡;Terrain d'entraînement des mercenaires irlandais;Gallowglass-Reitgelände ;;Campo de entrenamiento de Gallowglass;;;;;;;;;x
 ca_culture_irish_3;´óĞÍÍâ¼®Ó¶±øÑµÁ·³¡;Terrain d'entraînement des mercenaires irlandais;Gallowglass-Reitgelände ;;Campo de entrenamiento de Gallowglass;;;;;;;;;x
 ca_culture_irish_4;¾ŞĞÍÍâ¼®Ó¶±øÑµÁ·³¡;Terrain d'entraînement des mercenaires irlandais;Gallowglass-Reitgelände ;;Campo de entrenamiento de Gallowglass;;;;;;;;;x
-;#ca_culture_ethiopian_1;Small Ethiopian Drilling Grounds;;Kleines ?thiopier-Reitgel?nde ;;Peque?o campo de ejercicio et¨ªope;;;;;;;;;x;
-;#ca_culture_ethiopian_2;Ethiopian Drilling Grounds;;?thiopier-Reitgel?nde ;;Campo de ejercicio et¨ªope;;;;;;;;;x;
-;#ca_culture_ethiopian_3;Large Ethiopian Drilling Grounds;;Gro?es ?thiopier-Reitgel?nde ;;Gran campo de ejercicio et¨ªope;;;;;;;;;x;
-;#ca_culture_ethiopian_4;Great Ethiopian Drilling Grounds;;Sehr gro?es ?thiopier-Reitgel?nde ;;Enorme campo de ejercicio et¨ªope;;;;;;;;;x;
+#ca_culture_ethiopian_1;Small Ethiopian Drilling Grounds;;Kleines ?thiopier-Reitgel?nde ;;Peque?o campo de ejercicio et¨ªope;;;;;;;;;x;
+#ca_culture_ethiopian_2;Ethiopian Drilling Grounds;;?thiopier-Reitgel?nde ;;Campo de ejercicio et¨ªope;;;;;;;;;x;
+#ca_culture_ethiopian_3;Large Ethiopian Drilling Grounds;;Gro?es ?thiopier-Reitgel?nde ;;Gran campo de ejercicio et¨ªope;;;;;;;;;x;
+#ca_culture_ethiopian_4;Great Ethiopian Drilling Grounds;;Sehr gro?es ?thiopier-Reitgel?nde ;;Enorme campo de ejercicio et¨ªope;;;;;;;;;x;
 ca_culture_ethiopian_1;Ğ¡ĞÍ°£Èû¶í±ÈÑÇ¼â¶¥Õ±;Terrain d'exercice des Éthiopiens;Äthiopier-Reitgelände ;;Campo de ejercicio etíope;;;;;;;;;x
 ca_culture_ethiopian_2;Ğ¡ĞÍ°£Èû¶í±ÈÑÇ¼â¶¥Õ±;Terrain d'exercice des Éthiopiens;Äthiopier-Reitgelände ;;Campo de ejercicio etíope;;;;;;;;;x
 ca_culture_ethiopian_3;´óĞÍ°£Èû¶í±ÈÑÇ¼â¶¥Õ±;Terrain d'exercice des Éthiopiens;Äthiopier-Reitgelände ;;Campo de ejercicio etíope;;;;;;;;;x
 ca_culture_ethiopian_4;¾ŞĞÍ°£Èû¶í±ÈÑÇ¼â¶¥Õ±;Terrain d'exercice des Éthiopiens;Äthiopier-Reitgelände ;;Campo de ejercicio etíope;;;;;;;;;x
-;#ca_culture_group_south_slavic_1;Small Gusar Training Ground;;Kleines Gusaren-Reitgel?nde ;;Peque?o campo de entrenamiento de Gusar;;;;;;;;;x;
-;#ca_culture_group_south_slavic_2;Gusar Training Ground;;Gusaren-Reitgel?nde;;Campo de entrenamiento de Gusar;;;;;;;;;x;
-;#ca_culture_group_south_slavic_3;Large Gusar Training Ground;;Gro?es Gusaren-Reitgel?nde;;Gran campo de entrenamiento de Gusar;;;;;;;;;x;
-;#ca_culture_group_south_slavic_4;Great Gusar Training Ground;;Sehr gro?es Gusaren-Reitgel?nde;;Enorme campo de entrenamiento de Gusar;;;;;;;;;x;
+#ca_culture_group_south_slavic_1;Small Gusar Training Ground;;Kleines Gusaren-Reitgel?nde ;;Peque?o campo de entrenamiento de Gusar;;;;;;;;;x;
+#ca_culture_group_south_slavic_2;Gusar Training Ground;;Gusaren-Reitgel?nde;;Campo de entrenamiento de Gusar;;;;;;;;;x;
+#ca_culture_group_south_slavic_3;Large Gusar Training Ground;;Gro?es Gusaren-Reitgel?nde;;Gran campo de entrenamiento de Gusar;;;;;;;;;x;
+#ca_culture_group_south_slavic_4;Great Gusar Training Ground;;Sehr gro?es Gusaren-Reitgel?nde;;Enorme campo de entrenamiento de Gusar;;;;;;;;;x;
 ca_culture_group_south_slavic_1;Ğ¡ĞÍº£µÁÑµÁ·Óª;Terrain d'entraînement des gusars;Gusaren-Reitgelände;;Campo de entrenamiento de Gusar;;;;;;;;;x
 ca_culture_group_south_slavic_2;º£µÁÑµÁ·Óª;Terrain d'entraînement des gusars;Gusaren-Reitgelände;;Campo de entrenamiento de Gusar;;;;;;;;;x
 ca_culture_group_south_slavic_3;´óĞÍº£µÁÑµÁ·Óª;Terrain d'entraînement des gusars;Gusaren-Reitgelände;;Campo de entrenamiento de Gusar;;;;;;;;;x
 ca_culture_group_south_slavic_4;¾ŞĞÍº£µÁÑµÁ·Óª;Terrain d'entraînement des gusars;Gusaren-Reitgelände;;Campo de entrenamiento de Gusar;;;;;;;;;x
-;#ca_culture_dutch_1;Small Goedendag Militia Quarters;;Kleine Goedendag-Milizquartiere;;Peque?o campo de entrenamiento de milicia de Goedendag;;;;;;;;;x;
-;#ca_culture_dutch_2;Goedendag Militia Quarters;;Goedendag-Milizquartiere;;Campo de entrenamiento de milicia de Goedendag;;;;;;;;;x;
-;#ca_culture_dutch_3;Large Goedendag Militia Quarters;;Gro?e Goedendag-Milizquartiere;;Gran campo de entrenamiento de milicia de Goedendag;;;;;;;;;x;
-;#ca_culture_dutch_4;Great Goedendag Militia Quarters;;Sehr gro?e Goedendag-Milizquartiere;;Enorme campo de entrenamiento de milicia de Goedendag;;;;;;;;;x;
+#ca_culture_dutch_1;Small Goedendag Militia Quarters;;Kleine Goedendag-Milizquartiere;;Peque?o campo de entrenamiento de milicia de Goedendag;;;;;;;;;x;
+#ca_culture_dutch_2;Goedendag Militia Quarters;;Goedendag-Milizquartiere;;Campo de entrenamiento de milicia de Goedendag;;;;;;;;;x;
+#ca_culture_dutch_3;Large Goedendag Militia Quarters;;Gro?e Goedendag-Milizquartiere;;Gran campo de entrenamiento de milicia de Goedendag;;;;;;;;;x;
+#ca_culture_dutch_4;Great Goedendag Militia Quarters;;Sehr gro?e Goedendag-Milizquartiere;;Enorme campo de entrenamiento de milicia de Goedendag;;;;;;;;;x;
 ca_culture_dutch_1;Ğ¡ĞÍ¹ÅÌÚËş¿ËÃñ±øÓªµØ;Quartiers des porteurs de godendac;Goedendag-Milizquartiere;;Campo de entrenamiento de milicia de Goedendag;;;;;;;;;x
 ca_culture_dutch_2;¹ÅÌÚËş¿ËÃñ±øÓªµØ;Quartiers des porteurs de godendac;Goedendag-Milizquartiere;;Campo de entrenamiento de milicia de Goedendag;;;;;;;;;x
 ca_culture_dutch_3;´óĞÍ¹ÅÌÚËş¿ËÃñ±øÓªµØ;Quartiers des porteurs de godendac;Goedendag-Milizquartiere;;Campo de entrenamiento de milicia de Goedendag;;;;;;;;;x
@@ -563,8 +563,8 @@ iddah_period;ÒÁÔıÊ±ÆÚ;Période d'Iddah;Iddah-Zeit;;Periodo de Iddah;;;;;;;;;x
 opinion_chief_qadi;Ê×Ï¯¿¨µÏ;Cadi;Ober-Kadi;;Cad?Jefe;;;;;;;;;x
 opinion_merciful_qadi;ÈÊ´ÈµÄÊ×Ï¯¿¨µÏ;Cadi clément;Barmherziger Ober-Kadi;;Cad?Jefe piadoso;;;;;;;;;x
 opinion_arbitrary_qadi;×¨¶ÏµÄÊ×Ï¯¿¨µÏ;Cadi partial;Eigenmächtiger Ober-Kadi;;Cad?Jefe arbitrario;;;;;;;;;x
-;#LAW_NORMAL_CHANGE_MUSLIM_PIETY_COST;It costs $PIETY$ $PIETYNAME$ for Muslims to change Demesne Laws;;Moslems kostet es $PIETY$ $PIETYNAME$, um die Grundbesitzrechte zu ?ndern;;Que los Musulmanes cambien las leyes del dominio cuesta $PIETY$ de $PIETYNAME$;;;;;;;;;x;
-;#LAW_DE_JURE_CHANGE_MUSLIM_PIETY_COST;It costs $PIETY$ $PIETYNAME$ for Muslims to change Crown Laws;;Moslems kostet es $PIETY$ $PIETYNAME$, um das Strafrecht zu ?ndern;;Que los Musulmanes cambien las leyes de la corona cuesta $PIETY$ de $PIETYNAME$;;;;;;;;;x;
+#LAW_NORMAL_CHANGE_MUSLIM_PIETY_COST;It costs $PIETY$ $PIETYNAME$ for Muslims to change Demesne Laws;;Moslems kostet es $PIETY$ $PIETYNAME$, um die Grundbesitzrechte zu ?ndern;;Que los Musulmanes cambien las leyes del dominio cuesta $PIETY$ de $PIETYNAME$;;;;;;;;;x;
+#LAW_DE_JURE_CHANGE_MUSLIM_PIETY_COST;It costs $PIETY$ $PIETYNAME$ for Muslims to change Crown Laws;;Moslems kostet es $PIETY$ $PIETYNAME$, um das Strafrecht zu ?ndern;;Que los Musulmanes cambien las leyes de la corona cuesta $PIETY$ de $PIETYNAME$;;;;;;;;;x;
 CB_NAME_COUNTY_CONQUEST;Õ÷·ş[Title.GetBaseName];Conquête de [Title.GetBaseName];Die Eroberung von [Title.GetBaseName];;Conquista del [Title.GetBaseName];;;;;;;;;x
 WAR_NAME_COUNTY_CONQUEST;$ORDER$$FIRST_ADJ$µÄ$OTHER_TITLE$Õ÷·şÕ½;$ORDER$Conquête $FIRST_ADJ$ de $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ Eroberung von $OTHER_TITLE$;;$ORDER$$FIRST_ADJ$ conquista $OTHER_TITLE$;;;;;;;;;x
 EVTTOOLTIPB3538;[Root.GetTitledFirstName]¶Ô[This.GetTitledFirstName]µÄ°×³ÕµÄ±Ş´òĞĞÎªÖ»±íÊ¾±ÉÊÓ;[Root.GetTitledFirstName] n'éprouve que du mépris ?l'égard de la flagellation stupide de [This.GetTitledFirstName].;[Root.GetTitledFirstName] hat nichts als Verachtung übrig für [This.GetTitledFirstName]s idiotische Auspeitschung;;[Root.GetTitledFirstName] no siente más que desprecio por la estúpida flagelación de [This.GetTitledFirstName];;;;;;;;;x
@@ -600,59 +600,59 @@ GRANDHEADMASTER_FOA;¸óÏÂ;Votre Excellence;Eure Exzellenz;;Su Excelencia;;;;;;;;;
 DEATH_MURDER_HASHSHASHIN;ËÀÓÚ°¢ÈøĞÁÖ®ÊÖ;a ét?tué[GetNoneE] par un Hashshashin;starb durch die Hände der Assassinen;;muri?a manos de los hassasin;;;;;;;;;x
 EXPECTED_TO_HAVE_MORE_WIVES;ÆŞ×ÓÊıÁ¿ÉÙÓÚ§Y$NUM$§W: §R$PRESTIGE$§W;Moins de §Y$NUM$§W épouses? §R$PRESTIGE$§W;Weniger als §Y$NUM$§W Ehefrauen: §R$PRESTIGE$§W;;Menos de §Y$NUM$§W esposas: §R$PRESTIGE$§W;;;;;;;;;x
 EXPECTED_TO_HAVE_FEWER_WIVES;ÆŞ×ÓÊıÁ¿¶àÓÚ§Y$NUM$§W: §G+$PRESTIGE$§W;Plus de §Y$NUM$§W épouses? §G+$PRESTIGE$§W;Mehr al §Y$NUM$§W Ehefrauen: §G+$PRESTIGE$§W;;Más de §Y$NUM$§W esposas: §G+$PRESTIGE$§W;;;;;;;;;x
-;#tp_wall_q_1_muslim;Mosque Moat;;Moschee-Festungsgraben;;Foso de la mezquita;;;;;;;;;x;
-;#tp_wall_q_2_muslim;Mosque Gatehouse;;Moschee-Pf?rtnerhaus;;Garita de la mezquita;;;;;;;;;x;
-;#tp_wall_q_3_muslim;Mosque Portcullis;;Moschee-Fallgatter;;Rastrillo de la mezquita;;;;;;;;;x;
-;#tp_wall_q_4_muslim;Deep Mosque Moat;;Tiefer Moschee-Festungsgraben;;Foso profundo de la mezquita;;;;;;;;;x;
-;#tp_wall_q_5_muslim;Mosque Barbicans;;Moschee-Wacht¨¹rme;;Barbacanas de la mezquita;;;;;;;;;x;
-;#tp_wall_1_muslim;Mosque Palisade;;Moschee-Palisade;;Empalizada de la mezquita;;;;;;;;;x;
-;#tp_wall_2_muslim;Small Mosque Wall;;Kleine Moschee-Mauer;;Muro peque?o de mezquita;;;;;;;;;x;
-;#tp_wall_3_muslim;Medium Mosque Wall;;Mittelgro?e Moschee-Mauer;;Muro mediano de mezquita;;;;;;;;;x;
-;#tp_wall_4_muslim;Large Mosque Wall;;Gro?e Moschee-Mauer;;Muro grande de mezquita;;;;;;;;;x;
-;#tp_wall_5_muslim;Huge Mosque Wall;;Riesige Moschee-Mauer;;Muro enorme de mezquita;;;;;;;;;x;
-;#tp_monastery_1_muslim;Musalla;;Musalla;;Musalla;;;;;;;;;x;
-;#tp_monastery_2_muslim;Small Mosque;;Kleine Moschee;;Mezquita peque?a;;;;;;;;;x;
+#tp_wall_q_1_muslim;Mosque Moat;;Moschee-Festungsgraben;;Foso de la mezquita;;;;;;;;;x;
+#tp_wall_q_2_muslim;Mosque Gatehouse;;Moschee-Pf?rtnerhaus;;Garita de la mezquita;;;;;;;;;x;
+#tp_wall_q_3_muslim;Mosque Portcullis;;Moschee-Fallgatter;;Rastrillo de la mezquita;;;;;;;;;x;
+#tp_wall_q_4_muslim;Deep Mosque Moat;;Tiefer Moschee-Festungsgraben;;Foso profundo de la mezquita;;;;;;;;;x;
+#tp_wall_q_5_muslim;Mosque Barbicans;;Moschee-Wacht¨¹rme;;Barbacanas de la mezquita;;;;;;;;;x;
+#tp_wall_1_muslim;Mosque Palisade;;Moschee-Palisade;;Empalizada de la mezquita;;;;;;;;;x;
+#tp_wall_2_muslim;Small Mosque Wall;;Kleine Moschee-Mauer;;Muro peque?o de mezquita;;;;;;;;;x;
+#tp_wall_3_muslim;Medium Mosque Wall;;Mittelgro?e Moschee-Mauer;;Muro mediano de mezquita;;;;;;;;;x;
+#tp_wall_4_muslim;Large Mosque Wall;;Gro?e Moschee-Mauer;;Muro grande de mezquita;;;;;;;;;x;
+#tp_wall_5_muslim;Huge Mosque Wall;;Riesige Moschee-Mauer;;Muro enorme de mezquita;;;;;;;;;x;
+#tp_monastery_1_muslim;Musalla;;Musalla;;Musalla;;;;;;;;;x;
+#tp_monastery_2_muslim;Small Mosque;;Kleine Moschee;;Mezquita peque?a;;;;;;;;;x;
 tp_monastery_1_muslim;Æíµ»ÊÒ;Mosquée;Moschee;;Mezquita;;;;;;;;;x
 tp_monastery_2_muslim;Ğ¡ĞÍÇåÕæËÂ;Mosquée;Moschee;;Mezquita;;;;;;;;;x
 tp_monastery_3_muslim;ÇåÕæËÂ;Mosquée;Moschee;;Mezquita;;;;;;;;;x
-;#tp_monastery_4_muslim;Large Mosque;;Gro?e Moschee;;Mezquita grande;;;;;;;;;x;
+#tp_monastery_4_muslim;Large Mosque;;Gro?e Moschee;;Mezquita grande;;;;;;;;;x;
 tp_monastery_4_muslim;´óĞÍÇåÕæËÂ;Grande Mosquée;Sehr Große Moschee;;Mezquita enorme;;;;;;;;;x
 tp_monastery_5_muslim;¾ŞĞÍÇåÕæËÂ;Grande Mosquée;Sehr Große Moschee;;Mezquita enorme;;;;;;;;;x
 tp_monastery_6_muslim;ºêÎ°ÇåÕæËÂ;Grande Mosquée;Sehr Große Moschee;;Mezquita enorme;;;;;;;;;x
-;#tp_monastery_6_muslim;Grand Mosque;;Stattliche Moschee;;Gran mezquita;;;;;;;;;x;
-;#tp_barracks_1_muslim;Mosque Militia Quarters;;Moschee-Milizquartiere;;Cuartos de la milicia de la mezquita;;;;;;;;;x;
-;#tp_barracks_2_muslim;Small Mosque Militia Grounds;;Kleines Moschee-Milizgel?nde;;Campos de la milicia de la mezquita peque?os;;;;;;;;;x;
-;#tp_barracks_3_muslim;Medium Mosque Militia Grounds;;Mittelgro?es Moschee-Milizgel?nde;;Campos de la milicia de la mezquita medianos;;;;;;;;;x;
-;#tp_barracks_4_muslim;Large Mosque Militia Grounds;;Gro?es Moschee-Milizgel?nde;;Campos de la milicia de la mezquita grandes;;;;;;;;;x;
-;#tp_barracks_5_muslim;Great Mosque Militia Grounds;;Sehr gro?es Moschee-Milizgel?nde;;Campos de la milicia de la mezquita muy grandes;;;;;;;;;x;
-;#tp_barracks_6_muslim;Huge Mosque Militia Grounds;;Stattliches Moschee-Milizgel?nde;;Campos de la milicia de la mezquita enormes;;;;;;;;;x;
-;#tp_elite_barracks_1_muslim;Mosque Guard Quarters;;Moschee-Wachenquartiere;;Cuartos de guardia de la mezquita;;;;;;;;;x;
-;#tp_elite_barracks_2_muslim;Small Mosque Barracks;;Kleine Moschee-Wachenquartiere;;Barracones de mezquita peque?os;;;;;;;;;x;
-;#tp_elite_barracks_3_muslim;Medium Mosque Barracks;;Mittelgro?e Moschee-Wachenquartiere;;Barracones de mezquita medianos;;;;;;;;;x;
-;#tp_elite_barracks_4_muslim;Large Mosque Barracks;;Gro?e Moschee-Wachenquartiere;;Barracones de mezquita grandes;;;;;;;;;x;
-;#tp_elite_barracks_5_muslim;Great Mosque Barracks;;Sehr gro?e Moschee-Wachenquartiere;;Barracones de mezquita muy grandes;;;;;;;;;x;
-;#tp_elite_barracks_6_muslim;Huge Mosque Barracks;;Stattliche Moschee-Wachenquartiere;;Barracones de mezquita enormes;;;;;;;;;x;
-;#tp_town_1_muslim;Mosque Village;;Moschee-Dorf;;Villa de la mezquita;;;;;;;;;x;
+#tp_monastery_6_muslim;Grand Mosque;;Stattliche Moschee;;Gran mezquita;;;;;;;;;x;
+#tp_barracks_1_muslim;Mosque Militia Quarters;;Moschee-Milizquartiere;;Cuartos de la milicia de la mezquita;;;;;;;;;x;
+#tp_barracks_2_muslim;Small Mosque Militia Grounds;;Kleines Moschee-Milizgel?nde;;Campos de la milicia de la mezquita peque?os;;;;;;;;;x;
+#tp_barracks_3_muslim;Medium Mosque Militia Grounds;;Mittelgro?es Moschee-Milizgel?nde;;Campos de la milicia de la mezquita medianos;;;;;;;;;x;
+#tp_barracks_4_muslim;Large Mosque Militia Grounds;;Gro?es Moschee-Milizgel?nde;;Campos de la milicia de la mezquita grandes;;;;;;;;;x;
+#tp_barracks_5_muslim;Great Mosque Militia Grounds;;Sehr gro?es Moschee-Milizgel?nde;;Campos de la milicia de la mezquita muy grandes;;;;;;;;;x;
+#tp_barracks_6_muslim;Huge Mosque Militia Grounds;;Stattliches Moschee-Milizgel?nde;;Campos de la milicia de la mezquita enormes;;;;;;;;;x;
+#tp_elite_barracks_1_muslim;Mosque Guard Quarters;;Moschee-Wachenquartiere;;Cuartos de guardia de la mezquita;;;;;;;;;x;
+#tp_elite_barracks_2_muslim;Small Mosque Barracks;;Kleine Moschee-Wachenquartiere;;Barracones de mezquita peque?os;;;;;;;;;x;
+#tp_elite_barracks_3_muslim;Medium Mosque Barracks;;Mittelgro?e Moschee-Wachenquartiere;;Barracones de mezquita medianos;;;;;;;;;x;
+#tp_elite_barracks_4_muslim;Large Mosque Barracks;;Gro?e Moschee-Wachenquartiere;;Barracones de mezquita grandes;;;;;;;;;x;
+#tp_elite_barracks_5_muslim;Great Mosque Barracks;;Sehr gro?e Moschee-Wachenquartiere;;Barracones de mezquita muy grandes;;;;;;;;;x;
+#tp_elite_barracks_6_muslim;Huge Mosque Barracks;;Stattliche Moschee-Wachenquartiere;;Barracones de mezquita enormes;;;;;;;;;x;
+#tp_town_1_muslim;Mosque Village;;Moschee-Dorf;;Villa de la mezquita;;;;;;;;;x;
 tp_town_1_muslim;ËÂÊô¾ÛÂä;Ville de mosquée;Moschee-Stadt;;Pueblo de la mezquita;;;;;;;;;x
 tp_town_2_muslim;ËÂÊô´å×¯;Ville de mosquée;Moschee-Stadt;;Pueblo de la mezquita;;;;;;;;;x
 tp_town_3_muslim;ËÂÊô³ÇÕò;Ville de mosquée;Moschee-Stadt;;Pueblo de la mezquita;;;;;;;;;x
 tp_town_4_muslim;ËÂÊô³ÇÊĞ;Ville de mosquée;Moschee-Stadt;;Pueblo de la mezquita;;;;;;;;;x
 tp_town_5_muslim;ËÂÊô´ó³Ç;Ville de mosquée;Moschee-Stadt;;Pueblo de la mezquita;;;;;;;;;x
 tp_town_6_muslim;ËÂÊô¾Ş³Ç;Ville de mosquée;Moschee-Stadt;;Pueblo de la mezquita;;;;;;;;;x
-;#tp_town_3_muslim;Large Mosque Town;;Gro?e Moschee-Stadt;;Gran pueblo de la mezquita;;;;;;;;;x;
-;#tp_town_4_muslim;Mosque City;;Moschee-Gro?stadt;;Ciudad de la mezquita;;;;;;;;;x;
-;#tp_town_5_muslim;Large Mosque City;;Gro?e Moschee-Gro?stadt;;Gran ciudad de la mezquita;;;;;;;;;x;
+#tp_town_3_muslim;Large Mosque Town;;Gro?e Moschee-Stadt;;Gran pueblo de la mezquita;;;;;;;;;x;
+#tp_town_4_muslim;Mosque City;;Moschee-Gro?stadt;;Ciudad de la mezquita;;;;;;;;;x;
+#tp_town_5_muslim;Large Mosque City;;Gro?e Moschee-Gro?stadt;;Gran ciudad de la mezquita;;;;;;;;;x;
 tp_school_1_muslim;ÒÁË¹À¼Ñ§Ğ£;Madrassa;Madrasa Islamische Schule;;Escuela islámica Madraza;;;;;;;;;x
 tp_school_2_muslim;´óĞÍÒÁË¹À¼Ñ§Ğ£;Madrassa;Madrasa Islamische Schule;;Escuela islámica Madraza;;;;;;;;;x
-;#tp_school_2_muslim;Large Madrasah Islamic School;;Gro?e Madrasa Islamische Schule;;Gran escuela isl¨¢mica Madraza;;;;;;;;;x;
-;#ca_keep_1_muslim;Castle Ribat;;Burg-Ribat;;Castillo R¨¢bida;;;;;;;;;x;
-;#ca_keep_2_muslim;Castle Qasbah;;Burg-Kasbah;;Castillo Casbah;;;;;;;;;x;
-;#ca_keep_3_muslim;Expanded Qasbah;;Erweiterte Kasbah;;Casbah expandida;;;;;;;;;x;
-;#ca_keep_4_muslim;Large Qasbah;;Gro?e Kasbah;;Casbah grande;;;;;;;;;x;
-;#ca_keep_5_muslim;Great Qasbah;;Sehr gro?e Kasbah;;Casbah enorme;;;;;;;;;x;
-;#ca_keep_6_muslim;Epic Qasbah;;Epische Kasbah;;Casbah ¨¦pica;;;;;;;;;x;
-;#ct_marketplace_1_muslim;Town Bazaar;;St?dtischer Basar;;Bazar de pueblo;;;;;;;;;x;
-;#ct_marketplace_2_muslim;City Bazaar;;Gro?st?dtischer Basar;;Bazar de ciudad;;;;;;;;;x;
+#tp_school_2_muslim;Large Madrasah Islamic School;;Gro?e Madrasa Islamische Schule;;Gran escuela isl¨¢mica Madraza;;;;;;;;;x;
+#ca_keep_1_muslim;Castle Ribat;;Burg-Ribat;;Castillo R¨¢bida;;;;;;;;;x;
+#ca_keep_2_muslim;Castle Qasbah;;Burg-Kasbah;;Castillo Casbah;;;;;;;;;x;
+#ca_keep_3_muslim;Expanded Qasbah;;Erweiterte Kasbah;;Casbah expandida;;;;;;;;;x;
+#ca_keep_4_muslim;Large Qasbah;;Gro?e Kasbah;;Casbah grande;;;;;;;;;x;
+#ca_keep_5_muslim;Great Qasbah;;Sehr gro?e Kasbah;;Casbah enorme;;;;;;;;;x;
+#ca_keep_6_muslim;Epic Qasbah;;Epische Kasbah;;Casbah ¨¦pica;;;;;;;;;x;
+#ct_marketplace_1_muslim;Town Bazaar;;St?dtischer Basar;;Bazar de pueblo;;;;;;;;;x;
+#ct_marketplace_2_muslim;City Bazaar;;Gro?st?dtischer Basar;;Bazar de ciudad;;;;;;;;;x;
 ct_marketplace_3_muslim;ÀÏÊĞ¼¯;Médina;Suq-Marktviertel;;Distrito del zoco;;;;;;;;;x
 ct_marketplace_4_muslim;ÀÏ³ÇÇø;Bazar;Medina-Viertel;;Cuarto de medina;;;;;;;;;x
 ct_marketplace_5_muslim;ÊĞ³¡Çø;Bazar;Medina-Viertel;;Cuarto de medina;;;;;;;;;x
@@ -660,7 +660,7 @@ ct_marketplace_6_muslim;´ó°ÍÔú;Grand Bazar;Großer Basar;;Gran bazar;;;;;;;;;x
 ct_university_1_muslim;³õ¼¶Ñ§Ğ£;École Maktab;Maktab-Schule;;Escuela coránica;;;;;;;;;x
 ct_university_2_muslim;ÖĞ¼¶Ñ§Ğ£;Universit?madrassa;Madrasa-Universität;;Universidad Madraza;;;;;;;;;x
 ct_university_3_muslim;´óÑ§;Universit?madrassa;Madrasa-Universität;;Universidad Madraza;;;;;;;;;x
-;#ct_university_3_muslim;Large Madrasah University;;Gro?e Madrasa-Universit?t;;Gran Madraza;;;;;;;;;x;
+#ct_university_3_muslim;Large Madrasah University;;Gro?e Madrasa-Universit?t;;Gran Madraza;;;;;;;;;x;
 opinion_good_work;¸ÉµÃºÃ!;Bon travail?;Gute Arbeit!;;¡Buen trabajo!;;;;;;;;;x
 opinion_committed_zina;Í¨¼é;A commis la zina (péch?d'adultère) ;Zina Begangen (Geschlechtsverkehr mit anderem/ anderer Mann/Frau als dem Ehepartner);;Comet?Zina (relación sexual con otro hombre/mujer distinto del cónyuge);;;;;;;;;x
 ignored_muslim_sins;ºöÊÓËûÈËµÄ×ïÄõ;A détourn?mes yeux des péchés des autres;Habe meine Augen von den Sünden der Anderen abgewendet;;Apart?mis ojos de los pecados ajenos;;;;;;;;;x
@@ -820,7 +820,7 @@ EVTOPTB60113;ÓĞÒâË¼;Intéressant;Interessant;;Interesante;;;;;;;;;x
 EVTOPTB60114;Õæ²»ĞÒ;Malheureux;Bedauerlich;;Desafortunado;;;;;;;;;x
 EVTOPTB60115;Ò°Âù;Barbare;Barbarisch;;Bárbaro;;;;;;;;;x
 EVTOPTB39010;²», µÈµÈ. ÎÒÓÖÏëÁËÏë...;Non, attendez. Après mûres réflexions...;Nein, wartet. Bei genauerem Nachdenken...;;No, espera. Ahora que lo pienso...;;;;;;;;;x
-;#EVTDESC88000;Word is spreading that a Shiite missionary, Hassan-i Sabbah, has founded a religious order known as the "Hashshashin" somewhere in western Persia. Using trickery and guile, this mysterious cult of trained killers has seized control of the mountain fortress of Alamut and converted it into their headquarters. Already a string of violent murders can be traced back to Hassan's devoted and fearless disciples...;;Es spricht sich herum, dass ein schiitischer Missionar, Hassan-i Sabbah, einen religi?sen Orden, 'Hashshashin' genannt, irgendwo in West-Persien, gegr¨¹ndet hat. Dieser mysteri?se Kult ausgebildeter M?rder hat, mit Hilfe von Betr¨¹gereien und T¨¹cke, die Kon;;Se comenta que un misionero chiita, Hassan-i Sabbah, ha fundado una orden religiosa conocida como los 'Hassasin' en alg¨²n lugar al oeste de Persia. Utilizando la astucia y el enga?o, este misterioso culto de entrenados asesinos ha tomado el control de la fortaleza de Alamut y la ha convertido en su cuartel general. Ya puede apreciarse el reguero de cr¨ªmenes violentos de los devotos e intr¨¦pidos disc¨ªpulos de Hassan...;;;;;;;;;x;
+#EVTDESC88000;Word is spreading that a Shiite missionary, Hassan-i Sabbah, has founded a religious order known as the "Hashshashin" somewhere in western Persia. Using trickery and guile, this mysterious cult of trained killers has seized control of the mountain fortress of Alamut and converted it into their headquarters. Already a string of violent murders can be traced back to Hassan's devoted and fearless disciples...;;Es spricht sich herum, dass ein schiitischer Missionar, Hassan-i Sabbah, einen religi?sen Orden, 'Hashshashin' genannt, irgendwo in West-Persien, gegr¨¹ndet hat. Dieser mysteri?se Kult ausgebildeter M?rder hat, mit Hilfe von Betr¨¹gereien und T¨¹cke, die Kon;;Se comenta que un misionero chiita, Hassan-i Sabbah, ha fundado una orden religiosa conocida como los 'Hassasin' en alg¨²n lugar al oeste de Persia. Utilizando la astucia y el enga?o, este misterioso culto de entrenados asesinos ha tomado el control de la fortaleza de Alamut y la ha convertido en su cuartel general. Ya puede apreciarse el reguero de cr¨ªmenes violentos de los devotos e intr¨¦pidos disc¨ªpulos de Hassan...;;;;;;;;;x;
 EVTNAME88000;´Ì¿ÍµÄµ®Éú;Naissance des Assassins;Die Geburt der Assassinen;;El nacimiento de los Asesinos;;;;;;;;;x
 EVTOPTA88000;ÕâĞ©³é´óÂéµÄñ«¾ı×ÓÈËĞóÎŞº¦...;Les fumeurs de haschisch sont inoffensifs...;Diese Haschischraucher sind harmlos...;;Estos fumadores de hachís son inofensivos...;;;;;;;;;x
 EVTDESC88001;°¢ÈøĞÁ, Õâ¸öÉñ¹íÄª²âµÄ´Ì¿Í×éÖ¯, ½«ËûÃÇµÄÊÆÁ¦·¶Î§À©Õ¹µ½ÁËĞğÀûÑÇ. ËûÃÇÔÚÉ½Õ¯ÂõË¹À­·ò±¤½¨Á¢ÁËÒ»¸ö·ÖÖ§, ²¢ÒÔ´ËÎª¾İµã¿ØÖÆÖÜÎ§µØÇø. ´Ì¿ÍÃÇÔÚÕû¸öÊ¥µØÁÔÉ±ÄÇĞ©ËûÃÇÊÓÎª×è°­×Ô¼ºµÄÃÜÄ±µÄÈË;Les Hashshashin, l'insaisissable Ordre des Assassins, ont étendu leur influence jusqu'en Syrie. Une branche de leur secte s'est établie dans la forteresse montagneuse de Masyâf, d'o?elle contrôle la campagne environnante. ?présent, les Assassins traquent ?travers toute la Terre Sainte tous ceux qu'ils considèrent comme des obstacles ?leurs obscurs desseins ...;Die Hashshashin, der trügerische Orden der Assassinen, haben ihren Einfluss in Syrien ausgeweitet. Ein Zweig ihrer Sekte ist in der Bergfestung von Masyaf gegründet worden, von wo aus sie die umliegende Landschaft kontrollieren. Über das gesamte Heilige L;;Los Hassasin, la esquiva orden de asesinos, han expandido su influencia hasta Siria. Una rama de su secta se ha establecido en la fortaleza de Masyaf, desde donde controlan las tierras adyacentes. Por toda la Tierra Santa, los Asesinos cazan a aquellos que ven como un obstáculo para sus oscuros planes...;;;;;;;;;x
@@ -859,7 +859,7 @@ EVTDESC7700;[Root.PlotTarget.GetTitledName]½üÆÚ¼Æ»®·ÃÎÊ[Root.PlotTarget.Location
 EVTOPTA7700;ÎÒµÄÍ¬Ä±»áÕÒµ½Ò»Ğ©ÄÜÈË...;Mes complices trouveront les hommes de la situation...;Meine Mitverschwörer werden einige gute Männer finden...;;Mis cómplices encontrarán algunos buenos hombres...;;;;;;;;;x
 EVTOPTB7700;¹ÍÓ¶¹­ÊÖ;Engager des archers;Stellt Bogenschützen ein;;Contratar arqueros;;;;;;;;;x
 EVTOPTC7700;ÎÒÖªµÀË­ÊÊºÏ¸ÉÕâ»î...;Je connais les hommes parfaits pour cette tâche?;Ich kenne den richtigen Mann für diese Aufgabe...;;Conozco a los hombres idóneos para este trabajo...;;;;;;;;;x
-;#EVTDESC7701;Through my sources I have learned that [Root.PlotTarget.GetTitledName] will be touring [Root.PlotTarget.Location.GetName] in an open carriage. The guards will keep a close watch on the streets, but will they expect bowmen on the rooftops?;;Durch meine Quellen habe ich erfahren, dass [Root.PlotTarget.GetTitledName] durch [Root.PlotTarget.Location.GetName] in einem offenen Wagen reisen wird. Die Wachen werden ein wachsames Auge auf die Stra?en haben, aber werden sie Bogensch¨¹tzen auf den D?ch;;Gracias a mis fuentes, s¨¦ que [Root.PlotTarget.GetTitledName] desfilar¨¢ por [Root.PlotTarget.Location.GetName] en un carruaje descubierto. Los guardas vigilar¨¢n las calles, pero ?habr¨¢ arqueros esperando en los tejados?;;;;;;;;;x;
+#EVTDESC7701;Through my sources I have learned that [Root.PlotTarget.GetTitledName] will be touring [Root.PlotTarget.Location.GetName] in an open carriage. The guards will keep a close watch on the streets, but will they expect bowmen on the rooftops?;;Durch meine Quellen habe ich erfahren, dass [Root.PlotTarget.GetTitledName] durch [Root.PlotTarget.Location.GetName] in einem offenen Wagen reisen wird. Die Wachen werden ein wachsames Auge auf die Stra?en haben, aber werden sie Bogensch¨¹tzen auf den D?ch;;Gracias a mis fuentes, s¨¦ que [Root.PlotTarget.GetTitledName] desfilar¨¢ por [Root.PlotTarget.Location.GetName] en un carruaje descubierto. Los guardas vigilar¨¢n las calles, pero ?habr¨¢ arqueros esperando en los tejados?;;;;;;;;;x;
 EVTDESC7702;ÎÒµÄÍ¬Ä±, [From.GetTitledName], ÒªÇóÎÒ¸øÒ»Ğ©Ç®À´¹ÍÓ¶¼¸¸ö¹­ÊÖ, ÓÃÒÔÔÚ[Root.PlotTarget.GetTitledName]µÄ[Root.PlotTarget.Location.GetName]³¨ÅñÂí³µÓÎÉÏ·ü»÷[Root.PlotTarget.GetSheHe]...;Mon complice, [From.GetTitledName], m'a demand?un peu d'argent pour engager des archers afin de prendre pour cible [Root.PlotTarget.GetTitledName] lors de son tour d'honneur ?[Root.PlotTarget.Location.GetName], qui sera effectu?dans un carrosse ouvert...;Mein Mitverschwörer, [From.GetTitledName], hat um einige Münze gebeten, da er einige Bogenschützen anstellen möchte, um [Root.PlotTarget.GetTitledName] hinterrücks zu überfallen, während [Root.PlotTarget.GetSheHe] in einer offenen Kutsche [Root.PlotTarget.Location.GetName];;Mi cómplice, [From.GetTitledName], ha pedido monedas para contratar a algunos arqueros con el fin de emboscar a [Root.PlotTarget.GetTitledName] mientras desfila por [Root.PlotTarget.Location.GetName] en un carruaje descubierto...;;;;;;;;;x
 EVTOPTA7702;È¥°ì°É.;Qu'il en soit ainsi.;Erledigt es.;;Que as?sea.;;;;;;;;;x
 EVTDESC7703;[From.GetTitledFirstName]¸øÁËÎÒ×ã¹»µÄÇ®À´¹ÍÓ¶Ò»Ğ©¼ıÊõ¸ßÊÖ¸ø[From.PlotTarget.GetTitledFirstName]´øÈ¥ÎÊºò,µ±[From.PlotTarget.GetSheHe]ÓÎĞĞµ½[Root.PlotTarget.Location.GetName]½Ö.;[From.GetTitledFirstName] m'a envoy?suffisamment d'argent pour que j'engage des archers expérimentés, chargés d'accueillir ?leur façon [From.PlotTarget.GetTitledFirstName] lors de son tour d'honneur dans les rues de [Root.PlotTarget.Location.GetName].;[From.GetTitledFirstName] hat mir genug Münzen zugeschickt, um einige erfahrene Bogenschützen einzustellen, um [Root.PlotTarget.GetTitledName] zu begrüßen, während [From.PlotTarget.GetSheHe] durch die Straßen von [Root.PlotTarget.Location.GetName] spazier;;[From.GetTitledFirstName] me ha enviado monedas suficientes para contratar algunos arqueros que saluden a [From.PlotTarget.GetTitledFirstName] mientras desfila por las calles de [Root.PlotTarget.Location.GetName].;;;;;;;;;x
@@ -917,7 +917,7 @@ EVTDESC7740;Èç¹ûÒªÈÃÄÇ¸öáÌ×Ó[Root.PlotTarget.GetTitledName]ËÀµô, ÎÒÃÇĞèÒªÂòÍ¨ËûÉ
 EVTOPTA7740;ÎÒµÄÍ¬Ä±»á³ï¼¯±ØĞèµÄ×Ê½ğ...;Mes complices me fourniront les fonds nécessaires...;Meine Mitverschwörer werden das nötige Geld besorgen...;;Mis cómplices me procuraran el dinero necesario...;;;;;;;;;x
 EVTOPTB7740;ÊÕÂòÅ®ÆÍ;Soudoyer la servante;Bestecht das Dienstmädchen;;Sobornar a la doncella;;;;;;;;;x
 EVTOPTC7740;ÎÒÖªµÀÎÒÃÇ¸ÃÕÒË­...;Je sais ?qui nous pourrions nous adresser...;Ich wei? an wen wir uns wenden können...;;S?a quién podemos acercarnos...;;;;;;;;;x
-;#EVTDESC7741;If that whelp [Root.PlotTarget.GetTitledName] is to die, we will need to buy the loyalty of someone unscrupulous nearby, like a maid or a guard.;;Wenn dieser Welpe [Root.PlotTarget.GetTitledName] sterben soll, m¨¹ssen wir die Loyalit?t einer skrupellosen Person kaufen, die sich in der N?he befindet, wie ein Dienstm?dchen oder eine Wache.;;Si ese mequetrefe, [Root.PlotTarget.GetTitledName], ha de morir, necesitaremos la lealtad de alguien cercano y sin escr¨²pulos, como una doncella o un guarda.;;;;;;;;;x;
+#EVTDESC7741;If that whelp [Root.PlotTarget.GetTitledName] is to die, we will need to buy the loyalty of someone unscrupulous nearby, like a maid or a guard.;;Wenn dieser Welpe [Root.PlotTarget.GetTitledName] sterben soll, m¨¹ssen wir die Loyalit?t einer skrupellosen Person kaufen, die sich in der N?he befindet, wie ein Dienstm?dchen oder eine Wache.;;Si ese mequetrefe, [Root.PlotTarget.GetTitledName], ha de morir, necesitaremos la lealtad de alguien cercano y sin escr¨²pulos, como una doncella o un guarda.;;;;;;;;;x;
 EVTDESC7742;ÎÒµÄÍ¬Ä±, [From.GetTitledName], ÇëÇó×ÊÖúÊÕÂòÒ»¸ö[Root.PlotTarget.GetTitledFirstName]µÄÌùÉíÅ®Ó¶. Ëı»áÈÃÕâº¢×Ó²»ÔÙ³ÉÎªÎÊÌâ... Á½¸ö¶¼²»ÔÙ, Êµ¼ÊÉÏ.;Mon complice, [From.GetTitledName], me demande des fonds afin d'acheter la loyaut?d'une domestique proche de [Root.PlotTarget.GetTitledFirstName]. Elle veillera ?ce que ce morveux ne soit plus un problème... Qu'il ne soit plus que poussière, en fait.;Mein Mitverschwörer, [From.GetTitledName], hat um Geld gebeten, um die Loyalität eines Dienstmädchens zu kaufen, das in der Nähe von [Root.PlotTarget.GetTitledFirstName] arbeitet. Sie wird sich darum kümmern, dass das Kind keine Probleme mehr macht... bes;;Mi cómplice, [From.GetTitledName], ha solicitado fondos para comprar la lealtad de una doncella cercana a [Root.PlotTarget.GetTitledFirstName]. Ella har?lo necesario para que el mequetrefe deje de ser un problema... de hecho, para que deje de ser.;;;;;;;;;x
 EVTOPTA7742;ÎÒÏë²»³ö¸üºÃµÄµã×ÓÁË. ¸¶Ç®!;Je trouve cette cause des plus justes? Envoyez-lui l'argent.;Ich kann mir keine angemessenere Sache vorstellen. Schickt das Geld!;;No podría pensar en una causa más adecuada. ¡Enviad el dinero!;;;;;;;;;x
 EVTDESC7743;[From.GetTitledFirstName]¸øÁËÎÒÊÕÂò[Root.PlotTarget.GetTitledFirstName]Éí±ßÅ®ÆÍËùĞèÒªµÄÇ®.;[From.GetTitledFirstName] m'a envoy?l'argent nécessaire pour que j'achète la loyaut?de la domestique travaillant auprès du jeune [Root.PlotTarget.GetTitledFirstName].;[From.GetTitledFirstName] hat mir die Münzen gegeben, die ich benötige, um eines der Dienstmädchen zu bestechen, das in der Nähe von [Root.PlotTarget.GetTitledFirstName] arbeitet.;;[From.GetTitledFirstName] me ha dado el dinero que necesito para sobornar a una de las doncellas cercanas a [Root.PlotTarget.GetTitledFirstName].;;;;;;;;;x

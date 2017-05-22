@@ -1,4 +1,4 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 set_government_type;ÕşÌå¸Ä±äÎª§Y$GOVERNMENT$§!\n;Le type de gouvernement a ét?chang?en §Y$GOVERNMENT$?\n;Regierungsform ist nun §Y$GOVERNMENT$?\n;;Gobierno se cambia a §Y$GOVERNMENT$?\n;;;;;;;;;x
 feudal_government;·â½¨ÖÆ;Féodalit?Feudal;;Feudal;;;;;;;;;x
 republic_government;¹²ºÍÖÆ;République;Republik;;república;;;;;;;;;x
@@ -47,10 +47,10 @@ FLANK_DESIGNER_SHOW_VALUES;ÏÔÊ¾ÊıÖµ;Afficher les valeurs;Werte anzeigen;;Mostrar
 FLANK_DESIGNER_SHOW_TROOPS;ÏÔÊ¾²¿¶Ó;Afficher les troupes;Truppen anzeigen;;Mostrar tropas;;;;;;;;;x
 convert_tribal_to_city;Éı¼¶Îª³ÇÊĞ;Améliorer en ville;Ausbau zur Stadt;;Actualización a ciudad;;;;;;;;;x
 convert_tribal_to_city_named;Éı¼¶[Root.GetName]ÎªÒ»¸ö³ÇÊĞ;Améliorer [Root.GetName] en cit?[Root.GetName] zu einer Stadt ausbauen;;Actualizar [Root.GetName] a ciudad;;;;;;;;;x
-;#convert_tribal_to_city_desc;ÎÒ¿ÉÉı¼¶[Root.GetFullName]ÎªÒ»¸öÕæÕıµÄ³ÇÊĞ¡£;;Ich kann [Root.GetFullName] zu einer echten Stadt ausbauen.;;Puedo actualizar [Root.GetFullName] a una ciudad como es debida.;;;;;;;;;x;
+#convert_tribal_to_city_desc;ÎÒ¿ÉÉı¼¶[Root.GetFullName]ÎªÒ»¸öÕæÕıµÄ³ÇÊĞ¡£;;Ich kann [Root.GetFullName] zu einer echten Stadt ausbauen.;;Puedo actualizar [Root.GetFullName] a una ciudad como es debida.;;;;;;;;;x;
 convert_tribal_to_castle;Éı¼¶Îª³Ç±¤;Améliorer en château;Ausbau zur Burg;;Actualización a castillo;;;;;;;;;x
 convert_tribal_to_castle_named;Éı¼¶[Root.GetName]ÎªÒ»¸ö³Ç±¤;Améliorer [Root.GetName] en château;[Root.GetName] zur Burg ausbauen;;Actualizar [Root.GetName] a castillo;;;;;;;;;x
-;#convert_tribal_to_castle_desc;ÎÒ¿ÉÉı¼¶[Root.GetFullName]ÎªÒ»¸öÕæÕıµÄ³Ç±¤¡£;;Ich kann aus [Root.GetFullName] eine echte Burg machen.;;Puedo actualizar [Root.GetFullName] a un castillo como es debido.;;;;;;;;;x;
+#convert_tribal_to_castle_desc;ÎÒ¿ÉÉı¼¶[Root.GetFullName]ÎªÒ»¸öÕæÕıµÄ³Ç±¤¡£;;Ich kann aus [Root.GetFullName] eine echte Burg machen.;;Puedo actualizar [Root.GetFullName] a un castillo como es debido.;;;;;;;;;x;
 MODIFIER_TRIBAL_OPINION;²¿Âä·â³¼ºÃ¸Ğ;Opinion de la part des vassaux tribaux;Meinung Stammesvasallen;;Opinión de vasallo tribal;;;;;;;;;x
 MODIFIER_UNREFORMED_TRIBAL_OPINION;Î´¸Ä¸ïÔ­Ê¼×Ú½Ì²¿Âä·â³¼µÄºÃ¸Ğ;Opinion de la part des vassaux tribaux païens non réformés;Meinung unreformierter heidnischer Stammesvasallen;;Opinión del vasallo tribal pagano no reformado;;;;;;;;;x
 UNREFORMED_TRIBAL_VIEW_ON_TRAIT;Î´¸Ä¸ïÔ­Ê¼×Ú½Ì²¿Âä¶Ô$TRAIT$ÌØÖÊµÄºÃ¸Ğ£º$VALUE$;Opinion des personnages tribaux païens non réformés sur '$TRAIT$'? $VALUE$;Reaktion unreformierter heidnischer Stammesvasallen auf $TRAIT$: $VALUE$;;Opinión Tribal Pagana no reformada sobre $TRAIT$: $VALUE$;;;;;;;;;x
@@ -199,7 +199,7 @@ PROV1404;±£¿Ëº£Ï¿;Détroit de Palk;Palkstraße;;Estrecho de Palk;;;;;;;;;x
 PROV1405;±±ÀãÙ¤º£°¶;Côte nord de Lanka;Sri-Lanka-Nordküste;;Costa norte de Sri Lanka;;;;;;;;;x
 PROV1406;ÄÏÖéÀûÒ®º£°¶;Côte sud de Coromandel;Coromandel-Südküste;;Costa sur de Coromandel;;;;;;;;;x
 PROV1407;±±ÖéÀûÒ®º£°¶;Côte nord de Coromandel;Coromandel-Nordküste;;Costa norte de Coromandel;;;;;;;;;x
-;#PROV1408;Outer Mongolia;;?u?ere Mongolei;;Mongolia Exterior;;;;;;;;;x;
+#PROV1408;Outer Mongolia;;?u?ere Mongolei;;Mongolia Exterior;;;;;;;;;x;
 PROV1409;°ÂÀæÈøº£°¶;Côte d'Orissa;Orissaküste;;Costa de Orissa;;;;;;;;;x
 PROV1410;Ù¤¶àåÈº£°¶;Côte de Kataka;Katakaküste;;Costa de Kataka;;;;;;;;;x
 PROV1411;ºãºÓ¿Ú;Delta du Gange;Gangesdelta;;Delta del Ganges;;;;;;;;;x
@@ -272,7 +272,7 @@ MAPMODE_REALM_ONMAP_TOOLTIP_DESC1;°´§GCtrl+×ó¼ü§!ÏÔÊ¾§Y$REALM$§!µÄÏÂ¼¶ÁìµØ;Appuy
 MAPMODE_REALM_ONMAP_TOOLTIP_DESC2;°´§GCtrl+ÓÒ¼ü§!Òş²Ø§Y$REALM$§!µÄÏÂ¼¶ÁìµØ;Appuyez sur §GControl + Clic droit? pour masquer les territoires vassaux en §Y$REALM$?;§GStrg + Linksklick? zum Ausblenden der angeschlossenen Reiche von §Y$REALM$?;;Pulsar §GControl + Click con el botón derecho? para ocultar reinos menores de §Y$REALM$?;;;;;x
 MAPMODE_GOVERNMENTS;§YÕşÌå§!;§YGouvernements?;§YRegierungsformen?;;§YGobiernos?;;;;;;;;;x
 MAPMODE_GOVERNMENTS_DESC;Õâ¸öµØÍ¼Ä£Ê½ÏÔÊ¾²»Í¬µÄÕşÌå¡£;Ce mode de carte montre les différents gouvernements.;Dieser Kartenmodus zeigt die verschiedenen Regierungsformen an.;;Este modo de mapa muestra los distintos gobiernos.;;;;;;;;;x
-;#REVOKE_TITLE_INTERACTION_2G;Our $GOVERNMENT$ administration allows us to revoke Emirates without objections from the aristocracy.;;Unsere $GOVERNMENT$-Verwaltung erm?glicht uns die R¨¹ckforderung von Emiraten ohne Widerspruch der Aristokratie.;;La administraci¨®n de nuestro $GOVERNMENT$ nos permite revocar los emiratos sin objeciones de la aristocracia.;;;;;;;;;x;
+#REVOKE_TITLE_INTERACTION_2G;Our $GOVERNMENT$ administration allows us to revoke Emirates without objections from the aristocracy.;;Unsere $GOVERNMENT$-Verwaltung erm?glicht uns die R¨¹ckforderung von Emiraten ohne Widerspruch der Aristokratie.;;La administraci¨®n de nuestro $GOVERNMENT$ nos permite revocar los emiratos sin objeciones de la aristocracia.;;;;;;;;;x;
 EVTDESC_SoA_566;ÊÇÊ±ºò·Ï³ıÁìµØÄÚµÄÓÌÌ«ÈË½ûÁîÕâÒ»³Â¾É¶ø»ÄÃıµÄ·¨ÁîÁË¡£;Il est temps d'abroger ce vieux décret qui a banni les juifs du royaume.;Es wird Zeit, die ebenso alte wie unsinnige Verfügung zur Verbannung der Juden aufzuheben.;;Es hora de derogar ese antiguo y absurdo decreto que excluye a los judíos del reino.;;;;;;;;;x
 EVTOPTA_SoA_566;°ÑÕâĞ©²»¹«ÈÓ½øÀúÊ·µÄ·ÏÖ½¶ÑÀï°É¡£;Reléguons ces injustices ?l'histoire.;Solches Unrecht ist nun Vergangenheit.;;Que tales injusticias sean relegadas a la historia.;;;;;;;;;x
 BARONY_DESTROYED;Õâ¸öÄĞ¾ôÁìÒÑ±»´İ»Ù¡£;Cette baronnie a ét?détruite;Diese Baronie wurde zerstört;;Esta baronía ha sido destruida.;;;;;;;;;x
@@ -461,11 +461,11 @@ tr_silk_road_3_desc;ÕâÊÇË¿³ñÖ®Â·ÉÏÖ÷ÒªµÄÃ³Ò×ÖĞĞÄ£¬ÔÚÕâÀï£¬À´×ÔËÄÃæ°Ë·½µÄÉÌÈËÃÇ½»
 EVTDESC_HL_210;ÁíÒ»¸ö²¿×åÔÚ[From.GetName]ÆğÒåÁË£¬ËûÃÇ¼ÓÈëÁËµ±Ç°µÄÅÑÂÒ£¡;Un autre clan s'est soulev??[From.GetName], renforçant la révolte actuelle?;Ein weiterer Klan hat sich in [From.GetName] erhoben und verstärkt die momentan stattfindende Revolte!;;¡Otro clan ha levantado en [From.GetName], reforzando la revuelta actual!;;;;;;;;;x
 TRIBUTARY;¸½Êô;Tributaire;Tributpflichtig;;Tributario;;;;;;;;;x
 UNUSED_MANPOWER;Î´Ê¹ÓÃÈËÁ¦;Effectifs inexploités;Freie Mannstärke;;Mano de obra no usada;;;;;;;;;x
-;#MAXIMUM_POPULATION;×î´óÈË¿Ú;;Maximale Bev?lkerung;;Poblaci¨®n m¨¢xima;;;;;;;;;x;
+#MAXIMUM_POPULATION;×î´óÈË¿Ú;;Maximale Bev?lkerung;;Poblaci¨®n m¨¢xima;;;;;;;;;x;
 RAISED_MANPOWER;ÈËÁ¦Ôö¼Ó;Effectifs utilisés;Mannstärke in Verwendung;;Mano de obra aumentada;;;;;;;;;x
 MAXIMUM_MANPOWER;×î´óÈËÁ¦;Effectifs maximaux;Maximale Mannstärke;;Mano de obra máxima;;;;;;;;;x
-;#MONTHLY_POPULATION_GROWTH;ÔÂ¶ÈÈË¿ÚÔö³¤;;Monatl. Bev.-Wachstum;;Crecimiento demogr¨¢fico mensual;;;;;;;;;x;
-;#MONTHLY_POPULATION_DECLINE;ÔÂ¶ÈÈË¿Ú¼õÉÙ;;Monatl. Bev.-R¨¹ckgang;;Disminuci¨®n mensual de la poblaci¨®n;;;;;;;;;x;
+#MONTHLY_POPULATION_GROWTH;ÔÂ¶ÈÈË¿ÚÔö³¤;;Monatl. Bev.-Wachstum;;Crecimiento demogr¨¢fico mensual;;;;;;;;;x;
+#MONTHLY_POPULATION_DECLINE;ÔÂ¶ÈÈË¿Ú¼õÉÙ;;Monatl. Bev.-R¨¹ckgang;;Disminuci¨®n mensual de la poblaci¨®n;;;;;;;;;x;
 MONTHLY_MANPOWER_GROWTH;ÔÂ¶ÈÈËÁ¦Ôö³¤;Croissance mensuelle des effectifs;Monatl. Mannstärkezuwachs;;Crecimiento mensual de la mano de obra;;;;;;;;;x
 MONTHLY_MANPOWER_DECLINE;ÔÂ¶ÈÈËÁ¦¼õÉÙ;Baisse mensuelle des effectifs;Monatl. Mannstärkeverlust;;Disminución mensual de la mano de obra;;;;;;;;;x
 TAXABLE;¿ÉÕ÷Ë°;Imposable;Besteuerbar;;gravable;;;;;;;;;x

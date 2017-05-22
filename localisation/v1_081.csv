@@ -1,4 +1,4 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 FACTION_LEADERSHIP_CHANGE_SETUP;ÅÉÏµÍÆ¾ÙÁËÒ»Î»ÐÂÁìÐä;La faction a besoin d'un nouveau chef;Die Fraktion bekommt einen neuen Anführer;;Esta facción necesita un líder nuevo;;;;;;;;;x
 FACTION_LEADERSHIP_CHANGE_LOG;§Y$CHARNAME$§! ÒÑ¾­³ÉÎª $OBJECTIVE$ ÁìÐä.;§Y$CHARNAME$? est devenu le nouveau chef de la faction pour '$OBJECTIVE$'.;§Y$CHARNAME$? wird zum neuen Anführer der '$OBJECTIVE$'-Fraktion.;;§Y$CHARNAME$? se ha convertido en el nuevo líder de la facción '$OBJECTIVE$';;;;;;;;;x
 BUILDING_PREREQ_FAIL;(§RX§!)ÓµÓÐ §G$BUILDING$§!;(§RX?) §Y$BUILDING$? est déj?construit;(§RX?)§G$BUILDING$? wurde gebaut;;(§RX?)Necesita §G$BUILDING$?;;;;;;;;;x
