@@ -1,4 +1,4 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 IS_NOT_LOVER_OF;²»ÊÇ§Y$WHO$§!µÄÇéÈË;N'est pas l'amant(e) de §Y$WHO$?;Ist KEIN Liebhaber von §Y$WHO$?;;No es un amante de §Y$WHO$?;;;;;;;;;x
 IS_LOVER_OF;ÊÇ§Y$WHO$§!µÄÇéÈË;Est l'amant(e) de §Y$WHO$?;Ist ein Liebhaber von §Y$WHO$?;;es un amante de §Y$WHO$?;;;;;;;;;x
 HAS_LESS_SPOUSES_THAN;×î¶àÓµÓĞµÄÅäÅ¼Êı;Nombre d'époux(ses) inférieur ?;Hat weniger Ehepartner als;;tiene menos cónyuges que;;;;;;;;;x
@@ -184,19 +184,19 @@ has_court_guru;¹¬Í¢ÉÏÊ¦;Gourou de la Cour;Hofguru;; Corte del Gur?;;;;;;;;x
 nick_the_leper;Âé·ç²¡ÈË;le Lépreux;der Aussätzige;; el Leproso;;;;;;;;;x
 PEACE;ºÍÆ½;Paix;Frieden;; Paz;;;;;;;;;x
 d_tamil_band;Ì©Ã×¶û´ó¶Ó;Bande armée tamoule;Tamilische Bande;; Banda de Tamil;;;;;;;;;x
-d_tamil_band_adj;Ì©Ã×¶û´ó¶ÓµÄ;tamoule;Tamilisch ;; Tamil;;;;;;;;;x
+d_tamil_band_adj;Ì©Ã×¶û´ó¶Ó;tamoule;Tamilisch ;; Tamil;;;;;;;;;x
 d_marathi_company;Ä¦ÂŞÌá¾üÍÅ;Compagnie marathi;Marathische Kompanie;;Compañía de Marathi;;;;;;;;;x
-d_marathi_company_adj;Ä¦ÂŞÌá¾üÍÅµÄ;marathi;Marathische ;; Marathi;;;;;;;;;x
+d_marathi_company_adj;Ä¦ÂŞÌá¾üÍÅ;marathi;Marathische ;; Marathi;;;;;;;;;x
 d_marathi_band;Ä¦ÂŞÌá°î;Bande armée marathi;Marathische Bande;; Banda de Marathi;;;;;;;;;x
-d_marathi_band_adj;Ä¦ÂŞÌá´ó¶ÓµÄ;marathi;Marathisch;; Marathi;;;;;;;;;x
+d_marathi_band_adj;Ä¦ÂŞÌá´ó¶Ó;marathi;Marathisch;; Marathi;;;;;;;;;x
 d_bengal_company;ÅÔÙ¤ÂŞ¾üÍÅ;Compagnie du Bengale;Bengalische Kompanie;; Compañía de Bengala;;;;;;;;;x
-d_bengal_company_adj;ÅÔÙ¤ÂŞ¾üÍÅµÄ;bengalaise;Bengalisch;; Bengala;;;;;;;;;x
+d_bengal_company_adj;ÅÔÙ¤ÂŞ¾üÍÅ;bengalaise;Bengalisch;; Bengala;;;;;;;;;x
 d_bengal_band;ÅÔÙ¤ÂŞ´ó¶Ó;Bande armée bengalaise;Bengalische Bande;; Banda de Bengala;;;;;;;;;x
-d_bengal_band_adj;ÅÔÙ¤ÂŞ´ó¶ÓµÄ;bengalaise;Bengalisch;; Bengala;;;;;;;;;x
+d_bengal_band_adj;ÅÔÙ¤ÂŞ´ó¶Ó;bengalaise;Bengalisch;; Bengala;;;;;;;;;x
 d_rajput_company;ÂŞê^¸»¶à¾üÍÅ;Compagnie rajput;Rajputische Kompanie;; Compañía de Rajput;;;;;;;;;x
-d_rajput_company_adj;ÂŞê^¸»¶à¾üÍÅµÄ;rajput;Rajputisch ;; Rajput;;;;;;;;;x
+d_rajput_company_adj;ÂŞê^¸»¶à¾üÍÅ;rajput;Rajputisch ;; Rajput;;;;;;;;;x
 d_rajput_band;ÂŞê^¸»¶à´ó¶Ó;Bande armée rajput;Rajputische Bande;; Banda de Rajput;;;;;;;;;x
-d_rajput_band_adj;ÂŞê^¸»¶à´ó¶ÓµÄ;rajput;Rajputisch;; Rajput;;;;;;;;;x
+d_rajput_band_adj;ÂŞê^¸»¶à´ó¶Ó;rajput;Rajputisch;; Rajput;;;;;;;;;x
 TRAIT_OPINION_CHURCH;½Ì»á¹ØÏµ: $VALUE$;Opinion de la part des religieux? $VALUE$;Kirchenmeinung: $VALUE$;;Opinión de la Iglesia: $VALUE$;;;;;;;;;x
 TRAIT_OPINION_CHRISTIAN_CHURCH;»ù¶½½Ì¹ØÏµ: $VALUE$;Opinion de la part des religieux chrétiens? $VALUE$;Christliche Kirchenmeinung: $VALUE$;;Opinión de la Iglesia Cristiana: $VALUE$;;;;;;;;;x
 TRAIT_OPINION_SPOUSE;ÅäÅ¼ºÃ¸Ğ: $VALUE$;Opinion du conjoint? $VALUE$;Meinung des Ehepartners: $VALUE$;;Opinión de cónyuge: $VALUE$;;;;;;;;;x

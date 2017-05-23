@@ -1,4 +1,4 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 ACQUISITION_CLAIM;×÷ÎªĞû³ÆÕß¶øÕ÷·ş;Conquis en tant que revendicateur;Erobert als Anspruchsteller;;Conquistado como un pretendiente;;;;;;;;;x
 ACQUISITION_HOST;×÷ÎªÃ°ÏÕÕß¶øÕ÷·ş;Conquis en tant qu'aventurier;Erobert als Abenteurer;;Conquistado como un aventurero;;;;;;;;;x
 ACQUISITION_REVOLT;×÷ÎªÆğÒåÁìĞä¶øÕ÷·ş;Conquis en tant que chef d'une révolte;Erobert als Anführer eines Aufstands;;Conquistado como líder de un levantamiento;;;;;;;;;x
@@ -39,7 +39,7 @@ INSULT_HERETIC;Òì¶ËÕß;hérétique;Ketzer;;hereje;;;;;;;;;x
 INSULT_GROTESQUE;¹Öµ®µÄÈË;de grotesque;Groteske Gestalten;;grotesco;;;;;;;;;x
 INSULT_DWARF;ÙªÈå;de nain;Zwerge;;enano/a;;;;;;;;;x
 INSULT_CLUBFOOT;»ûĞÎ×ã;de pied bot;Klumpfüße;;pie zopo;;;;;;;;;x
-;#INSULT_LIMPING;limping;infirme;Hinkende;;cojeando;;;;;;;;;x;
+#INSULT_LIMPING;limping;infirme;Hinkende;;cojeando;;;;;;;;;x;
 INSULT_HARELIP;ÍÃ´½Õß;de bec-de-lièvre;Hasenschartige;;labio leporino;;;;;;;;;x
 INSULT_CLEFT_LIPPED;´½ÁÑµÄ;?la bouche déformée;Spaltlippen;;labio hendido;;;;;;;;;x
 INSULT_BASTARD;ÔÓÖÖ;de bâtard;Bastarde;;bastardo/a;;;;;;;;;x
@@ -306,7 +306,7 @@ focus_seduction_title;¹´Òı;Séduction;Verführung;;Seducción;;;;;;;;;x
 focus_seduction_desc;[This.GetTitledFirstName]ÎªÁË´Ì¼¤ºÍÈ¨Á¦¶øÄ¥Á·[This.GetPossPronoun]ÓÕ»ó¼¼ÇÉ¡£Õâ¸öÉú»îÖØĞÄ½âËø§Y¹´Òı§!ÕâÒ»»¥¶¯Ñ¡Ïî£¬ÈÃÄã¹´ÒıºÏÊÊµÄ¡°ÁÔÎï¡±¡£;[This.GetTitledFirstName] aiguise ses talents d'attraction en quête de sensations fortes et de puissance. Cet intérêt débloque l'option §YSéduction? contre les cibles applicables.;[This.GetTitledFirstName] verfeinert [This.GetPossPronoun] Anziehungskraft aus Gründen des Nervenkitzels und des Machtgefühls.\nDieser Fokus schaltet die Option §YVerführen? gegenüber passenden Zielpersonen frei.;;[This.GetTitledFirstName] afilia [This.GetPossPronoun] habilidades de atracción, por emociones y poder. \nEste enfoque desbloquea la opción §YSeduce? contra objetivos adecuados.;;;;;;;;;x
 SEDUCTION_FOCUS;¹´ÒıÉú»îÖØĞÄ;Intérêt de séduction;Verführungsfokus;;Foco de Seducción;;;;;;;;;x
 focus_intrigue_title;ÃÜÄ±;Intrigue;Intrige;;Intrigar;;;;;;;;;x
-;#focus_intrigue_desc;[This.GetTitledFirstName] seeks to become a better schemer, spending most of [This.GetPossPronoun] time engrossed in court intrigue. This Focus unlocks the §YAbduct§! option vs suitable targets.;;[This.GetTitledFirstName] m?chte die F?higkeit zum R?nkeschmieden verbessern und verbringt den Gro?teil [This.GetPossPronoun] Zeit mit Hofintrigen.\nDieser Fokus schaltet die Option §YEntf¨¹hren? bei passenden Zielpersonen frei.;;[This.GetTitledFirstName] procura hacerse un mejor intrigante, pasando la mayor parte de [This.GetPossPronoun] tiempo absorto en intrigas de la corte.\nEste Foco desbloquea el §Ysecuestrar? opci¨®n contra objetivos adecuados.;;;;;;;;;x;
+#focus_intrigue_desc;[This.GetTitledFirstName] seeks to become a better schemer, spending most of [This.GetPossPronoun] time engrossed in court intrigue. This Focus unlocks the §YAbduct§! option vs suitable targets.;;[This.GetTitledFirstName] m?chte die F?higkeit zum R?nkeschmieden verbessern und verbringt den Gro?teil [This.GetPossPronoun] Zeit mit Hofintrigen.\nDieser Fokus schaltet die Option §YEntf¨¹hren? bei passenden Zielpersonen frei.;;[This.GetTitledFirstName] procura hacerse un mejor intrigante, pasando la mayor parte de [This.GetPossPronoun] tiempo absorto en intrigas de la corte.\nEste Foco desbloquea el §Ysecuestrar? opci¨®n contra objetivos adecuados.;;;;;;;;;x;
 INTRIGUE_FOCUS;ÃÜÄ±Éú»îÖØĞÄ;Intérêt d'intrigue;Intrigenfokus;;Foco de la Intriga;;;;;;;;;x
 focus_hunting_title;á÷ÁÔ;Chasse;Jagd;;Caza;;;;;;;;;x
 focus_hunting_desc;[This.GetTitledFirstName]ÓÎĞĞÈ«¹ú£¬ÔÚÂÃÍ¾ÖĞ½á½»ºÃÓÑÓëÁÔÉ±[This.Religion.GetHighGodName]µÄÔìÎï¡£Õâ¸öÉú»îÖØĞÄ»áÈÃÄã½âËøá÷ÁÔÕâÒ»»î¶¯Ñ¡Ïî.;[This.GetTitledFirstName] voyage dans le royaume, tout en se faisant des amis et en tuant des créatures conçues par [This.Religion.GetRandomGodName].;[This.GetTitledFirstName] bereist das Reich, gewinnt Freunde und bringt dabei  die Geschöpfe von [This.Religion.GetRandomGodName] zur Strecke.;;[This.GetTitledFirstName] viaja por el mundo haciendo amigos y matando criaturas de [This.Religion.GetRandomGodName];;;;;;;;;x
@@ -345,7 +345,7 @@ strategist;²ßÂÔ¼Ò;Stratège;Stratege;;Estratega;;;;;;;;;x
 strategist_desc;Õâ¸ö½ÇÉ«ÈÈ°®²ß»®Õ½ÒÛºÍ·ÖÎöÄ¿Ç°µÄĞÎÊÆ¡£;Ce personnage adore préparer des campagnes et analyser l'état actuel des affaires.;Diese Person liebt das Planen von Feldzügen und die Analyse der aktuellen Situation.;;A este personaje le encanta planificar de campañas y analizar el estado actual de las relaciones internacionales.;;;;;;;;;x
 socializer;Éç½»Õß;Socialisateur;Gesellschaftsmensch;;Amistoso;;;;;;;;;x
 socializer_desc;Õâ¸ö½ÇÉ«±»ÈÏÎªÊÜµ½´óÖÚµÄ»¶Ó­£¬²¢»¨·Ñ´ó²¿·ÖÏĞÏ¾Ê±¼äÔÚÅã°éËûÈËÉÏ¡£;Ce personnage s'applique ?être bien aim?des gens et passe la majorit?de son temps en compagnie des autres.;Diese Person möchte beliebt sein und verbringt den Großteil ihrer Zeit in der Gesellschaft anderer.;;Este carácter est?comprometido en ser muy apreciado y pasa la mayor parte del tiempo en compañía de otros.;;;;;;;;;x
-;#schemer;Schemer;;Intrigant;;Intrigante;;;;;;;;;x;
+#schemer;Schemer;;Intrigant;;Intrigante;;;;;;;;;x;
 schemer_desc;Õâ¸ö½ÇÉ«¹ı×Å³äÂúÃÜÄ±ºÍ²Ù×İËûÈËµÄÉú»î¡£;Ce personnage mène une vie pleine d'intrigues et de manipulations.;Diese Person lebt ein Leben, das von Intrigen und Manipulation bestimmt wird.;;Este personaje lleva una vida de intrigas y manipulación.;;;;;;;;;x
 HAS_ANY_OPINION_MOD;ÈÎºÎÈË¶ÔÄãÓĞ¡°§Y$MOD$§!¡±ÕâÒ»¿´·¨£¨ºÃ¸ĞĞŞÕı£©;Possède l'opinion '§Y$MOD$?' de n'importe qui;Hat die Meinung '§Y$MOD$?' von anderen;;Tiene el '§Y$MOD$?' 'opinión de cualquiera;;;;;;;;;x
 HAS_NO_OPINION_MOD;Ã»ÓĞÈË¶ÔÄãÓĞ¡°§Y$MOD$§!¡±ÕâÒ»¿´·¨£¨ºÃ¸ĞĞŞÕı£©;Ne possède pas l'opinion '§Y$MOD$?' de n'importe qui;Hat nicht die Meinung '§Y$MOD$?' von anderen;;No tiene '§Y$MOD$? 'opinión de cualquiera;;;;;;;;;x
@@ -440,7 +440,7 @@ EVTOPTA_WOL_201;Ì«ºÃÁË£¡ÊÇÊ±ºòÒªÔö¼Ó¶Ä×¢ÁË£¿;Oho? Serait-il temps d'augmenter la
 EVTOPTB_WOL_201;Ì«ºÃÁË£¬¿ÉÏ§ÎÒÒÑ¾­²»ÔÙ¿ÊÍû[From.GetObjectPronoun];Superbe, mais le désir m'a quitt?Schön, aber ich verlange nicht mehr nach [From.GetObjectPronoun];;Genial, pero ya no deseo a [From.GetObjectPronoun]. ;;;;;;;;;x
 WOL_SEDUCE_END_TOOLTIP;×·Öğ½áÊø\n;La tentative de séduction est terminée\n;Die Jagd ist vorbei\n;;La persecución ha finalizado\n;;;;;;;;;x
 EVTDESC_WOL_202;[From.GetFirstName]Ã»ÓĞ¶ÔÎÒÁôÔÚ[From.GetPossPronoun]ÕíÍ·ÉÏµÄÇéÊé×÷ÈÎºÎ»ØÓ¦¡£;[From.GetFirstName] n'a pas répondu ?la lettre d'amour que j'ai laissée sur son oreiller.;[From.GetFirstName] hat auf den Brief, den ich auf [From.GetPossPronoun] Kopfkissen hinterlie? nicht geantwortet.;;[From.GetFirstName] no ha respondido a la carta de amor que dej?en [From.GetPossPronoun] almohada.;;;;;;;;;x
-;#EVTOPTA_WOL_202;Silence is not a no!;;Schweigen bedeutet nicht unbedingt Nein!;;?El silencio no es un no!;;;;;;;;;x;
+#EVTOPTA_WOL_202;Silence is not a no!;;Schweigen bedeutet nicht unbedingt Nein!;;?El silencio no es un no!;;;;;;;;;x;
 EVTOPTB_WOL_202;ÊÇÊ±ºòÒª·ÅÆúÁË;Il est temps d'abandonner;Es ist Zeit, die Sache aufzugeben.;;Hora de rendirse.;;;;;;;;;x
 EVTDESC_WOL_203;ÎÒÔÚ[From.GetFirstName]µÄÕíÍ·ÉÏÁôÏÂÁËÒ»·â³äÂú·¼ÏãµÄÇéÊéÒÔÓ®µÃ[From.GetObjectPronoun]µÄ·¼ĞÄ.....½ñÌì£¬ÎÒ·¢ÏÖÔÚ²ŞËùÀï·¢ÏÖÁË[From.GetPossPronoun]µÄ»Øº¯¡£ËüºÁÎŞÃµ¹åµÄ·¼Ïã¡£;J'ai fait en sorte qu'une lettre d'amour parfumée soit déposée sur l'oreiller de [From.GetFirstName] dans l'espoir de la séduire... et aujourd'hui, j'ai trouv?sa réponse dans les latrines. Elle ne sentait pas la rose.;Ich habe dafür gesorgt, dass [From.GetFirstName] auf dem Kissen einen parfümierten Brief findet, in dem ich um sie werbe. Heute habe ich die Antwort im Abtritt entdeckt. Sie roch nicht gerade nach Rosen.;;Arregl?para que una carta de amor perfumada quedar?a la almohada de [From.GetFirstName] en un intento de conquistarla...Hoy he encontrado su respuesta en el excusado. No huele a rosas.;;;;;;;;;x
 EVTOPTA_WOL_203;ÔİÊ±µÄ´ìÕÛ£¡;Un contretemps temporaire?;Ein vorübergehender Rückschlag, nichts weiter!;;¡Un revés temporal!;;;;;;;;;x

@@ -1,4 +1,4 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 HOLD_ELECTION_EFFECT;Ò»³¡Ñ¡¾ÙÕýÔÚ$TITLE$¾ÙÐÐ¡£\n;Une élection se tient en $TITLE$.\n;Eine Wahl wird gehalten in $TITLE$.\n;;Elección en $TITLE$.\n;;;;;;;;;x
 ANTI_POPE_CESSATION_LOG;§Y$ANTIPOPE$§!ÒÑ¾­²»ÔÙÊÇ¶ÔÁ¢½Ì×Ú¡£;L'Anti-papaut?de §Y$ANTIPOPE$? a pris fin.;Gegenpapsttum der §Y$ANTIPOPE$? ist beendet.;;El antipapado de §Y$ANTIPOPE$? ha terminado.;;;;;;;;;x
 TRIGGER_BEST_CRUSADE_CLAIMANT;×î¼ÑÐû³ÆÕß;Prétendant le plus légitime;Besten Titelforderer;;Mejor pretendiente;;;;;;;;;x
@@ -49,7 +49,7 @@ HymnsOfAbrahamDLC;ÑÇ²®À­º±Ö®¸è;Hymnes d'Abraham;Die Hymnen von Abraham;;Himnos d
 WoFUPDLC;ÐÅÑöÖ®Õ½Ê¿µ¥Ôª°ü;Pack d'Unités «Guerriers de la Foi?Einheitenpack Krieger des Glaubens;;Pack de Unidades Guerreros de la Fe;;;;;;;;;x
 MOUPDLC;ÆïÊ¿ÍÅµ¥Ôª°ü;Pack d'Unités «Ordres Militaires?Einheitenpack Ritterorden;;Pack de Unidades Ordenes Militares;;;;;;;;;x
 REVOKE_TITLE_TOOLTIP;´Ó§Y$HOLDER$§!´¦ñÝ¶áÍ·ÏÎ§Y$TITLE$§!;Révoquer le titre de §Y$TITLE$? de §Y$HOLDER$?;Der Titel von §Y$TITLE$? von §Y$HOLDER$? entziehen;;Revocar el título de §Y$TITLE$? de §Y$HOLDER$?;;;;;;;;;x
-;#DESTROY_TITLE_TOOPTIP;Destroy the title of §Y$TITLE$§!.;;Der Titel von §Y$TITLE$? vernichten.;;Destruir el t¨ªtulo de §Y$TITLE$?.;;;;;;;;;x;
+#DESTROY_TITLE_TOOPTIP;Destroy the title of §Y$TITLE$§!.;;Der Titel von §Y$TITLE$? vernichten.;;Destruir el t¨ªtulo de §Y$TITLE$?.;;;;;;;;;x;
 TITLE_DESTROY_TOOLTIP_IS_NOT_PRIMARY;¸ÃÍ·ÏÎ²»ÊÇÖ÷ÒªÍ·ÏÎ¡£;N'est pas votre titre principal;Der Titel ist nicht der Haupttitel;;El título no es el título principal;;;;;;;;;x
 TITLE_DESTROY_TOOLTIP_CAN_AFFORD;¿ÉÒÔ³ÐÊÜËðÊ§§Y$PRESTIGE$§!ÍþÍûÖµ;Dispose d'un prestige d'au moins §Y$PRESTIGE$?;Kann es sich leisten, §Y$PRESTIGE$? Prestige zu verlieren;;Puede permitirse perder §Y$PRESTIGE$? prestigio;;;;;;;;;x
 TITLE_DESTROY_IS_NOT_GAVELKIND;¼Ì³ÐÖÆÀàÐÍ²»ÊÇÄÐ×Ó¾ù·Ö¼Ì³ÐÖÆ;Le partage salique n'est pas la loi de succession en vigueur;Erbfolgerecht ist nicht Realteilung;;Tipo de sucesión no es Partes Iguales;;;;;;;;;x
