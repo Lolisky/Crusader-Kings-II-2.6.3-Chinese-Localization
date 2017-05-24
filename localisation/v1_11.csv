@@ -1,4 +1,4 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 MENU_BAR_GAME_CONVERT;导出游戏;Exporter une partie;Spiel exportieren;;Exportar Partida;;;;;;;;;x
 MENU_BAR_GAME_CONVERT_DEL;把游戏导出至欧陆风云4;Exporter une partie vers EU4;Spiel nach EU4 exportieren;;Exportar partuda a EU4;;;;;;;;;x
 BARBER_TOOLTIP;理发;Aller chez le barbier;Zum Barbier gehen;;Ir al Peluquero;;;;;;;;;x
@@ -28,9 +28,9 @@ ACCEPTED_PLOT_REQUEST;正支持密谋。;Soutient un complot.;Unterstuetzt Verschw鰎un
 LOADING_TIP_52;你可以使用Alt键点选特定的舰队。;Vous pouvez ne s閘ectionner que vos flottes en utilisant la touche ALT.;Sie k鰊nen eine Auswahl nur auf Flotten treffen, indem Sie die Alt-Taste gedrueckt halten.;;Puedes hacer que la tropa seleccionada se embarque usando simplemente la tecla ALT;;;;;;;;;x
 EXIT;关闭;Sortie;Exit;;Salir;;;;;;;;;x
 CUT;剪吧！;Coupez?;Schnitt!;;ortar!;;;;;;;;;x
-;#CONFIRMEXPORTTITLE;Export CK2 Game to EU4;;CK2 Spiel nach EU4 exportieren;;Exportar partida a EU4;;;;;;;;;x;
-;#CONFIRMEXPORTTEXT;The game will be exported with the name $NAME$. This might take a couple of minutes.;;Das Spiel wird mit dem Namen $NAME$ exportiert. Es kann m?glicherweise ein paar Minuten dauern.;;La partida se exportará con el nombre $NAME$. Esta operación puede tardar un par de minutos.;;;;;;;;;x;
-;#CONFIRMEXPORTTEXT_WARNING;The game will be exported with the name $NAME$.\n\n THIS NAME IS ALREADY IN USE!\nAre you sure you want to continue?;;Das Spiel wird mit dem Namen $NAME$ exportiert.\n\n DIESER NAME WIRD BEREITS BENUTZT!\nSind Sie sicher, dass Sie fortsetzen wollen?;;La partida se exportará con el nombre $NAME$.\n\n ?ESTE NOMBRE YA ESTá EN USO!\n?Seguro que quieres continuar?;;;;;;;;;x;
+#CONFIRMEXPORTTITLE;Export CK2 Game to EU4;;CK2 Spiel nach EU4 exportieren;;Exportar partida a EU4;;;;;;;;;x;
+#CONFIRMEXPORTTEXT;The game will be exported with the name $NAME$. This might take a couple of minutes.;;Das Spiel wird mit dem Namen $NAME$ exportiert. Es kann m?glicherweise ein paar Minuten dauern.;;La partida se exportará con el nombre $NAME$. Esta operación puede tardar un par de minutos.;;;;;;;;;x;
+#CONFIRMEXPORTTEXT_WARNING;The game will be exported with the name $NAME$.\n\n THIS NAME IS ALREADY IN USE!\nAre you sure you want to continue?;;Das Spiel wird mit dem Namen $NAME$ exportiert.\n\n DIESER NAME WIRD BEREITS BENUTZT!\nSind Sie sicher, dass Sie fortsetzen wollen?;;La partida se exportará con el nombre $NAME$.\n\n ?ESTE NOMBRE YA ESTá EN USO!\n?Seguro que quieres continuar?;;;;;;;;;x;
 STYLE;类型;Style;Stil;;Estilo;;;;;;;;;x
 CAN_PERSUADE_TO_JOIN_PLOT;可以用一袋金币收买;Peut 阾re convaincu par une escarcelle d'or...;K鰊nte von einem Sack Gold ueberzeugt werden.;;Puede convencersele con un saco de oro...;;;;;;;;;x
 city_job_chancellor_arabic;大维齐尔;Grand Vizir;Gro遷esir;;Gran Visir;;;;;;;;;x
@@ -40,7 +40,7 @@ city_job_chancellor_west_african;大维齐尔;Grand Vizir;Gro遷esir;;Gran Visir;;;;;
 city_job_chancellor_greek;太师;Magistros;Magistros;;Magistros;;;;;;;;;x
 city_job_spymaster_greek;神秘书吏;Mystikos;Mystikos;;Mystikos;;;;;;;;;x
 city_job_treasurer_greek;宝库总管;Sakellarios;Sakellarios;;Sakellarios;;;;;;;;;x
-;#city_job_marshal_greek;Strategos;;Strategos;;Estratega;;;;;;;;;x;
+#city_job_marshal_greek;Strategos;;Strategos;;Estratega;;;;;;;;;x;
 city_job_chancellor_aztec;蛇女;Cihuacoatl;Cihuacoatl;;Cihuacoatl;;;;;;;;;x
 city_job_treasurer_aztec;贡赋总管;Petlacalcatl;Petlacalcatl;;Petlacalcatl;;;;;;;;;x
 city_job_spiritual_aztec;大祭司;Sahag鷑;Sahagun;;Sahagun;;;;;;;;;x

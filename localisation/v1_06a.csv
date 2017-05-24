@@ -1,4 +1,4 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 HOLDINGS_DEC_LOSS;Õ¼ÓÐ¶È: ;Propriétés? ;Besitztümer: ;;Posesiones: ;;;;;;;;;x
 TOTAL_DEC_DELTA;×ÜÌå¸¯»¯¶È: ;Contribution totale ?la Décadence? ;Gesamtbeitrag zur Dekadenz: ;;Contribución a la Decadencia Total: ;;;;;;;;;x
 HAS_A_JOB_DEC;½ÓÊÜÒ»¸öÈÎÎñ: ;Possède une charge;Hat ein Amt: ;;Tiene un Trabajo: ;;;;;;;;;x
@@ -31,10 +31,10 @@ EVTNAME902;Òì½ÌÍ½¹¥»÷[Root.Liege.GetLordSpiritualName];Les infidèles attaquent n
 EVTOPTA8300;ÉÏµÛËùÔ¸!;Deus Vult!;Deus Vult!;;¡Deus Vult!;;;;;;;;;x
 EVTOPTA8301;ÔÞÃÀÕæÖ÷!;Ma cha‘Allah?;Masha'Allah!;;¡Masha'Allah!;;;;;;;;;x
 EVTDESC8300;ÎÒÃÇµÄ¾ü¶ÓÕýÐîÊÆ´ý·¢ÎªÁË [Root.Location.Kingdom.GetFullBaseName] ¶ø²Î¼Ó [Root.Religion.GetCrusadeName] .;Nos armées, assurées de la victoire, sont prêtes ?prendre part ?la [Root.Religion.GetCrusadeName] pour [Root.Location.Kingdom.GetFullBaseName]'.;Unsere Armeen stehen bereit, um sich am [Root.Religion.GetCrusadeName] vom [Root.Location.Kingdom.GetFullBaseName] zu beteiligen.;;Nuestros ejercitos se encuentran preparados para formar parte en la [Root.Religion.GetCrusadeName] por [Root.Location.Kingdom.GetFullBaseName].;;;;;;;;;x
-;#ca_culture_west_african_1;Small Free Warrior Lodge;;kleine Kriegerh¨¹tte;;Campamento peque?o para los Guerreros;;;;;;;;;x;
-;#ca_culture_west_african_2;Free Warrior Lodge;;Kriegerh¨¹tte;;Campamento para los Guerreros;;;;;;;;;x;
-;#ca_culture_west_african_3;Large Free Warrior Lodge;;gro?e Kriegerh¨¹tte;;Campamento grande para los Guerreros;;;;;;;;;x;
-;#ca_culture_west_african_4;Great Free Warrior Lodge;;riesige Kriegerh¨¹tte;;Campamento enorme para los Guerreros;;;;;;;;;x;
+#ca_culture_west_african_1;Small Free Warrior Lodge;;kleine Kriegerh¨¹tte;;Campamento peque?o para los Guerreros;;;;;;;;;x;
+#ca_culture_west_african_2;Free Warrior Lodge;;Kriegerh¨¹tte;;Campamento para los Guerreros;;;;;;;;;x;
+#ca_culture_west_african_3;Large Free Warrior Lodge;;gro?e Kriegerh¨¹tte;;Campamento grande para los Guerreros;;;;;;;;;x;
+#ca_culture_west_african_4;Great Free Warrior Lodge;;riesige Kriegerh¨¹tte;;Campamento enorme para los Guerreros;;;;;;;;;x;
 ca_culture_west_african_1;Ð¡ÐÍ±øÓª;Hutte de guerriers libres;Kriegerhütte;;Campamento para los Guerreros;;;;;;;;;x
 ca_culture_west_african_2;±øÓª;Hutte de guerriers libres;Kriegerhütte;;Campamento para los Guerreros;;;;;;;;;x
 ca_culture_west_african_3;´óÐÍ±øÓª;Hutte de guerriers libres;Kriegerhütte;;Campamento para los Guerreros;;;;;;;;;x
@@ -56,7 +56,7 @@ DYNA_F_ONLYLANDED_TT;É¸Ñ¡ËùÓÐÓÐÍ·ÏÎÇÒÃ»ÓÐ×ÓÅ®µÄÈËÎï;Afficher ou masquer les pers
 DYNA_F_ONLYALIVE;Ö»ÓÐÔÚÊÀµÄ;En vie;Nur Lebende;;Sólo vivos;;;;;;;;;x
 DYNA_F_ONLYALIVE_TT;ÅÅ³ýËùÓÐÎÞ×ÓÅ®µÄÒÑËÀÍöµÄ½ÇÉ«;Afficher ou masquer les personnages morts sans enfant;Filtert alle toten Charaktere ohne Kinder heraus;;Descartar a todos los personajes muertos y sin hijos;;;;;;;;;x
 invasion_succ_tip;§Y[Root.GetTitledFirstName]§!½Ó¹ÜÁËËùÓÐÕ¼ÁìµÄÁìÍÁ.\n§Y[Root.GetTitledFirstName]§!³ÉÎªÁËÐÂµÄ§Y[This.GetRulerTitle]ÓÚ[This.GetBaseName]§!.\n; -§Y[Root.GetTitledFirstName]? obtient tous les territoires occupés.\n§Y[Root.GetTitledFirstName]? devient le nouveau §Y[This.GetRulerTitle] de [This.GetBaseName]?.\n;§Y[Root.GetTitledFirstName]? erhält alle besetzten Gebiete. \n§Y[Root.GetTitledFirstName]? wird der neue §Y[This.GetRulerTitle] von [This.GetBaseName]?.\n;;§Y[Root.GetTitledFirstName]? toma todos los territorios ocupados. \n§Y[Root.GetTitledFirstName]? se convierte en el nuevo §Y[This.GetRulerTitle] de [This.GetBaseName]?.\n;;;;;;;;;x
-;#tribal_invasion_succ_tip;§Y[Root.GetTitledFirstName]§! takes all occupied territory.\n§Y[Root.GetTitledFirstName]§! takes or vassalizes all titles in the §Y[This.GetFullBaseName]§!.\n;;§Y[Root.GetTitledFirstName]? erh?lt alle besetzten Gebiete.\n§Y[Root.GetTitledFirstName]? erh?lt oder vasallisiert alle Titlel in §Y[This.GetFullBaseName]?.\n;;§Y[Root.GetTitledFirstName]? toma todos los territorios ocupados.\n§Y[Root.GetTitledFirstName]? toma o hace vasallos todos los t¨ªtulos de §Y[This.GetFullBaseName]?.\n;;;;;;;;;x;
+#tribal_invasion_succ_tip;§Y[Root.GetTitledFirstName]§! takes all occupied territory.\n§Y[Root.GetTitledFirstName]§! takes or vassalizes all titles in the §Y[This.GetFullBaseName]§!.\n;;§Y[Root.GetTitledFirstName]? erh?lt alle besetzten Gebiete.\n§Y[Root.GetTitledFirstName]? erh?lt oder vasallisiert alle Titlel in §Y[This.GetFullBaseName]?.\n;;§Y[Root.GetTitledFirstName]? toma todos los territorios ocupados.\n§Y[Root.GetTitledFirstName]? toma o hace vasallos todos los t¨ªtulos de §Y[This.GetFullBaseName]?.\n;;;;;;;;;x;
 PART_SCALED_PRESTIGE_EFFECT;§Y$WHO$§!£º$DIRECTION$$VALUE$ÍþÍûÀ´×ÔÕ½Õù¹±Ï×¡£\n;§Y$WHO$?? $DIRECTION$ $VALUE$ points de prestige pour la contribution ?l'effort de guerre.\n;§Y$WHO$?: $DIRECTION$ $VALUE$ Prestige durch Kriegsbeitrag\n;;§Y$WHO$?: $DIRECTION$ $VALUE$ Prestigio por su contribución bélica. \n;;;;;;;;;x
 PART_SCALED_PIETY_EFFECT;´ÓÕ½ÕùÖÐ»ñµÃ§Y$WHO$§!: $DIRECTION$ $VALUE$ $PIETYNAME$.\n;§Y$WHO$?: $DIRECTION$ $VALUE$ en $PIETYNAME$ pour la contribution ?l'effort de guerre.\n;§Y$WHO$?: $DIRECTION$ $VALUE$ $PIETYNAME$ durch Kriegsbeitrag\n;;§Y$WHO$?: $DIRECTION$ $VALUE$ $PIETYNAME$ por su contribución bélica. \n;;;;;;;;;x
 NUM_OF_REALM_COUNTIES_LESS;§Y$TITLE$§!Ëù¿ØÖÆµÄ¹ú¼ÒÉÙÓÚ §Y$NUM$§! ;Moins de §Y$NUM$? comtés contrôlés par §Y$TITLE$?;Hält weniger als §Y$NUM$? Grafschaften innerhalb von §Y$TITLE$?;;Menos de §Y$NUM$? condados dominados por §Y$TITLE$?;;;;;;;;;x

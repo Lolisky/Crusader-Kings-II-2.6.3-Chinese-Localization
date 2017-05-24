@@ -1,12 +1,12 @@
-;#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 d_nubia;马库里亚;Makourie;Makuria;;Makuria;;;;;;;;;x
 d_nubia_adj;马库里亚;makourienne;makurisch;;Makurrana;;;;;;;;;x
-;#d_hayya;Hayya;;Hayya;;Hayya;;;;;;;;;x;
-;#d_hayya_adj;Hayyan;;hayisch;;Hayana;;;;;;;;;x;
-;#d_sennar;Sennar;;Sannar;;Sennar;;;;;;;;;x;
-;#d_sennar_adj;Sennari;;sannarisch;;Sennarí;;;;;;;;;x;
+#d_hayya;Hayya;;Hayya;;Hayya;;;;;;;;;x;
+#d_hayya_adj;Hayyan;;hayisch;;Hayana;;;;;;;;;x;
+#d_sennar;Sennar;;Sannar;;Sennar;;;;;;;;;x;
+#d_sennar_adj;Sennari;;sannarisch;;Sennarí;;;;;;;;;x;
 LIEGEPIETY_HEADER;领主之[Player.Religion.GetPietyName];[Player.Religion.GetPietyName] pour le seigneur;[Player.Religion.GetPietyName] f黵 Lehnsherr;;[Player.Religion.GetPietyName] para el Se駉r;;;;;;;;;x
-;#NO_LIEGEPIETY;This vassal is not giving any piety to you.\nSome buildings in temple holdings give piety to the holder's liege.;;Dieser Vasall bringt Euch keine Piet?t.\nEinige Geb?ude in Tempel-Besitztümern generieren Piet?t für den Lehnsherr des Besitzers.;;Este vasallo no te proporciona nada de piedad.\nAlgunas construcciones en los templos proporcionan piedad al Se?or del terrateniente;;;;;;;;;x;
+#NO_LIEGEPIETY;This vassal is not giving any piety to you.\nSome buildings in temple holdings give piety to the holder's liege.;;Dieser Vasall bringt Euch keine Piet?t.\nEinige Geb?ude in Tempel-Besitztümern generieren Piet?t für den Lehnsherr des Besitzers.;;Este vasallo no te proporciona nada de piedad.\nAlgunas construcciones en los templos proporcionan piedad al Se?or del terrateniente;;;;;;;;;x;
 major_river_crossing;主河道横渡;Franchissement d'un fleuve majeur;bedeutende Furt;;Cruzar un r韔 importante;;;;;;;;;x
 realm_job_spiritual;领地之$TITLE$们;$TITLE$s vassaux;Reichs-$TITLE$;;$TITLE$s del Reino;;;;;;;;;x
 job_spiritual_finnish_pagan;占卜师;Devin;Wahrsager;;Augur;;;;;;;;;x
