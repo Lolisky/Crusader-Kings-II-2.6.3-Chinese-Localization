@@ -21,14 +21,14 @@ NO_EXTRA_HOLDING_BUILT;Ã»ÓÐÒÑ½¨ÔìµÄ$TYPE$;Aucune propriét?de type '$TYPE$' établ
 EXTRA_HOLDING_UNDER_CON;$TYPE$ÔÚ½¨ÔìÖÐ;$TYPE$ en construction;$TYPE$ wird gebaut;;$TYPE$ en construcción;;;;;;;;;x
 CREATE_EXTRA_HOLDING_EFFECT;ÔÚ$LOCATION$½¨ÔìÒ»×ù$TYPE$;Crée une propriét?de type '$TYPE$' en $LOCATION$;Erstellt $TYPE$ in $LOCATION$;;Crear $TYPE$ en $LOCATION$;;;;;;;;;x
 NOMAD_TAX_MODIFIER;ÓÎÄÁË°;Impôt nomade;Nomadensteuer;;Impuesto de nómadas;;;;;;;;x
-FROM_FORTS;À´×Ô±¤ÀÝ: §G$AMOUNT$?\n;Provenant des forts? §G$AMOUNT$?\n;Von Festungen: §G$AMOUNT$?\n;;De fortalezas: §G$AMOUNT$?\n;;;;;;;;x
+FROM_FORTS;À´×Ô±¤ÀÝ: §G$AMOUNT$§!\n;Provenant des forts? §G$AMOUNT$?\n;Von Festungen: §G$AMOUNT$?\n;;De fortalezas: §G$AMOUNT$?\n;;;;;;;;x
 DESTROY_EXTRA_HOLDING_EFFECT;ÔÚ$LOCATION$µÄ$TYPE$±»´Ý»Ù;La propriét?de type '$TYPE$' détruite en $LOCATION$;$TYPE$ in $LOCATION$ wurde zerstört;;El $TYPE$ en $LOCATION$ fue destruido;;;;;;;;x
-SEIZE_EXTRA_HOLDING_EFFECT;§Y$TAKER$?¶áÈ¡ÁË§Y$PROV$?$TYPE$;§Y$TAKER$? s'empare de la propriét?de type '$TYPE$' en §Y$PROV$?;§Y$TAKER$? beschlagnahmt $TYPE$ in §Y$PROV$?;;§Y$TAKER$? toma §Y$PROV$? $TYPE$;;;;;;;;x
+SEIZE_EXTRA_HOLDING_EFFECT;§Y$TAKER$§!¶áÈ¡ÁË§Y$PROV$§!$TYPE$;§Y$TAKER$? s'empare de la propriét?de type '$TYPE$' en §Y$PROV$?;§Y$TAKER$? beschlagnahmt $TYPE$ in §Y$PROV$?;;§Y$TAKER$? toma §Y$PROV$? $TYPE$;;;;;;;;x
 ANY_FORT_STARTS;ÈÎºÎ±¤ÀÝ;Tout fort;Beliebige Festung;;Cualquier fortaleza;;;;;;;;x
-num_fort_diff_lower_than;§Y$FIRST$?Óë§Y$SECOND$?µÄ±¤ÀÝÖ®²îÒìÐ¡ÓÚ§Y$VAL$?;La différence entre le nombre de forts de §Y$FIRST$? et de §Y$SECOND$? est inférieure ?§Y$VAL$?;Unterschied zwischen den Festungen von §Y$FIRST$? und §Y$SECOND$? kleiner als §Y$VAL$?;;Diferencia entre las fortalezas §Y$FIRST$? y §Y$SECOND$? menor que §Y$VAL$?;;;;;;;;x
-num_fort_diff_at_least;§Y$FIRST$?Óë§Y$SECOND$?µÄ±¤ÀÝÖ®²îÒìÖÁÉÙ§Y$VAL$?;La différence entre le nombre de forts de §Y$FIRST$? et de §Y$SECOND$? est d'au moins §Y$VAL$?;Unterschied zwischen den Festungen von §Y$FIRST$? und §Y$SECOND$? mindestens §Y$VAL$?;;Diferencia entre las fortalezas §Y$FIRST$? y §Y$SECOND$? por lo menos §Y$VAL$?;;;;;;;;x
-has_fewer_fort_than;ÉÙÓÚ§Y$NUM$?×ù±¤ÀÝ;Possède moins de §Y$NUM$? forts;Hat weniger als §Y$NUM$? Festungen;;Tiene menos de §Y$NUM$? fortalezas;;;;;;;;x
-has_more_fort_than;ÖÁÉÙ§Y$NUM$?×ù±¤ÀÝ;Possède au moins §Y$NUM$? forts;Hat mindestens §Y$NUM$? Festungen;;Tiene por lo menos §Y$NUM$? fortalezas;;;;;;;;x
+num_fort_diff_lower_than;§Y$FIRST$§!Óë§Y$SECOND$§!µÄ±¤ÀÝÖ®²îÒìÐ¡ÓÚ§Y$VAL$§!;La différence entre le nombre de forts de §Y$FIRST$? et de §Y$SECOND$? est inférieure ?§Y$VAL$?;Unterschied zwischen den Festungen von §Y$FIRST$? und §Y$SECOND$? kleiner als §Y$VAL$?;;Diferencia entre las fortalezas §Y$FIRST$? y §Y$SECOND$? menor que §Y$VAL$?;;;;;;;;x
+num_fort_diff_at_least;§Y$FIRST$§!Óë§Y$SECOND$§!µÄ±¤ÀÝÖ®²îÒìÖÁÉÙ§Y$VAL$§!;La différence entre le nombre de forts de §Y$FIRST$? et de §Y$SECOND$? est d'au moins §Y$VAL$?;Unterschied zwischen den Festungen von §Y$FIRST$? und §Y$SECOND$? mindestens §Y$VAL$?;;Diferencia entre las fortalezas §Y$FIRST$? y §Y$SECOND$? por lo menos §Y$VAL$?;;;;;;;;x
+has_fewer_fort_than;ÉÙÓÚ§Y$NUM$§!×ù±¤ÀÝ;Possède moins de §Y$NUM$? forts;Hat weniger als §Y$NUM$? Festungen;;Tiene menos de §Y$NUM$? fortalezas;;;;;;;;x
+has_more_fort_than;ÖÁÉÙ§Y$NUM$§!×ù±¤ÀÝ;Possède au moins §Y$NUM$? forts;Hat mindestens §Y$NUM$? Festungen;;Tiene por lo menos §Y$NUM$? fortalezas;;;;;;;;x
 HAS_EXTRA_HOLDING;ÓÐ$TYPE$;Possède une propriét?de type '$TYPE$';Hat $TYPE$;;Tiene $TYPE$;;;;;;;;x
 HAS_NOT_EXTRA_HOLDING;Ã»ÓÐ$TYPE$;Ne possède pas une propriét?de type '$TYPE$';Hat KEINE $TYPE$;;NO tiene $TYPE$;;;;;;;;x
 TRIGGER_FORT_OWNER;±¤ÀÝËùÓÐÕß;Propriétaire du fort;Eigentümer der Festung;;Dueño de Fortaleza ;;;;;;;;x

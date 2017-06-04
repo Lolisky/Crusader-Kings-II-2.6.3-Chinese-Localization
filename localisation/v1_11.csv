@@ -9,15 +9,15 @@ c_lappland_adj;À­ÆÕÀ¼;samie;Samisch;;Sápmi;;;;;;;;;x
 RENAME;ÖØÃüÃû;Renommer;Umbenennen;;Renombrar;;;;;;;;;x
 NAME;ÃüÃû;Nom;Name;;Nombre;;;;;;;;;x
 ADJECTIVE;ĞÎÈİ´Ê;Gentil?Adjektiv;;Adjetivo;;;;;;;;;x
-POSSIBLE_PLOT_POWER;¿ÉÄÜÃÜÄ±µãÊı;Puissance possible du complot;Mögliche Verschwörungsstaerke;;Potencial posible del complot;;;;;;;;;x
-AUTO_INVITE_PLOTTERS;×Ô·¢ÃÜÄ±²ÎÓëÕß;Invitation automatique des comploteurs;Verschwörer automatisch einladen;;Autoinvitar conspiradores;;;;;;;;;x
-AUTO_STOP_PLOTS;×Ô·¢Í£Ö¹ÃÜÄ±;Arrêt automatique des complots;Verschwörungen automatisch beenden;;Autodetener complots;;;;;;;;;x
-AUTO_STOPPED_PLOT_SETUP;ÃÜÄ±±»½Ò·¢;Complot découvert;Verschwörung aufgedeckt;;Complot descubierto;;;;;;;;x
+POSSIBLE_PLOT_POWER;¿ÉÄÜÒõÄ±Á¦Á¿;Puissance possible du complot;Mögliche Verschwörungsstaerke;;Potencial posible del complot;;;;;;;;;x
+AUTO_INVITE_PLOTTERS;×Ô¶¯ÑûÇëÒõÄ±²ÎÓëÕß;Invitation automatique des comploteurs;Verschwörer automatisch einladen;;Autoinvitar conspiradores;;;;;;;;;x
+AUTO_STOP_PLOTS;×Ô¶¯ÖÆÖ¹ÒõÄ±;Arrêt automatique des complots;Verschwörungen automatisch beenden;;Autodetener complots;;;;;;;;;x
+AUTO_STOPPED_PLOT_SETUP;ÒÑ·¢ÏÖµÄÒõÄ±;Complot découvert;Verschwörung aufgedeckt;;Complot descubierto;;;;;;;;x
 AUTO_STOPPED_PLOT_LOG;§Y$PLOTTER$§!$PLOTTERJOB$Ïë§Y$PLOTNAME$§!¡£;§Y$PLOTTER$?$PLOTTERJOB$ cherche ?§Y$PLOTNAME$?.;§Y$PLOTTER$?$PLOTTERJOB$ strebt nach §Y$PLOTNAME$?.;;§Y$PLOTTER$?$PLOTTERJOB$ pretende §Y$PLOTNAME$?.;;;;;;;;x
-AUTO_STOPPED_PLOT_LETTER;ÎÒÒÑ·¢ÏÖ$PLOTTER$ÍıÍ¼$PLOTNAME$µÄÃÜÄ±.ÎÒÒ²ÒÑÅÉ³öÒ»ÃûÊ¹ÕßÈÃËûÊÕÊÖ.\n\nÄúµÄ¼äµı×Ü¹Ü,\n$SPYMASTER$;J'ai découvert un complot par lequel $PLOTTER$ cherche ?$PLOTNAME$. J'ai dépêch?un émissaire pour lui demander de cesser ces agissements sur l'instant. \n\nVotre humble maître-espion,\n$SPYMASTER$;Ich habe eine Verschwörung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer losgesandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenführer,\n$SPYMASTER$;;He descubierto un complot en el que $PLOTTER$ pretende $PLOTNAME$. Le he enviado un emisario para que desista de ello. \n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
+AUTO_STOPPED_PLOT_LETTER;ÎÒÒÑ·¢ÏÖ$PLOTTER$ÍıÍ¼$PLOTNAME$µÄÃÜÄ±¡£ÎÒÒ²ÒÑÅÉ³öÒ»ÃûÊ¹ÕßÈÃËûÊÕÊÖ¡£\n\nÄãÇ«±°µÄ¼äµı×Ü¹Ü£¬\n$SPYMASTER$;J'ai découvert un complot par lequel $PLOTTER$ cherche ?$PLOTNAME$. J'ai dépêch?un émissaire pour lui demander de cesser ces agissements sur l'instant. \n\nVotre humble maître-espion,\n$SPYMASTER$;Ich habe eine Verschwörung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer losgesandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenführer,\n$SPYMASTER$;;He descubierto un complot en el que $PLOTTER$ pretende $PLOTNAME$. Le he enviado un emisario para que desista de ello. \n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
 AUTO_STOP_PLOT_START_SETUP;¼äµı×Ü¹ÜÅÉ³öĞÅÊ¹¡£;Le maître-espion envoie des messagers;Agentenführer schickt Boten;;El jefe de espías envía emisarios;;;;;;;;;x
 AUTO_STOP_PLOT_START_LOG;$SPYMASTER$ ÅÉ³öĞÅÊ¹ÖÆÖ¹ÃÜÄ±·¢¶¯Õß;$SPYMASTER$ envoie des émissaires pour faire cesser les complots;$SPYMASTER$ hat Boten ausgeschickt, um Verschwörer zu stoppen;;$SPYMASTER$ envia emisarios para hacer desistir a los conspiradores;;;;;;;;;x
-AUTO_STOP_PLOT_START_LETTER;ÎÒÒÑÏòËùÓĞÒÑÖªµÄÃÜÄ±²ÎÓëÕßÅÉ³öÃÜÊ¹£¬ÈÃËûÃÇÁ¢¼´Í£Ö¹ÃÜÄ±¡£\n\nÄúµÄ¼äµı×Ü¹Ü,\n$SPYMASTER$;J'ai envoy?des émissaires auprès de tous les comploteurs connus afin qu'ils cessent cela immédiatement.\n\nVotre humble maître-espion,\n$SPYMASTER$;Ich habe eine Verschwörung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer entsandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenführer,\n$SPYMASTER$;;He enviado emisarios a todos los conspiradores conocidos para que desistan de inmediato.\n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
+AUTO_STOP_PLOT_START_LETTER;ÎÒÒÑÏòËùÓĞÒÑÖªµÄÃÜÄ±²ÎÓëÕßÅÉ³öÃÜÊ¹£¬ÈÃËûÃÇÁ¢¼´Í£Ö¹ÃÜÄ±¡£\n\nÄãÇ«±°µÄ¼äµı×Ü¹Ü£¬\n$SPYMASTER$;J'ai envoy?des émissaires auprès de tous les comploteurs connus afin qu'ils cessent cela immédiatement.\n\nVotre humble maître-espion,\n$SPYMASTER$;Ich habe eine Verschwörung aufgedeckt, wo $PLOTTER$  $PLOTNAME$ erreichen will. Ich habe einen Emissaer entsandt, um ihn dieses beenden zu lassen.\n\nIhr demuetiger Agentenführer,\n$SPYMASTER$;;He enviado emisarios a todos los conspiradores conocidos para que desistan de inmediato.\n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
 siege_leader;Î§³ÇÖ¸»Ó¹Ù¡£;Spécialiste des sièges;Belagerungsfuehrer;;Líder del Asedio;;;;;;;;;x
 siege_leader_desc;´Ë½ÇÉ«ÉÆÓÚÖ¸»ÓÎ§³Ç×÷Õ½¡£;Ce personnage est particulièrement dou?pour mener ?bien les sièges;Dieser Character ist geuebt, Belagerungen zu fuehren;;Este personaje est?especializado en liderar asedios;;;;;;;;;x
 SIEGE;Î§³Ç;Siège;Belagerung;;Asedio;;;;;;;;;x
@@ -47,10 +47,10 @@ city_job_spiritual_aztec;´ó¼ÀË¾;Sahagún;Sahagun;;Sahagun;;;;;;;;;x
 city_job_spymaster_aztec;°µµîÊØÎÀ;Tillancalqui;Tillancalqui;;Tillancalqui;;;;;;;;;x
 city_job_marshal_aztec;ÈËÀàÇĞ¸îÕß;Tlacateccatl;Tlacateccatl;;Tlacateccatl;;;;;;;;;x
 city_job_chancellor_zoroastrian_group;°Ù¹ÙÖ®¸®;Astabadh;Astabadh;;Astabadh;;;;;;;;;x
-city_job_treasurer_zoroastrian_group;ÄÚÊ××Ü¹Ü;Darik-Pat;Darik-Pat;;Darik-Pat;;;;;;;;;x
+city_job_treasurer_zoroastrian_group;ÄÚ¸®×Ü¹Ü;Darik-Pat;Darik-Pat;;Darik-Pat;;;;;;;;;x
 city_job_marshal_zoroastrian_group;ÒÁÀ¼Ë¹ÅÁ²¨µÂ;Eran Spahbod;Eran Spahbod;;Eran Spahbod;;;;;;;;;x
-city_job_spiritual_zoroastrian_group;´ó¼ÀË¾;Mobad;Mobad;;Mobad;;;;;;;;;x
-city_job_spiritual_zoroastrian;´ó¼ÀË¾;Mobad;Mobed;;Mobad;;;;;;;;;x
+city_job_spiritual_zoroastrian_group;Ä§µ¼Ê¦;Mobad;Mobad;;Mobad;;;;;;;;;x
+city_job_spiritual_zoroastrian;Ä§µ¼Ê¦;Mobad;Mobed;;Mobad;;;;;;;;;x
 city_job_spiritual_christian;¹¬Í¢ÄÁÊ¦;Chapelain;Hofprediger;;Capellán;;;;;;;;;x
 city_job_spiritual_orthodox;½Ì»áÊ×Áì;Sacristain;Ekklesiarch;;Eclesiarca;;;;;;;;;x
 city_job_spiritual_muslim;¹¬Í¢ÒÁÂêÄ¿;Imam;Hof-Imam;;Imán de la corte;;;;;;;;;x
