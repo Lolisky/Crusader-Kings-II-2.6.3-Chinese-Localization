@@ -259,7 +259,7 @@ WAR_NAME_CLAIM_LIEGE;$ATTACKER$$ORDER$¶áÈ¡$OTHER_TITLE$Õ½Õù;$ORDER$Guerre de $AT
 claim_desc;§Y$CLAIMANT$§!¿ÉÒÔÓÃÕâ¸öĞûÕ½ÀíÓÉ¶áÈ¡§Y$TITLE$§!;Ce casus belli peut être utilis?par §Y$CLAIMANT$? pour appuyer sa revendication vis-?vis de §Y$TITLE$?;§Y$CLAIMANT$? kann diesen Kriegsgrund benutzen, um den Anspruch auf den Titel §Y$TITLE$? voranzutreiben;;Este Casus Belli puede ser usado por §Y$CLAIMANT$? para instar la reclamación de §Y$TITLE$?;;;;;;;;;x
 claim_on_liege_desc;§Y$CLAIMANT$§!¿ÉÒÔÓÃÕâ¸öĞûÕ½ÀíÓÉ¶áÈ¡§Y$TITLE$§!;Ce casus belli peut être utilis?par §Y$CLAIMANT$? pour appuyer sa revendication vis-?vis de §Y$TITLE$?;§Y$CLAIMANT$? kann diesen Kriegsgrund benutzen, um den Anspruch auf den Titel §Y$TITLE$? voranzutreiben;;Este Casus Belli puede ser usado por §Y$CLAIMANT$? para instar la reclamación de §Y$TITLE$?;;;;;;;;;x
 other_claim_on_liege_desc;§Y$PRESSER$§!¿ÉÒÔÓÃÕâ¸öĞûÕ½ÀíÓÉ°ï§Y$CLAIMANT$§!¶áÈ¡§Y$TITLE$§!;Ce casus belli peut être utilis?par §Y$PRESSER$? pour appuyer la revendication de §Y$CLAIMANT$? vis-?vis de §Y$TITLE$?;§Y$PRESSER$? kann diesen Kriegsgrund benutzen, um §Y$CLAIMANT$s? Anspruch auf den Titel §Y$TITLE$? voranzutreiben;;Este Casus Belli puede ser usado por §Y$PRESSER$? para instar la reclamación de §Y$CLAIMANT$? de §Y$TITLE$?;;;;;;;;;x
-invasion_desc;§Y$CLAIMANT$§!ÓĞÈ¨ÀûÈëÇÖ§Y$TITLE$§!.Èç¹û³É¹¦£¬¿ÉÒÔ¶áÈ¡Õâ¸öÍ·ÏÎÏÂÏ½µÄËùÓĞÁìµØ.;§Y$CLAIMANT$? a désormais le droit d'envahir le §Y$TITLE$?. En cas de réussite, les titres de toutes les propriétés actuellement occupées seront saisis.;§Y$CLAIMANT$? bekam das Recht zur Invasion für den Titel §Y$TITLE$? gewährt. Im Erfolgsfall werden die Titel sämtlicher derzeit besetzter Besitztümer konfisziert.;;A §Y$CLAIMANT$? se le ha concedido el derecho de invadir el §Y$TITLE$?. Si triunfa se apoderar?de los títulos de todas las posesiones actualmente ocupadas.;;;;;;;;;x
+invasion_desc;§Y$CLAIMANT$§!ÒÑ»ñÊÚÈ¨ÈëÇÖ§Y$TITLE$§!¡£Èç¹û³É¹¦£¬ËùÓĞÕı±»Õ¼ÁìµØ²úµÄÍ·ÏÎ¶¼½«±»¶áÈ¡¡£;§Y$CLAIMANT$? a désormais le droit d'envahir le §Y$TITLE$?. En cas de réussite, les titres de toutes les propriétés actuellement occupées seront saisis.;§Y$CLAIMANT$? bekam das Recht zur Invasion für den Titel §Y$TITLE$? gewährt. Im Erfolgsfall werden die Titel sämtlicher derzeit besetzter Besitztümer konfisziert.;;A §Y$CLAIMANT$? se le ha concedido el derecho de invadir el §Y$TITLE$?. Si triunfa se apoderar?de los títulos de todas las posesiones actualmente ocupadas.;;;;;;;;;x
 excommunicated_ruler_desc;§Y$TARGET$§!ÒÑ±»¾ø·££¬ÕâÊÇ¸öºÜÄÑµÃµÄÕ½ÕùÀíÓÉ£¡;L'excommunication de §Y$TARGET$? a ét?décidée, un motif de guerre légitime s'il en est?;§Y$TARGET$? wurde exkommuniziert - einen besseren Kriegsgrund hat es noch nie gegeben!;;¡§Y$TARGET$? ha sido excomulgado, una causa justa para la guerra si alguna vez hubo una!;;;;;;;;;x
 bid_for_independence_desc;§Y$CLAIMANT$§!¿ÉÒÔÊÔÍ¼´Ó§Y$TARGET$§!µÄÍ¨ÖªÏÂ¶ÀÁ¢;§Y$CLAIMANT$? peut tenter de déclarer son indépendance vis-?vis de? §Y$TARGET$?;§Y$CLAIMANT$? kann versuchen, von §Y$TARGET$? die Unabhängigkeit zu erlangen;;§Y$CLAIMANT$? puede intentar declarar la independencia de §Y$TARGET$?;;;;;;;;;x
 overthrow_ruler_desc;§Y$TARGET$§!Î´ÄÜ³É¹¦¾Ğ½û§Y$CLAIMANT$§!£¬Òı·¢ÁËÒ»³¡Îä×°³åÍ»;§Y$TARGET$? a essay?en vain d'emprisonner §Y$CLAIMANT$?, ce qui a déclench?un conflit arm?;§Y$TARGET$? ist mit dem Versuch gescheitert, §Y$CLAIMANT$? einzukerkern, was zu einem bewaffneten Konflikt geführt hat.;;§Y$TARGET$? ha fracasado en su intento de apresar a §Y$CLAIMANT$?, lo cual ha desembocado en conflicto armado;;;;;;;;;x
@@ -449,7 +449,7 @@ TYPHOID_FEVER_INFO;ÉËº®£¬Ò²±»³Æ×÷ÂıĞÔÈÈ£¬ÕıÔÚÕâ¸öÊ¡·İÂûÑÓ.;La fièvre lente (ou f
 #typhus;Typhus;Fi¨¨vre des campements;Typhus;;Tifus;;;;;;;;;x;
 TYPHUS_INFO;Á÷ĞĞĞÔ°ßÕîÉËº®£¬Ò²±»³Æ×÷Â¶ÓªÈÈ£¬ÕıÔÚÂûÑÓ.;La fièvre des campements (ou typhus épidémique) sévit.;Eine Typhusepidemie bzw. Lagerfieber breitet sich ungebremst aus.;;El tifus o fiebre de campamento se extiende desenfrenadamente.;;;;;;;;;x
 #bubonic_plague;Bubonic Plague;Peste bubonique;Beulenpest;;Peste bub¨®nica;;;;;;;;;x;
-BUBONIC_PLAGUE_INFO;ÄÇĞ©Á÷ÀËÆïÊÖ½«ºÚËÀ²¡´øµ½ÁËÕâ¸öÊ¡·İ.;Le cavalier solitaire a introduit la peste noire dans ce comt?;Der Schwarze Tod hat dieses Land heimgesucht.;;El Jinete Pálido ha traído la Muerte Negra a este país.;;;;;;;;;x
+BUBONIC_PLAGUE_INFO;ÌìÆô»ÒÆïÊ¿½«ºÚËÀ²¡´øµ½ÁËÕâ¸öÊ¡·İ.;Le cavalier solitaire a introduit la peste noire dans ce comt?;Der Schwarze Tod hat dieses Land heimgesucht.;;El Jinete Pálido ha traído la Muerte Negra a este país.;;;;;;;;;x
 measles;ÂéÕî;Rougeole;Masern;;Sarampión;;;;;;;;;x
 MEASLES_INFO;ÂéÕîÕıÔÚÕâ¸öÊ¡·İÑ¸ËÙÂûÑÓ.;Ce comt?connaît une épidémie de rougeole.;In diesem Land gibt es eine Masernepidemie.;;Hay una epidemia de sarampión en este país.;;;;;;;;;x
 small_pox;Ìì»¨;Variole;Blattern;;Viruela;;;;;;;;;x
@@ -1793,7 +1793,7 @@ EVTTOOLTIP3632;[This.GetTitledFirstName]Ò²Ğí»á×èÀ¹;[This.GetTitledFirstName] pou
 EVTDESC3631;²»ÂÛ¶à»á¶ùÎÒÑ°ÕÒÎÒµÄ[From.GetFirstName]Ê±£¬ÎÒ¶¼·¢ÏÖ[From.GetHerHim]²»ÊÇÔÚÌô¶¯±ğÈË²Î¼Ó¾ö¶·¾ÍÊÇÕıÔÚºÍÈË¾ö¶·.ÎÒ²»¸Ãµ£ĞÄ£¬ÕâĞ©¾ö¶·²»ÊÇÄãËÀÎÒ»î£¬Ò²Ã»ÓĞÈËÊÜÖØÉË£¬Ò»°ãÊÇ¼ûÑª¼´Ö¹µ«ÈÔÓĞÀıÍâ..;A chaque fois que nous ne trouvons pas [From.GetFirstName], c'est qu'[From.GetSheHe] est en train de provoquer ou de combattre quelqu'un en duel. Nous ne devrions pas nous en inquiéter, les duels ne sont jamais très sérieux et il est rare qu'il y ait des blessés graves. Généralement, le duel s'arrête ?la première goutte de sang versée, mais quand même...;Immer wenn ich meine/n [From.GetFirstName] aufsuche, finde ich [From.GetHerHim] entweder beim Duell oder dabei, jemanden zu einem Duell herauszufordern. Ich sollte mir keine Sorgen machen, denn diese Duelle sind nicht sehr ernsthaft und führen nie zu ernsten Verletzungen. Meistens werden sie nur bis zum ersten Blutstropfen ausgetragen ... aber trotzdem ...;;Siempre que busco a mi [From.GetFirstName] est?o bien retando a alguien o bien luchando con alguien. No debería preocuparme, los duelos nunca son tan serios como para que haya heridos graves, la mayoría son a primera sangre, pero aun as?..;;;;;;;;;x
 EVTOPTA3631;ÎÒÓ¦¸ÃÒªÇó[From.GetHerHim]²»ÔÙ¾ö¶·;Nous devrions lui demander d'arrêter de se battre en duel.;Ich sollte [From.GetHerHim] bitten, mit den Duellen aufzuhören;;Debería pedirle que deje de batirse en duelo;;;;;;;;;x
 EVTTOOLTIP3633;[Root.GetTitledFirstName]×èÀ¹;[Root.GetTitledFirstName] intervient.;[Root.GetTitledFirstName] mischt sich ein;;[Root.GetTitledFirstName] interfiere;;;;;;;;;x
-EVTOPTB3631;IÎÒ²»¸Ã²åÊÖ£¬ÕâĞ©¾ö¶·Ê¹[From.GetHerHim]¿ªĞÄ;Nous ne devrions pas intervenir, les duels lui font plaisir.;Ich sollte mich nicht einmischen, die Duelle machen [From.GetHerHim] glücklich;;No debería interferir, los duelos le hacen feliz;;;;;;;;;x
+EVTOPTB3631;ÎÒ²»¸Ã²åÊÖ£¬ÕâĞ©¾ö¶·Ê¹[From.GetHerHim]¿ªĞÄ;Nous ne devrions pas intervenir, les duels lui font plaisir.;Ich sollte mich nicht einmischen, die Duelle machen [From.GetHerHim] glücklich;;No debería interferir, los duelos le hacen feliz;;;;;;;;;x
 EVTDESC3632;ËäÈ»[From.GetTitledFirstName]ºÍ[From.GetSheHe]Ìô¶¯»ò±»Ìô¶¯µÄÈËÖ®¼äµÄ¾ö¶·´Ó²»ÒÔÓĞÈËÖØÉË¶øÊÕ³¡£¬Í¨³£Ö»ÓĞºÜĞ¡µÄ¸îÉËºÍÓÙÑª£¬ÎÒÒÀÈ»µ£ĞÄ[From.GetHerHis]ÉúÃü°²È«.;Même si les duels entre [From.GetTitledFirstName] et ses adversaires ne se terminent jamais mal, ?part quelques petites coupures et contusions, nous avons toujours peur pour sa vie.;Obwohl [From.GetTitledFirstName]s Duelle nie mit schweren Verletzungen der Duellanten, sondern nur mit kleinen Schnitten und Blessuren enden, so fürchte ich doch um [From.GetHerHis] Leben.;;Aunque los duelos entre [From.GetTitledFirstName] y quien sea que le haya retado o sido retado por él nunca terminan con heridas graves, solo pequeños cortes y contusiones, sigo temiendo por su vida.;;;;;;;;;x
 EVTOPTA3632;ÕâÖÖ×´¿ö±ØĞëÍ£Ö¹!;Il faut que cela cesse?;Dies muss ein Ende nehmen!;;¡Esto debe terminar! ;;;;;;;;;x
 EVTOPTB3632;[From.GetSheHeCap]ºÜ¿ªĞÄ£¬ÎÒÎªÊ²Ã´Òª×èÖ¹ÄØ?;[From.GetSheHeCap] prend du plaisir, pourquoi devrions-nous intervenir?;[From.GetSheHeCap] ist glücklich, warum soll ich mich da einmischen?;;Es feliz, ¿por qu?debería interferir?;;;;;;;;;x
@@ -2701,7 +2701,7 @@ EVTOPTA30081;°Ñ¼é·òÒù¸¾¹ØÆğÀ´!;Qu'on emprisonne les deux adultères?;Werft beide 
 EVTOPTB30081;°Ñ¼é·òÒù¸¾¶¼¿³ÁË!;Qu'on exécute les deux adultères?;Richtet beide Ehebrecher hin!;;¡Ejecutad al adúltero y a la adúltera!;;;;;;;;;x
 EVTOPTC30081;°Ñ¼é·òÒù¸¾¶¼¸øÎÒ·ÅÖğ!;Qu'on bannisse les deux adultères?;Verbannt beide Ehebrecher!;;¡Desterrad al adúltero y a la adúltera!;;;;;;;;;x
 EVTOPTD30081;ÎÒ¸ÄÖ÷ÒâÁË£¬ÎÒ²»»á³Í·£ËûÃÇ.;J'ai chang?d'avis, je vais uniquement punir le courtisan.;Ich habe meine Meinung geändert, ich werde nur den Höfling bestrafen;;He cambiado de idea, solo castigar?al cortesano;;;;;;;;;x
-EVTDESC30085;ÎÒ¿É°®¶øÓÖÄêÇáµÄÆŞ×Ó [Root.Spouse.GetFirstName] ºÃ¼¸´ÎÓÃÎ¯ÍñµÄ·½Ê½ÏòÎÒ±§Ô¹Éú»îµÄÎŞÁÄ. ¹¬Í¢ÀïºÜÎŞÁÄ£¬´òÁÔÒ²ºÜÎŞÁÄ,Ğå»¨Ò²ºÜÎŞÁÄ,ËıµÄÅ®¹ÙÃÇÒ²ºÜÎŞÁÄ.ËıÈÃÎÒ°ïÖúËı°ÑÕâĞ©ÎŞÁÄµÄ¶«Î÷¶¼Í³Í³¸Ï×ß.'.;Ma jeune et charmante épouse, [Root.Spouse.GetFirstName], ne cesse d'exprimer son ennui. La Cour est assommante, la chasse est ennuyeuse, la broderie est sans intérêt, ses dames d'honneur sont barbantes et elle veut que je 'chasse son ennui'.;Meine liebliche junge Gattin [Root.Spouse.GetFirstName] hat schon mehrfach und auf mehrere einfallsreiche Arten ihre Langeweile bekundet. Der Hof ist langweilig, Jagen ist langweilig, Sticken ist langweilig, ihre Kammerzofen sind langweilig, und sie will, dass ich die 'Langeweile wegmache'.;;Mi bonita y joven esposa [Root.Spouse.GetFirstName] ha expresado varias veces su aburrimiento de formas ingeniosas. La corte es aburrida, cazar es aburrido, bordar es aburrido, sus damas de honor son aburridas y quiere que 'haga desaparecer el aburrimiento'.;;;;;;;;;x
+EVTDESC30085;ÎÒ¿É°®¶øÓÖÄêÇáµÄÆŞ×Ó [Root.Spouse.GetFirstName] ºÃ¼¸´ÎÓÃÎ¯ÍñµÄ·½Ê½ÏòÎÒ±§Ô¹Éú»îµÄÎŞÁÄ. ¹¬Í¢ÀïºÜÎŞÁÄ£¬´òÁÔÒ²ºÜÎŞÁÄ,Ğå»¨Ò²ºÜÎŞÁÄ,ËıµÄÅ®¹ÙÃÇÒ²ºÜÎŞÁÄ.ËıÈÃÎÒ°ïÖúËı°ÑÕâĞ©ÎŞÁÄµÄ¶«Î÷¶¼Í³Í³¸Ï×ß.;Ma jeune et charmante épouse, [Root.Spouse.GetFirstName], ne cesse d'exprimer son ennui. La Cour est assommante, la chasse est ennuyeuse, la broderie est sans intérêt, ses dames d'honneur sont barbantes et elle veut que je 'chasse son ennui'.;Meine liebliche junge Gattin [Root.Spouse.GetFirstName] hat schon mehrfach und auf mehrere einfallsreiche Arten ihre Langeweile bekundet. Der Hof ist langweilig, Jagen ist langweilig, Sticken ist langweilig, ihre Kammerzofen sind langweilig, und sie will, dass ich die 'Langeweile wegmache'.;;Mi bonita y joven esposa [Root.Spouse.GetFirstName] ha expresado varias veces su aburrimiento de formas ingeniosas. La corte es aburrida, cazar es aburrido, bordar es aburrido, sus damas de honor son aburridas y quiere que 'haga desaparecer el aburrimiento'.;;;;;;;;;x
 EVTOPTA30085;ºÃ£¬ÈÃÎÒÀ´¶ºÄã¿ªĞÄ¡£;D'accord, je vais vous faire plaisir.;Nun gut, ich werde dir helfen;;Vale, te seguir?la corriente;;;;;;;;;x
 EVTOPTB30085;Ç×°®µÄ£¬ÎÒ»¹ÓĞÎÒµÄÔğÈÎ.;Chérie, j'ai des obligations.;Liebling, ich habe Verpflichtungen, denen ich nachgehen muss;;Cariño, tengo obligaciones que atender;;;;;;;;;x
 EVTTOOLTIP30086;[Root.Spouse.GetFirstName] ºÍÒ»ÃûÍ¢³¼½»ÉÏÁËÅóÓÑ;[Root.Spouse.GetFirstName] se lie d'amiti?avec une personne de la Cour.;[Root.Spouse.GetFirstName] freundet sich mit einem Höfling an;;[Root.Spouse.GetFirstName] se hace amigo de un cortesano;;;;;;;;;x
@@ -2743,7 +2743,7 @@ EVTOPTA30095;ÎÒ¾õµÃÎÒÓ¦¸ÃÕÒ±ğÈË½»ÅóÓÑ;Je crois que je vais me trouver d'autres a
 EVTDESC30096;[From.GetBestName] ºÍÎÒºÜÍ¶Ôµ. ²»ÂÛÎÒÃÇ×öÊ²Ã´ÎÒÃÇ¶¼ÄÜÏíÊÜµ½ÃÀºÃµÄÊ±¹â¶øÇÒÁÄµÃºÜ¾¡ĞË.;Nous nous entendons bien, [From.GetBestName] et moi. Quoi que nous fassions ensemble, nous passons toujours un bon moment et nous pouvons parler pendant des heures sans nous lasser.;Wir passen zusammen, [From.GetBestName] und ich. Egal, was wir zusammen unternehmen, wir amüsieren uns immer prächtig, und wir können uns stundenlang unterhalten, ohne uns gegenseitig zu langweilen.;;[From.GetBestName] y yo nos compenetramos. Siempre lo pasamos bien y podemos hablar durante horas sin aburrirnos.;;;;;;;;;x
 EVTOPTA30096;ÎÒ¾õµÃÎÒ½»µ½ÁËÒ»¸öĞÂÅóÓÑ;Je crois avoir nou?une nouvelle amiti?;Ich glaube, ich habe einen neuen Freund gefunden;;Creo que he hallado un nuevo amigo;;;;;;;;;x
 EVTDESC30100;ÎÒÕÉ·ò [Root.Spouse.GetFirstName] ºÍÎÒÖ®¼äµÄ¸ĞÇéÈÕ½¥ÍÊÉ«. ÎÒÒâÊ¶µ½Õâ¼¸ÖÜÎÒÃÇµÄ´²Ö»ÊÇÓÃÀ´Ë¯¾õµÄµØ·½¶ø²»ÊÇÎÒÃÇÔø¾­ÏíÀÖµÄµØ·½ÁË.;L'attirance qu'il y avait entre mon mari, [Root.Spouse.GetFirstName], et moi a progressivement disparu. J'ai réalis?que cela durait depuis quelque temps lorsque, semaine après semaine, nous n'utilisions plus la chambre ?coucher que pour dormir au lieu de nous amuser comme avant.;Die Anziehung zwischen mir und meinem Gatten [Root.Spouse.GetFirstName] wird langsam schwächer. Ich habe das schon seit einiger Zeit bemerkt, als wir Woche um Woche das Schlafgemach nur zum Schlafen benutzten, anstatt für den ganzen Spa? den wir früher immer darin hatten.;;La atracción entre mi esposo [Root.Spouse.GetFirstName] y yo desaparece lentamente. Lleva ocurriendo desde que usamos el dormitorio para dormir en lugar de divertirnos como solíamos.;;;;;;;;;x
-EVTOPTA30100;ÎÒÏëÈÃ [Root.Spouse.GetFirstName] ºÍÎÒÒ»Æğ¡°´òÒ°Õ½¡±';Je veux entraîner [Root.Spouse.GetFirstName] dans une véritable chevauchée.;Ich will [Root.Spouse.GetFirstName] auf eine 'wilde Fahrt' mitnehmen;;Quiero darle a mi [Root.Spouse.GetFirstName] una 'experiencia salvaje';;;;;;;;;x
+EVTOPTA30100;ÎÒÏëÈÃ [Root.Spouse.GetFirstName] ºÍÎÒÒ»Æğ¡°´òÒ°Õ½¡±;Je veux entraîner [Root.Spouse.GetFirstName] dans une véritable chevauchée.;Ich will [Root.Spouse.GetFirstName] auf eine 'wilde Fahrt' mitnehmen;;Quiero darle a mi [Root.Spouse.GetFirstName] una 'experiencia salvaje';;;;;;;;;x
 EVTTOOLTIPA30101;¡°Ò°Õ½¡±ÈÃ [This.GetFirstName] ¸Ğµ½ºÜ¾ªÑÈ;La chevauchée prend [This.GetFirstName] par surprise.;Die wilde Fahrt überrascht [This.GetFirstName];;La experiencia salvaje coge por sorpresa a [This.GetFirstName];;;;;;;;;x
 EVTOPTD30100;ÒªÈÃ [Root.Spouse.GetFirstName] ÈÏÊ¶µ½µ½µ×Ë­²ÅÊÇ´²ÉÏµÄÖ÷½Ç;Je vais montrer ?[Root.Spouse.GetFirstName] qui commande dans la chambre ?coucher.;Stellt sicher, dass [Root.Spouse.GetFirstName] wei? wer im Schlafgemach die Hosen anhat;;Asegúrate de que [Root.Spouse.GetFirstName] sepa quién manda en la cama;;;;;;;;;x
 EVTTOOLTIPB30101;µ±[Root.GetFirstName]¶ÔËû×öµÄÊ±ºò£¬[Root.Spouse.GetFirstName] ¿ªÊ¼ÆíÇó¿íË¡;[Root.Spouse.GetFirstName] demandera piti?quand [Root.GetFirstName] en aura fini avec lui.;[Root.Spouse.GetFirstName] wird sicherlich um Gnade winseln, wenn [Root.GetFirstName] mit ihm fertig ist;;[Root.Spouse.GetFirstName] suplicar?piedad cuando [Root.GetFirstName] haya terminado con él;;;;;;;;;x
@@ -3179,11 +3179,11 @@ EVTDESC291;ÎÒ¾ö¶¨ÔÚ[From.GetFullName]ÊµĞĞ[From.GetProposedLaw]·¨. ×÷ÎªÎÒµÄ·â³¼Äã
 EVTDESC292;"ÎÒ¾ö¶¨ÔÚ[From.GetFullName]ÊµĞĞ[From.GetProposedLaw]·¨. ÒòÎªÕâÊÂ¹Ø»Ê¼Ò, ËùÒÔ×÷ÎªÒ»ÃûÕıÊ½µÄ[From.GetName]Ñ¡ºî, ËäÈ»Äã»¹²»ÊÇÎÒµÄ·â³¼, ÄãÈÔ¿É¶Ô´Ë½øĞĞ±í¾ö.\n\n[From.Holder.GetTitledName]";J'ai décid?d'instituer la loi '[From.GetProposedLaw]' sur le territoire suivant? [From.GetFullName]. Comme il s'agit d'une loi de la Couronne et que vous comptez parmi les électeurs officiels de [From.GetName], vous pouvez voter, même si vous n'êtes pas mon vassal... du moins pas encore.\n\nVotre [From.Holder.GetTitledName];Ich habe die Einführung des Gesetzes [From.GetProposedLaw] in [From.GetFullName] beschlossen. Da dies ein Krongesetz ist und Ihr ein offizieller Kurfürst von [From.GetName] seid, dürft auch Ihr abstimmen, obwohl Ihr nicht mein Vasall seid ... oder noch nicht.\n\nGezeichnet, [From.Holder.GetTitle];;He decidido instituir la ley [From.GetProposedLaw] en el [From.GetFullName]. Dado que es una ley de la Corona y t?eres un elector formal de [From.GetName], puedes votar aunque no seas vasallo mío... Aún.\n\nTu [From.Holder.GetTitle];;;;;;;;;x
 EVTDESC600; [Root.GetName]±¬·¢ÁËÅÑÂÒ! Å©ÃñÃÇ½Ò¸Í¶øÆğ£¬·´¿¹ÎÒµÄ¡°±©Õş¡±.;Une révolte a éclat?en [Root.GetName]? En colère contre notre règne 'tyrannique', les paysans ont pris les armes.;In [Root.GetName] ist eine Revolte ausgebrochen! Die Bauern sind wütend über meine 'Gewaltherrschaft' und haben daher zu den Waffen gegriffen.;;¡Ha estallado una revuelta en [Root.GetName]! Furiosos por mi 'gobierno opresor', los campesinos han tomado las armas.;;;;;;;;;x
 EVTOPTA600;ËûÃÇÔõÃ´¸ÒÄ±·´!;Comment osent-ils s'opposer ?moi?;Wie können sie es wagen, sich gegen mich zu stellen!;;¿Cómo osan oponerse a m?;;;;;;;;;x
-EVTDESC601; [From.GetName]±¬·¢ÁËÅÑÂÒ!Å©ÃñÃÇ½Ò¸Í¶øÆğ·´¶Ô [From.County.Holder.GetTitledName]µÄ±©Õş. ËûÃÇÏ´½ÙÒ»ÇĞ¡¢ÆÆ»µÒ»ÇĞ£¬µ±È»Ò²°üÀ¨ÎÒµÄÌï²ú...;Une révolte a éclat?en [From.GetName]? En colère contre le règne tyrannique de [From.County.Holder.GetTitledName], les paysans ont pris les armes. Ils détruisent tout sans discernement et risquent donc de s'en prendre ?mes propriétés...;In [Root.GetName] ist eine Revolte ausgebrochen! Die Bauern sind wütend über die Gewaltherrschaft von [From.County.Holder.GetTitledName] und haben daher zu den Waffen gegriffen. Ihre wahllose Zerstörungswut wird leider auch meine Besitztümer treffen ...;;¡Ha estallado una revuelta en [From.GetName]! Furiosos por el gobierno opresor de [From.County.Holder.GetTitledName], los campesinos han tomado las armas. Por desgracia su destrucción indiscriminada también afectar?a mis posesiones...;;;;;;;;;x
+EVTDESC601; [From.GetName]±¬·¢ÁËÅÑÂÒ!Å©ÃñÃÇ½Ò¸Í¶øÆğ·´¶Ô [From.County.Holder.GetTitledName]µÄ±©Õş. ËûÃÇÏ´½ÙÒ»ÇĞ¡¢ÆÆ»µÒ»ÇĞ£¬µ±È»Ò²°üÀ¨ÎÒµÄµØ²ú...;Une révolte a éclat?en [From.GetName]? En colère contre le règne tyrannique de [From.County.Holder.GetTitledName], les paysans ont pris les armes. Ils détruisent tout sans discernement et risquent donc de s'en prendre ?mes propriétés...;In [Root.GetName] ist eine Revolte ausgebrochen! Die Bauern sind wütend über die Gewaltherrschaft von [From.County.Holder.GetTitledName] und haben daher zu den Waffen gegriffen. Ihre wahllose Zerstörungswut wird leider auch meine Besitztümer treffen ...;;¡Ha estallado una revuelta en [From.GetName]! Furiosos por el gobierno opresor de [From.County.Holder.GetTitledName], los campesinos han tomado las armas. Por desgracia su destrucción indiscriminada también afectar?a mis posesiones...;;;;;;;;;x
 EVTOPTA601;Èç¹û²®¾ô¸óÏÂ²»³öÊÖÕòÑ¹£¬ÄÇÃ´ÎÒ¾Í.....;Si le comte n'intervient pas, je le ferai...;Wenn der Graf nicht reagiert, sollte ich besser ...;;Si el conde no actúa, ser?mejor que yo...;;;;;;;;;x
-EVTDESC610;Ïç°ÍÀĞ±©Í½ÃÇÏ´½ÙÁËÎÒÃÇÔÚ[From.GetName]µÄÌï²ú!;Des paysans rebelles ont pris le contrôle d'une de nos propriétés de [From.GetName] et l'ont mise ?sac?;Bauernrebellen haben die Kontrolle über eins unserer Besitztümer in [From.GetName] übernommen und es geplündert!;;¡Los campesinos rebeldes se han apoderado de una posesión nuestra en [From.GetName] y la han saqueado!;;;;;;;;;x
+EVTDESC610;Ïç°ÍÀĞ±©Í½ÃÇÏ´½ÙÁËÎÒÃÇÔÚ[From.GetName]µÄµØ²ú!;Des paysans rebelles ont pris le contrôle d'une de nos propriétés de [From.GetName] et l'ont mise ?sac?;Bauernrebellen haben die Kontrolle über eins unserer Besitztümer in [From.GetName] übernommen und es geplündert!;;¡Los campesinos rebeldes se han apoderado de una posesión nuestra en [From.GetName] y la han saqueado!;;;;;;;;;x
 EVTOPTA610;Ó¦¸ÃµõËÀËûÃÇ!;Qu'ils soient tous pendus?;Sie sollten alle gehängt werden!;;¡Deberían colgarles a todos!;;;;;;;;;x
-EVTDESC615;ÔÚ[From.GetName] µÄÅ©Ãñ±©¶¯ÒÑ±»ÕòÑ¹£¬ÎÒÃÇµÄÌï²úÖÕÓÚÎï¹éÔ­Ö÷ÁË£¡;Les paysans rebelles de [From.GetName] ont ét?dispersés et nous avons repris le contrôle de notre propriété !;Die Bauernrebellen in [From.GetName] haben sich zerstreut und unser Besitztum wurde zurückerobert!;;¡Los campesinos rebeldes de [From.GetName] han sido dispersados y nuestra posesión recuperada!;;;;;;;;;x
+EVTDESC615;ÔÚ[From.GetName] µÄÅ©Ãñ±©¶¯ÒÑ±»ÕòÑ¹£¬ÎÒÃÇµÄµØ²úÖÕÓÚÎï¹éÔ­Ö÷ÁË£¡;Les paysans rebelles de [From.GetName] ont ét?dispersés et nous avons repris le contrôle de notre propriété !;Die Bauernrebellen in [From.GetName] haben sich zerstreut und unser Besitztum wurde zurückerobert!;;¡Los campesinos rebeldes de [From.GetName] han sido dispersados y nuestra posesión recuperada!;;;;;;;;;x
 EVTDESC6082;¾ÉÉË¸´·¢;Une vieille blessure s'aggrave et devient douloureuse.;Eine alte Wunde hat sich verschlimmert und schmerzt;;Una antigua herida es irritante y dolorosa;;;;;;;;;x
 #EVTOPTA6082;May God have mercy on us!;;Gott sei uns gn?dig!;;?Que Dios se apiade de nosotros!;;;;;;;;;x;
 EVTDESC248;ÔÚÕ½¶·ÖĞ£¬ÎÒÃÇµÄ¾üÊÂ¼¼ÇÉÈÕÒæ¾«½ø.;Cette bataille nous a permis de mieux comprendre les affaires militaires.;Während dieser Schlacht hat sich unser Verständnis militärischer Belange verbessert.;;En esta batalla hemos aumentado los conocimientos militares.;;;;;;;;;x
@@ -3365,7 +3365,7 @@ EVTDESC38214;[From.GetFirstName] ÎÊ£º¡°ÎÒºÍÎÒÃÇµÄµĞÈË¼ÈÈ»¶¼ÊÇ¹«½ÌµÄ½ÌÓÑ£¬ÎªÊ²Ã´Î
 EVTOPTA38214;Õ÷ÌÖÒì½ÌÍ½ÄÇÊÇ½Ì»á²Å¸ÉµÄÉµÊÂ.;Combattre les païens est une idiotie de l'Église.;Gegen Heiden kämpfen ist nur dummes Kirchengetue;;Combatir a los paganos es una majadería de la iglesia;;;;;;;;;x
 EVTOPTB38214;ÎÒÏë´òË­¾Í´òË­!;Je combats qui je veux?;Ich kämpfe gegen wen ich will!;;¡Lucho contra quien me da la gana!;;;;;;;;;x
 EVTOPTC38214;ÓĞÊ±£¬¼´Ê¹ÊÇÄãµÄÇ×¸ç¸çÒ²»á±ä³ÉÄãµÄµĞÈË.;Parfois, ton frère peut devenir ton ennemi.;Manchmal kann selbst der eigene Bruder zum Feind werden;;A veces hasta tu hermano puede ser tu enemigo;;;;;;;;;x
-EVTDESC38215;[From.GetFirstName] ÎÊ¡°ÎªÊ²Ã´½Ì»áÄÇÃ´ÓĞÇ®¶øÅ©·òÈ´ÓÖÊÜÇîÓÖ°¤¶ö¡±';[From.GetFirstName] demande? « Pourquoi l'Église est-elle si riche alors que les paysans sont pauvres et meurent de faim? »;[From.GetFirstName] fragt: 'Warum ist die Kirche so reich, wenn die Bauern arm und am Verhungern sind?';;[From.GetFirstName] pregunta: '¿por qu?la iglesia es tan rica y los campesinos tan pobres?';;;;;;;;;x
+EVTDESC38215;[From.GetFirstName] ÎÊ¡°ÎªÊ²Ã´½Ì»áÄÇÃ´ÓĞÇ®¶øÅ©·òÈ´ÓÖÊÜÇîÓÖ°¤¶ö¡±;[From.GetFirstName] demande? « Pourquoi l'Église est-elle si riche alors que les paysans sont pauvres et meurent de faim? »;[From.GetFirstName] fragt: 'Warum ist die Kirche so reich, wenn die Bauern arm und am Verhungern sind?';;[From.GetFirstName] pregunta: '¿por qu?la iglesia es tan rica y los campesinos tan pobres?';;;;;;;;;x
 EVTOPTA38215;Ó¦ÎªÇîÈË²Å¸üÈİÒ×½øÈëÌì¹ú;Parce que pour les pauvres, il y a le Royaume des cieux.;Weil den Armen das Himmelreich gehört;;Por qu?el reino de los cielos es para los pobres;;;;;;;;;x
 EVTOPTB38215;ÎªÊ²Ã´²»°ÑÄãµÄÇ®·Ö¸øËûÃÇÒ»µãÄØ;Que dirais-tu de partager ce que tu as?;Dann gibt ihnen doch was von dir ab!;;¿Entonces qu?te parece compartir lo que tienes?;;;;;;;;;x
 EVTDESC38216;[From.GetFirstName] ÎÊ 'ÎªÊ²Ã´ÄãÒª·Å×ßÄÇ¸öÍµÁÔµÄÅ©·ò';[From.GetFirstName] demande? 'Pourquoi avez-vous laiss?partir ce paysan accus?de braconnage?';[From.GetFirstName] fragt: 'Warum hast du den Bauern gehen lassen, der angeblich gewildert hat?';;[From.GetFirstName] pregunta: '¿por qu?dejas libre a ese campesino acusado de caza furtiva?';;;;;;;;;x
@@ -3635,7 +3635,7 @@ EVTOPTB66000;ÎÒÓ¦µ±ÓµÓĞÒ»¸öÍ·ÏÎ£¡;Je mérite un titre?;Ich verdiene einen Titel!;
 EVTTOOLTIP66010;½«»á¿¼ÂÇÄã¶ÔÍ·ÏÎµÄĞû³ÆÈ¨.;va examiner votre requête.;Eure Forderungen nach einem Anspruch werden geprüft.;;Estudiar?tu petición de una reclamación.;;;;;;;;;x
 EVTTOOLTIP66020;»áÆÀ¹ÀÄã¶ÔÍ·ÏÎµÄË÷È¡.;va évaluer la nécessit?pour vous d'obtenir un titre.;Euer Bedarf an einem Titel wird abgewägt.;;Considerar?tu necesidad de un título.;;;;;;;;;x
 EVTDESC66010;[From.GetBestName]ÒªÇóÓµÓĞ¼Ì³ĞÎÒÃÇÒ»ÏîÍ·ÏÎµÄ×Ê¸ñ£¬ÒòÎª[From.GetSheHe]ÈÏÎª[From.GetSheHe]ÔçÏÈ±»¸³ÓèÁË¼Ì³ĞÎÒÃÇÒ»²¿·ÖÒÅ²úµÄ×Ê¸ñ.;[From.GetBestName] revendique un de nos titres, car [From.GetSheHe] pense qu'une partie de notre héritage lui revient.;[From.GetBestName] bittet um einen Anspruch auf einen unserer Titel, da [From.GetSheHe] der Meinung ist, [From.GetSheHe] hätte ein vorzeitiges Anrecht auf unser Erbe.;;[From.GetBestName] pide una reclamación sobre uno de nuestros títulos, pues se cree con derecho a parte de nuestra herencia.;;;;;;;;;x
-EVTOPTA66010;Grant ³ĞÈÏ[From.GetHerHim]ÓµÓĞºÏ·¨µÄ×Ê¸ñ.;Nous lui accordons ce qui lui revient de droit.;[From.GetHerHim] einen gesetzlichen Anspruch gewähren.;;Concédele una reclamación legal.;;;;;;;;;x
+EVTOPTA66010;´ÍÓè[From.GetHerHim]ºÏ·¨µÄĞû³Æ¡£;Nous lui accordons ce qui lui revient de droit.;[From.GetHerHim] einen gesetzlichen Anspruch gewähren.;;Concédele una reclamación legal.;;;;;;;;;x
 EVTOPTB66010;¾Ü¾øÕâÖÖ¹ı·ÖµÄÒªÇó£¡;Nous refusons cette scandaleuse requête?;Welch unerhörte Forderungen! Ablehnen!;;¡Rechaza tan ofensiva exigencia!;;;;;;;;;x
 EVTDESC66020;[From.GetBestName]ÈÏÎªÆ¾½è×Å[From.GetHerHis]×Ê¸ñÒÔ¼°¶ÔÎÒÃÇÃ»ÓĞ¶ùÅ®µÄµ£ĞÄ£¬[From.GetSheHe]Ó¦¸Ã±»³ĞÈÏÓĞ¼Ì³ĞÎÒÃÇµÄÒ»ÏîÍ·ÏÎµÄ×Ê¸ñ.;[From.GetBestName] pense que nous devrions lui accorder un titre pour ses compétences et parce que nous sommes sans enfant.;[From.GetBestName] glaubt, dass [From.GetSheHe] von uns einen Titel gewährt bekommen sollte. Die Gründe: [From.GetHerHis] Kompetenz und unsere Kinderlosigkeit.;;[From.GetBestName] cree que deberíamos concederle un título por su competencia y por que no tenemos hijos.;;;;;;;;;x
 EVTOPTA66020;ÊÚÓè[From.GetHerHim]Ò»¸öÍ·ÏÎ£¡;Nous lui accordons un titre?;[From.GetHerHim] einen Titel gewähren.;;¡Concédele un título!;;;;;;;;;x
@@ -3862,8 +3862,8 @@ EVTOPTA65011;...[Root.Spouse.GetFirstName]ÉíÉÏ;... [Root.Spouse.GetFirstName].;.
 EVTTOOLTIPA65012;[Root.GetFirstName]½«[Root.GetHerHis]Å­»ğ·¢Ğ¹ÔÚ[Root.Spouse.GetFirstName]ÉíÉÏ;[Root.GetFirstName] dirige sa colère contre [Root.Spouse.GetFirstName].;[Root.GetFirstName] richtet [Root.GetHerHis] Zorn gegen [Root.Spouse.GetFirstName];;[Root.GetFirstName] dirige su ira contra [Root.Spouse.GetFirstName];;;;;;;;;x
 EVTOPTB65011;...ÎÒµÄ¼Ì³ĞÈË[Root.Heir.GetFirstName]ÉíÉÏ;... mon héritier(ière), [Root.Heir.GetFirstName].;... meinen Erben, [Root.Heir.GetFirstName];;...Mi heredero [Root.Heir.GetFirstName];;;;;;;;;x
 EVTTOOLTIPB65012;[Root.GetFirstName]½«[Root.GetHerHis]Å­»ğ·¢Ğ¹ÔÚ[Root.GetHerHis]¼Ì³ĞÈË[Root.Heir.GetFirstName]ÉíÉÏ;[Root.GetFirstName] dirige sa colère contre son héritier(ière), [Root.Heir.GetFirstName].;[Root.GetFirstName] richtet [Root.GetHerHis] Zorn gegen [Root.GetHerHis] Erben, [Root.Heir.GetFirstName];;[Root.GetFirstName] dirige su ira contra su heredero [Root.Heir.GetFirstName];;;;;;;;;x
-EVTOPTC65011;...ÎÒµÄÒ»Î»¹ËÎÊÉíÉÏ;... un de mes conseillers.;... einen meiner Räte;;... Un consejero;;;;;;;;;x
-EVTTOOLTIPC65012;[Root.GetFirstName]½«[Root.GetHerHis]Å­»ğ·¢Ğ¹ÔÚÒ»Î»¹ËÎÊÉíÉÏ;[Root.GetFirstName] dirige sa colère contre un conseiller.;[Root.GetFirstName] richtet [Root.GetHerHis] Zorn gegen ein Ratsmitglied;;[Root.GetFirstName] dirige su ira contra un consejero;;;;;;;;;x
+EVTOPTC65011;...ÎÒµÄÒ»Î»ÊàÃÜ´ó³¼;... un de mes conseillers.;... einen meiner Räte;;... Un consejero;;;;;;;;;x
+EVTTOOLTIPC65012;[Root.GetFirstName]½«[Root.GetHerHis]Å­»ğ·¢Ğ¹ÔÚÒ»Î»ÊàÃÜ´ó³¼ÉíÉÏ;[Root.GetFirstName] dirige sa colère contre un conseiller.;[Root.GetFirstName] richtet [Root.GetHerHis] Zorn gegen ein Ratsmitglied;;[Root.GetFirstName] dirige su ira contra un consejero;;;;;;;;;x
 EVTOPTD65011;...Ò»Î»´ó³¼ÉíÉÏ;... un courtisan.;... einen Höfling;;... un cortesano;;;;;;;;;x
 EVTTOOLTIPD65012;[Root.GetFirstName]½«[Root.GetHerHis]Å­»ğ·¢Ğ¹ÔÚÒ»Î»´ó³¼ÉíÉÏ;[Root.GetFirstName] dirige sa colère contre un courtisan.;[Root.GetFirstName] richtet [Root.GetHerHis] Zorn gegen einen Höfling;;[Root.GetFirstName] dirige su ira contra un cortesano;;;;;;;;;x
 EVTDESC65012;[From.GetFirstName]ÑÛÖĞµÄÅ­»ğÏÅ»µÁËÎÒ£¬µ±[From.GetSheHe]°Ñ[From.GetHerHis]Å­»ğºÍ¾ÚÉ¥ÇãĞºÔÚÎÒµÄÉíÉÏµÄÊ±ºò£¬ÎÒÃ»ÓĞËµ³öÊÇÊ²Ã´ÕæÕıÔÚÀ§ÈÅ×Å[From.GetHerHim]£¬¶øÊÇ°²¾²µÄÕ¾×ÅÈÃ[From.GetFirstName]°ÑÕâĞ©ÇéĞ÷´Ó[From.GetHerHis]ÉíÌåÀï·¢Ğ¹³öÀ´.;La colère qui se lisait dans les yeux de [From.GetFirstName] m'a fait peur et tandis qu'[From.GetSheHe] déversait sa rage et sa frustration sur moi, au lieu d'affronter le problème qui [From.GetHerHim] préoccupait, j'ai patiemment attendu qu'[From.GetSheHe] se calme.;Der Zorn in [From.GetFirstName]s Augen jagte mir Angst ein, und als [From.GetSheHe] all den aufgestauten Zorn und Frust an mir auslie? anstatt das Problem anzugehen, das [From.GetHerHim] wirklich bedrückte, stand ich ruhig dort und lie?[From.GetFirstName] all diese Gefühle abreagieren.;;La ira en los ojos de [From.GetFirstName] me asust?y cuando la dirigi?contra m?en lugar de contra quien le enfadaba, guard?silencio y dej?que [From.GetFirstName] se desahogara.;;;;;;;;;x
@@ -4091,7 +4091,7 @@ EVTDESC55006;ÎÒµÄÁìÖ÷È°ËµÎÒ½ÓÊÜÕâÖÖ·çÃÒÈ«ÁìµÄÓ¢¹úÑ§Ëµ;M[Root.Liege.GetHerHis] [R
 EVTOPTA55006;Å¶£¬ÎÒËµ£¬ÓĞÈËÈ¥´ò°åÇòÃ´;Une partie de cricket pour tout le monde?;Oh, wie wäre es mit einem Ründchen Cricket?;;¿Alguien quiere jugar al cricket?;;;;;;;;;x
 EVTDESC80000;½ÙÂÓ[Root.GetName]Ê¡·İµÄÅ©Ãñ¾üÕıÔÚ·Ù»Ù½¨ÖşÎï£¡;L'armée de paysans qui ravage le comt?de [Root.GetName] incendie les édifices?;Die Bauernarmee, die gerade die Provinz [Root.GetName] verwüstet, brennt nun auch Gebäude nieder!;;¡El ejército de campesinos que asola la provincia de [Root.GetName] est?quemando edificios!;;;;;;;;;x
 EVTOPTA80000;ÓĞÊ²Ã´¶«Î÷ÊÇËûÃÇ²»»á»Ù»µµÄÃ´;Y a-t-il quelque chose qu'ils comptent épargner?;Gibt es irgendwas, das sie nicht zerstören würden?;;¿Dejarán algo sin destruir?;;;;;;;;;x
-EVTOPTB80000;»µÏûÏ¢£¬µ«ÊÇÎÒºÜ¸ßĞËµÃÖª±»»Ù»µµÄ²»ÊÇÎÒµÄ²Æ²ú...;Mauvaise nouvelle, mais heureusement mes propriétés ne sont pas concernées...;Schlechte Nachrichten, aber das betrifft meine Besitztümer nicht ....;;Malas noticias, pero me alegro de que no le pasara a mis posesiones...;;;;;;;;;x
+EVTOPTB80000;»µÏûÏ¢£¬µ«ÊÇÎÒºÜ¸ßĞËµÃÖª±»»Ù»µµÄ²»ÊÇÎÒµÄµØ²ú...;Mauvaise nouvelle, mais heureusement mes propriétés ne sont pas concernées...;Schlechte Nachrichten, aber das betrifft meine Besitztümer nicht ....;;Malas noticias, pero me alegro de que no le pasara a mis posesiones...;;;;;;;;;x
 EVTDESC80001;ÕıÔÚËÁÅ°[From.GetName]Ê¡·İµÄÅ©Ãñ¾üÉÕ»ÙÁËÎÒµÄ½¨Öş£¡;L'armée de paysans qui ravage le comt?de [From.GetName] incendie mes édifices?;Die Bauernarmee, die gerade die Provinz von [From.GetName] verwüstet, brennt nun auch Gebäude nieder!;;¡El ejército de campesinos que asola la provincia de [From.GetName] est?quemando edificios!;;;;;;;;;x
 EVTDESC80005;ÎÒÔÚ[Root.Location.GetName]±»Å©ÃñÅÑ¾ü¹¥»÷£¡;Les paysans rebelles de [Root.Location.GetName] s'en sont pris ?moi?;Die Bauernrebellen haben mich in [Root.Location.GetName] angegriffen!;;¡Los campesinos rebeldes me han atacado en [Root.Location.GetName]!;;;;;;;;;x
 EVTOPTA80005;ËûÃÇÉ±ËÀÁËÎÒ£¡;Ils m'ont tué[Root.GetNoneE]?!;Sie haben mich getötet?!;;¿Me han matado?;;;;;;;;;x
@@ -4365,7 +4365,7 @@ EVTOPTB72008;ÈÃÎÒ¶ù×ÓÈ¥;J'en charge mon fils.;Meinem Sohn gebührt diese Aufgabe;
 EVTOPTC72008;ÎÒ½«×Ô¼ºÈ¥ÁÔÈ¡;Je chasserai moi-même les sangliers.;Ich werde die Wildschweine selbst erlegen;;Yo mismo cazar?los jabalíes;;;;;;;;;x
 EVTOPTD72008;Ç¿ÆÈÅ©ÃñÁÔÉ±;J'ordonne aux paysans de s'en charger.;Die Bauern zur Jagd zwingen;;Obliga a cazar a los campesinos;;;;;;;;;x
 EVTDESC72010;Ñç»áµÄ³ï±¸¹¤×÷»ù±¾Íê³É,ÏÖÔÚÖ»ĞèÒª·¢³öÇëÌûÁË£¡;Les préparatifs du banquet touchent ?leur fin et il ne me reste plus qu'?envoyer les invitations?;Die meisten Vorbereitungen für das Gelage sind abgeschlossen. Jetzt muss ich nur noch die Einladungen verschicken!;;¡Ya están terminados la mayoría de los preparativos, ahora solo tengo que enviar las invitaciones!;;;;;;;;;x
-EVTOPTA72010;»¶Ó­´ó¼ÒµÄµ½À´...';Par la présente, je vous invite ?..;Hiermit lade ich Euch ein zum ...';;'Por la presente te invito...';;;;;;;;;x
+EVTOPTA72010;»¶Ó­´ó¼ÒµÄµ½À´...;Par la présente, je vous invite ?..;Hiermit lade ich Euch ein zum ...';;'Por la presente te invito...';;;;;;;;;x
 EVTTOOLTIP72011;½ÓÊÜ [Root.GetTitledFirstName]µÄÑç»áÒªÇóÂğ;a reçu une invitation pour le banquet de [Root.GetTitledFirstName].;wird zum Gelage von [Root.GetTitledFirstName] eingeladen;;es invitado a la fiesta de [Root.GetTitledFirstName];;;;;;;;;x
 EVTDESC72011;Ç×°®µÄ [Root.GetBestName], ÎÒÔÚ´ËÑûÇëÄú²Î¼ÓÔÚ [From.Location.GetName]µÄÑç»á. Õæ³ÏµÄÏ£ÍûÄúÄÜ²Î¼ÓÑç»á£¬ÎÒÔÚ´ËÆÚ´ıÄúµÄ¹âÁÙ\n\n[From.GetTitledFirstName];Ch[Root.GetBoyGirl] [Root.GetBestName],\n Par la présente, je vous invite au grand banquet organis??[From.Location.GetName]. Votre présence y serait grandement appréciée.\n\n[From.GetTitledFirstName];Oh [Root.GetBestName], Hiermit lade ich Euch zum großen Gelage in [From.Location.GetName] ein. Eure Gegenwart würde sehr begrüßt werden. Ich freue mich auf Euer Kommen.\n\n[From.GetTitledFirstName];;Querido [Root.GetBestName], por la presente te invito a la gran fiesta de [From.Location.GetName]. Me encantaría que asistieras.\n\n[From.GetTitledFirstName];;;;;;;;;x
 EVTOPTA72011;ÎÒ½«»á²Î¼ÓÕâ´ÎÑç»á;J'irai au banquet.;Ich werde zum Gelage reisen;;Ir?a la fiesta;;;;;;;;;x
@@ -5226,7 +5226,7 @@ INTERACTION_REQUIRES_RECIPIENT_IS_ADULT;§Y[Recipient.GetTitledFirstName]§!±ØĞë³É
 INTERACTION_REQUIRES_RECIPIENT_IS_NOT_ABROAD;§Y[Recipient.GetTitledFirstName]§!²»ÊÇÔÚ¹úÍâ;§Y[Recipient.GetTitledFirstName]? n'est pas ?une autre Cour;§Y[Recipient.GetTitledFirstName]? ist nicht außer Landes;;§Y[Recipient.GetTitledFirstName]? no est?en el extranjero;;;;;;;;;x
 INTERACTION_NO_HOSTILE_ACTIONS_VS_REGENT;²»ÄÜ²ÉÈ¡µĞ¶ÔĞĞ¶¯¶Ô¿¹ÄãµÄÉãÕş;Impossible de prendre des mesures hostiles contre votre régent;Keine feindlichen Aktionen gegen Euren Regenten möglich;;No puedes emprender acciones hostiles contra tu regente;;;;;;;;;x
 INTERACTION_NOT_FIGHTING_WAR_TOGETHER;§Y[Actor.GetTitledFirstName]§!Óë§Y[Recipient.GetTitledFirstName]§!²»ÄÜÊÇÁíÒ»³¡Õ½ÕùÖĞµÄÃËÓÑ;§Y[Actor.GetTitledFirstName]? et §Y[Recipient.GetTitledFirstName]? ne peuvent pas être alliés dans une autre guerre;§Y[Actor.GetTitledFirstName]? und §Y[Recipient.GetTitledFirstName]? können in einem weiteren Krieg verbündet sein;;§Y[Actor.GetTitledFirstName]? y §Y[Recipient.GetTitledFirstName]? no pueden aliarse en otra guerra;;;;;;;;;x
-INTERACTION_WRONG_GOV_TYPE;§Y[Recipient.GetTitledFirstName]§!±ØĞëÄÜ¹»ÖÎÀíÕâÖÖÀàĞÍµÄÍÁµØ;§Y[Recipient.GetTitledFirstName]? doit être capable de gouverner ce type de propriét?§Y[Recipient.GetTitledFirstName]? muss in der Lage sein, diesen Besitztumstyp zu regieren;;§Y[Recipient.GetTitledFirstName]? debe ser capaz de gobernar este tipo de propiedad.;;;;;;;;;x
+INTERACTION_WRONG_GOV_TYPE;§Y[Recipient.GetTitledFirstName]§!±ØĞëÄÜ¹»ÖÎÀíÕâÖÖÀàĞÍµÄµØ²ú;§Y[Recipient.GetTitledFirstName]? doit être capable de gouverner ce type de propriét?§Y[Recipient.GetTitledFirstName]? muss in der Lage sein, diesen Besitztumstyp zu regieren;;§Y[Recipient.GetTitledFirstName]? debe ser capaz de gobernar este tipo de propiedad.;;;;;;;;;x
 INTERACTION_CANNOT_DISQUALIFY_HEIR;²»ÄÜÍ¨¹ı¸ø[Recipient.GetObjectPronoun]Ò»¸ö$TITLE$À´°ş¶áÆä¼Ì³ĞÈ¨;Impossible de déshériter votre héritier en lui donnant le titre de $TITLE$;Ihr könnt Euren Nachfolger nicht enterben, indem Ihr [Recipient.GetObjectPronoun] zum $TITLE$ macht;;No puedes desheredar a tu sucesor nombrándolo $TITLE$;;;;;;;;;x
 INTERACTION_CANNOT_BE_GRANTED_TITLE;§Y[Recipient.GetTitledFirstName]§!¿ÉÒÔ¸ù¾İÄ¿Ç°µÄ¼Ì³Ğ·¨´ÍÓèÍÁµØ;§Y[Recipient.GetTitledFirstName]? ne peut pas se voir accorder de terres dans le cadre des lois de succession en vigueur;§Y[Recipient.GetTitledFirstName]? kann unter dem aktuellen Nachfolgerecht Land gewährt werden;;§Y[Recipient.GetTitledFirstName]? puede recibir tierras bajo las leyes de sucesión vigentes;;;;;;;;;x
 INTERACTION_NO_WAR_ON_SPOUSE;²»ÄÜ¶ÔÄãµÄÅäÅ¼ĞûÕ½;Impossible de déclarer la guerre ?la personne avec laquelle vous avez contract?un mariage;Man kann nicht dem eigenen Ehepartner den Krieg erklären;;No puedes declarar la guerra a tu cónyuge;;;;;;;;;x
@@ -6167,7 +6167,7 @@ b_kronoberg;¿ËÂ³Å¬±´Àï;Kronoberg;Kronoberg;;Kronoberg;;;;;;;;;x
 b_jonkoping;ÑÓÑ©Æ½;Jönköping;Jönköping;;Jönköping;;;;;;;;;x
 b_vaxjo;Î¬¿ËÑ©;Växj?Växj?;Växj?;;;;;;;;x
 b_vimmerby;Î¬Ä¬±È;Vimmerby;Vimmerby;;Vimmerby;;;;;;;;;x
-b_eksjo;°ËÉá;Eksj?Eksj?;Eksj?;;;;;;;;x
+b_eksjo;°£¿ËÉá;Eksj?Eksj?;Eksj?;;;;;;;;x
 b_hagelsrum;¹ş¸ñ¶ûË¹ÁÖ;Hagelsrum;Hagelsrum;;Hagelsrum;;;;;;;;;x
 b_vetlanda;Î¤ÌØÀ¼´ï;Vetlanda;Vetlanda;;Vetlanda;;;;;;;;;x
 e_rebels;ÅÑ¾ü;Rebelles;Rebellen;;Rebeldes;;;;;;;;;x
@@ -6261,7 +6261,7 @@ d_nikaea;ÄáÎ÷ÑÇ;Nicée;Nikäa;;Nicea;;;;;;;;;x
 c_nikaea_adj;ÄáÎ÷ÑÇ;nicéenne;Nikäer;;Niceno;;;;;;;;;x
 b_nikaea;ÄáÎ÷ÑÇ;Nicée;Nikäa;;Nicea;;;;;;;;;x
 b_kios;¼ª°ÂË¹;Kios;Kios;;Kíos;;;;;;;;;x
-b_optimatum;ºÃÈË³Ç;Optimatum;Optimatum;;Optimatum;;;;;;;;;x
+b_optimatum;×îÇ¿¾üÕò;Optimatum;Optimatum;;Optimatum;;;;;;;;;x
 b_petobriga;ÅÉÌØ²¼Àï¸ñ;Petobriga;Petobriga;;Petobriga;;;;;;;;;x
 b_kotyaion;¿ÆÌ©ÑÏ;Kotyaion;Kotyaion;;Kotyaion;;;;;;;;;x
 b_palaeokastron;ÆÕÀ³Å·¿¨Ë¹ÌØÀÊ;Palaeokastron;Palaeokastron;;Palaeokastron;;;;;;;;;x
@@ -6302,7 +6302,7 @@ b_pessinus;ÅÉÏ£ÅµË¹;Pessinonte;Pessinus;;Pesinus;;;;;;;;;x
 b_kotiaion;¿ÆÌ©ÑÓ;Kütahya;Kotiaion;;Kotiaion;;;;;;;;;x
 b_orkistos;Å·»ùË¹Í¼Ë¹;Orkistos;Orkistos;;Orkistos;;;;;;;;;x
 b_polybotos;²¨Àû²¨Í¼Ë¹;Polybotos;Polybotos;;Polybotus;;;;;;;;;x
-b_iustinianopolis;ÁúÄÁÇø;Iustinianopolis;Iustinianopolis;;Iustinianopolis;;;;;;;;;x
+b_iustinianopolis;ÓÅÊ¿¶¡Äá²¨ÀûË¹;Iustinianopolis;Iustinianopolis;;Iustinianopolis;;;;;;;;;x
 b_carura;¼ÓÂ¬À­;Carura;Carura;;Carura;;;;;;;;;x
 b_germia;ÈÕ¶ûÃ×ÑÇ;Germia;Germia;;Germia;;;;;;;;;x
 c_ikonion_adj;ÒÁ¿ÆÄá°²;ikonionienne;Ikonioner;;Ikonianés;;;;;;;;;x
@@ -6439,7 +6439,7 @@ b_skalothe;Ë¹¿ÆÂåÌØ;Skalothe;Skalothe;;Skalothe;;;;;;;;;x
 b_berat;ÅàÀ­ÌØ;Berat;Berat;;Berat;;;;;;;;;x
 b_kypsela;»ùÆÕÉªÀ­;Kypsela;Kypsela;;Kypsela;;;;;;;;;x
 b_demotika;µÂÄªÌá¿¨;Demotika;Demotika;;Demotika;;;;;;;;;x
-b_ainos;°®³Ç;Aïnos;Ainos;;Ainos;;;;;;;;;x
+b_ainos;°®Å¬Ë¹;Aïnos;Ainos;;Ainos;;;;;;;;;x
 c_philippopolis_adj;·ÆÀûÆÕ²¨ÀûË¹;philippopolitaine;Philippopolisch;;Philippopolitano;;;;;;;;;x
 b_philippopolis;·ÆÀûÆÕ²¨ÀûË¹;Philippopolis;Philippopolis;;Philippópolis;;;;;;;;;x
 b_xantheia;É£µÂÑÅ;Xanthi;Xantheia;;Xantheia;;;;;;;;;x
@@ -6560,9 +6560,9 @@ c_atheniai_adj;ÑÅµä;athénienne;Athenischer;;Ateniense;;;;;;;;;x
 b_athens;ÑÅµä;Athènes;Athen;;Atenas;;;;;;;;;x
 b_piraeaus;Æ¤À­ÓÈË¹;Le Pirée;Piräus;;Piraeaus;;;;;;;;;x
 b_megara;Âó¼ÓÀ­;Mégare;Megara;;Megara;;;;;;;;;x
-b_soula;Áé³Ç;Soula;Soula;;Soula;;;;;;;;;x
+b_soula;Ş´À­;Soula;Soula;;Soula;;;;;;;;;x
 b_daphni;´ï·òÄá;Daphni;Daphni;;Daphni;;;;;;;;;x
-b_karydi;¼á¹û³Ç;Karydi;Karydi;;Karydi;;;;;;;;;x
+b_karydi;ºËÌÒ³Ç;Karydi;Karydi;;Karydi;;;;;;;;;x
 b_salamis;ÈøÀ­Ã×Ë¹;Salamine;Salamis;;Salamis;;;;;;;;;x
 b_marathon;ÂíÀ­ËÉ;Marathon;Marathon;;Marathon;;;;;;;;;x
 d_achaia;ÑÇ¸ÃÑÇ;Achaïe;Achaia;;Acaya;;;;;;;;;x
@@ -6589,10 +6589,10 @@ c_methone_adj;Ä«ÍĞÄù;méthonienne;Methonischer;;Metoniano;;;;;;;;;x
 b_modon;Äª¶Ù;Modon;Modon;;Modon;;;;;;;;;x
 b_kiparissia;»ùÅÁÀûÎ÷ÑÇ;Kiparissia;Kiparissia;;Kiparissia;;;;;;;;;x
 b_kalamata;¿¨À­ÂíËş;Kalamata;Kalamata;;Kalamata;;;;;;;;;x
-b_coron;ÎÚÑ»³Ç;Coron;Coron;;Coron;;;;;;;;;x
+b_coron;¿ÆÂŞÄá;Coron;Coron;;Coron;;;;;;;;;x
 b_karytaina;¿¨ÀûµäÄÉ;Karytaina;Karytaina;;Karytaina;;;;;;;;;x
 b_gritzena;¸ñÀïÔòÄÉ;Gritzena;Gritzena;;Gritzena;;;;;;;;;x
-b_pilos;Ã±³Ç;Pylos;Pilos;;Pilos;;;;;;;;;x
+b_pilos;Æ¤ÂåË¹;Pylos;Pilos;;Pilos;;;;;;;;;x
 b_androusa;°²µÂÂ³Èø;Androusa;Androusa;;Androusa;;;;;;;;;x
 c_monemvasia_adj;ÄªÄÎÄ·ÍßÏÄ;malvoisine;Monemvasischer;;Monenvasio;;;;;;;;;x
 b_monemvasia;ÄªÄÎÄ·ÍßÏÄ;Malvoisie;Monemvasia;;Monemvasia;;;;;;;;;x
@@ -7105,8 +7105,8 @@ b_strehla;Ê©ÌØÀ×À­;Strehla;Strehla;;Strehla;;;;;;;;;x
 b_rabenau;À­²®è§;Rabenau;Rabenau;;Rabenau;;;;;;;;;x
 b_wettin;Î¤Í¢¸ù;Wettin;Wettin;;Wettin;;;;;;;;;x
 b_radeburg;À­µÂ±¤;Radeburg;Radeburg;;Radeburgo;;;;;;;;;x
-c_weimar_adj;ÍşÂê;weimarienne;Weimarer;;Weimarés;;;;;;;;;x
-b_weimar;ÍşÂê;Weimar;Weimar;;Weimar;;;;;;;;;x
+c_weimar_adj;ÎºÂê;weimarienne;Weimarer;;Weimarés;;;;;;;;;x
+b_weimar;ÎºÂê;Weimar;Weimar;;Weimar;;;;;;;;;x
 b_jena;Ò®ÄÃ;Iéna;Jena;;Jena;;;;;;;;;x
 b_walkenried;Íß¶û¿ÏÀïµÂ;Walkenried;Walkenried;;Walkenried;;;;;;;;;x
 b_nordhausen;ÅµµÂºÀÉ­;Nordhausen;Nordhausen;;Nordhausen;;;;;;;;;x
@@ -7139,7 +7139,7 @@ b_erfurt;°£¶û¸£ÌØ;Erfurt;Erfurt;;Érfurt;;;;;;;;;x
 b_muhlhausen;Ã×Â¬Ë¹;Mulhausen;Mühlhausen;;Mulhausen;;;;;;;;;x
 b_arnstadt;°¢¶÷Ê©ËşÌØ;Arnstadt;Arnstadt;;Arnstadt;;;;;;;;;x
 b_eichsfeld;°¬Ï£Ë¹·Ñ¶ûµÂ;Eichsfeld;Eichsfeld;;Eichsfeld;;;;;;;;;x
-b_reuss;ÂŞÒÁË¹*;Reuss;Reuss;;Reuss;;;;;;;;;x
+b_reuss;ÂŞÒÁË¹;Reuss;Reuss;;Reuss;;;;;;;;;x
 b_salzungen;Èø¶û´Ï¸ù;Salzungen;Salzungen;;Salzungen;;;;;;;;;x
 b_schmalkalden;Ê©Âí¶û¿¨¶ûµÇ;Schmalkalden;Schmalkalden;;Esmalcalda;;;;;;;;;x
 b_henneberg;ºàÚ«±´¸ñ;Henneberg;Henneberg;;Henneberg;;;;;;;;;x
@@ -7212,7 +7212,7 @@ b_bronckhorst;·¶²¼Â¡¿Ë»ôË¹ÌØ;Bronckhorst;Bronckhorst;;Bronckhorst;;;;;;;;;x
 c_sticht_adj;Ê©µÙÏ£ÌØ;stichtienne;Stichter;;Stichtianés;;;;;;;;;x
 b_woerden;Îä¶ûµÇ;Woerden;Woerden;;Woerden;;;;;;;;;x
 b_utrecht;ÎÚµÂÀÕÖ§;Utrecht;Utrecht;;Utrecht;;;;;;;;;x
-b_dorestad;¶à¶ûË¹ËşµÂ*;Dorestad;Dorestad;;Dorestad;;;;;;;;;x
+b_dorestad;¶à¶ûË¹ËşµÂ;Dorestad;Dorestad;;Dorestad;;;;;;;;;x
 b_gorinchem;»ôÁÖºÕÄ·;Gorinchem;Gorinchem;;Gorinchem;;;;;;;;;x
 b_zeist;Ô×Ë¹ÌØ;Zeist;Zeist;;Zeist;;;;;;;;;x
 b_buren;±ÈÂ×;Buren;Buren;;Buren;;;;;;;;;x
@@ -7273,7 +7273,7 @@ b_bastogne;°ÍË¹ÍĞÄù;Bastogne;Bastogne;;Bastoña;;;;;;;;;x
 b_namur;ÄÇÄ½¶û;Namur;Namur;;Namur;;;;;;;;;x
 b_huy;ĞİÒÁ;Huy;Huy;;Huy;;;;;;;;;x
 b_laroche;À­ÂŞÊ²;Laroche;Laroche;;Laroche;;;;;;;;;x
-b_cine;»ùÖZ*;Cîn?Cîn?;Cîn?;;;;;;;;x
+b_cine;»ùÖZ;Cîn?Cîn?;Cîn?;;;;;;;;x
 b_salm;Èø¶ûÄ·;Salm;Salm;;Salm;;;;;;;;;x
 b_stavelot;Ë¹Ëş¸¥¸ñ;Stavelot;Stavelot;;Stavelot;;;;;;;;;x
 d_lower_lorraine;ÏÂÂåÁÖ;Lotharingie;Niederlothringen;;Baja Lorena;;;;;;;;;x
@@ -7390,8 +7390,8 @@ b_luneville;ÂÀÄÚÎ¬¶û;Lunéville;Lunéville;;Lunéville;;;;;;;;;x
 b_charpeigne;¿µÀ­µÂ;Charpeigne;Charpeigne;;Charpeigne;;;;;;;;;x
 b_mortagnedevosges;æÚÈÕ;Mortagne;Mortagne;;Mortagne;;;;;;;;;x
 b_saintavoid;Ê¥°¢ÎÖ¶ûµÂ;Saint-Avold;Saint-Avoid;;Saint-Avoid;;;;;;;;;x
-c_saintois_adj;É½Í¼Íß;saintoisienne;Saintoiser;;Saintoisiano;;;;;;;;;x
-b_saintois;É½Í¼Íß;Saintois;Saintois;;Saintois;;;;;;;;;x
+c_saintois_adj;É£Í¼Íß;saintoisienne;Saintoiser;;Saintoisiano;;;;;;;;;x
+b_saintois;É£Í¼Íß;Saintois;Saintois;;Saintois;;;;;;;;;x
 b_vaudemont;ÎÖ´úÃÉ;Vaudémont;Vaudemont;;Vaudémont;;;;;;;;;x
 b_brixey;Åí¿ÂÎ÷;Brixey;Brixey;;Bríxey;;;;;;;;;x
 b_sorcystmartin;Ë÷¶ûÎ÷Ê¥Âíµ¤;Sorcy-Saint-Martin;Sorcy-St-Martin;;Sorcy-St-Martin;;;;;;;;;x
@@ -7444,10 +7444,10 @@ d_tirol_adj;µÙÂŞ¶û;tyrolienne;Tiroler;;Tirolesa;;;;;;;;;x
 c_tirol_adj;µÙÂŞ¶û;tyrolienne;Tiroler;;Tirolés;;;;;;;;;x
 b_bregenz;²¼Â¡±´¸ñ;Bregenz;Bregenz;;Bregenz;;;;;;;;;x
 b_landeck;À¼µÂ¿Ë;Landeck;Landeck;;Landeck;;;;;;;;;x
-b_stanton;Ê¥°²¶«*;Sankt Anton;Sankt Anton;;Sankt Anton;;;;;;;;;x
+b_stanton;Ê¥°²¶«;Sankt Anton;Sankt Anton;;Sankt Anton;;;;;;;;;x
 b_dornbirn;¶à¶÷±È¶÷;Dornbirn;Dornbirn;;Dornbirn;;;;;;;;;x
 b_sterzing;Î¬Æ¤Ì©Åµ;Sterzing;Sterzing;;Sterzing;;;;;;;;;x
-b_ried;ÀïµÂ*;Ried;Ried;;Ried;;;;;;;;;x
+b_ried;ÀïµÂ;Ried;Ried;;Ried;;;;;;;;;x
 b_imst;ÒÁÄ·Ë¹ÌØ;Imst;Imst;;Imst;;;;;;;;;x
 b_nenzing;ÄÛÇà;Nenzing;Nenzing;;Nenzing;;;;;;;;;x
 c_trent_adj;ÌØÂ×ÍĞ;trentinne;Trentischer;;Trentino;;;;;;;;;x
@@ -8693,7 +8693,7 @@ b_osa;°ÂÈø;Osa;Osa;;Osa;;;;;;;;;x
 b_chastye;²éË¹µÂ;Chastye;Chastje;;Chastye;;;;;;;;;x
 b_usttuntor;ÎÚË¹¼¾÷²÷°;Oust-Tuntor;Ust-Tuntor;;Ust-Tuntor;;;;;;;;;x
 b_krmayak;¿Ë¶ûÂíÑÇ¿Æ;Kr Mayak;Kr Majak;;Kr Mayak;;;;;;;;;x
-b_pal;°ÍÀûÑÇ»ù';Pal';Pal';;Pal';;;;;;;;;x
+b_pal;°ÍÀû';Pal';Pal';;Pal';;;;;;;;;x
 b_uymuzh;ÎÚÄ¾Ææ;Uymuzh;Uimusch;;Uymuzh;;;;;;;;;x
 b_belyaevka;±ğÑÇ·ò¼Ó;Belyaevka;Beljajewka;;Belyaevka;;;;;;;;;x
 b_pakli;°Í¿ËÁĞ;Pakli;Pakli;;Pakli;;;;;;;;;x
@@ -8730,8 +8730,8 @@ b_daulakan;´ï·òÁĞ¿¨;Däüläkän;Däüläkän;;Däüläkän;;;;;;;;;x
 b_blagovescen;°ÍÀ­¸ñÍşÉª;Blagovešcen;Blagowestschensk;;Blagovešcen;;;;;;;;;x
 b_tuimasy;Í¼ÒÁÂí¼Ã;Touïmazy;Tuimasy;;Tuimasy;;;;;;;;;x
 b_janauyl;ÑÇÄÉÎÚ¶û;Jañauyl;Jañauyl;;Jañauyl;;;;;;;;;x
-b_iq;»ÃÏëÏç;Iq;Iq;;Iq;;;;;;;;;x
-b_yamantaw;Ğ°É½;Iamantaou;Jamantau;;Yamantaw;;;;;;;;;x
+b_iq;Æõ¿Ë;Iq;Iq;;Iq;;;;;;;;;x
+b_yamantaw;ÑÇÂüÌ×;Iamantaou;Jamantau;;Yamantaw;;;;;;;;;x
 c_bashkirs_adj;°ÍÊ²»ù¶û;bashkire;Baschkir;;Bashkirés;;;;;;;;;x
 b_ufa;ÎÚ·¨;Oufa;Ufa;;Ufa;;;;;;;;;x
 b_belebey;±ğÁĞ±ğÒÁ;Belebe?Belebey;;Belebey;;;;;;;;;x
@@ -13687,7 +13687,7 @@ b_hebron;Ï£²¼Â×;Hébron;Hebron;;Hebrón;;;;;;;;;x
 b_bethlehem;²®Àûºã;Bethléem;Bethlehem;;Bethlehem;;;;;;;;;x
 b_deimachar;µÂÂí³à;Deimachar;Deimachar;;Deimachar;;;;;;;;;x
 b_syrbelmont;±´¶ûÃÉÌØ;Belmont;Belmont;;Belmont;;;;;;;;;x
-b_bethgibelin;±´Ë¿Ê¥Óò;Beth Gibelin;Beth Gibelin;;Beth Gibelin;;;;;;;;;x
+b_bethgibelin;±´ÌØ¡¤¼ª±´ÁÖ;Beth Gibelin;Beth Gibelin;;Beth Gibelin;;;;;;;;;x
 b_alsamoa;°¬ÈøÄ¦ÑÇ;Al-Samoa;Al-Samoa;;Al-Samoa;;;;;;;;;x
 b_saintcharlton;Ê¥²é¶û¶Ù;Saint Charlton;St. Charlton;;Saint Charlton;;;;;;;;;x
 b_latrun;À­ÌØÂ×;Latrun;Latrun;;Latrun;;;;;;;;;x
@@ -13722,7 +13722,7 @@ b_sarepta;ÈûÀÕÆ¤ÌØ;Sarepta;Sarepta;;Sarepta;;;;;;;;;x
 b_beitkfeya;±È¿Ë·ÑÑÇ;Beit Kfeya;Beit Kfeya;;Beit Kfeya;;;;;;;;;x
 c_safed_adj;Èû·ÑµÏÑÇ;safediane;Safedischer;;Safediano;;;;;;;;;x
 b_safed;Èû·ÑµÏ;Safed;Safed;;Safed;;;;;;;;;x
-b_banyas;¸´³ğÊ¥Óò;Banias;Banyas;;Banyas;;;;;;;;;x
+b_banyas;ÅËÄáÑÇË¹;Banias;Banyas;;Banyas;;;;;;;;;x
 b_chastelet;²ìË¹ÌØÀÕÌØ;Chastelet;Chastelet;;Chastelet;;;;;;;;;x
 b_toron;¶à¶÷;Toron;Toron;;Toron;;;;;;;;;x
 b_belvoir;±´¶ûÎÖ;Belvoir;Belvoir;;Belvoir;;;;;;;;;x
@@ -15289,7 +15289,7 @@ LEDGER_RELIGION_HEAD_AUTH;È¨Íş;Autorit?Autorität;;Autoridad;;;;;;;;;x
 LEDGER_RELIGION_SIZE;´óĞ¡;Taille;Größe;;Tamaño;;;;;;;;;x
 LEDGER_SETTLEMENT_LEVY;Õ÷ÕÙ±ø;Levées;Wehrpflichtige;;Leva;;;;;;;;;x
 #LEDGER_SETTLEMENT_BUILDING;Building;;Geb?ude;;Construcci¨®n;;;;;;;;;x;
-LEDGER_PROVINCE_SETTLEMENTS;ÁìµØ;Propriétés;Siedlungen;;Asentamientos;;;;;;;;;x
+LEDGER_PROVINCE_SETTLEMENTS;µØ²ú;Propriétés;Siedlungen;;Asentamientos;;;;;;;;;x
 LEDGER_INDSTATE_ARMY;¾ü¶Ó;Armée;Armee;;Ejército;;;;;;;;;x
 LEDGER_WARS_WARSCORE;Õ½Õù·ÖÊı;Score de guerre;Kriegspunktestand;;Punt. de guerra;;;;;;;;;x
 LEDGER_WARS_STARTDATE;¿ªÊ¼ÈÕÆÚ;Date de début;Startdatum;;Fecha de inicio;;;;;;;;;x
@@ -15414,12 +15414,12 @@ TITLE_GAINED_MINOR_SETUP;µÃµ½ÏÂ¼¶Í·ÏÎ;Titre honorifique obtenu;Geringer Titel ge
 TITLE_GAINED_MINOR_LOG;§Y$NEWHOLDER$§!³ÉÎªÁË$JOB_TITLE$.;§Y$NEWHOLDER$? devient $JOB_TITLE$.;§Y$NEWHOLDER$? wurde $JOB_TITLE$.;;§Y$NEWHOLDER$? se ha convertido en $JOB_TITLE$.;;;;;;;;;x
 TITLE_GAINED_MINOR_LETTER;ÎÒÃÇÈÏ¿ÉÄãµÄ¹±Ï×£¬¾ö¶¨ÊÚÓèÄã$JOB_TITLE$.\n\nÄãµÄ$TITLE$;En reconnaissance de vos services, nous avons décid?de vous accorder le titre de $JOB_TITLE$.\n\nVotre $TITLE$;In Anerkennung Eurer Dienste haben wir beschlossen, Euch den Titel $JOB_TITLE$ zu gewähren.\n\nGezeichnet, $TITLE$;;En reconocimiento a tus servicios, hemos decidido concederte el título de $JOB_TITLE$.\n\nTu $TITLE$;;;;;;;;;x
 SIEGEOVER_WIN_SETUP;Î§³ÇÕ½Ê¤Àû;Nous avons remport?un siège;Wir gewannen eine Belagerung;;Hemos ganado un asedio;;;;;;;;;x
-SIEGEOVER_WIN_LOG;ÎÒÃÇÈ¡µÃÁË§Y$SETTLEMENT$§!Î§³ÇÕ½µÄÊ¤Àû£¬³É¹¦´Ó§Y$DEFENDER$§!ÊÖÖĞµÃµ½ÁËÕâ¸öÁìµØ.;Nous avons remport?le siège de §Y$SETTLEMENT$?. Cette propriét?a ét?soustraite ?§Y$DEFENDER$?.;Wir haben die Belagerung von §Y$SETTLEMENT$? gewonnen und §Y$DEFENDER$? die Kontrolle des Besitztums entrissen.;;Hemos ganado el asedio de §Y$SETTLEMENT$?, hemos tomado el control de la propiedad de §Y$DEFENDER$?.;;;;;;;;;x
+SIEGEOVER_WIN_LOG;ÎÒÃÇÈ¡µÃÁË§Y$SETTLEMENT$§!Î§³ÇÕ½µÄÊ¤Àû£¬³É¹¦´Ó§Y$DEFENDER$§!ÊÖÖĞµÃµ½ÁËÕâ¸öµØ²ú.;Nous avons remport?le siège de §Y$SETTLEMENT$?. Cette propriét?a ét?soustraite ?§Y$DEFENDER$?.;Wir haben die Belagerung von §Y$SETTLEMENT$? gewonnen und §Y$DEFENDER$? die Kontrolle des Besitztums entrissen.;;Hemos ganado el asedio de §Y$SETTLEMENT$?, hemos tomado el control de la propiedad de §Y$DEFENDER$?.;;;;;;;;;x
 SIEGEOVER_LOSS_SETUP;Î§³ÇÕ½Ê§°Ü;Nous avons perdu un siège;Wir verloren eine Belagerung;;Hemos perdido un asedio;;;;;;;;;x
-SIEGEOVER_LOSS_LOG;ÎÒÃÇÊäµôÁË§Y$SETTLEMENT$§!µÄÎ§³ÇÕ½£¬Õâ¸öÁìµØ±»§Y$ATTACKER$§!Õ¼ÁìÁË.;Nous avons perdu le siège de §Y$SETTLEMENT$? et céd?le contrôle ?§Y$ATTACKER$?.;Wir haben die Belagerung von §Y$SETTLEMENT$? verloren und die Kontrolle des Besitztums an §Y$ATTACKER$? verloren.;;Hemos perdido el asedio de §Y$SETTLEMENT$?, hemos perdido el control de la propiedad de §Y$ATTACKER$?.;;;;;;;;;x
+SIEGEOVER_LOSS_LOG;ÎÒÃÇÊäµôÁË§Y$SETTLEMENT$§!µÄÎ§³ÇÕ½£¬Õâ¸öµØ²ú±»§Y$ATTACKER$§!Õ¼ÁìÁË.;Nous avons perdu le siège de §Y$SETTLEMENT$? et céd?le contrôle ?§Y$ATTACKER$?.;Wir haben die Belagerung von §Y$SETTLEMENT$? verloren und die Kontrolle des Besitztums an §Y$ATTACKER$? verloren.;;Hemos perdido el asedio de §Y$SETTLEMENT$?, hemos perdido el control de la propiedad de §Y$ATTACKER$?.;;;;;;;;;x
 SIEGEOVER_OTHER_SETUP;£¨µÚÈı·½£©Î§³ÇÕ½½áÊø;Un siège a ét?remport?Eine Belagerung wurde gewonnen;;Un asedio se ha ganado;;;;;;;;;x
-SIEGEOVER_OTHER_LOG;§Y$SETTLEMENT$§!µÄÎ§³ÇÕ½Ê¤ÀûÁË£¬§Y$ATTACKER$§!´Ó§Y$DEFENDER$§!ÊÖÖĞµÃµ½ÁËÕâ¸öÁìµØ.;Le siège de §Y$SETTLEMENT$? a ét?remport? §Y$DEFENDER$? en a céd?le contrôle ?§Y$ATTACKER$?.;Die Belagerung von §Y$SETTLEMENT$? wurde gewonnen. §Y$DEFENDER$? hat die Kontrolle des Besitztums an §Y$ATTACKER$? verloren.;;El asedio de §Y$SETTLEMENT$? se ha ganado, §Y$DEFENDER$? ha perdido el control de la propiedad en manos de §Y$ATTACKER$?.;;;;;;;;;x
-SIEGEOVER_ABANDON_SETUP;·¢ÆğÎ§³Ç;Un siège a ét?abandonn?Eine Belagerung wurde aufgegeben;;Asedio abandonado;;;;;;;;;x
+SIEGEOVER_OTHER_LOG;§Y$SETTLEMENT$§!µÄÎ§³ÇÕ½Ê¤ÀûÁË£¬§Y$ATTACKER$§!´Ó§Y$DEFENDER$§!ÊÖÖĞµÃµ½ÁËÕâ¸öµØ²ú.;Le siège de §Y$SETTLEMENT$? a ét?remport? §Y$DEFENDER$? en a céd?le contrôle ?§Y$ATTACKER$?.;Die Belagerung von §Y$SETTLEMENT$? wurde gewonnen. §Y$DEFENDER$? hat die Kontrolle des Besitztums an §Y$ATTACKER$? verloren.;;El asedio de §Y$SETTLEMENT$? se ha ganado, §Y$DEFENDER$? ha perdido el control de la propiedad en manos de §Y$ATTACKER$?.;;;;;;;;;x
+SIEGEOVER_ABANDON_SETUP;Î§³Ç·ÅÆú;Un siège a ét?abandonn?Eine Belagerung wurde aufgegeben;;Asedio abandonado;;;;;;;;;x
 SIEGEOVER_ABANDON_LOG;¶Ô§Y$SETTLEMENT$§!µÄÎ§³ÇÈ¡ÏûÁË£¬§Y$ATTACKER$§!²»ÔÙ¶Ô§Y$DEFENDER$§!·¢Æğ½ø¹¥.;Le siège de §Y$SETTLEMENT$? a ét?abandonn? §Y$ATTACKER$? n'assiège plus §Y$DEFENDER$?.;Die Belagerung von §Y$SETTLEMENT$? wurde aufgegeben. §Y$ATTACKER$? Belagert §Y$DEFENDER$? nicht mehr.;;El asedio de §Y$SETTLEMENT$? se ha abandonado, §Y$ATTACKER$? ya no asedia a §Y$DEFENDER$?.;;;;;;;;;x
 LANDBATTLEOVER_WIN_SETUP;Â½Õ½Ê¤Àû;Nous avons remport?une bataille terrestre;Wir haben ein Landgefecht gewonnen;;Hemos ganado la batalla por una tierra.;;;;;;;;;x
 LANDBATTLEOVER_WIN_LOG;ÎÒÃÇÔÚ$BATTLE$ÖĞ¶Ô§Y$LOOSER$§!È¡µÃÁËÊ¤Àû.;Nous avons remport?la bataille $BATTLE$ contre §Y$LOOSER$?.;Wir gewannen $BATTLE$ gegen §Y$LOOSER$?.;;Hemos ganado en $BATTLE$ contra §Y$LOOSER$?.;;;;;;;;;x
@@ -15427,7 +15427,7 @@ LANDBATTLEOVER_LOSS_SETUP;Â½Õ½Ê§°Ü;Nous avons perdu une bataille terrestre;Wir h
 LANDBATTLEOVER_LOSS_LOG;ÎÒÃÇÔÚ$BATTLE$ÖĞ¶Ô§Y$WINNER$§!Ê§°ÜÁË.;Nous avons perdu la bataille $BATTLE$ contre §Y$WINNER$?;Wir verloren $BATTLE$ gegen §Y$WINNER$?;;Hemos perdido en $BATTLE$ contra §Y$WINNER$?.;;;;;;;;;x
 LANDBATTLEOVER_OTHER_SETUP;£¨µÚÈı·½£©Â½Õ½½áÊø;Bataille terrestre terminée;Landgefecht vorüber;;Fin de la batalla por la tierra;;;;;;;;;x
 LANDBATTLEOVER_OTHER_LOG;§Y$WINNER$§!ÔÚ$BATTLE$ÖĞ¶Ô§Y$LOOSER$§!È¡µÃÁËÊ¤Àû.;§Y$WINNER$? a remport?la bataille $BATTLE$ contre §Y$LOOSER$?.;§Y$WINNER$? hat $BATTLE$ gegen §Y$LOOSER$? gewonnen.;;§Y$WINNER$? ha ganado en $BATTLE$ contra §Y$LOOSER$?.;;;;;;;;;x
-SETTLEMENT_FINISHED_SETUP;ÁìµØ½¨ÉèÍê³É;Établissement de la propriét?termin?Besitztumsbau abgeschlossen;;Construcción de propiedad terminada;;;;;;;;;x
+SETTLEMENT_FINISHED_SETUP;µØ²ú½¨ÉèÍê³É;Établissement de la propriét?termin?Besitztumsbau abgeschlossen;;Construcción de propiedad terminada;;;;;;;;;x
 SETTLEMENT_FINISHED_LOG;ÔÚ$PROVINCE|Y$µÄ$SETTLEMENTTYPE|Y$½¨ÔìÍê³ÉÁË;Achèvement d'une propriét?($SETTLEMENTTYPE|Y$) sur les terres de $PROVINCE|Y$;Bauabschluss von $PROVINCE|Y$ in $SETTLEMENTTYPE|Y$;;Construcción de $SETTLEMENTTYPE|Y$ en $PROVINCE|Y$ terminada;;;;;;;;;x
 NICKNAME_SETUP;µÃµ½³ÆºÅ;Surnom obtenu;Spitznamen erhalten;;Sobrenombre adquirido;;;;;;;;;x
 NICKNAME_LOG;§Y$CHARACTERNAME$§!±»³Æ×÷$NICKNAME$.;§Y$CHARACTERNAME$? porte désormais comme surnom $NICKNAME$.;§Y$CHARACTERNAME$? ist jetzt als $NICKNAME$ bekannt.;;Ahora se conoce a §Y$CHARACTERNAME$? como $NICKNAME$.;;;;;;;;;x
@@ -15442,7 +15442,7 @@ OTHER_RAISE_OUR_TROOPS_ALL_LETTER;ÎÒÃÇµÄÕ½ÕùĞèÒªÄãÈ«²¿µÄ²¿¶Ó.;Nous demandons l'i
 OTHER_RAISE_OUR_TROOPS_AND_VASSALS_SETUP;ÁìÖ÷µ÷ÓÃÎÒÃÇÈ«²¿µÄÕ÷ÕÙ±ø;Le seigneur lige lève toutes nos troupes;Lehnsherr hebt alle unsere Wehrpflichtigen aus;;El señor recluta todas nuestras levas;;;;;;;;;x
 OTHER_RAISE_OUR_TROOPS_AND_VASSALS_LOG;ÄãµÄÁìÖ÷§Y$LIEGENAME$§!ÕÙ¼¯ÁËÄãºÍÄãµÄ·â³¼ËùÓĞµÄÕ÷ÕÙ±ø;Votre seigneur lige, §Y$LIEGENAME$?, a lev?toutes vos troupes et celles de vos vassaux;Euer Lehnsherr §Y$LIEGENAME$? hat alle Eure Truppen und die Eurer Vasallen ausgehoben;;Tu señor §Y$LIEGENAME$? ha reclutado a todas tus tropas y las de tus vasallos.;;;;;;;;;x
 OTHER_RAISE_OUR_TROOPS_AND_VASSALS_LETTER;ÎÒÃÇµÄÕ½ÕùĞèÒªÄãºÍÄãµÄ·â³¼È«²¿µÄ²¿¶Ó.;Nous demandons l'intervention de toutes vos troupes et de celles de vos vassaux pour participer ?notre effort de guerre.;Wir benötigen für unsere Kriegsbemühungen die Hilfe Eurer sämtlichen Wehrpflichtigen und der Eurer Vasallen.;;Necesitamos la ayuda de todas sus levas y las de sus vasallos para la guerra.;;;;;;;;;x
-COUNCILLOR_LOST_SETUP;Ê§È¥Í¢³¼;Conseiller perdu;Berater verloren;;Título de consejero perdido;;;;;;;;;x
+COUNCILLOR_LOST_SETUP;Ê§È¥ÊàÃÜ´ó³¼;Conseiller perdu;Berater verloren;;Título de consejero perdido;;;;;;;;;x
 COUNCILLOR_LOST_LOG;§Y$COUNCILLOR$§!ÒÑ¾­²»ÔÙÊÇ§Y$OLD_LIEGE$§!µÄ$JOBTITLE$;§Y$COUNCILLOR$? n'est plus $JOBTITLE$ de §Y$OLD_LIEGE$?;§Y$COUNCILLOR$? ist nicht mehr $JOBTITLE$ for §Y$OLD_LIEGE$?;;§Y$COUNCILLOR$? ya no es $JOBTITLE$ de §Y$OLD_LIEGE$?.;;;;;;;;;x
 COUNCILLOR_LOST_LETTER;$COUNCILLOR$ÒÑ¾­²»ÔÙÊÇÎÒµÄ$JOBTITLE$;$COUNCILLOR$ n'est plus notre $JOBTITLE$;$COUNCILLOR$ ist nicht mehr mein $JOBTITLE$;;$COUNCILLOR$ ya no es mi $JOBTITLE$.;;;;;;;;;x
 GUARDIAN_LOST_SETUP;º¢×ÓÊ§È¥¼à»¤ÈË;L'enfant a perdu son tuteur;Kind hat Vormund verloren;;Menor pierde a su tutor;;;;;;;;;x
@@ -15607,7 +15607,7 @@ castle;³Ç±¤;Château;Burg;;Castillo;;;;;;;;;x
 city;³ÇÊĞ;Cit?Stadt;;Villa;;;;;;;;;x
 temple;ĞŞµÀÔº;Temple;Tempel;;Templo;;;;;;;;;x
 trade_post;Ã³Ò×Õ¾;Comptoir;Handelsposten;;Puesto comercial;;;;;;;;;x
-castle_desc;³Ç±¤ÊÇÄĞ¾ôÃÇµÄ·â½¨ÁìµØ.ËüÃÇÓµÓĞºÜ¸ßµÄ·ÀÓùÁ¦²¢ÇÒÌá¹©×îºÃµÄÕ÷ÕÙ±ø.²»¹ıËüÃÇµÄÌá¹©µÄÊÕÈë±È³ÇÊĞºÍĞŞµÀÔº¶¼ÉÙ.;Le château est une propriét?féodale associée ?une baronnie. Il est hautement défendu et fournit les meilleures troupes. Cela étant, ses revenus fiscaux sont moindres que ceux d'une cit?ou d'un temple.;Burgen sind feudale Besitztümer mit angegliederten Baronien. Sie können gut verteidigt werden und ihre Wehrpflichtigen sind von höchster Qualität. Die von Burgen erzielten Steuereinnahmen sind aber niedriger als die von Städten oder Tempeln.;;Los castillos son propiedades feudales asociadas a una baronía. Son fácilmente defendibles y proporcionan levas de la mejor calidad. No obstante, los ingresos por impuestos son menores que en villas o templos.;;;;;;;;;x
+castle_desc;³Ç±¤ÊÇÄĞ¾ôÃÇµÄ·â½¨µØ²ú.ËüÃÇÓµÓĞºÜ¸ßµÄ·ÀÓùÁ¦²¢ÇÒÌá¹©×îºÃµÄÕ÷ÕÙ±ø.²»¹ıËüÃÇµÄÌá¹©µÄÊÕÈë±È³ÇÊĞºÍĞŞµÀÔº¶¼ÉÙ.;Le château est une propriét?féodale associée ?une baronnie. Il est hautement défendu et fournit les meilleures troupes. Cela étant, ses revenus fiscaux sont moindres que ceux d'une cit?ou d'un temple.;Burgen sind feudale Besitztümer mit angegliederten Baronien. Sie können gut verteidigt werden und ihre Wehrpflichtigen sind von höchster Qualität. Die von Burgen erzielten Steuereinnahmen sind aber niedriger als die von Städten oder Tempeln.;;Los castillos son propiedades feudales asociadas a una baronía. Son fácilmente defendibles y proporcionan levas de la mejor calidad. No obstante, los ingresos por impuestos son menores que en villas o templos.;;;;;;;;;x
 city_desc;³ÇÊĞÊÇÓÉÊĞÃñ×é³ÉµÄ¾­¼ÃÖĞĞÄ.³ÇÊĞºÜ¸»ÓĞ²¢Ìá¹©ºÜ¶àµÄË°ÊÕ¡ª¡ªÓÈÆäÊÇÓÉÖĞ²ú½×²ã³öÉíµÄÊĞ³¤Áìµ¼µÄÊ±ºò.²»¹ı³ÇÊĞÌá¹©µÄÕ÷ÕÙ±øÖÊÁ¿ºÜµÍ.;La cit?est un centre commercial domin?par la classe bourgeoise. Elle est riche et fournit d'importants revenus fiscaux, notamment si elle est administrée par un maire. Cela étant, les troupes citadines sont relativement médiocres.;Städte sind von Bürgern dominierte Handelszentren. Die reichen Städte zahlen viel Steuern, besonders wenn sie von einem Bürgermeister verwaltet werden, einem Bürgercharakter. Die von Städten gestellten Wehrpflichtigen sind aber von relativ geringer Qualität.;;Las villas son centros comerciales dominados por la burguesía. Las villas son ricas y proporcionan muchos impuestos, en especial si las administra un personaje burgués: un alcalde. No obstante, las levas de la villa son de calidad relativamente baja.;;;;;;;;;x
 CITY_TAX_MODIFIER;³ÇÊĞË°ÊÕ;Impôt citadin ;Stadtsteuer;;Impuesto villa;;;;;;;;;x
 CASTLE_TAX_MODIFIER;³Ç±¤Ë°ÊÕ;Impôt noble ;Burgsteuer;;Impuesto castillo;;;;;;;;;x
@@ -17163,7 +17163,7 @@ OL_NAVY_MOVE;ÕıÔÚÏò§Y$DEST$§Wº½ĞĞ.;Elle se rend ?§Y$DEST$§W.;Sie hat Segel gen §
 OL_MP_PLAYERLIST;¶àÈËÓÎÏ·µÄÍæ¼Ò;Joueurs;Spieler im Multiplayermodus;;Jugadores en multijugador;;;;;;;;;x
 OL_COURT;¹¬Í¢;Cour;Hof;;Corte;;;;;;;;;x
 LEADING_TROOPS;´ø±ø³öÕ÷ÖĞ;Mène des troupes;Führt Truppen an;;Tropas principales;;;;;;;;;x
-OL_SETTLEMENTITEM;½¨Öş¼Ó³É;Peuplement;Siedlungen;;Asentamientos;;;;;;;;;x
+OL_SETTLEMENTITEM;¾ÛÂä;Peuplement;Siedlungen;;Asentamientos;;;;;;;;;x
 CULTURE;ÎÄ»¯;Culture;Kultur;Kultura;Cultura;Cultura;Kultúra;Kultura;;;;;;x
 RELIGION;×Ú½Ì;Religion;Religion;Religia;Religión;Religione;Oktatás;Víra;;;;;;x
 OL_MANPOWER;ºó±¸±øÔ±;Effectifs;Mannstärke;Si³a ludzka;Soldadesca;Reclutamento;Munkaer?Poèetn?stav obyvatelstva;;;;;;x
@@ -17262,7 +17262,7 @@ EVTDESC7110;½ñÌìÎç²ÍÊ±¼äÎÒµÄ[Root.GetChancellorName]Í»È»´³½øÃÅ.\n\n¡°ÎÒµÄ$HONORI
 EVTOPTA7110;Å¶²»£¡¶àÃ´¿ÉÅÂµÄÏûÏ¢¡­¡­;Oh, non? Quelle horrible nouvelle...;Oh nein! Welch entsetzliche Nachrichten ...;;¡Oh, no! Qu?terrible noticia...;;;;;;;;;x
 EVTDESC7115;½ñÌìÔçÉÏÎÒµÄ[Root.GetChancellorName]Í»È»´³ÁË½øÀ´.\n\n¡°ÎÒµÄ$HONORIFIC$£¬´óÊÂ²»ºÃ£¡$AMBITION_TARGET_NAME$±»·¢ÏÖËÀÔÚÂ¥ÌİÏÂÃæ£¬Ë¤¶ÏÁË²±×Ó£¡ÏÔÈ»$AMBITION_HE_SHE$´ÓÉÏÃæ»¬ÁËÏÂÀ´¡­¡­¡±;Ce matin, notre [Root.GetChancellorName] a fait irruption.\n\n«Votre $HONORIFIC$, j'ai une tragique nouvelle ?vous annoncer? $AMBITION_TARGET_NAME$ a ét?retrouv?en bas d'un escalier, le cou brisé ! De toute évidence, $AMBITION_HE_SHE$ a d?glisser...?Heute Morgen kam der [Root.GetChancellorName] hereingeplatzt.\n\n'Oh $HONORIFIC$, es hat einen schrecklichen Unfall gegeben! $AMBITION_TARGET_NAME$ wurde mit gebrochenem Genick unten im Treppenhaus gefunden! $AMBITION_HE_SHE$ ist offensichtlich ausgerutscht ...';;Esta mañana el [Root.GetChancellorName] ha venido corriendo.\n\n'¡Mi $HONORIFIC$, hemos recibido terribles noticias! ¡Han hallado a $AMBITION_TARGET_NAME$ al pie de la escalera con el cuello roto! Obviamente $AMBITION_HE_SHE$ debe haber resbalado...';;;;;;;;;x
 EVTOPTA7115;ÌìÄÄ£¡Ì«±¯¾çÁË¡­¡­;Oh? C'est une tragédie...;Oh je! Welch Tragödie ...;;¡Ay! Qu?tragedia...;;;;;;;;;x
-EVTDESC7120;½ñÌìÏÂÎçÎÒµÄ[Root.GetChancellorName]Í»È»Á³É«²Ô°×µÄ´³½øÃÅ.\n\n'»µÏûÏ¢£¬ÎÒµÄ$HONORIFIC$£¡$AMBITION_TARGET_NAME$ÔÚÆïÂíÍâ³öµÄÊ±ºò±»Ç¿µÁ¹¥»÷ºÍÇÀ½Ù£¡Ã»ÓĞÒ»µãÁ¯ÃõĞÄ£¬ËûÃÇÉ±ËÀÁË$AMBITION_HIM_HER$²¢°Ñ$AMBITION_HIS_HER$Ê¬ÌåÁôÔÚÂ·±ß¡­¡­¡±;Cet après-midi, notre [Root.GetChancellorName] a fait irruption, il était pâle.\n\n« Mauvaise nouvelle, Votre $HONORIFIC$! En promenade ?cheval, $AMBITION_TARGET_NAME$ a ét?victime de brigands? Impitoyables, ils l'ont attaqu? l'abandonnant au bord de la route... »;Heute Nachmittag kam der [Root.GetChancellorName] durch die Tür geplatzt, wobei er bleich aussah.\n\n'Düstere Neuigkeiten, oh $HONORIFIC$! $AMBITION_TARGET_NAME$ wurde auf einem Ausritt von Briganten angegriffen und beraubt! Gnadenlos machten sie $AMBITION_HIS_HER$ nieder und ließen $AMBITION_HIS_HER$ neben der Straße liegen ...';;Esta tarde el [Root.GetChancellorName] ha irrumpido, pálido.\n\n'¡Aciagas noticias, mi $HONORIFIC$! ¡Unos ladrones atacaron y robaron a $AMBITION_TARGET_NAME$ mientras iba a caballo! Sin piedad alguna, los asesinos dejaron el cadáver junto al camino...';;;;;;;;;x
+EVTDESC7120;½ñÌìÏÂÎçÎÒµÄ[Root.GetChancellorName]Í»È»Á³É«²Ô°×µÄ´³½øÃÅ.\n\n¡°»µÏûÏ¢£¬ÎÒµÄ$HONORIFIC$£¡$AMBITION_TARGET_NAME$ÔÚÆïÂíÍâ³öµÄÊ±ºò±»Ç¿µÁ¹¥»÷ºÍÇÀ½Ù£¡Ã»ÓĞÒ»µãÁ¯ÃõĞÄ£¬ËûÃÇÉ±ËÀÁË$AMBITION_HIM_HER$²¢°Ñ$AMBITION_HIS_HER$Ê¬ÌåÁôÔÚÂ·±ß¡­¡­¡±;Cet après-midi, notre [Root.GetChancellorName] a fait irruption, il était pâle.\n\n« Mauvaise nouvelle, Votre $HONORIFIC$! En promenade ?cheval, $AMBITION_TARGET_NAME$ a ét?victime de brigands? Impitoyables, ils l'ont attaqu? l'abandonnant au bord de la route... »;Heute Nachmittag kam der [Root.GetChancellorName] durch die Tür geplatzt, wobei er bleich aussah.\n\n'Düstere Neuigkeiten, oh $HONORIFIC$! $AMBITION_TARGET_NAME$ wurde auf einem Ausritt von Briganten angegriffen und beraubt! Gnadenlos machten sie $AMBITION_HIS_HER$ nieder und ließen $AMBITION_HIS_HER$ neben der Straße liegen ...';;Esta tarde el [Root.GetChancellorName] ha irrumpido, pálido.\n\n'¡Aciagas noticias, mi $HONORIFIC$! ¡Unos ladrones atacaron y robaron a $AMBITION_TARGET_NAME$ mientras iba a caballo! Sin piedad alguna, los asesinos dejaron el cadáver junto al camino...';;;;;;;;;x
 EVTOPTA7120;Õâ¸öÊÀ½çÔõÃ´ÁË¡­¡­;O?va-t-on...;Was ist nur aus der Welt geworden?;;Qu?le sucede al mundo...;;;;;;;;;x
 EVTDESC7125;½ñÌìÔçÉÏ£¬$AMBITION_TARGET_NAME$»ëÉí½©Ó²µØ±»ÈË·¢ÏÖ.ÏÔÈ»$AMBITION_HE_SHE$×òÍíËÀÓÚ¼²²¡£¬¾¡¹Ü²¢Ã»ÓĞÈËÖªµÀ$AMBITION_HE_SHE$Éú²¡ÁË¡­¡­;Ce matin, $AMBITION_TARGET_NAME$ affichait une plus grande rigidit?qu'?l'accoutumée. Apparemment, $AMBITION_HE_SHE$ aurait ét?emport?e) par la maladie pendant la nuit, mais personne ne savait qu'$AMBITION_HE_SHE$ était malade...;Heute Morgen wurde $AMBITION_TARGET_NAME$ noch ein bisschen steifer als sonst angetroffen. Anscheinend starb $AMBITION_HE_SHE$ des nächstens an einer Krankheit, doch niemand wusste, dass $AMBITION_HE_SHE$ krank war ...;;$AMBITION_TARGET_NAME$ estaba con un poco más de rigidez de la usual esta mañana. Al parecer, $AMBITION_HE_SHE$ muri?de enfermedad durante la noche, aunque nadie sabía lo de la enfermedad de $AMBITION_HE_SHE$...;;;;;;;;;x
 EVTOPTA7125;Å¶£¬ÎÒ»á¶àÃ´µÄË¼Äî$AMBITION_HIM_HER$°¡¡­¡­;Oh, sa présence me manquera...;Oh, wie ich $AMBITION_HIM_HER$ vermissen werde ...;;No ser?fácil de olvidar...;;;;;;;;;x
@@ -17476,7 +17476,7 @@ PROV129;·²¶ûµÇ;Verdun;Verdun;;Verdún;;;;;;;;;x
 PROV130;ÌØÂ³Íß;Troyes;Troyes;;Troyes;;;;;;;;;x
 PROV131;É£Ë¹;Sens;Sens;;Sens;;;;;;;;;x
 PROV132;Å·Èû¶û;Auxerre;Auxerre;;Auxerre;;;;;;;;;x
-PROV133;É½Í¼Íß;Saintois;Saintois;;Saintois;;;;;;;;;x
+PROV133;É£Í¼Íß;Saintois;Saintois;;Saintois;;;;;;;;;x
 PROV134;ËÕµÂ¸ß;Sundgau;Sundgau;;Sundgau;;;;;;;;;x
 PROV135;²ªôŞµÚ;Bourgogne;Bourgogne;;Borgoña;;;;;;;;;x
 PROV136;µÚÈÖ;Dijon;Dijon;;Dijon;;;;;;;;;x
@@ -18414,13 +18414,13 @@ THE_SAGAS;Ó¢ĞÛ´«Ææ;les Sagas;Die Sagen;;Las Sagas;;;;;;;;;x
 THE_GATHAS;åÈÌØ;les Gathas;The Gathas;;Las Gathas;;;;;;;;;x
 TECH_MISSING;È±ÉÙ¿Æ¼¼½ø²½;Progrès technologiques manquants;Fehlender technologischer Fortschritt;;Avance tecnológico pendiente;;;;;;;;;x
 NOT_BUILT;Î´½¨Ôì;Non construit;Nicht gebaut;;Sin construir;;;;;;;;;x
-NO_BUILD_NOT_PLAYER;ÄãÖ»ÄÜÔÚÄã×Ô¼ºµÄÁìµØ½¨Ôì;Vous ne pouvez construire que dans vos propres propriétés;Ihr könnt nur in Euren eigenen Besitztümern bauen;;Solo puedes construir en tus propiedades.;;;;;;;;;x
+NO_BUILD_NOT_PLAYER;ÄãÖ»ÄÜÔÚÄã×Ô¼ºµÄµØ²ú½¨Ôì;Vous ne pouvez construire que dans vos propres propriétés;Ihr könnt nur in Euren eigenen Besitztümern bauen;;Solo puedes construir en tus propiedades.;;;;;;;;;x
 BUILDING_BUILD;½¨Ôì§Y$NAME$§!;Construire §Y$NAME$?;$NAME$ bauen;;Construir '$NAME$';;;;;;;;;x
 BUILDING_UPGRADE;Éı¼¶Îª§Y$NAME$§!;Améliorer en §Y$NAME$?;Upgrade auf $NAME$;;Actualizar a $NAME$;;;;;;;;;x
 MISSING_BUILDINGS;È±·¦ÒÔÏÂÏÈ¾öÌõ¼şµÄ½¨Öş:;Bâtiments prérequis suivants manquants? ;Die folgenden vorausgesetzten Gebäude fehlen:;;No se cumplen los siguientes requisitos de construcción:;;;;;;;;;x
 BASE_TROOP_SIZE;²¹¸øÉÏÏŞ:;Taille des troupes de base? ;Truppenstärkebasis:;;Tamaño de la tropa base:;;;;;;;;;x
 OUTNUMBERED;³¬¹ı;Sous-nombre;In der Unterzahl;;Superado en número;;;;;;;;;x
-WRONG_GOV_TYPE;§W(§RÁìÖ÷´íÎóµÄÍ³ÖÎ·½Ê½§W);§W(§RLe type de gouvernement du détenteur ne correspond pas au type de propriété§!);§W(§RTräger des falschen Siedlungstyps§W);;§W(§REl propietario es de un tipo de asentamiento equivocado§W);;;;;;;;;x
+WRONG_GOV_TYPE;§W(§R³ÖÓĞÕßÍ³ÖÎ´íÎóµÄµØ²úÀàĞÍ§W);§W(§RLe type de gouvernement du détenteur ne correspond pas au type de propriété§!);§W(§RTräger des falschen Siedlungstyps§W);;§W(§REl propietario es de un tipo de asentamiento equivocado§W);;;;;;;;;x
 WRONG_GOV_TYPE_SHORT;´íÎóµÄÕş¸®ÀàĞÍ;Type de gouvernement inadéquat;Falscher Regierungstyp;;Tipo de gobierno equivocado;;;;;;;;;x
 #NOT_ENOUGH_GOLD;(§R*§!)Has §G$COST$§! Gold;;(§R*?)Hat §G$COST$? Gold;;(§R*?)Tiene §G$COST$? en oro;;;;;;;;;x;
 #IS_BUILDING;(§R*§!)Holding is not building anything;;(§R*?)Siedlung erbaut gerade nichts;;(§R*?)El asentamiento no construye nada.;;;;;;;;;x;
@@ -18478,21 +18478,21 @@ TECH_CAVALRY_MELEE_WEAPONS_DESC;ÎªÇáÆï±øºÍÖØÆï±ø¸Ä½ø¾ü±¸;Armement amélior?pour l
 TECH_SIEGE_EQUIPMENT;¹¥³ÇÆ÷Ğµ;Matériel de siège;Belagerungsausrüstung;;Equipamiento de asedio;;;;;;;;;x
 TECH_SIEGE_EQUIPMENT_DESC;ÖÆÔì¸ü´ó¸üºÃµÄ¹¥³ÇÆ÷Ğµ.;Engins de siège plus imposants et plus performants.;Größere und bessere Belagerungsmaschinen.;;Máquinas de asedio más grandes y mejores;;;;;;;;;x
 TECH_CASTLES;¾üÊÂ¹¤³Ì;Fortifications militaires;Befestigungsanlagen;;Fuertes militares;;;;;;;;;x
-TECH_CASTLES_DESC;Îª³Ç±¤½¨Éè¸ü´ó¸üºÃµÄ³ÇÇ½;Fortifications renforcées pour les châteaux.;Größere und bessere Mauern für Burgen.;;Muros para castillos más grandes y mejores.;;;;;;;;;x
+TECH_CASTLES_DESC;Îª³Ç±¤µØ²ú½¨Éè¸ü´ó¸üºÃµÄ³ÇÇ½;Fortifications renforcées pour les châteaux.;Größere und bessere Mauern für Burgen.;;Muros para castillos más grandes y mejores.;;;;;;;;;x
 TECH_TACTICS;Õ½Êõ;Tactiques;Taktiken;;Tácticas;;;;;;;;;x
 TECH_TACTICS_DESC;¸üºÃµÄÕ½Êõ¿ÉÒÔ¼õÉÙÉËÍö.;De meilleures tactiques permettent de limiter les pertes lors des batailles.;Bessere Taktiken führen zu geringeren Verlusten in der Schlacht.;;Mejorar las tácticas ayuda a ganar batallas con menos bajas.;;;;;;;;;x
 TECH_CASTLE_TAXES;Å©Òµ;Progrès agricoles;Ackerbau;;Agricultura;;;;;;;;;x
-TECH_CASTLE_TAXES_DESC;¸Ä½øµÄÅ©Òµ¼¼Êõ¿ÉÒÔÎª³Ç±¤´øÀ´¸ü¶àÊÕÈë;De meilleures méthodes agricoles permettent de d'augmenter les revenus issus du château.;Verbesserte Ackerbaumethoden führen zu größeren Einkommen aus Burgen.;;Los métodos agrícolas mejorados dan más ingresos para los castillos.;;;;;;;;;x
+TECH_CASTLE_TAXES_DESC;¸Ä½øµÄÅ©Òµ¼¼Êõ¿ÉÒÔÎª³Ç±¤µØ²ú´øÀ´¸ü¶àÊÕÈë;De meilleures méthodes agricoles permettent de d'augmenter les revenus issus du château.;Verbesserte Ackerbaumethoden führen zu größeren Einkommen aus Burgen.;;Los métodos agrícolas mejorados dan más ingresos para los castillos.;;;;;;;;;x
 TECH_CITY_TAXES;Ã³Ò×;Commerce;Handelspraktiken;;Prácticas comerciales;;;;;;;;;x
-TECH_CITY_TAXES_DESC;¹ÄÀøÃ³Ò×¿ÉÒÔÈÃ³ÇÊĞ»ñµÃ¸ü¶àË°ÊÕ;Encourager le commerce pour percevoir plus d'impôt des cités.;Ermuntert Handel, um mehr Steuern aus Stadtbesitztümern einzunehmen.;;Favorece el comercio para conseguir más impuestos de las villas.;;;;;;;;;x
+TECH_CITY_TAXES_DESC;¹ÄÀøÃ³Ò×¿ÉÒÔÈÃ³ÇÊĞµØ²ú»ñµÃ¸ü¶àË°ÊÕ;Encourager le commerce pour percevoir plus d'impôt des cités.;Ermuntert Handel, um mehr Steuern aus Stadtbesitztümern einzunehmen.;;Favorece el comercio para conseguir más impuestos de las villas.;;;;;;;;;x
 TECH_TEMPLE_TAXES;½Ì»áË°;Impôt religieux;Kirchensteueren;;Impuestos de iglesia;;;;;;;;;x
 TECH_TEMPLE_TAXES_DESC;ÑĞ¾¿Ñ¹Õ¥µ±µØÄÁÊ¦ÃÇµÄĞÂ·½·¨;Examiner de nouveaux moyens pour percevoir votre d?auprès du clerg?local.;Erkundet neue Möglichkeiten, Euren Anteil aus den örtlichen Kirchenmännern zu quetschen.;;Busca nuevas formas de sonsacar dinero al clero local.;;;;;;;;;x
 TECH_CASTLE_CONSTRUCTION;¾üÊÂÉèÊ©;Infrastructure noble;Burg-Infrastruktur;;Infraestructura de castillo;;;;;;;;;x
 TECH_CASTLE_CONSTRUCTION_DESC;½¨Ôì¸÷ÖÖÑµÁ·³¡ºÍÓªµØÀ´Ìá¸ßÕ÷±øÖÊÁ¿ºÍ¹æÄ£.;Différents terrains d'entraînement et casernes permettent de meilleures levées de troupes et d'impôt dans les châteaux.;Verschiedene Übungsplätze und Kasernen für größere und bessere Wehrpflichtigenkontingente aus Burgen.;;Varios terrenos de entrenamiento y barracones para ampliar y mejorar las levas de los castillos.;;;;;;;;;x
 TECH_CITY_CONSTRUCTION;³ÇÕòÉèÊ©;Infrastructure citadine;Stadt-Infrastruktur;;Infraestructura de villa;;;;;;;;;x
-TECH_CITY_CONSTRUCTION_DESC;¸Ä½ø³ÇÊĞ½¨Öş;Bâtiments des propriétés citadines améliorés.;Verbesserte Gebäude für Stadtbesitztümer.;;Mejores edificios para la villa.;;;;;;;;;x
-TECH_TEMPLE_CONSTRUCTION;ĞŞµÀÔºÉèÊ©;Infrastructure religieuse;Kirchen-Infrastruktur;;Infraestructura de iglesia;;;;;;;;;x
-TECH_TEMPLE_CONSTRUCTION_DESC;¸Ä½øĞŞµÀÔº½¨Öş.;Bâtiments des propriétés religieuses améliorés.;Verbesserte Gebäude für Kirchenbesitztümer;;Mejores edificios para las iglesias;;;;;;;;;x
+TECH_CITY_CONSTRUCTION_DESC;¸Ä½ø³ÇÊĞµØ²úµÄ½¨Öş;Bâtiments des propriétés citadines améliorés.;Verbesserte Gebäude für Stadtbesitztümer.;;Mejores edificios para la villa.;;;;;;;;;x
+TECH_TEMPLE_CONSTRUCTION;½ÌÌÃÉèÊ©;Infrastructure religieuse;Kirchen-Infrastruktur;;Infraestructura de iglesia;;;;;;;;;x
+TECH_TEMPLE_CONSTRUCTION_DESC;¸Ä½ø½ÌÌÃµØ²úµÄ½¨Öş.;Bâtiments des propriétés religieuses améliorés.;Verbesserte Gebäude für Kirchenbesitztümer;;Mejores edificios para las iglesias;;;;;;;;;x
 TECH_FORTIFICATIONS_CONSTRUCTION;·ÀÓù¹¤ÊÂ;Donjons améliorés;Befestigungen;;Torreones mejorados;;;;;;;;;x
 TECH_FORTIFICATIONS_CONSTRUCTION_DESC;¸Ä½ø¾İµãºÍÒªÈû;Donjons et fortifications améliorés.;Verbesserte Bergfriede und Befestigungen.;;Mejores torreones y fuertes.;;;;;;;;;x
 #TECH_CONSTRUCTION;Civic Fortifications;;Zivile Befestigungen;;Fuertes civiles;;;;;;;;;x;
@@ -18561,7 +18561,7 @@ STAT_PRESTIGE_DESC;ÍşÍûÓÃÓÚºâÁ¿ÄãÓĞ¶à³É¹¦£¬¿ÉÒÔ±»ÓÃÓÚÄ³Ğ©ÌØÊâĞĞ¶¯.Äã°çÑİµÄÃ¿¸öÈË
 STAT_PIETY;ò¯³Ï;Piét?Pietät;;Piedad;;;;;;;;;x
 STAT_PIETY_DESC;ò¯³ÏÎª×Ú½ÌÁìĞäºÍÄãÊÖÏÂµÄÉñÖ°ÈËÔ±Ëù¿´ÖØ£¬¿ÉÒÔ±»ÓÃÓÚÏò×Ú½ÌÁìĞäÇéÔ¸.ÏñÍşÍûÒ»Ñù£¬ò¯³ÏÔÚÄã°çÑİµÄÈËÎïËÀºó½«±»¼ÆÈë×Ü·Ö.;La piét?est respectée par le clerg? notamment par son chef et peut être utilisée pour lui faire des requêtes. Comme le prestige, elle est ajoutée ?votre score ?la mort du souverain.;Pietät wird von der Kirche und ganz besonders von Eurem Kirchenoberhaupt geschätzt. Sie kann darauf verwandt werden, Euer Kirchenoberhaupt um einen Gefallen zu bitten. Wie auch das Prestige wird sie beim Tod eines Herrschers den Werten des nächsten hinzugefügt.;;La Piedad es respetada por el clero, en especial, por el líder de tu Iglesia. Puede invertirse para hacer peticiones al líder de tu iglesia. Igual que el Prestigio, se suma a tu puntuación al morir el soberano.;;;;;;;;;x
 STAT_DEMESNE_SIZE;Ö±Ï½ÉÏÏŞ;Taille du domaine;Domänengröße;;Tamaño de la heredad;;;;;;;;;x
-STAT_DEMESNE_SIZE_DESC;Ö±Ï½ÁìµØ°üÀ¨Äã¸öÈËÍ³ÖÎµÄËùÓĞ²®¾ôºÍÄĞ¾ôÁìµØ£¬°üÀ¨³Ç±¤£¬³ÇÊĞºÍĞŞµÀÔº.Èç¹ûÖ±Ï½ÁìµØ¹ı´ó£¬Äã½«ÔâÊÜË°ÊÕ³Í·££¬·â³¼Ò²»á±íÊ¾²»Âú.;Votre domaine regroupe toutes vos propriétés foncières (châteaux, cités et temples). Un domaine trop grand génère des pénalités fiscales et vos vassaux seront plein de ressentiments.;Eure Domäne besteht aus Eurem gesamten persönlichen Besitztümer (Burgen, Städte und Kirchen). Wenn Eure Domäne zu gro?wird, werdet Ihr Strafsteuern erleiden und Eure Vasallen missmutig.;;Tu heredad est?formada por todas tus propiedades hacendadas (castillos, villas e iglesias). Si tu heredad es demasiado grande, empezarás a recibir penalizaciones de impuestos y tus vasallos estarán cada vez más resentidos.;;;;;;;;;x
+STAT_DEMESNE_SIZE_DESC;ÄãµÄÖ±Ï½ÁìµØ°üÀ¨Äã¸öÈËµÄËùÓĞÊµµØµØ²ú£¨³Ç±¤£¬³ÇÊĞºÍ½ÌÌÃ¡££©Èç¹ûÖ±Ï½ÁìµØ¹ı´ó£¬Äã½«ÔâÊÜË°ÊÕ³Í·££¬·â³¼Ò²»á±íÊ¾²»Âú¡£;Votre domaine regroupe toutes vos propriétés foncières (châteaux, cités et temples). Un domaine trop grand génère des pénalités fiscales et vos vassaux seront plein de ressentiments.;Eure Domäne besteht aus Eurem gesamten persönlichen Besitztümer (Burgen, Städte und Kirchen). Wenn Eure Domäne zu gro?wird, werdet Ihr Strafsteuern erleiden und Eure Vasallen missmutig.;;Tu heredad est?formada por todas tus propiedades hacendadas (castillos, villas e iglesias). Si tu heredad es demasiado grande, empezarás a recibir penalizaciones de impuestos y tus vasallos estarán cada vez más resentidos.;;;;;;;;;x
 STAT_REALM_SIZE;ÁìµØ´óĞ¡;Taille du royaume;Reichsgröße;;Tamaño del reino;;;;;;;;;x
 STAT_REALM_SIZE_DESC;ÕâÊÇÔÚÄãºÍÄãËùÓĞ·â³¼¿ØÖÆÏÂµÄµØ²ú£¨³Ç±¤£¬³ÇÊĞÒÔ¼°½ÌÌÃ£©µÄ×ÜÁ¿¡£;Cela correspond au nombre total de propriétés (châteaux, cités et temples) que vous et tous vos vassaux contrôlez.;Dies ist die Gesamtzahl der Besitztümer (Burgen, Städte und Kirchen), die unter Eurer bzw. der Kontrolle all Eurer Vasallen steht.;;Es el número total de propiedades (castillos, villas e iglesias) bajo tu control y el de todos tus vasallos.;;;;;;;;;x
 STAT_WEALTH;²Æ¸»;Richesses;Reichtum;;Riqueza;;;;;;;;;x
@@ -18570,7 +18570,7 @@ COURT_TAB;¹¬Í¢;Cour;Hof;;Corte;;;;;;;;;x
 MAN;ÄĞÈË;homme;Mann;;hombre;;;;;;;;;x
 WOMAN;Å®ÈË;femme;Frau;;mujer;;;;;;;;;x
 REGENT;ÉãÕşÕß;Régent;Regent;;Regente;;;;;;;;;x
-NEW_SETTLEMENT;ĞÂÁìµØ;Nouvelle propriét?Neues Besitztum;;Nueva propiedad;;;;;;;;;x
+NEW_SETTLEMENT;ĞÂµØ²ú;Nouvelle propriét?Neues Besitztum;;Nueva propiedad;;;;;;;;;x
 hold_grand_hunt;¾Ù°ìá÷ÁÔ;Participer ?une grande partie de chasse;Auf eine Hofjagd gehen;;Únete a una gran cacería;;;;;;;;;x
 hold_grand_hunt_desc;ºÍ×îºÃµÄÁÔÈËÒ»Æğá÷ÁÔ!;Participez ?une grande partie de chasse avec les meilleurs chasseurs de nos domaines?;Mit den besten Jägern unserer Domänen auf eine Hofjagd gehen!;;¡Ve a una gran cacería con los mejores cazadores de nuestros dominios!;;;;;;;;;x
 CONFIRMBUILDTITLE;È·ÈÏ½¨Ôì;Confirmer la construction;Bau bestätigen;Potwierd?budow?;Confirmar construcción.;Confermare la costruzione;Építés elfogadása.;Potvrdit stavbu.;;;;;;x
@@ -18582,7 +18582,7 @@ action_sow_dissent_desc;ÅÉÇ²[GetChancellorName]È¥Àë¼äµ±µØÁìÖ÷ºÍ·â³¼µÄ¹ØÏµ.;Deman
 action_squeeze_peasants;Õ÷ÊÕ¸³Ë°;Percevoir l'impôt;Steuern eintreiben;;Recaudar impuestos;;;;;;;;;x
 action_squeeze_peasants_desc;ÅÉÇ²[GetTreasurerName]È¥ÁìµØÕ÷Ë°.;Demander ?votre intendant de percevoir suffisamment d'impôts dans le comt?;Entsendet Euren Verwalter, um effiziente Besteuerung in der Grafschaft sicherzustellen.;;Envía a tu mayordomo para garantizar recaudación de impuestos eficaz en el condado.;;;;;;;;;x
 action_oversee_construction;¼à¶½½¨Éè;Superviser la construction;Bauaufsicht;;Supervisar la construcción;;;;;;;;;x
-action_oversee_construction_desc;ÅÉ³öÄãµÄ[GetTreasurerName]È¥¼ÓËÙ½¨ÖşºÍÁìµØµÄ½¨Éè;Demander ?votre [GetTreasurerName] d'accélérer la construction de bâtiments et de propriétés dans un comt?;Entsendet Euren Verwalter, um den Bau von Gebäuden und Besitztümer in einer Grafschaft zu beschleunigen.;;Envía a tu mayordomo para que acelere la construcción de edificios y propiedades en un condado.;;;;;;;;;x
+action_oversee_construction_desc;ÅÉ³öÄãµÄ[GetTreasurerName]È¥¼ÓËÙ½¨ÖşºÍµØ²úµÄ½¨Éè;Demander ?votre [GetTreasurerName] d'accélérer la construction de bâtiments et de propriétés dans un comt?;Entsendet Euren Verwalter, um den Bau von Gebäuden und Besitztümer in einer Grafschaft zu beschleunigen.;;Envía a tu mayordomo para que acelere la construcción de edificios y propiedades en un condado.;;;;;;;;;x
 action_advance_eco_tech;ÑĞ¾¿¾­¼Ã¿Æ¼¼;Rechercher des progrès économiques;Wirtschaftstechnologie erforschen;;Investigación Económica;;;;;;;;;x
 action_advance_eco_tech_desc;ÅÉÇ²[GetTreasurerName]È¥ÑĞ¾¿¾­¼Ã¿Æ¼¼.;Demander ?votre intendant d'effectuer des recherches en technologies économiques dans un comt?;Lasst Euren Verwalter die Wirtschaftsfortschritte in einer Grafschaft erforschen.;;Haz que tu mayordomo investigue los avances económicos de un condado.;;;;;;;;;x
 action_study_technology;Ñ§Ï°¿Æ¼¼;Étudier une technologie;Technologie studieren;;Estudiar tecnología;;;;;;;;;x
@@ -18601,7 +18601,7 @@ INCOMECONFISCATED;Ã»ÊÕ;Confiscations;Beschlagnahmtes;;Confiscaciones;;;;;;;;;x
 INCOMESALARY;Ğ½Ë®;Salaires;Gehälter;;Salarios;;;;;;;;;x
 DEMESNE_SIZE;Ö±Ï½Êı;Taille du domaine ;Domänengröße;;Tamaño de la heredad;;;;;;;;;x
 MAX_DEMESNE_SIZE;Ö±Ï½ÉÏÏŞ;Taille max du domaine;Max. Domänengröße;;Tamaño máximo de la heredad;;;;;;;;;x
-COUNCILLORS;ÊàÃÜÔº³ÉÔ±;Conseiller;Ratsmitglieder;;Consejeros;;;;;;;;;x
+COUNCILLORS;ÊàÃÜ´ó³¼;Conseiller;Ratsmitglieder;;Consejeros;;;;;;;;;x
 SPOUSE;ÅäÅ¼;Conjoint;Gemahl/in;;Cónyuge;;;;;;;;;x
 HERESY;Òì¶Ë;hérésie;Ketzerei;;Herejía;;;;;;;;;x
 CH_GUARDIAN;ÊÜ$WHERE$½ÌÓı;Éducation par $WHERE$.;Erzogen von $WHERE$.;;Educado por $WHERE$;;;;;;;;;x
@@ -18666,7 +18666,7 @@ CURRENT_LAWS;·¨ÂÉ;Lois en vigueur;Gesetze;;Leyes;;;;;;;;;x
 NOMINATED_BY;Ö¸¶¨Õß;Nomm?e) par;Nominiert von;;Designado por;;;;;;;;;x
 CHAR_IS_BUILDING_A_NEW;§Y[GetBestName]§!ÕıÔÚ½¨Éè§Y$HOLDING$§!.Íê³ÉÈÕÆÚ£º§Y$DATE$§!.;§Y[GetBestName]? établit une nouvelle propriét?de type '§Y$HOLDING$?', ce qui devrait se terminer le §Y$DATE$?.;§Y[GetBestName]? baut ein neues §Y$HOLDING$? Besitztum. Es sollte am §Y$DATE$? fertig sein.;;Nueva construcción de §Y[GetBestName]?: §Y$HOLDING$?. Debe finalizar el §Y$DATE$?.;;;;;;;;;x
 BUILD_SETTLEMENT_TIME_DESC;½¨ÉèĞÂ§Y$HOLDING$§!ĞèÒª§Y$DAYS$§!Ìì.;Notre '§Y$HOLDING$?' prendrait §Y$DAYS$? jours;Ein §Y$HOLDING$? braucht §Y$DAYS$? Tage zum Bau;;§Y$HOLDING$?: su construcción tarda §Y$DAYS$?.;;;;;;;;;x
-BUILD_NEW_SETTLEMENT;¿ªÍØÒ»Æ¬ĞÂÁìµØ;Établir une nouvelle propriét?Neues Besitztum bauen;;Construir una nueva propiedad;;;;;;;;;x
+BUILD_NEW_SETTLEMENT;½¨ÉèÒ»×ùĞÂµØ²ú;Établir une nouvelle propriét?Neues Besitztum bauen;;Construir una nueva propiedad;;;;;;;;;x
 THE_COURT;¹¬Í¢;La Cour;Der Hof;;La corte;;;;;;;;;x
 TH_BECAME;³ÉÎª;Est;Wurde;;Convertirse en;;;;;;;;;x
 feudal_elective;Ñ¡¾Ù¼Ì³Ğ·¨;Monarchie élective;Feudalwahl;;Elección;;;;;;;;;x
@@ -18746,9 +18746,9 @@ MAPMODE_TERRAIN_DESC;Ä¬ÈÏ, µØĞÎ, µØÍ¼ÀàĞÍ.;Mode carte, terrain, par défaut.;Der 
 #MAPMODE_REALM;§YIndependent Realms§!;;§YUnabh?ngige Reiche?;;§YReinos independientes?;;;;;;;;;x;
 #MAPMODE_REALM_DESC;This map mode shows all independent Realms.;;Dieser Kartenmodus zeigt alle unabh?ngigen Reiche.;;Este mapa muestra todos los reinos independientes.;;;;;;;;;x;
 MAPMODE_DOMAIN;§Y·â³¼µØÍ¼§!;§YMon royaume?;§YMein Reich?;;§YMi reino?;;;;;;;;;x
-MAPMODE_DOMAIN_DESC;¸ÃµØÍ¼¸ßÁÁÏÔÊ¾Äã×Ô¼ºµÄÍõ¹ú(ÄãºÍÄãµÄ·â³¼.);Ce mode de carte met en surbrillance votre Royaume (vos possessions et celles de vos vassaux).;Dieser Kartenmodus hebt Euer eigenes Reich hervor (Eure Besitztümer und die Eurer Vasallen.);;Este modo de mapa resalta tu propio reino (tus propiedades y las de tus vasallos).;;;;;;;;;x
+MAPMODE_DOMAIN_DESC;¸ÃµØÍ¼¸ßÁÁÏÔÊ¾Äã×Ô¼ºµÄÁìµØ£¨ÄãºÍÄã·â³¼µÄµØ²ú¡££©;Ce mode de carte met en surbrillance votre Royaume (vos possessions et celles de vos vassaux).;Dieser Kartenmodus hebt Euer eigenes Reich hervor (Eure Besitztümer und die Eurer Vasallen.);;Este modo de mapa resalta tu propio reino (tus propiedades y las de tus vasallos).;;;;;;;;;x
 MAPMODE_DEMESNE;§YÖ±Ï½ÁìµØµØÍ¼§!;§YMon domaine?;§YMeine Domäne?;;§YMi heredad?;;;;;;;;;x
-MAPMODE_DEMESNE_DESC;¸ÃµØÍ¼¸ßÁÁÏÔÊ¾Äã×Ô¼ºµÄÖ±Ï½ÁìµØ(Äã×Ô¼º¿ØÖÆµÄ²®¾ôºÍÄĞ¾ôÁì).;Ce mode de carte met en surbrillance votre domaine (vos propriétés personnelles).;Dieser Kartenmodus hebt Eure eigene Domäne hervor (Eure eigenen Besitztümer).;;Este modo de mapa resalta tu propia heredad (tus propiedades).;;;;;;;;;x
+MAPMODE_DEMESNE_DESC;¸ÃµØÍ¼¸ßÁÁÏÔÊ¾Äã×Ô¼ºµÄÖ±Ï½ÁìµØ£¨Äã×Ô¼ºµÄµØ²ú£©¡£;Ce mode de carte met en surbrillance votre domaine (vos propriétés personnelles).;Dieser Kartenmodus hebt Eure eigene Domäne hervor (Eure eigenen Besitztümer).;;Este modo de mapa resalta tu propia heredad (tus propiedades).;;;;;;;;;x
 MAPMODE_RELIGION;§Y×Ú½ÌµØÍ¼§!;§YReligions?;§YReligionen?;;§YReligiones?;;;;;;;;;x
 #MAPMODE_RELIGION_DESC;This map mode show the spread of all religions in Europe.;;Dieser Kartenmodus zeigt die Verteilung aller Religionen in Europa.;;Este modo de mapa muestra el alcance de todas las religiones de Europa.;;;;;;;;;x;
 MAPMODE_CULTURE;§YÎÄ»¯µØÍ¼§!;§YCultures?;§YKulturen?;;§YCulturas?;;;;;;;;;x
@@ -18782,11 +18782,11 @@ EXPENSEACTION;ĞĞ¶¯;Actions;Aktionen;;Acciones;Azioni;;;;;;;;x
 EXPORTS;³ö¿Ú;Exportations;Exporte;;Export.;Esportazioni;;;;;;;;x
 EXPENSE_LIEGE_TAX;ÁìÖ÷Ë°;Impôt d?au seigneur;Lehenssteuer;;Impuesto feudal;;;;;;;;;x
 SUM;×ÜºÍ;Somme;Summe;;Suma;;;;;;;;;x
-TITLED_NAME;$HOLDING$$TITLE$ $NAME$;$TITLE$$NAME$ de $HOLDING$;$TITLE$$NAME$ von $HOLDING$;;$TITLE$$NAME$ de $HOLDING$;;;;;;;;;x
+TITLED_NAME;$HOLDING$ $TITLE$ $NAME$;$TITLE$$NAME$ de $HOLDING$;$TITLE$$NAME$ von $HOLDING$;;$TITLE$$NAME$ de $HOLDING$;;;;;;;;;x
 NAME_WITH_HOLDING;$HOLDING$µÄ$NAME$;$NAME$ de $HOLDING$;$NAME$ von $HOLDING$;;$NAME$ de $HOLDING$;;;;;;;;;x
 TITLED_FIRST_NAME;$TITLE$ $NAME$;$TITLE$$NAME$;$TITLE$$NAME$;;$TITLE$$NAME$;;;;;;;;;x
-LANDED_FULL_RULER_TITLE;$HOLDING$$TITLE$;$TITLE$ de $HOLDING$;$TITLE$ von $HOLDING$;;$TITLE$ de $HOLDING$;;;;;;;;;x
-LANDED_FULL_RULER_LOC_TITLE;$LOCATION$$TITLE$;$TITLE$ de $LOCATION$;$TITLE$ in $LOCATION$;;$TITLE$ en $LOCATION$;;;;;;;;;x
+LANDED_FULL_RULER_TITLE;$HOLDING$ $TITLE$;$TITLE$ de $HOLDING$;$TITLE$ von $HOLDING$;;$TITLE$ de $HOLDING$;;;;;;;;;x
+LANDED_FULL_RULER_LOC_TITLE;$LOCATION$ $TITLE$;$TITLE$ de $LOCATION$;$TITLE$ in $LOCATION$;;$TITLE$ en $LOCATION$;;;;;;;;;x
 DEMESNE_SIZE_PENALTY;ÁìµØ³¬ÏŞ;Domaine trop vaste ;Zu große Domäne;;Heredad ultragrande;;;;;;;;;x
 CHANGING_SUCC_LAW_WARNING;§R¸ü¸Ä¼Ì³Ğ·¨»áÊ¹ËùÓĞ·â³¼²»Âú£¬ÓÈÆäÊÇÄÇĞ©Ê§È¥È¨ÀûµÄ.§W;§RModifier la loi de succession ne sera pas du goût des vassaux, notamment de ceux qui seront perdants.§W;§REine Änderung des Nachfolgrerechts wird alle Vasallen verstimmen, besonders diejenigen, welche es benachteiligt.§W;;§REl cambio de leyes de sucesión disgustar?a todos los vasallos, especialmente si no les favorece.§W;;;;;;;;;x
 #SUCCESSION_DESC;$OLD_TITLE$ $OLD_NAME$ $SUCC_RAND_DESC$ at age $AGE$. Long live $NEW_TITLE$ $NEW_NAME$!;;$OLD_TITLE$ $OLD_NAME$ $SUCC_RAND_DESC$ im Alter von $AGE$. Lang lebe $NEW_TITLE$ $NEW_NAME$!;;$OLD_TITLE$ $OLD_NAME$ $SUCC_RAND_DESC$ a la edad de $AGE$. ?Larga vida al $NEW_TITLE$ $NEW_NAME$!;;;;;;;;;x;
@@ -18826,7 +18826,7 @@ AMVASSAL;ÊÇ$LIST$µÄ·â³¼.;Est un vassal de $LIST$.;Ist ein Vasalle der $LIST$.;;E
 BALANCE;Æ½ºâ;Solde;Bilanz;;Saldo;;;;;;;;;x
 NUDGE_0;³ÇÊĞ;Cit?Stadt;;Villa;;;;;;;;;x
 NUDGE_1;µ¥Î»;Unit?Einheit;;Unidad;;;;;;;;;x
-NUDGE_2;¹¬Í¢;Conseiller;Ratsmitglied;;Consejero;;;;;;;;;x
+NUDGE_2;ÊàÃÜ´ó³¼;Conseiller;Ratsmitglied;;Consejero;;;;;;;;;x
 NUDGE_3;ÎÄ±¾;Texte;Text;;Texto;;;;;;;;;x
 CHAR_LIEGE;ÁìÖ÷;Seigneur;Lehnsherr;;Señor;;;;;;;;;x
 CHAR_AGE;ÄêÁä;Âge ;Alter;;Edad;;;;;;;;;x
@@ -19084,7 +19084,7 @@ REALM_VIEW;¹ú¼Ò;Pays;Reich;;Reino;;;;;;;;;x
 COUNCIL_VIEW;¹¬Í¢;Conseil;Rat;;Consejo;;;;;;;;;x
 BRIDE;ĞÂÄï;Future épouse;Braut;;Novia;;;;;;;;;x
 GROOM;ĞÂÀÉ;Futur époux;Bräutigam;;Novio;;;;;;;;;x
-FOUND_SETTLEMENT;´´Á¢ÁìµØ;Établir une propriét?Besitztum;;Crear propiedad;;;;;;;;;x
+FOUND_SETTLEMENT;´´½¨µØ²ú;Établir une propriét?Besitztum;;Crear propiedad;;;;;;;;;x
 CHAR_PRIEST;Ò»Î»ÄÁÊ¦;Un prêtre;Ein Priester;;Un sacerdote;;;;;;;;;x
 CHAR_SOLDIER;Ò»Î»Õ½Ê¿;Un soldat;Ein Soldat;;Un soldado;;;;;;;;;x
 CHAR_STEWARD;Ò»Î»¹ÙÔ±;Un intendant;Ein Verwalter;;Un noble;;;;;;;;;x
@@ -19213,11 +19213,11 @@ FAMILY_TAB_DRO;$NAME$µÄ¼ÒÈË£¬°üÀ¨¼à»¤ÈËºÍ±»¼à»¤ÈË.;La famille de $NAME$, y compr
 VASSAL_TAB_IRO;§Y$NAME$µÄ·â³¼§W;§YVassaux directs de $NAME$§W;§Y$NAME$s Vasallen mit Landbesitz§W;;§YVasallos hacendados de $NAME$§W;;;;;;;;;x
 VASSAL_TAB_DRO;ÕâĞ©ÁìÖ÷ÊÇ$NAME$µÄÖ±Êô·â³¼£¬¿ÉÒÔÓµÓĞ×Ô¼ºµÄ·â³¼.;Ces seigneurs sont les vassaux directs de $NAME$ et peuvent, eux aussi, avoir leurs propres vassaux.;Diese Fürsten sind direkte Lehen von $NAME$ und können ihre eigenen Vasallen haben.;;Estos señores obedecen a $NAME$ y puede que tengan sus propios vasallos.;;;;;;;;;x
 COURT_TAB_IRO;§Y¾Ó×¡ÔÚ$NAME$¹¬Í¢µÄÈË§W;§YPersonnages résidant ?la Cour de $NAME$§W;§YCharaktere, die am Hof von $NAME$§W leben;;§YPersonajes que habitan en la corte de $NAME$§W;;;;;;;;;x
-COURT_TAB_DRO;Í¢³¼Ö÷Òª°üÀ¨Ã»ÓĞ·âµØµÄ¹ó×å£¬Ò²ÓĞ±»Î¯ÒÔÒªÖ°µÄÖØ³¼£¨¿ÉÄÜÓµÓĞÁìµØ£©£¬±»¾Ğ½ûµÄÇôÍ½£¬ÒÔ¼°½ÓÊÜÄ³Î»Í¢³¼½ÌÓıµÄº¢×Ó.;La Cour abrite principalement des nobles sans terres, mais également des conseillers (qui peuvent être des vassaux terriens), des prisonniers ainsi que des enfants avec tuteurs.;Der Hof besteht hauptsächlich aus verschiedenen landlosen Adligen, aber auch aus den Ratsmitgliedern (die Vasallen mit Landbesitz sein können), im Kerker sitzenden Charakteren, und Kindern, die von einem der Höflinge erzogen werden.;;La corte se compone principalmente de varios nobles hacendados, pero también de los consejeros (que pueden ser vasallos hacendados), personajes prisioneros y niños tutelados por uno de los cortesanos.;;;;;;;;;x
+COURT_TAB_DRO;Í¢³¼Ö÷Òª°üÀ¨Ã»ÓĞ·âµØµÄ¹ó×å£¬Ò²ÓĞ±»Î¯ÒÔÒªÖ°µÄÊàÃÜ´ó³¼£¨¿ÉÄÜÓµÓĞÁìµØ£©£¬±»¾Ğ½ûµÄÇôÍ½£¬ÒÔ¼°½ÓÊÜÄ³Î»Í¢³¼½ÌÓıµÄº¢×Ó.;La Cour abrite principalement des nobles sans terres, mais également des conseillers (qui peuvent être des vassaux terriens), des prisonniers ainsi que des enfants avec tuteurs.;Der Hof besteht hauptsächlich aus verschiedenen landlosen Adligen, aber auch aus den Ratsmitgliedern (die Vasallen mit Landbesitz sein können), im Kerker sitzenden Charakteren, und Kindern, die von einem der Höflinge erzogen werden.;;La corte se compone principalmente de varios nobles hacendados, pero también de los consejeros (que pueden ser vasallos hacendados), personajes prisioneros y niños tutelados por uno de los cortesanos.;;;;;;;;;x
 #ALLY_TAB_IRO;§YRulers that can be called into war by $NAME$§W;;§YHerrscher, die von $NAME$§W in den Krieg gerufen werden k?nnen;;§YSoberanos que $NAME$ puede llamar a la guerra§W;;;;;;;;;x;
 #ALLY_TAB_DRO;Characters can be called into wars only if they are of the same dynasty or have close marital ties.;;Charaktere k?nnen nur in den Krieg gerufen werden, wenn sie derselben Dynastie angeh?ren oder enge eheliche Bande aufweisen.;;Los personajes pueden llamarse a las guerras si son de la misma dinast¨ªa o hay lazos cercanos por parte del c¨®nyuge.;;;;;;;;;x;
 ABROAD_TAB_IRO;§YÔİ¾Ó¹úÍâµÄÍ¢³¼§W;§YCourtisans actuellement ?une autre Cour§W;§YDerzeit außer Landes befindliche Höflinge§W;;§YCortesanos en el extranjero§W;;;;;;;;;x
-ABROAD_TAB_DRO;Í¢³¼¿ÉÒÔÔİÊ±¾Ó×¡ÔÚÍâ¹ú£¬×÷ÎªÇô·¸»òÕß±»¼à»¤ÈË.´ËÍâ£¬ÖØ³¼ÃÇ£¬ÓĞÊ±ºòÉõÖÁ°üÀ¨¾ıÖ÷×Ô¼º£¬Ò²ÓĞ¿ÉÄÜ¾Ó×¡ÔÚÆäÁìÖ÷µÄ¹¬Í¢.;Les personnages résident ?une autre Cour s'ils y sont emprisonnés ou éduqués. En outre, les membres du Conseil résideront ?la Cour de leur seigneur lige.;Charaktere können an einem ausländischen Hof leben, wenn sie dort im Kerker sitzen oder erzogen werden. Weiterhin leben Ratsmitglieder, selbst wenn sie Herrscher sind, am Hof ihres Lehnsherrn.;;Los personajes pueden habitar en una corte extranjera si se les encarcela o se les educa all? Además, los consejeros, aunque sean soberanos, vivirán en la corte de su señor.;;;;;;;;;x
+ABROAD_TAB_DRO;Í¢³¼¿ÉÒÔÔİÊ±¾Ó×¡ÔÚÍâ¹ú£¬×÷ÎªÇô·¸»òÕß±»¼à»¤ÈË.´ËÍâ£¬ÊàÃÜ´ó³¼ÃÇ£¬ÓĞÊ±ºòÉõÖÁ°üÀ¨¾ıÖ÷×Ô¼º£¬Ò²ÓĞ¿ÉÄÜ¾Ó×¡ÔÚÆäÁìÖ÷µÄ¹¬Í¢.;Les personnages résident ?une autre Cour s'ils y sont emprisonnés ou éduqués. En outre, les membres du Conseil résideront ?la Cour de leur seigneur lige.;Charaktere können an einem ausländischen Hof leben, wenn sie dort im Kerker sitzen oder erzogen werden. Weiterhin leben Ratsmitglieder, selbst wenn sie Herrscher sind, am Hof ihres Lehnsherrn.;;Los personajes pueden habitar en una corte extranjera si se les encarcela o se les educa all? Además, los consejeros, aunque sean soberanos, vivirán en la corte de su señor.;;;;;;;;;x
 SM_CAMERA_SPEED;ÊÓ½ÇÆ½»¬;Lissage de la caméra;Kamera-Bewegungsfluss;;Suavidad de la cámara;;;;;;;;;x
 SM_CENTERED_ZOOM_IN;Ïò¹â±êËõ·Å;Zoom sur curseur;Zum Mauszeiger Zoomen;;Acercar al Cursor;;;;;;;;;x
 SM_CENTERED_ZOOM_OUT;´ÓÊó±ê´¦ËõĞ¡;Effectuer un zoom arrière sur le curseur;Aus Mauszeiger herauszoomen;;Alejar desde el cursor;;;;;;;;;x
@@ -19292,7 +19292,7 @@ CHARVIEW_LIEGE;ÁìÖ÷;Seigneur;Lehnsherr;;Señor;;;;;;;;;x
 CHARVIEW_HEIR;¼Ì³ĞÈË;Héritier;Nachfolger;;Heredero;;;;;;;;;x
 CHARVIEW_REGENT;ÉãÕşÕß;Régent;Regent;;Regente;;;;;;;;;x
 CHAR_TAX;Ë°ÊÕ;Impôts;Steuer;;Impuesto;;;;;;;;;x
-MUST_BUILD_RIGHT_TYPE;Äã±ØĞëÊ×ÏÈ½¨ÔìËùÓĞÖÖÀàµÄ½¨ÖşÖÁÉÙÒ»¸ö;Vous devez d'abord établir une propriét?de chaque type;Ihr müsst zuerst je ein Besitztum jedes Typs bauen;;Antes debes construir una propiedad de cada tipo.;;;;;;;;;x
+MUST_BUILD_RIGHT_TYPE;Äã±ØĞëÊ×ÏÈ½¨ÔìËùÓĞÖÖÀàµÄµØ²ú;Vous devez d'abord établir une propriét?de chaque type;Ihr müsst zuerst je ein Besitztum jedes Typs bauen;;Antes debes construir una propiedad de cada tipo.;;;;;;;;;x
 BLOCKED_BY;·âËøÕß;Bloqu?par;Blockiert von;;Bloqueado por;;;;;;;;;x
 PREREQUISITE;Ìõ¼ş;Condition préalable;Vorbedingung;;Requisito previo;;;;;;;;;x
 CONDUCT_DIPLOMACY;½øĞĞÍâ½»;Mener des actions diplomatiques;Diplomatie ausführen;;Aplicar Diplomacia;;;;;;;;;x
@@ -19344,7 +19344,7 @@ STALLED_WAR_DESC;$PERC$: Õ½Õù´¦ÓÚ½©¾Ö;$PERC$? la guerre s'éternise;$PERC$: Der K
 CONTESTED_TITLE_DESC;$PERC$: §Y$PERSON$§W ¿ØÖÆÁË §Y$TITLE$§W;$PERC$? §Y$PERSON$§W contrôle §Y$TITLE$§W;$PERC$: §Y$PERSON$§W kontrolliert §Y$TITLE$§W;;$PERC$: §Y$PERSON$§W controla §Y$TITLE$§W.;;;;;;;;;x
 TECH_LEVELS_IN_CAPITAL;ÄãµÄÊ×¶¼§Y$CAPITAL$§!µÄ¿Æ¼¼·¢Õ¹Ë®Æ½.;Progrès technologiques ?§Y$CAPITAL$?, votre capitale.;Technologische Fortschritte in §Y$CAPITAL$?, Eurer Hauptstadt.;;Avances tecnológicos en §Y$CAPITAL$?, tu capital.;;;;;;;;;x
 RAISE_NO_PROVINCE_LEVIES;ÄãÒÑ¾­¶¯Ô±ÁËÕâ¸öÊ¡·İµÄËùÓĞÊ¿±ø;Vous avez déj?lev?toutes les troupes de ce comt?;Ihr habt schon alle Wehrpflichtigen in dieser Grafschaft ausgehoben.;;Ya has reclutado todas las levas de este condado.;;;;;;;;;x
-RAISE_NO_SETTLEMENTS;ÄãÔÚÕâ¸öÊ¡·İÃ»ÓĞÁìµØ;Vous n'avez aucune propriét?dans ce comt?;Ihr habt keine Besitztümer in dieser Grafschaft;;No tienes propiedades en este condado.;;;;;;;;;x
+RAISE_NO_SETTLEMENTS;ÄãÔÚÕâ¸öÊ¡·İÃ»ÓĞµØ²ú;Vous n'avez aucune propriét?dans ce comt?;Ihr habt keine Besitztümer in dieser Grafschaft;;No tienes propiedades en este condado.;;;;;;;;;x
 RAISE_NO_PROVINCE_SHIPS;ÄãÒÑ¾­¶¯Ô±ÁËÕâ¸öÊ¡·İµÄËùÓĞ´¬Ö»;Vous avez déj?lev?tous les navires de ce comt?;Ihr habt schon alle Schiffe in dieser Grafschaft ausgehoben.;;Ya has reclutado todos los barcos de este condado.;;;;;;;;;x
 DISMISS_NO_PROVINCE_LEVIES;ÄãÃ»ÓĞ¶¯Ô±Õâ¸öÊ¡·İµÄÊ¿±ø;Vous n'avez pas lev?de troupes dans ce comt?;Ihr habt keine Wehrpflichtigen in dieser Grafschaft ausgehoben!;;No has reclutado todas las levas de este condado.;;;;;;;;;x
 DISMISS_NO_PROVINCE_SHIPS;ÄãÃ»ÓĞ¶¯Ô±Õâ¸öÊ¡·İµÄ´¬Ö»;Vous n'avez pas lev?de navires dans ce comt?;Ihr habt keine Schiffe in dieser Grafschaft ausgehoben!;;No has reclutado todos los barcos de este condado.;;;;;;;;;x
@@ -19362,21 +19362,21 @@ REGULAR_MARRIAGE_DESC;ÕâÊÇÆÕÍ¨µÄ»éÒö.º¢×Ó½«¸úËæ¸¸ĞÕ.;Il s'agit d'un mariage clas
 LASS;Å®º¢;jeune fille;Mädchen;;moza;;;;;;;;;x
 LAD;ÄĞº¢;jeune homme;Junge;;Mozo;;;;;;;;;x
 CAPITAL_OF_COUNTY;$COUNTY$Ê×¸®;Capitale de $COUNTY$;Hauptstadt von $COUNTY$;;Capital de $COUNTY$;;;;;;;;;x
-CHAR_SETTLEMENTS;Ö±Ï½ÁìµØ;Propriétés du domaine ;Besitztümer: Domäne ;;Propiedades de la heredad;;;;;;;;;x
+CHAR_SETTLEMENTS;Ö±Ï½µØ²ú;Propriétés du domaine ;Besitztümer: Domäne ;;Propiedades de la heredad;;;;;;;;;x
 NEUTRAL;ÖĞÁ¢;Neutre;Neutral;;Neutral;;;;;;;;;x
 AT_WAR;Õ½ÕùÖĞ;En guerre;Im Krieg;;En guerra;;;;;;;;;x
 WAR_ALLIES;Õ½Ê±ÃËÓÑ;Alliés;Kriegsverbündete;;Aliados de guerra;;;;;;;;;x
 VASSAL;·â³¼;vassal;Vasall;;Vasallo;;;;;;;;;x
 VASSAL_OF_VASSAL;·â³¼µÄ·â³¼;Vassal du vassal;Vasall des Vasallen;;Vasallo de vasallo;;;;;;;;;x
 CASUS_BELLIS;Õ½ÕùÀíÓÉ;Casus belli;Kriegsgründe;;Casus belli;;;;;;;;;x
-SUPPLY_OWNER;À´×ÔÎÒÃÇµÄ¹ú¼Ò: $VALUE$;Propre territoire? $VALUE$;Aus eigenem Reich: $VALUE$;;Del propio reino: $VALUE$;;;;;;;;;x
-SUPPLY_CONTROLLER;À´×ÔÒÑ¿ØÖÆµÄÁìµØ: $VALUE$;Propriétés contrôlées? $VALUE$;Aus kontrollierten Besitztümern: $VALUE$;;De propiedades bajo control: $VALUE$;;;;;;;;;x
-SUPPLY_NEUTRAL;À´×ÔÖĞÁ¢ÁìµØ: $VALUE$;Propriétés neutres? $VALUE$;Aus neutralen Besitztümern: $VALUE$;;De propiedades neutrales: $VALUE$;;;;;;;;;x
-SUPPLY_ENEMY;À´×ÔµĞ¶ÔÁìµØ: $VALUE$;Propriétés hostiles? $VALUE$;Aus feindlichen Besitztümern: $VALUE$;;De propiedades hostiles: $VALUE$;;;;;;;;;x
-SUPPLY_RELIGION;²»Í¬×Ú½Ì: $VALUE$;Groupe religieux différent? $VALUE$;Unterschiedliche religiöse Gruppe: $VALUE$;;Grupo religioso diferente: $VALUE$;;;;;;;;;x
-SUPPLY_COASTAL;ÑØº£ÁìµØ: $VALUE$;Province côtière? $VALUE$;Küstenprovinz: $VALUE$;;Provincia costera: $VALUE$;;;;;;;;;x
-SUPPLY_NEIGHBOR;¿ØÖÆµÄÁÚ½üÁìµØ: $VALUE$;Propriét?voisine contrôlée? $VALUE$;Kontrolliertes Nachbarbesitztum: $VALUE$;;Propiedades vecinas bajo control: $VALUE$;;;;;;;;;x
-SUPPLY_BASE_MODIFIED;»ù´¡Öµ: §Y$VALUE$§!;Valeur de base modifiée? §Y$VALUE$?;Modifizierter Basiswert: §Y$VALUE$?;;Valor base modificado: §Y$VALUE$?;;;;;;;;;x
+SUPPLY_OWNER;×Ô¼ºµÄÁìµØ£º$VALUE$;Propre territoire? $VALUE$;Aus eigenem Reich: $VALUE$;;Del propio reino: $VALUE$;;;;;;;;;x
+SUPPLY_CONTROLLER;¿ØÖÆµÄµØ²ú£º$VALUE$;Propriétés contrôlées? $VALUE$;Aus kontrollierten Besitztümern: $VALUE$;;De propiedades bajo control: $VALUE$;;;;;;;;;x
+SUPPLY_NEUTRAL;ÖĞÁ¢µØ²ú£º$VALUE$;Propriétés neutres? $VALUE$;Aus neutralen Besitztümern: $VALUE$;;De propiedades neutrales: $VALUE$;;;;;;;;;x
+SUPPLY_ENEMY;µĞ¶ÔµØ²ú£º$VALUE$;Propriétés hostiles? $VALUE$;Aus feindlichen Besitztümern: $VALUE$;;De propiedades hostiles: $VALUE$;;;;;;;;;x
+SUPPLY_RELIGION;²»Í¬×Ú½Ì×é£º$VALUE$;Groupe religieux différent? $VALUE$;Unterschiedliche religiöse Gruppe: $VALUE$;;Grupo religioso diferente: $VALUE$;;;;;;;;;x
+SUPPLY_COASTAL;ÑØº£Ê¡·İ£º$VALUE$;Province côtière? $VALUE$;Küstenprovinz: $VALUE$;;Provincia costera: $VALUE$;;;;;;;;;x
+SUPPLY_NEIGHBOR;¿ØÖÆÁÚ½üµØ²ú£º$VALUE$;Propriét?voisine contrôlée? $VALUE$;Kontrolliertes Nachbarbesitztum: $VALUE$;;Propiedades vecinas bajo control: $VALUE$;;;;;;;;;x
+SUPPLY_BASE_MODIFIED;»ù´¡Öµ£º§Y$VALUE$§!;Valeur de base modifiée? §Y$VALUE$?;Modifizierter Basiswert: §Y$VALUE$?;;Valor base modificado: §Y$VALUE$?;;;;;;;;;x
 ATTRITION_CURRENT;Ã¿ÔÂËğºÄ: §Y$VALUE$%§!;Attrition mensuelle? §Y$VALUE$%?;Monatlicher Verlust: §Y$VALUE$%?;;Desgaste mensual: §Y$VALUE$%?;;;;;;;;;x
 ATTRITION_MAX;±¾µØµÄÃ¿ÔÂ×î´óËğºÄ£º§Y$VALUE$%§!;Attrition mensuelle plafonée dans le comté : §Y$VALUE$%?;Maximaler monatlicher Verlust in Provinz: §Y$VALUE$%?;;Desgaste máximo mensual en la provincia: §Y$VALUE$%?;;;;;;;;;x
 ATTRITION_LEADER_REDUCTION;$NAME$: $VALUE$;$NAME$? $VALUE$;$NAME$: $VALUE$;;$NAME$: $VALUE$;;;;;;;;;x
@@ -19457,7 +19457,7 @@ NO_HEAD;Ã»ÓĞÁìµ¼;Aucun chef;Kein Oberhaupt;;Sin líder;;;;;;;;;x
 MIL_NUM_ARMIES;$NUM$¾ü¶Ó;$NUM$ armées;$NUM$ Armeen;;$NUM$ ejércitos;;;;;;;;;x
 MIL_NUM_NAVIES;$NUM$½¢¶Ó;$NUM$ flottes;$NUM$ Flotten;;$NUM$ flotas;;;;;;;;;x
 TITULAR;ÈÙÓşÍ·ÏÎ; ;Nominell;;Titular;;;;;;;;;x
-TITULAR_TITLE;§YÓĞÈÙÓşÍ·ÏÎµÄ§!(Ã»ÓĞ·¨ÀíÉÏµÄ·â³¼);§YTitre nominal? (pas de vassaux de jure);§YNomineller Title? (keine de jure-Vasallen);;§Ytítulo titular? (sin vasallos de iure);;;;;;;;;x
+TITULAR_TITLE;§YÈÙÓşÍ·ÏÎ§!£¨Ã»ÓĞ·¨Àí·â³¼£©;§YTitre nominal? (pas de vassaux de jure);§YNomineller Title? (keine de jure-Vasallen);;§Ytítulo titular? (sin vasallos de iure);;;;;;;;;x
 UNKNOWN_SUCCESSOR;¼Ì³ĞÈËÎ´Öª;Successeur inconnu;Unbekannter Nachfolger;;Sucesor desconocido;;;;;;;;;x
 ENEMY_OCCUPATION;µĞ¾üÕ¼Áì;Occupation ennemie;Feindliche Besetzung;;Ocupación enemiga;;;;;;;;;x
 CANNOT_FIRE_YOUR_REGENT;Äã²»ÄÜ½â³ıÉãÕşÕßµÄÖ°Îñ!;Vous ne pouvez pas relever votre régent de ses fonctions?;Ihr könnt den Regenten nicht aus dem Amt entlassen!;;¡No puedes echar a tu regente del cargo!;;;;;;;;;x
@@ -19470,7 +19470,7 @@ LAG_PAUSE;$PLAYER$ ´¦ÓÚÑÓ³Ù£¬ÔİÍ£ÓÎÏ·;$PLAYER$ est ?la traîne, partie en pause.;
 LAG_DECREASE_SPEED;$PLAYER$ ´¦ÓÚÑÓ³Ù£¬¼õËÙ£¨¸Ï¿ìÖØ¿ª°ÉÄãÃÇ£©;$PLAYER$ est ?la traîne, ralentissement.;$PLAYER$ hinkt hinterher und verlangsamt das Spiel.;;$PLAYER$ se retarda, disminuyendo velocidad.;;;;;;;;;x
 CLICK_TO_APPOINT_LEADER;µã»÷ÈÎÃü½«Áì;Cliquez pour nommer un chef;Zur Ernennung eines Anführers klicken;;Clic para nombrar un líder;;;;;;;;;x
 LEADER_APP_NEEDS_LAW;§Y$TITLE$§!µÄ¹ó×åÓĞÈ¨Àû¾Ü¾ø¸ü»»½«Áì.\n(ÍõÈ¨Ì«µÍ);Les nobles de §Y$TITLE$? sont trop indépendants pour accepter des chefs.\n(L'autorit?de la Couronne est trop faible.);Die Adligen von §Y$TITLE$? sind zu autonom, um ihre Anführerschaft willens aufzugeben.\n(Autorität der Krone zu gering.);;Los nobles de §Y$TITLE$? son muy independientes como para aceptar ser reemplazados como líderes.\n(La autoridad de la Corona es muy baja.);;;;;;;;;x
-WRONG_GOVERNMENT_TYPE;§RÏ½ÓĞ´íÎóµÄÁìµØÀàĞÍ!§!;§RType de propriét?pour la capitale erroné !?;§RFalscher Besitztumstyp in der Hauptstadt!?;;§RTipo de propiedad de capital equivocado!?;;;;;;;;;x
+WRONG_GOVERNMENT_TYPE;§R´íÎóµÄÊ×¸®µØ²úÀàĞÍ£¡§!;§RType de propriét?pour la capitale erroné !?;§RFalscher Besitztumstyp in der Hauptstadt!?;;§RTipo de propiedad de capital equivocado!?;;;;;;;;;x
 COMBAT_TACTICS_AVAILABLE;ÕâÒ»Òí¿ÉÒÔÓÃÏÂÁĞÕ½Êõ:;Les tactiques suivantes peuvent être utilisées par ce flanc? ;Die folgenden Taktiken können von dieser Flanke eingesetzt werden:;;Este flanco puede usar las siguientes tácticas:;;;;;;;;;x
 COMBAT_DEFENDERS;·ÀÓù·½;Défenseurs;Verteidiger;;Defensores;;;;;;;;;x
 COMBAT_ATTACKERS;½ø¹¥·½;Attaquants;Angreifer;;Atacantes;;;;;;;;;x
@@ -19578,8 +19578,8 @@ arbitrary;×¨¶Ï;Partialit?Willkürlich;;Arbitrario;Arbitrariet?;;;;;;;x
 arbitrary_desc;´ËÈË¶Ô¹«Æ½²»Ğ¼Ò»¹Ë£¬·â³¼ºÍÍ¢³¼ÃÇ¶Ô´Ë²¢²»ĞÀÉÍ.;Ce personnage se moque de la justice, ce qui exaspère ses vassaux et ses courtisans.;Aufgrund fortgeschrittenen Alters, einer Kopfverletzung oder anderen geistigen Behinderungen kann dieser Charakter keinerlei Aufgaben übernehmen. Unfähige Herrscher müssen einen Regenten bestellen.;;A este personaje no le podría importar menos la justicia, un defecto no apreciado entre vasallos y cortesanos.;;;;;;;;;x
 incapable;ÎŞÄÜ;Incapacit?Unfähig;;Inútil;Incapacit?;;;;;;;x
 incapable_desc;ÓÉÓÚÄêÊÂÒÑ¸ß£¬Í·²¿ÊÜÉË»òÊÇ¾«ÉñÊ§³££¬´ËÈËÎŞ·¨³Ğµ£Õı³£¹¤×÷.ÎŞÄÜµÄÍ³ÖÎÕß±ØĞëÓÉËûÈËÉãÕş;A cause d'un âge avanc? d'une blessure ?la tête ou d'une autre incapacit?mentale, ce personnage n'est pas capable du moindre travail et doit se faire remplacer par un régent.;Aufgrund fortgeschrittenen Alters, einer Kopfverletzung oder anderen geistigen Behinderungen kann dieser Charakter keinerlei Aufgaben übernehmen. Unfähige Herrscher müssen einen Regenten bestellen.;;La edad avanzada, las lesiones en la cabeza y las enfermedades mentales incapacitan a este personaje para cualquier tipo de trabajo. Los soberanos incapaces deben recurrir a un regente.;;;;;;;;;x
-lustful;ÓûÍû;Luxure;Lüsternd;;Lujurioso;Lussuria;;;;;;;;x
-lustful_desc;ÓûÍû£¬¼´'Luxuria'£¬ÈË×î³õµÄÔ­×ï£¬ÕıÔÚ×ÆÉÕ×Å´ËÈË.³Á½şÈâÓû½«Îª×Ú½ÌÈËÊ¿ËùÍÙÆú£¬Ò²»á¶Ô³ıÁË´²ÉÏ¼¼ÇÉÖ®ÍâµÄÆäËû¼¼ÄÜ²úÉúÏû¼«Ó°Ïì¡­¡­;La luxure, 'luxuria' en latin, enflamme ce personnage. De tels plaisirs charnels ne sont pas du goût de l'Église et peuvent être la source de nombreux problème en dehors du lit conjugal...;Dieser Charakter wird von der Begierde, oder 'Luxuria' getrieben - der ersten Todsünde. Diese Fleischeslüste werden von der Kirche nicht geschätzt und könnten auch außerhalb des Ehebetts zu Problemen führen ...;;El deseo sexual o 'luxuria', el primer pecado capital, invade a este personaje. Estos deseos carnales no están bien vistos por la Iglesia y pueden causar problemas fuera del matrimonio...;;;;;;;;;x
+lustful;É«Óû;Luxure;Lüsternd;;Lujurioso;Lussuria;;;;;;;;x
+lustful_desc;É«Óû£¬¼´'Luxuria'£¬ÈË×î³õµÄÔ­×ï£¬ÕıÔÚ×ÆÉÕ×Å´ËÈË.³Á½şÈâÓû½«Îª×Ú½ÌÈËÊ¿ËùÍÙÆú£¬Ò²»á¶Ô³ıÁË´²ÉÏ¼¼ÇÉÖ®ÍâµÄÆäËû¼¼ÄÜ²úÉúÏû¼«Ó°Ïì¡­¡­;La luxure, 'luxuria' en latin, enflamme ce personnage. De tels plaisirs charnels ne sont pas du goût de l'Église et peuvent être la source de nombreux problème en dehors du lit conjugal...;Dieser Charakter wird von der Begierde, oder 'Luxuria' getrieben - der ersten Todsünde. Diese Fleischeslüste werden von der Kirche nicht geschätzt und könnten auch außerhalb des Ehebetts zu Problemen führen ...;;El deseo sexual o 'luxuria', el primer pecado capital, invade a este personaje. Estos deseos carnales no están bien vistos por la Iglesia y pueden causar problemas fuera del matrimonio...;;;;;;;;;x
 chaste;ÖÒÕê;Chastet?Keusch;;Casto;Castit?;;;;;;;x
 chaste_desc;ÖÒÕê£¬¼´'Castitas'£¬ÊÇÆßÖÖÃÀµÂÖ®Ê×.ÖÒÕêÖ®ÈËÒòÆäµÂĞĞ¶ø¹ãÊÜ³ÆÔŞ£¬²»´ó¿ÉÄÜ·¢Éú³ö¹ìĞĞÎª.;?l'oppos?de la luxure, la chastet? 'castitas' en latin, est vue d'un bon œil et permet d'éviter les aventures extraconjugales.;Keuschheit, bzw. 'Castitas', ist die erste der sieben Tugenden. Keusche Charaktere werden für ihre Tugend bewundert und haben eher weniger außereheliche Affären.;;La castidad o 'castitas' es la primera de las siete virtudes. Los personajes castos son admirados por su virtud y es improbable que tengan relaciones extramatrimoniales.;;;;;;;;;x
 proud;½¾°Á;Orgueil;Stolz;;Orgulloso;Orgoglio;;;;;;;;x
@@ -19719,8 +19719,8 @@ falconer;Ñ±Ó¥Ê¦;Fauconnier;Falkner;;Cetrero;;;;;;;;;x
 falconer_desc;´ËÈËÈÈĞÄÓÚÑ±Ó¥£¬Ò»ÖÖÖµµÃ×ğ¾´µÄÒµÓàÏûÇ².;Ce personnage est un fauconnier passionn? un passe-temps très respect?;Dieser Charakter ist ein begeisterter Falkner - ein sehr angesehener Zeitvertreib.;;Este personaje es un cetrero incansable, un pasatiempo más que respetado.;;;;;;;;;x
 drunkard;¾Æ¹í;Ivrognerie;Säufer;;Borracho;;;;;;;;;x
 drunkard_desc;Õâ¸öÈË¾ÍÊÇ¸ö´ó¾Æ¸×.;Ce personnage est un véritable poivrot.;Dieser Charakter ist völlig versoffen.;;Este personaje es un borrachín.;;;;;;;;;x
-temperate;ÎÂºÍ;Tempér?Gemäßigt;;Moderado;;;;;;;;;x
-temperate_desc;´ËÈËÏàĞÅ´ıÈËÎÂºÍµÄÃÀµÂ£¬'Temperantia'¡ª¡ª¶ÔÍ³ÖÎÕßºÍ²ÆÕş×Ü¹ÜÀ´ËµÃÖ×ãÕä¹óµÄÌØÖÊ¡£;Ce personnage croit en la vertu de la modération, 'temperantia' en latin, un trait de caractère précieux pour les intendants et les souverains.;Dieser Charakter glaubt an die Tugend der 'Temperantia', der Mäßigung. Dies ist für Herrscher und Verwalter eine wertvolle Eigenschaft.;;Este personaje cree en la virtud de la moderación o 'temperantia', valiosa característica en soberanos y administradores.;;;;;;;;;x
+temperate;½ÚÖÆ;Tempér?Gemäßigt;;Moderado;;;;;;;;;x
+temperate_desc;´ËÈËÏàĞÅ'Temperantia'µÄÃÀµÂ£¬½ÚÖÆ¡ª¡ª¶ÔÍ³ÖÎÕßºÍ²ÆÕş×Ü¹ÜÀ´ËµÃÖ×ãÕä¹óµÄÌØÖÊ¡£;Ce personnage croit en la vertu de la modération, 'temperantia' en latin, un trait de caractère précieux pour les intendants et les souverains.;Dieser Charakter glaubt an die Tugend der 'Temperantia', der Mäßigung. Dies ist für Herrscher und Verwalter eine wertvolle Eigenschaft.;;Este personaje cree en la virtud de la moderación o 'temperantia', valiosa característica en soberanos y administradores.;;;;;;;;;x
 greedy;Ì°À·;Avarice;Gierig;;Avaricioso;;;;;;;;;x
 greedy_desc;´ËÈËÒòÌ°À·¶ø³ôÃûÕÑÖø.'Avaritia'£¬Æß×Ú×ïÖ®Èı£¬ËäÈ»²¢²»ÊÜÈËÏ²°®£¬È´ÄÜÕ¥³öÒ»Ğ©¶îÍâµÄË°ÊÕÀ´.;Ce personnage est notoirement radin. L'avarice, 'avaritia' en latin, est le troisième péch?capital. Parfait percepteur, il ne force pas le respect.;Dieser Charakter ist für seine Gier berüchtigt, also 'Avaritia', die dritte Todsünde. Er wird zwar nicht geschätzt, kann aber für zusätzliche Steuereinnahmen sorgen.;;El personaje es vergonzosamente codicioso. 'Avaritia' es el tercer pecado capital y, aunque no est?bien visto, siempre viene bien para obtener unos ingresos extra.;;;;;;;;;x
 charitable;¿¶¿®;Charit?Wohltätig;;Generoso;;;;;;;;;x
@@ -19752,15 +19752,15 @@ paranoid_desc;´ËÈË±­¹­ÉßÓ°£¬²»ÏàĞÅÈÎºÎÈË.;Ce personnage voit des ennemis partout
 pregnant;»³ÔĞ;Enceinte;Schwanger;;Embarazada;;;;;;;;;x
 pregnant_desc;Õâ¸öÅ®ÈËµÄ¸¹ÖĞ»³ÓĞĞÂÉúÃü.;Cette femme attend un enfant.;Diese Frau trägt ein Kind unter dem Herzen.;;Esta mujer est?encinta.;;;;;;;;;x
 # has_tuberculosis;Has Consumption;A la consomption;Hat Schwindsucht;;Padece de tisis;;;;;;;;;x;
-has_tuberculosis_desc;´ËÈË±¥ÊÜ¿ÈÑªÖ¢£¬¼´·Î½áºËÀ§ÈÅ.;Ce personnage souffre d'une toux sanguinolente appelée la consomption (ou tuberculose).;Dieser Charakter wird vom blutigen Husten geplagt, der Schwindsucht (Tuberkulose).;;Este personaje padece de la tos sangrienta conocida como tisis (tuberculosis).;;;;;;;;;x
+has_tuberculosis_desc;´ËÈË±¥ÊÜÃûÎªğì²¡µÄ¿ÈÑªÖ¢À§ÈÅ£¨¼´·Î½áºË£©¡£;Ce personnage souffre d'une toux sanguinolente appelée la consomption (ou tuberculose).;Dieser Charakter wird vom blutigen Husten geplagt, der Schwindsucht (Tuberkulose).;;Este personaje padece de la tos sangrienta conocida como tisis (tuberculosis).;;;;;;;;;x
 has_typhoid_fever;ÂıĞÔÈÈ;A la fièvre lente;Hat schleichendes Fieber;;Padece de fiebre lenta;;;;;;;;;x
-has_typhoid_fever_desc;´ËÈËÉîÊÜÂıĞÔÈÈÀ§ÈÅ.;Ce personnage est atteint d'un terrible mal appel?fièvre lente (ou fièvre typhoïde).;Dieser Charakter leidet am fürchterlichen schleichenden Fieber (Typhus).;;Este personaje padece de la terrible enfermedad conocida como la fiebre lenta (fiebre tifoidea).;;;;;;;;;x
+has_typhoid_fever_desc;´ËÈËÉîÊÜÃûÎªÂıĞÔÈÈµÄÑÏÖØ¼²²¡À§ÈÅ£¨ÉËº®£©¡£;Ce personnage est atteint d'un terrible mal appel?fièvre lente (ou fièvre typhoïde).;Dieser Charakter leidet am fürchterlichen schleichenden Fieber (Typhus).;;Este personaje padece de la terrible enfermedad conocida como la fiebre lenta (fiebre tifoidea).;;;;;;;;;x
 # has_typhus;Has Camp Fever;A la fi¨¨vre des campements;Hat Lagerfieber;;Padece de tifus;;;;;;;;;x;
 has_typhus_desc;Õâ¸ö½ÇÉ«È¾ÉÏÁËÂ¶ÓªÈÈ£¨°ßÕîÉËº®£©;Ce personnage est atteint d'un terrible mal appel?la fièvre des campements (typhus épidémique);Dieser Charakter ist vom Lagerfieber (Fleckfieber) betroffen.;;Este personaje tiene el tifus, también conocido como tifoidea (tifus endémico.);;;;;;;;;x
 # has_bubonic_plague;Has the Plague!;A la peste;Hat die Pest!;;?Padece de peste!;;;;;;;;;x;
-has_bubonic_plague_desc;´ËÈË»¼ÓĞ¿ÉÅÂµÄºÚËÀ²¡.;Ce personnage est atteint d'un terrible mal appel?peste bubonique.;Dieser Charakter hat die gefürchtete Beulenpest.;;Este personaje tiene la temida peste bubónica.;;;;;;;;;x
+has_bubonic_plague_desc;´ËÈË»¼ÓĞ¿ÉÅÂµÄÏÙÊóÒß¡£;Ce personnage est atteint d'un terrible mal appel?peste bubonique.;Dieser Charakter hat die gefürchtete Beulenpest.;;Este personaje tiene la temida peste bubónica.;;;;;;;;;x
 # has_measles;Has Measles;A la rougeole;Hat Masern;;Padece de sarampi¨®n;;;;;;;;;x;
-has_measles_desc;´ËÈË¸ĞÈ¾ÁËÂéÕî£¬Ò»ÖÖÏàµ±ÖÂÃüµÄÌì»¨.;Ce personnage est atteint d'un terrible mal appel?rougeole.;Dieser Charakter hat die Masern, eine ziemlich gefährliche Pockenart.;;Este personaje ha contraído el sarampión, un tipo de viruela peligroso.;;;;;;;;;x
+has_measles_desc;´ËÈË¸ĞÈ¾ÁËÂéÕî£¬Ò»ÖÖÏàµ±ÖÂÃüµÄ¶»ÎÁ¡£;Ce personnage est atteint d'un terrible mal appel?rougeole.;Dieser Charakter hat die Masern, eine ziemlich gefährliche Pockenart.;;Este personaje ha contraído el sarampión, un tipo de viruela peligroso.;;;;;;;;;x
 # has_small_pox;Has Smallpox;A la variole;Hat Blattern;;Padece de viruela;;;;;;;;;x;
 has_small_pox_desc;´ËÈË¸ĞÈ¾ÁË¿ÉÅÂµÄÌì»¨£¬ÆäÖÂËÀÂÊ³¬¹ıÒ»°ë.;Ce personnage est atteint d'un terrible mal appel?variole.;Dieser Charakter hat die gefürchteten Blattern, an denen fast die Hälfte der Erkrankten stirbt.;;Este personaje tiene la temida viruela, enfermedad que ha matado a casi la mitad de los infectados.;;;;;;;;;x
 strong;Ç¿×³;Force;Stark;;Fuerte;;;;;;;;;x
@@ -19930,8 +19930,8 @@ HAS_MORE_TRAITS_THAN;ÓµÓĞÌØÖÊ¶àÓÚ ;A plus de traits que ;Hat mehr Eigenschaften 
 #HAS_CHILDREN;Has Children;A des enfants;Hat Kinder;;Tiene hijos;Ha figli;;;;;;;;x;
 IS_NOT_RUNNING;Î´ÔËĞĞ ;N'est pas réalis?;Leitet NICHT;;No est?realizando ;Non ?candidato ;;;;;;;;x
 IS_RUNNING;ÒÑÔËĞĞ ;Est exécut?;Leitet;;Est?realizando ;?candidato ;;;;;;;;x
-IS_PLAYER_CONTROLLED;Íæ¼Ò¿ØÖÆ;Est sous contrôle du joueur;Ist spielergesteuert;;Lo(a) controla el jugador;?controllato dal giocatore;;;;;;;;x
-IS_AI_CONTROLLED;µçÄÔ¿ØÖÆ;Est sous contrôle de l'IA;Ist KI-gesteuert;;Lo(a) controla la IA;?controllato dall'IA;;;;;;;;x
+IS_PLAYER_CONTROLLED;ÓÉÍæ¼Ò¿ØÖÆ;Est sous contrôle du joueur;Ist spielergesteuert;;Lo(a) controla el jugador;?controllato dal giocatore;;;;;;;;x
+IS_AI_CONTROLLED;ÓÉAI¿ØÖÆ;Est sous contrôle de l'IA;Ist KI-gesteuert;;Lo(a) controla la IA;?controllato dall'IA;;;;;;;;x
 DIFFICULTY_LESS_THAN;ÄÑ¶ÈĞ¡ÓÚ ;Difficult?inférieure ?;Schwierigkeit ist niedriger als;;La dificultad es inferior a ;La difficolt??minore di ;;;;;;;;x
 DIFFICULTY_GREATER_THAN;ÄÑ¶È´óÓÚ ;Difficult?supérieure ?;Schwierigkeit ist höher als;;La dificultad es superior a ;La difficolt??maggiore di ;;;;;;;;x
 IS_NOT_PRISONER;²»ÊÇÇô·¸;Ne se trouve pas dans des geôles;Ist kein Gefangener;;No est?prisionero(a);Non ?un prigioniero;;;;;;;;x
@@ -19960,12 +19960,12 @@ IS_NOT_GENERAL;²»ÊÇ½«Áì;N'est pas général;Ist kein General;;No es general;;;;;;;
 IS_GENERAL;ÊÇ½«Áì;Est général;Ist ein General;;Es general;;;;;;;;;x
 IS_NOT_ADMIRAL;²»ÊÇº£¾ü½«Áì;N'est pas amiral;Ist kein Admiral;;No es almirante;;;;;;;;;x
 IS_ADMIRAL;ÊÇº£¾ü½«Áì;Est amiral;Ist ein Admiral;;Es almirante;;;;;;;;;x
-HAD_TITLE_LESS_THAN;Been $TITLE$ ÉÙÓÚ $DAYS$ Ìì;A port?le titre de $TITLE$ pendant moins de $DAYS$ jours;War $TITLE$ für weniger als $DAYS$ Tage;;Ha sido $TITLE$ menos de $DAYS$ días;;;;;;;;;x
-HAD_TITLE_MORE_THAN;Been $TITLE$ ¶àÓÚ $DAYS$ Ìì;A port?le titre de $TITLE$ durant plus de $DAYS$ jours;War $TITLE$ für mehr als $DAYS$ Tage;;Ha sido $TITLE$ más de $DAYS$ días;;;;;;;;;x
+HAD_TITLE_LESS_THAN;×÷Îª$TITLE$ÉÙÓÚ$DAYS$Ìì;A port?le titre de $TITLE$ pendant moins de $DAYS$ jours;War $TITLE$ für weniger als $DAYS$ Tage;;Ha sido $TITLE$ menos de $DAYS$ días;;;;;;;;;x
+HAD_TITLE_MORE_THAN;×÷Îª$TITLE$¶àÓÚ$DAYS$Ìì;A port?le titre de $TITLE$ durant plus de $DAYS$ jours;War $TITLE$ für mehr als $DAYS$ Tage;;Ha sido $TITLE$ más de $DAYS$ días;;;;;;;;;x
 DOES_NOT_HAVE_TITLE;²»ÊÇ ;N'est pas ;Ist nicht;;No es;;;;;;;;;x
 HAS_TITLE;ÊÇ ;Est ;Ist;;Es;;;;;;;;;x
-ISNT_COURTIER;²»ÊÇÊàÃÜÔº³ÉÔ±;N'est pas conseiller;Ist kein Ratsmitglied;;NO es consejero;;;;;;;;;x
-IS_COURTIER;ÊÇÊàÃÜÔº³ÉÔ±;Est conseiller;Ist Ratsmitglied;;Es consejero;;;;;;;;;x
+ISNT_COURTIER;²»ÊÇÊàÃÜ´ó³¼;N'est pas conseiller;Ist kein Ratsmitglied;;NO es consejero;;;;;;;;;x
+IS_COURTIER;ÊÇÊàÃÜ´ó³¼;Est conseiller;Ist Ratsmitglied;;Es consejero;;;;;;;;;x
 HAS_COMPLETED_OBJECTIVE;Íê³ÉÒ°ĞÄ ;A réalis?son ambition ;hat die Ambition erfüllt:;;Ha conseguido su ambición;;;;;;;;;x
 DOES_NOT_HAVE_LAW;Ã»ÓĞ·¨ÂÉ ;N'a pas la loi ;Hat nicht das Gesetz;;No tiene la Ley;;;;;;;;;x
 HAS_LAW;ÓĞ·¨ÂÉ ;Loi en vigueur? ;Hat das Gesetz;;Tiene la Ley;;;;;;;;;x
@@ -19976,7 +19976,7 @@ HAVE_MORE_REGS_THAN;Ö§³ÖÕßÊı¶àÓÚ ;A plus de troupes que ;Hat mehr Kohorten als;;
 HAVE_LESS_SHIPS_THAN;´¬Ö»ÊıÉÙÓÚ ;A moins de navires que ;Hat weniger Schiffe als;;Tiene una cantidad de barcos inferior a;;;;;;;;;x
 HAVE_MORE_SHIPS_THAN;´¬Ö»Êı¶àÓÚ ;A plus de navires que ;Hat mehr Schiffe  als;;Tiene una cantidad de barcos superior a;;;;;;;;;x
 ANY_SIBLING_STARTS;ÈÎºÎĞÖµÜ½ãÃÃ;N'importe quels frères ou soeurs;Beliebiges Geschwister;;Cualquier hermano;;;;;;;;;x
-ANY_DYNASTY_MEMBER_STARTS;ÈÎºÎÍõÊÒ³ÉÔ±;N'importe quel membre de la dynastie;Beliebiges Dynastiemitglied;;Cualquier miembro de la dinastía;;;;;;;;;x
+ANY_DYNASTY_MEMBER_STARTS;ÈÎºÎ¼Ò×å³ÉÔ±;N'importe quel membre de la dynastie;Beliebiges Dynastiemitglied;;Cualquier miembro de la dinastía;;;;;;;;;x
 ANY_INDEP_RULER_STARTS;ÈÎºÎ¶ÀÁ¢Í³ÖÎÕß;N'importe quel souverain indépendant;Beliebiger unabhängiger Herrscher;;Cualquier soberano independiente;;;;;;;;;x
 ANY_PLAYABLE_RULER_STARTS;ÈÎºÎ¿ÉÍæÍ³ÖÎÕß;N'importe quel souverain disponible;Beliebiger spielbarer Herrscher;;Cualquier soberano jugable;;;;;;;;;x
 ANY_CURRENT_ENEMY_STARTS;ÈÎºÎÕ½ÕùµĞÈË;N'importe quel ennemi;Beliebiger Kriegsgegner;;Cualquier enemigo de guerra;;;;;;;;;x
@@ -20101,8 +20101,8 @@ IS_NOT_VASSAL_OF;²»ÊÇ§Y[GetBestName]§!·â³¼;N'est pas le vassal de §Y[GetBestName
 IS_VASSAL_OF;ÊÇ §Y[GetBestName]§!µÄ·â³¼;Est le vassal de §Y[GetBestName]?;Ist Vasall von §Y[GetBestName]?;;Es vasallo de §Y[GetBestName]?;;;;;;;;;x
 ISNT_PRIMARY_TYPE_TITLE;²»ÄÜ×÷ÎªµÚ¶şÍ·ÏÎÀ´³ÖÓĞ;Ne peut faire office de second titre;Kann nicht als Sekundärtitel bekleidet werden;;No puede ser título secundario;;;;;;;;;x
 IS_PRIMARY_TYPE_TITLE;ÄÜ×÷ÎªµÚ¶şÍ·ÏÎÀ´³ÖÓĞ;Peut faire office de second titre;Kann als Sekundärtitel bekleidet werden;;Puede ser título secundario;;;;;;;;;x
-ISNT_LANDLESS_TYPE_TITLE;Ã»ÓĞÊôµØÎŞ·¨´æÔÚ;Ne peut continuer sans propriétés;Kann ohne Besitztümer nicht fortbestehen;;No puede mantenerse sin propiedades;;;;;;;;;x
-IS_LANDLESS_TYPE_TITLE;Ã»ÓĞÊôµØÈÔ¿É´æÔÚ;Peut continuer sans propriétés;Kann ohne Besitztümer fortbestehen;;Puede mantenerse sin propiedades;;;;;;;;;x
+ISNT_LANDLESS_TYPE_TITLE;Ã»ÓĞµØ²úÎŞ·¨´æÔÚ;Ne peut continuer sans propriétés;Kann ohne Besitztümer nicht fortbestehen;;No puede mantenerse sin propiedades;;;;;;;;;x
+IS_LANDLESS_TYPE_TITLE;Ã»ÓĞµØ²úÈÔ¿É´æÔÚ;Peut continuer sans propriétés;Kann ohne Besitztümer fortbestehen;;Puede mantenerse sin propiedades;;;;;;;;;x
 IS_NOT_MOTHER_OF;²»ÊÇ §Y[GetBestName]§!µÄÄ¸Ç×;N'est pas la mère de §Y[GetBestName]?;Ist NICHT Mutter von §Y[GetBestName]?;;NO es madre de §Y[GetBestName]?;;;;;;;;;x
 IS_MOTHER_OF;ÊÇ §Y[GetBestName]§!µÄÄ¸Ç×;Est la mère de §Y[GetBestName]?;Ist Mutter von §Y[GetBestName]?;;Es madre de §Y[GetBestName]?;;;;;;;;;x
 IS_NOT_FATHER_OF;²»ÊÇ §Y[GetBestName]§!µÄ¸¸Ç×;N'est pas le père de §Y[GetBestName]?;Ist NICHT Vater von §Y[GetBestName]?;;NO es padre de §Y[GetBestName]?;;;;;;;;;x
@@ -20280,8 +20280,8 @@ HAS_TRUCE_WITH;Óë§Y$OTHER$§!ÓĞĞİÕ½Ğ­Òé;A sign?une trêve avec §Y$OTHER$?;Hat Waff
 NO_TRUCE_WITH;Óë§Y$OTHER$§!Ã»ÓĞĞİÕ½Ğ­Òé;N'a pas sign?de trêve avec §Y$OTHER$?;Hat KEINEN Waffenstillstand mit §Y$OTHER$?;;NO tiene una tregua con §Y$OTHER$?;;;;;;;;;x
 #HAS_LESS_SETTLEMENTS;Less than §Y$VAL$§W holdings.\n;;Weniger als §Y$VAL$§W Geb?ude.\n;;Menos de §Y$VAL$§W propiedades.\n;;;;;;;;;x;
 #HAS_LEAST_SETTLEMENTS;At least §Y$VAL$§W holdings.\n;;Mindestens §Y$VAL$§W Geb?ude.\n;;§Y$VAL$§W propiedades como m¨ªnimo.\n;;;;;;;;;x;
-HAS_EMPTY_SETTLEMENTSLOT;ÓĞĞÂÁìµØ¿ÕÎ».\n;Peut accueillir une nouvelle propriét?\n;Hat Platz für neues Besitztum.\n;;Tiene sitio para una nueva propiedad.\n;;;;;;;;;x
-HAS_NOT_EMPTY_SETTLEMENTSLOT;Ã»ÓĞĞÂÁìµØ¿ÕÎ».\n;Ne peut pas accueillir de nouvelle propriét?\n;Hat KEINEN Platz für neues Besitztum.\n;;NO tiene sitio para una nueva propiedad.\n;;;;;;;;;x
+HAS_EMPTY_SETTLEMENTSLOT;ÓĞĞÂµØ²úµÄ¿ÕÎ».\n;Peut accueillir une nouvelle propriét?\n;Hat Platz für neues Besitztum.\n;;Tiene sitio para una nueva propiedad.\n;;;;;;;;;x
+HAS_NOT_EMPTY_SETTLEMENTSLOT;Ã»ÓĞĞÂµØ²úµÄ¿ÕÎ».\n;Ne peut pas accueillir de nouvelle propriét?\n;Hat KEINEN Platz für neues Besitztum.\n;;NO tiene sitio para una nueva propiedad.\n;;;;;;;;;x
 ######################################################################;;;;;;;;;;;;;;x;
 ##### Tutorial ;;;;;;;;;;;;;;x;
 ######################################################################;;;;;;;;;;;;;;x;
@@ -20432,7 +20432,7 @@ tut_3b_5;ÄĞÅ®¹«Æ½¼Ì³Ğ·¨.Å®ĞÔºÍÄĞĞÔÓµÓĞÏàÍ¬µÄ¼Ì³ĞÈ¨;Véritable succession cognatiq
 tut_3b_6;³¤×Ó¼Ì³Ğ·¨.ÓÉÏÖÈÎ¾ıÖ÷µÄ×îÄê³¤µÄ¶ù×Ó¼Ì³Ğ.;Primogéniture agnatique. Le fils aîn?du souverain hérite de la totalit?des titres de son père.;Agnatisches Ältestenrecht: Das älteste männliche Kind des Herrschers erbt nach dessen Tod sämtliche Titel.;;Primogenitura agnática. Esta ley permite al primer hijo varón del soberano heredar todos sus títulos a su muerte.;;;;;;;;;x
 tut_3b_7;ÄĞĞÔÓÅÏÈ¼Ì³Ğ·¨.Ö»ÓĞµ±Ã»ÓĞ¿ÉÑ¡µÄÄĞĞÔ¼Ì³ĞÕßÊ±£¬Å®ĞÔ²ÅÓĞ¼Ì³ĞÈ¨.;Succession cognatique. Les femmes peuvent hériter, mais seulement en l'absence d'hommes éligibles.;Agnatisch-kognatisch: Frauen können ebenfalls erben, aber nur dann, wenn es keine erbberechtigten Männer gibt.;;Agnación-cognación. Si aplicas esta ley, las mujeres también podrán heredar, pero solo cuando no haya varones como candidatos.;;;;;;;;;x
 tut_3b_8;·Ö·â¼Ì³Ğ·¨.×îÖØÒªµÄÍ·ÏÎÓÉ³¤×Ó¼Ì³Ğ£¬È»ºóÆäÓàÍ·ÏÎÓÉÆäËûº¢×Ó·Ö±ğ¼Ì³Ğ.;Partage salique? Les titres sont répartis entre tous les enfants du souverain, l'aîn?recevant le titre principal.;Gavelkind: Dieses Gesetz spricht dem ältesten männlichen Kind den wichtigsten Titel zu und verteilt die restlichen Titel auf die anderen Kinder.;;Partes iguales. Esta ley otorga el título principal al primer hijo varón y, a continuación, divide el resto de los títulos entre los demás hijos.;;;;;;;;;x
-tut_3b_9;Äê³¤Õß¼Ì³Ğ·¨.ÓÉÕû¸öÍõÊÒ×ÊÀú×îÀÏµÄ³ÉÔ±¼Ì³ĞËùÓĞ³ÆºÅ.;Anciennet? L'aîn?de la dynastie hérite de la totalit?des titres du souverain. ;Alter: Das älteste Mitglied der gesamten Dynastie erbt alle Titel.;;Veteranía. El miembro más antiguo de la dinastía hereda todos los títulos.;;;;;;;;;x
+tut_3b_9;Äê³¤Õß¼Ì³Ğ·¨.ÓÉÕû¸ö¼Ò×å×ÊÀú×îÀÏµÄ³ÉÔ±¼Ì³ĞËùÓĞ³ÆºÅ.;Anciennet? L'aîn?de la dynastie hérite de la totalit?des titres du souverain. ;Alter: Das älteste Mitglied der gesamten Dynastie erbt alle Titel.;;Veteranía. El miembro más antiguo de la dinastía hereda todos los títulos.;;;;;;;;;x
 tut_3b_10;Ñ¡¾Ù¼Ì³Ğ·¨.ÓÉÍ³ÖÎÕßºÍËûµÄ·â³¼¸÷ÌáÃûÒ»Ãû¼ÌÈÎÕß.;Succession élective. Le souverain et ses vassaux directs nomment un successeur dans leurs rangs. ;Feudalwahl: Herrscher und Vasallen können jeweils einen Nachfolger nominieren.;;Elección. El soberano y sus vasallos directos pueden nominar un sucesor cada uno.;;;;;;;;;x
 ######################################################################;;;;;;;;;;;;;;x;
 ##### Succession - Advanced;;;;;;;;;;;;;;x;
@@ -20775,7 +20775,7 @@ COMBATVALUE_ATTVAL;¹¥»÷Öµ: §Y$S_VAL$§W/§Y$M_VAL$§W/§Y$P_VAL$§W;Valeurs d'attaque
 COMBATVALUE_DEFVAL;·ÀÓùÖµ: §Y$S_VAL$§W/§Y$M_VAL$§W/§Y$P_VAL$§W;Valeurs de défense? §Y$S_VAL$§W/§Y$M_VAL$§W/§Y$P_VAL$§W;Verteidigungswerte: §Y$S_VAL$§W/§Y$M_VAL$§W/§Y$P_VAL$§W;;Valores de defensa: §Y$S_VAL$§W/§Y$M_VAL$§W/§Y$P_VAL$§W;;;;;;;;;x
 COMBATVALUE_MODIFIER;ĞŞÕı:;Effets? ;Modifikatoren:;;Modificadores:;;;;;;;;;x
 COMBATVALUE_MOD_PROV;À´×ÔÊ¡·İ:;Depuis la province:;Von Provinz:;;De la provincia:;;;;;;;;;x
-COMBATVALUE_MOD_SETT;À´×Ô±£ÓĞµØ:;Depuis la propriét?;Von Besitztum:;;De la propiedad:;;;;;;;;;x
+COMBATVALUE_MOD_SETT;À´×ÔµØ²ú:;Depuis la propriét?;Von Besitztum:;;De la propiedad:;;;;;;;;;x
 COMBATVALUE_MOD_CAPI;À´×ÔÊ×¶¼:;Depuis la capitale:;Von Hauptstadt:;;De la capital:;;;;;;;;;x
 LEVY_UNDER_THRESHOLD;Ë°¶î±ØĞë´óÓÚ $PERC$% ²ÅÄÜÕ÷ÊÕ;La force des troupes doit être d'au moins $PERC$% pour être levées;Wehrpflichtige müssen mindestens $PERC$% Stärke haben, bevor sie ausgehoben werden können;;La leva debe tener al menos un $PERC$% de su fuerza para poder reclutarla.;;;;;;;;;x
 LEVY_OTHER_OCCUPIED;µ±§Y$SETTLEMENT$§R±»Õ¼ÁìÊ±, ÎÒÃÇÎŞ·¨¶ÔÆäÕ÷Ë°;Nous ne pouvons pas lever nos troupes pendant l'occupation de §Y$SETTLEMENT$§R;Während der Besetzung von §Y$SETTLEMENT$§R können wir unsere Wehrpflichtigen nicht ausheben;;No podemos reclutar nuestra leva mientras §Y$SETTLEMENT$§R est?ocupado.;;;;;;;;;x
