@@ -1,5 +1,5 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
-HOLDINGS_DEC_LOSS;占有度: ;Propri閠閟? ;Besitzt黰er: ;;Posesiones: ;;;;;;;;;x
+HOLDINGS_DEC_LOSS;地产: ;Propri閠閟? ;Besitzt黰er: ;;Posesiones: ;;;;;;;;;x
 TOTAL_DEC_DELTA;总体腐化度: ;Contribution totale ?la D閏adence? ;Gesamtbeitrag zur Dekadenz: ;;Contribuci髇 a la Decadencia Total: ;;;;;;;;;x
 HAS_A_JOB_DEC;接受一个任务: ;Poss鑔e une charge;Hat ein Amt: ;;Tiene un Trabajo: ;;;;;;;;;x
 ON_JOB_DEC;正在执行任务中: ;Est en mission? ;f黨rt eine Amtsaufgabe aus: ;;Est?en una Misi髇: ;;;;;;;;;x
@@ -42,7 +42,7 @@ ca_culture_west_african_4;巨型兵营;Hutte de guerriers libres;Kriegerh黷te;;Campa
 CB_NAME_INVASION;入侵 [Title.GetBaseName];Invasion de [Title.GetBaseName];Invasion von [Title.GetBaseName];;Invasi髇 de [Title.GetBaseName];;;;;;;;;x
 WAR_NAME_INVASION;$ORDER$$FIRST_ADJ$ 入侵 $OTHER_TITLE$;$ORDER$Invasion $FIRST_ADJ$ de $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ Invasion von $OTHER_TITLE$;;Invasi髇 de $OTHER_TITLE$;;;;;;;;;x
 WAR_NAME_DEC_INVASION;$FIRST_ADJ$ 入侵 $SECOND$;Invasion $FIRST_ADJ$ de $SECOND$;$FIRST_ADJ$ Invasion von $SECOND$;;Invasi髇 $FIRST_ADJ$ de $SECOND$;;;;;;;;;x
-GAIN_SETTLEMENT_UNDER_TITLE_EFFECT;占有 $REGION$ 境内 $GIVER$ 所拥有的领土;Obtenir toutes les propri閠閟 poss閐閑s par $GIVER$ en $REGION$;Erhalte alle Besitzt黰er von $GIVER$ in $REGION$;;Gana todas las posesiones de $GIVER$ en $REGION$;;;;;;;;;x
+GAIN_SETTLEMENT_UNDER_TITLE_EFFECT;占有 $REGION$ 境内 $GIVER$ 所拥有的地产;Obtenir toutes les propri閠閟 poss閐閑s par $GIVER$ en $REGION$;Erhalte alle Besitzt黰er von $GIVER$ in $REGION$;;Gana todas las posesiones de $GIVER$ en $REGION$;;;;;;;;;x
 VASSALIZE_OR_TAKE_UNDER_TITLE_EFFECT;附庸或者占有 $REGION$ 境内 $GIVER$ 所拥有的领土;Vassaliser ou prendre toutes les possessions de $GIVER$ en $REGION$;Vasallisiere oder erhalte alle Besitzt黰er von $GIVER$ in $REGION$;;Haz vasallas o toma todas las posesiones de $GIVER$ en $REGION$;;;;;;;;;x
 OFFER_PEACE_INTERACTION_DEMAND;这些是你的投降条款:;Voici les termes de votre reddition? ;Dies sind die Bedingungen f黵 eure Kapitulation;;Estas son las condiciones de tu rendici髇:;;;;;;;;;x
 OFFER_PEACE_INTERACTION_WHITE;在这些前提下，我们提出无条件和平:;Nous proposons une paix blanche selon ces termes? ;Wir schlagen einen Wei遝n Frieden unter diesen Bedingungen vor:;;Proponemos una paz blanca bajo estas condiciones:;;;;;;;;;x
