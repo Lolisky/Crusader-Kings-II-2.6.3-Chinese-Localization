@@ -247,7 +247,7 @@ central_germanic = {
 		}
 
 		from_dynasty_prefix = "德 "
-		grammar_transform = french
+		# grammar_transform = french
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 25
@@ -612,7 +612,7 @@ latin = {
 			斯蒂芬妮_斯蒂芬妮 西比尔_西比拉 蒂博尔格_蒂博尔格 瓦伦丝_尤兰妲 约兰德_尤兰妲  
 		}
 		from_dynasty_prefix = "德 "
-		grammar_transform = french
+		# grammar_transform = french
 
 		modifier = default_culture_modifier
 
@@ -649,7 +649,7 @@ latin = {
 			萝莎琳德 塞萝瓦 斯蒂芬妮_斯蒂芬妮 西比尔_西比拉 西比拉_西比拉 乌姆芙蕾妲 瓦尔德拉德 薇尔莫特 尤兰妲_尤兰妲 伊冯_伊温妮
 		}
 		from_dynasty_prefix = "德 "
-		grammar_transform = french
+		# grammar_transform = french
 		
 		bastard_dynasty_prefix = "菲兹"
 		
@@ -742,7 +742,7 @@ latin = {
 			佩德萝妮哈_佩德萝妮拉 普埃蕾 蕾森妲 拉蒙妲 丽琴达_莉卡妲 萝塞拉 萝莎 桑查_桑查 特蕾莎_特蕾莎 蒂博尔格_蒂博尔格 薇劳妮卡 芙兰特_尤兰妲
 		}
 		from_dynasty_prefix = "德 "
-		grammar_transform = french
+		# grammar_transform = french
 		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 30
@@ -826,7 +826,7 @@ iberian = {
 		
 		male_patronym = "艾斯"
 		female_patronym = "艾斯"
-		grammar_transform = spanish
+		# grammar_transform = spanish
 
 		pat_grf_name_chance = 80
 		mat_grf_name_chance = 5
@@ -858,7 +858,7 @@ iberian = {
 		
 		male_patronym = "艾斯"
 		female_patronym = "艾斯"
-		grammar_transform = spanish
+		# grammar_transform = spanish
 
 		pat_grf_name_chance = 45
 		mat_grf_name_chance = 15
@@ -887,7 +887,7 @@ iberian = {
 			珊莎_珊莎 西比拉_西比拉 特蕾莎_特蕾莎 陶达_陶达 沃兰特_约兰达
         }
 		from_dynasty_prefix = "德 "
-		grammar_transform = french
+		# grammar_transform = french
 
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 10
@@ -918,7 +918,7 @@ iberian = {
 		from_dynasty_prefix = "德 "
 		male_patronym = "伊斯"
 		female_patronym = "伊斯"
-		grammar_transform = spanish
+		# grammar_transform = spanish
 
 		modifier = default_culture_modifier
 
@@ -954,7 +954,7 @@ iberian = {
 #			Nadira Neyla Nur Tarifa Ya?mina
 		}
 		from_dynasty_prefix = "德 "
-		grammar_transform = french
+		# grammar_transform = french
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
@@ -1395,7 +1395,7 @@ finno_ugric = {
 			泰米 特希 迪第 图加 托维 图里 图里吉 特内 特尼 瓦那莫 温拉 米里基 赫塔 洛维萨 因科里 艾玛塔 伊蕾妮_伊蕾妮 依洛娜_海伦 克里斯丁娜_克里斯丁娜
 			伊丽莎白_伊丽莎白 索维_索菲亚 安妮_艾格尼丝 列科_海伦 基乌塔尔 雷米基 鲁里基 萨梅 塔维基 图里塔尔
 		}
-		from_dynasty_prefix = "洛"
+		from_dynasty_prefix = "洛 "
 
 		modifier = default_culture_modifier
 	}
@@ -1413,7 +1413,7 @@ finno_ugric = {
 			艾德娜 阿尔根 阿莱特 尤维杰 比艾拉 比尔伽 布奥达 多佳 歌阿拉 吉厄拉 吉斯特 朱可萨塔 雷度 麦德娜 纳斯提 娜娜 贾维斯 奥佳 萨拉卡 瑟埃加 
 			瑟拉 索巴 索佳 索因娜 索佳尔 乌科萨塔
 		}
-		from_dynasty_prefix = "巴"
+		from_dynasty_prefix = "巴 "
 
 		modifier = default_culture_modifier
 	}
@@ -1572,7 +1572,7 @@ baltic = {
 			阿尔朵拉 阿妮丽 奥蒂拉 奥丝拉 比露特 丹尼拉 达努蒂 爱瓦尔达 高蒂蒙达 吉艾德蕾 金塔蕾 杰芙娜 肯娜 莱玛 米科娃 萝婕 莱姆佳吉拉 莎乌蕾 斯瓦乔妮 薇达 
 		}
 		
-		from_dynasty_prefix = "伊思"
+		from_dynasty_prefix = "伊思 "
 
 		modifier = default_culture_modifier
 	}
@@ -1589,7 +1589,7 @@ baltic = {
 			贝藤 达佳斯 格伦尼斯 格尔库斯 格拉苏斯 古比斯 米拉 米玉斯 维斯里康 兹达斯
 		}
 		
-		from_dynasty_prefix = "伊思"
+		from_dynasty_prefix = "伊思 "
 
 		modifier = default_culture_modifier
 	}
@@ -2090,7 +2090,7 @@ east_slavic = {
 			普里比斯拉娃 罗格涅达 罗斯提斯拉娃 索菲亚_索菲亚 斯维亚托斯拉娃 塔季扬娜 乌莉塔 乌里扬娜 瓦尔瓦拉 瓦西里莎
 			弗谢斯拉娃 维亚切斯拉娃 雅罗斯拉娃 萨巴娃 薇妮斯拉娃
 		}
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = " "
 		
 		male_patronym = "耶维奇"
 		female_patronym = "罗夫娜"
@@ -2125,7 +2125,7 @@ east_slavic = {
 			普米斯拉娃 普里比斯拉娃 罗格涅达 罗斯季斯拉娃 塞比斯拉娃 斯维亚托斯拉娃 塔季扬娜 乌利塔 尤金娜 瓦尔瓦拉 瓦西里萨 瓦莱斯拉娃 维克斯拉娃
 			塞思拉娃 维尔彻斯拉娃 雅罗斯拉娃 扎巴瓦 伊温妮斯拉瓦
 		}
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = " "
 		
 		male_patronym = "耶维奇"
 		female_patronym = "罗夫娜"
@@ -2160,7 +2160,7 @@ east_slavic = {
 			普米斯拉娃 普里比斯拉娃 罗格涅达 罗斯季斯拉娃 塞比斯拉娃 斯维亚托斯拉娃 塔季扬娜 乌利塔 尤金娜 瓦尔瓦拉 瓦西里萨 瓦莱斯拉娃 维克斯拉娃
 			塞思拉娃 维尔彻斯拉娃 雅罗斯拉娃 扎巴瓦 伊温妮斯拉瓦
 		}
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = " "
 		
 		male_patronym = "耶维奇"
 		female_patronym = "罗夫娜"
@@ -2195,7 +2195,7 @@ east_slavic = {
 			普米斯拉娃 普里比斯拉娃 罗格涅达 罗斯季斯拉娃 塞比斯拉娃 斯维亚托斯拉娃 塔季扬娜 乌利塔 尤金娜 瓦尔瓦拉 瓦西里萨 瓦莱斯拉娃 维克斯拉娃
 			塞思拉娃 维尔彻斯拉娃 雅罗斯拉娃 扎巴瓦 伊温妮斯拉瓦
 		}
-		from_dynasty_prefix = ""
+		from_dynasty_prefix = " "
 		
 		male_patronym = "耶维奇"
 		female_patronym = "罗夫娜"
